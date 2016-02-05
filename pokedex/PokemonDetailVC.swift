@@ -25,15 +25,19 @@ class PokemonDetailVC: UIViewController {
     @IBOutlet weak var evoLabel: NSLayoutConstraint!
     
     
-
-    
-    
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        nameLabel.text = pokemon.name
+        nameLabel.text = pokemon.name.capitalizedString
+        
+        mainImg.image = UIImage(named: "\(pokemon.pokedexId)")
+        
+        pokemon.downloadPokemonDetails { () -> () in
+            // this gets called after download is done.
+            
+            
+            
+        }
 
         // Do any additional setup after loading the view.
     }

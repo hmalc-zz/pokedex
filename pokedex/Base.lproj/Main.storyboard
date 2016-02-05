@@ -9,7 +9,6 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="pokedex" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
@@ -31,8 +30,8 @@
                                             <constraint firstAttribute="height" constant="39" id="UW3-Qq-4SI"/>
                                             <constraint firstAttribute="width" constant="178" id="xPM-CI-Bfa"/>
                                         </constraints>
-                                        <fontDescription key="fontDescription" type="system" weight="ultraLight" pointSize="26"/>
-                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                        <fontDescription key="fontDescription" type="system" weight="thin" pointSize="26"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GHN-Tt-DkJ">
@@ -47,7 +46,7 @@
                                         </connections>
                                     </button>
                                 </subviews>
-                                <color key="backgroundColor" red="1" green="0.46147564460000001" blue="0.4856706663" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="trailing" secondItem="GHN-Tt-DkJ" secondAttribute="trailing" constant="-2" id="0gJ-rP-q1C"/>
                                     <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="55" id="8RH-Wo-b09"/>
@@ -79,7 +78,7 @@
                                                 </imageView>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="s9Z-5B-2K1">
                                                     <rect key="frame" x="0.0" y="89" width="110" height="21"/>
-                                                    <color key="backgroundColor" red="1" green="0.46147564460000001" blue="0.4856706663" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="0.89835668103448274" colorSpace="calibratedRGB"/>
                                                     <constraints>
                                                         <constraint firstAttribute="height" constant="21" id="Yx2-rS-xe9"/>
                                                     </constraints>
@@ -107,11 +106,11 @@
                                     </collectionViewCell>
                                 </cells>
                             </collectionView>
-                            <searchBar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="redraw" placeholder="Search For Pokemon" backgroundImage="Screen Shot 2016-02-04 at 3.29.06 PM" translatesAutoresizingMaskIntoConstraints="NO" id="vMT-dB-Xdp">
+                            <searchBar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="redraw" placeholder="Search For Pokemon" backgroundImage="Screen Shot 2016-02-04 at 6.57.29 PM" translatesAutoresizingMaskIntoConstraints="NO" id="vMT-dB-Xdp">
                                 <rect key="frame" x="0.0" y="54" width="600" height="44"/>
                                 <color key="backgroundColor" red="1" green="0.46147564460000001" blue="0.4856706663" alpha="1" colorSpace="calibratedRGB"/>
                                 <color key="tintColor" red="1" green="0.46147564460000001" blue="0.4856706663" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="barTintColor" red="1" green="0.45882352941176469" blue="0.48627450980392156" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="barTintColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <textInputTraits key="textInputTraits"/>
                             </searchBar>
                         </subviews>
@@ -139,6 +138,7 @@
                         <segue destination="HOP-Jb-BQg" kind="show" identifier="PokemonDetailVC" id="LKY-fb-cGf"/>
                     </connections>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="139" y="369"/>
         </scene>
@@ -410,7 +410,7 @@
         <image name="297" width="120" height="120"/>
         <image name="332" width="120" height="120"/>
         <image name="718" width="128" height="140"/>
-        <image name="Screen Shot 2016-02-04 at 3.29.06 PM" width="250" height="180"/>
+        <image name="Screen Shot 2016-02-04 at 6.57.29 PM" width="20" height="20"/>
         <image name="back" width="128" height="128"/>
         <image name="bg" width="1920" height="1200"/>
         <image name="musicBtn" width="256" height="256"/>
