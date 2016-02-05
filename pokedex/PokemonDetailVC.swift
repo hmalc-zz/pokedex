@@ -11,8 +11,7 @@ import UIKit
 class PokemonDetailVC: UIViewController {
 
 
-    
-    @IBOutlet weak var nameLabel: UILabel!
+
     @IBOutlet weak var mainImg: UIImageView!
     @IBOutlet weak var nameLbl: UILabel!
     @IBOutlet weak var descriptionLbl: UILabel!
@@ -31,8 +30,6 @@ class PokemonDetailVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        nameLabel.text = pokemon.name.capitalizedString
-        
         let img = UIImage(named: "\(pokemon.pokedexId)")
         
         mainImg.image = img
@@ -48,11 +45,11 @@ class PokemonDetailVC: UIViewController {
 
     func updateUI() {
         nameLbl.text = pokemon.name.capitalizedString
-        descriptionLbl.text = pokemon.description
+        descriptionLbl.text = pokemon.description.stringByReplacingOccurrencesOfString("POKMON", withString: "Pokémon")
         typeLbl.text = pokemon.type
         defenseLbl.text = pokemon.defense
         heightLbl.text = "\(pokemon.height) ft"
-        pokedexLbl.text = "\(pokemon.pokedexId)"
+        pokedexLbl.text = "#\(pokemon.pokedexId)"
         weightLbl.text = "\(pokemon.weight) lbs"
         attackLbl.text = pokemon.attack
         
@@ -65,7 +62,7 @@ class PokemonDetailVC: UIViewController {
             var str = "Next Evolution: \(pokemon.nextEvolutionText)"
             
             if pokemon.nextEvolutionLevel != "" {
-                str += " - LVL \(pokemon.nextEvolutionLevel)"
+                str += " at Lv. \(pokemon.nextEvolutionLevel)"
             }
             evoLbl.text = str
         }
