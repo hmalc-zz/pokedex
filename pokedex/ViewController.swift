@@ -99,7 +99,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         var poke: Pokemon!
         
         if inSearchMode {
-           var poke = filteredPokemon[indexPath.row]
+           poke = filteredPokemon[indexPath.row]
         } else {
             poke = pokemon[indexPath.row]
         }
