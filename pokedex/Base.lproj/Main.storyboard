@@ -106,7 +106,7 @@
                                     </collectionViewCell>
                                 </cells>
                             </collectionView>
-                            <searchBar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="redraw" placeholder="Search For Pokemon" backgroundImage="Screen Shot 2016-02-04 at 6.57.29 PM" translatesAutoresizingMaskIntoConstraints="NO" id="vMT-dB-Xdp">
+                            <searchBar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="redraw" placeholder="Search For Pokemon" backgroundImage="red" translatesAutoresizingMaskIntoConstraints="NO" id="vMT-dB-Xdp">
                                 <rect key="frame" x="0.0" y="54" width="600" height="44"/>
                                 <color key="backgroundColor" red="1" green="0.46147564460000001" blue="0.4856706663" alpha="1" colorSpace="calibratedRGB"/>
                                 <color key="tintColor" red="1" green="0.46147564460000001" blue="0.4856706663" alpha="1" colorSpace="calibratedRGB"/>
@@ -411,9 +411,9 @@
         <image name="1" width="120" height="120"/>
         <image name="25" width="120" height="120"/>
         <image name="297" width="120" height="120"/>
-        <image name="Screen Shot 2016-02-04 at 6.57.29 PM" width="20" height="20"/>
         <image name="back" width="128" height="128"/>
         <image name="bg" width="1920" height="1200"/>
-        <image name="musicBtn" width="256" height="256"/>
+        <image name="musicBtn" width="512" height="512"/>
+        <image name="red" width="20" height="20"/>
     </resources>
 </document>
