@@ -1,0 +1,332 @@
+pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
+450,hippowdon,8,28,Sand Attack,1,1,5
+450,hippowdon,8,33,Tackle,1,1,4
+450,hippowdon,8,36,Take Down,1,19,
+450,hippowdon,8,38,Double-Edge,1,50,
+450,hippowdon,8,44,Bite,1,1,6
+450,hippowdon,8,44,Bite,1,7,
+450,hippowdon,8,46,Roar,4,0,
+450,hippowdon,8,63,Hyper Beam,4,0,
+450,hippowdon,8,70,Strength,4,0,
+450,hippowdon,8,89,Earthquake,1,40,
+450,hippowdon,8,89,Earthquake,4,0,
+450,hippowdon,8,90,Fissure,1,60,
+450,hippowdon,8,92,Toxic,4,0,
+450,hippowdon,8,104,Double Team,4,0,
+450,hippowdon,8,156,Rest,4,0,
+450,hippowdon,8,157,Rock Slide,4,0,
+450,hippowdon,8,164,Substitute,4,0,
+450,hippowdon,8,182,Protect,4,0,
+450,hippowdon,8,201,Sandstorm,4,0,
+450,hippowdon,8,203,Endure,4,0,
+450,hippowdon,8,207,Swagger,4,0,
+450,hippowdon,8,213,Attract,4,0,
+450,hippowdon,8,214,Sleep Talk,4,0,
+450,hippowdon,8,216,Return,4,0,
+450,hippowdon,8,218,Frustration,4,0,
+450,hippowdon,8,231,Iron Tail,4,0,
+450,hippowdon,8,237,Hidden Power,4,0,
+450,hippowdon,8,241,Sunny Day,4,0,
+450,hippowdon,8,242,Crunch,1,31,
+450,hippowdon,8,249,Rock Smash,4,0,
+450,hippowdon,8,263,Facade,4,0,
+450,hippowdon,8,281,Yawn,1,1,7
+450,hippowdon,8,281,Yawn,1,13,
+450,hippowdon,8,290,Secret Power,4,0,
+450,hippowdon,8,317,Rock Tomb,4,0,
+450,hippowdon,8,328,Sand Tomb,1,25,
+450,hippowdon,8,352,Water Pulse,4,0,
+450,hippowdon,8,363,Natural Gift,4,0,
+450,hippowdon,8,416,Giga Impact,4,0,
+450,hippowdon,8,422,Thunder Fang,1,1,3
+450,hippowdon,8,423,Ice Fang,1,1,1
+450,hippowdon,8,424,Fire Fang,1,1,2
+450,hippowdon,8,444,Stone Edge,4,0,
+450,hippowdon,8,445,Captivate,4,0,
+450,hippowdon,8,446,Stealth Rock,4,0,
+450,hippowdon,9,28,Sand Attack,1,1,5
+450,hippowdon,9,33,Tackle,1,1,4
+450,hippowdon,9,36,Take Down,1,19,
+450,hippowdon,9,38,Double-Edge,1,50,
+450,hippowdon,9,44,Bite,1,1,6
+450,hippowdon,9,44,Bite,1,7,
+450,hippowdon,9,46,Roar,4,0,
+450,hippowdon,9,63,Hyper Beam,4,0,
+450,hippowdon,9,70,Strength,4,0,
+450,hippowdon,9,89,Earthquake,1,40,
+450,hippowdon,9,89,Earthquake,4,0,
+450,hippowdon,9,90,Fissure,1,60,
+450,hippowdon,9,92,Toxic,4,0,
+450,hippowdon,9,104,Double Team,4,0,
+450,hippowdon,9,156,Rest,4,0,
+450,hippowdon,9,157,Rock Slide,4,0,
+450,hippowdon,9,164,Substitute,4,0,
+450,hippowdon,9,173,Snore,3,0,
+450,hippowdon,9,182,Protect,4,0,
+450,hippowdon,9,189,Mud-Slap,3,0,
+450,hippowdon,9,201,Sandstorm,4,0,
+450,hippowdon,9,203,Endure,4,0,
+450,hippowdon,9,207,Swagger,4,0,
+450,hippowdon,9,213,Attract,4,0,
+450,hippowdon,9,214,Sleep Talk,4,0,
+450,hippowdon,9,216,Return,4,0,
+450,hippowdon,9,218,Frustration,4,0,
+450,hippowdon,9,231,Iron Tail,4,0,
+450,hippowdon,9,237,Hidden Power,4,0,
+450,hippowdon,9,241,Sunny Day,4,0,
+450,hippowdon,9,242,Crunch,1,31,
+450,hippowdon,9,249,Rock Smash,4,0,
+450,hippowdon,9,263,Facade,4,0,
+450,hippowdon,9,276,Superpower,3,0,
+450,hippowdon,9,281,Yawn,1,1,7
+450,hippowdon,9,281,Yawn,1,13,
+450,hippowdon,9,290,Secret Power,4,0,
+450,hippowdon,9,317,Rock Tomb,4,0,
+450,hippowdon,9,328,Sand Tomb,1,25,
+450,hippowdon,9,352,Water Pulse,4,0,
+450,hippowdon,9,363,Natural Gift,4,0,
+450,hippowdon,9,414,Earth Power,3,0,
+450,hippowdon,9,416,Giga Impact,4,0,
+450,hippowdon,9,422,Thunder Fang,1,1,3
+450,hippowdon,9,423,Ice Fang,1,1,1
+450,hippowdon,9,424,Fire Fang,1,1,2
+450,hippowdon,9,442,Iron Head,3,0,
+450,hippowdon,9,444,Stone Edge,4,0,
+450,hippowdon,9,445,Captivate,4,0,
+450,hippowdon,9,446,Stealth Rock,4,0,
+450,hippowdon,10,28,Sand Attack,1,1,5
+450,hippowdon,10,29,Headbutt,3,0,
+450,hippowdon,10,33,Tackle,1,1,4
+450,hippowdon,10,36,Take Down,1,19,1
+450,hippowdon,10,38,Double-Edge,1,50,
+450,hippowdon,10,44,Bite,1,1,6
+450,hippowdon,10,44,Bite,1,7,
+450,hippowdon,10,46,Roar,4,0,
+450,hippowdon,10,63,Hyper Beam,4,0,
+450,hippowdon,10,70,Strength,4,0,
+450,hippowdon,10,89,Earthquake,1,40,
+450,hippowdon,10,89,Earthquake,4,0,
+450,hippowdon,10,90,Fissure,1,60,
+450,hippowdon,10,91,Dig,1,19,2
+450,hippowdon,10,91,Dig,4,0,
+450,hippowdon,10,92,Toxic,4,0,
+450,hippowdon,10,104,Double Team,4,0,
+450,hippowdon,10,156,Rest,4,0,
+450,hippowdon,10,157,Rock Slide,4,0,
+450,hippowdon,10,164,Substitute,4,0,
+450,hippowdon,10,173,Snore,3,0,
+450,hippowdon,10,182,Protect,4,0,
+450,hippowdon,10,189,Mud-Slap,3,0,
+450,hippowdon,10,201,Sandstorm,4,0,
+450,hippowdon,10,203,Endure,4,0,
+450,hippowdon,10,207,Swagger,4,0,
+450,hippowdon,10,213,Attract,4,0,
+450,hippowdon,10,214,Sleep Talk,4,0,
+450,hippowdon,10,216,Return,4,0,
+450,hippowdon,10,218,Frustration,4,0,
+450,hippowdon,10,231,Iron Tail,4,0,
+450,hippowdon,10,237,Hidden Power,4,0,
+450,hippowdon,10,241,Sunny Day,4,0,
+450,hippowdon,10,242,Crunch,1,31,
+450,hippowdon,10,249,Rock Smash,4,0,
+450,hippowdon,10,263,Facade,4,0,
+450,hippowdon,10,276,Superpower,3,0,
+450,hippowdon,10,281,Yawn,1,1,7
+450,hippowdon,10,281,Yawn,1,13,
+450,hippowdon,10,290,Secret Power,4,0,
+450,hippowdon,10,317,Rock Tomb,4,0,
+450,hippowdon,10,328,Sand Tomb,1,25,
+450,hippowdon,10,352,Water Pulse,4,0,
+450,hippowdon,10,363,Natural Gift,4,0,
+450,hippowdon,10,414,Earth Power,3,0,
+450,hippowdon,10,416,Giga Impact,4,0,
+450,hippowdon,10,422,Thunder Fang,1,1,3
+450,hippowdon,10,423,Ice Fang,1,1,1
+450,hippowdon,10,424,Fire Fang,1,1,2
+450,hippowdon,10,442,Iron Head,3,0,
+450,hippowdon,10,444,Stone Edge,4,0,
+450,hippowdon,10,445,Captivate,4,0,
+450,hippowdon,10,446,Stealth Rock,4,0,
+450,hippowdon,11,28,Sand Attack,1,1,5
+450,hippowdon,11,33,Tackle,1,1,4
+450,hippowdon,11,36,Take Down,1,19,1
+450,hippowdon,11,38,Double-Edge,1,50,
+450,hippowdon,11,44,Bite,1,1,6
+450,hippowdon,11,44,Bite,1,7,
+450,hippowdon,11,46,Roar,4,0,
+450,hippowdon,11,63,Hyper Beam,4,0,
+450,hippowdon,11,70,Strength,4,0,
+450,hippowdon,11,89,Earthquake,1,40,
+450,hippowdon,11,89,Earthquake,4,0,
+450,hippowdon,11,90,Fissure,1,60,
+450,hippowdon,11,91,Dig,1,19,2
+450,hippowdon,11,91,Dig,4,0,
+450,hippowdon,11,92,Toxic,4,0,
+450,hippowdon,11,104,Double Team,4,0,
+450,hippowdon,11,156,Rest,4,0,
+450,hippowdon,11,157,Rock Slide,4,0,
+450,hippowdon,11,164,Substitute,4,0,
+450,hippowdon,11,182,Protect,4,0,
+450,hippowdon,11,201,Sandstorm,4,0,
+450,hippowdon,11,207,Swagger,4,0,
+450,hippowdon,11,213,Attract,4,0,
+450,hippowdon,11,216,Return,4,0,
+450,hippowdon,11,218,Frustration,4,0,
+450,hippowdon,11,237,Hidden Power,4,0,
+450,hippowdon,11,241,Sunny Day,4,0,
+450,hippowdon,11,242,Crunch,1,31,
+450,hippowdon,11,249,Rock Smash,4,0,
+450,hippowdon,11,263,Facade,4,0,
+450,hippowdon,11,281,Yawn,1,1,7
+450,hippowdon,11,281,Yawn,1,13,
+450,hippowdon,11,317,Rock Tomb,4,0,
+450,hippowdon,11,328,Sand Tomb,1,25,
+450,hippowdon,11,416,Giga Impact,4,0,
+450,hippowdon,11,422,Thunder Fang,1,1,3
+450,hippowdon,11,423,Ice Fang,1,1,1
+450,hippowdon,11,424,Fire Fang,1,1,2
+450,hippowdon,11,444,Stone Edge,4,0,
+450,hippowdon,11,496,Round,4,0,
+450,hippowdon,11,523,Bulldoze,4,0,
+450,hippowdon,14,28,Sand Attack,1,1,5
+450,hippowdon,14,33,Tackle,1,1,4
+450,hippowdon,14,36,Take Down,1,19,1
+450,hippowdon,14,38,Double-Edge,1,50,
+450,hippowdon,14,44,Bite,1,1,6
+450,hippowdon,14,44,Bite,1,7,
+450,hippowdon,14,46,Roar,4,0,
+450,hippowdon,14,63,Hyper Beam,4,0,
+450,hippowdon,14,70,Strength,4,0,
+450,hippowdon,14,89,Earthquake,1,40,
+450,hippowdon,14,89,Earthquake,4,0,
+450,hippowdon,14,90,Fissure,1,60,
+450,hippowdon,14,91,Dig,1,19,2
+450,hippowdon,14,91,Dig,4,0,
+450,hippowdon,14,92,Toxic,4,0,
+450,hippowdon,14,104,Double Team,4,0,
+450,hippowdon,14,156,Rest,4,0,
+450,hippowdon,14,157,Rock Slide,4,0,
+450,hippowdon,14,164,Substitute,4,0,
+450,hippowdon,14,173,Snore,3,0,
+450,hippowdon,14,182,Protect,4,0,
+450,hippowdon,14,201,Sandstorm,4,0,
+450,hippowdon,14,207,Swagger,4,0,
+450,hippowdon,14,213,Attract,4,0,
+450,hippowdon,14,214,Sleep Talk,3,0,
+450,hippowdon,14,216,Return,4,0,
+450,hippowdon,14,218,Frustration,4,0,
+450,hippowdon,14,231,Iron Tail,3,0,
+450,hippowdon,14,237,Hidden Power,4,0,
+450,hippowdon,14,241,Sunny Day,4,0,
+450,hippowdon,14,242,Crunch,1,31,
+450,hippowdon,14,249,Rock Smash,4,0,
+450,hippowdon,14,263,Facade,4,0,
+450,hippowdon,14,276,Superpower,3,0,
+450,hippowdon,14,281,Yawn,1,1,7
+450,hippowdon,14,281,Yawn,1,13,
+450,hippowdon,14,317,Rock Tomb,4,0,
+450,hippowdon,14,328,Sand Tomb,1,25,
+450,hippowdon,14,414,Earth Power,3,0,
+450,hippowdon,14,416,Giga Impact,4,0,
+450,hippowdon,14,422,Thunder Fang,1,1,3
+450,hippowdon,14,423,Ice Fang,1,1,1
+450,hippowdon,14,424,Fire Fang,1,1,2
+450,hippowdon,14,442,Iron Head,3,0,
+450,hippowdon,14,444,Stone Edge,4,0,
+450,hippowdon,14,446,Stealth Rock,3,0,
+450,hippowdon,14,496,Round,4,0,
+450,hippowdon,14,523,Bulldoze,4,0,
+450,hippowdon,15,28,Sand Attack,1,1,5
+450,hippowdon,15,33,Tackle,1,1,4
+450,hippowdon,15,36,Take Down,1,19,1
+450,hippowdon,15,38,Double-Edge,1,50,
+450,hippowdon,15,44,Bite,1,1,6
+450,hippowdon,15,44,Bite,1,7,
+450,hippowdon,15,46,Roar,4,0,
+450,hippowdon,15,63,Hyper Beam,4,0,
+450,hippowdon,15,70,Strength,4,0,
+450,hippowdon,15,89,Earthquake,1,40,
+450,hippowdon,15,89,Earthquake,4,0,
+450,hippowdon,15,90,Fissure,1,60,
+450,hippowdon,15,91,Dig,1,19,2
+450,hippowdon,15,91,Dig,4,0,
+450,hippowdon,15,92,Toxic,4,0,
+450,hippowdon,15,104,Double Team,4,0,
+450,hippowdon,15,156,Rest,4,0,
+450,hippowdon,15,157,Rock Slide,4,0,
+450,hippowdon,15,164,Substitute,4,0,
+450,hippowdon,15,182,Protect,4,0,
+450,hippowdon,15,201,Sandstorm,4,0,
+450,hippowdon,15,207,Swagger,4,0,
+450,hippowdon,15,213,Attract,4,0,
+450,hippowdon,15,214,Sleep Talk,4,0,
+450,hippowdon,15,216,Return,4,0,
+450,hippowdon,15,218,Frustration,4,0,
+450,hippowdon,15,237,Hidden Power,4,0,
+450,hippowdon,15,241,Sunny Day,4,0,
+450,hippowdon,15,242,Crunch,1,31,
+450,hippowdon,15,249,Rock Smash,4,0,
+450,hippowdon,15,263,Facade,4,0,
+450,hippowdon,15,281,Yawn,1,1,7
+450,hippowdon,15,281,Yawn,1,13,
+450,hippowdon,15,317,Rock Tomb,4,0,
+450,hippowdon,15,328,Sand Tomb,1,25,
+450,hippowdon,15,416,Giga Impact,4,0,
+450,hippowdon,15,422,Thunder Fang,1,1,3
+450,hippowdon,15,423,Ice Fang,1,1,1
+450,hippowdon,15,424,Fire Fang,1,1,2
+450,hippowdon,15,444,Stone Edge,4,0,
+450,hippowdon,15,496,Round,4,0,
+450,hippowdon,15,523,Bulldoze,4,0,
+450,hippowdon,15,590,Confide,4,0,
+450,hippowdon,16,28,Sand Attack,1,1,5
+450,hippowdon,16,33,Tackle,1,1,4
+450,hippowdon,16,36,Take Down,1,19,1
+450,hippowdon,16,38,Double-Edge,1,50,1
+450,hippowdon,16,44,Bite,1,1,6
+450,hippowdon,16,44,Bite,1,7,1
+450,hippowdon,16,46,Roar,4,0,
+450,hippowdon,16,63,Hyper Beam,4,0,
+450,hippowdon,16,70,Strength,4,0,
+450,hippowdon,16,89,Earthquake,1,40,1
+450,hippowdon,16,89,Earthquake,4,0,
+450,hippowdon,16,90,Fissure,1,60,1
+450,hippowdon,16,91,Dig,1,19,2
+450,hippowdon,16,91,Dig,4,0,
+450,hippowdon,16,92,Toxic,4,0,
+450,hippowdon,16,104,Double Team,4,0,
+450,hippowdon,16,156,Rest,4,0,
+450,hippowdon,16,157,Rock Slide,4,0,
+450,hippowdon,16,164,Substitute,4,0,
+450,hippowdon,16,173,Snore,3,0,
+450,hippowdon,16,182,Protect,4,0,
+450,hippowdon,16,201,Sandstorm,4,0,
+450,hippowdon,16,207,Swagger,4,0,
+450,hippowdon,16,213,Attract,4,0,
+450,hippowdon,16,214,Sleep Talk,4,0,
+450,hippowdon,16,216,Return,4,0,
+450,hippowdon,16,218,Frustration,4,0,
+450,hippowdon,16,231,Iron Tail,3,0,
+450,hippowdon,16,237,Hidden Power,4,0,
+450,hippowdon,16,241,Sunny Day,4,0,
+450,hippowdon,16,242,Crunch,1,31,1
+450,hippowdon,16,249,Rock Smash,4,0,
+450,hippowdon,16,263,Facade,4,0,
+450,hippowdon,16,276,Superpower,3,0,
+450,hippowdon,16,281,Yawn,1,1,7
+450,hippowdon,16,281,Yawn,1,13,1
+450,hippowdon,16,290,Secret Power,4,0,
+450,hippowdon,16,317,Rock Tomb,4,0,
+450,hippowdon,16,328,Sand Tomb,1,25,1
+450,hippowdon,16,352,Water Pulse,3,0,
+450,hippowdon,16,414,Earth Power,3,0,
+450,hippowdon,16,416,Giga Impact,4,0,
+450,hippowdon,16,422,Thunder Fang,1,1,3
+450,hippowdon,16,423,Ice Fang,1,1,1
+450,hippowdon,16,424,Fire Fang,1,1,2
+450,hippowdon,16,442,Iron Head,3,0,
+450,hippowdon,16,444,Stone Edge,4,0,
+450,hippowdon,16,446,Stealth Rock,3,0,
+450,hippowdon,16,496,Round,4,0,
+450,hippowdon,16,523,Bulldoze,4,0,
+450,hippowdon,16,590,Confide,4,0,

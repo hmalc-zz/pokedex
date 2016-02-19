@@ -299,12 +299,12 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KyO-cN-XeD">
-                                        <rect key="frame" x="0.0" y="11" width="44" height="44"/>
+                                        <rect key="frame" x="10" y="15" width="30" height="30"/>
                                         <constraints>
-                                            <constraint firstAttribute="height" constant="44" id="EWQ-CJ-AJR"/>
-                                            <constraint firstAttribute="width" constant="44" id="ZgQ-vx-yfT"/>
+                                            <constraint firstAttribute="height" constant="30" id="EWQ-CJ-AJR"/>
+                                            <constraint firstAttribute="width" constant="30" id="ZgQ-vx-yfT"/>
                                         </constraints>
-                                        <state key="normal" image="back"/>
+                                        <state key="normal" image="arrowDown"/>
                                         <connections>
                                             <action selector="backToMain:" destination="HOP-Jb-BQg" eventType="touchUpInside" id="u35-6U-qQ9"/>
                                         </connections>
@@ -312,11 +312,11 @@
                                 </subviews>
                                 <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
-                                    <constraint firstItem="KyO-cN-XeD" firstAttribute="leading" secondItem="xIr-Ni-lr6" secondAttribute="leading" id="OIK-Ri-6LD"/>
+                                    <constraint firstItem="KyO-cN-XeD" firstAttribute="leading" secondItem="xIr-Ni-lr6" secondAttribute="leading" constant="10" id="OIK-Ri-6LD"/>
                                     <constraint firstAttribute="height" constant="55" id="W76-DJ-S2N"/>
                                     <constraint firstItem="Lqe-xV-eya" firstAttribute="centerX" secondItem="xIr-Ni-lr6" secondAttribute="centerX" id="dl6-ab-yM3"/>
                                     <constraint firstItem="Lqe-xV-eya" firstAttribute="top" secondItem="xIr-Ni-lr6" secondAttribute="top" constant="15" id="hxj-Pq-zt0"/>
-                                    <constraint firstAttribute="bottom" secondItem="KyO-cN-XeD" secondAttribute="bottom" id="xgU-Ji-Cbe"/>
+                                    <constraint firstAttribute="bottom" secondItem="KyO-cN-XeD" secondAttribute="bottom" constant="10" id="xgU-Ji-Cbe"/>
                                 </constraints>
                             </view>
                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" translatesAutoresizingMaskIntoConstraints="NO" id="DwU-ag-Ku9">
@@ -397,10 +397,10 @@
     </scenes>
     <resources>
         <image name="297" width="120" height="120"/>
-        <image name="back" width="128" height="128"/>
+        <image name="arrowDown" width="512" height="512"/>
         <image name="bg" width="1920" height="1200"/>
         <image name="musicBtn" width="512" height="512"/>
-        <image name="red" width="20" height="20"/>
-        <image name="white" width="252" height="108"/>
+        <image name="red" width="36" height="42"/>
+        <image name="white" width="56" height="54"/>
     </resources>
 </document>

@@ -1,0 +1,137 @@
+pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
+658,greninja,15,1,Pound,1,1,4
+658,greninja,15,15,Cut,4,0,
+658,greninja,15,45,Growl,1,1,5
+658,greninja,15,56,Hydro Pump,1,60,
+658,greninja,15,57,Surf,4,0,
+658,greninja,15,58,Ice Beam,4,0,
+658,greninja,15,59,Blizzard,4,0,
+658,greninja,15,63,Hyper Beam,4,0,
+658,greninja,15,70,Strength,4,0,
+658,greninja,15,91,Dig,4,0,
+658,greninja,15,92,Toxic,4,0,
+658,greninja,15,98,Quick Attack,1,8,
+658,greninja,15,104,Double Team,1,52,
+658,greninja,15,104,Double Team,4,0,
+658,greninja,15,108,Smokescreen,1,20,
+658,greninja,15,114,Haze,1,56,
+658,greninja,15,122,Lick,1,10,
+658,greninja,15,127,Waterfall,4,0,
+658,greninja,15,145,Bubble,1,5,
+658,greninja,15,156,Rest,4,0,
+658,greninja,15,157,Rock Slide,4,0,
+658,greninja,15,164,Substitute,1,43,
+658,greninja,15,164,Substitute,4,0,
+658,greninja,15,168,Thief,4,0,
+658,greninja,15,182,Protect,4,0,
+658,greninja,15,185,Feint Attack,1,33,
+658,greninja,15,191,Spikes,1,28,
+658,greninja,15,207,Swagger,4,0,
+658,greninja,15,213,Attract,4,0,
+658,greninja,15,214,Sleep Talk,4,0,
+658,greninja,15,216,Return,4,0,
+658,greninja,15,218,Frustration,4,0,
+658,greninja,15,237,Hidden Power,4,0,
+658,greninja,15,240,Rain Dance,4,0,
+658,greninja,15,249,Rock Smash,4,0,
+658,greninja,15,263,Facade,4,0,
+658,greninja,15,269,Taunt,4,0,
+658,greninja,15,272,Role Play,1,1,2
+658,greninja,15,308,Hydro Cannon,3,0,
+658,greninja,15,317,Rock Tomb,4,0,
+658,greninja,15,326,Extrasensory,1,49,
+658,greninja,15,332,Aerial Ace,4,0,
+658,greninja,15,352,Water Pulse,1,14,
+658,greninja,15,369,U-turn,4,0,
+658,greninja,15,374,Fling,4,0,
+658,greninja,15,399,Dark Pulse,4,0,
+658,greninja,15,400,Night Slash,1,1,1
+658,greninja,15,400,Night Slash,1,70,
+658,greninja,15,416,Giga Impact,4,0,
+658,greninja,15,425,Shadow Sneak,1,23,
+658,greninja,15,447,Grass Knot,4,0,
+658,greninja,15,479,Smack Down,4,0,
+658,greninja,15,496,Round,4,0,
+658,greninja,15,497,Echoed Voice,4,0,
+658,greninja,15,503,Scald,4,0,
+658,greninja,15,512,Acrobatics,4,0,
+658,greninja,15,518,Water Pledge,3,0,
+658,greninja,15,561,Mat Block,1,1,3
+658,greninja,15,590,Confide,4,0,
+658,greninja,15,594,Water Shuriken,1,36,
+658,greninja,15,594,Water Shuriken,1,75,
+658,greninja,15,612,Power-Up Punch,4,0,
+658,greninja,16,1,Pound,1,1,4
+658,greninja,16,8,Ice Punch,3,0,
+658,greninja,16,15,Cut,4,0,
+658,greninja,16,45,Growl,1,1,5
+658,greninja,16,56,Hydro Pump,1,60,1
+658,greninja,16,57,Surf,4,0,
+658,greninja,16,58,Ice Beam,4,0,
+658,greninja,16,59,Blizzard,4,0,
+658,greninja,16,63,Hyper Beam,4,0,
+658,greninja,16,67,Low Kick,3,0,
+658,greninja,16,70,Strength,4,0,
+658,greninja,16,91,Dig,4,0,
+658,greninja,16,92,Toxic,4,0,
+658,greninja,16,98,Quick Attack,1,8,1
+658,greninja,16,104,Double Team,1,52,1
+658,greninja,16,104,Double Team,4,0,
+658,greninja,16,108,Smokescreen,1,20,1
+658,greninja,16,114,Haze,1,56,1
+658,greninja,16,122,Lick,1,10,1
+658,greninja,16,127,Waterfall,4,0,
+658,greninja,16,145,Bubble,1,5,1
+658,greninja,16,156,Rest,4,0,
+658,greninja,16,157,Rock Slide,4,0,
+658,greninja,16,164,Substitute,1,43,1
+658,greninja,16,164,Substitute,4,0,
+658,greninja,16,168,Thief,4,0,
+658,greninja,16,173,Snore,3,0,
+658,greninja,16,180,Spite,3,0,
+658,greninja,16,182,Protect,4,0,
+658,greninja,16,185,Feint Attack,1,33,1
+658,greninja,16,191,Spikes,1,28,1
+658,greninja,16,196,Icy Wind,3,0,
+658,greninja,16,207,Swagger,4,0,
+658,greninja,16,213,Attract,4,0,
+658,greninja,16,214,Sleep Talk,4,0,
+658,greninja,16,216,Return,4,0,
+658,greninja,16,218,Frustration,4,0,
+658,greninja,16,237,Hidden Power,4,0,
+658,greninja,16,240,Rain Dance,4,0,
+658,greninja,16,249,Rock Smash,4,0,
+658,greninja,16,263,Facade,4,0,
+658,greninja,16,269,Taunt,4,0,
+658,greninja,16,272,Role Play,1,1,2
+658,greninja,16,272,Role Play,3,0,
+658,greninja,16,289,Snatch,3,0,
+658,greninja,16,290,Secret Power,4,0,
+658,greninja,16,291,Dive,4,0,
+658,greninja,16,308,Hydro Cannon,3,0,
+658,greninja,16,317,Rock Tomb,4,0,
+658,greninja,16,326,Extrasensory,1,49,1
+658,greninja,16,332,Aerial Ace,4,0,
+658,greninja,16,340,Bounce,3,0,
+658,greninja,16,352,Water Pulse,1,14,1
+658,greninja,16,352,Water Pulse,3,0,
+658,greninja,16,369,U-turn,4,0,
+658,greninja,16,374,Fling,4,0,
+658,greninja,16,399,Dark Pulse,4,0,
+658,greninja,16,400,Night Slash,1,1,1
+658,greninja,16,400,Night Slash,1,70,1
+658,greninja,16,416,Giga Impact,4,0,
+658,greninja,16,425,Shadow Sneak,1,23,1
+658,greninja,16,441,Gunk Shot,3,0,
+658,greninja,16,447,Grass Knot,4,0,
+658,greninja,16,479,Smack Down,4,0,
+658,greninja,16,496,Round,4,0,
+658,greninja,16,497,Echoed Voice,4,0,
+658,greninja,16,503,Scald,4,0,
+658,greninja,16,512,Acrobatics,4,0,
+658,greninja,16,518,Water Pledge,3,0,
+658,greninja,16,561,Mat Block,1,1,3
+658,greninja,16,590,Confide,4,0,
+658,greninja,16,594,Water Shuriken,1,36,1
+658,greninja,16,594,Water Shuriken,1,75,1
+658,greninja,16,612,Power-Up Punch,4,0,

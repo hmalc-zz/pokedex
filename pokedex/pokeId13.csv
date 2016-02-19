@@ -1,0 +1,45 @@
+pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
+13,weedle,1,40,Poison Sting,1,1,1
+13,weedle,1,81,String Shot,1,1,2
+13,weedle,2,40,Poison Sting,1,1,1
+13,weedle,2,81,String Shot,1,1,2
+13,weedle,3,40,Poison Sting,1,1,1
+13,weedle,3,81,String Shot,1,1,2
+13,weedle,4,40,Poison Sting,1,1,1
+13,weedle,4,81,String Shot,1,1,2
+13,weedle,5,40,Poison Sting,1,1,1
+13,weedle,5,81,String Shot,1,1,2
+13,weedle,6,40,Poison Sting,1,1,1
+13,weedle,6,81,String Shot,1,1,2
+13,weedle,7,40,Poison Sting,1,1,1
+13,weedle,7,81,String Shot,1,1,2
+13,weedle,8,40,Poison Sting,1,1,1
+13,weedle,8,81,String Shot,1,1,2
+13,weedle,9,40,Poison Sting,1,1,1
+13,weedle,9,81,String Shot,1,1,2
+13,weedle,9,450,Bug Bite,1,15,
+13,weedle,10,40,Poison Sting,1,1,1
+13,weedle,10,81,String Shot,1,1,2
+13,weedle,10,81,String Shot,3,0,
+13,weedle,10,450,Bug Bite,1,15,
+13,weedle,10,450,Bug Bite,3,0,
+13,weedle,11,40,Poison Sting,1,1,1
+13,weedle,11,81,String Shot,1,1,2
+13,weedle,11,450,Bug Bite,1,15,
+13,weedle,12,40,Poison Sting,1,1,1
+13,weedle,12,81,String Shot,1,1,2
+13,weedle,13,40,Poison Sting,1,1,1
+13,weedle,13,81,String Shot,1,1,2
+13,weedle,14,40,Poison Sting,1,1,1
+13,weedle,14,81,String Shot,1,1,2
+13,weedle,14,450,Bug Bite,1,15,
+13,weedle,14,450,Bug Bite,3,0,
+13,weedle,14,527,Electroweb,3,0,
+13,weedle,15,40,Poison Sting,1,1,1
+13,weedle,15,81,String Shot,1,1,2
+13,weedle,15,450,Bug Bite,1,15,
+13,weedle,16,40,Poison Sting,1,1,1
+13,weedle,16,81,String Shot,1,1,2
+13,weedle,16,450,Bug Bite,1,15,1
+13,weedle,16,450,Bug Bite,3,0,
+13,weedle,16,527,Electroweb,3,0,

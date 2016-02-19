@@ -1,0 +1,121 @@
+pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
+673,gogoat,15,22,Vine Whip,1,7,
+673,gogoat,15,33,Tackle,1,1,2
+673,gogoat,15,36,Take Down,1,22,
+673,gogoat,15,38,Double-Edge,1,40,
+673,gogoat,15,39,Tail Whip,1,9,
+673,gogoat,15,46,Roar,4,0,
+673,gogoat,15,57,Surf,4,0,
+673,gogoat,15,63,Hyper Beam,4,0,
+673,gogoat,15,70,Strength,4,0,
+673,gogoat,15,73,Leech Seed,1,12,
+673,gogoat,15,74,Growth,1,1,3
+673,gogoat,15,75,Razor Leaf,1,13,
+673,gogoat,15,76,Solar Beam,4,0,
+673,gogoat,15,89,Earthquake,1,60,
+673,gogoat,15,89,Earthquake,4,0,
+673,gogoat,15,91,Dig,4,0,
+673,gogoat,15,92,Toxic,4,0,
+673,gogoat,15,104,Double Team,4,0,
+673,gogoat,15,156,Rest,4,0,
+673,gogoat,15,157,Rock Slide,4,0,
+673,gogoat,15,164,Substitute,4,0,
+673,gogoat,15,182,Protect,4,0,
+673,gogoat,15,207,Swagger,4,0,
+673,gogoat,15,208,Milk Drink,1,58,
+673,gogoat,15,213,Attract,4,0,
+673,gogoat,15,214,Sleep Talk,4,0,
+673,gogoat,15,216,Return,4,0,
+673,gogoat,15,218,Frustration,4,0,
+673,gogoat,15,235,Synthesis,1,20,
+673,gogoat,15,237,Hidden Power,4,0,
+673,gogoat,15,240,Rain Dance,4,0,
+673,gogoat,15,241,Sunny Day,4,0,
+673,gogoat,15,249,Rock Smash,4,0,
+673,gogoat,15,263,Facade,4,0,
+673,gogoat,15,267,Nature Power,4,0,
+673,gogoat,15,280,Brick Break,4,0,
+673,gogoat,15,332,Aerial Ace,1,1,1
+673,gogoat,15,332,Aerial Ace,1,65,
+673,gogoat,15,332,Aerial Ace,4,0,
+673,gogoat,15,339,Bulk Up,1,34,
+673,gogoat,15,339,Bulk Up,4,0,
+673,gogoat,15,348,Leaf Blade,1,55,
+673,gogoat,15,371,Payback,4,0,
+673,gogoat,15,388,Worry Seed,1,16,
+673,gogoat,15,402,Seed Bomb,1,30,
+673,gogoat,15,412,Energy Ball,4,0,
+673,gogoat,15,416,Giga Impact,4,0,
+673,gogoat,15,447,Grass Knot,4,0,
+673,gogoat,15,496,Round,4,0,
+673,gogoat,15,514,Retaliate,4,0,
+673,gogoat,15,523,Bulldoze,1,26,
+673,gogoat,15,523,Bulldoze,4,0,
+673,gogoat,15,528,Wild Charge,4,0,
+673,gogoat,15,532,Horn Leech,1,47,
+673,gogoat,15,590,Confide,4,0,
+673,gogoat,16,22,Vine Whip,1,7,1
+673,gogoat,16,33,Tackle,1,1,2
+673,gogoat,16,36,Take Down,1,22,1
+673,gogoat,16,38,Double-Edge,1,40,1
+673,gogoat,16,39,Tail Whip,1,9,1
+673,gogoat,16,46,Roar,4,0,
+673,gogoat,16,57,Surf,4,0,
+673,gogoat,16,63,Hyper Beam,4,0,
+673,gogoat,16,70,Strength,4,0,
+673,gogoat,16,73,Leech Seed,1,12,1
+673,gogoat,16,74,Growth,1,1,3
+673,gogoat,16,75,Razor Leaf,1,13,1
+673,gogoat,16,76,Solar Beam,4,0,
+673,gogoat,16,89,Earthquake,1,60,1
+673,gogoat,16,89,Earthquake,4,0,
+673,gogoat,16,91,Dig,4,0,
+673,gogoat,16,92,Toxic,4,0,
+673,gogoat,16,104,Double Team,4,0,
+673,gogoat,16,156,Rest,4,0,
+673,gogoat,16,157,Rock Slide,4,0,
+673,gogoat,16,164,Substitute,4,0,
+673,gogoat,16,173,Snore,3,0,
+673,gogoat,16,182,Protect,4,0,
+673,gogoat,16,202,Giga Drain,3,0,
+673,gogoat,16,207,Swagger,4,0,
+673,gogoat,16,208,Milk Drink,1,58,1
+673,gogoat,16,213,Attract,4,0,
+673,gogoat,16,214,Sleep Talk,4,0,
+673,gogoat,16,216,Return,4,0,
+673,gogoat,16,218,Frustration,4,0,
+673,gogoat,16,231,Iron Tail,3,0,
+673,gogoat,16,235,Synthesis,1,20,1
+673,gogoat,16,235,Synthesis,3,0,
+673,gogoat,16,237,Hidden Power,4,0,
+673,gogoat,16,240,Rain Dance,4,0,
+673,gogoat,16,241,Sunny Day,4,0,
+673,gogoat,16,249,Rock Smash,4,0,
+673,gogoat,16,263,Facade,4,0,
+673,gogoat,16,267,Nature Power,4,0,
+673,gogoat,16,276,Superpower,3,0,
+673,gogoat,16,280,Brick Break,4,0,
+673,gogoat,16,290,Secret Power,4,0,
+673,gogoat,16,332,Aerial Ace,1,1,1
+673,gogoat,16,332,Aerial Ace,1,65,1
+673,gogoat,16,332,Aerial Ace,4,0,
+673,gogoat,16,339,Bulk Up,1,34,1
+673,gogoat,16,339,Bulk Up,4,0,
+673,gogoat,16,340,Bounce,3,0,
+673,gogoat,16,348,Leaf Blade,1,55,1
+673,gogoat,16,371,Payback,4,0,
+673,gogoat,16,388,Worry Seed,1,16,1
+673,gogoat,16,388,Worry Seed,3,0,
+673,gogoat,16,402,Seed Bomb,1,30,1
+673,gogoat,16,402,Seed Bomb,3,0,
+673,gogoat,16,412,Energy Ball,4,0,
+673,gogoat,16,416,Giga Impact,4,0,
+673,gogoat,16,428,Zen Headbutt,3,0,
+673,gogoat,16,447,Grass Knot,4,0,
+673,gogoat,16,496,Round,4,0,
+673,gogoat,16,514,Retaliate,4,0,
+673,gogoat,16,523,Bulldoze,1,26,1
+673,gogoat,16,523,Bulldoze,4,0,
+673,gogoat,16,528,Wild Charge,4,0,
+673,gogoat,16,532,Horn Leech,1,47,1
+673,gogoat,16,590,Confide,4,0,

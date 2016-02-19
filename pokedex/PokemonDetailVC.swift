@@ -27,6 +27,12 @@ class PokemonDetailVC: UIViewController {
     
     var pokemon: Pokemon!
     
+    var moveList: [String] = []
+    var levelLearnedList: [String] = []
+    var methodLearnedList: [String] = []
+    
+    var selectedVersionLabel: Int! = 15
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -35,13 +41,46 @@ class PokemonDetailVC: UIViewController {
         mainImg.image = img
         currentEvo.image = img
         
-        pokemon.downloadPokemonDetails { () -> () in
-            self.updateUI()
+        parsePokeMovesCSV()
+        updateUI()
+        
         }
-    }
+    
+//        pokemon.downloadPokemonDetails { () -> () in
+//            self.updateUI()
+//        }
+//    }
 
         // Do any additional setup after loading the view.
+
     
+    func parsePokeMovesCSV() {
+        
+        let path = NSBundle.mainBundle().pathForResource("pokeId\(pokemon.pokedexId)", ofType: "csv")!
+        
+        do {
+            let csv = try CSV(contentsOfURL: path)
+            let rows = csv.rows
+            
+            for row in rows {
+                if selectedVersionLabel == Int(row["version_group_id"]!) {
+                    
+                    self.moveList.append(row["move_name"]!)
+                    self.levelLearnedList.append(row["level"]!)
+                    self.methodLearnedList.append(row["pokemon_move_method_id"]!)
+                    
+                    print(moveList,levelLearnedList,methodLearnedList)
+                
+                }
+                
+            }
+            
+        } catch let err as NSError {
+            print(err.debugDescription)
+        }
+        
+        
+    }
 
     func updateUI() {
         nameLbl.text = pokemon.name.capitalizedString

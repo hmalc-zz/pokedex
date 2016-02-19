@@ -1,0 +1,49 @@
+pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
+10,caterpie,1,33,Tackle,1,1,1
+10,caterpie,1,81,String Shot,1,1,2
+10,caterpie,2,33,Tackle,1,1,1
+10,caterpie,2,81,String Shot,1,1,2
+10,caterpie,3,33,Tackle,1,1,1
+10,caterpie,3,81,String Shot,1,1,2
+10,caterpie,4,33,Tackle,1,1,1
+10,caterpie,4,81,String Shot,1,1,2
+10,caterpie,5,33,Tackle,1,1,1
+10,caterpie,5,81,String Shot,1,1,2
+10,caterpie,6,33,Tackle,1,1,1
+10,caterpie,6,81,String Shot,1,1,2
+10,caterpie,7,33,Tackle,1,1,1
+10,caterpie,7,81,String Shot,1,1,2
+10,caterpie,8,33,Tackle,1,1,1
+10,caterpie,8,81,String Shot,1,1,2
+10,caterpie,9,33,Tackle,1,1,1
+10,caterpie,9,81,String Shot,1,1,2
+10,caterpie,9,173,Snore,3,0,
+10,caterpie,9,450,Bug Bite,1,15,
+10,caterpie,10,33,Tackle,1,1,1
+10,caterpie,10,81,String Shot,1,1,2
+10,caterpie,10,81,String Shot,3,0,
+10,caterpie,10,173,Snore,3,0,
+10,caterpie,10,450,Bug Bite,1,15,
+10,caterpie,10,450,Bug Bite,3,0,
+10,caterpie,11,33,Tackle,1,1,1
+10,caterpie,11,81,String Shot,1,1,2
+10,caterpie,11,450,Bug Bite,1,15,
+10,caterpie,12,33,Tackle,1,1,1
+10,caterpie,12,81,String Shot,1,1,2
+10,caterpie,13,33,Tackle,1,1,1
+10,caterpie,13,81,String Shot,1,1,2
+10,caterpie,14,33,Tackle,1,1,1
+10,caterpie,14,81,String Shot,1,1,2
+10,caterpie,14,173,Snore,3,0,
+10,caterpie,14,450,Bug Bite,1,15,
+10,caterpie,14,450,Bug Bite,3,0,
+10,caterpie,14,527,Electroweb,3,0,
+10,caterpie,15,33,Tackle,1,1,1
+10,caterpie,15,81,String Shot,1,1,2
+10,caterpie,15,450,Bug Bite,1,15,
+10,caterpie,16,33,Tackle,1,1,1
+10,caterpie,16,81,String Shot,1,1,2
+10,caterpie,16,173,Snore,3,0,
+10,caterpie,16,450,Bug Bite,1,15,1
+10,caterpie,16,450,Bug Bite,3,0,
+10,caterpie,16,527,Electroweb,3,0,

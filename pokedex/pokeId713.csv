@@ -1,0 +1,120 @@
+pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
+713,avalugg,15,33,Tackle,1,1,4
+713,avalugg,15,36,Take Down,1,15,
+713,avalugg,15,38,Double-Edge,1,56,
+713,avalugg,15,44,Bite,1,1,5
+713,avalugg,15,46,Roar,4,0,
+713,avalugg,15,57,Surf,4,0,
+713,avalugg,15,58,Ice Beam,4,0,
+713,avalugg,15,59,Blizzard,1,46,
+713,avalugg,15,59,Blizzard,4,0,
+713,avalugg,15,63,Hyper Beam,4,0,
+713,avalugg,15,70,Strength,4,0,
+713,avalugg,15,89,Earthquake,4,0,
+713,avalugg,15,92,Toxic,4,0,
+713,avalugg,15,104,Double Team,4,0,
+713,avalugg,15,105,Recover,1,51,
+713,avalugg,15,106,Harden,1,1,6
+713,avalugg,15,130,Skull Bash,1,1,3
+713,avalugg,15,130,Skull Bash,1,60,
+713,avalugg,15,148,Flash,4,0,
+713,avalugg,15,156,Rest,4,0,
+713,avalugg,15,157,Rock Slide,4,0,
+713,avalugg,15,159,Sharpen,1,20,
+713,avalugg,15,164,Substitute,4,0,
+713,avalugg,15,174,Curse,1,22,
+713,avalugg,15,181,Powder Snow,1,5,
+713,avalugg,15,182,Protect,4,0,
+713,avalugg,15,196,Icy Wind,1,10,
+713,avalugg,15,207,Swagger,4,0,
+713,avalugg,15,213,Attract,4,0,
+713,avalugg,15,214,Sleep Talk,4,0,
+713,avalugg,15,216,Return,4,0,
+713,avalugg,15,218,Frustration,4,0,
+713,avalugg,15,219,Safeguard,4,0,
+713,avalugg,15,229,Rapid Spin,1,35,
+713,avalugg,15,237,Hidden Power,4,0,
+713,avalugg,15,240,Rain Dance,4,0,
+713,avalugg,15,242,Crunch,1,1,2
+713,avalugg,15,242,Crunch,1,65,
+713,avalugg,15,249,Rock Smash,4,0,
+713,avalugg,15,258,Hail,4,0,
+713,avalugg,15,263,Facade,4,0,
+713,avalugg,15,301,Ice Ball,1,30,
+713,avalugg,15,317,Rock Tomb,4,0,
+713,avalugg,15,334,Iron Defense,1,1,1
+713,avalugg,15,360,Gyro Ball,4,0,
+713,avalugg,15,397,Rock Polish,4,0,
+713,avalugg,15,416,Giga Impact,4,0,
+713,avalugg,15,419,Avalanche,1,42,
+713,avalugg,15,423,Ice Fang,1,26,
+713,avalugg,15,430,Flash Cannon,4,0,
+713,avalugg,15,444,Stone Edge,4,0,
+713,avalugg,15,496,Round,4,0,
+713,avalugg,15,523,Bulldoze,4,0,
+713,avalugg,15,524,Frost Breath,4,0,
+713,avalugg,15,590,Confide,4,0,
+713,avalugg,16,33,Tackle,1,1,4
+713,avalugg,16,36,Take Down,1,15,1
+713,avalugg,16,38,Double-Edge,1,56,1
+713,avalugg,16,44,Bite,1,1,5
+713,avalugg,16,46,Roar,4,0,
+713,avalugg,16,57,Surf,4,0,
+713,avalugg,16,58,Ice Beam,4,0,
+713,avalugg,16,59,Blizzard,1,46,1
+713,avalugg,16,59,Blizzard,4,0,
+713,avalugg,16,63,Hyper Beam,4,0,
+713,avalugg,16,70,Strength,4,0,
+713,avalugg,16,89,Earthquake,4,0,
+713,avalugg,16,92,Toxic,4,0,
+713,avalugg,16,104,Double Team,4,0,
+713,avalugg,16,105,Recover,1,51,1
+713,avalugg,16,106,Harden,1,1,6
+713,avalugg,16,130,Skull Bash,1,1,3
+713,avalugg,16,130,Skull Bash,1,60,1
+713,avalugg,16,148,Flash,4,0,
+713,avalugg,16,156,Rest,4,0,
+713,avalugg,16,157,Rock Slide,4,0,
+713,avalugg,16,159,Sharpen,1,20,1
+713,avalugg,16,164,Substitute,4,0,
+713,avalugg,16,173,Snore,3,0,
+713,avalugg,16,174,Curse,1,22,1
+713,avalugg,16,181,Powder Snow,1,5,1
+713,avalugg,16,182,Protect,4,0,
+713,avalugg,16,196,Icy Wind,1,10,1
+713,avalugg,16,196,Icy Wind,3,0,
+713,avalugg,16,207,Swagger,4,0,
+713,avalugg,16,213,Attract,4,0,
+713,avalugg,16,214,Sleep Talk,4,0,
+713,avalugg,16,216,Return,4,0,
+713,avalugg,16,218,Frustration,4,0,
+713,avalugg,16,219,Safeguard,4,0,
+713,avalugg,16,229,Rapid Spin,1,35,1
+713,avalugg,16,237,Hidden Power,4,0,
+713,avalugg,16,240,Rain Dance,4,0,
+713,avalugg,16,242,Crunch,1,1,2
+713,avalugg,16,242,Crunch,1,65,1
+713,avalugg,16,249,Rock Smash,4,0,
+713,avalugg,16,258,Hail,4,0,
+713,avalugg,16,263,Facade,4,0,
+713,avalugg,16,276,Superpower,3,0,
+713,avalugg,16,290,Secret Power,4,0,
+713,avalugg,16,301,Ice Ball,1,30,1
+713,avalugg,16,317,Rock Tomb,4,0,
+713,avalugg,16,334,Iron Defense,1,1,1
+713,avalugg,16,334,Iron Defense,3,0,
+713,avalugg,16,335,Block,3,0,
+713,avalugg,16,352,Water Pulse,3,0,
+713,avalugg,16,360,Gyro Ball,4,0,
+713,avalugg,16,397,Rock Polish,4,0,
+713,avalugg,16,416,Giga Impact,4,0,
+713,avalugg,16,419,Avalanche,1,42,1
+713,avalugg,16,423,Ice Fang,1,26,1
+713,avalugg,16,430,Flash Cannon,4,0,
+713,avalugg,16,442,Iron Head,3,0,
+713,avalugg,16,444,Stone Edge,4,0,
+713,avalugg,16,495,After You,3,0,
+713,avalugg,16,496,Round,4,0,
+713,avalugg,16,523,Bulldoze,4,0,
+713,avalugg,16,524,Frost Breath,4,0,
+713,avalugg,16,590,Confide,4,0,

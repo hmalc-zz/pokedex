@@ -1,0 +1,16 @@
+pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
+664,scatterbug,15,33,Tackle,1,1,1
+664,scatterbug,15,77,Poison Powder,2,0,
+664,scatterbug,15,78,Stun Spore,1,6,
+664,scatterbug,15,78,Stun Spore,2,0,
+664,scatterbug,15,81,String Shot,1,1,2
+664,scatterbug,15,450,Bug Bite,1,15,
+664,scatterbug,15,476,Rage Powder,2,0,
+664,scatterbug,16,33,Tackle,1,1,1
+664,scatterbug,16,77,Poison Powder,2,0,
+664,scatterbug,16,78,Stun Spore,1,6,1
+664,scatterbug,16,78,Stun Spore,2,0,
+664,scatterbug,16,81,String Shot,1,1,2
+664,scatterbug,16,450,Bug Bite,1,15,1
+664,scatterbug,16,450,Bug Bite,3,0,
+664,scatterbug,16,476,Rage Powder,2,0,

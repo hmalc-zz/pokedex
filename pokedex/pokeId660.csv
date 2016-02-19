@@ -1,0 +1,145 @@
+pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
+660,diggersby,15,14,Swords Dance,1,1,4
+660,diggersby,15,14,Swords Dance,4,0,
+660,diggersby,15,15,Cut,4,0,
+660,diggersby,15,24,Double Kick,1,20,
+660,diggersby,15,33,Tackle,1,1,5
+660,diggersby,15,36,Take Down,1,15,
+660,diggersby,15,43,Leer,1,1,7
+660,diggersby,15,57,Surf,4,0,
+660,diggersby,15,63,Hyper Beam,4,0,
+660,diggersby,15,70,Strength,4,0,
+660,diggersby,15,89,Earthquake,1,57,
+660,diggersby,15,89,Earthquake,4,0,
+660,diggersby,15,91,Dig,1,37,
+660,diggersby,15,91,Dig,4,0,
+660,diggersby,15,92,Toxic,4,0,
+660,diggersby,15,97,Agility,1,1,6
+660,diggersby,15,98,Quick Attack,1,7,
+660,diggersby,15,104,Double Team,4,0,
+660,diggersby,15,156,Rest,4,0,
+660,diggersby,15,157,Rock Slide,4,0,
+660,diggersby,15,162,Super Fang,1,48,
+660,diggersby,15,164,Substitute,4,0,
+660,diggersby,15,168,Thief,4,0,
+660,diggersby,15,175,Flail,1,31,
+660,diggersby,15,182,Protect,4,0,
+660,diggersby,15,188,Sludge Bomb,4,0,
+660,diggersby,15,189,Mud-Slap,1,13,
+660,diggersby,15,201,Sandstorm,4,0,
+660,diggersby,15,207,Swagger,4,0,
+660,diggersby,15,213,Attract,4,0,
+660,diggersby,15,214,Sleep Talk,4,0,
+660,diggersby,15,216,Return,4,0,
+660,diggersby,15,218,Frustration,4,0,
+660,diggersby,15,237,Hidden Power,4,0,
+660,diggersby,15,249,Rock Smash,4,0,
+660,diggersby,15,259,Torment,4,0,
+660,diggersby,15,263,Facade,1,53,
+660,diggersby,15,263,Facade,4,0,
+660,diggersby,15,267,Nature Power,4,0,
+660,diggersby,15,280,Brick Break,4,0,
+660,diggersby,15,316,Odor Sleuth,1,26,
+660,diggersby,15,317,Rock Tomb,4,0,
+660,diggersby,15,339,Bulk Up,4,0,
+660,diggersby,15,340,Bounce,1,42,
+660,diggersby,15,341,Mud Shot,1,18,
+660,diggersby,15,359,Hammer Arm,1,1,1
+660,diggersby,15,359,Hammer Arm,1,60,
+660,diggersby,15,369,U-turn,4,0,
+660,diggersby,15,371,Payback,4,0,
+660,diggersby,15,374,Fling,4,0,
+660,diggersby,15,416,Giga Impact,4,0,
+660,diggersby,15,444,Stone Edge,4,0,
+660,diggersby,15,447,Grass Knot,4,0,
+660,diggersby,15,479,Smack Down,4,0,
+660,diggersby,15,496,Round,4,0,
+660,diggersby,15,523,Bulldoze,1,1,3
+660,diggersby,15,523,Bulldoze,4,0,
+660,diggersby,15,528,Wild Charge,4,0,
+660,diggersby,15,563,Rototiller,1,1,2
+660,diggersby,15,590,Confide,4,0,
+660,diggersby,15,612,Power-Up Punch,4,0,
+660,diggersby,16,7,Fire Punch,3,0,
+660,diggersby,16,8,Ice Punch,3,0,
+660,diggersby,16,9,Thunder Punch,3,0,
+660,diggersby,16,14,Swords Dance,1,1,4
+660,diggersby,16,14,Swords Dance,4,0,
+660,diggersby,16,15,Cut,4,0,
+660,diggersby,16,24,Double Kick,1,20,1
+660,diggersby,16,33,Tackle,1,1,5
+660,diggersby,16,36,Take Down,1,15,1
+660,diggersby,16,43,Leer,1,1,7
+660,diggersby,16,57,Surf,4,0,
+660,diggersby,16,63,Hyper Beam,4,0,
+660,diggersby,16,67,Low Kick,3,0,
+660,diggersby,16,70,Strength,4,0,
+660,diggersby,16,89,Earthquake,1,57,1
+660,diggersby,16,89,Earthquake,4,0,
+660,diggersby,16,91,Dig,1,37,1
+660,diggersby,16,91,Dig,4,0,
+660,diggersby,16,92,Toxic,4,0,
+660,diggersby,16,97,Agility,1,1,6
+660,diggersby,16,98,Quick Attack,1,7,1
+660,diggersby,16,104,Double Team,4,0,
+660,diggersby,16,156,Rest,4,0,
+660,diggersby,16,157,Rock Slide,4,0,
+660,diggersby,16,162,Super Fang,1,48,1
+660,diggersby,16,162,Super Fang,3,0,
+660,diggersby,16,164,Substitute,4,0,
+660,diggersby,16,168,Thief,4,0,
+660,diggersby,16,173,Snore,3,0,
+660,diggersby,16,175,Flail,1,31,1
+660,diggersby,16,182,Protect,4,0,
+660,diggersby,16,188,Sludge Bomb,4,0,
+660,diggersby,16,189,Mud-Slap,1,13,1
+660,diggersby,16,201,Sandstorm,4,0,
+660,diggersby,16,207,Swagger,4,0,
+660,diggersby,16,213,Attract,4,0,
+660,diggersby,16,214,Sleep Talk,4,0,
+660,diggersby,16,216,Return,4,0,
+660,diggersby,16,218,Frustration,4,0,
+660,diggersby,16,231,Iron Tail,3,0,
+660,diggersby,16,237,Hidden Power,4,0,
+660,diggersby,16,249,Rock Smash,4,0,
+660,diggersby,16,253,Uproar,3,0,
+660,diggersby,16,259,Torment,4,0,
+660,diggersby,16,263,Facade,1,53,1
+660,diggersby,16,263,Facade,4,0,
+660,diggersby,16,264,Focus Punch,3,0,
+660,diggersby,16,267,Nature Power,4,0,
+660,diggersby,16,276,Superpower,3,0,
+660,diggersby,16,278,Recycle,3,0,
+660,diggersby,16,280,Brick Break,4,0,
+660,diggersby,16,282,Knock Off,3,0,
+660,diggersby,16,283,Endeavor,3,0,
+660,diggersby,16,289,Snatch,3,0,
+660,diggersby,16,290,Secret Power,4,0,
+660,diggersby,16,316,Odor Sleuth,1,26,1
+660,diggersby,16,317,Rock Tomb,4,0,
+660,diggersby,16,339,Bulk Up,4,0,
+660,diggersby,16,340,Bounce,1,42,1
+660,diggersby,16,340,Bounce,3,0,
+660,diggersby,16,341,Mud Shot,1,18,1
+660,diggersby,16,359,Hammer Arm,1,1,1
+660,diggersby,16,359,Hammer Arm,1,60,1
+660,diggersby,16,369,U-turn,4,0,
+660,diggersby,16,371,Payback,4,0,
+660,diggersby,16,374,Fling,4,0,
+660,diggersby,16,380,Gastro Acid,3,0,
+660,diggersby,16,387,Last Resort,3,0,
+660,diggersby,16,414,Earth Power,3,0,
+660,diggersby,16,416,Giga Impact,4,0,
+660,diggersby,16,441,Gunk Shot,3,0,
+660,diggersby,16,442,Iron Head,3,0,
+660,diggersby,16,444,Stone Edge,4,0,
+660,diggersby,16,447,Grass Knot,4,0,
+660,diggersby,16,479,Smack Down,4,0,
+660,diggersby,16,492,Foul Play,3,0,
+660,diggersby,16,496,Round,4,0,
+660,diggersby,16,523,Bulldoze,1,1,3
+660,diggersby,16,523,Bulldoze,4,0,
+660,diggersby,16,528,Wild Charge,4,0,
+660,diggersby,16,563,Rototiller,1,1,2
+660,diggersby,16,590,Confide,4,0,
+660,diggersby,16,612,Power-Up Punch,4,0,

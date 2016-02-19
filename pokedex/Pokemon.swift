@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import Alamofire
+//import Alamofire
 
 class Pokemon {
     
@@ -108,7 +108,7 @@ class Pokemon {
     
     }
     
-    func downloadPokemonDetails(completed: DownloadComplete) {
+/*    func downloadPokemonDetails(completed: DownloadComplete) {
         
         let url = NSURL(string: _pokemonUrl)!
         
@@ -212,5 +212,5 @@ class Pokemon {
                 
             }
         }
-    }
+    } */
 }

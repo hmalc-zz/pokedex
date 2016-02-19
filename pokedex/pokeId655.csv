@@ -1,0 +1,152 @@
+pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
+655,delphox,15,10,Scratch,1,1,5
+655,delphox,15,15,Cut,4,0,
+655,delphox,15,39,Tail Whip,1,1,6
+655,delphox,15,52,Ember,1,5,
+655,delphox,15,53,Flamethrower,1,42,
+655,delphox,15,53,Flamethrower,4,0,
+655,delphox,15,60,Psybeam,1,18,
+655,delphox,15,63,Hyper Beam,4,0,
+655,delphox,15,76,Solar Beam,4,0,
+655,delphox,15,83,Fire Spin,1,22,
+655,delphox,15,92,Toxic,4,0,
+655,delphox,15,94,Psychic,1,51,
+655,delphox,15,94,Psychic,4,0,
+655,delphox,15,104,Double Team,4,0,
+655,delphox,15,113,Light Screen,1,30,
+655,delphox,15,113,Light Screen,4,0,
+655,delphox,15,126,Fire Blast,1,61,
+655,delphox,15,126,Fire Blast,4,0,
+655,delphox,15,138,Dream Eater,4,0,
+655,delphox,15,156,Rest,4,0,
+655,delphox,15,164,Substitute,4,0,
+655,delphox,15,168,Thief,4,0,
+655,delphox,15,182,Protect,4,0,
+655,delphox,15,207,Swagger,4,0,
+655,delphox,15,213,Attract,4,0,
+655,delphox,15,214,Sleep Talk,4,0,
+655,delphox,15,216,Return,4,0,
+655,delphox,15,218,Frustration,4,0,
+655,delphox,15,219,Safeguard,4,0,
+655,delphox,15,237,Hidden Power,4,0,
+655,delphox,15,240,Rain Dance,4,0,
+655,delphox,15,241,Sunny Day,1,55,
+655,delphox,15,241,Sunny Day,4,0,
+655,delphox,15,244,Psych Up,4,0,
+655,delphox,15,247,Shadow Ball,1,1,4
+655,delphox,15,247,Shadow Ball,4,0,
+655,delphox,15,248,Future Sight,1,1,1
+655,delphox,15,248,Future Sight,1,69,
+655,delphox,15,261,Will-O-Wisp,1,47,
+655,delphox,15,261,Will-O-Wisp,4,0,
+655,delphox,15,263,Facade,4,0,
+655,delphox,15,272,Role Play,1,1,2
+655,delphox,15,307,Blast Burn,3,0,
+655,delphox,15,315,Overheat,4,0,
+655,delphox,15,336,Howl,1,11,
+655,delphox,15,347,Calm Mind,4,0,
+655,delphox,15,373,Embargo,4,0,
+655,delphox,15,381,Lucky Chant,1,27,
+655,delphox,15,415,Switcheroo,1,1,3
+655,delphox,15,416,Giga Impact,4,0,
+655,delphox,15,433,Trick Room,4,0,
+655,delphox,15,447,Grass Knot,4,0,
+655,delphox,15,473,Psyshock,1,34,
+655,delphox,15,473,Psyshock,4,0,
+655,delphox,15,478,Magic Room,1,58,
+655,delphox,15,488,Flame Charge,1,14,
+655,delphox,15,488,Flame Charge,4,0,
+655,delphox,15,496,Round,4,0,
+655,delphox,15,497,Echoed Voice,4,0,
+655,delphox,15,510,Incinerate,4,0,
+655,delphox,15,519,Fire Pledge,3,0,
+655,delphox,15,590,Confide,4,0,
+655,delphox,15,595,Mystical Fire,1,36,
+655,delphox,15,595,Mystical Fire,1,75,
+655,delphox,15,612,Power-Up Punch,4,0,
+655,delphox,16,7,Fire Punch,3,0,
+655,delphox,16,9,Thunder Punch,3,0,
+655,delphox,16,10,Scratch,1,1,5
+655,delphox,16,15,Cut,4,0,
+655,delphox,16,39,Tail Whip,1,1,6
+655,delphox,16,52,Ember,1,5,1
+655,delphox,16,53,Flamethrower,1,42,1
+655,delphox,16,53,Flamethrower,4,0,
+655,delphox,16,60,Psybeam,1,18,1
+655,delphox,16,63,Hyper Beam,4,0,
+655,delphox,16,67,Low Kick,3,0,
+655,delphox,16,76,Solar Beam,4,0,
+655,delphox,16,83,Fire Spin,1,22,1
+655,delphox,16,92,Toxic,4,0,
+655,delphox,16,94,Psychic,1,51,1
+655,delphox,16,94,Psychic,4,0,
+655,delphox,16,104,Double Team,4,0,
+655,delphox,16,113,Light Screen,1,30,1
+655,delphox,16,113,Light Screen,4,0,
+655,delphox,16,126,Fire Blast,1,61,1
+655,delphox,16,126,Fire Blast,4,0,
+655,delphox,16,138,Dream Eater,4,0,
+655,delphox,16,156,Rest,4,0,
+655,delphox,16,164,Substitute,4,0,
+655,delphox,16,168,Thief,4,0,
+655,delphox,16,173,Snore,3,0,
+655,delphox,16,182,Protect,4,0,
+655,delphox,16,207,Swagger,4,0,
+655,delphox,16,213,Attract,4,0,
+655,delphox,16,214,Sleep Talk,4,0,
+655,delphox,16,216,Return,4,0,
+655,delphox,16,218,Frustration,4,0,
+655,delphox,16,219,Safeguard,4,0,
+655,delphox,16,231,Iron Tail,3,0,
+655,delphox,16,237,Hidden Power,4,0,
+655,delphox,16,240,Rain Dance,4,0,
+655,delphox,16,241,Sunny Day,1,55,1
+655,delphox,16,241,Sunny Day,4,0,
+655,delphox,16,244,Psych Up,4,0,
+655,delphox,16,247,Shadow Ball,1,1,4
+655,delphox,16,247,Shadow Ball,4,0,
+655,delphox,16,248,Future Sight,1,1,1
+655,delphox,16,248,Future Sight,1,69,1
+655,delphox,16,257,Heat Wave,3,0,
+655,delphox,16,261,Will-O-Wisp,1,47,1
+655,delphox,16,261,Will-O-Wisp,4,0,
+655,delphox,16,263,Facade,4,0,
+655,delphox,16,271,Trick,3,0,
+655,delphox,16,272,Role Play,1,1,2
+655,delphox,16,272,Role Play,3,0,
+655,delphox,16,277,Magic Coat,3,0,
+655,delphox,16,278,Recycle,3,0,
+655,delphox,16,285,Skill Swap,3,0,
+655,delphox,16,289,Snatch,3,0,
+655,delphox,16,290,Secret Power,4,0,
+655,delphox,16,307,Blast Burn,3,0,
+655,delphox,16,315,Overheat,4,0,
+655,delphox,16,324,Signal Beam,3,0,
+655,delphox,16,336,Howl,1,11,1
+655,delphox,16,343,Covet,3,0,
+655,delphox,16,347,Calm Mind,4,0,
+655,delphox,16,351,Shock Wave,3,0,
+655,delphox,16,373,Embargo,4,0,
+655,delphox,16,381,Lucky Chant,1,27,1
+655,delphox,16,415,Switcheroo,1,1,3
+655,delphox,16,416,Giga Impact,4,0,
+655,delphox,16,428,Zen Headbutt,3,0,
+655,delphox,16,433,Trick Room,4,0,
+655,delphox,16,447,Grass Knot,4,0,
+655,delphox,16,472,Wonder Room,3,0,
+655,delphox,16,473,Psyshock,1,34,1
+655,delphox,16,473,Psyshock,4,0,
+655,delphox,16,478,Magic Room,1,58,1
+655,delphox,16,478,Magic Room,3,0,
+655,delphox,16,488,Flame Charge,1,14,1
+655,delphox,16,488,Flame Charge,4,0,
+655,delphox,16,492,Foul Play,3,0,
+655,delphox,16,496,Round,4,0,
+655,delphox,16,497,Echoed Voice,4,0,
+655,delphox,16,510,Incinerate,4,0,
+655,delphox,16,519,Fire Pledge,3,0,
+655,delphox,16,590,Confide,4,0,
+655,delphox,16,595,Mystical Fire,1,36,1
+655,delphox,16,595,Mystical Fire,1,75,1
+655,delphox,16,605,Dazzling Gleam,4,0,
+655,delphox,16,612,Power-Up Punch,4,0,
