@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8C320FCD6667C515F6FEACF9 /* Pods_pokedex.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E74CD3EF9794F4D1656C1BD5 /* Pods_pokedex.framework */; };
 		B45BAA0F1C643A9A00AF752A /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B45BAA0E1C643A9A00AF752A /* Constants.swift */; };
+		B4DD11731C76B0D200CCB9B2 /* pokemon_moves.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4DD11721C76B0D200CCB9B2 /* pokemon_moves.csv */; };
 		B4FE75EC1C631DAA003BC527 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FE75EB1C631DAA003BC527 /* AppDelegate.swift */; };
 		B4FE75EE1C631DAA003BC527 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FE75ED1C631DAA003BC527 /* ViewController.swift */; };
 		B4FE75F11C631DAA003BC527 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4FE75EF1C631DAA003BC527 /* Main.storyboard */; };
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		622F8207DC6A64208B5D751D /* Pods-pokedex.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pokedex.debug.xcconfig"; path = "Pods/Target Support Files/Pods-pokedex/Pods-pokedex.debug.xcconfig"; sourceTree = "<group>"; };
 		B45BAA0E1C643A9A00AF752A /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		B4DD11721C76B0D200CCB9B2 /* pokemon_moves.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon_moves.csv; sourceTree = "<group>"; };
 		B4FE75E81C631DAA003BC527 /* pokedex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pokedex.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4FE75EB1C631DAA003BC527 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B4FE75ED1C631DAA003BC527 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -144,6 +146,7 @@
 			isa = PBXGroup;
 			children = (
 				B4FE760A1C63F8EC003BC527 /* music.mp3 */,
+				B4DD11721C76B0D200CCB9B2 /* pokemon_moves.csv */,
 				B4FE75FD1C63213A003BC527 /* pokemon.csv */,
 			);
 			name = Resources;
@@ -184,6 +187,7 @@
 				TargetAttributes = {
 					B4FE75E71C631DAA003BC527 = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = HD8CHB2HER;
 					};
 				};
 			};
@@ -211,6 +215,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4FE760B1C63F8EC003BC527 /* music.mp3 in Resources */,
+				B4DD11731C76B0D200CCB9B2 /* pokemon_moves.csv in Resources */,
 				B4FE75F61C631DAA003BC527 /* LaunchScreen.storyboard in Resources */,
 				B4FE75F31C631DAA003BC527 /* Assets.xcassets in Resources */,
 				B4FE75FE1C63213A003BC527 /* pokemon.csv in Resources */,
@@ -393,10 +398,13 @@
 			baseConfigurationReference = 622F8207DC6A64208B5D751D /* Pods-pokedex.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = pokedex/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hmalc.pokedex;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -405,10 +413,13 @@
 			baseConfigurationReference = E0D0920A11AEFAD1C400EC82 /* Pods-pokedex.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = pokedex/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hmalc.pokedex;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
