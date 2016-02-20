@@ -25,6 +25,24 @@ class Pokemon {
     
     private var _pokemonUrl: String!
     
+    private var _moveList: [String]!
+    private var _levelList: [Int]!
+    
+    
+    var moveList: [String] {
+        if _moveList == nil {
+            _moveList = []
+        }
+        return _moveList
+    }
+    
+    var levelList: [Int] {
+        if _levelList == nil {
+            _levelList = []
+        }
+        return _levelList
+    }
+    
     var name: String {
         return _name
     }
@@ -107,6 +125,59 @@ class Pokemon {
         _pokemonUrl = "\(URL_BASE)\(URL_POKEMON)\(self._pokedexId)/"
     
     }
+    
+    
+    func parsePokeMovesCSV(selectedVersionLabel: Int) {
+        
+        var moveIndex: [Int:String] = [:]
+        var levelListBuild: [Int] = []
+        var moveListBuild: [String] = []
+        
+        let path = NSBundle.mainBundle().pathForResource("pokeId\(pokedexId)", ofType: "csv")!
+        
+        do {
+            let csv = try CSV(contentsOfURL: path)
+            let rows = csv.rows
+            
+            for row in rows {
+                
+                if selectedVersionLabel == Int(row["version_group_id"]!) {
+                    
+                    let key = Int((row["level"])!)
+                    
+                    moveIndex[key!] = row["move_name"]
+                    
+                }
+            }
+            
+        } catch let err as NSError {
+            print(err.debugDescription)
+        }
+        
+        let sortedDict = moveIndex.sort { $0.0 < $1.0 }
+        
+        for var i = 0; i < sortedDict.count; i++ {
+            
+            let moveName = String(sortedDict[i].1)
+            let levelName = Int(sortedDict[i].0)
+            
+            levelListBuild.append(levelName)
+            moveListBuild.append(moveName)
+            
+            
+        }
+        
+        print (moveListBuild)
+        print (levelListBuild)
+        
+        self._levelList = levelListBuild
+        self._moveList = moveListBuild
+        
+    }
+    
+    
+    
+    
     
 /*    func downloadPokemonDetails(completed: DownloadComplete) {
         

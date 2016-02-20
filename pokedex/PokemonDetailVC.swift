@@ -39,7 +39,8 @@ class PokemonDetailVC: UIViewController {
         mainImg.image = img
         currentEvo.image = img
         
-        parsePokeMovesCSV()
+        pokemon.parsePokeMovesCSV(selectedVersionLabel)
+        
         updateUI()
         
         }
@@ -49,54 +50,14 @@ class PokemonDetailVC: UIViewController {
 //        }
 //    }
 
-        // Do any additional setup after loading the view.
+        // Do any additional setup after loading the view
+        
 
-    
-    func parsePokeMovesCSV() {
-        
-        var moveIndex: [String] = []
-        var moveLevel: [String] = []
-        
-        
-        let path = NSBundle.mainBundle().pathForResource("pokeId\(pokemon.pokedexId)", ofType: "csv")!
-        
-        do {
-            let csv = try CSV(contentsOfURL: path)
-            let rows = csv.rows
-            
-            var i: Int = 1
-            
-            for row in rows {
-                
-                if selectedVersionLabel == Int(row["version_group_id"]!) {
-                    
-                    for index in 0...100 {
-                        
-                        if index == Int(row["level"]!) {
-                            
-                            print(index)
-                            
-                            moveIndex.append(row["move_name"]!)
-                            moveLevel.append((row["level"]!))
-                        
-                        }
-                    }
-                }
-            }
-            
-        } catch let err as NSError {
-            print(err.debugDescription)
-        }
-        
-        print(moveIndex,moveLevel)
-        
-        
-    }
 
     func updateUI() {
         nameLbl.text = pokemon.name.capitalizedString
         descriptionLbl.text = pokemon.description.stringByReplacingOccurrencesOfString("POKMON", withString: "Pokémon")
-        typeLbl.text = pokemon.type
+        typeLbl.text = pokemon.moveList[0]
         defenseLbl.text = pokemon.defense
         heightLbl.text = "\(pokemon.height) ft"
         pokedexLbl.text = "#\(pokemon.pokedexId)"

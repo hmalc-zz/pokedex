@@ -15,7 +15,6 @@ class PokeCellCollectionViewCell: UICollectionViewCell {
     
     var pokemon: Pokemon!
     
-    
     required init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
         
