@@ -1,10 +1,5 @@
 pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
 665,spewpa,15,106,Harden,1,1,
 665,spewpa,15,182,Protect,1,9,
-665,spewpa,15,182,Protect,4,0,
 665,spewpa,16,106,Harden,1,1,1
 665,spewpa,16,182,Protect,1,9,1
-665,spewpa,16,182,Protect,4,0,
-665,spewpa,16,334,Iron Defense,3,0,
-665,spewpa,16,450,Bug Bite,3,0,
-665,spewpa,16,527,Electroweb,3,0,

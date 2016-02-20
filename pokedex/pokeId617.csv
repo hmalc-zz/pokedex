@@ -1,186 +1,78 @@
 pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-617,accelgor,11,63,Hyper Beam,4,0,
 617,accelgor,11,72,Mega Drain,1,20,
-617,accelgor,11,92,Toxic,4,0,
 617,accelgor,11,97,Agility,1,32,
 617,accelgor,11,98,Quick Attack,1,1,4
 617,accelgor,11,98,Quick Attack,1,13,
 617,accelgor,11,104,Double Team,1,1,3
 617,accelgor,11,104,Double Team,1,8,
-617,accelgor,11,104,Double Team,4,0,
 617,accelgor,11,105,Recover,1,49,
 617,accelgor,11,129,Swift,1,25,
 617,accelgor,11,141,Leech Life,1,1,1
-617,accelgor,11,156,Rest,4,0,
-617,accelgor,11,164,Substitute,4,0,
-617,accelgor,11,182,Protect,4,0,
-617,accelgor,11,188,Sludge Bomb,4,0,
-617,accelgor,11,201,Sandstorm,4,0,
 617,accelgor,11,202,Giga Drain,1,37,
-617,accelgor,11,207,Swagger,4,0,
-617,accelgor,11,213,Attract,4,0,
-617,accelgor,11,216,Return,4,0,
-617,accelgor,11,218,Frustration,4,0,
-617,accelgor,11,237,Hidden Power,4,0,
-617,accelgor,11,240,Rain Dance,4,0,
-617,accelgor,11,263,Facade,4,0,
 617,accelgor,11,369,U-turn,1,40,
-617,accelgor,11,369,U-turn,4,0,
 617,accelgor,11,382,Me First,1,28,
 617,accelgor,11,384,Power Swap,1,52,
 617,accelgor,11,405,Bug Buzz,1,44,
-617,accelgor,11,411,Focus Blast,4,0,
-617,accelgor,11,412,Energy Ball,4,0,
-617,accelgor,11,416,Giga Impact,4,0,
-617,accelgor,11,474,Venoshock,4,0,
 617,accelgor,11,491,Acid Spray,1,1,2
 617,accelgor,11,491,Acid Spray,1,4,
-617,accelgor,11,496,Round,4,0,
 617,accelgor,11,515,Final Gambit,1,56,
 617,accelgor,11,522,Struggle Bug,1,16,
-617,accelgor,11,522,Struggle Bug,4,0,
-617,accelgor,14,63,Hyper Beam,4,0,
 617,accelgor,14,72,Mega Drain,1,20,
-617,accelgor,14,92,Toxic,4,0,
 617,accelgor,14,97,Agility,1,32,
 617,accelgor,14,98,Quick Attack,1,1,4
 617,accelgor,14,98,Quick Attack,1,13,
 617,accelgor,14,104,Double Team,1,1,3
 617,accelgor,14,104,Double Team,1,8,
-617,accelgor,14,104,Double Team,4,0,
 617,accelgor,14,105,Recover,1,49,
 617,accelgor,14,129,Swift,1,25,
 617,accelgor,14,141,Leech Life,1,1,1
-617,accelgor,14,156,Rest,4,0,
-617,accelgor,14,164,Substitute,4,0,
-617,accelgor,14,173,Snore,3,0,
-617,accelgor,14,182,Protect,4,0,
-617,accelgor,14,188,Sludge Bomb,4,0,
-617,accelgor,14,201,Sandstorm,4,0,
 617,accelgor,14,202,Giga Drain,1,37,
-617,accelgor,14,202,Giga Drain,3,0,
-617,accelgor,14,207,Swagger,4,0,
-617,accelgor,14,213,Attract,4,0,
-617,accelgor,14,214,Sleep Talk,3,0,
-617,accelgor,14,216,Return,4,0,
-617,accelgor,14,218,Frustration,4,0,
-617,accelgor,14,237,Hidden Power,4,0,
-617,accelgor,14,240,Rain Dance,4,0,
-617,accelgor,14,263,Facade,4,0,
-617,accelgor,14,282,Knock Off,3,0,
-617,accelgor,14,324,Signal Beam,3,0,
 617,accelgor,14,369,U-turn,1,40,
-617,accelgor,14,369,U-turn,4,0,
-617,accelgor,14,380,Gastro Acid,3,0,
 617,accelgor,14,382,Me First,1,28,
 617,accelgor,14,384,Power Swap,1,52,
 617,accelgor,14,405,Bug Buzz,1,44,
-617,accelgor,14,411,Focus Blast,4,0,
-617,accelgor,14,412,Energy Ball,4,0,
-617,accelgor,14,416,Giga Impact,4,0,
-617,accelgor,14,450,Bug Bite,3,0,
-617,accelgor,14,474,Venoshock,4,0,
 617,accelgor,14,491,Acid Spray,1,1,2
 617,accelgor,14,491,Acid Spray,1,4,
-617,accelgor,14,496,Round,4,0,
 617,accelgor,14,515,Final Gambit,1,56,
 617,accelgor,14,522,Struggle Bug,1,16,
-617,accelgor,14,522,Struggle Bug,4,0,
-617,accelgor,15,63,Hyper Beam,4,0,
 617,accelgor,15,72,Mega Drain,1,20,
-617,accelgor,15,92,Toxic,4,0,
 617,accelgor,15,97,Agility,1,32,
 617,accelgor,15,98,Quick Attack,1,1,6
 617,accelgor,15,98,Quick Attack,1,13,
 617,accelgor,15,104,Double Team,1,1,5
 617,accelgor,15,104,Double Team,1,8,
-617,accelgor,15,104,Double Team,4,0,
 617,accelgor,15,105,Recover,1,49,
 617,accelgor,15,129,Swift,1,25,
 617,accelgor,15,141,Leech Life,1,1,3
-617,accelgor,15,156,Rest,4,0,
-617,accelgor,15,164,Substitute,4,0,
-617,accelgor,15,182,Protect,4,0,
-617,accelgor,15,188,Sludge Bomb,4,0,
-617,accelgor,15,201,Sandstorm,4,0,
 617,accelgor,15,202,Giga Drain,1,37,
-617,accelgor,15,207,Swagger,4,0,
-617,accelgor,15,213,Attract,4,0,
-617,accelgor,15,214,Sleep Talk,4,0,
-617,accelgor,15,216,Return,4,0,
-617,accelgor,15,218,Frustration,4,0,
-617,accelgor,15,237,Hidden Power,4,0,
-617,accelgor,15,240,Rain Dance,4,0,
-617,accelgor,15,263,Facade,4,0,
 617,accelgor,15,369,U-turn,1,40,
-617,accelgor,15,369,U-turn,4,0,
 617,accelgor,15,382,Me First,1,28,
 617,accelgor,15,384,Power Swap,1,1,2
 617,accelgor,15,384,Power Swap,1,52,
 617,accelgor,15,405,Bug Buzz,1,44,
-617,accelgor,15,411,Focus Blast,4,0,
-617,accelgor,15,412,Energy Ball,4,0,
-617,accelgor,15,416,Giga Impact,4,0,
-617,accelgor,15,474,Venoshock,4,0,
 617,accelgor,15,491,Acid Spray,1,1,4
 617,accelgor,15,491,Acid Spray,1,4,
-617,accelgor,15,496,Round,4,0,
 617,accelgor,15,515,Final Gambit,1,1,1
 617,accelgor,15,515,Final Gambit,1,56,
 617,accelgor,15,522,Struggle Bug,1,16,
-617,accelgor,15,522,Struggle Bug,4,0,
-617,accelgor,15,590,Confide,4,0,
-617,accelgor,15,611,Infestation,4,0,
-617,accelgor,16,63,Hyper Beam,4,0,
 617,accelgor,16,72,Mega Drain,1,20,1
-617,accelgor,16,92,Toxic,4,0,
 617,accelgor,16,97,Agility,1,32,1
 617,accelgor,16,98,Quick Attack,1,1,7
 617,accelgor,16,98,Quick Attack,1,13,1
 617,accelgor,16,104,Double Team,1,1,6
 617,accelgor,16,104,Double Team,1,8,1
-617,accelgor,16,104,Double Team,4,0,
 617,accelgor,16,105,Recover,1,49,1
 617,accelgor,16,129,Swift,1,25,1
 617,accelgor,16,141,Leech Life,1,1,4
-617,accelgor,16,156,Rest,4,0,
-617,accelgor,16,164,Substitute,4,0,
-617,accelgor,16,173,Snore,3,0,
-617,accelgor,16,182,Protect,4,0,
-617,accelgor,16,188,Sludge Bomb,4,0,
-617,accelgor,16,201,Sandstorm,4,0,
 617,accelgor,16,202,Giga Drain,1,37,1
-617,accelgor,16,202,Giga Drain,3,0,
-617,accelgor,16,207,Swagger,4,0,
-617,accelgor,16,213,Attract,4,0,
-617,accelgor,16,214,Sleep Talk,4,0,
-617,accelgor,16,216,Return,4,0,
-617,accelgor,16,218,Frustration,4,0,
-617,accelgor,16,237,Hidden Power,4,0,
-617,accelgor,16,240,Rain Dance,4,0,
-617,accelgor,16,263,Facade,4,0,
-617,accelgor,16,282,Knock Off,3,0,
-617,accelgor,16,290,Secret Power,4,0,
-617,accelgor,16,324,Signal Beam,3,0,
 617,accelgor,16,369,U-turn,1,40,1
-617,accelgor,16,369,U-turn,4,0,
-617,accelgor,16,380,Gastro Acid,3,0,
 617,accelgor,16,382,Me First,1,28,1
 617,accelgor,16,384,Power Swap,1,1,3
 617,accelgor,16,384,Power Swap,1,52,1
 617,accelgor,16,405,Bug Buzz,1,44,1
-617,accelgor,16,411,Focus Blast,4,0,
-617,accelgor,16,412,Energy Ball,4,0,
-617,accelgor,16,416,Giga Impact,4,0,
-617,accelgor,16,450,Bug Bite,3,0,
-617,accelgor,16,474,Venoshock,4,0,
 617,accelgor,16,491,Acid Spray,1,1,5
 617,accelgor,16,491,Acid Spray,1,4,1
-617,accelgor,16,496,Round,4,0,
 617,accelgor,16,515,Final Gambit,1,1,2
 617,accelgor,16,515,Final Gambit,1,56,1
 617,accelgor,16,522,Struggle Bug,1,16,1
-617,accelgor,16,522,Struggle Bug,4,0,
-617,accelgor,16,590,Confide,4,0,
 617,accelgor,16,594,Water Shuriken,1,1,1
-617,accelgor,16,611,Infestation,4,0,

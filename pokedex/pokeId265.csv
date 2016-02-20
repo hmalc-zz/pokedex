@@ -14,15 +14,11 @@ pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,
 265,wurmple,9,33,Tackle,1,1,1
 265,wurmple,9,40,Poison Sting,1,5,
 265,wurmple,9,81,String Shot,1,1,2
-265,wurmple,9,173,Snore,3,0,
 265,wurmple,9,450,Bug Bite,1,15,
 265,wurmple,10,33,Tackle,1,1,1
 265,wurmple,10,40,Poison Sting,1,5,
 265,wurmple,10,81,String Shot,1,1,2
-265,wurmple,10,81,String Shot,3,0,
-265,wurmple,10,173,Snore,3,0,
 265,wurmple,10,450,Bug Bite,1,15,
-265,wurmple,10,450,Bug Bite,3,0,
 265,wurmple,11,33,Tackle,1,1,1
 265,wurmple,11,40,Poison Sting,1,5,
 265,wurmple,11,81,String Shot,1,1,2
@@ -36,10 +32,7 @@ pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,
 265,wurmple,14,33,Tackle,1,1,1
 265,wurmple,14,40,Poison Sting,1,5,
 265,wurmple,14,81,String Shot,1,1,2
-265,wurmple,14,173,Snore,3,0,
 265,wurmple,14,450,Bug Bite,1,15,
-265,wurmple,14,450,Bug Bite,3,0,
-265,wurmple,14,527,Electroweb,3,0,
 265,wurmple,15,33,Tackle,1,1,1
 265,wurmple,15,40,Poison Sting,1,5,
 265,wurmple,15,81,String Shot,1,1,2
@@ -47,7 +40,4 @@ pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,
 265,wurmple,16,33,Tackle,1,1,1
 265,wurmple,16,40,Poison Sting,1,5,1
 265,wurmple,16,81,String Shot,1,1,2
-265,wurmple,16,173,Snore,3,0,
 265,wurmple,16,450,Bug Bite,1,15,1
-265,wurmple,16,450,Bug Bite,3,0,
-265,wurmple,16,527,Electroweb,3,0,

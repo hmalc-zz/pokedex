@@ -1,112 +1,37 @@
 pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
 663,talonflame,15,13,Razor Wind,1,27,
-663,talonflame,15,14,Swords Dance,4,0,
-663,talonflame,15,19,Fly,4,0,
 663,talonflame,15,33,Tackle,1,1,3
 663,talonflame,15,45,Growl,1,1,4
 663,talonflame,15,52,Ember,1,17,
-663,talonflame,15,53,Flamethrower,4,0,
-663,talonflame,15,63,Hyper Beam,4,0,
 663,talonflame,15,64,Peck,1,10,
-663,talonflame,15,76,Solar Beam,4,0,
-663,talonflame,15,92,Toxic,4,0,
 663,talonflame,15,97,Agility,1,13,
 663,talonflame,15,98,Quick Attack,1,6,
-663,talonflame,15,104,Double Team,4,0,
-663,talonflame,15,126,Fire Blast,4,0,
-663,talonflame,15,156,Rest,4,0,
-663,talonflame,15,164,Substitute,4,0,
-663,talonflame,15,168,Thief,4,0,
 663,talonflame,15,175,Flail,1,16,
-663,talonflame,15,182,Protect,4,0,
-663,talonflame,15,207,Swagger,4,0,
 663,talonflame,15,211,Steel Wing,1,60,
-663,talonflame,15,211,Steel Wing,4,0,
-663,talonflame,15,213,Attract,4,0,
-663,talonflame,15,214,Sleep Talk,4,0,
-663,talonflame,15,216,Return,4,0,
-663,talonflame,15,218,Frustration,4,0,
-663,talonflame,15,237,Hidden Power,4,0,
-663,talonflame,15,241,Sunny Day,4,0,
-663,talonflame,15,261,Will-O-Wisp,4,0,
-663,talonflame,15,263,Facade,4,0,
-663,talonflame,15,269,Taunt,4,0,
-663,talonflame,15,315,Overheat,4,0,
-663,talonflame,15,332,Aerial Ace,4,0,
-663,talonflame,15,339,Bulk Up,4,0,
 663,talonflame,15,355,Roost,1,25,
-663,talonflame,15,355,Roost,4,0,
 663,talonflame,15,363,Natural Gift,1,31,
 663,talonflame,15,366,Tailwind,1,55,
-663,talonflame,15,369,U-turn,4,0,
 663,talonflame,15,382,Me First,1,49,
 663,talonflame,15,394,Flare Blitz,1,1,2
 663,talonflame,15,413,Brave Bird,1,1,1
 663,talonflame,15,413,Brave Bird,1,64,
-663,talonflame,15,416,Giga Impact,4,0,
-663,talonflame,15,468,Hone Claws,4,0,
 663,talonflame,15,488,Flame Charge,1,39,
-663,talonflame,15,488,Flame Charge,4,0,
-663,talonflame,15,496,Round,4,0,
-663,talonflame,15,510,Incinerate,4,0,
 663,talonflame,15,512,Acrobatics,1,44,
-663,talonflame,15,512,Acrobatics,4,0,
-663,talonflame,15,590,Confide,4,0,
 663,talonflame,16,13,Razor Wind,1,27,1
-663,talonflame,16,14,Swords Dance,4,0,
-663,talonflame,16,19,Fly,4,0,
 663,talonflame,16,33,Tackle,1,1,3
 663,talonflame,16,45,Growl,1,1,4
 663,talonflame,16,52,Ember,1,17,1
-663,talonflame,16,53,Flamethrower,4,0,
-663,talonflame,16,63,Hyper Beam,4,0,
 663,talonflame,16,64,Peck,1,10,1
-663,talonflame,16,76,Solar Beam,4,0,
-663,talonflame,16,92,Toxic,4,0,
 663,talonflame,16,97,Agility,1,13,1
 663,talonflame,16,98,Quick Attack,1,6,1
-663,talonflame,16,104,Double Team,4,0,
-663,talonflame,16,126,Fire Blast,4,0,
-663,talonflame,16,156,Rest,4,0,
-663,talonflame,16,164,Substitute,4,0,
-663,talonflame,16,168,Thief,4,0,
-663,talonflame,16,173,Snore,3,0,
 663,talonflame,16,175,Flail,1,16,1
-663,talonflame,16,182,Protect,4,0,
-663,talonflame,16,207,Swagger,4,0,
 663,talonflame,16,211,Steel Wing,1,60,1
-663,talonflame,16,211,Steel Wing,4,0,
-663,talonflame,16,213,Attract,4,0,
-663,talonflame,16,214,Sleep Talk,4,0,
-663,talonflame,16,216,Return,4,0,
-663,talonflame,16,218,Frustration,4,0,
-663,talonflame,16,237,Hidden Power,4,0,
-663,talonflame,16,241,Sunny Day,4,0,
-663,talonflame,16,257,Heat Wave,3,0,
-663,talonflame,16,261,Will-O-Wisp,4,0,
-663,talonflame,16,263,Facade,4,0,
-663,talonflame,16,269,Taunt,4,0,
-663,talonflame,16,289,Snatch,3,0,
-663,talonflame,16,290,Secret Power,4,0,
-663,talonflame,16,315,Overheat,4,0,
-663,talonflame,16,332,Aerial Ace,4,0,
-663,talonflame,16,339,Bulk Up,4,0,
 663,talonflame,16,355,Roost,1,25,1
-663,talonflame,16,355,Roost,4,0,
 663,talonflame,16,363,Natural Gift,1,31,1
 663,talonflame,16,366,Tailwind,1,55,1
-663,talonflame,16,366,Tailwind,3,0,
-663,talonflame,16,369,U-turn,4,0,
 663,talonflame,16,382,Me First,1,49,1
 663,talonflame,16,394,Flare Blitz,1,1,2
 663,talonflame,16,413,Brave Bird,1,1,1
 663,talonflame,16,413,Brave Bird,1,64,1
-663,talonflame,16,416,Giga Impact,4,0,
-663,talonflame,16,468,Hone Claws,4,0,
 663,talonflame,16,488,Flame Charge,1,39,1
-663,talonflame,16,488,Flame Charge,4,0,
-663,talonflame,16,496,Round,4,0,
-663,talonflame,16,510,Incinerate,4,0,
 663,talonflame,16,512,Acrobatics,1,44,1
-663,talonflame,16,512,Acrobatics,4,0,
-663,talonflame,16,590,Confide,4,0,

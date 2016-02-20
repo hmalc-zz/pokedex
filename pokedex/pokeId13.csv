@@ -20,9 +20,7 @@ pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,
 13,weedle,9,450,Bug Bite,1,15,
 13,weedle,10,40,Poison Sting,1,1,1
 13,weedle,10,81,String Shot,1,1,2
-13,weedle,10,81,String Shot,3,0,
 13,weedle,10,450,Bug Bite,1,15,
-13,weedle,10,450,Bug Bite,3,0,
 13,weedle,11,40,Poison Sting,1,1,1
 13,weedle,11,81,String Shot,1,1,2
 13,weedle,11,450,Bug Bite,1,15,
@@ -33,13 +31,9 @@ pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,
 13,weedle,14,40,Poison Sting,1,1,1
 13,weedle,14,81,String Shot,1,1,2
 13,weedle,14,450,Bug Bite,1,15,
-13,weedle,14,450,Bug Bite,3,0,
-13,weedle,14,527,Electroweb,3,0,
 13,weedle,15,40,Poison Sting,1,1,1
 13,weedle,15,81,String Shot,1,1,2
 13,weedle,15,450,Bug Bite,1,15,
 13,weedle,16,40,Poison Sting,1,1,1
 13,weedle,16,81,String Shot,1,1,2
 13,weedle,16,450,Bug Bite,1,15,1
-13,weedle,16,450,Bug Bite,3,0,
-13,weedle,16,527,Electroweb,3,0,

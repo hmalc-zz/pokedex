@@ -1,100 +1,29 @@
 pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
 681,aegislash-shield,15,14,Swords Dance,1,1,11
-681,aegislash-shield,15,14,Swords Dance,4,0,
-681,aegislash-shield,15,15,Cut,4,0,
-681,aegislash-shield,15,63,Hyper Beam,4,0,
-681,aegislash-shield,15,92,Toxic,4,0,
-681,aegislash-shield,15,104,Double Team,4,0,
-681,aegislash-shield,15,115,Reflect,4,0,
-681,aegislash-shield,15,156,Rest,4,0,
-681,aegislash-shield,15,157,Rock Slide,4,0,
 681,aegislash-shield,15,163,Slash,1,1,5
-681,aegislash-shield,15,164,Substitute,4,0,
-681,aegislash-shield,15,182,Protect,4,0,
-681,aegislash-shield,15,206,False Swipe,4,0,
-681,aegislash-shield,15,207,Swagger,4,0,
 681,aegislash-shield,15,210,Fury Cutter,1,1,1
-681,aegislash-shield,15,213,Attract,4,0,
-681,aegislash-shield,15,214,Sleep Talk,4,0,
-681,aegislash-shield,15,216,Return,4,0,
-681,aegislash-shield,15,218,Frustration,4,0,
 681,aegislash-shield,15,228,Pursuit,1,1,2
-681,aegislash-shield,15,237,Hidden Power,4,0,
-681,aegislash-shield,15,240,Rain Dance,4,0,
-681,aegislash-shield,15,241,Sunny Day,4,0,
-681,aegislash-shield,15,247,Shadow Ball,4,0,
-681,aegislash-shield,15,249,Rock Smash,4,0,
-681,aegislash-shield,15,263,Facade,4,0,
-681,aegislash-shield,15,280,Brick Break,4,0,
 681,aegislash-shield,15,332,Aerial Ace,1,1,12
-681,aegislash-shield,15,332,Aerial Ace,4,0,
 681,aegislash-shield,15,334,Iron Defense,1,1,6
-681,aegislash-shield,15,360,Gyro Ball,4,0,
 681,aegislash-shield,15,379,Power Trick,1,1,8
 681,aegislash-shield,15,400,Night Slash,1,1,7
-681,aegislash-shield,15,416,Giga Impact,4,0,
-681,aegislash-shield,15,421,Shadow Claw,4,0,
 681,aegislash-shield,15,425,Shadow Sneak,1,1,4
-681,aegislash-shield,15,430,Flash Cannon,4,0,
 681,aegislash-shield,15,442,Iron Head,1,1,9
 681,aegislash-shield,15,457,Head Smash,1,1,10
 681,aegislash-shield,15,475,Autotomize,1,1,3
-681,aegislash-shield,15,496,Round,4,0,
-681,aegislash-shield,15,514,Retaliate,4,0,
 681,aegislash-shield,15,533,Sacred Sword,1,1,14
 681,aegislash-shield,15,588,King's Shield,1,1,13
-681,aegislash-shield,15,590,Confide,4,0,
 681,aegislash-shield,16,14,Swords Dance,1,1,11
-681,aegislash-shield,16,14,Swords Dance,4,0,
-681,aegislash-shield,16,15,Cut,4,0,
-681,aegislash-shield,16,63,Hyper Beam,4,0,
-681,aegislash-shield,16,92,Toxic,4,0,
-681,aegislash-shield,16,104,Double Team,4,0,
-681,aegislash-shield,16,115,Reflect,4,0,
-681,aegislash-shield,16,156,Rest,4,0,
-681,aegislash-shield,16,157,Rock Slide,4,0,
 681,aegislash-shield,16,163,Slash,1,1,5
-681,aegislash-shield,16,164,Substitute,4,0,
-681,aegislash-shield,16,173,Snore,3,0,
-681,aegislash-shield,16,180,Spite,3,0,
-681,aegislash-shield,16,182,Protect,4,0,
-681,aegislash-shield,16,206,False Swipe,4,0,
-681,aegislash-shield,16,207,Swagger,4,0,
 681,aegislash-shield,16,210,Fury Cutter,1,1,1
-681,aegislash-shield,16,213,Attract,4,0,
-681,aegislash-shield,16,214,Sleep Talk,4,0,
-681,aegislash-shield,16,216,Return,4,0,
-681,aegislash-shield,16,218,Frustration,4,0,
 681,aegislash-shield,16,228,Pursuit,1,1,2
-681,aegislash-shield,16,237,Hidden Power,4,0,
-681,aegislash-shield,16,240,Rain Dance,4,0,
-681,aegislash-shield,16,241,Sunny Day,4,0,
-681,aegislash-shield,16,247,Shadow Ball,4,0,
-681,aegislash-shield,16,249,Rock Smash,4,0,
-681,aegislash-shield,16,263,Facade,4,0,
-681,aegislash-shield,16,280,Brick Break,4,0,
-681,aegislash-shield,16,290,Secret Power,4,0,
 681,aegislash-shield,16,332,Aerial Ace,1,1,12
-681,aegislash-shield,16,332,Aerial Ace,4,0,
 681,aegislash-shield,16,334,Iron Defense,1,1,6
-681,aegislash-shield,16,334,Iron Defense,3,0,
-681,aegislash-shield,16,335,Block,3,0,
-681,aegislash-shield,16,351,Shock Wave,3,0,
-681,aegislash-shield,16,360,Gyro Ball,4,0,
 681,aegislash-shield,16,379,Power Trick,1,1,8
-681,aegislash-shield,16,393,Magnet Rise,3,0,
 681,aegislash-shield,16,400,Night Slash,1,1,7
-681,aegislash-shield,16,416,Giga Impact,4,0,
-681,aegislash-shield,16,421,Shadow Claw,4,0,
 681,aegislash-shield,16,425,Shadow Sneak,1,1,4
-681,aegislash-shield,16,430,Flash Cannon,4,0,
 681,aegislash-shield,16,442,Iron Head,1,1,9
-681,aegislash-shield,16,442,Iron Head,3,0,
 681,aegislash-shield,16,457,Head Smash,1,1,10
 681,aegislash-shield,16,475,Autotomize,1,1,3
-681,aegislash-shield,16,495,After You,3,0,
-681,aegislash-shield,16,496,Round,4,0,
-681,aegislash-shield,16,514,Retaliate,4,0,
 681,aegislash-shield,16,533,Sacred Sword,1,1,14
 681,aegislash-shield,16,588,King's Shield,1,1,13
-681,aegislash-shield,16,590,Confide,4,0,

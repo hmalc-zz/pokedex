@@ -2,205 +2,84 @@ pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,
 615,cryogonal,11,20,Bind,1,1,
 615,cryogonal,11,54,Mist,1,21,1
 615,cryogonal,11,58,Ice Beam,1,33,
-615,cryogonal,11,58,Ice Beam,4,0,
-615,cryogonal,11,59,Blizzard,4,0,
 615,cryogonal,11,62,Aurora Beam,1,25,
-615,cryogonal,11,63,Hyper Beam,4,0,
 615,cryogonal,11,76,Solar Beam,1,53,
-615,cryogonal,11,76,Solar Beam,4,0,
-615,cryogonal,11,92,Toxic,4,0,
-615,cryogonal,11,104,Double Team,4,0,
 615,cryogonal,11,105,Recover,1,49,
 615,cryogonal,11,109,Confuse Ray,1,45,
 615,cryogonal,11,113,Light Screen,1,37,1
-615,cryogonal,11,113,Light Screen,4,0,
 615,cryogonal,11,114,Haze,1,21,2
 615,cryogonal,11,115,Reflect,1,37,2
-615,cryogonal,11,115,Reflect,4,0,
 615,cryogonal,11,151,Acid Armor,1,29,
-615,cryogonal,11,153,Explosion,4,0,
-615,cryogonal,11,156,Rest,4,0,
 615,cryogonal,11,159,Sharpen,1,9,
 615,cryogonal,11,163,Slash,1,41,
-615,cryogonal,11,164,Substitute,4,0,
-615,cryogonal,11,182,Protect,4,0,
 615,cryogonal,11,196,Icy Wind,1,17,
-615,cryogonal,11,207,Swagger,4,0,
-615,cryogonal,11,213,Attract,4,0,
-615,cryogonal,11,216,Return,4,0,
-615,cryogonal,11,218,Frustration,4,0,
 615,cryogonal,11,229,Rapid Spin,1,13,
-615,cryogonal,11,237,Hidden Power,4,0,
-615,cryogonal,11,240,Rain Dance,4,0,
-615,cryogonal,11,258,Hail,4,0,
-615,cryogonal,11,263,Facade,4,0,
 615,cryogonal,11,329,Sheer Cold,1,61,
-615,cryogonal,11,398,Poison Jab,4,0,
 615,cryogonal,11,400,Night Slash,1,57,
 615,cryogonal,11,420,Ice Shard,1,5,
-615,cryogonal,11,430,Flash Cannon,4,0,
-615,cryogonal,11,496,Round,4,0,
-615,cryogonal,11,512,Acrobatics,4,0,
-615,cryogonal,11,524,Frost Breath,4,0,
 615,cryogonal,14,20,Bind,1,1,
-615,cryogonal,14,20,Bind,3,0,
 615,cryogonal,14,54,Mist,1,21,1
 615,cryogonal,14,58,Ice Beam,1,33,
-615,cryogonal,14,58,Ice Beam,4,0,
-615,cryogonal,14,59,Blizzard,4,0,
 615,cryogonal,14,62,Aurora Beam,1,25,
-615,cryogonal,14,63,Hyper Beam,4,0,
 615,cryogonal,14,76,Solar Beam,1,53,
-615,cryogonal,14,76,Solar Beam,4,0,
-615,cryogonal,14,92,Toxic,4,0,
-615,cryogonal,14,104,Double Team,4,0,
 615,cryogonal,14,105,Recover,1,49,
 615,cryogonal,14,109,Confuse Ray,1,45,
 615,cryogonal,14,113,Light Screen,1,37,1
-615,cryogonal,14,113,Light Screen,4,0,
 615,cryogonal,14,114,Haze,1,21,2
 615,cryogonal,14,115,Reflect,1,37,2
-615,cryogonal,14,115,Reflect,4,0,
 615,cryogonal,14,151,Acid Armor,1,29,
-615,cryogonal,14,153,Explosion,4,0,
-615,cryogonal,14,156,Rest,4,0,
 615,cryogonal,14,159,Sharpen,1,9,
 615,cryogonal,14,163,Slash,1,41,
-615,cryogonal,14,164,Substitute,4,0,
-615,cryogonal,14,173,Snore,3,0,
-615,cryogonal,14,182,Protect,4,0,
 615,cryogonal,14,196,Icy Wind,1,17,
-615,cryogonal,14,196,Icy Wind,3,0,
-615,cryogonal,14,207,Swagger,4,0,
-615,cryogonal,14,213,Attract,4,0,
-615,cryogonal,14,214,Sleep Talk,3,0,
-615,cryogonal,14,216,Return,4,0,
-615,cryogonal,14,218,Frustration,4,0,
 615,cryogonal,14,229,Rapid Spin,1,13,
-615,cryogonal,14,237,Hidden Power,4,0,
-615,cryogonal,14,240,Rain Dance,4,0,
-615,cryogonal,14,258,Hail,4,0,
-615,cryogonal,14,263,Facade,4,0,
-615,cryogonal,14,277,Magic Coat,3,0,
-615,cryogonal,14,282,Knock Off,3,0,
-615,cryogonal,14,324,Signal Beam,3,0,
 615,cryogonal,14,329,Sheer Cold,1,61,
-615,cryogonal,14,334,Iron Defense,3,0,
-615,cryogonal,14,398,Poison Jab,4,0,
 615,cryogonal,14,400,Night Slash,1,57,
 615,cryogonal,14,420,Ice Shard,1,5,
-615,cryogonal,14,430,Flash Cannon,4,0,
-615,cryogonal,14,496,Round,4,0,
-615,cryogonal,14,512,Acrobatics,4,0,
-615,cryogonal,14,524,Frost Breath,4,0,
 615,cryogonal,15,20,Bind,1,1,6
 615,cryogonal,15,54,Mist,1,1,4
 615,cryogonal,15,54,Mist,1,21,1
 615,cryogonal,15,58,Ice Beam,1,33,
-615,cryogonal,15,58,Ice Beam,4,0,
-615,cryogonal,15,59,Blizzard,4,0,
 615,cryogonal,15,62,Aurora Beam,1,25,
-615,cryogonal,15,63,Hyper Beam,4,0,
 615,cryogonal,15,76,Solar Beam,1,53,
-615,cryogonal,15,76,Solar Beam,4,0,
-615,cryogonal,15,92,Toxic,4,0,
-615,cryogonal,15,104,Double Team,4,0,
 615,cryogonal,15,105,Recover,1,49,
 615,cryogonal,15,109,Confuse Ray,1,45,
 615,cryogonal,15,113,Light Screen,1,37,1
-615,cryogonal,15,113,Light Screen,4,0,
 615,cryogonal,15,114,Haze,1,1,5
 615,cryogonal,15,114,Haze,1,21,2
 615,cryogonal,15,115,Reflect,1,37,2
-615,cryogonal,15,115,Reflect,4,0,
 615,cryogonal,15,151,Acid Armor,1,29,
-615,cryogonal,15,153,Explosion,4,0,
-615,cryogonal,15,156,Rest,4,0,
 615,cryogonal,15,159,Sharpen,1,9,
 615,cryogonal,15,163,Slash,1,41,
-615,cryogonal,15,164,Substitute,4,0,
-615,cryogonal,15,182,Protect,4,0,
 615,cryogonal,15,196,Icy Wind,1,17,
-615,cryogonal,15,207,Swagger,4,0,
-615,cryogonal,15,213,Attract,4,0,
-615,cryogonal,15,214,Sleep Talk,4,0,
-615,cryogonal,15,216,Return,4,0,
-615,cryogonal,15,218,Frustration,4,0,
 615,cryogonal,15,229,Rapid Spin,1,13,
-615,cryogonal,15,237,Hidden Power,4,0,
-615,cryogonal,15,240,Rain Dance,4,0,
-615,cryogonal,15,258,Hail,4,0,
-615,cryogonal,15,263,Facade,4,0,
 615,cryogonal,15,329,Sheer Cold,1,1,1
 615,cryogonal,15,329,Sheer Cold,1,61,
-615,cryogonal,15,398,Poison Jab,4,0,
 615,cryogonal,15,400,Night Slash,1,1,2
 615,cryogonal,15,400,Night Slash,1,57,
 615,cryogonal,15,420,Ice Shard,1,1,3
 615,cryogonal,15,420,Ice Shard,1,5,
-615,cryogonal,15,430,Flash Cannon,4,0,
-615,cryogonal,15,496,Round,4,0,
-615,cryogonal,15,512,Acrobatics,4,0,
-615,cryogonal,15,524,Frost Breath,4,0,
 615,cryogonal,15,573,Freeze-Dry,1,50,
-615,cryogonal,15,590,Confide,4,0,
 615,cryogonal,16,20,Bind,1,1,6
-615,cryogonal,16,20,Bind,3,0,
 615,cryogonal,16,54,Mist,1,1,4
 615,cryogonal,16,54,Mist,1,21,1
 615,cryogonal,16,58,Ice Beam,1,33,1
-615,cryogonal,16,58,Ice Beam,4,0,
-615,cryogonal,16,59,Blizzard,4,0,
 615,cryogonal,16,62,Aurora Beam,1,25,1
-615,cryogonal,16,63,Hyper Beam,4,0,
 615,cryogonal,16,76,Solar Beam,1,53,1
-615,cryogonal,16,76,Solar Beam,4,0,
-615,cryogonal,16,92,Toxic,4,0,
-615,cryogonal,16,104,Double Team,4,0,
 615,cryogonal,16,105,Recover,1,49,1
 615,cryogonal,16,109,Confuse Ray,1,45,1
 615,cryogonal,16,113,Light Screen,1,37,1
-615,cryogonal,16,113,Light Screen,4,0,
 615,cryogonal,16,114,Haze,1,1,5
 615,cryogonal,16,114,Haze,1,21,2
 615,cryogonal,16,115,Reflect,1,37,2
-615,cryogonal,16,115,Reflect,4,0,
 615,cryogonal,16,151,Acid Armor,1,29,1
-615,cryogonal,16,153,Explosion,4,0,
-615,cryogonal,16,156,Rest,4,0,
 615,cryogonal,16,159,Sharpen,1,9,1
 615,cryogonal,16,163,Slash,1,41,1
-615,cryogonal,16,164,Substitute,4,0,
-615,cryogonal,16,173,Snore,3,0,
-615,cryogonal,16,182,Protect,4,0,
 615,cryogonal,16,196,Icy Wind,1,17,1
-615,cryogonal,16,196,Icy Wind,3,0,
-615,cryogonal,16,207,Swagger,4,0,
-615,cryogonal,16,213,Attract,4,0,
-615,cryogonal,16,214,Sleep Talk,4,0,
-615,cryogonal,16,216,Return,4,0,
-615,cryogonal,16,218,Frustration,4,0,
 615,cryogonal,16,229,Rapid Spin,1,13,1
-615,cryogonal,16,237,Hidden Power,4,0,
-615,cryogonal,16,240,Rain Dance,4,0,
-615,cryogonal,16,258,Hail,4,0,
-615,cryogonal,16,263,Facade,4,0,
-615,cryogonal,16,277,Magic Coat,3,0,
-615,cryogonal,16,282,Knock Off,3,0,
-615,cryogonal,16,290,Secret Power,4,0,
-615,cryogonal,16,324,Signal Beam,3,0,
 615,cryogonal,16,329,Sheer Cold,1,1,1
 615,cryogonal,16,329,Sheer Cold,1,61,1
-615,cryogonal,16,334,Iron Defense,3,0,
-615,cryogonal,16,352,Water Pulse,3,0,
-615,cryogonal,16,398,Poison Jab,4,0,
 615,cryogonal,16,400,Night Slash,1,1,2
 615,cryogonal,16,400,Night Slash,1,57,1
 615,cryogonal,16,420,Ice Shard,1,1,3
 615,cryogonal,16,420,Ice Shard,1,5,1
-615,cryogonal,16,430,Flash Cannon,4,0,
-615,cryogonal,16,496,Round,4,0,
-615,cryogonal,16,512,Acrobatics,4,0,
-615,cryogonal,16,524,Frost Breath,4,0,
 615,cryogonal,16,573,Freeze-Dry,1,50,1
-615,cryogonal,16,590,Confide,4,0,

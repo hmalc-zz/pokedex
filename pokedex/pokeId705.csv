@@ -1,78 +1,23 @@
 pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
 705,sliggoo,15,33,Tackle,1,1,1
 705,sliggoo,15,34,Body Slam,1,32,
-705,sliggoo,15,58,Ice Beam,4,0,
-705,sliggoo,15,59,Blizzard,4,0,
 705,sliggoo,15,71,Absorb,1,5,
-705,sliggoo,15,85,Thunderbolt,4,0,
-705,sliggoo,15,92,Toxic,4,0,
-705,sliggoo,15,104,Double Team,4,0,
 705,sliggoo,15,117,Bide,1,13,
 705,sliggoo,15,145,Bubble,1,1,2
-705,sliggoo,15,156,Rest,4,0,
-705,sliggoo,15,157,Rock Slide,4,0,
-705,sliggoo,15,164,Substitute,4,0,
 705,sliggoo,15,175,Flail,1,28,
 705,sliggoo,15,182,Protect,1,9,
-705,sliggoo,15,182,Protect,4,0,
-705,sliggoo,15,188,Sludge Bomb,4,0,
-705,sliggoo,15,207,Swagger,4,0,
-705,sliggoo,15,213,Attract,4,0,
-705,sliggoo,15,214,Sleep Talk,4,0,
-705,sliggoo,15,216,Return,4,0,
-705,sliggoo,15,218,Frustration,4,0,
 705,sliggoo,15,225,Dragon Breath,1,18,
-705,sliggoo,15,237,Hidden Power,4,0,
 705,sliggoo,15,240,Rain Dance,1,25,
-705,sliggoo,15,240,Rain Dance,4,0,
-705,sliggoo,15,241,Sunny Day,4,0,
-705,sliggoo,15,263,Facade,4,0,
 705,sliggoo,15,330,Muddy Water,1,38,
 705,sliggoo,15,406,Dragon Pulse,1,47,
-705,sliggoo,15,434,Draco Meteor,3,0,
-705,sliggoo,15,482,Sludge Wave,4,0,
-705,sliggoo,15,496,Round,4,0,
-705,sliggoo,15,590,Confide,4,0,
-705,sliggoo,15,611,Infestation,4,0,
 705,sliggoo,16,33,Tackle,1,1,1
 705,sliggoo,16,34,Body Slam,1,32,1
-705,sliggoo,16,58,Ice Beam,4,0,
-705,sliggoo,16,59,Blizzard,4,0,
 705,sliggoo,16,71,Absorb,1,5,1
-705,sliggoo,16,85,Thunderbolt,4,0,
-705,sliggoo,16,92,Toxic,4,0,
-705,sliggoo,16,104,Double Team,4,0,
 705,sliggoo,16,117,Bide,1,13,1
 705,sliggoo,16,145,Bubble,1,1,2
-705,sliggoo,16,156,Rest,4,0,
-705,sliggoo,16,157,Rock Slide,4,0,
-705,sliggoo,16,164,Substitute,4,0,
-705,sliggoo,16,173,Snore,3,0,
 705,sliggoo,16,175,Flail,1,28,1
 705,sliggoo,16,182,Protect,1,9,1
-705,sliggoo,16,182,Protect,4,0,
-705,sliggoo,16,188,Sludge Bomb,4,0,
-705,sliggoo,16,200,Outrage,3,0,
-705,sliggoo,16,207,Swagger,4,0,
-705,sliggoo,16,213,Attract,4,0,
-705,sliggoo,16,214,Sleep Talk,4,0,
-705,sliggoo,16,216,Return,4,0,
-705,sliggoo,16,218,Frustration,4,0,
 705,sliggoo,16,225,Dragon Breath,1,18,1
-705,sliggoo,16,231,Iron Tail,3,0,
-705,sliggoo,16,237,Hidden Power,4,0,
 705,sliggoo,16,240,Rain Dance,1,25,1
-705,sliggoo,16,240,Rain Dance,4,0,
-705,sliggoo,16,241,Sunny Day,4,0,
-705,sliggoo,16,263,Facade,4,0,
-705,sliggoo,16,290,Secret Power,4,0,
 705,sliggoo,16,330,Muddy Water,1,38,1
-705,sliggoo,16,351,Shock Wave,3,0,
-705,sliggoo,16,352,Water Pulse,3,0,
 705,sliggoo,16,406,Dragon Pulse,1,47,1
-705,sliggoo,16,406,Dragon Pulse,3,0,
-705,sliggoo,16,434,Draco Meteor,3,0,
-705,sliggoo,16,482,Sludge Wave,4,0,
-705,sliggoo,16,496,Round,4,0,
-705,sliggoo,16,590,Confide,4,0,
-705,sliggoo,16,611,Infestation,4,0,

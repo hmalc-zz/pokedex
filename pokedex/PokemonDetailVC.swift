@@ -27,9 +27,7 @@ class PokemonDetailVC: UIViewController {
     
     var pokemon: Pokemon!
     
-    var moveList: [String] = []
-    var levelLearnedList: [String] = []
-    var methodLearnedList: [String] = []
+
     
     var selectedVersionLabel: Int! = 15
     
@@ -56,28 +54,41 @@ class PokemonDetailVC: UIViewController {
     
     func parsePokeMovesCSV() {
         
+        var moveIndex: [String] = []
+        var moveLevel: [String] = []
+        
+        
         let path = NSBundle.mainBundle().pathForResource("pokeId\(pokemon.pokedexId)", ofType: "csv")!
         
         do {
             let csv = try CSV(contentsOfURL: path)
             let rows = csv.rows
             
+            var i: Int = 1
+            
             for row in rows {
+                
                 if selectedVersionLabel == Int(row["version_group_id"]!) {
                     
-                    self.moveList.append(row["move_name"]!)
-                    self.levelLearnedList.append(row["level"]!)
-                    self.methodLearnedList.append(row["pokemon_move_method_id"]!)
-                    
-                    print(moveList,levelLearnedList,methodLearnedList)
-                
+                    for index in 0...100 {
+                        
+                        if index == Int(row["level"]!) {
+                            
+                            print(index)
+                            
+                            moveIndex.append(row["move_name"]!)
+                            moveLevel.append((row["level"]!))
+                        
+                        }
+                    }
                 }
-                
             }
             
         } catch let err as NSError {
             print(err.debugDescription)
         }
+        
+        print(moveIndex,moveLevel)
         
         
     }
