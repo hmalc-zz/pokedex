@@ -1,0 +1,2 @@
+id,identifier,species_id,height,weight,hp,attack,defense,special attack,special defense,speed,type1_id,type2_id,base_experience,order,is_default,generation_id,evolves_from_species_id,evolution_chain_id,color_id,shape_id,habitat_id,gender_rate,capture_rate,base_happiness,"is_baby,hatch_counter",has_gender_differences,growth_rate_id,forms_switchable,order,conquest_order
+69,bellsprout,69,7,40,50,75,35,70,30,40,Grass,Poison,60,80,1,1,,70,29,5,12,2,4,255,70,0,20,0,4,0,75

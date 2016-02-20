@@ -1,0 +1,2 @@
+id,identifier,species_id,height,weight,hp,attack,defense,special attack,special defense,speed,type1_id,type2_id,base_experience,order,is_default,generation_id,evolves_from_species_id,evolution_chain_id,color_id,shape_id,habitat_id,gender_rate,capture_rate,base_happiness,"is_baby,hatch_counter",has_gender_differences,growth_rate_id,forms_switchable,order,conquest_order
+110,weezing,110,12,95,65,90,120,85,70,60,Poison,,172,128,1,1,109,,49,7,11,8,4,60,70,0,20,0,2,0,122

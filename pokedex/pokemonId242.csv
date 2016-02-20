@@ -1,0 +1,2 @@
+id,identifier,species_id,height,weight,hp,attack,defense,special attack,special defense,speed,type1_id,type2_id,base_experience,order,is_default,generation_id,evolves_from_species_id,evolution_chain_id,color_id,shape_id,habitat_id,gender_rate,capture_rate,base_happiness,"is_baby,hatch_counter",has_gender_differences,growth_rate_id,forms_switchable,order,conquest_order
+242,blissey,242,15,468,255,10,10,75,135,55,Normal,,608,134,1,2,113,,51,6,12,8,8,30,140,0,40,0,3,0,128

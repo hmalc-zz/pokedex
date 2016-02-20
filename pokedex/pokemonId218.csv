@@ -1,0 +1,2 @@
+id,identifier,species_id,height,weight,hp,attack,defense,special attack,special defense,speed,type1_id,type2_id,base_experience,order,is_default,generation_id,evolves_from_species_id,evolution_chain_id,color_id,shape_id,habitat_id,gender_rate,capture_rate,base_happiness,"is_baby,hatch_counter",has_gender_differences,growth_rate_id,forms_switchable,order,conquest_order
+218,slugma,218,7,350,40,40,40,70,40,20,Fire,,50,264,1,2,,219,111,8,2,4,4,190,70,0,20,0,2,0,249

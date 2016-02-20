@@ -1,0 +1,2 @@
+id,identifier,species_id,height,weight,hp,attack,defense,special attack,special defense,speed,type1_id,type2_id,base_experience,order,is_default,generation_id,evolves_from_species_id,evolution_chain_id,color_id,shape_id,habitat_id,gender_rate,capture_rate,base_happiness,"is_baby,hatch_counter",has_gender_differences,growth_rate_id,forms_switchable,order,conquest_order
+512,simisage,512,11,305,75,98,63,98,63,101,Grass,,174,557,1,5,511,,262,5,6,,1,75,70,0,20,0,2,0,513

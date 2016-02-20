@@ -11,14 +11,26 @@ import Foundation
 
 class Pokemon {
     
+    // MARK: Variables
+    
     private var _name: String!
     private var _pokedexId: Int!
+    
     private var _description: String!
-    private var _type: String!
+    
+    private var _type1: String!
+    private var _type2: String!
+    
+    private var _hp: String!
     private var _defense: String!
+    private var _attack: String!
+    private var _specialAttack: String!
+    private var _specialDefense: String!
+    private var _speed: String!
+    
     private var _height: String!
     private var _weight: String!
-    private var _attack: String!
+
     private var _nextEvolutionText: String!
     private var _nextEvolutionId: String!
     private var _nextEvolutionLevel: String!
@@ -27,6 +39,8 @@ class Pokemon {
     
     private var _moveList: [String]!
     private var _levelList: [Int]!
+    
+    //MARK: Getters
     
     
     var moveList: [String] {
@@ -58,11 +72,32 @@ class Pokemon {
         return _description
     }
     
-    var type: String {
-        if _type == nil {
-            _type = ""
+    var type1: String {
+        if _type1 == nil {
+            _type1 = ""
         }
-        return _type
+        return _type1
+    }
+    
+    var type2: String {
+        if _type2 == nil {
+            _type2 = ""
+        }
+        return _type2
+    }
+    
+    var hp: String {
+        if _hp == nil {
+            _hp = ""
+        }
+        return _hp
+    }
+    
+    var attack: String {
+        if _attack == nil {
+            _attack = ""
+        }
+        return _attack
     }
     
     var defense: String {
@@ -70,6 +105,27 @@ class Pokemon {
             _defense = ""
         }
         return _defense
+    }
+        
+    var specialAttack: String {
+        if _specialAttack == nil {
+            _specialAttack = ""
+        }
+        return _specialAttack
+    }
+        
+    var specialDefense: String {
+        if _specialDefense == nil {
+            _specialDefense = ""
+        }
+        return _specialDefense
+    }
+    
+    var speed: String {
+        if _speed == nil {
+            _speed = ""
+        }
+        return _speed
     }
     
     var height: String {
@@ -84,13 +140,6 @@ class Pokemon {
             _weight = ""
         }
         return _weight
-    }
-    
-    var attack: String {
-        if _attack == nil {
-            _attack = ""
-        }
-        return _attack
     }
     
     var nextEvolutionText: String {
@@ -116,7 +165,7 @@ class Pokemon {
             return _nextEvolutionLevel
     }
 
-    
+    //MARK: Initialiser
     
     init(name: String, pokedexId: Int) {
         self._name = name
@@ -126,6 +175,80 @@ class Pokemon {
     
     }
     
+    //MARK: Parse stats
+    
+    func parsePokeStatsCSV() {
+        
+        let path = NSBundle.mainBundle().pathForResource("pokemonId\(pokedexId)", ofType: "csv")!
+        
+        do {
+            let csv = try CSV(contentsOfURL: path)
+            let rows = csv.rows
+            
+            for row in rows {
+                
+                if pokedexId == Int(row["id"]!) {
+                   
+                    // Height + Weight
+                    
+                    if let height = row["height"] {
+                        self._height = height
+                    }
+                    
+                    if let weight = row["weight"] {
+                        self._weight = weight
+                    }
+                    
+                    // Base Stats
+                    
+                    if let hp = row["hp"] {
+                        self._hp = hp
+                    }
+                    
+                    if let attack = row["attack"] {
+                        self._attack = attack
+                    }
+                    
+                    if let defense = row["defense"] {
+                        self._defense = defense
+                    }
+                    
+                    if let specialAttack = row["special attack"] {
+                        self._specialAttack = specialAttack
+                    }
+                    
+                    if let specialDefense = row["special defense"] {
+                        self._specialDefense = specialDefense
+                    }
+                    
+                    if let speed = row["speed"] {
+                        self._speed = speed
+                    }
+                    
+                    // Types
+                    
+                    if let type1 = row["type1_id"] {
+                        self._type1 = type1
+                    }
+                    
+                    if let type2 = row["type2_id"] {
+                        self._type2 = type2
+                    }
+                    
+                    print([height,weight,type1,type2,hp,attack,defense,specialAttack,specialDefense,speed])
+                    
+                }
+            }
+            
+        } catch let err as NSError {
+            print(err.debugDescription)
+
+            
+            
+        }
+    }
+    
+    // MARK: Parse Moves
     
     func parsePokeMovesCSV(selectedVersionLabel: Int) {
         
@@ -175,7 +298,7 @@ class Pokemon {
         
     }
     
-    
+    //MARK: Alamofire HTTP protocol for downloading from PokeAPI
     
     
     

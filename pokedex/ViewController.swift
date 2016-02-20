@@ -63,11 +63,13 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
                 let name = row["identifier"]!
                 let poke = Pokemon(name: name, pokedexId: pokeId)
                 pokemon.append(poke)
+
             }
             
         } catch let err as NSError {
             print(err.debugDescription)
         }
+        
     }
     
     

@@ -27,8 +27,6 @@ class PokemonDetailVC: UIViewController {
     
     var pokemon: Pokemon!
     
-
-    
     var selectedVersionLabel: Int! = 15
     
     override func viewDidLoad() {
@@ -40,6 +38,7 @@ class PokemonDetailVC: UIViewController {
         currentEvo.image = img
         
         pokemon.parsePokeMovesCSV(selectedVersionLabel)
+        pokemon.parsePokeStatsCSV()
         
         updateUI()
         
@@ -56,13 +55,15 @@ class PokemonDetailVC: UIViewController {
 
     func updateUI() {
         nameLbl.text = pokemon.name.capitalizedString
-        descriptionLbl.text = pokemon.description.stringByReplacingOccurrencesOfString("POKMON", withString: "Pokémon")
-        typeLbl.text = pokemon.moveList[0]
+        descriptionLbl.text = pokemon.description
+        typeLbl.text = "\(pokemon.type1) \(pokemon.type2)"
+        
+        attackLbl.text = pokemon.attack
         defenseLbl.text = pokemon.defense
         heightLbl.text = "\(pokemon.height) ft"
         pokedexLbl.text = "#\(pokemon.pokedexId)"
         weightLbl.text = "\(pokemon.weight) lbs"
-        attackLbl.text = pokemon.attack
+
         
         if pokemon.nextEvolutionId == "" {
             evoLbl.text = "No evolutions"
