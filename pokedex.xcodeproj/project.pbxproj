@@ -2166,10 +2166,11 @@
 		B404ED041C79647C00FB0C35 /* pokemonId718.csv in Resources */ = {isa = PBXBuildFile; fileRef = B404EA351C79647C00FB0C35 /* pokemonId718.csv */; };
 		B404ED051C79647C00FB0C35 /* pokemonId719.csv in Resources */ = {isa = PBXBuildFile; fileRef = B404EA361C79647C00FB0C35 /* pokemonId719.csv */; };
 		B45BAA0F1C643A9A00AF752A /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B45BAA0E1C643A9A00AF752A /* Constants.swift */; };
+		B4EBC7A91C7A6F9E00D1653C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4EBC7A81C7A6F9E00D1653C /* Assets.xcassets */; };
+		B4EBC7AB1C7A772500D1653C /* pokeinit.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4EBC7AA1C7A772500D1653C /* pokeinit.csv */; };
 		B4FE75EC1C631DAA003BC527 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FE75EB1C631DAA003BC527 /* AppDelegate.swift */; };
 		B4FE75EE1C631DAA003BC527 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FE75ED1C631DAA003BC527 /* ViewController.swift */; };
 		B4FE75F11C631DAA003BC527 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4FE75EF1C631DAA003BC527 /* Main.storyboard */; };
-		B4FE75F31C631DAA003BC527 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4FE75F21C631DAA003BC527 /* Assets.xcassets */; };
 		B4FE75F61C631DAA003BC527 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4FE75F41C631DAA003BC527 /* LaunchScreen.storyboard */; };
 		B4FE75FE1C63213A003BC527 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4FE75FD1C63213A003BC527 /* pokemon.csv */; };
 		B4FE76011C63B635003BC527 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FE76001C63B635003BC527 /* Pokemon.swift */; };
@@ -4339,11 +4340,12 @@
 		B404EA351C79647C00FB0C35 /* pokemonId718.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemonId718.csv; sourceTree = "<group>"; };
 		B404EA361C79647C00FB0C35 /* pokemonId719.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemonId719.csv; sourceTree = "<group>"; };
 		B45BAA0E1C643A9A00AF752A /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		B4EBC7A81C7A6F9E00D1653C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B4EBC7AA1C7A772500D1653C /* pokeinit.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokeinit.csv; sourceTree = "<group>"; };
 		B4FE75E81C631DAA003BC527 /* pokedex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pokedex.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4FE75EB1C631DAA003BC527 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B4FE75ED1C631DAA003BC527 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		B4FE75F01C631DAA003BC527 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		B4FE75F21C631DAA003BC527 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B4FE75F51C631DAA003BC527 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B4FE75F71C631DAA003BC527 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B4FE75FD1C63213A003BC527 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
@@ -6569,9 +6571,9 @@
 				B4FE76091C63E794003BC527 /* Resources */,
 				B4FE75EF1C631DAA003BC527 /* Main.storyboard */,
 				B4FE75EB1C631DAA003BC527 /* AppDelegate.swift */,
-				B4FE75F21C631DAA003BC527 /* Assets.xcassets */,
 				B4FE75F41C631DAA003BC527 /* LaunchScreen.storyboard */,
 				B4FE75F71C631DAA003BC527 /* Info.plist */,
+				B4EBC7A81C7A6F9E00D1653C /* Assets.xcassets */,
 			);
 			path = pokedex;
 			sourceTree = "<group>";
@@ -6617,6 +6619,7 @@
 				B404CB501C79224B00FB0C35 /* Attibutes */,
 				B404CB4F1C7921D000FB0C35 /* Moves */,
 				B4FE760A1C63F8EC003BC527 /* music.mp3 */,
+				B4EBC7AA1C7A772500D1653C /* pokeinit.csv */,
 				B4FE75FD1C63213A003BC527 /* pokemon.csv */,
 				B404CB4D1C7900C400FB0C35 /* pokemonmaster.csv */,
 			);
@@ -7155,6 +7158,7 @@
 				B404EB931C79647C00FB0C35 /* pokemonId349.csv in Resources */,
 				B404EAD21C79647C00FB0C35 /* pokemonId156.csv in Resources */,
 				B404C8E01C77F43700FB0C35 /* pokeId101.csv in Resources */,
+				B4EBC7AB1C7A772500D1653C /* pokeinit.csv in Resources */,
 				B404EB621C79647C00FB0C35 /* pokemonId300.csv in Resources */,
 				B404C8CB1C77F43700FB0C35 /* pokeId80.csv in Resources */,
 				B404D5D51C7922E000FB0C35 /* pokemonDescId535.csv in Resources */,
@@ -7948,7 +7952,6 @@
 				B404D5D81C7922E000FB0C35 /* pokemonDescId538.csv in Resources */,
 				B404D4F01C7922E000FB0C35 /* pokemonDescId306.csv in Resources */,
 				B404EBBB1C79647C00FB0C35 /* pokemonId389.csv in Resources */,
-				B4FE75F31C631DAA003BC527 /* Assets.xcassets in Resources */,
 				B404CB181C77F43700FB0C35 /* pokeId669.csv in Resources */,
 				B404D51C1C7922E000FB0C35 /* pokemonDescId350.csv in Resources */,
 				B404C9481C77F43700FB0C35 /* pokeId205.csv in Resources */,
@@ -8220,6 +8223,7 @@
 				B404ECC01C79647C00FB0C35 /* pokemonId650.csv in Resources */,
 				B404D45A1C7922E000FB0C35 /* pokemonDescId156.csv in Resources */,
 				B404C9F31C77F43700FB0C35 /* pokeId376.csv in Resources */,
+				B4EBC7A91C7A6F9E00D1653C /* Assets.xcassets in Resources */,
 				B404C9F21C77F43700FB0C35 /* pokeId375.csv in Resources */,
 				B404EA841C79647C00FB0C35 /* pokemonId78.csv in Resources */,
 				B404EBE91C79647C00FB0C35 /* pokemonId435.csv in Resources */,

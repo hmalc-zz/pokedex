@@ -24,6 +24,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        UIApplication.sharedApplication().statusBarStyle = .LightContent
         collection.delegate = self
         collection.dataSource = self
         searchBar.delegate = self
@@ -52,7 +53,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     
     func parsePokemonCSV() {
         
-        let path = NSBundle.mainBundle().pathForResource("pokemon", ofType: "csv")!
+        let path = NSBundle.mainBundle().pathForResource("pokeinit", ofType: "csv")!
         
         do {
             let csv = try CSV(contentsOfURL: path)
@@ -61,7 +62,8 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
             for row in rows {
                 let pokeId = Int(row["id"]!)!
                 let name = row["identifier"]!
-                let poke = Pokemon(name: name, pokedexId: pokeId)
+                let type1 = row["type1_id"]!
+                let poke = Pokemon(name: name, pokedexId: pokeId,type1: type1)
                 pokemon.append(poke)
 
             }

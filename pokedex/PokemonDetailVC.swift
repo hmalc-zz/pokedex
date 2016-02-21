@@ -73,7 +73,8 @@ class PokemonDetailVC: UIViewController {
         typeLbl1.text = "\(pokemon.type1)"
         typeLbl2.text = "\(pokemon.type2)"
         
-        typeLbl1.backgroundColor = 
+        typeLbl1.backgroundColor = assignColorToType("\(pokemon.type1)",alpha: 1.0)
+        typeLbl2.backgroundColor = assignColorToType("\(pokemon.type2)",alpha: 1.0)
         
         attackLbl.text = pokemon.attack
         defenseLbl.text = pokemon.defense
