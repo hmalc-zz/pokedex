@@ -322,6 +322,12 @@
                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" translatesAutoresizingMaskIntoConstraints="NO" id="DwU-ag-Ku9">
                                 <rect key="frame" x="20" y="492" width="560" height="100"/>
                                 <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="nu5-S1-bEn">
+                                        <rect key="frame" x="0.0" y="0.0" width="0.0" height="100"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="100" id="dYg-m2-aHR"/>
+                                        </constraints>
+                                    </imageView>
                                     <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="white" translatesAutoresizingMaskIntoConstraints="NO" id="DfP-sb-AZ0">
                                         <rect key="frame" x="0.0" y="0.0" width="280" height="100"/>
                                         <constraints>
@@ -386,6 +392,7 @@
                         <outlet property="nameLbl" destination="Lqe-xV-eya" id="YDQ-FE-CGG"/>
                         <outlet property="nextEvo" destination="7x0-C9-WaG" id="vmn-7M-pRG"/>
                         <outlet property="pokedexLbl" destination="n7g-CX-kql" id="Afp-uv-ef8"/>
+                        <outlet property="prevEvo" destination="nu5-S1-bEn" id="890-QT-LKs"/>
                         <outlet property="typeLbl" destination="Tct-V8-R3q" id="j52-Cq-A18"/>
                         <outlet property="weightLbl" destination="LVk-lM-mnK" id="F7f-7j-OfP"/>
                     </connections>

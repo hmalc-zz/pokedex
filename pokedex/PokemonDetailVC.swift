@@ -24,10 +24,14 @@ class PokemonDetailVC: UIViewController {
     @IBOutlet weak var currentEvo: UIImageView!
     @IBOutlet weak var nextEvo: UIImageView!
     @IBOutlet weak var evoLbl: UILabel!
+    @IBOutlet weak var prevEvo: UIImageView!
+    
+    
+    
     
     var pokemon: Pokemon!
     
-    var selectedVersionLabel: Int! = 15
+    var selectedVersionLabel: Int! = 26
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -37,8 +41,9 @@ class PokemonDetailVC: UIViewController {
         mainImg.image = img
         currentEvo.image = img
         
-        pokemon.parsePokeMovesCSV(selectedVersionLabel)
         pokemon.parsePokeStatsCSV()
+        pokemon.parsePokedexEntryCSV(selectedVersionLabel)
+        
         
         updateUI()
         
@@ -64,22 +69,45 @@ class PokemonDetailVC: UIViewController {
         pokedexLbl.text = "#\(pokemon.pokedexId)"
         weightLbl.text = "\(pokemon.weight) lbs"
 
+        var str = ""
+        
+        if pokemon.previousEvolution == "" {
+            prevEvo.hidden = true
+        } else {
+            prevEvo.hidden = false
+            prevEvo.image = UIImage(named: pokemon.previousEvolution)
+            
+            //var str = "Next Evolution: \(pokemon.nextEvolutionText)"
+            
+            if pokemon.previousEvolutionLevel != "" {
+                str += "Evolved at Lv. \(pokemon.previousEvolutionLevel)"
+            }
+        }
+            
         
         if pokemon.nextEvolutionId == "" {
-            evoLbl.text = "No evolutions"
             nextEvo.hidden = true
         } else {
             nextEvo.hidden = false
             nextEvo.image = UIImage(named: pokemon.nextEvolutionId)
-            var str = "Next Evolution: \(pokemon.nextEvolutionText)"
+            
+            //var str = "Next Evolution: \(pokemon.nextEvolutionText)"
             
             if pokemon.nextEvolutionLevel != "" {
-                str += " at Lv. \(pokemon.nextEvolutionLevel)"
+                str += "Evolves at Lv. \(pokemon.nextEvolutionLevel)"
             }
+        }
+        
+        if pokemon.nextEvolutionId != "" && pokemon.previousEvolution != "" {
+            evoLbl.text = "Evolved at Lv. \(pokemon.previousEvolutionLevel) / Evolves at Lv. \(pokemon.nextEvolutionLevel)"
+        } else {
             evoLbl.text = str
         }
         
-        nextEvo.image = UIImage(named: pokemon.nextEvolutionId)
+        
+        if pokemon.previousEvolution != "" {
+            prevEvo.image = UIImage(named: pokemon.previousEvolution)
+        }
         
             
     }

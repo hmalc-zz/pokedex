@@ -34,6 +34,8 @@ class Pokemon {
     private var _nextEvolutionText: String!
     private var _nextEvolutionId: String!
     private var _nextEvolutionLevel: String!
+    private var _previousEvolution: String!
+    private var _previousEvolutionLevel: String!
     
     private var _pokemonUrl: String!
     
@@ -164,6 +166,22 @@ class Pokemon {
         }
             return _nextEvolutionLevel
     }
+    
+    var previousEvolution: String {
+        
+        if _previousEvolution == nil {
+            _previousEvolution = ""
+        }
+        return _previousEvolution
+    }
+    
+    var previousEvolutionLevel: String {
+        
+        if _previousEvolutionLevel == nil {
+            _previousEvolutionLevel = ""
+        }
+        return _previousEvolutionLevel
+    }
 
     //MARK: Initialiser
     
@@ -186,65 +204,78 @@ class Pokemon {
             let rows = csv.rows
             
             for row in rows {
-                
-                if pokedexId == Int(row["id"]!) {
                    
-                    // Height + Weight
-                    
-                    if let height = row["height"] {
-                        self._height = height
+                // Height + Weight
+                
+                if let height = row["height"] {
+                    self._height = height
+                }
+                
+                if let weight = row["weight"] {
+                    self._weight = weight
+                }
+                
+                // Base Stats
+                
+                if let hp = row["hp"] {
+                    self._hp = hp
+                }
+                
+                if let attack = row["attack"] {
+                    self._attack = attack
+                }
+                
+                if let defense = row["defense"] {
+                    self._defense = defense
+                }
+                
+                if let specialAttack = row["special attack"] {
+                    self._specialAttack = specialAttack
+                }
+                
+                if let specialDefense = row["special defense"] {
+                    self._specialDefense = specialDefense
+                }
+                
+                if let speed = row["speed"] {
+                    self._speed = speed
+                }
+                
+                // Types
+                
+                if let type1 = row["type1_id"] {
+                    self._type1 = type1
+                }
+                
+                if let type2 = row["type2_id"] {
+                    self._type2 = type2
+                }
+                
+                // Evolutions
+                
+                if let nextEvolutionId = row["evolves_to_id"] {
+                    self._nextEvolutionId = nextEvolutionId
+                }
+                
+                if let nextEvolutionLevel = row["evolves_at"] {
+                    self._nextEvolutionLevel = nextEvolutionLevel
                     }
-                    
-                    if let weight = row["weight"] {
-                        self._weight = weight
-                    }
-                    
-                    // Base Stats
-                    
-                    if let hp = row["hp"] {
-                        self._hp = hp
-                    }
-                    
-                    if let attack = row["attack"] {
-                        self._attack = attack
-                    }
-                    
-                    if let defense = row["defense"] {
-                        self._defense = defense
-                    }
-                    
-                    if let specialAttack = row["special attack"] {
-                        self._specialAttack = specialAttack
-                    }
-                    
-                    if let specialDefense = row["special defense"] {
-                        self._specialDefense = specialDefense
-                    }
-                    
-                    if let speed = row["speed"] {
-                        self._speed = speed
-                    }
-                    
-                    // Types
-                    
-                    if let type1 = row["type1_id"] {
-                        self._type1 = type1
-                    }
-                    
-                    if let type2 = row["type2_id"] {
-                        self._type2 = type2
-                    }
-                    
-                    print([height,weight,type1,type2,hp,attack,defense,specialAttack,specialDefense,speed])
+                
+                /*if let nextEvolutionText = row["minimum_level"] {
+                    self._nextEvolutionText = nextEvolutionText
+                }
+                */
+                if let previousEvolution = row["evolves_from_species_id"] {
+                    self._previousEvolution = previousEvolution
+                }
+                
+                if let previousEvolutionLevel = row["minimum_level"] {
+                    self._previousEvolutionLevel = previousEvolutionLevel
                     
                 }
             }
-            
         } catch let err as NSError {
-            print(err.debugDescription)
-
-            
-            
+                print(err.debugDescription)
         }
     }
     
@@ -298,6 +329,33 @@ class Pokemon {
         
     }
     
+    // MARK: Pokedex Entry sorting
+    
+    func parsePokedexEntryCSV(selectedVersionLabel: Int) {
+        
+        let path = NSBundle.mainBundle().pathForResource("pokemonDescId\(pokedexId)", ofType: "csv")!
+        
+        do {
+            let csv = try CSV(contentsOfURL: path)
+            let rows = csv.rows
+            
+            for row in rows {
+                
+                if selectedVersionLabel == Int(row["pokedex_version_id"]!) {
+                
+                    // Pokedex for specified game
+                    
+                    if let description = row["flavor_text"] {
+                        self._description = description
+                    }
+                }
+            }
+            
+        } catch let err as NSError {
+            print(err.debugDescription)
+        }
+    }
+
     //MARK: Alamofire HTTP protocol for downloading from PokeAPI
     
     
