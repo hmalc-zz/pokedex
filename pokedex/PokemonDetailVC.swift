@@ -15,18 +15,26 @@ class PokemonDetailVC: UIViewController {
     @IBOutlet weak var mainImg: UIImageView!
     @IBOutlet weak var nameLbl: UILabel!
     @IBOutlet weak var descriptionLbl: UILabel!
-    @IBOutlet weak var typeLbl: UILabel!
+    @IBOutlet weak var typeLbl1: UILabel!
+    @IBOutlet weak var typeLbl2: UILabel!
+    
+    @IBOutlet weak var hpLbl: UILabel!
     @IBOutlet weak var attackLbl: UILabel!
     @IBOutlet weak var defenseLbl: UILabel!
+    @IBOutlet weak var specialattackLbl: UILabel!
+    @IBOutlet weak var specialdefenseLbl: UILabel!
+    @IBOutlet weak var speedLbl: UILabel!
+    
     @IBOutlet weak var heightLbl: UILabel!
     @IBOutlet weak var weightLbl: UILabel!
     @IBOutlet weak var pokedexLbl: UILabel!
     @IBOutlet weak var currentEvo: UIImageView!
     @IBOutlet weak var nextEvo: UIImageView!
-    @IBOutlet weak var evoLbl: UILabel!
     @IBOutlet weak var prevEvo: UIImageView!
     
-    
+    @IBOutlet weak var evoLbl: UILabel!
+
+
     
     
     var pokemon: Pokemon!
@@ -61,13 +69,24 @@ class PokemonDetailVC: UIViewController {
     func updateUI() {
         nameLbl.text = pokemon.name.capitalizedString
         descriptionLbl.text = pokemon.description
-        typeLbl.text = "\(pokemon.type1) \(pokemon.type2)"
+        
+        typeLbl1.text = "\(pokemon.type1)"
+        typeLbl2.text = "\(pokemon.type2)"
+        
+        typeLbl1.backgroundColor = 
         
         attackLbl.text = pokemon.attack
         defenseLbl.text = pokemon.defense
         heightLbl.text = "\(pokemon.height) ft"
         pokedexLbl.text = "#\(pokemon.pokedexId)"
         weightLbl.text = "\(pokemon.weight) lbs"
+        
+        hpLbl.text = pokemon.hp
+        attackLbl.text = pokemon.attack
+        defenseLbl.text = pokemon.defense
+        specialattackLbl.text = pokemon.specialAttack
+        specialdefenseLbl.text = pokemon.specialDefense
+        speedLbl.text = pokemon.speed
 
         var str = ""
         
@@ -83,7 +102,6 @@ class PokemonDetailVC: UIViewController {
                 str += "Evolved at Lv. \(pokemon.previousEvolutionLevel)"
             }
         }
-            
         
         if pokemon.nextEvolutionId == "" {
             nextEvo.hidden = true
@@ -109,7 +127,6 @@ class PokemonDetailVC: UIViewController {
             prevEvo.image = UIImage(named: pokemon.previousEvolution)
         }
         
-            
     }
     
     @IBAction func backToMain(sender: AnyObject) {
