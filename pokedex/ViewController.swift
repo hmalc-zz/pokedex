@@ -63,7 +63,8 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
                 let pokeId = Int(row["id"]!)!
                 let name = row["identifier"]!
                 let type1 = row["type1_id"]!
-                let poke = Pokemon(name: name, pokedexId: pokeId,type1: type1)
+                let type2 = row["type2_id"]!
+                let poke = Pokemon(name: name, pokedexId: pokeId,type1: type1,type2: type2)
                 pokemon.append(poke)
 
             }

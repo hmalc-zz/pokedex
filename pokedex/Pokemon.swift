@@ -185,10 +185,11 @@ class Pokemon {
 
     //MARK: Initialiser
     
-    init(name: String, pokedexId: Int,type1: String) {
+    init(name: String, pokedexId: Int, type1: String, type2: String) {
         self._name = name
         self._pokedexId = pokedexId
         self._type1 = type1
+        self._type2 = type2
         
         _pokemonUrl = "\(URL_BASE)\(URL_POKEMON)\(self._pokedexId)/"
     
