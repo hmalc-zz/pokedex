@@ -30,7 +30,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="600" height="55"/>
                                 <subviews>
                                     <button opaque="NO" alpha="0.20000000000000001" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GHN-Tt-DkJ">
-                                        <rect key="frame" x="562" y="25" width="30" height="30"/>
+                                        <rect key="frame" x="562" y="23" width="30" height="30"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="30" id="Mkj-up-omn"/>
                                             <constraint firstAttribute="width" constant="30" id="XQL-m7-t0w"/>
@@ -41,10 +41,10 @@
                                         </connections>
                                     </button>
                                     <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ball" translatesAutoresizingMaskIntoConstraints="NO" id="2Rj-an-3Pv">
-                                        <rect key="frame" x="275" y="14.5" width="50" height="50"/>
+                                        <rect key="frame" x="274" y="12.5" width="52" height="52"/>
                                         <constraints>
-                                            <constraint firstAttribute="width" constant="50" id="4KF-E2-Aq6"/>
-                                            <constraint firstAttribute="height" constant="50" id="Dei-3b-2Tb"/>
+                                            <constraint firstAttribute="width" constant="52" id="4KF-E2-Aq6"/>
+                                            <constraint firstAttribute="height" constant="52" id="Dei-3b-2Tb"/>
                                         </constraints>
                                     </imageView>
                                 </subviews>
@@ -52,9 +52,9 @@
                                 <constraints>
                                     <constraint firstAttribute="trailing" secondItem="GHN-Tt-DkJ" secondAttribute="trailing" constant="8" id="0gJ-rP-q1C"/>
                                     <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="55" id="8RH-Wo-b09"/>
-                                    <constraint firstItem="GHN-Tt-DkJ" firstAttribute="top" secondItem="cZJ-2l-Kp4" secondAttribute="top" constant="25" id="F7C-5S-Fo5"/>
+                                    <constraint firstItem="GHN-Tt-DkJ" firstAttribute="top" secondItem="cZJ-2l-Kp4" secondAttribute="top" constant="23" id="F7C-5S-Fo5"/>
                                     <constraint firstAttribute="height" constant="55" id="LNc-vf-JNO"/>
-                                    <constraint firstItem="2Rj-an-3Pv" firstAttribute="centerY" secondItem="cZJ-2l-Kp4" secondAttribute="centerY" constant="12" id="RLZ-0L-Zcn"/>
+                                    <constraint firstItem="2Rj-an-3Pv" firstAttribute="centerY" secondItem="cZJ-2l-Kp4" secondAttribute="centerY" constant="11" id="RLZ-0L-Zcn"/>
                                     <constraint firstItem="2Rj-an-3Pv" firstAttribute="centerX" secondItem="cZJ-2l-Kp4" secondAttribute="centerX" id="Ybk-5j-MXa"/>
                                 </constraints>
                             </view>
@@ -160,7 +160,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KyO-cN-XeD">
-                                        <rect key="frame" x="10" y="15" width="30" height="30"/>
+                                        <rect key="frame" x="10" y="19" width="30" height="30"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="30" id="EWQ-CJ-AJR"/>
                                             <constraint firstAttribute="width" constant="30" id="ZgQ-vx-yfT"/>
@@ -177,7 +177,7 @@
                                     <constraint firstAttribute="height" constant="55" id="W76-DJ-S2N"/>
                                     <constraint firstItem="Lqe-xV-eya" firstAttribute="centerX" secondItem="xIr-Ni-lr6" secondAttribute="centerX" id="dl6-ab-yM3"/>
                                     <constraint firstItem="Lqe-xV-eya" firstAttribute="top" secondItem="xIr-Ni-lr6" secondAttribute="top" constant="15" id="hxj-Pq-zt0"/>
-                                    <constraint firstAttribute="bottom" secondItem="KyO-cN-XeD" secondAttribute="bottom" constant="10" id="xgU-Ji-Cbe"/>
+                                    <constraint firstAttribute="bottom" secondItem="KyO-cN-XeD" secondAttribute="bottom" constant="6" id="xgU-Ji-Cbe"/>
                                 </constraints>
                             </view>
                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" translatesAutoresizingMaskIntoConstraints="NO" id="DwU-ag-Ku9">
@@ -568,7 +568,7 @@
     </scenes>
     <resources>
         <image name="76" width="120" height="120"/>
-        <image name="arrowDown" width="512" height="512"/>
+        <image name="arrowDown" width="256" height="256"/>
         <image name="ball" width="375" height="360"/>
         <image name="musicBtn" width="512" height="512"/>
         <image name="red" width="30" height="26"/>
