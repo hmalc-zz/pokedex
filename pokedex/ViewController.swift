@@ -11,6 +11,10 @@ import UIKit
 import AVFoundation
 
 class ViewController: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout, UISearchBarDelegate {
+    
+    override func preferredStatusBarStyle() -> UIStatusBarStyle {
+        return .LightContent
+    }
 
     @IBOutlet weak var collection: UICollectionView!
     @IBOutlet weak var searchBar: UISearchBar!
@@ -24,6 +28,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         UIApplication.sharedApplication().statusBarStyle = .LightContent
         collection.delegate = self
         collection.dataSource = self
@@ -127,7 +132,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     
     func collectionView(collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAtIndexPath indexPath: NSIndexPath) -> CGSize {
         
-        return CGSizeMake(105, 105)
+        return CGSizeMake(107, 107)
         
     }
     

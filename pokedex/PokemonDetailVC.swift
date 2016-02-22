@@ -39,7 +39,11 @@ class PokemonDetailVC: UIViewController {
     
     var pokemon: Pokemon!
     
-    var selectedVersionLabel: Int! = 26
+    var selectedVersionLabel: Int! = 23
+    
+    override func preferredStatusBarStyle() -> UIStatusBarStyle {
+        return .LightContent
+    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
