@@ -1,9 +1,9 @@
-id,pokedex_version_id,flavor_text
-588,17,These mysterious Pokemon evolve when they receive electrical stimulation while they are in the same place as Shelmet.
-588,18,When they feel threatened they spit an acidic liquid to drive attackers away. This Pokemon targets Shelmet.
-588,21,For some reason they evolve when they receive electrical energy while they are attacking Shelmet.
-588,22,For some reason they evolve when they receive electrical energy while they are attacking Shelmet.
-588,23,These mysterious Pokemon evolve when they receive electrical stimulation while they are in the same place as Shelmet.
-588,24,For some reason they evolve when they receive electrical energy while they are attacking Shelmet.
-588,25,These mysterious Pokemon evolve when they receive electrical stimulation while they are in the same place as Shelmet.
-588,26,For some reason they evolve when they receive electrical energy while they are attacking Shelmet.
+id,pokedex_version_id,game_name,flavor_text
+588,17,Black,These mysterious Pokemon evolve when they receive electrical stimulation while they are in the same place as Shelmet.
+588,18,White,When they feel threatened they spit an acidic liquid to drive attackers away. This Pokemon targets Shelmet.
+588,21,Black 2,For some reason they evolve when they receive electrical energy while they are attacking Shelmet.
+588,22,White 2,For some reason they evolve when they receive electrical energy while they are attacking Shelmet.
+588,23,X,These mysterious Pokemon evolve when they receive electrical stimulation while they are in the same place as Shelmet.
+588,24,Y,For some reason they evolve when they receive electrical energy while they are attacking Shelmet.
+588,25,Omega Ruby,These mysterious Pokemon evolve when they receive electrical stimulation while they are in the same place as Shelmet.
+588,26,Alpha Sapphire,For some reason they evolve when they receive electrical energy while they are attacking Shelmet.

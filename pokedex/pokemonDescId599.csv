@@ -1,9 +1,9 @@
-id,pokedex_version_id,flavor_text
-599,17,The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.
-599,18,Interlocking two bodies and spinning around generates the energy they need to live.
-599,21,Two bodies comprise a fixed pair. They spin around each other to generate energy.
-599,22,Two bodies comprise a fixed pair. They spin around each other to generate energy.
-599,23,Interlocking two bodies and spinning around generates the energy they need to live.
-599,24,The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.
-599,25,Interlocking two bodies and spinning around generates the energy they need to live.
-599,26,The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.
+id,pokedex_version_id,game_name,flavor_text
+599,17,Black,The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.
+599,18,White,Interlocking two bodies and spinning around generates the energy they need to live.
+599,21,Black 2,Two bodies comprise a fixed pair. They spin around each other to generate energy.
+599,22,White 2,Two bodies comprise a fixed pair. They spin around each other to generate energy.
+599,23,X,Interlocking two bodies and spinning around generates the energy they need to live.
+599,24,Y,The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.
+599,25,Omega Ruby,Interlocking two bodies and spinning around generates the energy they need to live.
+599,26,Alpha Sapphire,The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.

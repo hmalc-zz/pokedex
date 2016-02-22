@@ -34,9 +34,11 @@ class PokemonDetailVC: UIViewController {
     @IBOutlet weak var prevEvo: UIImageView!
     
     @IBOutlet weak var evoLbl: UILabel!
-
+    
+    @IBOutlet weak var gameRefPokedexEntry: UILabel!
+    
     var pokemon: Pokemon!
-    var selectedVersionLabel: Int! = 23
+    var selectedVersionLabel: Int = Int(arc4random_uniform(26) + 1)
     
     var soundPlayer: AVAudioPlayer!
     
@@ -72,12 +74,15 @@ class PokemonDetailVC: UIViewController {
     func updateUI() {
         nameLbl.text = pokemon.name.capitalizedString
         descriptionLbl.text = pokemon.description
+        gameRefPokedexEntry.text = pokemon.gameName
         
         typeLbl1.text = "\(pokemon.type1)"
+        typeLbl1.layer.cornerRadius = 10.0
         typeLbl2.text = "\(pokemon.type2)"
+        typeLbl2.layer.cornerRadius = 10.0
         
-        typeLbl1.backgroundColor = assignColorToType("\(pokemon.type1)",alpha: 1.0)
-        typeLbl2.backgroundColor = assignColorToType("\(pokemon.type2)",alpha: 1.0)
+        typeLbl1.layer.backgroundColor = assignColorToType("\(pokemon.type1)",alpha: 1.0).CGColor
+        typeLbl2.layer.backgroundColor = assignColorToType("\(pokemon.type2)",alpha: 1.0).CGColor
         
         attackLbl.text = pokemon.attack
         defenseLbl.text = pokemon.defense
@@ -140,7 +145,7 @@ class PokemonDetailVC: UIViewController {
         do {
             soundPlayer = try AVAudioPlayer(contentsOfURL: NSURL(string: path)!)
             soundPlayer.prepareToPlay()
-            soundPlayer.volume = 0.02
+            soundPlayer.volume = 0.03
             soundPlayer.numberOfLoops = 0
             soundPlayer.play()
             
@@ -161,5 +166,41 @@ class PokemonDetailVC: UIViewController {
             soundPlayer.play()
     }
     
-
+    
+    @IBAction func changeDexEntry(sender: UIButton) {
+        
+        if selectedVersionLabel == 26 {
+        } else {
+            selectedVersionLabel++
+            pokemon.parsePokedexEntryCSV(selectedVersionLabel)
+            
+            while pokemon.description ==  "" {
+                
+                if selectedVersionLabel < 26 {
+                    selectedVersionLabel++
+                    pokemon.parsePokedexEntryCSV(selectedVersionLabel)
+                }
+            }
+        }
+        gameRefPokedexEntry.text = pokemon.gameName
+        descriptionLbl.text = pokemon.description
+    }
+    
+    @IBAction func changeDexEntryDown(sender: AnyObject) {
+        
+        if selectedVersionLabel == 1 {
+        } else {
+            selectedVersionLabel--
+            pokemon.parsePokedexEntryCSV(selectedVersionLabel)
+            
+            while pokemon.description ==  "" {
+            
+            selectedVersionLabel--
+            pokemon.parsePokedexEntryCSV(selectedVersionLabel)
+            }
+        }
+    gameRefPokedexEntry.text = pokemon.gameName
+    descriptionLbl.text = pokemon.description
+    }
 }
+

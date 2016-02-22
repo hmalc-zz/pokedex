@@ -1,25 +1,25 @@
-id,pokedex_version_id,flavor_text
-101,1,It stores electric energy under very high pressure.It often explodes with little or no provocation.
-101,2,It stores electric energy under very high pressure.It often explodes with little or no provocation.
-101,3,Stores electrical energy inside its body. Even theslightest shock could trigger a huge explosion.
-101,4,It is dangerous. If it has too much electricity andhas nothing to do it amuses itself by exploding.
-101,5,It stores an over flowing amount of electric energyinside its body. Even a small shock makes it explode.
-101,6,The more energy it charges up the faster it gets.But this also makes it more likely to explode.
-101,7,ELECTRODE eats electricity in the atmosphere. On days when lightning strikes you can see this Pokemonexploding all over the place from eating too much electricity.
-101,8,One of ELECTRODE's characteristics is its attraction to electricity. It is a problematical Pokemon thatcongregates mostly at electrical power plants to feed on electricity that has just been generated.
-101,9,They appear in great numbers at electric power plants. Because they feed on electricity they cause massive and chaotic blackouts in nearby cities.
-101,10,It explodes in response to even minor stimuli. It is feared with the nickname of 'The Bomb Ball.'
-101,11,It stores electric energy under very high pressure. It often explodes with little or no provocation.
-101,12,It is known to drift on winds if it is bloated to bursting with stored electricity.
-101,13,It is known to drift on winds if it is bloated to bursting with stored electricity.
-101,14,It is known to drift on winds if it is bloated to bursting with stored electricity.
-101,15,It is dangerous. If it has too much electricity and has nothing to do it amuses itself by exploding.
-101,16,It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.
-101,17,It is known to drift on winds if it is bloated to bursting with stored electricity.
-101,18,It is known to drift on winds if it is bloated to bursting with stored electricity.
-101,21,It is known to drift on winds if it is bloated to bursting with stored electricity.
-101,22,It is known to drift on winds if it is bloated to bursting with stored electricity.
-101,23,It explodes in response to even minor stimuli. It is feared with the nickname of 'The Bomb Ball.'
-101,24,It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.
-101,25,Electrode eats electricity in the atmosphere. On days when lightning strikes you can see this Pokemon exploding all over the place from eating too much electricity.
-101,26,One of Electrode's characteristics is its attraction to electricity. It is a problematical Pokemon that congregates mostly at electrical power plants to feed on electricity that has just been generated.
+id,pokedex_version_id,game_name,flavor_text
+101,1,Red,It stores electric energy under very high pressure.It often explodes with little or no provocation.
+101,2,Blue,It stores electric energy under very high pressure.It often explodes with little or no provocation.
+101,3,Yellow,Stores electrical energy inside its body. Even theslightest shock could trigger a huge explosion.
+101,4,Gold,It is dangerous. If it has too much electricity andhas nothing to do it amuses itself by exploding.
+101,5,Silver,It stores an over flowing amount of electric energyinside its body. Even a small shock makes it explode.
+101,6,Crystal,The more energy it charges up the faster it gets.But this also makes it more likely to explode.
+101,7,Ruby,ELECTRODE eats electricity in the atmosphere. On days when lightning strikes you can see this Pokemonexploding all over the place from eating too much electricity.
+101,8,Sapphire,One of ELECTRODE's characteristics is its attraction to electricity. It is a problematical Pokemon thatcongregates mostly at electrical power plants to feed on electricity that has just been generated.
+101,9,Emerald,They appear in great numbers at electric power plants. Because they feed on electricity they cause massive and chaotic blackouts in nearby cities.
+101,10,FireRed,It explodes in response to even minor stimuli. It is feared with the nickname of 'The Bomb Ball.'
+101,11,LeafGreen,It stores electric energy under very high pressure. It often explodes with little or no provocation.
+101,12,Diamond,It is known to drift on winds if it is bloated to bursting with stored electricity.
+101,13,Pearl,It is known to drift on winds if it is bloated to bursting with stored electricity.
+101,14,Platinum,It is known to drift on winds if it is bloated to bursting with stored electricity.
+101,15,HeartGold,It is dangerous. If it has too much electricity and has nothing to do it amuses itself by exploding.
+101,16,SoulSilver,It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.
+101,17,Black,It is known to drift on winds if it is bloated to bursting with stored electricity.
+101,18,White,It is known to drift on winds if it is bloated to bursting with stored electricity.
+101,21,Black 2,It is known to drift on winds if it is bloated to bursting with stored electricity.
+101,22,White 2,It is known to drift on winds if it is bloated to bursting with stored electricity.
+101,23,X,It explodes in response to even minor stimuli. It is feared with the nickname of 'The Bomb Ball.'
+101,24,Y,It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.
+101,25,Omega Ruby,Electrode eats electricity in the atmosphere. On days when lightning strikes you can see this Pokemon exploding all over the place from eating too much electricity.
+101,26,Alpha Sapphire,One of Electrode's characteristics is its attraction to electricity. It is a problematical Pokemon that congregates mostly at electrical power plants to feed on electricity that has just been generated.

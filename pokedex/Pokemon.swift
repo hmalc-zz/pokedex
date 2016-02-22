@@ -17,6 +17,7 @@ class Pokemon {
     private var _pokedexId: Int!
     
     private var _description: String!
+    private var _gameName: String!
     
     private var _type1: String!
     private var _type2: String!
@@ -72,6 +73,13 @@ class Pokemon {
             _description = ""
         }
         return _description
+    }
+    
+    var gameName: String {
+        if _gameName == nil {
+            _gameName = ""
+        }
+        return _gameName
     }
     
     var type1: String {
@@ -337,6 +345,8 @@ class Pokemon {
         
         let path = NSBundle.mainBundle().pathForResource("pokemonDescId\(pokedexId)", ofType: "csv")!
         
+        var entryExists: Bool = false
+        
         do {
             let csv = try CSV(contentsOfURL: path)
             let rows = csv.rows
@@ -344,17 +354,23 @@ class Pokemon {
             for row in rows {
                 
                 if selectedVersionLabel == Int(row["pokedex_version_id"]!) {
-                
                     // Pokedex for specified game
+                    self._description = row["flavor_text"]
+                    self._gameName = row["game_name"]
                     
-                    if let description = row["flavor_text"] {
-                        self._description = description
-                    }
+                    entryExists = true
+                    
                 }
+                
             }
             
         } catch let err as NSError {
             print(err.debugDescription)
+        }
+        
+        if entryExists == false {
+            self._description = ""
+            self._gameName = ""
         }
     }
 

@@ -1,25 +1,25 @@
-id,pokedex_version_id,flavor_text
-63,1,Using its ability to read minds it will identifyimpending danger and TELEPORT to safety.
-63,2,Using its ability to read minds it will identifyimpending danger and TELEPORT to safety.
-63,3,Sleeps 18 hours a day. If it senses danger it willteleport itself to safety even as it sleeps.
-63,4,It senses impend ing attacks and TELEPORTS away tosafety before the actual attacks can strike.
-63,5,If it decides to TELEPORT randomly it creates theillusion that it has created copies of itself.
-63,6,It hypnotizes itself so that it can teleport awaywhen it senses danger even if it is asleep.
-63,7,ABRA sleeps for eighteen hours a day. However it can sense the presence of foes even while it is sleeping.In such a situation this Pokemon immediately teleports to safety.
-63,8,ABRA needs to sleep for eighteen hours a day. If it doesn't this Pokemon loses its ability to use telekinetic powers.If it is attacked ABRA escapes using TELEPORT while it is still sleeping.
-63,9,A Pokemon that sleeps 18 hours a day. Observation revealed that it uses TELEPORT to change its location once every hour.
-63,10,It sleeps for 18 hours a day. It uses a variety of extrasensory powers even while asleep.
-63,11,Using its ability to read minds it will sense impending danger and TELEPORT to safety.
-63,12,It sleeps for 18 hours a day. Even when awake it teleports itself while remaining seated.
-63,13,Even while asleep it maintains a telepathic radar. It teleports when it is threatened.
-63,14,Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.
-63,15,It senses impending attacks and teleports away to safety before the actual attacks can strike.
-63,16,If it decides to teleport randomly it evokes the illusion that it has created copies of itself.
-63,17,Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.
-63,18,Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.
-63,21,Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.
-63,22,Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.
-63,23,It sleeps for 18 hours a day. It uses a variety of extrasensory powers even while asleep.
-63,24,It senses impending attacks and teleports away to safety before the actual attacks can strike.
-63,25,Abra sleeps for eighteen hours a day. However it can sense the presence of foes even while it is sleeping. In such a situation this Pokemon immediately teleports to safety.
-63,26,Abra needs to sleep for eighteen hours a day. If it doesn't this Pokemon loses its ability to use telekinetic powers. If it is attacked Abra escapes using Teleport while it is still sleeping.
+id,pokedex_version_id,game_name,flavor_text
+63,1,Red,Using its ability to read minds it will identifyimpending danger and TELEPORT to safety.
+63,2,Blue,Using its ability to read minds it will identifyimpending danger and TELEPORT to safety.
+63,3,Yellow,Sleeps 18 hours a day. If it senses danger it willteleport itself to safety even as it sleeps.
+63,4,Gold,It senses impend ing attacks and TELEPORTS away tosafety before the actual attacks can strike.
+63,5,Silver,If it decides to TELEPORT randomly it creates theillusion that it has created copies of itself.
+63,6,Crystal,It hypnotizes itself so that it can teleport awaywhen it senses danger even if it is asleep.
+63,7,Ruby,ABRA sleeps for eighteen hours a day. However it can sense the presence of foes even while it is sleeping.In such a situation this Pokemon immediately teleports to safety.
+63,8,Sapphire,ABRA needs to sleep for eighteen hours a day. If it doesn't this Pokemon loses its ability to use telekinetic powers.If it is attacked ABRA escapes using TELEPORT while it is still sleeping.
+63,9,Emerald,A Pokemon that sleeps 18 hours a day. Observation revealed that it uses TELEPORT to change its location once every hour.
+63,10,FireRed,It sleeps for 18 hours a day. It uses a variety of extrasensory powers even while asleep.
+63,11,LeafGreen,Using its ability to read minds it will sense impending danger and TELEPORT to safety.
+63,12,Diamond,It sleeps for 18 hours a day. Even when awake it teleports itself while remaining seated.
+63,13,Pearl,Even while asleep it maintains a telepathic radar. It teleports when it is threatened.
+63,14,Platinum,Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.
+63,15,HeartGold,It senses impending attacks and teleports away to safety before the actual attacks can strike.
+63,16,SoulSilver,If it decides to teleport randomly it evokes the illusion that it has created copies of itself.
+63,17,Black,Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.
+63,18,White,Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.
+63,21,Black 2,Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.
+63,22,White 2,Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.
+63,23,X,It sleeps for 18 hours a day. It uses a variety of extrasensory powers even while asleep.
+63,24,Y,It senses impending attacks and teleports away to safety before the actual attacks can strike.
+63,25,Omega Ruby,Abra sleeps for eighteen hours a day. However it can sense the presence of foes even while it is sleeping. In such a situation this Pokemon immediately teleports to safety.
+63,26,Alpha Sapphire,Abra needs to sleep for eighteen hours a day. If it doesn't this Pokemon loses its ability to use telekinetic powers. If it is attacked Abra escapes using Teleport while it is still sleeping.
