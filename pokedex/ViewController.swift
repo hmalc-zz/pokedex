@@ -144,6 +144,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
             sender.alpha = 0.2
         } else {
             musicPlayer.play()
+            musicPlayer.volume = 0.2
             sender.alpha = 1.0
         }
         

@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import AVFoundation
 
 class PokemonDetailVC: UIViewController {
 
@@ -34,12 +35,11 @@ class PokemonDetailVC: UIViewController {
     
     @IBOutlet weak var evoLbl: UILabel!
 
-
-    
-    
     var pokemon: Pokemon!
-    
     var selectedVersionLabel: Int! = 23
+    
+    var soundPlayer: AVAudioPlayer!
+    
     
     override func preferredStatusBarStyle() -> UIStatusBarStyle {
         return .LightContent
@@ -55,9 +55,8 @@ class PokemonDetailVC: UIViewController {
         
         pokemon.parsePokeStatsCSV()
         pokemon.parsePokedexEntryCSV(selectedVersionLabel)
-        
-        
         updateUI()
+        initCries()
         
         }
     
@@ -134,10 +133,32 @@ class PokemonDetailVC: UIViewController {
         
     }
     
+    func initCries() {
+        
+        let path = NSBundle.mainBundle().pathForResource("\(pokemon.pokedexId)", ofType: "mp3")!
+        
+        do {
+            soundPlayer = try AVAudioPlayer(contentsOfURL: NSURL(string: path)!)
+            soundPlayer.prepareToPlay()
+            soundPlayer.volume = 0.02
+            soundPlayer.numberOfLoops = 0
+            soundPlayer.play()
+            
+            
+        } catch let err as NSError {
+            print(err.debugDescription)
+        }
+    }
+    
     @IBAction func backToMain(sender: AnyObject) {
     
         dismissViewControllerAnimated(true, completion: nil)
     
+    }
+    
+    
+    @IBAction func playCry(sender: UIButton!) {
+            soundPlayer.play()
     }
     
 

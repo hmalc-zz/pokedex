@@ -183,20 +183,20 @@
                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" translatesAutoresizingMaskIntoConstraints="NO" id="DwU-ag-Ku9">
                                 <rect key="frame" x="20" y="538" width="560" height="54"/>
                                 <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="nu5-S1-bEn">
-                                        <rect key="frame" x="0.0" y="0.0" width="0.0" height="54"/>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="white" translatesAutoresizingMaskIntoConstraints="NO" id="nu5-S1-bEn">
+                                        <rect key="frame" x="0.0" y="0.0" width="186.5" height="54"/>
                                         <constraints>
                                             <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="50" id="dYg-m2-aHR"/>
                                         </constraints>
                                     </imageView>
                                     <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="white" translatesAutoresizingMaskIntoConstraints="NO" id="DfP-sb-AZ0">
-                                        <rect key="frame" x="0.0" y="0.0" width="280" height="54"/>
+                                        <rect key="frame" x="186.5" y="0.0" width="187" height="54"/>
                                         <constraints>
                                             <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="50" id="y6z-Dn-T9Q"/>
                                         </constraints>
                                     </imageView>
                                     <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="white" translatesAutoresizingMaskIntoConstraints="NO" id="7x0-C9-WaG">
-                                        <rect key="frame" x="280" y="0.0" width="280" height="54"/>
+                                        <rect key="frame" x="373.5" y="0.0" width="186.5" height="54"/>
                                         <constraints>
                                             <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="50" id="0Wo-bC-a2R"/>
                                         </constraints>
@@ -242,7 +242,7 @@
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="W5d-Cu-1H5">
                                         <rect key="frame" x="0.0" y="0.0" width="560" height="140"/>
                                         <subviews>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="white" translatesAutoresizingMaskIntoConstraints="NO" id="fVc-bB-zhJ">
+                                            <imageView opaque="NO" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="white" translatesAutoresizingMaskIntoConstraints="NO" id="fVc-bB-zhJ">
                                                 <rect key="frame" x="0.0" y="0.0" width="140" height="140"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="140" id="AXw-L9-iAN"/>
@@ -286,7 +286,7 @@
                                                 <color key="shadowColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                                 <size key="shadowOffset" width="0.0" height="0.0"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="ID" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="1N6-c9-WiK">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Dex No." lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="1N6-c9-WiK">
                                                 <rect key="frame" x="282.5" y="0.0" width="89" height="35"/>
                                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="12"/>
                                                 <color key="textColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -518,28 +518,46 @@
                                     </mask>
                                 </variation>
                             </stackView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FEd-p2-AKq">
+                                <rect key="frame" x="20" y="96" width="140" height="140"/>
+                                <connections>
+                                    <action selector="playCry:" destination="HOP-Jb-BQg" eventType="touchUpInside" id="vNp-ay-3Rc"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="PIH-xY-zki" firstAttribute="top" secondItem="xIr-Ni-lr6" secondAttribute="bottom" constant="8" id="2As-Bm-DYd"/>
                             <constraint firstItem="4aA-09-D9s" firstAttribute="leading" secondItem="DwU-ag-Ku9" secondAttribute="leading" id="3Bl-3G-Haj"/>
                             <constraint firstItem="DwU-ag-Ku9" firstAttribute="leading" secondItem="WWl-0x-RTu" secondAttribute="leadingMargin" id="3nm-nn-XW9"/>
+                            <constraint firstItem="FEd-p2-AKq" firstAttribute="centerX" secondItem="fVc-bB-zhJ" secondAttribute="centerX" id="9WC-kK-Tbg"/>
                             <constraint firstItem="Aag-B3-o3n" firstAttribute="top" secondItem="DwU-ag-Ku9" secondAttribute="bottom" constant="8" symbolic="YES" id="9mc-nK-bJx"/>
                             <constraint firstItem="PIH-xY-zki" firstAttribute="centerX" secondItem="WWl-0x-RTu" secondAttribute="centerX" id="D9U-Xh-Z03"/>
+                            <constraint firstItem="FEd-p2-AKq" firstAttribute="leading" secondItem="WWl-0x-RTu" secondAttribute="leadingMargin" constant="-20" id="GAk-G0-eIT"/>
+                            <constraint firstItem="FEd-p2-AKq" firstAttribute="centerY" secondItem="fVc-bB-zhJ" secondAttribute="centerY" id="GHe-fi-hYh"/>
                             <constraint firstItem="PIH-xY-zki" firstAttribute="trailing" secondItem="WWl-0x-RTu" secondAttribute="trailingMargin" id="GeV-uA-f1T"/>
                             <constraint firstItem="xIr-Ni-lr6" firstAttribute="leading" secondItem="WWl-0x-RTu" secondAttribute="leading" id="InM-fp-Nzr"/>
                             <constraint firstItem="Ifr-Xd-liP" firstAttribute="leading" secondItem="WWl-0x-RTu" secondAttribute="leading" id="Ndh-Tc-Jkn"/>
+                            <constraint firstItem="FEd-p2-AKq" firstAttribute="centerY" secondItem="fVc-bB-zhJ" secondAttribute="centerY" id="QbN-EV-kXo"/>
                             <constraint firstItem="PIH-xY-zki" firstAttribute="leading" secondItem="WWl-0x-RTu" secondAttribute="leadingMargin" id="Vw6-OL-061"/>
                             <constraint firstAttribute="trailingMargin" secondItem="DwU-ag-Ku9" secondAttribute="trailing" id="W8m-GP-WNp"/>
                             <constraint firstAttribute="trailing" secondItem="xIr-Ni-lr6" secondAttribute="trailing" id="YJN-Wb-OVR"/>
+                            <constraint firstItem="FEd-p2-AKq" firstAttribute="height" secondItem="fVc-bB-zhJ" secondAttribute="height" id="aFl-Ye-h6r"/>
                             <constraint firstItem="4aA-09-D9s" firstAttribute="top" secondItem="PIH-xY-zki" secondAttribute="bottom" constant="5" id="cQt-pj-zqP"/>
                             <constraint firstAttribute="trailing" secondItem="Ifr-Xd-liP" secondAttribute="trailing" id="dcN-9L-fRm"/>
                             <constraint firstItem="xIr-Ni-lr6" firstAttribute="top" secondItem="WWl-0x-RTu" secondAttribute="top" id="hy0-F3-6is"/>
+                            <constraint firstItem="FEd-p2-AKq" firstAttribute="width" secondItem="fVc-bB-zhJ" secondAttribute="width" id="il3-RC-xuf"/>
                             <constraint firstItem="Ifr-Xd-liP" firstAttribute="top" secondItem="4aA-09-D9s" secondAttribute="bottom" constant="8" id="jfM-YH-oZb"/>
                             <constraint firstItem="DwU-ag-Ku9" firstAttribute="top" secondItem="Ifr-Xd-liP" secondAttribute="bottom" constant="8" symbolic="YES" id="l39-bC-fjr"/>
                             <constraint firstItem="4aA-09-D9s" firstAttribute="trailing" secondItem="DwU-ag-Ku9" secondAttribute="trailing" id="qJm-3S-Y0J"/>
                         </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="GAk-G0-eIT"/>
+                            </mask>
+                        </variation>
                     </view>
+                    <navigationItem key="navigationItem" id="P8f-qt-EDJ"/>
                     <connections>
                         <outlet property="attackLbl" destination="vRP-na-bAj" id="kxQ-Sx-aY1"/>
                         <outlet property="currentEvo" destination="DfP-sb-AZ0" id="ZDl-Oa-0WR"/>

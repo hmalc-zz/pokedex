@@ -25,8 +25,8 @@ class PokeCellCollectionViewCell: UICollectionViewCell {
         self.pokemon = pokemon
         
         nameLbl.text = self.pokemon.name.capitalizedString
-        nameLbl.backgroundColor = assignColorToType("\(self.pokemon.type1)",alpha: 0.8)
-        thumbImg.backgroundColor = assignColorToType("\(self.pokemon.type2)",alpha: 0.15)
+        nameLbl.backgroundColor = assignColorToType("\(self.pokemon.type1)",alpha: 0.9)
+        thumbImg.backgroundColor = assignColorToType("\(self.pokemon.type2)",alpha: 0.2)
         thumbImg.image = UIImage(named: "\(self.pokemon.pokedexId)")
     }
     
