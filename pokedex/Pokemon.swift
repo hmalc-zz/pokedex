@@ -18,6 +18,7 @@ class Pokemon {
     
     private var _description: String!
     private var _gameName: String!
+    private var _gameIdNo: Int!
     
     private var _type1: String!
     private var _type2: String!
@@ -80,6 +81,10 @@ class Pokemon {
             _gameName = ""
         }
         return _gameName
+    }
+    
+    var gameIdNo: Int {
+        return _gameIdNo
     }
     
     var type1: String {
@@ -357,6 +362,7 @@ class Pokemon {
                     // Pokedex for specified game
                     self._description = row["flavor_text"]
                     self._gameName = row["game_name"]
+                    self._gameIdNo = Int(row["pokedex_version_id"]!)
                     
                     entryExists = true
                     
@@ -371,6 +377,7 @@ class Pokemon {
         if entryExists == false {
             self._description = ""
             self._gameName = ""
+            self._gameIdNo = 0
         }
     }
 

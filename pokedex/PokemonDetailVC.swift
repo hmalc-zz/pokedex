@@ -56,7 +56,15 @@ class PokemonDetailVC: UIViewController {
         currentEvo.image = img
         
         pokemon.parsePokeStatsCSV()
+        
         pokemon.parsePokedexEntryCSV(selectedVersionLabel)
+        
+        // Make sure Dex entry is not blank
+        
+        while pokemon.description == "" {
+            pokemon.parsePokedexEntryCSV(Int(arc4random_uniform(26) + 1))
+        }
+        
         updateUI()
         initCries()
         
@@ -74,7 +82,10 @@ class PokemonDetailVC: UIViewController {
     func updateUI() {
         nameLbl.text = pokemon.name.capitalizedString
         descriptionLbl.text = pokemon.description
+        
         gameRefPokedexEntry.text = pokemon.gameName
+        gameRefPokedexEntry.layer.backgroundColor = assignColoursToGame(pokemon.gameIdNo).CGColor
+        gameRefPokedexEntry.layer.cornerRadius = 5.0
         
         typeLbl1.text = "\(pokemon.type1)"
         typeLbl1.layer.cornerRadius = 10.0
@@ -179,9 +190,11 @@ class PokemonDetailVC: UIViewController {
                 if selectedVersionLabel < 26 {
                     selectedVersionLabel++
                     pokemon.parsePokedexEntryCSV(selectedVersionLabel)
+
                 }
             }
         }
+        gameRefPokedexEntry.layer.backgroundColor = assignColoursToGame(pokemon.gameIdNo).CGColor
         gameRefPokedexEntry.text = pokemon.gameName
         descriptionLbl.text = pokemon.description
     }
@@ -197,8 +210,10 @@ class PokemonDetailVC: UIViewController {
             
             selectedVersionLabel--
             pokemon.parsePokedexEntryCSV(selectedVersionLabel)
+            
             }
         }
+    gameRefPokedexEntry.layer.backgroundColor = assignColoursToGame(pokemon.gameIdNo).CGColor
     gameRefPokedexEntry.text = pokemon.gameName
     descriptionLbl.text = pokemon.description
     }
