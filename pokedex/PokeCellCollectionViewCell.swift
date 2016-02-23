@@ -17,16 +17,16 @@ class PokeCellCollectionViewCell: UICollectionViewCell {
     
     required init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
-        
-        layer.cornerRadius = 3.0
+
+        layer.cornerRadius = 4.0
     }
     
     func configureCell(pokemon: Pokemon) {
         self.pokemon = pokemon
         
         nameLbl.text = self.pokemon.name.capitalizedString
-        nameLbl.backgroundColor = assignColorToType("\(self.pokemon.type1)",alpha: 0.9)
-        thumbImg.backgroundColor = assignColorToType("\(self.pokemon.type2)",alpha: 0.2)
+        //nameLbl.backgroundColor = assignColorToType("\(self.pokemon.type1)",alpha: 1.0)
+        //thumbImg.backgroundColor = assignColorToType("\(self.pokemon.type2)",alpha: 1.0).adjust(0.2, green: 0.2, blue: 0.2, alpha: 1.0)
         thumbImg.image = UIImage(named: "\(self.pokemon.pokedexId)")
     }
     

@@ -71,7 +71,7 @@ class PokemonDetailVC: UIViewController {
         
         timer = NSTimer.scheduledTimerWithTimeInterval(4.0, target: self, selector: "update", userInfo: nil, repeats: true)
         
-        let img = UIImage(named: "\(pokemon.pokedexId)")
+        let img = UIImage(named: "\(pokemon.pokedexId)-hi")
         
         mainImg.image = img
         currentEvo.image = img

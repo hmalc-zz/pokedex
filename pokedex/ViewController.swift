@@ -7,8 +7,8 @@
 //
 
 import UIKit
-
 import AVFoundation
+import QuartzCore
 
 class ViewController: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout, UISearchBarDelegate {
     
@@ -29,14 +29,13 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        UIApplication.sharedApplication().statusBarStyle = .LightContent
         collection.delegate = self
         collection.dataSource = self
         searchBar.delegate = self
         searchBar.returnKeyType = UIReturnKeyType.Done
         
-        initAudio()
         parsePokemonCSV()
+        initAudio()
         
     }
     
@@ -84,6 +83,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     func collectionView(collectionView: UICollectionView, cellForItemAtIndexPath indexPath: NSIndexPath) -> UICollectionViewCell {
         
         if let cell = collectionView.dequeueReusableCellWithReuseIdentifier("PokeCell", forIndexPath: indexPath) as? PokeCellCollectionViewCell {
+
             
             let poke: Pokemon!
             
@@ -122,7 +122,6 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         if inSearchMode {
             return filteredPokemon.count
         }
-        
         return pokemon.count
     }
     
