@@ -592,7 +592,7 @@
         <image name="arrowDown" width="256" height="256"/>
         <image name="ball" width="375" height="360"/>
         <image name="musicBtn" width="512" height="512"/>
-        <image name="red" width="30" height="26"/>
+        <image name="red" width="48" height="38"/>
         <image name="white" width="56" height="54"/>
     </resources>
 </document>
