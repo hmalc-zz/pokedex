@@ -8,16 +8,20 @@
 
 import UIKit
 import AVFoundation
+import QuartzCore
 
 class PokemonDetailVC: UIViewController {
 
-
+    //
 
     @IBOutlet weak var mainImg: UIImageView!
     @IBOutlet weak var nameLbl: UILabel!
     @IBOutlet weak var descriptionLbl: UILabel!
     @IBOutlet weak var typeLbl1: UILabel!
     @IBOutlet weak var typeLbl2: UILabel!
+    @IBOutlet weak var gameRefPokedexEntry: UILabel!
+    
+    // Base stats
     
     @IBOutlet weak var hpLbl: UILabel!
     @IBOutlet weak var attackLbl: UILabel!
@@ -35,20 +39,37 @@ class PokemonDetailVC: UIViewController {
     
     @IBOutlet weak var evoLbl: UILabel!
     
-    @IBOutlet weak var gameRefPokedexEntry: UILabel!
+    // Colour stuff
     
-    var pokemon: Pokemon!
-    var selectedVersionLabel: Int = Int(arc4random_uniform(26) + 1)
+    @IBOutlet weak var NavBarColour: UIView!
+    @IBOutlet weak var segmentColour: UISegmentedControl!
+    @IBOutlet weak var colourBar: UIView!
+    @IBOutlet weak var typeTitle: UILabel!
+    @IBOutlet weak var HPTitle: UILabel!
+    @IBOutlet weak var attackTitle: UILabel!
+    @IBOutlet weak var defenseTitle: UILabel!
+    @IBOutlet weak var spAttackTitle: UILabel!
+    @IBOutlet weak var spDefenseTitle: UILabel!
+    @IBOutlet weak var speedTitle: UILabel!
+    @IBOutlet weak var bottomBar: UIView!
+    @IBOutlet weak var dexNoTitle: UILabel!
+    
+
     
     var soundPlayer: AVAudioPlayer!
-    
+    var pokemon: Pokemon!
+    var selectedVersionLabel: Int = Int(arc4random_uniform(26) + 1)
+    var timer: NSTimer!
     
     override func preferredStatusBarStyle() -> UIStatusBarStyle {
         return .LightContent
+        
     }
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        timer = NSTimer.scheduledTimerWithTimeInterval(4.0, target: self, selector: "update", userInfo: nil, repeats: true)
         
         let img = UIImage(named: "\(pokemon.pokedexId)")
         
@@ -60,32 +81,33 @@ class PokemonDetailVC: UIViewController {
         pokemon.parsePokedexEntryCSV(selectedVersionLabel)
         
         // Make sure Dex entry is not blank
-        
         while pokemon.description == "" {
             pokemon.parsePokedexEntryCSV(Int(arc4random_uniform(26) + 1))
         }
         
+        // Refresh view with updateUI() function
+        
         updateUI()
+        
+        // Load up audio
+        
         initCries()
         
-        }
+    }
     
-//        pokemon.downloadPokemonDetails { () -> () in
-//            self.updateUI()
-//        }
-//    }
-
-        // Do any additional setup after loading the view
-        
-
+    
+    // MARK: Functions
 
     func updateUI() {
+        
+        // Labels
+        
         nameLbl.text = pokemon.name.capitalizedString
         descriptionLbl.text = pokemon.description
         
         gameRefPokedexEntry.text = pokemon.gameName
         gameRefPokedexEntry.layer.backgroundColor = assignColoursToGame(pokemon.gameIdNo).CGColor
-        gameRefPokedexEntry.layer.cornerRadius = 5.0
+        gameRefPokedexEntry.layer.cornerRadius = 10.0
         
         typeLbl1.text = "\(pokemon.type1)"
         typeLbl1.layer.cornerRadius = 10.0
@@ -107,7 +129,7 @@ class PokemonDetailVC: UIViewController {
         specialattackLbl.text = pokemon.specialAttack
         specialdefenseLbl.text = pokemon.specialDefense
         speedLbl.text = pokemon.speed
-
+        
         var str = ""
         
         if pokemon.previousEvolution == "" {
@@ -147,6 +169,25 @@ class PokemonDetailVC: UIViewController {
             prevEvo.image = UIImage(named: pokemon.previousEvolution)
         }
         
+        // UI Color alteration
+        
+        let pokemonUIColor: UIColor = assignColorToType(pokemon.type1, alpha: 1.0)
+        
+        let themeColor = pokemonUIColor.adjust(-0.25, green: -0.25, blue: -0.25, alpha: 1)
+        
+        NavBarColour.backgroundColor = themeColor
+        segmentColour.tintColor = themeColor
+        colourBar.backgroundColor = themeColor
+        typeTitle.textColor = themeColor
+        HPTitle.textColor = themeColor
+        attackTitle.textColor = themeColor
+        defenseTitle.textColor = themeColor
+        spAttackTitle.textColor = themeColor
+        spDefenseTitle.textColor = themeColor
+        speedTitle.textColor = themeColor
+        dexNoTitle.textColor = themeColor
+        bottomBar.backgroundColor = themeColor
+        
     }
     
     func initCries() {
@@ -166,6 +207,39 @@ class PokemonDetailVC: UIViewController {
         }
     }
     
+    func update() {
+        changeDexEntryUp()
+    }
+    
+    func changeDexEntryUp() {
+        selectedVersionLabel++
+        
+        if selectedVersionLabel > 26 {
+            selectedVersionLabel = 1
+        }
+        
+        pokemon.parsePokedexEntryCSV(selectedVersionLabel)
+        
+        while pokemon.description ==  "" {
+            
+            selectedVersionLabel++
+            pokemon.parsePokedexEntryCSV(selectedVersionLabel)
+            
+            if selectedVersionLabel >= 26 {
+                selectedVersionLabel = 1
+                pokemon.parsePokedexEntryCSV(selectedVersionLabel)
+                
+            }
+        }
+        gameRefPokedexEntry.layer.backgroundColor = assignColoursToGame(pokemon.gameIdNo).CGColor
+        gameRefPokedexEntry.text = pokemon.gameName
+        descriptionLbl.fadeTransition(0.25)
+        descriptionLbl.text = pokemon.description
+        
+    }
+    
+    // MARK: @IBAction functions
+    
     @IBAction func backToMain(sender: AnyObject) {
     
         dismissViewControllerAnimated(true, completion: nil)
@@ -174,48 +248,41 @@ class PokemonDetailVC: UIViewController {
     
     
     @IBAction func playCry(sender: UIButton!) {
-            soundPlayer.play()
+        soundPlayer.play()
     }
     
-    
     @IBAction func changeDexEntry(sender: UIButton) {
-        
-        if selectedVersionLabel == 26 {
-        } else {
-            selectedVersionLabel++
-            pokemon.parsePokedexEntryCSV(selectedVersionLabel)
-            
-            while pokemon.description ==  "" {
-                
-                if selectedVersionLabel < 26 {
-                    selectedVersionLabel++
-                    pokemon.parsePokedexEntryCSV(selectedVersionLabel)
-
-                }
-            }
-        }
-        gameRefPokedexEntry.layer.backgroundColor = assignColoursToGame(pokemon.gameIdNo).CGColor
-        gameRefPokedexEntry.text = pokemon.gameName
-        descriptionLbl.text = pokemon.description
+        changeDexEntryUp()
+        timer.invalidate()
     }
     
     @IBAction func changeDexEntryDown(sender: AnyObject) {
         
-        if selectedVersionLabel == 1 {
-        } else {
-            selectedVersionLabel--
-            pokemon.parsePokedexEntryCSV(selectedVersionLabel)
-            
-            while pokemon.description ==  "" {
-            
-            selectedVersionLabel--
-            pokemon.parsePokedexEntryCSV(selectedVersionLabel)
-            
-            }
+        timer.invalidate()
+        
+        selectedVersionLabel--
+        
+        if selectedVersionLabel < 1 {
+            selectedVersionLabel = 26
         }
-    gameRefPokedexEntry.layer.backgroundColor = assignColoursToGame(pokemon.gameIdNo).CGColor
-    gameRefPokedexEntry.text = pokemon.gameName
-    descriptionLbl.text = pokemon.description
+        
+        pokemon.parsePokedexEntryCSV(selectedVersionLabel)
+ 
+        while pokemon.description ==  "" {
+            
+            selectedVersionLabel--
+            pokemon.parsePokedexEntryCSV(selectedVersionLabel)
+                
+            if selectedVersionLabel <=  1 {
+                selectedVersionLabel = 26
+                pokemon.parsePokedexEntryCSV(selectedVersionLabel)
+                }
+            }
+        gameRefPokedexEntry.fadeTransition(0.4)
+        gameRefPokedexEntry.layer.backgroundColor = assignColoursToGame(pokemon.gameIdNo).CGColor
+        gameRefPokedexEntry.text = pokemon.gameName
+        descriptionLbl.fadeTransition(0.25)
+        descriptionLbl.text = pokemon.description
     }
 }
 
