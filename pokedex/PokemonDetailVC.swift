@@ -79,7 +79,8 @@ class PokemonDetailVC: UIViewController {
         return .LightContent
     }
     
-    override func viewDidLayoutSubviews() {
+    /*override func viewDidLayoutSubviews() {
+        
         // Load Graphs
         
         setUpGraphs(hpBar, PokeStat: pokemon.hp)
@@ -88,7 +89,20 @@ class PokemonDetailVC: UIViewController {
         setUpGraphs(satBar, PokeStat: pokemon.specialAttack)
         setUpGraphs(sdfBar, PokeStat: pokemon.specialDefense)
         setUpGraphs(spdBar, PokeStat: pokemon.speed)
-    } 
+    }*/
+    
+    override func viewDidAppear(animated: Bool) {
+        super.viewDidAppear(animated)
+        UIView.animateWithDuration(0.3, delay: -2.0, options: .CurveEaseIn, animations: {
+        self.setUpGraphs(self.hpBar, PokeStat: self.pokemon.hp)
+        self.setUpGraphs(self.atkBar, PokeStat: self.pokemon.attack)
+        self.setUpGraphs(self.defBar, PokeStat: self.pokemon.defense)
+        self.setUpGraphs(self.satBar, PokeStat: self.pokemon.specialAttack)
+        self.setUpGraphs(self.sdfBar, PokeStat: self.pokemon.specialDefense)
+        self.setUpGraphs(self.spdBar, PokeStat: self.pokemon.speed)
+            }, completion: nil)
+
+    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -116,8 +130,8 @@ class PokemonDetailVC: UIViewController {
         // Load up audio
         
         initCries()
-        
-
+    
+    // MARK: Graph Setup
         
     }
     
@@ -134,7 +148,9 @@ class PokemonDetailVC: UIViewController {
             
             barRef.frame = barSize
             
-            print (barSize)
+            UIView.animateWithDuration(2.0, delay: 2.0, options: .CurveEaseOut, animations: {
+                barRef.alpha = 1
+                }, completion: nil)
 
         }
         
