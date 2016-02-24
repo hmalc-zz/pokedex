@@ -20,6 +20,7 @@ class PokemonDetailVC: UIViewController {
     @IBOutlet weak var typeLbl1: UILabel!
     @IBOutlet weak var typeLbl2: UILabel!
     @IBOutlet weak var gameRefPokedexEntry: UILabel!
+    @IBOutlet weak var pokemonTitle: UILabel!
     
     // Base stats
     
@@ -29,6 +30,19 @@ class PokemonDetailVC: UIViewController {
     @IBOutlet weak var specialattackLbl: UILabel!
     @IBOutlet weak var specialdefenseLbl: UILabel!
     @IBOutlet weak var speedLbl: UILabel!
+    
+    // Base stat bars
+    
+    @IBOutlet weak var fullBar: UIView!
+    
+    @IBOutlet weak var hpBar: UIView!
+    @IBOutlet weak var atkBar: UIView!
+    @IBOutlet weak var defBar: UIView!
+    @IBOutlet weak var satBar: UIView!
+    @IBOutlet weak var sdfBar: UIView!
+    @IBOutlet weak var spdBar: UIView!
+
+    // Labels
     
     @IBOutlet weak var heightLbl: UILabel!
     @IBOutlet weak var weightLbl: UILabel!
@@ -63,8 +77,18 @@ class PokemonDetailVC: UIViewController {
     
     override func preferredStatusBarStyle() -> UIStatusBarStyle {
         return .LightContent
-        
     }
+    
+    override func viewDidLayoutSubviews() {
+        // Load Graphs
+        
+        setUpGraphs(hpBar, PokeStat: pokemon.hp)
+        setUpGraphs(atkBar, PokeStat: pokemon.attack)
+        setUpGraphs(defBar, PokeStat: pokemon.defense)
+        setUpGraphs(satBar, PokeStat: pokemon.specialAttack)
+        setUpGraphs(sdfBar, PokeStat: pokemon.specialDefense)
+        setUpGraphs(spdBar, PokeStat: pokemon.speed)
+    } 
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -93,7 +117,29 @@ class PokemonDetailVC: UIViewController {
         
         initCries()
         
+
+        
     }
+    
+    func setUpGraphs(barRef: UIView, PokeStat: String) {
+        
+        let MAX_STAT: CGFloat = 255.0
+        
+        let str = PokeStat
+        if let n = NSNumberFormatter().numberFromString(str) {
+            let f = CGFloat(n)
+            
+            
+            let barSize = CGRectMake(barRef.frame.origin.x, barRef.frame.origin.y, fullBar.frame.width * f/MAX_STAT, 5.0)
+            
+            barRef.frame = barSize
+            
+            print (barSize)
+
+        }
+        
+    }
+
     
     
     // MARK: Functions
@@ -103,6 +149,7 @@ class PokemonDetailVC: UIViewController {
         // Labels
         
         nameLbl.text = pokemon.name.capitalizedString
+        pokemonTitle.text = pokemon.name.capitalizedString
         descriptionLbl.text = pokemon.description
         
         gameRefPokedexEntry.text = pokemon.gameName
@@ -137,6 +184,9 @@ class PokemonDetailVC: UIViewController {
         specialattackLbl.text = pokemon.specialAttack
         specialdefenseLbl.text = pokemon.specialDefense
         speedLbl.text = pokemon.speed
+        
+        // Graph setup
+    
         
         /*
         
@@ -178,9 +228,10 @@ class PokemonDetailVC: UIViewController {
         if pokemon.previousEvolution != "" {
             prevEvo.image = UIImage(named: pokemon.previousEvolution)
         }
+        */
         
         // UI Color alteration
-        */
+
         let pokemonUIColor: UIColor = assignColorToType(pokemon.type1, alpha: 1.0)
         
         let themeColor = pokemonUIColor.adjust(-0.25, green: -0.25, blue: -0.25, alpha: 1)
