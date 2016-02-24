@@ -125,18 +125,18 @@ class PokemonDetailVC: UIViewController {
         
 
         
-        //attackLbl.text = pokemon.attack
-        //defenseLbl.text = pokemon.defense
+        attackLbl.text = pokemon.attack
+        defenseLbl.text = pokemon.defense
         //heightLbl.text = "\(pokemon.height) ft"
         pokedexLbl.text = "# \(pokemon.pokedexId)"
         //weightLbl.text = "\(pokemon.weight) lbs"
         
-        //hpLbl.text = pokemon.hp
-        //attackLbl.text = pokemon.attack
-        //defenseLbl.text = pokemon.defense
-        //specialattackLbl.text = pokemon.specialAttack
-        //specialdefenseLbl.text = pokemon.specialDefense
-        //speedLbl.text = pokemon.speed
+        hpLbl.text = pokemon.hp
+        attackLbl.text = pokemon.attack
+        defenseLbl.text = pokemon.defense
+        specialattackLbl.text = pokemon.specialAttack
+        specialdefenseLbl.text = pokemon.specialDefense
+        speedLbl.text = pokemon.speed
         
         /*
         
