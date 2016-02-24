@@ -74,7 +74,7 @@ class PokemonDetailVC: UIViewController {
         let img = UIImage(named: "\(pokemon.pokedexId)-hi")
         
         mainImg.image = img
-        currentEvo.image = img
+        //currentEvo.image = img
         
         pokemon.parsePokeStatsCSV()
         
@@ -109,26 +109,36 @@ class PokemonDetailVC: UIViewController {
         gameRefPokedexEntry.layer.backgroundColor = assignColoursToGame(pokemon.gameIdNo).CGColor
         gameRefPokedexEntry.layer.cornerRadius = 10.0
         
-        typeLbl1.text = "\(pokemon.type1)"
-        typeLbl1.layer.cornerRadius = 10.0
-        typeLbl2.text = "\(pokemon.type2)"
-        typeLbl2.layer.cornerRadius = 10.0
+        if pokemon.type2 == "" {
+            typeLbl2.text = "\(pokemon.type1)"
+            typeLbl2.layer.cornerRadius = 10.0
+            typeLbl2.layer.backgroundColor = assignColorToType("\(pokemon.type1)",alpha: 1.0).CGColor
+        } else {
+            typeLbl1.text = "\(pokemon.type1)"
+            typeLbl1.layer.cornerRadius = 10.0
+            typeLbl2.text = "\(pokemon.type2)"
+            typeLbl2.layer.cornerRadius = 10.0
+            
+            typeLbl1.layer.backgroundColor = assignColorToType("\(pokemon.type1)",alpha: 1.0).CGColor
+            typeLbl2.layer.backgroundColor = assignColorToType("\(pokemon.type2)",alpha: 1.0).CGColor
+        }
         
-        typeLbl1.layer.backgroundColor = assignColorToType("\(pokemon.type1)",alpha: 1.0).CGColor
-        typeLbl2.layer.backgroundColor = assignColorToType("\(pokemon.type2)",alpha: 1.0).CGColor
+
         
-        attackLbl.text = pokemon.attack
-        defenseLbl.text = pokemon.defense
-        heightLbl.text = "\(pokemon.height) ft"
-        pokedexLbl.text = "#\(pokemon.pokedexId)"
-        weightLbl.text = "\(pokemon.weight) lbs"
+        //attackLbl.text = pokemon.attack
+        //defenseLbl.text = pokemon.defense
+        //heightLbl.text = "\(pokemon.height) ft"
+        pokedexLbl.text = "# \(pokemon.pokedexId)"
+        //weightLbl.text = "\(pokemon.weight) lbs"
         
-        hpLbl.text = pokemon.hp
-        attackLbl.text = pokemon.attack
-        defenseLbl.text = pokemon.defense
-        specialattackLbl.text = pokemon.specialAttack
-        specialdefenseLbl.text = pokemon.specialDefense
-        speedLbl.text = pokemon.speed
+        //hpLbl.text = pokemon.hp
+        //attackLbl.text = pokemon.attack
+        //defenseLbl.text = pokemon.defense
+        //specialattackLbl.text = pokemon.specialAttack
+        //specialdefenseLbl.text = pokemon.specialDefense
+        //speedLbl.text = pokemon.speed
+        
+        /*
         
         var str = ""
         
@@ -170,23 +180,13 @@ class PokemonDetailVC: UIViewController {
         }
         
         // UI Color alteration
-        
+        */
         let pokemonUIColor: UIColor = assignColorToType(pokemon.type1, alpha: 1.0)
         
         let themeColor = pokemonUIColor.adjust(-0.25, green: -0.25, blue: -0.25, alpha: 1)
         
         NavBarColour.backgroundColor = themeColor
-        segmentColour.tintColor = themeColor
         colourBar.backgroundColor = themeColor
-        typeTitle.textColor = themeColor
-        HPTitle.textColor = themeColor
-        attackTitle.textColor = themeColor
-        defenseTitle.textColor = themeColor
-        spAttackTitle.textColor = themeColor
-        spDefenseTitle.textColor = themeColor
-        speedTitle.textColor = themeColor
-        dexNoTitle.textColor = themeColor
-        bottomBar.backgroundColor = themeColor
         
     }
     
