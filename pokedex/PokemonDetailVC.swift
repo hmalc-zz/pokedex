@@ -93,7 +93,7 @@ class PokemonDetailVC: UIViewController {
     
     override func viewDidAppear(animated: Bool) {
         super.viewDidAppear(animated)
-        UIView.animateWithDuration(0.3, delay: -2.0, options: .CurveEaseIn, animations: {
+        UIView.animateWithDuration(0.15, delay: 0, options: .CurveEaseIn, animations: {
         self.setUpGraphs(self.hpBar, PokeStat: self.pokemon.hp)
         self.setUpGraphs(self.atkBar, PokeStat: self.pokemon.attack)
         self.setUpGraphs(self.defBar, PokeStat: self.pokemon.defense)
@@ -138,6 +138,7 @@ class PokemonDetailVC: UIViewController {
     func setUpGraphs(barRef: UIView, PokeStat: String) {
         
         let MAX_STAT: CGFloat = 255.0
+        let COLOUR_FACTOR: CGFloat = 300
         
         let str = PokeStat
         if let n = NSNumberFormatter().numberFromString(str) {
@@ -148,11 +149,13 @@ class PokemonDetailVC: UIViewController {
             
             barRef.frame = barSize
             
-            UIView.animateWithDuration(2.0, delay: 2.0, options: .CurveEaseOut, animations: {
-                barRef.alpha = 1
-                }, completion: nil)
+            let dynamicColour: UIColor = UIColor.init(hue: f/COLOUR_FACTOR, saturation: 1.0, brightness: 1.0, alpha: 1)
+            
+            barRef.backgroundColor = dynamicColour
 
         }
+        
+        
         
     }
 
