@@ -36,7 +36,7 @@ class Pokemon {
     private var _nextEvolutionText: String!
     private var _nextEvolutionId: String!
     private var _nextEvolutionLevel: String!
-    private var _previousEvolution: String!
+    private var _previousEvolutionId: String!
     private var _previousEvolutionLevel: String!
     
     private var _pokemonUrl: String!
@@ -180,12 +180,12 @@ class Pokemon {
             return _nextEvolutionLevel
     }
     
-    var previousEvolution: String {
+    var previousEvolutionId: String {
         
-        if _previousEvolution == nil {
-            _previousEvolution = ""
+        if _previousEvolutionId == nil {
+            _previousEvolutionId = ""
         }
-        return _previousEvolution
+        return _previousEvolutionId
     }
     
     var previousEvolutionLevel: String {
@@ -280,8 +280,8 @@ class Pokemon {
                     self._nextEvolutionText = nextEvolutionText
                 }
                 */
-                if let previousEvolution = row["evolves_from_species_id"] {
-                    self._previousEvolution = previousEvolution
+                if let previousEvolutionId = row["evolves_from_species_id"] {
+                    self._previousEvolutionId = previousEvolutionId
                 }
                 
                 if let previousEvolutionLevel = row["minimum_level"] {

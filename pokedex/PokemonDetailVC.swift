@@ -47,6 +47,7 @@ class PokemonDetailVC: UIViewController {
     @IBOutlet weak var heightLbl: UILabel!
     @IBOutlet weak var weightLbl: UILabel!
     @IBOutlet weak var pokedexLbl: UILabel!
+    
     @IBOutlet weak var currentEvo: UIImageView!
     @IBOutlet weak var nextEvo: UIImageView!
     @IBOutlet weak var prevEvo: UIImageView!
@@ -59,19 +60,8 @@ class PokemonDetailVC: UIViewController {
     // Colour stuff
     
     @IBOutlet weak var NavBarColour: UIView!
-    @IBOutlet weak var segmentColour: UISegmentedControl!
     @IBOutlet weak var colourBar: UIView!
     @IBOutlet weak var typeTitle: UILabel!
-    @IBOutlet weak var HPTitle: UILabel!
-    @IBOutlet weak var attackTitle: UILabel!
-    @IBOutlet weak var defenseTitle: UILabel!
-    @IBOutlet weak var spAttackTitle: UILabel!
-    @IBOutlet weak var spDefenseTitle: UILabel!
-    @IBOutlet weak var speedTitle: UILabel!
-    @IBOutlet weak var bottomBar: UIView!
-    @IBOutlet weak var dexNoTitle: UILabel!
-    
-
     
     var soundPlayer: AVAudioPlayer!
     var pokemon: Pokemon!
@@ -115,10 +105,7 @@ class PokemonDetailVC: UIViewController {
         let img = UIImage(named: "\(pokemon.pokedexId)-hi")
         
         mainImg.image = img
-        //currentEvo.image = img
-        
         pokemon.parsePokeStatsCSV()
-        
         pokemon.parsePokedexEntryCSV(selectedVersionLabel)
         
         // Make sure Dex entry is not blank
@@ -207,50 +194,23 @@ class PokemonDetailVC: UIViewController {
         specialdefenseLbl.text = pokemon.specialDefense
         speedLbl.text = pokemon.speed
         
-        // Graph setup
-    
+        currentEvo.image = UIImage(named: "\(pokemon.pokedexId)")
         
-        /*
+        // Programmatically assign images based on weather evolutions exist
         
-        var str = ""
-        
-        if pokemon.previousEvolution == "" {
+        if pokemon.nextEvolutionId == "" && pokemon.previousEvolutionId == "" {
             prevEvo.hidden = true
-        } else {
-            prevEvo.hidden = false
-            prevEvo.image = UIImage(named: pokemon.previousEvolution)
-            
-            //var str = "Next Evolution: \(pokemon.nextEvolutionText)"
-            
-            if pokemon.previousEvolutionLevel != "" {
-                str += "Evolved at Lv. \(pokemon.previousEvolutionLevel)"
-            }
+            nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
+        } else if pokemon.previousEvolutionId != "" && pokemon.nextEvolutionId != "" {
+            prevEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
+            nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
+        } else if pokemon.previousEvolutionId != "" && pokemon.nextEvolutionId == ""{
+            prevEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
+            nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
+        } else if pokemon.previousEvolutionId == "" && pokemon.nextEvolutionId != ""{
+            prevEvo.hidden = true
+            nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
         }
-        
-        if pokemon.nextEvolutionId == "" {
-            nextEvo.hidden = true
-        } else {
-            nextEvo.hidden = false
-            nextEvo.image = UIImage(named: pokemon.nextEvolutionId)
-            
-            //var str = "Next Evolution: \(pokemon.nextEvolutionText)"
-            
-            if pokemon.nextEvolutionLevel != "" {
-                str += "Evolves at Lv. \(pokemon.nextEvolutionLevel)"
-            }
-        }
-        
-        if pokemon.nextEvolutionId != "" && pokemon.previousEvolution != "" {
-            evoLbl.text = "Evolved at Lv. \(pokemon.previousEvolutionLevel) / Evolves at Lv. \(pokemon.nextEvolutionLevel)"
-        } else {
-            evoLbl.text = str
-        }
-        
-        
-        if pokemon.previousEvolution != "" {
-            prevEvo.image = UIImage(named: pokemon.previousEvolution)
-        }
-        */
         
         // UI Color alteration
 
@@ -261,7 +221,7 @@ class PokemonDetailVC: UIViewController {
         NavBarColour.backgroundColor = themeColor
         colourBar.backgroundColor = themeColor
         
-        // Total stats
+        // Total stats calc
         
         var baseStatTotal: Int = 0
         
