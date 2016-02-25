@@ -86,7 +86,7 @@ class PokemonDetailVC: UIViewController {
     
     override func viewDidAppear(animated: Bool) {
         super.viewDidAppear(animated)
-        UIView.animateWithDuration(0.15, delay: 0, options: .CurveEaseIn, animations: {
+        UIView.animateWithDuration(0.2, delay: 0, options: .CurveEaseIn, animations: {
         self.setUpGraphs(self.hpBar, PokeStat: self.pokemon.hp)
         self.setUpGraphs(self.atkBar, PokeStat: self.pokemon.attack)
         self.setUpGraphs(self.defBar, PokeStat: self.pokemon.defense)
@@ -200,13 +200,13 @@ class PokemonDetailVC: UIViewController {
         
         if pokemon.nextEvolutionId == "" && pokemon.previousEvolutionId == "" {
             prevEvo.hidden = true
-            nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
+            nextEvo.hidden = true
         } else if pokemon.previousEvolutionId != "" && pokemon.nextEvolutionId != "" {
             prevEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
             nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
         } else if pokemon.previousEvolutionId != "" && pokemon.nextEvolutionId == ""{
             prevEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
-            nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
+            nextEvo.hidden = true
         } else if pokemon.previousEvolutionId == "" && pokemon.nextEvolutionId != ""{
             prevEvo.hidden = true
             nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
