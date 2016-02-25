@@ -10,9 +10,9 @@ import UIKit
 import AVFoundation
 import QuartzCore
 
-class PokemonDetailVC: UIViewController {
+class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSource {
 
-    //
+    @IBOutlet weak var tableView: UITableView!
 
     @IBOutlet weak var mainImg: UIImageView!
     @IBOutlet weak var nameLbl: UILabel!
@@ -68,25 +68,25 @@ class PokemonDetailVC: UIViewController {
     var selectedVersionLabel: Int = Int(arc4random_uniform(26) + 1)
     var timer: NSTimer!
     
+    
+    var testData = ["Fucking","Bullshit"]
+    
     override func preferredStatusBarStyle() -> UIStatusBarStyle {
         return .LightContent
     }
     
-    /*override func viewDidLayoutSubviews() {
-        
-        // Load Graphs
-        
-        setUpGraphs(hpBar, PokeStat: pokemon.hp)
-        setUpGraphs(atkBar, PokeStat: pokemon.attack)
-        setUpGraphs(defBar, PokeStat: pokemon.defense)
-        setUpGraphs(satBar, PokeStat: pokemon.specialAttack)
-        setUpGraphs(sdfBar, PokeStat: pokemon.specialDefense)
-        setUpGraphs(spdBar, PokeStat: pokemon.speed)
-    }*/
-    
     override func viewDidAppear(animated: Bool) {
         super.viewDidAppear(animated)
-        UIView.animateWithDuration(0.2, delay: 0, options: .CurveEaseIn, animations: {
+        
+        self.setUpGraphColor(self.hpBar, PokeStat: self.pokemon.hp)
+        self.setUpGraphColor(self.atkBar, PokeStat: self.pokemon.attack)
+        self.setUpGraphColor(self.defBar, PokeStat: self.pokemon.defense)
+        self.setUpGraphColor(self.satBar, PokeStat: self.pokemon.specialAttack)
+        self.setUpGraphColor(self.sdfBar, PokeStat: self.pokemon.specialDefense)
+        self.setUpGraphColor(self.spdBar, PokeStat: self.pokemon.speed)
+        
+        UIView.animateWithDuration(0.4, delay: 0, options: .CurveEaseIn, animations: {
+
         self.setUpGraphs(self.hpBar, PokeStat: self.pokemon.hp)
         self.setUpGraphs(self.atkBar, PokeStat: self.pokemon.attack)
         self.setUpGraphs(self.defBar, PokeStat: self.pokemon.defense)
@@ -100,6 +100,9 @@ class PokemonDetailVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        self.tableView.delegate = self
+        self.tableView.dataSource = self
+        
         timer = NSTimer.scheduledTimerWithTimeInterval(4.0, target: self, selector: "update", userInfo: nil, repeats: true)
         
         let img = UIImage(named: "\(pokemon.pokedexId)-hi")
@@ -107,6 +110,7 @@ class PokemonDetailVC: UIViewController {
         mainImg.image = img
         pokemon.parsePokeStatsCSV()
         pokemon.parsePokedexEntryCSV(selectedVersionLabel)
+        pokemon.parsePokeMovesCSV(1)
         
         // Make sure Dex entry is not blank
         while pokemon.description == "" {
@@ -120,15 +124,16 @@ class PokemonDetailVC: UIViewController {
         // Load up audio
         
         initCries()
-    
-    // MARK: Graph Setup
+        
+        // Fill Moves
         
     }
+    
+    // MARK: Graph Setup
     
     func setUpGraphs(barRef: UIView, PokeStat: String) {
         
         let MAX_STAT: CGFloat = 255.0
-        let COLOUR_FACTOR: CGFloat = 400
         
         let str = PokeStat
         if let n = NSNumberFormatter().numberFromString(str) {
@@ -138,16 +143,27 @@ class PokemonDetailVC: UIViewController {
             let barSize = CGRectMake(barRef.frame.origin.x, barRef.frame.origin.y, fullBar.frame.width * f/MAX_STAT, 5.0)
             
             barRef.frame = barSize
-            
-            let dynamicColour: UIColor = UIColor.init(hue: f/COLOUR_FACTOR, saturation: 1.0, brightness: 1.0, alpha: 1)
-            
-            barRef.backgroundColor = dynamicColour
 
         }
         
         
         
     }
+    
+    func setUpGraphColor(barRef: UIView, PokeStat: String) {
+        
+        let COLOUR_FACTOR: CGFloat = 400
+        
+        let str = PokeStat
+        if let n = NSNumberFormatter().numberFromString(str) {
+            let f = CGFloat(n)
+            
+            let dynamicColour: UIColor = UIColor.init(hue: f/COLOUR_FACTOR, saturation: 1.0, brightness: 1.0, alpha: 1)
+            
+            barRef.backgroundColor = dynamicColour
+        }
+    }
+    
 
     
     
@@ -301,6 +317,28 @@ class PokemonDetailVC: UIViewController {
         descriptionLbl.text = pokemon.description
         
     }
+    
+    // MARK: Table View Delegate Functions
+    
+    func numberOfSectionsInTableView(tableView: UITableView) -> Int {
+        return 1
+    }
+    
+    func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
+        
+        let cell = tableView.dequeueReusableCellWithIdentifier("UIPokeTableCell")
+        
+        cell?.textLabel?.text = pokemon.moveList[indexPath.row]
+        
+        cell?.detailTextLabel?.text = "\(pokemon.levelList[indexPath.row])"
+        
+        return cell!
+    }
+    
+    func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return pokemon.moveList.count
+    }
+    
     
     // MARK: @IBAction functions
     
