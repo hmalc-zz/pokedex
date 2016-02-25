@@ -10,7 +10,7 @@ import UIKit
 
 class TableViewCell: UITableViewCell {
     
-    @IBOutlet weak var LevelLbl: UILabel!
+    //@IBOutlet weak var LevelLbl: UILabel!
     //@IBOutlet weak var moveName: UILabel!
     //@IBOutlet weak var specialPhysical: UILabel!
     //@IBOutlet weak var PPlbl: UILabel!
