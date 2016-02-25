@@ -42,7 +42,10 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBOutlet weak var sdfBar: UIView!
     @IBOutlet weak var spdBar: UIView!
 
+    @IBOutlet weak var tableHeight: NSLayoutConstraint!
     // Labels
+    
+    
     
     @IBOutlet weak var heightLbl: UILabel!
     @IBOutlet weak var weightLbl: UILabel!
@@ -67,9 +70,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     var pokemon: Pokemon!
     var selectedVersionLabel: Int = Int(arc4random_uniform(26) + 1)
     var timer: NSTimer!
-    
-    
-    var testData = ["Fucking","Bullshit"]
     
     override func preferredStatusBarStyle() -> UIStatusBarStyle {
         return .LightContent
@@ -110,12 +110,14 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         mainImg.image = img
         pokemon.parsePokeStatsCSV()
         pokemon.parsePokedexEntryCSV(selectedVersionLabel)
-        pokemon.parsePokeMovesCSV(1)
+        pokemon.parsePokeMovesCSV(16)
         
         // Make sure Dex entry is not blank
         while pokemon.description == "" {
             pokemon.parsePokedexEntryCSV(Int(arc4random_uniform(26) + 1))
         }
+        
+        //
         
         // Refresh view with updateUI() function
         
@@ -125,7 +127,14 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         
         initCries()
         
-        // Fill Moves
+        // Set height of Scroll View
+        
+        self.tableHeight.constant = CGFloat(pokemon.moveList.count) * 44
+        
+        print(self.tableHeight.constant)
+        // Need to call this line to force constraint updated
+        
+        self.view.layoutIfNeeded()
         
     }
     

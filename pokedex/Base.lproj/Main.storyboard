@@ -150,7 +150,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="600" height="1200"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dHo-S6-Gzl">
-                                        <rect key="frame" x="0.0" y="0.0" width="600" height="1200"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="600" height="1452"/>
                                         <subviews>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rY0-N2-Jvy">
                                                 <rect key="frame" x="0.0" y="255" width="600" height="160"/>
@@ -591,19 +591,19 @@
                                                         <rect key="frame" x="20" y="32" width="572" height="60"/>
                                                         <subviews>
                                                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="DZW-TD-1en">
-                                                                <rect key="frame" x="0.0" y="0.0" width="191" height="60"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="190.5" height="60"/>
                                                                 <constraints>
                                                                     <constraint firstAttribute="height" constant="60" id="Z4V-Qo-FVe"/>
                                                                 </constraints>
                                                             </imageView>
                                                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ckE-KJ-uvS">
-                                                                <rect key="frame" x="191" y="0.0" width="191" height="60"/>
+                                                                <rect key="frame" x="190.5" y="0.0" width="191" height="60"/>
                                                                 <constraints>
                                                                     <constraint firstAttribute="height" constant="60" id="IzR-ui-gcy"/>
                                                                 </constraints>
                                                             </imageView>
                                                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="DpR-tQ-TGK">
-                                                                <rect key="frame" x="382" y="0.0" width="191" height="60"/>
+                                                                <rect key="frame" x="381.5" y="0.0" width="190.5" height="60"/>
                                                                 <constraints>
                                                                     <constraint firstAttribute="height" constant="60" id="3Ly-HM-dIT"/>
                                                                 </constraints>
@@ -655,8 +655,8 @@
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hNV-G0-HMe">
                                                 <rect key="frame" x="0.0" y="915" width="600" height="37"/>
                                                 <subviews>
-                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Moves" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6cv-Oi-anw">
-                                                        <rect key="frame" x="16" y="8" width="53" height="21"/>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Moves" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6cv-Oi-anw">
+                                                        <rect key="frame" x="20" y="8" width="52.5" height="21"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="21" id="BRu-cu-bYO"/>
                                                         </constraints>
@@ -678,11 +678,14 @@
                                                     </mask>
                                                 </variation>
                                             </view>
-                                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="l6E-kV-acu">
-                                                <rect key="frame" x="0.0" y="952" width="600" height="248"/>
+                                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" scrollEnabled="NO" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="l6E-kV-acu">
+                                                <rect key="frame" x="0.0" y="952" width="600" height="500"/>
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="500" id="X5V-qg-chm"/>
+                                                </constraints>
                                                 <prototypes>
-                                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="UIPokeTableCell" textLabel="aiK-sC-vad" detailTextLabel="c8w-VW-fGY" style="IBUITableViewCellStyleValue1" id="Xux-SW-sqd">
+                                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="none" indentationWidth="20" reuseIdentifier="UIPokeTableCell" textLabel="aiK-sC-vad" detailTextLabel="c8w-VW-fGY" style="IBUITableViewCellStyleValue1" id="Xux-SW-sqd">
                                                         <rect key="frame" x="0.0" y="28" width="600" height="44"/>
                                                         <autoresizingMask key="autoresizingMask"/>
                                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Xux-SW-sqd" id="gvH-4u-aE7">
@@ -727,15 +730,22 @@
                                             <constraint firstItem="l6E-kV-acu" firstAttribute="top" secondItem="hNV-G0-HMe" secondAttribute="bottom" id="PZp-ZT-ASQ"/>
                                             <constraint firstAttribute="trailing" secondItem="QgR-FD-PxZ" secondAttribute="trailing" id="TxT-nQ-tFR"/>
                                             <constraint firstItem="QgR-FD-PxZ" firstAttribute="top" secondItem="8W1-YM-enm" secondAttribute="bottom" id="X5v-Q2-oV5"/>
+                                            <constraint firstAttribute="bottom" secondItem="l6E-kV-acu" secondAttribute="bottom" id="XCK-Ni-yyR"/>
                                             <constraint firstItem="hNV-G0-HMe" firstAttribute="top" secondItem="QgR-FD-PxZ" secondAttribute="bottom" id="aaF-3V-qY4"/>
                                             <constraint firstAttribute="bottom" secondItem="l6E-kV-acu" secondAttribute="bottom" id="jhl-Sp-LN7"/>
-                                            <constraint firstAttribute="height" constant="1200" id="lJr-oj-6kR"/>
+                                            <constraint firstAttribute="height" constant="1500" id="lJr-oj-6kR"/>
                                             <constraint firstAttribute="trailing" secondItem="rY0-N2-Jvy" secondAttribute="trailing" id="la3-re-QgK"/>
                                             <constraint firstItem="l6E-kV-acu" firstAttribute="leading" secondItem="dHo-S6-Gzl" secondAttribute="leading" id="laa-K4-hMC"/>
                                             <constraint firstItem="LTP-sj-s7d" firstAttribute="top" secondItem="rY0-N2-Jvy" secondAttribute="bottom" id="lss-uB-L5w"/>
                                             <constraint firstItem="8W1-YM-enm" firstAttribute="top" secondItem="LTP-sj-s7d" secondAttribute="bottom" id="mR8-0l-la3"/>
                                             <constraint firstItem="T1k-LH-Bkv" firstAttribute="top" secondItem="dHo-S6-Gzl" secondAttribute="top" constant="55" id="vm4-qS-XDG"/>
                                         </constraints>
+                                        <variation key="default">
+                                            <mask key="constraints">
+                                                <exclude reference="lJr-oj-6kR"/>
+                                                <exclude reference="PZp-ZT-ASQ"/>
+                                            </mask>
+                                        </variation>
                                     </view>
                                 </subviews>
                                 <constraints>
@@ -846,6 +856,7 @@
                         <outlet property="specialattackLbl" destination="ejB-NP-IQb" id="3lf-rr-fjz"/>
                         <outlet property="specialdefenseLbl" destination="0DG-QZ-ptp" id="ayF-bN-3ua"/>
                         <outlet property="speedLbl" destination="Jhw-8h-ecj" id="q7H-Ar-YBZ"/>
+                        <outlet property="tableHeight" destination="X5V-qg-chm" id="pGB-Ij-NJA"/>
                         <outlet property="tableView" destination="l6E-kV-acu" id="8v1-6A-wZb"/>
                         <outlet property="totalBaseStat" destination="btE-uC-ajf" id="IWm-3Y-ILe"/>
                         <outlet property="typeLbl1" destination="9f0-Lq-xiD" id="ZhT-2a-91l"/>
