@@ -53,6 +53,9 @@ class PokemonDetailVC: UIViewController {
     
     @IBOutlet weak var evoLbl: UILabel!
     
+    @IBOutlet weak var totalBaseStat: UILabel!
+    
+    
     // Colour stuff
     
     @IBOutlet weak var NavBarColour: UIView!
@@ -138,7 +141,7 @@ class PokemonDetailVC: UIViewController {
     func setUpGraphs(barRef: UIView, PokeStat: String) {
         
         let MAX_STAT: CGFloat = 255.0
-        let COLOUR_FACTOR: CGFloat = 300
+        let COLOUR_FACTOR: CGFloat = 400
         
         let str = PokeStat
         if let n = NSNumberFormatter().numberFromString(str) {
@@ -258,7 +261,38 @@ class PokemonDetailVC: UIViewController {
         NavBarColour.backgroundColor = themeColor
         colourBar.backgroundColor = themeColor
         
+        // Total stats
+        
+        var baseStatTotal: Int = 0
+        
+        if let n = NSNumberFormatter().numberFromString(pokemon.hp) {
+            let f = Int(n)
+            baseStatTotal += f
+        }
+        if let n = NSNumberFormatter().numberFromString(pokemon.defense) {
+            let f = Int(n)
+            baseStatTotal += f
+        }
+        if let n = NSNumberFormatter().numberFromString(pokemon.attack) {
+            let f = Int(n)
+            baseStatTotal += f
+        }
+        if let n = NSNumberFormatter().numberFromString(pokemon.specialAttack) {
+            let f = Int(n)
+            baseStatTotal += f
+        }
+        if let n = NSNumberFormatter().numberFromString(pokemon.specialDefense) {
+            let f = Int(n)
+            baseStatTotal += f
+        }
+        if let n = NSNumberFormatter().numberFromString(pokemon.speed) {
+            let f = Int(n)
+            baseStatTotal += f
+        }
+        
+        totalBaseStat.text = "\(baseStatTotal)"
     }
+        
     
     func initCries() {
         
