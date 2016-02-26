@@ -336,9 +336,6 @@ class Pokemon {
             
         }
         
-        print (moveListBuild)
-        print (levelListBuild)
-        
         self._levelList = levelListBuild
         self._moveList = moveListBuild
         

@@ -12,6 +12,8 @@ import QuartzCore
 
 class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSource {
 
+    // MARK: IBOutlets
+    
     @IBOutlet weak var tableView: UITableView!
 
     @IBOutlet weak var mainImg: UIImageView!
@@ -45,8 +47,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBOutlet weak var tableHeight: NSLayoutConstraint!
     // Labels
     
-    
-    
     @IBOutlet weak var heightLbl: UILabel!
     @IBOutlet weak var weightLbl: UILabel!
     @IBOutlet weak var pokedexLbl: UILabel!
@@ -59,11 +59,16 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     @IBOutlet weak var totalBaseStat: UILabel!
     
+    // Move labels
+    
+    @IBOutlet weak var moveVersionLabel: UILabel!
+    
     
     // Colour stuff
     
     @IBOutlet weak var NavBarColour: UIView!
     @IBOutlet weak var colourBar: UIView!
+    @IBOutlet weak var colourBar2: UIView!
     @IBOutlet weak var typeTitle: UILabel!
     
     var soundPlayer: AVAudioPlayer!
@@ -96,6 +101,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             }, completion: nil)
 
     }
+    
+    // MARK: View Did Load
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -131,7 +138,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         
         self.tableHeight.constant = CGFloat(pokemon.moveList.count) * 44
         
-        print(self.tableHeight.constant)
         // Need to call this line to force constraint updated
         
         self.view.layoutIfNeeded()
@@ -187,6 +193,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         descriptionLbl.text = pokemon.description
         
         gameRefPokedexEntry.text = pokemon.gameName
+        moveVersionLabel.text = pokemon.gameName
         gameRefPokedexEntry.layer.backgroundColor = assignColoursToGame(pokemon.gameIdNo).CGColor
         gameRefPokedexEntry.layer.cornerRadius = 10.0
         
@@ -245,6 +252,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         
         NavBarColour.backgroundColor = themeColor
         colourBar.backgroundColor = themeColor
+        colourBar2.backgroundColor = themeColor
         
         // Total stats calc
         
@@ -298,6 +306,9 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     func update() {
         changeDexEntryUp()
+        //pokemon.parsePokeMovesCSV(selectedVersionLabel)
+        //tableView.reloadData()
+        //self.view.layoutIfNeeded()
     }
     
     func changeDexEntryUp() {
