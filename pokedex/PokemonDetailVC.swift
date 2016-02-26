@@ -10,11 +10,13 @@ import UIKit
 import AVFoundation
 import QuartzCore
 
-class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSource {
+class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSource, UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout {
 
     // MARK: IBOutlets
     
     @IBOutlet weak var tableView: UITableView!
+    @IBOutlet weak var collectionView: UICollectionView!
+    
 
     @IBOutlet weak var mainImg: UIImageView!
     @IBOutlet weak var nameLbl: UILabel!
@@ -71,13 +73,39 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBOutlet weak var colourBar2: UIView!
     @IBOutlet weak var typeTitle: UILabel!
     
+    // Declare Variables
+    
     var soundPlayer: AVAudioPlayer!
     var pokemon: Pokemon!
     var selectedVersionLabel: Int = Int(arc4random_uniform(26) + 1)
     var timer: NSTimer!
+    var pokemonImg: [Int] = []
     
     override func preferredStatusBarStyle() -> UIStatusBarStyle {
         return .LightContent
+    }
+    
+    private var currentPokeID: Int = 0 {
+        didSet {
+            if currentPokeID != oldValue {
+                pokemon = Pokemon(pokedexId: currentPokeID+1)
+                newPokemonSetup()
+                initCries()
+            }
+        }
+    }
+    
+    func scrollViewDidScroll(scrollView: UIScrollView) {
+        let bounds = self.collectionView.bounds
+        let midpoint = CGPointMake(bounds.midX, bounds.midY)
+        if let indexPath = self.collectionView.indexPathForItemAtPoint(midpoint) {
+            currentPokeID = indexPath.item
+        }
+    }
+    
+    override func viewWillAppear(animated: Bool) {
+        super.viewWillAppear(animated)
+        self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: true)
     }
     
     override func viewDidAppear(animated: Bool) {
@@ -107,62 +135,51 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        for i in 1...718 {
+            pokemonImg.append(i)
+        }
+        
         self.tableView.delegate = self
         self.tableView.dataSource = self
-        
+        self.collectionView.delegate = self
+        self.collectionView.dataSource = self
         timer = NSTimer.scheduledTimerWithTimeInterval(4.0, target: self, selector: "update", userInfo: nil, repeats: true)
-        
-        let img = UIImage(named: "\(pokemon.pokedexId)-hi")
-        
-        mainImg.image = img
+        newPokemonSetup()
+        if pokemon.pokedexId == 1 {
+            initCries()
+        }
+
+    }
+    
+    // MARK: New Pokemon Setup
+    
+    func newPokemonSetup() {
         pokemon.parsePokeStatsCSV()
         pokemon.parsePokedexEntryCSV(selectedVersionLabel)
         pokemon.parsePokeMovesCSV(16)
-        
         // Make sure Dex entry is not blank
         while pokemon.description == "" {
             pokemon.parsePokedexEntryCSV(Int(arc4random_uniform(26) + 1))
         }
-        
-        //
-        
-        // Refresh view with updateUI() function
-        
         updateUI()
-        
-        // Load up audio
-        
-        initCries()
-        
+        setupGraphsForNewPokemon()
         // Set height of Scroll View
-        
         self.tableHeight.constant = CGFloat(pokemon.moveList.count) * 44
-        
         // Need to call this line to force constraint updated
-        
         self.view.layoutIfNeeded()
-        
+        tableView.reloadData()
     }
     
     // MARK: Graph Setup
     
     func setUpGraphs(barRef: UIView, PokeStat: String) {
-        
         let MAX_STAT: CGFloat = 255.0
-        
         let str = PokeStat
         if let n = NSNumberFormatter().numberFromString(str) {
             let f = CGFloat(n)
-            
-            
             let barSize = CGRectMake(barRef.frame.origin.x, barRef.frame.origin.y, fullBar.frame.width * f/MAX_STAT, 5.0)
-            
             barRef.frame = barSize
-
         }
-        
-        
-        
     }
     
     func setUpGraphColor(barRef: UIView, PokeStat: String) {
@@ -178,9 +195,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             barRef.backgroundColor = dynamicColour
         }
     }
-    
 
-    
     
     // MARK: Functions
 
@@ -198,10 +213,12 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         gameRefPokedexEntry.layer.cornerRadius = 10.0
         
         if pokemon.type2 == "" {
+            typeLbl1.hidden = true
             typeLbl2.text = "\(pokemon.type1)"
             typeLbl2.layer.cornerRadius = 10.0
             typeLbl2.layer.backgroundColor = assignColorToType("\(pokemon.type1)",alpha: 1.0).CGColor
         } else {
+            typeLbl1.hidden = false
             typeLbl1.text = "\(pokemon.type1)"
             typeLbl1.layer.cornerRadius = 10.0
             typeLbl2.text = "\(pokemon.type2)"
@@ -234,13 +251,17 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             prevEvo.hidden = true
             nextEvo.hidden = true
         } else if pokemon.previousEvolutionId != "" && pokemon.nextEvolutionId != "" {
+            prevEvo.hidden = false
+            nextEvo.hidden = false
             prevEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
             nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
         } else if pokemon.previousEvolutionId != "" && pokemon.nextEvolutionId == ""{
+            prevEvo.hidden = false
             prevEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
             nextEvo.hidden = true
         } else if pokemon.previousEvolutionId == "" && pokemon.nextEvolutionId != ""{
             prevEvo.hidden = true
+            nextEvo.hidden = false
             nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
         }
         
@@ -359,6 +380,56 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         return pokemon.moveList.count
     }
     
+    // MARK: Collection View Delegate Functions
+    
+    func collectionView(collectionView: UICollectionView, cellForItemAtIndexPath indexPath: NSIndexPath) -> UICollectionViewCell {
+        
+        if let cell = collectionView.dequeueReusableCellWithReuseIdentifier("MainImageCell", forIndexPath: indexPath) as? MainImageViewCell {
+            
+            let dexID = pokemonImg[indexPath.row]
+            cell.configureImageCell(dexID)
+            
+            return cell
+        } else {
+            return UICollectionViewCell()
+        }
+    }
+    
+    func collectionView(collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        return pokemonImg.count
+
+    }
+    
+    func numberOfSectionsInCollectionView(collectionView: UICollectionView) -> Int {
+        return 1
+    }
+    
+    func collectionView(collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAtIndexPath indexPath: NSIndexPath) -> CGSize {
+        
+        let bounds = UIScreen.mainScreen().bounds
+        let width = bounds.size.width
+        
+        return CGSizeMake(width, 200)
+        
+    }
+    
+    func setupGraphsForNewPokemon() {
+        self.setUpGraphColor(self.hpBar, PokeStat: self.pokemon.hp)
+        self.setUpGraphColor(self.atkBar, PokeStat: self.pokemon.attack)
+        self.setUpGraphColor(self.defBar, PokeStat: self.pokemon.defense)
+        self.setUpGraphColor(self.satBar, PokeStat: self.pokemon.specialAttack)
+        self.setUpGraphColor(self.sdfBar, PokeStat: self.pokemon.specialDefense)
+        self.setUpGraphColor(self.spdBar, PokeStat: self.pokemon.speed)
+            
+        self.setUpGraphs(self.hpBar, PokeStat: self.pokemon.hp)
+        self.setUpGraphs(self.atkBar, PokeStat: self.pokemon.attack)
+        self.setUpGraphs(self.defBar, PokeStat: self.pokemon.defense)
+        self.setUpGraphs(self.satBar, PokeStat: self.pokemon.specialAttack)
+        self.setUpGraphs(self.sdfBar, PokeStat: self.pokemon.specialDefense)
+        self.setUpGraphs(self.spdBar, PokeStat: self.pokemon.speed)
+    }
+    
+    
     
     // MARK: @IBAction functions
     
@@ -406,5 +477,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         descriptionLbl.fadeTransition(0.25)
         descriptionLbl.text = pokemon.description
     }
+
 }
+
+
 

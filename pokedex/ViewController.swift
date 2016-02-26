@@ -128,6 +128,13 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     
     func collectionView(collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAtIndexPath indexPath: NSIndexPath) -> CGSize {
         
+        let bounds = UIScreen.mainScreen().bounds
+        let width = bounds.size.width
+        
+        if width < 350 {
+            return CGSizeMake(85, 85)
+        }
+        
         return CGSizeMake(107, 107)
         
     }

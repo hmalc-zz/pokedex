@@ -208,6 +208,13 @@ class Pokemon {
     
     }
     
+    init(pokedexId: Int) {
+        self._pokedexId = pokedexId
+        
+    }
+    
+    
+    
     //MARK: Parse stats
     
     func parsePokeStatsCSV() {
@@ -219,7 +226,14 @@ class Pokemon {
             let rows = csv.rows
             
             for row in rows {
-                   
+                
+                // Name
+                
+                if let name = row["identifier"] {
+                    self._name = name
+                }
+                
+                
                 // Height + Weight
                 
                 if let height = row["height"] {

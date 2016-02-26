@@ -34,7 +34,6 @@ class TableViewCell: UITableViewCell {
         pokemon.parsePokeMovesCSV(versionLabelMoves)
         //moveName.text = pokemon.moveList[index]
         //LevelLbl.text = "\(pokemon.levelList[index])"
-        print("Im called")
         
     }
 
