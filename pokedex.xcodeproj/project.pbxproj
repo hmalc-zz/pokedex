@@ -1525,6 +1525,7 @@
 		B4D62DDB1C81647C007E2CAD /* 720-hi.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D62D901C81647B007E2CAD /* 720-hi.png */; };
 		B4D62DDC1C81647C007E2CAD /* 720-small.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D62D911C81647C007E2CAD /* 720-small.png */; };
 		B4D62DDD1C81647C007E2CAD /* 721-hi.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D62D921C81647C007E2CAD /* 721-hi.png */; };
+		B4D62DDF1C816BE7007E2CAD /* 660-hi.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D62DDE1C816BE7007E2CAD /* 660-hi.png */; };
 		B4EBC7A91C7A6F9E00D1653C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4EBC7A81C7A6F9E00D1653C /* Assets.xcassets */; };
 		B4EBC7AB1C7A772500D1653C /* pokeinit.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4EBC7AA1C7A772500D1653C /* pokeinit.csv */; };
 		B4EBCA7E1C7AAFF800D1653C /* 1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4EBC7AD1C7AAFF600D1653C /* 1.mp3 */; };
@@ -5190,6 +5191,7 @@
 		B4D62D901C81647B007E2CAD /* 720-hi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "720-hi.png"; sourceTree = "<group>"; };
 		B4D62D911C81647C007E2CAD /* 720-small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "720-small.png"; sourceTree = "<group>"; };
 		B4D62D921C81647C007E2CAD /* 721-hi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "721-hi.png"; sourceTree = "<group>"; };
+		B4D62DDE1C816BE7007E2CAD /* 660-hi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "660-hi.png"; sourceTree = "<group>"; };
 		B4EBC7A81C7A6F9E00D1653C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B4EBC7AA1C7A772500D1653C /* pokeinit.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokeinit.csv; sourceTree = "<group>"; };
 		B4EBC7AD1C7AAFF600D1653C /* 1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 1.mp3; sourceTree = "<group>"; };
@@ -11009,6 +11011,7 @@
 				B4F28DA31C7CB946007C5BBF /* 633-hi.png */,
 				B4F28DA41C7CB946007C5BBF /* 634-hi.png */,
 				B4F28DA51C7CB946007C5BBF /* 635-hi.png */,
+				B4D62DDE1C816BE7007E2CAD /* 660-hi.png */,
 				B4F28DA61C7CB946007C5BBF /* 636-hi.png */,
 				B4F28DA71C7CB946007C5BBF /* 637-hi.png */,
 				B4F28DA81C7CB946007C5BBF /* 638-hi.png */,
@@ -13852,6 +13855,7 @@
 				B404EB091C79647C00FB0C35 /* pokemonId211.csv in Resources */,
 				B404EA8C1C79647C00FB0C35 /* pokemonId86.csv in Resources */,
 				B404CAEE1C77F43700FB0C35 /* pokeId627.csv in Resources */,
+				B4D62DDF1C816BE7007E2CAD /* 660-hi.png in Resources */,
 				B4EBD0B91C7BAA5F00D1653C /* pokemonDescId153.csv in Resources */,
 				B4F28F911C7CB946007C5BBF /* 459-hi.png in Resources */,
 				B4F28F501C7CB946007C5BBF /* 406-hi.png in Resources */,

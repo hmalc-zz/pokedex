@@ -925,30 +925,34 @@
                                     </mask>
                                 </variation>
                             </view>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VWu-ig-6IH">
-                                <rect key="frame" x="0.0" y="55" width="50" height="200"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VWu-ig-6IH">
+                                <rect key="frame" x="0.0" y="135" width="40" height="40"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="200" id="6h4-Bc-VkL"/>
-                                    <constraint firstAttribute="width" constant="50" id="nUL-CK-BVY"/>
+                                    <constraint firstAttribute="height" constant="40" id="6h4-Bc-VkL"/>
+                                    <constraint firstAttribute="width" constant="40" id="nUL-CK-BVY"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="20"/>
-                                <state key="normal" title="&lt;">
+                                <state key="normal" image="left">
                                     <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
                                 </state>
                                 <connections>
                                     <action selector="prevPokemonTouch:" destination="HOP-Jb-BQg" eventType="touchUpInside" id="FyK-Cc-bsL"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zdh-wv-kiL">
-                                <rect key="frame" x="550" y="55" width="50" height="200"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zdh-wv-kiL">
+                                <rect key="frame" x="560" y="135" width="40" height="40"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="50" id="Jt7-vX-b04"/>
+                                    <constraint firstAttribute="width" constant="40" id="Jt7-vX-b04"/>
                                     <constraint firstAttribute="height" constant="200" id="q7E-Mf-wEY"/>
+                                    <constraint firstAttribute="height" constant="40" id="ufD-RT-OjK"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="20"/>
-                                <state key="normal" title="&gt;">
+                                <state key="normal" image="right">
                                     <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
                                 </state>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="q7E-Mf-wEY"/>
+                                    </mask>
+                                </variation>
                                 <connections>
                                     <action selector="nextPokemonTouch:" destination="HOP-Jb-BQg" eventType="touchUpInside" id="HVt-7o-s0r"/>
                                 </connections>
@@ -959,6 +963,7 @@
                             <constraint firstItem="nYJ-WG-Gp4" firstAttribute="top" secondItem="WWl-0x-RTu" secondAttribute="top" id="3L9-3E-vB3"/>
                             <constraint firstItem="VWu-ig-6IH" firstAttribute="leading" secondItem="YIq-ep-xTl" secondAttribute="leading" id="5mF-hC-crT"/>
                             <constraint firstAttribute="trailing" secondItem="nYJ-WG-Gp4" secondAttribute="trailing" id="Ab4-OD-eyl"/>
+                            <constraint firstItem="Zdh-wv-kiL" firstAttribute="centerY" secondItem="YIq-ep-xTl" secondAttribute="centerY" id="HZs-MQ-Mqh"/>
                             <constraint firstItem="xIr-Ni-lr6" firstAttribute="top" secondItem="nYJ-WG-Gp4" secondAttribute="top" id="NLQ-L4-PQd"/>
                             <constraint firstItem="xIr-Ni-lr6" firstAttribute="top" secondItem="Wnb-mu-wLo" secondAttribute="bottom" id="SyG-QJ-jtK"/>
                             <constraint firstAttribute="trailingMargin" secondItem="xIr-Ni-lr6" secondAttribute="trailingMargin" id="XWw-13-cxD"/>
@@ -969,6 +974,7 @@
                             <constraint firstItem="xIr-Ni-lr6" firstAttribute="trailing" secondItem="nYJ-WG-Gp4" secondAttribute="trailing" id="hsY-ce-hdd"/>
                             <constraint firstItem="xIr-Ni-lr6" firstAttribute="leading" secondItem="WWl-0x-RTu" secondAttribute="leading" id="lYi-ER-HwT"/>
                             <constraint firstItem="nYJ-WG-Gp4" firstAttribute="leading" secondItem="WWl-0x-RTu" secondAttribute="leading" id="mAf-Vp-qVn"/>
+                            <constraint firstItem="VWu-ig-6IH" firstAttribute="centerY" secondItem="YIq-ep-xTl" secondAttribute="centerY" id="o1u-Zz-tWX"/>
                             <constraint firstItem="dHo-S6-Gzl" firstAttribute="width" secondItem="WWl-0x-RTu" secondAttribute="width" id="v8g-Gu-c12"/>
                             <constraint firstItem="Aag-B3-o3n" firstAttribute="top" secondItem="nYJ-WG-Gp4" secondAttribute="bottom" id="vPU-44-laH"/>
                         </constraints>
@@ -977,6 +983,8 @@
                                 <exclude reference="SyG-QJ-jtK"/>
                                 <exclude reference="XWw-13-cxD"/>
                                 <exclude reference="lYi-ER-HwT"/>
+                                <exclude reference="YWw-oJ-qyI"/>
+                                <exclude reference="ewi-Ur-p4C"/>
                             </mask>
                         </variation>
                     </view>
@@ -1028,7 +1036,9 @@
         <image name="76" width="120" height="120"/>
         <image name="arrowDown" width="256" height="256"/>
         <image name="ball" width="375" height="360"/>
+        <image name="left" width="512" height="512"/>
         <image name="musicBtn" width="512" height="512"/>
         <image name="red" width="48" height="38"/>
+        <image name="right" width="512" height="512"/>
     </resources>
 </document>
