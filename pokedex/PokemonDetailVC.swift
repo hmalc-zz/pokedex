@@ -53,9 +53,16 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBOutlet weak var weightLbl: UILabel!
     @IBOutlet weak var pokedexLbl: UILabel!
     
+    // Evolution Handling
+    
     @IBOutlet weak var currentEvo: UIImageView!
     @IBOutlet weak var nextEvo: UIImageView!
     @IBOutlet weak var prevEvo: UIImageView!
+    
+    @IBOutlet weak var firstEvoLabel: UILabel!
+    @IBOutlet weak var secondEvoLabel: UILabel!
+    
+    
     
     @IBOutlet weak var evoLbl: UILabel!
     
@@ -91,6 +98,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
                 pokemon = Pokemon(pokedexId: currentPokeID+1)
                 newPokemonSetup()
                 initCries()
+
             }
         }
     }
@@ -127,7 +135,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         self.setUpGraphs(self.sdfBar, PokeStat: self.pokemon.specialDefense)
         self.setUpGraphs(self.spdBar, PokeStat: self.pokemon.speed)
             }, completion: nil)
-
     }
     
     // MARK: View Did Load
@@ -208,17 +215,17 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         descriptionLbl.text = pokemon.description
         
         gameRefPokedexEntry.text = pokemon.gameName
-        moveVersionLabel.text = pokemon.gameName
+        moveVersionLabel.text = "\(pokemon.gameName)"
         gameRefPokedexEntry.layer.backgroundColor = assignColoursToGame(pokemon.gameIdNo).CGColor
         gameRefPokedexEntry.layer.cornerRadius = 10.0
         
         if pokemon.type2 == "" {
-            typeLbl1.hidden = true
+            typeLbl1.text = ""
+            typeLbl1.layer.backgroundColor = UIColor.whiteColor().CGColor
             typeLbl2.text = "\(pokemon.type1)"
             typeLbl2.layer.cornerRadius = 10.0
             typeLbl2.layer.backgroundColor = assignColorToType("\(pokemon.type1)",alpha: 1.0).CGColor
         } else {
-            typeLbl1.hidden = false
             typeLbl1.text = "\(pokemon.type1)"
             typeLbl1.layer.cornerRadius = 10.0
             typeLbl2.text = "\(pokemon.type2)"
@@ -250,16 +257,29 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         if pokemon.nextEvolutionId == "" && pokemon.previousEvolutionId == "" {
             prevEvo.hidden = true
             nextEvo.hidden = true
+            firstEvoLabel.hidden = true
+            secondEvoLabel.hidden = true
+            
         } else if pokemon.previousEvolutionId != "" && pokemon.nextEvolutionId != "" {
             prevEvo.hidden = false
             nextEvo.hidden = false
+            firstEvoLabel.hidden = false
+            secondEvoLabel.hidden = false
             prevEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
             nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
+            firstEvoLabel.text = "Lv \(pokemon.previousEvolutionLevel)"
+            secondEvoLabel.text = "Lv \(pokemon.nextEvolutionLevel)"
         } else if pokemon.previousEvolutionId != "" && pokemon.nextEvolutionId == ""{
+            firstEvoLabel.hidden = false
+            secondEvoLabel.hidden = true
+            firstEvoLabel.text = "Lv \(pokemon.previousEvolutionLevel)"
             prevEvo.hidden = false
             prevEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
             nextEvo.hidden = true
         } else if pokemon.previousEvolutionId == "" && pokemon.nextEvolutionId != ""{
+            firstEvoLabel.hidden = true
+            secondEvoLabel.hidden = false
+            secondEvoLabel.text = "Lv \(pokemon.nextEvolutionLevel)"
             prevEvo.hidden = true
             nextEvo.hidden = false
             nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
@@ -327,9 +347,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     func update() {
         changeDexEntryUp()
-        //pokemon.parsePokeMovesCSV(selectedVersionLabel)
-        //tableView.reloadData()
-        //self.view.layoutIfNeeded()
     }
     
     func changeDexEntryUp() {
@@ -443,6 +460,28 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBAction func playCry(sender: UIButton!) {
         soundPlayer.play()
     }
+    
+    @IBAction func scrollToPrevEvo(sender: UIButton!) {
+        self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.previousEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+
+    }
+    
+    @IBAction func nextEvo(sender: UIButton!) {
+        self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.nextEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+
+    }
+    
+    
+    @IBAction func nextPokemonTouch(sender: UIButton) {
+            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: true)
+    }
+    
+    
+    @IBAction func prevPokemonTouch(sender: UIButton) {
+            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId-2, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: true)
+    }
+    
+    
     
     @IBAction func changeDexEntry(sender: UIButton) {
         changeDexEntryUp()
