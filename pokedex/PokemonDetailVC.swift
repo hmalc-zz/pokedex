@@ -49,8 +49,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBOutlet weak var tableHeight: NSLayoutConstraint!
     // Labels
     
-    @IBOutlet weak var heightLbl: UILabel!
-    @IBOutlet weak var weightLbl: UILabel!
+    @IBOutlet weak var heightWeight: UILabel!
+    
     @IBOutlet weak var pokedexLbl: UILabel!
     
     // Evolution Handling
@@ -267,9 +267,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         
         attackLbl.text = pokemon.attack
         defenseLbl.text = pokemon.defense
-        //heightLbl.text = "\(pokemon.height) ft"
+        heightWeight.text = "\(pokemon.height)ft | \(pokemon.weight)lbs"
         pokedexLbl.text = "# \(pokemon.pokedexId)"
-        //weightLbl.text = "\(pokemon.weight) lbs"
         moveVersionLabel.text = "Gen \(gameVersionGen[returnMinGameGen(Int(pokemon.generationId)!)]): \(games[returnMinGameGen(Int(pokemon.generationId)!)])"
         
         hpLbl.text = pokemon.hp
@@ -283,12 +282,28 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         
         // Programmatically assign images based on weather evolutions exist
         
+        // This code handles when there are 3 generations
+        
+        /*if pokemon.firstGenEvolution != "" {
+            prevEvo.hidden = false
+            nextEvo.hidden = false
+            prevEvo.image = UIImage(named: "\(pokemon.firstGenEvolution)")
+            currentEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
+            nextEvo.image = UIImage(named: "\(pokemon.pokedexId)")
+            firstEvoLabel.text = "Lv \(pokemon.previousEvolutionLevel)"
+            secondEvoLabel.text = "Lv \(pokemon.nextEvolutionLevel)"
+        } else if pokemon.thirdGenEvolution != "" {
+            prevEvo.hidden = false
+            nextEvo.hidden = false
+            prevEvo.image = UIImage(named: "\(pokemon.pokedexId)")
+            currentEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
+            nextEvo.image = UIImage(named: "\(pokemon.thirdGenEvolution)")*/
+        
         if pokemon.nextEvolutionId == "" && pokemon.previousEvolutionId == "" {
             prevEvo.hidden = true
             nextEvo.hidden = true
             firstEvoLabel.hidden = true
             secondEvoLabel.hidden = true
-            
         } else if pokemon.previousEvolutionId != "" && pokemon.nextEvolutionId != "" {
             prevEvo.hidden = false
             nextEvo.hidden = false
@@ -296,19 +311,19 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             secondEvoLabel.hidden = false
             prevEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
             nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
-            firstEvoLabel.text = "Lv \(pokemon.previousEvolutionLevel)"
-            secondEvoLabel.text = "Lv \(pokemon.nextEvolutionLevel)"
+            previousEvolutionExistsLabelMaker()
+            nextEvolutionExistsLabelMaker()
         } else if pokemon.previousEvolutionId != "" && pokemon.nextEvolutionId == ""{
             firstEvoLabel.hidden = false
             secondEvoLabel.hidden = true
-            firstEvoLabel.text = "Lv \(pokemon.previousEvolutionLevel)"
+            previousEvolutionExistsLabelMaker()
             prevEvo.hidden = false
             prevEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
             nextEvo.hidden = true
         } else if pokemon.previousEvolutionId == "" && pokemon.nextEvolutionId != ""{
             firstEvoLabel.hidden = true
             secondEvoLabel.hidden = false
-            secondEvoLabel.text = "Lv \(pokemon.nextEvolutionLevel)"
+            nextEvolutionExistsLabelMaker()
             prevEvo.hidden = true
             nextEvo.hidden = false
             nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
@@ -361,7 +376,23 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         
         totalBaseStat.text = pokemon.baseStats
     }
-        
+    
+    func previousEvolutionExistsLabelMaker() {
+        if pokemon.previousEvolutionLevel == "" {
+            firstEvoLabel.text = "\(pokemon.evolvedFromTrigger) (\(pokemon.evolvedFromTriggerItem))"
+        } else {
+            firstEvoLabel.text = "Lv. \(pokemon.previousEvolutionLevel)"
+        }
+    }
+    
+    func nextEvolutionExistsLabelMaker() {
+        if pokemon.nextEvolutionLevel == "" {
+            secondEvoLabel.text = "\(pokemon.evolvesToTrigger) (\(pokemon.evolvesToTriggerItem))"
+        } else {
+            secondEvoLabel.text = "Lv. \(pokemon.nextEvolutionLevel)"
+        }
+    }
+    
     
     func initCries() {
         
@@ -530,7 +561,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
 
         }
 
-        print(gameGenRef)
         pokemon.parsePokeMovesCSV(gameGenRef)
         moveVersionLabel.text = "Gen \(gameVersionGen[gameGenRef-1]): \(games[gameGenRef-1])"
         self.tableHeight.constant = CGFloat(pokemon.moveList.count) * 44
