@@ -461,8 +461,8 @@ class Pokemon {
                     self._evolvedFromTriggerItem = evolvedFromTriggerItem
                 }
                 
-                if let evolvedFromTriggerItem = row["evolves_trigger"] {
-                    self._evolvedFromTriggerItem = evolvedFromTriggerItem
+                if let _evolvesToTrigger = row["evolves_trigger"] {
+                    self._evolvesToTrigger = _evolvesToTrigger
                 }
                 
                 if let evolvesToTriggerItem = row["evolves_to_trigger"] {

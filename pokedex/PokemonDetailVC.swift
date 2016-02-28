@@ -103,7 +103,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     var selectedVersionLabel: Int = Int(arc4random_uniform(26) + 1)
     var timer: NSTimer!
     var pokemonImg: [Int] = []
-    var initialGenRef: Int = 0
     var gameGenRef: Int = 0
     
     override func preferredStatusBarStyle() -> UIStatusBarStyle {
@@ -183,6 +182,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             initCries()
             scrollBack.alpha = 0
         }
+        
+        print(gameGenRef)
         
     }
     
@@ -270,6 +271,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         heightWeight.text = "\(pokemon.height)ft | \(pokemon.weight)lbs"
         pokedexLbl.text = "# \(pokemon.pokedexId)"
         moveVersionLabel.text = "Gen \(gameVersionGen[returnMinGameGen(Int(pokemon.generationId)!)]): \(games[returnMinGameGen(Int(pokemon.generationId)!)])"
+        
+        gameGenRef = returnMinGameGen(Int(pokemon.generationId)!)+1
         
         hpLbl.text = pokemon.hp
         attackLbl.text = pokemon.attack
@@ -378,16 +381,16 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     }
     
     func previousEvolutionExistsLabelMaker() {
-        if pokemon.previousEvolutionLevel == "" {
-            firstEvoLabel.text = "\(pokemon.evolvedFromTrigger) (\(pokemon.evolvedFromTriggerItem))"
+        if pokemon.previousEvolutionLevel == "" || pokemon.previousEvolutionLevel == "0" {
+            firstEvoLabel.text = "\(pokemon.evolvedFromTrigger) \(pokemon.evolvedFromTriggerItem.capitalizedString)"
         } else {
             firstEvoLabel.text = "Lv. \(pokemon.previousEvolutionLevel)"
         }
     }
     
     func nextEvolutionExistsLabelMaker() {
-        if pokemon.nextEvolutionLevel == "" {
-            secondEvoLabel.text = "\(pokemon.evolvesToTrigger) (\(pokemon.evolvesToTriggerItem))"
+        if pokemon.nextEvolutionLevel == "" || pokemon.nextEvolutionLevel == "0" {
+            secondEvoLabel.text = "\(pokemon.evolvesToTrigger) \(pokemon.evolvesToTriggerItem.capitalizedString)"
         } else {
             secondEvoLabel.text = "Lv. \(pokemon.nextEvolutionLevel)"
         }
@@ -519,6 +522,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBAction func backToMain(sender: AnyObject) {
         scrollForward.hidden = true
         scrollBack.hidden = true
+        heightWeight.hidden = true
         dismissViewControllerAnimated(true, completion: nil)
     
     }
@@ -533,6 +537,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         
         var breaker = 0
         
+        print(gameGenRef)
+        
         func cycleThrough() {
             while pokemon.moveList.count == 0 {
                 
@@ -540,7 +546,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
                     gameGenRef++
                     pokemon.parsePokeMovesCSV(gameGenRef)
                 } else {
-                    gameGenRef = initialGenRef
+                    gameGenRef = gameVersionGen[returnMinGameGen(Int(pokemon.generationId)!)]
                     pokemon.parsePokeMovesCSV(gameGenRef)
                     breaker++
                     if breaker == 2 {
@@ -554,8 +560,9 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             gameGenRef++
             pokemon.parsePokeMovesCSV(gameGenRef)
             cycleThrough()
+
         } else {
-            gameGenRef = returnMinGameGen(Int(pokemon.generationId)!)
+            gameGenRef = gameVersionGen[returnMinGameGen(Int(pokemon.generationId)!)]
             pokemon.parsePokeMovesCSV(gameGenRef)
             cycleThrough()
 
