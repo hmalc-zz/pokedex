@@ -92,3 +92,26 @@ func assignColoursToGame (gameReferenceId: Int) -> UIColor {
     
     return UIColor(red: 1.0, green: 1.0, blue: 1.0, alpha: 1.0)
 }
+
+
+public var games: [String] = [
+    "Red/Blue",
+    "Yellow",
+    "Gold/Silver",
+    "Crystal",
+    "Ruby/Sapphire",
+    "Emerald",
+    "FireRed/LeafGreen",
+    "Diamond/Pearl",
+    "Platinum",
+    "HeartGold/SoulSilver",
+    "Black/White",
+    "Colosseum",
+    "XD",
+    "Black 2/White 2",
+    "X/Y",
+    "OmegaRuby/AlphaSapphire"
+    ]
+
+
+public var gameVersionGen: [Int] = [1,1,2,2,3,3,3,4,4,4,5,3,3,5,6,6]

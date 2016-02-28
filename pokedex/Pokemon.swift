@@ -29,15 +29,34 @@ class Pokemon {
     private var _specialAttack: String!
     private var _specialDefense: String!
     private var _speed: String!
+    private var _baseStats: String!
     
     private var _height: String!
     private var _weight: String!
+    
+    private var _generationId: String!
 
     private var _nextEvolutionText: String!
     private var _nextEvolutionId: String!
     private var _nextEvolutionLevel: String!
+    
     private var _previousEvolutionId: String!
     private var _previousEvolutionLevel: String!
+    
+    private var _firstGenEvolution: String!
+    private var _thirdGenEvolution: String!
+    
+    private var _evolvedFromTrigger: String!
+    private var _evolvedFromTriggerItem: String!
+    private var _evolvesToTrigger: String!
+    private var _evolvesToTriggerItem: String!
+    
+    private var _firstAbility: String!
+    private var _firstAbilityDesc: String!
+    private var _secondAbility: String!
+    private var _secondAbilityDesc: String!
+    private var _hiddenAbility: String!
+    private var _hiddenAbilityDesc: String!
     
     private var _pokemonUrl: String!
     
@@ -143,6 +162,22 @@ class Pokemon {
         return _speed
     }
     
+    var baseStats: String {
+        if _baseStats == nil {
+            _baseStats = ""
+        }
+        return _baseStats
+    }
+    
+    var generationId: String {
+        if _generationId == nil {
+            _generationId = ""
+        }
+        return _generationId
+    }
+    
+    
+    
     var height: String {
         if _height == nil {
             _height = ""
@@ -195,6 +230,104 @@ class Pokemon {
         }
         return _previousEvolutionLevel
     }
+    
+    var firstGenEvolution: String {
+        
+        if _firstGenEvolution == nil {
+            _firstGenEvolution = ""
+        }
+        return _firstGenEvolution
+    }
+    
+    var thirdGenEvolution: String {
+        
+        if _thirdGenEvolution == nil {
+            _thirdGenEvolution = ""
+        }
+        return _thirdGenEvolution
+    }
+    
+    var evolvedFromTrigger: String {
+        
+        if _evolvedFromTrigger == nil {
+            _evolvedFromTrigger = ""
+        }
+        return _evolvedFromTrigger
+    }
+    
+    var evolvedFromTriggerItem: String {
+        
+        if _evolvedFromTriggerItem == nil {
+            _evolvedFromTriggerItem = ""
+        }
+        return _evolvedFromTriggerItem
+    }
+    
+    var evolvesToTrigger: String {
+        
+        if _evolvesToTrigger == nil {
+            _evolvesToTrigger = ""
+        }
+        return _evolvesToTrigger
+    }
+    
+    var evolvesToTriggerItem: String {
+        
+        if _evolvesToTriggerItem == nil {
+            _evolvesToTriggerItem = ""
+        }
+        return _evolvesToTriggerItem
+    }
+    
+    // Abilities
+    
+    var firstAbility: String {
+        
+        if _firstAbility == nil {
+            _firstAbility = ""
+        }
+        return _firstAbility
+    }
+    
+    var firstAbilityDesc: String {
+        
+        if _firstAbilityDesc == nil {
+            _firstAbilityDesc = ""
+        }
+        return _firstAbilityDesc
+    }
+    
+    var secondAbility: String {
+        
+        if _secondAbility == nil {
+            _secondAbility = ""
+        }
+        return _secondAbility
+    }
+    
+    var secondAbilityDesc: String {
+        
+        if _secondAbilityDesc == nil {
+            _secondAbilityDesc = ""
+        }
+        return _secondAbilityDesc
+    }
+    
+    var hiddenAbility: String {
+        
+        if _hiddenAbility == nil {
+            _hiddenAbility = ""
+        }
+        return _hiddenAbility
+    }
+    
+    var hiddenAbilityDesc: String {
+        
+        if _hiddenAbilityDesc == nil {
+            _hiddenAbilityDesc = ""
+        }
+        return _hiddenAbilityDesc
+    }
 
     //MARK: Initialiser
     
@@ -236,11 +369,11 @@ class Pokemon {
                 
                 // Height + Weight
                 
-                if let height = row["height"] {
+                if let height = row["height_ft"] {
                     self._height = height
                 }
                 
-                if let weight = row["weight"] {
+                if let weight = row["weight_lbs"] {
                     self._weight = weight
                 }
                 
@@ -258,16 +391,20 @@ class Pokemon {
                     self._defense = defense
                 }
                 
-                if let specialAttack = row["special attack"] {
+                if let specialAttack = row["special_attack"] {
                     self._specialAttack = specialAttack
                 }
                 
-                if let specialDefense = row["special defense"] {
+                if let specialDefense = row["special_defense"] {
                     self._specialDefense = specialDefense
                 }
                 
                 if let speed = row["speed"] {
                     self._speed = speed
+                }
+                
+                if let baseStats = row["base_stats"] {
+                    self._baseStats = baseStats
                 }
                 
                 // Types
@@ -280,28 +417,85 @@ class Pokemon {
                     self._type2 = type2
                 }
                 
+                if let generationId = row["generation_id"] {
+                    self._generationId = generationId
+                }
+                
                 // Evolutions
+                
+                if let previousEvolutionId = row["evolves_from_species_id"] {
+                    self._previousEvolutionId = previousEvolutionId
+                }
                 
                 if let nextEvolutionId = row["evolves_to_id"] {
                     self._nextEvolutionId = nextEvolutionId
                 }
                 
-                if let nextEvolutionLevel = row["evolves_at"] {
-                    self._nextEvolutionLevel = nextEvolutionLevel
-                    }
+                if let thirdGenEvolution = row["third_gen_id"] {
+                    self._thirdGenEvolution = thirdGenEvolution
+                    
+                }
                 
-                /*if let nextEvolutionText = row["minimum_level"] {
-                    self._nextEvolutionText = nextEvolutionText
+                if let firstGenEvolution = row["1st _gen_id"] {
+                    self._firstGenEvolution = firstGenEvolution
                 }
-                */
-                if let previousEvolutionId = row["evolves_from_species_id"] {
-                    self._previousEvolutionId = previousEvolutionId
-                }
+                
+                // Evolution Levels
                 
                 if let previousEvolutionLevel = row["minimum_level"] {
                     self._previousEvolutionLevel = previousEvolutionLevel
                     
                 }
+                
+                if let nextEvolutionLevel = row["evolves_at"] {
+                    self._nextEvolutionLevel = nextEvolutionLevel
+                }
+                
+                // Evolution Triggers
+                
+                if let evolvedFromTrigger = row["evolved_from_trigger"] {
+                    self._evolvedFromTrigger = evolvedFromTrigger
+                }
+                
+                if let evolvedFromTriggerItem = row["evolved_from_trigger_item"] {
+                    self._evolvedFromTriggerItem = evolvedFromTriggerItem
+                }
+                
+                if let evolvedFromTriggerItem = row["evolves_trigger"] {
+                    self._evolvedFromTriggerItem = evolvedFromTriggerItem
+                }
+                
+                if let evolvesToTriggerItem = row["evolves_to_trigger"] {
+                    self._evolvesToTriggerItem = evolvesToTriggerItem
+                }
+                
+                // Abilities
+                
+                if let firstAbility = row["first_ability_name"] {
+                    self._firstAbility = firstAbility
+                }
+                
+                if let firstAbilityDesc = row["first_ability_desc"] {
+                    self._firstAbilityDesc = firstAbilityDesc
+                }
+                
+                if let secondAbility = row["second_ability_name"] {
+                    self._secondAbility = secondAbility
+                }
+                
+                if let secondAbilityDesc = row["second_ability_desc"] {
+                    self._secondAbilityDesc = secondAbilityDesc
+                }
+                
+                if let hiddenAbility = row["hidden_ability_name"] {
+                    self._hiddenAbility = hiddenAbility
+                }
+                
+                if let hiddenAbilityDesc =
+                    row["hidden_ability_desc"] {
+                    self._hiddenAbilityDesc = hiddenAbilityDesc
+                }
+                
             }
         } catch let err as NSError {
                 print(err.debugDescription)

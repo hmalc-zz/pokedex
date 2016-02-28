@@ -62,15 +62,31 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBOutlet weak var firstEvoLabel: UILabel!
     @IBOutlet weak var secondEvoLabel: UILabel!
     
-    
-    
     @IBOutlet weak var evoLbl: UILabel!
-    
     @IBOutlet weak var totalBaseStat: UILabel!
     
     // Move labels
     
     @IBOutlet weak var moveVersionLabel: UILabel!
+    
+    // Abilities
+    
+    @IBOutlet weak var firstAbility: UILabel!
+    @IBOutlet weak var secondAbility: UILabel!
+    @IBOutlet weak var hiddenAbility: UILabel!
+    
+    @IBOutlet weak var firstAbilityTitle: UILabel!
+    @IBOutlet weak var secondAbilityTitle: UILabel!
+    @IBOutlet weak var hiddenAbilityTitle: UILabel!
+    
+    
+    
+    // Arrow buttons
+    
+    @IBOutlet weak var scrollBack: UIButton!
+    
+    @IBOutlet weak var scrollForward: UIButton!
+    
     
     
     // Colour stuff
@@ -98,7 +114,16 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
                 pokemon = Pokemon(pokedexId: currentPokeID+1)
                 newPokemonSetup()
                 initCries()
-
+                if pokemon.pokedexId == 1 {
+                    scrollBack.alpha = 0.0
+                } else {
+                    scrollBack.alpha = 1.0
+                }
+                if pokemon.pokedexId == 718 {
+                    scrollForward.alpha = 0.0
+                } else {
+                    scrollForward.alpha = 1.0
+                }
             }
         }
     }
@@ -154,7 +179,10 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         newPokemonSetup()
         if pokemon.pokedexId == 1 {
             initCries()
+            scrollBack.alpha = 0
         }
+        
+
 
     }
     
@@ -285,6 +313,39 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
         }
         
+        firstAbilityTitle.hidden = true
+        firstAbility.hidden = true
+        secondAbilityTitle.hidden = true
+        secondAbility.hidden = true
+        hiddenAbilityTitle.hidden = true
+        hiddenAbility.hidden = true
+
+        
+        
+        // Abilities
+        
+        if pokemon.firstAbilityDesc != "" {
+            firstAbilityTitle.hidden = false
+            firstAbility.hidden = false
+            firstAbilityTitle.text = "\(pokemon.firstAbility.capitalizedString)"
+            firstAbility.text = pokemon.firstAbilityDesc
+        }
+        
+        if pokemon.secondAbilityDesc != "" {
+            secondAbilityTitle.hidden = false
+            secondAbility.hidden = false
+            secondAbilityTitle.text = "\(pokemon.secondAbility.capitalizedString)"
+            secondAbility.text = pokemon.secondAbilityDesc
+        }
+        
+        if pokemon.hiddenAbilityDesc != "" {
+            hiddenAbilityTitle.hidden = false
+            hiddenAbility.hidden = false
+            hiddenAbilityTitle.text = "Hidden Ability: \(pokemon.hiddenAbility.capitalizedString)"
+            hiddenAbility.text = pokemon.hiddenAbilityDesc
+        }
+        
+        
         // UI Color alteration
 
         let pokemonUIColor: UIColor = assignColorToType(pokemon.type1, alpha: 1.0)
@@ -297,34 +358,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         
         // Total stats calc
         
-        var baseStatTotal: Int = 0
-        
-        if let n = NSNumberFormatter().numberFromString(pokemon.hp) {
-            let f = Int(n)
-            baseStatTotal += f
-        }
-        if let n = NSNumberFormatter().numberFromString(pokemon.defense) {
-            let f = Int(n)
-            baseStatTotal += f
-        }
-        if let n = NSNumberFormatter().numberFromString(pokemon.attack) {
-            let f = Int(n)
-            baseStatTotal += f
-        }
-        if let n = NSNumberFormatter().numberFromString(pokemon.specialAttack) {
-            let f = Int(n)
-            baseStatTotal += f
-        }
-        if let n = NSNumberFormatter().numberFromString(pokemon.specialDefense) {
-            let f = Int(n)
-            baseStatTotal += f
-        }
-        if let n = NSNumberFormatter().numberFromString(pokemon.speed) {
-            let f = Int(n)
-            baseStatTotal += f
-        }
-        
-        totalBaseStat.text = "\(baseStatTotal)"
+        totalBaseStat.text = pokemon.baseStats
     }
         
     
@@ -451,7 +485,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     // MARK: @IBAction functions
     
     @IBAction func backToMain(sender: AnyObject) {
-    
+        scrollForward.hidden = true
+        scrollBack.hidden = true
         dismissViewControllerAnimated(true, completion: nil)
     
     }
@@ -473,12 +508,17 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     
     @IBAction func nextPokemonTouch(sender: UIButton) {
-            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+        if pokemon.pokedexId != 718 {
+        self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+            sender.alpha = 1.0
+        }
     }
     
     
     @IBAction func prevPokemonTouch(sender: UIButton) {
+        if pokemon.pokedexId != 1 {
             self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId-2, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+        }
     }
     
     
