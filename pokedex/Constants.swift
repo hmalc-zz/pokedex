@@ -115,3 +115,16 @@ public var games: [String] = [
 
 
 public var gameVersionGen: [Int] = [1,1,2,2,3,3,3,4,4,4,5,3,3,5,6,6]
+
+public func returnMinGameGen (pokemonGeneration: Int) -> Int {
+    
+    switch pokemonGeneration {
+    case 1: return 0
+    case 2: return 2
+    case 3: return 4
+    case 4: return 7
+    case 5: return 10
+    case 6: return 14
+    default: return 14
+    }
+}

@@ -1,0 +1,35 @@
+pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
+719,diancie,15,33,Tackle,1,1,1
+719,diancie,15,88,Rock Throw,1,5,
+719,diancie,15,106,Harden,1,1,2
+719,diancie,15,113,Light Screen,1,60,
+719,diancie,15,115,Reflect,1,18,
+719,diancie,15,159,Sharpen,1,8,
+719,diancie,15,175,Flail,1,35,
+719,diancie,15,219,Safeguard,1,70,
+719,diancie,15,246,Ancient Power,1,31,
+719,diancie,15,285,Skill Swap,1,40,
+719,diancie,15,433,Trick Room,1,46,
+719,diancie,15,444,Stone Edge,1,49,
+719,diancie,15,446,Stealth Rock,1,21,
+719,diancie,15,470,Guard Split,1,27,
+719,diancie,15,479,Smack Down,1,12,
+719,diancie,15,585,Moonblast,1,50,1
+719,diancie,15,591,Diamond Storm,1,50,2
+719,diancie,16,33,Tackle,1,1,1
+719,diancie,16,88,Rock Throw,1,5,1
+719,diancie,16,106,Harden,1,1,2
+719,diancie,16,113,Light Screen,1,60,1
+719,diancie,16,115,Reflect,1,18,1
+719,diancie,16,159,Sharpen,1,8,1
+719,diancie,16,175,Flail,1,35,1
+719,diancie,16,219,Safeguard,1,70,1
+719,diancie,16,246,Ancient Power,1,31,1
+719,diancie,16,285,Skill Swap,1,40,1
+719,diancie,16,433,Trick Room,1,46,1
+719,diancie,16,444,Stone Edge,1,49,1
+719,diancie,16,446,Stealth Rock,1,21,1
+719,diancie,16,470,Guard Split,1,27,1
+719,diancie,16,479,Smack Down,1,12,1
+719,diancie,16,585,Moonblast,1,50,1
+719,diancie,16,591,Diamond Storm,1,50,2

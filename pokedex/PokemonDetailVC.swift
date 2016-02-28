@@ -103,6 +103,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     var selectedVersionLabel: Int = Int(arc4random_uniform(26) + 1)
     var timer: NSTimer!
     var pokemonImg: [Int] = []
+    var initialGenRef: Int = 0
+    var gameGenRef: Int = 0
     
     override func preferredStatusBarStyle() -> UIStatusBarStyle {
         return .LightContent
@@ -119,7 +121,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
                 } else {
                     scrollBack.alpha = 1.0
                 }
-                if pokemon.pokedexId == 718 {
+                if pokemon.pokedexId == 721 {
                     scrollForward.alpha = 0.0
                 } else {
                     scrollForward.alpha = 1.0
@@ -167,7 +169,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        for i in 1...718 {
+        for i in 1...721 {
             pokemonImg.append(i)
         }
         
@@ -182,8 +184,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             scrollBack.alpha = 0
         }
         
-
-
     }
     
     // MARK: New Pokemon Setup
@@ -191,7 +191,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     func newPokemonSetup() {
         pokemon.parsePokeStatsCSV()
         pokemon.parsePokedexEntryCSV(selectedVersionLabel)
-        pokemon.parsePokeMovesCSV(16)
+        pokemon.parsePokeMovesCSV(returnMinGameGen(Int(pokemon.generationId)!)+1)
         // Make sure Dex entry is not blank
         while pokemon.description == "" {
             pokemon.parsePokedexEntryCSV(Int(arc4random_uniform(26) + 1))
@@ -270,6 +270,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         //heightLbl.text = "\(pokemon.height) ft"
         pokedexLbl.text = "# \(pokemon.pokedexId)"
         //weightLbl.text = "\(pokemon.weight) lbs"
+        moveVersionLabel.text = "Gen \(gameVersionGen[returnMinGameGen(Int(pokemon.generationId)!)]): \(games[returnMinGameGen(Int(pokemon.generationId)!)])"
         
         hpLbl.text = pokemon.hp
         attackLbl.text = pokemon.attack
@@ -496,6 +497,49 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         soundPlayer.play()
     }
     
+    
+    @IBAction func changeGameRef(sender: AnyObject) {
+        
+        var breaker = 0
+        
+        func cycleThrough() {
+            while pokemon.moveList.count == 0 {
+                
+                if gameGenRef != 16 {
+                    gameGenRef++
+                    pokemon.parsePokeMovesCSV(gameGenRef)
+                } else {
+                    gameGenRef = initialGenRef
+                    pokemon.parsePokeMovesCSV(gameGenRef)
+                    breaker++
+                    if breaker == 2 {
+                        break
+                    }
+                }
+            }
+        }
+        
+        if gameGenRef != 16 {
+            gameGenRef++
+            pokemon.parsePokeMovesCSV(gameGenRef)
+            cycleThrough()
+        } else {
+            gameGenRef = returnMinGameGen(Int(pokemon.generationId)!)
+            pokemon.parsePokeMovesCSV(gameGenRef)
+            cycleThrough()
+
+        }
+
+        print(gameGenRef)
+        pokemon.parsePokeMovesCSV(gameGenRef)
+        moveVersionLabel.text = "Gen \(gameVersionGen[gameGenRef-1]): \(games[gameGenRef-1])"
+        self.tableHeight.constant = CGFloat(pokemon.moveList.count) * 44
+        self.view.layoutIfNeeded()
+        tableView.reloadData()
+
+        
+    }
+    
     @IBAction func scrollToPrevEvo(sender: UIButton!) {
         self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.previousEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
 
@@ -508,7 +552,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     
     @IBAction func nextPokemonTouch(sender: UIButton) {
-        if pokemon.pokedexId != 718 {
+        if pokemon.pokedexId != 721 {
         self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
             sender.alpha = 1.0
         }

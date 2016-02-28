@@ -510,7 +510,7 @@ class Pokemon {
         var levelListBuild: [Int] = []
         var moveListBuild: [String] = []
         
-        let path = NSBundle.mainBundle().pathForResource("pokeId\(pokedexId)", ofType: "csv")!
+        let path = NSBundle.mainBundle().pathForResource("pokeMoveId\(pokedexId)", ofType: "csv")!
         
         do {
             let csv = try CSV(contentsOfURL: path)
