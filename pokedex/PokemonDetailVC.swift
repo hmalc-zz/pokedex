@@ -112,6 +112,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     @IBOutlet weak var formsTitle: UILabel!
     @IBOutlet weak var hideFormsView: NSLayoutConstraint!
+    @IBOutlet weak var lineSeparator: UIView!
+    
     
     
     // Colour stuff
@@ -151,7 +153,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
                     scrollForward.alpha = 1.0
                 }
                 setupGraphsForNewPokemon()
-                handlePokemonForms()
                 self.view.layoutIfNeeded()
             }
         }
@@ -487,8 +488,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             
             // Show correct images
             
-            prevEvo.image = nil
-            nextEvo.image = nil
+            prevEvo.hidden = false
+            nextEvo.hidden = false
             
             // Assign images
             
@@ -625,6 +626,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         if pokemon.numberForms != "" {
             
             formsTitle.hidden = false
+            lineSeparator.hidden = false
             hideFormsView.constant = 140
             
             for var i=1; i<=Int(pokemon.numberForms)!; i++ {
@@ -662,6 +664,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             }
         } else {
             formsTitle.hidden = true
+            lineSeparator.hidden = true
             hideFormsView.constant = 0
         }
     }
