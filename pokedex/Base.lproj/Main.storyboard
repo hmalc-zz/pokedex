@@ -625,7 +625,7 @@
                                                         </variation>
                                                     </stackView>
                                                     <button opaque="NO" alpha="0.10000000000000001" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bWy-iD-Nna" userLabel="PrevEvo">
-                                                        <rect key="frame" x="20" y="43" width="105.5" height="72"/>
+                                                        <rect key="frame" x="20" y="43" width="105" height="72"/>
                                                         <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                                         <userDefinedRuntimeAttributes>
                                                             <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -636,11 +636,11 @@
                                                             </userDefinedRuntimeAttribute>
                                                         </userDefinedRuntimeAttributes>
                                                         <connections>
-                                                            <action selector="scrollToPrevEvo:" destination="HOP-Jb-BQg" eventType="touchUpInside" id="aZ5-xq-4Hz"/>
+                                                            <action selector="scrollToPrevEvo:" destination="HOP-Jb-BQg" eventType="touchUpInside" id="VvD-ed-qrn"/>
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" alpha="0.10000000000000001" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qgQ-EA-MVa" userLabel="NextEvo">
-                                                        <rect key="frame" x="474.5" y="43" width="105.5" height="72"/>
+                                                        <rect key="frame" x="474" y="43" width="106" height="72"/>
                                                         <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                                         <userDefinedRuntimeAttributes>
                                                             <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -651,24 +651,43 @@
                                                             </userDefinedRuntimeAttribute>
                                                         </userDefinedRuntimeAttributes>
                                                         <connections>
-                                                            <action selector="nextEvo:" destination="HOP-Jb-BQg" eventType="touchUpInside" id="bQU-u6-yIY"/>
+                                                            <action selector="nextEvo:" destination="HOP-Jb-BQg" eventType="touchUpInside" id="X8i-2h-ExB"/>
+                                                        </connections>
+                                                    </button>
+                                                    <button opaque="NO" alpha="0.10000000000000001" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ay3-TX-Cdh" userLabel="CurrEvo">
+                                                        <rect key="frame" x="247" y="43" width="106" height="72"/>
+                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                                        <userDefinedRuntimeAttributes>
+                                                            <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                                                <integer key="value" value="5"/>
+                                                            </userDefinedRuntimeAttribute>
+                                                            <userDefinedRuntimeAttribute type="number" keyPath="layer.borderWidth">
+                                                                <integer key="value" value="1"/>
+                                                            </userDefinedRuntimeAttribute>
+                                                        </userDefinedRuntimeAttributes>
+                                                        <connections>
+                                                            <action selector="scrollTo2ndGen:" destination="HOP-Jb-BQg" eventType="touchUpInside" id="hlO-qz-LEm"/>
                                                         </connections>
                                                     </button>
                                                 </subviews>
                                                 <color key="backgroundColor" red="0.98039215690000003" green="0.98039215690000003" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
                                                 <constraints>
                                                     <constraint firstItem="bWy-iD-Nna" firstAttribute="leading" secondItem="DZW-TD-1en" secondAttribute="leading" id="0E0-0U-842"/>
+                                                    <constraint firstItem="ay3-TX-Cdh" firstAttribute="leading" secondItem="ckE-KJ-uvS" secondAttribute="leading" id="3Vv-WH-3Ul"/>
                                                     <constraint firstItem="DpR-tQ-TGK" firstAttribute="trailing" secondItem="qgQ-EA-MVa" secondAttribute="trailing" id="HDi-x8-BKr"/>
+                                                    <constraint firstItem="ay3-TX-Cdh" firstAttribute="top" secondItem="ckE-KJ-uvS" secondAttribute="top" id="JoS-yt-BbP"/>
                                                     <constraint firstItem="DpR-tQ-TGK" firstAttribute="top" secondItem="qgQ-EA-MVa" secondAttribute="top" id="Nij-AP-X9Q"/>
                                                     <constraint firstItem="qzi-jQ-Tbf" firstAttribute="leading" secondItem="LTP-sj-s7d" secondAttribute="leading" constant="20" id="Nq2-ou-yAR"/>
                                                     <constraint firstAttribute="bottom" secondItem="8Ki-H1-3RZ" secondAttribute="bottom" constant="5" id="OZc-1h-nra"/>
                                                     <constraint firstAttribute="bottom" secondItem="bWy-iD-Nna" secondAttribute="bottom" id="PpL-9q-3Qp"/>
+                                                    <constraint firstItem="ay3-TX-Cdh" firstAttribute="bottom" secondItem="ckE-KJ-uvS" secondAttribute="bottom" id="XBT-gV-Znu"/>
                                                     <constraint firstItem="bWy-iD-Nna" firstAttribute="trailing" secondItem="DZW-TD-1en" secondAttribute="trailing" id="YkN-d3-hgW"/>
                                                     <constraint firstItem="DpR-tQ-TGK" firstAttribute="leading" secondItem="qgQ-EA-MVa" secondAttribute="leading" id="dj7-F2-7B7"/>
                                                     <constraint firstItem="bWy-iD-Nna" firstAttribute="top" secondItem="qzi-jQ-Tbf" secondAttribute="bottom" id="irc-aV-LWy"/>
                                                     <constraint firstItem="qzi-jQ-Tbf" firstAttribute="top" secondItem="LTP-sj-s7d" secondAttribute="top" constant="8" id="jSZ-gX-ivJ"/>
                                                     <constraint firstItem="bWy-iD-Nna" firstAttribute="leading" secondItem="LTP-sj-s7d" secondAttribute="leading" id="lLK-Qd-dtF"/>
                                                     <constraint firstItem="8Ki-H1-3RZ" firstAttribute="leading" secondItem="LTP-sj-s7d" secondAttribute="leading" constant="20" id="ny0-U9-X46"/>
+                                                    <constraint firstItem="ay3-TX-Cdh" firstAttribute="trailing" secondItem="ckE-KJ-uvS" secondAttribute="trailing" id="pZN-99-0dP"/>
                                                     <constraint firstAttribute="trailing" secondItem="8Ki-H1-3RZ" secondAttribute="trailing" constant="20" id="rCP-mY-3Qd"/>
                                                     <constraint firstItem="bWy-iD-Nna" firstAttribute="bottom" secondItem="DZW-TD-1en" secondAttribute="bottom" id="rJG-ub-mZW"/>
                                                     <constraint firstItem="bWy-iD-Nna" firstAttribute="top" secondItem="DZW-TD-1en" secondAttribute="top" id="sZq-80-Jm7"/>
@@ -1076,6 +1095,7 @@
                         <outlet property="colourBar" destination="git-PZ-9sS" id="uI2-Tz-pnB"/>
                         <outlet property="colourBar2" destination="AAM-9e-cAC" id="IHw-cm-wFt"/>
                         <outlet property="currentEvo" destination="ckE-KJ-uvS" id="ulU-Jt-D0A"/>
+                        <outlet property="currentEvoButton" destination="ay3-TX-Cdh" id="E3D-sW-qrX"/>
                         <outlet property="defBar" destination="uEe-Qb-nx9" id="5w1-eB-cXG"/>
                         <outlet property="defenseLbl" destination="Ym2-Zy-EVj" id="1hP-rK-O8h"/>
                         <outlet property="descriptionLbl" destination="I2f-ug-Fba" id="ouT-0F-pYV"/>
@@ -1092,9 +1112,11 @@
                         <outlet property="moveVersionLabel" destination="ZX8-kc-jI7" id="qHb-fS-k6T"/>
                         <outlet property="nameLbl" destination="BIP-dO-qIx" id="hkU-id-KSg"/>
                         <outlet property="nextEvo" destination="DpR-tQ-TGK" id="2T1-Et-R7r"/>
+                        <outlet property="nextEvoButton" destination="qgQ-EA-MVa" id="rVz-Hh-v53"/>
                         <outlet property="pokedexLbl" destination="6ZC-hd-fvz" id="0bC-3j-osx"/>
                         <outlet property="pokemonTitle" destination="Lqe-xV-eya" id="knq-x5-fpS"/>
                         <outlet property="prevEvo" destination="DZW-TD-1en" id="68Q-9Y-TCF"/>
+                        <outlet property="prevEvoButton" destination="bWy-iD-Nna" id="niW-Bi-kmM"/>
                         <outlet property="satBar" destination="1YW-qc-yIT" id="ggo-fP-rsB"/>
                         <outlet property="scrollBack" destination="VWu-ig-6IH" id="v40-HS-U9H"/>
                         <outlet property="scrollForward" destination="Zdh-wv-kiL" id="48D-d6-9jd"/>

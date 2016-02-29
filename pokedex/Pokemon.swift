@@ -51,6 +51,11 @@ class Pokemon {
     private var _evolvesToTrigger: String!
     private var _evolvesToTriggerItem: String!
     
+    private var _eventualTrigger: String!
+    private var _eventualTriggerItem: String!
+    private var _originalTrigger: String!
+    private var _originalTriggerItem: String!
+    
     private var _firstAbility: String!
     private var _firstAbilityDesc: String!
     private var _secondAbility: String!
@@ -279,6 +284,38 @@ class Pokemon {
         return _evolvesToTriggerItem
     }
     
+    var eventualTrigger: String {
+        
+        if _eventualTrigger == nil {
+            _eventualTrigger = ""
+        }
+        return _eventualTrigger
+    }
+    
+    var eventualTriggerItem: String {
+        
+        if _eventualTriggerItem == nil {
+            _eventualTriggerItem = ""
+        }
+        return _eventualTriggerItem
+    }
+    
+    var originalTrigger: String {
+        
+        if _originalTrigger == nil {
+            _originalTrigger = ""
+        }
+        return _originalTrigger
+    }
+    
+    var originalTriggerItem: String {
+        
+        if _originalTriggerItem == nil {
+            _originalTriggerItem = ""
+        }
+        return _originalTriggerItem
+    }
+    
     // Abilities
     
     var firstAbility: String {
@@ -461,12 +498,31 @@ class Pokemon {
                     self._evolvedFromTriggerItem = evolvedFromTriggerItem
                 }
                 
-                if let _evolvesToTrigger = row["evolves_trigger"] {
-                    self._evolvesToTrigger = _evolvesToTrigger
+                if let evolvesToTrigger = row["evolves_trigger"] {
+                    self._evolvesToTrigger = evolvesToTrigger
                 }
                 
                 if let evolvesToTriggerItem = row["evolves_to_trigger"] {
                     self._evolvesToTriggerItem = evolvesToTriggerItem
+                }
+                
+                // Evolution Triggers for 3 stage Evols
+                
+                
+                if let eventualTrigger = row["eventual_evolves_trigger"] {
+                    self._eventualTrigger = eventualTrigger
+                }
+                
+                if let eventualTriggerItem = row["eventual_evolves_trigger_item"] {
+                    self._eventualTriggerItem = eventualTriggerItem
+                }
+                
+                if let originalTrigger = row["original_evolution_trigger"] {
+                    self._originalTrigger = originalTrigger
+                }
+                
+                if let originalTriggerItem = row["original_evolution_trigger_item"] {
+                    self._originalTriggerItem = originalTriggerItem
                 }
                 
                 // Abilities

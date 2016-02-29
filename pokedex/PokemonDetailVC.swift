@@ -78,7 +78,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBOutlet weak var firstAbilityTitle: UILabel!
     @IBOutlet weak var secondAbilityTitle: UILabel!
     @IBOutlet weak var hiddenAbilityTitle: UILabel!
-    
+
     
     
     // Arrow buttons
@@ -87,7 +87,11 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     @IBOutlet weak var scrollForward: UIButton!
     
+    // Evolution Buttons
     
+    @IBOutlet weak var prevEvoButton: UIButton!
+    @IBOutlet weak var currentEvoButton: UIButton!
+    @IBOutlet weak var nextEvoButton: UIButton!
     
     // Colour stuff
     
@@ -281,55 +285,86 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         specialdefenseLbl.text = pokemon.specialDefense
         speedLbl.text = pokemon.speed
         
-        currentEvo.image = UIImage(named: "\(pokemon.pokedexId)")
+        
         
         // Programmatically assign images based on weather evolutions exist
         
         // This code handles when there are 3 generations
         
-        /*if pokemon.firstGenEvolution != "" {
-            prevEvo.hidden = false
-            nextEvo.hidden = false
-            prevEvo.image = UIImage(named: "\(pokemon.firstGenEvolution)")
-            currentEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
-            nextEvo.image = UIImage(named: "\(pokemon.pokedexId)")
-            firstEvoLabel.text = "Lv \(pokemon.previousEvolutionLevel)"
-            secondEvoLabel.text = "Lv \(pokemon.nextEvolutionLevel)"
-        } else if pokemon.thirdGenEvolution != "" {
-            prevEvo.hidden = false
-            nextEvo.hidden = false
-            prevEvo.image = UIImage(named: "\(pokemon.pokedexId)")
-            currentEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
-            nextEvo.image = UIImage(named: "\(pokemon.thirdGenEvolution)")*/
-        
-        if pokemon.nextEvolutionId == "" && pokemon.previousEvolutionId == "" {
+        if pokemon.firstGenEvolution != "" || pokemon.thirdGenEvolution != "" {
+            applyEvoLabelsFor3GenEvolutionPokemon()
+            
+        } else if pokemon.nextEvolutionId == "" && pokemon.previousEvolutionId == ""{
+            
             prevEvo.hidden = true
+            currentEvo.hidden = false
             nextEvo.hidden = true
+            
+            prevEvoButton.hidden = true
+            currentEvoButton.hidden = true
+            nextEvoButton.hidden = true
+            
             firstEvoLabel.hidden = true
             secondEvoLabel.hidden = true
+            
+            currentEvo.image = UIImage(named: "\(pokemon.pokedexId)")
+            
         } else if pokemon.previousEvolutionId != "" && pokemon.nextEvolutionId != "" {
+            
             prevEvo.hidden = false
+            currentEvo.hidden = false
             nextEvo.hidden = false
+            
+            prevEvoButton.hidden = false
+            currentEvoButton.hidden = true
+            nextEvoButton.hidden = false
+            
             firstEvoLabel.hidden = false
             secondEvoLabel.hidden = false
+            
             prevEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
+            currentEvo.image = UIImage(named: "\(pokemon.pokedexId)")
             nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
+            
             previousEvolutionExistsLabelMaker()
             nextEvolutionExistsLabelMaker()
+            
         } else if pokemon.previousEvolutionId != "" && pokemon.nextEvolutionId == ""{
+            
+            prevEvo.hidden = false
+            currentEvo.hidden = false
+            nextEvo.hidden = true
+            
+            prevEvoButton.hidden = false
+            currentEvoButton.hidden = true
+            nextEvoButton.hidden = true
+            
             firstEvoLabel.hidden = false
             secondEvoLabel.hidden = true
-            previousEvolutionExistsLabelMaker()
-            prevEvo.hidden = false
+
             prevEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
-            nextEvo.hidden = true
+            currentEvo.image = UIImage(named: "\(pokemon.pokedexId)")
+            
+            previousEvolutionExistsLabelMaker()
+            
         } else if pokemon.previousEvolutionId == "" && pokemon.nextEvolutionId != ""{
+           
+            prevEvo.hidden = true
+            currentEvo.hidden = false
+            nextEvo.hidden = false
+            
+            prevEvoButton.hidden = true
+            currentEvoButton.hidden = true
+            nextEvoButton.hidden = false
+            
             firstEvoLabel.hidden = true
             secondEvoLabel.hidden = false
+            
             nextEvolutionExistsLabelMaker()
-            prevEvo.hidden = true
-            nextEvo.hidden = false
+ 
             nextEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
+            currentEvo.image = UIImage(named: "\(pokemon.pokedexId)")
+            
         }
         
         firstAbilityTitle.hidden = true
@@ -393,6 +428,87 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             secondEvoLabel.text = "\(pokemon.evolvesToTrigger) \(pokemon.evolvesToTriggerItem.capitalizedString)"
         } else {
             secondEvoLabel.text = "Lv. \(pokemon.nextEvolutionLevel)"
+        }
+    }
+    
+    // Allocates correct buttons and images when there's 3 stage pokemon evolution
+    
+    func applyEvoLabelsFor3GenEvolutionPokemon() {
+        
+        if pokemon.firstGenEvolution != "" {
+            
+            // Show correct buttons
+            
+            prevEvoButton.hidden = false
+            currentEvoButton.hidden = false
+            nextEvoButton.hidden = true
+            
+            // Show correct images
+            
+            prevEvo.hidden = false
+            nextEvo.hidden = false
+            
+            // Assign images
+            
+            prevEvo.image = UIImage(named: "\(pokemon.firstGenEvolution)")
+            currentEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
+            nextEvo.image = UIImage(named: "\(pokemon.pokedexId)")
+            firstEvoLabel.text = "\(pokemon.originalTrigger) \(pokemon.originalTriggerItem)"
+            
+            // Labels
+            
+            if pokemon.previousEvolutionLevel == "" || pokemon.previousEvolutionLevel == "0" {
+                secondEvoLabel.text = "\(pokemon.evolvedFromTrigger): \(pokemon.evolvedFromTriggerItem.capitalizedString)"
+            } else {
+                secondEvoLabel.text = "Lv. \(pokemon.previousEvolutionLevel)"
+            }
+            
+            if pokemon.originalTrigger == "Level Up" {
+                if pokemon.originalTriggerItem == "" {
+                    firstEvoLabel.text = "Level Up with condition"
+                } else {
+                    firstEvoLabel.text = "Lv. \(pokemon.originalTriggerItem)"
+                }
+            } else {
+                firstEvoLabel.text = "\(pokemon.originalTrigger): \(pokemon.originalTriggerItem.capitalizedString)"
+            }
+            
+        } else if pokemon.thirdGenEvolution != "" {
+            
+            // Show correct buttons
+            
+            prevEvoButton.hidden = true
+            currentEvoButton.hidden = false
+            nextEvoButton.hidden = false
+            
+            // Show correct images
+            
+            prevEvo.hidden = false
+            nextEvo.hidden = false
+            
+            // Assign images
+            
+            prevEvo.image = UIImage(named: "\(pokemon.pokedexId)")
+            currentEvo.image = UIImage(named: "\(pokemon.nextEvolutionId)")
+            nextEvo.image = UIImage(named: "\(pokemon.thirdGenEvolution)")
+            
+            // Assign Labels
+            
+            if pokemon.nextEvolutionLevel == "" || pokemon.nextEvolutionLevel == "0" {
+                firstEvoLabel.text = "\(pokemon.evolvesToTrigger): \(pokemon.evolvesToTriggerItem.capitalizedString)"
+            } else {
+                firstEvoLabel.text = "Lv. \(pokemon.nextEvolutionLevel)"
+            }
+            
+            if pokemon.eventualTrigger == "Level Up" {
+                if pokemon.eventualTriggerItem == "" {
+                    secondEvoLabel.text = "Level Up with condition"
+                } else {
+                    secondEvoLabel.text = "Lv. \(pokemon.eventualTriggerItem)"
+                }
+            } else {
+                secondEvoLabel.text = "\(pokemon.eventualTrigger): \(pokemon.eventualTriggerItem.capitalizedString)"
+            }
         }
     }
     
@@ -578,13 +694,34 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     }
     
     @IBAction func scrollToPrevEvo(sender: UIButton!) {
-        self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.previousEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+        
+        if pokemon.firstGenEvolution != "" {
+            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.firstGenEvolution)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+        } else {
+            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.previousEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+        }
+        
+
 
     }
     
     @IBAction func nextEvo(sender: UIButton!) {
-        self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.nextEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
-
+        
+        if pokemon.thirdGenEvolution != "" {
+            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.thirdGenEvolution)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+        } else  {
+            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.nextEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+        }
+        
+    }
+    
+    @IBAction func scrollTo2ndGen(sender: AnyObject) {
+        
+        if pokemon.thirdGenEvolution != "" {
+            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.nextEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+        } else if pokemon.firstGenEvolution != "" {
+            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.previousEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+        }
     }
     
     
