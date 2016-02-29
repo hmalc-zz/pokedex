@@ -579,10 +579,6 @@ class Pokemon {
     
     func parsePokeFormStatsCSV() {
         
-        var poke: [Int:String] = [:]
-        var levelListBuild: [Int] = []
-        var moveListBuild: [String] = []
-        
         let path = NSBundle.mainBundle().pathForResource("newformpokemonId\(pokedexId)", ofType: "csv")!
         
         do {
