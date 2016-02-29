@@ -1,2 +1,2 @@
-species_id,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega
-9,10036,blastoise-mega,11, ,16,1011,79,103,120,135,115,78,630,mega,1
+species_id,form_number,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega,ability_1,ability_1_name,ability_1_desc,ability_2,ability_2_name,ability_2_desc,hidden_ability,hidden_ability_name,hidden_ability_desc
+9,1,10036,blastoise-mega,11, ,16,1011,79,103,120,135,115,78,630,mega,1,107,Anticipation,"Notifies all trainers upon entering battle if an opponent has a super-effective move, self-destruct, explosion, or a one-hit KO move.",,,,,,

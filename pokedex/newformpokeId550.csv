@@ -1,2 +1,2 @@
-species_id,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega
-550,10016,basculin-blue-striped,11, ,10,180,70,92,65,80,55,98,460,blue striped,0
+species_id,form_number,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega,ability_1,ability_1_name,ability_1_desc,ability_2,ability_2_name,ability_2_desc,hidden_ability,hidden_ability_name,hidden_ability_desc
+550,1,10016,basculin-blue-striped,11, ,10,180,70,92,65,80,55,98,460,blue striped,0,75,Shell Armor,Protects against critical hits.,91,Adaptability,Increases the same-type attack bonussame-type-attack-bonus from 1.5X� to 2X�.,104,Mold Breaker,Bypasses targets' abilities if they could hinder or prevent a move.

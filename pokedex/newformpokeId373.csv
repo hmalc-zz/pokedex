@@ -1,2 +1,2 @@
-species_id,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega
-373,10089,salamence-mega,16,3,180,1126,95,145,130,120,90,120,700,mega,1
+species_id,form_number,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega,ability_1,ability_1_name,ability_1_desc,ability_2,ability_2_name,ability_2_desc,hidden_ability,hidden_ability_name,hidden_ability_desc
+373,1,10089,salamence-mega,16,3,180,1126,95,145,130,120,90,120,700,mega,1,101,Technician,Strengthens moves of 60 base power or less to 1.5X� their power.,,,,,,

@@ -1,2 +1,2 @@
-species_id,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega
-323,10087,camerupt-mega,10,5,250,3205,70,120,100,145,105,20,560,mega,1
+species_id,form_number,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega,ability_1,ability_1_name,ability_1_desc,ability_2,ability_2_name,ability_2_desc,hidden_ability,hidden_ability_name,hidden_ability_desc
+323,1,10087,camerupt-mega,10,5,250,3205,70,120,100,145,105,20,560,mega,1,23,Shadow Tag,Prevents opponents from fleeing or switching out.,,,,,,

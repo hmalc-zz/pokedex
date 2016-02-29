@@ -1,2 +1,2 @@
-species_id,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega
-384,10079,rayquaza-mega,16,3,1080,3920,105,180,100,180,100,115,780,mega,1
+species_id,form_number,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega,ability_1,ability_1_name,ability_1_desc,ability_2,ability_2_name,ability_2_desc,hidden_ability,hidden_ability_name,hidden_ability_desc
+384,1,10079,rayquaza-mega,16,3,1080,3920,105,180,100,180,100,115,780,mega,1,37,Huge Power,Doubles Attack in battle.,,,,,,

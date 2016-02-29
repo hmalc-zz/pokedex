@@ -1,2 +1,2 @@
-species_id,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega
-383,10078,groudon-primal,5,10,500,9997,100,180,160,150,90,90,770,primal,0
+species_id,form_number,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega,ability_1,ability_1_name,ability_1_desc,ability_2,ability_2_name,ability_2_desc,hidden_ability,hidden_ability_name,hidden_ability_desc
+383,1,10078,groudon-primal,5,10,500,9997,100,180,160,150,90,90,770,primal,0,182,Pixilate,Turns the bearer's normal moves into fairy moves and strengthens them to 1.3X� their power.,,,,,,

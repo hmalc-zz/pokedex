@@ -47,6 +47,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBOutlet weak var spdBar: UIView!
 
     @IBOutlet weak var tableHeight: NSLayoutConstraint!
+    
     // Labels
     
     @IBOutlet weak var heightWeight: UILabel!
@@ -98,12 +99,20 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBOutlet weak var form3: UIImageView!
     @IBOutlet weak var form4: UIImageView!
     @IBOutlet weak var form5: UIImageView!
+    @IBOutlet weak var form6: UIImageView!
+    
     
     @IBOutlet weak var form1Label: UILabel!
     @IBOutlet weak var form2Label: UILabel!
     @IBOutlet weak var form3Label: UILabel!
     @IBOutlet weak var form4Label: UILabel!
     @IBOutlet weak var form5Label: UILabel!
+    @IBOutlet weak var form6Label: UILabel!
+    
+    
+    @IBOutlet weak var formsTitle: UILabel!
+    @IBOutlet weak var hideFormsView: NSLayoutConstraint!
+    
     
     // Colour stuff
     
@@ -141,6 +150,9 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
                 } else {
                     scrollForward.alpha = 1.0
                 }
+                setupGraphsForNewPokemon()
+                handlePokemonForms()
+                self.view.layoutIfNeeded()
             }
         }
     }
@@ -199,8 +211,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             scrollBack.alpha = 0
         }
         
-        print(gameGenRef)
-        
     }
     
     // MARK: New Pokemon Setup
@@ -213,8 +223,11 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         while pokemon.description == "" {
             pokemon.parsePokedexEntryCSV(Int(arc4random_uniform(26) + 1))
         }
+        
         updateUI()
+        handlePokemonForms()
         setupGraphsForNewPokemon()
+        
         // Set height of Scroll View
         self.tableHeight.constant = CGFloat(pokemon.moveList.count) * 44
         // Need to call this line to force constraint updated
@@ -412,7 +425,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         
         // Forms
         
-        if pokemon.changesForm == "1" {
+        if pokemon.numberForms == "1" {
             form1Label.text = "COOL!"
         }
         
@@ -474,8 +487,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             
             // Show correct images
             
-            prevEvo.hidden = false
-            nextEvo.hidden = false
+            prevEvo.image = nil
+            nextEvo.image = nil
             
             // Assign images
             
@@ -588,6 +601,69 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         descriptionLbl.fadeTransition(0.25)
         descriptionLbl.text = pokemon.description
         
+    }
+    
+    
+    // Handle possibility of having different forms
+    
+    func handlePokemonForms() {
+        
+        form1.image = nil
+        form2.image = nil
+        form3.image = nil
+        form4.image = nil
+        form5.image = nil
+        form6.image = nil
+        
+        form1Label.text = ""
+        form2Label.text = ""
+        form3Label.text = ""
+        form4Label.text = ""
+        form5Label.text = ""
+        form6Label.text = ""
+        
+        if pokemon.numberForms != "" {
+            
+            formsTitle.hidden = false
+            hideFormsView.constant = 140
+            
+            for var i=1; i<=Int(pokemon.numberForms)!; i++ {
+                if i == 1 {
+                    form1.hidden = false
+                    form1Label.hidden = false
+                    form1.image = UIImage(named: "\(pokemon.pokedexId)form1")
+                    form1Label.text = pokemon.pokemonFormNames(1).capitalizedString
+                } else if i == 2 {
+                    form2.hidden = false
+                    form2Label.hidden = false
+                    form2.image = UIImage(named: "\(pokemon.pokedexId)form2")
+                    form2Label.text = pokemon.pokemonFormNames(2).capitalizedString
+                } else if i == 3 {
+                    form3.hidden = false
+                    form3Label.hidden = false
+                    form3.image = UIImage(named: "\(pokemon.pokedexId)form3")
+                    form3Label.text = pokemon.pokemonFormNames(3).capitalizedString
+                } else if i == 4 {
+                    form4.hidden = false
+                    form4Label.hidden = false
+                    form4.image = UIImage(named: "\(pokemon.pokedexId)form4")
+                    form4Label.text = pokemon.pokemonFormNames(4).capitalizedString
+                } else if i == 5 {
+                    form5.hidden = false
+                    form5Label.hidden = false
+                    form5.image = UIImage(named: "\(pokemon.pokedexId)form5")
+                    form5Label.text = pokemon.pokemonFormNames(5).capitalizedString
+                } else if i == 6 {
+                    form6.hidden = false
+                    form6Label.hidden = false
+                    form6.image = UIImage(named: "\(pokemon.pokedexId)form6")
+                    form6Label.text = pokemon.pokemonFormNames(6).capitalizedString
+                }
+            }
+        } else {
+            formsTitle.hidden = true
+            hideFormsView.constant = 0
+        }
     }
     
     // MARK: Table View Delegate Functions
