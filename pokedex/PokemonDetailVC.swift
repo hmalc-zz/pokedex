@@ -417,7 +417,13 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     func previousEvolutionExistsLabelMaker() {
         if pokemon.previousEvolutionLevel == "" || pokemon.previousEvolutionLevel == "0" {
-            firstEvoLabel.text = "\(pokemon.evolvedFromTrigger) \(pokemon.evolvedFromTriggerItem.capitalizedString)"
+            if pokemon.evolvedFromTrigger == "Level Up" {
+                if pokemon.evolvedFromTriggerItem == "" {
+                    firstEvoLabel.text = "Level up with condition"
+                }
+            } else {
+                firstEvoLabel.text = "\(pokemon.evolvedFromTrigger) \(pokemon.evolvedFromTriggerItem.capitalizedString)"
+            }
         } else {
             firstEvoLabel.text = "Lv. \(pokemon.previousEvolutionLevel)"
         }
@@ -425,7 +431,13 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     func nextEvolutionExistsLabelMaker() {
         if pokemon.nextEvolutionLevel == "" || pokemon.nextEvolutionLevel == "0" {
-            secondEvoLabel.text = "\(pokemon.evolvesToTrigger) \(pokemon.evolvesToTriggerItem.capitalizedString)"
+            if pokemon.evolvesToTrigger == "Level Up" {
+                if pokemon.evolvesToTriggerItem == "" {
+                    secondEvoLabel.text = "Level up with condition"
+                    }
+                } else {
+                    secondEvoLabel.text = "\(pokemon.evolvesToTrigger) \(pokemon.evolvesToTriggerItem.capitalizedString)"
+            }
         } else {
             secondEvoLabel.text = "Lv. \(pokemon.nextEvolutionLevel)"
         }
@@ -458,19 +470,19 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             // Labels
             
             if pokemon.previousEvolutionLevel == "" || pokemon.previousEvolutionLevel == "0" {
-                secondEvoLabel.text = "\(pokemon.evolvedFromTrigger): \(pokemon.evolvedFromTriggerItem.capitalizedString)"
+                secondEvoLabel.text = "\(pokemon.evolvedFromTrigger) \(pokemon.evolvedFromTriggerItem.capitalizedString)"
             } else {
                 secondEvoLabel.text = "Lv. \(pokemon.previousEvolutionLevel)"
             }
             
             if pokemon.originalTrigger == "Level Up" {
                 if pokemon.originalTriggerItem == "" {
-                    firstEvoLabel.text = "Level Up with condition"
+                    firstEvoLabel.text = "Level up with condition"
                 } else {
                     firstEvoLabel.text = "Lv. \(pokemon.originalTriggerItem)"
                 }
             } else {
-                firstEvoLabel.text = "\(pokemon.originalTrigger): \(pokemon.originalTriggerItem.capitalizedString)"
+                firstEvoLabel.text = "\(pokemon.originalTrigger) \(pokemon.originalTriggerItem.capitalizedString)"
             }
             
         } else if pokemon.thirdGenEvolution != "" {
@@ -495,19 +507,19 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             // Assign Labels
             
             if pokemon.nextEvolutionLevel == "" || pokemon.nextEvolutionLevel == "0" {
-                firstEvoLabel.text = "\(pokemon.evolvesToTrigger): \(pokemon.evolvesToTriggerItem.capitalizedString)"
+                firstEvoLabel.text = "\(pokemon.evolvesToTrigger) \(pokemon.evolvesToTriggerItem.capitalizedString)"
             } else {
                 firstEvoLabel.text = "Lv. \(pokemon.nextEvolutionLevel)"
             }
             
             if pokemon.eventualTrigger == "Level Up" {
                 if pokemon.eventualTriggerItem == "" {
-                    secondEvoLabel.text = "Level Up with condition"
+                    secondEvoLabel.text = "Level up with condition"
                 } else {
                     secondEvoLabel.text = "Lv. \(pokemon.eventualTriggerItem)"
                 }
             } else {
-                secondEvoLabel.text = "\(pokemon.eventualTrigger): \(pokemon.eventualTriggerItem.capitalizedString)"
+                secondEvoLabel.text = "\(pokemon.eventualTrigger) \(pokemon.eventualTriggerItem.capitalizedString)"
             }
         }
     }
@@ -746,7 +758,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         timer.invalidate()
     }
     
-    @IBAction func changeDexEntryDown(sender: AnyObject) {
+    /*@IBAction func changeDexEntryDown(sender: AnyObject) {
         
         timer.invalidate()
         
@@ -773,7 +785,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         gameRefPokedexEntry.text = pokemon.gameName
         descriptionLbl.fadeTransition(0.25)
         descriptionLbl.text = pokemon.description
-    }
+    }*/
 
 }
 

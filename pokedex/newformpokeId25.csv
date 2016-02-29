@@ -1,0 +1,7 @@
+species_id,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega
+25,10080,pikachu-rock-star,13, ,40,60,35,55,40,50,50,90,320,rock star,0
+25,10081,pikachu-belle,13, ,40,60,35,55,40,50,50,90,320,belle,0
+25,10082,pikachu-pop-star,13, ,40,60,35,55,40,50,50,90,320,pop star,0
+25,10083,pikachu-phd,13, ,40,60,35,55,40,50,50,90,320,phd,0
+25,10084,pikachu-libre,13, ,40,60,35,55,40,50,50,90,320,libre,0
+25,10085,pikachu-cosplay,13, ,40,60,35,55,40,50,50,90,320,cosplay,0

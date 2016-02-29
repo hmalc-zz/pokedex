@@ -56,6 +56,8 @@ class Pokemon {
     private var _originalTrigger: String!
     private var _originalTriggerItem: String!
     
+    private var _changesForm: String!
+    
     private var _firstAbility: String!
     private var _firstAbilityDesc: String!
     private var _secondAbility: String!
@@ -316,6 +318,16 @@ class Pokemon {
         return _originalTriggerItem
     }
     
+    // Changes form bool
+    
+    var changesForm: String {
+        
+        if _changesForm == nil {
+            _changesForm = ""
+        }
+        return _changesForm
+    }
+    
     // Abilities
     
     var firstAbility: String {
@@ -523,6 +535,12 @@ class Pokemon {
                 
                 if let originalTriggerItem = row["original_evolution_trigger_item"] {
                     self._originalTriggerItem = originalTriggerItem
+                }
+                
+                // Changes form indicator
+                
+                if let changesForm = row["changes_form"] {
+                    self._changesForm = changesForm
                 }
                 
                 // Abilities

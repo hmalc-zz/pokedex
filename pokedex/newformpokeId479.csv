@@ -1,0 +1,6 @@
+species_id,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega
+479,10008,rotom-heat,13,10,3,3,50,65,107,105,107,86,520,heat,0
+479,10009,rotom-wash,13,11,3,3,50,65,107,105,107,86,520,wash,0
+479,10010,rotom-frost,13,15,3,3,50,65,107,105,107,86,520,frost,0
+479,10011,rotom-fan,13,3,3,3,50,65,107,105,107,86,520,fan,0
+479,10012,rotom-mow,13,12,3,3,50,65,107,105,107,86,520,mow,0

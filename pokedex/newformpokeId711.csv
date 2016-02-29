@@ -1,0 +1,4 @@
+species_id,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega
+711,10030,gourgeist-small,8,12,7,95,55,85,122,58,75,99,494,small,0
+711,10031,gourgeist-large,8,12,11,140,75,95,122,58,75,69,494,large,0
+711,10032,gourgeist-super,8,12,17,390,85,100,122,58,75,54,494,super,0
