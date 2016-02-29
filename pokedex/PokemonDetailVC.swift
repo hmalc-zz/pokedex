@@ -50,7 +50,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     // Labels
     
     @IBOutlet weak var heightWeight: UILabel!
-    
+    @IBOutlet weak var pokemonGen: UILabel!
     @IBOutlet weak var pokedexLbl: UILabel!
     
     // Evolution Handling
@@ -78,8 +78,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBOutlet weak var firstAbilityTitle: UILabel!
     @IBOutlet weak var secondAbilityTitle: UILabel!
     @IBOutlet weak var hiddenAbilityTitle: UILabel!
-
-    
     
     // Arrow buttons
     
@@ -92,6 +90,20 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBOutlet weak var prevEvoButton: UIButton!
     @IBOutlet weak var currentEvoButton: UIButton!
     @IBOutlet weak var nextEvoButton: UIButton!
+    
+    // Forms panel labels/images
+    
+    @IBOutlet weak var form1: UIImageView!
+    @IBOutlet weak var form2: UIImageView!
+    @IBOutlet weak var form3: UIImageView!
+    @IBOutlet weak var form4: UIImageView!
+    @IBOutlet weak var form5: UIImageView!
+    
+    @IBOutlet weak var form1Label: UILabel!
+    @IBOutlet weak var form2Label: UILabel!
+    @IBOutlet weak var form3Label: UILabel!
+    @IBOutlet weak var form4Label: UILabel!
+    @IBOutlet weak var form5Label: UILabel!
     
     // Colour stuff
     
@@ -273,6 +285,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         attackLbl.text = pokemon.attack
         defenseLbl.text = pokemon.defense
         heightWeight.text = "\(pokemon.height)ft | \(pokemon.weight)lbs"
+        pokemonGen.text = "Gen: \(pokemon.generationId)"
         pokedexLbl.text = "# \(pokemon.pokedexId)"
         moveVersionLabel.text = "Gen \(gameVersionGen[returnMinGameGen(Int(pokemon.generationId)!)]): \(games[returnMinGameGen(Int(pokemon.generationId)!)])"
         
@@ -373,8 +386,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         secondAbility.hidden = true
         hiddenAbilityTitle.hidden = true
         hiddenAbility.hidden = true
-
-        
         
         // Abilities
         
@@ -397,6 +408,12 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             hiddenAbility.hidden = false
             hiddenAbilityTitle.text = "Hidden Ability: \(pokemon.hiddenAbility.capitalizedString)"
             hiddenAbility.text = pokemon.hiddenAbilityDesc
+        }
+        
+        // Forms
+        
+        if pokemon.changesForm == "1" {
+            form1Label.text = "COOL!"
         }
         
         
@@ -651,6 +668,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         scrollForward.hidden = true
         scrollBack.hidden = true
         heightWeight.hidden = true
+        pokemonGen.hidden = true
         dismissViewControllerAnimated(true, completion: nil)
     
     }

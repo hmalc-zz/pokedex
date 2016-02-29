@@ -539,8 +539,117 @@ class Pokemon {
                 
                 // Changes form indicator
                 
-                if let changesForm = row["changes_form"] {
+                if let changesForm = row["no_forms"] {
                     self._changesForm = changesForm
+                }
+                
+                // Abilities
+                
+                if let firstAbility = row["first_ability_name"] {
+                    self._firstAbility = firstAbility
+                }
+                
+                if let firstAbilityDesc = row["first_ability_desc"] {
+                    self._firstAbilityDesc = firstAbilityDesc
+                }
+                
+                if let secondAbility = row["second_ability_name"] {
+                    self._secondAbility = secondAbility
+                }
+                
+                if let secondAbilityDesc = row["second_ability_desc"] {
+                    self._secondAbilityDesc = secondAbilityDesc
+                }
+                
+                if let hiddenAbility = row["hidden_ability_name"] {
+                    self._hiddenAbility = hiddenAbility
+                }
+                
+                if let hiddenAbilityDesc = row["hidden_ability_desc"] {
+                    self._hiddenAbilityDesc = hiddenAbilityDesc
+                }
+                
+            }
+        } catch let err as NSError {
+                print(err.debugDescription)
+        }
+    }
+    
+    // Get Stats of Forms
+    
+    func parsePokeFormStatsCSV() {
+        
+        var poke: [Int:String] = [:]
+        var levelListBuild: [Int] = []
+        var moveListBuild: [String] = []
+        
+        let path = NSBundle.mainBundle().pathForResource("newformpokemonId\(pokedexId)", ofType: "csv")!
+        
+        do {
+            let csv = try CSV(contentsOfURL: path)
+            let rows = csv.rows
+            
+            for row in rows {
+                
+                // Name
+                
+                if let name = row["identifier"] {
+                    self._name = name
+                }
+                
+                
+                // Height + Weight
+                
+                if let height = row["height_ft"] {
+                    self._height = height
+                }
+                
+                if let weight = row["weight_lbs"] {
+                    self._weight = weight
+                }
+                
+                // Base Stats
+                
+                if let hp = row["hp"] {
+                    self._hp = hp
+                }
+                
+                if let attack = row["attack"] {
+                    self._attack = attack
+                }
+                
+                if let defense = row["defense"] {
+                    self._defense = defense
+                }
+                
+                if let specialAttack = row["special_attack"] {
+                    self._specialAttack = specialAttack
+                }
+                
+                if let specialDefense = row["special_defense"] {
+                    self._specialDefense = specialDefense
+                }
+                
+                if let speed = row["speed"] {
+                    self._speed = speed
+                }
+                
+                if let baseStats = row["base_stats"] {
+                    self._baseStats = baseStats
+                }
+                
+                // Types
+                
+                if let type1 = row["type1_id"] {
+                    self._type1 = type1
+                }
+                
+                if let type2 = row["type2_id"] {
+                    self._type2 = type2
+                }
+                
+                if let generationId = row["generation_id"] {
+                    self._generationId = generationId
                 }
                 
                 // Abilities
@@ -567,12 +676,12 @@ class Pokemon {
                 
                 if let hiddenAbilityDesc =
                     row["hidden_ability_desc"] {
-                    self._hiddenAbilityDesc = hiddenAbilityDesc
+                        self._hiddenAbilityDesc = hiddenAbilityDesc
                 }
                 
             }
         } catch let err as NSError {
-                print(err.debugDescription)
+            print(err.debugDescription)
         }
     }
     
