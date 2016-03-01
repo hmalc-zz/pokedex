@@ -152,6 +152,12 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dHo-S6-Gzl">
                                         <rect key="frame" x="0.0" y="0.0" width="600" height="1717"/>
                                         <subviews>
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="GL9-1Z-ZH0">
+                                                <rect key="frame" x="0.0" y="55" width="600" height="200"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="200" id="icu-iK-Mnt"/>
+                                                </constraints>
+                                            </imageView>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rY0-N2-Jvy">
                                                 <rect key="frame" x="0.0" y="255" width="600" height="160"/>
                                                 <subviews>
@@ -1117,12 +1123,6 @@
                                                     <constraint firstItem="DT5-Fv-a6E" firstAttribute="bottom" secondItem="pko-ro-BTA" secondAttribute="bottom" id="zmR-In-akr"/>
                                                 </constraints>
                                             </view>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="GL9-1Z-ZH0">
-                                                <rect key="frame" x="0.0" y="55" width="600" height="200"/>
-                                                <constraints>
-                                                    <constraint firstAttribute="height" constant="200" id="icu-iK-Mnt"/>
-                                                </constraints>
-                                            </imageView>
                                         </subviews>
                                         <color key="backgroundColor" red="0.97950721159999998" green="0.97950721159999998" blue="0.97950721159999998" alpha="1" colorSpace="calibratedRGB"/>
                                         <constraints>

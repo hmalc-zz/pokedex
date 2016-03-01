@@ -84,7 +84,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     // Arrow buttons
     
     @IBOutlet weak var scrollBack: UIButton!
-    
     @IBOutlet weak var scrollForward: UIButton!
     
     // Evolution Buttons
@@ -130,6 +129,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     var timer: NSTimer!
     var pokemonImg: [Int] = []
     var gameGenRef: Int = 0
+    var specialForm = false
+    var formReference = 0
     
     override func preferredStatusBarStyle() -> UIStatusBarStyle {
         return .LightContent
@@ -216,6 +217,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     // MARK: New Pokemon Setup
     
     func newPokemonSetup() {
+        
         pokemon.parsePokeStatsCSV()
         pokemon.parsePokedexEntryCSV(selectedVersionLabel)
         pokemon.parsePokeMovesCSV(returnMinGameGen(Int(pokemon.generationId)!)+1)
@@ -228,7 +230,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         handlePokemonForms()
         setupGraphsForNewPokemon()
         formImage.image = nil
-        collectionView.hidden = false
         
         // Set height of Scroll View
         self.tableHeight.constant = CGFloat(pokemon.moveList.count) * 44
@@ -344,7 +345,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             nextEvo.hidden = false
             
             prevEvoButton.hidden = false
-            currentEvoButton.hidden = true
+            currentEvoButton.hidden = false
             nextEvoButton.hidden = false
             
             firstEvoLabel.hidden = false
@@ -364,7 +365,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             nextEvo.image = nil
             
             prevEvoButton.hidden = false
-            currentEvoButton.hidden = true
+            currentEvoButton.hidden = false
             nextEvoButton.hidden = true
             
             firstEvoLabel.hidden = false
@@ -382,7 +383,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             nextEvo.hidden = false
             
             prevEvoButton.hidden = true
-            currentEvoButton.hidden = true
+            currentEvoButton.hidden = false
             nextEvoButton.hidden = false
             
             firstEvoLabel.text = nil
@@ -478,7 +479,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             
             prevEvoButton.hidden = false
             currentEvoButton.hidden = false
-            nextEvoButton.hidden = true
+            nextEvoButton.hidden = false
             
             // Show correct images
             
@@ -687,21 +688,18 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     // MARK: Collection View Delegate Functions
     
     func collectionView(collectionView: UICollectionView, cellForItemAtIndexPath indexPath: NSIndexPath) -> UICollectionViewCell {
-        
         if let cell = collectionView.dequeueReusableCellWithReuseIdentifier("MainImageCell", forIndexPath: indexPath) as? MainImageViewCell {
-            
             let dexID = pokemonImg[indexPath.row]
-            cell.configureImageCell(dexID)
             
+            cell.configureImageCell(dexID,formReference: 0)
+
             return cell
-        } else {
-            return UICollectionViewCell()
-        }
+            }
+        return UICollectionViewCell()
     }
     
     func collectionView(collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
         return pokemonImg.count
-
     }
     
     func numberOfSectionsInCollectionView(collectionView: UICollectionView) -> Int {
@@ -803,9 +801,17 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     func updateFormWhenPressed(formNumber: Int) {
         pokemon.parsePokeFormStatsCSV(formNumber)
         newFormSetup()
-        collectionView.hidden = true
-        formImage.image = UIImage(named: "\(pokemon.pokedexId)hiform\(formNumber)")
+        let cell = self.collectionView.cellForItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId-1, inSection: 0)) as! MainImageViewCell
+        cell.configureImageCell(pokemon.pokedexId,formReference: formNumber)
 
+    }
+    
+    func revertToOrignalFromMega() {
+        let cell = self.collectionView.cellForItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId-1, inSection: 0)) as! MainImageViewCell
+        cell.configureImageCell(pokemon.pokedexId,formReference: 0)
+        newPokemonSetup()
+        initCries()
+        self.view.layoutIfNeeded()
     }
     
     
@@ -826,7 +832,9 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         
         if pokemon.thirdGenEvolution != "" {
             self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.thirdGenEvolution)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
-        } else  {
+        } else if pokemon.firstGenEvolution != "" {
+                revertToOrignalFromMega()
+            } else {
             self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.nextEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
         }
         
@@ -838,6 +846,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.nextEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
         } else if pokemon.firstGenEvolution != "" {
             self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.previousEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+        } else {
+            revertToOrignalFromMega()
         }
     }
     
@@ -855,6 +865,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId-2, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
         }
     }
+    
     
     @IBAction func form1Button(sender: UIButton) {
         updateFormWhenPressed(1)
