@@ -1,4 +1,4 @@
 species_id,form_number,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega,ability_1,ability_1_name,ability_1_desc,ability_2,ability_2_name,ability_2_desc,hidden_ability,hidden_ability_name,hidden_ability_desc
-386,3,10001,deoxys-attack,14, ,17,608,50,180,20,180,20,150,600,attack,0,111,Filter,Decreases damage taken from super-effective moves by 1/4.,,,,,,
-386,2,10002,deoxys-defense,14, ,17,608,50,70,160,70,160,90,600,defense,0,74,Pure Power,Doubles Attack in battle.,,,,,,
-386,1,10003,deoxys-speed,14, ,17,608,50,95,90,95,90,180,600,speed,0,22,Intimidate,Lowers opponents' Attack one stage upon entering battle.,,,,,,
+386,3,10001,deoxys-attack,Psychic,,5.5,134,50,180,20,180,20,150,600,attack,0,111,Filter,Decreases damage taken from super-effective moves by 1/4.,,,,,,
+386,2,10002,deoxys-defense,Psychic,,5.5,134,50,70,160,70,160,90,600,defense,0,74,Pure Power,Doubles Attack in battle.,,,,,,
+386,1,10003,deoxys-speed,Psychic,,5.5,134,50,95,90,95,90,180,600,speed,0,22,Intimidate,Lowers opponents' Attack one stage upon entering battle.,,,,,,

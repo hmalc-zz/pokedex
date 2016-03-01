@@ -1,2 +1,2 @@
 species_id,form_number,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega,ability_1,ability_1_name,ability_1_desc,ability_2,ability_2_name,ability_2_desc,hidden_ability,hidden_ability_name,hidden_ability_desc
-142,1,10042,aerodactyl-mega,6,3,21,790,80,135,85,70,95,150,615,mega,1,144,Regenerator,Heals for 1/3 max HP upon switching out.,,,,,,
+142,1,10042,aerodactyl-mega,Rock,Flying,6.9,174.2,80,135,85,70,95,150,615,mega,1,144,Regenerator,Heals for 1/3 max HP upon switching out.,,,,,,

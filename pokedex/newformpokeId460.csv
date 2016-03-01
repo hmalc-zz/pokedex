@@ -1,2 +1,2 @@
 species_id,form_number,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega,ability_1,ability_1_name,ability_1_desc,ability_2,ability_2_name,ability_2_desc,hidden_ability,hidden_ability_name,hidden_ability_desc
-460,1,10060,abomasnow-mega,12,15,27,1850,90,132,105,132,105,30,594,mega,1,166,Flower Veil,Protects friendly grass Pokemon from having their stats lowered by other Pokemon.,,,,,,
+460,1,10060,abomasnow-mega,Grass,Ice,8.8,407.8,90,132,105,132,105,30,594,mega,1,166,Flower Veil,Protects friendly grass Pokemon from having their stats lowered by other Pokemon.,,,,,,

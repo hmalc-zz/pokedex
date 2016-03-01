@@ -17,8 +17,9 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBOutlet weak var tableView: UITableView!
     @IBOutlet weak var collectionView: UICollectionView!
     
-
-    @IBOutlet weak var mainImg: UIImageView!
+    // Labels
+    
+    @IBOutlet weak var formImage: UIImageView!
     @IBOutlet weak var nameLbl: UILabel!
     @IBOutlet weak var descriptionLbl: UILabel!
     @IBOutlet weak var typeLbl1: UILabel!
@@ -113,8 +114,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBOutlet weak var formsTitle: UILabel!
     @IBOutlet weak var hideFormsView: NSLayoutConstraint!
     @IBOutlet weak var lineSeparator: UIView!
-    
-    
     
     // Colour stuff
     
@@ -228,6 +227,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         updateUI()
         handlePokemonForms()
         setupGraphsForNewPokemon()
+        formImage.image = nil
+        collectionView.hidden = false
         
         // Set height of Scroll View
         self.tableHeight.constant = CGFloat(pokemon.moveList.count) * 44
@@ -323,16 +324,16 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             
         } else if pokemon.nextEvolutionId == "" && pokemon.previousEvolutionId == ""{
             
-            prevEvo.hidden = true
+            prevEvo.image = nil
             currentEvo.hidden = false
-            nextEvo.hidden = true
+            nextEvo.image = nil
             
             prevEvoButton.hidden = true
             currentEvoButton.hidden = true
             nextEvoButton.hidden = true
             
-            firstEvoLabel.hidden = true
-            secondEvoLabel.hidden = true
+            firstEvoLabel.text = nil
+            secondEvoLabel.text = nil
             
             currentEvo.image = UIImage(named: "\(pokemon.pokedexId)")
             
@@ -360,14 +361,14 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             
             prevEvo.hidden = false
             currentEvo.hidden = false
-            nextEvo.hidden = true
+            nextEvo.image = nil
             
             prevEvoButton.hidden = false
             currentEvoButton.hidden = true
             nextEvoButton.hidden = true
             
             firstEvoLabel.hidden = false
-            secondEvoLabel.hidden = true
+            secondEvoLabel.text = nil
 
             prevEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
             currentEvo.image = UIImage(named: "\(pokemon.pokedexId)")
@@ -376,7 +377,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             
         } else if pokemon.previousEvolutionId == "" && pokemon.nextEvolutionId != ""{
            
-            prevEvo.hidden = true
+            prevEvo.image = nil
             currentEvo.hidden = false
             nextEvo.hidden = false
             
@@ -384,7 +385,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             currentEvoButton.hidden = true
             nextEvoButton.hidden = false
             
-            firstEvoLabel.hidden = true
+            firstEvoLabel.text = nil
             secondEvoLabel.hidden = false
             
             nextEvolutionExistsLabelMaker()
@@ -423,13 +424,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             hiddenAbilityTitle.text = "Hidden Ability: \(pokemon.hiddenAbility.capitalizedString)"
             hiddenAbility.text = pokemon.hiddenAbilityDesc
         }
-        
-        // Forms
-        
-        if pokemon.numberForms == "1" {
-            form1Label.text = "COOL!"
-        }
-        
         
         // UI Color alteration
 
@@ -762,8 +756,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         
         var breaker = 0
         
-        print(gameGenRef)
-        
         func cycleThrough() {
             while pokemon.moveList.count == 0 {
                 
@@ -801,6 +793,22 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
 
         
     }
+    
+    func newFormSetup() {
+        handlePokemonForms()
+        setupGraphsForNewPokemon()
+        updateUI()
+    }
+    
+    func updateFormWhenPressed(formNumber: Int) {
+        pokemon.parsePokeFormStatsCSV(formNumber)
+        newFormSetup()
+        collectionView.hidden = true
+        formImage.image = UIImage(named: "\(pokemon.pokedexId)hiform\(formNumber)")
+
+    }
+    
+    
     
     @IBAction func scrollToPrevEvo(sender: UIButton!) {
         
@@ -848,7 +856,24 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         }
     }
     
-    
+    @IBAction func form1Button(sender: UIButton) {
+        updateFormWhenPressed(1)
+    }
+    @IBAction func form2Button(sender: UIButton) {
+        updateFormWhenPressed(2)
+    }
+    @IBAction func form3Button(sender: UIButton) {
+        updateFormWhenPressed(3)
+    }
+    @IBAction func form4Button(sender: UIButton) {
+        updateFormWhenPressed(4)
+    }
+    @IBAction func form5Button(sender: UIButton) {
+        updateFormWhenPressed(5)
+    }
+    @IBAction func form6Button(sender: UIButton) {
+        updateFormWhenPressed(6)
+    }
     
     @IBAction func changeDexEntry(sender: UIButton) {
         changeDexEntryUp()

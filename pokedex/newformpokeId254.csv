@@ -1,2 +1,2 @@
 species_id,form_number,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega,ability_1,ability_1_name,ability_1_desc,ability_2,ability_2_name,ability_2_desc,hidden_ability,hidden_ability_name,hidden_ability_desc
-254,1,10065,sceptile-mega,12,16,190,552,70,110,75,145,85,145,630,mega,1,53,Pickup,Picks up other Pokemon's used and Flungfling held items.  May also pick up an item after battle.,,,,,,
+254,1,10065,sceptile-mega,Grass,Dragon,62,121.7,70,110,75,145,85,145,630,mega,1,53,Pickup,Picks up other Pokemon's used and Flungfling held items.  May also pick up an item after battle.,,,,,,

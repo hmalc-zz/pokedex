@@ -1,3 +1,3 @@
 species_id,form_number,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega,ability_1,ability_1_name,ability_1_desc,ability_2,ability_2_name,ability_2_desc,hidden_ability,hidden_ability_name,hidden_ability_desc
-413,2,10004,wormadam-sandy,7,5,5,65,60,79,105,59,85,36,424,sandy,0,158,Prankster,Raises non-damaging moves' priority by one stage.,,,,142,Overcoat,Protects against damage from weather.
-413,1,10005,wormadam-trash,7,9,5,65,60,69,95,69,95,36,424,trash,0,156,Magic Bounce,Reflects most non-damaging moves back at their user.,,,,142,Overcoat,Protects against damage from weather.
+413,2,10004,wormadam-sandy,Bug,Ground,1.6,14.3,60,79,105,59,85,36,424,sandy,0,158,Prankster,Raises non-damaging moves' priority by one stage.,,,,142,Overcoat,Protects against damage from weather.
+413,1,10005,wormadam-trash,Bug,Steel,1.6,14.3,60,69,95,69,95,36,424,trash,0,156,Magic Bounce,Reflects most non-damaging moves back at their user.,,,,142,Overcoat,Protects against damage from weather.

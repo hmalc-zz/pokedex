@@ -87,6 +87,165 @@
 		B4D62DDC1C81647C007E2CAD /* 720-small.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D62D911C81647C007E2CAD /* 720-small.png */; };
 		B4D62DDD1C81647C007E2CAD /* 721-hi.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D62D921C81647C007E2CAD /* 721-hi.png */; };
 		B4D62DDF1C816BE7007E2CAD /* 660-hi.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D62DDE1C816BE7007E2CAD /* 660-hi.png */; };
+		B4D692321C8525DE009F970D /* newformpokeId25.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691ED1C8525DE009F970D /* newformpokeId25.csv */; };
+		B4D692331C8525DE009F970D /* newformpokeId479.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691EE1C8525DE009F970D /* newformpokeId479.csv */; };
+		B4D692341C8525DE009F970D /* newformpokeId711.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691EF1C8525DE009F970D /* newformpokeId711.csv */; };
+		B4D692351C8525DE009F970D /* newformpokeId710.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691F01C8525DE009F970D /* newformpokeId710.csv */; };
+		B4D692361C8525DE009F970D /* newformpokeId351.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691F11C8525DE009F970D /* newformpokeId351.csv */; };
+		B4D692371C8525DE009F970D /* newformpokeId386.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691F21C8525DE009F970D /* newformpokeId386.csv */; };
+		B4D692381C8525DE009F970D /* newformpokeId413.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691F31C8525DE009F970D /* newformpokeId413.csv */; };
+		B4D692391C8525DE009F970D /* newformpokeId555.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691F41C8525DE009F970D /* newformpokeId555.csv */; };
+		B4D6923A1C8525DE009F970D /* newformpokeId6.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691F51C8525DE009F970D /* newformpokeId6.csv */; };
+		B4D6923B1C8525DE009F970D /* newformpokeId150.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691F61C8525DE009F970D /* newformpokeId150.csv */; };
+		B4D6923C1C8525DE009F970D /* newformpokeId550.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691F71C8525DE009F970D /* newformpokeId550.csv */; };
+		B4D6923D1C8525DE009F970D /* newformpokeId678.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691F81C8525DE009F970D /* newformpokeId678.csv */; };
+		B4D6923E1C8525DE009F970D /* newformpokeId646.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691F91C8525DE009F970D /* newformpokeId646.csv */; };
+		B4D6923F1C8525DE009F970D /* newformpokeId15.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691FA1C8525DE009F970D /* newformpokeId15.csv */; };
+		B4D692401C8525DE009F970D /* newformpokeId670.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691FB1C8525DE009F970D /* newformpokeId670.csv */; };
+		B4D692411C8525DE009F970D /* newformpokeId9.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691FC1C8525DE009F970D /* newformpokeId9.csv */; };
+		B4D692421C8525DE009F970D /* newformpokeId428.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691FD1C8525DE009F970D /* newformpokeId428.csv */; };
+		B4D692431C8525DE009F970D /* newformpokeId229.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691FE1C8525DE009F970D /* newformpokeId229.csv */; };
+		B4D692441C8525DE009F970D /* newformpokeId642.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D691FF1C8525DE009F970D /* newformpokeId642.csv */; };
+		B4D692451C8525DE009F970D /* newformpokeId380.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692001C8525DE009F970D /* newformpokeId380.csv */; };
+		B4D692461C8525DE009F970D /* newformpokeId383.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692011C8525DE009F970D /* newformpokeId383.csv */; };
+		B4D692471C8525DE009F970D /* newformpokeId127.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692021C8525DE009F970D /* newformpokeId127.csv */; };
+		B4D692481C8525DE009F970D /* newformpokeId282.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692031C8525DE009F970D /* newformpokeId282.csv */; };
+		B4D692491C8525DE009F970D /* newformpokeId257.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692041C8525DE009F970D /* newformpokeId257.csv */; };
+		B4D6924A1C8525DE009F970D /* newformpokeId260.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692051C8525DE009F970D /* newformpokeId260.csv */; };
+		B4D6924B1C8525DE009F970D /* newformpokeId719.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692061C8525DE009F970D /* newformpokeId719.csv */; };
+		B4D6924C1C8525DE009F970D /* newformpokeId248.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692071C8525DE009F970D /* newformpokeId248.csv */; };
+		B4D6924D1C8525DE009F970D /* newformpokeId254.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692081C8525DE009F970D /* newformpokeId254.csv */; };
+		B4D6924E1C8525DE009F970D /* newformpokeId302.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692091C8525DE009F970D /* newformpokeId302.csv */; };
+		B4D6924F1C8525DE009F970D /* newformpokeId720.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6920A1C8525DE009F970D /* newformpokeId720.csv */; };
+		B4D692501C8525DE009F970D /* newformpokeId445.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6920B1C8525DE009F970D /* newformpokeId445.csv */; };
+		B4D692511C8525DE009F970D /* newformpokeId376.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6920C1C8525DE009F970D /* newformpokeId376.csv */; };
+		B4D692521C8525DE009F970D /* newformpokeId492.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6920D1C8525DE009F970D /* newformpokeId492.csv */; };
+		B4D692531C8525DE009F970D /* newformpokeId460.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6920E1C8525DE009F970D /* newformpokeId460.csv */; };
+		B4D692541C8525DE009F970D /* newformpokeId334.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6920F1C8525DE009F970D /* newformpokeId334.csv */; };
+		B4D692551C8525DE009F970D /* newformpokeId373.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692101C8525DE009F970D /* newformpokeId373.csv */; };
+		B4D692561C8525DE009F970D /* newformpokeId181.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692111C8525DE009F970D /* newformpokeId181.csv */; };
+		B4D692571C8525DE009F970D /* newformpokeId208.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692121C8525DE009F970D /* newformpokeId208.csv */; };
+		B4D692581C8525DE009F970D /* newformpokeId308.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692131C8525DE009F970D /* newformpokeId308.csv */; };
+		B4D692591C8525DE009F970D /* newformpokeId381.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692141C8525DE009F970D /* newformpokeId381.csv */; };
+		B4D6925A1C8525DE009F970D /* newformpokeId448.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692151C8525DE009F970D /* newformpokeId448.csv */; };
+		B4D6925B1C8525DE009F970D /* newformpokeId645.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692161C8525DE009F970D /* newformpokeId645.csv */; };
+		B4D6925C1C8525DE009F970D /* newformpokeId362.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692171C8525DE009F970D /* newformpokeId362.csv */; };
+		B4D6925D1C8525DE009F970D /* newformpokeId3.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692181C8525DE009F970D /* newformpokeId3.csv */; };
+		B4D6925E1C8525DE009F970D /* newformpokeId681.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692191C8525DE009F970D /* newformpokeId681.csv */; };
+		B4D6925F1C8525DE009F970D /* newformpokeId212.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6921A1C8525DE009F970D /* newformpokeId212.csv */; };
+		B4D692601C8525DE009F970D /* newformpokeId18.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6921B1C8525DE009F970D /* newformpokeId18.csv */; };
+		B4D692611C8525DE009F970D /* newformpokeId130.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6921C1C8525DE009F970D /* newformpokeId130.csv */; };
+		B4D692621C8525DE009F970D /* newformpokeId310.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6921D1C8525DE009F970D /* newformpokeId310.csv */; };
+		B4D692631C8525DE009F970D /* newformpokeId306.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6921E1C8525DE009F970D /* newformpokeId306.csv */; };
+		B4D692641C8525DE009F970D /* newformpokeId641.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6921F1C8525DE009F970D /* newformpokeId641.csv */; };
+		B4D692651C8525DE009F970D /* newformpokeId80.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692201C8525DE009F970D /* newformpokeId80.csv */; };
+		B4D692661C8525DE009F970D /* newformpokeId323.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692211C8525DE009F970D /* newformpokeId323.csv */; };
+		B4D692671C8525DE009F970D /* newformpokeId94.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692221C8525DE009F970D /* newformpokeId94.csv */; };
+		B4D692681C8525DE009F970D /* newformpokeId65.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692231C8525DE009F970D /* newformpokeId65.csv */; };
+		B4D692691C8525DE009F970D /* newformpokeId531.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692241C8525DE009F970D /* newformpokeId531.csv */; };
+		B4D6926A1C8525DE009F970D /* newformpokeId319.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692251C8525DE009F970D /* newformpokeId319.csv */; };
+		B4D6926B1C8525DE009F970D /* newformpokeId142.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692261C8525DE009F970D /* newformpokeId142.csv */; };
+		B4D6926C1C8525DE009F970D /* newformpokeId382.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692271C8525DE009F970D /* newformpokeId382.csv */; };
+		B4D6926D1C8525DE009F970D /* newformpokeId214.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692281C8525DE009F970D /* newformpokeId214.csv */; };
+		B4D6926E1C8525DE009F970D /* newformpokeId303.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692291C8525DE009F970D /* newformpokeId303.csv */; };
+		B4D6926F1C8525DE009F970D /* newformpokeId384.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6922A1C8525DE009F970D /* newformpokeId384.csv */; };
+		B4D692701C8525DE009F970D /* newformpokeId115.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6922B1C8525DE009F970D /* newformpokeId115.csv */; };
+		B4D692711C8525DE009F970D /* newformpokeId487.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6922C1C8525DE009F970D /* newformpokeId487.csv */; };
+		B4D692721C8525DE009F970D /* newformpokeId354.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6922D1C8525DE009F970D /* newformpokeId354.csv */; };
+		B4D692731C8525DE009F970D /* newformpokeId475.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6922E1C8525DE009F970D /* newformpokeId475.csv */; };
+		B4D692741C8525DE009F970D /* newformpokeId648.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D6922F1C8525DE009F970D /* newformpokeId648.csv */; };
+		B4D692751C8525DE009F970D /* newformpokeId647.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692301C8525DE009F970D /* newformpokeId647.csv */; };
+		B4D692761C8525DE009F970D /* newformpokeId359.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D692311C8525DE009F970D /* newformpokeId359.csv */; };
+		B4D692D31C853754009F970D /* 720hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692771C853753009F970D /* 720hiform1.png */; };
+		B4D692D41C853754009F970D /* 711hiform3.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692781C853753009F970D /* 711hiform3.png */; };
+		B4D692D51C853754009F970D /* 711hiform2.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692791C853753009F970D /* 711hiform2.png */; };
+		B4D692D61C853754009F970D /* 711hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6927A1C853753009F970D /* 711hiform1.png */; };
+		B4D692D71C853754009F970D /* 710hiform3.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6927B1C853753009F970D /* 710hiform3.png */; };
+		B4D692D81C853754009F970D /* 710hiform2.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6927C1C853753009F970D /* 710hiform2.png */; };
+		B4D692D91C853754009F970D /* 710hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6927D1C853753009F970D /* 710hiform1.png */; };
+		B4D692DA1C853754009F970D /* 681hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6927E1C853753009F970D /* 681hiform1.png */; };
+		B4D692DB1C853754009F970D /* 678hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6927F1C853753009F970D /* 678hiform1.png */; };
+		B4D692DC1C853754009F970D /* 670hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692801C853753009F970D /* 670hiform1.png */; };
+		B4D692DD1C853754009F970D /* 648hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692811C853753009F970D /* 648hiform1.png */; };
+		B4D692DE1C853754009F970D /* 647hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692821C853753009F970D /* 647hiform1.png */; };
+		B4D692DF1C853754009F970D /* 646hiform2.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692831C853753009F970D /* 646hiform2.png */; };
+		B4D692E01C853754009F970D /* 646hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692841C853753009F970D /* 646hiform1.png */; };
+		B4D692E11C853754009F970D /* 645hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692851C853753009F970D /* 645hiform1.png */; };
+		B4D692E21C853754009F970D /* 642hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692861C853753009F970D /* 642hiform1.png */; };
+		B4D692E31C853754009F970D /* 641hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692871C853753009F970D /* 641hiform1.png */; };
+		B4D692E41C853754009F970D /* 555hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692881C853753009F970D /* 555hiform1.png */; };
+		B4D692E51C853754009F970D /* 550hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692891C853753009F970D /* 550hiform1.png */; };
+		B4D692E61C853754009F970D /* 492hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6928A1C853753009F970D /* 492hiform1.png */; };
+		B4D692E71C853754009F970D /* 487hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6928B1C853753009F970D /* 487hiform1.png */; };
+		B4D692E81C853754009F970D /* 479hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6928C1C853753009F970D /* 479hiform1.png */; };
+		B4D692E91C853754009F970D /* 479hiform2.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6928D1C853753009F970D /* 479hiform2.png */; };
+		B4D692EA1C853754009F970D /* 479hiform3.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6928E1C853753009F970D /* 479hiform3.png */; };
+		B4D692EB1C853754009F970D /* 479hiform4.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6928F1C853753009F970D /* 479hiform4.png */; };
+		B4D692EC1C853754009F970D /* 479hiform5.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692901C853753009F970D /* 479hiform5.png */; };
+		B4D692ED1C853754009F970D /* 413hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692911C853753009F970D /* 413hiform1.png */; };
+		B4D692EE1C853754009F970D /* 413hiform2.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692921C853753009F970D /* 413hiform2.png */; };
+		B4D692EF1C853754009F970D /* 386hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692931C853753009F970D /* 386hiform1.png */; };
+		B4D692F01C853754009F970D /* 386hiform2.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692941C853753009F970D /* 386hiform2.png */; };
+		B4D692F11C853754009F970D /* 386hiform3.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692951C853753009F970D /* 386hiform3.png */; };
+		B4D692F21C853754009F970D /* 351hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692961C853753009F970D /* 351hiform1.png */; };
+		B4D692F31C853754009F970D /* 351hiform2.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692971C853753009F970D /* 351hiform2.png */; };
+		B4D692F41C853754009F970D /* 351hiform3.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692981C853753009F970D /* 351hiform3.png */; };
+		B4D692F51C853754009F970D /* 25hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692991C853753009F970D /* 25hiform1.png */; };
+		B4D692F61C853754009F970D /* 25hiform2.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6929A1C853753009F970D /* 25hiform2.png */; };
+		B4D692F71C853754009F970D /* 25hiform3.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6929B1C853753009F970D /* 25hiform3.png */; };
+		B4D692F81C853754009F970D /* 25hiform4.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6929C1C853753009F970D /* 25hiform4.png */; };
+		B4D692F91C853754009F970D /* 25hiform5.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6929D1C853753009F970D /* 25hiform5.png */; };
+		B4D692FA1C853754009F970D /* 25hiform6.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6929E1C853753009F970D /* 25hiform6.png */; };
+		B4D692FB1C853754009F970D /* 719hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D6929F1C853753009F970D /* 719hiform1.png */; };
+		B4D692FC1C853754009F970D /* 531hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692A01C853753009F970D /* 531hiform1.png */; };
+		B4D692FD1C853754009F970D /* 475hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692A11C853753009F970D /* 475hiform1.png */; };
+		B4D692FE1C853754009F970D /* 460hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692A21C853753009F970D /* 460hiform1.png */; };
+		B4D692FF1C853754009F970D /* 448hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692A31C853753009F970D /* 448hiform1.png */; };
+		B4D693001C853754009F970D /* 445hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692A41C853753009F970D /* 445hiform1.png */; };
+		B4D693011C853754009F970D /* 428hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692A51C853753009F970D /* 428hiform1.png */; };
+		B4D693021C853754009F970D /* 384hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692A61C853753009F970D /* 384hiform1.png */; };
+		B4D693031C853754009F970D /* 382hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692A71C853753009F970D /* 382hiform1.png */; };
+		B4D693061C853754009F970D /* 383hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692AA1C853753009F970D /* 383hiform1.png */; };
+		B4D693071C853754009F970D /* 381hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692AB1C853753009F970D /* 381hiform1.png */; };
+		B4D693081C853754009F970D /* 380hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692AC1C853753009F970D /* 380hiform1.png */; };
+		B4D693091C853754009F970D /* 376hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692AD1C853753009F970D /* 376hiform1.png */; };
+		B4D6930A1C853754009F970D /* 373hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692AE1C853753009F970D /* 373hiform1.png */; };
+		B4D6930B1C853754009F970D /* 362hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692AF1C853753009F970D /* 362hiform1.png */; };
+		B4D6930C1C853754009F970D /* 359hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692B01C853753009F970D /* 359hiform1.png */; };
+		B4D6930D1C853754009F970D /* 354hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692B11C853753009F970D /* 354hiform1.png */; };
+		B4D6930E1C853754009F970D /* 334hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692B21C853753009F970D /* 334hiform1.png */; };
+		B4D6930F1C853754009F970D /* 323hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692B31C853753009F970D /* 323hiform1.png */; };
+		B4D693101C853754009F970D /* 319hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692B41C853753009F970D /* 319hiform1.png */; };
+		B4D693111C853754009F970D /* 310hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692B51C853753009F970D /* 310hiform1.png */; };
+		B4D693121C853754009F970D /* 308hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692B61C853753009F970D /* 308hiform1.png */; };
+		B4D693131C853754009F970D /* 306hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692B71C853753009F970D /* 306hiform1.png */; };
+		B4D693141C853754009F970D /* 303hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692B81C853753009F970D /* 303hiform1.png */; };
+		B4D693151C853754009F970D /* 302hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692B91C853754009F970D /* 302hiform1.png */; };
+		B4D693161C853754009F970D /* 282hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692BA1C853754009F970D /* 282hiform1.png */; };
+		B4D693171C853754009F970D /* 260hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692BB1C853754009F970D /* 260hiform1.png */; };
+		B4D693181C853754009F970D /* 257hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692BC1C853754009F970D /* 257hiform1.png */; };
+		B4D693191C853754009F970D /* 254hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692BD1C853754009F970D /* 254hiform1.png */; };
+		B4D6931A1C853754009F970D /* 248hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692BE1C853754009F970D /* 248hiform1.png */; };
+		B4D6931B1C853754009F970D /* 229hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692BF1C853754009F970D /* 229hiform1.png */; };
+		B4D6931C1C853754009F970D /* 214hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692C01C853754009F970D /* 214hiform1.png */; };
+		B4D6931D1C853754009F970D /* 212hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692C11C853754009F970D /* 212hiform1.png */; };
+		B4D6931E1C853754009F970D /* 208hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692C21C853754009F970D /* 208hiform1.png */; };
+		B4D6931F1C853754009F970D /* 181hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692C31C853754009F970D /* 181hiform1.png */; };
+		B4D693201C853754009F970D /* 150hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692C41C853754009F970D /* 150hiform1.png */; };
+		B4D693211C853754009F970D /* 150hiform2.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692C51C853754009F970D /* 150hiform2.png */; };
+		B4D693221C853754009F970D /* 142hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692C61C853754009F970D /* 142hiform1.png */; };
+		B4D693231C853754009F970D /* 127hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692C71C853754009F970D /* 127hiform1.png */; };
+		B4D693241C853754009F970D /* 115hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692C81C853754009F970D /* 115hiform1.png */; };
+		B4D693251C853754009F970D /* 130hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692C91C853754009F970D /* 130hiform1.png */; };
+		B4D693261C853754009F970D /* 94hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692CA1C853754009F970D /* 94hiform1.png */; };
+		B4D693271C853754009F970D /* 80hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692CB1C853754009F970D /* 80hiform1.png */; };
+		B4D693281C853754009F970D /* 65hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692CC1C853754009F970D /* 65hiform1.png */; };
+		B4D693291C853754009F970D /* 18hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692CD1C853754009F970D /* 18hiform1.png */; };
+		B4D6932A1C853754009F970D /* 15hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692CE1C853754009F970D /* 15hiform1.png */; };
+		B4D6932B1C853754009F970D /* 9hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692CF1C853754009F970D /* 9hiform1.png */; };
+		B4D6932C1C853754009F970D /* 6hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692D01C853754009F970D /* 6hiform1.png */; };
+		B4D6932D1C853754009F970D /* 6hiform2.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692D11C853754009F970D /* 6hiform2.png */; };
+		B4D6932E1C853754009F970D /* 3hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692D21C853754009F970D /* 3hiform1.png */; };
 		B4D811541C840A7B0040F61B /* pokemonId1.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D80E831C840A780040F61B /* pokemonId1.csv */; };
 		B4D811551C840A7B0040F61B /* pokemonId2.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D80E841C840A780040F61B /* pokemonId2.csv */; };
 		B4D811561C840A7B0040F61B /* pokemonId3.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D80E851C840A780040F61B /* pokemonId3.csv */; };
@@ -808,75 +967,6 @@
 		B4D814221C840A7B0040F61B /* pokemonId719.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D811511C840A7B0040F61B /* pokemonId719.csv */; };
 		B4D814231C840A7B0040F61B /* pokemonId720.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D811521C840A7B0040F61B /* pokemonId720.csv */; };
 		B4D814241C840A7B0040F61B /* pokemonId721.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D811531C840A7B0040F61B /* pokemonId721.csv */; };
-		B4D8146A1C84C08A0040F61B /* newformpokeId25.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814251C84C08A0040F61B /* newformpokeId25.csv */; };
-		B4D8146B1C84C08A0040F61B /* newformpokeId711.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814261C84C08A0040F61B /* newformpokeId711.csv */; };
-		B4D8146C1C84C08A0040F61B /* newformpokeId479.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814271C84C08A0040F61B /* newformpokeId479.csv */; };
-		B4D8146D1C84C08A0040F61B /* newformpokeId710.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814281C84C08A0040F61B /* newformpokeId710.csv */; };
-		B4D8146E1C84C08A0040F61B /* newformpokeId351.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814291C84C08A0040F61B /* newformpokeId351.csv */; };
-		B4D8146F1C84C08A0040F61B /* newformpokeId386.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8142A1C84C08A0040F61B /* newformpokeId386.csv */; };
-		B4D814701C84C08A0040F61B /* newformpokeId413.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8142B1C84C08A0040F61B /* newformpokeId413.csv */; };
-		B4D814711C84C08A0040F61B /* newformpokeId555.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8142C1C84C08A0040F61B /* newformpokeId555.csv */; };
-		B4D814721C84C08A0040F61B /* newformpokeId550.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8142D1C84C08A0040F61B /* newformpokeId550.csv */; };
-		B4D814731C84C08A0040F61B /* newformpokeId6.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8142E1C84C08A0040F61B /* newformpokeId6.csv */; };
-		B4D814741C84C08A0040F61B /* newformpokeId150.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8142F1C84C08A0040F61B /* newformpokeId150.csv */; };
-		B4D814751C84C08A0040F61B /* newformpokeId678.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814301C84C08A0040F61B /* newformpokeId678.csv */; };
-		B4D814761C84C08A0040F61B /* newformpokeId646.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814311C84C08A0040F61B /* newformpokeId646.csv */; };
-		B4D814771C84C08A0040F61B /* newformpokeId670.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814321C84C08A0040F61B /* newformpokeId670.csv */; };
-		B4D814781C84C08A0040F61B /* newformpokeId9.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814331C84C08A0040F61B /* newformpokeId9.csv */; };
-		B4D814791C84C08A0040F61B /* newformpokeId15.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814341C84C08A0040F61B /* newformpokeId15.csv */; };
-		B4D8147A1C84C08A0040F61B /* newformpokeId428.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814351C84C08A0040F61B /* newformpokeId428.csv */; };
-		B4D8147B1C84C08A0040F61B /* newformpokeId229.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814361C84C08A0040F61B /* newformpokeId229.csv */; };
-		B4D8147C1C84C08A0040F61B /* newformpokeId642.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814371C84C08A0040F61B /* newformpokeId642.csv */; };
-		B4D8147D1C84C08A0040F61B /* newformpokeId380.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814381C84C08A0040F61B /* newformpokeId380.csv */; };
-		B4D8147E1C84C08A0040F61B /* newformpokeId383.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814391C84C08A0040F61B /* newformpokeId383.csv */; };
-		B4D8147F1C84C08A0040F61B /* newformpokeId127.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8143A1C84C08A0040F61B /* newformpokeId127.csv */; };
-		B4D814801C84C08A0040F61B /* newformpokeId248.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8143B1C84C08A0040F61B /* newformpokeId248.csv */; };
-		B4D814811C84C08A0040F61B /* newformpokeId260.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8143C1C84C08A0040F61B /* newformpokeId260.csv */; };
-		B4D814821C84C08A0040F61B /* newformpokeId719.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8143D1C84C08A0040F61B /* newformpokeId719.csv */; };
-		B4D814831C84C08A0040F61B /* newformpokeId254.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8143E1C84C08A0040F61B /* newformpokeId254.csv */; };
-		B4D814841C84C08A0040F61B /* newformpokeId282.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8143F1C84C08A0040F61B /* newformpokeId282.csv */; };
-		B4D814851C84C08A0040F61B /* newformpokeId257.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814401C84C08A0040F61B /* newformpokeId257.csv */; };
-		B4D814861C84C08A0040F61B /* newformpokeId302.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814411C84C08A0040F61B /* newformpokeId302.csv */; };
-		B4D814871C84C08A0040F61B /* newformpokeId720.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814421C84C08A0040F61B /* newformpokeId720.csv */; };
-		B4D814881C84C08A0040F61B /* newformpokeId460.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814431C84C08A0040F61B /* newformpokeId460.csv */; };
-		B4D814891C84C08A0040F61B /* newformpokeId334.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814441C84C08A0040F61B /* newformpokeId334.csv */; };
-		B4D8148A1C84C08A0040F61B /* newformpokeId445.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814451C84C08A0040F61B /* newformpokeId445.csv */; };
-		B4D8148B1C84C08A0040F61B /* newformpokeId376.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814461C84C08A0040F61B /* newformpokeId376.csv */; };
-		B4D8148C1C84C08A0040F61B /* newformpokeId492.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814471C84C08A0040F61B /* newformpokeId492.csv */; };
-		B4D8148D1C84C08A0040F61B /* newformpokeId373.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814481C84C08A0040F61B /* newformpokeId373.csv */; };
-		B4D8148E1C84C08A0040F61B /* newformpokeId362.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814491C84C08A0040F61B /* newformpokeId362.csv */; };
-		B4D8148F1C84C08A0040F61B /* newformpokeId208.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8144A1C84C08A0040F61B /* newformpokeId208.csv */; };
-		B4D814901C84C08A0040F61B /* newformpokeId381.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8144B1C84C08A0040F61B /* newformpokeId381.csv */; };
-		B4D814911C84C08A0040F61B /* newformpokeId181.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8144C1C84C08A0040F61B /* newformpokeId181.csv */; };
-		B4D814921C84C08A0040F61B /* newformpokeId308.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8144D1C84C08A0040F61B /* newformpokeId308.csv */; };
-		B4D814931C84C08A0040F61B /* newformpokeId310.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8144E1C84C08A0040F61B /* newformpokeId310.csv */; };
-		B4D814941C84C08A0040F61B /* newformpokeId3.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8144F1C84C08A0040F61B /* newformpokeId3.csv */; };
-		B4D814951C84C08A0040F61B /* newformpokeId306.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814501C84C08A0040F61B /* newformpokeId306.csv */; };
-		B4D814961C84C08A0040F61B /* newformpokeId448.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814511C84C08A0040F61B /* newformpokeId448.csv */; };
-		B4D814971C84C08A0040F61B /* newformpokeId645.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814521C84C08A0040F61B /* newformpokeId645.csv */; };
-		B4D814981C84C08A0040F61B /* newformpokeId212.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814531C84C08A0040F61B /* newformpokeId212.csv */; };
-		B4D814991C84C08A0040F61B /* newformpokeId130.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814541C84C08A0040F61B /* newformpokeId130.csv */; };
-		B4D8149A1C84C08A0040F61B /* newformpokeId641.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814551C84C08A0040F61B /* newformpokeId641.csv */; };
-		B4D8149B1C84C08A0040F61B /* newformpokeId681.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814561C84C08A0040F61B /* newformpokeId681.csv */; };
-		B4D8149C1C84C08A0040F61B /* newformpokeId18.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814571C84C08A0040F61B /* newformpokeId18.csv */; };
-		B4D8149D1C84C08A0040F61B /* newformpokeId80.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814581C84C08A0040F61B /* newformpokeId80.csv */; };
-		B4D8149E1C84C08A0040F61B /* newformpokeId323.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814591C84C08A0040F61B /* newformpokeId323.csv */; };
-		B4D8149F1C84C08A0040F61B /* newformpokeId65.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8145A1C84C08A0040F61B /* newformpokeId65.csv */; };
-		B4D814A01C84C08A0040F61B /* newformpokeId319.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8145B1C84C08A0040F61B /* newformpokeId319.csv */; };
-		B4D814A11C84C08A0040F61B /* newformpokeId531.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8145C1C84C08A0040F61B /* newformpokeId531.csv */; };
-		B4D814A21C84C08A0040F61B /* newformpokeId94.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8145D1C84C08A0040F61B /* newformpokeId94.csv */; };
-		B4D814A31C84C08A0040F61B /* newformpokeId382.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8145E1C84C08A0040F61B /* newformpokeId382.csv */; };
-		B4D814A41C84C08A0040F61B /* newformpokeId142.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D8145F1C84C08A0040F61B /* newformpokeId142.csv */; };
-		B4D814A51C84C08A0040F61B /* newformpokeId214.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814601C84C08A0040F61B /* newformpokeId214.csv */; };
-		B4D814A61C84C08A0040F61B /* newformpokeId115.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814611C84C08A0040F61B /* newformpokeId115.csv */; };
-		B4D814A71C84C08A0040F61B /* newformpokeId303.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814621C84C08A0040F61B /* newformpokeId303.csv */; };
-		B4D814A81C84C08A0040F61B /* newformpokeId354.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814631C84C08A0040F61B /* newformpokeId354.csv */; };
-		B4D814A91C84C08A0040F61B /* newformpokeId384.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814641C84C08A0040F61B /* newformpokeId384.csv */; };
-		B4D814AA1C84C08A0040F61B /* newformpokeId487.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814651C84C08A0040F61B /* newformpokeId487.csv */; };
-		B4D814AB1C84C08A0040F61B /* newformpokeId475.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814661C84C08A0040F61B /* newformpokeId475.csv */; };
-		B4D814AC1C84C08A0040F61B /* newformpokeId359.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814671C84C08A0040F61B /* newformpokeId359.csv */; };
-		B4D814AD1C84C08A0040F61B /* newformpokeId648.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814681C84C08A0040F61B /* newformpokeId648.csv */; };
-		B4D814AE1C84C08A0040F61B /* newformpokeId647.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D814691C84C08A0040F61B /* newformpokeId647.csv */; };
 		B4E84BBD1C82A04200F62887 /* pokeMoveId1.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4E848EC1C82A04000F62887 /* pokeMoveId1.csv */; };
 		B4E84BBE1C82A04200F62887 /* pokeMoveId2.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4E848ED1C82A04000F62887 /* pokeMoveId2.csv */; };
 		B4E84BBF1C82A04200F62887 /* pokeMoveId3.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4E848EE1C82A04000F62887 /* pokeMoveId3.csv */; };
@@ -3823,6 +3913,165 @@
 		B4D62D911C81647C007E2CAD /* 720-small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "720-small.png"; sourceTree = "<group>"; };
 		B4D62D921C81647C007E2CAD /* 721-hi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "721-hi.png"; sourceTree = "<group>"; };
 		B4D62DDE1C816BE7007E2CAD /* 660-hi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "660-hi.png"; sourceTree = "<group>"; };
+		B4D691ED1C8525DE009F970D /* newformpokeId25.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId25.csv; sourceTree = "<group>"; };
+		B4D691EE1C8525DE009F970D /* newformpokeId479.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId479.csv; sourceTree = "<group>"; };
+		B4D691EF1C8525DE009F970D /* newformpokeId711.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId711.csv; sourceTree = "<group>"; };
+		B4D691F01C8525DE009F970D /* newformpokeId710.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId710.csv; sourceTree = "<group>"; };
+		B4D691F11C8525DE009F970D /* newformpokeId351.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId351.csv; sourceTree = "<group>"; };
+		B4D691F21C8525DE009F970D /* newformpokeId386.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId386.csv; sourceTree = "<group>"; };
+		B4D691F31C8525DE009F970D /* newformpokeId413.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId413.csv; sourceTree = "<group>"; };
+		B4D691F41C8525DE009F970D /* newformpokeId555.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId555.csv; sourceTree = "<group>"; };
+		B4D691F51C8525DE009F970D /* newformpokeId6.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId6.csv; sourceTree = "<group>"; };
+		B4D691F61C8525DE009F970D /* newformpokeId150.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId150.csv; sourceTree = "<group>"; };
+		B4D691F71C8525DE009F970D /* newformpokeId550.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId550.csv; sourceTree = "<group>"; };
+		B4D691F81C8525DE009F970D /* newformpokeId678.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId678.csv; sourceTree = "<group>"; };
+		B4D691F91C8525DE009F970D /* newformpokeId646.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId646.csv; sourceTree = "<group>"; };
+		B4D691FA1C8525DE009F970D /* newformpokeId15.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId15.csv; sourceTree = "<group>"; };
+		B4D691FB1C8525DE009F970D /* newformpokeId670.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId670.csv; sourceTree = "<group>"; };
+		B4D691FC1C8525DE009F970D /* newformpokeId9.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId9.csv; sourceTree = "<group>"; };
+		B4D691FD1C8525DE009F970D /* newformpokeId428.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId428.csv; sourceTree = "<group>"; };
+		B4D691FE1C8525DE009F970D /* newformpokeId229.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId229.csv; sourceTree = "<group>"; };
+		B4D691FF1C8525DE009F970D /* newformpokeId642.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId642.csv; sourceTree = "<group>"; };
+		B4D692001C8525DE009F970D /* newformpokeId380.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId380.csv; sourceTree = "<group>"; };
+		B4D692011C8525DE009F970D /* newformpokeId383.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId383.csv; sourceTree = "<group>"; };
+		B4D692021C8525DE009F970D /* newformpokeId127.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId127.csv; sourceTree = "<group>"; };
+		B4D692031C8525DE009F970D /* newformpokeId282.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId282.csv; sourceTree = "<group>"; };
+		B4D692041C8525DE009F970D /* newformpokeId257.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId257.csv; sourceTree = "<group>"; };
+		B4D692051C8525DE009F970D /* newformpokeId260.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId260.csv; sourceTree = "<group>"; };
+		B4D692061C8525DE009F970D /* newformpokeId719.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId719.csv; sourceTree = "<group>"; };
+		B4D692071C8525DE009F970D /* newformpokeId248.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId248.csv; sourceTree = "<group>"; };
+		B4D692081C8525DE009F970D /* newformpokeId254.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId254.csv; sourceTree = "<group>"; };
+		B4D692091C8525DE009F970D /* newformpokeId302.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId302.csv; sourceTree = "<group>"; };
+		B4D6920A1C8525DE009F970D /* newformpokeId720.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId720.csv; sourceTree = "<group>"; };
+		B4D6920B1C8525DE009F970D /* newformpokeId445.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId445.csv; sourceTree = "<group>"; };
+		B4D6920C1C8525DE009F970D /* newformpokeId376.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId376.csv; sourceTree = "<group>"; };
+		B4D6920D1C8525DE009F970D /* newformpokeId492.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId492.csv; sourceTree = "<group>"; };
+		B4D6920E1C8525DE009F970D /* newformpokeId460.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId460.csv; sourceTree = "<group>"; };
+		B4D6920F1C8525DE009F970D /* newformpokeId334.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId334.csv; sourceTree = "<group>"; };
+		B4D692101C8525DE009F970D /* newformpokeId373.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId373.csv; sourceTree = "<group>"; };
+		B4D692111C8525DE009F970D /* newformpokeId181.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId181.csv; sourceTree = "<group>"; };
+		B4D692121C8525DE009F970D /* newformpokeId208.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId208.csv; sourceTree = "<group>"; };
+		B4D692131C8525DE009F970D /* newformpokeId308.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId308.csv; sourceTree = "<group>"; };
+		B4D692141C8525DE009F970D /* newformpokeId381.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId381.csv; sourceTree = "<group>"; };
+		B4D692151C8525DE009F970D /* newformpokeId448.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId448.csv; sourceTree = "<group>"; };
+		B4D692161C8525DE009F970D /* newformpokeId645.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId645.csv; sourceTree = "<group>"; };
+		B4D692171C8525DE009F970D /* newformpokeId362.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId362.csv; sourceTree = "<group>"; };
+		B4D692181C8525DE009F970D /* newformpokeId3.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId3.csv; sourceTree = "<group>"; };
+		B4D692191C8525DE009F970D /* newformpokeId681.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId681.csv; sourceTree = "<group>"; };
+		B4D6921A1C8525DE009F970D /* newformpokeId212.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId212.csv; sourceTree = "<group>"; };
+		B4D6921B1C8525DE009F970D /* newformpokeId18.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId18.csv; sourceTree = "<group>"; };
+		B4D6921C1C8525DE009F970D /* newformpokeId130.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId130.csv; sourceTree = "<group>"; };
+		B4D6921D1C8525DE009F970D /* newformpokeId310.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId310.csv; sourceTree = "<group>"; };
+		B4D6921E1C8525DE009F970D /* newformpokeId306.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId306.csv; sourceTree = "<group>"; };
+		B4D6921F1C8525DE009F970D /* newformpokeId641.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId641.csv; sourceTree = "<group>"; };
+		B4D692201C8525DE009F970D /* newformpokeId80.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId80.csv; sourceTree = "<group>"; };
+		B4D692211C8525DE009F970D /* newformpokeId323.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId323.csv; sourceTree = "<group>"; };
+		B4D692221C8525DE009F970D /* newformpokeId94.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId94.csv; sourceTree = "<group>"; };
+		B4D692231C8525DE009F970D /* newformpokeId65.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId65.csv; sourceTree = "<group>"; };
+		B4D692241C8525DE009F970D /* newformpokeId531.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId531.csv; sourceTree = "<group>"; };
+		B4D692251C8525DE009F970D /* newformpokeId319.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId319.csv; sourceTree = "<group>"; };
+		B4D692261C8525DE009F970D /* newformpokeId142.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId142.csv; sourceTree = "<group>"; };
+		B4D692271C8525DE009F970D /* newformpokeId382.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId382.csv; sourceTree = "<group>"; };
+		B4D692281C8525DE009F970D /* newformpokeId214.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId214.csv; sourceTree = "<group>"; };
+		B4D692291C8525DE009F970D /* newformpokeId303.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId303.csv; sourceTree = "<group>"; };
+		B4D6922A1C8525DE009F970D /* newformpokeId384.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId384.csv; sourceTree = "<group>"; };
+		B4D6922B1C8525DE009F970D /* newformpokeId115.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId115.csv; sourceTree = "<group>"; };
+		B4D6922C1C8525DE009F970D /* newformpokeId487.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId487.csv; sourceTree = "<group>"; };
+		B4D6922D1C8525DE009F970D /* newformpokeId354.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId354.csv; sourceTree = "<group>"; };
+		B4D6922E1C8525DE009F970D /* newformpokeId475.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId475.csv; sourceTree = "<group>"; };
+		B4D6922F1C8525DE009F970D /* newformpokeId648.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId648.csv; sourceTree = "<group>"; };
+		B4D692301C8525DE009F970D /* newformpokeId647.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId647.csv; sourceTree = "<group>"; };
+		B4D692311C8525DE009F970D /* newformpokeId359.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId359.csv; sourceTree = "<group>"; };
+		B4D692771C853753009F970D /* 720hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 720hiform1.png; sourceTree = "<group>"; };
+		B4D692781C853753009F970D /* 711hiform3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 711hiform3.png; sourceTree = "<group>"; };
+		B4D692791C853753009F970D /* 711hiform2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 711hiform2.png; sourceTree = "<group>"; };
+		B4D6927A1C853753009F970D /* 711hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 711hiform1.png; sourceTree = "<group>"; };
+		B4D6927B1C853753009F970D /* 710hiform3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 710hiform3.png; sourceTree = "<group>"; };
+		B4D6927C1C853753009F970D /* 710hiform2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 710hiform2.png; sourceTree = "<group>"; };
+		B4D6927D1C853753009F970D /* 710hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 710hiform1.png; sourceTree = "<group>"; };
+		B4D6927E1C853753009F970D /* 681hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 681hiform1.png; sourceTree = "<group>"; };
+		B4D6927F1C853753009F970D /* 678hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 678hiform1.png; sourceTree = "<group>"; };
+		B4D692801C853753009F970D /* 670hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 670hiform1.png; sourceTree = "<group>"; };
+		B4D692811C853753009F970D /* 648hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 648hiform1.png; sourceTree = "<group>"; };
+		B4D692821C853753009F970D /* 647hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 647hiform1.png; sourceTree = "<group>"; };
+		B4D692831C853753009F970D /* 646hiform2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 646hiform2.png; sourceTree = "<group>"; };
+		B4D692841C853753009F970D /* 646hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 646hiform1.png; sourceTree = "<group>"; };
+		B4D692851C853753009F970D /* 645hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 645hiform1.png; sourceTree = "<group>"; };
+		B4D692861C853753009F970D /* 642hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 642hiform1.png; sourceTree = "<group>"; };
+		B4D692871C853753009F970D /* 641hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 641hiform1.png; sourceTree = "<group>"; };
+		B4D692881C853753009F970D /* 555hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 555hiform1.png; sourceTree = "<group>"; };
+		B4D692891C853753009F970D /* 550hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 550hiform1.png; sourceTree = "<group>"; };
+		B4D6928A1C853753009F970D /* 492hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 492hiform1.png; sourceTree = "<group>"; };
+		B4D6928B1C853753009F970D /* 487hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 487hiform1.png; sourceTree = "<group>"; };
+		B4D6928C1C853753009F970D /* 479hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 479hiform1.png; sourceTree = "<group>"; };
+		B4D6928D1C853753009F970D /* 479hiform2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 479hiform2.png; sourceTree = "<group>"; };
+		B4D6928E1C853753009F970D /* 479hiform3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 479hiform3.png; sourceTree = "<group>"; };
+		B4D6928F1C853753009F970D /* 479hiform4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 479hiform4.png; sourceTree = "<group>"; };
+		B4D692901C853753009F970D /* 479hiform5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 479hiform5.png; sourceTree = "<group>"; };
+		B4D692911C853753009F970D /* 413hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 413hiform1.png; sourceTree = "<group>"; };
+		B4D692921C853753009F970D /* 413hiform2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 413hiform2.png; sourceTree = "<group>"; };
+		B4D692931C853753009F970D /* 386hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 386hiform1.png; sourceTree = "<group>"; };
+		B4D692941C853753009F970D /* 386hiform2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 386hiform2.png; sourceTree = "<group>"; };
+		B4D692951C853753009F970D /* 386hiform3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 386hiform3.png; sourceTree = "<group>"; };
+		B4D692961C853753009F970D /* 351hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 351hiform1.png; sourceTree = "<group>"; };
+		B4D692971C853753009F970D /* 351hiform2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 351hiform2.png; sourceTree = "<group>"; };
+		B4D692981C853753009F970D /* 351hiform3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 351hiform3.png; sourceTree = "<group>"; };
+		B4D692991C853753009F970D /* 25hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 25hiform1.png; sourceTree = "<group>"; };
+		B4D6929A1C853753009F970D /* 25hiform2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 25hiform2.png; sourceTree = "<group>"; };
+		B4D6929B1C853753009F970D /* 25hiform3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 25hiform3.png; sourceTree = "<group>"; };
+		B4D6929C1C853753009F970D /* 25hiform4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 25hiform4.png; sourceTree = "<group>"; };
+		B4D6929D1C853753009F970D /* 25hiform5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 25hiform5.png; sourceTree = "<group>"; };
+		B4D6929E1C853753009F970D /* 25hiform6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 25hiform6.png; sourceTree = "<group>"; };
+		B4D6929F1C853753009F970D /* 719hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 719hiform1.png; sourceTree = "<group>"; };
+		B4D692A01C853753009F970D /* 531hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 531hiform1.png; sourceTree = "<group>"; };
+		B4D692A11C853753009F970D /* 475hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 475hiform1.png; sourceTree = "<group>"; };
+		B4D692A21C853753009F970D /* 460hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 460hiform1.png; sourceTree = "<group>"; };
+		B4D692A31C853753009F970D /* 448hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 448hiform1.png; sourceTree = "<group>"; };
+		B4D692A41C853753009F970D /* 445hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 445hiform1.png; sourceTree = "<group>"; };
+		B4D692A51C853753009F970D /* 428hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 428hiform1.png; sourceTree = "<group>"; };
+		B4D692A61C853753009F970D /* 384hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 384hiform1.png; sourceTree = "<group>"; };
+		B4D692A71C853753009F970D /* 382hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 382hiform1.png; sourceTree = "<group>"; };
+		B4D692AA1C853753009F970D /* 383hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 383hiform1.png; sourceTree = "<group>"; };
+		B4D692AB1C853753009F970D /* 381hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 381hiform1.png; sourceTree = "<group>"; };
+		B4D692AC1C853753009F970D /* 380hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 380hiform1.png; sourceTree = "<group>"; };
+		B4D692AD1C853753009F970D /* 376hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 376hiform1.png; sourceTree = "<group>"; };
+		B4D692AE1C853753009F970D /* 373hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 373hiform1.png; sourceTree = "<group>"; };
+		B4D692AF1C853753009F970D /* 362hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 362hiform1.png; sourceTree = "<group>"; };
+		B4D692B01C853753009F970D /* 359hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 359hiform1.png; sourceTree = "<group>"; };
+		B4D692B11C853753009F970D /* 354hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 354hiform1.png; sourceTree = "<group>"; };
+		B4D692B21C853753009F970D /* 334hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 334hiform1.png; sourceTree = "<group>"; };
+		B4D692B31C853753009F970D /* 323hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 323hiform1.png; sourceTree = "<group>"; };
+		B4D692B41C853753009F970D /* 319hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 319hiform1.png; sourceTree = "<group>"; };
+		B4D692B51C853753009F970D /* 310hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 310hiform1.png; sourceTree = "<group>"; };
+		B4D692B61C853753009F970D /* 308hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 308hiform1.png; sourceTree = "<group>"; };
+		B4D692B71C853753009F970D /* 306hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 306hiform1.png; sourceTree = "<group>"; };
+		B4D692B81C853753009F970D /* 303hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 303hiform1.png; sourceTree = "<group>"; };
+		B4D692B91C853754009F970D /* 302hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 302hiform1.png; sourceTree = "<group>"; };
+		B4D692BA1C853754009F970D /* 282hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 282hiform1.png; sourceTree = "<group>"; };
+		B4D692BB1C853754009F970D /* 260hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 260hiform1.png; sourceTree = "<group>"; };
+		B4D692BC1C853754009F970D /* 257hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 257hiform1.png; sourceTree = "<group>"; };
+		B4D692BD1C853754009F970D /* 254hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 254hiform1.png; sourceTree = "<group>"; };
+		B4D692BE1C853754009F970D /* 248hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 248hiform1.png; sourceTree = "<group>"; };
+		B4D692BF1C853754009F970D /* 229hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 229hiform1.png; sourceTree = "<group>"; };
+		B4D692C01C853754009F970D /* 214hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 214hiform1.png; sourceTree = "<group>"; };
+		B4D692C11C853754009F970D /* 212hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 212hiform1.png; sourceTree = "<group>"; };
+		B4D692C21C853754009F970D /* 208hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 208hiform1.png; sourceTree = "<group>"; };
+		B4D692C31C853754009F970D /* 181hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 181hiform1.png; sourceTree = "<group>"; };
+		B4D692C41C853754009F970D /* 150hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 150hiform1.png; sourceTree = "<group>"; };
+		B4D692C51C853754009F970D /* 150hiform2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 150hiform2.png; sourceTree = "<group>"; };
+		B4D692C61C853754009F970D /* 142hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 142hiform1.png; sourceTree = "<group>"; };
+		B4D692C71C853754009F970D /* 127hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 127hiform1.png; sourceTree = "<group>"; };
+		B4D692C81C853754009F970D /* 115hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 115hiform1.png; sourceTree = "<group>"; };
+		B4D692C91C853754009F970D /* 130hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 130hiform1.png; sourceTree = "<group>"; };
+		B4D692CA1C853754009F970D /* 94hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 94hiform1.png; sourceTree = "<group>"; };
+		B4D692CB1C853754009F970D /* 80hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 80hiform1.png; sourceTree = "<group>"; };
+		B4D692CC1C853754009F970D /* 65hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 65hiform1.png; sourceTree = "<group>"; };
+		B4D692CD1C853754009F970D /* 18hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 18hiform1.png; sourceTree = "<group>"; };
+		B4D692CE1C853754009F970D /* 15hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 15hiform1.png; sourceTree = "<group>"; };
+		B4D692CF1C853754009F970D /* 9hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9hiform1.png; sourceTree = "<group>"; };
+		B4D692D01C853754009F970D /* 6hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6hiform1.png; sourceTree = "<group>"; };
+		B4D692D11C853754009F970D /* 6hiform2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6hiform2.png; sourceTree = "<group>"; };
+		B4D692D21C853754009F970D /* 3hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3hiform1.png; sourceTree = "<group>"; };
 		B4D80E831C840A780040F61B /* pokemonId1.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemonId1.csv; sourceTree = "<group>"; };
 		B4D80E841C840A780040F61B /* pokemonId2.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemonId2.csv; sourceTree = "<group>"; };
 		B4D80E851C840A780040F61B /* pokemonId3.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemonId3.csv; sourceTree = "<group>"; };
@@ -4544,75 +4793,6 @@
 		B4D811511C840A7B0040F61B /* pokemonId719.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemonId719.csv; sourceTree = "<group>"; };
 		B4D811521C840A7B0040F61B /* pokemonId720.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemonId720.csv; sourceTree = "<group>"; };
 		B4D811531C840A7B0040F61B /* pokemonId721.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemonId721.csv; sourceTree = "<group>"; };
-		B4D814251C84C08A0040F61B /* newformpokeId25.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId25.csv; sourceTree = "<group>"; };
-		B4D814261C84C08A0040F61B /* newformpokeId711.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId711.csv; sourceTree = "<group>"; };
-		B4D814271C84C08A0040F61B /* newformpokeId479.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId479.csv; sourceTree = "<group>"; };
-		B4D814281C84C08A0040F61B /* newformpokeId710.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId710.csv; sourceTree = "<group>"; };
-		B4D814291C84C08A0040F61B /* newformpokeId351.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId351.csv; sourceTree = "<group>"; };
-		B4D8142A1C84C08A0040F61B /* newformpokeId386.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId386.csv; sourceTree = "<group>"; };
-		B4D8142B1C84C08A0040F61B /* newformpokeId413.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId413.csv; sourceTree = "<group>"; };
-		B4D8142C1C84C08A0040F61B /* newformpokeId555.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId555.csv; sourceTree = "<group>"; };
-		B4D8142D1C84C08A0040F61B /* newformpokeId550.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId550.csv; sourceTree = "<group>"; };
-		B4D8142E1C84C08A0040F61B /* newformpokeId6.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId6.csv; sourceTree = "<group>"; };
-		B4D8142F1C84C08A0040F61B /* newformpokeId150.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId150.csv; sourceTree = "<group>"; };
-		B4D814301C84C08A0040F61B /* newformpokeId678.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId678.csv; sourceTree = "<group>"; };
-		B4D814311C84C08A0040F61B /* newformpokeId646.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId646.csv; sourceTree = "<group>"; };
-		B4D814321C84C08A0040F61B /* newformpokeId670.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId670.csv; sourceTree = "<group>"; };
-		B4D814331C84C08A0040F61B /* newformpokeId9.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId9.csv; sourceTree = "<group>"; };
-		B4D814341C84C08A0040F61B /* newformpokeId15.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId15.csv; sourceTree = "<group>"; };
-		B4D814351C84C08A0040F61B /* newformpokeId428.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId428.csv; sourceTree = "<group>"; };
-		B4D814361C84C08A0040F61B /* newformpokeId229.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId229.csv; sourceTree = "<group>"; };
-		B4D814371C84C08A0040F61B /* newformpokeId642.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId642.csv; sourceTree = "<group>"; };
-		B4D814381C84C08A0040F61B /* newformpokeId380.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId380.csv; sourceTree = "<group>"; };
-		B4D814391C84C08A0040F61B /* newformpokeId383.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId383.csv; sourceTree = "<group>"; };
-		B4D8143A1C84C08A0040F61B /* newformpokeId127.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId127.csv; sourceTree = "<group>"; };
-		B4D8143B1C84C08A0040F61B /* newformpokeId248.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId248.csv; sourceTree = "<group>"; };
-		B4D8143C1C84C08A0040F61B /* newformpokeId260.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId260.csv; sourceTree = "<group>"; };
-		B4D8143D1C84C08A0040F61B /* newformpokeId719.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId719.csv; sourceTree = "<group>"; };
-		B4D8143E1C84C08A0040F61B /* newformpokeId254.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId254.csv; sourceTree = "<group>"; };
-		B4D8143F1C84C08A0040F61B /* newformpokeId282.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId282.csv; sourceTree = "<group>"; };
-		B4D814401C84C08A0040F61B /* newformpokeId257.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId257.csv; sourceTree = "<group>"; };
-		B4D814411C84C08A0040F61B /* newformpokeId302.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId302.csv; sourceTree = "<group>"; };
-		B4D814421C84C08A0040F61B /* newformpokeId720.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId720.csv; sourceTree = "<group>"; };
-		B4D814431C84C08A0040F61B /* newformpokeId460.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId460.csv; sourceTree = "<group>"; };
-		B4D814441C84C08A0040F61B /* newformpokeId334.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId334.csv; sourceTree = "<group>"; };
-		B4D814451C84C08A0040F61B /* newformpokeId445.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId445.csv; sourceTree = "<group>"; };
-		B4D814461C84C08A0040F61B /* newformpokeId376.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId376.csv; sourceTree = "<group>"; };
-		B4D814471C84C08A0040F61B /* newformpokeId492.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId492.csv; sourceTree = "<group>"; };
-		B4D814481C84C08A0040F61B /* newformpokeId373.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId373.csv; sourceTree = "<group>"; };
-		B4D814491C84C08A0040F61B /* newformpokeId362.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId362.csv; sourceTree = "<group>"; };
-		B4D8144A1C84C08A0040F61B /* newformpokeId208.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId208.csv; sourceTree = "<group>"; };
-		B4D8144B1C84C08A0040F61B /* newformpokeId381.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId381.csv; sourceTree = "<group>"; };
-		B4D8144C1C84C08A0040F61B /* newformpokeId181.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId181.csv; sourceTree = "<group>"; };
-		B4D8144D1C84C08A0040F61B /* newformpokeId308.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId308.csv; sourceTree = "<group>"; };
-		B4D8144E1C84C08A0040F61B /* newformpokeId310.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId310.csv; sourceTree = "<group>"; };
-		B4D8144F1C84C08A0040F61B /* newformpokeId3.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId3.csv; sourceTree = "<group>"; };
-		B4D814501C84C08A0040F61B /* newformpokeId306.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId306.csv; sourceTree = "<group>"; };
-		B4D814511C84C08A0040F61B /* newformpokeId448.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId448.csv; sourceTree = "<group>"; };
-		B4D814521C84C08A0040F61B /* newformpokeId645.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId645.csv; sourceTree = "<group>"; };
-		B4D814531C84C08A0040F61B /* newformpokeId212.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId212.csv; sourceTree = "<group>"; };
-		B4D814541C84C08A0040F61B /* newformpokeId130.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId130.csv; sourceTree = "<group>"; };
-		B4D814551C84C08A0040F61B /* newformpokeId641.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId641.csv; sourceTree = "<group>"; };
-		B4D814561C84C08A0040F61B /* newformpokeId681.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId681.csv; sourceTree = "<group>"; };
-		B4D814571C84C08A0040F61B /* newformpokeId18.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId18.csv; sourceTree = "<group>"; };
-		B4D814581C84C08A0040F61B /* newformpokeId80.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId80.csv; sourceTree = "<group>"; };
-		B4D814591C84C08A0040F61B /* newformpokeId323.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId323.csv; sourceTree = "<group>"; };
-		B4D8145A1C84C08A0040F61B /* newformpokeId65.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId65.csv; sourceTree = "<group>"; };
-		B4D8145B1C84C08A0040F61B /* newformpokeId319.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId319.csv; sourceTree = "<group>"; };
-		B4D8145C1C84C08A0040F61B /* newformpokeId531.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId531.csv; sourceTree = "<group>"; };
-		B4D8145D1C84C08A0040F61B /* newformpokeId94.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId94.csv; sourceTree = "<group>"; };
-		B4D8145E1C84C08A0040F61B /* newformpokeId382.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId382.csv; sourceTree = "<group>"; };
-		B4D8145F1C84C08A0040F61B /* newformpokeId142.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId142.csv; sourceTree = "<group>"; };
-		B4D814601C84C08A0040F61B /* newformpokeId214.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId214.csv; sourceTree = "<group>"; };
-		B4D814611C84C08A0040F61B /* newformpokeId115.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId115.csv; sourceTree = "<group>"; };
-		B4D814621C84C08A0040F61B /* newformpokeId303.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId303.csv; sourceTree = "<group>"; };
-		B4D814631C84C08A0040F61B /* newformpokeId354.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId354.csv; sourceTree = "<group>"; };
-		B4D814641C84C08A0040F61B /* newformpokeId384.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId384.csv; sourceTree = "<group>"; };
-		B4D814651C84C08A0040F61B /* newformpokeId487.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId487.csv; sourceTree = "<group>"; };
-		B4D814661C84C08A0040F61B /* newformpokeId475.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId475.csv; sourceTree = "<group>"; };
-		B4D814671C84C08A0040F61B /* newformpokeId359.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId359.csv; sourceTree = "<group>"; };
-		B4D814681C84C08A0040F61B /* newformpokeId648.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId648.csv; sourceTree = "<group>"; };
-		B4D814691C84C08A0040F61B /* newformpokeId647.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newformpokeId647.csv; sourceTree = "<group>"; };
 		B4E848EC1C82A04000F62887 /* pokeMoveId1.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokeMoveId1.csv; sourceTree = "<group>"; };
 		B4E848ED1C82A04000F62887 /* pokeMoveId2.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokeMoveId2.csv; sourceTree = "<group>"; };
 		B4E848EE1C82A04000F62887 /* pokeMoveId3.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokeMoveId3.csv; sourceTree = "<group>"; };
@@ -9678,75 +9858,75 @@
 		B4E859D21C83E9DD00F62887 /* New Forms */ = {
 			isa = PBXGroup;
 			children = (
-				B4D814251C84C08A0040F61B /* newformpokeId25.csv */,
-				B4D814261C84C08A0040F61B /* newformpokeId711.csv */,
-				B4D814271C84C08A0040F61B /* newformpokeId479.csv */,
-				B4D814281C84C08A0040F61B /* newformpokeId710.csv */,
-				B4D814291C84C08A0040F61B /* newformpokeId351.csv */,
-				B4D8142A1C84C08A0040F61B /* newformpokeId386.csv */,
-				B4D8142B1C84C08A0040F61B /* newformpokeId413.csv */,
-				B4D8142C1C84C08A0040F61B /* newformpokeId555.csv */,
-				B4D8142D1C84C08A0040F61B /* newformpokeId550.csv */,
-				B4D8142E1C84C08A0040F61B /* newformpokeId6.csv */,
-				B4D8142F1C84C08A0040F61B /* newformpokeId150.csv */,
-				B4D814301C84C08A0040F61B /* newformpokeId678.csv */,
-				B4D814311C84C08A0040F61B /* newformpokeId646.csv */,
-				B4D814321C84C08A0040F61B /* newformpokeId670.csv */,
-				B4D814331C84C08A0040F61B /* newformpokeId9.csv */,
-				B4D814341C84C08A0040F61B /* newformpokeId15.csv */,
-				B4D814351C84C08A0040F61B /* newformpokeId428.csv */,
-				B4D814361C84C08A0040F61B /* newformpokeId229.csv */,
-				B4D814371C84C08A0040F61B /* newformpokeId642.csv */,
-				B4D814381C84C08A0040F61B /* newformpokeId380.csv */,
-				B4D814391C84C08A0040F61B /* newformpokeId383.csv */,
-				B4D8143A1C84C08A0040F61B /* newformpokeId127.csv */,
-				B4D8143B1C84C08A0040F61B /* newformpokeId248.csv */,
-				B4D8143C1C84C08A0040F61B /* newformpokeId260.csv */,
-				B4D8143D1C84C08A0040F61B /* newformpokeId719.csv */,
-				B4D8143E1C84C08A0040F61B /* newformpokeId254.csv */,
-				B4D8143F1C84C08A0040F61B /* newformpokeId282.csv */,
-				B4D814401C84C08A0040F61B /* newformpokeId257.csv */,
-				B4D814411C84C08A0040F61B /* newformpokeId302.csv */,
-				B4D814421C84C08A0040F61B /* newformpokeId720.csv */,
-				B4D814431C84C08A0040F61B /* newformpokeId460.csv */,
-				B4D814441C84C08A0040F61B /* newformpokeId334.csv */,
-				B4D814451C84C08A0040F61B /* newformpokeId445.csv */,
-				B4D814461C84C08A0040F61B /* newformpokeId376.csv */,
-				B4D814471C84C08A0040F61B /* newformpokeId492.csv */,
-				B4D814481C84C08A0040F61B /* newformpokeId373.csv */,
-				B4D814491C84C08A0040F61B /* newformpokeId362.csv */,
-				B4D8144A1C84C08A0040F61B /* newformpokeId208.csv */,
-				B4D8144B1C84C08A0040F61B /* newformpokeId381.csv */,
-				B4D8144C1C84C08A0040F61B /* newformpokeId181.csv */,
-				B4D8144D1C84C08A0040F61B /* newformpokeId308.csv */,
-				B4D8144E1C84C08A0040F61B /* newformpokeId310.csv */,
-				B4D8144F1C84C08A0040F61B /* newformpokeId3.csv */,
-				B4D814501C84C08A0040F61B /* newformpokeId306.csv */,
-				B4D814511C84C08A0040F61B /* newformpokeId448.csv */,
-				B4D814521C84C08A0040F61B /* newformpokeId645.csv */,
-				B4D814531C84C08A0040F61B /* newformpokeId212.csv */,
-				B4D814541C84C08A0040F61B /* newformpokeId130.csv */,
-				B4D814551C84C08A0040F61B /* newformpokeId641.csv */,
-				B4D814561C84C08A0040F61B /* newformpokeId681.csv */,
-				B4D814571C84C08A0040F61B /* newformpokeId18.csv */,
-				B4D814581C84C08A0040F61B /* newformpokeId80.csv */,
-				B4D814591C84C08A0040F61B /* newformpokeId323.csv */,
-				B4D8145A1C84C08A0040F61B /* newformpokeId65.csv */,
-				B4D8145B1C84C08A0040F61B /* newformpokeId319.csv */,
-				B4D8145C1C84C08A0040F61B /* newformpokeId531.csv */,
-				B4D8145D1C84C08A0040F61B /* newformpokeId94.csv */,
-				B4D8145E1C84C08A0040F61B /* newformpokeId382.csv */,
-				B4D8145F1C84C08A0040F61B /* newformpokeId142.csv */,
-				B4D814601C84C08A0040F61B /* newformpokeId214.csv */,
-				B4D814611C84C08A0040F61B /* newformpokeId115.csv */,
-				B4D814621C84C08A0040F61B /* newformpokeId303.csv */,
-				B4D814631C84C08A0040F61B /* newformpokeId354.csv */,
-				B4D814641C84C08A0040F61B /* newformpokeId384.csv */,
-				B4D814651C84C08A0040F61B /* newformpokeId487.csv */,
-				B4D814661C84C08A0040F61B /* newformpokeId475.csv */,
-				B4D814671C84C08A0040F61B /* newformpokeId359.csv */,
-				B4D814681C84C08A0040F61B /* newformpokeId648.csv */,
-				B4D814691C84C08A0040F61B /* newformpokeId647.csv */,
+				B4D691ED1C8525DE009F970D /* newformpokeId25.csv */,
+				B4D691EE1C8525DE009F970D /* newformpokeId479.csv */,
+				B4D691EF1C8525DE009F970D /* newformpokeId711.csv */,
+				B4D691F01C8525DE009F970D /* newformpokeId710.csv */,
+				B4D691F11C8525DE009F970D /* newformpokeId351.csv */,
+				B4D691F21C8525DE009F970D /* newformpokeId386.csv */,
+				B4D691F31C8525DE009F970D /* newformpokeId413.csv */,
+				B4D691F41C8525DE009F970D /* newformpokeId555.csv */,
+				B4D691F51C8525DE009F970D /* newformpokeId6.csv */,
+				B4D691F61C8525DE009F970D /* newformpokeId150.csv */,
+				B4D691F71C8525DE009F970D /* newformpokeId550.csv */,
+				B4D691F81C8525DE009F970D /* newformpokeId678.csv */,
+				B4D691F91C8525DE009F970D /* newformpokeId646.csv */,
+				B4D691FA1C8525DE009F970D /* newformpokeId15.csv */,
+				B4D691FB1C8525DE009F970D /* newformpokeId670.csv */,
+				B4D691FC1C8525DE009F970D /* newformpokeId9.csv */,
+				B4D691FD1C8525DE009F970D /* newformpokeId428.csv */,
+				B4D691FE1C8525DE009F970D /* newformpokeId229.csv */,
+				B4D691FF1C8525DE009F970D /* newformpokeId642.csv */,
+				B4D692001C8525DE009F970D /* newformpokeId380.csv */,
+				B4D692011C8525DE009F970D /* newformpokeId383.csv */,
+				B4D692021C8525DE009F970D /* newformpokeId127.csv */,
+				B4D692031C8525DE009F970D /* newformpokeId282.csv */,
+				B4D692041C8525DE009F970D /* newformpokeId257.csv */,
+				B4D692051C8525DE009F970D /* newformpokeId260.csv */,
+				B4D692061C8525DE009F970D /* newformpokeId719.csv */,
+				B4D692071C8525DE009F970D /* newformpokeId248.csv */,
+				B4D692081C8525DE009F970D /* newformpokeId254.csv */,
+				B4D692091C8525DE009F970D /* newformpokeId302.csv */,
+				B4D6920A1C8525DE009F970D /* newformpokeId720.csv */,
+				B4D6920B1C8525DE009F970D /* newformpokeId445.csv */,
+				B4D6920C1C8525DE009F970D /* newformpokeId376.csv */,
+				B4D6920D1C8525DE009F970D /* newformpokeId492.csv */,
+				B4D6920E1C8525DE009F970D /* newformpokeId460.csv */,
+				B4D6920F1C8525DE009F970D /* newformpokeId334.csv */,
+				B4D692101C8525DE009F970D /* newformpokeId373.csv */,
+				B4D692111C8525DE009F970D /* newformpokeId181.csv */,
+				B4D692121C8525DE009F970D /* newformpokeId208.csv */,
+				B4D692131C8525DE009F970D /* newformpokeId308.csv */,
+				B4D692141C8525DE009F970D /* newformpokeId381.csv */,
+				B4D692151C8525DE009F970D /* newformpokeId448.csv */,
+				B4D692161C8525DE009F970D /* newformpokeId645.csv */,
+				B4D692171C8525DE009F970D /* newformpokeId362.csv */,
+				B4D692181C8525DE009F970D /* newformpokeId3.csv */,
+				B4D692191C8525DE009F970D /* newformpokeId681.csv */,
+				B4D6921A1C8525DE009F970D /* newformpokeId212.csv */,
+				B4D6921B1C8525DE009F970D /* newformpokeId18.csv */,
+				B4D6921C1C8525DE009F970D /* newformpokeId130.csv */,
+				B4D6921D1C8525DE009F970D /* newformpokeId310.csv */,
+				B4D6921E1C8525DE009F970D /* newformpokeId306.csv */,
+				B4D6921F1C8525DE009F970D /* newformpokeId641.csv */,
+				B4D692201C8525DE009F970D /* newformpokeId80.csv */,
+				B4D692211C8525DE009F970D /* newformpokeId323.csv */,
+				B4D692221C8525DE009F970D /* newformpokeId94.csv */,
+				B4D692231C8525DE009F970D /* newformpokeId65.csv */,
+				B4D692241C8525DE009F970D /* newformpokeId531.csv */,
+				B4D692251C8525DE009F970D /* newformpokeId319.csv */,
+				B4D692261C8525DE009F970D /* newformpokeId142.csv */,
+				B4D692271C8525DE009F970D /* newformpokeId382.csv */,
+				B4D692281C8525DE009F970D /* newformpokeId214.csv */,
+				B4D692291C8525DE009F970D /* newformpokeId303.csv */,
+				B4D6922A1C8525DE009F970D /* newformpokeId384.csv */,
+				B4D6922B1C8525DE009F970D /* newformpokeId115.csv */,
+				B4D6922C1C8525DE009F970D /* newformpokeId487.csv */,
+				B4D6922D1C8525DE009F970D /* newformpokeId354.csv */,
+				B4D6922E1C8525DE009F970D /* newformpokeId475.csv */,
+				B4D6922F1C8525DE009F970D /* newformpokeId648.csv */,
+				B4D692301C8525DE009F970D /* newformpokeId647.csv */,
+				B4D692311C8525DE009F970D /* newformpokeId359.csv */,
 			);
 			name = "New Forms";
 			sourceTree = "<group>";
@@ -10485,96 +10665,27 @@
 				B4F28B051C7CB944007C5BBF /* 1-hi.png */,
 				B4F28B061C7CB944007C5BBF /* 2-hi.png */,
 				B4F28B071C7CB944007C5BBF /* 3-hi.png */,
+				B4D692D21C853754009F970D /* 3hiform1.png */,
 				B4F28B081C7CB944007C5BBF /* 4-hi.png */,
 				B4F28B091C7CB944007C5BBF /* 5-hi.png */,
-				B4D62D481C81647B007E2CAD /* 648-hi.png */,
-				B4D62D491C81647B007E2CAD /* 649-hi.png */,
-				B4D62D4A1C81647B007E2CAD /* 650-hi.png */,
-				B4D62D4B1C81647B007E2CAD /* 651-hi.png */,
-				B4D62D4C1C81647B007E2CAD /* 652-hi.png */,
-				B4D62D4D1C81647B007E2CAD /* 653-hi.png */,
-				B4D62D4E1C81647B007E2CAD /* 654-hi.png */,
-				B4D62D4F1C81647B007E2CAD /* 655-hi.png */,
-				B4D62D501C81647B007E2CAD /* 656-hi.png */,
-				B4D62D511C81647B007E2CAD /* 657-hi.png */,
-				B4D62D521C81647B007E2CAD /* 658-hi.png */,
-				B4D62D531C81647B007E2CAD /* 659-hi.png */,
-				B4D62D541C81647B007E2CAD /* 661-hi.png */,
-				B4D62D551C81647B007E2CAD /* 662-hi.png */,
-				B4D62D561C81647B007E2CAD /* 663-hi.png */,
-				B4D62D571C81647B007E2CAD /* 664-hi.png */,
-				B4D62D581C81647B007E2CAD /* 665-hi.png */,
-				B4D62D591C81647B007E2CAD /* 666-hi.png */,
-				B4D62D5A1C81647B007E2CAD /* 667-hi.png */,
-				B4D62D5B1C81647B007E2CAD /* 668-hi.png */,
-				B4D62D5C1C81647B007E2CAD /* 669-hi.png */,
-				B4D62D5D1C81647B007E2CAD /* 670-hi.png */,
-				B4D62D5E1C81647B007E2CAD /* 671-hi.png */,
-				B4D62D5F1C81647B007E2CAD /* 672-hi.png */,
-				B4D62D601C81647B007E2CAD /* 673-hi.png */,
-				B4D62D611C81647B007E2CAD /* 674-hi.png */,
-				B4D62D621C81647B007E2CAD /* 675-hi.png */,
-				B4D62D631C81647B007E2CAD /* 676-hi.png */,
-				B4D62D641C81647B007E2CAD /* 677-hi.png */,
-				B4D62D651C81647B007E2CAD /* 678-hi.png */,
-				B4D62D661C81647B007E2CAD /* 679-hi.png */,
-				B4D62D671C81647B007E2CAD /* 680-hi.png */,
-				B4D62D681C81647B007E2CAD /* 681-hi.png */,
-				B4D62D691C81647B007E2CAD /* 682-hi.png */,
-				B4D62D6A1C81647B007E2CAD /* 683-hi.png */,
-				B4D62D6B1C81647B007E2CAD /* 684-hi.png */,
-				B4D62D6C1C81647B007E2CAD /* 685-hi.png */,
-				B4D62D6D1C81647B007E2CAD /* 686-hi.png */,
-				B4D62D6E1C81647B007E2CAD /* 687-hi.png */,
-				B4D62D6F1C81647B007E2CAD /* 688-hi.png */,
-				B4D62D701C81647B007E2CAD /* 689-hi.png */,
-				B4D62D711C81647B007E2CAD /* 690-hi.png */,
-				B4D62D721C81647B007E2CAD /* 691-hi.png */,
-				B4D62D731C81647B007E2CAD /* 692-hi.png */,
-				B4D62D741C81647B007E2CAD /* 693-hi.png */,
-				B4D62D751C81647B007E2CAD /* 694-hi.png */,
-				B4D62D761C81647B007E2CAD /* 695-hi.png */,
-				B4D62D771C81647B007E2CAD /* 696-hi.png */,
-				B4D62D781C81647B007E2CAD /* 697-hi.png */,
-				B4D62D791C81647B007E2CAD /* 698-hi.png */,
-				B4D62D7A1C81647B007E2CAD /* 699-hi.png */,
-				B4D62D7B1C81647B007E2CAD /* 700-hi.png */,
-				B4D62D7C1C81647B007E2CAD /* 701-hi.png */,
-				B4D62D7D1C81647B007E2CAD /* 702-hi.png */,
-				B4D62D7E1C81647B007E2CAD /* 703-hi.png */,
-				B4D62D7F1C81647B007E2CAD /* 704-hi.png */,
-				B4D62D801C81647B007E2CAD /* 705-hi.png */,
-				B4D62D811C81647B007E2CAD /* 706-hi.png */,
-				B4D62D821C81647B007E2CAD /* 707-hi.png */,
-				B4D62D831C81647B007E2CAD /* 708-hi.png */,
-				B4D62D841C81647B007E2CAD /* 709-hi.png */,
-				B4D62D851C81647B007E2CAD /* 710-hi.png */,
-				B4D62D861C81647B007E2CAD /* 711-hi.png */,
-				B4D62D871C81647B007E2CAD /* 712-hi.png */,
-				B4D62D881C81647B007E2CAD /* 713-hi.png */,
-				B4D62D891C81647B007E2CAD /* 714-hi.png */,
-				B4D62D8A1C81647B007E2CAD /* 715-hi.png */,
-				B4D62D8B1C81647B007E2CAD /* 716-hi.png */,
-				B4D62D8C1C81647B007E2CAD /* 717-hi.png */,
-				B4D62D8D1C81647B007E2CAD /* 718-hi.png */,
-				B4D62D8E1C81647B007E2CAD /* 719-hi.png */,
-				B4D62D8F1C81647B007E2CAD /* 719-mega.png */,
-				B4D62D901C81647B007E2CAD /* 720-hi.png */,
-				B4D62D911C81647C007E2CAD /* 720-small.png */,
-				B4D62D921C81647C007E2CAD /* 721-hi.png */,
 				B4F28B0A1C7CB944007C5BBF /* 6-hi.png */,
+				B4D692D01C853754009F970D /* 6hiform1.png */,
+				B4D692D11C853754009F970D /* 6hiform2.png */,
 				B4F28B0B1C7CB944007C5BBF /* 7-hi.png */,
 				B4F28B0C1C7CB944007C5BBF /* 8-hi.png */,
 				B4F28B0D1C7CB944007C5BBF /* 9-hi.png */,
+				B4D692CF1C853754009F970D /* 9hiform1.png */,
 				B4F28B0E1C7CB944007C5BBF /* 10-hi.png */,
 				B4F28B0F1C7CB944007C5BBF /* 11-hi.png */,
 				B4F28B101C7CB944007C5BBF /* 12-hi.png */,
 				B4F28B111C7CB944007C5BBF /* 13-hi.png */,
 				B4F28B121C7CB944007C5BBF /* 14-hi.png */,
 				B4F28B131C7CB944007C5BBF /* 15-hi.png */,
+				B4D692CE1C853754009F970D /* 15hiform1.png */,
 				B4F28B141C7CB944007C5BBF /* 16-hi.png */,
 				B4F28B151C7CB944007C5BBF /* 17-hi.png */,
 				B4F28B161C7CB944007C5BBF /* 18-hi.png */,
+				B4D692CD1C853754009F970D /* 18hiform1.png */,
 				B4F28B171C7CB944007C5BBF /* 19-hi.png */,
 				B4F28B181C7CB944007C5BBF /* 20-hi.png */,
 				B4F28B191C7CB944007C5BBF /* 21-hi.png */,
@@ -10582,6 +10693,12 @@
 				B4F28B1B1C7CB944007C5BBF /* 23-hi.png */,
 				B4F28B1C1C7CB944007C5BBF /* 24-hi.png */,
 				B4F28B1D1C7CB944007C5BBF /* 25-hi.png */,
+				B4D692991C853753009F970D /* 25hiform1.png */,
+				B4D6929A1C853753009F970D /* 25hiform2.png */,
+				B4D6929B1C853753009F970D /* 25hiform3.png */,
+				B4D6929C1C853753009F970D /* 25hiform4.png */,
+				B4D6929D1C853753009F970D /* 25hiform5.png */,
+				B4D6929E1C853753009F970D /* 25hiform6.png */,
 				B4F28B1E1C7CB944007C5BBF /* 26-hi.png */,
 				B4F28B1F1C7CB944007C5BBF /* 27-hi.png */,
 				B4F28B201C7CB944007C5BBF /* 28-hi.png */,
@@ -10622,6 +10739,7 @@
 				B4F28B431C7CB944007C5BBF /* 63-hi.png */,
 				B4F28B441C7CB944007C5BBF /* 64-hi.png */,
 				B4F28B451C7CB944007C5BBF /* 65-hi.png */,
+				B4D692CC1C853754009F970D /* 65hiform1.png */,
 				B4F28B461C7CB944007C5BBF /* 66-hi.png */,
 				B4F28B471C7CB944007C5BBF /* 67-hi.png */,
 				B4F28B481C7CB944007C5BBF /* 68-hi.png */,
@@ -10637,6 +10755,7 @@
 				B4F28B521C7CB944007C5BBF /* 78-hi.png */,
 				B4F28B531C7CB944007C5BBF /* 79-hi.png */,
 				B4F28B541C7CB944007C5BBF /* 80-hi.png */,
+				B4D692CB1C853754009F970D /* 80hiform1.png */,
 				B4F28B551C7CB944007C5BBF /* 81-hi.png */,
 				B4F28B561C7CB944007C5BBF /* 82-hi.png */,
 				B4F28B571C7CB944007C5BBF /* 83-hi.png */,
@@ -10651,6 +10770,7 @@
 				B4F28B601C7CB944007C5BBF /* 92-hi.png */,
 				B4F28B611C7CB944007C5BBF /* 93-hi.png */,
 				B4F28B621C7CB944007C5BBF /* 94-hi.png */,
+				B4D692CA1C853754009F970D /* 94hiform1.png */,
 				B4F28B631C7CB944007C5BBF /* 95-hi.png */,
 				B4F28B641C7CB944007C5BBF /* 96-hi.png */,
 				B4F28B651C7CB944007C5BBF /* 97-hi.png */,
@@ -10672,6 +10792,7 @@
 				B4F28B751C7CB944007C5BBF /* 113-hi.png */,
 				B4F28B761C7CB944007C5BBF /* 114-hi.png */,
 				B4F28B771C7CB944007C5BBF /* 115-hi.png */,
+				B4D692C81C853754009F970D /* 115hiform1.png */,
 				B4F28B781C7CB944007C5BBF /* 116-hi.png */,
 				B4F28B791C7CB944007C5BBF /* 117-hi.png */,
 				B4F28B7A1C7CB944007C5BBF /* 118-hi.png */,
@@ -10684,9 +10805,11 @@
 				B4F28B811C7CB944007C5BBF /* 125-hi.png */,
 				B4F28B821C7CB944007C5BBF /* 126-hi.png */,
 				B4F28B831C7CB944007C5BBF /* 127-hi.png */,
+				B4D692C71C853754009F970D /* 127hiform1.png */,
 				B4F28B841C7CB944007C5BBF /* 128-hi.png */,
 				B4F28B851C7CB944007C5BBF /* 129-hi.png */,
 				B4F28B861C7CB944007C5BBF /* 130-hi.png */,
+				B4D692C91C853754009F970D /* 130hiform1.png */,
 				B4F28B871C7CB944007C5BBF /* 131-hi.png */,
 				B4F28B881C7CB944007C5BBF /* 132-hi.png */,
 				B4F28B891C7CB944007C5BBF /* 133-hi.png */,
@@ -10699,6 +10822,7 @@
 				B4F28B901C7CB944007C5BBF /* 140-hi.png */,
 				B4F28B911C7CB944007C5BBF /* 141-hi.png */,
 				B4F28B921C7CB944007C5BBF /* 142-hi.png */,
+				B4D692C61C853754009F970D /* 142hiform1.png */,
 				B4F28B931C7CB944007C5BBF /* 143-hi.png */,
 				B4F28B941C7CB944007C5BBF /* 144-hi.png */,
 				B4F28B951C7CB944007C5BBF /* 145-hi.png */,
@@ -10707,6 +10831,8 @@
 				B4F28B981C7CB944007C5BBF /* 148-hi.png */,
 				B4F28B991C7CB944007C5BBF /* 149-hi.png */,
 				B4F28B9A1C7CB944007C5BBF /* 150-hi.png */,
+				B4D692C41C853754009F970D /* 150hiform1.png */,
+				B4D692C51C853754009F970D /* 150hiform2.png */,
 				B4F28B9B1C7CB944007C5BBF /* 151-hi.png */,
 				B4F28B9C1C7CB944007C5BBF /* 152-hi.png */,
 				B4F28B9D1C7CB944007C5BBF /* 153-hi.png */,
@@ -10738,6 +10864,7 @@
 				B4F28BB71C7CB944007C5BBF /* 179-hi.png */,
 				B4F28BB81C7CB944007C5BBF /* 180-hi.png */,
 				B4F28BB91C7CB944007C5BBF /* 181-hi.png */,
+				B4D692C31C853754009F970D /* 181hiform1.png */,
 				B4F28BBA1C7CB944007C5BBF /* 182-hi.png */,
 				B4F28BBB1C7CB944007C5BBF /* 183-hi.png */,
 				B4F28BBC1C7CB944007C5BBF /* 184-hi.png */,
@@ -10766,12 +10893,15 @@
 				B4F28BD31C7CB944007C5BBF /* 206-hi.png */,
 				B4F28BD41C7CB944007C5BBF /* 207-hi.png */,
 				B4F28BD51C7CB944007C5BBF /* 208-hi.png */,
+				B4D692C21C853754009F970D /* 208hiform1.png */,
 				B4F28BD61C7CB944007C5BBF /* 209-hi.png */,
 				B4F28BD71C7CB944007C5BBF /* 210-hi.png */,
 				B4F28BD81C7CB944007C5BBF /* 211-hi.png */,
 				B4F28BD91C7CB944007C5BBF /* 212-hi.png */,
+				B4D692C11C853754009F970D /* 212hiform1.png */,
 				B4F28BDA1C7CB944007C5BBF /* 213-hi.png */,
 				B4F28BDB1C7CB944007C5BBF /* 214-hi.png */,
+				B4D692C01C853754009F970D /* 214hiform1.png */,
 				B4F28BDC1C7CB944007C5BBF /* 215-hi.png */,
 				B4F28BDD1C7CB944007C5BBF /* 216-hi.png */,
 				B4F28BDE1C7CB944007C5BBF /* 217-hi.png */,
@@ -10787,6 +10917,7 @@
 				B4F28BE81C7CB944007C5BBF /* 227-hi.png */,
 				B4F28BE91C7CB944007C5BBF /* 228-hi.png */,
 				B4F28BEA1C7CB944007C5BBF /* 229-hi.png */,
+				B4D692BF1C853754009F970D /* 229hiform1.png */,
 				B4F28BEB1C7CB944007C5BBF /* 230-hi.png */,
 				B4F28BEC1C7CB944007C5BBF /* 231-hi.png */,
 				B4F28BED1C7CB944007C5BBF /* 232-hi.png */,
@@ -10806,18 +10937,22 @@
 				B4F28BFB1C7CB944007C5BBF /* 246-hi.png */,
 				B4F28BFC1C7CB944007C5BBF /* 247-hi.png */,
 				B4F28BFD1C7CB944007C5BBF /* 248-hi.png */,
+				B4D692BE1C853754009F970D /* 248hiform1.png */,
 				B4F28BFE1C7CB944007C5BBF /* 249-hi.png */,
 				B4F28BFF1C7CB944007C5BBF /* 250-hi.png */,
 				B4F28C001C7CB944007C5BBF /* 251-hi.png */,
 				B4F28C011C7CB944007C5BBF /* 252-hi.png */,
 				B4F28C021C7CB944007C5BBF /* 253-hi.png */,
 				B4F28C031C7CB944007C5BBF /* 254-hi.png */,
+				B4D692BD1C853754009F970D /* 254hiform1.png */,
 				B4F28C041C7CB944007C5BBF /* 255-hi.png */,
 				B4F28C051C7CB944007C5BBF /* 256-hi.png */,
 				B4F28C061C7CB944007C5BBF /* 257-hi.png */,
+				B4D692BC1C853754009F970D /* 257hiform1.png */,
 				B4F28C071C7CB944007C5BBF /* 258-hi.png */,
 				B4F28C081C7CB944007C5BBF /* 259-hi.png */,
 				B4F28C091C7CB944007C5BBF /* 260-hi.png */,
+				B4D692BB1C853754009F970D /* 260hiform1.png */,
 				B4F28C0A1C7CB944007C5BBF /* 261-hi.png */,
 				B4F28C0B1C7CB944007C5BBF /* 262-hi.png */,
 				B4F28C0C1C7CB944007C5BBF /* 263-hi.png */,
@@ -10840,6 +10975,7 @@
 				B4F28C1D1C7CB944007C5BBF /* 280-hi.png */,
 				B4F28C1E1C7CB944007C5BBF /* 281-hi.png */,
 				B4F28C1F1C7CB944007C5BBF /* 282-hi.png */,
+				B4D692BA1C853754009F970D /* 282hiform1.png */,
 				B4F28C201C7CB944007C5BBF /* 283-hi.png */,
 				B4F28C211C7CB944007C5BBF /* 284-hi.png */,
 				B4F28C221C7CB944007C5BBF /* 285-hi.png */,
@@ -10860,14 +10996,19 @@
 				B4F28C311C7CB944007C5BBF /* 300-hi.png */,
 				B4F28C321C7CB944007C5BBF /* 301-hi.png */,
 				B4F28C331C7CB944007C5BBF /* 302-hi.png */,
+				B4D692B91C853754009F970D /* 302hiform1.png */,
 				B4F28C341C7CB944007C5BBF /* 303-hi.png */,
+				B4D692B81C853753009F970D /* 303hiform1.png */,
 				B4F28C351C7CB944007C5BBF /* 304-hi.png */,
 				B4F28C361C7CB944007C5BBF /* 305-hi.png */,
 				B4F28C371C7CB944007C5BBF /* 306-hi.png */,
+				B4D692B71C853753009F970D /* 306hiform1.png */,
 				B4F28C381C7CB944007C5BBF /* 307-hi.png */,
 				B4F28C391C7CB944007C5BBF /* 308-hi.png */,
+				B4D692B61C853753009F970D /* 308hiform1.png */,
 				B4F28C3A1C7CB944007C5BBF /* 309-hi.png */,
 				B4F28C3B1C7CB944007C5BBF /* 310-hi.png */,
+				B4D692B51C853753009F970D /* 310hiform1.png */,
 				B4F28C3C1C7CB944007C5BBF /* 311-hi.png */,
 				B4F28C3D1C7CB944007C5BBF /* 312-hi.png */,
 				B4F28C3E1C7CB944007C5BBF /* 313-hi.png */,
@@ -10877,10 +11018,12 @@
 				B4F28C421C7CB944007C5BBF /* 317-hi.png */,
 				B4F28C431C7CB944007C5BBF /* 318-hi.png */,
 				B4F28C441C7CB944007C5BBF /* 319-hi.png */,
+				B4D692B41C853753009F970D /* 319hiform1.png */,
 				B4F28C451C7CB944007C5BBF /* 320-hi.png */,
 				B4F28C461C7CB944007C5BBF /* 321-hi.png */,
 				B4F28C471C7CB944007C5BBF /* 322-hi.png */,
 				B4F28C481C7CB944007C5BBF /* 323-hi.png */,
+				B4D692B31C853753009F970D /* 323hiform1.png */,
 				B4F28C491C7CB944007C5BBF /* 324-hi.png */,
 				B4F28C4A1C7CB944007C5BBF /* 325-hi.png */,
 				B4F28C4B1C7CB944007C5BBF /* 326-hi.png */,
@@ -10892,6 +11035,7 @@
 				B4F28C511C7CB944007C5BBF /* 332-hi.png */,
 				B4F28C521C7CB944007C5BBF /* 333-hi.png */,
 				B4F28C531C7CB944007C5BBF /* 334-hi.png */,
+				B4D692B21C853753009F970D /* 334hiform1.png */,
 				B4F28C541C7CB944007C5BBF /* 335-hi.png */,
 				B4F28C551C7CB944007C5BBF /* 336-hi.png */,
 				B4F28C561C7CB944007C5BBF /* 337-hi.png */,
@@ -10909,17 +11053,23 @@
 				B4F28C621C7CB945007C5BBF /* 349-hi.png */,
 				B4F28C631C7CB945007C5BBF /* 350-hi.png */,
 				B4F28C641C7CB945007C5BBF /* 351-hi.png */,
+				B4D692961C853753009F970D /* 351hiform1.png */,
+				B4D692971C853753009F970D /* 351hiform2.png */,
+				B4D692981C853753009F970D /* 351hiform3.png */,
 				B4F28C651C7CB945007C5BBF /* 352-hi.png */,
 				B4F28C661C7CB945007C5BBF /* 353-hi.png */,
 				B4F28C671C7CB945007C5BBF /* 354-hi.png */,
+				B4D692B11C853753009F970D /* 354hiform1.png */,
 				B4F28C681C7CB945007C5BBF /* 355-hi.png */,
 				B4F28C691C7CB945007C5BBF /* 356-hi.png */,
 				B4F28C6A1C7CB945007C5BBF /* 357-hi.png */,
 				B4F28C6B1C7CB945007C5BBF /* 358-hi.png */,
 				B4F28C6C1C7CB945007C5BBF /* 359-hi.png */,
+				B4D692B01C853753009F970D /* 359hiform1.png */,
 				B4F28C6D1C7CB945007C5BBF /* 360-hi.png */,
 				B4F28C6E1C7CB945007C5BBF /* 361-hi.png */,
 				B4F28C6F1C7CB945007C5BBF /* 362-hi.png */,
+				B4D692AF1C853753009F970D /* 362hiform1.png */,
 				B4F28C701C7CB945007C5BBF /* 363-hi.png */,
 				B4F28C711C7CB945007C5BBF /* 364-hi.png */,
 				B4F28C721C7CB945007C5BBF /* 365-hi.png */,
@@ -10931,23 +11081,33 @@
 				B4F28C781C7CB945007C5BBF /* 371-hi.png */,
 				B4F28C791C7CB945007C5BBF /* 372-hi.png */,
 				B4F28C7A1C7CB945007C5BBF /* 373-hi.png */,
+				B4D692AE1C853753009F970D /* 373hiform1.png */,
 				B4F28C7B1C7CB945007C5BBF /* 374-hi.png */,
 				B4F28C7C1C7CB945007C5BBF /* 375-hi.png */,
 				B4F28C7D1C7CB945007C5BBF /* 376-hi.png */,
+				B4D692AD1C853753009F970D /* 376hiform1.png */,
 				B4F28C7E1C7CB945007C5BBF /* 377-hi.png */,
 				B4F28C7F1C7CB945007C5BBF /* 378-hi.png */,
 				B4F28C801C7CB945007C5BBF /* 379-hi.png */,
 				B4F28C811C7CB945007C5BBF /* 380-hi.png */,
+				B4D692AC1C853753009F970D /* 380hiform1.png */,
 				B4F28C821C7CB945007C5BBF /* 381-hi.png */,
+				B4D692AB1C853753009F970D /* 381hiform1.png */,
 				B4F28C831C7CB945007C5BBF /* 382-hi.png */,
+				B4D692A71C853753009F970D /* 382hiform1.png */,
 				B4F28C841C7CB945007C5BBF /* 383-hi.png */,
+				B4D692AA1C853753009F970D /* 383hiform1.png */,
 				B4F28C851C7CB945007C5BBF /* 384-hi.png */,
+				B4D692A61C853753009F970D /* 384hiform1.png */,
 				B4F28C861C7CB945007C5BBF /* 385-hi.png */,
 				B4F28C871C7CB945007C5BBF /* 386-attack-hi.png */,
 				B4F28C881C7CB945007C5BBF /* 386-defense-hi.png */,
 				B4F28C891C7CB945007C5BBF /* 386-hi.png */,
 				B4F28C8A1C7CB945007C5BBF /* 386-normal-hi.png */,
 				B4F28C8B1C7CB945007C5BBF /* 386-speed-hi.png */,
+				B4D692931C853753009F970D /* 386hiform1.png */,
+				B4D692941C853753009F970D /* 386hiform2.png */,
+				B4D692951C853753009F970D /* 386hiform3.png */,
 				B4F28C8C1C7CB945007C5BBF /* 387-hi.png */,
 				B4F28C8D1C7CB945007C5BBF /* 388-hi.png */,
 				B4F28C8E1C7CB945007C5BBF /* 389-hi.png */,
@@ -10981,6 +11141,8 @@
 				B4F28CAA1C7CB945007C5BBF /* 413-plant-hi.png */,
 				B4F28CAB1C7CB945007C5BBF /* 413-sandy-hi.png */,
 				B4F28CAC1C7CB945007C5BBF /* 413-trash-hi.png */,
+				B4D692911C853753009F970D /* 413hiform1.png */,
+				B4D692921C853753009F970D /* 413hiform2.png */,
 				B4F28CAD1C7CB945007C5BBF /* 414-hi.png */,
 				B4F28CAE1C7CB945007C5BBF /* 415-hi.png */,
 				B4F28CAF1C7CB945007C5BBF /* 416-hi.png */,
@@ -11002,6 +11164,7 @@
 				B4F28CBF1C7CB945007C5BBF /* 426-hi.png */,
 				B4F28CC01C7CB945007C5BBF /* 427-hi.png */,
 				B4F28CC11C7CB945007C5BBF /* 428-hi.png */,
+				B4D692A51C853753009F970D /* 428hiform1.png */,
 				B4F28CC21C7CB945007C5BBF /* 429-hi.png */,
 				B4F28CC31C7CB945007C5BBF /* 430-hi.png */,
 				B4F28CC41C7CB945007C5BBF /* 431-hi.png */,
@@ -11019,9 +11182,11 @@
 				B4F28CD01C7CB945007C5BBF /* 443-hi.png */,
 				B4F28CD11C7CB945007C5BBF /* 444-hi.png */,
 				B4F28CD21C7CB945007C5BBF /* 445-hi.png */,
+				B4D692A41C853753009F970D /* 445hiform1.png */,
 				B4F28CD31C7CB945007C5BBF /* 446-hi.png */,
 				B4F28CD41C7CB945007C5BBF /* 447-hi.png */,
 				B4F28CD51C7CB945007C5BBF /* 448-hi.png */,
+				B4D692A31C853753009F970D /* 448hiform1.png */,
 				B4F28CD61C7CB945007C5BBF /* 449-hi.png */,
 				B4F28CD71C7CB945007C5BBF /* 450-hi.png */,
 				B4F28CD81C7CB945007C5BBF /* 451-hi.png */,
@@ -11034,6 +11199,7 @@
 				B4F28CDF1C7CB945007C5BBF /* 458-hi.png */,
 				B4F28CE01C7CB945007C5BBF /* 459-hi.png */,
 				B4F28CE11C7CB945007C5BBF /* 460-hi.png */,
+				B4D692A21C853753009F970D /* 460hiform1.png */,
 				B4F28CE21C7CB945007C5BBF /* 461-hi.png */,
 				B4F28CE31C7CB945007C5BBF /* 462-hi.png */,
 				B4F28CE41C7CB945007C5BBF /* 463-hi.png */,
@@ -11049,6 +11215,7 @@
 				B4F28CEE1C7CB945007C5BBF /* 473-hi.png */,
 				B4F28CEF1C7CB945007C5BBF /* 474-hi.png */,
 				B4F28CF01C7CB945007C5BBF /* 475-hi.png */,
+				B4D692A11C853753009F970D /* 475hiform1.png */,
 				B4F28CF11C7CB945007C5BBF /* 476-hi.png */,
 				B4F28CF21C7CB945007C5BBF /* 477-hi.png */,
 				B4F28CF31C7CB945007C5BBF /* 478-hi.png */,
@@ -11058,6 +11225,11 @@
 				B4F28CF71C7CB945007C5BBF /* 479-hi.png */,
 				B4F28CF81C7CB945007C5BBF /* 479-mow-hi.png */,
 				B4F28CF91C7CB945007C5BBF /* 479-wash-hi.png */,
+				B4D6928C1C853753009F970D /* 479hiform1.png */,
+				B4D6928D1C853753009F970D /* 479hiform2.png */,
+				B4D6928E1C853753009F970D /* 479hiform3.png */,
+				B4D6928F1C853753009F970D /* 479hiform4.png */,
+				B4D692901C853753009F970D /* 479hiform5.png */,
 				B4F28CFA1C7CB945007C5BBF /* 480-hi.png */,
 				B4F28CFB1C7CB945007C5BBF /* 481-hi.png */,
 				B4F28CFC1C7CB945007C5BBF /* 482-hi.png */,
@@ -11068,6 +11240,7 @@
 				B4F28D011C7CB945007C5BBF /* 487-altered-hi.png */,
 				B4F28D021C7CB945007C5BBF /* 487-hi.png */,
 				B4F28D031C7CB945007C5BBF /* 487-origin-hi.png */,
+				B4D6928B1C853753009F970D /* 487hiform1.png */,
 				B4F28D041C7CB945007C5BBF /* 488-hi.png */,
 				B4F28D051C7CB945007C5BBF /* 489-hi.png */,
 				B4F28D061C7CB945007C5BBF /* 490-hi.png */,
@@ -11075,6 +11248,7 @@
 				B4F28D081C7CB945007C5BBF /* 492-hi.png */,
 				B4F28D091C7CB945007C5BBF /* 492-land-hi.png */,
 				B4F28D0A1C7CB945007C5BBF /* 492-sky-hi.png */,
+				B4D6928A1C853753009F970D /* 492hiform1.png */,
 				B4F28D0B1C7CB945007C5BBF /* 493-hi.png */,
 				B4F28D0C1C7CB945007C5BBF /* 493-normal-hi.png */,
 				B4F28D0D1C7CB945007C5BBF /* 494-hi.png */,
@@ -11115,6 +11289,7 @@
 				B4F28D301C7CB945007C5BBF /* 529-hi.png */,
 				B4F28D311C7CB945007C5BBF /* 530-hi.png */,
 				B4F28D321C7CB945007C5BBF /* 531-hi.png */,
+				B4D692A01C853753009F970D /* 531hiform1.png */,
 				B4F28D331C7CB945007C5BBF /* 532-hi.png */,
 				B4F28D341C7CB945007C5BBF /* 533-hi.png */,
 				B4F28D351C7CB945007C5BBF /* 534-hi.png */,
@@ -11136,12 +11311,14 @@
 				B4F28D451C7CB945007C5BBF /* 550-blue-striped-hi.png */,
 				B4F28D461C7CB945007C5BBF /* 550-hi.png */,
 				B4F28D471C7CB945007C5BBF /* 550-red-striped-hi.png */,
+				B4D692891C853753009F970D /* 550hiform1.png */,
 				B4F28D481C7CB945007C5BBF /* 551-hi.png */,
 				B4F28D491C7CB945007C5BBF /* 552-hi.png */,
 				B4F28D4A1C7CB945007C5BBF /* 553-hi.png */,
 				B4F28D4B1C7CB945007C5BBF /* 554-hi.png */,
 				B4F28D4C1C7CB945007C5BBF /* 555-hi.png */,
 				B4F28D4D1C7CB945007C5BBF /* 555-standard-hi.png */,
+				B4D692881C853753009F970D /* 555hiform1.png */,
 				B4F28D4E1C7CB945007C5BBF /* 556-hi.png */,
 				B4F28D4F1C7CB945007C5BBF /* 557-hi.png */,
 				B4F28D501C7CB945007C5BBF /* 558-hi.png */,
@@ -11230,7 +11407,6 @@
 				B4F28DA31C7CB946007C5BBF /* 633-hi.png */,
 				B4F28DA41C7CB946007C5BBF /* 634-hi.png */,
 				B4F28DA51C7CB946007C5BBF /* 635-hi.png */,
-				B4D62DDE1C816BE7007E2CAD /* 660-hi.png */,
 				B4F28DA61C7CB946007C5BBF /* 636-hi.png */,
 				B4F28DA71C7CB946007C5BBF /* 637-hi.png */,
 				B4F28DA81C7CB946007C5BBF /* 638-hi.png */,
@@ -11238,15 +11414,109 @@
 				B4F28DAA1C7CB946007C5BBF /* 640-hi.png */,
 				B4F28DAB1C7CB946007C5BBF /* 641-hi.png */,
 				B4F28DAC1C7CB946007C5BBF /* 641-incarnate-hi.png */,
+				B4D692871C853753009F970D /* 641hiform1.png */,
 				B4F28DAD1C7CB946007C5BBF /* 642-hi.png */,
 				B4F28DAE1C7CB946007C5BBF /* 642-incarnate-hi.png */,
+				B4D692861C853753009F970D /* 642hiform1.png */,
 				B4F28DAF1C7CB946007C5BBF /* 643-hi.png */,
 				B4F28DB01C7CB946007C5BBF /* 644-hi.png */,
 				B4F28DB11C7CB946007C5BBF /* 645-hi.png */,
 				B4F28DB21C7CB946007C5BBF /* 645-incarnate-hi.png */,
+				B4D692851C853753009F970D /* 645hiform1.png */,
 				B4F28DB31C7CB946007C5BBF /* 646-hi.png */,
+				B4D692841C853753009F970D /* 646hiform1.png */,
+				B4D692831C853753009F970D /* 646hiform2.png */,
 				B4F28DB41C7CB946007C5BBF /* 647-hi.png */,
 				B4F28DB51C7CB946007C5BBF /* 647-ordinary-hi.png */,
+				B4D692821C853753009F970D /* 647hiform1.png */,
+				B4D62D481C81647B007E2CAD /* 648-hi.png */,
+				B4D692811C853753009F970D /* 648hiform1.png */,
+				B4D62D491C81647B007E2CAD /* 649-hi.png */,
+				B4D62D4A1C81647B007E2CAD /* 650-hi.png */,
+				B4D62D4B1C81647B007E2CAD /* 651-hi.png */,
+				B4D62D4C1C81647B007E2CAD /* 652-hi.png */,
+				B4D62D4D1C81647B007E2CAD /* 653-hi.png */,
+				B4D62D4E1C81647B007E2CAD /* 654-hi.png */,
+				B4D62D4F1C81647B007E2CAD /* 655-hi.png */,
+				B4D62D501C81647B007E2CAD /* 656-hi.png */,
+				B4D62D511C81647B007E2CAD /* 657-hi.png */,
+				B4D62D521C81647B007E2CAD /* 658-hi.png */,
+				B4D62D531C81647B007E2CAD /* 659-hi.png */,
+				B4D62DDE1C816BE7007E2CAD /* 660-hi.png */,
+				B4D62D541C81647B007E2CAD /* 661-hi.png */,
+				B4D62D551C81647B007E2CAD /* 662-hi.png */,
+				B4D62D561C81647B007E2CAD /* 663-hi.png */,
+				B4D62D571C81647B007E2CAD /* 664-hi.png */,
+				B4D62D581C81647B007E2CAD /* 665-hi.png */,
+				B4D62D591C81647B007E2CAD /* 666-hi.png */,
+				B4D62D5A1C81647B007E2CAD /* 667-hi.png */,
+				B4D62D5B1C81647B007E2CAD /* 668-hi.png */,
+				B4D62D5C1C81647B007E2CAD /* 669-hi.png */,
+				B4D62D5D1C81647B007E2CAD /* 670-hi.png */,
+				B4D692801C853753009F970D /* 670hiform1.png */,
+				B4D62D5E1C81647B007E2CAD /* 671-hi.png */,
+				B4D62D5F1C81647B007E2CAD /* 672-hi.png */,
+				B4D62D601C81647B007E2CAD /* 673-hi.png */,
+				B4D62D611C81647B007E2CAD /* 674-hi.png */,
+				B4D62D621C81647B007E2CAD /* 675-hi.png */,
+				B4D62D631C81647B007E2CAD /* 676-hi.png */,
+				B4D62D641C81647B007E2CAD /* 677-hi.png */,
+				B4D62D651C81647B007E2CAD /* 678-hi.png */,
+				B4D6927F1C853753009F970D /* 678hiform1.png */,
+				B4D62D661C81647B007E2CAD /* 679-hi.png */,
+				B4D62D671C81647B007E2CAD /* 680-hi.png */,
+				B4D62D681C81647B007E2CAD /* 681-hi.png */,
+				B4D6927E1C853753009F970D /* 681hiform1.png */,
+				B4D62D691C81647B007E2CAD /* 682-hi.png */,
+				B4D62D6A1C81647B007E2CAD /* 683-hi.png */,
+				B4D62D6B1C81647B007E2CAD /* 684-hi.png */,
+				B4D62D6C1C81647B007E2CAD /* 685-hi.png */,
+				B4D62D6D1C81647B007E2CAD /* 686-hi.png */,
+				B4D62D6E1C81647B007E2CAD /* 687-hi.png */,
+				B4D62D6F1C81647B007E2CAD /* 688-hi.png */,
+				B4D62D701C81647B007E2CAD /* 689-hi.png */,
+				B4D62D711C81647B007E2CAD /* 690-hi.png */,
+				B4D62D721C81647B007E2CAD /* 691-hi.png */,
+				B4D62D731C81647B007E2CAD /* 692-hi.png */,
+				B4D62D741C81647B007E2CAD /* 693-hi.png */,
+				B4D62D751C81647B007E2CAD /* 694-hi.png */,
+				B4D62D761C81647B007E2CAD /* 695-hi.png */,
+				B4D62D771C81647B007E2CAD /* 696-hi.png */,
+				B4D62D781C81647B007E2CAD /* 697-hi.png */,
+				B4D62D791C81647B007E2CAD /* 698-hi.png */,
+				B4D62D7A1C81647B007E2CAD /* 699-hi.png */,
+				B4D62D7B1C81647B007E2CAD /* 700-hi.png */,
+				B4D62D7C1C81647B007E2CAD /* 701-hi.png */,
+				B4D62D7D1C81647B007E2CAD /* 702-hi.png */,
+				B4D62D7E1C81647B007E2CAD /* 703-hi.png */,
+				B4D62D7F1C81647B007E2CAD /* 704-hi.png */,
+				B4D62D801C81647B007E2CAD /* 705-hi.png */,
+				B4D62D811C81647B007E2CAD /* 706-hi.png */,
+				B4D62D821C81647B007E2CAD /* 707-hi.png */,
+				B4D62D831C81647B007E2CAD /* 708-hi.png */,
+				B4D62D841C81647B007E2CAD /* 709-hi.png */,
+				B4D62D851C81647B007E2CAD /* 710-hi.png */,
+				B4D6927D1C853753009F970D /* 710hiform1.png */,
+				B4D6927C1C853753009F970D /* 710hiform2.png */,
+				B4D6927B1C853753009F970D /* 710hiform3.png */,
+				B4D62D861C81647B007E2CAD /* 711-hi.png */,
+				B4D6927A1C853753009F970D /* 711hiform1.png */,
+				B4D692791C853753009F970D /* 711hiform2.png */,
+				B4D692781C853753009F970D /* 711hiform3.png */,
+				B4D62D871C81647B007E2CAD /* 712-hi.png */,
+				B4D62D881C81647B007E2CAD /* 713-hi.png */,
+				B4D62D891C81647B007E2CAD /* 714-hi.png */,
+				B4D62D8A1C81647B007E2CAD /* 715-hi.png */,
+				B4D62D8B1C81647B007E2CAD /* 716-hi.png */,
+				B4D62D8C1C81647B007E2CAD /* 717-hi.png */,
+				B4D62D8D1C81647B007E2CAD /* 718-hi.png */,
+				B4D62D8E1C81647B007E2CAD /* 719-hi.png */,
+				B4D62D8F1C81647B007E2CAD /* 719-mega.png */,
+				B4D6929F1C853753009F970D /* 719hiform1.png */,
+				B4D62D901C81647B007E2CAD /* 720-hi.png */,
+				B4D62D911C81647C007E2CAD /* 720-small.png */,
+				B4D692771C853753009F970D /* 720hiform1.png */,
+				B4D62D921C81647C007E2CAD /* 721-hi.png */,
 			);
 			name = "Hi Qual";
 			sourceTree = "<group>";
@@ -11403,11 +11673,11 @@
 				B4E84E181C82A04300F62887 /* pokeMoveId604.csv in Resources */,
 				B4E84BEF1C82A04200F62887 /* pokeMoveId51.csv in Resources */,
 				B4EBCD481C7AAFF800D1653C /* 715.mp3 in Resources */,
+				B4D692481C8525DE009F970D /* newformpokeId282.csv in Resources */,
 				B4EBCD261C7AAFF800D1653C /* 681.mp3 in Resources */,
 				B4D812FE1C840A7B0040F61B /* pokemonId427.csv in Resources */,
 				B4EBD1C81C7BAA5F00D1653C /* pokemonDescId424.csv in Resources */,
 				B4F290361C7CB946007C5BBF /* 603-hi.png in Resources */,
-				B4D814731C84C08A0040F61B /* newformpokeId6.csv in Resources */,
 				B4F28EF51C7CB946007C5BBF /* 319-hi.png in Resources */,
 				B4FE760B1C63F8EC003BC527 /* music.mp3 in Resources */,
 				B4D812841C840A7B0040F61B /* pokemonId305.csv in Resources */,
@@ -11440,6 +11710,7 @@
 				B4EBD2701C7BAA5F00D1653C /* pokemonDescId592.csv in Resources */,
 				B4F28F1E1C7CB946007C5BBF /* 360-hi.png in Resources */,
 				B4EBCBAC1C7AAFF800D1653C /* 303.mp3 in Resources */,
+				B4D693231C853754009F970D /* 127hiform1.png in Resources */,
 				B4EBD2781C7BAA5F00D1653C /* pokemonDescId600.csv in Resources */,
 				B4EBD1301C7BAA5F00D1653C /* pokemonDescId272.csv in Resources */,
 				B4EBD1F71C7BAA5F00D1653C /* pokemonDescId471.csv in Resources */,
@@ -11474,7 +11745,6 @@
 				B4F28F0E1C7CB946007C5BBF /* 344-hi.png in Resources */,
 				B4E84E491C82A04300F62887 /* pokeMoveId653.csv in Resources */,
 				B4F28F9C1C7CB946007C5BBF /* 470-hi.png in Resources */,
-				B4D814A81C84C08A0040F61B /* newformpokeId354.csv in Resources */,
 				B4EBD2111C7BAA5F00D1653C /* pokemonDescId497.csv in Resources */,
 				B4D811A21C840A7B0040F61B /* pokemonId79.csv in Resources */,
 				B4E84C441C82A04200F62887 /* pokeMoveId136.csv in Resources */,
@@ -11484,6 +11754,7 @@
 				B4E84C971C82A04200F62887 /* pokeMoveId219.csv in Resources */,
 				B4E84E221C82A04300F62887 /* pokeMoveId614.csv in Resources */,
 				B4E84E041C82A04300F62887 /* pokeMoveId584.csv in Resources */,
+				B4D692491C8525DE009F970D /* newformpokeId257.csv in Resources */,
 				B4F290011C7CB946007C5BBF /* 558-hi.png in Resources */,
 				B4E84D041C82A04300F62887 /* pokeMoveId328.csv in Resources */,
 				B4D8129D1C840A7B0040F61B /* pokemonId330.csv in Resources */,
@@ -11493,7 +11764,9 @@
 				B4D812191C840A7B0040F61B /* pokemonId198.csv in Resources */,
 				B4F28F4D1C7CB946007C5BBF /* 403-hi.png in Resources */,
 				B4D812E21C840A7B0040F61B /* pokemonId399.csv in Resources */,
+				B4D692E01C853754009F970D /* 646hiform1.png in Resources */,
 				B4EBD0931C7BAA5F00D1653C /* pokemonDescId115.csv in Resources */,
+				B4D693291C853754009F970D /* 18hiform1.png in Resources */,
 				B4E84E391C82A04300F62887 /* pokeMoveId637.csv in Resources */,
 				B4F28DF31C7CB946007C5BBF /* 62-hi.png in Resources */,
 				B4D813DF1C840A7B0040F61B /* pokemonId652.csv in Resources */,
@@ -11519,6 +11792,7 @@
 				B4E84CB81C82A04300F62887 /* pokeMoveId252.csv in Resources */,
 				B4E84D491C82A04300F62887 /* pokeMoveId397.csv in Resources */,
 				B4EBD11C1C7BAA5F00D1653C /* pokemonDescId252.csv in Resources */,
+				B4D6930C1C853754009F970D /* 359hiform1.png in Resources */,
 				B4D8116F1C840A7B0040F61B /* pokemonId28.csv in Resources */,
 				B4F28EB91C7CB946007C5BBF /* 259-hi.png in Resources */,
 				B4EBD15E1C7BAA5F00D1653C /* pokemonDescId318.csv in Resources */,
@@ -11556,10 +11830,12 @@
 				B4E84D561C82A04300F62887 /* pokeMoveId410.csv in Resources */,
 				B4EBD12E1C7BAA5F00D1653C /* pokemonDescId270.csv in Resources */,
 				B4E84E3C1C82A04300F62887 /* pokeMoveId640.csv in Resources */,
+				B4D6925F1C8525DE009F970D /* newformpokeId212.csv in Resources */,
 				B4F28E6B1C7CB946007C5BBF /* 182-hi.png in Resources */,
 				B4EBD2601C7BAA5F00D1653C /* pokemonDescId576.csv in Resources */,
 				B4E84DDA1C82A04300F62887 /* pokeMoveId542.csv in Resources */,
 				B4EBCBBC1C7AAFF800D1653C /* 319.mp3 in Resources */,
+				B4D693101C853754009F970D /* 319hiform1.png in Resources */,
 				B4D812EA1C840A7B0040F61B /* pokemonId407.csv in Resources */,
 				B4D812DE1C840A7B0040F61B /* pokemonId395.csv in Resources */,
 				B4EBD0B41C7BAA5F00D1653C /* pokemonDescId148.csv in Resources */,
@@ -11573,6 +11849,7 @@
 				B4EBCC3C1C7AAFF800D1653C /* 447.mp3 in Resources */,
 				B4EBCB4E1C7AAFF800D1653C /* 209.mp3 in Resources */,
 				B4EBCCDF1C7AAFF800D1653C /* 610.mp3 in Resources */,
+				B4D693251C853754009F970D /* 130hiform1.png in Resources */,
 				B4D812131C840A7B0040F61B /* pokemonId192.csv in Resources */,
 				B4F28FB51C7CB946007C5BBF /* 488-hi.png in Resources */,
 				B4EBCA971C7AAFF800D1653C /* 26.mp3 in Resources */,
@@ -11593,6 +11870,7 @@
 				B4EBCD231C7AAFF800D1653C /* 678.mp3 in Resources */,
 				B4F2903A1C7CB946007C5BBF /* 607-hi.png in Resources */,
 				B4E84D4E1C82A04300F62887 /* pokeMoveId402.csv in Resources */,
+				B4D693121C853754009F970D /* 308hiform1.png in Resources */,
 				B4D813E71C840A7B0040F61B /* pokemonId660.csv in Resources */,
 				B4F28DB91C7CB946007C5BBF /* 4-hi.png in Resources */,
 				B4D8127B1C840A7B0040F61B /* pokemonId296.csv in Resources */,
@@ -11603,7 +11881,6 @@
 				B4EBD2D11C7BAA5F00D1653C /* pokemonDescId689.csv in Resources */,
 				B4D62DDD1C81647C007E2CAD /* 721-hi.png in Resources */,
 				B4EBCAEE1C7AAFF800D1653C /* 113.mp3 in Resources */,
-				B4D8149B1C84C08A0040F61B /* newformpokeId681.csv in Resources */,
 				B4EBD2981C7BAA5F00D1653C /* pokemonDescId632.csv in Resources */,
 				B4EBD1E21C7BAA5F00D1653C /* pokemonDescId450.csv in Resources */,
 				B4E84C761C82A04200F62887 /* pokeMoveId186.csv in Resources */,
@@ -11639,7 +11916,9 @@
 				B4F28E2D1C7CB946007C5BBF /* 120-hi.png in Resources */,
 				B4D812B11C840A7B0040F61B /* pokemonId350.csv in Resources */,
 				B4D812CC1C840A7B0040F61B /* pokemonId377.csv in Resources */,
+				B4D6924A1C8525DE009F970D /* newformpokeId260.csv in Resources */,
 				B4D811941C840A7B0040F61B /* pokemonId65.csv in Resources */,
+				B4D692EA1C853754009F970D /* 479hiform3.png in Resources */,
 				B4E84C851C82A04200F62887 /* pokeMoveId201.csv in Resources */,
 				B4E84D1F1C82A04300F62887 /* pokeMoveId355.csv in Resources */,
 				B4D811911C840A7B0040F61B /* pokemonId62.csv in Resources */,
@@ -11657,7 +11936,6 @@
 				B4EBCCE21C7AAFF800D1653C /* 613.mp3 in Resources */,
 				B4E84D161C82A04300F62887 /* pokeMoveId346.csv in Resources */,
 				B4D813401C840A7B0040F61B /* pokemonId493.csv in Resources */,
-				B4D814821C84C08A0040F61B /* newformpokeId719.csv in Resources */,
 				B4EBCAC01C7AAFF800D1653C /* 67.mp3 in Resources */,
 				B4F28F7D1C7CB946007C5BBF /* 439-hi.png in Resources */,
 				B4E84C981C82A04200F62887 /* pokeMoveId220.csv in Resources */,
@@ -11669,7 +11947,6 @@
 				B4E84DAA1C82A04300F62887 /* pokeMoveId494.csv in Resources */,
 				B4F28EF11C7CB946007C5BBF /* 315-hi.png in Resources */,
 				B4EBD28F1C7BAA5F00D1653C /* pokemonDescId623.csv in Resources */,
-				B4D8148B1C84C08A0040F61B /* newformpokeId376.csv in Resources */,
 				B4EBD1421C7BAA5F00D1653C /* pokemonDescId290.csv in Resources */,
 				B4D811CF1C840A7B0040F61B /* pokemonId124.csv in Resources */,
 				B4EBD1DF1C7BAA5F00D1653C /* pokemonDescId447.csv in Resources */,
@@ -11689,8 +11966,8 @@
 				B4F28FD11C7CB946007C5BBF /* 513-hi.png in Resources */,
 				B4D62DDB1C81647C007E2CAD /* 720-hi.png in Resources */,
 				B4F28FA61C7CB946007C5BBF /* 479-frost-hi.png in Resources */,
-				B4D814831C84C08A0040F61B /* newformpokeId254.csv in Resources */,
 				B4EBD14F1C7BAA5F00D1653C /* pokemonDescId303.csv in Resources */,
+				B4D692FB1C853754009F970D /* 719hiform1.png in Resources */,
 				B4EBD1381C7BAA5F00D1653C /* pokemonDescId280.csv in Resources */,
 				B4EBCCD01C7AAFF800D1653C /* 595.mp3 in Resources */,
 				B4E84C0A1C82A04200F62887 /* pokeMoveId78.csv in Resources */,
@@ -11705,6 +11982,7 @@
 				B4F28E2C1C7CB946007C5BBF /* 119-hi.png in Resources */,
 				B4EBD2591C7BAA5F00D1653C /* pokemonDescId569.csv in Resources */,
 				B4E84E1D1C82A04300F62887 /* pokeMoveId609.csv in Resources */,
+				B4D6931C1C853754009F970D /* 214hiform1.png in Resources */,
 				B4D811C71C840A7B0040F61B /* pokemonId116.csv in Resources */,
 				B4EBCCEB1C7AAFF800D1653C /* 622.mp3 in Resources */,
 				B4E84C791C82A04200F62887 /* pokeMoveId189.csv in Resources */,
@@ -11734,13 +12012,13 @@
 				B4F290461C7CB946007C5BBF /* 619-hi.png in Resources */,
 				B4E84C1A1C82A04200F62887 /* pokeMoveId94.csv in Resources */,
 				B4F28F0A1C7CB946007C5BBF /* 340-hi.png in Resources */,
-				B4D814951C84C08A0040F61B /* newformpokeId306.csv in Resources */,
 				B4EBCA9F1C7AAFF800D1653C /* 34.mp3 in Resources */,
 				B4E84C461C82A04200F62887 /* pokeMoveId138.csv in Resources */,
 				B4D813D91C840A7B0040F61B /* pokemonId646.csv in Resources */,
 				B4EBCC881C7AAFF800D1653C /* 523.mp3 in Resources */,
 				B4E84E451C82A04300F62887 /* pokeMoveId649.csv in Resources */,
 				B4F28DE41C7CB946007C5BBF /* 47-hi.png in Resources */,
+				B4D6926C1C8525DE009F970D /* newformpokeId382.csv in Resources */,
 				B4EBD2B01C7BAA5F00D1653C /* pokemonDescId656.csv in Resources */,
 				B4EBD2C81C7BAA5F00D1653C /* pokemonDescId680.csv in Resources */,
 				B4EBD2361C7BAA5F00D1653C /* pokemonDescId534.csv in Resources */,
@@ -11752,6 +12030,7 @@
 				B4D8137E1C840A7B0040F61B /* pokemonId555.csv in Resources */,
 				B4D813191C840A7B0040F61B /* pokemonId454.csv in Resources */,
 				B4EBD0591C7BAA5F00D1653C /* pokemonDescId57.csv in Resources */,
+				B4D6923B1C8525DE009F970D /* newformpokeId150.csv in Resources */,
 				B4E84CD51C82A04300F62887 /* pokeMoveId281.csv in Resources */,
 				B4E84D921C82A04300F62887 /* pokeMoveId470.csv in Resources */,
 				B4E84E2A1C82A04300F62887 /* pokeMoveId622.csv in Resources */,
@@ -11823,7 +12102,7 @@
 				B4F28DD71C7CB946007C5BBF /* 34-hi.png in Resources */,
 				B4F28E491C7CB946007C5BBF /* 148-hi.png in Resources */,
 				B4F28F211C7CB946007C5BBF /* 363-hi.png in Resources */,
-				B4D8146F1C84C08A0040F61B /* newformpokeId386.csv in Resources */,
+				B4D692371C8525DE009F970D /* newformpokeId386.csv in Resources */,
 				B4F28E241C7CB946007C5BBF /* 111-hi.png in Resources */,
 				B4D813181C840A7B0040F61B /* pokemonId453.csv in Resources */,
 				B4EBD07C1C7BAA5F00D1653C /* pokemonDescId92.csv in Resources */,
@@ -11843,7 +12122,6 @@
 				B4E84BC71C82A04200F62887 /* pokeMoveId11.csv in Resources */,
 				B4EBD2AA1C7BAA5F00D1653C /* pokemonDescId650.csv in Resources */,
 				B4E84D8C1C82A04300F62887 /* pokeMoveId464.csv in Resources */,
-				B4D814A61C84C08A0040F61B /* newformpokeId115.csv in Resources */,
 				B4F28FB11C7CB946007C5BBF /* 486-hi.png in Resources */,
 				B4E84C121C82A04200F62887 /* pokeMoveId86.csv in Resources */,
 				B4EBCCB11C7AAFF800D1653C /* 564.mp3 in Resources */,
@@ -11862,6 +12140,7 @@
 				B4EBD1611C7BAA5F00D1653C /* pokemonDescId321.csv in Resources */,
 				B4EBCAE51C7AAFF800D1653C /* 104.mp3 in Resources */,
 				B4F290161C7CB946007C5BBF /* 579-hi.png in Resources */,
+				B4D692D91C853754009F970D /* 710hiform1.png in Resources */,
 				B4F28FA11C7CB946007C5BBF /* 475-hi.png in Resources */,
 				B4EBCBD31C7AAFF800D1653C /* 342.mp3 in Resources */,
 				B4EBCB841C7AAFF800D1653C /* 263.mp3 in Resources */,
@@ -11876,6 +12155,7 @@
 				B4EBCAD91C7AAFF800D1653C /* 92.mp3 in Resources */,
 				B4EBCA7E1C7AAFF800D1653C /* 1.mp3 in Resources */,
 				B4F28F191C7CB946007C5BBF /* 355-hi.png in Resources */,
+				B4D692DF1C853754009F970D /* 646hiform2.png in Resources */,
 				B4D62DBF1C81647C007E2CAD /* 693-hi.png in Resources */,
 				B4EBCC741C7AAFF800D1653C /* 503.mp3 in Resources */,
 				B4F290381C7CB946007C5BBF /* 605-hi.png in Resources */,
@@ -11891,6 +12171,7 @@
 				B4EBCB371C7AAFF800D1653C /* 186.mp3 in Resources */,
 				B4EBCB831C7AAFF800D1653C /* 262.mp3 in Resources */,
 				B4EBCC091C7AAFF800D1653C /* 396.mp3 in Resources */,
+				B4D6926A1C8525DE009F970D /* newformpokeId319.csv in Resources */,
 				B4D813911C840A7B0040F61B /* pokemonId574.csv in Resources */,
 				B4EBD1C51C7BAA5F00D1653C /* pokemonDescId421.csv in Resources */,
 				B4EBD1021C7BAA5F00D1653C /* pokemonDescId226.csv in Resources */,
@@ -11927,6 +12208,7 @@
 				B4E84D931C82A04300F62887 /* pokeMoveId471.csv in Resources */,
 				B4D811791C840A7B0040F61B /* pokemonId38.csv in Resources */,
 				B4E84D241C82A04300F62887 /* pokeMoveId360.csv in Resources */,
+				B4D693271C853754009F970D /* 80hiform1.png in Resources */,
 				B4EBD2841C7BAA5F00D1653C /* pokemonDescId612.csv in Resources */,
 				B4F28E981C7CB946007C5BBF /* 226-hi.png in Resources */,
 				B4EBCCAF1C7AAFF800D1653C /* 562.mp3 in Resources */,
@@ -11965,6 +12247,7 @@
 				B4EBCBE11C7AAFF800D1653C /* 356.mp3 in Resources */,
 				B4EBCB4C1C7AAFF800D1653C /* 207.mp3 in Resources */,
 				B4EBD16F1C7BAA5F00D1653C /* pokemonDescId335.csv in Resources */,
+				B4D692FE1C853754009F970D /* 460hiform1.png in Resources */,
 				B4EBD0271C7BAA5F00D1653C /* pokemonDescId7.csv in Resources */,
 				B4EBD2491C7BAA5F00D1653C /* pokemonDescId553.csv in Resources */,
 				B4EBCBFC1C7AAFF800D1653C /* 383.mp3 in Resources */,
@@ -11984,7 +12267,9 @@
 				B4EBCCD51C7AAFF800D1653C /* 600.mp3 in Resources */,
 				B4F290391C7CB946007C5BBF /* 606-hi.png in Resources */,
 				B4D812291C840A7B0040F61B /* pokemonId214.csv in Resources */,
+				B4D692D31C853754009F970D /* 720hiform1.png in Resources */,
 				B4E84E4E1C82A04300F62887 /* pokeMoveId658.csv in Resources */,
+				B4D692501C8525DE009F970D /* newformpokeId445.csv in Resources */,
 				B4E84E401C82A04300F62887 /* pokeMoveId644.csv in Resources */,
 				B4D8137D1C840A7B0040F61B /* pokemonId554.csv in Resources */,
 				B4EBD1E31C7BAA5F00D1653C /* pokemonDescId451.csv in Resources */,
@@ -12018,6 +12303,7 @@
 				B4E84DEC1C82A04300F62887 /* pokeMoveId560.csv in Resources */,
 				B4F28E031C7CB946007C5BBF /* 78-hi.png in Resources */,
 				B4EBD2B71C7BAA5F00D1653C /* pokemonDescId663.csv in Resources */,
+				B4D6932D1C853754009F970D /* 6hiform2.png in Resources */,
 				B4EBD28D1C7BAA5F00D1653C /* pokemonDescId621.csv in Resources */,
 				B4F28EE41C7CB946007C5BBF /* 302-hi.png in Resources */,
 				B4EBCC331C7AAFF800D1653C /* 438.mp3 in Resources */,
@@ -12048,11 +12334,11 @@
 				B4F28E611C7CB946007C5BBF /* 172-hi.png in Resources */,
 				B4E84D431C82A04300F62887 /* pokeMoveId391.csv in Resources */,
 				B4EBD12F1C7BAA5F00D1653C /* pokemonDescId271.csv in Resources */,
-				B4D814A21C84C08A0040F61B /* newformpokeId94.csv in Resources */,
 				B4F28F181C7CB946007C5BBF /* 354-hi.png in Resources */,
 				B4F28DE21C7CB946007C5BBF /* 45-hi.png in Resources */,
 				B4EBD2BC1C7BAA5F00D1653C /* pokemonDescId668.csv in Resources */,
 				B4EBD1A91C7BAA5F00D1653C /* pokemonDescId393.csv in Resources */,
+				B4D6930D1C853754009F970D /* 354hiform1.png in Resources */,
 				B4E84BCE1C82A04200F62887 /* pokeMoveId18.csv in Resources */,
 				B4EBD24D1C7BAA5F00D1653C /* pokemonDescId557.csv in Resources */,
 				B4EBD0F51C7BAA5F00D1653C /* pokemonDescId213.csv in Resources */,
@@ -12066,6 +12352,7 @@
 				B4EBD1371C7BAA5F00D1653C /* pokemonDescId279.csv in Resources */,
 				B4E84C1C1C82A04200F62887 /* pokeMoveId96.csv in Resources */,
 				B4F28FB81C7CB946007C5BBF /* 491-hi.png in Resources */,
+				B4D692521C8525DE009F970D /* newformpokeId492.csv in Resources */,
 				B4E84DA51C82A04300F62887 /* pokeMoveId489.csv in Resources */,
 				B4EBD2CF1C7BAA5F00D1653C /* pokemonDescId687.csv in Resources */,
 				B4EBD26F1C7BAA5F00D1653C /* pokemonDescId591.csv in Resources */,
@@ -12093,6 +12380,7 @@
 				B4EBCCE11C7AAFF800D1653C /* 612.mp3 in Resources */,
 				B4D811A41C840A7B0040F61B /* pokemonId81.csv in Resources */,
 				B4EBCA881C7AAFF800D1653C /* 11.mp3 in Resources */,
+				B4D6924D1C8525DE009F970D /* newformpokeId254.csv in Resources */,
 				B4E84CAF1C82A04300F62887 /* pokeMoveId243.csv in Resources */,
 				B4F28F4C1C7CB946007C5BBF /* 402-hi.png in Resources */,
 				B4E84E191C82A04300F62887 /* pokeMoveId605.csv in Resources */,
@@ -12110,7 +12398,6 @@
 				B4E84DC31C82A04300F62887 /* pokeMoveId519.csv in Resources */,
 				B4D813261C840A7B0040F61B /* pokemonId467.csv in Resources */,
 				B4E84C6E1C82A04200F62887 /* pokeMoveId178.csv in Resources */,
-				B4D8148A1C84C08A0040F61B /* newformpokeId445.csv in Resources */,
 				B4EBD25B1C7BAA5F00D1653C /* pokemonDescId571.csv in Resources */,
 				B4D811561C840A7B0040F61B /* pokemonId3.csv in Resources */,
 				B4D811D01C840A7B0040F61B /* pokemonId125.csv in Resources */,
@@ -12129,6 +12416,7 @@
 				B4EBCC571C7AAFF800D1653C /* 474.mp3 in Resources */,
 				B4E84CF41C82A04300F62887 /* pokeMoveId312.csv in Resources */,
 				B4EBD12B1C7BAA5F00D1653C /* pokemonDescId267.csv in Resources */,
+				B4D692D51C853754009F970D /* 711hiform2.png in Resources */,
 				B4E84DE21C82A04300F62887 /* pokeMoveId550.csv in Resources */,
 				B4F28E471C7CB946007C5BBF /* 146-hi.png in Resources */,
 				B4EBD0C61C7BAA5F00D1653C /* pokemonDescId166.csv in Resources */,
@@ -12139,7 +12427,6 @@
 				B4EBCB691C7AAFF800D1653C /* 236.mp3 in Resources */,
 				B4EBD0241C7BAA5F00D1653C /* pokemonDescId4.csv in Resources */,
 				B4E84D751C82A04300F62887 /* pokeMoveId441.csv in Resources */,
-				B4D814791C84C08A0040F61B /* newformpokeId15.csv in Resources */,
 				B4EBD0391C7BAA5F00D1653C /* pokemonDescId25.csv in Resources */,
 				B4D813991C840A7B0040F61B /* pokemonId582.csv in Resources */,
 				B4EBCC6E1C7AAFF800D1653C /* 497.mp3 in Resources */,
@@ -12147,17 +12434,18 @@
 				B4EBCAA01C7AAFF800D1653C /* 35.mp3 in Resources */,
 				B4E84CEE1C82A04300F62887 /* pokeMoveId306.csv in Resources */,
 				B4EBD1761C7BAA5F00D1653C /* pokemonDescId342.csv in Resources */,
+				B4D6924B1C8525DE009F970D /* newformpokeId719.csv in Resources */,
 				B4EBCC1A1C7AAFF800D1653C /* 413.mp3 in Resources */,
 				B4D812BA1C840A7B0040F61B /* pokemonId359.csv in Resources */,
 				B4E84C561C82A04200F62887 /* pokeMoveId154.csv in Resources */,
 				B4E84DB81C82A04300F62887 /* pokeMoveId508.csv in Resources */,
 				B4EBD1DC1C7BAA5F00D1653C /* pokemonDescId444.csv in Resources */,
-				B4D8146C1C84C08A0040F61B /* newformpokeId479.csv in Resources */,
 				B4EBCB6D1C7AAFF800D1653C /* 240.mp3 in Resources */,
 				B4D812941C840A7B0040F61B /* pokemonId321.csv in Resources */,
 				B4F28FE51C7CB946007C5BBF /* 533-hi.png in Resources */,
 				B4EBD08F1C7BAA5F00D1653C /* pokemonDescId111.csv in Resources */,
 				B4EBD0961C7BAA5F00D1653C /* pokemonDescId118.csv in Resources */,
+				B4D693081C853754009F970D /* 380hiform1.png in Resources */,
 				B4F28DDF1C7CB946007C5BBF /* 42-hi.png in Resources */,
 				B4EBD2611C7BAA5F00D1653C /* pokemonDescId577.csv in Resources */,
 				B4D8127E1C840A7B0040F61B /* pokemonId299.csv in Resources */,
@@ -12165,8 +12453,10 @@
 				B4F2902F1C7CB946007C5BBF /* 596-hi.png in Resources */,
 				B4E84C2F1C82A04200F62887 /* pokeMoveId115.csv in Resources */,
 				B4D812FF1C840A7B0040F61B /* pokemonId428.csv in Resources */,
+				B4D692E91C853754009F970D /* 479hiform2.png in Resources */,
 				B4D814161C840A7B0040F61B /* pokemonId707.csv in Resources */,
 				B4EBCD4E1C7AAFF800D1653C /* 721.mp3 in Resources */,
+				B4D6923C1C8525DE009F970D /* newformpokeId550.csv in Resources */,
 				B4EBD25F1C7BAA5F00D1653C /* pokemonDescId575.csv in Resources */,
 				B4D8133C1C840A7B0040F61B /* pokemonId489.csv in Resources */,
 				B4F290481C7CB946007C5BBF /* 621-hi.png in Resources */,
@@ -12265,6 +12555,7 @@
 				B4E84D111C82A04300F62887 /* pokeMoveId341.csv in Resources */,
 				B4EBD0AB1C7BAA5F00D1653C /* pokemonDescId139.csv in Resources */,
 				B4F28F171C7CB946007C5BBF /* 353-hi.png in Resources */,
+				B4D692FC1C853754009F970D /* 531hiform1.png in Resources */,
 				B4EBCC3A1C7AAFF800D1653C /* 445.mp3 in Resources */,
 				B4EBD2C21C7BAA5F00D1653C /* pokemonDescId674.csv in Resources */,
 				B4D811781C840A7B0040F61B /* pokemonId37.csv in Resources */,
@@ -12328,8 +12619,8 @@
 				B4F28DE81C7CB946007C5BBF /* 51-hi.png in Resources */,
 				B4F28F8D1C7CB946007C5BBF /* 455-hi.png in Resources */,
 				B4EBD0BC1C7BAA5F00D1653C /* pokemonDescId156.csv in Resources */,
+				B4D692651C8525DE009F970D /* newformpokeId80.csv in Resources */,
 				B4F28FFF1C7CB946007C5BBF /* 556-hi.png in Resources */,
-				B4D8149D1C84C08A0040F61B /* newformpokeId80.csv in Resources */,
 				B4EBCAA21C7AAFF800D1653C /* 37.mp3 in Resources */,
 				B4EBCD311C7AAFF800D1653C /* 692.mp3 in Resources */,
 				B4EBD2711C7BAA5F00D1653C /* pokemonDescId593.csv in Resources */,
@@ -12352,11 +12643,13 @@
 				B4D811F11C840A7B0040F61B /* pokemonId158.csv in Resources */,
 				B4F28EDC1C7CB946007C5BBF /* 294-hi.png in Resources */,
 				B4EBCB7B1C7AAFF800D1653C /* 254.mp3 in Resources */,
+				B4D6931E1C853754009F970D /* 208hiform1.png in Resources */,
 				B4F28F8C1C7CB946007C5BBF /* 454-hi.png in Resources */,
 				B4D62D951C81647C007E2CAD /* 650-hi.png in Resources */,
 				B4EBCC0B1C7AAFF800D1653C /* 398.mp3 in Resources */,
 				B4EBCB921C7AAFF800D1653C /* 277.mp3 in Resources */,
 				B4EBD1531C7BAA5F00D1653C /* pokemonDescId307.csv in Resources */,
+				B4D692F31C853754009F970D /* 351hiform2.png in Resources */,
 				B4EBCA8A1C7AAFF800D1653C /* 13.mp3 in Resources */,
 				B4D813031C840A7B0040F61B /* pokemonId432.csv in Resources */,
 				B4D811EB1C840A7B0040F61B /* pokemonId152.csv in Resources */,
@@ -12407,11 +12700,12 @@
 				B4D813B01C840A7B0040F61B /* pokemonId605.csv in Resources */,
 				B4EBCC971C7AAFF800D1653C /* 538.mp3 in Resources */,
 				B4E84D551C82A04300F62887 /* pokeMoveId409.csv in Resources */,
+				B4D6923F1C8525DE009F970D /* newformpokeId15.csv in Resources */,
 				B4EBD0641C7BAA5F00D1653C /* pokemonDescId68.csv in Resources */,
+				B4D692571C8525DE009F970D /* newformpokeId208.csv in Resources */,
 				B4F2903B1C7CB946007C5BBF /* 608-hi.png in Resources */,
 				B4EBD0EC1C7BAA5F00D1653C /* pokemonDescId204.csv in Resources */,
 				B4EBD2771C7BAA5F00D1653C /* pokemonDescId599.csv in Resources */,
-				B4D8148F1C84C08A0040F61B /* newformpokeId208.csv in Resources */,
 				B4F28F9B1C7CB946007C5BBF /* 469-hi.png in Resources */,
 				B4EBCC061C7AAFF800D1653C /* 393.mp3 in Resources */,
 				B4EBCCE51C7AAFF800D1653C /* 616.mp3 in Resources */,
@@ -12511,6 +12805,7 @@
 				B4F28E1B1C7CB946007C5BBF /* 102-hi.png in Resources */,
 				B4EBCAD11C7AAFF800D1653C /* 84.mp3 in Resources */,
 				B4F28E451C7CB946007C5BBF /* 144-hi.png in Resources */,
+				B4D692561C8525DE009F970D /* newformpokeId181.csv in Resources */,
 				B4EBD0E81C7BAA5F00D1653C /* pokemonDescId200.csv in Resources */,
 				B4D8134D1C840A7B0040F61B /* pokemonId506.csv in Resources */,
 				B4EBCB5C1C7AAFF800D1653C /* 223.mp3 in Resources */,
@@ -12524,7 +12819,7 @@
 				B4F28F2D1C7CB946007C5BBF /* 375-hi.png in Resources */,
 				B4EBD0491C7BAA5F00D1653C /* pokemonDescId41.csv in Resources */,
 				B4D812D81C840A7B0040F61B /* pokemonId389.csv in Resources */,
-				B4D8147F1C84C08A0040F61B /* newformpokeId127.csv in Resources */,
+				B4D692471C8525DE009F970D /* newformpokeId127.csv in Resources */,
 				B4EBD1631C7BAA5F00D1653C /* pokemonDescId323.csv in Resources */,
 				B4EBD0B61C7BAA5F00D1653C /* pokemonDescId150.csv in Resources */,
 				B4D811A01C840A7B0040F61B /* pokemonId77.csv in Resources */,
@@ -12544,9 +12839,9 @@
 				B4EBCC251C7AAFF800D1653C /* 424.mp3 in Resources */,
 				B4E84D261C82A04300F62887 /* pokeMoveId362.csv in Resources */,
 				B4EBCB3A1C7AAFF800D1653C /* 189.mp3 in Resources */,
-				B4D814A91C84C08A0040F61B /* newformpokeId384.csv in Resources */,
 				B4E84DD31C82A04300F62887 /* pokeMoveId535.csv in Resources */,
 				B4F28FD91C7CB946007C5BBF /* 521-hi.png in Resources */,
+				B4D6930B1C853754009F970D /* 362hiform1.png in Resources */,
 				B4F28F531C7CB946007C5BBF /* 409-hi.png in Resources */,
 				B4D811BB1C840A7B0040F61B /* pokemonId104.csv in Resources */,
 				B4EBCA9B1C7AAFF800D1653C /* 30.mp3 in Resources */,
@@ -12567,14 +12862,17 @@
 				B4EBD1AD1C7BAA5F00D1653C /* pokemonDescId397.csv in Resources */,
 				B4F28F541C7CB946007C5BBF /* 410-hi.png in Resources */,
 				B4D812E01C840A7B0040F61B /* pokemonId397.csv in Resources */,
+				B4D6931F1C853754009F970D /* 181hiform1.png in Resources */,
 				B4EBCC3F1C7AAFF800D1653C /* 450.mp3 in Resources */,
 				B4EBCCA61C7AAFF800D1653C /* 553.mp3 in Resources */,
 				B4EBD1DE1C7BAA5F00D1653C /* pokemonDescId446.csv in Resources */,
 				B4F28FB21C7CB946007C5BBF /* 487-altered-hi.png in Resources */,
+				B4D6930E1C853754009F970D /* 334hiform1.png in Resources */,
 				B4EBD09A1C7BAA5F00D1653C /* pokemonDescId122.csv in Resources */,
 				B4EBD14D1C7BAA5F00D1653C /* pokemonDescId301.csv in Resources */,
 				B4E84DE11C82A04300F62887 /* pokeMoveId549.csv in Resources */,
 				B4D8137B1C840A7B0040F61B /* pokemonId552.csv in Resources */,
+				B4D692601C8525DE009F970D /* newformpokeId18.csv in Resources */,
 				B4D813CC1C840A7B0040F61B /* pokemonId633.csv in Resources */,
 				B4EBCB4B1C7AAFF800D1653C /* 206.mp3 in Resources */,
 				B4EBD20F1C7BAA5F00D1653C /* pokemonDescId495.csv in Resources */,
@@ -12582,7 +12880,6 @@
 				B4F28F731C7CB946007C5BBF /* 429-hi.png in Resources */,
 				B4E84D0C1C82A04300F62887 /* pokeMoveId336.csv in Resources */,
 				B4EBD2A81C7BAA5F00D1653C /* pokemonDescId648.csv in Resources */,
-				B4D814931C84C08A0040F61B /* newformpokeId310.csv in Resources */,
 				B4E84CED1C82A04300F62887 /* pokeMoveId305.csv in Resources */,
 				B4E84DAB1C82A04300F62887 /* pokeMoveId495.csv in Resources */,
 				B4EBD2621C7BAA5F00D1653C /* pokemonDescId578.csv in Resources */,
@@ -12609,14 +12906,16 @@
 				B4F28F9D1C7CB946007C5BBF /* 471-hi.png in Resources */,
 				B4EBD0741C7BAA5F00D1653C /* pokemonDescId84.csv in Resources */,
 				B4D8134A1C840A7B0040F61B /* pokemonId503.csv in Resources */,
+				B4D693191C853754009F970D /* 254hiform1.png in Resources */,
 				B4EBCBC71C7AAFF800D1653C /* 330.mp3 in Resources */,
 				B4EBD18E1C7BAA5F00D1653C /* pokemonDescId366.csv in Resources */,
-				B4D8146E1C84C08A0040F61B /* newformpokeId351.csv in Resources */,
 				B4D812771C840A7B0040F61B /* pokemonId292.csv in Resources */,
+				B4D692361C8525DE009F970D /* newformpokeId351.csv in Resources */,
 				B4F28EA01C7CB946007C5BBF /* 234-hi.png in Resources */,
 				B4F28ED81C7CB946007C5BBF /* 290-hi.png in Resources */,
 				B4EBCCCF1C7AAFF800D1653C /* 594.mp3 in Resources */,
 				B4EBD04C1C7BAA5F00D1653C /* pokemonDescId44.csv in Resources */,
+				B4D6926F1C8525DE009F970D /* newformpokeId384.csv in Resources */,
 				B4F28F431C7CB946007C5BBF /* 393-hi.png in Resources */,
 				B4EBD10C1C7BAA5F00D1653C /* pokemonDescId236.csv in Resources */,
 				B4F28E3A1C7CB946007C5BBF /* 133-hi.png in Resources */,
@@ -12660,6 +12959,7 @@
 				B4F28FBF1C7CB946007C5BBF /* 495-hi.png in Resources */,
 				B4F290471C7CB946007C5BBF /* 620-hi.png in Resources */,
 				B4EBCB641C7AAFF800D1653C /* 231.mp3 in Resources */,
+				B4D6925A1C8525DE009F970D /* newformpokeId448.csv in Resources */,
 				B4E84BEC1C82A04200F62887 /* pokeMoveId48.csv in Resources */,
 				B4EBCBAD1C7AAFF800D1653C /* 304.mp3 in Resources */,
 				B4EBCD391C7AAFF800D1653C /* 700.mp3 in Resources */,
@@ -12669,11 +12969,11 @@
 				B4D8119A1C840A7B0040F61B /* pokemonId71.csv in Resources */,
 				B4D62D981C81647C007E2CAD /* 653-hi.png in Resources */,
 				B4F28FB41C7CB946007C5BBF /* 487-origin-hi.png in Resources */,
+				B4D6926E1C8525DE009F970D /* newformpokeId303.csv in Resources */,
 				B4F28F471C7CB946007C5BBF /* 397-hi.png in Resources */,
 				B4EBD0C11C7BAA5F00D1653C /* pokemonDescId161.csv in Resources */,
 				B4F28F5C1C7CB946007C5BBF /* 413-sandy-hi.png in Resources */,
 				B4F28EEC1C7CB946007C5BBF /* 310-hi.png in Resources */,
-				B4D814AE1C84C08A0040F61B /* newformpokeId647.csv in Resources */,
 				B4F28DD91C7CB946007C5BBF /* 36-hi.png in Resources */,
 				B4E84C191C82A04200F62887 /* pokeMoveId93.csv in Resources */,
 				B4F28E091C7CB946007C5BBF /* 84-hi.png in Resources */,
@@ -12682,7 +12982,6 @@
 				B4D813FE1C840A7B0040F61B /* pokemonId683.csv in Resources */,
 				B4EBD0BB1C7BAA5F00D1653C /* pokemonDescId155.csv in Resources */,
 				B4F28FF51C7CB946007C5BBF /* 549-hi.png in Resources */,
-				B4D814911C84C08A0040F61B /* newformpokeId181.csv in Resources */,
 				B4F2901C1C7CB946007C5BBF /* 585-autumn-hi.png in Resources */,
 				B4F290551C7CB946007C5BBF /* 634-hi.png in Resources */,
 				B4D8123B1C840A7B0040F61B /* pokemonId232.csv in Resources */,
@@ -12708,6 +13007,7 @@
 				B4EBCC441C7AAFF800D1653C /* 455.mp3 in Resources */,
 				B4EBD29D1C7BAA5F00D1653C /* pokemonDescId637.csv in Resources */,
 				B4E84C131C82A04200F62887 /* pokeMoveId87.csv in Resources */,
+				B4D692FD1C853754009F970D /* 475hiform1.png in Resources */,
 				B4D8125E1C840A7B0040F61B /* pokemonId267.csv in Resources */,
 				B4F28FC11C7CB946007C5BBF /* 497-hi.png in Resources */,
 				B4D8128A1C840A7B0040F61B /* pokemonId311.csv in Resources */,
@@ -12721,12 +13021,12 @@
 				B4D811731C840A7B0040F61B /* pokemonId32.csv in Resources */,
 				B4EBD2881C7BAA5F00D1653C /* pokemonDescId616.csv in Resources */,
 				B4E84C2C1C82A04200F62887 /* pokeMoveId112.csv in Resources */,
+				B4D692FA1C853754009F970D /* 25hiform6.png in Resources */,
 				B4EBD1B31C7BAA5F00D1653C /* pokemonDescId403.csv in Resources */,
 				B4D811E11C840A7B0040F61B /* pokemonId142.csv in Resources */,
 				B4EBCCCC1C7AAFF800D1653C /* 591.mp3 in Resources */,
 				B4F28DC01C7CB946007C5BBF /* 11-hi.png in Resources */,
 				B4E84CD11C82A04300F62887 /* pokeMoveId277.csv in Resources */,
-				B4D814A41C84C08A0040F61B /* newformpokeId142.csv in Resources */,
 				B4EBCCC11C7AAFF800D1653C /* 580.mp3 in Resources */,
 				B4D812E71C840A7B0040F61B /* pokemonId404.csv in Resources */,
 				B4EBD1EE1C7BAA5F00D1653C /* pokemonDescId462.csv in Resources */,
@@ -12747,6 +13047,7 @@
 				B4EBD07F1C7BAA5F00D1653C /* pokemonDescId95.csv in Resources */,
 				B4E84DDB1C82A04300F62887 /* pokeMoveId543.csv in Resources */,
 				B4F290241C7CB946007C5BBF /* 586-summer-hi.png in Resources */,
+				B4D693201C853754009F970D /* 150hiform1.png in Resources */,
 				B4D62D9A1C81647C007E2CAD /* 655-hi.png in Resources */,
 				B4E84D231C82A04300F62887 /* pokeMoveId359.csv in Resources */,
 				B4F28EA11C7CB946007C5BBF /* 235-hi.png in Resources */,
@@ -12804,6 +13105,7 @@
 				B4F28EA31C7CB946007C5BBF /* 237-hi.png in Resources */,
 				B4F28DCF1C7CB946007C5BBF /* 26-hi.png in Resources */,
 				B4D8136F1C840A7B0040F61B /* pokemonId540.csv in Resources */,
+				B4D6926B1C8525DE009F970D /* newformpokeId142.csv in Resources */,
 				B4EBD1B11C7BAA5F00D1653C /* pokemonDescId401.csv in Resources */,
 				B4E84E031C82A04300F62887 /* pokeMoveId583.csv in Resources */,
 				B4EBD28C1C7BAA5F00D1653C /* pokemonDescId620.csv in Resources */,
@@ -12851,7 +13153,6 @@
 				B4D8136C1C840A7B0040F61B /* pokemonId537.csv in Resources */,
 				B4F28E201C7CB946007C5BBF /* 107-hi.png in Resources */,
 				B4F28E541C7CB946007C5BBF /* 159-hi.png in Resources */,
-				B4D814AA1C84C08A0040F61B /* newformpokeId487.csv in Resources */,
 				B4F28EBB1C7CB946007C5BBF /* 261-hi.png in Resources */,
 				B4F28EEB1C7CB946007C5BBF /* 309-hi.png in Resources */,
 				B4D811591C840A7B0040F61B /* pokemonId6.csv in Resources */,
@@ -12863,6 +13164,7 @@
 				B4E84BCA1C82A04200F62887 /* pokeMoveId14.csv in Resources */,
 				B4E84D371C82A04300F62887 /* pokeMoveId379.csv in Resources */,
 				B4F28ECF1C7CB946007C5BBF /* 281-hi.png in Resources */,
+				B4D692DB1C853754009F970D /* 678hiform1.png in Resources */,
 				B4EBCC1B1C7AAFF800D1653C /* 414.mp3 in Resources */,
 				B4D813D21C840A7B0040F61B /* pokemonId639.csv in Resources */,
 				B4E84C161C82A04200F62887 /* pokeMoveId90.csv in Resources */,
@@ -12880,7 +13182,6 @@
 				B4EBD2511C7BAA5F00D1653C /* pokemonDescId561.csv in Resources */,
 				B4EBCCDD1C7AAFF800D1653C /* 608.mp3 in Resources */,
 				B4D812AF1C840A7B0040F61B /* pokemonId348.csv in Resources */,
-				B4D814891C84C08A0040F61B /* newformpokeId334.csv in Resources */,
 				B4EBCD441C7AAFF800D1653C /* 711.mp3 in Resources */,
 				B4E84D151C82A04300F62887 /* pokeMoveId345.csv in Resources */,
 				B4F290301C7CB946007C5BBF /* 597-hi.png in Resources */,
@@ -12932,7 +13233,6 @@
 				B4F2901B1C7CB946007C5BBF /* 584-hi.png in Resources */,
 				B4F28FAE1C7CB946007C5BBF /* 483-hi.png in Resources */,
 				B4EBD0571C7BAA5F00D1653C /* pokemonDescId55.csv in Resources */,
-				B4D8149F1C84C08A0040F61B /* newformpokeId65.csv in Resources */,
 				B4F28FC91C7CB946007C5BBF /* 505-hi.png in Resources */,
 				B4EBD0B01C7BAA5F00D1653C /* pokemonDescId144.csv in Resources */,
 				B4EBD1EF1C7BAA5F00D1653C /* pokemonDescId463.csv in Resources */,
@@ -12941,7 +13241,6 @@
 				B4E84E4C1C82A04300F62887 /* pokeMoveId656.csv in Resources */,
 				B4EBCBB41C7AAFF800D1653C /* 311.mp3 in Resources */,
 				B4D8139B1C840A7B0040F61B /* pokemonId584.csv in Resources */,
-				B4D814AC1C84C08A0040F61B /* newformpokeId359.csv in Resources */,
 				B4D812491C840A7B0040F61B /* pokemonId246.csv in Resources */,
 				B4F28EC41C7CB946007C5BBF /* 270-hi.png in Resources */,
 				B4E84E381C82A04300F62887 /* pokeMoveId636.csv in Resources */,
@@ -12978,6 +13277,7 @@
 				B4D811FE1C840A7B0040F61B /* pokemonId171.csv in Resources */,
 				B4D8124E1C840A7B0040F61B /* pokemonId251.csv in Resources */,
 				B4EBCA931C7AAFF800D1653C /* 22.mp3 in Resources */,
+				B4D692EC1C853754009F970D /* 479hiform5.png in Resources */,
 				B4EBD0E71C7BAA5F00D1653C /* pokemonDescId199.csv in Resources */,
 				B4EBD15C1C7BAA5F00D1653C /* pokemonDescId316.csv in Resources */,
 				B4EBCCDC1C7AAFF800D1653C /* 607.mp3 in Resources */,
@@ -12988,8 +13288,10 @@
 				B4EBD2631C7BAA5F00D1653C /* pokemonDescId579.csv in Resources */,
 				B4F28FDF1C7CB946007C5BBF /* 527-hi.png in Resources */,
 				B4D812A81C840A7B0040F61B /* pokemonId341.csv in Resources */,
+				B4D692681C8525DE009F970D /* newformpokeId65.csv in Resources */,
 				B4D812711C840A7B0040F61B /* pokemonId286.csv in Resources */,
 				B4D811961C840A7B0040F61B /* pokemonId67.csv in Resources */,
+				B4D693211C853754009F970D /* 150hiform2.png in Resources */,
 				B4EBD1271C7BAA5F00D1653C /* pokemonDescId263.csv in Resources */,
 				B4EBD09F1C7BAA5F00D1653C /* pokemonDescId127.csv in Resources */,
 				B4EBD2791C7BAA5F00D1653C /* pokemonDescId601.csv in Resources */,
@@ -13022,6 +13324,7 @@
 				B4EBCBB31C7AAFF800D1653C /* 310.mp3 in Resources */,
 				B4EBCAC21C7AAFF800D1653C /* 69.mp3 in Resources */,
 				B4EBD27C1C7BAA5F00D1653C /* pokemonDescId604.csv in Resources */,
+				B4D693221C853754009F970D /* 142hiform1.png in Resources */,
 				B4F28F6E1C7CB946007C5BBF /* 424-hi.png in Resources */,
 				B4EBD23F1C7BAA5F00D1653C /* pokemonDescId543.csv in Resources */,
 				B4E84C511C82A04200F62887 /* pokeMoveId149.csv in Resources */,
@@ -13031,6 +13334,7 @@
 				B4E84CF51C82A04300F62887 /* pokeMoveId313.csv in Resources */,
 				B4D812B51C840A7B0040F61B /* pokemonId354.csv in Resources */,
 				B4EBCB961C7AAFF800D1653C /* 281.mp3 in Resources */,
+				B4D692511C8525DE009F970D /* newformpokeId376.csv in Resources */,
 				B4EBD0851C7BAA5F00D1653C /* pokemonDescId101.csv in Resources */,
 				B4E84DE01C82A04300F62887 /* pokeMoveId548.csv in Resources */,
 				B4D812521C840A7B0040F61B /* pokemonId255.csv in Resources */,
@@ -13086,11 +13390,13 @@
 				B4E84CD91C82A04300F62887 /* pokeMoveId285.csv in Resources */,
 				B4EBD1601C7BAA5F00D1653C /* pokemonDescId320.csv in Resources */,
 				B4D811D51C840A7B0040F61B /* pokemonId130.csv in Resources */,
+				B4D693161C853754009F970D /* 282hiform1.png in Resources */,
 				B4F28E691C7CB946007C5BBF /* 180-hi.png in Resources */,
 				B4E84BE51C82A04200F62887 /* pokeMoveId41.csv in Resources */,
 				B4D813711C840A7B0040F61B /* pokemonId542.csv in Resources */,
 				B4EBD1F51C7BAA5F00D1653C /* pokemonDescId469.csv in Resources */,
 				B4E84CBA1C82A04300F62887 /* pokeMoveId254.csv in Resources */,
+				B4D692FF1C853754009F970D /* 448hiform1.png in Resources */,
 				B4F28FF71C7CB946007C5BBF /* 550-hi.png in Resources */,
 				B4D812161C840A7B0040F61B /* pokemonId195.csv in Resources */,
 				B4D813151C840A7B0040F61B /* pokemonId450.csv in Resources */,
@@ -13101,20 +13407,22 @@
 				B4F28F711C7CB946007C5BBF /* 427-hi.png in Resources */,
 				B4F28E401C7CB946007C5BBF /* 139-hi.png in Resources */,
 				B4D813F41C840A7B0040F61B /* pokemonId673.csv in Resources */,
+				B4D692581C8525DE009F970D /* newformpokeId308.csv in Resources */,
 				B4E84E371C82A04300F62887 /* pokeMoveId635.csv in Resources */,
 				B4F28F661C7CB946007C5BBF /* 421-overcast-hi.png in Resources */,
 				B4E84E3E1C82A04300F62887 /* pokeMoveId642.csv in Resources */,
 				B4EBCD221C7AAFF800D1653C /* 677.mp3 in Resources */,
 				B4EBCCA41C7AAFF800D1653C /* 551.mp3 in Resources */,
 				B4EBD1C21C7BAA5F00D1653C /* pokemonDescId418.csv in Resources */,
+				B4D6926D1C8525DE009F970D /* newformpokeId214.csv in Resources */,
 				B4F28EB71C7CB946007C5BBF /* 257-hi.png in Resources */,
 				B4EBD0C01C7BAA5F00D1653C /* pokemonDescId160.csv in Resources */,
 				B4EBCACF1C7AAFF800D1653C /* 82.mp3 in Resources */,
 				B4EBCC231C7AAFF800D1653C /* 422.mp3 in Resources */,
 				B4E84DE31C82A04300F62887 /* pokeMoveId551.csv in Resources */,
-				B4D814A51C84C08A0040F61B /* newformpokeId214.csv in Resources */,
 				B4F28F121C7CB946007C5BBF /* 348-hi.png in Resources */,
 				B4F28FB01C7CB946007C5BBF /* 485-hi.png in Resources */,
+				B4D692631C8525DE009F970D /* newformpokeId306.csv in Resources */,
 				B4F28FCC1C7CB946007C5BBF /* 508-hi.png in Resources */,
 				B4EBCBD61C7AAFF800D1653C /* 345.mp3 in Resources */,
 				B4EBCD081C7AAFF800D1653C /* 651.mp3 in Resources */,
@@ -13130,6 +13438,7 @@
 				B4D811E61C840A7B0040F61B /* pokemonId147.csv in Resources */,
 				B4EBD0F01C7BAA5F00D1653C /* pokemonDescId208.csv in Resources */,
 				B4E84D971C82A04300F62887 /* pokeMoveId475.csv in Resources */,
+				B4D692531C8525DE009F970D /* newformpokeId460.csv in Resources */,
 				B4D812091C840A7B0040F61B /* pokemonId182.csv in Resources */,
 				B4EBCBF61C7AAFF800D1653C /* 377.mp3 in Resources */,
 				B4F28DD21C7CB946007C5BBF /* 29-hi.png in Resources */,
@@ -13180,10 +13489,13 @@
 				B4EBCBF41C7AAFF800D1653C /* 375.mp3 in Resources */,
 				B4E84C311C82A04200F62887 /* pokeMoveId117.csv in Resources */,
 				B4E84DCC1C82A04300F62887 /* pokeMoveId528.csv in Resources */,
+				B4D692ED1C853754009F970D /* 413hiform1.png in Resources */,
 				B4E84C391C82A04200F62887 /* pokeMoveId125.csv in Resources */,
 				B4E84D5F1C82A04300F62887 /* pokeMoveId419.csv in Resources */,
 				B4F28EB01C7CB946007C5BBF /* 250-hi.png in Resources */,
 				B4EBD1801C7BAA5F00D1653C /* pokemonDescId352.csv in Resources */,
+				B4D6930F1C853754009F970D /* 323hiform1.png in Resources */,
+				B4D693011C853754009F970D /* 428hiform1.png in Resources */,
 				B4E84BD91C82A04200F62887 /* pokeMoveId29.csv in Resources */,
 				B4D811AD1C840A7B0040F61B /* pokemonId90.csv in Resources */,
 				B4EBCAAC1C7AAFF800D1653C /* 47.mp3 in Resources */,
@@ -13206,7 +13518,7 @@
 				B4E84E0B1C82A04300F62887 /* pokeMoveId591.csv in Resources */,
 				B4EBCC9A1C7AAFF800D1653C /* 541.mp3 in Resources */,
 				B4D812BB1C840A7B0040F61B /* pokemonId360.csv in Resources */,
-				B4D8147B1C84C08A0040F61B /* newformpokeId229.csv in Resources */,
+				B4D692431C8525DE009F970D /* newformpokeId229.csv in Resources */,
 				B4EBCAC11C7AAFF800D1653C /* 68.mp3 in Resources */,
 				B4D62DC51C81647C007E2CAD /* 699-hi.png in Resources */,
 				B4F290501C7CB946007C5BBF /* 629-hi.png in Resources */,
@@ -13290,12 +13602,15 @@
 				B4D812DD1C840A7B0040F61B /* pokemonId394.csv in Resources */,
 				B4EBCB661C7AAFF800D1653C /* 233.mp3 in Resources */,
 				B4F28E971C7CB946007C5BBF /* 225-hi.png in Resources */,
+				B4D692F81C853754009F970D /* 25hiform4.png in Resources */,
 				B4EBCCE31C7AAFF800D1653C /* 614.mp3 in Resources */,
 				B4E84D761C82A04300F62887 /* pokeMoveId442.csv in Resources */,
 				B4EBCC191C7AAFF800D1653C /* 412.mp3 in Resources */,
 				B4EBD2B31C7BAA5F00D1653C /* pokemonDescId659.csv in Resources */,
+				B4D693261C853754009F970D /* 94hiform1.png in Resources */,
 				B4D812ED1C840A7B0040F61B /* pokemonId410.csv in Resources */,
 				B4D813B61C840A7B0040F61B /* pokemonId611.csv in Resources */,
+				B4D6931A1C853754009F970D /* 248hiform1.png in Resources */,
 				B4D812971C840A7B0040F61B /* pokemonId324.csv in Resources */,
 				B4E84D651C82A04300F62887 /* pokeMoveId425.csv in Resources */,
 				B4D813671C840A7B0040F61B /* pokemonId532.csv in Resources */,
@@ -13328,10 +13643,10 @@
 				B4E84D531C82A04300F62887 /* pokeMoveId407.csv in Resources */,
 				B4D812401C840A7B0040F61B /* pokemonId237.csv in Resources */,
 				B4E84C991C82A04200F62887 /* pokeMoveId221.csv in Resources */,
+				B4D6924F1C8525DE009F970D /* newformpokeId720.csv in Resources */,
 				B4F28E731C7CB946007C5BBF /* 190-hi.png in Resources */,
 				B4F290231C7CB946007C5BBF /* 586-spring-hi.png in Resources */,
 				B4D812001C840A7B0040F61B /* pokemonId173.csv in Resources */,
-				B4D814871C84C08A0040F61B /* newformpokeId720.csv in Resources */,
 				B4D813891C840A7B0040F61B /* pokemonId566.csv in Resources */,
 				B4EBD1391C7BAA5F00D1653C /* pokemonDescId281.csv in Resources */,
 				B4EBD2101C7BAA5F00D1653C /* pokemonDescId496.csv in Resources */,
@@ -13344,11 +13659,11 @@
 				B4EBD2DD1C7BAA5F00D1653C /* pokemonDescId701.csv in Resources */,
 				B4EBD1901C7BAA5F00D1653C /* pokemonDescId368.csv in Resources */,
 				B4F28E781C7CB946007C5BBF /* 195-hi.png in Resources */,
+				B4D692E11C853754009F970D /* 645hiform1.png in Resources */,
 				B4E84DE61C82A04300F62887 /* pokeMoveId554.csv in Resources */,
 				B4EBD0A61C7BAA5F00D1653C /* pokemonDescId134.csv in Resources */,
 				B4D812301C840A7B0040F61B /* pokemonId221.csv in Resources */,
 				B4E84DF41C82A04300F62887 /* pokeMoveId568.csv in Resources */,
-				B4D814841C84C08A0040F61B /* newformpokeId282.csv in Resources */,
 				B4D811931C840A7B0040F61B /* pokemonId64.csv in Resources */,
 				B4E84BC11C82A04200F62887 /* pokeMoveId5.csv in Resources */,
 				B4EBD2DC1C7BAA5F00D1653C /* pokemonDescId700.csv in Resources */,
@@ -13359,16 +13674,17 @@
 				B4EBCC321C7AAFF800D1653C /* 437.mp3 in Resources */,
 				B4E84C731C82A04200F62887 /* pokeMoveId183.csv in Resources */,
 				B4EBD24E1C7BAA5F00D1653C /* pokemonDescId558.csv in Resources */,
+				B4D692E51C853754009F970D /* 550hiform1.png in Resources */,
 				B4E84BE21C82A04200F62887 /* pokeMoveId38.csv in Resources */,
 				B4EBCAC71C7AAFF800D1653C /* 74.mp3 in Resources */,
 				B4E84DD81C82A04300F62887 /* pokeMoveId540.csv in Resources */,
-				B4D814781C84C08A0040F61B /* newformpokeId9.csv in Resources */,
 				B4E84E261C82A04300F62887 /* pokeMoveId618.csv in Resources */,
 				B4EBCB2C1C7AAFF800D1653C /* 175.mp3 in Resources */,
 				B4EBCB9C1C7AAFF800D1653C /* 287.mp3 in Resources */,
 				B4EBCC841C7AAFF800D1653C /* 519.mp3 in Resources */,
 				B4E84E431C82A04300F62887 /* pokeMoveId647.csv in Resources */,
 				B4EBCCE61C7AAFF800D1653C /* 617.mp3 in Resources */,
+				B4D692671C8525DE009F970D /* newformpokeId94.csv in Resources */,
 				B4F28FAF1C7CB946007C5BBF /* 484-hi.png in Resources */,
 				B4EBD23B1C7BAA5F00D1653C /* pokemonDescId539.csv in Resources */,
 				B4EBD1521C7BAA5F00D1653C /* pokemonDescId306.csv in Resources */,
@@ -13402,6 +13718,7 @@
 				B4F28DF91C7CB946007C5BBF /* 68-hi.png in Resources */,
 				B4E84D091C82A04300F62887 /* pokeMoveId333.csv in Resources */,
 				B4D812BF1C840A7B0040F61B /* pokemonId364.csv in Resources */,
+				B4D6932C1C853754009F970D /* 6hiform1.png in Resources */,
 				B4EBD11B1C7BAA5F00D1653C /* pokemonDescId251.csv in Resources */,
 				B4EBD0A81C7BAA5F00D1653C /* pokemonDescId136.csv in Resources */,
 				B4D813D81C840A7B0040F61B /* pokemonId645.csv in Resources */,
@@ -13409,6 +13726,7 @@
 				B4D813941C840A7B0040F61B /* pokemonId577.csv in Resources */,
 				B4EBD14E1C7BAA5F00D1653C /* pokemonDescId302.csv in Resources */,
 				B4EBD17D1C7BAA5F00D1653C /* pokemonDescId349.csv in Resources */,
+				B4D692F21C853754009F970D /* 351hiform1.png in Resources */,
 				B4EBD0811C7BAA5F00D1653C /* pokemonDescId97.csv in Resources */,
 				B4E84CD61C82A04300F62887 /* pokeMoveId282.csv in Resources */,
 				B4EBD20A1C7BAA5F00D1653C /* pokemonDescId490.csv in Resources */,
@@ -13439,6 +13757,7 @@
 				B4EBCCEF1C7AAFF800D1653C /* 626.mp3 in Resources */,
 				B4EBD16C1C7BAA5F00D1653C /* pokemonDescId332.csv in Resources */,
 				B4EBD0441C7BAA5F00D1653C /* pokemonDescId36.csv in Resources */,
+				B4D692DC1C853754009F970D /* 670hiform1.png in Resources */,
 				B4EBD1501C7BAA5F00D1653C /* pokemonDescId304.csv in Resources */,
 				B4E84BFB1C82A04200F62887 /* pokeMoveId63.csv in Resources */,
 				B4D812121C840A7B0040F61B /* pokemonId191.csv in Resources */,
@@ -13474,10 +13793,11 @@
 				B4EBCB751C7AAFF800D1653C /* 248.mp3 in Resources */,
 				B4E84E3B1C82A04300F62887 /* pokeMoveId639.csv in Resources */,
 				B4EBD22C1C7BAA5F00D1653C /* pokemonDescId524.csv in Resources */,
-				B4D8147C1C84C08A0040F61B /* newformpokeId642.csv in Resources */,
+				B4D6924C1C8525DE009F970D /* newformpokeId248.csv in Resources */,
 				B4EBCB8A1C7AAFF800D1653C /* 269.mp3 in Resources */,
-				B4D814771C84C08A0040F61B /* newformpokeId670.csv in Resources */,
+				B4D692441C8525DE009F970D /* newformpokeId642.csv in Resources */,
 				B4EBCD071C7AAFF800D1653C /* 650.mp3 in Resources */,
+				B4D6923A1C8525DE009F970D /* newformpokeId6.csv in Resources */,
 				B4D811851C840A7B0040F61B /* pokemonId50.csv in Resources */,
 				B4EBCB291C7AAFF800D1653C /* 172.mp3 in Resources */,
 				B4EBD0801C7BAA5F00D1653C /* pokemonDescId96.csv in Resources */,
@@ -13490,7 +13810,6 @@
 				B4D813561C840A7B0040F61B /* pokemonId515.csv in Resources */,
 				B4F28EDB1C7CB946007C5BBF /* 293-hi.png in Resources */,
 				B4EBCBEB1C7AAFF800D1653C /* 366.mp3 in Resources */,
-				B4D814881C84C08A0040F61B /* newformpokeId460.csv in Resources */,
 				B4F28F021C7CB946007C5BBF /* 332-hi.png in Resources */,
 				B4EBCD361C7AAFF800D1653C /* 697.mp3 in Resources */,
 				B4EBD0DE1C7BAA5F00D1653C /* pokemonDescId190.csv in Resources */,
@@ -13538,6 +13857,7 @@
 				B4F28F601C7CB946007C5BBF /* 416-hi.png in Resources */,
 				B4EBD2821C7BAA5F00D1653C /* pokemonDescId610.csv in Resources */,
 				B4D811751C840A7B0040F61B /* pokemonId34.csv in Resources */,
+				B4D692711C8525DE009F970D /* newformpokeId487.csv in Resources */,
 				B4EBCC861C7AAFF800D1653C /* 521.mp3 in Resources */,
 				B4F28E6A1C7CB946007C5BBF /* 181-hi.png in Resources */,
 				B4F28F591C7CB946007C5BBF /* 412-trash-hi.png in Resources */,
@@ -13561,8 +13881,9 @@
 				B4F28DE51C7CB946007C5BBF /* 48-hi.png in Resources */,
 				B4E84BD41C82A04200F62887 /* pokeMoveId24.csv in Resources */,
 				B4EBCC0F1C7AAFF800D1653C /* 402.mp3 in Resources */,
+				B4D692331C8525DE009F970D /* newformpokeId479.csv in Resources */,
 				B4EBD2D81C7BAA5F00D1653C /* pokemonDescId696.csv in Resources */,
-				B4D8146D1C84C08A0040F61B /* newformpokeId710.csv in Resources */,
+				B4D692351C8525DE009F970D /* newformpokeId710.csv in Resources */,
 				B4EBCD211C7AAFF800D1653C /* 676.mp3 in Resources */,
 				B4D813AE1C840A7B0040F61B /* pokemonId603.csv in Resources */,
 				B4E84E301C82A04300F62887 /* pokeMoveId628.csv in Resources */,
@@ -13594,6 +13915,7 @@
 				B4EBCD141C7AAFF800D1653C /* 663.mp3 in Resources */,
 				B4D811E41C840A7B0040F61B /* pokemonId145.csv in Resources */,
 				B4EBD0DA1C7BAA5F00D1653C /* pokemonDescId186.csv in Resources */,
+				B4D692EF1C853754009F970D /* 386hiform1.png in Resources */,
 				B4EBCA8B1C7AAFF800D1653C /* 14.mp3 in Resources */,
 				B4D813F21C840A7B0040F61B /* pokemonId671.csv in Resources */,
 				B4EBD1E11C7BAA5F00D1653C /* pokemonDescId449.csv in Resources */,
@@ -13621,7 +13943,6 @@
 				B4EBCD001C7AAFF800D1653C /* 643.mp3 in Resources */,
 				B4F28EED1C7CB946007C5BBF /* 311-hi.png in Resources */,
 				B4F28E551C7CB946007C5BBF /* 160-hi.png in Resources */,
-				B4D8149A1C84C08A0040F61B /* newformpokeId641.csv in Resources */,
 				B4F28E561C7CB946007C5BBF /* 161-hi.png in Resources */,
 				B4EBCA8E1C7AAFF800D1653C /* 17.mp3 in Resources */,
 				B4EBD1C41C7BAA5F00D1653C /* pokemonDescId420.csv in Resources */,
@@ -13679,9 +14000,11 @@
 				B4F290651C7CB946007C5BBF /* 647-hi.png in Resources */,
 				B4E84D5A1C82A04300F62887 /* pokeMoveId414.csv in Resources */,
 				B4D813921C840A7B0040F61B /* pokemonId575.csv in Resources */,
+				B4D692E61C853754009F970D /* 492hiform1.png in Resources */,
 				B4EBCC2B1C7AAFF800D1653C /* 430.mp3 in Resources */,
 				B4E84CB61C82A04300F62887 /* pokeMoveId250.csv in Resources */,
 				B4EBCA861C7AAFF800D1653C /* 9.mp3 in Resources */,
+				B4D692E41C853754009F970D /* 555hiform1.png in Resources */,
 				B4D8116D1C840A7B0040F61B /* pokemonId26.csv in Resources */,
 				B4EBCD321C7AAFF800D1653C /* 693.mp3 in Resources */,
 				B4E84CA21C82A04300F62887 /* pokeMoveId230.csv in Resources */,
@@ -13711,8 +14034,8 @@
 				B4F28F3D1C7CB946007C5BBF /* 387-hi.png in Resources */,
 				B4EBCB9B1C7AAFF800D1653C /* 286.mp3 in Resources */,
 				B4D813611C840A7B0040F61B /* pokemonId526.csv in Resources */,
+				B4D693141C853754009F970D /* 303hiform1.png in Resources */,
 				B4EBCAFB1C7AAFF800D1653C /* 126.mp3 in Resources */,
-				B4D814A31C84C08A0040F61B /* newformpokeId382.csv in Resources */,
 				B4E84CFD1C82A04300F62887 /* pokeMoveId321.csv in Resources */,
 				B4EBCCF91C7AAFF800D1653C /* 636.mp3 in Resources */,
 				B4EBCCFF1C7AAFF800D1653C /* 642.mp3 in Resources */,
@@ -13732,7 +14055,6 @@
 				B4D813341C840A7B0040F61B /* pokemonId481.csv in Resources */,
 				B4EBD2801C7BAA5F00D1653C /* pokemonDescId608.csv in Resources */,
 				B4EBD1BE1C7BAA5F00D1653C /* pokemonDescId414.csv in Resources */,
-				B4D814921C84C08A0040F61B /* newformpokeId308.csv in Resources */,
 				B4D8123A1C840A7B0040F61B /* pokemonId231.csv in Resources */,
 				B4F28FD01C7CB946007C5BBF /* 512-hi.png in Resources */,
 				B4D812F31C840A7B0040F61B /* pokemonId416.csv in Resources */,
@@ -13740,17 +14062,17 @@
 				B4EBCB531C7AAFF800D1653C /* 214.mp3 in Resources */,
 				B4EBD07E1C7BAA5F00D1653C /* pokemonDescId94.csv in Resources */,
 				B4EBCBFD1C7AAFF800D1653C /* 384.mp3 in Resources */,
-				B4D814741C84C08A0040F61B /* newformpokeId150.csv in Resources */,
 				B4E84C3F1C82A04200F62887 /* pokeMoveId131.csv in Resources */,
 				B4D813B81C840A7B0040F61B /* pokemonId613.csv in Resources */,
+				B4D693001C853754009F970D /* 445hiform1.png in Resources */,
 				B4F28F351C7CB946007C5BBF /* 383-hi.png in Resources */,
 				B4EBD04B1C7BAA5F00D1653C /* pokemonDescId43.csv in Resources */,
 				B4E84CC51C82A04300F62887 /* pokeMoveId265.csv in Resources */,
 				B4EBD26A1C7BAA5F00D1653C /* pokemonDescId586.csv in Resources */,
 				B4E84DB41C82A04300F62887 /* pokeMoveId504.csv in Resources */,
 				B4EBD1D71C7BAA5F00D1653C /* pokemonDescId439.csv in Resources */,
-				B4D8147E1C84C08A0040F61B /* newformpokeId383.csv in Resources */,
 				B4E84DA31C82A04300F62887 /* pokeMoveId487.csv in Resources */,
+				B4D692461C8525DE009F970D /* newformpokeId383.csv in Resources */,
 				B4EBCB101C7AAFF800D1653C /* 147.mp3 in Resources */,
 				B4F28FEC1C7CB946007C5BBF /* 540-hi.png in Resources */,
 				B4EBD1A11C7BAA5F00D1653C /* pokemonDescId385.csv in Resources */,
@@ -13771,6 +14093,7 @@
 				B4EBCCBA1C7AAFF800D1653C /* 573.mp3 in Resources */,
 				B4EBD1201C7BAA5F00D1653C /* pokemonDescId256.csv in Resources */,
 				B4EBCBB51C7AAFF800D1653C /* 312.mp3 in Resources */,
+				B4D692741C8525DE009F970D /* newformpokeId648.csv in Resources */,
 				B4D813A71C840A7B0040F61B /* pokemonId596.csv in Resources */,
 				B4D811811C840A7B0040F61B /* pokemonId46.csv in Resources */,
 				B4EBCC421C7AAFF800D1653C /* 453.mp3 in Resources */,
@@ -13787,8 +14110,12 @@
 				B4D8116E1C840A7B0040F61B /* pokemonId27.csv in Resources */,
 				B4D62DB71C81647C007E2CAD /* 685-hi.png in Resources */,
 				B4EBD20B1C7BAA5F00D1653C /* pokemonDescId491.csv in Resources */,
+				B4D692EB1C853754009F970D /* 479hiform4.png in Resources */,
+				B4D692D41C853754009F970D /* 711hiform3.png in Resources */,
+				B4D692D81C853754009F970D /* 710hiform2.png in Resources */,
 				B4E84E471C82A04300F62887 /* pokeMoveId651.csv in Resources */,
 				B4F28E641C7CB946007C5BBF /* 175-hi.png in Resources */,
+				B4D692F01C853754009F970D /* 386hiform2.png in Resources */,
 				B4EBCB6E1C7AAFF800D1653C /* 241.mp3 in Resources */,
 				B4E84E591C82A04300F62887 /* pokeMoveId669.csv in Resources */,
 				B4F28E351C7CB946007C5BBF /* 128-hi.png in Resources */,
@@ -13827,6 +14154,7 @@
 				B4EBD1F41C7BAA5F00D1653C /* pokemonDescId468.csv in Resources */,
 				B4D811FC1C840A7B0040F61B /* pokemonId169.csv in Resources */,
 				B4D811881C840A7B0040F61B /* pokemonId53.csv in Resources */,
+				B4D693151C853754009F970D /* 302hiform1.png in Resources */,
 				B4D8117C1C840A7B0040F61B /* pokemonId41.csv in Resources */,
 				B4EBCC591C7AAFF800D1653C /* 476.mp3 in Resources */,
 				B4EBD19F1C7BAA5F00D1653C /* pokemonDescId383.csv in Resources */,
@@ -13905,6 +14233,7 @@
 				B4D8119F1C840A7B0040F61B /* pokemonId76.csv in Resources */,
 				B4D814121C840A7B0040F61B /* pokemonId703.csv in Resources */,
 				B4D813591C840A7B0040F61B /* pokemonId518.csv in Resources */,
+				B4D692591C8525DE009F970D /* newformpokeId381.csv in Resources */,
 				B4D812151C840A7B0040F61B /* pokemonId194.csv in Resources */,
 				B4F28E7D1C7CB946007C5BBF /* 200-hi.png in Resources */,
 				B4D813411C840A7B0040F61B /* pokemonId494.csv in Resources */,
@@ -13920,6 +14249,7 @@
 				B4D813BD1C840A7B0040F61B /* pokemonId618.csv in Resources */,
 				B4EBCB941C7AAFF800D1653C /* 279.mp3 in Resources */,
 				B4E84CBB1C82A04300F62887 /* pokeMoveId255.csv in Resources */,
+				B4D693061C853754009F970D /* 383hiform1.png in Resources */,
 				B4EBCBFA1C7AAFF800D1653C /* 381.mp3 in Resources */,
 				B4EBCC481C7AAFF800D1653C /* 459.mp3 in Resources */,
 				B4EBCCF11C7AAFF800D1653C /* 628.mp3 in Resources */,
@@ -13949,6 +14279,7 @@
 				B4F2905D1C7CB946007C5BBF /* 641-incarnate-hi.png in Resources */,
 				B4EBD0F31C7BAA5F00D1653C /* pokemonDescId211.csv in Resources */,
 				B4D8135E1C840A7B0040F61B /* pokemonId523.csv in Resources */,
+				B4D692DA1C853754009F970D /* 681hiform1.png in Resources */,
 				B4EBCABE1C7AAFF800D1653C /* 65.mp3 in Resources */,
 				B4EBD1ED1C7BAA5F00D1653C /* pokemonDescId461.csv in Resources */,
 				B4EBCC7B1C7AAFF800D1653C /* 510.mp3 in Resources */,
@@ -13992,6 +14323,7 @@
 				B4EBD1F21C7BAA5F00D1653C /* pokemonDescId466.csv in Resources */,
 				B4F2901A1C7CB946007C5BBF /* 583-hi.png in Resources */,
 				B4D813C21C840A7B0040F61B /* pokemonId623.csv in Resources */,
+				B4D692721C8525DE009F970D /* newformpokeId354.csv in Resources */,
 				B4E84BC01C82A04200F62887 /* pokeMoveId4.csv in Resources */,
 				B4EBD0981C7BAA5F00D1653C /* pokemonDescId120.csv in Resources */,
 				B4D814171C840A7B0040F61B /* pokemonId708.csv in Resources */,
@@ -14012,7 +14344,6 @@
 				B4EBD1A01C7BAA5F00D1653C /* pokemonDescId384.csv in Resources */,
 				B4F28DD31C7CB946007C5BBF /* 30-hi.png in Resources */,
 				B4EBD0471C7BAA5F00D1653C /* pokemonDescId39.csv in Resources */,
-				B4D814901C84C08A0040F61B /* newformpokeId381.csv in Resources */,
 				B4D811AF1C840A7B0040F61B /* pokemonId92.csv in Resources */,
 				B4F28DDA1C7CB946007C5BBF /* 37-hi.png in Resources */,
 				B4EBD02A1C7BAA5F00D1653C /* pokemonDescId10.csv in Resources */,
@@ -14064,13 +14395,13 @@
 				B4E84DA71C82A04300F62887 /* pokeMoveId491.csv in Resources */,
 				B4EBCBAE1C7AAFF800D1653C /* 305.mp3 in Resources */,
 				B4E84C201C82A04200F62887 /* pokeMoveId100.csv in Resources */,
-				B4D814851C84C08A0040F61B /* newformpokeId257.csv in Resources */,
 				B4E84CA01C82A04200F62887 /* pokeMoveId228.csv in Resources */,
 				B4D811DB1C840A7B0040F61B /* pokemonId136.csv in Resources */,
 				B4F2902C1C7CB946007C5BBF /* 593-hi.png in Resources */,
 				B4E84C901C82A04200F62887 /* pokeMoveId212.csv in Resources */,
 				B4EBCAA41C7AAFF800D1653C /* 39.mp3 in Resources */,
 				B4D813291C840A7B0040F61B /* pokemonId470.csv in Resources */,
+				B4D692EE1C853754009F970D /* 413hiform2.png in Resources */,
 				B4D811A61C840A7B0040F61B /* pokemonId83.csv in Resources */,
 				B4F28F481C7CB946007C5BBF /* 398-hi.png in Resources */,
 				B4F28F981C7CB946007C5BBF /* 466-hi.png in Resources */,
@@ -14091,6 +14422,7 @@
 				B4EBD1911C7BAA5F00D1653C /* pokemonDescId369.csv in Resources */,
 				B4E84E2F1C82A04300F62887 /* pokeMoveId627.csv in Resources */,
 				B4F28E481C7CB946007C5BBF /* 147-hi.png in Resources */,
+				B4D6925E1C8525DE009F970D /* newformpokeId681.csv in Resources */,
 				B4EBCC731C7AAFF800D1653C /* 502.mp3 in Resources */,
 				B4E84D8F1C82A04300F62887 /* pokeMoveId467.csv in Resources */,
 				B4D811921C840A7B0040F61B /* pokemonId63.csv in Resources */,
@@ -14114,10 +14446,11 @@
 				B4D812981C840A7B0040F61B /* pokemonId325.csv in Resources */,
 				B4EBD2051C7BAA5F00D1653C /* pokemonDescId485.csv in Resources */,
 				B4EBCB6B1C7AAFF800D1653C /* 238.mp3 in Resources */,
+				B4D692F51C853754009F970D /* 25hiform1.png in Resources */,
+				B4D692611C8525DE009F970D /* newformpokeId130.csv in Resources */,
 				B4F28E0E1C7CB946007C5BBF /* 89-hi.png in Resources */,
 				B4D813A51C840A7B0040F61B /* pokemonId594.csv in Resources */,
 				B4EBD1B91C7BAA5F00D1653C /* pokemonDescId409.csv in Resources */,
-				B4D814991C84C08A0040F61B /* newformpokeId130.csv in Resources */,
 				B4EBCB3D1C7AAFF800D1653C /* 192.mp3 in Resources */,
 				B4EBCC6F1C7AAFF800D1653C /* 498.mp3 in Resources */,
 				B4E84DD71C82A04300F62887 /* pokeMoveId539.csv in Resources */,
@@ -14128,15 +14461,18 @@
 				B4F290041C7CB946007C5BBF /* 561-hi.png in Resources */,
 				B4EBD10F1C7BAA5F00D1653C /* pokemonDescId239.csv in Resources */,
 				B4E84E5A1C82A04300F62887 /* pokeMoveId670.csv in Resources */,
+				B4D693071C853754009F970D /* 381hiform1.png in Resources */,
 				B4D62DD01C81647C007E2CAD /* 710-hi.png in Resources */,
 				B4EBD2871C7BAA5F00D1653C /* pokemonDescId615.csv in Resources */,
 				B4EBCA991C7AAFF800D1653C /* 28.mp3 in Resources */,
+				B4D693241C853754009F970D /* 115hiform1.png in Resources */,
 				B4F28E0C1C7CB946007C5BBF /* 87-hi.png in Resources */,
 				B4E84BFF1C82A04200F62887 /* pokeMoveId67.csv in Resources */,
 				B4D812011C840A7B0040F61B /* pokemonId174.csv in Resources */,
 				B4EBD2E21C7BAA5F00D1653C /* pokemonDescId706.csv in Resources */,
 				B4D811B61C840A7B0040F61B /* pokemonId99.csv in Resources */,
 				B4E84BFD1C82A04200F62887 /* pokeMoveId65.csv in Resources */,
+				B4D692411C8525DE009F970D /* newformpokeId9.csv in Resources */,
 				B4EBCAD41C7AAFF800D1653C /* 87.mp3 in Resources */,
 				B4EBD22F1C7BAA5F00D1653C /* pokemonDescId527.csv in Resources */,
 				B4E84E201C82A04300F62887 /* pokeMoveId612.csv in Resources */,
@@ -14146,7 +14482,7 @@
 				B4EBD2411C7BAA5F00D1653C /* pokemonDescId545.csv in Resources */,
 				B4D812051C840A7B0040F61B /* pokemonId178.csv in Resources */,
 				B4F28F461C7CB946007C5BBF /* 396-hi.png in Resources */,
-				B4D8147D1C84C08A0040F61B /* newformpokeId380.csv in Resources */,
+				B4D692451C8525DE009F970D /* newformpokeId380.csv in Resources */,
 				B4EBD20C1C7BAA5F00D1653C /* pokemonDescId492.csv in Resources */,
 				B4D812461C840A7B0040F61B /* pokemonId243.csv in Resources */,
 				B4E84D9B1C82A04300F62887 /* pokeMoveId479.csv in Resources */,
@@ -14156,6 +14492,7 @@
 				B4E84E701C82A04300F62887 /* pokeMoveId692.csv in Resources */,
 				B4F28E8B1C7CB946007C5BBF /* 213-hi.png in Resources */,
 				B4EBCC131C7AAFF800D1653C /* 406.mp3 in Resources */,
+				B4D692E71C853754009F970D /* 487hiform1.png in Resources */,
 				B4E84CF31C82A04300F62887 /* pokeMoveId311.csv in Resources */,
 				B4D812DB1C840A7B0040F61B /* pokemonId392.csv in Resources */,
 				B4F28E251C7CB946007C5BBF /* 112-hi.png in Resources */,
@@ -14167,9 +14504,8 @@
 				B4D813EF1C840A7B0040F61B /* pokemonId668.csv in Resources */,
 				B4F28F1F1C7CB946007C5BBF /* 361-hi.png in Resources */,
 				B4EBD0F91C7BAA5F00D1653C /* pokemonDescId217.csv in Resources */,
-				B4D8146A1C84C08A0040F61B /* newformpokeId25.csv in Resources */,
+				B4D692321C8525DE009F970D /* newformpokeId25.csv in Resources */,
 				B4EBD1F31C7BAA5F00D1653C /* pokemonDescId467.csv in Resources */,
-				B4D814721C84C08A0040F61B /* newformpokeId550.csv in Resources */,
 				B4E84BD01C82A04200F62887 /* pokeMoveId20.csv in Resources */,
 				B4EBCBF81C7AAFF800D1653C /* 379.mp3 in Resources */,
 				B4F28DFB1C7CB946007C5BBF /* 70-hi.png in Resources */,
@@ -14205,8 +14541,7 @@
 				B4F28F1C1C7CB946007C5BBF /* 358-hi.png in Resources */,
 				B4F290561C7CB946007C5BBF /* 635-hi.png in Resources */,
 				B4F290411C7CB946007C5BBF /* 614-hi.png in Resources */,
-				B4D814971C84C08A0040F61B /* newformpokeId645.csv in Resources */,
-				B4D814701C84C08A0040F61B /* newformpokeId413.csv in Resources */,
+				B4D692381C8525DE009F970D /* newformpokeId413.csv in Resources */,
 				B4EBCBE41C7AAFF800D1653C /* 359.mp3 in Resources */,
 				B4E84C471C82A04200F62887 /* pokeMoveId139.csv in Resources */,
 				B4E84D251C82A04300F62887 /* pokeMoveId361.csv in Resources */,
@@ -14265,12 +14600,14 @@
 				B4EBD0CB1C7BAA5F00D1653C /* pokemonDescId171.csv in Resources */,
 				B4EBD1741C7BAA5F00D1653C /* pokemonDescId340.csv in Resources */,
 				B4EBD1831C7BAA5F00D1653C /* pokemonDescId355.csv in Resources */,
+				B4D692DD1C853754009F970D /* 648hiform1.png in Resources */,
 				B4E84E021C82A04300F62887 /* pokeMoveId582.csv in Resources */,
 				B4EBCC711C7AAFF800D1653C /* 500.mp3 in Resources */,
 				B4EBD2CA1C7BAA5F00D1653C /* pokemonDescId682.csv in Resources */,
 				B4E84E6C1C82A04300F62887 /* pokeMoveId688.csv in Resources */,
 				B4F28E2F1C7CB946007C5BBF /* 122-hi.png in Resources */,
 				B4D62D941C81647C007E2CAD /* 649-hi.png in Resources */,
+				B4D693091C853754009F970D /* 376hiform1.png in Resources */,
 				B4EBCAA11C7AAFF800D1653C /* 36.mp3 in Resources */,
 				B4EBCB2B1C7AAFF800D1653C /* 174.mp3 in Resources */,
 				B4F28FCF1C7CB946007C5BBF /* 511-hi.png in Resources */,
@@ -14291,14 +14628,16 @@
 				B4D812D21C840A7B0040F61B /* pokemonId383.csv in Resources */,
 				B4EBCB4D1C7AAFF800D1653C /* 208.mp3 in Resources */,
 				B4F28E621C7CB946007C5BBF /* 173-hi.png in Resources */,
+				B4D692731C8525DE009F970D /* newformpokeId475.csv in Resources */,
 				B4EBD2221C7BAA5F00D1653C /* pokemonDescId514.csv in Resources */,
 				B4E84CF61C82A04300F62887 /* pokeMoveId314.csv in Resources */,
-				B4D814AB1C84C08A0040F61B /* newformpokeId475.csv in Resources */,
 				B4E84C7E1C82A04200F62887 /* pokeMoveId194.csv in Resources */,
+				B4D6925D1C8525DE009F970D /* newformpokeId3.csv in Resources */,
 				B4E84E671C82A04300F62887 /* pokeMoveId683.csv in Resources */,
 				B4D62DDA1C81647C007E2CAD /* 719-mega.png in Resources */,
 				B4EBCA871C7AAFF800D1653C /* 10.mp3 in Resources */,
 				B4E84C7F1C82A04200F62887 /* pokeMoveId195.csv in Resources */,
+				B4D692E31C853754009F970D /* 641hiform1.png in Resources */,
 				B4EBCCB81C7AAFF800D1653C /* 571.mp3 in Resources */,
 				B4EBD07D1C7BAA5F00D1653C /* pokemonDescId93.csv in Resources */,
 				B4E84C8C1C82A04200F62887 /* pokeMoveId208.csv in Resources */,
@@ -14316,9 +14655,12 @@
 				B4D813BE1C840A7B0040F61B /* pokemonId619.csv in Resources */,
 				B4F28FC01C7CB946007C5BBF /* 496-hi.png in Resources */,
 				B4EBCC681C7AAFF800D1653C /* 491.mp3 in Resources */,
+				B4D693171C853754009F970D /* 260hiform1.png in Resources */,
 				B4E84D641C82A04300F62887 /* pokeMoveId424.csv in Resources */,
 				B4F28EF61C7CB946007C5BBF /* 320-hi.png in Resources */,
+				B4D692DE1C853754009F970D /* 647hiform1.png in Resources */,
 				B4EBD0211C7BAA5F00D1653C /* pokemonDescId1.csv in Resources */,
+				B4D693031C853754009F970D /* 382hiform1.png in Resources */,
 				B4E84C2E1C82A04200F62887 /* pokeMoveId114.csv in Resources */,
 				B4EBCBA41C7AAFF800D1653C /* 295.mp3 in Resources */,
 				B4F290331C7CB946007C5BBF /* 600-hi.png in Resources */,
@@ -14329,7 +14671,6 @@
 				B4E84D701C82A04300F62887 /* pokeMoveId436.csv in Resources */,
 				B4D813C91C840A7B0040F61B /* pokemonId630.csv in Resources */,
 				B4D811F81C840A7B0040F61B /* pokemonId165.csv in Resources */,
-				B4D8148C1C84C08A0040F61B /* newformpokeId492.csv in Resources */,
 				B4E84C651C82A04200F62887 /* pokeMoveId169.csv in Resources */,
 				B4EBCD3F1C7AAFF800D1653C /* 706.mp3 in Resources */,
 				B4F28EA91C7CB946007C5BBF /* 243-hi.png in Resources */,
@@ -14338,6 +14679,7 @@
 				B4EBD2EB1C7BAA5F00D1653C /* pokemonDescId715.csv in Resources */,
 				B4D814131C840A7B0040F61B /* pokemonId704.csv in Resources */,
 				B4EBD1CE1C7BAA5F00D1653C /* pokemonDescId430.csv in Resources */,
+				B4D693281C853754009F970D /* 65hiform1.png in Resources */,
 				B4F28F681C7CB946007C5BBF /* 422-east-hi.png in Resources */,
 				B4EBCB1E1C7AAFF800D1653C /* 161.mp3 in Resources */,
 				B4F28E9C1C7CB946007C5BBF /* 230-hi.png in Resources */,
@@ -14362,10 +14704,11 @@
 				B4E84DC21C82A04300F62887 /* pokeMoveId518.csv in Resources */,
 				B4EBCCC41C7AAFF800D1653C /* 583.mp3 in Resources */,
 				B4E84C871C82A04200F62887 /* pokeMoveId203.csv in Resources */,
-				B4D814961C84C08A0040F61B /* newformpokeId448.csv in Resources */,
 				B4F28E141C7CB946007C5BBF /* 95-hi.png in Resources */,
+				B4D693131C853754009F970D /* 306hiform1.png in Resources */,
 				B4EBD18A1C7BAA5F00D1653C /* pokemonDescId362.csv in Resources */,
 				B4E84DC01C82A04300F62887 /* pokeMoveId516.csv in Resources */,
+				B4D692E21C853754009F970D /* 642hiform1.png in Resources */,
 				B4E84D0E1C82A04300F62887 /* pokeMoveId338.csv in Resources */,
 				B4F28F511C7CB946007C5BBF /* 407-hi.png in Resources */,
 				B4EBD14B1C7BAA5F00D1653C /* pokemonDescId299.csv in Resources */,
@@ -14428,6 +14771,7 @@
 				B4D811AB1C840A7B0040F61B /* pokemonId88.csv in Resources */,
 				B4F28F071C7CB946007C5BBF /* 337-hi.png in Resources */,
 				B4EBD0C41C7BAA5F00D1653C /* pokemonDescId164.csv in Resources */,
+				B4D6925C1C8525DE009F970D /* newformpokeId362.csv in Resources */,
 				B4EBCC911C7AAFF800D1653C /* 532.mp3 in Resources */,
 				B4EBD1B01C7BAA5F00D1653C /* pokemonDescId400.csv in Resources */,
 				B4F28F851C7CB946007C5BBF /* 447-hi.png in Resources */,
@@ -14455,12 +14799,10 @@
 				B4E84D351C82A04300F62887 /* pokeMoveId377.csv in Resources */,
 				B4F2900F1C7CB946007C5BBF /* 572-hi.png in Resources */,
 				B4E84CD41C82A04300F62887 /* pokeMoveId280.csv in Resources */,
-				B4D814A71C84C08A0040F61B /* newformpokeId303.csv in Resources */,
 				B4EBD2B61C7BAA5F00D1653C /* pokemonDescId662.csv in Resources */,
 				B4E84C9E1C82A04200F62887 /* pokeMoveId226.csv in Resources */,
 				B4F28E011C7CB946007C5BBF /* 76-hi.png in Resources */,
 				B4EBD2461C7BAA5F00D1653C /* pokemonDescId550.csv in Resources */,
-				B4D814801C84C08A0040F61B /* newformpokeId248.csv in Resources */,
 				B4EBD0FF1C7BAA5F00D1653C /* pokemonDescId223.csv in Resources */,
 				B4F28FF41C7CB946007C5BBF /* 548-hi.png in Resources */,
 				B4E84E541C82A04300F62887 /* pokeMoveId664.csv in Resources */,
@@ -14511,11 +14853,13 @@
 				B4EBD1511C7BAA5F00D1653C /* pokemonDescId305.csv in Resources */,
 				B4E84C8D1C82A04200F62887 /* pokeMoveId209.csv in Resources */,
 				B4F28DC31C7CB946007C5BBF /* 14-hi.png in Resources */,
+				B4D692761C8525DE009F970D /* newformpokeId359.csv in Resources */,
 				B4E84D981C82A04300F62887 /* pokeMoveId476.csv in Resources */,
 				B4D813461C840A7B0040F61B /* pokemonId499.csv in Resources */,
 				B4D811E31C840A7B0040F61B /* pokemonId144.csv in Resources */,
 				B4E84C211C82A04200F62887 /* pokeMoveId101.csv in Resources */,
 				B4D813101C840A7B0040F61B /* pokemonId445.csv in Resources */,
+				B4D6930A1C853754009F970D /* 373hiform1.png in Resources */,
 				B4EBCD3A1C7AAFF800D1653C /* 701.mp3 in Resources */,
 				B4D8140D1C840A7B0040F61B /* pokemonId698.csv in Resources */,
 				B4E84D2A1C82A04300F62887 /* pokeMoveId366.csv in Resources */,
@@ -14548,6 +14892,7 @@
 				B4E84C371C82A04200F62887 /* pokeMoveId123.csv in Resources */,
 				B4E84BE71C82A04200F62887 /* pokeMoveId43.csv in Resources */,
 				B4D811EF1C840A7B0040F61B /* pokemonId156.csv in Resources */,
+				B4D692F71C853754009F970D /* 25hiform3.png in Resources */,
 				B4D8139C1C840A7B0040F61B /* pokemonId585.csv in Resources */,
 				B4D8136B1C840A7B0040F61B /* pokemonId536.csv in Resources */,
 				B4EBCB7F1C7AAFF800D1653C /* 258.mp3 in Resources */,
@@ -14556,12 +14901,12 @@
 				B4F28EF01C7CB946007C5BBF /* 314-hi.png in Resources */,
 				B4F28E921C7CB946007C5BBF /* 220-hi.png in Resources */,
 				B4D814051C840A7B0040F61B /* pokemonId690.csv in Resources */,
-				B4D8149C1C84C08A0040F61B /* newformpokeId18.csv in Resources */,
 				B4EBD11A1C7BAA5F00D1653C /* pokemonDescId250.csv in Resources */,
 				B4E84C341C82A04200F62887 /* pokeMoveId120.csv in Resources */,
 				B4EBD0D11C7BAA5F00D1653C /* pokemonDescId177.csv in Resources */,
 				B4F28DFA1C7CB946007C5BBF /* 69-hi.png in Resources */,
 				B4EBD0F41C7BAA5F00D1653C /* pokemonDescId212.csv in Resources */,
+				B4D6932A1C853754009F970D /* 15hiform1.png in Resources */,
 				B4E84E8C1C82A04300F62887 /* pokeMoveId720.csv in Resources */,
 				B4EBD1441C7BAA5F00D1653C /* pokemonDescId292.csv in Resources */,
 				B4F28F651C7CB946007C5BBF /* 421-hi.png in Resources */,
@@ -14571,6 +14916,7 @@
 				B4EBD1D31C7BAA5F00D1653C /* pokemonDescId435.csv in Resources */,
 				B4E84E3D1C82A04300F62887 /* pokeMoveId641.csv in Resources */,
 				B4D811981C840A7B0040F61B /* pokemonId69.csv in Resources */,
+				B4D692F91C853754009F970D /* 25hiform5.png in Resources */,
 				B4D812171C840A7B0040F61B /* pokemonId196.csv in Resources */,
 				B4F28DC61C7CB946007C5BBF /* 17-hi.png in Resources */,
 				B4F28E7A1C7CB946007C5BBF /* 197-hi.png in Resources */,
@@ -14583,7 +14929,6 @@
 				B4E84D661C82A04300F62887 /* pokeMoveId426.csv in Resources */,
 				B4E84BFC1C82A04200F62887 /* pokeMoveId64.csv in Resources */,
 				B4F2905A1C7CB946007C5BBF /* 639-hi.png in Resources */,
-				B4D814981C84C08A0040F61B /* newformpokeId212.csv in Resources */,
 				B4D812A01C840A7B0040F61B /* pokemonId333.csv in Resources */,
 				B4EBD1481C7BAA5F00D1653C /* pokemonDescId296.csv in Resources */,
 				B4E84E521C82A04300F62887 /* pokeMoveId662.csv in Resources */,
@@ -14595,6 +14940,7 @@
 				B4D8116C1C840A7B0040F61B /* pokemonId25.csv in Resources */,
 				B4EBD2F01C7BAA5F00D1653C /* pokemonDescId720.csv in Resources */,
 				B4F28EE51C7CB946007C5BBF /* 303-hi.png in Resources */,
+				B4D6932E1C853754009F970D /* 3hiform1.png in Resources */,
 				B4EBCCCE1C7AAFF800D1653C /* 593.mp3 in Resources */,
 				B4EBD0D41C7BAA5F00D1653C /* pokemonDescId180.csv in Resources */,
 				B4E84E5C1C82A04300F62887 /* pokeMoveId672.csv in Resources */,
@@ -14617,6 +14963,7 @@
 				B4F28DCB1C7CB946007C5BBF /* 22-hi.png in Resources */,
 				B4EBCB801C7AAFF800D1653C /* 259.mp3 in Resources */,
 				B4D62DB31C81647C007E2CAD /* 681-hi.png in Resources */,
+				B4D692751C8525DE009F970D /* newformpokeId647.csv in Resources */,
 				B4F28FFC1C7CB946007C5BBF /* 554-hi.png in Resources */,
 				B4E84D9C1C82A04300F62887 /* pokeMoveId480.csv in Resources */,
 				B4EBCC491C7AAFF800D1653C /* 460.mp3 in Resources */,
@@ -14642,7 +14989,7 @@
 				B4EBD0AC1C7BAA5F00D1653C /* pokemonDescId140.csv in Resources */,
 				B4E84C0D1C82A04200F62887 /* pokeMoveId81.csv in Resources */,
 				B4E84C3B1C82A04200F62887 /* pokeMoveId127.csv in Resources */,
-				B4D814751C84C08A0040F61B /* newformpokeId678.csv in Resources */,
+				B4D6923D1C8525DE009F970D /* newformpokeId678.csv in Resources */,
 				B4D813F71C840A7B0040F61B /* pokemonId676.csv in Resources */,
 				B4EBCBB91C7AAFF800D1653C /* 316.mp3 in Resources */,
 				B4D8131C1C840A7B0040F61B /* pokemonId457.csv in Resources */,
@@ -14690,15 +15037,15 @@
 				B4E84E7B1C82A04300F62887 /* pokeMoveId703.csv in Resources */,
 				B4E84E6A1C82A04300F62887 /* pokeMoveId686.csv in Resources */,
 				B4E84D831C82A04300F62887 /* pokeMoveId455.csv in Resources */,
-				B4D814861C84C08A0040F61B /* newformpokeId302.csv in Resources */,
+				B4D6924E1C8525DE009F970D /* newformpokeId302.csv in Resources */,
 				B4EBD0651C7BAA5F00D1653C /* pokemonDescId69.csv in Resources */,
 				B4EBD03F1C7BAA5F00D1653C /* pokemonDescId31.csv in Resources */,
 				B4EBD1621C7BAA5F00D1653C /* pokemonDescId322.csv in Resources */,
 				B4EBCC311C7AAFF800D1653C /* 436.mp3 in Resources */,
 				B4F28E701C7CB946007C5BBF /* 187-hi.png in Resources */,
 				B4E84E011C82A04300F62887 /* pokeMoveId581.csv in Resources */,
-				B4D8147A1C84C08A0040F61B /* newformpokeId428.csv in Resources */,
 				B4EBCC7C1C7AAFF800D1653C /* 511.mp3 in Resources */,
+				B4D692421C8525DE009F970D /* newformpokeId428.csv in Resources */,
 				B4D8133B1C840A7B0040F61B /* pokemonId488.csv in Resources */,
 				B4F28F421C7CB946007C5BBF /* 392-hi.png in Resources */,
 				B4EBD2A21C7BAA5F00D1653C /* pokemonDescId642.csv in Resources */,
@@ -14726,8 +15073,11 @@
 				B4E84D771C82A04300F62887 /* pokeMoveId443.csv in Resources */,
 				B4F28FA51C7CB946007C5BBF /* 479-fan-hi.png in Resources */,
 				B4EBCC2F1C7AAFF800D1653C /* 434.mp3 in Resources */,
+				B4D692641C8525DE009F970D /* newformpokeId641.csv in Resources */,
 				B4E84CAC1C82A04300F62887 /* pokeMoveId240.csv in Resources */,
+				B4D692701C8525DE009F970D /* newformpokeId115.csv in Resources */,
 				B4E84E841C82A04300F62887 /* pokeMoveId712.csv in Resources */,
+				B4D692D61C853754009F970D /* 711hiform1.png in Resources */,
 				B4E84D6D1C82A04300F62887 /* pokeMoveId433.csv in Resources */,
 				B4E84CFC1C82A04300F62887 /* pokeMoveId320.csv in Resources */,
 				B4E84C0F1C82A04200F62887 /* pokeMoveId83.csv in Resources */,
@@ -14750,6 +15100,7 @@
 				B4EBCC001C7AAFF800D1653C /* 387.mp3 in Resources */,
 				B4EBD08C1C7BAA5F00D1653C /* pokemonDescId108.csv in Resources */,
 				B4D813051C840A7B0040F61B /* pokemonId434.csv in Resources */,
+				B4D693181C853754009F970D /* 257hiform1.png in Resources */,
 				B4D812321C840A7B0040F61B /* pokemonId223.csv in Resources */,
 				B4F28EE31C7CB946007C5BBF /* 301-hi.png in Resources */,
 				B4D812C21C840A7B0040F61B /* pokemonId367.csv in Resources */,
@@ -14758,8 +15109,11 @@
 				B4E84DA41C82A04300F62887 /* pokeMoveId488.csv in Resources */,
 				B4EBD1871C7BAA5F00D1653C /* pokemonDescId359.csv in Resources */,
 				B4E84E1C1C82A04300F62887 /* pokeMoveId608.csv in Resources */,
-				B4D814761C84C08A0040F61B /* newformpokeId646.csv in Resources */,
+				B4D6923E1C8525DE009F970D /* newformpokeId646.csv in Resources */,
+				B4D693021C853754009F970D /* 384hiform1.png in Resources */,
+				B4D692541C8525DE009F970D /* newformpokeId334.csv in Resources */,
 				B4F28EE11C7CB946007C5BBF /* 299-hi.png in Resources */,
+				B4D692401C8525DE009F970D /* newformpokeId670.csv in Resources */,
 				B4EBD1181C7BAA5F00D1653C /* pokemonDescId248.csv in Resources */,
 				B4E84CDD1C82A04300F62887 /* pokeMoveId289.csv in Resources */,
 				B4EBCAD61C7AAFF800D1653C /* 89.mp3 in Resources */,
@@ -14782,6 +15136,7 @@
 				B4EBD18C1C7BAA5F00D1653C /* pokemonDescId364.csv in Resources */,
 				B4E84D271C82A04300F62887 /* pokeMoveId363.csv in Resources */,
 				B4E84D521C82A04300F62887 /* pokeMoveId406.csv in Resources */,
+				B4D692F11C853754009F970D /* 386hiform3.png in Resources */,
 				B4EBD2041C7BAA5F00D1653C /* pokemonDescId484.csv in Resources */,
 				B4F28F341C7CB946007C5BBF /* 382-hi.png in Resources */,
 				B4EBD2C31C7BAA5F00D1653C /* pokemonDescId675.csv in Resources */,
@@ -14794,6 +15149,7 @@
 				B4EBD1E51C7BAA5F00D1653C /* pokemonDescId453.csv in Resources */,
 				B4EBCAF61C7AAFF800D1653C /* 121.mp3 in Resources */,
 				B4E84C001C82A04200F62887 /* pokeMoveId68.csv in Resources */,
+				B4D692341C8525DE009F970D /* newformpokeId711.csv in Resources */,
 				B4D811A11C840A7B0040F61B /* pokemonId78.csv in Resources */,
 				B4F28E081C7CB946007C5BBF /* 83-hi.png in Resources */,
 				B4EBD2131C7BAA5F00D1653C /* pokemonDescId499.csv in Resources */,
@@ -14811,15 +15167,17 @@
 				B4F28F101C7CB946007C5BBF /* 346-hi.png in Resources */,
 				B4D811A31C840A7B0040F61B /* pokemonId80.csv in Resources */,
 				B4EBCC701C7AAFF800D1653C /* 499.mp3 in Resources */,
+				B4D692551C8525DE009F970D /* newformpokeId373.csv in Resources */,
 				B4EBD1EC1C7BAA5F00D1653C /* pokemonDescId460.csv in Resources */,
 				B4F28E861C7CB946007C5BBF /* 208-hi.png in Resources */,
-				B4D8148D1C84C08A0040F61B /* newformpokeId373.csv in Resources */,
+				B4D6925B1C8525DE009F970D /* newformpokeId645.csv in Resources */,
 				B4F28F0B1C7CB946007C5BBF /* 341-hi.png in Resources */,
+				B4D692661C8525DE009F970D /* newformpokeId323.csv in Resources */,
 				B4F28DBE1C7CB946007C5BBF /* 9-hi.png in Resources */,
 				B4EBCCAA1C7AAFF800D1653C /* 557.mp3 in Resources */,
 				B4EBCC301C7AAFF800D1653C /* 435.mp3 in Resources */,
-				B4D8149E1C84C08A0040F61B /* newformpokeId323.csv in Resources */,
 				B4E84D691C82A04300F62887 /* pokeMoveId429.csv in Resources */,
+				B4D692F61C853754009F970D /* 25hiform2.png in Resources */,
 				B4EBCC411C7AAFF800D1653C /* 452.mp3 in Resources */,
 				B4EBCAB61C7AAFF800D1653C /* 57.mp3 in Resources */,
 				B4EBD27D1C7BAA5F00D1653C /* pokemonDescId605.csv in Resources */,
@@ -14864,11 +15222,11 @@
 				B4F28E321C7CB946007C5BBF /* 125-hi.png in Resources */,
 				B4F28E1D1C7CB946007C5BBF /* 104-hi.png in Resources */,
 				B4EBD20E1C7BAA5F00D1653C /* pokemonDescId494.csv in Resources */,
+				B4D692691C8525DE009F970D /* newformpokeId531.csv in Resources */,
 				B4E84C7B1C82A04200F62887 /* pokeMoveId191.csv in Resources */,
 				B4EBCBCB1C7AAFF800D1653C /* 334.mp3 in Resources */,
 				B4D813811C840A7B0040F61B /* pokemonId558.csv in Resources */,
 				B4D813701C840A7B0040F61B /* pokemonId541.csv in Resources */,
-				B4D814A11C84C08A0040F61B /* newformpokeId531.csv in Resources */,
 				B4E84E861C82A04300F62887 /* pokeMoveId714.csv in Resources */,
 				B4EBD02C1C7BAA5F00D1653C /* pokemonDescId12.csv in Resources */,
 				B4EBCB031C7AAFF800D1653C /* 134.mp3 in Resources */,
@@ -14890,12 +15248,15 @@
 				B4EBCA941C7AAFF800D1653C /* 23.mp3 in Resources */,
 				B4EBCCE01C7AAFF800D1653C /* 611.mp3 in Resources */,
 				B4EBD1921C7BAA5F00D1653C /* pokemonDescId370.csv in Resources */,
+				B4D6931B1C853754009F970D /* 229hiform1.png in Resources */,
 				B4EBCBC11C7AAFF800D1653C /* 324.mp3 in Resources */,
+				B4D692D71C853754009F970D /* 710hiform3.png in Resources */,
 				B4D813DC1C840A7B0040F61B /* pokemonId649.csv in Resources */,
 				B4EBCCB51C7AAFF800D1653C /* 568.mp3 in Resources */,
 				B4D811E51C840A7B0040F61B /* pokemonId146.csv in Resources */,
 				B4E84D821C82A04300F62887 /* pokeMoveId454.csv in Resources */,
 				B4E84E651C82A04300F62887 /* pokeMoveId681.csv in Resources */,
+				B4D6932B1C853754009F970D /* 9hiform1.png in Resources */,
 				B4EBCBD11C7AAFF800D1653C /* 340.mp3 in Resources */,
 				B4EBD22E1C7BAA5F00D1653C /* pokemonDescId526.csv in Resources */,
 				B4E84C481C82A04200F62887 /* pokeMoveId140.csv in Resources */,
@@ -14903,12 +15264,12 @@
 				B4D8116B1C840A7B0040F61B /* pokemonId24.csv in Resources */,
 				B4EBCD3D1C7AAFF800D1653C /* 704.mp3 in Resources */,
 				B4EBCB7E1C7AAFF800D1653C /* 257.mp3 in Resources */,
+				B4D692F41C853754009F970D /* 351hiform3.png in Resources */,
 				B4D813CD1C840A7B0040F61B /* pokemonId634.csv in Resources */,
 				B4F28DDB1C7CB946007C5BBF /* 38-hi.png in Resources */,
 				B4EBD0661C7BAA5F00D1653C /* pokemonDescId70.csv in Resources */,
 				B4EBCAA51C7AAFF800D1653C /* 40.mp3 in Resources */,
 				B4EBCC451C7AAFF800D1653C /* 456.mp3 in Resources */,
-				B4D814AD1C84C08A0040F61B /* newformpokeId648.csv in Resources */,
 				B4EBD0251C7BAA5F00D1653C /* pokemonDescId5.csv in Resources */,
 				B4D811FD1C840A7B0040F61B /* pokemonId170.csv in Resources */,
 				B4FE75F11C631DAA003BC527 /* Main.storyboard in Resources */,
@@ -14954,8 +15315,8 @@
 				B4E84C3E1C82A04200F62887 /* pokeMoveId130.csv in Resources */,
 				B4EBCBD21C7AAFF800D1653C /* 341.mp3 in Resources */,
 				B4F28F411C7CB946007C5BBF /* 391-hi.png in Resources */,
+				B4D692391C8525DE009F970D /* newformpokeId555.csv in Resources */,
 				B4EBCB441C7AAFF800D1653C /* 199.mp3 in Resources */,
-				B4D814711C84C08A0040F61B /* newformpokeId555.csv in Resources */,
 				B4EBD2D01C7BAA5F00D1653C /* pokemonDescId688.csv in Resources */,
 				B4F28F891C7CB946007C5BBF /* 451-hi.png in Resources */,
 				B4EBD09D1C7BAA5F00D1653C /* pokemonDescId125.csv in Resources */,
@@ -14986,7 +15347,6 @@
 				B4D814081C840A7B0040F61B /* pokemonId693.csv in Resources */,
 				B4EBCD431C7AAFF800D1653C /* 710.mp3 in Resources */,
 				B4EBCB2A1C7AAFF800D1653C /* 173.mp3 in Resources */,
-				B4D814941C84C08A0040F61B /* newformpokeId3.csv in Resources */,
 				B4D8139A1C840A7B0040F61B /* pokemonId583.csv in Resources */,
 				B4F290601C7CB946007C5BBF /* 643-hi.png in Resources */,
 				B4E84E361C82A04300F62887 /* pokeMoveId634.csv in Resources */,
@@ -15014,7 +15374,9 @@
 				B4D8119B1C840A7B0040F61B /* pokemonId72.csv in Resources */,
 				B4EBCA811C7AAFF800D1653C /* 4.mp3 in Resources */,
 				B4EBD2021C7BAA5F00D1653C /* pokemonDescId482.csv in Resources */,
+				B4D692621C8525DE009F970D /* newformpokeId310.csv in Resources */,
 				B4D811701C840A7B0040F61B /* pokemonId29.csv in Resources */,
+				B4D692E81C853754009F970D /* 479hiform1.png in Resources */,
 				B4F28EC11C7CB946007C5BBF /* 267-hi.png in Resources */,
 				B4E84D961C82A04300F62887 /* pokeMoveId474.csv in Resources */,
 				B4F28F5F1C7CB946007C5BBF /* 415-hi.png in Resources */,
@@ -15024,13 +15386,10 @@
 				B4E84D2F1C82A04300F62887 /* pokeMoveId371.csv in Resources */,
 				B4EBD0691C7BAA5F00D1653C /* pokemonDescId73.csv in Resources */,
 				B4EBD0CC1C7BAA5F00D1653C /* pokemonDescId172.csv in Resources */,
-				B4D814A01C84C08A0040F61B /* newformpokeId319.csv in Resources */,
-				B4D814811C84C08A0040F61B /* newformpokeId260.csv in Resources */,
 				B4F28E301C7CB946007C5BBF /* 123-hi.png in Resources */,
 				B4D811AE1C840A7B0040F61B /* pokemonId91.csv in Resources */,
 				B4D812211C840A7B0040F61B /* pokemonId206.csv in Resources */,
 				B4E84C3A1C82A04200F62887 /* pokeMoveId126.csv in Resources */,
-				B4D8146B1C84C08A0040F61B /* newformpokeId711.csv in Resources */,
 				B4D812FC1C840A7B0040F61B /* pokemonId425.csv in Resources */,
 				B4EBD0FB1C7BAA5F00D1653C /* pokemonDescId219.csv in Resources */,
 				B4E84DB01C82A04300F62887 /* pokeMoveId500.csv in Resources */,
@@ -15053,6 +15412,7 @@
 				B4EBD2441C7BAA5F00D1653C /* pokemonDescId548.csv in Resources */,
 				B4F2902B1C7CB946007C5BBF /* 592-hi.png in Resources */,
 				B4E84C941C82A04200F62887 /* pokeMoveId216.csv in Resources */,
+				B4D6931D1C853754009F970D /* 212hiform1.png in Resources */,
 				B4EBCC6C1C7AAFF800D1653C /* 495.mp3 in Resources */,
 				B4F28EDA1C7CB946007C5BBF /* 292-hi.png in Resources */,
 				B4EBD03E1C7BAA5F00D1653C /* pokemonDescId30.csv in Resources */,
@@ -15067,7 +15427,6 @@
 				B4D812BD1C840A7B0040F61B /* pokemonId362.csv in Resources */,
 				B4EBCD2E1C7AAFF800D1653C /* 689.mp3 in Resources */,
 				B4EBD2B81C7BAA5F00D1653C /* pokemonDescId664.csv in Resources */,
-				B4D8148E1C84C08A0040F61B /* newformpokeId362.csv in Resources */,
 				B4F28DFE1C7CB946007C5BBF /* 73-hi.png in Resources */,
 				B4D813BB1C840A7B0040F61B /* pokemonId616.csv in Resources */,
 				B4D812931C840A7B0040F61B /* pokemonId320.csv in Resources */,
@@ -15084,6 +15443,7 @@
 				B4D813641C840A7B0040F61B /* pokemonId529.csv in Resources */,
 				B4EBCC2C1C7AAFF800D1653C /* 431.mp3 in Resources */,
 				B4F28E7C1C7CB946007C5BBF /* 199-hi.png in Resources */,
+				B4D693111C853754009F970D /* 310hiform1.png in Resources */,
 				B4EBCC8C1C7AAFF800D1653C /* 527.mp3 in Resources */,
 				B4EBD13B1C7BAA5F00D1653C /* pokemonDescId283.csv in Resources */,
 				B4EBCD2B1C7AAFF800D1653C /* 686.mp3 in Resources */,

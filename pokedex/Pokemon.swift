@@ -615,7 +615,7 @@ class Pokemon {
     
     func parsePokeFormStatsCSV(formIndex: Int) {
         
-        let path = NSBundle.mainBundle().pathForResource("newformpokemonId\(pokedexId)", ofType: "csv")!
+        let path = NSBundle.mainBundle().pathForResource("newformpokeId\(pokedexId)", ofType: "csv")!
         
         do {
             let csv = try CSV(contentsOfURL: path)
@@ -624,20 +624,30 @@ class Pokemon {
             for row in rows {
                 
                 if formIndex == Int(row["form_number"]!) {
-                
+                    
+                    // Types
+                    
+                    if let type1 = row["type_1"] {
+                        self._type1 = type1
+                    }
+                    
+                    if let type2 = row["type_2"] {
+                        self._type2 = type2
+                    }
+                    
                     // Height + Weight
                     
-                    if let height = row["height_ft"] {
+                    if let height = row["height"] {
                         self._height = height
                     }
                     
-                    if let weight = row["weight_lbs"] {
+                    if let weight = row["weight"] {
                         self._weight = weight
                     }
                     
                     // Base Stats
                     
-                    if let hp = row["hp"] {
+                    if let hp = row["HP"] {
                         self._hp = hp
                     }
                     
@@ -661,21 +671,15 @@ class Pokemon {
                         self._speed = speed
                     }
                     
-                    if let baseStats = row["base_stats"] {
+                    if let baseStats = row["base_stat"] {
                         self._baseStats = baseStats
                     }
                     
-                    // Types
-                    
-                    if let type1 = row["type1_id"] {
-                        self._type1 = type1
-                    }
-                    
-                    if let type2 = row["type2_id"] {
-                        self._type2 = type2
-                    }
-                    
                     // Abilities
+                    
+                    if let isMega = row["is_mega"] {
+                        self._isMega = isMega
+                    }
                     
                     if let firstAbility = row["first_ability_name"] {
                         self._firstAbility = firstAbility
