@@ -128,3 +128,5 @@ public func returnMinGameGen (pokemonGeneration: Int) -> Int {
     default: return 14
     }
 }
+
+public var hasMegaCry: [Int] = [3,6,9,65,94,115,127,130,142,150,181,212,214,229,248,257,282,303,306,308,310,354,359,380,381,445,448,460]

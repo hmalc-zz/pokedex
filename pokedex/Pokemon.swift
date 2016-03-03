@@ -387,13 +387,14 @@ class Pokemon {
         return _hiddenAbilityDesc
     }
 
-    //MARK: Initialiser
+    //MARK: Initialisers
     
-    init(name: String, pokedexId: Int, type1: String, type2: String) {
+    init(name: String, pokedexId: Int, type1: String, type2: String, gen: String) {
         self._name = name
         self._pokedexId = pokedexId
         self._type1 = type1
         self._type2 = type2
+        self._generationId = gen
         
         _pokemonUrl = "\(URL_BASE)\(URL_POKEMON)\(self._pokedexId)/"
     

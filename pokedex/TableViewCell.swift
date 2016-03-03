@@ -10,8 +10,8 @@ import UIKit
 
 class TableViewCell: UITableViewCell {
     
-    //@IBOutlet weak var LevelLbl: UILabel!
-    //@IBOutlet weak var moveName: UILabel!
+    @IBOutlet weak var LevelLbl: UILabel!
+    @IBOutlet weak var moveName: UILabel!
     //@IBOutlet weak var specialPhysical: UILabel!
     //@IBOutlet weak var PPlbl: UILabel!
     //@IBOutlet weak var PowerLbl: UILabel!
@@ -29,11 +29,10 @@ class TableViewCell: UITableViewCell {
         // Configure the view for the selected state
     }
     
-    func configureMoves(pokemon: Pokemon, versionLabelMoves: Int, index: Int) {
+    func configureMoves(moveTitle: String, atLevel: Int) {
         
-        pokemon.parsePokeMovesCSV(versionLabelMoves)
-        //moveName.text = pokemon.moveList[index]
-        //LevelLbl.text = "\(pokemon.levelList[index])"
+        moveName.text = moveTitle
+        LevelLbl.text = "\(atLevel)"
         
     }
 

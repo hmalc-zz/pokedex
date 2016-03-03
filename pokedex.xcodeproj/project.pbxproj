@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B4216FEC1C8789490072EEFD /* pokeinit.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4216FEB1C8789490072EEFD /* pokeinit.csv */; };
 		B458DFE91C7EB89300899669 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B458DFE81C7EB89300899669 /* TableViewCell.swift */; };
 		B458DFEB1C7FD56500899669 /* MainImageViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B458DFEA1C7FD56500899669 /* MainImageViewCell.swift */; };
 		B45BAA0F1C643A9A00AF752A /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B45BAA0E1C643A9A00AF752A /* Constants.swift */; };
@@ -246,6 +247,36 @@
 		B4D6932C1C853754009F970D /* 6hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692D01C853754009F970D /* 6hiform1.png */; };
 		B4D6932D1C853754009F970D /* 6hiform2.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692D11C853754009F970D /* 6hiform2.png */; };
 		B4D6932E1C853754009F970D /* 3hiform1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D692D21C853754009F970D /* 3hiform1.png */; };
+		B4D6934D1C86350F009F970D /* 3form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D6932F1C86350F009F970D /* 3form1.mp3 */; };
+		B4D6934E1C86350F009F970D /* 6form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693301C86350F009F970D /* 6form1.mp3 */; };
+		B4D6934F1C86350F009F970D /* 6form2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693311C86350F009F970D /* 6form2.mp3 */; };
+		B4D693501C86350F009F970D /* 9form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693321C86350F009F970D /* 9form1.mp3 */; };
+		B4D693511C86350F009F970D /* 65form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693331C86350F009F970D /* 65form1.mp3 */; };
+		B4D693521C86350F009F970D /* 94form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693341C86350F009F970D /* 94form1.mp3 */; };
+		B4D693531C86350F009F970D /* 115form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693351C86350F009F970D /* 115form1.mp3 */; };
+		B4D693541C86350F009F970D /* 127form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693361C86350F009F970D /* 127form1.mp3 */; };
+		B4D693551C86350F009F970D /* 130form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693371C86350F009F970D /* 130form1.mp3 */; };
+		B4D693561C86350F009F970D /* 142form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693381C86350F009F970D /* 142form1.mp3 */; };
+		B4D693571C86350F009F970D /* 150form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693391C86350F009F970D /* 150form1.mp3 */; };
+		B4D693581C86350F009F970D /* 150form2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D6933A1C86350F009F970D /* 150form2.mp3 */; };
+		B4D693591C86350F009F970D /* 181form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D6933B1C86350F009F970D /* 181form1.mp3 */; };
+		B4D6935A1C86350F009F970D /* 212form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D6933C1C86350F009F970D /* 212form1.mp3 */; };
+		B4D6935B1C86350F009F970D /* 214form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D6933D1C86350F009F970D /* 214form1.mp3 */; };
+		B4D6935C1C86350F009F970D /* 229form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D6933E1C86350F009F970D /* 229form1.mp3 */; };
+		B4D6935D1C86350F009F970D /* 248form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D6933F1C86350F009F970D /* 248form1.mp3 */; };
+		B4D6935E1C86350F009F970D /* 257form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693401C86350F009F970D /* 257form1.mp3 */; };
+		B4D6935F1C86350F009F970D /* 282form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693411C86350F009F970D /* 282form1.mp3 */; };
+		B4D693601C86350F009F970D /* 303form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693421C86350F009F970D /* 303form1.mp3 */; };
+		B4D693611C86350F009F970D /* 306form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693431C86350F009F970D /* 306form1.mp3 */; };
+		B4D693621C86350F009F970D /* 308form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693441C86350F009F970D /* 308form1.mp3 */; };
+		B4D693631C86350F009F970D /* 310form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693451C86350F009F970D /* 310form1.mp3 */; };
+		B4D693641C86350F009F970D /* 354form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693461C86350F009F970D /* 354form1.mp3 */; };
+		B4D693651C86350F009F970D /* 359form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693471C86350F009F970D /* 359form1.mp3 */; };
+		B4D693661C86350F009F970D /* 380form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693481C86350F009F970D /* 380form1.mp3 */; };
+		B4D693671C86350F009F970D /* 381form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D693491C86350F009F970D /* 381form1.mp3 */; };
+		B4D693681C86350F009F970D /* 445form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D6934A1C86350F009F970D /* 445form1.mp3 */; };
+		B4D693691C86350F009F970D /* 448form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D6934B1C86350F009F970D /* 448form1.mp3 */; };
+		B4D6936A1C86350F009F970D /* 460form1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4D6934C1C86350F009F970D /* 460form1.mp3 */; };
 		B4D811541C840A7B0040F61B /* pokemonId1.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D80E831C840A780040F61B /* pokemonId1.csv */; };
 		B4D811551C840A7B0040F61B /* pokemonId2.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D80E841C840A780040F61B /* pokemonId2.csv */; };
 		B4D811561C840A7B0040F61B /* pokemonId3.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4D80E851C840A780040F61B /* pokemonId3.csv */; };
@@ -1689,7 +1720,6 @@
 		B4E84E8C1C82A04300F62887 /* pokeMoveId720.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4E84BBB1C82A04200F62887 /* pokeMoveId720.csv */; };
 		B4E84E8D1C82A04300F62887 /* pokeMoveId721.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4E84BBC1C82A04200F62887 /* pokeMoveId721.csv */; };
 		B4EBC7A91C7A6F9E00D1653C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4EBC7A81C7A6F9E00D1653C /* Assets.xcassets */; };
-		B4EBC7AB1C7A772500D1653C /* pokeinit.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4EBC7AA1C7A772500D1653C /* pokeinit.csv */; };
 		B4EBCA7E1C7AAFF800D1653C /* 1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4EBC7AD1C7AAFF600D1653C /* 1.mp3 */; };
 		B4EBCA7F1C7AAFF800D1653C /* 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4EBC7AE1C7AAFF600D1653C /* 2.mp3 */; };
 		B4EBCA801C7AAFF800D1653C /* 3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4EBC7AF1C7AAFF600D1653C /* 3.mp3 */; };
@@ -3833,6 +3863,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B4216FEB1C8789490072EEFD /* pokeinit.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokeinit.csv; sourceTree = "<group>"; };
 		B458DFE81C7EB89300899669 /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		B458DFEA1C7FD56500899669 /* MainImageViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainImageViewCell.swift; sourceTree = "<group>"; };
 		B45BAA0E1C643A9A00AF752A /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
@@ -4072,6 +4103,36 @@
 		B4D692D01C853754009F970D /* 6hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6hiform1.png; sourceTree = "<group>"; };
 		B4D692D11C853754009F970D /* 6hiform2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6hiform2.png; sourceTree = "<group>"; };
 		B4D692D21C853754009F970D /* 3hiform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3hiform1.png; sourceTree = "<group>"; };
+		B4D6932F1C86350F009F970D /* 3form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 3form1.mp3; sourceTree = "<group>"; };
+		B4D693301C86350F009F970D /* 6form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 6form1.mp3; sourceTree = "<group>"; };
+		B4D693311C86350F009F970D /* 6form2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 6form2.mp3; sourceTree = "<group>"; };
+		B4D693321C86350F009F970D /* 9form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 9form1.mp3; sourceTree = "<group>"; };
+		B4D693331C86350F009F970D /* 65form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 65form1.mp3; sourceTree = "<group>"; };
+		B4D693341C86350F009F970D /* 94form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 94form1.mp3; sourceTree = "<group>"; };
+		B4D693351C86350F009F970D /* 115form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 115form1.mp3; sourceTree = "<group>"; };
+		B4D693361C86350F009F970D /* 127form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 127form1.mp3; sourceTree = "<group>"; };
+		B4D693371C86350F009F970D /* 130form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 130form1.mp3; sourceTree = "<group>"; };
+		B4D693381C86350F009F970D /* 142form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 142form1.mp3; sourceTree = "<group>"; };
+		B4D693391C86350F009F970D /* 150form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 150form1.mp3; sourceTree = "<group>"; };
+		B4D6933A1C86350F009F970D /* 150form2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 150form2.mp3; sourceTree = "<group>"; };
+		B4D6933B1C86350F009F970D /* 181form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 181form1.mp3; sourceTree = "<group>"; };
+		B4D6933C1C86350F009F970D /* 212form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 212form1.mp3; sourceTree = "<group>"; };
+		B4D6933D1C86350F009F970D /* 214form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 214form1.mp3; sourceTree = "<group>"; };
+		B4D6933E1C86350F009F970D /* 229form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 229form1.mp3; sourceTree = "<group>"; };
+		B4D6933F1C86350F009F970D /* 248form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 248form1.mp3; sourceTree = "<group>"; };
+		B4D693401C86350F009F970D /* 257form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 257form1.mp3; sourceTree = "<group>"; };
+		B4D693411C86350F009F970D /* 282form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 282form1.mp3; sourceTree = "<group>"; };
+		B4D693421C86350F009F970D /* 303form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 303form1.mp3; sourceTree = "<group>"; };
+		B4D693431C86350F009F970D /* 306form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 306form1.mp3; sourceTree = "<group>"; };
+		B4D693441C86350F009F970D /* 308form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 308form1.mp3; sourceTree = "<group>"; };
+		B4D693451C86350F009F970D /* 310form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 310form1.mp3; sourceTree = "<group>"; };
+		B4D693461C86350F009F970D /* 354form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 354form1.mp3; sourceTree = "<group>"; };
+		B4D693471C86350F009F970D /* 359form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 359form1.mp3; sourceTree = "<group>"; };
+		B4D693481C86350F009F970D /* 380form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 380form1.mp3; sourceTree = "<group>"; };
+		B4D693491C86350F009F970D /* 381form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 381form1.mp3; sourceTree = "<group>"; };
+		B4D6934A1C86350F009F970D /* 445form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 445form1.mp3; sourceTree = "<group>"; };
+		B4D6934B1C86350F009F970D /* 448form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 448form1.mp3; sourceTree = "<group>"; };
+		B4D6934C1C86350F009F970D /* 460form1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 460form1.mp3; sourceTree = "<group>"; };
 		B4D80E831C840A780040F61B /* pokemonId1.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemonId1.csv; sourceTree = "<group>"; };
 		B4D80E841C840A780040F61B /* pokemonId2.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemonId2.csv; sourceTree = "<group>"; };
 		B4D80E851C840A780040F61B /* pokemonId3.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemonId3.csv; sourceTree = "<group>"; };
@@ -5515,7 +5576,6 @@
 		B4E84BBB1C82A04200F62887 /* pokeMoveId720.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokeMoveId720.csv; sourceTree = "<group>"; };
 		B4E84BBC1C82A04200F62887 /* pokeMoveId721.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokeMoveId721.csv; sourceTree = "<group>"; };
 		B4EBC7A81C7A6F9E00D1653C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		B4EBC7AA1C7A772500D1653C /* pokeinit.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokeinit.csv; sourceTree = "<group>"; };
 		B4EBC7AD1C7AAFF600D1653C /* 1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 1.mp3; sourceTree = "<group>"; };
 		B4EBC7AE1C7AAFF600D1653C /* 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 2.mp3; sourceTree = "<group>"; };
 		B4EBC7AF1C7AAFF600D1653C /* 3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 3.mp3; sourceTree = "<group>"; };
@@ -9934,6 +9994,36 @@
 		B4EBC7AC1C7AAFEA00D1653C /* Cries */ = {
 			isa = PBXGroup;
 			children = (
+				B4D6932F1C86350F009F970D /* 3form1.mp3 */,
+				B4D693301C86350F009F970D /* 6form1.mp3 */,
+				B4D693311C86350F009F970D /* 6form2.mp3 */,
+				B4D693321C86350F009F970D /* 9form1.mp3 */,
+				B4D693331C86350F009F970D /* 65form1.mp3 */,
+				B4D693341C86350F009F970D /* 94form1.mp3 */,
+				B4D693351C86350F009F970D /* 115form1.mp3 */,
+				B4D693361C86350F009F970D /* 127form1.mp3 */,
+				B4D693371C86350F009F970D /* 130form1.mp3 */,
+				B4D693381C86350F009F970D /* 142form1.mp3 */,
+				B4D693391C86350F009F970D /* 150form1.mp3 */,
+				B4D6933A1C86350F009F970D /* 150form2.mp3 */,
+				B4D6933B1C86350F009F970D /* 181form1.mp3 */,
+				B4D6933C1C86350F009F970D /* 212form1.mp3 */,
+				B4D6933D1C86350F009F970D /* 214form1.mp3 */,
+				B4D6933E1C86350F009F970D /* 229form1.mp3 */,
+				B4D6933F1C86350F009F970D /* 248form1.mp3 */,
+				B4D693401C86350F009F970D /* 257form1.mp3 */,
+				B4D693411C86350F009F970D /* 282form1.mp3 */,
+				B4D693421C86350F009F970D /* 303form1.mp3 */,
+				B4D693431C86350F009F970D /* 306form1.mp3 */,
+				B4D693441C86350F009F970D /* 308form1.mp3 */,
+				B4D693451C86350F009F970D /* 310form1.mp3 */,
+				B4D693461C86350F009F970D /* 354form1.mp3 */,
+				B4D693471C86350F009F970D /* 359form1.mp3 */,
+				B4D693481C86350F009F970D /* 380form1.mp3 */,
+				B4D693491C86350F009F970D /* 381form1.mp3 */,
+				B4D6934A1C86350F009F970D /* 445form1.mp3 */,
+				B4D6934B1C86350F009F970D /* 448form1.mp3 */,
+				B4D6934C1C86350F009F970D /* 460form1.mp3 */,
 				B4EBC7AD1C7AAFF600D1653C /* 1.mp3 */,
 				B4EBC7AE1C7AAFF600D1653C /* 2.mp3 */,
 				B4EBC7AF1C7AAFF600D1653C /* 3.mp3 */,
@@ -11600,8 +11690,8 @@
 				B404D0EF1C79227E00FB0C35 /* Pokedex */,
 				B404CB501C79224B00FB0C35 /* Attibutes */,
 				B404CB4F1C7921D000FB0C35 /* Moves */,
+				B4216FEB1C8789490072EEFD /* pokeinit.csv */,
 				B4FE760A1C63F8EC003BC527 /* music.mp3 */,
-				B4EBC7AA1C7A772500D1653C /* pokeinit.csv */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -11763,6 +11853,7 @@
 				B4E84DFC1C82A04300F62887 /* pokeMoveId576.csv in Resources */,
 				B4D812191C840A7B0040F61B /* pokemonId198.csv in Resources */,
 				B4F28F4D1C7CB946007C5BBF /* 403-hi.png in Resources */,
+				B4D6935E1C86350F009F970D /* 257form1.mp3 in Resources */,
 				B4D812E21C840A7B0040F61B /* pokemonId399.csv in Resources */,
 				B4D692E01C853754009F970D /* 646hiform1.png in Resources */,
 				B4EBD0931C7BAA5F00D1653C /* pokemonDescId115.csv in Resources */,
@@ -11785,6 +11876,7 @@
 				B4EBD26D1C7BAA5F00D1653C /* pokemonDescId589.csv in Resources */,
 				B4F28F551C7CB946007C5BBF /* 411-hi.png in Resources */,
 				B4EBCB061C7AAFF800D1653C /* 137.mp3 in Resources */,
+				B4D693521C86350F009F970D /* 94form1.mp3 in Resources */,
 				B4F28F9A1C7CB946007C5BBF /* 468-hi.png in Resources */,
 				B4F28DF41C7CB946007C5BBF /* 63-hi.png in Resources */,
 				B4EBCCD11C7AAFF800D1653C /* 596.mp3 in Resources */,
@@ -11826,6 +11918,7 @@
 				B4EBCD2F1C7AAFF800D1653C /* 690.mp3 in Resources */,
 				B4E84D5B1C82A04300F62887 /* pokeMoveId415.csv in Resources */,
 				B4F28FED1C7CB946007C5BBF /* 541-hi.png in Resources */,
+				B4D693541C86350F009F970D /* 127form1.mp3 in Resources */,
 				B4EBCAF11C7AAFF800D1653C /* 116.mp3 in Resources */,
 				B4E84D561C82A04300F62887 /* pokeMoveId410.csv in Resources */,
 				B4EBD12E1C7BAA5F00D1653C /* pokemonDescId270.csv in Resources */,
@@ -11860,6 +11953,7 @@
 				B4F28E311C7CB946007C5BBF /* 124-hi.png in Resources */,
 				B4D8126A1C840A7B0040F61B /* pokemonId279.csv in Resources */,
 				B4F28F441C7CB946007C5BBF /* 394-hi.png in Resources */,
+				B4D693571C86350F009F970D /* 150form1.mp3 in Resources */,
 				B4EBD0381C7BAA5F00D1653C /* pokemonDescId24.csv in Resources */,
 				B4E84D621C82A04300F62887 /* pokeMoveId422.csv in Resources */,
 				B4EBD27A1C7BAA5F00D1653C /* pokemonDescId602.csv in Resources */,
@@ -11956,6 +12050,7 @@
 				B4D811541C840A7B0040F61B /* pokemonId1.csv in Resources */,
 				B4EBCCDE1C7AAFF800D1653C /* 609.mp3 in Resources */,
 				B4EBD28E1C7BAA5F00D1653C /* pokemonDescId622.csv in Resources */,
+				B4D6936A1C86350F009F970D /* 460form1.mp3 in Resources */,
 				B4EBD15A1C7BAA5F00D1653C /* pokemonDescId314.csv in Resources */,
 				B4EBCAB41C7AAFF800D1653C /* 55.mp3 in Resources */,
 				B4E84C171C82A04200F62887 /* pokeMoveId91.csv in Resources */,
@@ -11994,6 +12089,7 @@
 				B4E84C251C82A04200F62887 /* pokeMoveId105.csv in Resources */,
 				B4D812741C840A7B0040F61B /* pokemonId289.csv in Resources */,
 				B4EBD2431C7BAA5F00D1653C /* pokemonDescId547.csv in Resources */,
+				B4D6934E1C86350F009F970D /* 6form1.mp3 in Resources */,
 				B4F28E771C7CB946007C5BBF /* 194-hi.png in Resources */,
 				B4E84CA41C82A04300F62887 /* pokeMoveId232.csv in Resources */,
 				B4F28F791C7CB946007C5BBF /* 435-hi.png in Resources */,
@@ -12195,6 +12291,7 @@
 				B4F28DCC1C7CB946007C5BBF /* 23-hi.png in Resources */,
 				B4EBD1161C7BAA5F00D1653C /* pokemonDescId246.csv in Resources */,
 				B4EBCC611C7AAFF800D1653C /* 484.mp3 in Resources */,
+				B4D6935A1C86350F009F970D /* 212form1.mp3 in Resources */,
 				B4EBCAEA1C7AAFF800D1653C /* 109.mp3 in Resources */,
 				B4EBCC121C7AAFF800D1653C /* 405.mp3 in Resources */,
 				B4E84C6B1C82A04200F62887 /* pokeMoveId175.csv in Resources */,
@@ -12516,7 +12613,6 @@
 				B4EBD0C81C7BAA5F00D1653C /* pokemonDescId168.csv in Resources */,
 				B4F290581C7CB946007C5BBF /* 637-hi.png in Resources */,
 				B4E84CE81C82A04300F62887 /* pokeMoveId300.csv in Resources */,
-				B4EBC7AB1C7A772500D1653C /* pokeinit.csv in Resources */,
 				B4EBD2E61C7BAA5F00D1653C /* pokemonDescId710.csv in Resources */,
 				B4EBCD0F1C7AAFF800D1653C /* 658.mp3 in Resources */,
 				B4E84C6A1C82A04200F62887 /* pokeMoveId174.csv in Resources */,
@@ -12630,6 +12726,7 @@
 				B4E84C721C82A04200F62887 /* pokeMoveId182.csv in Resources */,
 				B4D813CA1C840A7B0040F61B /* pokemonId631.csv in Resources */,
 				B4EBCAE21C7AAFF800D1653C /* 101.mp3 in Resources */,
+				B4D693671C86350F009F970D /* 381form1.mp3 in Resources */,
 				B4EBD29B1C7BAA5F00D1653C /* pokemonDescId635.csv in Resources */,
 				B4EBD2381C7BAA5F00D1653C /* pokemonDescId536.csv in Resources */,
 				B4F28E441C7CB946007C5BBF /* 143-hi.png in Resources */,
@@ -13054,6 +13151,7 @@
 				B4EBD0A51C7BAA5F00D1653C /* pokemonDescId133.csv in Resources */,
 				B4EBD0431C7BAA5F00D1653C /* pokemonDescId35.csv in Resources */,
 				B4EBD2E31C7BAA5F00D1653C /* pokemonDescId707.csv in Resources */,
+				B4D693631C86350F009F970D /* 310form1.mp3 in Resources */,
 				B4D813EC1C840A7B0040F61B /* pokemonId665.csv in Resources */,
 				B4D813951C840A7B0040F61B /* pokemonId578.csv in Resources */,
 				B4EBCA9C1C7AAFF800D1653C /* 31.mp3 in Resources */,
@@ -13085,12 +13183,14 @@
 				B4EBD1E71C7BAA5F00D1653C /* pokemonDescId455.csv in Resources */,
 				B4EBD0BA1C7BAA5F00D1653C /* pokemonDescId154.csv in Resources */,
 				B4D812A21C840A7B0040F61B /* pokemonId335.csv in Resources */,
+				B4D693681C86350F009F970D /* 445form1.mp3 in Resources */,
 				B4EBD1F61C7BAA5F00D1653C /* pokemonDescId470.csv in Resources */,
 				B4D814211C840A7B0040F61B /* pokemonId718.csv in Resources */,
 				B4D811DA1C840A7B0040F61B /* pokemonId135.csv in Resources */,
 				B4D8127F1C840A7B0040F61B /* pokemonId300.csv in Resources */,
 				B4EBCAE81C7AAFF800D1653C /* 107.mp3 in Resources */,
 				B4EBD1FC1C7BAA5F00D1653C /* pokemonDescId476.csv in Resources */,
+				B4D693511C86350F009F970D /* 65form1.mp3 in Resources */,
 				B4EBCC5A1C7AAFF800D1653C /* 477.mp3 in Resources */,
 				B4D8126C1C840A7B0040F61B /* pokemonId281.csv in Resources */,
 				B4EBD2731C7BAA5F00D1653C /* pokemonDescId595.csv in Resources */,
@@ -13139,6 +13239,7 @@
 				B4EBCB211C7AAFF800D1653C /* 164.mp3 in Resources */,
 				B4F28EAE1C7CB946007C5BBF /* 248-hi.png in Resources */,
 				B4EBD1031C7BAA5F00D1653C /* pokemonDescId227.csv in Resources */,
+				B4D693601C86350F009F970D /* 303form1.mp3 in Resources */,
 				B4EBCC531C7AAFF800D1653C /* 470.mp3 in Resources */,
 				B4D812851C840A7B0040F61B /* pokemonId306.csv in Resources */,
 				B4D812311C840A7B0040F61B /* pokemonId222.csv in Resources */,
@@ -13500,6 +13601,7 @@
 				B4D811AD1C840A7B0040F61B /* pokemonId90.csv in Resources */,
 				B4EBCAAC1C7AAFF800D1653C /* 47.mp3 in Resources */,
 				B4EBCC631C7AAFF800D1653C /* 486.mp3 in Resources */,
+				B4D6934F1C86350F009F970D /* 6form2.mp3 in Resources */,
 				B4E84DB61C82A04300F62887 /* pokeMoveId506.csv in Resources */,
 				B4EBD1781C7BAA5F00D1653C /* pokemonDescId344.csv in Resources */,
 				B4E84C811C82A04200F62887 /* pokeMoveId197.csv in Resources */,
@@ -13515,6 +13617,7 @@
 				B4EBD0C51C7BAA5F00D1653C /* pokemonDescId165.csv in Resources */,
 				B4D62DCD1C81647C007E2CAD /* 707-hi.png in Resources */,
 				B4D8120E1C840A7B0040F61B /* pokemonId187.csv in Resources */,
+				B4D6935D1C86350F009F970D /* 248form1.mp3 in Resources */,
 				B4E84E0B1C82A04300F62887 /* pokeMoveId591.csv in Resources */,
 				B4EBCC9A1C7AAFF800D1653C /* 541.mp3 in Resources */,
 				B4D812BB1C840A7B0040F61B /* pokemonId360.csv in Resources */,
@@ -13843,6 +13946,7 @@
 				B4F28FE11C7CB946007C5BBF /* 529-hi.png in Resources */,
 				B4EBCC771C7AAFF800D1653C /* 506.mp3 in Resources */,
 				B4EBD2901C7BAA5F00D1653C /* pokemonDescId624.csv in Resources */,
+				B4D6935F1C86350F009F970D /* 282form1.mp3 in Resources */,
 				B4F28E511C7CB946007C5BBF /* 156-hi.png in Resources */,
 				B4E84CFE1C82A04300F62887 /* pokeMoveId322.csv in Resources */,
 				B4EBD16E1C7BAA5F00D1653C /* pokemonDescId334.csv in Resources */,
@@ -13868,6 +13972,7 @@
 				B4E84CFF1C82A04300F62887 /* pokeMoveId323.csv in Resources */,
 				B4F28DC21C7CB946007C5BBF /* 13-hi.png in Resources */,
 				B4D811DD1C840A7B0040F61B /* pokemonId138.csv in Resources */,
+				B4D693641C86350F009F970D /* 354form1.mp3 in Resources */,
 				B4D8120A1C840A7B0040F61B /* pokemonId183.csv in Resources */,
 				B4F28EE91C7CB946007C5BBF /* 307-hi.png in Resources */,
 				B4EBCB191C7AAFF800D1653C /* 156.mp3 in Resources */,
@@ -13916,6 +14021,7 @@
 				B4D811E41C840A7B0040F61B /* pokemonId145.csv in Resources */,
 				B4EBD0DA1C7BAA5F00D1653C /* pokemonDescId186.csv in Resources */,
 				B4D692EF1C853754009F970D /* 386hiform1.png in Resources */,
+				B4D6935B1C86350F009F970D /* 214form1.mp3 in Resources */,
 				B4EBCA8B1C7AAFF800D1653C /* 14.mp3 in Resources */,
 				B4D813F21C840A7B0040F61B /* pokemonId671.csv in Resources */,
 				B4EBD1E11C7BAA5F00D1653C /* pokemonDescId449.csv in Resources */,
@@ -14013,6 +14119,7 @@
 				B4E84E811C82A04300F62887 /* pokeMoveId709.csv in Resources */,
 				B4F28F131C7CB946007C5BBF /* 349-hi.png in Resources */,
 				B4D812421C840A7B0040F61B /* pokemonId239.csv in Resources */,
+				B4D6934D1C86350F009F970D /* 3form1.mp3 in Resources */,
 				B4EBD2161C7BAA5F00D1653C /* pokemonDescId502.csv in Resources */,
 				B4EBCB341C7AAFF800D1653C /* 183.mp3 in Resources */,
 				B4EBCC691C7AAFF800D1653C /* 492.mp3 in Resources */,
@@ -14034,6 +14141,7 @@
 				B4F28F3D1C7CB946007C5BBF /* 387-hi.png in Resources */,
 				B4EBCB9B1C7AAFF800D1653C /* 286.mp3 in Resources */,
 				B4D813611C840A7B0040F61B /* pokemonId526.csv in Resources */,
+				B4D693661C86350F009F970D /* 380form1.mp3 in Resources */,
 				B4D693141C853754009F970D /* 303hiform1.png in Resources */,
 				B4EBCAFB1C7AAFF800D1653C /* 126.mp3 in Resources */,
 				B4E84CFD1C82A04300F62887 /* pokeMoveId321.csv in Resources */,
@@ -14234,6 +14342,7 @@
 				B4D814121C840A7B0040F61B /* pokemonId703.csv in Resources */,
 				B4D813591C840A7B0040F61B /* pokemonId518.csv in Resources */,
 				B4D692591C8525DE009F970D /* newformpokeId381.csv in Resources */,
+				B4D693651C86350F009F970D /* 359form1.mp3 in Resources */,
 				B4D812151C840A7B0040F61B /* pokemonId194.csv in Resources */,
 				B4F28E7D1C7CB946007C5BBF /* 200-hi.png in Resources */,
 				B4D813411C840A7B0040F61B /* pokemonId494.csv in Resources */,
@@ -14257,6 +14366,7 @@
 				B4D812B71C840A7B0040F61B /* pokemonId356.csv in Resources */,
 				B4EBD0F61C7BAA5F00D1653C /* pokemonDescId214.csv in Resources */,
 				B4E84D4D1C82A04300F62887 /* pokeMoveId401.csv in Resources */,
+				B4D693621C86350F009F970D /* 308form1.mp3 in Resources */,
 				B4EBCC9B1C7AAFF800D1653C /* 542.mp3 in Resources */,
 				B4F290591C7CB946007C5BBF /* 638-hi.png in Resources */,
 				B4F28EA61C7CB946007C5BBF /* 240-hi.png in Resources */,
@@ -14276,6 +14386,7 @@
 				B4EBD1091C7BAA5F00D1653C /* pokemonDescId233.csv in Resources */,
 				B4E84E281C82A04300F62887 /* pokeMoveId620.csv in Resources */,
 				B4EBD21B1C7BAA5F00D1653C /* pokemonDescId507.csv in Resources */,
+				B4D693691C86350F009F970D /* 448form1.mp3 in Resources */,
 				B4F2905D1C7CB946007C5BBF /* 641-incarnate-hi.png in Resources */,
 				B4EBD0F31C7BAA5F00D1653C /* pokemonDescId211.csv in Resources */,
 				B4D8135E1C840A7B0040F61B /* pokemonId523.csv in Resources */,
@@ -14532,6 +14643,7 @@
 				B4D8124F1C840A7B0040F61B /* pokemonId252.csv in Resources */,
 				B4D813861C840A7B0040F61B /* pokemonId563.csv in Resources */,
 				B4EBCCF61C7AAFF800D1653C /* 633.mp3 in Resources */,
+				B4D693611C86350F009F970D /* 306form1.mp3 in Resources */,
 				B4F28E3E1C7CB946007C5BBF /* 137-hi.png in Resources */,
 				B4D62DBE1C81647C007E2CAD /* 692-hi.png in Resources */,
 				B4D812A91C840A7B0040F61B /* pokemonId342.csv in Resources */,
@@ -14611,6 +14723,7 @@
 				B4EBCAA11C7AAFF800D1653C /* 36.mp3 in Resources */,
 				B4EBCB2B1C7AAFF800D1653C /* 174.mp3 in Resources */,
 				B4F28FCF1C7CB946007C5BBF /* 511-hi.png in Resources */,
+				B4D693561C86350F009F970D /* 142form1.mp3 in Resources */,
 				B4EBCC511C7AAFF800D1653C /* 468.mp3 in Resources */,
 				B4F28FCB1C7CB946007C5BBF /* 507-hi.png in Resources */,
 				B4EBCBEA1C7AAFF800D1653C /* 365.mp3 in Resources */,
@@ -14957,6 +15070,7 @@
 				B4D813FF1C840A7B0040F61B /* pokemonId684.csv in Resources */,
 				B4EBCD401C7AAFF800D1653C /* 707.mp3 in Resources */,
 				B4E84D361C82A04300F62887 /* pokeMoveId378.csv in Resources */,
+				B4D693581C86350F009F970D /* 150form2.mp3 in Resources */,
 				B4F290341C7CB946007C5BBF /* 601-hi.png in Resources */,
 				B4E84D031C82A04300F62887 /* pokeMoveId327.csv in Resources */,
 				B4EBCB8D1C7AAFF800D1653C /* 272.mp3 in Resources */,
@@ -15107,6 +15221,7 @@
 				B4EBD1581C7BAA5F00D1653C /* pokemonDescId312.csv in Resources */,
 				B4D814021C840A7B0040F61B /* pokemonId687.csv in Resources */,
 				B4E84DA41C82A04300F62887 /* pokeMoveId488.csv in Resources */,
+				B4D6935C1C86350F009F970D /* 229form1.mp3 in Resources */,
 				B4EBD1871C7BAA5F00D1653C /* pokemonDescId359.csv in Resources */,
 				B4E84E1C1C82A04300F62887 /* pokeMoveId608.csv in Resources */,
 				B4D6923E1C8525DE009F970D /* newformpokeId646.csv in Resources */,
@@ -15325,11 +15440,13 @@
 				B4EBD1B21C7BAA5F00D1653C /* pokemonDescId402.csv in Resources */,
 				B4EBD2811C7BAA5F00D1653C /* pokemonDescId609.csv in Resources */,
 				B4D8124D1C840A7B0040F61B /* pokemonId250.csv in Resources */,
+				B4D693501C86350F009F970D /* 9form1.mp3 in Resources */,
 				B4E84C9B1C82A04200F62887 /* pokeMoveId223.csv in Resources */,
 				B4EBCB4F1C7AAFF800D1653C /* 210.mp3 in Resources */,
 				B4F28FC81C7CB946007C5BBF /* 504-hi.png in Resources */,
 				B4F28E9F1C7CB946007C5BBF /* 233-hi.png in Resources */,
 				B4E84C9A1C82A04200F62887 /* pokeMoveId222.csv in Resources */,
+				B4D693591C86350F009F970D /* 181form1.mp3 in Resources */,
 				B4E84E291C82A04300F62887 /* pokeMoveId621.csv in Resources */,
 				B4EBCB1A1C7AAFF800D1653C /* 157.mp3 in Resources */,
 				B4F28DCD1C7CB946007C5BBF /* 24-hi.png in Resources */,
@@ -15353,6 +15470,7 @@
 				B4E84DE81C82A04300F62887 /* pokeMoveId556.csv in Resources */,
 				B4EBD2F11C7BAA5F00D1653C /* pokemonDescId721.csv in Resources */,
 				B4EBD0D81C7BAA5F00D1653C /* pokemonDescId184.csv in Resources */,
+				B4D693531C86350F009F970D /* 115form1.mp3 in Resources */,
 				B4D813B21C840A7B0040F61B /* pokemonId607.csv in Resources */,
 				B4EBCD291C7AAFF800D1653C /* 684.mp3 in Resources */,
 				B4D8118F1C840A7B0040F61B /* pokemonId60.csv in Resources */,
@@ -15374,6 +15492,7 @@
 				B4D8119B1C840A7B0040F61B /* pokemonId72.csv in Resources */,
 				B4EBCA811C7AAFF800D1653C /* 4.mp3 in Resources */,
 				B4EBD2021C7BAA5F00D1653C /* pokemonDescId482.csv in Resources */,
+				B4216FEC1C8789490072EEFD /* pokeinit.csv in Resources */,
 				B4D692621C8525DE009F970D /* newformpokeId310.csv in Resources */,
 				B4D811701C840A7B0040F61B /* pokemonId29.csv in Resources */,
 				B4D692E81C853754009F970D /* 479hiform1.png in Resources */,
@@ -15450,6 +15569,7 @@
 				B4EBCCB31C7AAFF800D1653C /* 566.mp3 in Resources */,
 				B4EBCCBC1C7AAFF800D1653C /* 575.mp3 in Resources */,
 				B4D813C31C840A7B0040F61B /* pokemonId624.csv in Resources */,
+				B4D693551C86350F009F970D /* 130form1.mp3 in Resources */,
 				B4E84D4F1C82A04300F62887 /* pokeMoveId403.csv in Resources */,
 				B4D813451C840A7B0040F61B /* pokemonId498.csv in Resources */,
 				B4EBD2721C7BAA5F00D1653C /* pokemonDescId594.csv in Resources */,
@@ -15617,6 +15737,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.hmalc.pokedex;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -15631,6 +15752,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.hmalc.pokedex;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};

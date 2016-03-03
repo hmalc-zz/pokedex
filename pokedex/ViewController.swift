@@ -66,7 +66,8 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
                 let name = row["identifier"]!
                 let type1 = row["type1_id"]!
                 let type2 = row["type2_id"]!
-                let poke = Pokemon(name: name, pokedexId: pokeId,type1: type1,type2: type2)
+                let gen = row["gen"]!
+                let poke = Pokemon(name: name, pokedexId: pokeId,type1: type1,type2: type2,gen: gen)
                 pokemon.append(poke)
 
             }
@@ -166,10 +167,22 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         } else {
             inSearchMode = true
             let lower = searchBar.text!.lowercaseString
-            filteredPokemon = pokemon.filter({$0.name.rangeOfString(lower) != nil})
-            collection.reloadData()
-            
+                
+            filteredPokemon = pokemon.filter() {
+                let name = $0.name.lowercaseString.rangeOfString(lower) != nil
+                let firstType = $0.type1.lowercaseString.rangeOfString(lower) != nil
+                let secondType = $0.type2.lowercaseString.rangeOfString(lower) != nil
+                let generation = $0.generationId.lowercaseString.rangeOfString(lower) != nil
+                return name || firstType || secondType || generation
         }
+        collection.reloadData()
+        }
+    }
+    
+    func sortBy(){
+        pokemon.sortInPlace { $0.name.compare($1.name) == .OrderedAscending }
+        
+        collection.reloadData()
     }
     
     override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
@@ -182,6 +195,9 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         }
     }
 
+    @IBAction func sort(sender: UIButton) {
+        sortBy()
+    }
 
 }
 
