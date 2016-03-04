@@ -7,14 +7,14 @@
 //
 
 import UIKit
-import AVFoundation
-import QuartzCore
 
 class ViewController: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout, UISearchBarDelegate {
     
     override func preferredStatusBarStyle() -> UIStatusBarStyle {
         return .LightContent
     }
+    
+    // UI Labels, SearchBar and CollectionView
 
     @IBOutlet weak var collection: UICollectionView!
     @IBOutlet weak var searchBar: UISearchBar!
@@ -25,7 +25,6 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
   
     var pokemon = [Pokemon]()
     var filteredPokemon = [Pokemon]()
-    var musicPlayer: AVAudioPlayer!
     var inSearchMode = false
     var AscendingSort = true
     var statId: Int = 0
@@ -59,26 +58,6 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         statLabel.text = statsList[statId]
         
         parsePokemonCSV()
-        initAudio()
-
-
-        
-    }
-    
-    func initAudio() {
-        
-        let path = NSBundle.mainBundle().pathForResource("music", ofType: "mp3")!
-        
-        do {
-            musicPlayer = try AVAudioPlayer(contentsOfURL: NSURL(string: path)!)
-            musicPlayer.prepareToPlay()
-            musicPlayer.numberOfLoops = -1
-            
-            
-        } catch let err as NSError {
-            print(err.debugDescription)
-        }
-        
     }
     
     func parsePokemonCSV() {
@@ -171,26 +150,21 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         let bounds = UIScreen.mainScreen().bounds
         let width = bounds.size.width
         
+        // iPhone 4S etc
+        
         if width < 350 {
             return CGSizeMake(85, 85)
         }
         
-        return CGSizeMake(107, 107)
+        // iPads
         
-    }
-    
-    
-    @IBAction func musicBtnPressed(sender: UIButton!) {
-        
-        if musicPlayer.playing {
-            musicPlayer.stop()
-            sender.alpha = 0.2
-        } else {
-            musicPlayer.play()
-            musicPlayer.volume = 0.2
-            sender.alpha = 1.0
+        if width > 750 {
+            return CGSizeMake(165, 165)
         }
         
+        // iPhone 6
+        
+        return CGSizeMake(107, 107)
         
     }
     
@@ -199,6 +173,9 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     }
     
     func searchBar(searchBar: UISearchBar, textDidChange searchText: String) {
+        
+        // Handle case for empty search bar
+        
         if searchBar.text == nil || searchBar.text == "" {
             inSearchMode = false
             view.endEditing(true)
@@ -206,6 +183,9 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
             collection.reloadData()
         } else {
             inSearchMode = true
+            
+        // Filter based on whether string matches Name, Type or Gen. Simple and dynamic searching possible.
+            
             let lower = searchBar.text!.lowercaseString
                 
             filteredPokemon = pokemon.filter() {
@@ -218,6 +198,8 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         collection.reloadData()
         }
     }
+    
+    // Following functions perform a sort base on the ID passed to it, which represents a Pokemon Stat
     
     func sortByAscend(statId: Int){
         
@@ -377,6 +359,9 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
 
     
     func appropriateSort(){
+        
+        // Function performs a sort based on current sort state and whether pokemon list is filtered or not.
+        
         if AscendingSort == true && inSearchMode == false {
             sortByAscend(statId)
         } else if AscendingSort == false && inSearchMode == false {
@@ -411,7 +396,6 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     
     @IBAction func descendingAscending(sender: UIButton) {
         
-        
         if AscendingSort == true {
             AscendingSort = false
             animateTriangle(180.0)
@@ -420,10 +404,10 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
             animateTriangle(0.0)
         }
         appropriateSort()
-        
     }
     
     @IBAction func previousStat(sender: UIButton) {
+        
         statId--
         if statId < 0 {
             statId = 10
@@ -440,10 +424,5 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         labelSetter(statId)
         appropriateSort()
     }
-    
-    
-    
-    
-
 }
 

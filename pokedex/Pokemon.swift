@@ -787,6 +787,8 @@ class Pokemon {
     
     // MARK: Pokedex Entry sorting
     
+    
+    
     func parsePokedexEntryCSV(selectedVersionLabel: Int) {
         
         let path = NSBundle.mainBundle().pathForResource("pokemonDescId\(pokedexId)", ofType: "csv")!
@@ -821,6 +823,8 @@ class Pokemon {
             self._gameIdNo = 0
         }
     }
+    
+    
 
     //MARK: Alamofire HTTP protocol for downloading from PokeAPI
     

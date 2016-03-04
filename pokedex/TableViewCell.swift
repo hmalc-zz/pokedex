@@ -34,9 +34,15 @@ class TableViewCell: UITableViewCell {
         
         moveName.text = moveTitle
         LevelLbl.text = "\(Level)"
-        typeLabel.text = typeName
+        typeLabel.text = typeName.capitalizedString
+        typeLabel.layer.backgroundColor = assignColorToType(typeName.capitalizedString, alpha: 1).CGColor
         powerLabel.text = powerLevel
-        accuracyLabel.text = "\(accuracyLevel)%"
+        if accuracyLevel != "-" {
+            accuracyLabel.text = "\(accuracyLevel)%"
+        } else {
+            accuracyLabel.text = "\(accuracyLevel)"
+        }
+        
         
     }
 
