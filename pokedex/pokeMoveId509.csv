@@ -1,67 +1,67 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-509,purrloin,11,10,Scratch,1,1,
-509,purrloin,11,28,Sand Attack,1,10,
-509,purrloin,11,45,Growl,1,3,
-509,purrloin,11,154,Fury Swipes,1,12,
-509,purrloin,11,163,Slash,1,30,
-509,purrloin,11,228,Pursuit,1,15,
-509,purrloin,11,252,Fake Out,1,21,
-509,purrloin,11,259,Torment,1,19,
-509,purrloin,11,274,Assist,1,6,
-509,purrloin,11,289,Snatch,1,39,
-509,purrloin,11,372,Assurance,1,28,
-509,purrloin,11,389,Sucker Punch,1,46,
-509,purrloin,11,400,Night Slash,1,37,
-509,purrloin,11,417,Nasty Plot,1,42,
-509,purrloin,11,445,Captivate,1,33,
-509,purrloin,11,468,Hone Claws,1,24,
-509,purrloin,14,10,Scratch,1,1,
-509,purrloin,14,28,Sand Attack,1,10,
-509,purrloin,14,45,Growl,1,3,
-509,purrloin,14,154,Fury Swipes,1,12,
-509,purrloin,14,163,Slash,1,30,
-509,purrloin,14,228,Pursuit,1,15,
-509,purrloin,14,252,Fake Out,1,21,
-509,purrloin,14,259,Torment,1,19,
-509,purrloin,14,274,Assist,1,6,
-509,purrloin,14,289,Snatch,1,39,
-509,purrloin,14,372,Assurance,1,28,
-509,purrloin,14,389,Sucker Punch,1,46,
-509,purrloin,14,400,Night Slash,1,37,
-509,purrloin,14,417,Nasty Plot,1,42,
-509,purrloin,14,445,Captivate,1,33,
-509,purrloin,14,468,Hone Claws,1,24,
-509,purrloin,15,10,Scratch,1,1,
-509,purrloin,15,28,Sand Attack,1,10,
-509,purrloin,15,45,Growl,1,3,
-509,purrloin,15,154,Fury Swipes,1,12,
-509,purrloin,15,163,Slash,1,30,
-509,purrloin,15,228,Pursuit,1,15,
-509,purrloin,15,252,Fake Out,1,21,
-509,purrloin,15,259,Torment,1,19,
-509,purrloin,15,274,Assist,1,6,
-509,purrloin,15,289,Snatch,1,39,
-509,purrloin,15,372,Assurance,1,28,
-509,purrloin,15,389,Sucker Punch,1,46,
-509,purrloin,15,400,Night Slash,1,37,
-509,purrloin,15,417,Nasty Plot,1,42,
-509,purrloin,15,445,Captivate,1,33,
-509,purrloin,15,468,Hone Claws,1,24,
-509,purrloin,15,583,Play Rough,1,49,
-509,purrloin,16,10,Scratch,1,1,1
-509,purrloin,16,28,Sand Attack,1,10,1
-509,purrloin,16,45,Growl,1,3,1
-509,purrloin,16,154,Fury Swipes,1,12,1
-509,purrloin,16,163,Slash,1,30,1
-509,purrloin,16,228,Pursuit,1,15,1
-509,purrloin,16,252,Fake Out,1,21,1
-509,purrloin,16,259,Torment,1,19,1
-509,purrloin,16,274,Assist,1,6,1
-509,purrloin,16,289,Snatch,1,39,1
-509,purrloin,16,372,Assurance,1,28,1
-509,purrloin,16,389,Sucker Punch,1,46,1
-509,purrloin,16,400,Night Slash,1,37,1
-509,purrloin,16,417,Nasty Plot,1,42,1
-509,purrloin,16,445,Captivate,1,33,1
-509,purrloin,16,468,Hone Claws,1,24,1
-509,purrloin,16,583,Play Rough,1,49,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+509,11,Scratch,1,normal,40,100
+509,14,Scratch,1,normal,40,100
+509,15,Scratch,1,normal,40,100
+509,16,Scratch,1,normal,40,100
+509,11,Growl,3,normal,-,100
+509,14,Growl,3,normal,-,100
+509,15,Growl,3,normal,-,100
+509,16,Growl,3,normal,-,100
+509,11,Assist,6,normal,-,-
+509,14,Assist,6,normal,-,-
+509,15,Assist,6,normal,-,-
+509,16,Assist,6,normal,-,-
+509,11,Sand Attack,10,ground,-,100
+509,14,Sand Attack,10,ground,-,100
+509,15,Sand Attack,10,ground,-,100
+509,16,Sand Attack,10,ground,-,100
+509,11,Fury Swipes,12,normal,18,80
+509,14,Fury Swipes,12,normal,18,80
+509,15,Fury Swipes,12,normal,18,80
+509,16,Fury Swipes,12,normal,18,80
+509,11,Pursuit,15,dark,40,100
+509,14,Pursuit,15,dark,40,100
+509,15,Pursuit,15,dark,40,100
+509,16,Pursuit,15,dark,40,100
+509,11,Torment,19,dark,-,100
+509,14,Torment,19,dark,-,100
+509,15,Torment,19,dark,-,100
+509,16,Torment,19,dark,-,100
+509,11,Fake Out,21,normal,40,100
+509,14,Fake Out,21,normal,40,100
+509,15,Fake Out,21,normal,40,100
+509,16,Fake Out,21,normal,40,100
+509,11,Hone Claws,24,dark,-,-
+509,14,Hone Claws,24,dark,-,-
+509,15,Hone Claws,24,dark,-,-
+509,16,Hone Claws,24,dark,-,-
+509,11,Assurance,28,dark,60,100
+509,14,Assurance,28,dark,60,100
+509,15,Assurance,28,dark,60,100
+509,16,Assurance,28,dark,60,100
+509,11,Slash,30,normal,70,100
+509,14,Slash,30,normal,70,100
+509,15,Slash,30,normal,70,100
+509,16,Slash,30,normal,70,100
+509,11,Captivate,33,normal,-,100
+509,14,Captivate,33,normal,-,100
+509,15,Captivate,33,normal,-,100
+509,16,Captivate,33,normal,-,100
+509,11,Night Slash,37,dark,70,100
+509,14,Night Slash,37,dark,70,100
+509,15,Night Slash,37,dark,70,100
+509,16,Night Slash,37,dark,70,100
+509,11,Snatch,39,dark,-,-
+509,14,Snatch,39,dark,-,-
+509,15,Snatch,39,dark,-,-
+509,16,Snatch,39,dark,-,-
+509,11,Nasty Plot,42,dark,-,-
+509,14,Nasty Plot,42,dark,-,-
+509,15,Nasty Plot,42,dark,-,-
+509,16,Nasty Plot,42,dark,-,-
+509,11,Sucker Punch,46,dark,80,100
+509,14,Sucker Punch,46,dark,80,100
+509,15,Sucker Punch,46,dark,80,100
+509,16,Sucker Punch,46,dark,80,100
+509,15,Play Rough,49,fairy,90,90
+509,16,Play Rough,49,fairy,90,90

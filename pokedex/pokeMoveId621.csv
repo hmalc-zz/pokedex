@@ -1,65 +1,65 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-621,druddigon,11,10,Scratch,1,1,2
-621,druddigon,11,43,Leer,1,1,1
-621,druddigon,11,44,Bite,1,9,
-621,druddigon,11,82,Dragon Rage,1,18,
-621,druddigon,11,163,Slash,1,21,
-621,druddigon,11,184,Scary Face,1,13,
-621,druddigon,11,200,Outrage,1,62,
-621,druddigon,11,242,Crunch,1,25,
-621,druddigon,11,276,Superpower,1,55,
-621,druddigon,11,279,Revenge,1,35,
-621,druddigon,11,337,Dragon Claw,1,27,
-621,druddigon,11,400,Night Slash,1,40,
-621,druddigon,11,431,Rock Climb,1,49,
-621,druddigon,11,468,Hone Claws,1,5,
-621,druddigon,11,498,Chip Away,1,31,
-621,druddigon,11,525,Dragon Tail,1,45,
-621,druddigon,14,10,Scratch,1,1,2
-621,druddigon,14,43,Leer,1,1,1
-621,druddigon,14,44,Bite,1,9,
-621,druddigon,14,82,Dragon Rage,1,18,
-621,druddigon,14,163,Slash,1,21,
-621,druddigon,14,184,Scary Face,1,13,
-621,druddigon,14,200,Outrage,1,62,
-621,druddigon,14,242,Crunch,1,25,
-621,druddigon,14,276,Superpower,1,55,
-621,druddigon,14,279,Revenge,1,35,
-621,druddigon,14,337,Dragon Claw,1,27,
-621,druddigon,14,400,Night Slash,1,40,
-621,druddigon,14,431,Rock Climb,1,49,
-621,druddigon,14,468,Hone Claws,1,5,
-621,druddigon,14,498,Chip Away,1,31,
-621,druddigon,14,525,Dragon Tail,1,45,
-621,druddigon,15,10,Scratch,1,1,2
-621,druddigon,15,43,Leer,1,1,1
-621,druddigon,15,44,Bite,1,9,
-621,druddigon,15,82,Dragon Rage,1,18,
-621,druddigon,15,163,Slash,1,21,
-621,druddigon,15,184,Scary Face,1,13,
-621,druddigon,15,200,Outrage,1,62,
-621,druddigon,15,242,Crunch,1,25,
-621,druddigon,15,276,Superpower,1,55,
-621,druddigon,15,279,Revenge,1,35,
-621,druddigon,15,337,Dragon Claw,1,27,
-621,druddigon,15,400,Night Slash,1,40,
-621,druddigon,15,431,Rock Climb,1,49,
-621,druddigon,15,468,Hone Claws,1,5,
-621,druddigon,15,498,Chip Away,1,31,
-621,druddigon,15,525,Dragon Tail,1,45,
-621,druddigon,16,10,Scratch,1,1,2
-621,druddigon,16,43,Leer,1,1,1
-621,druddigon,16,44,Bite,1,9,1
-621,druddigon,16,82,Dragon Rage,1,18,1
-621,druddigon,16,163,Slash,1,21,1
-621,druddigon,16,184,Scary Face,1,13,1
-621,druddigon,16,200,Outrage,1,62,1
-621,druddigon,16,242,Crunch,1,25,1
-621,druddigon,16,276,Superpower,1,55,1
-621,druddigon,16,279,Revenge,1,35,1
-621,druddigon,16,337,Dragon Claw,1,27,1
-621,druddigon,16,400,Night Slash,1,40,1
-621,druddigon,16,431,Rock Climb,1,49,1
-621,druddigon,16,468,Hone Claws,1,5,1
-621,druddigon,16,498,Chip Away,1,31,1
-621,druddigon,16,525,Dragon Tail,1,45,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+621,11,Scratch,1,normal,40,100
+621,11,Leer,1,normal,-,100
+621,14,Scratch,1,normal,40,100
+621,14,Leer,1,normal,-,100
+621,15,Scratch,1,normal,40,100
+621,15,Leer,1,normal,-,100
+621,16,Scratch,1,normal,40,100
+621,16,Leer,1,normal,-,100
+621,11,Hone Claws,5,dark,-,-
+621,14,Hone Claws,5,dark,-,-
+621,15,Hone Claws,5,dark,-,-
+621,16,Hone Claws,5,dark,-,-
+621,11,Bite,9,dark,60,100
+621,14,Bite,9,dark,60,100
+621,15,Bite,9,dark,60,100
+621,16,Bite,9,dark,60,100
+621,11,Scary Face,13,normal,-,100
+621,14,Scary Face,13,normal,-,100
+621,15,Scary Face,13,normal,-,100
+621,16,Scary Face,13,normal,-,100
+621,11,Dragon Rage,18,dragon,-,100
+621,14,Dragon Rage,18,dragon,-,100
+621,15,Dragon Rage,18,dragon,-,100
+621,16,Dragon Rage,18,dragon,-,100
+621,11,Slash,21,normal,70,100
+621,14,Slash,21,normal,70,100
+621,15,Slash,21,normal,70,100
+621,16,Slash,21,normal,70,100
+621,11,Crunch,25,dark,80,100
+621,14,Crunch,25,dark,80,100
+621,15,Crunch,25,dark,80,100
+621,16,Crunch,25,dark,80,100
+621,11,Dragon Claw,27,dragon,80,100
+621,14,Dragon Claw,27,dragon,80,100
+621,15,Dragon Claw,27,dragon,80,100
+621,16,Dragon Claw,27,dragon,80,100
+621,11,Chip Away,31,normal,70,100
+621,14,Chip Away,31,normal,70,100
+621,15,Chip Away,31,normal,70,100
+621,16,Chip Away,31,normal,70,100
+621,11,Revenge,35,fighting,60,100
+621,14,Revenge,35,fighting,60,100
+621,15,Revenge,35,fighting,60,100
+621,16,Revenge,35,fighting,60,100
+621,11,Night Slash,40,dark,70,100
+621,14,Night Slash,40,dark,70,100
+621,15,Night Slash,40,dark,70,100
+621,16,Night Slash,40,dark,70,100
+621,11,Dragon Tail,45,dragon,60,90
+621,14,Dragon Tail,45,dragon,60,90
+621,15,Dragon Tail,45,dragon,60,90
+621,16,Dragon Tail,45,dragon,60,90
+621,11,Rock Climb,49,normal,90,85
+621,14,Rock Climb,49,normal,90,85
+621,15,Rock Climb,49,normal,90,85
+621,16,Rock Climb,49,normal,90,85
+621,11,Superpower,55,fighting,120,100
+621,14,Superpower,55,fighting,120,100
+621,15,Superpower,55,fighting,120,100
+621,16,Superpower,55,fighting,120,100
+621,11,Outrage,62,dragon,120,100
+621,14,Outrage,62,dragon,120,100
+621,15,Outrage,62,dragon,120,100
+621,16,Outrage,62,dragon,120,100

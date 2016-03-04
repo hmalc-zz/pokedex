@@ -1,82 +1,82 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-444,gabite,8,28,Sand Attack,1,1,2
-444,gabite,8,28,Sand Attack,1,3,
-444,gabite,8,33,Tackle,1,1,1
-444,gabite,8,36,Take Down,1,15,
-444,gabite,8,82,Dragon Rage,1,7,
-444,gabite,8,91,Dig,1,40,
-444,gabite,8,163,Slash,1,28,
-444,gabite,8,201,Sandstorm,1,13,
-444,gabite,8,328,Sand Tomb,1,19,
-444,gabite,8,337,Dragon Claw,1,33,
-444,gabite,8,407,Dragon Rush,1,49,
-444,gabite,9,28,Sand Attack,1,1,2
-444,gabite,9,28,Sand Attack,1,3,
-444,gabite,9,33,Tackle,1,1,1
-444,gabite,9,36,Take Down,1,15,
-444,gabite,9,82,Dragon Rage,1,7,
-444,gabite,9,91,Dig,1,40,
-444,gabite,9,163,Slash,1,28,
-444,gabite,9,201,Sandstorm,1,13,
-444,gabite,9,328,Sand Tomb,1,19,
-444,gabite,9,337,Dragon Claw,1,33,
-444,gabite,9,407,Dragon Rush,1,49,
-444,gabite,10,28,Sand Attack,1,1,2
-444,gabite,10,28,Sand Attack,1,3,
-444,gabite,10,33,Tackle,1,1,1
-444,gabite,10,36,Take Down,1,15,
-444,gabite,10,82,Dragon Rage,1,7,
-444,gabite,10,91,Dig,1,40,
-444,gabite,10,163,Slash,1,28,
-444,gabite,10,201,Sandstorm,1,13,
-444,gabite,10,328,Sand Tomb,1,19,
-444,gabite,10,337,Dragon Claw,1,33,
-444,gabite,10,407,Dragon Rush,1,49,
-444,gabite,11,28,Sand Attack,1,1,2
-444,gabite,11,28,Sand Attack,1,3,
-444,gabite,11,33,Tackle,1,1,1
-444,gabite,11,36,Take Down,1,15,
-444,gabite,11,82,Dragon Rage,1,7,
-444,gabite,11,91,Dig,1,40,
-444,gabite,11,163,Slash,1,28,
-444,gabite,11,201,Sandstorm,1,13,
-444,gabite,11,328,Sand Tomb,1,19,
-444,gabite,11,337,Dragon Claw,1,33,
-444,gabite,11,407,Dragon Rush,1,49,
-444,gabite,11,530,Dual Chop,1,24,
-444,gabite,14,28,Sand Attack,1,1,2
-444,gabite,14,28,Sand Attack,1,3,
-444,gabite,14,33,Tackle,1,1,1
-444,gabite,14,36,Take Down,1,15,
-444,gabite,14,82,Dragon Rage,1,7,
-444,gabite,14,91,Dig,1,40,
-444,gabite,14,163,Slash,1,28,
-444,gabite,14,201,Sandstorm,1,13,
-444,gabite,14,328,Sand Tomb,1,19,
-444,gabite,14,337,Dragon Claw,1,33,
-444,gabite,14,407,Dragon Rush,1,49,
-444,gabite,14,530,Dual Chop,1,24,
-444,gabite,15,28,Sand Attack,1,1,2
-444,gabite,15,28,Sand Attack,1,3,
-444,gabite,15,33,Tackle,1,1,1
-444,gabite,15,36,Take Down,1,15,
-444,gabite,15,82,Dragon Rage,1,7,
-444,gabite,15,91,Dig,1,40,
-444,gabite,15,163,Slash,1,28,
-444,gabite,15,201,Sandstorm,1,13,
-444,gabite,15,328,Sand Tomb,1,19,
-444,gabite,15,337,Dragon Claw,1,33,
-444,gabite,15,407,Dragon Rush,1,49,
-444,gabite,15,530,Dual Chop,1,24,
-444,gabite,16,28,Sand Attack,1,1,2
-444,gabite,16,28,Sand Attack,1,3,1
-444,gabite,16,33,Tackle,1,1,1
-444,gabite,16,36,Take Down,1,15,1
-444,gabite,16,82,Dragon Rage,1,7,1
-444,gabite,16,91,Dig,1,40,1
-444,gabite,16,163,Slash,1,28,1
-444,gabite,16,201,Sandstorm,1,13,1
-444,gabite,16,328,Sand Tomb,1,19,1
-444,gabite,16,337,Dragon Claw,1,33,1
-444,gabite,16,407,Dragon Rush,1,49,1
-444,gabite,16,530,Dual Chop,1,24,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+444,8,Sand Attack,1,ground,-,100
+444,8,Tackle,1,normal,50,100
+444,9,Sand Attack,1,ground,-,100
+444,9,Tackle,1,normal,50,100
+444,10,Sand Attack,1,ground,-,100
+444,10,Tackle,1,normal,50,100
+444,11,Sand Attack,1,ground,-,100
+444,11,Tackle,1,normal,50,100
+444,14,Sand Attack,1,ground,-,100
+444,14,Tackle,1,normal,50,100
+444,15,Sand Attack,1,ground,-,100
+444,15,Tackle,1,normal,50,100
+444,16,Sand Attack,1,ground,-,100
+444,16,Tackle,1,normal,50,100
+444,8,Sand Attack,3,ground,-,100
+444,9,Sand Attack,3,ground,-,100
+444,10,Sand Attack,3,ground,-,100
+444,11,Sand Attack,3,ground,-,100
+444,14,Sand Attack,3,ground,-,100
+444,15,Sand Attack,3,ground,-,100
+444,16,Sand Attack,3,ground,-,100
+444,8,Dragon Rage,7,dragon,-,100
+444,9,Dragon Rage,7,dragon,-,100
+444,10,Dragon Rage,7,dragon,-,100
+444,11,Dragon Rage,7,dragon,-,100
+444,14,Dragon Rage,7,dragon,-,100
+444,15,Dragon Rage,7,dragon,-,100
+444,16,Dragon Rage,7,dragon,-,100
+444,8,Sandstorm,13,rock,-,-
+444,9,Sandstorm,13,rock,-,-
+444,10,Sandstorm,13,rock,-,-
+444,11,Sandstorm,13,rock,-,-
+444,14,Sandstorm,13,rock,-,-
+444,15,Sandstorm,13,rock,-,-
+444,16,Sandstorm,13,rock,-,-
+444,8,Take Down,15,normal,90,85
+444,9,Take Down,15,normal,90,85
+444,10,Take Down,15,normal,90,85
+444,11,Take Down,15,normal,90,85
+444,14,Take Down,15,normal,90,85
+444,15,Take Down,15,normal,90,85
+444,16,Take Down,15,normal,90,85
+444,8,Sand Tomb,19,ground,35,85
+444,9,Sand Tomb,19,ground,35,85
+444,10,Sand Tomb,19,ground,35,85
+444,11,Sand Tomb,19,ground,35,85
+444,14,Sand Tomb,19,ground,35,85
+444,15,Sand Tomb,19,ground,35,85
+444,16,Sand Tomb,19,ground,35,85
+444,11,Dual Chop,24,dragon,40,90
+444,14,Dual Chop,24,dragon,40,90
+444,15,Dual Chop,24,dragon,40,90
+444,16,Dual Chop,24,dragon,40,90
+444,8,Slash,28,normal,70,100
+444,9,Slash,28,normal,70,100
+444,10,Slash,28,normal,70,100
+444,11,Slash,28,normal,70,100
+444,14,Slash,28,normal,70,100
+444,15,Slash,28,normal,70,100
+444,16,Slash,28,normal,70,100
+444,8,Dragon Claw,33,dragon,80,100
+444,9,Dragon Claw,33,dragon,80,100
+444,10,Dragon Claw,33,dragon,80,100
+444,11,Dragon Claw,33,dragon,80,100
+444,14,Dragon Claw,33,dragon,80,100
+444,15,Dragon Claw,33,dragon,80,100
+444,16,Dragon Claw,33,dragon,80,100
+444,8,Dig,40,ground,80,100
+444,9,Dig,40,ground,80,100
+444,10,Dig,40,ground,80,100
+444,11,Dig,40,ground,80,100
+444,14,Dig,40,ground,80,100
+444,15,Dig,40,ground,80,100
+444,16,Dig,40,ground,80,100
+444,8,Dragon Rush,49,dragon,100,75
+444,9,Dragon Rush,49,dragon,100,75
+444,10,Dragon Rush,49,dragon,100,75
+444,11,Dragon Rush,49,dragon,100,75
+444,14,Dragon Rush,49,dragon,100,75
+444,15,Dragon Rush,49,dragon,100,75
+444,16,Dragon Rush,49,dragon,100,75

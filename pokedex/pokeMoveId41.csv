@@ -1,163 +1,163 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-41,zubat,1,17,Wing Attack,1,28,
-41,zubat,1,44,Bite,1,15,
-41,zubat,1,48,Supersonic,1,10,
-41,zubat,1,109,Confuse Ray,1,21,
-41,zubat,1,114,Haze,1,36,
-41,zubat,1,141,Leech Life,1,1,
-41,zubat,2,17,Wing Attack,1,28,
-41,zubat,2,44,Bite,1,15,
-41,zubat,2,48,Supersonic,1,10,
-41,zubat,2,109,Confuse Ray,1,21,
-41,zubat,2,114,Haze,1,36,
-41,zubat,2,141,Leech Life,1,1,
-41,zubat,3,17,Wing Attack,1,27,
-41,zubat,3,44,Bite,1,12,
-41,zubat,3,48,Supersonic,1,6,
-41,zubat,3,109,Confuse Ray,1,19,
-41,zubat,3,114,Haze,1,46,
-41,zubat,3,141,Leech Life,1,1,
-41,zubat,3,212,Mean Look,1,36,
-41,zubat,4,17,Wing Attack,1,27,
-41,zubat,4,44,Bite,1,12,
-41,zubat,4,48,Supersonic,1,6,
-41,zubat,4,109,Confuse Ray,1,19,
-41,zubat,4,114,Haze,1,46,
-41,zubat,4,141,Leech Life,1,1,
-41,zubat,4,212,Mean Look,1,36,
-41,zubat,5,17,Wing Attack,1,21,
-41,zubat,5,44,Bite,1,16,
-41,zubat,5,48,Supersonic,1,6,
-41,zubat,5,109,Confuse Ray,1,26,
-41,zubat,5,114,Haze,1,46,
-41,zubat,5,141,Leech Life,1,1,
-41,zubat,5,212,Mean Look,1,36,
-41,zubat,5,305,Poison Fang,1,41,
-41,zubat,5,310,Astonish,1,11,
-41,zubat,5,314,Air Cutter,1,31,
-41,zubat,6,17,Wing Attack,1,21,
-41,zubat,6,44,Bite,1,16,
-41,zubat,6,48,Supersonic,1,6,
-41,zubat,6,109,Confuse Ray,1,26,
-41,zubat,6,114,Haze,1,46,
-41,zubat,6,141,Leech Life,1,1,
-41,zubat,6,212,Mean Look,1,36,
-41,zubat,6,305,Poison Fang,1,41,
-41,zubat,6,310,Astonish,1,11,
-41,zubat,6,314,Air Cutter,1,31,
-41,zubat,7,17,Wing Attack,1,21,
-41,zubat,7,44,Bite,1,16,
-41,zubat,7,48,Supersonic,1,11,
-41,zubat,7,109,Confuse Ray,1,26,
-41,zubat,7,114,Haze,1,46,
-41,zubat,7,141,Leech Life,1,1,
-41,zubat,7,212,Mean Look,1,36,
-41,zubat,7,305,Poison Fang,1,41,
-41,zubat,7,310,Astonish,1,6,
-41,zubat,7,314,Air Cutter,1,31,
-41,zubat,8,17,Wing Attack,1,17,
-41,zubat,8,44,Bite,1,13,
-41,zubat,8,48,Supersonic,1,5,
-41,zubat,8,109,Confuse Ray,1,21,
-41,zubat,8,114,Haze,1,37,
-41,zubat,8,141,Leech Life,1,1,
-41,zubat,8,212,Mean Look,1,29,
-41,zubat,8,305,Poison Fang,1,33,
-41,zubat,8,310,Astonish,1,9,
-41,zubat,8,314,Air Cutter,1,25,
-41,zubat,8,403,Air Slash,1,41,
-41,zubat,9,17,Wing Attack,1,17,
-41,zubat,9,44,Bite,1,13,
-41,zubat,9,48,Supersonic,1,5,
-41,zubat,9,109,Confuse Ray,1,21,
-41,zubat,9,114,Haze,1,37,
-41,zubat,9,141,Leech Life,1,1,
-41,zubat,9,212,Mean Look,1,29,
-41,zubat,9,305,Poison Fang,1,33,
-41,zubat,9,310,Astonish,1,9,
-41,zubat,9,314,Air Cutter,1,25,
-41,zubat,9,403,Air Slash,1,41,
-41,zubat,10,17,Wing Attack,1,17,
-41,zubat,10,44,Bite,1,13,
-41,zubat,10,48,Supersonic,1,5,
-41,zubat,10,109,Confuse Ray,1,21,
-41,zubat,10,114,Haze,1,37,
-41,zubat,10,141,Leech Life,1,1,
-41,zubat,10,212,Mean Look,1,29,
-41,zubat,10,305,Poison Fang,1,33,
-41,zubat,10,310,Astonish,1,9,
-41,zubat,10,314,Air Cutter,1,25,
-41,zubat,10,403,Air Slash,1,41,
-41,zubat,11,17,Wing Attack,1,17,
-41,zubat,11,44,Bite,1,13,
-41,zubat,11,48,Supersonic,1,5,
-41,zubat,11,109,Confuse Ray,1,21,
-41,zubat,11,114,Haze,1,41,
-41,zubat,11,141,Leech Life,1,1,
-41,zubat,11,212,Mean Look,1,29,
-41,zubat,11,305,Poison Fang,1,37,
-41,zubat,11,310,Astonish,1,9,
-41,zubat,11,314,Air Cutter,1,25,
-41,zubat,11,403,Air Slash,1,45,
-41,zubat,11,512,Acrobatics,1,33,
-41,zubat,12,17,Wing Attack,1,21,
-41,zubat,12,44,Bite,1,16,
-41,zubat,12,48,Supersonic,1,6,
-41,zubat,12,109,Confuse Ray,1,26,
-41,zubat,12,114,Haze,1,46,
-41,zubat,12,141,Leech Life,1,1,
-41,zubat,12,212,Mean Look,1,36,
-41,zubat,12,305,Poison Fang,1,41,
-41,zubat,12,310,Astonish,1,11,
-41,zubat,12,314,Air Cutter,1,31,
-41,zubat,13,17,Wing Attack,1,21,
-41,zubat,13,44,Bite,1,16,
-41,zubat,13,48,Supersonic,1,6,
-41,zubat,13,109,Confuse Ray,1,26,
-41,zubat,13,114,Haze,1,46,
-41,zubat,13,141,Leech Life,1,1,
-41,zubat,13,212,Mean Look,1,36,
-41,zubat,13,305,Poison Fang,1,41,
-41,zubat,13,310,Astonish,1,11,
-41,zubat,13,314,Air Cutter,1,31,
-41,zubat,14,17,Wing Attack,1,15,
-41,zubat,14,44,Bite,1,12,
-41,zubat,14,48,Supersonic,1,4,
-41,zubat,14,109,Confuse Ray,1,19,
-41,zubat,14,114,Haze,1,41,
-41,zubat,14,129,Swift,1,23,
-41,zubat,14,141,Leech Life,1,1,
-41,zubat,14,212,Mean Look,1,34,
-41,zubat,14,305,Poison Fang,1,37,
-41,zubat,14,310,Astonish,1,8,
-41,zubat,14,314,Air Cutter,1,26,
-41,zubat,14,403,Air Slash,1,45,
-41,zubat,14,512,Acrobatics,1,30,
-41,zubat,15,17,Wing Attack,1,15,
-41,zubat,15,44,Bite,1,12,
-41,zubat,15,48,Supersonic,1,4,
-41,zubat,15,109,Confuse Ray,1,19,
-41,zubat,15,114,Haze,1,41,
-41,zubat,15,129,Swift,1,23,
-41,zubat,15,141,Leech Life,1,1,
-41,zubat,15,212,Mean Look,1,34,
-41,zubat,15,305,Poison Fang,1,37,
-41,zubat,15,310,Astonish,1,8,
-41,zubat,15,314,Air Cutter,1,26,
-41,zubat,15,403,Air Slash,1,45,
-41,zubat,15,512,Acrobatics,1,30,
-41,zubat,16,17,Wing Attack,1,13,1
-41,zubat,16,44,Bite,1,11,1
-41,zubat,16,48,Supersonic,1,5,1
-41,zubat,16,109,Confuse Ray,1,17,1
-41,zubat,16,114,Haze,1,35,1
-41,zubat,16,129,Swift,1,23,1
-41,zubat,16,141,Leech Life,1,1,1
-41,zubat,16,212,Mean Look,1,29,1
-41,zubat,16,305,Poison Fang,1,25,1
-41,zubat,16,310,Astonish,1,7,1
-41,zubat,16,314,Air Cutter,1,19,1
-41,zubat,16,403,Air Slash,1,41,1
-41,zubat,16,474,Venoshock,1,37,1
-41,zubat,16,501,Quick Guard,1,43,1
-41,zubat,16,512,Acrobatics,1,31,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+41,1,Leech Life,1,bug,20,100
+41,2,Leech Life,1,bug,20,100
+41,3,Leech Life,1,bug,20,100
+41,4,Leech Life,1,bug,20,100
+41,5,Leech Life,1,bug,20,100
+41,6,Leech Life,1,bug,20,100
+41,7,Leech Life,1,bug,20,100
+41,8,Leech Life,1,bug,20,100
+41,9,Leech Life,1,bug,20,100
+41,10,Leech Life,1,bug,20,100
+41,11,Leech Life,1,bug,20,100
+41,12,Leech Life,1,bug,20,100
+41,13,Leech Life,1,bug,20,100
+41,14,Leech Life,1,bug,20,100
+41,15,Leech Life,1,bug,20,100
+41,16,Leech Life,1,bug,20,100
+41,14,Supersonic,4,normal,-,55
+41,15,Supersonic,4,normal,-,55
+41,8,Supersonic,5,normal,-,55
+41,9,Supersonic,5,normal,-,55
+41,10,Supersonic,5,normal,-,55
+41,11,Supersonic,5,normal,-,55
+41,16,Supersonic,5,normal,-,55
+41,3,Supersonic,6,normal,-,55
+41,4,Supersonic,6,normal,-,55
+41,5,Supersonic,6,normal,-,55
+41,6,Supersonic,6,normal,-,55
+41,7,Astonish,6,ghost,30,100
+41,12,Supersonic,6,normal,-,55
+41,13,Supersonic,6,normal,-,55
+41,16,Astonish,7,ghost,30,100
+41,14,Astonish,8,ghost,30,100
+41,15,Astonish,8,ghost,30,100
+41,8,Astonish,9,ghost,30,100
+41,9,Astonish,9,ghost,30,100
+41,10,Astonish,9,ghost,30,100
+41,11,Astonish,9,ghost,30,100
+41,1,Supersonic,10,normal,-,55
+41,2,Supersonic,10,normal,-,55
+41,5,Astonish,11,ghost,30,100
+41,6,Astonish,11,ghost,30,100
+41,7,Supersonic,11,normal,-,55
+41,12,Astonish,11,ghost,30,100
+41,13,Astonish,11,ghost,30,100
+41,16,Bite,11,dark,60,100
+41,3,Bite,12,dark,60,100
+41,4,Bite,12,dark,60,100
+41,14,Bite,12,dark,60,100
+41,15,Bite,12,dark,60,100
+41,8,Bite,13,dark,60,100
+41,9,Bite,13,dark,60,100
+41,10,Bite,13,dark,60,100
+41,11,Bite,13,dark,60,100
+41,16,Wing Attack,13,flying,60,100
+41,1,Bite,15,dark,60,100
+41,2,Bite,15,dark,60,100
+41,14,Wing Attack,15,flying,60,100
+41,15,Wing Attack,15,flying,60,100
+41,5,Bite,16,dark,60,100
+41,6,Bite,16,dark,60,100
+41,7,Bite,16,dark,60,100
+41,12,Bite,16,dark,60,100
+41,13,Bite,16,dark,60,100
+41,8,Wing Attack,17,flying,60,100
+41,9,Wing Attack,17,flying,60,100
+41,10,Wing Attack,17,flying,60,100
+41,11,Wing Attack,17,flying,60,100
+41,16,Confuse Ray,17,ghost,-,100
+41,3,Confuse Ray,19,ghost,-,100
+41,4,Confuse Ray,19,ghost,-,100
+41,14,Confuse Ray,19,ghost,-,100
+41,15,Confuse Ray,19,ghost,-,100
+41,16,Air Cutter,19,flying,60,95
+41,1,Confuse Ray,21,ghost,-,100
+41,2,Confuse Ray,21,ghost,-,100
+41,5,Wing Attack,21,flying,60,100
+41,6,Wing Attack,21,flying,60,100
+41,7,Wing Attack,21,flying,60,100
+41,8,Confuse Ray,21,ghost,-,100
+41,9,Confuse Ray,21,ghost,-,100
+41,10,Confuse Ray,21,ghost,-,100
+41,11,Confuse Ray,21,ghost,-,100
+41,12,Wing Attack,21,flying,60,100
+41,13,Wing Attack,21,flying,60,100
+41,14,Swift,23,normal,60,-
+41,15,Swift,23,normal,60,-
+41,16,Swift,23,normal,60,-
+41,8,Air Cutter,25,flying,60,95
+41,9,Air Cutter,25,flying,60,95
+41,10,Air Cutter,25,flying,60,95
+41,11,Air Cutter,25,flying,60,95
+41,16,Poison Fang,25,poison,50,100
+41,5,Confuse Ray,26,ghost,-,100
+41,6,Confuse Ray,26,ghost,-,100
+41,7,Confuse Ray,26,ghost,-,100
+41,12,Confuse Ray,26,ghost,-,100
+41,13,Confuse Ray,26,ghost,-,100
+41,14,Air Cutter,26,flying,60,95
+41,15,Air Cutter,26,flying,60,95
+41,3,Wing Attack,27,flying,60,100
+41,4,Wing Attack,27,flying,60,100
+41,1,Wing Attack,28,flying,60,100
+41,2,Wing Attack,28,flying,60,100
+41,8,Mean Look,29,normal,-,-
+41,9,Mean Look,29,normal,-,-
+41,10,Mean Look,29,normal,-,-
+41,11,Mean Look,29,normal,-,-
+41,16,Mean Look,29,normal,-,-
+41,14,Acrobatics,30,flying,55,100
+41,15,Acrobatics,30,flying,55,100
+41,5,Air Cutter,31,flying,60,95
+41,6,Air Cutter,31,flying,60,95
+41,7,Air Cutter,31,flying,60,95
+41,12,Air Cutter,31,flying,60,95
+41,13,Air Cutter,31,flying,60,95
+41,16,Acrobatics,31,flying,55,100
+41,8,Poison Fang,33,poison,50,100
+41,9,Poison Fang,33,poison,50,100
+41,10,Poison Fang,33,poison,50,100
+41,11,Acrobatics,33,flying,55,100
+41,14,Mean Look,34,normal,-,-
+41,15,Mean Look,34,normal,-,-
+41,16,Haze,35,ice,-,-
+41,1,Haze,36,ice,-,-
+41,2,Haze,36,ice,-,-
+41,3,Mean Look,36,normal,-,-
+41,4,Mean Look,36,normal,-,-
+41,5,Mean Look,36,normal,-,-
+41,6,Mean Look,36,normal,-,-
+41,7,Mean Look,36,normal,-,-
+41,12,Mean Look,36,normal,-,-
+41,13,Mean Look,36,normal,-,-
+41,8,Haze,37,ice,-,-
+41,9,Haze,37,ice,-,-
+41,10,Haze,37,ice,-,-
+41,11,Poison Fang,37,poison,50,100
+41,14,Poison Fang,37,poison,50,100
+41,15,Poison Fang,37,poison,50,100
+41,16,Venoshock,37,poison,65,100
+41,5,Poison Fang,41,poison,50,100
+41,6,Poison Fang,41,poison,50,100
+41,7,Poison Fang,41,poison,50,100
+41,8,Air Slash,41,flying,75,95
+41,9,Air Slash,41,flying,75,95
+41,10,Air Slash,41,flying,75,95
+41,11,Haze,41,ice,-,-
+41,12,Poison Fang,41,poison,50,100
+41,13,Poison Fang,41,poison,50,100
+41,14,Haze,41,ice,-,-
+41,15,Haze,41,ice,-,-
+41,16,Air Slash,41,flying,75,95
+41,16,Quick Guard,43,fighting,-,-
+41,11,Air Slash,45,flying,75,95
+41,14,Air Slash,45,flying,75,95
+41,15,Air Slash,45,flying,75,95
+41,3,Haze,46,ice,-,-
+41,4,Haze,46,ice,-,-
+41,5,Haze,46,ice,-,-
+41,6,Haze,46,ice,-,-
+41,7,Haze,46,ice,-,-
+41,12,Haze,46,ice,-,-
+41,13,Haze,46,ice,-,-

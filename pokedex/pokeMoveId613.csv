@@ -1,63 +1,63 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-613,cubchoo,11,37,Thrash,1,53,
-613,cubchoo,11,45,Growl,1,5,
-613,cubchoo,11,59,Blizzard,1,45,
-613,cubchoo,11,117,Bide,1,9,
-613,cubchoo,11,154,Fury Swipes,1,17,
-613,cubchoo,11,156,Rest,1,41,
-613,cubchoo,11,163,Slash,1,33,
-613,cubchoo,11,175,Flail,1,36,
-613,cubchoo,11,181,Powder Snow,1,1,
-613,cubchoo,11,196,Icy Wind,1,13,
-613,cubchoo,11,203,Endure,1,25,
-613,cubchoo,11,204,Charm,1,29,
-613,cubchoo,11,258,Hail,1,49,
-613,cubchoo,11,329,Sheer Cold,1,57,
-613,cubchoo,11,362,Brine,1,21,
-613,cubchoo,14,37,Thrash,1,53,
-613,cubchoo,14,45,Growl,1,5,
-613,cubchoo,14,59,Blizzard,1,45,
-613,cubchoo,14,117,Bide,1,9,
-613,cubchoo,14,154,Fury Swipes,1,17,
-613,cubchoo,14,156,Rest,1,41,
-613,cubchoo,14,163,Slash,1,33,
-613,cubchoo,14,175,Flail,1,36,
-613,cubchoo,14,181,Powder Snow,1,1,
-613,cubchoo,14,196,Icy Wind,1,13,
-613,cubchoo,14,203,Endure,1,25,
-613,cubchoo,14,204,Charm,1,29,
-613,cubchoo,14,258,Hail,1,49,
-613,cubchoo,14,329,Sheer Cold,1,57,
-613,cubchoo,14,362,Brine,1,21,
-613,cubchoo,15,37,Thrash,1,53,
-613,cubchoo,15,45,Growl,1,1,
-613,cubchoo,15,59,Blizzard,1,45,
-613,cubchoo,15,117,Bide,1,9,
-613,cubchoo,15,154,Fury Swipes,1,17,
-613,cubchoo,15,156,Rest,1,41,
-613,cubchoo,15,163,Slash,1,33,
-613,cubchoo,15,175,Flail,1,36,
-613,cubchoo,15,181,Powder Snow,1,5,
-613,cubchoo,15,196,Icy Wind,1,13,
-613,cubchoo,15,203,Endure,1,25,
-613,cubchoo,15,204,Charm,1,29,
-613,cubchoo,15,258,Hail,1,49,
-613,cubchoo,15,329,Sheer Cold,1,57,
-613,cubchoo,15,362,Brine,1,21,
-613,cubchoo,15,589,Play Nice,1,15,
-613,cubchoo,16,37,Thrash,1,53,1
-613,cubchoo,16,45,Growl,1,1,1
-613,cubchoo,16,59,Blizzard,1,45,1
-613,cubchoo,16,117,Bide,1,9,1
-613,cubchoo,16,154,Fury Swipes,1,17,1
-613,cubchoo,16,156,Rest,1,41,1
-613,cubchoo,16,163,Slash,1,33,1
-613,cubchoo,16,175,Flail,1,36,1
-613,cubchoo,16,181,Powder Snow,1,5,1
-613,cubchoo,16,196,Icy Wind,1,13,1
-613,cubchoo,16,203,Endure,1,25,1
-613,cubchoo,16,204,Charm,1,29,1
-613,cubchoo,16,258,Hail,1,49,1
-613,cubchoo,16,329,Sheer Cold,1,57,1
-613,cubchoo,16,362,Brine,1,21,1
-613,cubchoo,16,589,Play Nice,1,15,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+613,11,Powder Snow,1,ice,40,100
+613,14,Powder Snow,1,ice,40,100
+613,15,Growl,1,normal,-,100
+613,16,Growl,1,normal,-,100
+613,11,Growl,5,normal,-,100
+613,14,Growl,5,normal,-,100
+613,15,Powder Snow,5,ice,40,100
+613,16,Powder Snow,5,ice,40,100
+613,11,Bide,9,normal,-,-
+613,14,Bide,9,normal,-,-
+613,15,Bide,9,normal,-,-
+613,16,Bide,9,normal,-,-
+613,11,Icy Wind,13,ice,55,95
+613,14,Icy Wind,13,ice,55,95
+613,15,Icy Wind,13,ice,55,95
+613,16,Icy Wind,13,ice,55,95
+613,15,Play Nice,15,normal,-,-
+613,16,Play Nice,15,normal,-,-
+613,11,Fury Swipes,17,normal,18,80
+613,14,Fury Swipes,17,normal,18,80
+613,15,Fury Swipes,17,normal,18,80
+613,16,Fury Swipes,17,normal,18,80
+613,11,Brine,21,water,65,100
+613,14,Brine,21,water,65,100
+613,15,Brine,21,water,65,100
+613,16,Brine,21,water,65,100
+613,11,Endure,25,normal,-,-
+613,14,Endure,25,normal,-,-
+613,15,Endure,25,normal,-,-
+613,16,Endure,25,normal,-,-
+613,11,Charm,29,fairy,-,100
+613,14,Charm,29,fairy,-,100
+613,15,Charm,29,fairy,-,100
+613,16,Charm,29,fairy,-,100
+613,11,Slash,33,normal,70,100
+613,14,Slash,33,normal,70,100
+613,15,Slash,33,normal,70,100
+613,16,Slash,33,normal,70,100
+613,11,Flail,36,normal,-,100
+613,14,Flail,36,normal,-,100
+613,15,Flail,36,normal,-,100
+613,16,Flail,36,normal,-,100
+613,11,Rest,41,psychic,-,-
+613,14,Rest,41,psychic,-,-
+613,15,Rest,41,psychic,-,-
+613,16,Rest,41,psychic,-,-
+613,11,Blizzard,45,ice,110,70
+613,14,Blizzard,45,ice,110,70
+613,15,Blizzard,45,ice,110,70
+613,16,Blizzard,45,ice,110,70
+613,11,Hail,49,ice,-,-
+613,14,Hail,49,ice,-,-
+613,15,Hail,49,ice,-,-
+613,16,Hail,49,ice,-,-
+613,11,Thrash,53,normal,120,100
+613,14,Thrash,53,normal,120,100
+613,15,Thrash,53,normal,120,100
+613,16,Thrash,53,normal,120,100
+613,11,Sheer Cold,57,ice,-,30
+613,14,Sheer Cold,57,ice,-,30
+613,15,Sheer Cold,57,ice,-,30
+613,16,Sheer Cold,57,ice,-,30

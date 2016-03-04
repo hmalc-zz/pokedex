@@ -1,49 +1,49 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-301,delcatty,5,3,Double Slap,1,1,4
-301,delcatty,5,45,Growl,1,1,1
-301,delcatty,5,47,Sing,1,1,3
-301,delcatty,5,213,Attract,1,1,2
-301,delcatty,6,3,Double Slap,1,1,4
-301,delcatty,6,45,Growl,1,1,1
-301,delcatty,6,47,Sing,1,1,3
-301,delcatty,6,213,Attract,1,1,2
-301,delcatty,7,3,Double Slap,1,1,4
-301,delcatty,7,45,Growl,1,1,1
-301,delcatty,7,47,Sing,1,1,3
-301,delcatty,7,213,Attract,1,1,2
-301,delcatty,8,3,Double Slap,1,1,4
-301,delcatty,8,47,Sing,1,1,3
-301,delcatty,8,213,Attract,1,1,2
-301,delcatty,8,252,Fake Out,1,1,1
-301,delcatty,9,3,Double Slap,1,1,4
-301,delcatty,9,47,Sing,1,1,3
-301,delcatty,9,213,Attract,1,1,2
-301,delcatty,9,252,Fake Out,1,1,1
-301,delcatty,10,3,Double Slap,1,1,4
-301,delcatty,10,47,Sing,1,1,3
-301,delcatty,10,213,Attract,1,1,2
-301,delcatty,10,252,Fake Out,1,1,1
-301,delcatty,11,3,Double Slap,1,1,4
-301,delcatty,11,47,Sing,1,1,3
-301,delcatty,11,213,Attract,1,1,2
-301,delcatty,11,252,Fake Out,1,1,1
-301,delcatty,12,3,Double Slap,1,1,4
-301,delcatty,12,45,Growl,1,1,1
-301,delcatty,12,47,Sing,1,1,3
-301,delcatty,12,213,Attract,1,1,2
-301,delcatty,13,3,Double Slap,1,1,4
-301,delcatty,13,45,Growl,1,1,1
-301,delcatty,13,47,Sing,1,1,3
-301,delcatty,13,213,Attract,1,1,2
-301,delcatty,14,3,Double Slap,1,1,4
-301,delcatty,14,47,Sing,1,1,3
-301,delcatty,14,213,Attract,1,1,2
-301,delcatty,14,252,Fake Out,1,1,1
-301,delcatty,15,3,Double Slap,1,1,4
-301,delcatty,15,47,Sing,1,1,3
-301,delcatty,15,213,Attract,1,1,2
-301,delcatty,15,252,Fake Out,1,1,1
-301,delcatty,16,3,Double Slap,1,1,4
-301,delcatty,16,47,Sing,1,1,2
-301,delcatty,16,213,Attract,1,1,3
-301,delcatty,16,252,Fake Out,1,1,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+301,5,Double Slap,1,normal,15,85
+301,5,Growl,1,normal,-,100
+301,5,Sing,1,normal,-,55
+301,5,Attract,1,normal,-,100
+301,6,Double Slap,1,normal,15,85
+301,6,Growl,1,normal,-,100
+301,6,Sing,1,normal,-,55
+301,6,Attract,1,normal,-,100
+301,7,Double Slap,1,normal,15,85
+301,7,Growl,1,normal,-,100
+301,7,Sing,1,normal,-,55
+301,7,Attract,1,normal,-,100
+301,8,Double Slap,1,normal,15,85
+301,8,Sing,1,normal,-,55
+301,8,Attract,1,normal,-,100
+301,8,Fake Out,1,normal,40,100
+301,9,Double Slap,1,normal,15,85
+301,9,Sing,1,normal,-,55
+301,9,Attract,1,normal,-,100
+301,9,Fake Out,1,normal,40,100
+301,10,Double Slap,1,normal,15,85
+301,10,Sing,1,normal,-,55
+301,10,Attract,1,normal,-,100
+301,10,Fake Out,1,normal,40,100
+301,11,Double Slap,1,normal,15,85
+301,11,Sing,1,normal,-,55
+301,11,Attract,1,normal,-,100
+301,11,Fake Out,1,normal,40,100
+301,12,Double Slap,1,normal,15,85
+301,12,Growl,1,normal,-,100
+301,12,Sing,1,normal,-,55
+301,12,Attract,1,normal,-,100
+301,13,Double Slap,1,normal,15,85
+301,13,Growl,1,normal,-,100
+301,13,Sing,1,normal,-,55
+301,13,Attract,1,normal,-,100
+301,14,Double Slap,1,normal,15,85
+301,14,Sing,1,normal,-,55
+301,14,Attract,1,normal,-,100
+301,14,Fake Out,1,normal,40,100
+301,15,Double Slap,1,normal,15,85
+301,15,Sing,1,normal,-,55
+301,15,Attract,1,normal,-,100
+301,15,Fake Out,1,normal,40,100
+301,16,Double Slap,1,normal,15,85
+301,16,Sing,1,normal,-,55
+301,16,Attract,1,normal,-,100
+301,16,Fake Out,1,normal,40,100

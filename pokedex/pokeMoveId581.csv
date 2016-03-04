@@ -1,73 +1,73 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-581,swanna,11,17,Wing Attack,1,1,4
-581,swanna,11,17,Wing Attack,1,9,
-581,swanna,11,55,Water Gun,1,1,1
-581,swanna,11,61,Bubble Beam,1,19,
-581,swanna,11,240,Rain Dance,1,34,
-581,swanna,11,297,Feather Dance,1,21,
-581,swanna,11,332,Aerial Ace,1,15,
-581,swanna,11,346,Water Sport,1,1,2
-581,swanna,11,346,Water Sport,1,3,
-581,swanna,11,352,Water Pulse,1,13,
-581,swanna,11,355,Roost,1,30,
-581,swanna,11,366,Tailwind,1,40,
-581,swanna,11,392,Aqua Ring,1,24,
-581,swanna,11,403,Air Slash,1,27,
-581,swanna,11,413,Brave Bird,1,47,
-581,swanna,11,432,Defog,1,1,3
-581,swanna,11,432,Defog,1,6,
-581,swanna,11,542,Hurricane,1,55,
-581,swanna,14,17,Wing Attack,1,1,4
-581,swanna,14,17,Wing Attack,1,9,
-581,swanna,14,55,Water Gun,1,1,1
-581,swanna,14,61,Bubble Beam,1,19,
-581,swanna,14,240,Rain Dance,1,34,
-581,swanna,14,297,Feather Dance,1,21,
-581,swanna,14,332,Aerial Ace,1,15,
-581,swanna,14,346,Water Sport,1,1,2
-581,swanna,14,346,Water Sport,1,3,
-581,swanna,14,352,Water Pulse,1,13,
-581,swanna,14,355,Roost,1,30,
-581,swanna,14,366,Tailwind,1,40,
-581,swanna,14,392,Aqua Ring,1,24,
-581,swanna,14,403,Air Slash,1,27,
-581,swanna,14,413,Brave Bird,1,47,
-581,swanna,14,432,Defog,1,1,3
-581,swanna,14,432,Defog,1,6,
-581,swanna,14,542,Hurricane,1,55,
-581,swanna,15,17,Wing Attack,1,1,4
-581,swanna,15,17,Wing Attack,1,9,
-581,swanna,15,55,Water Gun,1,1,1
-581,swanna,15,61,Bubble Beam,1,19,
-581,swanna,15,240,Rain Dance,1,34,
-581,swanna,15,297,Feather Dance,1,21,
-581,swanna,15,332,Aerial Ace,1,15,
-581,swanna,15,346,Water Sport,1,1,2
-581,swanna,15,346,Water Sport,1,3,
-581,swanna,15,352,Water Pulse,1,13,
-581,swanna,15,355,Roost,1,30,
-581,swanna,15,366,Tailwind,1,40,
-581,swanna,15,392,Aqua Ring,1,24,
-581,swanna,15,403,Air Slash,1,27,
-581,swanna,15,413,Brave Bird,1,47,
-581,swanna,15,432,Defog,1,1,3
-581,swanna,15,432,Defog,1,6,
-581,swanna,15,542,Hurricane,1,55,
-581,swanna,16,17,Wing Attack,1,1,4
-581,swanna,16,17,Wing Attack,1,9,1
-581,swanna,16,55,Water Gun,1,1,1
-581,swanna,16,61,Bubble Beam,1,19,1
-581,swanna,16,240,Rain Dance,1,34,1
-581,swanna,16,297,Feather Dance,1,21,1
-581,swanna,16,332,Aerial Ace,1,15,1
-581,swanna,16,346,Water Sport,1,1,2
-581,swanna,16,346,Water Sport,1,3,1
-581,swanna,16,352,Water Pulse,1,13,1
-581,swanna,16,355,Roost,1,30,1
-581,swanna,16,366,Tailwind,1,40,1
-581,swanna,16,392,Aqua Ring,1,24,1
-581,swanna,16,403,Air Slash,1,27,1
-581,swanna,16,413,Brave Bird,1,47,1
-581,swanna,16,432,Defog,1,1,3
-581,swanna,16,432,Defog,1,6,1
-581,swanna,16,542,Hurricane,1,55,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+581,11,Wing Attack,1,flying,60,100
+581,11,Water Gun,1,water,40,100
+581,11,Water Sport,1,water,-,-
+581,11,Defog,1,flying,-,-
+581,14,Wing Attack,1,flying,60,100
+581,14,Water Gun,1,water,40,100
+581,14,Water Sport,1,water,-,-
+581,14,Defog,1,flying,-,-
+581,15,Wing Attack,1,flying,60,100
+581,15,Water Gun,1,water,40,100
+581,15,Water Sport,1,water,-,-
+581,15,Defog,1,flying,-,-
+581,16,Wing Attack,1,flying,60,100
+581,16,Water Gun,1,water,40,100
+581,16,Water Sport,1,water,-,-
+581,16,Defog,1,flying,-,-
+581,11,Water Sport,3,water,-,-
+581,14,Water Sport,3,water,-,-
+581,15,Water Sport,3,water,-,-
+581,16,Water Sport,3,water,-,-
+581,11,Defog,6,flying,-,-
+581,14,Defog,6,flying,-,-
+581,15,Defog,6,flying,-,-
+581,16,Defog,6,flying,-,-
+581,11,Wing Attack,9,flying,60,100
+581,14,Wing Attack,9,flying,60,100
+581,15,Wing Attack,9,flying,60,100
+581,16,Wing Attack,9,flying,60,100
+581,11,Water Pulse,13,water,60,100
+581,14,Water Pulse,13,water,60,100
+581,15,Water Pulse,13,water,60,100
+581,16,Water Pulse,13,water,60,100
+581,11,Aerial Ace,15,flying,60,-
+581,14,Aerial Ace,15,flying,60,-
+581,15,Aerial Ace,15,flying,60,-
+581,16,Aerial Ace,15,flying,60,-
+581,11,Bubble Beam,19,water,65,100
+581,14,Bubble Beam,19,water,65,100
+581,15,Bubble Beam,19,water,65,100
+581,16,Bubble Beam,19,water,65,100
+581,11,Feather Dance,21,flying,-,100
+581,14,Feather Dance,21,flying,-,100
+581,15,Feather Dance,21,flying,-,100
+581,16,Feather Dance,21,flying,-,100
+581,11,Aqua Ring,24,water,-,-
+581,14,Aqua Ring,24,water,-,-
+581,15,Aqua Ring,24,water,-,-
+581,16,Aqua Ring,24,water,-,-
+581,11,Air Slash,27,flying,75,95
+581,14,Air Slash,27,flying,75,95
+581,15,Air Slash,27,flying,75,95
+581,16,Air Slash,27,flying,75,95
+581,11,Roost,30,flying,-,-
+581,14,Roost,30,flying,-,-
+581,15,Roost,30,flying,-,-
+581,16,Roost,30,flying,-,-
+581,11,Rain Dance,34,water,-,-
+581,14,Rain Dance,34,water,-,-
+581,15,Rain Dance,34,water,-,-
+581,16,Rain Dance,34,water,-,-
+581,11,Tailwind,40,flying,-,-
+581,14,Tailwind,40,flying,-,-
+581,15,Tailwind,40,flying,-,-
+581,16,Tailwind,40,flying,-,-
+581,11,Brave Bird,47,flying,120,100
+581,14,Brave Bird,47,flying,120,100
+581,15,Brave Bird,47,flying,120,100
+581,16,Brave Bird,47,flying,120,100
+581,11,Hurricane,55,flying,110,70
+581,14,Hurricane,55,flying,110,70
+581,15,Hurricane,55,flying,110,70
+581,16,Hurricane,55,flying,110,70

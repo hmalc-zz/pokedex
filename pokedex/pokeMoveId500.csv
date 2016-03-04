@@ -1,81 +1,81 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-500,emboar,11,33,Tackle,1,1,2
-500,emboar,11,36,Take Down,1,28,
-500,emboar,11,39,Tail Whip,1,1,3
-500,emboar,11,39,Tail Whip,1,3,
-500,emboar,11,46,Roar,1,55,
-500,emboar,11,52,Ember,1,1,4
-500,emboar,11,52,Ember,1,7,
-500,emboar,11,53,Flamethrower,1,43,
-500,emboar,11,111,Defense Curl,1,13,
-500,emboar,11,123,Smog,1,20,
-500,emboar,11,205,Rollout,1,23,
-500,emboar,11,292,Arm Thrust,1,17,
-500,emboar,11,316,Odor Sleuth,1,1,5
-500,emboar,11,316,Odor Sleuth,1,9,
-500,emboar,11,359,Hammer Arm,1,1,1
-500,emboar,11,372,Assurance,1,38,
-500,emboar,11,394,Flare Blitz,1,62,
-500,emboar,11,457,Head Smash,1,50,
-500,emboar,11,488,Flame Charge,1,15,
-500,emboar,11,535,Heat Crash,1,31,
-500,emboar,14,33,Tackle,1,1,2
-500,emboar,14,36,Take Down,1,28,
-500,emboar,14,39,Tail Whip,1,1,3
-500,emboar,14,39,Tail Whip,1,3,
-500,emboar,14,46,Roar,1,55,
-500,emboar,14,52,Ember,1,1,4
-500,emboar,14,52,Ember,1,7,
-500,emboar,14,53,Flamethrower,1,43,
-500,emboar,14,111,Defense Curl,1,13,
-500,emboar,14,123,Smog,1,20,
-500,emboar,14,205,Rollout,1,23,
-500,emboar,14,292,Arm Thrust,1,17,
-500,emboar,14,316,Odor Sleuth,1,1,5
-500,emboar,14,316,Odor Sleuth,1,9,
-500,emboar,14,359,Hammer Arm,1,1,1
-500,emboar,14,372,Assurance,1,38,
-500,emboar,14,394,Flare Blitz,1,62,
-500,emboar,14,457,Head Smash,1,50,
-500,emboar,14,488,Flame Charge,1,15,
-500,emboar,14,535,Heat Crash,1,31,
-500,emboar,15,33,Tackle,1,1,2
-500,emboar,15,36,Take Down,1,28,
-500,emboar,15,39,Tail Whip,1,1,3
-500,emboar,15,39,Tail Whip,1,3,
-500,emboar,15,46,Roar,1,55,
-500,emboar,15,52,Ember,1,1,4
-500,emboar,15,52,Ember,1,7,
-500,emboar,15,53,Flamethrower,1,43,
-500,emboar,15,111,Defense Curl,1,13,
-500,emboar,15,123,Smog,1,20,
-500,emboar,15,205,Rollout,1,23,
-500,emboar,15,292,Arm Thrust,1,17,
-500,emboar,15,316,Odor Sleuth,1,1,5
-500,emboar,15,316,Odor Sleuth,1,9,
-500,emboar,15,359,Hammer Arm,1,1,1
-500,emboar,15,372,Assurance,1,38,
-500,emboar,15,394,Flare Blitz,1,62,
-500,emboar,15,457,Head Smash,1,50,
-500,emboar,15,488,Flame Charge,1,15,
-500,emboar,15,535,Heat Crash,1,31,
-500,emboar,16,33,Tackle,1,1,2
-500,emboar,16,36,Take Down,1,28,1
-500,emboar,16,39,Tail Whip,1,1,3
-500,emboar,16,39,Tail Whip,1,3,1
-500,emboar,16,46,Roar,1,55,1
-500,emboar,16,52,Ember,1,1,4
-500,emboar,16,52,Ember,1,7,1
-500,emboar,16,53,Flamethrower,1,43,1
-500,emboar,16,111,Defense Curl,1,13,1
-500,emboar,16,123,Smog,1,20,1
-500,emboar,16,205,Rollout,1,23,1
-500,emboar,16,292,Arm Thrust,1,17,1
-500,emboar,16,316,Odor Sleuth,1,1,5
-500,emboar,16,316,Odor Sleuth,1,9,1
-500,emboar,16,359,Hammer Arm,1,1,1
-500,emboar,16,372,Assurance,1,38,1
-500,emboar,16,394,Flare Blitz,1,62,1
-500,emboar,16,457,Head Smash,1,50,1
-500,emboar,16,488,Flame Charge,1,15,1
-500,emboar,16,535,Heat Crash,1,31,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+500,11,Tackle,1,normal,50,100
+500,11,Tail Whip,1,normal,-,100
+500,11,Ember,1,fire,40,100
+500,11,Odor Sleuth,1,normal,-,-
+500,11,Hammer Arm,1,fighting,100,90
+500,14,Tackle,1,normal,50,100
+500,14,Tail Whip,1,normal,-,100
+500,14,Ember,1,fire,40,100
+500,14,Odor Sleuth,1,normal,-,-
+500,14,Hammer Arm,1,fighting,100,90
+500,15,Tackle,1,normal,50,100
+500,15,Tail Whip,1,normal,-,100
+500,15,Ember,1,fire,40,100
+500,15,Odor Sleuth,1,normal,-,-
+500,15,Hammer Arm,1,fighting,100,90
+500,16,Tackle,1,normal,50,100
+500,16,Tail Whip,1,normal,-,100
+500,16,Ember,1,fire,40,100
+500,16,Odor Sleuth,1,normal,-,-
+500,16,Hammer Arm,1,fighting,100,90
+500,11,Tail Whip,3,normal,-,100
+500,14,Tail Whip,3,normal,-,100
+500,15,Tail Whip,3,normal,-,100
+500,16,Tail Whip,3,normal,-,100
+500,11,Ember,7,fire,40,100
+500,14,Ember,7,fire,40,100
+500,15,Ember,7,fire,40,100
+500,16,Ember,7,fire,40,100
+500,11,Odor Sleuth,9,normal,-,-
+500,14,Odor Sleuth,9,normal,-,-
+500,15,Odor Sleuth,9,normal,-,-
+500,16,Odor Sleuth,9,normal,-,-
+500,11,Defense Curl,13,normal,-,-
+500,14,Defense Curl,13,normal,-,-
+500,15,Defense Curl,13,normal,-,-
+500,16,Defense Curl,13,normal,-,-
+500,11,Flame Charge,15,fire,50,100
+500,14,Flame Charge,15,fire,50,100
+500,15,Flame Charge,15,fire,50,100
+500,16,Flame Charge,15,fire,50,100
+500,11,Arm Thrust,17,fighting,15,100
+500,14,Arm Thrust,17,fighting,15,100
+500,15,Arm Thrust,17,fighting,15,100
+500,16,Arm Thrust,17,fighting,15,100
+500,11,Smog,20,poison,30,70
+500,14,Smog,20,poison,30,70
+500,15,Smog,20,poison,30,70
+500,16,Smog,20,poison,30,70
+500,11,Rollout,23,rock,30,90
+500,14,Rollout,23,rock,30,90
+500,15,Rollout,23,rock,30,90
+500,16,Rollout,23,rock,30,90
+500,11,Take Down,28,normal,90,85
+500,14,Take Down,28,normal,90,85
+500,15,Take Down,28,normal,90,85
+500,16,Take Down,28,normal,90,85
+500,11,Heat Crash,31,fire,-,100
+500,14,Heat Crash,31,fire,-,100
+500,15,Heat Crash,31,fire,-,100
+500,16,Heat Crash,31,fire,-,100
+500,11,Assurance,38,dark,60,100
+500,14,Assurance,38,dark,60,100
+500,15,Assurance,38,dark,60,100
+500,16,Assurance,38,dark,60,100
+500,11,Flamethrower,43,fire,90,100
+500,14,Flamethrower,43,fire,90,100
+500,15,Flamethrower,43,fire,90,100
+500,16,Flamethrower,43,fire,90,100
+500,11,Head Smash,50,rock,150,80
+500,14,Head Smash,50,rock,150,80
+500,15,Head Smash,50,rock,150,80
+500,16,Head Smash,50,rock,150,80
+500,11,Roar,55,normal,-,-
+500,14,Roar,55,normal,-,-
+500,15,Roar,55,normal,-,-
+500,16,Roar,55,normal,-,-
+500,11,Flare Blitz,62,fire,120,100
+500,14,Flare Blitz,62,fire,120,100
+500,15,Flare Blitz,62,fire,120,100
+500,16,Flare Blitz,62,fire,120,100

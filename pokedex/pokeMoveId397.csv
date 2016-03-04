@@ -1,89 +1,89 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-397,staravia,8,17,Wing Attack,1,9,
-397,staravia,8,18,Whirlwind,1,23,
-397,staravia,8,33,Tackle,1,1,1
-397,staravia,8,36,Take Down,1,33,
-397,staravia,8,45,Growl,1,1,2
-397,staravia,8,97,Agility,1,38,
-397,staravia,8,98,Quick Attack,1,1,3
-397,staravia,8,98,Quick Attack,1,5,
-397,staravia,8,104,Double Team,1,13,
-397,staravia,8,283,Endeavor,1,18,
-397,staravia,8,332,Aerial Ace,1,28,
-397,staravia,8,413,Brave Bird,1,43,
-397,staravia,9,17,Wing Attack,1,9,
-397,staravia,9,18,Whirlwind,1,23,
-397,staravia,9,33,Tackle,1,1,1
-397,staravia,9,36,Take Down,1,33,
-397,staravia,9,45,Growl,1,1,2
-397,staravia,9,97,Agility,1,38,
-397,staravia,9,98,Quick Attack,1,1,3
-397,staravia,9,98,Quick Attack,1,5,
-397,staravia,9,104,Double Team,1,13,
-397,staravia,9,283,Endeavor,1,18,
-397,staravia,9,332,Aerial Ace,1,28,
-397,staravia,9,413,Brave Bird,1,43,
-397,staravia,10,17,Wing Attack,1,9,
-397,staravia,10,18,Whirlwind,1,23,
-397,staravia,10,33,Tackle,1,1,1
-397,staravia,10,36,Take Down,1,33,
-397,staravia,10,45,Growl,1,1,2
-397,staravia,10,97,Agility,1,38,
-397,staravia,10,98,Quick Attack,1,1,3
-397,staravia,10,98,Quick Attack,1,5,
-397,staravia,10,104,Double Team,1,13,
-397,staravia,10,283,Endeavor,1,18,
-397,staravia,10,332,Aerial Ace,1,28,
-397,staravia,10,413,Brave Bird,1,43,
-397,staravia,11,17,Wing Attack,1,9,
-397,staravia,11,18,Whirlwind,1,23,
-397,staravia,11,33,Tackle,1,1,1
-397,staravia,11,36,Take Down,1,33,
-397,staravia,11,45,Growl,1,1,2
-397,staravia,11,97,Agility,1,38,
-397,staravia,11,98,Quick Attack,1,1,3
-397,staravia,11,98,Quick Attack,1,5,
-397,staravia,11,104,Double Team,1,13,
-397,staravia,11,283,Endeavor,1,18,
-397,staravia,11,332,Aerial Ace,1,28,
-397,staravia,11,413,Brave Bird,1,43,
-397,staravia,11,515,Final Gambit,1,48,
-397,staravia,14,17,Wing Attack,1,9,
-397,staravia,14,18,Whirlwind,1,23,
-397,staravia,14,33,Tackle,1,1,1
-397,staravia,14,36,Take Down,1,33,
-397,staravia,14,45,Growl,1,1,2
-397,staravia,14,97,Agility,1,38,
-397,staravia,14,98,Quick Attack,1,1,3
-397,staravia,14,98,Quick Attack,1,5,
-397,staravia,14,104,Double Team,1,13,
-397,staravia,14,283,Endeavor,1,18,
-397,staravia,14,332,Aerial Ace,1,28,
-397,staravia,14,413,Brave Bird,1,43,
-397,staravia,14,515,Final Gambit,1,48,
-397,staravia,15,17,Wing Attack,1,9,
-397,staravia,15,18,Whirlwind,1,23,
-397,staravia,15,33,Tackle,1,1,1
-397,staravia,15,36,Take Down,1,33,
-397,staravia,15,45,Growl,1,1,2
-397,staravia,15,97,Agility,1,38,
-397,staravia,15,98,Quick Attack,1,1,3
-397,staravia,15,98,Quick Attack,1,5,
-397,staravia,15,104,Double Team,1,13,
-397,staravia,15,283,Endeavor,1,18,
-397,staravia,15,332,Aerial Ace,1,28,
-397,staravia,15,413,Brave Bird,1,43,
-397,staravia,15,515,Final Gambit,1,48,
-397,staravia,16,17,Wing Attack,1,9,1
-397,staravia,16,18,Whirlwind,1,23,1
-397,staravia,16,33,Tackle,1,1,1
-397,staravia,16,36,Take Down,1,33,1
-397,staravia,16,45,Growl,1,1,2
-397,staravia,16,97,Agility,1,38,1
-397,staravia,16,98,Quick Attack,1,1,3
-397,staravia,16,98,Quick Attack,1,5,1
-397,staravia,16,104,Double Team,1,13,1
-397,staravia,16,283,Endeavor,1,18,1
-397,staravia,16,332,Aerial Ace,1,28,1
-397,staravia,16,413,Brave Bird,1,43,1
-397,staravia,16,515,Final Gambit,1,48,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+397,8,Tackle,1,normal,50,100
+397,8,Growl,1,normal,-,100
+397,8,Quick Attack,1,normal,40,100
+397,9,Tackle,1,normal,50,100
+397,9,Growl,1,normal,-,100
+397,9,Quick Attack,1,normal,40,100
+397,10,Tackle,1,normal,50,100
+397,10,Growl,1,normal,-,100
+397,10,Quick Attack,1,normal,40,100
+397,11,Tackle,1,normal,50,100
+397,11,Growl,1,normal,-,100
+397,11,Quick Attack,1,normal,40,100
+397,14,Tackle,1,normal,50,100
+397,14,Growl,1,normal,-,100
+397,14,Quick Attack,1,normal,40,100
+397,15,Tackle,1,normal,50,100
+397,15,Growl,1,normal,-,100
+397,15,Quick Attack,1,normal,40,100
+397,16,Tackle,1,normal,50,100
+397,16,Growl,1,normal,-,100
+397,16,Quick Attack,1,normal,40,100
+397,8,Quick Attack,5,normal,40,100
+397,9,Quick Attack,5,normal,40,100
+397,10,Quick Attack,5,normal,40,100
+397,11,Quick Attack,5,normal,40,100
+397,14,Quick Attack,5,normal,40,100
+397,15,Quick Attack,5,normal,40,100
+397,16,Quick Attack,5,normal,40,100
+397,8,Wing Attack,9,flying,60,100
+397,9,Wing Attack,9,flying,60,100
+397,10,Wing Attack,9,flying,60,100
+397,11,Wing Attack,9,flying,60,100
+397,14,Wing Attack,9,flying,60,100
+397,15,Wing Attack,9,flying,60,100
+397,16,Wing Attack,9,flying,60,100
+397,8,Double Team,13,normal,-,-
+397,9,Double Team,13,normal,-,-
+397,10,Double Team,13,normal,-,-
+397,11,Double Team,13,normal,-,-
+397,14,Double Team,13,normal,-,-
+397,15,Double Team,13,normal,-,-
+397,16,Double Team,13,normal,-,-
+397,8,Endeavor,18,normal,-,100
+397,9,Endeavor,18,normal,-,100
+397,10,Endeavor,18,normal,-,100
+397,11,Endeavor,18,normal,-,100
+397,14,Endeavor,18,normal,-,100
+397,15,Endeavor,18,normal,-,100
+397,16,Endeavor,18,normal,-,100
+397,8,Whirlwind,23,normal,-,-
+397,9,Whirlwind,23,normal,-,-
+397,10,Whirlwind,23,normal,-,-
+397,11,Whirlwind,23,normal,-,-
+397,14,Whirlwind,23,normal,-,-
+397,15,Whirlwind,23,normal,-,-
+397,16,Whirlwind,23,normal,-,-
+397,8,Aerial Ace,28,flying,60,-
+397,9,Aerial Ace,28,flying,60,-
+397,10,Aerial Ace,28,flying,60,-
+397,11,Aerial Ace,28,flying,60,-
+397,14,Aerial Ace,28,flying,60,-
+397,15,Aerial Ace,28,flying,60,-
+397,16,Aerial Ace,28,flying,60,-
+397,8,Take Down,33,normal,90,85
+397,9,Take Down,33,normal,90,85
+397,10,Take Down,33,normal,90,85
+397,11,Take Down,33,normal,90,85
+397,14,Take Down,33,normal,90,85
+397,15,Take Down,33,normal,90,85
+397,16,Take Down,33,normal,90,85
+397,8,Agility,38,psychic,-,-
+397,9,Agility,38,psychic,-,-
+397,10,Agility,38,psychic,-,-
+397,11,Agility,38,psychic,-,-
+397,14,Agility,38,psychic,-,-
+397,15,Agility,38,psychic,-,-
+397,16,Agility,38,psychic,-,-
+397,8,Brave Bird,43,flying,120,100
+397,9,Brave Bird,43,flying,120,100
+397,10,Brave Bird,43,flying,120,100
+397,11,Brave Bird,43,flying,120,100
+397,14,Brave Bird,43,flying,120,100
+397,15,Brave Bird,43,flying,120,100
+397,16,Brave Bird,43,flying,120,100
+397,11,Final Gambit,48,fighting,-,100
+397,14,Final Gambit,48,fighting,-,100
+397,15,Final Gambit,48,fighting,-,100
+397,16,Final Gambit,48,fighting,-,100

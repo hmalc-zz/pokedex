@@ -1,174 +1,174 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-32,nidoran-m,1,24,Double Kick,1,43,
-32,nidoran-m,1,30,Horn Attack,1,8,
-32,nidoran-m,1,31,Fury Attack,1,29,
-32,nidoran-m,1,32,Horn Drill,1,36,
-32,nidoran-m,1,33,Tackle,1,1,2
-32,nidoran-m,1,40,Poison Sting,1,14,
-32,nidoran-m,1,43,Leer,1,1,1
-32,nidoran-m,1,116,Focus Energy,1,21,
-32,nidoran-m,2,24,Double Kick,1,12,
-32,nidoran-m,2,30,Horn Attack,1,8,
-32,nidoran-m,2,31,Fury Attack,1,30,
-32,nidoran-m,2,32,Horn Drill,1,38,
-32,nidoran-m,2,33,Tackle,1,1,2
-32,nidoran-m,2,40,Poison Sting,1,17,
-32,nidoran-m,2,43,Leer,1,1,1
-32,nidoran-m,2,116,Focus Energy,1,23,
-32,nidoran-m,3,24,Double Kick,1,12,
-32,nidoran-m,3,30,Horn Attack,1,8,
-32,nidoran-m,3,31,Fury Attack,1,30,
-32,nidoran-m,3,32,Horn Drill,1,38,
-32,nidoran-m,3,33,Tackle,1,1,2
-32,nidoran-m,3,40,Poison Sting,1,17,
-32,nidoran-m,3,43,Leer,1,1,1
-32,nidoran-m,3,116,Focus Energy,1,23,
-32,nidoran-m,4,24,Double Kick,1,12,
-32,nidoran-m,4,30,Horn Attack,1,8,
-32,nidoran-m,4,31,Fury Attack,1,30,
-32,nidoran-m,4,32,Horn Drill,1,38,
-32,nidoran-m,4,33,Tackle,1,1,2
-32,nidoran-m,4,40,Poison Sting,1,17,
-32,nidoran-m,4,43,Leer,1,1,1
-32,nidoran-m,4,116,Focus Energy,1,23,
-32,nidoran-m,5,24,Double Kick,1,12,
-32,nidoran-m,5,30,Horn Attack,1,20,
-32,nidoran-m,5,31,Fury Attack,1,30,
-32,nidoran-m,5,32,Horn Drill,1,47,
-32,nidoran-m,5,40,Poison Sting,1,17,
-32,nidoran-m,5,43,Leer,1,1,1
-32,nidoran-m,5,64,Peck,1,1,2
-32,nidoran-m,5,116,Focus Energy,1,8,
-32,nidoran-m,5,260,Flatter,1,38,
-32,nidoran-m,5,270,Helping Hand,1,23,
-32,nidoran-m,6,24,Double Kick,1,12,
-32,nidoran-m,6,30,Horn Attack,1,20,
-32,nidoran-m,6,31,Fury Attack,1,30,
-32,nidoran-m,6,32,Horn Drill,1,47,
-32,nidoran-m,6,40,Poison Sting,1,17,
-32,nidoran-m,6,43,Leer,1,1,1
-32,nidoran-m,6,64,Peck,1,1,2
-32,nidoran-m,6,116,Focus Energy,1,8,
-32,nidoran-m,6,260,Flatter,1,38,
-32,nidoran-m,6,270,Helping Hand,1,23,
-32,nidoran-m,7,24,Double Kick,1,12,
-32,nidoran-m,7,30,Horn Attack,1,20,
-32,nidoran-m,7,31,Fury Attack,1,30,
-32,nidoran-m,7,32,Horn Drill,1,47,
-32,nidoran-m,7,40,Poison Sting,1,17,
-32,nidoran-m,7,43,Leer,1,1,1
-32,nidoran-m,7,64,Peck,1,1,2
-32,nidoran-m,7,116,Focus Energy,1,8,
-32,nidoran-m,7,260,Flatter,1,38,
-32,nidoran-m,7,270,Helping Hand,1,23,
-32,nidoran-m,8,24,Double Kick,1,9,
-32,nidoran-m,8,30,Horn Attack,1,21,
-32,nidoran-m,8,31,Fury Attack,1,19,
-32,nidoran-m,8,32,Horn Drill,1,45,
-32,nidoran-m,8,40,Poison Sting,1,13,
-32,nidoran-m,8,43,Leer,1,1,1
-32,nidoran-m,8,64,Peck,1,1,2
-32,nidoran-m,8,116,Focus Energy,1,7,
-32,nidoran-m,8,260,Flatter,1,33,
-32,nidoran-m,8,270,Helping Hand,1,25,
-32,nidoran-m,8,390,Toxic Spikes,1,31,
-32,nidoran-m,8,398,Poison Jab,1,37,
-32,nidoran-m,8,445,Captivate,1,43,
-32,nidoran-m,9,24,Double Kick,1,9,
-32,nidoran-m,9,30,Horn Attack,1,21,
-32,nidoran-m,9,31,Fury Attack,1,19,
-32,nidoran-m,9,32,Horn Drill,1,45,
-32,nidoran-m,9,40,Poison Sting,1,13,
-32,nidoran-m,9,43,Leer,1,1,1
-32,nidoran-m,9,64,Peck,1,1,2
-32,nidoran-m,9,116,Focus Energy,1,7,
-32,nidoran-m,9,260,Flatter,1,33,
-32,nidoran-m,9,270,Helping Hand,1,25,
-32,nidoran-m,9,390,Toxic Spikes,1,31,
-32,nidoran-m,9,398,Poison Jab,1,37,
-32,nidoran-m,9,445,Captivate,1,43,
-32,nidoran-m,10,24,Double Kick,1,9,
-32,nidoran-m,10,30,Horn Attack,1,21,
-32,nidoran-m,10,31,Fury Attack,1,19,
-32,nidoran-m,10,32,Horn Drill,1,45,
-32,nidoran-m,10,40,Poison Sting,1,13,
-32,nidoran-m,10,43,Leer,1,1,1
-32,nidoran-m,10,64,Peck,1,1,2
-32,nidoran-m,10,116,Focus Energy,1,7,
-32,nidoran-m,10,260,Flatter,1,33,
-32,nidoran-m,10,270,Helping Hand,1,25,
-32,nidoran-m,10,390,Toxic Spikes,1,31,
-32,nidoran-m,10,398,Poison Jab,1,37,
-32,nidoran-m,10,445,Captivate,1,43,
-32,nidoran-m,11,24,Double Kick,1,9,
-32,nidoran-m,11,30,Horn Attack,1,21,
-32,nidoran-m,11,31,Fury Attack,1,19,
-32,nidoran-m,11,32,Horn Drill,1,45,
-32,nidoran-m,11,40,Poison Sting,1,13,
-32,nidoran-m,11,43,Leer,1,1,1
-32,nidoran-m,11,64,Peck,1,1,2
-32,nidoran-m,11,116,Focus Energy,1,7,
-32,nidoran-m,11,260,Flatter,1,33,
-32,nidoran-m,11,270,Helping Hand,1,25,
-32,nidoran-m,11,390,Toxic Spikes,1,31,
-32,nidoran-m,11,398,Poison Jab,1,37,
-32,nidoran-m,11,445,Captivate,1,43,
-32,nidoran-m,12,24,Double Kick,1,12,
-32,nidoran-m,12,30,Horn Attack,1,20,
-32,nidoran-m,12,31,Fury Attack,1,30,
-32,nidoran-m,12,32,Horn Drill,1,47,
-32,nidoran-m,12,40,Poison Sting,1,17,
-32,nidoran-m,12,43,Leer,1,1,1
-32,nidoran-m,12,64,Peck,1,1,2
-32,nidoran-m,12,116,Focus Energy,1,8,
-32,nidoran-m,12,260,Flatter,1,38,
-32,nidoran-m,12,270,Helping Hand,1,23,
-32,nidoran-m,13,24,Double Kick,1,12,
-32,nidoran-m,13,30,Horn Attack,1,20,
-32,nidoran-m,13,31,Fury Attack,1,30,
-32,nidoran-m,13,32,Horn Drill,1,47,
-32,nidoran-m,13,40,Poison Sting,1,17,
-32,nidoran-m,13,43,Leer,1,1,1
-32,nidoran-m,13,64,Peck,1,1,2
-32,nidoran-m,13,116,Focus Energy,1,8,
-32,nidoran-m,13,260,Flatter,1,38,
-32,nidoran-m,13,270,Helping Hand,1,23,
-32,nidoran-m,14,24,Double Kick,1,9,
-32,nidoran-m,14,30,Horn Attack,1,21,
-32,nidoran-m,14,31,Fury Attack,1,19,
-32,nidoran-m,14,32,Horn Drill,1,45,
-32,nidoran-m,14,40,Poison Sting,1,13,
-32,nidoran-m,14,43,Leer,1,1,1
-32,nidoran-m,14,64,Peck,1,1,2
-32,nidoran-m,14,116,Focus Energy,1,7,
-32,nidoran-m,14,260,Flatter,1,33,
-32,nidoran-m,14,270,Helping Hand,1,25,
-32,nidoran-m,14,390,Toxic Spikes,1,31,
-32,nidoran-m,14,398,Poison Jab,1,37,
-32,nidoran-m,14,445,Captivate,1,43,
-32,nidoran-m,15,24,Double Kick,1,9,
-32,nidoran-m,15,30,Horn Attack,1,21,
-32,nidoran-m,15,31,Fury Attack,1,19,
-32,nidoran-m,15,32,Horn Drill,1,45,
-32,nidoran-m,15,40,Poison Sting,1,13,
-32,nidoran-m,15,43,Leer,1,1,1
-32,nidoran-m,15,64,Peck,1,1,2
-32,nidoran-m,15,116,Focus Energy,1,7,
-32,nidoran-m,15,260,Flatter,1,33,
-32,nidoran-m,15,270,Helping Hand,1,25,
-32,nidoran-m,15,390,Toxic Spikes,1,31,
-32,nidoran-m,15,398,Poison Jab,1,37,
-32,nidoran-m,15,445,Captivate,1,43,
-32,nidoran-m,16,24,Double Kick,1,9,1
-32,nidoran-m,16,30,Horn Attack,1,21,1
-32,nidoran-m,16,31,Fury Attack,1,19,1
-32,nidoran-m,16,32,Horn Drill,1,45,1
-32,nidoran-m,16,40,Poison Sting,1,13,1
-32,nidoran-m,16,43,Leer,1,1,1
-32,nidoran-m,16,64,Peck,1,1,2
-32,nidoran-m,16,116,Focus Energy,1,7,1
-32,nidoran-m,16,260,Flatter,1,33,1
-32,nidoran-m,16,270,Helping Hand,1,25,1
-32,nidoran-m,16,390,Toxic Spikes,1,31,1
-32,nidoran-m,16,398,Poison Jab,1,37,1
-32,nidoran-m,16,445,Captivate,1,43,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+32,1,Tackle,1,normal,50,100
+32,1,Leer,1,normal,-,100
+32,2,Tackle,1,normal,50,100
+32,2,Leer,1,normal,-,100
+32,3,Tackle,1,normal,50,100
+32,3,Leer,1,normal,-,100
+32,4,Tackle,1,normal,50,100
+32,4,Leer,1,normal,-,100
+32,5,Leer,1,normal,-,100
+32,5,Peck,1,flying,35,100
+32,6,Leer,1,normal,-,100
+32,6,Peck,1,flying,35,100
+32,7,Leer,1,normal,-,100
+32,7,Peck,1,flying,35,100
+32,8,Leer,1,normal,-,100
+32,8,Peck,1,flying,35,100
+32,9,Leer,1,normal,-,100
+32,9,Peck,1,flying,35,100
+32,10,Leer,1,normal,-,100
+32,10,Peck,1,flying,35,100
+32,11,Leer,1,normal,-,100
+32,11,Peck,1,flying,35,100
+32,12,Leer,1,normal,-,100
+32,12,Peck,1,flying,35,100
+32,13,Leer,1,normal,-,100
+32,13,Peck,1,flying,35,100
+32,14,Leer,1,normal,-,100
+32,14,Peck,1,flying,35,100
+32,15,Leer,1,normal,-,100
+32,15,Peck,1,flying,35,100
+32,16,Leer,1,normal,-,100
+32,16,Peck,1,flying,35,100
+32,8,Focus Energy,7,normal,-,-
+32,9,Focus Energy,7,normal,-,-
+32,10,Focus Energy,7,normal,-,-
+32,11,Focus Energy,7,normal,-,-
+32,14,Focus Energy,7,normal,-,-
+32,15,Focus Energy,7,normal,-,-
+32,16,Focus Energy,7,normal,-,-
+32,1,Horn Attack,8,normal,65,100
+32,2,Horn Attack,8,normal,65,100
+32,3,Horn Attack,8,normal,65,100
+32,4,Horn Attack,8,normal,65,100
+32,5,Focus Energy,8,normal,-,-
+32,6,Focus Energy,8,normal,-,-
+32,7,Focus Energy,8,normal,-,-
+32,12,Focus Energy,8,normal,-,-
+32,13,Focus Energy,8,normal,-,-
+32,8,Double Kick,9,fighting,30,100
+32,9,Double Kick,9,fighting,30,100
+32,10,Double Kick,9,fighting,30,100
+32,11,Double Kick,9,fighting,30,100
+32,14,Double Kick,9,fighting,30,100
+32,15,Double Kick,9,fighting,30,100
+32,16,Double Kick,9,fighting,30,100
+32,2,Double Kick,12,fighting,30,100
+32,3,Double Kick,12,fighting,30,100
+32,4,Double Kick,12,fighting,30,100
+32,5,Double Kick,12,fighting,30,100
+32,6,Double Kick,12,fighting,30,100
+32,7,Double Kick,12,fighting,30,100
+32,12,Double Kick,12,fighting,30,100
+32,13,Double Kick,12,fighting,30,100
+32,8,Poison Sting,13,poison,15,100
+32,9,Poison Sting,13,poison,15,100
+32,10,Poison Sting,13,poison,15,100
+32,11,Poison Sting,13,poison,15,100
+32,14,Poison Sting,13,poison,15,100
+32,15,Poison Sting,13,poison,15,100
+32,16,Poison Sting,13,poison,15,100
+32,1,Poison Sting,14,poison,15,100
+32,2,Poison Sting,17,poison,15,100
+32,3,Poison Sting,17,poison,15,100
+32,4,Poison Sting,17,poison,15,100
+32,5,Poison Sting,17,poison,15,100
+32,6,Poison Sting,17,poison,15,100
+32,7,Poison Sting,17,poison,15,100
+32,12,Poison Sting,17,poison,15,100
+32,13,Poison Sting,17,poison,15,100
+32,8,Fury Attack,19,normal,15,85
+32,9,Fury Attack,19,normal,15,85
+32,10,Fury Attack,19,normal,15,85
+32,11,Fury Attack,19,normal,15,85
+32,14,Fury Attack,19,normal,15,85
+32,15,Fury Attack,19,normal,15,85
+32,16,Fury Attack,19,normal,15,85
+32,5,Horn Attack,20,normal,65,100
+32,6,Horn Attack,20,normal,65,100
+32,7,Horn Attack,20,normal,65,100
+32,12,Horn Attack,20,normal,65,100
+32,13,Horn Attack,20,normal,65,100
+32,1,Focus Energy,21,normal,-,-
+32,8,Horn Attack,21,normal,65,100
+32,9,Horn Attack,21,normal,65,100
+32,10,Horn Attack,21,normal,65,100
+32,11,Horn Attack,21,normal,65,100
+32,14,Horn Attack,21,normal,65,100
+32,15,Horn Attack,21,normal,65,100
+32,16,Horn Attack,21,normal,65,100
+32,2,Focus Energy,23,normal,-,-
+32,3,Focus Energy,23,normal,-,-
+32,4,Focus Energy,23,normal,-,-
+32,5,Helping Hand,23,normal,-,-
+32,6,Helping Hand,23,normal,-,-
+32,7,Helping Hand,23,normal,-,-
+32,12,Helping Hand,23,normal,-,-
+32,13,Helping Hand,23,normal,-,-
+32,8,Helping Hand,25,normal,-,-
+32,9,Helping Hand,25,normal,-,-
+32,10,Helping Hand,25,normal,-,-
+32,11,Helping Hand,25,normal,-,-
+32,14,Helping Hand,25,normal,-,-
+32,15,Helping Hand,25,normal,-,-
+32,16,Helping Hand,25,normal,-,-
+32,1,Fury Attack,29,normal,15,85
+32,2,Fury Attack,30,normal,15,85
+32,3,Fury Attack,30,normal,15,85
+32,4,Fury Attack,30,normal,15,85
+32,5,Fury Attack,30,normal,15,85
+32,6,Fury Attack,30,normal,15,85
+32,7,Fury Attack,30,normal,15,85
+32,12,Fury Attack,30,normal,15,85
+32,13,Fury Attack,30,normal,15,85
+32,8,Toxic Spikes,31,poison,-,-
+32,9,Toxic Spikes,31,poison,-,-
+32,10,Toxic Spikes,31,poison,-,-
+32,11,Toxic Spikes,31,poison,-,-
+32,14,Toxic Spikes,31,poison,-,-
+32,15,Toxic Spikes,31,poison,-,-
+32,16,Toxic Spikes,31,poison,-,-
+32,8,Flatter,33,dark,-,100
+32,9,Flatter,33,dark,-,100
+32,10,Flatter,33,dark,-,100
+32,11,Flatter,33,dark,-,100
+32,14,Flatter,33,dark,-,100
+32,15,Flatter,33,dark,-,100
+32,16,Flatter,33,dark,-,100
+32,1,Horn Drill,36,normal,-,30
+32,8,Poison Jab,37,poison,80,100
+32,9,Poison Jab,37,poison,80,100
+32,10,Poison Jab,37,poison,80,100
+32,11,Poison Jab,37,poison,80,100
+32,14,Poison Jab,37,poison,80,100
+32,15,Poison Jab,37,poison,80,100
+32,16,Poison Jab,37,poison,80,100
+32,2,Horn Drill,38,normal,-,30
+32,3,Horn Drill,38,normal,-,30
+32,4,Horn Drill,38,normal,-,30
+32,5,Flatter,38,dark,-,100
+32,6,Flatter,38,dark,-,100
+32,7,Flatter,38,dark,-,100
+32,12,Flatter,38,dark,-,100
+32,13,Flatter,38,dark,-,100
+32,1,Double Kick,43,fighting,30,100
+32,8,Captivate,43,normal,-,100
+32,9,Captivate,43,normal,-,100
+32,10,Captivate,43,normal,-,100
+32,11,Captivate,43,normal,-,100
+32,14,Captivate,43,normal,-,100
+32,15,Captivate,43,normal,-,100
+32,16,Captivate,43,normal,-,100
+32,8,Horn Drill,45,normal,-,30
+32,9,Horn Drill,45,normal,-,30
+32,10,Horn Drill,45,normal,-,30
+32,11,Horn Drill,45,normal,-,30
+32,14,Horn Drill,45,normal,-,30
+32,15,Horn Drill,45,normal,-,30
+32,16,Horn Drill,45,normal,-,30
+32,5,Horn Drill,47,normal,-,30
+32,6,Horn Drill,47,normal,-,30
+32,7,Horn Drill,47,normal,-,30
+32,12,Horn Drill,47,normal,-,30
+32,13,Horn Drill,47,normal,-,30

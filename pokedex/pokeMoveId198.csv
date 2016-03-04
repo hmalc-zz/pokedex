@@ -1,146 +1,146 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-198,murkrow,3,64,Peck,1,1,
-198,murkrow,3,101,Night Shade,1,26,
-198,murkrow,3,114,Haze,1,16,
-198,murkrow,3,185,Feint Attack,1,31,
-198,murkrow,3,212,Mean Look,1,41,
-198,murkrow,3,228,Pursuit,1,11,
-198,murkrow,4,64,Peck,1,1,
-198,murkrow,4,101,Night Shade,1,26,
-198,murkrow,4,114,Haze,1,16,
-198,murkrow,4,185,Feint Attack,1,31,
-198,murkrow,4,212,Mean Look,1,41,
-198,murkrow,4,228,Pursuit,1,11,
-198,murkrow,5,64,Peck,1,1,
-198,murkrow,5,101,Night Shade,1,27,
-198,murkrow,5,114,Haze,1,22,
-198,murkrow,5,185,Feint Attack,1,35,
-198,murkrow,5,212,Mean Look,1,48,
-198,murkrow,5,228,Pursuit,1,14,
-198,murkrow,5,269,Taunt,1,40,
-198,murkrow,5,310,Astonish,1,9,
-198,murkrow,6,64,Peck,1,1,
-198,murkrow,6,101,Night Shade,1,27,
-198,murkrow,6,114,Haze,1,22,
-198,murkrow,6,185,Feint Attack,1,35,
-198,murkrow,6,212,Mean Look,1,48,
-198,murkrow,6,228,Pursuit,1,14,
-198,murkrow,6,269,Taunt,1,40,
-198,murkrow,6,310,Astonish,1,9,
-198,murkrow,7,64,Peck,1,1,
-198,murkrow,7,101,Night Shade,1,27,
-198,murkrow,7,114,Haze,1,22,
-198,murkrow,7,185,Feint Attack,1,35,
-198,murkrow,7,212,Mean Look,1,48,
-198,murkrow,7,228,Pursuit,1,14,
-198,murkrow,7,269,Taunt,1,40,
-198,murkrow,7,310,Astonish,1,9,
-198,murkrow,8,17,Wing Attack,1,15,
-198,murkrow,8,64,Peck,1,1,1
-198,murkrow,8,101,Night Shade,1,21,
-198,murkrow,8,114,Haze,1,11,
-198,murkrow,8,185,Feint Attack,1,35,
-198,murkrow,8,212,Mean Look,1,41,
-198,murkrow,8,228,Pursuit,1,5,
-198,murkrow,8,269,Taunt,1,31,
-198,murkrow,8,310,Astonish,1,1,2
-198,murkrow,8,372,Assurance,1,25,
-198,murkrow,8,389,Sucker Punch,1,45,
-198,murkrow,9,17,Wing Attack,1,15,
-198,murkrow,9,64,Peck,1,1,1
-198,murkrow,9,101,Night Shade,1,21,
-198,murkrow,9,114,Haze,1,11,
-198,murkrow,9,185,Feint Attack,1,35,
-198,murkrow,9,212,Mean Look,1,41,
-198,murkrow,9,228,Pursuit,1,5,
-198,murkrow,9,269,Taunt,1,31,
-198,murkrow,9,310,Astonish,1,1,2
-198,murkrow,9,372,Assurance,1,25,
-198,murkrow,9,389,Sucker Punch,1,45,
-198,murkrow,10,17,Wing Attack,1,15,
-198,murkrow,10,64,Peck,1,1,1
-198,murkrow,10,101,Night Shade,1,21,
-198,murkrow,10,114,Haze,1,11,
-198,murkrow,10,185,Feint Attack,1,35,
-198,murkrow,10,212,Mean Look,1,41,
-198,murkrow,10,228,Pursuit,1,5,
-198,murkrow,10,269,Taunt,1,31,
-198,murkrow,10,310,Astonish,1,1,2
-198,murkrow,10,372,Assurance,1,25,
-198,murkrow,10,389,Sucker Punch,1,45,
-198,murkrow,11,17,Wing Attack,1,15,
-198,murkrow,11,64,Peck,1,1,1
-198,murkrow,11,101,Night Shade,1,21,
-198,murkrow,11,114,Haze,1,11,
-198,murkrow,11,185,Feint Attack,1,35,
-198,murkrow,11,212,Mean Look,1,41,
-198,murkrow,11,228,Pursuit,1,5,
-198,murkrow,11,259,Torment,1,61,
-198,murkrow,11,269,Taunt,1,31,
-198,murkrow,11,310,Astonish,1,1,2
-198,murkrow,11,366,Tailwind,1,51,
-198,murkrow,11,372,Assurance,1,25,
-198,murkrow,11,389,Sucker Punch,1,55,
-198,murkrow,11,492,Foul Play,1,45,
-198,murkrow,11,511,Quash,1,65,
-198,murkrow,12,64,Peck,1,1,
-198,murkrow,12,101,Night Shade,1,27,
-198,murkrow,12,114,Haze,1,22,
-198,murkrow,12,185,Feint Attack,1,35,
-198,murkrow,12,212,Mean Look,1,48,
-198,murkrow,12,228,Pursuit,1,14,
-198,murkrow,12,269,Taunt,1,40,
-198,murkrow,12,310,Astonish,1,9,
-198,murkrow,13,64,Peck,1,1,
-198,murkrow,13,101,Night Shade,1,27,
-198,murkrow,13,114,Haze,1,22,
-198,murkrow,13,185,Feint Attack,1,35,
-198,murkrow,13,212,Mean Look,1,48,
-198,murkrow,13,228,Pursuit,1,14,
-198,murkrow,13,269,Taunt,1,40,
-198,murkrow,13,310,Astonish,1,9,
-198,murkrow,14,17,Wing Attack,1,15,
-198,murkrow,14,64,Peck,1,1,1
-198,murkrow,14,101,Night Shade,1,21,
-198,murkrow,14,114,Haze,1,11,
-198,murkrow,14,185,Feint Attack,1,35,
-198,murkrow,14,212,Mean Look,1,41,
-198,murkrow,14,228,Pursuit,1,5,
-198,murkrow,14,259,Torment,1,61,
-198,murkrow,14,269,Taunt,1,31,
-198,murkrow,14,310,Astonish,1,1,2
-198,murkrow,14,366,Tailwind,1,51,
-198,murkrow,14,372,Assurance,1,25,
-198,murkrow,14,389,Sucker Punch,1,55,
-198,murkrow,14,492,Foul Play,1,45,
-198,murkrow,14,511,Quash,1,65,
-198,murkrow,15,17,Wing Attack,1,15,
-198,murkrow,15,64,Peck,1,1,1
-198,murkrow,15,101,Night Shade,1,21,
-198,murkrow,15,114,Haze,1,11,
-198,murkrow,15,185,Feint Attack,1,35,
-198,murkrow,15,212,Mean Look,1,41,
-198,murkrow,15,228,Pursuit,1,5,
-198,murkrow,15,259,Torment,1,61,
-198,murkrow,15,269,Taunt,1,31,
-198,murkrow,15,310,Astonish,1,1,2
-198,murkrow,15,366,Tailwind,1,50,
-198,murkrow,15,372,Assurance,1,25,
-198,murkrow,15,389,Sucker Punch,1,55,
-198,murkrow,15,492,Foul Play,1,45,
-198,murkrow,15,511,Quash,1,65,
-198,murkrow,16,17,Wing Attack,1,15,1
-198,murkrow,16,64,Peck,1,1,1
-198,murkrow,16,101,Night Shade,1,21,1
-198,murkrow,16,114,Haze,1,11,1
-198,murkrow,16,185,Feint Attack,1,35,1
-198,murkrow,16,212,Mean Look,1,41,1
-198,murkrow,16,228,Pursuit,1,5,1
-198,murkrow,16,259,Torment,1,61,1
-198,murkrow,16,269,Taunt,1,31,1
-198,murkrow,16,310,Astonish,1,1,2
-198,murkrow,16,366,Tailwind,1,50,1
-198,murkrow,16,372,Assurance,1,25,1
-198,murkrow,16,389,Sucker Punch,1,55,1
-198,murkrow,16,492,Foul Play,1,45,1
-198,murkrow,16,511,Quash,1,65,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+198,3,Peck,1,flying,35,100
+198,4,Peck,1,flying,35,100
+198,5,Peck,1,flying,35,100
+198,6,Peck,1,flying,35,100
+198,7,Peck,1,flying,35,100
+198,8,Peck,1,flying,35,100
+198,8,Astonish,1,ghost,30,100
+198,9,Peck,1,flying,35,100
+198,9,Astonish,1,ghost,30,100
+198,10,Peck,1,flying,35,100
+198,10,Astonish,1,ghost,30,100
+198,11,Peck,1,flying,35,100
+198,11,Astonish,1,ghost,30,100
+198,12,Peck,1,flying,35,100
+198,13,Peck,1,flying,35,100
+198,14,Peck,1,flying,35,100
+198,14,Astonish,1,ghost,30,100
+198,15,Peck,1,flying,35,100
+198,15,Astonish,1,ghost,30,100
+198,16,Peck,1,flying,35,100
+198,16,Astonish,1,ghost,30,100
+198,8,Pursuit,5,dark,40,100
+198,9,Pursuit,5,dark,40,100
+198,10,Pursuit,5,dark,40,100
+198,11,Pursuit,5,dark,40,100
+198,14,Pursuit,5,dark,40,100
+198,15,Pursuit,5,dark,40,100
+198,16,Pursuit,5,dark,40,100
+198,5,Astonish,9,ghost,30,100
+198,6,Astonish,9,ghost,30,100
+198,7,Astonish,9,ghost,30,100
+198,12,Astonish,9,ghost,30,100
+198,13,Astonish,9,ghost,30,100
+198,3,Pursuit,11,dark,40,100
+198,4,Pursuit,11,dark,40,100
+198,8,Haze,11,ice,-,-
+198,9,Haze,11,ice,-,-
+198,10,Haze,11,ice,-,-
+198,11,Haze,11,ice,-,-
+198,14,Haze,11,ice,-,-
+198,15,Haze,11,ice,-,-
+198,16,Haze,11,ice,-,-
+198,5,Pursuit,14,dark,40,100
+198,6,Pursuit,14,dark,40,100
+198,7,Pursuit,14,dark,40,100
+198,12,Pursuit,14,dark,40,100
+198,13,Pursuit,14,dark,40,100
+198,8,Wing Attack,15,flying,60,100
+198,9,Wing Attack,15,flying,60,100
+198,10,Wing Attack,15,flying,60,100
+198,11,Wing Attack,15,flying,60,100
+198,14,Wing Attack,15,flying,60,100
+198,15,Wing Attack,15,flying,60,100
+198,16,Wing Attack,15,flying,60,100
+198,3,Haze,16,ice,-,-
+198,4,Haze,16,ice,-,-
+198,8,Night Shade,21,ghost,-,100
+198,9,Night Shade,21,ghost,-,100
+198,10,Night Shade,21,ghost,-,100
+198,11,Night Shade,21,ghost,-,100
+198,14,Night Shade,21,ghost,-,100
+198,15,Night Shade,21,ghost,-,100
+198,16,Night Shade,21,ghost,-,100
+198,5,Haze,22,ice,-,-
+198,6,Haze,22,ice,-,-
+198,7,Haze,22,ice,-,-
+198,12,Haze,22,ice,-,-
+198,13,Haze,22,ice,-,-
+198,8,Assurance,25,dark,60,100
+198,9,Assurance,25,dark,60,100
+198,10,Assurance,25,dark,60,100
+198,11,Assurance,25,dark,60,100
+198,14,Assurance,25,dark,60,100
+198,15,Assurance,25,dark,60,100
+198,16,Assurance,25,dark,60,100
+198,3,Night Shade,26,ghost,-,100
+198,4,Night Shade,26,ghost,-,100
+198,5,Night Shade,27,ghost,-,100
+198,6,Night Shade,27,ghost,-,100
+198,7,Night Shade,27,ghost,-,100
+198,12,Night Shade,27,ghost,-,100
+198,13,Night Shade,27,ghost,-,100
+198,3,Feint Attack,31,dark,60,-
+198,4,Feint Attack,31,dark,60,-
+198,8,Taunt,31,dark,-,100
+198,9,Taunt,31,dark,-,100
+198,10,Taunt,31,dark,-,100
+198,11,Taunt,31,dark,-,100
+198,14,Taunt,31,dark,-,100
+198,15,Taunt,31,dark,-,100
+198,16,Taunt,31,dark,-,100
+198,5,Feint Attack,35,dark,60,-
+198,6,Feint Attack,35,dark,60,-
+198,7,Feint Attack,35,dark,60,-
+198,8,Feint Attack,35,dark,60,-
+198,9,Feint Attack,35,dark,60,-
+198,10,Feint Attack,35,dark,60,-
+198,11,Feint Attack,35,dark,60,-
+198,12,Feint Attack,35,dark,60,-
+198,13,Feint Attack,35,dark,60,-
+198,14,Feint Attack,35,dark,60,-
+198,15,Feint Attack,35,dark,60,-
+198,16,Feint Attack,35,dark,60,-
+198,5,Taunt,40,dark,-,100
+198,6,Taunt,40,dark,-,100
+198,7,Taunt,40,dark,-,100
+198,12,Taunt,40,dark,-,100
+198,13,Taunt,40,dark,-,100
+198,3,Mean Look,41,normal,-,-
+198,4,Mean Look,41,normal,-,-
+198,8,Mean Look,41,normal,-,-
+198,9,Mean Look,41,normal,-,-
+198,10,Mean Look,41,normal,-,-
+198,11,Mean Look,41,normal,-,-
+198,14,Mean Look,41,normal,-,-
+198,15,Mean Look,41,normal,-,-
+198,16,Mean Look,41,normal,-,-
+198,8,Sucker Punch,45,dark,80,100
+198,9,Sucker Punch,45,dark,80,100
+198,10,Sucker Punch,45,dark,80,100
+198,11,Foul Play,45,dark,95,100
+198,14,Foul Play,45,dark,95,100
+198,15,Foul Play,45,dark,95,100
+198,16,Foul Play,45,dark,95,100
+198,5,Mean Look,48,normal,-,-
+198,6,Mean Look,48,normal,-,-
+198,7,Mean Look,48,normal,-,-
+198,12,Mean Look,48,normal,-,-
+198,13,Mean Look,48,normal,-,-
+198,15,Tailwind,50,flying,-,-
+198,16,Tailwind,50,flying,-,-
+198,11,Tailwind,51,flying,-,-
+198,14,Tailwind,51,flying,-,-
+198,11,Sucker Punch,55,dark,80,100
+198,14,Sucker Punch,55,dark,80,100
+198,15,Sucker Punch,55,dark,80,100
+198,16,Sucker Punch,55,dark,80,100
+198,11,Torment,61,dark,-,100
+198,14,Torment,61,dark,-,100
+198,15,Torment,61,dark,-,100
+198,16,Torment,61,dark,-,100
+198,11,Quash,65,dark,-,100
+198,14,Quash,65,dark,-,100
+198,15,Quash,65,dark,-,100
+198,16,Quash,65,dark,-,100

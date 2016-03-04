@@ -1,141 +1,141 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-151,mew,1,1,Pound,1,1,
-151,mew,1,5,Mega Punch,1,20,
-151,mew,1,94,Psychic,1,40,
-151,mew,1,118,Metronome,1,30,
-151,mew,1,144,Transform,1,10,
-151,mew,2,1,Pound,1,1,
-151,mew,2,5,Mega Punch,1,20,
-151,mew,2,94,Psychic,1,40,
-151,mew,2,118,Metronome,1,30,
-151,mew,2,144,Transform,1,10,
-151,mew,3,1,Pound,1,1,
-151,mew,3,5,Mega Punch,1,20,
-151,mew,3,94,Psychic,1,40,
-151,mew,3,118,Metronome,1,30,
-151,mew,3,144,Transform,1,10,
-151,mew,3,246,Ancient Power,1,50,
-151,mew,4,1,Pound,1,1,
-151,mew,4,5,Mega Punch,1,20,
-151,mew,4,94,Psychic,1,40,
-151,mew,4,118,Metronome,1,30,
-151,mew,4,144,Transform,1,10,
-151,mew,4,246,Ancient Power,1,50,
-151,mew,5,1,Pound,1,1,
-151,mew,5,5,Mega Punch,1,20,
-151,mew,5,94,Psychic,1,40,
-151,mew,5,118,Metronome,1,30,
-151,mew,5,144,Transform,1,10,
-151,mew,5,246,Ancient Power,1,50,
-151,mew,6,1,Pound,1,1,
-151,mew,6,5,Mega Punch,1,20,
-151,mew,6,94,Psychic,1,40,
-151,mew,6,118,Metronome,1,30,
-151,mew,6,144,Transform,1,10,
-151,mew,6,246,Ancient Power,1,50,
-151,mew,7,1,Pound,1,1,
-151,mew,7,5,Mega Punch,1,20,
-151,mew,7,94,Psychic,1,40,
-151,mew,7,118,Metronome,1,30,
-151,mew,7,144,Transform,1,10,
-151,mew,7,246,Ancient Power,1,50,
-151,mew,8,1,Pound,1,1,1
-151,mew,8,5,Mega Punch,1,10,
-151,mew,8,94,Psychic,1,30,
-151,mew,8,112,Barrier,1,40,
-151,mew,8,118,Metronome,1,20,
-151,mew,8,133,Amnesia,1,60,
-151,mew,8,144,Transform,1,1,2
-151,mew,8,226,Baton Pass,1,80,
-151,mew,8,246,Ancient Power,1,50,
-151,mew,8,382,Me First,1,70,
-151,mew,8,396,Aura Sphere,1,100,
-151,mew,8,417,Nasty Plot,1,90,
-151,mew,9,1,Pound,1,1,1
-151,mew,9,5,Mega Punch,1,10,
-151,mew,9,94,Psychic,1,30,
-151,mew,9,112,Barrier,1,40,
-151,mew,9,118,Metronome,1,20,
-151,mew,9,133,Amnesia,1,60,
-151,mew,9,144,Transform,1,1,2
-151,mew,9,226,Baton Pass,1,80,
-151,mew,9,246,Ancient Power,1,50,
-151,mew,9,382,Me First,1,70,
-151,mew,9,396,Aura Sphere,1,100,
-151,mew,9,417,Nasty Plot,1,90,
-151,mew,10,1,Pound,1,1,1
-151,mew,10,5,Mega Punch,1,10,
-151,mew,10,94,Psychic,1,30,
-151,mew,10,112,Barrier,1,40,
-151,mew,10,118,Metronome,1,20,
-151,mew,10,133,Amnesia,1,60,
-151,mew,10,144,Transform,1,1,2
-151,mew,10,226,Baton Pass,1,80,
-151,mew,10,246,Ancient Power,1,50,
-151,mew,10,382,Me First,1,70,
-151,mew,10,396,Aura Sphere,1,100,
-151,mew,10,417,Nasty Plot,1,90,
-151,mew,11,1,Pound,1,1,1
-151,mew,11,5,Mega Punch,1,10,
-151,mew,11,94,Psychic,1,30,
-151,mew,11,112,Barrier,1,40,
-151,mew,11,118,Metronome,1,20,
-151,mew,11,133,Amnesia,1,60,
-151,mew,11,144,Transform,1,1,3
-151,mew,11,226,Baton Pass,1,80,
-151,mew,11,246,Ancient Power,1,50,
-151,mew,11,382,Me First,1,70,
-151,mew,11,396,Aura Sphere,1,100,
-151,mew,11,417,Nasty Plot,1,90,
-151,mew,11,513,Reflect Type,1,1,2
-151,mew,12,1,Pound,1,1,
-151,mew,12,5,Mega Punch,1,20,
-151,mew,12,94,Psychic,1,40,
-151,mew,12,118,Metronome,1,30,
-151,mew,12,144,Transform,1,10,
-151,mew,12,246,Ancient Power,1,50,
-151,mew,13,1,Pound,1,1,
-151,mew,13,5,Mega Punch,1,20,
-151,mew,13,94,Psychic,1,40,
-151,mew,13,118,Metronome,1,30,
-151,mew,13,144,Transform,1,10,
-151,mew,13,246,Ancient Power,1,50,
-151,mew,14,1,Pound,1,1,1
-151,mew,14,5,Mega Punch,1,10,
-151,mew,14,94,Psychic,1,30,
-151,mew,14,112,Barrier,1,40,
-151,mew,14,118,Metronome,1,20,
-151,mew,14,133,Amnesia,1,60,
-151,mew,14,144,Transform,1,1,3
-151,mew,14,226,Baton Pass,1,80,
-151,mew,14,246,Ancient Power,1,50,
-151,mew,14,382,Me First,1,70,
-151,mew,14,396,Aura Sphere,1,100,
-151,mew,14,417,Nasty Plot,1,90,
-151,mew,14,513,Reflect Type,1,1,2
-151,mew,15,1,Pound,1,1,1
-151,mew,15,5,Mega Punch,1,10,
-151,mew,15,94,Psychic,1,30,
-151,mew,15,112,Barrier,1,40,
-151,mew,15,118,Metronome,1,20,
-151,mew,15,133,Amnesia,1,60,
-151,mew,15,144,Transform,1,1,3
-151,mew,15,226,Baton Pass,1,80,
-151,mew,15,246,Ancient Power,1,50,
-151,mew,15,382,Me First,1,70,
-151,mew,15,396,Aura Sphere,1,100,
-151,mew,15,417,Nasty Plot,1,90,
-151,mew,15,513,Reflect Type,1,1,2
-151,mew,16,1,Pound,1,1,1
-151,mew,16,5,Mega Punch,1,10,1
-151,mew,16,94,Psychic,1,30,1
-151,mew,16,112,Barrier,1,40,1
-151,mew,16,118,Metronome,1,20,1
-151,mew,16,133,Amnesia,1,60,1
-151,mew,16,144,Transform,1,1,3
-151,mew,16,226,Baton Pass,1,80,1
-151,mew,16,246,Ancient Power,1,50,1
-151,mew,16,382,Me First,1,70,1
-151,mew,16,396,Aura Sphere,1,100,1
-151,mew,16,417,Nasty Plot,1,90,1
-151,mew,16,513,Reflect Type,1,1,2
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+151,1,Pound,1,normal,40,100
+151,2,Pound,1,normal,40,100
+151,3,Pound,1,normal,40,100
+151,4,Pound,1,normal,40,100
+151,5,Pound,1,normal,40,100
+151,6,Pound,1,normal,40,100
+151,7,Pound,1,normal,40,100
+151,8,Pound,1,normal,40,100
+151,8,Transform,1,normal,-,-
+151,9,Pound,1,normal,40,100
+151,9,Transform,1,normal,-,-
+151,10,Pound,1,normal,40,100
+151,10,Transform,1,normal,-,-
+151,11,Pound,1,normal,40,100
+151,11,Transform,1,normal,-,-
+151,11,Reflect Type,1,normal,-,-
+151,12,Pound,1,normal,40,100
+151,13,Pound,1,normal,40,100
+151,14,Pound,1,normal,40,100
+151,14,Transform,1,normal,-,-
+151,14,Reflect Type,1,normal,-,-
+151,15,Pound,1,normal,40,100
+151,15,Transform,1,normal,-,-
+151,15,Reflect Type,1,normal,-,-
+151,16,Pound,1,normal,40,100
+151,16,Transform,1,normal,-,-
+151,16,Reflect Type,1,normal,-,-
+151,1,Transform,10,normal,-,-
+151,2,Transform,10,normal,-,-
+151,3,Transform,10,normal,-,-
+151,4,Transform,10,normal,-,-
+151,5,Transform,10,normal,-,-
+151,6,Transform,10,normal,-,-
+151,7,Transform,10,normal,-,-
+151,8,Mega Punch,10,normal,80,85
+151,9,Mega Punch,10,normal,80,85
+151,10,Mega Punch,10,normal,80,85
+151,11,Mega Punch,10,normal,80,85
+151,12,Transform,10,normal,-,-
+151,13,Transform,10,normal,-,-
+151,14,Mega Punch,10,normal,80,85
+151,15,Mega Punch,10,normal,80,85
+151,16,Mega Punch,10,normal,80,85
+151,1,Mega Punch,20,normal,80,85
+151,2,Mega Punch,20,normal,80,85
+151,3,Mega Punch,20,normal,80,85
+151,4,Mega Punch,20,normal,80,85
+151,5,Mega Punch,20,normal,80,85
+151,6,Mega Punch,20,normal,80,85
+151,7,Mega Punch,20,normal,80,85
+151,8,Metronome,20,normal,-,-
+151,9,Metronome,20,normal,-,-
+151,10,Metronome,20,normal,-,-
+151,11,Metronome,20,normal,-,-
+151,12,Mega Punch,20,normal,80,85
+151,13,Mega Punch,20,normal,80,85
+151,14,Metronome,20,normal,-,-
+151,15,Metronome,20,normal,-,-
+151,16,Metronome,20,normal,-,-
+151,1,Metronome,30,normal,-,-
+151,2,Metronome,30,normal,-,-
+151,3,Metronome,30,normal,-,-
+151,4,Metronome,30,normal,-,-
+151,5,Metronome,30,normal,-,-
+151,6,Metronome,30,normal,-,-
+151,7,Metronome,30,normal,-,-
+151,8,Psychic,30,psychic,90,100
+151,9,Psychic,30,psychic,90,100
+151,10,Psychic,30,psychic,90,100
+151,11,Psychic,30,psychic,90,100
+151,12,Metronome,30,normal,-,-
+151,13,Metronome,30,normal,-,-
+151,14,Psychic,30,psychic,90,100
+151,15,Psychic,30,psychic,90,100
+151,16,Psychic,30,psychic,90,100
+151,1,Psychic,40,psychic,90,100
+151,2,Psychic,40,psychic,90,100
+151,3,Psychic,40,psychic,90,100
+151,4,Psychic,40,psychic,90,100
+151,5,Psychic,40,psychic,90,100
+151,6,Psychic,40,psychic,90,100
+151,7,Psychic,40,psychic,90,100
+151,8,Barrier,40,psychic,-,-
+151,9,Barrier,40,psychic,-,-
+151,10,Barrier,40,psychic,-,-
+151,11,Barrier,40,psychic,-,-
+151,12,Psychic,40,psychic,90,100
+151,13,Psychic,40,psychic,90,100
+151,14,Barrier,40,psychic,-,-
+151,15,Barrier,40,psychic,-,-
+151,16,Barrier,40,psychic,-,-
+151,3,Ancient Power,50,rock,60,100
+151,4,Ancient Power,50,rock,60,100
+151,5,Ancient Power,50,rock,60,100
+151,6,Ancient Power,50,rock,60,100
+151,7,Ancient Power,50,rock,60,100
+151,8,Ancient Power,50,rock,60,100
+151,9,Ancient Power,50,rock,60,100
+151,10,Ancient Power,50,rock,60,100
+151,11,Ancient Power,50,rock,60,100
+151,12,Ancient Power,50,rock,60,100
+151,13,Ancient Power,50,rock,60,100
+151,14,Ancient Power,50,rock,60,100
+151,15,Ancient Power,50,rock,60,100
+151,16,Ancient Power,50,rock,60,100
+151,8,Amnesia,60,psychic,-,-
+151,9,Amnesia,60,psychic,-,-
+151,10,Amnesia,60,psychic,-,-
+151,11,Amnesia,60,psychic,-,-
+151,14,Amnesia,60,psychic,-,-
+151,15,Amnesia,60,psychic,-,-
+151,16,Amnesia,60,psychic,-,-
+151,8,Me First,70,normal,-,-
+151,9,Me First,70,normal,-,-
+151,10,Me First,70,normal,-,-
+151,11,Me First,70,normal,-,-
+151,14,Me First,70,normal,-,-
+151,15,Me First,70,normal,-,-
+151,16,Me First,70,normal,-,-
+151,8,Baton Pass,80,normal,-,-
+151,9,Baton Pass,80,normal,-,-
+151,10,Baton Pass,80,normal,-,-
+151,11,Baton Pass,80,normal,-,-
+151,14,Baton Pass,80,normal,-,-
+151,15,Baton Pass,80,normal,-,-
+151,16,Baton Pass,80,normal,-,-
+151,8,Nasty Plot,90,dark,-,-
+151,9,Nasty Plot,90,dark,-,-
+151,10,Nasty Plot,90,dark,-,-
+151,11,Nasty Plot,90,dark,-,-
+151,14,Nasty Plot,90,dark,-,-
+151,15,Nasty Plot,90,dark,-,-
+151,16,Nasty Plot,90,dark,-,-
+151,8,Aura Sphere,100,fighting,80,-
+151,9,Aura Sphere,100,fighting,80,-
+151,10,Aura Sphere,100,fighting,80,-
+151,11,Aura Sphere,100,fighting,80,-
+151,14,Aura Sphere,100,fighting,80,-
+151,15,Aura Sphere,100,fighting,80,-
+151,16,Aura Sphere,100,fighting,80,-

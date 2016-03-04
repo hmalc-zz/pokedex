@@ -1,173 +1,173 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-385,jirachi,5,38,Double-Edge,1,35,
-385,jirachi,5,93,Confusion,1,1,2
-385,jirachi,5,94,Psychic,1,20,
-385,jirachi,5,129,Swift,1,10,
-385,jirachi,5,156,Rest,1,5,
-385,jirachi,5,156,Rest,1,30,
-385,jirachi,5,248,Future Sight,1,40,
-385,jirachi,5,270,Helping Hand,1,15,
-385,jirachi,5,273,Wish,1,1,1
-385,jirachi,5,287,Refresh,1,25,
-385,jirachi,5,322,Cosmic Power,1,45,
-385,jirachi,5,353,Doom Desire,1,50,
-385,jirachi,6,38,Double-Edge,1,35,
-385,jirachi,6,93,Confusion,1,1,2
-385,jirachi,6,94,Psychic,1,20,
-385,jirachi,6,129,Swift,1,10,
-385,jirachi,6,156,Rest,1,5,
-385,jirachi,6,156,Rest,1,30,
-385,jirachi,6,248,Future Sight,1,40,
-385,jirachi,6,270,Helping Hand,1,15,
-385,jirachi,6,273,Wish,1,1,1
-385,jirachi,6,287,Refresh,1,25,
-385,jirachi,6,322,Cosmic Power,1,45,
-385,jirachi,6,353,Doom Desire,1,50,
-385,jirachi,7,38,Double-Edge,1,35,
-385,jirachi,7,93,Confusion,1,1,2
-385,jirachi,7,94,Psychic,1,20,
-385,jirachi,7,129,Swift,1,10,
-385,jirachi,7,156,Rest,1,5,
-385,jirachi,7,156,Rest,1,30,
-385,jirachi,7,248,Future Sight,1,40,
-385,jirachi,7,270,Helping Hand,1,15,
-385,jirachi,7,273,Wish,1,1,1
-385,jirachi,7,287,Refresh,1,25,
-385,jirachi,7,322,Cosmic Power,1,45,
-385,jirachi,7,353,Doom Desire,1,50,
-385,jirachi,8,38,Double-Edge,1,40,
-385,jirachi,8,93,Confusion,1,1,2
-385,jirachi,8,94,Psychic,1,20,
-385,jirachi,8,129,Swift,1,10,
-385,jirachi,8,156,Rest,1,5,
-385,jirachi,8,156,Rest,1,30,
-385,jirachi,8,248,Future Sight,1,55,
-385,jirachi,8,270,Helping Hand,1,15,
-385,jirachi,8,273,Wish,1,1,1
-385,jirachi,8,287,Refresh,1,25,
-385,jirachi,8,322,Cosmic Power,1,60,
-385,jirachi,8,353,Doom Desire,1,70,
-385,jirachi,8,356,Gravity,1,45,
-385,jirachi,8,361,Healing Wish,1,50,
-385,jirachi,8,387,Last Resort,1,65,
-385,jirachi,8,428,Zen Headbutt,1,35,
-385,jirachi,9,38,Double-Edge,1,40,
-385,jirachi,9,93,Confusion,1,1,2
-385,jirachi,9,94,Psychic,1,20,
-385,jirachi,9,129,Swift,1,10,
-385,jirachi,9,156,Rest,1,5,
-385,jirachi,9,156,Rest,1,30,
-385,jirachi,9,248,Future Sight,1,55,
-385,jirachi,9,270,Helping Hand,1,15,
-385,jirachi,9,273,Wish,1,1,1
-385,jirachi,9,287,Refresh,1,25,
-385,jirachi,9,322,Cosmic Power,1,60,
-385,jirachi,9,353,Doom Desire,1,70,
-385,jirachi,9,356,Gravity,1,45,
-385,jirachi,9,361,Healing Wish,1,50,
-385,jirachi,9,387,Last Resort,1,65,
-385,jirachi,9,428,Zen Headbutt,1,35,
-385,jirachi,10,38,Double-Edge,1,40,
-385,jirachi,10,93,Confusion,1,1,2
-385,jirachi,10,94,Psychic,1,20,
-385,jirachi,10,129,Swift,1,10,
-385,jirachi,10,156,Rest,1,5,
-385,jirachi,10,156,Rest,1,30,
-385,jirachi,10,248,Future Sight,1,55,
-385,jirachi,10,270,Helping Hand,1,15,
-385,jirachi,10,273,Wish,1,1,1
-385,jirachi,10,287,Refresh,1,25,
-385,jirachi,10,322,Cosmic Power,1,60,
-385,jirachi,10,353,Doom Desire,1,70,
-385,jirachi,10,356,Gravity,1,45,
-385,jirachi,10,361,Healing Wish,1,50,
-385,jirachi,10,387,Last Resort,1,65,
-385,jirachi,10,428,Zen Headbutt,1,35,
-385,jirachi,11,38,Double-Edge,1,40,
-385,jirachi,11,93,Confusion,1,1,2
-385,jirachi,11,94,Psychic,1,20,
-385,jirachi,11,129,Swift,1,10,
-385,jirachi,11,156,Rest,1,5,
-385,jirachi,11,156,Rest,1,30,
-385,jirachi,11,248,Future Sight,1,55,
-385,jirachi,11,270,Helping Hand,1,15,
-385,jirachi,11,273,Wish,1,1,1
-385,jirachi,11,287,Refresh,1,25,
-385,jirachi,11,322,Cosmic Power,1,60,
-385,jirachi,11,353,Doom Desire,1,70,
-385,jirachi,11,356,Gravity,1,45,
-385,jirachi,11,361,Healing Wish,1,50,
-385,jirachi,11,387,Last Resort,1,65,
-385,jirachi,11,428,Zen Headbutt,1,35,
-385,jirachi,12,38,Double-Edge,1,35,
-385,jirachi,12,93,Confusion,1,1,2
-385,jirachi,12,94,Psychic,1,20,
-385,jirachi,12,129,Swift,1,10,
-385,jirachi,12,156,Rest,1,5,
-385,jirachi,12,156,Rest,1,30,
-385,jirachi,12,248,Future Sight,1,40,
-385,jirachi,12,270,Helping Hand,1,15,
-385,jirachi,12,273,Wish,1,1,1
-385,jirachi,12,287,Refresh,1,25,
-385,jirachi,12,322,Cosmic Power,1,45,
-385,jirachi,12,353,Doom Desire,1,50,
-385,jirachi,13,38,Double-Edge,1,35,
-385,jirachi,13,93,Confusion,1,1,2
-385,jirachi,13,94,Psychic,1,20,
-385,jirachi,13,129,Swift,1,10,
-385,jirachi,13,156,Rest,1,5,
-385,jirachi,13,156,Rest,1,30,
-385,jirachi,13,248,Future Sight,1,40,
-385,jirachi,13,270,Helping Hand,1,15,
-385,jirachi,13,273,Wish,1,1,1
-385,jirachi,13,287,Refresh,1,25,
-385,jirachi,13,322,Cosmic Power,1,45,
-385,jirachi,13,353,Doom Desire,1,50,
-385,jirachi,14,38,Double-Edge,1,40,
-385,jirachi,14,93,Confusion,1,1,2
-385,jirachi,14,94,Psychic,1,20,
-385,jirachi,14,129,Swift,1,10,
-385,jirachi,14,156,Rest,1,5,
-385,jirachi,14,156,Rest,1,30,
-385,jirachi,14,248,Future Sight,1,55,
-385,jirachi,14,270,Helping Hand,1,15,
-385,jirachi,14,273,Wish,1,1,1
-385,jirachi,14,287,Refresh,1,25,
-385,jirachi,14,322,Cosmic Power,1,60,
-385,jirachi,14,353,Doom Desire,1,70,
-385,jirachi,14,356,Gravity,1,45,
-385,jirachi,14,361,Healing Wish,1,50,
-385,jirachi,14,387,Last Resort,1,65,
-385,jirachi,14,428,Zen Headbutt,1,35,
-385,jirachi,15,38,Double-Edge,1,40,
-385,jirachi,15,93,Confusion,1,1,2
-385,jirachi,15,94,Psychic,1,20,
-385,jirachi,15,129,Swift,1,10,
-385,jirachi,15,156,Rest,1,5,
-385,jirachi,15,156,Rest,1,30,
-385,jirachi,15,248,Future Sight,1,55,
-385,jirachi,15,270,Helping Hand,1,15,
-385,jirachi,15,273,Wish,1,1,1
-385,jirachi,15,287,Refresh,1,25,
-385,jirachi,15,322,Cosmic Power,1,60,
-385,jirachi,15,353,Doom Desire,1,70,
-385,jirachi,15,356,Gravity,1,45,
-385,jirachi,15,361,Healing Wish,1,50,
-385,jirachi,15,387,Last Resort,1,65,
-385,jirachi,15,428,Zen Headbutt,1,35,
-385,jirachi,16,38,Double-Edge,1,40,1
-385,jirachi,16,93,Confusion,1,1,2
-385,jirachi,16,94,Psychic,1,20,1
-385,jirachi,16,129,Swift,1,10,1
-385,jirachi,16,156,Rest,1,5,1
-385,jirachi,16,156,Rest,1,30,1
-385,jirachi,16,248,Future Sight,1,55,1
-385,jirachi,16,270,Helping Hand,1,15,1
-385,jirachi,16,273,Wish,1,1,1
-385,jirachi,16,287,Refresh,1,25,1
-385,jirachi,16,322,Cosmic Power,1,60,1
-385,jirachi,16,353,Doom Desire,1,70,1
-385,jirachi,16,356,Gravity,1,45,1
-385,jirachi,16,361,Healing Wish,1,50,1
-385,jirachi,16,387,Last Resort,1,65,1
-385,jirachi,16,428,Zen Headbutt,1,35,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+385,5,Confusion,1,psychic,50,100
+385,5,Wish,1,normal,-,-
+385,6,Confusion,1,psychic,50,100
+385,6,Wish,1,normal,-,-
+385,7,Confusion,1,psychic,50,100
+385,7,Wish,1,normal,-,-
+385,8,Confusion,1,psychic,50,100
+385,8,Wish,1,normal,-,-
+385,9,Confusion,1,psychic,50,100
+385,9,Wish,1,normal,-,-
+385,10,Confusion,1,psychic,50,100
+385,10,Wish,1,normal,-,-
+385,11,Confusion,1,psychic,50,100
+385,11,Wish,1,normal,-,-
+385,12,Confusion,1,psychic,50,100
+385,12,Wish,1,normal,-,-
+385,13,Confusion,1,psychic,50,100
+385,13,Wish,1,normal,-,-
+385,14,Confusion,1,psychic,50,100
+385,14,Wish,1,normal,-,-
+385,15,Confusion,1,psychic,50,100
+385,15,Wish,1,normal,-,-
+385,16,Confusion,1,psychic,50,100
+385,16,Wish,1,normal,-,-
+385,5,Rest,5,psychic,-,-
+385,6,Rest,5,psychic,-,-
+385,7,Rest,5,psychic,-,-
+385,8,Rest,5,psychic,-,-
+385,9,Rest,5,psychic,-,-
+385,10,Rest,5,psychic,-,-
+385,11,Rest,5,psychic,-,-
+385,12,Rest,5,psychic,-,-
+385,13,Rest,5,psychic,-,-
+385,14,Rest,5,psychic,-,-
+385,15,Rest,5,psychic,-,-
+385,16,Rest,5,psychic,-,-
+385,5,Swift,10,normal,60,-
+385,6,Swift,10,normal,60,-
+385,7,Swift,10,normal,60,-
+385,8,Swift,10,normal,60,-
+385,9,Swift,10,normal,60,-
+385,10,Swift,10,normal,60,-
+385,11,Swift,10,normal,60,-
+385,12,Swift,10,normal,60,-
+385,13,Swift,10,normal,60,-
+385,14,Swift,10,normal,60,-
+385,15,Swift,10,normal,60,-
+385,16,Swift,10,normal,60,-
+385,5,Helping Hand,15,normal,-,-
+385,6,Helping Hand,15,normal,-,-
+385,7,Helping Hand,15,normal,-,-
+385,8,Helping Hand,15,normal,-,-
+385,9,Helping Hand,15,normal,-,-
+385,10,Helping Hand,15,normal,-,-
+385,11,Helping Hand,15,normal,-,-
+385,12,Helping Hand,15,normal,-,-
+385,13,Helping Hand,15,normal,-,-
+385,14,Helping Hand,15,normal,-,-
+385,15,Helping Hand,15,normal,-,-
+385,16,Helping Hand,15,normal,-,-
+385,5,Psychic,20,psychic,90,100
+385,6,Psychic,20,psychic,90,100
+385,7,Psychic,20,psychic,90,100
+385,8,Psychic,20,psychic,90,100
+385,9,Psychic,20,psychic,90,100
+385,10,Psychic,20,psychic,90,100
+385,11,Psychic,20,psychic,90,100
+385,12,Psychic,20,psychic,90,100
+385,13,Psychic,20,psychic,90,100
+385,14,Psychic,20,psychic,90,100
+385,15,Psychic,20,psychic,90,100
+385,16,Psychic,20,psychic,90,100
+385,5,Refresh,25,normal,-,-
+385,6,Refresh,25,normal,-,-
+385,7,Refresh,25,normal,-,-
+385,8,Refresh,25,normal,-,-
+385,9,Refresh,25,normal,-,-
+385,10,Refresh,25,normal,-,-
+385,11,Refresh,25,normal,-,-
+385,12,Refresh,25,normal,-,-
+385,13,Refresh,25,normal,-,-
+385,14,Refresh,25,normal,-,-
+385,15,Refresh,25,normal,-,-
+385,16,Refresh,25,normal,-,-
+385,5,Rest,30,psychic,-,-
+385,6,Rest,30,psychic,-,-
+385,7,Rest,30,psychic,-,-
+385,8,Rest,30,psychic,-,-
+385,9,Rest,30,psychic,-,-
+385,10,Rest,30,psychic,-,-
+385,11,Rest,30,psychic,-,-
+385,12,Rest,30,psychic,-,-
+385,13,Rest,30,psychic,-,-
+385,14,Rest,30,psychic,-,-
+385,15,Rest,30,psychic,-,-
+385,16,Rest,30,psychic,-,-
+385,5,Double-Edge,35,normal,120,100
+385,6,Double-Edge,35,normal,120,100
+385,7,Double-Edge,35,normal,120,100
+385,8,Zen Headbutt,35,psychic,80,90
+385,9,Zen Headbutt,35,psychic,80,90
+385,10,Zen Headbutt,35,psychic,80,90
+385,11,Zen Headbutt,35,psychic,80,90
+385,12,Double-Edge,35,normal,120,100
+385,13,Double-Edge,35,normal,120,100
+385,14,Zen Headbutt,35,psychic,80,90
+385,15,Zen Headbutt,35,psychic,80,90
+385,16,Zen Headbutt,35,psychic,80,90
+385,5,Future Sight,40,psychic,120,100
+385,6,Future Sight,40,psychic,120,100
+385,7,Future Sight,40,psychic,120,100
+385,8,Double-Edge,40,normal,120,100
+385,9,Double-Edge,40,normal,120,100
+385,10,Double-Edge,40,normal,120,100
+385,11,Double-Edge,40,normal,120,100
+385,12,Future Sight,40,psychic,120,100
+385,13,Future Sight,40,psychic,120,100
+385,14,Double-Edge,40,normal,120,100
+385,15,Double-Edge,40,normal,120,100
+385,16,Double-Edge,40,normal,120,100
+385,5,Cosmic Power,45,psychic,-,-
+385,6,Cosmic Power,45,psychic,-,-
+385,7,Cosmic Power,45,psychic,-,-
+385,8,Gravity,45,psychic,-,-
+385,9,Gravity,45,psychic,-,-
+385,10,Gravity,45,psychic,-,-
+385,11,Gravity,45,psychic,-,-
+385,12,Cosmic Power,45,psychic,-,-
+385,13,Cosmic Power,45,psychic,-,-
+385,14,Gravity,45,psychic,-,-
+385,15,Gravity,45,psychic,-,-
+385,16,Gravity,45,psychic,-,-
+385,5,Doom Desire,50,steel,140,100
+385,6,Doom Desire,50,steel,140,100
+385,7,Doom Desire,50,steel,140,100
+385,8,Healing Wish,50,psychic,-,-
+385,9,Healing Wish,50,psychic,-,-
+385,10,Healing Wish,50,psychic,-,-
+385,11,Healing Wish,50,psychic,-,-
+385,12,Doom Desire,50,steel,140,100
+385,13,Doom Desire,50,steel,140,100
+385,14,Healing Wish,50,psychic,-,-
+385,15,Healing Wish,50,psychic,-,-
+385,16,Healing Wish,50,psychic,-,-
+385,8,Future Sight,55,psychic,120,100
+385,9,Future Sight,55,psychic,120,100
+385,10,Future Sight,55,psychic,120,100
+385,11,Future Sight,55,psychic,120,100
+385,14,Future Sight,55,psychic,120,100
+385,15,Future Sight,55,psychic,120,100
+385,16,Future Sight,55,psychic,120,100
+385,8,Cosmic Power,60,psychic,-,-
+385,9,Cosmic Power,60,psychic,-,-
+385,10,Cosmic Power,60,psychic,-,-
+385,11,Cosmic Power,60,psychic,-,-
+385,14,Cosmic Power,60,psychic,-,-
+385,15,Cosmic Power,60,psychic,-,-
+385,16,Cosmic Power,60,psychic,-,-
+385,8,Last Resort,65,normal,140,100
+385,9,Last Resort,65,normal,140,100
+385,10,Last Resort,65,normal,140,100
+385,11,Last Resort,65,normal,140,100
+385,14,Last Resort,65,normal,140,100
+385,15,Last Resort,65,normal,140,100
+385,16,Last Resort,65,normal,140,100
+385,8,Doom Desire,70,steel,140,100
+385,9,Doom Desire,70,steel,140,100
+385,10,Doom Desire,70,steel,140,100
+385,11,Doom Desire,70,steel,140,100
+385,14,Doom Desire,70,steel,140,100
+385,15,Doom Desire,70,steel,140,100
+385,16,Doom Desire,70,steel,140,100

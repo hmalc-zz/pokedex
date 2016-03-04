@@ -1,43 +1,43 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-265,wurmple,5,33,Tackle,1,1,1
-265,wurmple,5,40,Poison Sting,1,5,
-265,wurmple,5,81,String Shot,1,1,2
-265,wurmple,6,33,Tackle,1,1,1
-265,wurmple,6,40,Poison Sting,1,5,
-265,wurmple,6,81,String Shot,1,1,2
-265,wurmple,7,33,Tackle,1,1,1
-265,wurmple,7,40,Poison Sting,1,5,
-265,wurmple,7,81,String Shot,1,1,2
-265,wurmple,8,33,Tackle,1,1,1
-265,wurmple,8,40,Poison Sting,1,5,
-265,wurmple,8,81,String Shot,1,1,2
-265,wurmple,9,33,Tackle,1,1,1
-265,wurmple,9,40,Poison Sting,1,5,
-265,wurmple,9,81,String Shot,1,1,2
-265,wurmple,9,450,Bug Bite,1,15,
-265,wurmple,10,33,Tackle,1,1,1
-265,wurmple,10,40,Poison Sting,1,5,
-265,wurmple,10,81,String Shot,1,1,2
-265,wurmple,10,450,Bug Bite,1,15,
-265,wurmple,11,33,Tackle,1,1,1
-265,wurmple,11,40,Poison Sting,1,5,
-265,wurmple,11,81,String Shot,1,1,2
-265,wurmple,11,450,Bug Bite,1,15,
-265,wurmple,12,33,Tackle,1,1,1
-265,wurmple,12,40,Poison Sting,1,5,
-265,wurmple,12,81,String Shot,1,1,2
-265,wurmple,13,33,Tackle,1,1,1
-265,wurmple,13,40,Poison Sting,1,5,
-265,wurmple,13,81,String Shot,1,1,2
-265,wurmple,14,33,Tackle,1,1,1
-265,wurmple,14,40,Poison Sting,1,5,
-265,wurmple,14,81,String Shot,1,1,2
-265,wurmple,14,450,Bug Bite,1,15,
-265,wurmple,15,33,Tackle,1,1,1
-265,wurmple,15,40,Poison Sting,1,5,
-265,wurmple,15,81,String Shot,1,1,2
-265,wurmple,15,450,Bug Bite,1,15,
-265,wurmple,16,33,Tackle,1,1,1
-265,wurmple,16,40,Poison Sting,1,5,1
-265,wurmple,16,81,String Shot,1,1,2
-265,wurmple,16,450,Bug Bite,1,15,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+265,5,Tackle,1,normal,50,100
+265,5,String Shot,1,bug,-,95
+265,6,Tackle,1,normal,50,100
+265,6,String Shot,1,bug,-,95
+265,7,Tackle,1,normal,50,100
+265,7,String Shot,1,bug,-,95
+265,8,Tackle,1,normal,50,100
+265,8,String Shot,1,bug,-,95
+265,9,Tackle,1,normal,50,100
+265,9,String Shot,1,bug,-,95
+265,10,Tackle,1,normal,50,100
+265,10,String Shot,1,bug,-,95
+265,11,Tackle,1,normal,50,100
+265,11,String Shot,1,bug,-,95
+265,12,Tackle,1,normal,50,100
+265,12,String Shot,1,bug,-,95
+265,13,Tackle,1,normal,50,100
+265,13,String Shot,1,bug,-,95
+265,14,Tackle,1,normal,50,100
+265,14,String Shot,1,bug,-,95
+265,15,Tackle,1,normal,50,100
+265,15,String Shot,1,bug,-,95
+265,16,Tackle,1,normal,50,100
+265,16,String Shot,1,bug,-,95
+265,5,Poison Sting,5,poison,15,100
+265,6,Poison Sting,5,poison,15,100
+265,7,Poison Sting,5,poison,15,100
+265,8,Poison Sting,5,poison,15,100
+265,9,Poison Sting,5,poison,15,100
+265,10,Poison Sting,5,poison,15,100
+265,11,Poison Sting,5,poison,15,100
+265,12,Poison Sting,5,poison,15,100
+265,13,Poison Sting,5,poison,15,100
+265,14,Poison Sting,5,poison,15,100
+265,15,Poison Sting,5,poison,15,100
+265,16,Poison Sting,5,poison,15,100
+265,9,Bug Bite,15,bug,60,100
+265,10,Bug Bite,15,bug,60,100
+265,11,Bug Bite,15,bug,60,100
+265,14,Bug Bite,15,bug,60,100
+265,15,Bug Bite,15,bug,60,100
+265,16,Bug Bite,15,bug,60,100

@@ -1,187 +1,187 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-102,exeggcute,1,73,Leech Seed,1,28,
-102,exeggcute,1,76,Solar Beam,1,42,
-102,exeggcute,1,77,Poison Powder,1,37,
-102,exeggcute,1,78,Stun Spore,1,32,
-102,exeggcute,1,79,Sleep Powder,1,48,
-102,exeggcute,1,95,Hypnosis,1,1,2
-102,exeggcute,1,115,Reflect,1,25,
-102,exeggcute,1,140,Barrage,1,1,1
-102,exeggcute,2,73,Leech Seed,1,28,
-102,exeggcute,2,76,Solar Beam,1,42,
-102,exeggcute,2,77,Poison Powder,1,37,
-102,exeggcute,2,78,Stun Spore,1,32,
-102,exeggcute,2,79,Sleep Powder,1,48,
-102,exeggcute,2,95,Hypnosis,1,1,2
-102,exeggcute,2,115,Reflect,1,25,
-102,exeggcute,2,140,Barrage,1,1,1
-102,exeggcute,3,73,Leech Seed,1,13,
-102,exeggcute,3,76,Solar Beam,1,43,
-102,exeggcute,3,77,Poison Powder,1,31,
-102,exeggcute,3,78,Stun Spore,1,25,
-102,exeggcute,3,79,Sleep Powder,1,37,
-102,exeggcute,3,93,Confusion,1,19,
-102,exeggcute,3,95,Hypnosis,1,1,2
-102,exeggcute,3,115,Reflect,1,7,
-102,exeggcute,3,140,Barrage,1,1,1
-102,exeggcute,4,73,Leech Seed,1,13,
-102,exeggcute,4,76,Solar Beam,1,43,
-102,exeggcute,4,77,Poison Powder,1,31,
-102,exeggcute,4,78,Stun Spore,1,25,
-102,exeggcute,4,79,Sleep Powder,1,37,
-102,exeggcute,4,93,Confusion,1,19,
-102,exeggcute,4,95,Hypnosis,1,1,2
-102,exeggcute,4,115,Reflect,1,7,
-102,exeggcute,4,140,Barrage,1,1,1
-102,exeggcute,5,73,Leech Seed,1,13,
-102,exeggcute,5,76,Solar Beam,1,43,
-102,exeggcute,5,77,Poison Powder,1,31,
-102,exeggcute,5,78,Stun Spore,1,25,
-102,exeggcute,5,79,Sleep Powder,1,37,
-102,exeggcute,5,93,Confusion,1,19,
-102,exeggcute,5,95,Hypnosis,1,1,3
-102,exeggcute,5,115,Reflect,1,7,
-102,exeggcute,5,140,Barrage,1,1,1
-102,exeggcute,5,253,Uproar,1,1,2
-102,exeggcute,6,73,Leech Seed,1,13,
-102,exeggcute,6,76,Solar Beam,1,43,
-102,exeggcute,6,77,Poison Powder,1,31,
-102,exeggcute,6,78,Stun Spore,1,25,
-102,exeggcute,6,79,Sleep Powder,1,37,
-102,exeggcute,6,93,Confusion,1,19,
-102,exeggcute,6,95,Hypnosis,1,1,3
-102,exeggcute,6,115,Reflect,1,7,
-102,exeggcute,6,140,Barrage,1,1,1
-102,exeggcute,6,253,Uproar,1,1,2
-102,exeggcute,7,73,Leech Seed,1,13,
-102,exeggcute,7,76,Solar Beam,1,43,
-102,exeggcute,7,77,Poison Powder,1,31,
-102,exeggcute,7,78,Stun Spore,1,25,
-102,exeggcute,7,79,Sleep Powder,1,37,
-102,exeggcute,7,93,Confusion,1,19,
-102,exeggcute,7,95,Hypnosis,1,1,3
-102,exeggcute,7,115,Reflect,1,7,
-102,exeggcute,7,140,Barrage,1,1,1
-102,exeggcute,7,253,Uproar,1,1,2
-102,exeggcute,8,73,Leech Seed,1,11,
-102,exeggcute,8,76,Solar Beam,1,43,
-102,exeggcute,8,77,Poison Powder,1,21,
-102,exeggcute,8,78,Stun Spore,1,19,
-102,exeggcute,8,79,Sleep Powder,1,23,
-102,exeggcute,8,93,Confusion,1,27,
-102,exeggcute,8,94,Psychic,1,47,
-102,exeggcute,8,95,Hypnosis,1,1,3
-102,exeggcute,8,115,Reflect,1,7,
-102,exeggcute,8,140,Barrage,1,1,1
-102,exeggcute,8,253,Uproar,1,1,2
-102,exeggcute,8,331,Bullet Seed,1,17,
-102,exeggcute,8,363,Natural Gift,1,37,
-102,exeggcute,8,388,Worry Seed,1,33,
-102,exeggcute,9,73,Leech Seed,1,11,
-102,exeggcute,9,76,Solar Beam,1,43,
-102,exeggcute,9,77,Poison Powder,1,21,
-102,exeggcute,9,78,Stun Spore,1,19,
-102,exeggcute,9,79,Sleep Powder,1,23,
-102,exeggcute,9,93,Confusion,1,27,
-102,exeggcute,9,94,Psychic,1,47,
-102,exeggcute,9,95,Hypnosis,1,1,3
-102,exeggcute,9,115,Reflect,1,7,
-102,exeggcute,9,140,Barrage,1,1,1
-102,exeggcute,9,253,Uproar,1,1,2
-102,exeggcute,9,331,Bullet Seed,1,17,
-102,exeggcute,9,363,Natural Gift,1,37,
-102,exeggcute,9,388,Worry Seed,1,33,
-102,exeggcute,10,73,Leech Seed,1,11,
-102,exeggcute,10,76,Solar Beam,1,43,
-102,exeggcute,10,77,Poison Powder,1,21,
-102,exeggcute,10,78,Stun Spore,1,19,
-102,exeggcute,10,79,Sleep Powder,1,23,
-102,exeggcute,10,93,Confusion,1,27,
-102,exeggcute,10,94,Psychic,1,47,
-102,exeggcute,10,95,Hypnosis,1,1,3
-102,exeggcute,10,115,Reflect,1,7,
-102,exeggcute,10,140,Barrage,1,1,1
-102,exeggcute,10,253,Uproar,1,1,2
-102,exeggcute,10,331,Bullet Seed,1,17,
-102,exeggcute,10,363,Natural Gift,1,37,
-102,exeggcute,10,388,Worry Seed,1,33,
-102,exeggcute,11,73,Leech Seed,1,11,
-102,exeggcute,11,76,Solar Beam,1,43,
-102,exeggcute,11,77,Poison Powder,1,21,
-102,exeggcute,11,78,Stun Spore,1,19,
-102,exeggcute,11,79,Sleep Powder,1,23,
-102,exeggcute,11,93,Confusion,1,27,
-102,exeggcute,11,94,Psychic,1,47,
-102,exeggcute,11,95,Hypnosis,1,1,3
-102,exeggcute,11,115,Reflect,1,7,
-102,exeggcute,11,140,Barrage,1,1,1
-102,exeggcute,11,253,Uproar,1,1,2
-102,exeggcute,11,331,Bullet Seed,1,17,
-102,exeggcute,11,363,Natural Gift,1,37,
-102,exeggcute,11,388,Worry Seed,1,33,
-102,exeggcute,11,516,Bestow,1,53,
-102,exeggcute,12,73,Leech Seed,1,13,
-102,exeggcute,12,76,Solar Beam,1,43,
-102,exeggcute,12,77,Poison Powder,1,31,
-102,exeggcute,12,78,Stun Spore,1,25,
-102,exeggcute,12,79,Sleep Powder,1,37,
-102,exeggcute,12,93,Confusion,1,19,
-102,exeggcute,12,95,Hypnosis,1,1,3
-102,exeggcute,12,115,Reflect,1,7,
-102,exeggcute,12,140,Barrage,1,1,1
-102,exeggcute,12,253,Uproar,1,1,2
-102,exeggcute,13,73,Leech Seed,1,13,
-102,exeggcute,13,76,Solar Beam,1,43,
-102,exeggcute,13,77,Poison Powder,1,31,
-102,exeggcute,13,78,Stun Spore,1,25,
-102,exeggcute,13,79,Sleep Powder,1,37,
-102,exeggcute,13,93,Confusion,1,19,
-102,exeggcute,13,95,Hypnosis,1,1,3
-102,exeggcute,13,115,Reflect,1,7,
-102,exeggcute,13,140,Barrage,1,1,1
-102,exeggcute,13,253,Uproar,1,1,2
-102,exeggcute,14,73,Leech Seed,1,11,
-102,exeggcute,14,76,Solar Beam,1,43,
-102,exeggcute,14,77,Poison Powder,1,21,
-102,exeggcute,14,78,Stun Spore,1,19,
-102,exeggcute,14,79,Sleep Powder,1,23,
-102,exeggcute,14,93,Confusion,1,27,
-102,exeggcute,14,95,Hypnosis,1,1,3
-102,exeggcute,14,115,Reflect,1,7,
-102,exeggcute,14,140,Barrage,1,1,1
-102,exeggcute,14,253,Uproar,1,1,2
-102,exeggcute,14,326,Extrasensory,1,47,
-102,exeggcute,14,331,Bullet Seed,1,17,
-102,exeggcute,14,363,Natural Gift,1,37,
-102,exeggcute,14,388,Worry Seed,1,33,
-102,exeggcute,14,516,Bestow,1,53,
-102,exeggcute,15,73,Leech Seed,1,11,
-102,exeggcute,15,76,Solar Beam,1,43,
-102,exeggcute,15,77,Poison Powder,1,21,
-102,exeggcute,15,78,Stun Spore,1,19,
-102,exeggcute,15,79,Sleep Powder,1,23,
-102,exeggcute,15,93,Confusion,1,27,
-102,exeggcute,15,95,Hypnosis,1,1,3
-102,exeggcute,15,115,Reflect,1,7,
-102,exeggcute,15,140,Barrage,1,1,1
-102,exeggcute,15,253,Uproar,1,1,2
-102,exeggcute,15,326,Extrasensory,1,47,
-102,exeggcute,15,331,Bullet Seed,1,17,
-102,exeggcute,15,363,Natural Gift,1,37,
-102,exeggcute,15,388,Worry Seed,1,33,
-102,exeggcute,15,516,Bestow,1,50,
-102,exeggcute,16,73,Leech Seed,1,11,1
-102,exeggcute,16,76,Solar Beam,1,43,1
-102,exeggcute,16,77,Poison Powder,1,21,1
-102,exeggcute,16,78,Stun Spore,1,19,1
-102,exeggcute,16,79,Sleep Powder,1,23,1
-102,exeggcute,16,93,Confusion,1,27,1
-102,exeggcute,16,95,Hypnosis,1,1,3
-102,exeggcute,16,115,Reflect,1,7,1
-102,exeggcute,16,140,Barrage,1,1,1
-102,exeggcute,16,253,Uproar,1,1,2
-102,exeggcute,16,326,Extrasensory,1,47,1
-102,exeggcute,16,331,Bullet Seed,1,17,1
-102,exeggcute,16,363,Natural Gift,1,37,1
-102,exeggcute,16,388,Worry Seed,1,33,1
-102,exeggcute,16,516,Bestow,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+102,1,Hypnosis,1,psychic,-,60
+102,1,Barrage,1,normal,15,85
+102,2,Hypnosis,1,psychic,-,60
+102,2,Barrage,1,normal,15,85
+102,3,Hypnosis,1,psychic,-,60
+102,3,Barrage,1,normal,15,85
+102,4,Hypnosis,1,psychic,-,60
+102,4,Barrage,1,normal,15,85
+102,5,Hypnosis,1,psychic,-,60
+102,5,Barrage,1,normal,15,85
+102,5,Uproar,1,normal,90,100
+102,6,Hypnosis,1,psychic,-,60
+102,6,Barrage,1,normal,15,85
+102,6,Uproar,1,normal,90,100
+102,7,Hypnosis,1,psychic,-,60
+102,7,Barrage,1,normal,15,85
+102,7,Uproar,1,normal,90,100
+102,8,Hypnosis,1,psychic,-,60
+102,8,Barrage,1,normal,15,85
+102,8,Uproar,1,normal,90,100
+102,9,Hypnosis,1,psychic,-,60
+102,9,Barrage,1,normal,15,85
+102,9,Uproar,1,normal,90,100
+102,10,Hypnosis,1,psychic,-,60
+102,10,Barrage,1,normal,15,85
+102,10,Uproar,1,normal,90,100
+102,11,Hypnosis,1,psychic,-,60
+102,11,Barrage,1,normal,15,85
+102,11,Uproar,1,normal,90,100
+102,12,Hypnosis,1,psychic,-,60
+102,12,Barrage,1,normal,15,85
+102,12,Uproar,1,normal,90,100
+102,13,Hypnosis,1,psychic,-,60
+102,13,Barrage,1,normal,15,85
+102,13,Uproar,1,normal,90,100
+102,14,Hypnosis,1,psychic,-,60
+102,14,Barrage,1,normal,15,85
+102,14,Uproar,1,normal,90,100
+102,15,Hypnosis,1,psychic,-,60
+102,15,Barrage,1,normal,15,85
+102,15,Uproar,1,normal,90,100
+102,16,Hypnosis,1,psychic,-,60
+102,16,Barrage,1,normal,15,85
+102,16,Uproar,1,normal,90,100
+102,3,Reflect,7,psychic,-,-
+102,4,Reflect,7,psychic,-,-
+102,5,Reflect,7,psychic,-,-
+102,6,Reflect,7,psychic,-,-
+102,7,Reflect,7,psychic,-,-
+102,8,Reflect,7,psychic,-,-
+102,9,Reflect,7,psychic,-,-
+102,10,Reflect,7,psychic,-,-
+102,11,Reflect,7,psychic,-,-
+102,12,Reflect,7,psychic,-,-
+102,13,Reflect,7,psychic,-,-
+102,14,Reflect,7,psychic,-,-
+102,15,Reflect,7,psychic,-,-
+102,16,Reflect,7,psychic,-,-
+102,8,Leech Seed,11,grass,-,90
+102,9,Leech Seed,11,grass,-,90
+102,10,Leech Seed,11,grass,-,90
+102,11,Leech Seed,11,grass,-,90
+102,14,Leech Seed,11,grass,-,90
+102,15,Leech Seed,11,grass,-,90
+102,16,Leech Seed,11,grass,-,90
+102,3,Leech Seed,13,grass,-,90
+102,4,Leech Seed,13,grass,-,90
+102,5,Leech Seed,13,grass,-,90
+102,6,Leech Seed,13,grass,-,90
+102,7,Leech Seed,13,grass,-,90
+102,12,Leech Seed,13,grass,-,90
+102,13,Leech Seed,13,grass,-,90
+102,8,Bullet Seed,17,grass,25,100
+102,9,Bullet Seed,17,grass,25,100
+102,10,Bullet Seed,17,grass,25,100
+102,11,Bullet Seed,17,grass,25,100
+102,14,Bullet Seed,17,grass,25,100
+102,15,Bullet Seed,17,grass,25,100
+102,16,Bullet Seed,17,grass,25,100
+102,3,Confusion,19,psychic,50,100
+102,4,Confusion,19,psychic,50,100
+102,5,Confusion,19,psychic,50,100
+102,6,Confusion,19,psychic,50,100
+102,7,Confusion,19,psychic,50,100
+102,8,Stun Spore,19,grass,-,75
+102,9,Stun Spore,19,grass,-,75
+102,10,Stun Spore,19,grass,-,75
+102,11,Stun Spore,19,grass,-,75
+102,12,Confusion,19,psychic,50,100
+102,13,Confusion,19,psychic,50,100
+102,14,Stun Spore,19,grass,-,75
+102,15,Stun Spore,19,grass,-,75
+102,16,Stun Spore,19,grass,-,75
+102,8,Poison Powder,21,poison,-,75
+102,9,Poison Powder,21,poison,-,75
+102,10,Poison Powder,21,poison,-,75
+102,11,Poison Powder,21,poison,-,75
+102,14,Poison Powder,21,poison,-,75
+102,15,Poison Powder,21,poison,-,75
+102,16,Poison Powder,21,poison,-,75
+102,8,Sleep Powder,23,grass,-,75
+102,9,Sleep Powder,23,grass,-,75
+102,10,Sleep Powder,23,grass,-,75
+102,11,Sleep Powder,23,grass,-,75
+102,14,Sleep Powder,23,grass,-,75
+102,15,Sleep Powder,23,grass,-,75
+102,16,Sleep Powder,23,grass,-,75
+102,1,Reflect,25,psychic,-,-
+102,2,Reflect,25,psychic,-,-
+102,3,Stun Spore,25,grass,-,75
+102,4,Stun Spore,25,grass,-,75
+102,5,Stun Spore,25,grass,-,75
+102,6,Stun Spore,25,grass,-,75
+102,7,Stun Spore,25,grass,-,75
+102,12,Stun Spore,25,grass,-,75
+102,13,Stun Spore,25,grass,-,75
+102,8,Confusion,27,psychic,50,100
+102,9,Confusion,27,psychic,50,100
+102,10,Confusion,27,psychic,50,100
+102,11,Confusion,27,psychic,50,100
+102,14,Confusion,27,psychic,50,100
+102,15,Confusion,27,psychic,50,100
+102,16,Confusion,27,psychic,50,100
+102,1,Leech Seed,28,grass,-,90
+102,2,Leech Seed,28,grass,-,90
+102,3,Poison Powder,31,poison,-,75
+102,4,Poison Powder,31,poison,-,75
+102,5,Poison Powder,31,poison,-,75
+102,6,Poison Powder,31,poison,-,75
+102,7,Poison Powder,31,poison,-,75
+102,12,Poison Powder,31,poison,-,75
+102,13,Poison Powder,31,poison,-,75
+102,1,Stun Spore,32,grass,-,75
+102,2,Stun Spore,32,grass,-,75
+102,8,Worry Seed,33,grass,-,100
+102,9,Worry Seed,33,grass,-,100
+102,10,Worry Seed,33,grass,-,100
+102,11,Worry Seed,33,grass,-,100
+102,14,Worry Seed,33,grass,-,100
+102,15,Worry Seed,33,grass,-,100
+102,16,Worry Seed,33,grass,-,100
+102,1,Poison Powder,37,poison,-,75
+102,2,Poison Powder,37,poison,-,75
+102,3,Sleep Powder,37,grass,-,75
+102,4,Sleep Powder,37,grass,-,75
+102,5,Sleep Powder,37,grass,-,75
+102,6,Sleep Powder,37,grass,-,75
+102,7,Sleep Powder,37,grass,-,75
+102,8,Natural Gift,37,normal,-,100
+102,9,Natural Gift,37,normal,-,100
+102,10,Natural Gift,37,normal,-,100
+102,11,Natural Gift,37,normal,-,100
+102,12,Sleep Powder,37,grass,-,75
+102,13,Sleep Powder,37,grass,-,75
+102,14,Natural Gift,37,normal,-,100
+102,15,Natural Gift,37,normal,-,100
+102,16,Natural Gift,37,normal,-,100
+102,1,Solar Beam,42,grass,120,100
+102,2,Solar Beam,42,grass,120,100
+102,3,Solar Beam,43,grass,120,100
+102,4,Solar Beam,43,grass,120,100
+102,5,Solar Beam,43,grass,120,100
+102,6,Solar Beam,43,grass,120,100
+102,7,Solar Beam,43,grass,120,100
+102,8,Solar Beam,43,grass,120,100
+102,9,Solar Beam,43,grass,120,100
+102,10,Solar Beam,43,grass,120,100
+102,11,Solar Beam,43,grass,120,100
+102,12,Solar Beam,43,grass,120,100
+102,13,Solar Beam,43,grass,120,100
+102,14,Solar Beam,43,grass,120,100
+102,15,Solar Beam,43,grass,120,100
+102,16,Solar Beam,43,grass,120,100
+102,8,Psychic,47,psychic,90,100
+102,9,Psychic,47,psychic,90,100
+102,10,Psychic,47,psychic,90,100
+102,11,Psychic,47,psychic,90,100
+102,14,Extrasensory,47,psychic,80,100
+102,15,Extrasensory,47,psychic,80,100
+102,16,Extrasensory,47,psychic,80,100
+102,1,Sleep Powder,48,grass,-,75
+102,2,Sleep Powder,48,grass,-,75
+102,15,Bestow,50,normal,-,-
+102,16,Bestow,50,normal,-,-
+102,11,Bestow,53,normal,-,-
+102,14,Bestow,53,normal,-,-

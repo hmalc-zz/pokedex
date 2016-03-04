@@ -1,69 +1,69 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-572,minccino,11,1,Pound,1,1,
-572,minccino,11,3,Double Slap,1,13,
-572,minccino,11,21,Slam,1,37,
-572,minccino,11,45,Growl,1,3,
-572,minccino,11,47,Sing,1,21,
-572,minccino,11,129,Swift,1,19,
-572,minccino,11,204,Charm,1,27,
-572,minccino,11,227,Encore,1,15,
-572,minccino,11,270,Helping Hand,1,7,
-572,minccino,11,304,Hyper Voice,1,43,
-572,minccino,11,321,Tickle,1,9,
-572,minccino,11,358,Wake-Up Slap,1,31,
-572,minccino,11,387,Last Resort,1,45,
-572,minccino,11,445,Captivate,1,39,
-572,minccino,11,495,After You,1,49,
-572,minccino,11,497,Echoed Voice,1,33,
-572,minccino,11,541,Tail Slap,1,25,
-572,minccino,14,1,Pound,1,1,
-572,minccino,14,3,Double Slap,1,13,
-572,minccino,14,21,Slam,1,37,
-572,minccino,14,45,Growl,1,3,
-572,minccino,14,47,Sing,1,21,
-572,minccino,14,129,Swift,1,19,
-572,minccino,14,204,Charm,1,27,
-572,minccino,14,227,Encore,1,15,
-572,minccino,14,270,Helping Hand,1,7,
-572,minccino,14,304,Hyper Voice,1,43,
-572,minccino,14,321,Tickle,1,9,
-572,minccino,14,358,Wake-Up Slap,1,31,
-572,minccino,14,387,Last Resort,1,45,
-572,minccino,14,445,Captivate,1,39,
-572,minccino,14,495,After You,1,49,
-572,minccino,14,497,Echoed Voice,1,33,
-572,minccino,14,541,Tail Slap,1,25,
-572,minccino,15,1,Pound,1,1,
-572,minccino,15,3,Double Slap,1,13,
-572,minccino,15,21,Slam,1,37,
-572,minccino,15,47,Sing,1,21,
-572,minccino,15,129,Swift,1,19,
-572,minccino,15,204,Charm,1,27,
-572,minccino,15,227,Encore,1,15,
-572,minccino,15,270,Helping Hand,1,7,
-572,minccino,15,304,Hyper Voice,1,43,
-572,minccino,15,321,Tickle,1,9,
-572,minccino,15,358,Wake-Up Slap,1,31,
-572,minccino,15,387,Last Resort,1,45,
-572,minccino,15,445,Captivate,1,39,
-572,minccino,15,495,After You,1,49,
-572,minccino,15,497,Echoed Voice,1,33,
-572,minccino,15,541,Tail Slap,1,25,
-572,minccino,15,608,Baby-Doll Eyes,1,3,
-572,minccino,16,1,Pound,1,1,1
-572,minccino,16,3,Double Slap,1,13,1
-572,minccino,16,21,Slam,1,37,1
-572,minccino,16,47,Sing,1,21,1
-572,minccino,16,129,Swift,1,19,1
-572,minccino,16,204,Charm,1,27,1
-572,minccino,16,227,Encore,1,15,1
-572,minccino,16,270,Helping Hand,1,7,1
-572,minccino,16,304,Hyper Voice,1,43,1
-572,minccino,16,321,Tickle,1,9,1
-572,minccino,16,358,Wake-Up Slap,1,31,1
-572,minccino,16,387,Last Resort,1,45,1
-572,minccino,16,445,Captivate,1,39,1
-572,minccino,16,495,After You,1,49,1
-572,minccino,16,497,Echoed Voice,1,33,1
-572,minccino,16,541,Tail Slap,1,25,1
-572,minccino,16,608,Baby-Doll Eyes,1,3,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+572,11,Pound,1,normal,40,100
+572,14,Pound,1,normal,40,100
+572,15,Pound,1,normal,40,100
+572,16,Pound,1,normal,40,100
+572,11,Growl,3,normal,-,100
+572,14,Growl,3,normal,-,100
+572,15,Baby-Doll Eyes,3,fairy,-,100
+572,16,Baby-Doll Eyes,3,fairy,-,100
+572,11,Helping Hand,7,normal,-,-
+572,14,Helping Hand,7,normal,-,-
+572,15,Helping Hand,7,normal,-,-
+572,16,Helping Hand,7,normal,-,-
+572,11,Tickle,9,normal,-,100
+572,14,Tickle,9,normal,-,100
+572,15,Tickle,9,normal,-,100
+572,16,Tickle,9,normal,-,100
+572,11,Double Slap,13,normal,15,85
+572,14,Double Slap,13,normal,15,85
+572,15,Double Slap,13,normal,15,85
+572,16,Double Slap,13,normal,15,85
+572,11,Encore,15,normal,-,100
+572,14,Encore,15,normal,-,100
+572,15,Encore,15,normal,-,100
+572,16,Encore,15,normal,-,100
+572,11,Swift,19,normal,60,-
+572,14,Swift,19,normal,60,-
+572,15,Swift,19,normal,60,-
+572,16,Swift,19,normal,60,-
+572,11,Sing,21,normal,-,55
+572,14,Sing,21,normal,-,55
+572,15,Sing,21,normal,-,55
+572,16,Sing,21,normal,-,55
+572,11,Tail Slap,25,normal,25,85
+572,14,Tail Slap,25,normal,25,85
+572,15,Tail Slap,25,normal,25,85
+572,16,Tail Slap,25,normal,25,85
+572,11,Charm,27,fairy,-,100
+572,14,Charm,27,fairy,-,100
+572,15,Charm,27,fairy,-,100
+572,16,Charm,27,fairy,-,100
+572,11,Wake-Up Slap,31,fighting,70,100
+572,14,Wake-Up Slap,31,fighting,70,100
+572,15,Wake-Up Slap,31,fighting,70,100
+572,16,Wake-Up Slap,31,fighting,70,100
+572,11,Echoed Voice,33,normal,40,100
+572,14,Echoed Voice,33,normal,40,100
+572,15,Echoed Voice,33,normal,40,100
+572,16,Echoed Voice,33,normal,40,100
+572,11,Slam,37,normal,80,75
+572,14,Slam,37,normal,80,75
+572,15,Slam,37,normal,80,75
+572,16,Slam,37,normal,80,75
+572,11,Captivate,39,normal,-,100
+572,14,Captivate,39,normal,-,100
+572,15,Captivate,39,normal,-,100
+572,16,Captivate,39,normal,-,100
+572,11,Hyper Voice,43,normal,90,100
+572,14,Hyper Voice,43,normal,90,100
+572,15,Hyper Voice,43,normal,90,100
+572,16,Hyper Voice,43,normal,90,100
+572,11,Last Resort,45,normal,140,100
+572,14,Last Resort,45,normal,140,100
+572,15,Last Resort,45,normal,140,100
+572,16,Last Resort,45,normal,140,100
+572,11,After You,49,normal,-,-
+572,14,After You,49,normal,-,-
+572,15,After You,49,normal,-,-
+572,16,After You,49,normal,-,-

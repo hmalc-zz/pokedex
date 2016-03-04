@@ -1,69 +1,69 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-517,munna,11,60,Psybeam,1,11,
-517,munna,11,94,Psychic,1,37,
-517,munna,11,95,Hypnosis,1,19,
-517,munna,11,111,Defense Curl,1,1,2
-517,munna,11,138,Dream Eater,1,41,
-517,munna,11,149,Psywave,1,1,1
-517,munna,11,171,Nightmare,1,29,
-517,munna,11,236,Moonlight,1,17,
-517,munna,11,248,Future Sight,1,31,
-517,munna,11,281,Yawn,1,7,
-517,munna,11,286,Imprison,1,13,
-517,munna,11,347,Calm Mind,1,35,
-517,munna,11,381,Lucky Chant,1,5,
-517,munna,11,428,Zen Headbutt,1,23,
-517,munna,11,477,Telekinesis,1,43,
-517,munna,11,485,Synchronoise,1,25,
-517,munna,11,500,Stored Power,1,47,
-517,munna,14,60,Psybeam,1,11,
-517,munna,14,94,Psychic,1,37,
-517,munna,14,95,Hypnosis,1,19,
-517,munna,14,111,Defense Curl,1,1,2
-517,munna,14,138,Dream Eater,1,41,
-517,munna,14,149,Psywave,1,1,1
-517,munna,14,171,Nightmare,1,29,
-517,munna,14,236,Moonlight,1,17,
-517,munna,14,248,Future Sight,1,31,
-517,munna,14,281,Yawn,1,7,
-517,munna,14,286,Imprison,1,13,
-517,munna,14,347,Calm Mind,1,35,
-517,munna,14,381,Lucky Chant,1,5,
-517,munna,14,428,Zen Headbutt,1,23,
-517,munna,14,477,Telekinesis,1,43,
-517,munna,14,485,Synchronoise,1,25,
-517,munna,14,500,Stored Power,1,47,
-517,munna,15,60,Psybeam,1,11,
-517,munna,15,94,Psychic,1,37,
-517,munna,15,95,Hypnosis,1,19,
-517,munna,15,111,Defense Curl,1,1,2
-517,munna,15,138,Dream Eater,1,41,
-517,munna,15,149,Psywave,1,1,1
-517,munna,15,171,Nightmare,1,29,
-517,munna,15,236,Moonlight,1,17,
-517,munna,15,248,Future Sight,1,31,
-517,munna,15,281,Yawn,1,7,
-517,munna,15,286,Imprison,1,13,
-517,munna,15,347,Calm Mind,1,35,
-517,munna,15,381,Lucky Chant,1,5,
-517,munna,15,428,Zen Headbutt,1,23,
-517,munna,15,477,Telekinesis,1,43,
-517,munna,15,485,Synchronoise,1,25,
-517,munna,15,500,Stored Power,1,47,
-517,munna,16,60,Psybeam,1,11,1
-517,munna,16,94,Psychic,1,37,1
-517,munna,16,95,Hypnosis,1,19,1
-517,munna,16,111,Defense Curl,1,1,2
-517,munna,16,138,Dream Eater,1,41,1
-517,munna,16,149,Psywave,1,1,1
-517,munna,16,171,Nightmare,1,29,1
-517,munna,16,236,Moonlight,1,17,1
-517,munna,16,248,Future Sight,1,31,1
-517,munna,16,281,Yawn,1,7,1
-517,munna,16,286,Imprison,1,13,1
-517,munna,16,347,Calm Mind,1,35,1
-517,munna,16,381,Lucky Chant,1,5,1
-517,munna,16,428,Zen Headbutt,1,23,1
-517,munna,16,477,Telekinesis,1,43,1
-517,munna,16,485,Synchronoise,1,25,1
-517,munna,16,500,Stored Power,1,47,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+517,11,Defense Curl,1,normal,-,-
+517,11,Psywave,1,psychic,-,100
+517,14,Defense Curl,1,normal,-,-
+517,14,Psywave,1,psychic,-,100
+517,15,Defense Curl,1,normal,-,-
+517,15,Psywave,1,psychic,-,100
+517,16,Defense Curl,1,normal,-,-
+517,16,Psywave,1,psychic,-,100
+517,11,Lucky Chant,5,normal,-,-
+517,14,Lucky Chant,5,normal,-,-
+517,15,Lucky Chant,5,normal,-,-
+517,16,Lucky Chant,5,normal,-,-
+517,11,Yawn,7,normal,-,-
+517,14,Yawn,7,normal,-,-
+517,15,Yawn,7,normal,-,-
+517,16,Yawn,7,normal,-,-
+517,11,Psybeam,11,psychic,65,100
+517,14,Psybeam,11,psychic,65,100
+517,15,Psybeam,11,psychic,65,100
+517,16,Psybeam,11,psychic,65,100
+517,11,Imprison,13,psychic,-,-
+517,14,Imprison,13,psychic,-,-
+517,15,Imprison,13,psychic,-,-
+517,16,Imprison,13,psychic,-,-
+517,11,Moonlight,17,fairy,-,-
+517,14,Moonlight,17,fairy,-,-
+517,15,Moonlight,17,fairy,-,-
+517,16,Moonlight,17,fairy,-,-
+517,11,Hypnosis,19,psychic,-,60
+517,14,Hypnosis,19,psychic,-,60
+517,15,Hypnosis,19,psychic,-,60
+517,16,Hypnosis,19,psychic,-,60
+517,11,Zen Headbutt,23,psychic,80,90
+517,14,Zen Headbutt,23,psychic,80,90
+517,15,Zen Headbutt,23,psychic,80,90
+517,16,Zen Headbutt,23,psychic,80,90
+517,11,Synchronoise,25,psychic,120,100
+517,14,Synchronoise,25,psychic,120,100
+517,15,Synchronoise,25,psychic,120,100
+517,16,Synchronoise,25,psychic,120,100
+517,11,Nightmare,29,ghost,-,100
+517,14,Nightmare,29,ghost,-,100
+517,15,Nightmare,29,ghost,-,100
+517,16,Nightmare,29,ghost,-,100
+517,11,Future Sight,31,psychic,120,100
+517,14,Future Sight,31,psychic,120,100
+517,15,Future Sight,31,psychic,120,100
+517,16,Future Sight,31,psychic,120,100
+517,11,Calm Mind,35,psychic,-,-
+517,14,Calm Mind,35,psychic,-,-
+517,15,Calm Mind,35,psychic,-,-
+517,16,Calm Mind,35,psychic,-,-
+517,11,Psychic,37,psychic,90,100
+517,14,Psychic,37,psychic,90,100
+517,15,Psychic,37,psychic,90,100
+517,16,Psychic,37,psychic,90,100
+517,11,Dream Eater,41,psychic,100,100
+517,14,Dream Eater,41,psychic,100,100
+517,15,Dream Eater,41,psychic,100,100
+517,16,Dream Eater,41,psychic,100,100
+517,11,Telekinesis,43,psychic,-,-
+517,14,Telekinesis,43,psychic,-,-
+517,15,Telekinesis,43,psychic,-,-
+517,16,Telekinesis,43,psychic,-,-
+517,11,Stored Power,47,psychic,20,100
+517,14,Stored Power,47,psychic,20,100
+517,15,Stored Power,47,psychic,20,100
+517,16,Stored Power,47,psychic,20,100

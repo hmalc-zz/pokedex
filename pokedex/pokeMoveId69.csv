@@ -1,180 +1,180 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-69,bellsprout,1,21,Slam,1,42,
-69,bellsprout,1,22,Vine Whip,1,1,1
-69,bellsprout,1,35,Wrap,1,13,
-69,bellsprout,1,51,Acid,1,26,
-69,bellsprout,1,74,Growth,1,1,2
-69,bellsprout,1,75,Razor Leaf,1,33,
-69,bellsprout,1,77,Poison Powder,1,15,
-69,bellsprout,1,78,Stun Spore,1,21,
-69,bellsprout,1,79,Sleep Powder,1,18,
-69,bellsprout,2,21,Slam,1,42,
-69,bellsprout,2,22,Vine Whip,1,1,1
-69,bellsprout,2,35,Wrap,1,13,
-69,bellsprout,2,51,Acid,1,26,
-69,bellsprout,2,74,Growth,1,1,2
-69,bellsprout,2,75,Razor Leaf,1,33,
-69,bellsprout,2,77,Poison Powder,1,15,
-69,bellsprout,2,78,Stun Spore,1,21,
-69,bellsprout,2,79,Sleep Powder,1,18,
-69,bellsprout,3,21,Slam,1,45,
-69,bellsprout,3,22,Vine Whip,1,1,
-69,bellsprout,3,35,Wrap,1,11,
-69,bellsprout,3,51,Acid,1,23,
-69,bellsprout,3,74,Growth,1,6,
-69,bellsprout,3,75,Razor Leaf,1,37,
-69,bellsprout,3,77,Poison Powder,1,17,
-69,bellsprout,3,78,Stun Spore,1,19,
-69,bellsprout,3,79,Sleep Powder,1,15,
-69,bellsprout,3,230,Sweet Scent,1,30,
-69,bellsprout,4,21,Slam,1,45,
-69,bellsprout,4,22,Vine Whip,1,1,
-69,bellsprout,4,35,Wrap,1,11,
-69,bellsprout,4,51,Acid,1,23,
-69,bellsprout,4,74,Growth,1,6,
-69,bellsprout,4,75,Razor Leaf,1,37,
-69,bellsprout,4,77,Poison Powder,1,17,
-69,bellsprout,4,78,Stun Spore,1,19,
-69,bellsprout,4,79,Sleep Powder,1,15,
-69,bellsprout,4,230,Sweet Scent,1,30,
-69,bellsprout,5,21,Slam,1,45,
-69,bellsprout,5,22,Vine Whip,1,1,
-69,bellsprout,5,35,Wrap,1,11,
-69,bellsprout,5,51,Acid,1,23,
-69,bellsprout,5,74,Growth,1,6,
-69,bellsprout,5,75,Razor Leaf,1,37,
-69,bellsprout,5,77,Poison Powder,1,17,
-69,bellsprout,5,78,Stun Spore,1,19,
-69,bellsprout,5,79,Sleep Powder,1,15,
-69,bellsprout,5,230,Sweet Scent,1,30,
-69,bellsprout,6,21,Slam,1,45,
-69,bellsprout,6,22,Vine Whip,1,1,
-69,bellsprout,6,35,Wrap,1,11,
-69,bellsprout,6,51,Acid,1,23,
-69,bellsprout,6,74,Growth,1,6,
-69,bellsprout,6,75,Razor Leaf,1,37,
-69,bellsprout,6,77,Poison Powder,1,17,
-69,bellsprout,6,78,Stun Spore,1,19,
-69,bellsprout,6,79,Sleep Powder,1,15,
-69,bellsprout,6,230,Sweet Scent,1,30,
-69,bellsprout,7,21,Slam,1,45,
-69,bellsprout,7,22,Vine Whip,1,1,
-69,bellsprout,7,35,Wrap,1,11,
-69,bellsprout,7,51,Acid,1,23,
-69,bellsprout,7,74,Growth,1,6,
-69,bellsprout,7,75,Razor Leaf,1,37,
-69,bellsprout,7,77,Poison Powder,1,17,
-69,bellsprout,7,78,Stun Spore,1,19,
-69,bellsprout,7,79,Sleep Powder,1,15,
-69,bellsprout,7,230,Sweet Scent,1,30,
-69,bellsprout,8,21,Slam,1,41,
-69,bellsprout,8,22,Vine Whip,1,1,
-69,bellsprout,8,35,Wrap,1,11,
-69,bellsprout,8,51,Acid,1,23,
-69,bellsprout,8,74,Growth,1,7,
-69,bellsprout,8,75,Razor Leaf,1,39,
-69,bellsprout,8,77,Poison Powder,1,15,
-69,bellsprout,8,78,Stun Spore,1,17,
-69,bellsprout,8,79,Sleep Powder,1,13,
-69,bellsprout,8,230,Sweet Scent,1,29,
-69,bellsprout,8,282,Knock Off,1,27,
-69,bellsprout,8,378,Wring Out,1,47,
-69,bellsprout,8,380,Gastro Acid,1,35,
-69,bellsprout,9,21,Slam,1,41,
-69,bellsprout,9,22,Vine Whip,1,1,
-69,bellsprout,9,35,Wrap,1,11,
-69,bellsprout,9,51,Acid,1,23,
-69,bellsprout,9,74,Growth,1,7,
-69,bellsprout,9,75,Razor Leaf,1,39,
-69,bellsprout,9,77,Poison Powder,1,15,
-69,bellsprout,9,78,Stun Spore,1,17,
-69,bellsprout,9,79,Sleep Powder,1,13,
-69,bellsprout,9,230,Sweet Scent,1,29,
-69,bellsprout,9,282,Knock Off,1,27,
-69,bellsprout,9,378,Wring Out,1,47,
-69,bellsprout,9,380,Gastro Acid,1,35,
-69,bellsprout,10,21,Slam,1,41,
-69,bellsprout,10,22,Vine Whip,1,1,
-69,bellsprout,10,35,Wrap,1,11,
-69,bellsprout,10,51,Acid,1,23,
-69,bellsprout,10,74,Growth,1,7,
-69,bellsprout,10,75,Razor Leaf,1,39,
-69,bellsprout,10,77,Poison Powder,1,15,
-69,bellsprout,10,78,Stun Spore,1,17,
-69,bellsprout,10,79,Sleep Powder,1,13,
-69,bellsprout,10,230,Sweet Scent,1,29,
-69,bellsprout,10,282,Knock Off,1,27,
-69,bellsprout,10,378,Wring Out,1,47,
-69,bellsprout,10,380,Gastro Acid,1,35,
-69,bellsprout,11,21,Slam,1,41,
-69,bellsprout,11,22,Vine Whip,1,1,
-69,bellsprout,11,35,Wrap,1,11,
-69,bellsprout,11,51,Acid,1,23,
-69,bellsprout,11,74,Growth,1,7,
-69,bellsprout,11,75,Razor Leaf,1,39,
-69,bellsprout,11,77,Poison Powder,1,15,
-69,bellsprout,11,78,Stun Spore,1,17,
-69,bellsprout,11,79,Sleep Powder,1,13,
-69,bellsprout,11,230,Sweet Scent,1,29,
-69,bellsprout,11,282,Knock Off,1,27,
-69,bellsprout,11,378,Wring Out,1,47,
-69,bellsprout,11,380,Gastro Acid,1,35,
-69,bellsprout,12,21,Slam,1,45,
-69,bellsprout,12,22,Vine Whip,1,1,
-69,bellsprout,12,35,Wrap,1,11,
-69,bellsprout,12,51,Acid,1,23,
-69,bellsprout,12,74,Growth,1,6,
-69,bellsprout,12,75,Razor Leaf,1,37,
-69,bellsprout,12,77,Poison Powder,1,17,
-69,bellsprout,12,78,Stun Spore,1,19,
-69,bellsprout,12,79,Sleep Powder,1,15,
-69,bellsprout,12,230,Sweet Scent,1,30,
-69,bellsprout,13,21,Slam,1,45,
-69,bellsprout,13,22,Vine Whip,1,1,
-69,bellsprout,13,35,Wrap,1,11,
-69,bellsprout,13,51,Acid,1,23,
-69,bellsprout,13,74,Growth,1,6,
-69,bellsprout,13,75,Razor Leaf,1,37,
-69,bellsprout,13,77,Poison Powder,1,17,
-69,bellsprout,13,78,Stun Spore,1,19,
-69,bellsprout,13,79,Sleep Powder,1,15,
-69,bellsprout,13,230,Sweet Scent,1,30,
-69,bellsprout,14,21,Slam,1,41,
-69,bellsprout,14,22,Vine Whip,1,1,
-69,bellsprout,14,35,Wrap,1,11,
-69,bellsprout,14,51,Acid,1,23,
-69,bellsprout,14,74,Growth,1,7,
-69,bellsprout,14,75,Razor Leaf,1,39,
-69,bellsprout,14,77,Poison Powder,1,15,
-69,bellsprout,14,78,Stun Spore,1,17,
-69,bellsprout,14,79,Sleep Powder,1,13,
-69,bellsprout,14,230,Sweet Scent,1,29,
-69,bellsprout,14,282,Knock Off,1,27,
-69,bellsprout,14,378,Wring Out,1,47,
-69,bellsprout,14,380,Gastro Acid,1,35,
-69,bellsprout,15,21,Slam,1,41,
-69,bellsprout,15,22,Vine Whip,1,1,
-69,bellsprout,15,35,Wrap,1,11,
-69,bellsprout,15,51,Acid,1,23,
-69,bellsprout,15,74,Growth,1,7,
-69,bellsprout,15,75,Razor Leaf,1,39,
-69,bellsprout,15,77,Poison Powder,1,15,
-69,bellsprout,15,78,Stun Spore,1,17,
-69,bellsprout,15,79,Sleep Powder,1,13,
-69,bellsprout,15,230,Sweet Scent,1,29,
-69,bellsprout,15,282,Knock Off,1,27,
-69,bellsprout,15,378,Wring Out,1,47,
-69,bellsprout,15,380,Gastro Acid,1,35,
-69,bellsprout,16,21,Slam,1,41,1
-69,bellsprout,16,22,Vine Whip,1,1,1
-69,bellsprout,16,35,Wrap,1,11,1
-69,bellsprout,16,51,Acid,1,23,1
-69,bellsprout,16,74,Growth,1,7,1
-69,bellsprout,16,75,Razor Leaf,1,39,1
-69,bellsprout,16,77,Poison Powder,1,15,1
-69,bellsprout,16,78,Stun Spore,1,17,1
-69,bellsprout,16,79,Sleep Powder,1,13,1
-69,bellsprout,16,230,Sweet Scent,1,29,1
-69,bellsprout,16,282,Knock Off,1,27,1
-69,bellsprout,16,378,Wring Out,1,47,1
-69,bellsprout,16,380,Gastro Acid,1,35,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+69,1,Vine Whip,1,grass,45,100
+69,1,Growth,1,normal,-,-
+69,2,Vine Whip,1,grass,45,100
+69,2,Growth,1,normal,-,-
+69,3,Vine Whip,1,grass,45,100
+69,4,Vine Whip,1,grass,45,100
+69,5,Vine Whip,1,grass,45,100
+69,6,Vine Whip,1,grass,45,100
+69,7,Vine Whip,1,grass,45,100
+69,8,Vine Whip,1,grass,45,100
+69,9,Vine Whip,1,grass,45,100
+69,10,Vine Whip,1,grass,45,100
+69,11,Vine Whip,1,grass,45,100
+69,12,Vine Whip,1,grass,45,100
+69,13,Vine Whip,1,grass,45,100
+69,14,Vine Whip,1,grass,45,100
+69,15,Vine Whip,1,grass,45,100
+69,16,Vine Whip,1,grass,45,100
+69,3,Growth,6,normal,-,-
+69,4,Growth,6,normal,-,-
+69,5,Growth,6,normal,-,-
+69,6,Growth,6,normal,-,-
+69,7,Growth,6,normal,-,-
+69,12,Growth,6,normal,-,-
+69,13,Growth,6,normal,-,-
+69,8,Growth,7,normal,-,-
+69,9,Growth,7,normal,-,-
+69,10,Growth,7,normal,-,-
+69,11,Growth,7,normal,-,-
+69,14,Growth,7,normal,-,-
+69,15,Growth,7,normal,-,-
+69,16,Growth,7,normal,-,-
+69,3,Wrap,11,normal,15,90
+69,4,Wrap,11,normal,15,90
+69,5,Wrap,11,normal,15,90
+69,6,Wrap,11,normal,15,90
+69,7,Wrap,11,normal,15,90
+69,8,Wrap,11,normal,15,90
+69,9,Wrap,11,normal,15,90
+69,10,Wrap,11,normal,15,90
+69,11,Wrap,11,normal,15,90
+69,12,Wrap,11,normal,15,90
+69,13,Wrap,11,normal,15,90
+69,14,Wrap,11,normal,15,90
+69,15,Wrap,11,normal,15,90
+69,16,Wrap,11,normal,15,90
+69,1,Wrap,13,normal,15,90
+69,2,Wrap,13,normal,15,90
+69,8,Sleep Powder,13,grass,-,75
+69,9,Sleep Powder,13,grass,-,75
+69,10,Sleep Powder,13,grass,-,75
+69,11,Sleep Powder,13,grass,-,75
+69,14,Sleep Powder,13,grass,-,75
+69,15,Sleep Powder,13,grass,-,75
+69,16,Sleep Powder,13,grass,-,75
+69,1,Poison Powder,15,poison,-,75
+69,2,Poison Powder,15,poison,-,75
+69,3,Sleep Powder,15,grass,-,75
+69,4,Sleep Powder,15,grass,-,75
+69,5,Sleep Powder,15,grass,-,75
+69,6,Sleep Powder,15,grass,-,75
+69,7,Sleep Powder,15,grass,-,75
+69,8,Poison Powder,15,poison,-,75
+69,9,Poison Powder,15,poison,-,75
+69,10,Poison Powder,15,poison,-,75
+69,11,Poison Powder,15,poison,-,75
+69,12,Sleep Powder,15,grass,-,75
+69,13,Sleep Powder,15,grass,-,75
+69,14,Poison Powder,15,poison,-,75
+69,15,Poison Powder,15,poison,-,75
+69,16,Poison Powder,15,poison,-,75
+69,3,Poison Powder,17,poison,-,75
+69,4,Poison Powder,17,poison,-,75
+69,5,Poison Powder,17,poison,-,75
+69,6,Poison Powder,17,poison,-,75
+69,7,Poison Powder,17,poison,-,75
+69,8,Stun Spore,17,grass,-,75
+69,9,Stun Spore,17,grass,-,75
+69,10,Stun Spore,17,grass,-,75
+69,11,Stun Spore,17,grass,-,75
+69,12,Poison Powder,17,poison,-,75
+69,13,Poison Powder,17,poison,-,75
+69,14,Stun Spore,17,grass,-,75
+69,15,Stun Spore,17,grass,-,75
+69,16,Stun Spore,17,grass,-,75
+69,1,Sleep Powder,18,grass,-,75
+69,2,Sleep Powder,18,grass,-,75
+69,3,Stun Spore,19,grass,-,75
+69,4,Stun Spore,19,grass,-,75
+69,5,Stun Spore,19,grass,-,75
+69,6,Stun Spore,19,grass,-,75
+69,7,Stun Spore,19,grass,-,75
+69,12,Stun Spore,19,grass,-,75
+69,13,Stun Spore,19,grass,-,75
+69,1,Stun Spore,21,grass,-,75
+69,2,Stun Spore,21,grass,-,75
+69,3,Acid,23,poison,40,100
+69,4,Acid,23,poison,40,100
+69,5,Acid,23,poison,40,100
+69,6,Acid,23,poison,40,100
+69,7,Acid,23,poison,40,100
+69,8,Acid,23,poison,40,100
+69,9,Acid,23,poison,40,100
+69,10,Acid,23,poison,40,100
+69,11,Acid,23,poison,40,100
+69,12,Acid,23,poison,40,100
+69,13,Acid,23,poison,40,100
+69,14,Acid,23,poison,40,100
+69,15,Acid,23,poison,40,100
+69,16,Acid,23,poison,40,100
+69,1,Acid,26,poison,40,100
+69,2,Acid,26,poison,40,100
+69,8,Knock Off,27,dark,65,100
+69,9,Knock Off,27,dark,65,100
+69,10,Knock Off,27,dark,65,100
+69,11,Knock Off,27,dark,65,100
+69,14,Knock Off,27,dark,65,100
+69,15,Knock Off,27,dark,65,100
+69,16,Knock Off,27,dark,65,100
+69,8,Sweet Scent,29,normal,-,100
+69,9,Sweet Scent,29,normal,-,100
+69,10,Sweet Scent,29,normal,-,100
+69,11,Sweet Scent,29,normal,-,100
+69,14,Sweet Scent,29,normal,-,100
+69,15,Sweet Scent,29,normal,-,100
+69,16,Sweet Scent,29,normal,-,100
+69,3,Sweet Scent,30,normal,-,100
+69,4,Sweet Scent,30,normal,-,100
+69,5,Sweet Scent,30,normal,-,100
+69,6,Sweet Scent,30,normal,-,100
+69,7,Sweet Scent,30,normal,-,100
+69,12,Sweet Scent,30,normal,-,100
+69,13,Sweet Scent,30,normal,-,100
+69,1,Razor Leaf,33,grass,55,95
+69,2,Razor Leaf,33,grass,55,95
+69,8,Gastro Acid,35,poison,-,100
+69,9,Gastro Acid,35,poison,-,100
+69,10,Gastro Acid,35,poison,-,100
+69,11,Gastro Acid,35,poison,-,100
+69,14,Gastro Acid,35,poison,-,100
+69,15,Gastro Acid,35,poison,-,100
+69,16,Gastro Acid,35,poison,-,100
+69,3,Razor Leaf,37,grass,55,95
+69,4,Razor Leaf,37,grass,55,95
+69,5,Razor Leaf,37,grass,55,95
+69,6,Razor Leaf,37,grass,55,95
+69,7,Razor Leaf,37,grass,55,95
+69,12,Razor Leaf,37,grass,55,95
+69,13,Razor Leaf,37,grass,55,95
+69,8,Razor Leaf,39,grass,55,95
+69,9,Razor Leaf,39,grass,55,95
+69,10,Razor Leaf,39,grass,55,95
+69,11,Razor Leaf,39,grass,55,95
+69,14,Razor Leaf,39,grass,55,95
+69,15,Razor Leaf,39,grass,55,95
+69,16,Razor Leaf,39,grass,55,95
+69,8,Slam,41,normal,80,75
+69,9,Slam,41,normal,80,75
+69,10,Slam,41,normal,80,75
+69,11,Slam,41,normal,80,75
+69,14,Slam,41,normal,80,75
+69,15,Slam,41,normal,80,75
+69,16,Slam,41,normal,80,75
+69,1,Slam,42,normal,80,75
+69,2,Slam,42,normal,80,75
+69,3,Slam,45,normal,80,75
+69,4,Slam,45,normal,80,75
+69,5,Slam,45,normal,80,75
+69,6,Slam,45,normal,80,75
+69,7,Slam,45,normal,80,75
+69,12,Slam,45,normal,80,75
+69,13,Slam,45,normal,80,75
+69,8,Wring Out,47,normal,-,100
+69,9,Wring Out,47,normal,-,100
+69,10,Wring Out,47,normal,-,100
+69,11,Wring Out,47,normal,-,100
+69,14,Wring Out,47,normal,-,100
+69,15,Wring Out,47,normal,-,100
+69,16,Wring Out,47,normal,-,100

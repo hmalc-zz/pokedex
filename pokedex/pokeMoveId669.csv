@@ -1,29 +1,29 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-669,flabebe,15,22,Vine Whip,1,1,2
-669,flabebe,15,33,Tackle,1,1,1
-669,flabebe,15,75,Razor Leaf,1,15,
-669,flabebe,15,76,Solar Beam,1,48,
-669,flabebe,15,80,Petal Dance,1,45,
-669,flabebe,15,273,Wish,1,20,
-669,flabebe,15,312,Aromatherapy,1,33,
-669,flabebe,15,345,Magical Leaf,1,22,
-669,flabebe,15,381,Lucky Chant,1,10,
-669,flabebe,15,572,Petal Blizzard,1,28,
-669,flabebe,15,580,Grassy Terrain,1,24,
-669,flabebe,15,581,Misty Terrain,1,37,
-669,flabebe,15,584,Fairy Wind,1,6,
-669,flabebe,15,585,Moonblast,1,41,
-669,flabebe,16,22,Vine Whip,1,1,2
-669,flabebe,16,33,Tackle,1,1,1
-669,flabebe,16,75,Razor Leaf,1,15,1
-669,flabebe,16,76,Solar Beam,1,48,1
-669,flabebe,16,80,Petal Dance,1,45,1
-669,flabebe,16,273,Wish,1,20,1
-669,flabebe,16,312,Aromatherapy,1,33,1
-669,flabebe,16,345,Magical Leaf,1,22,1
-669,flabebe,16,381,Lucky Chant,1,10,1
-669,flabebe,16,572,Petal Blizzard,1,28,1
-669,flabebe,16,580,Grassy Terrain,1,24,1
-669,flabebe,16,581,Misty Terrain,1,37,1
-669,flabebe,16,584,Fairy Wind,1,6,1
-669,flabebe,16,585,Moonblast,1,41,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+669,15,Vine Whip,1,grass,45,100
+669,15,Tackle,1,normal,50,100
+669,16,Vine Whip,1,grass,45,100
+669,16,Tackle,1,normal,50,100
+669,15,Fairy Wind,6,fairy,40,100
+669,16,Fairy Wind,6,fairy,40,100
+669,15,Lucky Chant,10,normal,-,-
+669,16,Lucky Chant,10,normal,-,-
+669,15,Razor Leaf,15,grass,55,95
+669,16,Razor Leaf,15,grass,55,95
+669,15,Wish,20,normal,-,-
+669,16,Wish,20,normal,-,-
+669,15,Magical Leaf,22,grass,60,-
+669,16,Magical Leaf,22,grass,60,-
+669,15,Grassy Terrain,24,grass,-,-
+669,16,Grassy Terrain,24,grass,-,-
+669,15,Petal Blizzard,28,grass,90,100
+669,16,Petal Blizzard,28,grass,90,100
+669,15,Aromatherapy,33,grass,-,-
+669,16,Aromatherapy,33,grass,-,-
+669,15,Misty Terrain,37,fairy,-,-
+669,16,Misty Terrain,37,fairy,-,-
+669,15,Moonblast,41,fairy,95,100
+669,16,Moonblast,41,fairy,95,100
+669,15,Petal Dance,45,grass,120,100
+669,16,Petal Dance,45,grass,120,100
+669,15,Solar Beam,48,grass,120,100
+669,16,Solar Beam,48,grass,120,100

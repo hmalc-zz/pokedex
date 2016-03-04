@@ -1,182 +1,182 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-193,yanma,3,33,Tackle,1,1,1
-193,yanma,3,48,Supersonic,1,31,
-193,yanma,3,49,Sonic Boom,1,19,
-193,yanma,3,98,Quick Attack,1,7,
-193,yanma,3,103,Screech,1,43,
-193,yanma,3,104,Double Team,1,13,
-193,yanma,3,129,Swift,1,37,
-193,yanma,3,193,Foresight,1,1,2
-193,yanma,3,197,Detect,1,25,
-193,yanma,4,17,Wing Attack,1,37,
-193,yanma,4,33,Tackle,1,1,1
-193,yanma,4,48,Supersonic,1,31,
-193,yanma,4,49,Sonic Boom,1,19,
-193,yanma,4,98,Quick Attack,1,7,
-193,yanma,4,103,Screech,1,43,
-193,yanma,4,104,Double Team,1,13,
-193,yanma,4,193,Foresight,1,1,2
-193,yanma,4,197,Detect,1,25,
-193,yanma,5,17,Wing Attack,1,43,
-193,yanma,5,33,Tackle,1,1,1
-193,yanma,5,48,Supersonic,1,31,
-193,yanma,5,49,Sonic Boom,1,19,
-193,yanma,5,98,Quick Attack,1,7,
-193,yanma,5,103,Screech,1,49,
-193,yanma,5,104,Double Team,1,13,
-193,yanma,5,193,Foresight,1,1,2
-193,yanma,5,197,Detect,1,25,
-193,yanma,5,253,Uproar,1,37,
-193,yanma,6,17,Wing Attack,1,43,
-193,yanma,6,33,Tackle,1,1,1
-193,yanma,6,48,Supersonic,1,31,
-193,yanma,6,49,Sonic Boom,1,19,
-193,yanma,6,98,Quick Attack,1,7,
-193,yanma,6,103,Screech,1,49,
-193,yanma,6,104,Double Team,1,13,
-193,yanma,6,193,Foresight,1,1,2
-193,yanma,6,197,Detect,1,25,
-193,yanma,6,253,Uproar,1,37,
-193,yanma,7,17,Wing Attack,1,39,
-193,yanma,7,33,Tackle,1,1,1
-193,yanma,7,48,Supersonic,1,45,
-193,yanma,7,49,Sonic Boom,1,17,
-193,yanma,7,95,Hypnosis,1,23,
-193,yanma,7,98,Quick Attack,1,6,
-193,yanma,7,103,Screech,1,50,
-193,yanma,7,104,Double Team,1,12,
-193,yanma,7,193,Foresight,1,1,2
-193,yanma,7,197,Detect,1,28,
-193,yanma,7,253,Uproar,1,34,
-193,yanma,8,17,Wing Attack,1,43,
-193,yanma,8,33,Tackle,1,1,1
-193,yanma,8,48,Supersonic,1,22,
-193,yanma,8,49,Sonic Boom,1,14,
-193,yanma,8,95,Hypnosis,1,38,
-193,yanma,8,98,Quick Attack,1,6,
-193,yanma,8,103,Screech,1,46,
-193,yanma,8,104,Double Team,1,11,
-193,yanma,8,193,Foresight,1,1,2
-193,yanma,8,197,Detect,1,17,
-193,yanma,8,228,Pursuit,1,30,
-193,yanma,8,246,Ancient Power,1,33,
-193,yanma,8,253,Uproar,1,27,
-193,yanma,8,369,U-turn,1,49,
-193,yanma,8,403,Air Slash,1,54,
-193,yanma,8,405,Bug Buzz,1,57,
-193,yanma,9,17,Wing Attack,1,43,
-193,yanma,9,33,Tackle,1,1,1
-193,yanma,9,48,Supersonic,1,22,
-193,yanma,9,49,Sonic Boom,1,14,
-193,yanma,9,95,Hypnosis,1,38,
-193,yanma,9,98,Quick Attack,1,6,
-193,yanma,9,103,Screech,1,46,
-193,yanma,9,104,Double Team,1,11,
-193,yanma,9,193,Foresight,1,1,2
-193,yanma,9,197,Detect,1,17,
-193,yanma,9,228,Pursuit,1,30,
-193,yanma,9,246,Ancient Power,1,33,
-193,yanma,9,253,Uproar,1,27,
-193,yanma,9,369,U-turn,1,49,
-193,yanma,9,403,Air Slash,1,54,
-193,yanma,9,405,Bug Buzz,1,57,
-193,yanma,10,17,Wing Attack,1,43,
-193,yanma,10,33,Tackle,1,1,1
-193,yanma,10,48,Supersonic,1,22,
-193,yanma,10,49,Sonic Boom,1,14,
-193,yanma,10,95,Hypnosis,1,38,
-193,yanma,10,98,Quick Attack,1,6,
-193,yanma,10,103,Screech,1,46,
-193,yanma,10,104,Double Team,1,11,
-193,yanma,10,193,Foresight,1,1,2
-193,yanma,10,197,Detect,1,17,
-193,yanma,10,228,Pursuit,1,30,
-193,yanma,10,246,Ancient Power,1,33,
-193,yanma,10,253,Uproar,1,27,
-193,yanma,10,369,U-turn,1,49,
-193,yanma,10,403,Air Slash,1,54,
-193,yanma,10,405,Bug Buzz,1,57,
-193,yanma,11,17,Wing Attack,1,43,
-193,yanma,11,33,Tackle,1,1,1
-193,yanma,11,48,Supersonic,1,22,
-193,yanma,11,49,Sonic Boom,1,14,
-193,yanma,11,95,Hypnosis,1,38,
-193,yanma,11,98,Quick Attack,1,6,
-193,yanma,11,103,Screech,1,46,
-193,yanma,11,104,Double Team,1,11,
-193,yanma,11,193,Foresight,1,1,2
-193,yanma,11,197,Detect,1,17,
-193,yanma,11,228,Pursuit,1,30,
-193,yanma,11,246,Ancient Power,1,33,
-193,yanma,11,253,Uproar,1,27,
-193,yanma,11,369,U-turn,1,49,
-193,yanma,11,403,Air Slash,1,54,
-193,yanma,11,405,Bug Buzz,1,57,
-193,yanma,12,17,Wing Attack,1,43,
-193,yanma,12,33,Tackle,1,1,1
-193,yanma,12,48,Supersonic,1,31,
-193,yanma,12,49,Sonic Boom,1,19,
-193,yanma,12,98,Quick Attack,1,7,
-193,yanma,12,103,Screech,1,49,
-193,yanma,12,104,Double Team,1,13,
-193,yanma,12,193,Foresight,1,1,2
-193,yanma,12,197,Detect,1,25,
-193,yanma,12,253,Uproar,1,37,
-193,yanma,13,17,Wing Attack,1,43,
-193,yanma,13,33,Tackle,1,1,1
-193,yanma,13,48,Supersonic,1,31,
-193,yanma,13,49,Sonic Boom,1,19,
-193,yanma,13,98,Quick Attack,1,7,
-193,yanma,13,103,Screech,1,49,
-193,yanma,13,104,Double Team,1,13,
-193,yanma,13,193,Foresight,1,1,2
-193,yanma,13,197,Detect,1,25,
-193,yanma,13,253,Uproar,1,37,
-193,yanma,14,17,Wing Attack,1,43,
-193,yanma,14,33,Tackle,1,1,1
-193,yanma,14,48,Supersonic,1,22,
-193,yanma,14,49,Sonic Boom,1,14,
-193,yanma,14,95,Hypnosis,1,38,
-193,yanma,14,98,Quick Attack,1,6,
-193,yanma,14,103,Screech,1,46,
-193,yanma,14,104,Double Team,1,11,
-193,yanma,14,193,Foresight,1,1,2
-193,yanma,14,197,Detect,1,17,
-193,yanma,14,228,Pursuit,1,30,
-193,yanma,14,246,Ancient Power,1,33,
-193,yanma,14,253,Uproar,1,27,
-193,yanma,14,369,U-turn,1,49,
-193,yanma,14,403,Air Slash,1,54,
-193,yanma,14,405,Bug Buzz,1,57,
-193,yanma,15,17,Wing Attack,1,43,
-193,yanma,15,33,Tackle,1,1,1
-193,yanma,15,48,Supersonic,1,22,
-193,yanma,15,49,Sonic Boom,1,14,
-193,yanma,15,95,Hypnosis,1,38,
-193,yanma,15,98,Quick Attack,1,6,
-193,yanma,15,103,Screech,1,46,
-193,yanma,15,104,Double Team,1,11,
-193,yanma,15,193,Foresight,1,1,2
-193,yanma,15,197,Detect,1,17,
-193,yanma,15,228,Pursuit,1,30,
-193,yanma,15,246,Ancient Power,1,33,
-193,yanma,15,253,Uproar,1,27,
-193,yanma,15,369,U-turn,1,49,
-193,yanma,15,403,Air Slash,1,54,
-193,yanma,15,405,Bug Buzz,1,57,
-193,yanma,16,17,Wing Attack,1,43,1
-193,yanma,16,33,Tackle,1,1,1
-193,yanma,16,48,Supersonic,1,22,1
-193,yanma,16,49,Sonic Boom,1,14,1
-193,yanma,16,95,Hypnosis,1,38,1
-193,yanma,16,98,Quick Attack,1,6,1
-193,yanma,16,103,Screech,1,46,1
-193,yanma,16,104,Double Team,1,11,1
-193,yanma,16,193,Foresight,1,1,2
-193,yanma,16,197,Detect,1,17,1
-193,yanma,16,228,Pursuit,1,30,1
-193,yanma,16,246,Ancient Power,1,33,1
-193,yanma,16,253,Uproar,1,27,1
-193,yanma,16,369,U-turn,1,49,1
-193,yanma,16,403,Air Slash,1,54,1
-193,yanma,16,405,Bug Buzz,1,57,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+193,3,Tackle,1,normal,50,100
+193,3,Foresight,1,normal,-,-
+193,4,Tackle,1,normal,50,100
+193,4,Foresight,1,normal,-,-
+193,5,Tackle,1,normal,50,100
+193,5,Foresight,1,normal,-,-
+193,6,Tackle,1,normal,50,100
+193,6,Foresight,1,normal,-,-
+193,7,Tackle,1,normal,50,100
+193,7,Foresight,1,normal,-,-
+193,8,Tackle,1,normal,50,100
+193,8,Foresight,1,normal,-,-
+193,9,Tackle,1,normal,50,100
+193,9,Foresight,1,normal,-,-
+193,10,Tackle,1,normal,50,100
+193,10,Foresight,1,normal,-,-
+193,11,Tackle,1,normal,50,100
+193,11,Foresight,1,normal,-,-
+193,12,Tackle,1,normal,50,100
+193,12,Foresight,1,normal,-,-
+193,13,Tackle,1,normal,50,100
+193,13,Foresight,1,normal,-,-
+193,14,Tackle,1,normal,50,100
+193,14,Foresight,1,normal,-,-
+193,15,Tackle,1,normal,50,100
+193,15,Foresight,1,normal,-,-
+193,16,Tackle,1,normal,50,100
+193,16,Foresight,1,normal,-,-
+193,7,Quick Attack,6,normal,40,100
+193,8,Quick Attack,6,normal,40,100
+193,9,Quick Attack,6,normal,40,100
+193,10,Quick Attack,6,normal,40,100
+193,11,Quick Attack,6,normal,40,100
+193,14,Quick Attack,6,normal,40,100
+193,15,Quick Attack,6,normal,40,100
+193,16,Quick Attack,6,normal,40,100
+193,3,Quick Attack,7,normal,40,100
+193,4,Quick Attack,7,normal,40,100
+193,5,Quick Attack,7,normal,40,100
+193,6,Quick Attack,7,normal,40,100
+193,12,Quick Attack,7,normal,40,100
+193,13,Quick Attack,7,normal,40,100
+193,8,Double Team,11,normal,-,-
+193,9,Double Team,11,normal,-,-
+193,10,Double Team,11,normal,-,-
+193,11,Double Team,11,normal,-,-
+193,14,Double Team,11,normal,-,-
+193,15,Double Team,11,normal,-,-
+193,16,Double Team,11,normal,-,-
+193,7,Double Team,12,normal,-,-
+193,3,Double Team,13,normal,-,-
+193,4,Double Team,13,normal,-,-
+193,5,Double Team,13,normal,-,-
+193,6,Double Team,13,normal,-,-
+193,12,Double Team,13,normal,-,-
+193,13,Double Team,13,normal,-,-
+193,8,Sonic Boom,14,normal,-,90
+193,9,Sonic Boom,14,normal,-,90
+193,10,Sonic Boom,14,normal,-,90
+193,11,Sonic Boom,14,normal,-,90
+193,14,Sonic Boom,14,normal,-,90
+193,15,Sonic Boom,14,normal,-,90
+193,16,Sonic Boom,14,normal,-,90
+193,7,Sonic Boom,17,normal,-,90
+193,8,Detect,17,fighting,-,-
+193,9,Detect,17,fighting,-,-
+193,10,Detect,17,fighting,-,-
+193,11,Detect,17,fighting,-,-
+193,14,Detect,17,fighting,-,-
+193,15,Detect,17,fighting,-,-
+193,16,Detect,17,fighting,-,-
+193,3,Sonic Boom,19,normal,-,90
+193,4,Sonic Boom,19,normal,-,90
+193,5,Sonic Boom,19,normal,-,90
+193,6,Sonic Boom,19,normal,-,90
+193,12,Sonic Boom,19,normal,-,90
+193,13,Sonic Boom,19,normal,-,90
+193,8,Supersonic,22,normal,-,55
+193,9,Supersonic,22,normal,-,55
+193,10,Supersonic,22,normal,-,55
+193,11,Supersonic,22,normal,-,55
+193,14,Supersonic,22,normal,-,55
+193,15,Supersonic,22,normal,-,55
+193,16,Supersonic,22,normal,-,55
+193,7,Hypnosis,23,psychic,-,60
+193,3,Detect,25,fighting,-,-
+193,4,Detect,25,fighting,-,-
+193,5,Detect,25,fighting,-,-
+193,6,Detect,25,fighting,-,-
+193,12,Detect,25,fighting,-,-
+193,13,Detect,25,fighting,-,-
+193,8,Uproar,27,normal,90,100
+193,9,Uproar,27,normal,90,100
+193,10,Uproar,27,normal,90,100
+193,11,Uproar,27,normal,90,100
+193,14,Uproar,27,normal,90,100
+193,15,Uproar,27,normal,90,100
+193,16,Uproar,27,normal,90,100
+193,7,Detect,28,fighting,-,-
+193,8,Pursuit,30,dark,40,100
+193,9,Pursuit,30,dark,40,100
+193,10,Pursuit,30,dark,40,100
+193,11,Pursuit,30,dark,40,100
+193,14,Pursuit,30,dark,40,100
+193,15,Pursuit,30,dark,40,100
+193,16,Pursuit,30,dark,40,100
+193,3,Supersonic,31,normal,-,55
+193,4,Supersonic,31,normal,-,55
+193,5,Supersonic,31,normal,-,55
+193,6,Supersonic,31,normal,-,55
+193,12,Supersonic,31,normal,-,55
+193,13,Supersonic,31,normal,-,55
+193,8,Ancient Power,33,rock,60,100
+193,9,Ancient Power,33,rock,60,100
+193,10,Ancient Power,33,rock,60,100
+193,11,Ancient Power,33,rock,60,100
+193,14,Ancient Power,33,rock,60,100
+193,15,Ancient Power,33,rock,60,100
+193,16,Ancient Power,33,rock,60,100
+193,7,Uproar,34,normal,90,100
+193,3,Swift,37,normal,60,-
+193,4,Wing Attack,37,flying,60,100
+193,5,Uproar,37,normal,90,100
+193,6,Uproar,37,normal,90,100
+193,12,Uproar,37,normal,90,100
+193,13,Uproar,37,normal,90,100
+193,8,Hypnosis,38,psychic,-,60
+193,9,Hypnosis,38,psychic,-,60
+193,10,Hypnosis,38,psychic,-,60
+193,11,Hypnosis,38,psychic,-,60
+193,14,Hypnosis,38,psychic,-,60
+193,15,Hypnosis,38,psychic,-,60
+193,16,Hypnosis,38,psychic,-,60
+193,7,Wing Attack,39,flying,60,100
+193,3,Screech,43,normal,-,85
+193,4,Screech,43,normal,-,85
+193,5,Wing Attack,43,flying,60,100
+193,6,Wing Attack,43,flying,60,100
+193,8,Wing Attack,43,flying,60,100
+193,9,Wing Attack,43,flying,60,100
+193,10,Wing Attack,43,flying,60,100
+193,11,Wing Attack,43,flying,60,100
+193,12,Wing Attack,43,flying,60,100
+193,13,Wing Attack,43,flying,60,100
+193,14,Wing Attack,43,flying,60,100
+193,15,Wing Attack,43,flying,60,100
+193,16,Wing Attack,43,flying,60,100
+193,7,Supersonic,45,normal,-,55
+193,8,Screech,46,normal,-,85
+193,9,Screech,46,normal,-,85
+193,10,Screech,46,normal,-,85
+193,11,Screech,46,normal,-,85
+193,14,Screech,46,normal,-,85
+193,15,Screech,46,normal,-,85
+193,16,Screech,46,normal,-,85
+193,5,Screech,49,normal,-,85
+193,6,Screech,49,normal,-,85
+193,8,U-turn,49,bug,70,100
+193,9,U-turn,49,bug,70,100
+193,10,U-turn,49,bug,70,100
+193,11,U-turn,49,bug,70,100
+193,12,Screech,49,normal,-,85
+193,13,Screech,49,normal,-,85
+193,14,U-turn,49,bug,70,100
+193,15,U-turn,49,bug,70,100
+193,16,U-turn,49,bug,70,100
+193,7,Screech,50,normal,-,85
+193,8,Air Slash,54,flying,75,95
+193,9,Air Slash,54,flying,75,95
+193,10,Air Slash,54,flying,75,95
+193,11,Air Slash,54,flying,75,95
+193,14,Air Slash,54,flying,75,95
+193,15,Air Slash,54,flying,75,95
+193,16,Air Slash,54,flying,75,95
+193,8,Bug Buzz,57,bug,90,100
+193,9,Bug Buzz,57,bug,90,100
+193,10,Bug Buzz,57,bug,90,100
+193,11,Bug Buzz,57,bug,90,100
+193,14,Bug Buzz,57,bug,90,100
+193,15,Bug Buzz,57,bug,90,100
+193,16,Bug Buzz,57,bug,90,100

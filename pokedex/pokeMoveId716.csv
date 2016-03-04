@@ -1,37 +1,37 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-716,xerneas,15,36,Take Down,1,1,4
-716,xerneas,15,62,Aurora Beam,1,10,
-716,xerneas,15,113,Light Screen,1,5,
-716,xerneas,15,200,Outrage,1,93,
-716,xerneas,15,224,Megahorn,1,44,
-716,xerneas,15,244,Psych Up,1,59,
-716,xerneas,15,267,Nature Power,1,72,
-716,xerneas,15,275,Ingrain,1,1,3
-716,xerneas,15,312,Aromatherapy,1,1,2
-716,xerneas,15,356,Gravity,1,18,
-716,xerneas,15,370,Close Combat,1,80,
-716,xerneas,15,400,Night Slash,1,51,
-716,xerneas,15,416,Giga Impact,1,88,
-716,xerneas,15,505,Heal Pulse,1,1,1
-716,xerneas,15,532,Horn Leech,1,55,
-716,xerneas,15,581,Misty Terrain,1,63,
-716,xerneas,15,585,Moonblast,1,35,
-716,xerneas,15,601,Geomancy,1,26,
-716,xerneas,16,36,Take Down,1,1,4
-716,xerneas,16,62,Aurora Beam,1,10,1
-716,xerneas,16,113,Light Screen,1,5,1
-716,xerneas,16,200,Outrage,1,93,1
-716,xerneas,16,224,Megahorn,1,44,1
-716,xerneas,16,244,Psych Up,1,59,1
-716,xerneas,16,267,Nature Power,1,72,1
-716,xerneas,16,275,Ingrain,1,1,3
-716,xerneas,16,312,Aromatherapy,1,1,2
-716,xerneas,16,356,Gravity,1,18,1
-716,xerneas,16,370,Close Combat,1,80,1
-716,xerneas,16,400,Night Slash,1,51,1
-716,xerneas,16,416,Giga Impact,1,88,1
-716,xerneas,16,505,Heal Pulse,1,1,1
-716,xerneas,16,532,Horn Leech,1,55,1
-716,xerneas,16,581,Misty Terrain,1,63,1
-716,xerneas,16,585,Moonblast,1,35,1
-716,xerneas,16,601,Geomancy,1,26,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+716,15,Take Down,1,normal,90,85
+716,15,Ingrain,1,grass,-,-
+716,15,Aromatherapy,1,grass,-,-
+716,15,Heal Pulse,1,psychic,-,-
+716,16,Take Down,1,normal,90,85
+716,16,Ingrain,1,grass,-,-
+716,16,Aromatherapy,1,grass,-,-
+716,16,Heal Pulse,1,psychic,-,-
+716,15,Light Screen,5,psychic,-,-
+716,16,Light Screen,5,psychic,-,-
+716,15,Aurora Beam,10,ice,65,100
+716,16,Aurora Beam,10,ice,65,100
+716,15,Gravity,18,psychic,-,-
+716,16,Gravity,18,psychic,-,-
+716,15,Geomancy,26,fairy,-,-
+716,16,Geomancy,26,fairy,-,-
+716,15,Moonblast,35,fairy,95,100
+716,16,Moonblast,35,fairy,95,100
+716,15,Megahorn,44,bug,120,85
+716,16,Megahorn,44,bug,120,85
+716,15,Night Slash,51,dark,70,100
+716,16,Night Slash,51,dark,70,100
+716,15,Horn Leech,55,grass,75,100
+716,16,Horn Leech,55,grass,75,100
+716,15,Psych Up,59,normal,-,-
+716,16,Psych Up,59,normal,-,-
+716,15,Misty Terrain,63,fairy,-,-
+716,16,Misty Terrain,63,fairy,-,-
+716,15,Nature Power,72,normal,-,-
+716,16,Nature Power,72,normal,-,-
+716,15,Close Combat,80,fighting,120,100
+716,16,Close Combat,80,fighting,120,100
+716,15,Giga Impact,88,normal,150,90
+716,16,Giga Impact,88,normal,150,90
+716,15,Outrage,93,dragon,120,100
+716,16,Outrage,93,dragon,120,100

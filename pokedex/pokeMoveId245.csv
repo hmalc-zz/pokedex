@@ -1,172 +1,172 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-245,suicune,3,16,Gust,1,31,
-245,suicune,3,43,Leer,1,1,2
-245,suicune,3,44,Bite,1,1,1
-245,suicune,3,46,Roar,1,21,
-245,suicune,3,54,Mist,1,51,
-245,suicune,3,55,Water Gun,1,11,
-245,suicune,3,56,Hydro Pump,1,71,
-245,suicune,3,61,Bubble Beam,1,41,
-245,suicune,3,243,Mirror Coat,1,61,
-245,suicune,4,16,Gust,1,31,
-245,suicune,4,43,Leer,1,1,2
-245,suicune,4,44,Bite,1,1,1
-245,suicune,4,54,Mist,1,51,
-245,suicune,4,56,Hydro Pump,1,71,
-245,suicune,4,61,Bubble Beam,1,11,
-245,suicune,4,62,Aurora Beam,1,41,
-245,suicune,4,240,Rain Dance,1,21,
-245,suicune,4,243,Mirror Coat,1,61,
-245,suicune,5,16,Gust,1,31,
-245,suicune,5,43,Leer,1,1,2
-245,suicune,5,44,Bite,1,1,1
-245,suicune,5,54,Mist,1,51,
-245,suicune,5,56,Hydro Pump,1,71,
-245,suicune,5,61,Bubble Beam,1,11,
-245,suicune,5,62,Aurora Beam,1,41,
-245,suicune,5,240,Rain Dance,1,21,
-245,suicune,5,243,Mirror Coat,1,61,
-245,suicune,5,347,Calm Mind,1,81,
-245,suicune,6,16,Gust,1,31,
-245,suicune,6,43,Leer,1,1,2
-245,suicune,6,44,Bite,1,1,1
-245,suicune,6,54,Mist,1,51,
-245,suicune,6,56,Hydro Pump,1,71,
-245,suicune,6,61,Bubble Beam,1,11,
-245,suicune,6,62,Aurora Beam,1,41,
-245,suicune,6,240,Rain Dance,1,21,
-245,suicune,6,243,Mirror Coat,1,61,
-245,suicune,6,347,Calm Mind,1,81,
-245,suicune,7,16,Gust,1,31,
-245,suicune,7,43,Leer,1,1,2
-245,suicune,7,44,Bite,1,1,1
-245,suicune,7,54,Mist,1,51,
-245,suicune,7,56,Hydro Pump,1,71,
-245,suicune,7,61,Bubble Beam,1,11,
-245,suicune,7,62,Aurora Beam,1,41,
-245,suicune,7,240,Rain Dance,1,21,
-245,suicune,7,243,Mirror Coat,1,61,
-245,suicune,7,347,Calm Mind,1,81,
-245,suicune,8,16,Gust,1,22,
-245,suicune,8,43,Leer,1,1,2
-245,suicune,8,44,Bite,1,1,1
-245,suicune,8,54,Mist,1,36,
-245,suicune,8,56,Hydro Pump,1,71,
-245,suicune,8,61,Bubble Beam,1,8,
-245,suicune,8,62,Aurora Beam,1,29,
-245,suicune,8,240,Rain Dance,1,15,
-245,suicune,8,243,Mirror Coat,1,43,
-245,suicune,8,326,Extrasensory,1,64,
-245,suicune,8,347,Calm Mind,1,78,
-245,suicune,8,366,Tailwind,1,57,
-245,suicune,8,423,Ice Fang,1,50,
-245,suicune,9,16,Gust,1,22,
-245,suicune,9,43,Leer,1,1,2
-245,suicune,9,44,Bite,1,1,1
-245,suicune,9,54,Mist,1,36,
-245,suicune,9,56,Hydro Pump,1,71,
-245,suicune,9,59,Blizzard,1,85,
-245,suicune,9,61,Bubble Beam,1,8,
-245,suicune,9,62,Aurora Beam,1,29,
-245,suicune,9,240,Rain Dance,1,15,
-245,suicune,9,243,Mirror Coat,1,43,
-245,suicune,9,326,Extrasensory,1,64,
-245,suicune,9,347,Calm Mind,1,78,
-245,suicune,9,366,Tailwind,1,57,
-245,suicune,9,423,Ice Fang,1,50,
-245,suicune,10,16,Gust,1,22,
-245,suicune,10,43,Leer,1,1,2
-245,suicune,10,44,Bite,1,1,1
-245,suicune,10,54,Mist,1,36,
-245,suicune,10,56,Hydro Pump,1,71,
-245,suicune,10,59,Blizzard,1,85,
-245,suicune,10,61,Bubble Beam,1,8,
-245,suicune,10,62,Aurora Beam,1,29,
-245,suicune,10,240,Rain Dance,1,15,
-245,suicune,10,243,Mirror Coat,1,43,
-245,suicune,10,326,Extrasensory,1,64,
-245,suicune,10,347,Calm Mind,1,78,
-245,suicune,10,366,Tailwind,1,57,
-245,suicune,10,423,Ice Fang,1,50,
-245,suicune,11,16,Gust,1,22,
-245,suicune,11,43,Leer,1,1,2
-245,suicune,11,44,Bite,1,1,1
-245,suicune,11,54,Mist,1,36,
-245,suicune,11,56,Hydro Pump,1,71,
-245,suicune,11,59,Blizzard,1,85,
-245,suicune,11,61,Bubble Beam,1,8,
-245,suicune,11,62,Aurora Beam,1,29,
-245,suicune,11,240,Rain Dance,1,15,
-245,suicune,11,243,Mirror Coat,1,43,
-245,suicune,11,326,Extrasensory,1,64,
-245,suicune,11,347,Calm Mind,1,78,
-245,suicune,11,366,Tailwind,1,57,
-245,suicune,11,423,Ice Fang,1,50,
-245,suicune,12,16,Gust,1,31,
-245,suicune,12,43,Leer,1,1,2
-245,suicune,12,44,Bite,1,1,1
-245,suicune,12,54,Mist,1,51,
-245,suicune,12,56,Hydro Pump,1,71,
-245,suicune,12,61,Bubble Beam,1,11,
-245,suicune,12,62,Aurora Beam,1,41,
-245,suicune,12,240,Rain Dance,1,21,
-245,suicune,12,243,Mirror Coat,1,61,
-245,suicune,12,347,Calm Mind,1,81,
-245,suicune,13,16,Gust,1,31,
-245,suicune,13,43,Leer,1,1,2
-245,suicune,13,44,Bite,1,1,1
-245,suicune,13,54,Mist,1,51,
-245,suicune,13,56,Hydro Pump,1,71,
-245,suicune,13,61,Bubble Beam,1,11,
-245,suicune,13,62,Aurora Beam,1,41,
-245,suicune,13,240,Rain Dance,1,21,
-245,suicune,13,243,Mirror Coat,1,61,
-245,suicune,13,347,Calm Mind,1,81,
-245,suicune,14,16,Gust,1,22,
-245,suicune,14,43,Leer,1,1,2
-245,suicune,14,44,Bite,1,1,1
-245,suicune,14,54,Mist,1,36,
-245,suicune,14,56,Hydro Pump,1,71,
-245,suicune,14,59,Blizzard,1,85,
-245,suicune,14,61,Bubble Beam,1,8,
-245,suicune,14,62,Aurora Beam,1,29,
-245,suicune,14,240,Rain Dance,1,15,
-245,suicune,14,243,Mirror Coat,1,43,
-245,suicune,14,326,Extrasensory,1,64,
-245,suicune,14,347,Calm Mind,1,78,
-245,suicune,14,366,Tailwind,1,57,
-245,suicune,14,423,Ice Fang,1,50,
-245,suicune,15,16,Gust,1,22,
-245,suicune,15,43,Leer,1,1,5
-245,suicune,15,44,Bite,1,1,4
-245,suicune,15,54,Mist,1,36,
-245,suicune,15,56,Hydro Pump,1,1,1
-245,suicune,15,56,Hydro Pump,1,71,
-245,suicune,15,59,Blizzard,1,85,
-245,suicune,15,61,Bubble Beam,1,8,
-245,suicune,15,62,Aurora Beam,1,29,
-245,suicune,15,240,Rain Dance,1,15,
-245,suicune,15,243,Mirror Coat,1,43,
-245,suicune,15,326,Extrasensory,1,1,2
-245,suicune,15,326,Extrasensory,1,64,
-245,suicune,15,347,Calm Mind,1,78,
-245,suicune,15,366,Tailwind,1,1,3
-245,suicune,15,366,Tailwind,1,57,
-245,suicune,15,423,Ice Fang,1,50,
-245,suicune,16,16,Gust,1,22,1
-245,suicune,16,43,Leer,1,1,5
-245,suicune,16,44,Bite,1,1,4
-245,suicune,16,54,Mist,1,36,1
-245,suicune,16,56,Hydro Pump,1,1,1
-245,suicune,16,56,Hydro Pump,1,71,1
-245,suicune,16,59,Blizzard,1,85,1
-245,suicune,16,61,Bubble Beam,1,8,1
-245,suicune,16,62,Aurora Beam,1,29,1
-245,suicune,16,240,Rain Dance,1,15,1
-245,suicune,16,243,Mirror Coat,1,43,1
-245,suicune,16,326,Extrasensory,1,1,2
-245,suicune,16,326,Extrasensory,1,64,1
-245,suicune,16,347,Calm Mind,1,78,1
-245,suicune,16,366,Tailwind,1,1,3
-245,suicune,16,366,Tailwind,1,57,1
-245,suicune,16,423,Ice Fang,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+245,3,Leer,1,normal,-,100
+245,3,Bite,1,dark,60,100
+245,4,Leer,1,normal,-,100
+245,4,Bite,1,dark,60,100
+245,5,Leer,1,normal,-,100
+245,5,Bite,1,dark,60,100
+245,6,Leer,1,normal,-,100
+245,6,Bite,1,dark,60,100
+245,7,Leer,1,normal,-,100
+245,7,Bite,1,dark,60,100
+245,8,Leer,1,normal,-,100
+245,8,Bite,1,dark,60,100
+245,9,Leer,1,normal,-,100
+245,9,Bite,1,dark,60,100
+245,10,Leer,1,normal,-,100
+245,10,Bite,1,dark,60,100
+245,11,Leer,1,normal,-,100
+245,11,Bite,1,dark,60,100
+245,12,Leer,1,normal,-,100
+245,12,Bite,1,dark,60,100
+245,13,Leer,1,normal,-,100
+245,13,Bite,1,dark,60,100
+245,14,Leer,1,normal,-,100
+245,14,Bite,1,dark,60,100
+245,15,Leer,1,normal,-,100
+245,15,Bite,1,dark,60,100
+245,15,Hydro Pump,1,water,110,80
+245,15,Extrasensory,1,psychic,80,100
+245,15,Tailwind,1,flying,-,-
+245,16,Leer,1,normal,-,100
+245,16,Bite,1,dark,60,100
+245,16,Hydro Pump,1,water,110,80
+245,16,Extrasensory,1,psychic,80,100
+245,16,Tailwind,1,flying,-,-
+245,8,Bubble Beam,8,water,65,100
+245,9,Bubble Beam,8,water,65,100
+245,10,Bubble Beam,8,water,65,100
+245,11,Bubble Beam,8,water,65,100
+245,14,Bubble Beam,8,water,65,100
+245,15,Bubble Beam,8,water,65,100
+245,16,Bubble Beam,8,water,65,100
+245,3,Water Gun,11,water,40,100
+245,4,Bubble Beam,11,water,65,100
+245,5,Bubble Beam,11,water,65,100
+245,6,Bubble Beam,11,water,65,100
+245,7,Bubble Beam,11,water,65,100
+245,12,Bubble Beam,11,water,65,100
+245,13,Bubble Beam,11,water,65,100
+245,8,Rain Dance,15,water,-,-
+245,9,Rain Dance,15,water,-,-
+245,10,Rain Dance,15,water,-,-
+245,11,Rain Dance,15,water,-,-
+245,14,Rain Dance,15,water,-,-
+245,15,Rain Dance,15,water,-,-
+245,16,Rain Dance,15,water,-,-
+245,3,Roar,21,normal,-,-
+245,4,Rain Dance,21,water,-,-
+245,5,Rain Dance,21,water,-,-
+245,6,Rain Dance,21,water,-,-
+245,7,Rain Dance,21,water,-,-
+245,12,Rain Dance,21,water,-,-
+245,13,Rain Dance,21,water,-,-
+245,8,Gust,22,flying,40,100
+245,9,Gust,22,flying,40,100
+245,10,Gust,22,flying,40,100
+245,11,Gust,22,flying,40,100
+245,14,Gust,22,flying,40,100
+245,15,Gust,22,flying,40,100
+245,16,Gust,22,flying,40,100
+245,8,Aurora Beam,29,ice,65,100
+245,9,Aurora Beam,29,ice,65,100
+245,10,Aurora Beam,29,ice,65,100
+245,11,Aurora Beam,29,ice,65,100
+245,14,Aurora Beam,29,ice,65,100
+245,15,Aurora Beam,29,ice,65,100
+245,16,Aurora Beam,29,ice,65,100
+245,3,Gust,31,flying,40,100
+245,4,Gust,31,flying,40,100
+245,5,Gust,31,flying,40,100
+245,6,Gust,31,flying,40,100
+245,7,Gust,31,flying,40,100
+245,12,Gust,31,flying,40,100
+245,13,Gust,31,flying,40,100
+245,8,Mist,36,ice,-,-
+245,9,Mist,36,ice,-,-
+245,10,Mist,36,ice,-,-
+245,11,Mist,36,ice,-,-
+245,14,Mist,36,ice,-,-
+245,15,Mist,36,ice,-,-
+245,16,Mist,36,ice,-,-
+245,3,Bubble Beam,41,water,65,100
+245,4,Aurora Beam,41,ice,65,100
+245,5,Aurora Beam,41,ice,65,100
+245,6,Aurora Beam,41,ice,65,100
+245,7,Aurora Beam,41,ice,65,100
+245,12,Aurora Beam,41,ice,65,100
+245,13,Aurora Beam,41,ice,65,100
+245,8,Mirror Coat,43,psychic,-,100
+245,9,Mirror Coat,43,psychic,-,100
+245,10,Mirror Coat,43,psychic,-,100
+245,11,Mirror Coat,43,psychic,-,100
+245,14,Mirror Coat,43,psychic,-,100
+245,15,Mirror Coat,43,psychic,-,100
+245,16,Mirror Coat,43,psychic,-,100
+245,8,Ice Fang,50,ice,65,95
+245,9,Ice Fang,50,ice,65,95
+245,10,Ice Fang,50,ice,65,95
+245,11,Ice Fang,50,ice,65,95
+245,14,Ice Fang,50,ice,65,95
+245,15,Ice Fang,50,ice,65,95
+245,16,Ice Fang,50,ice,65,95
+245,3,Mist,51,ice,-,-
+245,4,Mist,51,ice,-,-
+245,5,Mist,51,ice,-,-
+245,6,Mist,51,ice,-,-
+245,7,Mist,51,ice,-,-
+245,12,Mist,51,ice,-,-
+245,13,Mist,51,ice,-,-
+245,8,Tailwind,57,flying,-,-
+245,9,Tailwind,57,flying,-,-
+245,10,Tailwind,57,flying,-,-
+245,11,Tailwind,57,flying,-,-
+245,14,Tailwind,57,flying,-,-
+245,15,Tailwind,57,flying,-,-
+245,16,Tailwind,57,flying,-,-
+245,3,Mirror Coat,61,psychic,-,100
+245,4,Mirror Coat,61,psychic,-,100
+245,5,Mirror Coat,61,psychic,-,100
+245,6,Mirror Coat,61,psychic,-,100
+245,7,Mirror Coat,61,psychic,-,100
+245,12,Mirror Coat,61,psychic,-,100
+245,13,Mirror Coat,61,psychic,-,100
+245,8,Extrasensory,64,psychic,80,100
+245,9,Extrasensory,64,psychic,80,100
+245,10,Extrasensory,64,psychic,80,100
+245,11,Extrasensory,64,psychic,80,100
+245,14,Extrasensory,64,psychic,80,100
+245,15,Extrasensory,64,psychic,80,100
+245,16,Extrasensory,64,psychic,80,100
+245,3,Hydro Pump,71,water,110,80
+245,4,Hydro Pump,71,water,110,80
+245,5,Hydro Pump,71,water,110,80
+245,6,Hydro Pump,71,water,110,80
+245,7,Hydro Pump,71,water,110,80
+245,8,Hydro Pump,71,water,110,80
+245,9,Hydro Pump,71,water,110,80
+245,10,Hydro Pump,71,water,110,80
+245,11,Hydro Pump,71,water,110,80
+245,12,Hydro Pump,71,water,110,80
+245,13,Hydro Pump,71,water,110,80
+245,14,Hydro Pump,71,water,110,80
+245,15,Hydro Pump,71,water,110,80
+245,16,Hydro Pump,71,water,110,80
+245,8,Calm Mind,78,psychic,-,-
+245,9,Calm Mind,78,psychic,-,-
+245,10,Calm Mind,78,psychic,-,-
+245,11,Calm Mind,78,psychic,-,-
+245,14,Calm Mind,78,psychic,-,-
+245,15,Calm Mind,78,psychic,-,-
+245,16,Calm Mind,78,psychic,-,-
+245,5,Calm Mind,81,psychic,-,-
+245,6,Calm Mind,81,psychic,-,-
+245,7,Calm Mind,81,psychic,-,-
+245,12,Calm Mind,81,psychic,-,-
+245,13,Calm Mind,81,psychic,-,-
+245,9,Blizzard,85,ice,110,70
+245,10,Blizzard,85,ice,110,70
+245,11,Blizzard,85,ice,110,70
+245,14,Blizzard,85,ice,110,70
+245,15,Blizzard,85,ice,110,70
+245,16,Blizzard,85,ice,110,70

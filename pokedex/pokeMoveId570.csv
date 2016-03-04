@@ -1,65 +1,65 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-570,zorua,11,10,Scratch,1,1,1
-570,zorua,11,43,Leer,1,1,2
-570,zorua,11,97,Agility,1,37,
-570,zorua,11,154,Fury Swipes,1,13,
-570,zorua,11,184,Scary Face,1,21,
-570,zorua,11,185,Feint Attack,1,17,
-570,zorua,11,228,Pursuit,1,5,
-570,zorua,11,259,Torment,1,33,
-570,zorua,11,269,Taunt,1,25,
-570,zorua,11,286,Imprison,1,53,
-570,zorua,11,313,Fake Tears,1,9,
-570,zorua,11,373,Embargo,1,41,
-570,zorua,11,386,Punishment,1,45,
-570,zorua,11,417,Nasty Plot,1,49,
-570,zorua,11,492,Foul Play,1,29,
-570,zorua,11,539,Night Daze,1,57,
-570,zorua,14,10,Scratch,1,1,1
-570,zorua,14,43,Leer,1,1,2
-570,zorua,14,97,Agility,1,37,
-570,zorua,14,154,Fury Swipes,1,13,
-570,zorua,14,184,Scary Face,1,21,
-570,zorua,14,185,Feint Attack,1,17,
-570,zorua,14,228,Pursuit,1,5,
-570,zorua,14,259,Torment,1,33,
-570,zorua,14,269,Taunt,1,25,
-570,zorua,14,286,Imprison,1,53,
-570,zorua,14,313,Fake Tears,1,9,
-570,zorua,14,373,Embargo,1,41,
-570,zorua,14,386,Punishment,1,45,
-570,zorua,14,417,Nasty Plot,1,49,
-570,zorua,14,492,Foul Play,1,29,
-570,zorua,14,539,Night Daze,1,57,
-570,zorua,15,10,Scratch,1,1,1
-570,zorua,15,43,Leer,1,1,2
-570,zorua,15,97,Agility,1,37,
-570,zorua,15,154,Fury Swipes,1,13,
-570,zorua,15,184,Scary Face,1,21,
-570,zorua,15,185,Feint Attack,1,17,
-570,zorua,15,228,Pursuit,1,5,
-570,zorua,15,259,Torment,1,33,
-570,zorua,15,269,Taunt,1,25,
-570,zorua,15,286,Imprison,1,53,
-570,zorua,15,313,Fake Tears,1,9,
-570,zorua,15,373,Embargo,1,41,
-570,zorua,15,386,Punishment,1,45,
-570,zorua,15,417,Nasty Plot,1,49,
-570,zorua,15,492,Foul Play,1,29,
-570,zorua,15,539,Night Daze,1,57,
-570,zorua,16,10,Scratch,1,1,1
-570,zorua,16,43,Leer,1,1,2
-570,zorua,16,97,Agility,1,37,1
-570,zorua,16,154,Fury Swipes,1,13,1
-570,zorua,16,184,Scary Face,1,21,1
-570,zorua,16,185,Feint Attack,1,17,1
-570,zorua,16,228,Pursuit,1,5,1
-570,zorua,16,259,Torment,1,33,1
-570,zorua,16,269,Taunt,1,25,1
-570,zorua,16,286,Imprison,1,53,1
-570,zorua,16,313,Fake Tears,1,9,1
-570,zorua,16,373,Embargo,1,41,1
-570,zorua,16,386,Punishment,1,45,1
-570,zorua,16,417,Nasty Plot,1,49,1
-570,zorua,16,492,Foul Play,1,29,1
-570,zorua,16,539,Night Daze,1,57,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+570,11,Scratch,1,normal,40,100
+570,11,Leer,1,normal,-,100
+570,14,Scratch,1,normal,40,100
+570,14,Leer,1,normal,-,100
+570,15,Scratch,1,normal,40,100
+570,15,Leer,1,normal,-,100
+570,16,Scratch,1,normal,40,100
+570,16,Leer,1,normal,-,100
+570,11,Pursuit,5,dark,40,100
+570,14,Pursuit,5,dark,40,100
+570,15,Pursuit,5,dark,40,100
+570,16,Pursuit,5,dark,40,100
+570,11,Fake Tears,9,dark,-,100
+570,14,Fake Tears,9,dark,-,100
+570,15,Fake Tears,9,dark,-,100
+570,16,Fake Tears,9,dark,-,100
+570,11,Fury Swipes,13,normal,18,80
+570,14,Fury Swipes,13,normal,18,80
+570,15,Fury Swipes,13,normal,18,80
+570,16,Fury Swipes,13,normal,18,80
+570,11,Feint Attack,17,dark,60,-
+570,14,Feint Attack,17,dark,60,-
+570,15,Feint Attack,17,dark,60,-
+570,16,Feint Attack,17,dark,60,-
+570,11,Scary Face,21,normal,-,100
+570,14,Scary Face,21,normal,-,100
+570,15,Scary Face,21,normal,-,100
+570,16,Scary Face,21,normal,-,100
+570,11,Taunt,25,dark,-,100
+570,14,Taunt,25,dark,-,100
+570,15,Taunt,25,dark,-,100
+570,16,Taunt,25,dark,-,100
+570,11,Foul Play,29,dark,95,100
+570,14,Foul Play,29,dark,95,100
+570,15,Foul Play,29,dark,95,100
+570,16,Foul Play,29,dark,95,100
+570,11,Torment,33,dark,-,100
+570,14,Torment,33,dark,-,100
+570,15,Torment,33,dark,-,100
+570,16,Torment,33,dark,-,100
+570,11,Agility,37,psychic,-,-
+570,14,Agility,37,psychic,-,-
+570,15,Agility,37,psychic,-,-
+570,16,Agility,37,psychic,-,-
+570,11,Embargo,41,dark,-,100
+570,14,Embargo,41,dark,-,100
+570,15,Embargo,41,dark,-,100
+570,16,Embargo,41,dark,-,100
+570,11,Punishment,45,dark,-,100
+570,14,Punishment,45,dark,-,100
+570,15,Punishment,45,dark,-,100
+570,16,Punishment,45,dark,-,100
+570,11,Nasty Plot,49,dark,-,-
+570,14,Nasty Plot,49,dark,-,-
+570,15,Nasty Plot,49,dark,-,-
+570,16,Nasty Plot,49,dark,-,-
+570,11,Imprison,53,psychic,-,-
+570,14,Imprison,53,psychic,-,-
+570,15,Imprison,53,psychic,-,-
+570,16,Imprison,53,psychic,-,-
+570,11,Night Daze,57,dark,85,95
+570,14,Night Daze,57,dark,85,95
+570,15,Night Daze,57,dark,85,95
+570,16,Night Daze,57,dark,85,95

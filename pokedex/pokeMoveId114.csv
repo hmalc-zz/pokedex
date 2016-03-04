@@ -1,222 +1,222 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-114,tangela,1,20,Bind,1,1,2
-114,tangela,1,21,Slam,1,45,
-114,tangela,1,71,Absorb,1,29,
-114,tangela,1,74,Growth,1,49,
-114,tangela,1,77,Poison Powder,1,32,
-114,tangela,1,78,Stun Spore,1,36,
-114,tangela,1,79,Sleep Powder,1,39,
-114,tangela,1,132,Constrict,1,1,1
-114,tangela,2,20,Bind,1,24,
-114,tangela,2,21,Slam,1,45,
-114,tangela,2,22,Vine Whip,1,29,
-114,tangela,2,71,Absorb,1,27,
-114,tangela,2,74,Growth,1,48,
-114,tangela,2,77,Poison Powder,1,32,
-114,tangela,2,78,Stun Spore,1,36,
-114,tangela,2,79,Sleep Powder,1,39,
-114,tangela,2,132,Constrict,1,1,
-114,tangela,3,20,Bind,1,25,
-114,tangela,3,21,Slam,1,40,
-114,tangela,3,22,Vine Whip,1,19,
-114,tangela,3,71,Absorb,1,10,
-114,tangela,3,72,Mega Drain,1,31,
-114,tangela,3,74,Growth,1,46,
-114,tangela,3,77,Poison Powder,1,13,
-114,tangela,3,78,Stun Spore,1,34,
-114,tangela,3,79,Sleep Powder,1,4,
-114,tangela,3,132,Constrict,1,1,
-114,tangela,4,20,Bind,1,25,
-114,tangela,4,21,Slam,1,40,
-114,tangela,4,22,Vine Whip,1,19,
-114,tangela,4,71,Absorb,1,10,
-114,tangela,4,72,Mega Drain,1,31,
-114,tangela,4,74,Growth,1,46,
-114,tangela,4,77,Poison Powder,1,13,
-114,tangela,4,78,Stun Spore,1,34,
-114,tangela,4,79,Sleep Powder,1,4,
-114,tangela,4,132,Constrict,1,1,
-114,tangela,5,20,Bind,1,28,
-114,tangela,5,21,Slam,1,40,
-114,tangela,5,22,Vine Whip,1,22,
-114,tangela,5,71,Absorb,1,10,
-114,tangela,5,72,Mega Drain,1,31,
-114,tangela,5,74,Growth,1,13,
-114,tangela,5,77,Poison Powder,1,19,
-114,tangela,5,78,Stun Spore,1,37,
-114,tangela,5,79,Sleep Powder,1,4,
-114,tangela,5,132,Constrict,1,1,2
-114,tangela,5,275,Ingrain,1,1,1
-114,tangela,5,321,Tickle,1,46,
-114,tangela,6,20,Bind,1,28,
-114,tangela,6,21,Slam,1,40,
-114,tangela,6,22,Vine Whip,1,22,
-114,tangela,6,71,Absorb,1,10,
-114,tangela,6,72,Mega Drain,1,31,
-114,tangela,6,74,Growth,1,13,
-114,tangela,6,77,Poison Powder,1,19,
-114,tangela,6,78,Stun Spore,1,37,
-114,tangela,6,79,Sleep Powder,1,4,
-114,tangela,6,132,Constrict,1,1,2
-114,tangela,6,275,Ingrain,1,1,1
-114,tangela,6,321,Tickle,1,46,
-114,tangela,7,20,Bind,1,28,
-114,tangela,7,21,Slam,1,40,
-114,tangela,7,22,Vine Whip,1,22,
-114,tangela,7,71,Absorb,1,10,
-114,tangela,7,72,Mega Drain,1,31,
-114,tangela,7,74,Growth,1,13,
-114,tangela,7,77,Poison Powder,1,19,
-114,tangela,7,78,Stun Spore,1,37,
-114,tangela,7,79,Sleep Powder,1,4,
-114,tangela,7,132,Constrict,1,1,2
-114,tangela,7,275,Ingrain,1,1,1
-114,tangela,7,321,Tickle,1,46,
-114,tangela,8,20,Bind,1,22,
-114,tangela,8,21,Slam,1,43,
-114,tangela,8,22,Vine Whip,1,19,
-114,tangela,8,71,Absorb,1,8,
-114,tangela,8,72,Mega Drain,1,26,
-114,tangela,8,74,Growth,1,12,
-114,tangela,8,77,Poison Powder,1,15,
-114,tangela,8,78,Stun Spore,1,29,
-114,tangela,8,79,Sleep Powder,1,5,
-114,tangela,8,132,Constrict,1,1,2
-114,tangela,8,246,Ancient Power,1,33,
-114,tangela,8,275,Ingrain,1,1,1
-114,tangela,8,282,Knock Off,1,36,
-114,tangela,8,321,Tickle,1,47,
-114,tangela,8,363,Natural Gift,1,40,
-114,tangela,8,378,Wring Out,1,50,
-114,tangela,8,438,Power Whip,1,54,
-114,tangela,9,20,Bind,1,22,
-114,tangela,9,21,Slam,1,43,
-114,tangela,9,22,Vine Whip,1,19,
-114,tangela,9,71,Absorb,1,8,
-114,tangela,9,72,Mega Drain,1,26,
-114,tangela,9,74,Growth,1,12,
-114,tangela,9,77,Poison Powder,1,15,
-114,tangela,9,78,Stun Spore,1,29,
-114,tangela,9,79,Sleep Powder,1,5,
-114,tangela,9,132,Constrict,1,1,2
-114,tangela,9,246,Ancient Power,1,33,
-114,tangela,9,275,Ingrain,1,1,1
-114,tangela,9,282,Knock Off,1,36,
-114,tangela,9,321,Tickle,1,47,
-114,tangela,9,363,Natural Gift,1,40,
-114,tangela,9,378,Wring Out,1,50,
-114,tangela,9,438,Power Whip,1,54,
-114,tangela,10,20,Bind,1,22,
-114,tangela,10,21,Slam,1,43,
-114,tangela,10,22,Vine Whip,1,19,
-114,tangela,10,71,Absorb,1,8,
-114,tangela,10,72,Mega Drain,1,26,
-114,tangela,10,74,Growth,1,12,
-114,tangela,10,77,Poison Powder,1,15,
-114,tangela,10,78,Stun Spore,1,29,
-114,tangela,10,79,Sleep Powder,1,5,
-114,tangela,10,132,Constrict,1,1,2
-114,tangela,10,246,Ancient Power,1,33,
-114,tangela,10,275,Ingrain,1,1,1
-114,tangela,10,282,Knock Off,1,36,
-114,tangela,10,321,Tickle,1,47,
-114,tangela,10,363,Natural Gift,1,40,
-114,tangela,10,378,Wring Out,1,50,
-114,tangela,10,438,Power Whip,1,54,
-114,tangela,11,20,Bind,1,22,
-114,tangela,11,21,Slam,1,43,
-114,tangela,11,22,Vine Whip,1,19,
-114,tangela,11,71,Absorb,1,8,
-114,tangela,11,72,Mega Drain,1,26,
-114,tangela,11,74,Growth,1,12,
-114,tangela,11,77,Poison Powder,1,15,
-114,tangela,11,78,Stun Spore,1,29,
-114,tangela,11,79,Sleep Powder,1,5,
-114,tangela,11,132,Constrict,1,1,2
-114,tangela,11,246,Ancient Power,1,36,
-114,tangela,11,275,Ingrain,1,1,1
-114,tangela,11,282,Knock Off,1,33,
-114,tangela,11,321,Tickle,1,47,
-114,tangela,11,363,Natural Gift,1,40,
-114,tangela,11,378,Wring Out,1,50,
-114,tangela,11,438,Power Whip,1,54,
-114,tangela,12,20,Bind,1,28,
-114,tangela,12,21,Slam,1,40,
-114,tangela,12,22,Vine Whip,1,22,
-114,tangela,12,71,Absorb,1,10,
-114,tangela,12,72,Mega Drain,1,31,
-114,tangela,12,74,Growth,1,13,
-114,tangela,12,77,Poison Powder,1,19,
-114,tangela,12,78,Stun Spore,1,37,
-114,tangela,12,79,Sleep Powder,1,4,
-114,tangela,12,132,Constrict,1,1,2
-114,tangela,12,275,Ingrain,1,1,1
-114,tangela,12,321,Tickle,1,46,
-114,tangela,13,20,Bind,1,28,
-114,tangela,13,21,Slam,1,40,
-114,tangela,13,22,Vine Whip,1,22,
-114,tangela,13,71,Absorb,1,10,
-114,tangela,13,72,Mega Drain,1,31,
-114,tangela,13,74,Growth,1,13,
-114,tangela,13,77,Poison Powder,1,19,
-114,tangela,13,78,Stun Spore,1,37,
-114,tangela,13,79,Sleep Powder,1,4,
-114,tangela,13,132,Constrict,1,1,2
-114,tangela,13,275,Ingrain,1,1,1
-114,tangela,13,321,Tickle,1,46,
-114,tangela,14,20,Bind,1,17,
-114,tangela,14,21,Slam,1,43,
-114,tangela,14,22,Vine Whip,1,7,
-114,tangela,14,71,Absorb,1,10,
-114,tangela,14,72,Mega Drain,1,23,
-114,tangela,14,74,Growth,1,20,
-114,tangela,14,77,Poison Powder,1,14,
-114,tangela,14,78,Stun Spore,1,30,
-114,tangela,14,79,Sleep Powder,1,4,
-114,tangela,14,132,Constrict,1,1,2
-114,tangela,14,202,Giga Drain,1,36,
-114,tangela,14,246,Ancient Power,1,40,
-114,tangela,14,275,Ingrain,1,1,1
-114,tangela,14,282,Knock Off,1,27,
-114,tangela,14,321,Tickle,1,46,
-114,tangela,14,363,Natural Gift,1,33,
-114,tangela,14,378,Wring Out,1,49,
-114,tangela,14,438,Power Whip,1,53,
-114,tangela,15,20,Bind,1,17,
-114,tangela,15,21,Slam,1,41,
-114,tangela,15,22,Vine Whip,1,7,
-114,tangela,15,71,Absorb,1,10,
-114,tangela,15,72,Mega Drain,1,23,
-114,tangela,15,74,Growth,1,20,
-114,tangela,15,77,Poison Powder,1,14,
-114,tangela,15,78,Stun Spore,1,30,
-114,tangela,15,79,Sleep Powder,1,4,
-114,tangela,15,132,Constrict,1,1,2
-114,tangela,15,202,Giga Drain,1,36,
-114,tangela,15,246,Ancient Power,1,38,
-114,tangela,15,275,Ingrain,1,1,1
-114,tangela,15,282,Knock Off,1,27,
-114,tangela,15,321,Tickle,1,44,
-114,tangela,15,363,Natural Gift,1,33,
-114,tangela,15,378,Wring Out,1,46,
-114,tangela,15,438,Power Whip,1,50,
-114,tangela,15,580,Grassy Terrain,1,48,
-114,tangela,16,20,Bind,1,17,1
-114,tangela,16,21,Slam,1,41,1
-114,tangela,16,22,Vine Whip,1,7,1
-114,tangela,16,71,Absorb,1,10,1
-114,tangela,16,72,Mega Drain,1,23,1
-114,tangela,16,74,Growth,1,20,1
-114,tangela,16,77,Poison Powder,1,14,1
-114,tangela,16,78,Stun Spore,1,30,1
-114,tangela,16,79,Sleep Powder,1,4,1
-114,tangela,16,132,Constrict,1,1,2
-114,tangela,16,202,Giga Drain,1,36,1
-114,tangela,16,246,Ancient Power,1,38,1
-114,tangela,16,275,Ingrain,1,1,1
-114,tangela,16,282,Knock Off,1,27,1
-114,tangela,16,321,Tickle,1,44,1
-114,tangela,16,363,Natural Gift,1,33,1
-114,tangela,16,378,Wring Out,1,46,1
-114,tangela,16,438,Power Whip,1,50,1
-114,tangela,16,580,Grassy Terrain,1,48,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+114,1,Bind,1,normal,15,85
+114,1,Constrict,1,normal,10,100
+114,2,Constrict,1,normal,10,100
+114,3,Constrict,1,normal,10,100
+114,4,Constrict,1,normal,10,100
+114,5,Constrict,1,normal,10,100
+114,5,Ingrain,1,grass,-,-
+114,6,Constrict,1,normal,10,100
+114,6,Ingrain,1,grass,-,-
+114,7,Constrict,1,normal,10,100
+114,7,Ingrain,1,grass,-,-
+114,8,Constrict,1,normal,10,100
+114,8,Ingrain,1,grass,-,-
+114,9,Constrict,1,normal,10,100
+114,9,Ingrain,1,grass,-,-
+114,10,Constrict,1,normal,10,100
+114,10,Ingrain,1,grass,-,-
+114,11,Constrict,1,normal,10,100
+114,11,Ingrain,1,grass,-,-
+114,12,Constrict,1,normal,10,100
+114,12,Ingrain,1,grass,-,-
+114,13,Constrict,1,normal,10,100
+114,13,Ingrain,1,grass,-,-
+114,14,Constrict,1,normal,10,100
+114,14,Ingrain,1,grass,-,-
+114,15,Constrict,1,normal,10,100
+114,15,Ingrain,1,grass,-,-
+114,16,Constrict,1,normal,10,100
+114,16,Ingrain,1,grass,-,-
+114,3,Sleep Powder,4,grass,-,75
+114,4,Sleep Powder,4,grass,-,75
+114,5,Sleep Powder,4,grass,-,75
+114,6,Sleep Powder,4,grass,-,75
+114,7,Sleep Powder,4,grass,-,75
+114,12,Sleep Powder,4,grass,-,75
+114,13,Sleep Powder,4,grass,-,75
+114,14,Sleep Powder,4,grass,-,75
+114,15,Sleep Powder,4,grass,-,75
+114,16,Sleep Powder,4,grass,-,75
+114,8,Sleep Powder,5,grass,-,75
+114,9,Sleep Powder,5,grass,-,75
+114,10,Sleep Powder,5,grass,-,75
+114,11,Sleep Powder,5,grass,-,75
+114,14,Vine Whip,7,grass,45,100
+114,15,Vine Whip,7,grass,45,100
+114,16,Vine Whip,7,grass,45,100
+114,8,Absorb,8,grass,20,100
+114,9,Absorb,8,grass,20,100
+114,10,Absorb,8,grass,20,100
+114,11,Absorb,8,grass,20,100
+114,3,Absorb,10,grass,20,100
+114,4,Absorb,10,grass,20,100
+114,5,Absorb,10,grass,20,100
+114,6,Absorb,10,grass,20,100
+114,7,Absorb,10,grass,20,100
+114,12,Absorb,10,grass,20,100
+114,13,Absorb,10,grass,20,100
+114,14,Absorb,10,grass,20,100
+114,15,Absorb,10,grass,20,100
+114,16,Absorb,10,grass,20,100
+114,8,Growth,12,normal,-,-
+114,9,Growth,12,normal,-,-
+114,10,Growth,12,normal,-,-
+114,11,Growth,12,normal,-,-
+114,3,Poison Powder,13,poison,-,75
+114,4,Poison Powder,13,poison,-,75
+114,5,Growth,13,normal,-,-
+114,6,Growth,13,normal,-,-
+114,7,Growth,13,normal,-,-
+114,12,Growth,13,normal,-,-
+114,13,Growth,13,normal,-,-
+114,14,Poison Powder,14,poison,-,75
+114,15,Poison Powder,14,poison,-,75
+114,16,Poison Powder,14,poison,-,75
+114,8,Poison Powder,15,poison,-,75
+114,9,Poison Powder,15,poison,-,75
+114,10,Poison Powder,15,poison,-,75
+114,11,Poison Powder,15,poison,-,75
+114,14,Bind,17,normal,15,85
+114,15,Bind,17,normal,15,85
+114,16,Bind,17,normal,15,85
+114,3,Vine Whip,19,grass,45,100
+114,4,Vine Whip,19,grass,45,100
+114,5,Poison Powder,19,poison,-,75
+114,6,Poison Powder,19,poison,-,75
+114,7,Poison Powder,19,poison,-,75
+114,8,Vine Whip,19,grass,45,100
+114,9,Vine Whip,19,grass,45,100
+114,10,Vine Whip,19,grass,45,100
+114,11,Vine Whip,19,grass,45,100
+114,12,Poison Powder,19,poison,-,75
+114,13,Poison Powder,19,poison,-,75
+114,14,Growth,20,normal,-,-
+114,15,Growth,20,normal,-,-
+114,16,Growth,20,normal,-,-
+114,5,Vine Whip,22,grass,45,100
+114,6,Vine Whip,22,grass,45,100
+114,7,Vine Whip,22,grass,45,100
+114,8,Bind,22,normal,15,85
+114,9,Bind,22,normal,15,85
+114,10,Bind,22,normal,15,85
+114,11,Bind,22,normal,15,85
+114,12,Vine Whip,22,grass,45,100
+114,13,Vine Whip,22,grass,45,100
+114,14,Mega Drain,23,grass,40,100
+114,15,Mega Drain,23,grass,40,100
+114,16,Mega Drain,23,grass,40,100
+114,2,Bind,24,normal,15,85
+114,3,Bind,25,normal,15,85
+114,4,Bind,25,normal,15,85
+114,8,Mega Drain,26,grass,40,100
+114,9,Mega Drain,26,grass,40,100
+114,10,Mega Drain,26,grass,40,100
+114,11,Mega Drain,26,grass,40,100
+114,2,Absorb,27,grass,20,100
+114,14,Knock Off,27,dark,65,100
+114,15,Knock Off,27,dark,65,100
+114,16,Knock Off,27,dark,65,100
+114,5,Bind,28,normal,15,85
+114,6,Bind,28,normal,15,85
+114,7,Bind,28,normal,15,85
+114,12,Bind,28,normal,15,85
+114,13,Bind,28,normal,15,85
+114,1,Absorb,29,grass,20,100
+114,2,Vine Whip,29,grass,45,100
+114,8,Stun Spore,29,grass,-,75
+114,9,Stun Spore,29,grass,-,75
+114,10,Stun Spore,29,grass,-,75
+114,11,Stun Spore,29,grass,-,75
+114,14,Stun Spore,30,grass,-,75
+114,15,Stun Spore,30,grass,-,75
+114,16,Stun Spore,30,grass,-,75
+114,3,Mega Drain,31,grass,40,100
+114,4,Mega Drain,31,grass,40,100
+114,5,Mega Drain,31,grass,40,100
+114,6,Mega Drain,31,grass,40,100
+114,7,Mega Drain,31,grass,40,100
+114,12,Mega Drain,31,grass,40,100
+114,13,Mega Drain,31,grass,40,100
+114,1,Poison Powder,32,poison,-,75
+114,2,Poison Powder,32,poison,-,75
+114,8,Ancient Power,33,rock,60,100
+114,9,Ancient Power,33,rock,60,100
+114,10,Ancient Power,33,rock,60,100
+114,11,Knock Off,33,dark,65,100
+114,14,Natural Gift,33,normal,-,100
+114,15,Natural Gift,33,normal,-,100
+114,16,Natural Gift,33,normal,-,100
+114,3,Stun Spore,34,grass,-,75
+114,4,Stun Spore,34,grass,-,75
+114,1,Stun Spore,36,grass,-,75
+114,2,Stun Spore,36,grass,-,75
+114,8,Knock Off,36,dark,65,100
+114,9,Knock Off,36,dark,65,100
+114,10,Knock Off,36,dark,65,100
+114,11,Ancient Power,36,rock,60,100
+114,14,Giga Drain,36,grass,75,100
+114,15,Giga Drain,36,grass,75,100
+114,16,Giga Drain,36,grass,75,100
+114,5,Stun Spore,37,grass,-,75
+114,6,Stun Spore,37,grass,-,75
+114,7,Stun Spore,37,grass,-,75
+114,12,Stun Spore,37,grass,-,75
+114,13,Stun Spore,37,grass,-,75
+114,15,Ancient Power,38,rock,60,100
+114,16,Ancient Power,38,rock,60,100
+114,1,Sleep Powder,39,grass,-,75
+114,2,Sleep Powder,39,grass,-,75
+114,3,Slam,40,normal,80,75
+114,4,Slam,40,normal,80,75
+114,5,Slam,40,normal,80,75
+114,6,Slam,40,normal,80,75
+114,7,Slam,40,normal,80,75
+114,8,Natural Gift,40,normal,-,100
+114,9,Natural Gift,40,normal,-,100
+114,10,Natural Gift,40,normal,-,100
+114,11,Natural Gift,40,normal,-,100
+114,12,Slam,40,normal,80,75
+114,13,Slam,40,normal,80,75
+114,14,Ancient Power,40,rock,60,100
+114,15,Slam,41,normal,80,75
+114,16,Slam,41,normal,80,75
+114,8,Slam,43,normal,80,75
+114,9,Slam,43,normal,80,75
+114,10,Slam,43,normal,80,75
+114,11,Slam,43,normal,80,75
+114,14,Slam,43,normal,80,75
+114,15,Tickle,44,normal,-,100
+114,16,Tickle,44,normal,-,100
+114,1,Slam,45,normal,80,75
+114,2,Slam,45,normal,80,75
+114,3,Growth,46,normal,-,-
+114,4,Growth,46,normal,-,-
+114,5,Tickle,46,normal,-,100
+114,6,Tickle,46,normal,-,100
+114,7,Tickle,46,normal,-,100
+114,12,Tickle,46,normal,-,100
+114,13,Tickle,46,normal,-,100
+114,14,Tickle,46,normal,-,100
+114,15,Wring Out,46,normal,-,100
+114,16,Wring Out,46,normal,-,100
+114,8,Tickle,47,normal,-,100
+114,9,Tickle,47,normal,-,100
+114,10,Tickle,47,normal,-,100
+114,11,Tickle,47,normal,-,100
+114,2,Growth,48,normal,-,-
+114,15,Grassy Terrain,48,grass,-,-
+114,16,Grassy Terrain,48,grass,-,-
+114,1,Growth,49,normal,-,-
+114,14,Wring Out,49,normal,-,100
+114,8,Wring Out,50,normal,-,100
+114,9,Wring Out,50,normal,-,100
+114,10,Wring Out,50,normal,-,100
+114,11,Wring Out,50,normal,-,100
+114,15,Power Whip,50,grass,120,85
+114,16,Power Whip,50,grass,120,85
+114,14,Power Whip,53,grass,120,85
+114,8,Power Whip,54,grass,120,85
+114,9,Power Whip,54,grass,120,85
+114,10,Power Whip,54,grass,120,85
+114,11,Power Whip,54,grass,120,85

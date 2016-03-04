@@ -1,35 +1,35 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-701,hawlucha,15,2,Karate Chop,1,4,
-701,hawlucha,15,14,Swords Dance,1,60,
-701,hawlucha,15,17,Wing Attack,1,8,
-701,hawlucha,15,33,Tackle,1,1,2
-701,hawlucha,15,136,High Jump Kick,1,44,
-701,hawlucha,15,143,Sky Attack,1,48,
-701,hawlucha,15,197,Detect,1,1,1
-701,hawlucha,15,227,Encore,1,20,
-701,hawlucha,15,283,Endeavor,1,36,
-701,hawlucha,15,297,Feather Dance,1,40,
-701,hawlucha,15,332,Aerial Ace,1,16,
-701,hawlucha,15,340,Bounce,1,32,
-701,hawlucha,15,355,Roost,1,12,
-701,hawlucha,15,374,Fling,1,24,
-701,hawlucha,15,468,Hone Claws,1,1,3
-701,hawlucha,15,507,Sky Drop,1,55,
-701,hawlucha,15,560,Flying Press,1,28,
-701,hawlucha,16,2,Karate Chop,1,4,1
-701,hawlucha,16,14,Swords Dance,1,60,1
-701,hawlucha,16,17,Wing Attack,1,8,1
-701,hawlucha,16,33,Tackle,1,1,2
-701,hawlucha,16,136,High Jump Kick,1,44,1
-701,hawlucha,16,143,Sky Attack,1,48,1
-701,hawlucha,16,197,Detect,1,1,1
-701,hawlucha,16,227,Encore,1,20,1
-701,hawlucha,16,283,Endeavor,1,36,1
-701,hawlucha,16,297,Feather Dance,1,40,1
-701,hawlucha,16,332,Aerial Ace,1,16,1
-701,hawlucha,16,340,Bounce,1,32,1
-701,hawlucha,16,355,Roost,1,12,1
-701,hawlucha,16,374,Fling,1,24,1
-701,hawlucha,16,468,Hone Claws,1,1,3
-701,hawlucha,16,507,Sky Drop,1,55,1
-701,hawlucha,16,560,Flying Press,1,28,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+701,15,Tackle,1,normal,50,100
+701,15,Detect,1,fighting,-,-
+701,15,Hone Claws,1,dark,-,-
+701,16,Tackle,1,normal,50,100
+701,16,Detect,1,fighting,-,-
+701,16,Hone Claws,1,dark,-,-
+701,15,Karate Chop,4,fighting,50,100
+701,16,Karate Chop,4,fighting,50,100
+701,15,Wing Attack,8,flying,60,100
+701,16,Wing Attack,8,flying,60,100
+701,15,Roost,12,flying,-,-
+701,16,Roost,12,flying,-,-
+701,15,Aerial Ace,16,flying,60,-
+701,16,Aerial Ace,16,flying,60,-
+701,15,Encore,20,normal,-,100
+701,16,Encore,20,normal,-,100
+701,15,Fling,24,dark,-,100
+701,16,Fling,24,dark,-,100
+701,15,Flying Press,28,fighting,80,95
+701,16,Flying Press,28,fighting,80,95
+701,15,Bounce,32,flying,85,85
+701,16,Bounce,32,flying,85,85
+701,15,Endeavor,36,normal,-,100
+701,16,Endeavor,36,normal,-,100
+701,15,Feather Dance,40,flying,-,100
+701,16,Feather Dance,40,flying,-,100
+701,15,High Jump Kick,44,fighting,130,90
+701,16,High Jump Kick,44,fighting,130,90
+701,15,Sky Attack,48,flying,140,90
+701,16,Sky Attack,48,flying,140,90
+701,15,Sky Drop,55,flying,60,100
+701,16,Sky Drop,55,flying,60,100
+701,15,Swords Dance,60,normal,-,-
+701,16,Swords Dance,60,normal,-,-

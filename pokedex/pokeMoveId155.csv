@@ -1,156 +1,156 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-155,cyndaquil,3,33,Tackle,1,1,1
-155,cyndaquil,3,43,Leer,1,1,2
-155,cyndaquil,3,52,Ember,1,12,
-155,cyndaquil,3,53,Flamethrower,1,46,
-155,cyndaquil,3,98,Quick Attack,1,19,
-155,cyndaquil,3,108,Smokescreen,1,6,
-155,cyndaquil,3,129,Swift,1,36,
-155,cyndaquil,3,172,Flame Wheel,1,27,
-155,cyndaquil,4,33,Tackle,1,1,1
-155,cyndaquil,4,43,Leer,1,1,2
-155,cyndaquil,4,52,Ember,1,12,
-155,cyndaquil,4,53,Flamethrower,1,46,
-155,cyndaquil,4,98,Quick Attack,1,19,
-155,cyndaquil,4,108,Smokescreen,1,6,
-155,cyndaquil,4,129,Swift,1,36,
-155,cyndaquil,4,172,Flame Wheel,1,27,
-155,cyndaquil,5,33,Tackle,1,1,1
-155,cyndaquil,5,43,Leer,1,1,2
-155,cyndaquil,5,52,Ember,1,12,
-155,cyndaquil,5,53,Flamethrower,1,46,
-155,cyndaquil,5,98,Quick Attack,1,19,
-155,cyndaquil,5,108,Smokescreen,1,6,
-155,cyndaquil,5,129,Swift,1,36,
-155,cyndaquil,5,172,Flame Wheel,1,27,
-155,cyndaquil,6,33,Tackle,1,1,1
-155,cyndaquil,6,43,Leer,1,1,2
-155,cyndaquil,6,52,Ember,1,12,
-155,cyndaquil,6,53,Flamethrower,1,46,
-155,cyndaquil,6,98,Quick Attack,1,19,
-155,cyndaquil,6,108,Smokescreen,1,6,
-155,cyndaquil,6,129,Swift,1,36,
-155,cyndaquil,6,172,Flame Wheel,1,27,
-155,cyndaquil,7,33,Tackle,1,1,1
-155,cyndaquil,7,43,Leer,1,1,2
-155,cyndaquil,7,52,Ember,1,12,
-155,cyndaquil,7,53,Flamethrower,1,46,
-155,cyndaquil,7,98,Quick Attack,1,19,
-155,cyndaquil,7,108,Smokescreen,1,6,
-155,cyndaquil,7,129,Swift,1,36,
-155,cyndaquil,7,172,Flame Wheel,1,27,
-155,cyndaquil,8,33,Tackle,1,1,1
-155,cyndaquil,8,38,Double-Edge,1,46,
-155,cyndaquil,8,43,Leer,1,1,2
-155,cyndaquil,8,52,Ember,1,10,
-155,cyndaquil,8,53,Flamethrower,1,37,
-155,cyndaquil,8,98,Quick Attack,1,13,
-155,cyndaquil,8,108,Smokescreen,1,4,
-155,cyndaquil,8,111,Defense Curl,1,22,
-155,cyndaquil,8,129,Swift,1,28,
-155,cyndaquil,8,172,Flame Wheel,1,19,
-155,cyndaquil,8,205,Rollout,1,40,
-155,cyndaquil,8,284,Eruption,1,49,
-155,cyndaquil,8,436,Lava Plume,1,31,
-155,cyndaquil,9,33,Tackle,1,1,1
-155,cyndaquil,9,38,Double-Edge,1,46,
-155,cyndaquil,9,43,Leer,1,1,2
-155,cyndaquil,9,52,Ember,1,10,
-155,cyndaquil,9,53,Flamethrower,1,37,
-155,cyndaquil,9,98,Quick Attack,1,13,
-155,cyndaquil,9,108,Smokescreen,1,4,
-155,cyndaquil,9,111,Defense Curl,1,22,
-155,cyndaquil,9,129,Swift,1,28,
-155,cyndaquil,9,172,Flame Wheel,1,19,
-155,cyndaquil,9,205,Rollout,1,40,
-155,cyndaquil,9,284,Eruption,1,49,
-155,cyndaquil,9,436,Lava Plume,1,31,
-155,cyndaquil,10,33,Tackle,1,1,1
-155,cyndaquil,10,38,Double-Edge,1,46,
-155,cyndaquil,10,43,Leer,1,1,2
-155,cyndaquil,10,52,Ember,1,10,
-155,cyndaquil,10,53,Flamethrower,1,37,
-155,cyndaquil,10,98,Quick Attack,1,13,
-155,cyndaquil,10,108,Smokescreen,1,6,
-155,cyndaquil,10,111,Defense Curl,1,22,
-155,cyndaquil,10,129,Swift,1,28,
-155,cyndaquil,10,172,Flame Wheel,1,19,
-155,cyndaquil,10,205,Rollout,1,40,
-155,cyndaquil,10,284,Eruption,1,49,
-155,cyndaquil,10,436,Lava Plume,1,31,
-155,cyndaquil,11,33,Tackle,1,1,1
-155,cyndaquil,11,38,Double-Edge,1,55,
-155,cyndaquil,11,43,Leer,1,1,2
-155,cyndaquil,11,52,Ember,1,10,
-155,cyndaquil,11,53,Flamethrower,1,40,
-155,cyndaquil,11,98,Quick Attack,1,13,
-155,cyndaquil,11,108,Smokescreen,1,6,
-155,cyndaquil,11,111,Defense Curl,1,22,
-155,cyndaquil,11,129,Swift,1,31,
-155,cyndaquil,11,172,Flame Wheel,1,19,
-155,cyndaquil,11,205,Rollout,1,49,
-155,cyndaquil,11,284,Eruption,1,58,
-155,cyndaquil,11,436,Lava Plume,1,37,
-155,cyndaquil,11,488,Flame Charge,1,28,
-155,cyndaquil,11,517,Inferno,1,46,
-155,cyndaquil,12,33,Tackle,1,1,1
-155,cyndaquil,12,43,Leer,1,1,2
-155,cyndaquil,12,52,Ember,1,12,
-155,cyndaquil,12,53,Flamethrower,1,46,
-155,cyndaquil,12,98,Quick Attack,1,19,
-155,cyndaquil,12,108,Smokescreen,1,6,
-155,cyndaquil,12,129,Swift,1,36,
-155,cyndaquil,12,172,Flame Wheel,1,27,
-155,cyndaquil,13,33,Tackle,1,1,1
-155,cyndaquil,13,43,Leer,1,1,2
-155,cyndaquil,13,52,Ember,1,12,
-155,cyndaquil,13,53,Flamethrower,1,46,
-155,cyndaquil,13,98,Quick Attack,1,19,
-155,cyndaquil,13,108,Smokescreen,1,6,
-155,cyndaquil,13,129,Swift,1,36,
-155,cyndaquil,13,172,Flame Wheel,1,27,
-155,cyndaquil,14,33,Tackle,1,1,1
-155,cyndaquil,14,38,Double-Edge,1,55,
-155,cyndaquil,14,43,Leer,1,1,2
-155,cyndaquil,14,52,Ember,1,10,
-155,cyndaquil,14,53,Flamethrower,1,40,
-155,cyndaquil,14,98,Quick Attack,1,13,
-155,cyndaquil,14,108,Smokescreen,1,6,
-155,cyndaquil,14,111,Defense Curl,1,22,
-155,cyndaquil,14,129,Swift,1,31,
-155,cyndaquil,14,172,Flame Wheel,1,19,
-155,cyndaquil,14,205,Rollout,1,49,
-155,cyndaquil,14,284,Eruption,1,58,
-155,cyndaquil,14,436,Lava Plume,1,37,
-155,cyndaquil,14,488,Flame Charge,1,28,
-155,cyndaquil,14,517,Inferno,1,46,
-155,cyndaquil,15,33,Tackle,1,1,1
-155,cyndaquil,15,38,Double-Edge,1,55,
-155,cyndaquil,15,43,Leer,1,1,2
-155,cyndaquil,15,52,Ember,1,10,
-155,cyndaquil,15,53,Flamethrower,1,40,
-155,cyndaquil,15,98,Quick Attack,1,13,
-155,cyndaquil,15,108,Smokescreen,1,6,
-155,cyndaquil,15,111,Defense Curl,1,22,
-155,cyndaquil,15,129,Swift,1,31,
-155,cyndaquil,15,172,Flame Wheel,1,19,
-155,cyndaquil,15,205,Rollout,1,49,
-155,cyndaquil,15,284,Eruption,1,58,
-155,cyndaquil,15,436,Lava Plume,1,37,
-155,cyndaquil,15,488,Flame Charge,1,28,
-155,cyndaquil,15,517,Inferno,1,46,
-155,cyndaquil,16,33,Tackle,1,1,1
-155,cyndaquil,16,38,Double-Edge,1,55,1
-155,cyndaquil,16,43,Leer,1,1,2
-155,cyndaquil,16,52,Ember,1,10,1
-155,cyndaquil,16,53,Flamethrower,1,40,1
-155,cyndaquil,16,98,Quick Attack,1,13,1
-155,cyndaquil,16,108,Smokescreen,1,6,1
-155,cyndaquil,16,111,Defense Curl,1,22,1
-155,cyndaquil,16,129,Swift,1,31,1
-155,cyndaquil,16,172,Flame Wheel,1,19,1
-155,cyndaquil,16,205,Rollout,1,49,1
-155,cyndaquil,16,284,Eruption,1,58,1
-155,cyndaquil,16,436,Lava Plume,1,37,1
-155,cyndaquil,16,488,Flame Charge,1,28,1
-155,cyndaquil,16,517,Inferno,1,46,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+155,3,Tackle,1,normal,50,100
+155,3,Leer,1,normal,-,100
+155,4,Tackle,1,normal,50,100
+155,4,Leer,1,normal,-,100
+155,5,Tackle,1,normal,50,100
+155,5,Leer,1,normal,-,100
+155,6,Tackle,1,normal,50,100
+155,6,Leer,1,normal,-,100
+155,7,Tackle,1,normal,50,100
+155,7,Leer,1,normal,-,100
+155,8,Tackle,1,normal,50,100
+155,8,Leer,1,normal,-,100
+155,9,Tackle,1,normal,50,100
+155,9,Leer,1,normal,-,100
+155,10,Tackle,1,normal,50,100
+155,10,Leer,1,normal,-,100
+155,11,Tackle,1,normal,50,100
+155,11,Leer,1,normal,-,100
+155,12,Tackle,1,normal,50,100
+155,12,Leer,1,normal,-,100
+155,13,Tackle,1,normal,50,100
+155,13,Leer,1,normal,-,100
+155,14,Tackle,1,normal,50,100
+155,14,Leer,1,normal,-,100
+155,15,Tackle,1,normal,50,100
+155,15,Leer,1,normal,-,100
+155,16,Tackle,1,normal,50,100
+155,16,Leer,1,normal,-,100
+155,8,Smokescreen,4,normal,-,100
+155,9,Smokescreen,4,normal,-,100
+155,3,Smokescreen,6,normal,-,100
+155,4,Smokescreen,6,normal,-,100
+155,5,Smokescreen,6,normal,-,100
+155,6,Smokescreen,6,normal,-,100
+155,7,Smokescreen,6,normal,-,100
+155,10,Smokescreen,6,normal,-,100
+155,11,Smokescreen,6,normal,-,100
+155,12,Smokescreen,6,normal,-,100
+155,13,Smokescreen,6,normal,-,100
+155,14,Smokescreen,6,normal,-,100
+155,15,Smokescreen,6,normal,-,100
+155,16,Smokescreen,6,normal,-,100
+155,8,Ember,10,fire,40,100
+155,9,Ember,10,fire,40,100
+155,10,Ember,10,fire,40,100
+155,11,Ember,10,fire,40,100
+155,14,Ember,10,fire,40,100
+155,15,Ember,10,fire,40,100
+155,16,Ember,10,fire,40,100
+155,3,Ember,12,fire,40,100
+155,4,Ember,12,fire,40,100
+155,5,Ember,12,fire,40,100
+155,6,Ember,12,fire,40,100
+155,7,Ember,12,fire,40,100
+155,12,Ember,12,fire,40,100
+155,13,Ember,12,fire,40,100
+155,8,Quick Attack,13,normal,40,100
+155,9,Quick Attack,13,normal,40,100
+155,10,Quick Attack,13,normal,40,100
+155,11,Quick Attack,13,normal,40,100
+155,14,Quick Attack,13,normal,40,100
+155,15,Quick Attack,13,normal,40,100
+155,16,Quick Attack,13,normal,40,100
+155,3,Quick Attack,19,normal,40,100
+155,4,Quick Attack,19,normal,40,100
+155,5,Quick Attack,19,normal,40,100
+155,6,Quick Attack,19,normal,40,100
+155,7,Quick Attack,19,normal,40,100
+155,8,Flame Wheel,19,fire,60,100
+155,9,Flame Wheel,19,fire,60,100
+155,10,Flame Wheel,19,fire,60,100
+155,11,Flame Wheel,19,fire,60,100
+155,12,Quick Attack,19,normal,40,100
+155,13,Quick Attack,19,normal,40,100
+155,14,Flame Wheel,19,fire,60,100
+155,15,Flame Wheel,19,fire,60,100
+155,16,Flame Wheel,19,fire,60,100
+155,8,Defense Curl,22,normal,-,-
+155,9,Defense Curl,22,normal,-,-
+155,10,Defense Curl,22,normal,-,-
+155,11,Defense Curl,22,normal,-,-
+155,14,Defense Curl,22,normal,-,-
+155,15,Defense Curl,22,normal,-,-
+155,16,Defense Curl,22,normal,-,-
+155,3,Flame Wheel,27,fire,60,100
+155,4,Flame Wheel,27,fire,60,100
+155,5,Flame Wheel,27,fire,60,100
+155,6,Flame Wheel,27,fire,60,100
+155,7,Flame Wheel,27,fire,60,100
+155,12,Flame Wheel,27,fire,60,100
+155,13,Flame Wheel,27,fire,60,100
+155,8,Swift,28,normal,60,-
+155,9,Swift,28,normal,60,-
+155,10,Swift,28,normal,60,-
+155,11,Flame Charge,28,fire,50,100
+155,14,Flame Charge,28,fire,50,100
+155,15,Flame Charge,28,fire,50,100
+155,16,Flame Charge,28,fire,50,100
+155,8,Lava Plume,31,fire,80,100
+155,9,Lava Plume,31,fire,80,100
+155,10,Lava Plume,31,fire,80,100
+155,11,Swift,31,normal,60,-
+155,14,Swift,31,normal,60,-
+155,15,Swift,31,normal,60,-
+155,16,Swift,31,normal,60,-
+155,3,Swift,36,normal,60,-
+155,4,Swift,36,normal,60,-
+155,5,Swift,36,normal,60,-
+155,6,Swift,36,normal,60,-
+155,7,Swift,36,normal,60,-
+155,12,Swift,36,normal,60,-
+155,13,Swift,36,normal,60,-
+155,8,Flamethrower,37,fire,90,100
+155,9,Flamethrower,37,fire,90,100
+155,10,Flamethrower,37,fire,90,100
+155,11,Lava Plume,37,fire,80,100
+155,14,Lava Plume,37,fire,80,100
+155,15,Lava Plume,37,fire,80,100
+155,16,Lava Plume,37,fire,80,100
+155,8,Rollout,40,rock,30,90
+155,9,Rollout,40,rock,30,90
+155,10,Rollout,40,rock,30,90
+155,11,Flamethrower,40,fire,90,100
+155,14,Flamethrower,40,fire,90,100
+155,15,Flamethrower,40,fire,90,100
+155,16,Flamethrower,40,fire,90,100
+155,3,Flamethrower,46,fire,90,100
+155,4,Flamethrower,46,fire,90,100
+155,5,Flamethrower,46,fire,90,100
+155,6,Flamethrower,46,fire,90,100
+155,7,Flamethrower,46,fire,90,100
+155,8,Double-Edge,46,normal,120,100
+155,9,Double-Edge,46,normal,120,100
+155,10,Double-Edge,46,normal,120,100
+155,11,Inferno,46,fire,100,50
+155,12,Flamethrower,46,fire,90,100
+155,13,Flamethrower,46,fire,90,100
+155,14,Inferno,46,fire,100,50
+155,15,Inferno,46,fire,100,50
+155,16,Inferno,46,fire,100,50
+155,8,Eruption,49,fire,150,100
+155,9,Eruption,49,fire,150,100
+155,10,Eruption,49,fire,150,100
+155,11,Rollout,49,rock,30,90
+155,14,Rollout,49,rock,30,90
+155,15,Rollout,49,rock,30,90
+155,16,Rollout,49,rock,30,90
+155,11,Double-Edge,55,normal,120,100
+155,14,Double-Edge,55,normal,120,100
+155,15,Double-Edge,55,normal,120,100
+155,16,Double-Edge,55,normal,120,100
+155,11,Eruption,58,fire,150,100
+155,14,Eruption,58,fire,150,100
+155,15,Eruption,58,fire,150,100
+155,16,Eruption,58,fire,150,100

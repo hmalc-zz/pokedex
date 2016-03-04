@@ -1,82 +1,82 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-408,cranidos,8,29,Headbutt,1,1,1
-408,cranidos,8,36,Take Down,1,15,
-408,cranidos,8,43,Leer,1,1,2
-408,cranidos,8,103,Screech,1,37,
-408,cranidos,8,116,Focus Energy,1,6,
-408,cranidos,8,184,Scary Face,1,19,
-408,cranidos,8,228,Pursuit,1,10,
-408,cranidos,8,246,Ancient Power,1,28,
-408,cranidos,8,372,Assurance,1,24,
-408,cranidos,8,428,Zen Headbutt,1,33,
-408,cranidos,8,457,Head Smash,1,43,
-408,cranidos,9,29,Headbutt,1,1,1
-408,cranidos,9,36,Take Down,1,15,
-408,cranidos,9,43,Leer,1,1,2
-408,cranidos,9,103,Screech,1,37,
-408,cranidos,9,116,Focus Energy,1,6,
-408,cranidos,9,184,Scary Face,1,19,
-408,cranidos,9,228,Pursuit,1,10,
-408,cranidos,9,246,Ancient Power,1,28,
-408,cranidos,9,372,Assurance,1,24,
-408,cranidos,9,428,Zen Headbutt,1,33,
-408,cranidos,9,457,Head Smash,1,43,
-408,cranidos,10,29,Headbutt,1,1,1
-408,cranidos,10,36,Take Down,1,15,
-408,cranidos,10,43,Leer,1,1,2
-408,cranidos,10,103,Screech,1,37,
-408,cranidos,10,116,Focus Energy,1,6,
-408,cranidos,10,184,Scary Face,1,19,
-408,cranidos,10,228,Pursuit,1,10,
-408,cranidos,10,246,Ancient Power,1,28,
-408,cranidos,10,372,Assurance,1,24,
-408,cranidos,10,428,Zen Headbutt,1,33,
-408,cranidos,10,457,Head Smash,1,43,
-408,cranidos,11,29,Headbutt,1,1,1
-408,cranidos,11,36,Take Down,1,15,
-408,cranidos,11,43,Leer,1,1,2
-408,cranidos,11,103,Screech,1,42,
-408,cranidos,11,116,Focus Energy,1,6,
-408,cranidos,11,184,Scary Face,1,19,
-408,cranidos,11,228,Pursuit,1,10,
-408,cranidos,11,246,Ancient Power,1,33,
-408,cranidos,11,372,Assurance,1,24,
-408,cranidos,11,428,Zen Headbutt,1,37,
-408,cranidos,11,457,Head Smash,1,46,
-408,cranidos,11,498,Chip Away,1,28,
-408,cranidos,14,29,Headbutt,1,1,1
-408,cranidos,14,36,Take Down,1,15,
-408,cranidos,14,43,Leer,1,1,2
-408,cranidos,14,103,Screech,1,42,
-408,cranidos,14,116,Focus Energy,1,6,
-408,cranidos,14,184,Scary Face,1,19,
-408,cranidos,14,228,Pursuit,1,10,
-408,cranidos,14,246,Ancient Power,1,33,
-408,cranidos,14,372,Assurance,1,24,
-408,cranidos,14,428,Zen Headbutt,1,37,
-408,cranidos,14,457,Head Smash,1,46,
-408,cranidos,14,498,Chip Away,1,28,
-408,cranidos,15,29,Headbutt,1,1,1
-408,cranidos,15,36,Take Down,1,15,
-408,cranidos,15,43,Leer,1,1,2
-408,cranidos,15,103,Screech,1,42,
-408,cranidos,15,116,Focus Energy,1,6,
-408,cranidos,15,184,Scary Face,1,19,
-408,cranidos,15,228,Pursuit,1,10,
-408,cranidos,15,246,Ancient Power,1,33,
-408,cranidos,15,372,Assurance,1,24,
-408,cranidos,15,428,Zen Headbutt,1,37,
-408,cranidos,15,457,Head Smash,1,46,
-408,cranidos,15,498,Chip Away,1,28,
-408,cranidos,16,29,Headbutt,1,1,1
-408,cranidos,16,36,Take Down,1,15,1
-408,cranidos,16,43,Leer,1,1,2
-408,cranidos,16,103,Screech,1,42,1
-408,cranidos,16,116,Focus Energy,1,6,1
-408,cranidos,16,184,Scary Face,1,19,1
-408,cranidos,16,228,Pursuit,1,10,1
-408,cranidos,16,246,Ancient Power,1,33,1
-408,cranidos,16,372,Assurance,1,24,1
-408,cranidos,16,428,Zen Headbutt,1,37,1
-408,cranidos,16,457,Head Smash,1,46,1
-408,cranidos,16,498,Chip Away,1,28,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+408,8,Headbutt,1,normal,70,100
+408,8,Leer,1,normal,-,100
+408,9,Headbutt,1,normal,70,100
+408,9,Leer,1,normal,-,100
+408,10,Headbutt,1,normal,70,100
+408,10,Leer,1,normal,-,100
+408,11,Headbutt,1,normal,70,100
+408,11,Leer,1,normal,-,100
+408,14,Headbutt,1,normal,70,100
+408,14,Leer,1,normal,-,100
+408,15,Headbutt,1,normal,70,100
+408,15,Leer,1,normal,-,100
+408,16,Headbutt,1,normal,70,100
+408,16,Leer,1,normal,-,100
+408,8,Focus Energy,6,normal,-,-
+408,9,Focus Energy,6,normal,-,-
+408,10,Focus Energy,6,normal,-,-
+408,11,Focus Energy,6,normal,-,-
+408,14,Focus Energy,6,normal,-,-
+408,15,Focus Energy,6,normal,-,-
+408,16,Focus Energy,6,normal,-,-
+408,8,Pursuit,10,dark,40,100
+408,9,Pursuit,10,dark,40,100
+408,10,Pursuit,10,dark,40,100
+408,11,Pursuit,10,dark,40,100
+408,14,Pursuit,10,dark,40,100
+408,15,Pursuit,10,dark,40,100
+408,16,Pursuit,10,dark,40,100
+408,8,Take Down,15,normal,90,85
+408,9,Take Down,15,normal,90,85
+408,10,Take Down,15,normal,90,85
+408,11,Take Down,15,normal,90,85
+408,14,Take Down,15,normal,90,85
+408,15,Take Down,15,normal,90,85
+408,16,Take Down,15,normal,90,85
+408,8,Scary Face,19,normal,-,100
+408,9,Scary Face,19,normal,-,100
+408,10,Scary Face,19,normal,-,100
+408,11,Scary Face,19,normal,-,100
+408,14,Scary Face,19,normal,-,100
+408,15,Scary Face,19,normal,-,100
+408,16,Scary Face,19,normal,-,100
+408,8,Assurance,24,dark,60,100
+408,9,Assurance,24,dark,60,100
+408,10,Assurance,24,dark,60,100
+408,11,Assurance,24,dark,60,100
+408,14,Assurance,24,dark,60,100
+408,15,Assurance,24,dark,60,100
+408,16,Assurance,24,dark,60,100
+408,8,Ancient Power,28,rock,60,100
+408,9,Ancient Power,28,rock,60,100
+408,10,Ancient Power,28,rock,60,100
+408,11,Chip Away,28,normal,70,100
+408,14,Chip Away,28,normal,70,100
+408,15,Chip Away,28,normal,70,100
+408,16,Chip Away,28,normal,70,100
+408,8,Zen Headbutt,33,psychic,80,90
+408,9,Zen Headbutt,33,psychic,80,90
+408,10,Zen Headbutt,33,psychic,80,90
+408,11,Ancient Power,33,rock,60,100
+408,14,Ancient Power,33,rock,60,100
+408,15,Ancient Power,33,rock,60,100
+408,16,Ancient Power,33,rock,60,100
+408,8,Screech,37,normal,-,85
+408,9,Screech,37,normal,-,85
+408,10,Screech,37,normal,-,85
+408,11,Zen Headbutt,37,psychic,80,90
+408,14,Zen Headbutt,37,psychic,80,90
+408,15,Zen Headbutt,37,psychic,80,90
+408,16,Zen Headbutt,37,psychic,80,90
+408,11,Screech,42,normal,-,85
+408,14,Screech,42,normal,-,85
+408,15,Screech,42,normal,-,85
+408,16,Screech,42,normal,-,85
+408,8,Head Smash,43,rock,150,80
+408,9,Head Smash,43,rock,150,80
+408,10,Head Smash,43,rock,150,80
+408,11,Head Smash,46,rock,150,80
+408,14,Head Smash,46,rock,150,80
+408,15,Head Smash,46,rock,150,80
+408,16,Head Smash,46,rock,150,80

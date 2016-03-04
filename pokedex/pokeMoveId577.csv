@@ -1,65 +1,65 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-577,solosis,11,94,Psychic,1,37,
-577,solosis,11,105,Recover,1,24,
-577,solosis,11,113,Light Screen,1,16,
-577,solosis,11,115,Reflect,1,3,
-577,solosis,11,149,Psywave,1,1,
-577,solosis,11,204,Charm,1,19,
-577,solosis,11,205,Rollout,1,7,
-577,solosis,11,220,Pain Split,1,33,
-577,solosis,11,237,Hidden Power,1,14,
-577,solosis,11,248,Future Sight,1,31,
-577,solosis,11,283,Endeavor,1,28,
-577,solosis,11,285,Skill Swap,1,40,
-577,solosis,11,289,Snatch,1,10,
-577,solosis,11,377,Heal Block,1,46,
-577,solosis,11,472,Wonder Room,1,48,
-577,solosis,11,473,Psyshock,1,25,
-577,solosis,14,94,Psychic,1,37,
-577,solosis,14,105,Recover,1,24,
-577,solosis,14,113,Light Screen,1,16,
-577,solosis,14,115,Reflect,1,3,
-577,solosis,14,149,Psywave,1,1,
-577,solosis,14,204,Charm,1,19,
-577,solosis,14,205,Rollout,1,7,
-577,solosis,14,220,Pain Split,1,33,
-577,solosis,14,237,Hidden Power,1,14,
-577,solosis,14,248,Future Sight,1,31,
-577,solosis,14,283,Endeavor,1,28,
-577,solosis,14,285,Skill Swap,1,40,
-577,solosis,14,289,Snatch,1,10,
-577,solosis,14,377,Heal Block,1,46,
-577,solosis,14,472,Wonder Room,1,48,
-577,solosis,14,473,Psyshock,1,25,
-577,solosis,15,94,Psychic,1,37,
-577,solosis,15,105,Recover,1,24,
-577,solosis,15,113,Light Screen,1,16,
-577,solosis,15,115,Reflect,1,3,
-577,solosis,15,149,Psywave,1,1,
-577,solosis,15,204,Charm,1,19,
-577,solosis,15,205,Rollout,1,7,
-577,solosis,15,220,Pain Split,1,33,
-577,solosis,15,237,Hidden Power,1,14,
-577,solosis,15,248,Future Sight,1,31,
-577,solosis,15,283,Endeavor,1,28,
-577,solosis,15,285,Skill Swap,1,40,
-577,solosis,15,289,Snatch,1,10,
-577,solosis,15,377,Heal Block,1,46,
-577,solosis,15,472,Wonder Room,1,48,
-577,solosis,15,473,Psyshock,1,25,
-577,solosis,16,94,Psychic,1,37,1
-577,solosis,16,105,Recover,1,24,1
-577,solosis,16,113,Light Screen,1,16,1
-577,solosis,16,115,Reflect,1,3,1
-577,solosis,16,149,Psywave,1,1,1
-577,solosis,16,204,Charm,1,19,1
-577,solosis,16,205,Rollout,1,7,1
-577,solosis,16,220,Pain Split,1,33,1
-577,solosis,16,237,Hidden Power,1,14,1
-577,solosis,16,248,Future Sight,1,31,1
-577,solosis,16,283,Endeavor,1,28,1
-577,solosis,16,285,Skill Swap,1,40,1
-577,solosis,16,289,Snatch,1,10,1
-577,solosis,16,377,Heal Block,1,46,1
-577,solosis,16,472,Wonder Room,1,48,1
-577,solosis,16,473,Psyshock,1,25,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+577,11,Psywave,1,psychic,-,100
+577,14,Psywave,1,psychic,-,100
+577,15,Psywave,1,psychic,-,100
+577,16,Psywave,1,psychic,-,100
+577,11,Reflect,3,psychic,-,-
+577,14,Reflect,3,psychic,-,-
+577,15,Reflect,3,psychic,-,-
+577,16,Reflect,3,psychic,-,-
+577,11,Rollout,7,rock,30,90
+577,14,Rollout,7,rock,30,90
+577,15,Rollout,7,rock,30,90
+577,16,Rollout,7,rock,30,90
+577,11,Snatch,10,dark,-,-
+577,14,Snatch,10,dark,-,-
+577,15,Snatch,10,dark,-,-
+577,16,Snatch,10,dark,-,-
+577,11,Hidden Power,14,normal,60,100
+577,14,Hidden Power,14,normal,60,100
+577,15,Hidden Power,14,normal,60,100
+577,16,Hidden Power,14,normal,60,100
+577,11,Light Screen,16,psychic,-,-
+577,14,Light Screen,16,psychic,-,-
+577,15,Light Screen,16,psychic,-,-
+577,16,Light Screen,16,psychic,-,-
+577,11,Charm,19,fairy,-,100
+577,14,Charm,19,fairy,-,100
+577,15,Charm,19,fairy,-,100
+577,16,Charm,19,fairy,-,100
+577,11,Recover,24,normal,-,-
+577,14,Recover,24,normal,-,-
+577,15,Recover,24,normal,-,-
+577,16,Recover,24,normal,-,-
+577,11,Psyshock,25,psychic,80,100
+577,14,Psyshock,25,psychic,80,100
+577,15,Psyshock,25,psychic,80,100
+577,16,Psyshock,25,psychic,80,100
+577,11,Endeavor,28,normal,-,100
+577,14,Endeavor,28,normal,-,100
+577,15,Endeavor,28,normal,-,100
+577,16,Endeavor,28,normal,-,100
+577,11,Future Sight,31,psychic,120,100
+577,14,Future Sight,31,psychic,120,100
+577,15,Future Sight,31,psychic,120,100
+577,16,Future Sight,31,psychic,120,100
+577,11,Pain Split,33,normal,-,-
+577,14,Pain Split,33,normal,-,-
+577,15,Pain Split,33,normal,-,-
+577,16,Pain Split,33,normal,-,-
+577,11,Psychic,37,psychic,90,100
+577,14,Psychic,37,psychic,90,100
+577,15,Psychic,37,psychic,90,100
+577,16,Psychic,37,psychic,90,100
+577,11,Skill Swap,40,psychic,-,-
+577,14,Skill Swap,40,psychic,-,-
+577,15,Skill Swap,40,psychic,-,-
+577,16,Skill Swap,40,psychic,-,-
+577,11,Heal Block,46,psychic,-,100
+577,14,Heal Block,46,psychic,-,100
+577,15,Heal Block,46,psychic,-,100
+577,16,Heal Block,46,psychic,-,100
+577,11,Wonder Room,48,psychic,-,-
+577,14,Wonder Room,48,psychic,-,-
+577,15,Wonder Room,48,psychic,-,-
+577,16,Wonder Room,48,psychic,-,-

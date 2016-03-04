@@ -1,204 +1,204 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-119,seaking,1,30,Horn Attack,1,24,
-119,seaking,1,31,Fury Attack,1,30,
-119,seaking,1,32,Horn Drill,1,48,
-119,seaking,1,39,Tail Whip,1,1,2
-119,seaking,1,48,Supersonic,1,1,3
-119,seaking,1,48,Supersonic,1,19,
-119,seaking,1,64,Peck,1,1,1
-119,seaking,1,97,Agility,1,54,
-119,seaking,1,127,Waterfall,1,39,
-119,seaking,2,30,Horn Attack,1,24,
-119,seaking,2,31,Fury Attack,1,30,
-119,seaking,2,32,Horn Drill,1,48,
-119,seaking,2,39,Tail Whip,1,1,2
-119,seaking,2,48,Supersonic,1,1,3
-119,seaking,2,48,Supersonic,1,19,
-119,seaking,2,64,Peck,1,1,1
-119,seaking,2,97,Agility,1,54,
-119,seaking,2,127,Waterfall,1,39,
-119,seaking,3,30,Horn Attack,1,15,
-119,seaking,3,31,Fury Attack,1,29,
-119,seaking,3,32,Horn Drill,1,49,
-119,seaking,3,39,Tail Whip,1,1,2
-119,seaking,3,48,Supersonic,1,10,
-119,seaking,3,64,Peck,1,1,1
-119,seaking,3,97,Agility,1,61,
-119,seaking,3,127,Waterfall,1,41,
-119,seaking,3,175,Flail,1,24,
-119,seaking,4,30,Horn Attack,1,15,
-119,seaking,4,31,Fury Attack,1,29,
-119,seaking,4,32,Horn Drill,1,49,
-119,seaking,4,39,Tail Whip,1,1,2
-119,seaking,4,48,Supersonic,1,10,
-119,seaking,4,64,Peck,1,1,1
-119,seaking,4,97,Agility,1,61,
-119,seaking,4,127,Waterfall,1,41,
-119,seaking,4,175,Flail,1,24,
-119,seaking,5,30,Horn Attack,1,15,
-119,seaking,5,31,Fury Attack,1,29,
-119,seaking,5,32,Horn Drill,1,49,
-119,seaking,5,39,Tail Whip,1,1,2
-119,seaking,5,48,Supersonic,1,1,4
-119,seaking,5,48,Supersonic,1,10,
-119,seaking,5,64,Peck,1,1,1
-119,seaking,5,97,Agility,1,61,
-119,seaking,5,127,Waterfall,1,41,
-119,seaking,5,175,Flail,1,24,
-119,seaking,5,346,Water Sport,1,1,3
-119,seaking,6,30,Horn Attack,1,15,
-119,seaking,6,31,Fury Attack,1,29,
-119,seaking,6,32,Horn Drill,1,49,
-119,seaking,6,39,Tail Whip,1,1,2
-119,seaking,6,48,Supersonic,1,1,4
-119,seaking,6,48,Supersonic,1,10,
-119,seaking,6,64,Peck,1,1,1
-119,seaking,6,97,Agility,1,61,
-119,seaking,6,127,Waterfall,1,41,
-119,seaking,6,175,Flail,1,24,
-119,seaking,6,346,Water Sport,1,1,3
-119,seaking,7,30,Horn Attack,1,15,
-119,seaking,7,31,Fury Attack,1,29,
-119,seaking,7,32,Horn Drill,1,49,
-119,seaking,7,39,Tail Whip,1,1,2
-119,seaking,7,48,Supersonic,1,1,4
-119,seaking,7,48,Supersonic,1,10,
-119,seaking,7,64,Peck,1,1,1
-119,seaking,7,97,Agility,1,61,
-119,seaking,7,127,Waterfall,1,41,
-119,seaking,7,175,Flail,1,24,
-119,seaking,7,224,Megahorn,1,69,
-119,seaking,7,346,Water Sport,1,1,3
-119,seaking,8,30,Horn Attack,1,11,
-119,seaking,8,31,Fury Attack,1,31,
-119,seaking,8,32,Horn Drill,1,47,
-119,seaking,8,39,Tail Whip,1,1,3
-119,seaking,8,48,Supersonic,1,1,5
-119,seaking,8,48,Supersonic,1,7,
-119,seaking,8,64,Peck,1,1,2
-119,seaking,8,97,Agility,1,56,
-119,seaking,8,127,Waterfall,1,40,
-119,seaking,8,175,Flail,1,21,
-119,seaking,8,224,Megahorn,1,63,
-119,seaking,8,346,Water Sport,1,1,4
-119,seaking,8,352,Water Pulse,1,17,
-119,seaking,8,392,Aqua Ring,1,27,
-119,seaking,8,398,Poison Jab,1,1,1
-119,seaking,9,30,Horn Attack,1,11,
-119,seaking,9,31,Fury Attack,1,31,
-119,seaking,9,32,Horn Drill,1,47,
-119,seaking,9,39,Tail Whip,1,1,3
-119,seaking,9,48,Supersonic,1,1,5
-119,seaking,9,48,Supersonic,1,7,
-119,seaking,9,64,Peck,1,1,2
-119,seaking,9,97,Agility,1,56,
-119,seaking,9,127,Waterfall,1,40,
-119,seaking,9,175,Flail,1,21,
-119,seaking,9,224,Megahorn,1,63,
-119,seaking,9,346,Water Sport,1,1,4
-119,seaking,9,352,Water Pulse,1,17,
-119,seaking,9,392,Aqua Ring,1,27,
-119,seaking,9,398,Poison Jab,1,1,1
-119,seaking,10,30,Horn Attack,1,11,
-119,seaking,10,31,Fury Attack,1,31,
-119,seaking,10,32,Horn Drill,1,47,
-119,seaking,10,39,Tail Whip,1,1,3
-119,seaking,10,48,Supersonic,1,1,5
-119,seaking,10,48,Supersonic,1,7,
-119,seaking,10,64,Peck,1,1,2
-119,seaking,10,97,Agility,1,56,
-119,seaking,10,127,Waterfall,1,40,
-119,seaking,10,175,Flail,1,21,
-119,seaking,10,224,Megahorn,1,63,
-119,seaking,10,346,Water Sport,1,1,4
-119,seaking,10,352,Water Pulse,1,17,
-119,seaking,10,392,Aqua Ring,1,27,
-119,seaking,10,398,Poison Jab,1,1,1
-119,seaking,11,30,Horn Attack,1,11,
-119,seaking,11,31,Fury Attack,1,31,
-119,seaking,11,32,Horn Drill,1,47,
-119,seaking,11,39,Tail Whip,1,1,3
-119,seaking,11,48,Supersonic,1,1,5
-119,seaking,11,48,Supersonic,1,7,
-119,seaking,11,64,Peck,1,1,2
-119,seaking,11,97,Agility,1,56,
-119,seaking,11,127,Waterfall,1,40,
-119,seaking,11,175,Flail,1,21,
-119,seaking,11,224,Megahorn,1,72,
-119,seaking,11,346,Water Sport,1,1,4
-119,seaking,11,352,Water Pulse,1,17,
-119,seaking,11,392,Aqua Ring,1,27,
-119,seaking,11,398,Poison Jab,1,1,1
-119,seaking,11,487,Soak,1,63,
-119,seaking,12,30,Horn Attack,1,15,
-119,seaking,12,31,Fury Attack,1,29,
-119,seaking,12,32,Horn Drill,1,49,
-119,seaking,12,39,Tail Whip,1,1,2
-119,seaking,12,48,Supersonic,1,1,4
-119,seaking,12,48,Supersonic,1,10,
-119,seaking,12,64,Peck,1,1,1
-119,seaking,12,97,Agility,1,61,
-119,seaking,12,127,Waterfall,1,41,
-119,seaking,12,175,Flail,1,24,
-119,seaking,12,346,Water Sport,1,1,3
-119,seaking,13,30,Horn Attack,1,15,
-119,seaking,13,31,Fury Attack,1,29,
-119,seaking,13,32,Horn Drill,1,49,
-119,seaking,13,39,Tail Whip,1,1,2
-119,seaking,13,48,Supersonic,1,1,4
-119,seaking,13,48,Supersonic,1,10,
-119,seaking,13,64,Peck,1,1,1
-119,seaking,13,97,Agility,1,61,
-119,seaking,13,127,Waterfall,1,41,
-119,seaking,13,175,Flail,1,24,
-119,seaking,13,346,Water Sport,1,1,3
-119,seaking,14,30,Horn Attack,1,11,
-119,seaking,14,31,Fury Attack,1,31,
-119,seaking,14,32,Horn Drill,1,47,
-119,seaking,14,39,Tail Whip,1,1,3
-119,seaking,14,48,Supersonic,1,1,5
-119,seaking,14,48,Supersonic,1,7,
-119,seaking,14,64,Peck,1,1,2
-119,seaking,14,97,Agility,1,56,
-119,seaking,14,127,Waterfall,1,40,
-119,seaking,14,175,Flail,1,21,
-119,seaking,14,224,Megahorn,1,72,
-119,seaking,14,346,Water Sport,1,1,4
-119,seaking,14,352,Water Pulse,1,17,
-119,seaking,14,392,Aqua Ring,1,27,
-119,seaking,14,398,Poison Jab,1,1,1
-119,seaking,14,487,Soak,1,63,
-119,seaking,15,30,Horn Attack,1,11,
-119,seaking,15,31,Fury Attack,1,31,
-119,seaking,15,32,Horn Drill,1,47,
-119,seaking,15,39,Tail Whip,1,1,4
-119,seaking,15,48,Supersonic,1,1,6
-119,seaking,15,48,Supersonic,1,7,
-119,seaking,15,64,Peck,1,1,3
-119,seaking,15,97,Agility,1,56,
-119,seaking,15,127,Waterfall,1,40,
-119,seaking,15,175,Flail,1,21,
-119,seaking,15,224,Megahorn,1,1,1
-119,seaking,15,224,Megahorn,1,72,
-119,seaking,15,346,Water Sport,1,1,5
-119,seaking,15,352,Water Pulse,1,17,
-119,seaking,15,392,Aqua Ring,1,27,
-119,seaking,15,398,Poison Jab,1,1,2
-119,seaking,15,487,Soak,1,63,
-119,seaking,16,30,Horn Attack,1,8,1
-119,seaking,16,31,Fury Attack,1,24,1
-119,seaking,16,32,Horn Drill,1,40,1
-119,seaking,16,39,Tail Whip,1,1,4
-119,seaking,16,48,Supersonic,1,1,6
-119,seaking,16,48,Supersonic,1,5,1
-119,seaking,16,64,Peck,1,1,3
-119,seaking,16,97,Agility,1,29,1
-119,seaking,16,127,Waterfall,1,32,1
-119,seaking,16,175,Flail,1,13,1
-119,seaking,16,224,Megahorn,1,1,1
-119,seaking,16,224,Megahorn,1,54,1
-119,seaking,16,346,Water Sport,1,1,5
-119,seaking,16,352,Water Pulse,1,16,1
-119,seaking,16,392,Aqua Ring,1,21,1
-119,seaking,16,398,Poison Jab,1,1,2
-119,seaking,16,487,Soak,1,46,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+119,1,Tail Whip,1,normal,-,100
+119,1,Supersonic,1,normal,-,55
+119,1,Peck,1,flying,35,100
+119,2,Tail Whip,1,normal,-,100
+119,2,Supersonic,1,normal,-,55
+119,2,Peck,1,flying,35,100
+119,3,Tail Whip,1,normal,-,100
+119,3,Peck,1,flying,35,100
+119,4,Tail Whip,1,normal,-,100
+119,4,Peck,1,flying,35,100
+119,5,Tail Whip,1,normal,-,100
+119,5,Supersonic,1,normal,-,55
+119,5,Peck,1,flying,35,100
+119,5,Water Sport,1,water,-,-
+119,6,Tail Whip,1,normal,-,100
+119,6,Supersonic,1,normal,-,55
+119,6,Peck,1,flying,35,100
+119,6,Water Sport,1,water,-,-
+119,7,Tail Whip,1,normal,-,100
+119,7,Supersonic,1,normal,-,55
+119,7,Peck,1,flying,35,100
+119,7,Water Sport,1,water,-,-
+119,8,Tail Whip,1,normal,-,100
+119,8,Supersonic,1,normal,-,55
+119,8,Peck,1,flying,35,100
+119,8,Water Sport,1,water,-,-
+119,8,Poison Jab,1,poison,80,100
+119,9,Tail Whip,1,normal,-,100
+119,9,Supersonic,1,normal,-,55
+119,9,Peck,1,flying,35,100
+119,9,Water Sport,1,water,-,-
+119,9,Poison Jab,1,poison,80,100
+119,10,Tail Whip,1,normal,-,100
+119,10,Supersonic,1,normal,-,55
+119,10,Peck,1,flying,35,100
+119,10,Water Sport,1,water,-,-
+119,10,Poison Jab,1,poison,80,100
+119,11,Tail Whip,1,normal,-,100
+119,11,Supersonic,1,normal,-,55
+119,11,Peck,1,flying,35,100
+119,11,Water Sport,1,water,-,-
+119,11,Poison Jab,1,poison,80,100
+119,12,Tail Whip,1,normal,-,100
+119,12,Supersonic,1,normal,-,55
+119,12,Peck,1,flying,35,100
+119,12,Water Sport,1,water,-,-
+119,13,Tail Whip,1,normal,-,100
+119,13,Supersonic,1,normal,-,55
+119,13,Peck,1,flying,35,100
+119,13,Water Sport,1,water,-,-
+119,14,Tail Whip,1,normal,-,100
+119,14,Supersonic,1,normal,-,55
+119,14,Peck,1,flying,35,100
+119,14,Water Sport,1,water,-,-
+119,14,Poison Jab,1,poison,80,100
+119,15,Tail Whip,1,normal,-,100
+119,15,Supersonic,1,normal,-,55
+119,15,Peck,1,flying,35,100
+119,15,Megahorn,1,bug,120,85
+119,15,Water Sport,1,water,-,-
+119,15,Poison Jab,1,poison,80,100
+119,16,Tail Whip,1,normal,-,100
+119,16,Supersonic,1,normal,-,55
+119,16,Peck,1,flying,35,100
+119,16,Megahorn,1,bug,120,85
+119,16,Water Sport,1,water,-,-
+119,16,Poison Jab,1,poison,80,100
+119,16,Supersonic,5,normal,-,55
+119,8,Supersonic,7,normal,-,55
+119,9,Supersonic,7,normal,-,55
+119,10,Supersonic,7,normal,-,55
+119,11,Supersonic,7,normal,-,55
+119,14,Supersonic,7,normal,-,55
+119,15,Supersonic,7,normal,-,55
+119,16,Horn Attack,8,normal,65,100
+119,3,Supersonic,10,normal,-,55
+119,4,Supersonic,10,normal,-,55
+119,5,Supersonic,10,normal,-,55
+119,6,Supersonic,10,normal,-,55
+119,7,Supersonic,10,normal,-,55
+119,12,Supersonic,10,normal,-,55
+119,13,Supersonic,10,normal,-,55
+119,8,Horn Attack,11,normal,65,100
+119,9,Horn Attack,11,normal,65,100
+119,10,Horn Attack,11,normal,65,100
+119,11,Horn Attack,11,normal,65,100
+119,14,Horn Attack,11,normal,65,100
+119,15,Horn Attack,11,normal,65,100
+119,16,Flail,13,normal,-,100
+119,3,Horn Attack,15,normal,65,100
+119,4,Horn Attack,15,normal,65,100
+119,5,Horn Attack,15,normal,65,100
+119,6,Horn Attack,15,normal,65,100
+119,7,Horn Attack,15,normal,65,100
+119,12,Horn Attack,15,normal,65,100
+119,13,Horn Attack,15,normal,65,100
+119,16,Water Pulse,16,water,60,100
+119,8,Water Pulse,17,water,60,100
+119,9,Water Pulse,17,water,60,100
+119,10,Water Pulse,17,water,60,100
+119,11,Water Pulse,17,water,60,100
+119,14,Water Pulse,17,water,60,100
+119,15,Water Pulse,17,water,60,100
+119,1,Supersonic,19,normal,-,55
+119,2,Supersonic,19,normal,-,55
+119,8,Flail,21,normal,-,100
+119,9,Flail,21,normal,-,100
+119,10,Flail,21,normal,-,100
+119,11,Flail,21,normal,-,100
+119,14,Flail,21,normal,-,100
+119,15,Flail,21,normal,-,100
+119,16,Aqua Ring,21,water,-,-
+119,1,Horn Attack,24,normal,65,100
+119,2,Horn Attack,24,normal,65,100
+119,3,Flail,24,normal,-,100
+119,4,Flail,24,normal,-,100
+119,5,Flail,24,normal,-,100
+119,6,Flail,24,normal,-,100
+119,7,Flail,24,normal,-,100
+119,12,Flail,24,normal,-,100
+119,13,Flail,24,normal,-,100
+119,16,Fury Attack,24,normal,15,85
+119,8,Aqua Ring,27,water,-,-
+119,9,Aqua Ring,27,water,-,-
+119,10,Aqua Ring,27,water,-,-
+119,11,Aqua Ring,27,water,-,-
+119,14,Aqua Ring,27,water,-,-
+119,15,Aqua Ring,27,water,-,-
+119,3,Fury Attack,29,normal,15,85
+119,4,Fury Attack,29,normal,15,85
+119,5,Fury Attack,29,normal,15,85
+119,6,Fury Attack,29,normal,15,85
+119,7,Fury Attack,29,normal,15,85
+119,12,Fury Attack,29,normal,15,85
+119,13,Fury Attack,29,normal,15,85
+119,16,Agility,29,psychic,-,-
+119,1,Fury Attack,30,normal,15,85
+119,2,Fury Attack,30,normal,15,85
+119,8,Fury Attack,31,normal,15,85
+119,9,Fury Attack,31,normal,15,85
+119,10,Fury Attack,31,normal,15,85
+119,11,Fury Attack,31,normal,15,85
+119,14,Fury Attack,31,normal,15,85
+119,15,Fury Attack,31,normal,15,85
+119,16,Waterfall,32,water,80,100
+119,1,Waterfall,39,water,80,100
+119,2,Waterfall,39,water,80,100
+119,8,Waterfall,40,water,80,100
+119,9,Waterfall,40,water,80,100
+119,10,Waterfall,40,water,80,100
+119,11,Waterfall,40,water,80,100
+119,14,Waterfall,40,water,80,100
+119,15,Waterfall,40,water,80,100
+119,16,Horn Drill,40,normal,-,30
+119,3,Waterfall,41,water,80,100
+119,4,Waterfall,41,water,80,100
+119,5,Waterfall,41,water,80,100
+119,6,Waterfall,41,water,80,100
+119,7,Waterfall,41,water,80,100
+119,12,Waterfall,41,water,80,100
+119,13,Waterfall,41,water,80,100
+119,16,Soak,46,water,-,100
+119,8,Horn Drill,47,normal,-,30
+119,9,Horn Drill,47,normal,-,30
+119,10,Horn Drill,47,normal,-,30
+119,11,Horn Drill,47,normal,-,30
+119,14,Horn Drill,47,normal,-,30
+119,15,Horn Drill,47,normal,-,30
+119,1,Horn Drill,48,normal,-,30
+119,2,Horn Drill,48,normal,-,30
+119,3,Horn Drill,49,normal,-,30
+119,4,Horn Drill,49,normal,-,30
+119,5,Horn Drill,49,normal,-,30
+119,6,Horn Drill,49,normal,-,30
+119,7,Horn Drill,49,normal,-,30
+119,12,Horn Drill,49,normal,-,30
+119,13,Horn Drill,49,normal,-,30
+119,1,Agility,54,psychic,-,-
+119,2,Agility,54,psychic,-,-
+119,16,Megahorn,54,bug,120,85
+119,8,Agility,56,psychic,-,-
+119,9,Agility,56,psychic,-,-
+119,10,Agility,56,psychic,-,-
+119,11,Agility,56,psychic,-,-
+119,14,Agility,56,psychic,-,-
+119,15,Agility,56,psychic,-,-
+119,3,Agility,61,psychic,-,-
+119,4,Agility,61,psychic,-,-
+119,5,Agility,61,psychic,-,-
+119,6,Agility,61,psychic,-,-
+119,7,Agility,61,psychic,-,-
+119,12,Agility,61,psychic,-,-
+119,13,Agility,61,psychic,-,-
+119,8,Megahorn,63,bug,120,85
+119,9,Megahorn,63,bug,120,85
+119,10,Megahorn,63,bug,120,85
+119,11,Soak,63,water,-,100
+119,14,Soak,63,water,-,100
+119,15,Soak,63,water,-,100
+119,7,Megahorn,69,bug,120,85
+119,11,Megahorn,72,bug,120,85
+119,14,Megahorn,72,bug,120,85
+119,15,Megahorn,72,bug,120,85

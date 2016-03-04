@@ -1,29 +1,29 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-708,phantump,15,33,Tackle,1,1,1
-708,phantump,15,73,Leech Seed,1,23,
-708,phantump,15,74,Growth,1,8,
-708,phantump,15,109,Confuse Ray,1,1,2
-708,phantump,15,174,Curse,1,28,
-708,phantump,15,185,Feint Attack,1,19,
-708,phantump,15,194,Destiny Bond,1,39,
-708,phantump,15,261,Will-O-Wisp,1,31,
-708,phantump,15,275,Ingrain,1,13,
-708,phantump,15,310,Astonish,1,5,
-708,phantump,15,452,Wood Hammer,1,49,
-708,phantump,15,532,Horn Leech,1,54,
-708,phantump,15,566,Phantom Force,1,45,
-708,phantump,15,571,Forest's Curse,1,35,
-708,phantump,16,33,Tackle,1,1,1
-708,phantump,16,73,Leech Seed,1,23,1
-708,phantump,16,74,Growth,1,8,1
-708,phantump,16,109,Confuse Ray,1,1,2
-708,phantump,16,174,Curse,1,28,1
-708,phantump,16,185,Feint Attack,1,19,1
-708,phantump,16,194,Destiny Bond,1,39,1
-708,phantump,16,261,Will-O-Wisp,1,31,1
-708,phantump,16,275,Ingrain,1,13,1
-708,phantump,16,310,Astonish,1,5,1
-708,phantump,16,452,Wood Hammer,1,49,1
-708,phantump,16,532,Horn Leech,1,54,1
-708,phantump,16,566,Phantom Force,1,45,1
-708,phantump,16,571,Forest's Curse,1,35,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+708,15,Tackle,1,normal,50,100
+708,15,Confuse Ray,1,ghost,-,100
+708,16,Tackle,1,normal,50,100
+708,16,Confuse Ray,1,ghost,-,100
+708,15,Astonish,5,ghost,30,100
+708,16,Astonish,5,ghost,30,100
+708,15,Growth,8,normal,-,-
+708,16,Growth,8,normal,-,-
+708,15,Ingrain,13,grass,-,-
+708,16,Ingrain,13,grass,-,-
+708,15,Feint Attack,19,dark,60,-
+708,16,Feint Attack,19,dark,60,-
+708,15,Leech Seed,23,grass,-,90
+708,16,Leech Seed,23,grass,-,90
+708,15,Curse,28,ghost,-,-
+708,16,Curse,28,ghost,-,-
+708,15,Will-O-Wisp,31,fire,-,85
+708,16,Will-O-Wisp,31,fire,-,85
+708,15,Forest's Curse,35,grass,-,100
+708,16,Forest's Curse,35,grass,-,100
+708,15,Destiny Bond,39,ghost,-,-
+708,16,Destiny Bond,39,ghost,-,-
+708,15,Phantom Force,45,ghost,90,100
+708,16,Phantom Force,45,ghost,90,100
+708,15,Wood Hammer,49,grass,120,100
+708,16,Wood Hammer,49,grass,120,100
+708,15,Horn Leech,54,grass,75,100
+708,16,Horn Leech,54,grass,75,100

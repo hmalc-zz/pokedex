@@ -1,168 +1,168 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-348,armaldo,5,10,Scratch,1,1,1
-348,armaldo,5,55,Water Gun,1,1,4
-348,armaldo,5,55,Water Gun,1,19,
-348,armaldo,5,106,Harden,1,1,2
-348,armaldo,5,106,Harden,1,7,
-348,armaldo,5,163,Slash,1,55,
-348,armaldo,5,182,Protect,1,31,
-348,armaldo,5,210,Fury Cutter,1,46,
-348,armaldo,5,232,Metal Claw,1,25,
-348,armaldo,5,246,Ancient Power,1,37,
-348,armaldo,5,300,Mud Sport,1,1,3
-348,armaldo,5,300,Mud Sport,1,13,
-348,armaldo,5,350,Rock Blast,1,64,
-348,armaldo,6,10,Scratch,1,1,1
-348,armaldo,6,55,Water Gun,1,1,4
-348,armaldo,6,55,Water Gun,1,19,
-348,armaldo,6,106,Harden,1,1,2
-348,armaldo,6,106,Harden,1,7,
-348,armaldo,6,163,Slash,1,55,
-348,armaldo,6,182,Protect,1,31,
-348,armaldo,6,210,Fury Cutter,1,46,
-348,armaldo,6,232,Metal Claw,1,25,
-348,armaldo,6,246,Ancient Power,1,37,
-348,armaldo,6,300,Mud Sport,1,1,3
-348,armaldo,6,300,Mud Sport,1,13,
-348,armaldo,6,350,Rock Blast,1,64,
-348,armaldo,7,10,Scratch,1,1,1
-348,armaldo,7,55,Water Gun,1,1,4
-348,armaldo,7,55,Water Gun,1,19,
-348,armaldo,7,106,Harden,1,1,2
-348,armaldo,7,106,Harden,1,7,
-348,armaldo,7,163,Slash,1,55,
-348,armaldo,7,182,Protect,1,31,
-348,armaldo,7,210,Fury Cutter,1,46,
-348,armaldo,7,232,Metal Claw,1,25,
-348,armaldo,7,246,Ancient Power,1,37,
-348,armaldo,7,300,Mud Sport,1,1,3
-348,armaldo,7,300,Mud Sport,1,13,
-348,armaldo,7,350,Rock Blast,1,64,
-348,armaldo,8,10,Scratch,1,1,1
-348,armaldo,8,55,Water Gun,1,1,4
-348,armaldo,8,55,Water Gun,1,13,
-348,armaldo,8,106,Harden,1,1,2
-348,armaldo,8,163,Slash,1,46,
-348,armaldo,8,182,Protect,1,25,
-348,armaldo,8,210,Fury Cutter,1,37,
-348,armaldo,8,232,Metal Claw,1,19,
-348,armaldo,8,246,Ancient Power,1,31,
-348,armaldo,8,300,Mud Sport,1,1,3
-348,armaldo,8,300,Mud Sport,1,7,
-348,armaldo,8,306,Crush Claw,1,67,
-348,armaldo,8,350,Rock Blast,1,55,
-348,armaldo,8,404,X-Scissor,1,73,
-348,armaldo,9,10,Scratch,1,1,1
-348,armaldo,9,55,Water Gun,1,1,4
-348,armaldo,9,55,Water Gun,1,13,
-348,armaldo,9,106,Harden,1,1,2
-348,armaldo,9,163,Slash,1,46,
-348,armaldo,9,182,Protect,1,25,
-348,armaldo,9,210,Fury Cutter,1,37,
-348,armaldo,9,232,Metal Claw,1,19,
-348,armaldo,9,246,Ancient Power,1,31,
-348,armaldo,9,300,Mud Sport,1,1,3
-348,armaldo,9,300,Mud Sport,1,7,
-348,armaldo,9,306,Crush Claw,1,67,
-348,armaldo,9,350,Rock Blast,1,55,
-348,armaldo,9,404,X-Scissor,1,73,
-348,armaldo,10,10,Scratch,1,1,1
-348,armaldo,10,55,Water Gun,1,1,4
-348,armaldo,10,55,Water Gun,1,13,
-348,armaldo,10,106,Harden,1,1,2
-348,armaldo,10,163,Slash,1,46,
-348,armaldo,10,182,Protect,1,25,
-348,armaldo,10,210,Fury Cutter,1,37,
-348,armaldo,10,232,Metal Claw,1,19,
-348,armaldo,10,246,Ancient Power,1,31,
-348,armaldo,10,300,Mud Sport,1,1,3
-348,armaldo,10,300,Mud Sport,1,7,
-348,armaldo,10,306,Crush Claw,1,67,
-348,armaldo,10,350,Rock Blast,1,55,
-348,armaldo,10,404,X-Scissor,1,73,
-348,armaldo,11,10,Scratch,1,1,1
-348,armaldo,11,55,Water Gun,1,1,4
-348,armaldo,11,55,Water Gun,1,13,
-348,armaldo,11,106,Harden,1,1,2
-348,armaldo,11,163,Slash,1,46,
-348,armaldo,11,182,Protect,1,25,
-348,armaldo,11,210,Fury Cutter,1,37,
-348,armaldo,11,232,Metal Claw,1,19,
-348,armaldo,11,246,Ancient Power,1,31,
-348,armaldo,11,300,Mud Sport,1,1,3
-348,armaldo,11,300,Mud Sport,1,7,
-348,armaldo,11,306,Crush Claw,1,67,
-348,armaldo,11,350,Rock Blast,1,55,
-348,armaldo,11,404,X-Scissor,1,73,
-348,armaldo,12,10,Scratch,1,1,1
-348,armaldo,12,55,Water Gun,1,1,4
-348,armaldo,12,55,Water Gun,1,19,
-348,armaldo,12,106,Harden,1,1,2
-348,armaldo,12,106,Harden,1,7,
-348,armaldo,12,163,Slash,1,55,
-348,armaldo,12,182,Protect,1,31,
-348,armaldo,12,210,Fury Cutter,1,46,
-348,armaldo,12,232,Metal Claw,1,25,
-348,armaldo,12,246,Ancient Power,1,37,
-348,armaldo,12,300,Mud Sport,1,1,3
-348,armaldo,12,300,Mud Sport,1,13,
-348,armaldo,12,350,Rock Blast,1,64,
-348,armaldo,13,10,Scratch,1,1,1
-348,armaldo,13,55,Water Gun,1,1,4
-348,armaldo,13,55,Water Gun,1,19,
-348,armaldo,13,106,Harden,1,1,2
-348,armaldo,13,106,Harden,1,7,
-348,armaldo,13,163,Slash,1,55,
-348,armaldo,13,182,Protect,1,31,
-348,armaldo,13,210,Fury Cutter,1,46,
-348,armaldo,13,232,Metal Claw,1,25,
-348,armaldo,13,246,Ancient Power,1,37,
-348,armaldo,13,300,Mud Sport,1,1,3
-348,armaldo,13,300,Mud Sport,1,13,
-348,armaldo,13,350,Rock Blast,1,64,
-348,armaldo,14,10,Scratch,1,1,1
-348,armaldo,14,55,Water Gun,1,1,4
-348,armaldo,14,55,Water Gun,1,13,
-348,armaldo,14,106,Harden,1,1,2
-348,armaldo,14,163,Slash,1,46,
-348,armaldo,14,182,Protect,1,25,
-348,armaldo,14,210,Fury Cutter,1,37,
-348,armaldo,14,232,Metal Claw,1,19,
-348,armaldo,14,246,Ancient Power,1,31,
-348,armaldo,14,300,Mud Sport,1,1,3
-348,armaldo,14,300,Mud Sport,1,7,
-348,armaldo,14,306,Crush Claw,1,67,
-348,armaldo,14,350,Rock Blast,1,55,
-348,armaldo,14,404,X-Scissor,1,73,
-348,armaldo,15,10,Scratch,1,1,2
-348,armaldo,15,55,Water Gun,1,1,5
-348,armaldo,15,55,Water Gun,1,13,
-348,armaldo,15,106,Harden,1,1,3
-348,armaldo,15,163,Slash,1,46,
-348,armaldo,15,182,Protect,1,25,
-348,armaldo,15,210,Fury Cutter,1,37,
-348,armaldo,15,232,Metal Claw,1,19,
-348,armaldo,15,246,Ancient Power,1,31,
-348,armaldo,15,300,Mud Sport,1,1,4
-348,armaldo,15,300,Mud Sport,1,7,
-348,armaldo,15,306,Crush Claw,1,1,1
-348,armaldo,15,306,Crush Claw,1,67,
-348,armaldo,15,350,Rock Blast,1,55,
-348,armaldo,15,404,X-Scissor,1,73,
-348,armaldo,16,10,Scratch,1,1,1
-348,armaldo,16,55,Water Gun,1,1,4
-348,armaldo,16,55,Water Gun,1,7,1
-348,armaldo,16,106,Harden,1,1,2
-348,armaldo,16,163,Slash,1,25,1
-348,armaldo,16,163,Slash,1,34,1
-348,armaldo,16,182,Protect,1,53,1
-348,armaldo,16,210,Fury Cutter,1,10,1
-348,armaldo,16,232,Metal Claw,1,17,1
-348,armaldo,16,246,Ancient Power,1,21,1
-348,armaldo,16,300,Mud Sport,1,1,3
-348,armaldo,16,300,Mud Sport,1,4,1
-348,armaldo,16,306,Crush Claw,1,39,1
-348,armaldo,16,350,Rock Blast,1,61,1
-348,armaldo,16,362,Brine,1,29,1
-348,armaldo,16,404,X-Scissor,1,46,1
-348,armaldo,16,479,Smack Down,1,13,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+348,5,Scratch,1,normal,40,100
+348,5,Water Gun,1,water,40,100
+348,5,Harden,1,normal,-,-
+348,5,Mud Sport,1,ground,-,-
+348,6,Scratch,1,normal,40,100
+348,6,Water Gun,1,water,40,100
+348,6,Harden,1,normal,-,-
+348,6,Mud Sport,1,ground,-,-
+348,7,Scratch,1,normal,40,100
+348,7,Water Gun,1,water,40,100
+348,7,Harden,1,normal,-,-
+348,7,Mud Sport,1,ground,-,-
+348,8,Scratch,1,normal,40,100
+348,8,Water Gun,1,water,40,100
+348,8,Harden,1,normal,-,-
+348,8,Mud Sport,1,ground,-,-
+348,9,Scratch,1,normal,40,100
+348,9,Water Gun,1,water,40,100
+348,9,Harden,1,normal,-,-
+348,9,Mud Sport,1,ground,-,-
+348,10,Scratch,1,normal,40,100
+348,10,Water Gun,1,water,40,100
+348,10,Harden,1,normal,-,-
+348,10,Mud Sport,1,ground,-,-
+348,11,Scratch,1,normal,40,100
+348,11,Water Gun,1,water,40,100
+348,11,Harden,1,normal,-,-
+348,11,Mud Sport,1,ground,-,-
+348,12,Scratch,1,normal,40,100
+348,12,Water Gun,1,water,40,100
+348,12,Harden,1,normal,-,-
+348,12,Mud Sport,1,ground,-,-
+348,13,Scratch,1,normal,40,100
+348,13,Water Gun,1,water,40,100
+348,13,Harden,1,normal,-,-
+348,13,Mud Sport,1,ground,-,-
+348,14,Scratch,1,normal,40,100
+348,14,Water Gun,1,water,40,100
+348,14,Harden,1,normal,-,-
+348,14,Mud Sport,1,ground,-,-
+348,15,Scratch,1,normal,40,100
+348,15,Water Gun,1,water,40,100
+348,15,Harden,1,normal,-,-
+348,15,Mud Sport,1,ground,-,-
+348,15,Crush Claw,1,normal,75,95
+348,16,Scratch,1,normal,40,100
+348,16,Water Gun,1,water,40,100
+348,16,Harden,1,normal,-,-
+348,16,Mud Sport,1,ground,-,-
+348,16,Mud Sport,4,ground,-,-
+348,5,Harden,7,normal,-,-
+348,6,Harden,7,normal,-,-
+348,7,Harden,7,normal,-,-
+348,8,Mud Sport,7,ground,-,-
+348,9,Mud Sport,7,ground,-,-
+348,10,Mud Sport,7,ground,-,-
+348,11,Mud Sport,7,ground,-,-
+348,12,Harden,7,normal,-,-
+348,13,Harden,7,normal,-,-
+348,14,Mud Sport,7,ground,-,-
+348,15,Mud Sport,7,ground,-,-
+348,16,Water Gun,7,water,40,100
+348,16,Fury Cutter,10,bug,40,95
+348,5,Mud Sport,13,ground,-,-
+348,6,Mud Sport,13,ground,-,-
+348,7,Mud Sport,13,ground,-,-
+348,8,Water Gun,13,water,40,100
+348,9,Water Gun,13,water,40,100
+348,10,Water Gun,13,water,40,100
+348,11,Water Gun,13,water,40,100
+348,12,Mud Sport,13,ground,-,-
+348,13,Mud Sport,13,ground,-,-
+348,14,Water Gun,13,water,40,100
+348,15,Water Gun,13,water,40,100
+348,16,Smack Down,13,rock,50,100
+348,16,Metal Claw,17,steel,50,95
+348,5,Water Gun,19,water,40,100
+348,6,Water Gun,19,water,40,100
+348,7,Water Gun,19,water,40,100
+348,8,Metal Claw,19,steel,50,95
+348,9,Metal Claw,19,steel,50,95
+348,10,Metal Claw,19,steel,50,95
+348,11,Metal Claw,19,steel,50,95
+348,12,Water Gun,19,water,40,100
+348,13,Water Gun,19,water,40,100
+348,14,Metal Claw,19,steel,50,95
+348,15,Metal Claw,19,steel,50,95
+348,16,Ancient Power,21,rock,60,100
+348,5,Metal Claw,25,steel,50,95
+348,6,Metal Claw,25,steel,50,95
+348,7,Metal Claw,25,steel,50,95
+348,8,Protect,25,normal,-,-
+348,9,Protect,25,normal,-,-
+348,10,Protect,25,normal,-,-
+348,11,Protect,25,normal,-,-
+348,12,Metal Claw,25,steel,50,95
+348,13,Metal Claw,25,steel,50,95
+348,14,Protect,25,normal,-,-
+348,15,Protect,25,normal,-,-
+348,16,Slash,25,normal,70,100
+348,16,Brine,29,water,65,100
+348,5,Protect,31,normal,-,-
+348,6,Protect,31,normal,-,-
+348,7,Protect,31,normal,-,-
+348,8,Ancient Power,31,rock,60,100
+348,9,Ancient Power,31,rock,60,100
+348,10,Ancient Power,31,rock,60,100
+348,11,Ancient Power,31,rock,60,100
+348,12,Protect,31,normal,-,-
+348,13,Protect,31,normal,-,-
+348,14,Ancient Power,31,rock,60,100
+348,15,Ancient Power,31,rock,60,100
+348,16,Slash,34,normal,70,100
+348,5,Ancient Power,37,rock,60,100
+348,6,Ancient Power,37,rock,60,100
+348,7,Ancient Power,37,rock,60,100
+348,8,Fury Cutter,37,bug,40,95
+348,9,Fury Cutter,37,bug,40,95
+348,10,Fury Cutter,37,bug,40,95
+348,11,Fury Cutter,37,bug,40,95
+348,12,Ancient Power,37,rock,60,100
+348,13,Ancient Power,37,rock,60,100
+348,14,Fury Cutter,37,bug,40,95
+348,15,Fury Cutter,37,bug,40,95
+348,16,Crush Claw,39,normal,75,95
+348,5,Fury Cutter,46,bug,40,95
+348,6,Fury Cutter,46,bug,40,95
+348,7,Fury Cutter,46,bug,40,95
+348,8,Slash,46,normal,70,100
+348,9,Slash,46,normal,70,100
+348,10,Slash,46,normal,70,100
+348,11,Slash,46,normal,70,100
+348,12,Fury Cutter,46,bug,40,95
+348,13,Fury Cutter,46,bug,40,95
+348,14,Slash,46,normal,70,100
+348,15,Slash,46,normal,70,100
+348,16,X-Scissor,46,bug,80,100
+348,16,Protect,53,normal,-,-
+348,5,Slash,55,normal,70,100
+348,6,Slash,55,normal,70,100
+348,7,Slash,55,normal,70,100
+348,8,Rock Blast,55,rock,25,90
+348,9,Rock Blast,55,rock,25,90
+348,10,Rock Blast,55,rock,25,90
+348,11,Rock Blast,55,rock,25,90
+348,12,Slash,55,normal,70,100
+348,13,Slash,55,normal,70,100
+348,14,Rock Blast,55,rock,25,90
+348,15,Rock Blast,55,rock,25,90
+348,16,Rock Blast,61,rock,25,90
+348,5,Rock Blast,64,rock,25,90
+348,6,Rock Blast,64,rock,25,90
+348,7,Rock Blast,64,rock,25,90
+348,12,Rock Blast,64,rock,25,90
+348,13,Rock Blast,64,rock,25,90
+348,8,Crush Claw,67,normal,75,95
+348,9,Crush Claw,67,normal,75,95
+348,10,Crush Claw,67,normal,75,95
+348,11,Crush Claw,67,normal,75,95
+348,14,Crush Claw,67,normal,75,95
+348,15,Crush Claw,67,normal,75,95
+348,8,X-Scissor,73,bug,80,100
+348,9,X-Scissor,73,bug,80,100
+348,10,X-Scissor,73,bug,80,100
+348,11,X-Scissor,73,bug,80,100
+348,14,X-Scissor,73,bug,80,100
+348,15,X-Scissor,73,bug,80,100

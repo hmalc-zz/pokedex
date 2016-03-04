@@ -1,221 +1,221 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-95,onix,1,20,Bind,1,15,
-95,onix,1,21,Slam,1,33,
-95,onix,1,33,Tackle,1,1,1
-95,onix,1,88,Rock Throw,1,19,
-95,onix,1,99,Rage,1,25,
-95,onix,1,103,Screech,1,1,2
-95,onix,1,106,Harden,1,43,
-95,onix,2,20,Bind,1,15,
-95,onix,2,21,Slam,1,33,
-95,onix,2,33,Tackle,1,1,1
-95,onix,2,88,Rock Throw,1,19,
-95,onix,2,99,Rage,1,25,
-95,onix,2,103,Screech,1,1,2
-95,onix,2,106,Harden,1,43,
-95,onix,3,20,Bind,1,10,
-95,onix,3,21,Slam,1,40,
-95,onix,3,33,Tackle,1,1,1
-95,onix,3,88,Rock Throw,1,14,
-95,onix,3,99,Rage,1,27,
-95,onix,3,103,Screech,1,1,2
-95,onix,3,106,Harden,1,23,
-95,onix,3,201,Sandstorm,1,36,
-95,onix,4,20,Bind,1,10,
-95,onix,4,21,Slam,1,40,
-95,onix,4,33,Tackle,1,1,1
-95,onix,4,88,Rock Throw,1,14,
-95,onix,4,99,Rage,1,27,
-95,onix,4,103,Screech,1,1,2
-95,onix,4,106,Harden,1,23,
-95,onix,4,201,Sandstorm,1,36,
-95,onix,5,20,Bind,1,9,
-95,onix,5,21,Slam,1,37,
-95,onix,5,33,Tackle,1,1,1
-95,onix,5,38,Double-Edge,1,57,
-95,onix,5,88,Rock Throw,1,13,
-95,onix,5,99,Rage,1,25,
-95,onix,5,103,Screech,1,1,2
-95,onix,5,106,Harden,1,21,
-95,onix,5,201,Sandstorm,1,33,
-95,onix,5,231,Iron Tail,1,45,
-95,onix,5,328,Sand Tomb,1,49,
-95,onix,6,20,Bind,1,9,
-95,onix,6,21,Slam,1,37,
-95,onix,6,33,Tackle,1,1,1
-95,onix,6,38,Double-Edge,1,57,
-95,onix,6,88,Rock Throw,1,13,
-95,onix,6,99,Rage,1,25,
-95,onix,6,103,Screech,1,1,2
-95,onix,6,106,Harden,1,21,
-95,onix,6,201,Sandstorm,1,33,
-95,onix,6,231,Iron Tail,1,45,
-95,onix,6,328,Sand Tomb,1,49,
-95,onix,7,20,Bind,1,8,
-95,onix,7,21,Slam,1,41,
-95,onix,7,33,Tackle,1,1,1
-95,onix,7,38,Double-Edge,1,56,
-95,onix,7,88,Rock Throw,1,12,
-95,onix,7,99,Rage,1,23,
-95,onix,7,103,Screech,1,1,2
-95,onix,7,106,Harden,1,19,
-95,onix,7,201,Sandstorm,1,34,
-95,onix,7,225,Dragon Breath,1,30,
-95,onix,7,231,Iron Tail,1,45,
-95,onix,7,328,Sand Tomb,1,52,
-95,onix,8,20,Bind,1,1,4
-95,onix,8,21,Slam,1,25,
-95,onix,8,33,Tackle,1,1,2
-95,onix,8,38,Double-Edge,1,46,
-95,onix,8,88,Rock Throw,1,9,
-95,onix,8,99,Rage,1,14,
-95,onix,8,103,Screech,1,6,
-95,onix,8,106,Harden,1,1,3
-95,onix,8,201,Sandstorm,1,22,
-95,onix,8,225,Dragon Breath,1,33,
-95,onix,8,231,Iron Tail,1,38,
-95,onix,8,300,Mud Sport,1,1,1
-95,onix,8,317,Rock Tomb,1,17,
-95,onix,8,328,Sand Tomb,1,41,
-95,onix,8,397,Rock Polish,1,30,
-95,onix,8,444,Stone Edge,1,49,
-95,onix,9,20,Bind,1,1,4
-95,onix,9,21,Slam,1,25,
-95,onix,9,33,Tackle,1,1,2
-95,onix,9,38,Double-Edge,1,49,
-95,onix,9,88,Rock Throw,1,9,
-95,onix,9,99,Rage,1,14,
-95,onix,9,103,Screech,1,6,
-95,onix,9,106,Harden,1,1,3
-95,onix,9,174,Curse,1,38,
-95,onix,9,201,Sandstorm,1,22,
-95,onix,9,225,Dragon Breath,1,33,
-95,onix,9,231,Iron Tail,1,41,
-95,onix,9,300,Mud Sport,1,1,1
-95,onix,9,317,Rock Tomb,1,17,
-95,onix,9,328,Sand Tomb,1,46,
-95,onix,9,397,Rock Polish,1,30,
-95,onix,9,444,Stone Edge,1,54,
-95,onix,10,20,Bind,1,1,4
-95,onix,10,21,Slam,1,25,
-95,onix,10,33,Tackle,1,1,2
-95,onix,10,38,Double-Edge,1,49,
-95,onix,10,88,Rock Throw,1,9,
-95,onix,10,99,Rage,1,14,
-95,onix,10,103,Screech,1,6,
-95,onix,10,106,Harden,1,1,3
-95,onix,10,174,Curse,1,38,
-95,onix,10,201,Sandstorm,1,22,
-95,onix,10,225,Dragon Breath,1,33,
-95,onix,10,231,Iron Tail,1,41,
-95,onix,10,300,Mud Sport,1,1,1
-95,onix,10,317,Rock Tomb,1,17,
-95,onix,10,328,Sand Tomb,1,46,
-95,onix,10,397,Rock Polish,1,30,
-95,onix,10,444,Stone Edge,1,54,
-95,onix,11,20,Bind,1,1,4
-95,onix,11,21,Slam,1,33,
-95,onix,11,33,Tackle,1,1,2
-95,onix,11,38,Double-Edge,1,57,
-95,onix,11,88,Rock Throw,1,9,
-95,onix,11,99,Rage,1,14,
-95,onix,11,103,Screech,1,6,
-95,onix,11,106,Harden,1,1,3
-95,onix,11,174,Curse,1,46,
-95,onix,11,201,Sandstorm,1,25,
-95,onix,11,225,Dragon Breath,1,41,
-95,onix,11,231,Iron Tail,1,49,
-95,onix,11,300,Mud Sport,1,1,1
-95,onix,11,317,Rock Tomb,1,17,
-95,onix,11,328,Sand Tomb,1,54,
-95,onix,11,397,Rock Polish,1,30,
-95,onix,11,444,Stone Edge,1,62,
-95,onix,11,446,Stealth Rock,1,38,
-95,onix,11,479,Smack Down,1,22,
-95,onix,12,20,Bind,1,9,
-95,onix,12,21,Slam,1,37,
-95,onix,12,33,Tackle,1,1,1
-95,onix,12,38,Double-Edge,1,57,
-95,onix,12,88,Rock Throw,1,13,
-95,onix,12,99,Rage,1,25,
-95,onix,12,103,Screech,1,1,2
-95,onix,12,106,Harden,1,21,
-95,onix,12,201,Sandstorm,1,33,
-95,onix,12,231,Iron Tail,1,45,
-95,onix,12,328,Sand Tomb,1,49,
-95,onix,13,20,Bind,1,9,
-95,onix,13,21,Slam,1,37,
-95,onix,13,33,Tackle,1,1,1
-95,onix,13,38,Double-Edge,1,57,
-95,onix,13,88,Rock Throw,1,13,
-95,onix,13,99,Rage,1,25,
-95,onix,13,103,Screech,1,1,2
-95,onix,13,106,Harden,1,21,
-95,onix,13,201,Sandstorm,1,33,
-95,onix,13,231,Iron Tail,1,45,
-95,onix,13,328,Sand Tomb,1,49,
-95,onix,14,20,Bind,1,1,4
-95,onix,14,21,Slam,1,28,
-95,onix,14,33,Tackle,1,1,2
-95,onix,14,38,Double-Edge,1,49,
-95,onix,14,88,Rock Throw,1,7,
-95,onix,14,91,Dig,1,43,
-95,onix,14,99,Rage,1,10,
-95,onix,14,103,Screech,1,31,
-95,onix,14,106,Harden,1,1,3
-95,onix,14,157,Rock Slide,1,34,
-95,onix,14,174,Curse,1,4,
-95,onix,14,201,Sandstorm,1,52,
-95,onix,14,225,Dragon Breath,1,25,
-95,onix,14,231,Iron Tail,1,40,
-95,onix,14,300,Mud Sport,1,1,1
-95,onix,14,317,Rock Tomb,1,13,
-95,onix,14,328,Sand Tomb,1,37,
-95,onix,14,397,Rock Polish,1,19,
-95,onix,14,444,Stone Edge,1,46,
-95,onix,14,446,Stealth Rock,1,16,
-95,onix,14,479,Smack Down,1,22,
-95,onix,15,20,Bind,1,1,4
-95,onix,15,21,Slam,1,28,
-95,onix,15,33,Tackle,1,1,2
-95,onix,15,38,Double-Edge,1,49,
-95,onix,15,88,Rock Throw,1,7,
-95,onix,15,91,Dig,1,43,
-95,onix,15,99,Rage,1,13,
-95,onix,15,103,Screech,1,31,
-95,onix,15,106,Harden,1,1,3
-95,onix,15,157,Rock Slide,1,34,
-95,onix,15,174,Curse,1,4,
-95,onix,15,201,Sandstorm,1,52,
-95,onix,15,225,Dragon Breath,1,25,
-95,onix,15,231,Iron Tail,1,40,
-95,onix,15,300,Mud Sport,1,1,1
-95,onix,15,317,Rock Tomb,1,10,
-95,onix,15,328,Sand Tomb,1,37,
-95,onix,15,360,Gyro Ball,1,20,
-95,onix,15,397,Rock Polish,1,19,
-95,onix,15,444,Stone Edge,1,46,
-95,onix,15,446,Stealth Rock,1,16,
-95,onix,15,479,Smack Down,1,22,
-95,onix,16,20,Bind,1,1,4
-95,onix,16,21,Slam,1,28,1
-95,onix,16,33,Tackle,1,1,2
-95,onix,16,38,Double-Edge,1,49,1
-95,onix,16,88,Rock Throw,1,7,1
-95,onix,16,91,Dig,1,43,1
-95,onix,16,99,Rage,1,13,1
-95,onix,16,103,Screech,1,31,1
-95,onix,16,106,Harden,1,1,3
-95,onix,16,157,Rock Slide,1,34,1
-95,onix,16,174,Curse,1,4,1
-95,onix,16,201,Sandstorm,1,52,1
-95,onix,16,225,Dragon Breath,1,25,1
-95,onix,16,231,Iron Tail,1,40,1
-95,onix,16,300,Mud Sport,1,1,1
-95,onix,16,317,Rock Tomb,1,10,1
-95,onix,16,328,Sand Tomb,1,37,1
-95,onix,16,360,Gyro Ball,1,20,1
-95,onix,16,397,Rock Polish,1,19,1
-95,onix,16,444,Stone Edge,1,46,1
-95,onix,16,446,Stealth Rock,1,16,1
-95,onix,16,479,Smack Down,1,22,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+95,1,Tackle,1,normal,50,100
+95,1,Screech,1,normal,-,85
+95,2,Tackle,1,normal,50,100
+95,2,Screech,1,normal,-,85
+95,3,Tackle,1,normal,50,100
+95,3,Screech,1,normal,-,85
+95,4,Tackle,1,normal,50,100
+95,4,Screech,1,normal,-,85
+95,5,Tackle,1,normal,50,100
+95,5,Screech,1,normal,-,85
+95,6,Tackle,1,normal,50,100
+95,6,Screech,1,normal,-,85
+95,7,Tackle,1,normal,50,100
+95,7,Screech,1,normal,-,85
+95,8,Bind,1,normal,15,85
+95,8,Tackle,1,normal,50,100
+95,8,Harden,1,normal,-,-
+95,8,Mud Sport,1,ground,-,-
+95,9,Bind,1,normal,15,85
+95,9,Tackle,1,normal,50,100
+95,9,Harden,1,normal,-,-
+95,9,Mud Sport,1,ground,-,-
+95,10,Bind,1,normal,15,85
+95,10,Tackle,1,normal,50,100
+95,10,Harden,1,normal,-,-
+95,10,Mud Sport,1,ground,-,-
+95,11,Bind,1,normal,15,85
+95,11,Tackle,1,normal,50,100
+95,11,Harden,1,normal,-,-
+95,11,Mud Sport,1,ground,-,-
+95,12,Tackle,1,normal,50,100
+95,12,Screech,1,normal,-,85
+95,13,Tackle,1,normal,50,100
+95,13,Screech,1,normal,-,85
+95,14,Bind,1,normal,15,85
+95,14,Tackle,1,normal,50,100
+95,14,Harden,1,normal,-,-
+95,14,Mud Sport,1,ground,-,-
+95,15,Bind,1,normal,15,85
+95,15,Tackle,1,normal,50,100
+95,15,Harden,1,normal,-,-
+95,15,Mud Sport,1,ground,-,-
+95,16,Bind,1,normal,15,85
+95,16,Tackle,1,normal,50,100
+95,16,Harden,1,normal,-,-
+95,16,Mud Sport,1,ground,-,-
+95,14,Curse,4,ghost,-,-
+95,15,Curse,4,ghost,-,-
+95,16,Curse,4,ghost,-,-
+95,8,Screech,6,normal,-,85
+95,9,Screech,6,normal,-,85
+95,10,Screech,6,normal,-,85
+95,11,Screech,6,normal,-,85
+95,14,Rock Throw,7,rock,50,90
+95,15,Rock Throw,7,rock,50,90
+95,16,Rock Throw,7,rock,50,90
+95,7,Bind,8,normal,15,85
+95,5,Bind,9,normal,15,85
+95,6,Bind,9,normal,15,85
+95,8,Rock Throw,9,rock,50,90
+95,9,Rock Throw,9,rock,50,90
+95,10,Rock Throw,9,rock,50,90
+95,11,Rock Throw,9,rock,50,90
+95,12,Bind,9,normal,15,85
+95,13,Bind,9,normal,15,85
+95,3,Bind,10,normal,15,85
+95,4,Bind,10,normal,15,85
+95,14,Rage,10,normal,20,100
+95,15,Rock Tomb,10,rock,60,95
+95,16,Rock Tomb,10,rock,60,95
+95,7,Rock Throw,12,rock,50,90
+95,5,Rock Throw,13,rock,50,90
+95,6,Rock Throw,13,rock,50,90
+95,12,Rock Throw,13,rock,50,90
+95,13,Rock Throw,13,rock,50,90
+95,14,Rock Tomb,13,rock,60,95
+95,15,Rage,13,normal,20,100
+95,16,Rage,13,normal,20,100
+95,3,Rock Throw,14,rock,50,90
+95,4,Rock Throw,14,rock,50,90
+95,8,Rage,14,normal,20,100
+95,9,Rage,14,normal,20,100
+95,10,Rage,14,normal,20,100
+95,11,Rage,14,normal,20,100
+95,1,Bind,15,normal,15,85
+95,2,Bind,15,normal,15,85
+95,14,Stealth Rock,16,rock,-,-
+95,15,Stealth Rock,16,rock,-,-
+95,16,Stealth Rock,16,rock,-,-
+95,8,Rock Tomb,17,rock,60,95
+95,9,Rock Tomb,17,rock,60,95
+95,10,Rock Tomb,17,rock,60,95
+95,11,Rock Tomb,17,rock,60,95
+95,1,Rock Throw,19,rock,50,90
+95,2,Rock Throw,19,rock,50,90
+95,7,Harden,19,normal,-,-
+95,14,Rock Polish,19,rock,-,-
+95,15,Rock Polish,19,rock,-,-
+95,16,Rock Polish,19,rock,-,-
+95,15,Gyro Ball,20,steel,-,100
+95,16,Gyro Ball,20,steel,-,100
+95,5,Harden,21,normal,-,-
+95,6,Harden,21,normal,-,-
+95,12,Harden,21,normal,-,-
+95,13,Harden,21,normal,-,-
+95,8,Sandstorm,22,rock,-,-
+95,9,Sandstorm,22,rock,-,-
+95,10,Sandstorm,22,rock,-,-
+95,11,Smack Down,22,rock,50,100
+95,14,Smack Down,22,rock,50,100
+95,15,Smack Down,22,rock,50,100
+95,16,Smack Down,22,rock,50,100
+95,3,Harden,23,normal,-,-
+95,4,Harden,23,normal,-,-
+95,7,Rage,23,normal,20,100
+95,1,Rage,25,normal,20,100
+95,2,Rage,25,normal,20,100
+95,5,Rage,25,normal,20,100
+95,6,Rage,25,normal,20,100
+95,8,Slam,25,normal,80,75
+95,9,Slam,25,normal,80,75
+95,10,Slam,25,normal,80,75
+95,11,Sandstorm,25,rock,-,-
+95,12,Rage,25,normal,20,100
+95,13,Rage,25,normal,20,100
+95,14,Dragon Breath,25,dragon,60,100
+95,15,Dragon Breath,25,dragon,60,100
+95,16,Dragon Breath,25,dragon,60,100
+95,3,Rage,27,normal,20,100
+95,4,Rage,27,normal,20,100
+95,14,Slam,28,normal,80,75
+95,15,Slam,28,normal,80,75
+95,16,Slam,28,normal,80,75
+95,7,Dragon Breath,30,dragon,60,100
+95,8,Rock Polish,30,rock,-,-
+95,9,Rock Polish,30,rock,-,-
+95,10,Rock Polish,30,rock,-,-
+95,11,Rock Polish,30,rock,-,-
+95,14,Screech,31,normal,-,85
+95,15,Screech,31,normal,-,85
+95,16,Screech,31,normal,-,85
+95,1,Slam,33,normal,80,75
+95,2,Slam,33,normal,80,75
+95,5,Sandstorm,33,rock,-,-
+95,6,Sandstorm,33,rock,-,-
+95,8,Dragon Breath,33,dragon,60,100
+95,9,Dragon Breath,33,dragon,60,100
+95,10,Dragon Breath,33,dragon,60,100
+95,11,Slam,33,normal,80,75
+95,12,Sandstorm,33,rock,-,-
+95,13,Sandstorm,33,rock,-,-
+95,7,Sandstorm,34,rock,-,-
+95,14,Rock Slide,34,rock,75,90
+95,15,Rock Slide,34,rock,75,90
+95,16,Rock Slide,34,rock,75,90
+95,3,Sandstorm,36,rock,-,-
+95,4,Sandstorm,36,rock,-,-
+95,5,Slam,37,normal,80,75
+95,6,Slam,37,normal,80,75
+95,12,Slam,37,normal,80,75
+95,13,Slam,37,normal,80,75
+95,14,Sand Tomb,37,ground,35,85
+95,15,Sand Tomb,37,ground,35,85
+95,16,Sand Tomb,37,ground,35,85
+95,8,Iron Tail,38,steel,100,75
+95,9,Curse,38,ghost,-,-
+95,10,Curse,38,ghost,-,-
+95,11,Stealth Rock,38,rock,-,-
+95,3,Slam,40,normal,80,75
+95,4,Slam,40,normal,80,75
+95,14,Iron Tail,40,steel,100,75
+95,15,Iron Tail,40,steel,100,75
+95,16,Iron Tail,40,steel,100,75
+95,7,Slam,41,normal,80,75
+95,8,Sand Tomb,41,ground,35,85
+95,9,Iron Tail,41,steel,100,75
+95,10,Iron Tail,41,steel,100,75
+95,11,Dragon Breath,41,dragon,60,100
+95,1,Harden,43,normal,-,-
+95,2,Harden,43,normal,-,-
+95,14,Dig,43,ground,80,100
+95,15,Dig,43,ground,80,100
+95,16,Dig,43,ground,80,100
+95,5,Iron Tail,45,steel,100,75
+95,6,Iron Tail,45,steel,100,75
+95,7,Iron Tail,45,steel,100,75
+95,12,Iron Tail,45,steel,100,75
+95,13,Iron Tail,45,steel,100,75
+95,8,Double-Edge,46,normal,120,100
+95,9,Sand Tomb,46,ground,35,85
+95,10,Sand Tomb,46,ground,35,85
+95,11,Curse,46,ghost,-,-
+95,14,Stone Edge,46,rock,100,80
+95,15,Stone Edge,46,rock,100,80
+95,16,Stone Edge,46,rock,100,80
+95,5,Sand Tomb,49,ground,35,85
+95,6,Sand Tomb,49,ground,35,85
+95,8,Stone Edge,49,rock,100,80
+95,9,Double-Edge,49,normal,120,100
+95,10,Double-Edge,49,normal,120,100
+95,11,Iron Tail,49,steel,100,75
+95,12,Sand Tomb,49,ground,35,85
+95,13,Sand Tomb,49,ground,35,85
+95,14,Double-Edge,49,normal,120,100
+95,15,Double-Edge,49,normal,120,100
+95,16,Double-Edge,49,normal,120,100
+95,7,Sand Tomb,52,ground,35,85
+95,14,Sandstorm,52,rock,-,-
+95,15,Sandstorm,52,rock,-,-
+95,16,Sandstorm,52,rock,-,-
+95,9,Stone Edge,54,rock,100,80
+95,10,Stone Edge,54,rock,100,80
+95,11,Sand Tomb,54,ground,35,85
+95,7,Double-Edge,56,normal,120,100
+95,5,Double-Edge,57,normal,120,100
+95,6,Double-Edge,57,normal,120,100
+95,11,Double-Edge,57,normal,120,100
+95,12,Double-Edge,57,normal,120,100
+95,13,Double-Edge,57,normal,120,100
+95,11,Stone Edge,62,rock,100,80

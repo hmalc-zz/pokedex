@@ -1,23 +1,23 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-704,goomy,15,33,Tackle,1,1,1
-704,goomy,15,34,Body Slam,1,32,
-704,goomy,15,71,Absorb,1,5,
-704,goomy,15,117,Bide,1,13,
-704,goomy,15,145,Bubble,1,1,2
-704,goomy,15,175,Flail,1,28,
-704,goomy,15,182,Protect,1,9,
-704,goomy,15,225,Dragon Breath,1,18,
-704,goomy,15,240,Rain Dance,1,25,
-704,goomy,15,330,Muddy Water,1,38,
-704,goomy,15,406,Dragon Pulse,1,42,
-704,goomy,16,33,Tackle,1,1,1
-704,goomy,16,34,Body Slam,1,32,1
-704,goomy,16,71,Absorb,1,5,1
-704,goomy,16,117,Bide,1,13,1
-704,goomy,16,145,Bubble,1,1,2
-704,goomy,16,175,Flail,1,28,1
-704,goomy,16,182,Protect,1,9,1
-704,goomy,16,225,Dragon Breath,1,18,1
-704,goomy,16,240,Rain Dance,1,25,1
-704,goomy,16,330,Muddy Water,1,38,1
-704,goomy,16,406,Dragon Pulse,1,42,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+704,15,Tackle,1,normal,50,100
+704,15,Bubble,1,water,40,100
+704,16,Tackle,1,normal,50,100
+704,16,Bubble,1,water,40,100
+704,15,Absorb,5,grass,20,100
+704,16,Absorb,5,grass,20,100
+704,15,Protect,9,normal,-,-
+704,16,Protect,9,normal,-,-
+704,15,Bide,13,normal,-,-
+704,16,Bide,13,normal,-,-
+704,15,Dragon Breath,18,dragon,60,100
+704,16,Dragon Breath,18,dragon,60,100
+704,15,Rain Dance,25,water,-,-
+704,16,Rain Dance,25,water,-,-
+704,15,Flail,28,normal,-,100
+704,16,Flail,28,normal,-,100
+704,15,Body Slam,32,normal,85,100
+704,16,Body Slam,32,normal,85,100
+704,15,Muddy Water,38,water,90,85
+704,16,Muddy Water,38,water,90,85
+704,15,Dragon Pulse,42,dragon,85,100
+704,16,Dragon Pulse,42,dragon,85,100

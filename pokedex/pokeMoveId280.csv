@@ -1,152 +1,152 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-280,ralts,5,45,Growl,1,1,
-280,ralts,5,93,Confusion,1,6,
-280,ralts,5,94,Psychic,1,26,
-280,ralts,5,95,Hypnosis,1,41,
-280,ralts,5,100,Teleport,1,16,
-280,ralts,5,104,Double Team,1,11,
-280,ralts,5,138,Dream Eater,1,46,
-280,ralts,5,248,Future Sight,1,36,
-280,ralts,5,286,Imprison,1,31,
-280,ralts,5,347,Calm Mind,1,21,
-280,ralts,6,45,Growl,1,1,
-280,ralts,6,93,Confusion,1,6,
-280,ralts,6,94,Psychic,1,26,
-280,ralts,6,95,Hypnosis,1,41,
-280,ralts,6,100,Teleport,1,16,
-280,ralts,6,104,Double Team,1,11,
-280,ralts,6,138,Dream Eater,1,46,
-280,ralts,6,248,Future Sight,1,36,
-280,ralts,6,286,Imprison,1,31,
-280,ralts,6,347,Calm Mind,1,21,
-280,ralts,7,45,Growl,1,1,
-280,ralts,7,93,Confusion,1,6,
-280,ralts,7,94,Psychic,1,26,
-280,ralts,7,95,Hypnosis,1,41,
-280,ralts,7,100,Teleport,1,16,
-280,ralts,7,104,Double Team,1,11,
-280,ralts,7,138,Dream Eater,1,46,
-280,ralts,7,248,Future Sight,1,36,
-280,ralts,7,286,Imprison,1,31,
-280,ralts,7,347,Calm Mind,1,21,
-280,ralts,8,45,Growl,1,1,
-280,ralts,8,93,Confusion,1,6,
-280,ralts,8,94,Psychic,1,28,
-280,ralts,8,95,Hypnosis,1,43,
-280,ralts,8,100,Teleport,1,12,
-280,ralts,8,104,Double Team,1,10,
-280,ralts,8,138,Dream Eater,1,45,
-280,ralts,8,204,Charm,1,39,
-280,ralts,8,248,Future Sight,1,34,
-280,ralts,8,286,Imprison,1,32,
-280,ralts,8,345,Magical Leaf,1,21,
-280,ralts,8,347,Calm Mind,1,23,
-280,ralts,8,381,Lucky Chant,1,17,
-280,ralts,9,45,Growl,1,1,
-280,ralts,9,93,Confusion,1,6,
-280,ralts,9,94,Psychic,1,28,
-280,ralts,9,95,Hypnosis,1,43,
-280,ralts,9,100,Teleport,1,12,
-280,ralts,9,104,Double Team,1,10,
-280,ralts,9,138,Dream Eater,1,45,
-280,ralts,9,204,Charm,1,39,
-280,ralts,9,248,Future Sight,1,34,
-280,ralts,9,286,Imprison,1,32,
-280,ralts,9,345,Magical Leaf,1,21,
-280,ralts,9,347,Calm Mind,1,23,
-280,ralts,9,381,Lucky Chant,1,17,
-280,ralts,10,45,Growl,1,1,
-280,ralts,10,93,Confusion,1,6,
-280,ralts,10,94,Psychic,1,28,
-280,ralts,10,95,Hypnosis,1,43,
-280,ralts,10,100,Teleport,1,12,
-280,ralts,10,104,Double Team,1,10,
-280,ralts,10,138,Dream Eater,1,45,
-280,ralts,10,204,Charm,1,39,
-280,ralts,10,248,Future Sight,1,34,
-280,ralts,10,286,Imprison,1,32,
-280,ralts,10,345,Magical Leaf,1,21,
-280,ralts,10,347,Calm Mind,1,23,
-280,ralts,10,381,Lucky Chant,1,17,
-280,ralts,11,45,Growl,1,1,
-280,ralts,11,93,Confusion,1,6,
-280,ralts,11,94,Psychic,1,32,
-280,ralts,11,95,Hypnosis,1,45,
-280,ralts,11,100,Teleport,1,12,
-280,ralts,11,104,Double Team,1,10,
-280,ralts,11,138,Dream Eater,1,50,
-280,ralts,11,204,Charm,1,43,
-280,ralts,11,248,Future Sight,1,39,
-280,ralts,11,286,Imprison,1,34,
-280,ralts,11,345,Magical Leaf,1,21,
-280,ralts,11,347,Calm Mind,1,28,
-280,ralts,11,381,Lucky Chant,1,17,
-280,ralts,11,500,Stored Power,1,54,
-280,ralts,11,505,Heal Pulse,1,23,
-280,ralts,12,45,Growl,1,1,
-280,ralts,12,93,Confusion,1,6,
-280,ralts,12,94,Psychic,1,26,
-280,ralts,12,95,Hypnosis,1,41,
-280,ralts,12,100,Teleport,1,16,
-280,ralts,12,104,Double Team,1,11,
-280,ralts,12,138,Dream Eater,1,46,
-280,ralts,12,248,Future Sight,1,36,
-280,ralts,12,286,Imprison,1,31,
-280,ralts,12,347,Calm Mind,1,21,
-280,ralts,13,45,Growl,1,1,
-280,ralts,13,93,Confusion,1,6,
-280,ralts,13,94,Psychic,1,26,
-280,ralts,13,95,Hypnosis,1,41,
-280,ralts,13,100,Teleport,1,16,
-280,ralts,13,104,Double Team,1,11,
-280,ralts,13,138,Dream Eater,1,46,
-280,ralts,13,248,Future Sight,1,36,
-280,ralts,13,286,Imprison,1,31,
-280,ralts,13,347,Calm Mind,1,21,
-280,ralts,14,45,Growl,1,1,
-280,ralts,14,93,Confusion,1,6,
-280,ralts,14,94,Psychic,1,32,
-280,ralts,14,95,Hypnosis,1,45,
-280,ralts,14,100,Teleport,1,12,
-280,ralts,14,104,Double Team,1,10,
-280,ralts,14,138,Dream Eater,1,50,
-280,ralts,14,204,Charm,1,43,
-280,ralts,14,248,Future Sight,1,39,
-280,ralts,14,286,Imprison,1,34,
-280,ralts,14,345,Magical Leaf,1,21,
-280,ralts,14,347,Calm Mind,1,28,
-280,ralts,14,381,Lucky Chant,1,17,
-280,ralts,14,500,Stored Power,1,54,
-280,ralts,14,505,Heal Pulse,1,23,
-280,ralts,15,45,Growl,1,1,
-280,ralts,15,93,Confusion,1,6,
-280,ralts,15,94,Psychic,1,32,
-280,ralts,15,95,Hypnosis,1,45,
-280,ralts,15,100,Teleport,1,12,
-280,ralts,15,104,Double Team,1,10,
-280,ralts,15,138,Dream Eater,1,49,
-280,ralts,15,204,Charm,1,43,
-280,ralts,15,248,Future Sight,1,39,
-280,ralts,15,286,Imprison,1,34,
-280,ralts,15,345,Magical Leaf,1,21,
-280,ralts,15,347,Calm Mind,1,28,
-280,ralts,15,381,Lucky Chant,1,17,
-280,ralts,15,500,Stored Power,1,54,
-280,ralts,15,505,Heal Pulse,1,23,
-280,ralts,16,45,Growl,1,1,1
-280,ralts,16,93,Confusion,1,4,1
-280,ralts,16,94,Psychic,1,27,1
-280,ralts,16,95,Hypnosis,1,37,1
-280,ralts,16,100,Teleport,1,9,1
-280,ralts,16,104,Double Team,1,6,1
-280,ralts,16,138,Dream Eater,1,39,1
-280,ralts,16,204,Charm,1,34,1
-280,ralts,16,248,Future Sight,1,32,1
-280,ralts,16,286,Imprison,1,29,1
-280,ralts,16,345,Magical Leaf,1,17,1
-280,ralts,16,347,Calm Mind,1,24,1
-280,ralts,16,381,Lucky Chant,1,14,1
-280,ralts,16,500,Stored Power,1,42,1
-280,ralts,16,505,Heal Pulse,1,19,1
-280,ralts,16,574,Disarming Voice,1,11,1
-280,ralts,16,577,Draining Kiss,1,22,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+280,5,Growl,1,normal,-,100
+280,6,Growl,1,normal,-,100
+280,7,Growl,1,normal,-,100
+280,8,Growl,1,normal,-,100
+280,9,Growl,1,normal,-,100
+280,10,Growl,1,normal,-,100
+280,11,Growl,1,normal,-,100
+280,12,Growl,1,normal,-,100
+280,13,Growl,1,normal,-,100
+280,14,Growl,1,normal,-,100
+280,15,Growl,1,normal,-,100
+280,16,Growl,1,normal,-,100
+280,16,Confusion,4,psychic,50,100
+280,5,Confusion,6,psychic,50,100
+280,6,Confusion,6,psychic,50,100
+280,7,Confusion,6,psychic,50,100
+280,8,Confusion,6,psychic,50,100
+280,9,Confusion,6,psychic,50,100
+280,10,Confusion,6,psychic,50,100
+280,11,Confusion,6,psychic,50,100
+280,12,Confusion,6,psychic,50,100
+280,13,Confusion,6,psychic,50,100
+280,14,Confusion,6,psychic,50,100
+280,15,Confusion,6,psychic,50,100
+280,16,Double Team,6,normal,-,-
+280,16,Teleport,9,psychic,-,-
+280,8,Double Team,10,normal,-,-
+280,9,Double Team,10,normal,-,-
+280,10,Double Team,10,normal,-,-
+280,11,Double Team,10,normal,-,-
+280,14,Double Team,10,normal,-,-
+280,15,Double Team,10,normal,-,-
+280,5,Double Team,11,normal,-,-
+280,6,Double Team,11,normal,-,-
+280,7,Double Team,11,normal,-,-
+280,12,Double Team,11,normal,-,-
+280,13,Double Team,11,normal,-,-
+280,16,Disarming Voice,11,fairy,40,-
+280,8,Teleport,12,psychic,-,-
+280,9,Teleport,12,psychic,-,-
+280,10,Teleport,12,psychic,-,-
+280,11,Teleport,12,psychic,-,-
+280,14,Teleport,12,psychic,-,-
+280,15,Teleport,12,psychic,-,-
+280,16,Lucky Chant,14,normal,-,-
+280,5,Teleport,16,psychic,-,-
+280,6,Teleport,16,psychic,-,-
+280,7,Teleport,16,psychic,-,-
+280,12,Teleport,16,psychic,-,-
+280,13,Teleport,16,psychic,-,-
+280,8,Lucky Chant,17,normal,-,-
+280,9,Lucky Chant,17,normal,-,-
+280,10,Lucky Chant,17,normal,-,-
+280,11,Lucky Chant,17,normal,-,-
+280,14,Lucky Chant,17,normal,-,-
+280,15,Lucky Chant,17,normal,-,-
+280,16,Magical Leaf,17,grass,60,-
+280,16,Heal Pulse,19,psychic,-,-
+280,5,Calm Mind,21,psychic,-,-
+280,6,Calm Mind,21,psychic,-,-
+280,7,Calm Mind,21,psychic,-,-
+280,8,Magical Leaf,21,grass,60,-
+280,9,Magical Leaf,21,grass,60,-
+280,10,Magical Leaf,21,grass,60,-
+280,11,Magical Leaf,21,grass,60,-
+280,12,Calm Mind,21,psychic,-,-
+280,13,Calm Mind,21,psychic,-,-
+280,14,Magical Leaf,21,grass,60,-
+280,15,Magical Leaf,21,grass,60,-
+280,16,Draining Kiss,22,fairy,50,100
+280,8,Calm Mind,23,psychic,-,-
+280,9,Calm Mind,23,psychic,-,-
+280,10,Calm Mind,23,psychic,-,-
+280,11,Heal Pulse,23,psychic,-,-
+280,14,Heal Pulse,23,psychic,-,-
+280,15,Heal Pulse,23,psychic,-,-
+280,16,Calm Mind,24,psychic,-,-
+280,5,Psychic,26,psychic,90,100
+280,6,Psychic,26,psychic,90,100
+280,7,Psychic,26,psychic,90,100
+280,12,Psychic,26,psychic,90,100
+280,13,Psychic,26,psychic,90,100
+280,16,Psychic,27,psychic,90,100
+280,8,Psychic,28,psychic,90,100
+280,9,Psychic,28,psychic,90,100
+280,10,Psychic,28,psychic,90,100
+280,11,Calm Mind,28,psychic,-,-
+280,14,Calm Mind,28,psychic,-,-
+280,15,Calm Mind,28,psychic,-,-
+280,16,Imprison,29,psychic,-,-
+280,5,Imprison,31,psychic,-,-
+280,6,Imprison,31,psychic,-,-
+280,7,Imprison,31,psychic,-,-
+280,12,Imprison,31,psychic,-,-
+280,13,Imprison,31,psychic,-,-
+280,8,Imprison,32,psychic,-,-
+280,9,Imprison,32,psychic,-,-
+280,10,Imprison,32,psychic,-,-
+280,11,Psychic,32,psychic,90,100
+280,14,Psychic,32,psychic,90,100
+280,15,Psychic,32,psychic,90,100
+280,16,Future Sight,32,psychic,120,100
+280,8,Future Sight,34,psychic,120,100
+280,9,Future Sight,34,psychic,120,100
+280,10,Future Sight,34,psychic,120,100
+280,11,Imprison,34,psychic,-,-
+280,14,Imprison,34,psychic,-,-
+280,15,Imprison,34,psychic,-,-
+280,16,Charm,34,fairy,-,100
+280,5,Future Sight,36,psychic,120,100
+280,6,Future Sight,36,psychic,120,100
+280,7,Future Sight,36,psychic,120,100
+280,12,Future Sight,36,psychic,120,100
+280,13,Future Sight,36,psychic,120,100
+280,16,Hypnosis,37,psychic,-,60
+280,8,Charm,39,fairy,-,100
+280,9,Charm,39,fairy,-,100
+280,10,Charm,39,fairy,-,100
+280,11,Future Sight,39,psychic,120,100
+280,14,Future Sight,39,psychic,120,100
+280,15,Future Sight,39,psychic,120,100
+280,16,Dream Eater,39,psychic,100,100
+280,5,Hypnosis,41,psychic,-,60
+280,6,Hypnosis,41,psychic,-,60
+280,7,Hypnosis,41,psychic,-,60
+280,12,Hypnosis,41,psychic,-,60
+280,13,Hypnosis,41,psychic,-,60
+280,16,Stored Power,42,psychic,20,100
+280,8,Hypnosis,43,psychic,-,60
+280,9,Hypnosis,43,psychic,-,60
+280,10,Hypnosis,43,psychic,-,60
+280,11,Charm,43,fairy,-,100
+280,14,Charm,43,fairy,-,100
+280,15,Charm,43,fairy,-,100
+280,8,Dream Eater,45,psychic,100,100
+280,9,Dream Eater,45,psychic,100,100
+280,10,Dream Eater,45,psychic,100,100
+280,11,Hypnosis,45,psychic,-,60
+280,14,Hypnosis,45,psychic,-,60
+280,15,Hypnosis,45,psychic,-,60
+280,5,Dream Eater,46,psychic,100,100
+280,6,Dream Eater,46,psychic,100,100
+280,7,Dream Eater,46,psychic,100,100
+280,12,Dream Eater,46,psychic,100,100
+280,13,Dream Eater,46,psychic,100,100
+280,15,Dream Eater,49,psychic,100,100
+280,11,Dream Eater,50,psychic,100,100
+280,14,Dream Eater,50,psychic,100,100
+280,11,Stored Power,54,psychic,20,100
+280,14,Stored Power,54,psychic,20,100
+280,15,Stored Power,54,psychic,20,100

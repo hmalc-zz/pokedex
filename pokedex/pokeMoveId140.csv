@@ -1,163 +1,163 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-140,kabuto,1,10,Scratch,1,1,1
-140,kabuto,1,43,Leer,1,44,
-140,kabuto,1,56,Hydro Pump,1,49,
-140,kabuto,1,71,Absorb,1,34,
-140,kabuto,1,106,Harden,1,1,2
-140,kabuto,1,163,Slash,1,39,
-140,kabuto,2,10,Scratch,1,1,1
-140,kabuto,2,43,Leer,1,44,
-140,kabuto,2,56,Hydro Pump,1,49,
-140,kabuto,2,71,Absorb,1,34,
-140,kabuto,2,106,Harden,1,1,2
-140,kabuto,2,163,Slash,1,39,
-140,kabuto,3,10,Scratch,1,1,1
-140,kabuto,3,28,Sand Attack,1,28,
-140,kabuto,3,43,Leer,1,19,
-140,kabuto,3,71,Absorb,1,10,
-140,kabuto,3,72,Mega Drain,1,46,
-140,kabuto,3,106,Harden,1,1,2
-140,kabuto,3,203,Endure,1,37,
-140,kabuto,3,246,Ancient Power,1,55,
-140,kabuto,4,10,Scratch,1,1,1
-140,kabuto,4,28,Sand Attack,1,28,
-140,kabuto,4,43,Leer,1,19,
-140,kabuto,4,71,Absorb,1,10,
-140,kabuto,4,72,Mega Drain,1,46,
-140,kabuto,4,106,Harden,1,1,2
-140,kabuto,4,203,Endure,1,37,
-140,kabuto,4,246,Ancient Power,1,55,
-140,kabuto,5,10,Scratch,1,1,1
-140,kabuto,5,28,Sand Attack,1,31,
-140,kabuto,5,43,Leer,1,19,
-140,kabuto,5,71,Absorb,1,13,
-140,kabuto,5,72,Mega Drain,1,49,
-140,kabuto,5,106,Harden,1,1,2
-140,kabuto,5,203,Endure,1,37,
-140,kabuto,5,246,Ancient Power,1,55,
-140,kabuto,5,319,Metal Sound,1,43,
-140,kabuto,5,341,Mud Shot,1,25,
-140,kabuto,6,10,Scratch,1,1,1
-140,kabuto,6,28,Sand Attack,1,31,
-140,kabuto,6,43,Leer,1,19,
-140,kabuto,6,71,Absorb,1,13,
-140,kabuto,6,72,Mega Drain,1,49,
-140,kabuto,6,106,Harden,1,1,2
-140,kabuto,6,203,Endure,1,37,
-140,kabuto,6,246,Ancient Power,1,55,
-140,kabuto,6,319,Metal Sound,1,43,
-140,kabuto,6,341,Mud Shot,1,25,
-140,kabuto,7,10,Scratch,1,1,1
-140,kabuto,7,28,Sand Attack,1,31,
-140,kabuto,7,43,Leer,1,19,
-140,kabuto,7,71,Absorb,1,13,
-140,kabuto,7,72,Mega Drain,1,49,
-140,kabuto,7,106,Harden,1,1,2
-140,kabuto,7,203,Endure,1,37,
-140,kabuto,7,246,Ancient Power,1,55,
-140,kabuto,7,319,Metal Sound,1,43,
-140,kabuto,7,341,Mud Shot,1,25,
-140,kabuto,8,10,Scratch,1,1,1
-140,kabuto,8,28,Sand Attack,1,21,
-140,kabuto,8,43,Leer,1,11,
-140,kabuto,8,71,Absorb,1,6,
-140,kabuto,8,72,Mega Drain,1,36,
-140,kabuto,8,106,Harden,1,1,2
-140,kabuto,8,203,Endure,1,26,
-140,kabuto,8,246,Ancient Power,1,46,
-140,kabuto,8,319,Metal Sound,1,41,
-140,kabuto,8,341,Mud Shot,1,16,
-140,kabuto,8,378,Wring Out,1,51,
-140,kabuto,8,453,Aqua Jet,1,31,
-140,kabuto,9,10,Scratch,1,1,1
-140,kabuto,9,28,Sand Attack,1,21,
-140,kabuto,9,43,Leer,1,11,
-140,kabuto,9,71,Absorb,1,6,
-140,kabuto,9,72,Mega Drain,1,36,
-140,kabuto,9,106,Harden,1,1,2
-140,kabuto,9,203,Endure,1,26,
-140,kabuto,9,246,Ancient Power,1,46,
-140,kabuto,9,319,Metal Sound,1,41,
-140,kabuto,9,341,Mud Shot,1,16,
-140,kabuto,9,378,Wring Out,1,51,
-140,kabuto,9,453,Aqua Jet,1,31,
-140,kabuto,10,10,Scratch,1,1,1
-140,kabuto,10,28,Sand Attack,1,21,
-140,kabuto,10,43,Leer,1,11,
-140,kabuto,10,71,Absorb,1,6,
-140,kabuto,10,72,Mega Drain,1,36,
-140,kabuto,10,106,Harden,1,1,2
-140,kabuto,10,203,Endure,1,26,
-140,kabuto,10,246,Ancient Power,1,46,
-140,kabuto,10,319,Metal Sound,1,41,
-140,kabuto,10,341,Mud Shot,1,16,
-140,kabuto,10,378,Wring Out,1,51,
-140,kabuto,10,453,Aqua Jet,1,31,
-140,kabuto,11,10,Scratch,1,1,1
-140,kabuto,11,28,Sand Attack,1,21,
-140,kabuto,11,43,Leer,1,11,
-140,kabuto,11,71,Absorb,1,6,
-140,kabuto,11,72,Mega Drain,1,36,
-140,kabuto,11,106,Harden,1,1,2
-140,kabuto,11,203,Endure,1,26,
-140,kabuto,11,246,Ancient Power,1,46,
-140,kabuto,11,319,Metal Sound,1,41,
-140,kabuto,11,341,Mud Shot,1,16,
-140,kabuto,11,378,Wring Out,1,51,
-140,kabuto,11,453,Aqua Jet,1,31,
-140,kabuto,12,10,Scratch,1,1,1
-140,kabuto,12,28,Sand Attack,1,31,
-140,kabuto,12,43,Leer,1,19,
-140,kabuto,12,71,Absorb,1,13,
-140,kabuto,12,72,Mega Drain,1,49,
-140,kabuto,12,106,Harden,1,1,2
-140,kabuto,12,203,Endure,1,37,
-140,kabuto,12,246,Ancient Power,1,55,
-140,kabuto,12,319,Metal Sound,1,43,
-140,kabuto,12,341,Mud Shot,1,25,
-140,kabuto,13,10,Scratch,1,1,1
-140,kabuto,13,28,Sand Attack,1,31,
-140,kabuto,13,43,Leer,1,19,
-140,kabuto,13,71,Absorb,1,13,
-140,kabuto,13,72,Mega Drain,1,49,
-140,kabuto,13,106,Harden,1,1,2
-140,kabuto,13,203,Endure,1,37,
-140,kabuto,13,246,Ancient Power,1,55,
-140,kabuto,13,319,Metal Sound,1,43,
-140,kabuto,13,341,Mud Shot,1,25,
-140,kabuto,14,10,Scratch,1,1,1
-140,kabuto,14,28,Sand Attack,1,21,
-140,kabuto,14,43,Leer,1,11,
-140,kabuto,14,71,Absorb,1,6,
-140,kabuto,14,72,Mega Drain,1,36,
-140,kabuto,14,106,Harden,1,1,2
-140,kabuto,14,203,Endure,1,26,
-140,kabuto,14,246,Ancient Power,1,46,
-140,kabuto,14,319,Metal Sound,1,41,
-140,kabuto,14,341,Mud Shot,1,16,
-140,kabuto,14,378,Wring Out,1,51,
-140,kabuto,14,453,Aqua Jet,1,31,
-140,kabuto,15,10,Scratch,1,1,1
-140,kabuto,15,28,Sand Attack,1,21,
-140,kabuto,15,43,Leer,1,11,
-140,kabuto,15,71,Absorb,1,6,
-140,kabuto,15,72,Mega Drain,1,36,
-140,kabuto,15,106,Harden,1,1,2
-140,kabuto,15,203,Endure,1,26,
-140,kabuto,15,246,Ancient Power,1,46,
-140,kabuto,15,319,Metal Sound,1,41,
-140,kabuto,15,341,Mud Shot,1,16,
-140,kabuto,15,378,Wring Out,1,50,
-140,kabuto,15,453,Aqua Jet,1,31,
-140,kabuto,16,10,Scratch,1,1,1
-140,kabuto,16,28,Sand Attack,1,21,1
-140,kabuto,16,43,Leer,1,11,1
-140,kabuto,16,71,Absorb,1,6,1
-140,kabuto,16,72,Mega Drain,1,36,1
-140,kabuto,16,106,Harden,1,1,2
-140,kabuto,16,203,Endure,1,26,1
-140,kabuto,16,246,Ancient Power,1,46,1
-140,kabuto,16,319,Metal Sound,1,41,1
-140,kabuto,16,341,Mud Shot,1,16,1
-140,kabuto,16,378,Wring Out,1,50,1
-140,kabuto,16,453,Aqua Jet,1,31,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+140,1,Scratch,1,normal,40,100
+140,1,Harden,1,normal,-,-
+140,2,Scratch,1,normal,40,100
+140,2,Harden,1,normal,-,-
+140,3,Scratch,1,normal,40,100
+140,3,Harden,1,normal,-,-
+140,4,Scratch,1,normal,40,100
+140,4,Harden,1,normal,-,-
+140,5,Scratch,1,normal,40,100
+140,5,Harden,1,normal,-,-
+140,6,Scratch,1,normal,40,100
+140,6,Harden,1,normal,-,-
+140,7,Scratch,1,normal,40,100
+140,7,Harden,1,normal,-,-
+140,8,Scratch,1,normal,40,100
+140,8,Harden,1,normal,-,-
+140,9,Scratch,1,normal,40,100
+140,9,Harden,1,normal,-,-
+140,10,Scratch,1,normal,40,100
+140,10,Harden,1,normal,-,-
+140,11,Scratch,1,normal,40,100
+140,11,Harden,1,normal,-,-
+140,12,Scratch,1,normal,40,100
+140,12,Harden,1,normal,-,-
+140,13,Scratch,1,normal,40,100
+140,13,Harden,1,normal,-,-
+140,14,Scratch,1,normal,40,100
+140,14,Harden,1,normal,-,-
+140,15,Scratch,1,normal,40,100
+140,15,Harden,1,normal,-,-
+140,16,Scratch,1,normal,40,100
+140,16,Harden,1,normal,-,-
+140,8,Absorb,6,grass,20,100
+140,9,Absorb,6,grass,20,100
+140,10,Absorb,6,grass,20,100
+140,11,Absorb,6,grass,20,100
+140,14,Absorb,6,grass,20,100
+140,15,Absorb,6,grass,20,100
+140,16,Absorb,6,grass,20,100
+140,3,Absorb,10,grass,20,100
+140,4,Absorb,10,grass,20,100
+140,8,Leer,11,normal,-,100
+140,9,Leer,11,normal,-,100
+140,10,Leer,11,normal,-,100
+140,11,Leer,11,normal,-,100
+140,14,Leer,11,normal,-,100
+140,15,Leer,11,normal,-,100
+140,16,Leer,11,normal,-,100
+140,5,Absorb,13,grass,20,100
+140,6,Absorb,13,grass,20,100
+140,7,Absorb,13,grass,20,100
+140,12,Absorb,13,grass,20,100
+140,13,Absorb,13,grass,20,100
+140,8,Mud Shot,16,ground,55,95
+140,9,Mud Shot,16,ground,55,95
+140,10,Mud Shot,16,ground,55,95
+140,11,Mud Shot,16,ground,55,95
+140,14,Mud Shot,16,ground,55,95
+140,15,Mud Shot,16,ground,55,95
+140,16,Mud Shot,16,ground,55,95
+140,3,Leer,19,normal,-,100
+140,4,Leer,19,normal,-,100
+140,5,Leer,19,normal,-,100
+140,6,Leer,19,normal,-,100
+140,7,Leer,19,normal,-,100
+140,12,Leer,19,normal,-,100
+140,13,Leer,19,normal,-,100
+140,8,Sand Attack,21,ground,-,100
+140,9,Sand Attack,21,ground,-,100
+140,10,Sand Attack,21,ground,-,100
+140,11,Sand Attack,21,ground,-,100
+140,14,Sand Attack,21,ground,-,100
+140,15,Sand Attack,21,ground,-,100
+140,16,Sand Attack,21,ground,-,100
+140,5,Mud Shot,25,ground,55,95
+140,6,Mud Shot,25,ground,55,95
+140,7,Mud Shot,25,ground,55,95
+140,12,Mud Shot,25,ground,55,95
+140,13,Mud Shot,25,ground,55,95
+140,8,Endure,26,normal,-,-
+140,9,Endure,26,normal,-,-
+140,10,Endure,26,normal,-,-
+140,11,Endure,26,normal,-,-
+140,14,Endure,26,normal,-,-
+140,15,Endure,26,normal,-,-
+140,16,Endure,26,normal,-,-
+140,3,Sand Attack,28,ground,-,100
+140,4,Sand Attack,28,ground,-,100
+140,5,Sand Attack,31,ground,-,100
+140,6,Sand Attack,31,ground,-,100
+140,7,Sand Attack,31,ground,-,100
+140,8,Aqua Jet,31,water,40,100
+140,9,Aqua Jet,31,water,40,100
+140,10,Aqua Jet,31,water,40,100
+140,11,Aqua Jet,31,water,40,100
+140,12,Sand Attack,31,ground,-,100
+140,13,Sand Attack,31,ground,-,100
+140,14,Aqua Jet,31,water,40,100
+140,15,Aqua Jet,31,water,40,100
+140,16,Aqua Jet,31,water,40,100
+140,1,Absorb,34,grass,20,100
+140,2,Absorb,34,grass,20,100
+140,8,Mega Drain,36,grass,40,100
+140,9,Mega Drain,36,grass,40,100
+140,10,Mega Drain,36,grass,40,100
+140,11,Mega Drain,36,grass,40,100
+140,14,Mega Drain,36,grass,40,100
+140,15,Mega Drain,36,grass,40,100
+140,16,Mega Drain,36,grass,40,100
+140,3,Endure,37,normal,-,-
+140,4,Endure,37,normal,-,-
+140,5,Endure,37,normal,-,-
+140,6,Endure,37,normal,-,-
+140,7,Endure,37,normal,-,-
+140,12,Endure,37,normal,-,-
+140,13,Endure,37,normal,-,-
+140,1,Slash,39,normal,70,100
+140,2,Slash,39,normal,70,100
+140,8,Metal Sound,41,steel,-,85
+140,9,Metal Sound,41,steel,-,85
+140,10,Metal Sound,41,steel,-,85
+140,11,Metal Sound,41,steel,-,85
+140,14,Metal Sound,41,steel,-,85
+140,15,Metal Sound,41,steel,-,85
+140,16,Metal Sound,41,steel,-,85
+140,5,Metal Sound,43,steel,-,85
+140,6,Metal Sound,43,steel,-,85
+140,7,Metal Sound,43,steel,-,85
+140,12,Metal Sound,43,steel,-,85
+140,13,Metal Sound,43,steel,-,85
+140,1,Leer,44,normal,-,100
+140,2,Leer,44,normal,-,100
+140,3,Mega Drain,46,grass,40,100
+140,4,Mega Drain,46,grass,40,100
+140,8,Ancient Power,46,rock,60,100
+140,9,Ancient Power,46,rock,60,100
+140,10,Ancient Power,46,rock,60,100
+140,11,Ancient Power,46,rock,60,100
+140,14,Ancient Power,46,rock,60,100
+140,15,Ancient Power,46,rock,60,100
+140,16,Ancient Power,46,rock,60,100
+140,1,Hydro Pump,49,water,110,80
+140,2,Hydro Pump,49,water,110,80
+140,5,Mega Drain,49,grass,40,100
+140,6,Mega Drain,49,grass,40,100
+140,7,Mega Drain,49,grass,40,100
+140,12,Mega Drain,49,grass,40,100
+140,13,Mega Drain,49,grass,40,100
+140,15,Wring Out,50,normal,-,100
+140,16,Wring Out,50,normal,-,100
+140,8,Wring Out,51,normal,-,100
+140,9,Wring Out,51,normal,-,100
+140,10,Wring Out,51,normal,-,100
+140,11,Wring Out,51,normal,-,100
+140,14,Wring Out,51,normal,-,100
+140,3,Ancient Power,55,rock,60,100
+140,4,Ancient Power,55,rock,60,100
+140,5,Ancient Power,55,rock,60,100
+140,6,Ancient Power,55,rock,60,100
+140,7,Ancient Power,55,rock,60,100
+140,12,Ancient Power,55,rock,60,100
+140,13,Ancient Power,55,rock,60,100

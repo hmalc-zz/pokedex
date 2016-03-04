@@ -1,145 +1,145 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-322,numel,5,33,Tackle,1,1,2
-322,numel,5,36,Take Down,1,29,
-322,numel,5,38,Double-Edge,1,49,
-322,numel,5,45,Growl,1,1,1
-322,numel,5,52,Ember,1,11,
-322,numel,5,53,Flamethrower,1,41,
-322,numel,5,89,Earthquake,1,35,
-322,numel,5,116,Focus Energy,1,25,
-322,numel,5,133,Amnesia,1,31,
-322,numel,5,222,Magnitude,1,19,
-322,numel,6,33,Tackle,1,1,2
-322,numel,6,36,Take Down,1,29,
-322,numel,6,38,Double-Edge,1,49,
-322,numel,6,45,Growl,1,1,1
-322,numel,6,52,Ember,1,11,
-322,numel,6,53,Flamethrower,1,41,
-322,numel,6,89,Earthquake,1,35,
-322,numel,6,116,Focus Energy,1,25,
-322,numel,6,133,Amnesia,1,31,
-322,numel,6,222,Magnitude,1,19,
-322,numel,7,33,Tackle,1,1,2
-322,numel,7,36,Take Down,1,29,
-322,numel,7,38,Double-Edge,1,49,
-322,numel,7,45,Growl,1,1,1
-322,numel,7,52,Ember,1,11,
-322,numel,7,53,Flamethrower,1,41,
-322,numel,7,89,Earthquake,1,35,
-322,numel,7,116,Focus Energy,1,25,
-322,numel,7,133,Amnesia,1,31,
-322,numel,7,222,Magnitude,1,19,
-322,numel,8,33,Tackle,1,1,2
-322,numel,8,36,Take Down,1,21,
-322,numel,8,38,Double-Edge,1,51,
-322,numel,8,45,Growl,1,1,1
-322,numel,8,52,Ember,1,5,
-322,numel,8,53,Flamethrower,1,45,
-322,numel,8,89,Earthquake,1,41,
-322,numel,8,116,Focus Energy,1,15,
-322,numel,8,133,Amnesia,1,25,
-322,numel,8,222,Magnitude,1,11,
-322,numel,8,414,Earth Power,1,35,
-322,numel,8,436,Lava Plume,1,31,
-322,numel,9,33,Tackle,1,1,2
-322,numel,9,36,Take Down,1,21,
-322,numel,9,38,Double-Edge,1,51,
-322,numel,9,45,Growl,1,1,1
-322,numel,9,52,Ember,1,5,
-322,numel,9,53,Flamethrower,1,45,
-322,numel,9,89,Earthquake,1,41,
-322,numel,9,116,Focus Energy,1,15,
-322,numel,9,133,Amnesia,1,25,
-322,numel,9,222,Magnitude,1,11,
-322,numel,9,414,Earth Power,1,35,
-322,numel,9,436,Lava Plume,1,31,
-322,numel,10,33,Tackle,1,1,2
-322,numel,10,36,Take Down,1,21,
-322,numel,10,38,Double-Edge,1,51,
-322,numel,10,45,Growl,1,1,1
-322,numel,10,52,Ember,1,5,
-322,numel,10,53,Flamethrower,1,45,
-322,numel,10,89,Earthquake,1,41,
-322,numel,10,116,Focus Energy,1,15,
-322,numel,10,133,Amnesia,1,25,
-322,numel,10,222,Magnitude,1,11,
-322,numel,10,414,Earth Power,1,35,
-322,numel,10,436,Lava Plume,1,31,
-322,numel,11,33,Tackle,1,1,2
-322,numel,11,36,Take Down,1,25,
-322,numel,11,38,Double-Edge,1,55,
-322,numel,11,45,Growl,1,1,1
-322,numel,11,52,Ember,1,5,
-322,numel,11,53,Flamethrower,1,51,
-322,numel,11,89,Earthquake,1,45,
-322,numel,11,116,Focus Energy,1,15,
-322,numel,11,133,Amnesia,1,31,
-322,numel,11,222,Magnitude,1,11,
-322,numel,11,414,Earth Power,1,41,
-322,numel,11,436,Lava Plume,1,35,
-322,numel,11,481,Flame Burst,1,21,
-322,numel,12,33,Tackle,1,1,2
-322,numel,12,36,Take Down,1,29,
-322,numel,12,38,Double-Edge,1,49,
-322,numel,12,45,Growl,1,1,1
-322,numel,12,52,Ember,1,11,
-322,numel,12,53,Flamethrower,1,41,
-322,numel,12,89,Earthquake,1,35,
-322,numel,12,116,Focus Energy,1,25,
-322,numel,12,133,Amnesia,1,31,
-322,numel,12,222,Magnitude,1,19,
-322,numel,13,33,Tackle,1,1,2
-322,numel,13,36,Take Down,1,29,
-322,numel,13,38,Double-Edge,1,49,
-322,numel,13,45,Growl,1,1,1
-322,numel,13,52,Ember,1,11,
-322,numel,13,53,Flamethrower,1,41,
-322,numel,13,89,Earthquake,1,35,
-322,numel,13,116,Focus Energy,1,25,
-322,numel,13,133,Amnesia,1,31,
-322,numel,13,222,Magnitude,1,19,
-322,numel,14,33,Tackle,1,1,2
-322,numel,14,36,Take Down,1,31,
-322,numel,14,38,Double-Edge,1,47,
-322,numel,14,45,Growl,1,1,1
-322,numel,14,52,Ember,1,5,
-322,numel,14,53,Flamethrower,1,43,
-322,numel,14,89,Earthquake,1,40,
-322,numel,14,116,Focus Energy,1,12,
-322,numel,14,133,Amnesia,1,19,
-322,numel,14,174,Curse,1,29,
-322,numel,14,222,Magnitude,1,8,
-322,numel,14,281,Yawn,1,36,
-322,numel,14,414,Earth Power,1,26,
-322,numel,14,436,Lava Plume,1,22,
-322,numel,14,481,Flame Burst,1,15,
-322,numel,15,33,Tackle,1,1,2
-322,numel,15,36,Take Down,1,31,
-322,numel,15,38,Double-Edge,1,47,
-322,numel,15,45,Growl,1,1,1
-322,numel,15,52,Ember,1,5,
-322,numel,15,53,Flamethrower,1,43,
-322,numel,15,89,Earthquake,1,40,
-322,numel,15,116,Focus Energy,1,12,
-322,numel,15,133,Amnesia,1,19,
-322,numel,15,174,Curse,1,29,
-322,numel,15,222,Magnitude,1,8,
-322,numel,15,281,Yawn,1,36,
-322,numel,15,414,Earth Power,1,26,
-322,numel,15,436,Lava Plume,1,22,
-322,numel,15,481,Flame Burst,1,15,
-322,numel,16,33,Tackle,1,1,2
-322,numel,16,36,Take Down,1,31,1
-322,numel,16,38,Double-Edge,1,47,1
-322,numel,16,45,Growl,1,1,1
-322,numel,16,52,Ember,1,5,1
-322,numel,16,53,Flamethrower,1,43,1
-322,numel,16,89,Earthquake,1,40,1
-322,numel,16,116,Focus Energy,1,8,1
-322,numel,16,133,Amnesia,1,19,1
-322,numel,16,174,Curse,1,29,1
-322,numel,16,222,Magnitude,1,12,1
-322,numel,16,281,Yawn,1,36,1
-322,numel,16,414,Earth Power,1,26,1
-322,numel,16,436,Lava Plume,1,22,1
-322,numel,16,481,Flame Burst,1,15,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+322,5,Tackle,1,normal,50,100
+322,5,Growl,1,normal,-,100
+322,6,Tackle,1,normal,50,100
+322,6,Growl,1,normal,-,100
+322,7,Tackle,1,normal,50,100
+322,7,Growl,1,normal,-,100
+322,8,Tackle,1,normal,50,100
+322,8,Growl,1,normal,-,100
+322,9,Tackle,1,normal,50,100
+322,9,Growl,1,normal,-,100
+322,10,Tackle,1,normal,50,100
+322,10,Growl,1,normal,-,100
+322,11,Tackle,1,normal,50,100
+322,11,Growl,1,normal,-,100
+322,12,Tackle,1,normal,50,100
+322,12,Growl,1,normal,-,100
+322,13,Tackle,1,normal,50,100
+322,13,Growl,1,normal,-,100
+322,14,Tackle,1,normal,50,100
+322,14,Growl,1,normal,-,100
+322,15,Tackle,1,normal,50,100
+322,15,Growl,1,normal,-,100
+322,16,Tackle,1,normal,50,100
+322,16,Growl,1,normal,-,100
+322,8,Ember,5,fire,40,100
+322,9,Ember,5,fire,40,100
+322,10,Ember,5,fire,40,100
+322,11,Ember,5,fire,40,100
+322,14,Ember,5,fire,40,100
+322,15,Ember,5,fire,40,100
+322,16,Ember,5,fire,40,100
+322,14,Magnitude,8,ground,-,100
+322,15,Magnitude,8,ground,-,100
+322,16,Focus Energy,8,normal,-,-
+322,5,Ember,11,fire,40,100
+322,6,Ember,11,fire,40,100
+322,7,Ember,11,fire,40,100
+322,8,Magnitude,11,ground,-,100
+322,9,Magnitude,11,ground,-,100
+322,10,Magnitude,11,ground,-,100
+322,11,Magnitude,11,ground,-,100
+322,12,Ember,11,fire,40,100
+322,13,Ember,11,fire,40,100
+322,14,Focus Energy,12,normal,-,-
+322,15,Focus Energy,12,normal,-,-
+322,16,Magnitude,12,ground,-,100
+322,8,Focus Energy,15,normal,-,-
+322,9,Focus Energy,15,normal,-,-
+322,10,Focus Energy,15,normal,-,-
+322,11,Focus Energy,15,normal,-,-
+322,14,Flame Burst,15,fire,70,100
+322,15,Flame Burst,15,fire,70,100
+322,16,Flame Burst,15,fire,70,100
+322,5,Magnitude,19,ground,-,100
+322,6,Magnitude,19,ground,-,100
+322,7,Magnitude,19,ground,-,100
+322,12,Magnitude,19,ground,-,100
+322,13,Magnitude,19,ground,-,100
+322,14,Amnesia,19,psychic,-,-
+322,15,Amnesia,19,psychic,-,-
+322,16,Amnesia,19,psychic,-,-
+322,8,Take Down,21,normal,90,85
+322,9,Take Down,21,normal,90,85
+322,10,Take Down,21,normal,90,85
+322,11,Flame Burst,21,fire,70,100
+322,14,Lava Plume,22,fire,80,100
+322,15,Lava Plume,22,fire,80,100
+322,16,Lava Plume,22,fire,80,100
+322,5,Focus Energy,25,normal,-,-
+322,6,Focus Energy,25,normal,-,-
+322,7,Focus Energy,25,normal,-,-
+322,8,Amnesia,25,psychic,-,-
+322,9,Amnesia,25,psychic,-,-
+322,10,Amnesia,25,psychic,-,-
+322,11,Take Down,25,normal,90,85
+322,12,Focus Energy,25,normal,-,-
+322,13,Focus Energy,25,normal,-,-
+322,14,Earth Power,26,ground,90,100
+322,15,Earth Power,26,ground,90,100
+322,16,Earth Power,26,ground,90,100
+322,5,Take Down,29,normal,90,85
+322,6,Take Down,29,normal,90,85
+322,7,Take Down,29,normal,90,85
+322,12,Take Down,29,normal,90,85
+322,13,Take Down,29,normal,90,85
+322,14,Curse,29,ghost,-,-
+322,15,Curse,29,ghost,-,-
+322,16,Curse,29,ghost,-,-
+322,5,Amnesia,31,psychic,-,-
+322,6,Amnesia,31,psychic,-,-
+322,7,Amnesia,31,psychic,-,-
+322,8,Lava Plume,31,fire,80,100
+322,9,Lava Plume,31,fire,80,100
+322,10,Lava Plume,31,fire,80,100
+322,11,Amnesia,31,psychic,-,-
+322,12,Amnesia,31,psychic,-,-
+322,13,Amnesia,31,psychic,-,-
+322,14,Take Down,31,normal,90,85
+322,15,Take Down,31,normal,90,85
+322,16,Take Down,31,normal,90,85
+322,5,Earthquake,35,ground,100,100
+322,6,Earthquake,35,ground,100,100
+322,7,Earthquake,35,ground,100,100
+322,8,Earth Power,35,ground,90,100
+322,9,Earth Power,35,ground,90,100
+322,10,Earth Power,35,ground,90,100
+322,11,Lava Plume,35,fire,80,100
+322,12,Earthquake,35,ground,100,100
+322,13,Earthquake,35,ground,100,100
+322,14,Yawn,36,normal,-,-
+322,15,Yawn,36,normal,-,-
+322,16,Yawn,36,normal,-,-
+322,14,Earthquake,40,ground,100,100
+322,15,Earthquake,40,ground,100,100
+322,16,Earthquake,40,ground,100,100
+322,5,Flamethrower,41,fire,90,100
+322,6,Flamethrower,41,fire,90,100
+322,7,Flamethrower,41,fire,90,100
+322,8,Earthquake,41,ground,100,100
+322,9,Earthquake,41,ground,100,100
+322,10,Earthquake,41,ground,100,100
+322,11,Earth Power,41,ground,90,100
+322,12,Flamethrower,41,fire,90,100
+322,13,Flamethrower,41,fire,90,100
+322,14,Flamethrower,43,fire,90,100
+322,15,Flamethrower,43,fire,90,100
+322,16,Flamethrower,43,fire,90,100
+322,8,Flamethrower,45,fire,90,100
+322,9,Flamethrower,45,fire,90,100
+322,10,Flamethrower,45,fire,90,100
+322,11,Earthquake,45,ground,100,100
+322,14,Double-Edge,47,normal,120,100
+322,15,Double-Edge,47,normal,120,100
+322,16,Double-Edge,47,normal,120,100
+322,5,Double-Edge,49,normal,120,100
+322,6,Double-Edge,49,normal,120,100
+322,7,Double-Edge,49,normal,120,100
+322,12,Double-Edge,49,normal,120,100
+322,13,Double-Edge,49,normal,120,100
+322,8,Double-Edge,51,normal,120,100
+322,9,Double-Edge,51,normal,120,100
+322,10,Double-Edge,51,normal,120,100
+322,11,Flamethrower,51,fire,90,100
+322,11,Double-Edge,55,normal,120,100

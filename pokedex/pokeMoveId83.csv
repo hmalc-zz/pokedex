@@ -1,202 +1,202 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-83,farfetchd,1,14,Swords Dance,1,23,
-83,farfetchd,1,28,Sand Attack,1,1,2
-83,farfetchd,1,31,Fury Attack,1,15,
-83,farfetchd,1,43,Leer,1,7,
-83,farfetchd,1,64,Peck,1,1,1
-83,farfetchd,1,97,Agility,1,31,
-83,farfetchd,1,163,Slash,1,39,
-83,farfetchd,2,14,Swords Dance,1,23,
-83,farfetchd,2,28,Sand Attack,1,1,2
-83,farfetchd,2,31,Fury Attack,1,15,
-83,farfetchd,2,43,Leer,1,7,
-83,farfetchd,2,64,Peck,1,1,1
-83,farfetchd,2,97,Agility,1,31,
-83,farfetchd,2,163,Slash,1,39,
-83,farfetchd,3,14,Swords Dance,1,25,
-83,farfetchd,3,28,Sand Attack,1,7,
-83,farfetchd,3,31,Fury Attack,1,19,
-83,farfetchd,3,43,Leer,1,13,
-83,farfetchd,3,64,Peck,1,1,
-83,farfetchd,3,97,Agility,1,31,
-83,farfetchd,3,163,Slash,1,37,
-83,farfetchd,3,206,False Swipe,1,44,
-83,farfetchd,4,14,Swords Dance,1,25,
-83,farfetchd,4,28,Sand Attack,1,7,
-83,farfetchd,4,31,Fury Attack,1,19,
-83,farfetchd,4,43,Leer,1,13,
-83,farfetchd,4,64,Peck,1,1,
-83,farfetchd,4,97,Agility,1,31,
-83,farfetchd,4,163,Slash,1,37,
-83,farfetchd,4,206,False Swipe,1,44,
-83,farfetchd,5,14,Swords Dance,1,31,
-83,farfetchd,5,28,Sand Attack,1,6,
-83,farfetchd,5,31,Fury Attack,1,16,
-83,farfetchd,5,43,Leer,1,11,
-83,farfetchd,5,64,Peck,1,1,
-83,farfetchd,5,97,Agility,1,36,
-83,farfetchd,5,163,Slash,1,41,
-83,farfetchd,5,206,False Swipe,1,46,
-83,farfetchd,5,210,Fury Cutter,1,26,
-83,farfetchd,5,282,Knock Off,1,21,
-83,farfetchd,6,14,Swords Dance,1,31,
-83,farfetchd,6,28,Sand Attack,1,6,
-83,farfetchd,6,31,Fury Attack,1,16,
-83,farfetchd,6,43,Leer,1,11,
-83,farfetchd,6,64,Peck,1,1,
-83,farfetchd,6,97,Agility,1,36,
-83,farfetchd,6,163,Slash,1,41,
-83,farfetchd,6,206,False Swipe,1,46,
-83,farfetchd,6,210,Fury Cutter,1,26,
-83,farfetchd,6,282,Knock Off,1,21,
-83,farfetchd,7,14,Swords Dance,1,31,
-83,farfetchd,7,28,Sand Attack,1,6,
-83,farfetchd,7,31,Fury Attack,1,16,
-83,farfetchd,7,43,Leer,1,11,
-83,farfetchd,7,64,Peck,1,1,
-83,farfetchd,7,97,Agility,1,36,
-83,farfetchd,7,163,Slash,1,41,
-83,farfetchd,7,206,False Swipe,1,46,
-83,farfetchd,7,210,Fury Cutter,1,26,
-83,farfetchd,7,282,Knock Off,1,21,
-83,farfetchd,8,14,Swords Dance,1,25,
-83,farfetchd,8,28,Sand Attack,1,1,3
-83,farfetchd,8,31,Fury Attack,1,7,
-83,farfetchd,8,43,Leer,1,1,4
-83,farfetchd,8,64,Peck,1,1,2
-83,farfetchd,8,97,Agility,1,31,
-83,farfetchd,8,163,Slash,1,19,
-83,farfetchd,8,206,False Swipe,1,43,
-83,farfetchd,8,210,Fury Cutter,1,1,5
-83,farfetchd,8,282,Knock Off,1,9,
-83,farfetchd,8,314,Air Cutter,1,21,
-83,farfetchd,8,332,Aerial Ace,1,13,
-83,farfetchd,8,398,Poison Jab,1,1,1
-83,farfetchd,8,400,Night Slash,1,33,
-83,farfetchd,8,403,Air Slash,1,37,
-83,farfetchd,9,14,Swords Dance,1,25,
-83,farfetchd,9,28,Sand Attack,1,1,3
-83,farfetchd,9,31,Fury Attack,1,7,
-83,farfetchd,9,43,Leer,1,1,4
-83,farfetchd,9,64,Peck,1,1,2
-83,farfetchd,9,97,Agility,1,31,
-83,farfetchd,9,163,Slash,1,19,
-83,farfetchd,9,206,False Swipe,1,45,
-83,farfetchd,9,210,Fury Cutter,1,1,5
-83,farfetchd,9,282,Knock Off,1,9,
-83,farfetchd,9,314,Air Cutter,1,21,
-83,farfetchd,9,332,Aerial Ace,1,13,
-83,farfetchd,9,364,Feint,1,43,
-83,farfetchd,9,398,Poison Jab,1,1,1
-83,farfetchd,9,400,Night Slash,1,33,
-83,farfetchd,9,403,Air Slash,1,37,
-83,farfetchd,10,14,Swords Dance,1,25,
-83,farfetchd,10,28,Sand Attack,1,1,3
-83,farfetchd,10,31,Fury Attack,1,7,
-83,farfetchd,10,43,Leer,1,1,4
-83,farfetchd,10,64,Peck,1,1,2
-83,farfetchd,10,97,Agility,1,31,
-83,farfetchd,10,163,Slash,1,19,
-83,farfetchd,10,206,False Swipe,1,45,
-83,farfetchd,10,210,Fury Cutter,1,1,5
-83,farfetchd,10,282,Knock Off,1,9,
-83,farfetchd,10,314,Air Cutter,1,21,
-83,farfetchd,10,332,Aerial Ace,1,13,
-83,farfetchd,10,364,Feint,1,43,
-83,farfetchd,10,398,Poison Jab,1,1,1
-83,farfetchd,10,400,Night Slash,1,33,
-83,farfetchd,10,403,Air Slash,1,37,
-83,farfetchd,11,14,Swords Dance,1,25,
-83,farfetchd,11,28,Sand Attack,1,1,3
-83,farfetchd,11,31,Fury Attack,1,7,
-83,farfetchd,11,43,Leer,1,1,4
-83,farfetchd,11,64,Peck,1,1,2
-83,farfetchd,11,97,Agility,1,31,
-83,farfetchd,11,163,Slash,1,19,
-83,farfetchd,11,206,False Swipe,1,45,
-83,farfetchd,11,210,Fury Cutter,1,1,5
-83,farfetchd,11,282,Knock Off,1,9,
-83,farfetchd,11,314,Air Cutter,1,21,
-83,farfetchd,11,332,Aerial Ace,1,13,
-83,farfetchd,11,364,Feint,1,43,
-83,farfetchd,11,398,Poison Jab,1,1,1
-83,farfetchd,11,400,Night Slash,1,33,
-83,farfetchd,11,403,Air Slash,1,49,
-83,farfetchd,11,413,Brave Bird,1,55,
-83,farfetchd,11,512,Acrobatics,1,37,
-83,farfetchd,12,14,Swords Dance,1,31,
-83,farfetchd,12,28,Sand Attack,1,6,
-83,farfetchd,12,31,Fury Attack,1,16,
-83,farfetchd,12,43,Leer,1,11,
-83,farfetchd,12,64,Peck,1,1,
-83,farfetchd,12,97,Agility,1,36,
-83,farfetchd,12,163,Slash,1,41,
-83,farfetchd,12,206,False Swipe,1,46,
-83,farfetchd,12,210,Fury Cutter,1,26,
-83,farfetchd,12,282,Knock Off,1,21,
-83,farfetchd,13,14,Swords Dance,1,31,
-83,farfetchd,13,28,Sand Attack,1,6,
-83,farfetchd,13,31,Fury Attack,1,16,
-83,farfetchd,13,43,Leer,1,11,
-83,farfetchd,13,64,Peck,1,1,
-83,farfetchd,13,97,Agility,1,36,
-83,farfetchd,13,163,Slash,1,41,
-83,farfetchd,13,206,False Swipe,1,46,
-83,farfetchd,13,210,Fury Cutter,1,26,
-83,farfetchd,13,282,Knock Off,1,21,
-83,farfetchd,14,14,Swords Dance,1,25,
-83,farfetchd,14,28,Sand Attack,1,1,3
-83,farfetchd,14,31,Fury Attack,1,7,
-83,farfetchd,14,43,Leer,1,1,4
-83,farfetchd,14,64,Peck,1,1,2
-83,farfetchd,14,97,Agility,1,31,
-83,farfetchd,14,163,Slash,1,19,
-83,farfetchd,14,206,False Swipe,1,45,
-83,farfetchd,14,210,Fury Cutter,1,1,5
-83,farfetchd,14,282,Knock Off,1,9,
-83,farfetchd,14,314,Air Cutter,1,21,
-83,farfetchd,14,332,Aerial Ace,1,13,
-83,farfetchd,14,364,Feint,1,43,
-83,farfetchd,14,398,Poison Jab,1,1,1
-83,farfetchd,14,400,Night Slash,1,33,
-83,farfetchd,14,403,Air Slash,1,49,
-83,farfetchd,14,413,Brave Bird,1,55,
-83,farfetchd,14,512,Acrobatics,1,37,
-83,farfetchd,15,14,Swords Dance,1,25,
-83,farfetchd,15,28,Sand Attack,1,1,4
-83,farfetchd,15,31,Fury Attack,1,7,
-83,farfetchd,15,43,Leer,1,1,5
-83,farfetchd,15,64,Peck,1,1,3
-83,farfetchd,15,97,Agility,1,31,
-83,farfetchd,15,163,Slash,1,19,
-83,farfetchd,15,206,False Swipe,1,45,
-83,farfetchd,15,210,Fury Cutter,1,1,6
-83,farfetchd,15,282,Knock Off,1,13,
-83,farfetchd,15,314,Air Cutter,1,21,
-83,farfetchd,15,332,Aerial Ace,1,9,
-83,farfetchd,15,364,Feint,1,43,
-83,farfetchd,15,398,Poison Jab,1,1,2
-83,farfetchd,15,400,Night Slash,1,33,
-83,farfetchd,15,403,Air Slash,1,49,
-83,farfetchd,15,413,Brave Bird,1,1,1
-83,farfetchd,15,413,Brave Bird,1,55,
-83,farfetchd,15,512,Acrobatics,1,37,
-83,farfetchd,16,14,Swords Dance,1,25,1
-83,farfetchd,16,28,Sand Attack,1,1,4
-83,farfetchd,16,31,Fury Attack,1,7,1
-83,farfetchd,16,43,Leer,1,1,5
-83,farfetchd,16,64,Peck,1,1,3
-83,farfetchd,16,97,Agility,1,31,1
-83,farfetchd,16,163,Slash,1,19,1
-83,farfetchd,16,206,False Swipe,1,45,1
-83,farfetchd,16,210,Fury Cutter,1,1,6
-83,farfetchd,16,282,Knock Off,1,13,1
-83,farfetchd,16,314,Air Cutter,1,21,1
-83,farfetchd,16,332,Aerial Ace,1,9,1
-83,farfetchd,16,364,Feint,1,43,1
-83,farfetchd,16,398,Poison Jab,1,1,2
-83,farfetchd,16,400,Night Slash,1,33,1
-83,farfetchd,16,403,Air Slash,1,49,1
-83,farfetchd,16,413,Brave Bird,1,1,1
-83,farfetchd,16,413,Brave Bird,1,55,1
-83,farfetchd,16,512,Acrobatics,1,37,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+83,1,Sand Attack,1,ground,-,100
+83,1,Peck,1,flying,35,100
+83,2,Sand Attack,1,ground,-,100
+83,2,Peck,1,flying,35,100
+83,3,Peck,1,flying,35,100
+83,4,Peck,1,flying,35,100
+83,5,Peck,1,flying,35,100
+83,6,Peck,1,flying,35,100
+83,7,Peck,1,flying,35,100
+83,8,Sand Attack,1,ground,-,100
+83,8,Leer,1,normal,-,100
+83,8,Peck,1,flying,35,100
+83,8,Fury Cutter,1,bug,40,95
+83,8,Poison Jab,1,poison,80,100
+83,9,Sand Attack,1,ground,-,100
+83,9,Leer,1,normal,-,100
+83,9,Peck,1,flying,35,100
+83,9,Fury Cutter,1,bug,40,95
+83,9,Poison Jab,1,poison,80,100
+83,10,Sand Attack,1,ground,-,100
+83,10,Leer,1,normal,-,100
+83,10,Peck,1,flying,35,100
+83,10,Fury Cutter,1,bug,40,95
+83,10,Poison Jab,1,poison,80,100
+83,11,Sand Attack,1,ground,-,100
+83,11,Leer,1,normal,-,100
+83,11,Peck,1,flying,35,100
+83,11,Fury Cutter,1,bug,40,95
+83,11,Poison Jab,1,poison,80,100
+83,12,Peck,1,flying,35,100
+83,13,Peck,1,flying,35,100
+83,14,Sand Attack,1,ground,-,100
+83,14,Leer,1,normal,-,100
+83,14,Peck,1,flying,35,100
+83,14,Fury Cutter,1,bug,40,95
+83,14,Poison Jab,1,poison,80,100
+83,15,Sand Attack,1,ground,-,100
+83,15,Leer,1,normal,-,100
+83,15,Peck,1,flying,35,100
+83,15,Fury Cutter,1,bug,40,95
+83,15,Poison Jab,1,poison,80,100
+83,15,Brave Bird,1,flying,120,100
+83,16,Sand Attack,1,ground,-,100
+83,16,Leer,1,normal,-,100
+83,16,Peck,1,flying,35,100
+83,16,Fury Cutter,1,bug,40,95
+83,16,Poison Jab,1,poison,80,100
+83,16,Brave Bird,1,flying,120,100
+83,5,Sand Attack,6,ground,-,100
+83,6,Sand Attack,6,ground,-,100
+83,7,Sand Attack,6,ground,-,100
+83,12,Sand Attack,6,ground,-,100
+83,13,Sand Attack,6,ground,-,100
+83,1,Leer,7,normal,-,100
+83,2,Leer,7,normal,-,100
+83,3,Sand Attack,7,ground,-,100
+83,4,Sand Attack,7,ground,-,100
+83,8,Fury Attack,7,normal,15,85
+83,9,Fury Attack,7,normal,15,85
+83,10,Fury Attack,7,normal,15,85
+83,11,Fury Attack,7,normal,15,85
+83,14,Fury Attack,7,normal,15,85
+83,15,Fury Attack,7,normal,15,85
+83,16,Fury Attack,7,normal,15,85
+83,8,Knock Off,9,dark,65,100
+83,9,Knock Off,9,dark,65,100
+83,10,Knock Off,9,dark,65,100
+83,11,Knock Off,9,dark,65,100
+83,14,Knock Off,9,dark,65,100
+83,15,Aerial Ace,9,flying,60,-
+83,16,Aerial Ace,9,flying,60,-
+83,5,Leer,11,normal,-,100
+83,6,Leer,11,normal,-,100
+83,7,Leer,11,normal,-,100
+83,12,Leer,11,normal,-,100
+83,13,Leer,11,normal,-,100
+83,3,Leer,13,normal,-,100
+83,4,Leer,13,normal,-,100
+83,8,Aerial Ace,13,flying,60,-
+83,9,Aerial Ace,13,flying,60,-
+83,10,Aerial Ace,13,flying,60,-
+83,11,Aerial Ace,13,flying,60,-
+83,14,Aerial Ace,13,flying,60,-
+83,15,Knock Off,13,dark,65,100
+83,16,Knock Off,13,dark,65,100
+83,1,Fury Attack,15,normal,15,85
+83,2,Fury Attack,15,normal,15,85
+83,5,Fury Attack,16,normal,15,85
+83,6,Fury Attack,16,normal,15,85
+83,7,Fury Attack,16,normal,15,85
+83,12,Fury Attack,16,normal,15,85
+83,13,Fury Attack,16,normal,15,85
+83,3,Fury Attack,19,normal,15,85
+83,4,Fury Attack,19,normal,15,85
+83,8,Slash,19,normal,70,100
+83,9,Slash,19,normal,70,100
+83,10,Slash,19,normal,70,100
+83,11,Slash,19,normal,70,100
+83,14,Slash,19,normal,70,100
+83,15,Slash,19,normal,70,100
+83,16,Slash,19,normal,70,100
+83,5,Knock Off,21,dark,65,100
+83,6,Knock Off,21,dark,65,100
+83,7,Knock Off,21,dark,65,100
+83,8,Air Cutter,21,flying,60,95
+83,9,Air Cutter,21,flying,60,95
+83,10,Air Cutter,21,flying,60,95
+83,11,Air Cutter,21,flying,60,95
+83,12,Knock Off,21,dark,65,100
+83,13,Knock Off,21,dark,65,100
+83,14,Air Cutter,21,flying,60,95
+83,15,Air Cutter,21,flying,60,95
+83,16,Air Cutter,21,flying,60,95
+83,1,Swords Dance,23,normal,-,-
+83,2,Swords Dance,23,normal,-,-
+83,3,Swords Dance,25,normal,-,-
+83,4,Swords Dance,25,normal,-,-
+83,8,Swords Dance,25,normal,-,-
+83,9,Swords Dance,25,normal,-,-
+83,10,Swords Dance,25,normal,-,-
+83,11,Swords Dance,25,normal,-,-
+83,14,Swords Dance,25,normal,-,-
+83,15,Swords Dance,25,normal,-,-
+83,16,Swords Dance,25,normal,-,-
+83,5,Fury Cutter,26,bug,40,95
+83,6,Fury Cutter,26,bug,40,95
+83,7,Fury Cutter,26,bug,40,95
+83,12,Fury Cutter,26,bug,40,95
+83,13,Fury Cutter,26,bug,40,95
+83,1,Agility,31,psychic,-,-
+83,2,Agility,31,psychic,-,-
+83,3,Agility,31,psychic,-,-
+83,4,Agility,31,psychic,-,-
+83,5,Swords Dance,31,normal,-,-
+83,6,Swords Dance,31,normal,-,-
+83,7,Swords Dance,31,normal,-,-
+83,8,Agility,31,psychic,-,-
+83,9,Agility,31,psychic,-,-
+83,10,Agility,31,psychic,-,-
+83,11,Agility,31,psychic,-,-
+83,12,Swords Dance,31,normal,-,-
+83,13,Swords Dance,31,normal,-,-
+83,14,Agility,31,psychic,-,-
+83,15,Agility,31,psychic,-,-
+83,16,Agility,31,psychic,-,-
+83,8,Night Slash,33,dark,70,100
+83,9,Night Slash,33,dark,70,100
+83,10,Night Slash,33,dark,70,100
+83,11,Night Slash,33,dark,70,100
+83,14,Night Slash,33,dark,70,100
+83,15,Night Slash,33,dark,70,100
+83,16,Night Slash,33,dark,70,100
+83,5,Agility,36,psychic,-,-
+83,6,Agility,36,psychic,-,-
+83,7,Agility,36,psychic,-,-
+83,12,Agility,36,psychic,-,-
+83,13,Agility,36,psychic,-,-
+83,3,Slash,37,normal,70,100
+83,4,Slash,37,normal,70,100
+83,8,Air Slash,37,flying,75,95
+83,9,Air Slash,37,flying,75,95
+83,10,Air Slash,37,flying,75,95
+83,11,Acrobatics,37,flying,55,100
+83,14,Acrobatics,37,flying,55,100
+83,15,Acrobatics,37,flying,55,100
+83,16,Acrobatics,37,flying,55,100
+83,1,Slash,39,normal,70,100
+83,2,Slash,39,normal,70,100
+83,5,Slash,41,normal,70,100
+83,6,Slash,41,normal,70,100
+83,7,Slash,41,normal,70,100
+83,12,Slash,41,normal,70,100
+83,13,Slash,41,normal,70,100
+83,8,False Swipe,43,normal,40,100
+83,9,Feint,43,normal,30,100
+83,10,Feint,43,normal,30,100
+83,11,Feint,43,normal,30,100
+83,14,Feint,43,normal,30,100
+83,15,Feint,43,normal,30,100
+83,16,Feint,43,normal,30,100
+83,3,False Swipe,44,normal,40,100
+83,4,False Swipe,44,normal,40,100
+83,9,False Swipe,45,normal,40,100
+83,10,False Swipe,45,normal,40,100
+83,11,False Swipe,45,normal,40,100
+83,14,False Swipe,45,normal,40,100
+83,15,False Swipe,45,normal,40,100
+83,16,False Swipe,45,normal,40,100
+83,5,False Swipe,46,normal,40,100
+83,6,False Swipe,46,normal,40,100
+83,7,False Swipe,46,normal,40,100
+83,12,False Swipe,46,normal,40,100
+83,13,False Swipe,46,normal,40,100
+83,11,Air Slash,49,flying,75,95
+83,14,Air Slash,49,flying,75,95
+83,15,Air Slash,49,flying,75,95
+83,16,Air Slash,49,flying,75,95
+83,11,Brave Bird,55,flying,120,100
+83,14,Brave Bird,55,flying,120,100
+83,15,Brave Bird,55,flying,120,100
+83,16,Brave Bird,55,flying,120,100

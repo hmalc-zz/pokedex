@@ -1,37 +1,37 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-698,amaura,15,36,Take Down,1,15,
-698,amaura,15,45,Growl,1,1,1
-698,amaura,15,54,Mist,1,18,
-698,amaura,15,58,Ice Beam,1,50,
-698,amaura,15,59,Blizzard,1,65,
-698,amaura,15,62,Aurora Beam,1,20,
-698,amaura,15,63,Hyper Beam,1,57,
-698,amaura,15,86,Thunder Wave,1,5,
-698,amaura,15,88,Rock Throw,1,10,
-698,amaura,15,113,Light Screen,1,47,
-698,amaura,15,181,Powder Snow,1,1,2
-698,amaura,15,196,Icy Wind,1,13,
-698,amaura,15,227,Encore,1,44,
-698,amaura,15,246,Ancient Power,1,26,
-698,amaura,15,258,Hail,1,38,
-698,amaura,15,267,Nature Power,1,41,
-698,amaura,15,419,Avalanche,1,34,
-698,amaura,15,496,Round,1,30,
-698,amaura,16,36,Take Down,1,15,1
-698,amaura,16,45,Growl,1,1,1
-698,amaura,16,54,Mist,1,18,1
-698,amaura,16,58,Ice Beam,1,50,1
-698,amaura,16,59,Blizzard,1,65,1
-698,amaura,16,62,Aurora Beam,1,20,1
-698,amaura,16,63,Hyper Beam,1,57,1
-698,amaura,16,86,Thunder Wave,1,5,1
-698,amaura,16,88,Rock Throw,1,10,1
-698,amaura,16,113,Light Screen,1,47,1
-698,amaura,16,181,Powder Snow,1,1,2
-698,amaura,16,196,Icy Wind,1,13,1
-698,amaura,16,227,Encore,1,44,1
-698,amaura,16,246,Ancient Power,1,26,1
-698,amaura,16,258,Hail,1,38,1
-698,amaura,16,267,Nature Power,1,41,1
-698,amaura,16,419,Avalanche,1,34,1
-698,amaura,16,496,Round,1,30,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+698,15,Growl,1,normal,-,100
+698,15,Powder Snow,1,ice,40,100
+698,16,Growl,1,normal,-,100
+698,16,Powder Snow,1,ice,40,100
+698,15,Thunder Wave,5,electric,-,100
+698,16,Thunder Wave,5,electric,-,100
+698,15,Rock Throw,10,rock,50,90
+698,16,Rock Throw,10,rock,50,90
+698,15,Icy Wind,13,ice,55,95
+698,16,Icy Wind,13,ice,55,95
+698,15,Take Down,15,normal,90,85
+698,16,Take Down,15,normal,90,85
+698,15,Mist,18,ice,-,-
+698,16,Mist,18,ice,-,-
+698,15,Aurora Beam,20,ice,65,100
+698,16,Aurora Beam,20,ice,65,100
+698,15,Ancient Power,26,rock,60,100
+698,16,Ancient Power,26,rock,60,100
+698,15,Round,30,normal,60,100
+698,16,Round,30,normal,60,100
+698,15,Avalanche,34,ice,60,100
+698,16,Avalanche,34,ice,60,100
+698,15,Hail,38,ice,-,-
+698,16,Hail,38,ice,-,-
+698,15,Nature Power,41,normal,-,-
+698,16,Nature Power,41,normal,-,-
+698,15,Encore,44,normal,-,100
+698,16,Encore,44,normal,-,100
+698,15,Light Screen,47,psychic,-,-
+698,16,Light Screen,47,psychic,-,-
+698,15,Ice Beam,50,ice,90,100
+698,16,Ice Beam,50,ice,90,100
+698,15,Hyper Beam,57,normal,150,90
+698,16,Hyper Beam,57,normal,150,90
+698,15,Blizzard,65,ice,110,70
+698,16,Blizzard,65,ice,110,70

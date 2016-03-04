@@ -1,31 +1,31 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-679,honedge,15,14,Swords Dance,1,1,2
-679,honedge,15,33,Tackle,1,1,1
-679,honedge,15,163,Slash,1,29,
-679,honedge,15,210,Fury Cutter,1,5,
-679,honedge,15,228,Pursuit,1,13,
-679,honedge,15,319,Metal Sound,1,8,
-679,honedge,15,332,Aerial Ace,1,22,
-679,honedge,15,334,Iron Defense,1,32,
-679,honedge,15,379,Power Trick,1,39,
-679,honedge,15,400,Night Slash,1,35,
-679,honedge,15,425,Shadow Sneak,1,20,
-679,honedge,15,442,Iron Head,1,42,
-679,honedge,15,475,Autotomize,1,18,
-679,honedge,15,514,Retaliate,1,26,
-679,honedge,15,533,Sacred Sword,1,47,
-679,honedge,16,14,Swords Dance,1,1,2
-679,honedge,16,33,Tackle,1,1,1
-679,honedge,16,163,Slash,1,29,1
-679,honedge,16,210,Fury Cutter,1,5,1
-679,honedge,16,228,Pursuit,1,13,1
-679,honedge,16,319,Metal Sound,1,8,1
-679,honedge,16,332,Aerial Ace,1,22,1
-679,honedge,16,334,Iron Defense,1,32,1
-679,honedge,16,379,Power Trick,1,39,1
-679,honedge,16,400,Night Slash,1,35,1
-679,honedge,16,425,Shadow Sneak,1,20,1
-679,honedge,16,442,Iron Head,1,42,1
-679,honedge,16,475,Autotomize,1,18,1
-679,honedge,16,514,Retaliate,1,26,1
-679,honedge,16,533,Sacred Sword,1,47,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+679,15,Swords Dance,1,normal,-,-
+679,15,Tackle,1,normal,50,100
+679,16,Swords Dance,1,normal,-,-
+679,16,Tackle,1,normal,50,100
+679,15,Fury Cutter,5,bug,40,95
+679,16,Fury Cutter,5,bug,40,95
+679,15,Metal Sound,8,steel,-,85
+679,16,Metal Sound,8,steel,-,85
+679,15,Pursuit,13,dark,40,100
+679,16,Pursuit,13,dark,40,100
+679,15,Autotomize,18,steel,-,-
+679,16,Autotomize,18,steel,-,-
+679,15,Shadow Sneak,20,ghost,40,100
+679,16,Shadow Sneak,20,ghost,40,100
+679,15,Aerial Ace,22,flying,60,-
+679,16,Aerial Ace,22,flying,60,-
+679,15,Retaliate,26,normal,70,100
+679,16,Retaliate,26,normal,70,100
+679,15,Slash,29,normal,70,100
+679,16,Slash,29,normal,70,100
+679,15,Iron Defense,32,steel,-,-
+679,16,Iron Defense,32,steel,-,-
+679,15,Night Slash,35,dark,70,100
+679,16,Night Slash,35,dark,70,100
+679,15,Power Trick,39,psychic,-,-
+679,16,Power Trick,39,psychic,-,-
+679,15,Iron Head,42,steel,80,100
+679,16,Iron Head,42,steel,80,100
+679,15,Sacred Sword,47,fighting,90,100
+679,16,Sacred Sword,47,fighting,90,100

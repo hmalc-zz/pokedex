@@ -1,61 +1,61 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-538,throh,11,20,Bind,1,1,1
-538,throh,11,34,Body Slam,1,29,
-538,throh,11,43,Leer,1,1,2
-538,throh,11,69,Seismic Toss,1,13,
-538,throh,11,116,Focus Energy,1,9,
-538,throh,11,117,Bide,1,5,
-538,throh,11,179,Reversal,1,53,
-538,throh,11,203,Endure,1,41,
-538,throh,11,233,Vital Throw,1,17,
-538,throh,11,276,Superpower,1,49,
-538,throh,11,279,Revenge,1,21,
-538,throh,11,339,Bulk Up,1,33,
-538,throh,11,469,Wide Guard,1,45,
-538,throh,11,480,Storm Throw,1,25,
-538,throh,11,509,Circle Throw,1,37,
-538,throh,14,20,Bind,1,1,1
-538,throh,14,34,Body Slam,1,29,
-538,throh,14,43,Leer,1,1,2
-538,throh,14,69,Seismic Toss,1,13,
-538,throh,14,116,Focus Energy,1,9,
-538,throh,14,117,Bide,1,5,
-538,throh,14,179,Reversal,1,53,
-538,throh,14,203,Endure,1,41,
-538,throh,14,233,Vital Throw,1,17,
-538,throh,14,276,Superpower,1,49,
-538,throh,14,279,Revenge,1,21,
-538,throh,14,339,Bulk Up,1,33,
-538,throh,14,469,Wide Guard,1,45,
-538,throh,14,480,Storm Throw,1,25,
-538,throh,14,509,Circle Throw,1,37,
-538,throh,15,20,Bind,1,1,1
-538,throh,15,34,Body Slam,1,29,
-538,throh,15,43,Leer,1,1,2
-538,throh,15,69,Seismic Toss,1,13,
-538,throh,15,116,Focus Energy,1,9,
-538,throh,15,117,Bide,1,5,
-538,throh,15,179,Reversal,1,50,
-538,throh,15,203,Endure,1,41,
-538,throh,15,233,Vital Throw,1,17,
-538,throh,15,276,Superpower,1,48,
-538,throh,15,279,Revenge,1,21,
-538,throh,15,339,Bulk Up,1,33,
-538,throh,15,469,Wide Guard,1,45,
-538,throh,15,480,Storm Throw,1,25,
-538,throh,15,509,Circle Throw,1,37,
-538,throh,16,20,Bind,1,1,1
-538,throh,16,34,Body Slam,1,29,1
-538,throh,16,43,Leer,1,1,2
-538,throh,16,69,Seismic Toss,1,13,1
-538,throh,16,116,Focus Energy,1,9,1
-538,throh,16,117,Bide,1,5,1
-538,throh,16,179,Reversal,1,50,1
-538,throh,16,203,Endure,1,41,1
-538,throh,16,233,Vital Throw,1,17,1
-538,throh,16,276,Superpower,1,48,1
-538,throh,16,279,Revenge,1,21,1
-538,throh,16,339,Bulk Up,1,33,1
-538,throh,16,469,Wide Guard,1,45,1
-538,throh,16,480,Storm Throw,1,25,1
-538,throh,16,509,Circle Throw,1,37,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+538,11,Bind,1,normal,15,85
+538,11,Leer,1,normal,-,100
+538,14,Bind,1,normal,15,85
+538,14,Leer,1,normal,-,100
+538,15,Bind,1,normal,15,85
+538,15,Leer,1,normal,-,100
+538,16,Bind,1,normal,15,85
+538,16,Leer,1,normal,-,100
+538,11,Bide,5,normal,-,-
+538,14,Bide,5,normal,-,-
+538,15,Bide,5,normal,-,-
+538,16,Bide,5,normal,-,-
+538,11,Focus Energy,9,normal,-,-
+538,14,Focus Energy,9,normal,-,-
+538,15,Focus Energy,9,normal,-,-
+538,16,Focus Energy,9,normal,-,-
+538,11,Seismic Toss,13,fighting,-,100
+538,14,Seismic Toss,13,fighting,-,100
+538,15,Seismic Toss,13,fighting,-,100
+538,16,Seismic Toss,13,fighting,-,100
+538,11,Vital Throw,17,fighting,70,-
+538,14,Vital Throw,17,fighting,70,-
+538,15,Vital Throw,17,fighting,70,-
+538,16,Vital Throw,17,fighting,70,-
+538,11,Revenge,21,fighting,60,100
+538,14,Revenge,21,fighting,60,100
+538,15,Revenge,21,fighting,60,100
+538,16,Revenge,21,fighting,60,100
+538,11,Storm Throw,25,fighting,60,100
+538,14,Storm Throw,25,fighting,60,100
+538,15,Storm Throw,25,fighting,60,100
+538,16,Storm Throw,25,fighting,60,100
+538,11,Body Slam,29,normal,85,100
+538,14,Body Slam,29,normal,85,100
+538,15,Body Slam,29,normal,85,100
+538,16,Body Slam,29,normal,85,100
+538,11,Bulk Up,33,fighting,-,-
+538,14,Bulk Up,33,fighting,-,-
+538,15,Bulk Up,33,fighting,-,-
+538,16,Bulk Up,33,fighting,-,-
+538,11,Circle Throw,37,fighting,60,90
+538,14,Circle Throw,37,fighting,60,90
+538,15,Circle Throw,37,fighting,60,90
+538,16,Circle Throw,37,fighting,60,90
+538,11,Endure,41,normal,-,-
+538,14,Endure,41,normal,-,-
+538,15,Endure,41,normal,-,-
+538,16,Endure,41,normal,-,-
+538,11,Wide Guard,45,rock,-,-
+538,14,Wide Guard,45,rock,-,-
+538,15,Wide Guard,45,rock,-,-
+538,16,Wide Guard,45,rock,-,-
+538,15,Superpower,48,fighting,120,100
+538,16,Superpower,48,fighting,120,100
+538,11,Superpower,49,fighting,120,100
+538,14,Superpower,49,fighting,120,100
+538,15,Reversal,50,fighting,-,100
+538,16,Reversal,50,fighting,-,100
+538,11,Reversal,53,fighting,-,100
+538,14,Reversal,53,fighting,-,100

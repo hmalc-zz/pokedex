@@ -1,78 +1,78 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-489,phione,8,48,Supersonic,1,16,
-489,phione,8,61,Bubble Beam,1,24,
-489,phione,8,145,Bubble,1,1,1
-489,phione,8,151,Acid Armor,1,31,
-489,phione,8,204,Charm,1,9,
-489,phione,8,240,Rain Dance,1,69,
-489,phione,8,250,Whirlpool,1,39,
-489,phione,8,291,Dive,1,61,
-489,phione,8,346,Water Sport,1,1,2
-489,phione,8,352,Water Pulse,1,46,
-489,phione,8,392,Aqua Ring,1,54,
-489,phione,9,48,Supersonic,1,16,
-489,phione,9,61,Bubble Beam,1,24,
-489,phione,9,145,Bubble,1,1,1
-489,phione,9,151,Acid Armor,1,31,
-489,phione,9,204,Charm,1,9,
-489,phione,9,240,Rain Dance,1,69,
-489,phione,9,250,Whirlpool,1,39,
-489,phione,9,291,Dive,1,61,
-489,phione,9,346,Water Sport,1,1,2
-489,phione,9,352,Water Pulse,1,46,
-489,phione,9,392,Aqua Ring,1,54,
-489,phione,10,48,Supersonic,1,16,
-489,phione,10,61,Bubble Beam,1,24,
-489,phione,10,145,Bubble,1,1,1
-489,phione,10,151,Acid Armor,1,31,
-489,phione,10,204,Charm,1,9,
-489,phione,10,240,Rain Dance,1,69,
-489,phione,10,250,Whirlpool,1,39,
-489,phione,10,291,Dive,1,61,
-489,phione,10,346,Water Sport,1,1,2
-489,phione,10,352,Water Pulse,1,46,
-489,phione,10,392,Aqua Ring,1,54,
-489,phione,11,48,Supersonic,1,16,
-489,phione,11,61,Bubble Beam,1,24,
-489,phione,11,145,Bubble,1,1,1
-489,phione,11,151,Acid Armor,1,31,
-489,phione,11,204,Charm,1,9,
-489,phione,11,240,Rain Dance,1,69,
-489,phione,11,250,Whirlpool,1,39,
-489,phione,11,291,Dive,1,61,
-489,phione,11,346,Water Sport,1,1,2
-489,phione,11,352,Water Pulse,1,46,
-489,phione,11,392,Aqua Ring,1,54,
-489,phione,14,48,Supersonic,1,16,
-489,phione,14,61,Bubble Beam,1,24,
-489,phione,14,145,Bubble,1,1,1
-489,phione,14,151,Acid Armor,1,31,
-489,phione,14,204,Charm,1,9,
-489,phione,14,240,Rain Dance,1,69,
-489,phione,14,250,Whirlpool,1,39,
-489,phione,14,291,Dive,1,61,
-489,phione,14,346,Water Sport,1,1,2
-489,phione,14,352,Water Pulse,1,46,
-489,phione,14,392,Aqua Ring,1,54,
-489,phione,15,48,Supersonic,1,16,
-489,phione,15,61,Bubble Beam,1,24,
-489,phione,15,145,Bubble,1,1,1
-489,phione,15,151,Acid Armor,1,31,
-489,phione,15,204,Charm,1,9,
-489,phione,15,240,Rain Dance,1,69,
-489,phione,15,250,Whirlpool,1,39,
-489,phione,15,291,Dive,1,61,
-489,phione,15,346,Water Sport,1,1,2
-489,phione,15,352,Water Pulse,1,46,
-489,phione,15,392,Aqua Ring,1,54,
-489,phione,16,48,Supersonic,1,16,1
-489,phione,16,61,Bubble Beam,1,24,1
-489,phione,16,145,Bubble,1,1,1
-489,phione,16,151,Acid Armor,1,31,1
-489,phione,16,204,Charm,1,9,1
-489,phione,16,240,Rain Dance,1,69,1
-489,phione,16,250,Whirlpool,1,39,1
-489,phione,16,291,Dive,1,61,1
-489,phione,16,346,Water Sport,1,1,2
-489,phione,16,352,Water Pulse,1,46,1
-489,phione,16,392,Aqua Ring,1,54,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+489,8,Bubble,1,water,40,100
+489,8,Water Sport,1,water,-,-
+489,9,Bubble,1,water,40,100
+489,9,Water Sport,1,water,-,-
+489,10,Bubble,1,water,40,100
+489,10,Water Sport,1,water,-,-
+489,11,Bubble,1,water,40,100
+489,11,Water Sport,1,water,-,-
+489,14,Bubble,1,water,40,100
+489,14,Water Sport,1,water,-,-
+489,15,Bubble,1,water,40,100
+489,15,Water Sport,1,water,-,-
+489,16,Bubble,1,water,40,100
+489,16,Water Sport,1,water,-,-
+489,8,Charm,9,fairy,-,100
+489,9,Charm,9,fairy,-,100
+489,10,Charm,9,fairy,-,100
+489,11,Charm,9,fairy,-,100
+489,14,Charm,9,fairy,-,100
+489,15,Charm,9,fairy,-,100
+489,16,Charm,9,fairy,-,100
+489,8,Supersonic,16,normal,-,55
+489,9,Supersonic,16,normal,-,55
+489,10,Supersonic,16,normal,-,55
+489,11,Supersonic,16,normal,-,55
+489,14,Supersonic,16,normal,-,55
+489,15,Supersonic,16,normal,-,55
+489,16,Supersonic,16,normal,-,55
+489,8,Bubble Beam,24,water,65,100
+489,9,Bubble Beam,24,water,65,100
+489,10,Bubble Beam,24,water,65,100
+489,11,Bubble Beam,24,water,65,100
+489,14,Bubble Beam,24,water,65,100
+489,15,Bubble Beam,24,water,65,100
+489,16,Bubble Beam,24,water,65,100
+489,8,Acid Armor,31,poison,-,-
+489,9,Acid Armor,31,poison,-,-
+489,10,Acid Armor,31,poison,-,-
+489,11,Acid Armor,31,poison,-,-
+489,14,Acid Armor,31,poison,-,-
+489,15,Acid Armor,31,poison,-,-
+489,16,Acid Armor,31,poison,-,-
+489,8,Whirlpool,39,water,35,85
+489,9,Whirlpool,39,water,35,85
+489,10,Whirlpool,39,water,35,85
+489,11,Whirlpool,39,water,35,85
+489,14,Whirlpool,39,water,35,85
+489,15,Whirlpool,39,water,35,85
+489,16,Whirlpool,39,water,35,85
+489,8,Water Pulse,46,water,60,100
+489,9,Water Pulse,46,water,60,100
+489,10,Water Pulse,46,water,60,100
+489,11,Water Pulse,46,water,60,100
+489,14,Water Pulse,46,water,60,100
+489,15,Water Pulse,46,water,60,100
+489,16,Water Pulse,46,water,60,100
+489,8,Aqua Ring,54,water,-,-
+489,9,Aqua Ring,54,water,-,-
+489,10,Aqua Ring,54,water,-,-
+489,11,Aqua Ring,54,water,-,-
+489,14,Aqua Ring,54,water,-,-
+489,15,Aqua Ring,54,water,-,-
+489,16,Aqua Ring,54,water,-,-
+489,8,Dive,61,water,80,100
+489,9,Dive,61,water,80,100
+489,10,Dive,61,water,80,100
+489,11,Dive,61,water,80,100
+489,14,Dive,61,water,80,100
+489,15,Dive,61,water,80,100
+489,16,Dive,61,water,80,100
+489,8,Rain Dance,69,water,-,-
+489,9,Rain Dance,69,water,-,-
+489,10,Rain Dance,69,water,-,-
+489,11,Rain Dance,69,water,-,-
+489,14,Rain Dance,69,water,-,-
+489,15,Rain Dance,69,water,-,-
+489,16,Rain Dance,69,water,-,-

@@ -1,92 +1,92 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-388,grotle,8,33,Tackle,1,1,1
-388,grotle,8,44,Bite,1,22,
-388,grotle,8,71,Absorb,1,9,
-388,grotle,8,72,Mega Drain,1,27,
-388,grotle,8,73,Leech Seed,1,32,
-388,grotle,8,75,Razor Leaf,1,13,
-388,grotle,8,110,Withdraw,1,1,2
-388,grotle,8,110,Withdraw,1,5,
-388,grotle,8,174,Curse,1,17,
-388,grotle,8,202,Giga Drain,1,47,
-388,grotle,8,235,Synthesis,1,37,
-388,grotle,8,242,Crunch,1,42,
-388,grotle,8,437,Leaf Storm,1,52,
-388,grotle,9,33,Tackle,1,1,1
-388,grotle,9,44,Bite,1,22,
-388,grotle,9,71,Absorb,1,9,
-388,grotle,9,72,Mega Drain,1,27,
-388,grotle,9,73,Leech Seed,1,32,
-388,grotle,9,75,Razor Leaf,1,13,
-388,grotle,9,110,Withdraw,1,1,2
-388,grotle,9,110,Withdraw,1,5,
-388,grotle,9,174,Curse,1,17,
-388,grotle,9,202,Giga Drain,1,47,
-388,grotle,9,235,Synthesis,1,37,
-388,grotle,9,242,Crunch,1,42,
-388,grotle,9,437,Leaf Storm,1,52,
-388,grotle,10,33,Tackle,1,1,1
-388,grotle,10,44,Bite,1,22,
-388,grotle,10,71,Absorb,1,9,
-388,grotle,10,72,Mega Drain,1,27,
-388,grotle,10,73,Leech Seed,1,32,
-388,grotle,10,75,Razor Leaf,1,13,
-388,grotle,10,110,Withdraw,1,1,2
-388,grotle,10,110,Withdraw,1,5,
-388,grotle,10,174,Curse,1,17,
-388,grotle,10,202,Giga Drain,1,47,
-388,grotle,10,235,Synthesis,1,37,
-388,grotle,10,242,Crunch,1,42,
-388,grotle,10,437,Leaf Storm,1,52,
-388,grotle,11,33,Tackle,1,1,1
-388,grotle,11,44,Bite,1,22,
-388,grotle,11,71,Absorb,1,9,
-388,grotle,11,72,Mega Drain,1,27,
-388,grotle,11,73,Leech Seed,1,32,
-388,grotle,11,75,Razor Leaf,1,13,
-388,grotle,11,110,Withdraw,1,1,2
-388,grotle,11,110,Withdraw,1,5,
-388,grotle,11,174,Curse,1,17,
-388,grotle,11,202,Giga Drain,1,47,
-388,grotle,11,235,Synthesis,1,37,
-388,grotle,11,242,Crunch,1,42,
-388,grotle,11,437,Leaf Storm,1,52,
-388,grotle,14,33,Tackle,1,1,1
-388,grotle,14,44,Bite,1,22,
-388,grotle,14,71,Absorb,1,9,
-388,grotle,14,72,Mega Drain,1,27,
-388,grotle,14,73,Leech Seed,1,32,
-388,grotle,14,75,Razor Leaf,1,13,
-388,grotle,14,110,Withdraw,1,1,2
-388,grotle,14,110,Withdraw,1,5,
-388,grotle,14,174,Curse,1,17,
-388,grotle,14,202,Giga Drain,1,47,
-388,grotle,14,235,Synthesis,1,37,
-388,grotle,14,242,Crunch,1,42,
-388,grotle,14,437,Leaf Storm,1,52,
-388,grotle,15,33,Tackle,1,1,1
-388,grotle,15,44,Bite,1,22,
-388,grotle,15,71,Absorb,1,9,
-388,grotle,15,72,Mega Drain,1,27,
-388,grotle,15,73,Leech Seed,1,32,
-388,grotle,15,75,Razor Leaf,1,13,
-388,grotle,15,110,Withdraw,1,1,2
-388,grotle,15,110,Withdraw,1,5,
-388,grotle,15,174,Curse,1,17,
-388,grotle,15,202,Giga Drain,1,47,
-388,grotle,15,235,Synthesis,1,37,
-388,grotle,15,242,Crunch,1,42,
-388,grotle,15,437,Leaf Storm,1,52,
-388,grotle,16,33,Tackle,1,1,1
-388,grotle,16,44,Bite,1,22,1
-388,grotle,16,71,Absorb,1,9,1
-388,grotle,16,72,Mega Drain,1,27,1
-388,grotle,16,73,Leech Seed,1,32,1
-388,grotle,16,75,Razor Leaf,1,13,1
-388,grotle,16,110,Withdraw,1,1,2
-388,grotle,16,110,Withdraw,1,5,1
-388,grotle,16,174,Curse,1,17,1
-388,grotle,16,202,Giga Drain,1,47,1
-388,grotle,16,235,Synthesis,1,37,1
-388,grotle,16,242,Crunch,1,42,1
-388,grotle,16,437,Leaf Storm,1,52,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+388,8,Tackle,1,normal,50,100
+388,8,Withdraw,1,water,-,-
+388,9,Tackle,1,normal,50,100
+388,9,Withdraw,1,water,-,-
+388,10,Tackle,1,normal,50,100
+388,10,Withdraw,1,water,-,-
+388,11,Tackle,1,normal,50,100
+388,11,Withdraw,1,water,-,-
+388,14,Tackle,1,normal,50,100
+388,14,Withdraw,1,water,-,-
+388,15,Tackle,1,normal,50,100
+388,15,Withdraw,1,water,-,-
+388,16,Tackle,1,normal,50,100
+388,16,Withdraw,1,water,-,-
+388,8,Withdraw,5,water,-,-
+388,9,Withdraw,5,water,-,-
+388,10,Withdraw,5,water,-,-
+388,11,Withdraw,5,water,-,-
+388,14,Withdraw,5,water,-,-
+388,15,Withdraw,5,water,-,-
+388,16,Withdraw,5,water,-,-
+388,8,Absorb,9,grass,20,100
+388,9,Absorb,9,grass,20,100
+388,10,Absorb,9,grass,20,100
+388,11,Absorb,9,grass,20,100
+388,14,Absorb,9,grass,20,100
+388,15,Absorb,9,grass,20,100
+388,16,Absorb,9,grass,20,100
+388,8,Razor Leaf,13,grass,55,95
+388,9,Razor Leaf,13,grass,55,95
+388,10,Razor Leaf,13,grass,55,95
+388,11,Razor Leaf,13,grass,55,95
+388,14,Razor Leaf,13,grass,55,95
+388,15,Razor Leaf,13,grass,55,95
+388,16,Razor Leaf,13,grass,55,95
+388,8,Curse,17,ghost,-,-
+388,9,Curse,17,ghost,-,-
+388,10,Curse,17,ghost,-,-
+388,11,Curse,17,ghost,-,-
+388,14,Curse,17,ghost,-,-
+388,15,Curse,17,ghost,-,-
+388,16,Curse,17,ghost,-,-
+388,8,Bite,22,dark,60,100
+388,9,Bite,22,dark,60,100
+388,10,Bite,22,dark,60,100
+388,11,Bite,22,dark,60,100
+388,14,Bite,22,dark,60,100
+388,15,Bite,22,dark,60,100
+388,16,Bite,22,dark,60,100
+388,8,Mega Drain,27,grass,40,100
+388,9,Mega Drain,27,grass,40,100
+388,10,Mega Drain,27,grass,40,100
+388,11,Mega Drain,27,grass,40,100
+388,14,Mega Drain,27,grass,40,100
+388,15,Mega Drain,27,grass,40,100
+388,16,Mega Drain,27,grass,40,100
+388,8,Leech Seed,32,grass,-,90
+388,9,Leech Seed,32,grass,-,90
+388,10,Leech Seed,32,grass,-,90
+388,11,Leech Seed,32,grass,-,90
+388,14,Leech Seed,32,grass,-,90
+388,15,Leech Seed,32,grass,-,90
+388,16,Leech Seed,32,grass,-,90
+388,8,Synthesis,37,grass,-,-
+388,9,Synthesis,37,grass,-,-
+388,10,Synthesis,37,grass,-,-
+388,11,Synthesis,37,grass,-,-
+388,14,Synthesis,37,grass,-,-
+388,15,Synthesis,37,grass,-,-
+388,16,Synthesis,37,grass,-,-
+388,8,Crunch,42,dark,80,100
+388,9,Crunch,42,dark,80,100
+388,10,Crunch,42,dark,80,100
+388,11,Crunch,42,dark,80,100
+388,14,Crunch,42,dark,80,100
+388,15,Crunch,42,dark,80,100
+388,16,Crunch,42,dark,80,100
+388,8,Giga Drain,47,grass,75,100
+388,9,Giga Drain,47,grass,75,100
+388,10,Giga Drain,47,grass,75,100
+388,11,Giga Drain,47,grass,75,100
+388,14,Giga Drain,47,grass,75,100
+388,15,Giga Drain,47,grass,75,100
+388,16,Giga Drain,47,grass,75,100
+388,8,Leaf Storm,52,grass,130,90
+388,9,Leaf Storm,52,grass,130,90
+388,10,Leaf Storm,52,grass,130,90
+388,11,Leaf Storm,52,grass,130,90
+388,14,Leaf Storm,52,grass,130,90
+388,15,Leaf Storm,52,grass,130,90
+388,16,Leaf Storm,52,grass,130,90

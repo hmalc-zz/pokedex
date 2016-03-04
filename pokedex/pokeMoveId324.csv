@@ -1,181 +1,181 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-324,torkoal,5,34,Body Slam,1,20,
-324,torkoal,5,52,Ember,1,1,
-324,torkoal,5,53,Flamethrower,1,30,
-324,torkoal,5,83,Fire Spin,1,17,
-324,torkoal,5,108,Smokescreen,1,14,
-324,torkoal,5,123,Smog,1,4,
-324,torkoal,5,133,Amnesia,1,40,
-324,torkoal,5,174,Curse,1,7,
-324,torkoal,5,175,Flail,1,43,
-324,torkoal,5,182,Protect,1,27,
-324,torkoal,5,257,Heat Wave,1,46,
-324,torkoal,5,334,Iron Defense,1,33,
-324,torkoal,6,34,Body Slam,1,20,
-324,torkoal,6,52,Ember,1,1,
-324,torkoal,6,53,Flamethrower,1,30,
-324,torkoal,6,83,Fire Spin,1,17,
-324,torkoal,6,108,Smokescreen,1,14,
-324,torkoal,6,123,Smog,1,4,
-324,torkoal,6,133,Amnesia,1,40,
-324,torkoal,6,174,Curse,1,7,
-324,torkoal,6,175,Flail,1,43,
-324,torkoal,6,182,Protect,1,27,
-324,torkoal,6,257,Heat Wave,1,46,
-324,torkoal,6,334,Iron Defense,1,33,
-324,torkoal,7,34,Body Slam,1,20,
-324,torkoal,7,52,Ember,1,1,
-324,torkoal,7,53,Flamethrower,1,30,
-324,torkoal,7,83,Fire Spin,1,17,
-324,torkoal,7,108,Smokescreen,1,14,
-324,torkoal,7,123,Smog,1,4,
-324,torkoal,7,133,Amnesia,1,40,
-324,torkoal,7,174,Curse,1,7,
-324,torkoal,7,175,Flail,1,43,
-324,torkoal,7,182,Protect,1,27,
-324,torkoal,7,257,Heat Wave,1,46,
-324,torkoal,7,334,Iron Defense,1,33,
-324,torkoal,8,34,Body Slam,1,33,
-324,torkoal,8,52,Ember,1,1,
-324,torkoal,8,53,Flamethrower,1,28,
-324,torkoal,8,83,Fire Spin,1,17,
-324,torkoal,8,108,Smokescreen,1,20,
-324,torkoal,8,110,Withdraw,1,7,
-324,torkoal,8,123,Smog,1,4,
-324,torkoal,8,133,Amnesia,1,49,
-324,torkoal,8,174,Curse,1,12,
-324,torkoal,8,175,Flail,1,52,
-324,torkoal,8,182,Protect,1,36,
-324,torkoal,8,229,Rapid Spin,1,23,
-324,torkoal,8,257,Heat Wave,1,55,
-324,torkoal,8,334,Iron Defense,1,44,
-324,torkoal,8,436,Lava Plume,1,39,
-324,torkoal,9,34,Body Slam,1,33,
-324,torkoal,9,52,Ember,1,1,
-324,torkoal,9,53,Flamethrower,1,28,
-324,torkoal,9,83,Fire Spin,1,17,
-324,torkoal,9,108,Smokescreen,1,20,
-324,torkoal,9,110,Withdraw,1,7,
-324,torkoal,9,123,Smog,1,4,
-324,torkoal,9,133,Amnesia,1,49,
-324,torkoal,9,174,Curse,1,12,
-324,torkoal,9,175,Flail,1,52,
-324,torkoal,9,182,Protect,1,36,
-324,torkoal,9,229,Rapid Spin,1,23,
-324,torkoal,9,257,Heat Wave,1,55,
-324,torkoal,9,334,Iron Defense,1,44,
-324,torkoal,9,436,Lava Plume,1,39,
-324,torkoal,10,34,Body Slam,1,33,
-324,torkoal,10,52,Ember,1,1,
-324,torkoal,10,53,Flamethrower,1,28,
-324,torkoal,10,83,Fire Spin,1,17,
-324,torkoal,10,108,Smokescreen,1,20,
-324,torkoal,10,110,Withdraw,1,7,
-324,torkoal,10,123,Smog,1,4,
-324,torkoal,10,133,Amnesia,1,49,
-324,torkoal,10,174,Curse,1,12,
-324,torkoal,10,175,Flail,1,52,
-324,torkoal,10,182,Protect,1,36,
-324,torkoal,10,229,Rapid Spin,1,23,
-324,torkoal,10,257,Heat Wave,1,55,
-324,torkoal,10,334,Iron Defense,1,44,
-324,torkoal,10,436,Lava Plume,1,39,
-324,torkoal,11,34,Body Slam,1,33,
-324,torkoal,11,52,Ember,1,1,
-324,torkoal,11,53,Flamethrower,1,28,
-324,torkoal,11,83,Fire Spin,1,17,
-324,torkoal,11,108,Smokescreen,1,20,
-324,torkoal,11,110,Withdraw,1,7,
-324,torkoal,11,123,Smog,1,4,
-324,torkoal,11,133,Amnesia,1,49,
-324,torkoal,11,174,Curse,1,12,
-324,torkoal,11,175,Flail,1,52,
-324,torkoal,11,182,Protect,1,36,
-324,torkoal,11,229,Rapid Spin,1,23,
-324,torkoal,11,257,Heat Wave,1,55,
-324,torkoal,11,334,Iron Defense,1,44,
-324,torkoal,11,436,Lava Plume,1,39,
-324,torkoal,11,504,Shell Smash,1,65,
-324,torkoal,11,517,Inferno,1,60,
-324,torkoal,12,34,Body Slam,1,20,
-324,torkoal,12,52,Ember,1,1,
-324,torkoal,12,53,Flamethrower,1,30,
-324,torkoal,12,83,Fire Spin,1,17,
-324,torkoal,12,108,Smokescreen,1,14,
-324,torkoal,12,123,Smog,1,4,
-324,torkoal,12,133,Amnesia,1,40,
-324,torkoal,12,174,Curse,1,7,
-324,torkoal,12,175,Flail,1,43,
-324,torkoal,12,182,Protect,1,27,
-324,torkoal,12,257,Heat Wave,1,46,
-324,torkoal,12,334,Iron Defense,1,33,
-324,torkoal,13,34,Body Slam,1,20,
-324,torkoal,13,52,Ember,1,1,
-324,torkoal,13,53,Flamethrower,1,30,
-324,torkoal,13,83,Fire Spin,1,17,
-324,torkoal,13,108,Smokescreen,1,14,
-324,torkoal,13,123,Smog,1,4,
-324,torkoal,13,133,Amnesia,1,40,
-324,torkoal,13,174,Curse,1,7,
-324,torkoal,13,175,Flail,1,43,
-324,torkoal,13,182,Protect,1,27,
-324,torkoal,13,257,Heat Wave,1,46,
-324,torkoal,13,334,Iron Defense,1,33,
-324,torkoal,14,34,Body Slam,1,33,
-324,torkoal,14,52,Ember,1,1,
-324,torkoal,14,53,Flamethrower,1,28,
-324,torkoal,14,83,Fire Spin,1,17,
-324,torkoal,14,108,Smokescreen,1,20,
-324,torkoal,14,110,Withdraw,1,7,
-324,torkoal,14,123,Smog,1,4,
-324,torkoal,14,133,Amnesia,1,49,
-324,torkoal,14,174,Curse,1,12,
-324,torkoal,14,175,Flail,1,52,
-324,torkoal,14,182,Protect,1,36,
-324,torkoal,14,229,Rapid Spin,1,23,
-324,torkoal,14,257,Heat Wave,1,55,
-324,torkoal,14,334,Iron Defense,1,44,
-324,torkoal,14,436,Lava Plume,1,39,
-324,torkoal,14,504,Shell Smash,1,65,
-324,torkoal,14,517,Inferno,1,60,
-324,torkoal,15,34,Body Slam,1,33,
-324,torkoal,15,52,Ember,1,1,6
-324,torkoal,15,53,Flamethrower,1,28,
-324,torkoal,15,83,Fire Spin,1,17,
-324,torkoal,15,108,Smokescreen,1,20,
-324,torkoal,15,110,Withdraw,1,7,
-324,torkoal,15,123,Smog,1,4,
-324,torkoal,15,133,Amnesia,1,49,
-324,torkoal,15,172,Flame Wheel,1,23,
-324,torkoal,15,174,Curse,1,12,
-324,torkoal,15,175,Flail,1,1,4
-324,torkoal,15,175,Flail,1,52,
-324,torkoal,15,182,Protect,1,1,3
-324,torkoal,15,182,Protect,1,36,
-324,torkoal,15,229,Rapid Spin,1,25,
-324,torkoal,15,257,Heat Wave,1,1,2
-324,torkoal,15,257,Heat Wave,1,55,
-324,torkoal,15,334,Iron Defense,1,44,
-324,torkoal,15,436,Lava Plume,1,39,
-324,torkoal,15,504,Shell Smash,1,1,5
-324,torkoal,15,504,Shell Smash,1,65,
-324,torkoal,15,517,Inferno,1,1,1
-324,torkoal,15,517,Inferno,1,60,
-324,torkoal,16,34,Body Slam,1,27,1
-324,torkoal,16,52,Ember,1,1,1
-324,torkoal,16,53,Flamethrower,1,34,1
-324,torkoal,16,83,Fire Spin,1,13,1
-324,torkoal,16,108,Smokescreen,1,15,1
-324,torkoal,16,110,Withdraw,1,7,1
-324,torkoal,16,123,Smog,1,4,1
-324,torkoal,16,133,Amnesia,1,40,1
-324,torkoal,16,172,Flame Wheel,1,18,1
-324,torkoal,16,174,Curse,1,22,1
-324,torkoal,16,175,Flail,1,42,1
-324,torkoal,16,182,Protect,1,30,1
-324,torkoal,16,229,Rapid Spin,1,10,1
-324,torkoal,16,257,Heat Wave,1,45,1
-324,torkoal,16,334,Iron Defense,1,38,1
-324,torkoal,16,436,Lava Plume,1,25,1
-324,torkoal,16,504,Shell Smash,1,47,1
-324,torkoal,16,517,Inferno,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+324,5,Ember,1,fire,40,100
+324,6,Ember,1,fire,40,100
+324,7,Ember,1,fire,40,100
+324,8,Ember,1,fire,40,100
+324,9,Ember,1,fire,40,100
+324,10,Ember,1,fire,40,100
+324,11,Ember,1,fire,40,100
+324,12,Ember,1,fire,40,100
+324,13,Ember,1,fire,40,100
+324,14,Ember,1,fire,40,100
+324,15,Ember,1,fire,40,100
+324,15,Flail,1,normal,-,100
+324,15,Protect,1,normal,-,-
+324,15,Heat Wave,1,fire,95,90
+324,15,Shell Smash,1,normal,-,-
+324,15,Inferno,1,fire,100,50
+324,16,Ember,1,fire,40,100
+324,5,Smog,4,poison,30,70
+324,6,Smog,4,poison,30,70
+324,7,Smog,4,poison,30,70
+324,8,Smog,4,poison,30,70
+324,9,Smog,4,poison,30,70
+324,10,Smog,4,poison,30,70
+324,11,Smog,4,poison,30,70
+324,12,Smog,4,poison,30,70
+324,13,Smog,4,poison,30,70
+324,14,Smog,4,poison,30,70
+324,15,Smog,4,poison,30,70
+324,16,Smog,4,poison,30,70
+324,5,Curse,7,ghost,-,-
+324,6,Curse,7,ghost,-,-
+324,7,Curse,7,ghost,-,-
+324,8,Withdraw,7,water,-,-
+324,9,Withdraw,7,water,-,-
+324,10,Withdraw,7,water,-,-
+324,11,Withdraw,7,water,-,-
+324,12,Curse,7,ghost,-,-
+324,13,Curse,7,ghost,-,-
+324,14,Withdraw,7,water,-,-
+324,15,Withdraw,7,water,-,-
+324,16,Withdraw,7,water,-,-
+324,16,Rapid Spin,10,normal,20,100
+324,8,Curse,12,ghost,-,-
+324,9,Curse,12,ghost,-,-
+324,10,Curse,12,ghost,-,-
+324,11,Curse,12,ghost,-,-
+324,14,Curse,12,ghost,-,-
+324,15,Curse,12,ghost,-,-
+324,16,Fire Spin,13,fire,35,85
+324,5,Smokescreen,14,normal,-,100
+324,6,Smokescreen,14,normal,-,100
+324,7,Smokescreen,14,normal,-,100
+324,12,Smokescreen,14,normal,-,100
+324,13,Smokescreen,14,normal,-,100
+324,16,Smokescreen,15,normal,-,100
+324,5,Fire Spin,17,fire,35,85
+324,6,Fire Spin,17,fire,35,85
+324,7,Fire Spin,17,fire,35,85
+324,8,Fire Spin,17,fire,35,85
+324,9,Fire Spin,17,fire,35,85
+324,10,Fire Spin,17,fire,35,85
+324,11,Fire Spin,17,fire,35,85
+324,12,Fire Spin,17,fire,35,85
+324,13,Fire Spin,17,fire,35,85
+324,14,Fire Spin,17,fire,35,85
+324,15,Fire Spin,17,fire,35,85
+324,16,Flame Wheel,18,fire,60,100
+324,5,Body Slam,20,normal,85,100
+324,6,Body Slam,20,normal,85,100
+324,7,Body Slam,20,normal,85,100
+324,8,Smokescreen,20,normal,-,100
+324,9,Smokescreen,20,normal,-,100
+324,10,Smokescreen,20,normal,-,100
+324,11,Smokescreen,20,normal,-,100
+324,12,Body Slam,20,normal,85,100
+324,13,Body Slam,20,normal,85,100
+324,14,Smokescreen,20,normal,-,100
+324,15,Smokescreen,20,normal,-,100
+324,16,Curse,22,ghost,-,-
+324,8,Rapid Spin,23,normal,20,100
+324,9,Rapid Spin,23,normal,20,100
+324,10,Rapid Spin,23,normal,20,100
+324,11,Rapid Spin,23,normal,20,100
+324,14,Rapid Spin,23,normal,20,100
+324,15,Flame Wheel,23,fire,60,100
+324,15,Rapid Spin,25,normal,20,100
+324,16,Lava Plume,25,fire,80,100
+324,5,Protect,27,normal,-,-
+324,6,Protect,27,normal,-,-
+324,7,Protect,27,normal,-,-
+324,12,Protect,27,normal,-,-
+324,13,Protect,27,normal,-,-
+324,16,Body Slam,27,normal,85,100
+324,8,Flamethrower,28,fire,90,100
+324,9,Flamethrower,28,fire,90,100
+324,10,Flamethrower,28,fire,90,100
+324,11,Flamethrower,28,fire,90,100
+324,14,Flamethrower,28,fire,90,100
+324,15,Flamethrower,28,fire,90,100
+324,5,Flamethrower,30,fire,90,100
+324,6,Flamethrower,30,fire,90,100
+324,7,Flamethrower,30,fire,90,100
+324,12,Flamethrower,30,fire,90,100
+324,13,Flamethrower,30,fire,90,100
+324,16,Protect,30,normal,-,-
+324,5,Iron Defense,33,steel,-,-
+324,6,Iron Defense,33,steel,-,-
+324,7,Iron Defense,33,steel,-,-
+324,8,Body Slam,33,normal,85,100
+324,9,Body Slam,33,normal,85,100
+324,10,Body Slam,33,normal,85,100
+324,11,Body Slam,33,normal,85,100
+324,12,Iron Defense,33,steel,-,-
+324,13,Iron Defense,33,steel,-,-
+324,14,Body Slam,33,normal,85,100
+324,15,Body Slam,33,normal,85,100
+324,16,Flamethrower,34,fire,90,100
+324,8,Protect,36,normal,-,-
+324,9,Protect,36,normal,-,-
+324,10,Protect,36,normal,-,-
+324,11,Protect,36,normal,-,-
+324,14,Protect,36,normal,-,-
+324,15,Protect,36,normal,-,-
+324,16,Iron Defense,38,steel,-,-
+324,8,Lava Plume,39,fire,80,100
+324,9,Lava Plume,39,fire,80,100
+324,10,Lava Plume,39,fire,80,100
+324,11,Lava Plume,39,fire,80,100
+324,14,Lava Plume,39,fire,80,100
+324,15,Lava Plume,39,fire,80,100
+324,5,Amnesia,40,psychic,-,-
+324,6,Amnesia,40,psychic,-,-
+324,7,Amnesia,40,psychic,-,-
+324,12,Amnesia,40,psychic,-,-
+324,13,Amnesia,40,psychic,-,-
+324,16,Amnesia,40,psychic,-,-
+324,16,Flail,42,normal,-,100
+324,5,Flail,43,normal,-,100
+324,6,Flail,43,normal,-,100
+324,7,Flail,43,normal,-,100
+324,12,Flail,43,normal,-,100
+324,13,Flail,43,normal,-,100
+324,8,Iron Defense,44,steel,-,-
+324,9,Iron Defense,44,steel,-,-
+324,10,Iron Defense,44,steel,-,-
+324,11,Iron Defense,44,steel,-,-
+324,14,Iron Defense,44,steel,-,-
+324,15,Iron Defense,44,steel,-,-
+324,16,Heat Wave,45,fire,95,90
+324,5,Heat Wave,46,fire,95,90
+324,6,Heat Wave,46,fire,95,90
+324,7,Heat Wave,46,fire,95,90
+324,12,Heat Wave,46,fire,95,90
+324,13,Heat Wave,46,fire,95,90
+324,16,Shell Smash,47,normal,-,-
+324,8,Amnesia,49,psychic,-,-
+324,9,Amnesia,49,psychic,-,-
+324,10,Amnesia,49,psychic,-,-
+324,11,Amnesia,49,psychic,-,-
+324,14,Amnesia,49,psychic,-,-
+324,15,Amnesia,49,psychic,-,-
+324,16,Inferno,50,fire,100,50
+324,8,Flail,52,normal,-,100
+324,9,Flail,52,normal,-,100
+324,10,Flail,52,normal,-,100
+324,11,Flail,52,normal,-,100
+324,14,Flail,52,normal,-,100
+324,15,Flail,52,normal,-,100
+324,8,Heat Wave,55,fire,95,90
+324,9,Heat Wave,55,fire,95,90
+324,10,Heat Wave,55,fire,95,90
+324,11,Heat Wave,55,fire,95,90
+324,14,Heat Wave,55,fire,95,90
+324,15,Heat Wave,55,fire,95,90
+324,11,Inferno,60,fire,100,50
+324,14,Inferno,60,fire,100,50
+324,15,Inferno,60,fire,100,50
+324,11,Shell Smash,65,normal,-,-
+324,14,Shell Smash,65,normal,-,-
+324,15,Shell Smash,65,normal,-,-

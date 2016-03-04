@@ -1,61 +1,61 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-557,dwebble,11,28,Sand Attack,1,11,
-557,dwebble,11,110,Withdraw,1,7,
-557,dwebble,11,157,Rock Slide,1,29,
-557,dwebble,11,163,Slash,1,31,
-557,dwebble,11,175,Flail,1,41,
-557,dwebble,11,185,Feint Attack,1,13,
-557,dwebble,11,210,Fury Cutter,1,1,
-557,dwebble,11,350,Rock Blast,1,5,
-557,dwebble,11,397,Rock Polish,1,19,
-557,dwebble,11,404,X-Scissor,1,35,
-557,dwebble,11,439,Rock Wrecker,1,43,
-557,dwebble,11,446,Stealth Rock,1,24,
-557,dwebble,11,450,Bug Bite,1,23,
-557,dwebble,11,479,Smack Down,1,17,
-557,dwebble,11,504,Shell Smash,1,37,
-557,dwebble,14,28,Sand Attack,1,11,
-557,dwebble,14,110,Withdraw,1,7,
-557,dwebble,14,157,Rock Slide,1,29,
-557,dwebble,14,163,Slash,1,31,
-557,dwebble,14,175,Flail,1,41,
-557,dwebble,14,185,Feint Attack,1,13,
-557,dwebble,14,210,Fury Cutter,1,1,
-557,dwebble,14,350,Rock Blast,1,5,
-557,dwebble,14,397,Rock Polish,1,19,
-557,dwebble,14,404,X-Scissor,1,35,
-557,dwebble,14,439,Rock Wrecker,1,43,
-557,dwebble,14,446,Stealth Rock,1,24,
-557,dwebble,14,450,Bug Bite,1,23,
-557,dwebble,14,479,Smack Down,1,17,
-557,dwebble,14,504,Shell Smash,1,37,
-557,dwebble,15,28,Sand Attack,1,11,
-557,dwebble,15,110,Withdraw,1,7,
-557,dwebble,15,157,Rock Slide,1,29,
-557,dwebble,15,163,Slash,1,31,
-557,dwebble,15,175,Flail,1,41,
-557,dwebble,15,185,Feint Attack,1,13,
-557,dwebble,15,210,Fury Cutter,1,1,
-557,dwebble,15,350,Rock Blast,1,5,
-557,dwebble,15,397,Rock Polish,1,19,
-557,dwebble,15,404,X-Scissor,1,35,
-557,dwebble,15,439,Rock Wrecker,1,43,
-557,dwebble,15,446,Stealth Rock,1,24,
-557,dwebble,15,450,Bug Bite,1,23,
-557,dwebble,15,479,Smack Down,1,17,
-557,dwebble,15,504,Shell Smash,1,37,
-557,dwebble,16,28,Sand Attack,1,11,1
-557,dwebble,16,110,Withdraw,1,7,1
-557,dwebble,16,157,Rock Slide,1,29,1
-557,dwebble,16,163,Slash,1,31,1
-557,dwebble,16,175,Flail,1,41,1
-557,dwebble,16,185,Feint Attack,1,13,1
-557,dwebble,16,210,Fury Cutter,1,1,1
-557,dwebble,16,350,Rock Blast,1,5,1
-557,dwebble,16,397,Rock Polish,1,19,1
-557,dwebble,16,404,X-Scissor,1,35,1
-557,dwebble,16,439,Rock Wrecker,1,43,1
-557,dwebble,16,446,Stealth Rock,1,24,1
-557,dwebble,16,450,Bug Bite,1,23,1
-557,dwebble,16,479,Smack Down,1,17,1
-557,dwebble,16,504,Shell Smash,1,37,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+557,11,Fury Cutter,1,bug,40,95
+557,14,Fury Cutter,1,bug,40,95
+557,15,Fury Cutter,1,bug,40,95
+557,16,Fury Cutter,1,bug,40,95
+557,11,Rock Blast,5,rock,25,90
+557,14,Rock Blast,5,rock,25,90
+557,15,Rock Blast,5,rock,25,90
+557,16,Rock Blast,5,rock,25,90
+557,11,Withdraw,7,water,-,-
+557,14,Withdraw,7,water,-,-
+557,15,Withdraw,7,water,-,-
+557,16,Withdraw,7,water,-,-
+557,11,Sand Attack,11,ground,-,100
+557,14,Sand Attack,11,ground,-,100
+557,15,Sand Attack,11,ground,-,100
+557,16,Sand Attack,11,ground,-,100
+557,11,Feint Attack,13,dark,60,-
+557,14,Feint Attack,13,dark,60,-
+557,15,Feint Attack,13,dark,60,-
+557,16,Feint Attack,13,dark,60,-
+557,11,Smack Down,17,rock,50,100
+557,14,Smack Down,17,rock,50,100
+557,15,Smack Down,17,rock,50,100
+557,16,Smack Down,17,rock,50,100
+557,11,Rock Polish,19,rock,-,-
+557,14,Rock Polish,19,rock,-,-
+557,15,Rock Polish,19,rock,-,-
+557,16,Rock Polish,19,rock,-,-
+557,11,Bug Bite,23,bug,60,100
+557,14,Bug Bite,23,bug,60,100
+557,15,Bug Bite,23,bug,60,100
+557,16,Bug Bite,23,bug,60,100
+557,11,Stealth Rock,24,rock,-,-
+557,14,Stealth Rock,24,rock,-,-
+557,15,Stealth Rock,24,rock,-,-
+557,16,Stealth Rock,24,rock,-,-
+557,11,Rock Slide,29,rock,75,90
+557,14,Rock Slide,29,rock,75,90
+557,15,Rock Slide,29,rock,75,90
+557,16,Rock Slide,29,rock,75,90
+557,11,Slash,31,normal,70,100
+557,14,Slash,31,normal,70,100
+557,15,Slash,31,normal,70,100
+557,16,Slash,31,normal,70,100
+557,11,X-Scissor,35,bug,80,100
+557,14,X-Scissor,35,bug,80,100
+557,15,X-Scissor,35,bug,80,100
+557,16,X-Scissor,35,bug,80,100
+557,11,Shell Smash,37,normal,-,-
+557,14,Shell Smash,37,normal,-,-
+557,15,Shell Smash,37,normal,-,-
+557,16,Shell Smash,37,normal,-,-
+557,11,Flail,41,normal,-,100
+557,14,Flail,41,normal,-,100
+557,15,Flail,41,normal,-,100
+557,16,Flail,41,normal,-,100
+557,11,Rock Wrecker,43,rock,150,90
+557,14,Rock Wrecker,43,rock,150,90
+557,15,Rock Wrecker,43,rock,150,90
+557,16,Rock Wrecker,43,rock,150,90

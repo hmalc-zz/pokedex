@@ -1,77 +1,77 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-420,cherubi,8,33,Tackle,1,1,
-420,cherubi,8,36,Take Down,1,31,
-420,cherubi,8,73,Leech Seed,1,10,
-420,cherubi,8,74,Growth,1,7,
-420,cherubi,8,76,Solar Beam,1,37,
-420,cherubi,8,241,Sunny Day,1,22,
-420,cherubi,8,270,Helping Hand,1,13,
-420,cherubi,8,345,Magical Leaf,1,19,
-420,cherubi,8,381,Lucky Chant,1,40,
-420,cherubi,8,388,Worry Seed,1,28,
-420,cherubi,9,33,Tackle,1,1,
-420,cherubi,9,36,Take Down,1,31,
-420,cherubi,9,73,Leech Seed,1,10,
-420,cherubi,9,74,Growth,1,7,
-420,cherubi,9,76,Solar Beam,1,37,
-420,cherubi,9,241,Sunny Day,1,22,
-420,cherubi,9,270,Helping Hand,1,13,
-420,cherubi,9,345,Magical Leaf,1,19,
-420,cherubi,9,381,Lucky Chant,1,40,
-420,cherubi,9,388,Worry Seed,1,28,
-420,cherubi,10,33,Tackle,1,1,
-420,cherubi,10,36,Take Down,1,31,
-420,cherubi,10,73,Leech Seed,1,10,
-420,cherubi,10,74,Growth,1,7,
-420,cherubi,10,76,Solar Beam,1,37,
-420,cherubi,10,241,Sunny Day,1,22,
-420,cherubi,10,270,Helping Hand,1,13,
-420,cherubi,10,345,Magical Leaf,1,19,
-420,cherubi,10,381,Lucky Chant,1,40,
-420,cherubi,10,388,Worry Seed,1,28,
-420,cherubi,11,33,Tackle,1,1,2
-420,cherubi,11,36,Take Down,1,31,
-420,cherubi,11,73,Leech Seed,1,10,
-420,cherubi,11,74,Growth,1,7,
-420,cherubi,11,76,Solar Beam,1,37,
-420,cherubi,11,234,Morning Sun,1,1,1
-420,cherubi,11,241,Sunny Day,1,22,
-420,cherubi,11,270,Helping Hand,1,13,
-420,cherubi,11,345,Magical Leaf,1,19,
-420,cherubi,11,381,Lucky Chant,1,40,
-420,cherubi,11,388,Worry Seed,1,28,
-420,cherubi,14,33,Tackle,1,1,2
-420,cherubi,14,36,Take Down,1,31,
-420,cherubi,14,73,Leech Seed,1,10,
-420,cherubi,14,74,Growth,1,7,
-420,cherubi,14,76,Solar Beam,1,37,
-420,cherubi,14,234,Morning Sun,1,1,1
-420,cherubi,14,241,Sunny Day,1,22,
-420,cherubi,14,270,Helping Hand,1,13,
-420,cherubi,14,345,Magical Leaf,1,19,
-420,cherubi,14,381,Lucky Chant,1,40,
-420,cherubi,14,388,Worry Seed,1,28,
-420,cherubi,15,33,Tackle,1,1,2
-420,cherubi,15,36,Take Down,1,31,
-420,cherubi,15,73,Leech Seed,1,10,
-420,cherubi,15,74,Growth,1,7,
-420,cherubi,15,76,Solar Beam,1,37,
-420,cherubi,15,234,Morning Sun,1,1,1
-420,cherubi,15,241,Sunny Day,1,22,
-420,cherubi,15,270,Helping Hand,1,13,
-420,cherubi,15,345,Magical Leaf,1,19,
-420,cherubi,15,381,Lucky Chant,1,40,
-420,cherubi,15,388,Worry Seed,1,28,
-420,cherubi,15,572,Petal Blizzard,1,47,
-420,cherubi,16,33,Tackle,1,1,2
-420,cherubi,16,36,Take Down,1,31,1
-420,cherubi,16,73,Leech Seed,1,10,1
-420,cherubi,16,74,Growth,1,7,1
-420,cherubi,16,76,Solar Beam,1,37,1
-420,cherubi,16,234,Morning Sun,1,1,1
-420,cherubi,16,241,Sunny Day,1,22,1
-420,cherubi,16,270,Helping Hand,1,13,1
-420,cherubi,16,345,Magical Leaf,1,19,1
-420,cherubi,16,381,Lucky Chant,1,40,1
-420,cherubi,16,388,Worry Seed,1,28,1
-420,cherubi,16,572,Petal Blizzard,1,47,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+420,8,Tackle,1,normal,50,100
+420,9,Tackle,1,normal,50,100
+420,10,Tackle,1,normal,50,100
+420,11,Tackle,1,normal,50,100
+420,11,Morning Sun,1,normal,-,-
+420,14,Tackle,1,normal,50,100
+420,14,Morning Sun,1,normal,-,-
+420,15,Tackle,1,normal,50,100
+420,15,Morning Sun,1,normal,-,-
+420,16,Tackle,1,normal,50,100
+420,16,Morning Sun,1,normal,-,-
+420,8,Growth,7,normal,-,-
+420,9,Growth,7,normal,-,-
+420,10,Growth,7,normal,-,-
+420,11,Growth,7,normal,-,-
+420,14,Growth,7,normal,-,-
+420,15,Growth,7,normal,-,-
+420,16,Growth,7,normal,-,-
+420,8,Leech Seed,10,grass,-,90
+420,9,Leech Seed,10,grass,-,90
+420,10,Leech Seed,10,grass,-,90
+420,11,Leech Seed,10,grass,-,90
+420,14,Leech Seed,10,grass,-,90
+420,15,Leech Seed,10,grass,-,90
+420,16,Leech Seed,10,grass,-,90
+420,8,Helping Hand,13,normal,-,-
+420,9,Helping Hand,13,normal,-,-
+420,10,Helping Hand,13,normal,-,-
+420,11,Helping Hand,13,normal,-,-
+420,14,Helping Hand,13,normal,-,-
+420,15,Helping Hand,13,normal,-,-
+420,16,Helping Hand,13,normal,-,-
+420,8,Magical Leaf,19,grass,60,-
+420,9,Magical Leaf,19,grass,60,-
+420,10,Magical Leaf,19,grass,60,-
+420,11,Magical Leaf,19,grass,60,-
+420,14,Magical Leaf,19,grass,60,-
+420,15,Magical Leaf,19,grass,60,-
+420,16,Magical Leaf,19,grass,60,-
+420,8,Sunny Day,22,fire,-,-
+420,9,Sunny Day,22,fire,-,-
+420,10,Sunny Day,22,fire,-,-
+420,11,Sunny Day,22,fire,-,-
+420,14,Sunny Day,22,fire,-,-
+420,15,Sunny Day,22,fire,-,-
+420,16,Sunny Day,22,fire,-,-
+420,8,Worry Seed,28,grass,-,100
+420,9,Worry Seed,28,grass,-,100
+420,10,Worry Seed,28,grass,-,100
+420,11,Worry Seed,28,grass,-,100
+420,14,Worry Seed,28,grass,-,100
+420,15,Worry Seed,28,grass,-,100
+420,16,Worry Seed,28,grass,-,100
+420,8,Take Down,31,normal,90,85
+420,9,Take Down,31,normal,90,85
+420,10,Take Down,31,normal,90,85
+420,11,Take Down,31,normal,90,85
+420,14,Take Down,31,normal,90,85
+420,15,Take Down,31,normal,90,85
+420,16,Take Down,31,normal,90,85
+420,8,Solar Beam,37,grass,120,100
+420,9,Solar Beam,37,grass,120,100
+420,10,Solar Beam,37,grass,120,100
+420,11,Solar Beam,37,grass,120,100
+420,14,Solar Beam,37,grass,120,100
+420,15,Solar Beam,37,grass,120,100
+420,16,Solar Beam,37,grass,120,100
+420,8,Lucky Chant,40,normal,-,-
+420,9,Lucky Chant,40,normal,-,-
+420,10,Lucky Chant,40,normal,-,-
+420,11,Lucky Chant,40,normal,-,-
+420,14,Lucky Chant,40,normal,-,-
+420,15,Lucky Chant,40,normal,-,-
+420,16,Lucky Chant,40,normal,-,-
+420,15,Petal Blizzard,47,grass,90,100
+420,16,Petal Blizzard,47,grass,90,100

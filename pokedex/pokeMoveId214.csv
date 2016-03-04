@@ -1,176 +1,176 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-214,heracross,3,30,Horn Attack,1,6,
-214,heracross,3,31,Fury Attack,1,19,
-214,heracross,3,33,Tackle,1,1,1
-214,heracross,3,36,Take Down,1,35,
-214,heracross,3,43,Leer,1,1,2
-214,heracross,3,68,Counter,1,27,
-214,heracross,3,179,Reversal,1,44,
-214,heracross,3,203,Endure,1,12,
-214,heracross,3,224,Megahorn,1,54,
-214,heracross,4,30,Horn Attack,1,6,
-214,heracross,4,31,Fury Attack,1,19,
-214,heracross,4,33,Tackle,1,1,1
-214,heracross,4,36,Take Down,1,35,
-214,heracross,4,43,Leer,1,1,2
-214,heracross,4,68,Counter,1,27,
-214,heracross,4,179,Reversal,1,44,
-214,heracross,4,203,Endure,1,12,
-214,heracross,4,224,Megahorn,1,54,
-214,heracross,5,30,Horn Attack,1,6,
-214,heracross,5,31,Fury Attack,1,17,
-214,heracross,5,33,Tackle,1,1,1
-214,heracross,5,36,Take Down,1,37,
-214,heracross,5,43,Leer,1,1,2
-214,heracross,5,68,Counter,1,30,
-214,heracross,5,179,Reversal,1,45,
-214,heracross,5,203,Endure,1,11,
-214,heracross,5,224,Megahorn,1,53,
-214,heracross,5,280,Brick Break,1,23,
-214,heracross,6,30,Horn Attack,1,6,
-214,heracross,6,31,Fury Attack,1,17,
-214,heracross,6,33,Tackle,1,1,1
-214,heracross,6,36,Take Down,1,37,
-214,heracross,6,43,Leer,1,1,2
-214,heracross,6,68,Counter,1,30,
-214,heracross,6,179,Reversal,1,45,
-214,heracross,6,203,Endure,1,11,
-214,heracross,6,224,Megahorn,1,53,
-214,heracross,6,280,Brick Break,1,23,
-214,heracross,7,30,Horn Attack,1,6,
-214,heracross,7,31,Fury Attack,1,17,
-214,heracross,7,33,Tackle,1,1,1
-214,heracross,7,36,Take Down,1,37,
-214,heracross,7,43,Leer,1,1,2
-214,heracross,7,68,Counter,1,30,
-214,heracross,7,179,Reversal,1,45,
-214,heracross,7,203,Endure,1,11,
-214,heracross,7,224,Megahorn,1,53,
-214,heracross,7,280,Brick Break,1,23,
-214,heracross,8,30,Horn Attack,1,1,4
-214,heracross,8,31,Fury Attack,1,7,
-214,heracross,8,33,Tackle,1,1,2
-214,heracross,8,36,Take Down,1,31,
-214,heracross,8,43,Leer,1,1,3
-214,heracross,8,68,Counter,1,25,
-214,heracross,8,179,Reversal,1,43,
-214,heracross,8,203,Endure,1,1,5
-214,heracross,8,224,Megahorn,1,55,
-214,heracross,8,280,Brick Break,1,19,
-214,heracross,8,332,Aerial Ace,1,13,
-214,heracross,8,364,Feint,1,49,
-214,heracross,8,370,Close Combat,1,37,
-214,heracross,8,400,Night Slash,1,1,1
-214,heracross,9,30,Horn Attack,1,1,4
-214,heracross,9,31,Fury Attack,1,7,
-214,heracross,9,33,Tackle,1,1,2
-214,heracross,9,36,Take Down,1,31,
-214,heracross,9,43,Leer,1,1,3
-214,heracross,9,68,Counter,1,25,
-214,heracross,9,179,Reversal,1,43,
-214,heracross,9,203,Endure,1,1,5
-214,heracross,9,224,Megahorn,1,55,
-214,heracross,9,280,Brick Break,1,19,
-214,heracross,9,332,Aerial Ace,1,13,
-214,heracross,9,364,Feint,1,49,
-214,heracross,9,370,Close Combat,1,37,
-214,heracross,9,400,Night Slash,1,1,1
-214,heracross,10,30,Horn Attack,1,1,4
-214,heracross,10,31,Fury Attack,1,7,
-214,heracross,10,33,Tackle,1,1,2
-214,heracross,10,36,Take Down,1,31,
-214,heracross,10,43,Leer,1,1,3
-214,heracross,10,68,Counter,1,25,
-214,heracross,10,179,Reversal,1,43,
-214,heracross,10,203,Endure,1,1,5
-214,heracross,10,224,Megahorn,1,55,
-214,heracross,10,280,Brick Break,1,19,
-214,heracross,10,332,Aerial Ace,1,13,
-214,heracross,10,364,Feint,1,49,
-214,heracross,10,370,Close Combat,1,37,
-214,heracross,10,400,Night Slash,1,1,1
-214,heracross,11,30,Horn Attack,1,1,4
-214,heracross,11,31,Fury Attack,1,7,
-214,heracross,11,33,Tackle,1,1,2
-214,heracross,11,36,Take Down,1,31,
-214,heracross,11,43,Leer,1,1,3
-214,heracross,11,68,Counter,1,25,
-214,heracross,11,179,Reversal,1,43,
-214,heracross,11,203,Endure,1,1,5
-214,heracross,11,224,Megahorn,1,55,
-214,heracross,11,280,Brick Break,1,19,
-214,heracross,11,332,Aerial Ace,1,13,
-214,heracross,11,364,Feint,1,49,
-214,heracross,11,370,Close Combat,1,37,
-214,heracross,11,400,Night Slash,1,1,1
-214,heracross,12,30,Horn Attack,1,6,
-214,heracross,12,31,Fury Attack,1,17,
-214,heracross,12,33,Tackle,1,1,1
-214,heracross,12,36,Take Down,1,37,
-214,heracross,12,43,Leer,1,1,2
-214,heracross,12,68,Counter,1,30,
-214,heracross,12,179,Reversal,1,45,
-214,heracross,12,203,Endure,1,11,
-214,heracross,12,224,Megahorn,1,53,
-214,heracross,12,280,Brick Break,1,23,
-214,heracross,13,30,Horn Attack,1,6,
-214,heracross,13,31,Fury Attack,1,17,
-214,heracross,13,33,Tackle,1,1,1
-214,heracross,13,36,Take Down,1,37,
-214,heracross,13,43,Leer,1,1,2
-214,heracross,13,68,Counter,1,30,
-214,heracross,13,179,Reversal,1,45,
-214,heracross,13,203,Endure,1,11,
-214,heracross,13,224,Megahorn,1,53,
-214,heracross,13,280,Brick Break,1,23,
-214,heracross,14,30,Horn Attack,1,1,4
-214,heracross,14,31,Fury Attack,1,7,
-214,heracross,14,33,Tackle,1,1,2
-214,heracross,14,36,Take Down,1,28,
-214,heracross,14,43,Leer,1,1,3
-214,heracross,14,68,Counter,1,19,
-214,heracross,14,179,Reversal,1,43,
-214,heracross,14,203,Endure,1,1,5
-214,heracross,14,224,Megahorn,1,46,
-214,heracross,14,280,Brick Break,1,25,
-214,heracross,14,332,Aerial Ace,1,10,
-214,heracross,14,364,Feint,1,37,
-214,heracross,14,370,Close Combat,1,34,
-214,heracross,14,400,Night Slash,1,1,1
-214,heracross,14,498,Chip Away,1,16,
-214,heracross,15,30,Horn Attack,1,1,6
-214,heracross,15,31,Fury Attack,1,7,
-214,heracross,15,33,Tackle,1,1,4
-214,heracross,15,36,Take Down,1,28,
-214,heracross,15,42,Pin Missile,1,31,
-214,heracross,15,43,Leer,1,1,5
-214,heracross,15,68,Counter,1,19,
-214,heracross,15,179,Reversal,1,43,
-214,heracross,15,203,Endure,1,1,7
-214,heracross,15,224,Megahorn,1,46,
-214,heracross,15,280,Brick Break,1,25,
-214,heracross,15,292,Arm Thrust,1,1,1
-214,heracross,15,331,Bullet Seed,1,1,2
-214,heracross,15,332,Aerial Ace,1,10,
-214,heracross,15,364,Feint,1,37,
-214,heracross,15,370,Close Combat,1,34,
-214,heracross,15,400,Night Slash,1,1,3
-214,heracross,15,498,Chip Away,1,16,
-214,heracross,16,30,Horn Attack,1,1,6
-214,heracross,16,31,Fury Attack,1,25,1
-214,heracross,16,33,Tackle,1,1,4
-214,heracross,16,36,Take Down,1,34,1
-214,heracross,16,42,Pin Missile,1,31,1
-214,heracross,16,43,Leer,1,1,5
-214,heracross,16,68,Counter,1,19,1
-214,heracross,16,179,Reversal,1,46,1
-214,heracross,16,203,Endure,1,1,7
-214,heracross,16,224,Megahorn,1,37,1
-214,heracross,16,280,Brick Break,1,28,1
-214,heracross,16,292,Arm Thrust,1,1,1
-214,heracross,16,331,Bullet Seed,1,1,2
-214,heracross,16,332,Aerial Ace,1,10,1
-214,heracross,16,364,Feint,1,7,1
-214,heracross,16,370,Close Combat,1,43,1
-214,heracross,16,400,Night Slash,1,1,3
-214,heracross,16,498,Chip Away,1,16,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+214,3,Tackle,1,normal,50,100
+214,3,Leer,1,normal,-,100
+214,4,Tackle,1,normal,50,100
+214,4,Leer,1,normal,-,100
+214,5,Tackle,1,normal,50,100
+214,5,Leer,1,normal,-,100
+214,6,Tackle,1,normal,50,100
+214,6,Leer,1,normal,-,100
+214,7,Tackle,1,normal,50,100
+214,7,Leer,1,normal,-,100
+214,8,Horn Attack,1,normal,65,100
+214,8,Tackle,1,normal,50,100
+214,8,Leer,1,normal,-,100
+214,8,Endure,1,normal,-,-
+214,8,Night Slash,1,dark,70,100
+214,9,Horn Attack,1,normal,65,100
+214,9,Tackle,1,normal,50,100
+214,9,Leer,1,normal,-,100
+214,9,Endure,1,normal,-,-
+214,9,Night Slash,1,dark,70,100
+214,10,Horn Attack,1,normal,65,100
+214,10,Tackle,1,normal,50,100
+214,10,Leer,1,normal,-,100
+214,10,Endure,1,normal,-,-
+214,10,Night Slash,1,dark,70,100
+214,11,Horn Attack,1,normal,65,100
+214,11,Tackle,1,normal,50,100
+214,11,Leer,1,normal,-,100
+214,11,Endure,1,normal,-,-
+214,11,Night Slash,1,dark,70,100
+214,12,Tackle,1,normal,50,100
+214,12,Leer,1,normal,-,100
+214,13,Tackle,1,normal,50,100
+214,13,Leer,1,normal,-,100
+214,14,Horn Attack,1,normal,65,100
+214,14,Tackle,1,normal,50,100
+214,14,Leer,1,normal,-,100
+214,14,Endure,1,normal,-,-
+214,14,Night Slash,1,dark,70,100
+214,15,Horn Attack,1,normal,65,100
+214,15,Tackle,1,normal,50,100
+214,15,Leer,1,normal,-,100
+214,15,Endure,1,normal,-,-
+214,15,Arm Thrust,1,fighting,15,100
+214,15,Bullet Seed,1,grass,25,100
+214,15,Night Slash,1,dark,70,100
+214,16,Horn Attack,1,normal,65,100
+214,16,Tackle,1,normal,50,100
+214,16,Leer,1,normal,-,100
+214,16,Endure,1,normal,-,-
+214,16,Arm Thrust,1,fighting,15,100
+214,16,Bullet Seed,1,grass,25,100
+214,16,Night Slash,1,dark,70,100
+214,3,Horn Attack,6,normal,65,100
+214,4,Horn Attack,6,normal,65,100
+214,5,Horn Attack,6,normal,65,100
+214,6,Horn Attack,6,normal,65,100
+214,7,Horn Attack,6,normal,65,100
+214,12,Horn Attack,6,normal,65,100
+214,13,Horn Attack,6,normal,65,100
+214,8,Fury Attack,7,normal,15,85
+214,9,Fury Attack,7,normal,15,85
+214,10,Fury Attack,7,normal,15,85
+214,11,Fury Attack,7,normal,15,85
+214,14,Fury Attack,7,normal,15,85
+214,15,Fury Attack,7,normal,15,85
+214,16,Feint,7,normal,30,100
+214,14,Aerial Ace,10,flying,60,-
+214,15,Aerial Ace,10,flying,60,-
+214,16,Aerial Ace,10,flying,60,-
+214,5,Endure,11,normal,-,-
+214,6,Endure,11,normal,-,-
+214,7,Endure,11,normal,-,-
+214,12,Endure,11,normal,-,-
+214,13,Endure,11,normal,-,-
+214,3,Endure,12,normal,-,-
+214,4,Endure,12,normal,-,-
+214,8,Aerial Ace,13,flying,60,-
+214,9,Aerial Ace,13,flying,60,-
+214,10,Aerial Ace,13,flying,60,-
+214,11,Aerial Ace,13,flying,60,-
+214,14,Chip Away,16,normal,70,100
+214,15,Chip Away,16,normal,70,100
+214,16,Chip Away,16,normal,70,100
+214,5,Fury Attack,17,normal,15,85
+214,6,Fury Attack,17,normal,15,85
+214,7,Fury Attack,17,normal,15,85
+214,12,Fury Attack,17,normal,15,85
+214,13,Fury Attack,17,normal,15,85
+214,3,Fury Attack,19,normal,15,85
+214,4,Fury Attack,19,normal,15,85
+214,8,Brick Break,19,fighting,75,100
+214,9,Brick Break,19,fighting,75,100
+214,10,Brick Break,19,fighting,75,100
+214,11,Brick Break,19,fighting,75,100
+214,14,Counter,19,fighting,-,100
+214,15,Counter,19,fighting,-,100
+214,16,Counter,19,fighting,-,100
+214,5,Brick Break,23,fighting,75,100
+214,6,Brick Break,23,fighting,75,100
+214,7,Brick Break,23,fighting,75,100
+214,12,Brick Break,23,fighting,75,100
+214,13,Brick Break,23,fighting,75,100
+214,8,Counter,25,fighting,-,100
+214,9,Counter,25,fighting,-,100
+214,10,Counter,25,fighting,-,100
+214,11,Counter,25,fighting,-,100
+214,14,Brick Break,25,fighting,75,100
+214,15,Brick Break,25,fighting,75,100
+214,16,Fury Attack,25,normal,15,85
+214,3,Counter,27,fighting,-,100
+214,4,Counter,27,fighting,-,100
+214,14,Take Down,28,normal,90,85
+214,15,Take Down,28,normal,90,85
+214,16,Brick Break,28,fighting,75,100
+214,5,Counter,30,fighting,-,100
+214,6,Counter,30,fighting,-,100
+214,7,Counter,30,fighting,-,100
+214,12,Counter,30,fighting,-,100
+214,13,Counter,30,fighting,-,100
+214,8,Take Down,31,normal,90,85
+214,9,Take Down,31,normal,90,85
+214,10,Take Down,31,normal,90,85
+214,11,Take Down,31,normal,90,85
+214,15,Pin Missile,31,bug,25,95
+214,16,Pin Missile,31,bug,25,95
+214,14,Close Combat,34,fighting,120,100
+214,15,Close Combat,34,fighting,120,100
+214,16,Take Down,34,normal,90,85
+214,3,Take Down,35,normal,90,85
+214,4,Take Down,35,normal,90,85
+214,5,Take Down,37,normal,90,85
+214,6,Take Down,37,normal,90,85
+214,7,Take Down,37,normal,90,85
+214,8,Close Combat,37,fighting,120,100
+214,9,Close Combat,37,fighting,120,100
+214,10,Close Combat,37,fighting,120,100
+214,11,Close Combat,37,fighting,120,100
+214,12,Take Down,37,normal,90,85
+214,13,Take Down,37,normal,90,85
+214,14,Feint,37,normal,30,100
+214,15,Feint,37,normal,30,100
+214,16,Megahorn,37,bug,120,85
+214,8,Reversal,43,fighting,-,100
+214,9,Reversal,43,fighting,-,100
+214,10,Reversal,43,fighting,-,100
+214,11,Reversal,43,fighting,-,100
+214,14,Reversal,43,fighting,-,100
+214,15,Reversal,43,fighting,-,100
+214,16,Close Combat,43,fighting,120,100
+214,3,Reversal,44,fighting,-,100
+214,4,Reversal,44,fighting,-,100
+214,5,Reversal,45,fighting,-,100
+214,6,Reversal,45,fighting,-,100
+214,7,Reversal,45,fighting,-,100
+214,12,Reversal,45,fighting,-,100
+214,13,Reversal,45,fighting,-,100
+214,14,Megahorn,46,bug,120,85
+214,15,Megahorn,46,bug,120,85
+214,16,Reversal,46,fighting,-,100
+214,8,Feint,49,normal,30,100
+214,9,Feint,49,normal,30,100
+214,10,Feint,49,normal,30,100
+214,11,Feint,49,normal,30,100
+214,5,Megahorn,53,bug,120,85
+214,6,Megahorn,53,bug,120,85
+214,7,Megahorn,53,bug,120,85
+214,12,Megahorn,53,bug,120,85
+214,13,Megahorn,53,bug,120,85
+214,3,Megahorn,54,bug,120,85
+214,4,Megahorn,54,bug,120,85
+214,8,Megahorn,55,bug,120,85
+214,9,Megahorn,55,bug,120,85
+214,10,Megahorn,55,bug,120,85
+214,11,Megahorn,55,bug,120,85

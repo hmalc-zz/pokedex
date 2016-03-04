@@ -1,191 +1,191 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-7,squirtle,1,33,Tackle,1,1,1
-7,squirtle,1,39,Tail Whip,1,1,2
-7,squirtle,1,44,Bite,1,22,
-7,squirtle,1,55,Water Gun,1,15,
-7,squirtle,1,56,Hydro Pump,1,42,
-7,squirtle,1,110,Withdraw,1,28,
-7,squirtle,1,130,Skull Bash,1,35,
-7,squirtle,1,145,Bubble,1,8,
-7,squirtle,2,33,Tackle,1,1,1
-7,squirtle,2,39,Tail Whip,1,1,2
-7,squirtle,2,44,Bite,1,22,
-7,squirtle,2,55,Water Gun,1,15,
-7,squirtle,2,56,Hydro Pump,1,42,
-7,squirtle,2,110,Withdraw,1,28,
-7,squirtle,2,130,Skull Bash,1,35,
-7,squirtle,2,145,Bubble,1,8,
-7,squirtle,3,33,Tackle,1,1,
-7,squirtle,3,39,Tail Whip,1,4,
-7,squirtle,3,44,Bite,1,18,
-7,squirtle,3,55,Water Gun,1,13,
-7,squirtle,3,56,Hydro Pump,1,47,
-7,squirtle,3,110,Withdraw,1,10,
-7,squirtle,3,130,Skull Bash,1,40,
-7,squirtle,3,145,Bubble,1,7,
-7,squirtle,3,182,Protect,1,28,
-7,squirtle,3,229,Rapid Spin,1,23,
-7,squirtle,3,240,Rain Dance,1,33,
-7,squirtle,4,33,Tackle,1,1,
-7,squirtle,4,39,Tail Whip,1,4,
-7,squirtle,4,44,Bite,1,18,
-7,squirtle,4,55,Water Gun,1,13,
-7,squirtle,4,56,Hydro Pump,1,47,
-7,squirtle,4,110,Withdraw,1,10,
-7,squirtle,4,130,Skull Bash,1,40,
-7,squirtle,4,145,Bubble,1,7,
-7,squirtle,4,182,Protect,1,28,
-7,squirtle,4,229,Rapid Spin,1,23,
-7,squirtle,4,240,Rain Dance,1,33,
-7,squirtle,5,33,Tackle,1,1,
-7,squirtle,5,39,Tail Whip,1,4,
-7,squirtle,5,44,Bite,1,18,
-7,squirtle,5,55,Water Gun,1,13,
-7,squirtle,5,56,Hydro Pump,1,47,
-7,squirtle,5,110,Withdraw,1,10,
-7,squirtle,5,130,Skull Bash,1,40,
-7,squirtle,5,145,Bubble,1,7,
-7,squirtle,5,182,Protect,1,28,
-7,squirtle,5,229,Rapid Spin,1,23,
-7,squirtle,5,240,Rain Dance,1,33,
-7,squirtle,6,33,Tackle,1,1,
-7,squirtle,6,39,Tail Whip,1,4,
-7,squirtle,6,44,Bite,1,18,
-7,squirtle,6,55,Water Gun,1,13,
-7,squirtle,6,56,Hydro Pump,1,47,
-7,squirtle,6,110,Withdraw,1,10,
-7,squirtle,6,130,Skull Bash,1,40,
-7,squirtle,6,145,Bubble,1,7,
-7,squirtle,6,182,Protect,1,28,
-7,squirtle,6,229,Rapid Spin,1,23,
-7,squirtle,6,240,Rain Dance,1,33,
-7,squirtle,7,33,Tackle,1,1,
-7,squirtle,7,39,Tail Whip,1,4,
-7,squirtle,7,44,Bite,1,18,
-7,squirtle,7,55,Water Gun,1,13,
-7,squirtle,7,56,Hydro Pump,1,47,
-7,squirtle,7,110,Withdraw,1,10,
-7,squirtle,7,130,Skull Bash,1,40,
-7,squirtle,7,145,Bubble,1,7,
-7,squirtle,7,182,Protect,1,28,
-7,squirtle,7,229,Rapid Spin,1,23,
-7,squirtle,7,240,Rain Dance,1,33,
-7,squirtle,8,33,Tackle,1,1,
-7,squirtle,8,39,Tail Whip,1,4,
-7,squirtle,8,44,Bite,1,16,
-7,squirtle,8,55,Water Gun,1,13,
-7,squirtle,8,56,Hydro Pump,1,37,
-7,squirtle,8,110,Withdraw,1,10,
-7,squirtle,8,130,Skull Bash,1,31,
-7,squirtle,8,145,Bubble,1,7,
-7,squirtle,8,182,Protect,1,22,
-7,squirtle,8,229,Rapid Spin,1,19,
-7,squirtle,8,240,Rain Dance,1,34,
-7,squirtle,8,352,Water Pulse,1,25,
-7,squirtle,8,401,Aqua Tail,1,28,
-7,squirtle,9,33,Tackle,1,1,
-7,squirtle,9,39,Tail Whip,1,4,
-7,squirtle,9,44,Bite,1,16,
-7,squirtle,9,55,Water Gun,1,13,
-7,squirtle,9,56,Hydro Pump,1,40,
-7,squirtle,9,110,Withdraw,1,10,
-7,squirtle,9,130,Skull Bash,1,31,
-7,squirtle,9,145,Bubble,1,7,
-7,squirtle,9,182,Protect,1,22,
-7,squirtle,9,229,Rapid Spin,1,19,
-7,squirtle,9,240,Rain Dance,1,37,
-7,squirtle,9,334,Iron Defense,1,34,
-7,squirtle,9,352,Water Pulse,1,25,
-7,squirtle,9,401,Aqua Tail,1,28,
-7,squirtle,10,33,Tackle,1,1,
-7,squirtle,10,39,Tail Whip,1,4,
-7,squirtle,10,44,Bite,1,16,
-7,squirtle,10,55,Water Gun,1,13,
-7,squirtle,10,56,Hydro Pump,1,40,
-7,squirtle,10,110,Withdraw,1,10,
-7,squirtle,10,130,Skull Bash,1,31,
-7,squirtle,10,145,Bubble,1,7,
-7,squirtle,10,182,Protect,1,22,
-7,squirtle,10,229,Rapid Spin,1,19,
-7,squirtle,10,240,Rain Dance,1,37,
-7,squirtle,10,334,Iron Defense,1,34,
-7,squirtle,10,352,Water Pulse,1,25,
-7,squirtle,10,401,Aqua Tail,1,28,
-7,squirtle,11,33,Tackle,1,1,
-7,squirtle,11,39,Tail Whip,1,4,
-7,squirtle,11,44,Bite,1,16,
-7,squirtle,11,55,Water Gun,1,13,
-7,squirtle,11,56,Hydro Pump,1,40,
-7,squirtle,11,110,Withdraw,1,10,
-7,squirtle,11,130,Skull Bash,1,31,
-7,squirtle,11,145,Bubble,1,7,
-7,squirtle,11,182,Protect,1,22,
-7,squirtle,11,229,Rapid Spin,1,19,
-7,squirtle,11,240,Rain Dance,1,37,
-7,squirtle,11,334,Iron Defense,1,34,
-7,squirtle,11,352,Water Pulse,1,25,
-7,squirtle,11,401,Aqua Tail,1,28,
-7,squirtle,12,33,Tackle,1,1,
-7,squirtle,12,39,Tail Whip,1,4,
-7,squirtle,12,44,Bite,1,18,
-7,squirtle,12,55,Water Gun,1,13,
-7,squirtle,12,56,Hydro Pump,1,47,
-7,squirtle,12,110,Withdraw,1,10,
-7,squirtle,12,130,Skull Bash,1,40,
-7,squirtle,12,145,Bubble,1,7,
-7,squirtle,12,182,Protect,1,28,
-7,squirtle,12,229,Rapid Spin,1,23,
-7,squirtle,12,240,Rain Dance,1,33,
-7,squirtle,13,33,Tackle,1,1,
-7,squirtle,13,39,Tail Whip,1,4,
-7,squirtle,13,44,Bite,1,18,
-7,squirtle,13,55,Water Gun,1,13,
-7,squirtle,13,56,Hydro Pump,1,47,
-7,squirtle,13,110,Withdraw,1,10,
-7,squirtle,13,130,Skull Bash,1,40,
-7,squirtle,13,145,Bubble,1,7,
-7,squirtle,13,182,Protect,1,28,
-7,squirtle,13,229,Rapid Spin,1,23,
-7,squirtle,13,240,Rain Dance,1,33,
-7,squirtle,14,33,Tackle,1,1,
-7,squirtle,14,39,Tail Whip,1,4,
-7,squirtle,14,44,Bite,1,16,
-7,squirtle,14,55,Water Gun,1,13,
-7,squirtle,14,56,Hydro Pump,1,40,
-7,squirtle,14,110,Withdraw,1,10,
-7,squirtle,14,130,Skull Bash,1,31,
-7,squirtle,14,145,Bubble,1,7,
-7,squirtle,14,182,Protect,1,22,
-7,squirtle,14,229,Rapid Spin,1,19,
-7,squirtle,14,240,Rain Dance,1,37,
-7,squirtle,14,334,Iron Defense,1,34,
-7,squirtle,14,352,Water Pulse,1,25,
-7,squirtle,14,401,Aqua Tail,1,28,
-7,squirtle,15,33,Tackle,1,1,
-7,squirtle,15,39,Tail Whip,1,4,
-7,squirtle,15,44,Bite,1,16,
-7,squirtle,15,55,Water Gun,1,7,
-7,squirtle,15,56,Hydro Pump,1,40,
-7,squirtle,15,110,Withdraw,1,10,
-7,squirtle,15,130,Skull Bash,1,31,
-7,squirtle,15,145,Bubble,1,13,
-7,squirtle,15,182,Protect,1,22,
-7,squirtle,15,229,Rapid Spin,1,19,
-7,squirtle,15,240,Rain Dance,1,37,
-7,squirtle,15,334,Iron Defense,1,34,
-7,squirtle,15,352,Water Pulse,1,25,
-7,squirtle,15,401,Aqua Tail,1,28,
-7,squirtle,16,33,Tackle,1,1,1
-7,squirtle,16,39,Tail Whip,1,4,1
-7,squirtle,16,44,Bite,1,16,1
-7,squirtle,16,55,Water Gun,1,7,1
-7,squirtle,16,56,Hydro Pump,1,40,1
-7,squirtle,16,110,Withdraw,1,10,1
-7,squirtle,16,130,Skull Bash,1,31,1
-7,squirtle,16,145,Bubble,1,13,1
-7,squirtle,16,182,Protect,1,22,1
-7,squirtle,16,229,Rapid Spin,1,19,1
-7,squirtle,16,240,Rain Dance,1,37,1
-7,squirtle,16,334,Iron Defense,1,34,1
-7,squirtle,16,352,Water Pulse,1,25,1
-7,squirtle,16,401,Aqua Tail,1,28,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+7,1,Tackle,1,normal,50,100
+7,1,Tail Whip,1,normal,-,100
+7,2,Tackle,1,normal,50,100
+7,2,Tail Whip,1,normal,-,100
+7,3,Tackle,1,normal,50,100
+7,4,Tackle,1,normal,50,100
+7,5,Tackle,1,normal,50,100
+7,6,Tackle,1,normal,50,100
+7,7,Tackle,1,normal,50,100
+7,8,Tackle,1,normal,50,100
+7,9,Tackle,1,normal,50,100
+7,10,Tackle,1,normal,50,100
+7,11,Tackle,1,normal,50,100
+7,12,Tackle,1,normal,50,100
+7,13,Tackle,1,normal,50,100
+7,14,Tackle,1,normal,50,100
+7,15,Tackle,1,normal,50,100
+7,16,Tackle,1,normal,50,100
+7,3,Tail Whip,4,normal,-,100
+7,4,Tail Whip,4,normal,-,100
+7,5,Tail Whip,4,normal,-,100
+7,6,Tail Whip,4,normal,-,100
+7,7,Tail Whip,4,normal,-,100
+7,8,Tail Whip,4,normal,-,100
+7,9,Tail Whip,4,normal,-,100
+7,10,Tail Whip,4,normal,-,100
+7,11,Tail Whip,4,normal,-,100
+7,12,Tail Whip,4,normal,-,100
+7,13,Tail Whip,4,normal,-,100
+7,14,Tail Whip,4,normal,-,100
+7,15,Tail Whip,4,normal,-,100
+7,16,Tail Whip,4,normal,-,100
+7,3,Bubble,7,water,40,100
+7,4,Bubble,7,water,40,100
+7,5,Bubble,7,water,40,100
+7,6,Bubble,7,water,40,100
+7,7,Bubble,7,water,40,100
+7,8,Bubble,7,water,40,100
+7,9,Bubble,7,water,40,100
+7,10,Bubble,7,water,40,100
+7,11,Bubble,7,water,40,100
+7,12,Bubble,7,water,40,100
+7,13,Bubble,7,water,40,100
+7,14,Bubble,7,water,40,100
+7,15,Water Gun,7,water,40,100
+7,16,Water Gun,7,water,40,100
+7,1,Bubble,8,water,40,100
+7,2,Bubble,8,water,40,100
+7,3,Withdraw,10,water,-,-
+7,4,Withdraw,10,water,-,-
+7,5,Withdraw,10,water,-,-
+7,6,Withdraw,10,water,-,-
+7,7,Withdraw,10,water,-,-
+7,8,Withdraw,10,water,-,-
+7,9,Withdraw,10,water,-,-
+7,10,Withdraw,10,water,-,-
+7,11,Withdraw,10,water,-,-
+7,12,Withdraw,10,water,-,-
+7,13,Withdraw,10,water,-,-
+7,14,Withdraw,10,water,-,-
+7,15,Withdraw,10,water,-,-
+7,16,Withdraw,10,water,-,-
+7,3,Water Gun,13,water,40,100
+7,4,Water Gun,13,water,40,100
+7,5,Water Gun,13,water,40,100
+7,6,Water Gun,13,water,40,100
+7,7,Water Gun,13,water,40,100
+7,8,Water Gun,13,water,40,100
+7,9,Water Gun,13,water,40,100
+7,10,Water Gun,13,water,40,100
+7,11,Water Gun,13,water,40,100
+7,12,Water Gun,13,water,40,100
+7,13,Water Gun,13,water,40,100
+7,14,Water Gun,13,water,40,100
+7,15,Bubble,13,water,40,100
+7,16,Bubble,13,water,40,100
+7,1,Water Gun,15,water,40,100
+7,2,Water Gun,15,water,40,100
+7,8,Bite,16,dark,60,100
+7,9,Bite,16,dark,60,100
+7,10,Bite,16,dark,60,100
+7,11,Bite,16,dark,60,100
+7,14,Bite,16,dark,60,100
+7,15,Bite,16,dark,60,100
+7,16,Bite,16,dark,60,100
+7,3,Bite,18,dark,60,100
+7,4,Bite,18,dark,60,100
+7,5,Bite,18,dark,60,100
+7,6,Bite,18,dark,60,100
+7,7,Bite,18,dark,60,100
+7,12,Bite,18,dark,60,100
+7,13,Bite,18,dark,60,100
+7,8,Rapid Spin,19,normal,20,100
+7,9,Rapid Spin,19,normal,20,100
+7,10,Rapid Spin,19,normal,20,100
+7,11,Rapid Spin,19,normal,20,100
+7,14,Rapid Spin,19,normal,20,100
+7,15,Rapid Spin,19,normal,20,100
+7,16,Rapid Spin,19,normal,20,100
+7,1,Bite,22,dark,60,100
+7,2,Bite,22,dark,60,100
+7,8,Protect,22,normal,-,-
+7,9,Protect,22,normal,-,-
+7,10,Protect,22,normal,-,-
+7,11,Protect,22,normal,-,-
+7,14,Protect,22,normal,-,-
+7,15,Protect,22,normal,-,-
+7,16,Protect,22,normal,-,-
+7,3,Rapid Spin,23,normal,20,100
+7,4,Rapid Spin,23,normal,20,100
+7,5,Rapid Spin,23,normal,20,100
+7,6,Rapid Spin,23,normal,20,100
+7,7,Rapid Spin,23,normal,20,100
+7,12,Rapid Spin,23,normal,20,100
+7,13,Rapid Spin,23,normal,20,100
+7,8,Water Pulse,25,water,60,100
+7,9,Water Pulse,25,water,60,100
+7,10,Water Pulse,25,water,60,100
+7,11,Water Pulse,25,water,60,100
+7,14,Water Pulse,25,water,60,100
+7,15,Water Pulse,25,water,60,100
+7,16,Water Pulse,25,water,60,100
+7,1,Withdraw,28,water,-,-
+7,2,Withdraw,28,water,-,-
+7,3,Protect,28,normal,-,-
+7,4,Protect,28,normal,-,-
+7,5,Protect,28,normal,-,-
+7,6,Protect,28,normal,-,-
+7,7,Protect,28,normal,-,-
+7,8,Aqua Tail,28,water,90,90
+7,9,Aqua Tail,28,water,90,90
+7,10,Aqua Tail,28,water,90,90
+7,11,Aqua Tail,28,water,90,90
+7,12,Protect,28,normal,-,-
+7,13,Protect,28,normal,-,-
+7,14,Aqua Tail,28,water,90,90
+7,15,Aqua Tail,28,water,90,90
+7,16,Aqua Tail,28,water,90,90
+7,8,Skull Bash,31,normal,130,100
+7,9,Skull Bash,31,normal,130,100
+7,10,Skull Bash,31,normal,130,100
+7,11,Skull Bash,31,normal,130,100
+7,14,Skull Bash,31,normal,130,100
+7,15,Skull Bash,31,normal,130,100
+7,16,Skull Bash,31,normal,130,100
+7,3,Rain Dance,33,water,-,-
+7,4,Rain Dance,33,water,-,-
+7,5,Rain Dance,33,water,-,-
+7,6,Rain Dance,33,water,-,-
+7,7,Rain Dance,33,water,-,-
+7,12,Rain Dance,33,water,-,-
+7,13,Rain Dance,33,water,-,-
+7,8,Rain Dance,34,water,-,-
+7,9,Iron Defense,34,steel,-,-
+7,10,Iron Defense,34,steel,-,-
+7,11,Iron Defense,34,steel,-,-
+7,14,Iron Defense,34,steel,-,-
+7,15,Iron Defense,34,steel,-,-
+7,16,Iron Defense,34,steel,-,-
+7,1,Skull Bash,35,normal,130,100
+7,2,Skull Bash,35,normal,130,100
+7,8,Hydro Pump,37,water,110,80
+7,9,Rain Dance,37,water,-,-
+7,10,Rain Dance,37,water,-,-
+7,11,Rain Dance,37,water,-,-
+7,14,Rain Dance,37,water,-,-
+7,15,Rain Dance,37,water,-,-
+7,16,Rain Dance,37,water,-,-
+7,3,Skull Bash,40,normal,130,100
+7,4,Skull Bash,40,normal,130,100
+7,5,Skull Bash,40,normal,130,100
+7,6,Skull Bash,40,normal,130,100
+7,7,Skull Bash,40,normal,130,100
+7,9,Hydro Pump,40,water,110,80
+7,10,Hydro Pump,40,water,110,80
+7,11,Hydro Pump,40,water,110,80
+7,12,Skull Bash,40,normal,130,100
+7,13,Skull Bash,40,normal,130,100
+7,14,Hydro Pump,40,water,110,80
+7,15,Hydro Pump,40,water,110,80
+7,16,Hydro Pump,40,water,110,80
+7,1,Hydro Pump,42,water,110,80
+7,2,Hydro Pump,42,water,110,80
+7,3,Hydro Pump,47,water,110,80
+7,4,Hydro Pump,47,water,110,80
+7,5,Hydro Pump,47,water,110,80
+7,6,Hydro Pump,47,water,110,80
+7,7,Hydro Pump,47,water,110,80
+7,12,Hydro Pump,47,water,110,80
+7,13,Hydro Pump,47,water,110,80

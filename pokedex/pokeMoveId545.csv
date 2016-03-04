@@ -1,77 +1,77 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-545,scolipede,11,38,Double-Edge,1,55,
-545,scolipede,11,40,Poison Sting,1,1,4
-545,scolipede,11,40,Poison Sting,1,5,
-545,scolipede,11,92,Toxic,1,44,
-545,scolipede,11,97,Agility,1,33,
-545,scolipede,11,103,Screech,1,1,5
-545,scolipede,11,103,Screech,1,8,
-545,scolipede,11,111,Defense Curl,1,1,2
-545,scolipede,11,182,Protect,1,15,
-545,scolipede,11,205,Rollout,1,1,3
-545,scolipede,11,224,Megahorn,1,1,1
-545,scolipede,11,226,Baton Pass,1,30,
-545,scolipede,11,228,Pursuit,1,12,
-545,scolipede,11,342,Poison Tail,1,19,
-545,scolipede,11,431,Rock Climb,1,50,
-545,scolipede,11,450,Bug Bite,1,23,
-545,scolipede,11,474,Venoshock,1,28,
-545,scolipede,11,537,Steamroller,1,39,
-545,scolipede,14,38,Double-Edge,1,55,
-545,scolipede,14,40,Poison Sting,1,1,4
-545,scolipede,14,40,Poison Sting,1,5,
-545,scolipede,14,92,Toxic,1,44,
-545,scolipede,14,97,Agility,1,33,
-545,scolipede,14,103,Screech,1,1,5
-545,scolipede,14,103,Screech,1,8,
-545,scolipede,14,111,Defense Curl,1,1,2
-545,scolipede,14,182,Protect,1,15,
-545,scolipede,14,205,Rollout,1,1,3
-545,scolipede,14,224,Megahorn,1,1,1
-545,scolipede,14,226,Baton Pass,1,30,
-545,scolipede,14,228,Pursuit,1,12,
-545,scolipede,14,342,Poison Tail,1,19,
-545,scolipede,14,431,Rock Climb,1,50,
-545,scolipede,14,450,Bug Bite,1,23,
-545,scolipede,14,474,Venoshock,1,28,
-545,scolipede,14,537,Steamroller,1,39,
-545,scolipede,15,38,Double-Edge,1,55,
-545,scolipede,15,40,Poison Sting,1,1,4
-545,scolipede,15,40,Poison Sting,1,5,
-545,scolipede,15,92,Toxic,1,44,
-545,scolipede,15,97,Agility,1,33,
-545,scolipede,15,103,Screech,1,1,5
-545,scolipede,15,103,Screech,1,8,
-545,scolipede,15,111,Defense Curl,1,1,2
-545,scolipede,15,182,Protect,1,15,
-545,scolipede,15,205,Rollout,1,1,3
-545,scolipede,15,224,Megahorn,1,1,1
-545,scolipede,15,224,Megahorn,1,65,
-545,scolipede,15,226,Baton Pass,1,30,
-545,scolipede,15,228,Pursuit,1,12,
-545,scolipede,15,342,Poison Tail,1,19,
-545,scolipede,15,431,Rock Climb,1,50,
-545,scolipede,15,450,Bug Bite,1,23,
-545,scolipede,15,474,Venoshock,1,28,
-545,scolipede,15,537,Steamroller,1,39,
-545,scolipede,15,599,Venom Drench,1,47,
-545,scolipede,16,38,Double-Edge,1,55,1
-545,scolipede,16,40,Poison Sting,1,1,4
-545,scolipede,16,40,Poison Sting,1,5,1
-545,scolipede,16,92,Toxic,1,44,1
-545,scolipede,16,97,Agility,1,33,1
-545,scolipede,16,103,Screech,1,1,5
-545,scolipede,16,103,Screech,1,8,1
-545,scolipede,16,111,Defense Curl,1,1,2
-545,scolipede,16,182,Protect,1,15,1
-545,scolipede,16,205,Rollout,1,1,3
-545,scolipede,16,224,Megahorn,1,1,1
-545,scolipede,16,224,Megahorn,1,65,1
-545,scolipede,16,226,Baton Pass,1,30,1
-545,scolipede,16,228,Pursuit,1,12,1
-545,scolipede,16,342,Poison Tail,1,19,1
-545,scolipede,16,431,Rock Climb,1,50,1
-545,scolipede,16,450,Bug Bite,1,23,1
-545,scolipede,16,474,Venoshock,1,28,1
-545,scolipede,16,537,Steamroller,1,39,1
-545,scolipede,16,599,Venom Drench,1,47,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+545,11,Poison Sting,1,poison,15,100
+545,11,Screech,1,normal,-,85
+545,11,Defense Curl,1,normal,-,-
+545,11,Rollout,1,rock,30,90
+545,11,Megahorn,1,bug,120,85
+545,14,Poison Sting,1,poison,15,100
+545,14,Screech,1,normal,-,85
+545,14,Defense Curl,1,normal,-,-
+545,14,Rollout,1,rock,30,90
+545,14,Megahorn,1,bug,120,85
+545,15,Poison Sting,1,poison,15,100
+545,15,Screech,1,normal,-,85
+545,15,Defense Curl,1,normal,-,-
+545,15,Rollout,1,rock,30,90
+545,15,Megahorn,1,bug,120,85
+545,16,Poison Sting,1,poison,15,100
+545,16,Screech,1,normal,-,85
+545,16,Defense Curl,1,normal,-,-
+545,16,Rollout,1,rock,30,90
+545,16,Megahorn,1,bug,120,85
+545,11,Poison Sting,5,poison,15,100
+545,14,Poison Sting,5,poison,15,100
+545,15,Poison Sting,5,poison,15,100
+545,16,Poison Sting,5,poison,15,100
+545,11,Screech,8,normal,-,85
+545,14,Screech,8,normal,-,85
+545,15,Screech,8,normal,-,85
+545,16,Screech,8,normal,-,85
+545,11,Pursuit,12,dark,40,100
+545,14,Pursuit,12,dark,40,100
+545,15,Pursuit,12,dark,40,100
+545,16,Pursuit,12,dark,40,100
+545,11,Protect,15,normal,-,-
+545,14,Protect,15,normal,-,-
+545,15,Protect,15,normal,-,-
+545,16,Protect,15,normal,-,-
+545,11,Poison Tail,19,poison,50,100
+545,14,Poison Tail,19,poison,50,100
+545,15,Poison Tail,19,poison,50,100
+545,16,Poison Tail,19,poison,50,100
+545,11,Bug Bite,23,bug,60,100
+545,14,Bug Bite,23,bug,60,100
+545,15,Bug Bite,23,bug,60,100
+545,16,Bug Bite,23,bug,60,100
+545,11,Venoshock,28,poison,65,100
+545,14,Venoshock,28,poison,65,100
+545,15,Venoshock,28,poison,65,100
+545,16,Venoshock,28,poison,65,100
+545,11,Baton Pass,30,normal,-,-
+545,14,Baton Pass,30,normal,-,-
+545,15,Baton Pass,30,normal,-,-
+545,16,Baton Pass,30,normal,-,-
+545,11,Agility,33,psychic,-,-
+545,14,Agility,33,psychic,-,-
+545,15,Agility,33,psychic,-,-
+545,16,Agility,33,psychic,-,-
+545,11,Steamroller,39,bug,65,100
+545,14,Steamroller,39,bug,65,100
+545,15,Steamroller,39,bug,65,100
+545,16,Steamroller,39,bug,65,100
+545,11,Toxic,44,poison,-,90
+545,14,Toxic,44,poison,-,90
+545,15,Toxic,44,poison,-,90
+545,16,Toxic,44,poison,-,90
+545,15,Venom Drench,47,poison,-,100
+545,16,Venom Drench,47,poison,-,100
+545,11,Rock Climb,50,normal,90,85
+545,14,Rock Climb,50,normal,90,85
+545,15,Rock Climb,50,normal,90,85
+545,16,Rock Climb,50,normal,90,85
+545,11,Double-Edge,55,normal,120,100
+545,14,Double-Edge,55,normal,120,100
+545,15,Double-Edge,55,normal,120,100
+545,16,Double-Edge,55,normal,120,100
+545,15,Megahorn,65,bug,120,85
+545,16,Megahorn,65,bug,120,85

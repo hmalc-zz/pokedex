@@ -1,63 +1,63 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-587,emolga,11,39,Tail Whip,1,7,
-587,emolga,11,84,Thunder Shock,1,1,
-587,emolga,11,97,Agility,1,46,
-587,emolga,11,98,Quick Attack,1,4,
-587,emolga,11,104,Double Team,1,19,
-587,emolga,11,113,Light Screen,1,34,
-587,emolga,11,209,Spark,1,13,
-587,emolga,11,227,Encore,1,38,
-587,emolga,11,228,Pursuit,1,16,
-587,emolga,11,268,Charge,1,10,
-587,emolga,11,351,Shock Wave,1,22,
-587,emolga,11,435,Discharge,1,50,
-587,emolga,11,486,Electro Ball,1,26,
-587,emolga,11,512,Acrobatics,1,30,
-587,emolga,11,521,Volt Switch,1,42,
-587,emolga,14,39,Tail Whip,1,7,
-587,emolga,14,84,Thunder Shock,1,1,
-587,emolga,14,97,Agility,1,46,
-587,emolga,14,98,Quick Attack,1,4,
-587,emolga,14,104,Double Team,1,19,
-587,emolga,14,113,Light Screen,1,34,
-587,emolga,14,209,Spark,1,13,
-587,emolga,14,227,Encore,1,38,
-587,emolga,14,228,Pursuit,1,16,
-587,emolga,14,268,Charge,1,10,
-587,emolga,14,351,Shock Wave,1,22,
-587,emolga,14,435,Discharge,1,50,
-587,emolga,14,486,Electro Ball,1,26,
-587,emolga,14,512,Acrobatics,1,30,
-587,emolga,14,521,Volt Switch,1,42,
-587,emolga,15,39,Tail Whip,1,7,
-587,emolga,15,84,Thunder Shock,1,1,
-587,emolga,15,97,Agility,1,46,
-587,emolga,15,98,Quick Attack,1,4,
-587,emolga,15,104,Double Team,1,19,
-587,emolga,15,113,Light Screen,1,34,
-587,emolga,15,209,Spark,1,13,
-587,emolga,15,227,Encore,1,38,
-587,emolga,15,228,Pursuit,1,16,
-587,emolga,15,268,Charge,1,10,
-587,emolga,15,351,Shock Wave,1,22,
-587,emolga,15,435,Discharge,1,50,
-587,emolga,15,486,Electro Ball,1,26,
-587,emolga,15,512,Acrobatics,1,30,
-587,emolga,15,521,Volt Switch,1,42,
-587,emolga,15,609,Nuzzle,1,15,
-587,emolga,16,39,Tail Whip,1,7,1
-587,emolga,16,84,Thunder Shock,1,1,1
-587,emolga,16,97,Agility,1,46,1
-587,emolga,16,98,Quick Attack,1,4,1
-587,emolga,16,104,Double Team,1,19,1
-587,emolga,16,113,Light Screen,1,34,1
-587,emolga,16,209,Spark,1,13,1
-587,emolga,16,227,Encore,1,38,1
-587,emolga,16,228,Pursuit,1,16,1
-587,emolga,16,268,Charge,1,10,1
-587,emolga,16,351,Shock Wave,1,22,1
-587,emolga,16,435,Discharge,1,50,1
-587,emolga,16,486,Electro Ball,1,26,1
-587,emolga,16,512,Acrobatics,1,30,1
-587,emolga,16,521,Volt Switch,1,42,1
-587,emolga,16,609,Nuzzle,1,15,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+587,11,Thunder Shock,1,electric,40,100
+587,14,Thunder Shock,1,electric,40,100
+587,15,Thunder Shock,1,electric,40,100
+587,16,Thunder Shock,1,electric,40,100
+587,11,Quick Attack,4,normal,40,100
+587,14,Quick Attack,4,normal,40,100
+587,15,Quick Attack,4,normal,40,100
+587,16,Quick Attack,4,normal,40,100
+587,11,Tail Whip,7,normal,-,100
+587,14,Tail Whip,7,normal,-,100
+587,15,Tail Whip,7,normal,-,100
+587,16,Tail Whip,7,normal,-,100
+587,11,Charge,10,electric,-,-
+587,14,Charge,10,electric,-,-
+587,15,Charge,10,electric,-,-
+587,16,Charge,10,electric,-,-
+587,11,Spark,13,electric,65,100
+587,14,Spark,13,electric,65,100
+587,15,Spark,13,electric,65,100
+587,16,Spark,13,electric,65,100
+587,15,Nuzzle,15,electric,20,100
+587,16,Nuzzle,15,electric,20,100
+587,11,Pursuit,16,dark,40,100
+587,14,Pursuit,16,dark,40,100
+587,15,Pursuit,16,dark,40,100
+587,16,Pursuit,16,dark,40,100
+587,11,Double Team,19,normal,-,-
+587,14,Double Team,19,normal,-,-
+587,15,Double Team,19,normal,-,-
+587,16,Double Team,19,normal,-,-
+587,11,Shock Wave,22,electric,60,-
+587,14,Shock Wave,22,electric,60,-
+587,15,Shock Wave,22,electric,60,-
+587,16,Shock Wave,22,electric,60,-
+587,11,Electro Ball,26,electric,-,100
+587,14,Electro Ball,26,electric,-,100
+587,15,Electro Ball,26,electric,-,100
+587,16,Electro Ball,26,electric,-,100
+587,11,Acrobatics,30,flying,55,100
+587,14,Acrobatics,30,flying,55,100
+587,15,Acrobatics,30,flying,55,100
+587,16,Acrobatics,30,flying,55,100
+587,11,Light Screen,34,psychic,-,-
+587,14,Light Screen,34,psychic,-,-
+587,15,Light Screen,34,psychic,-,-
+587,16,Light Screen,34,psychic,-,-
+587,11,Encore,38,normal,-,100
+587,14,Encore,38,normal,-,100
+587,15,Encore,38,normal,-,100
+587,16,Encore,38,normal,-,100
+587,11,Volt Switch,42,electric,70,100
+587,14,Volt Switch,42,electric,70,100
+587,15,Volt Switch,42,electric,70,100
+587,16,Volt Switch,42,electric,70,100
+587,11,Agility,46,psychic,-,-
+587,14,Agility,46,psychic,-,-
+587,15,Agility,46,psychic,-,-
+587,16,Agility,46,psychic,-,-
+587,11,Discharge,50,electric,80,100
+587,14,Discharge,50,electric,80,100
+587,15,Discharge,50,electric,80,100
+587,16,Discharge,50,electric,80,100

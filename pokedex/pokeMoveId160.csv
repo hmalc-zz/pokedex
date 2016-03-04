@@ -1,207 +1,207 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-160,feraligatr,3,10,Scratch,1,1,1
-160,feraligatr,3,43,Leer,1,1,2
-160,feraligatr,3,44,Bite,1,21,
-160,feraligatr,3,55,Water Gun,1,1,4
-160,feraligatr,3,55,Water Gun,1,13,
-160,feraligatr,3,56,Hydro Pump,1,58,
-160,feraligatr,3,99,Rage,1,1,3
-160,feraligatr,3,99,Rage,1,7,
-160,feraligatr,3,103,Screech,1,47,
-160,feraligatr,3,163,Slash,1,38,
-160,feraligatr,3,184,Scary Face,1,28,
-160,feraligatr,4,10,Scratch,1,1,1
-160,feraligatr,4,43,Leer,1,1,2
-160,feraligatr,4,44,Bite,1,21,
-160,feraligatr,4,55,Water Gun,1,1,4
-160,feraligatr,4,55,Water Gun,1,13,
-160,feraligatr,4,56,Hydro Pump,1,58,
-160,feraligatr,4,99,Rage,1,1,3
-160,feraligatr,4,99,Rage,1,7,
-160,feraligatr,4,103,Screech,1,47,
-160,feraligatr,4,163,Slash,1,38,
-160,feraligatr,4,184,Scary Face,1,28,
-160,feraligatr,5,10,Scratch,1,1,1
-160,feraligatr,5,43,Leer,1,1,2
-160,feraligatr,5,44,Bite,1,21,
-160,feraligatr,5,55,Water Gun,1,1,4
-160,feraligatr,5,55,Water Gun,1,13,
-160,feraligatr,5,56,Hydro Pump,1,58,
-160,feraligatr,5,99,Rage,1,1,3
-160,feraligatr,5,99,Rage,1,7,
-160,feraligatr,5,103,Screech,1,47,
-160,feraligatr,5,163,Slash,1,38,
-160,feraligatr,5,184,Scary Face,1,28,
-160,feraligatr,6,10,Scratch,1,1,1
-160,feraligatr,6,43,Leer,1,1,2
-160,feraligatr,6,44,Bite,1,21,
-160,feraligatr,6,55,Water Gun,1,1,4
-160,feraligatr,6,55,Water Gun,1,13,
-160,feraligatr,6,56,Hydro Pump,1,58,
-160,feraligatr,6,99,Rage,1,1,3
-160,feraligatr,6,99,Rage,1,7,
-160,feraligatr,6,103,Screech,1,47,
-160,feraligatr,6,163,Slash,1,38,
-160,feraligatr,6,184,Scary Face,1,28,
-160,feraligatr,7,10,Scratch,1,1,1
-160,feraligatr,7,43,Leer,1,1,2
-160,feraligatr,7,44,Bite,1,21,
-160,feraligatr,7,55,Water Gun,1,1,4
-160,feraligatr,7,55,Water Gun,1,13,
-160,feraligatr,7,56,Hydro Pump,1,58,
-160,feraligatr,7,99,Rage,1,1,3
-160,feraligatr,7,99,Rage,1,7,
-160,feraligatr,7,103,Screech,1,47,
-160,feraligatr,7,163,Slash,1,38,
-160,feraligatr,7,184,Scary Face,1,28,
-160,feraligatr,8,10,Scratch,1,1,1
-160,feraligatr,8,37,Thrash,1,24,
-160,feraligatr,8,43,Leer,1,1,2
-160,feraligatr,8,44,Bite,1,13,
-160,feraligatr,8,55,Water Gun,1,1,3
-160,feraligatr,8,55,Water Gun,1,6,
-160,feraligatr,8,56,Hydro Pump,1,63,
-160,feraligatr,8,97,Agility,1,30,
-160,feraligatr,8,99,Rage,1,1,4
-160,feraligatr,8,99,Rage,1,8,
-160,feraligatr,8,103,Screech,1,45,
-160,feraligatr,8,163,Slash,1,37,
-160,feraligatr,8,184,Scary Face,1,15,
-160,feraligatr,8,242,Crunch,1,32,
-160,feraligatr,8,276,Superpower,1,58,
-160,feraligatr,8,401,Aqua Tail,1,50,
-160,feraligatr,8,423,Ice Fang,1,21,
-160,feraligatr,9,10,Scratch,1,1,1
-160,feraligatr,9,37,Thrash,1,50,
-160,feraligatr,9,43,Leer,1,1,2
-160,feraligatr,9,44,Bite,1,13,
-160,feraligatr,9,55,Water Gun,1,1,3
-160,feraligatr,9,55,Water Gun,1,6,
-160,feraligatr,9,56,Hydro Pump,1,71,
-160,feraligatr,9,97,Agility,1,30,
-160,feraligatr,9,99,Rage,1,1,4
-160,feraligatr,9,99,Rage,1,8,
-160,feraligatr,9,103,Screech,1,45,
-160,feraligatr,9,163,Slash,1,37,
-160,feraligatr,9,175,Flail,1,24,
-160,feraligatr,9,184,Scary Face,1,15,
-160,feraligatr,9,242,Crunch,1,32,
-160,feraligatr,9,276,Superpower,1,63,
-160,feraligatr,9,401,Aqua Tail,1,58,
-160,feraligatr,9,423,Ice Fang,1,21,
-160,feraligatr,10,10,Scratch,1,1,1
-160,feraligatr,10,37,Thrash,1,50,
-160,feraligatr,10,43,Leer,1,1,2
-160,feraligatr,10,44,Bite,1,13,
-160,feraligatr,10,55,Water Gun,1,1,3
-160,feraligatr,10,55,Water Gun,1,6,
-160,feraligatr,10,56,Hydro Pump,1,71,
-160,feraligatr,10,97,Agility,1,30,
-160,feraligatr,10,99,Rage,1,1,4
-160,feraligatr,10,99,Rage,1,8,
-160,feraligatr,10,103,Screech,1,45,
-160,feraligatr,10,163,Slash,1,37,
-160,feraligatr,10,175,Flail,1,24,
-160,feraligatr,10,184,Scary Face,1,15,
-160,feraligatr,10,242,Crunch,1,32,
-160,feraligatr,10,276,Superpower,1,63,
-160,feraligatr,10,401,Aqua Tail,1,58,
-160,feraligatr,10,423,Ice Fang,1,21,
-160,feraligatr,11,10,Scratch,1,1,1
-160,feraligatr,11,37,Thrash,1,58,
-160,feraligatr,11,43,Leer,1,1,2
-160,feraligatr,11,44,Bite,1,13,
-160,feraligatr,11,55,Water Gun,1,1,3
-160,feraligatr,11,55,Water Gun,1,6,
-160,feraligatr,11,56,Hydro Pump,1,76,
-160,feraligatr,11,97,Agility,1,30,
-160,feraligatr,11,99,Rage,1,1,4
-160,feraligatr,11,99,Rage,1,8,
-160,feraligatr,11,103,Screech,1,50,
-160,feraligatr,11,163,Slash,1,45,
-160,feraligatr,11,175,Flail,1,24,
-160,feraligatr,11,184,Scary Face,1,15,
-160,feraligatr,11,242,Crunch,1,32,
-160,feraligatr,11,276,Superpower,1,71,
-160,feraligatr,11,401,Aqua Tail,1,63,
-160,feraligatr,11,423,Ice Fang,1,21,
-160,feraligatr,11,498,Chip Away,1,37,
-160,feraligatr,12,10,Scratch,1,1,1
-160,feraligatr,12,43,Leer,1,1,2
-160,feraligatr,12,44,Bite,1,21,
-160,feraligatr,12,55,Water Gun,1,1,4
-160,feraligatr,12,55,Water Gun,1,13,
-160,feraligatr,12,56,Hydro Pump,1,58,
-160,feraligatr,12,99,Rage,1,1,3
-160,feraligatr,12,99,Rage,1,7,
-160,feraligatr,12,103,Screech,1,47,
-160,feraligatr,12,163,Slash,1,38,
-160,feraligatr,12,184,Scary Face,1,28,
-160,feraligatr,13,10,Scratch,1,1,1
-160,feraligatr,13,43,Leer,1,1,2
-160,feraligatr,13,44,Bite,1,21,
-160,feraligatr,13,55,Water Gun,1,1,4
-160,feraligatr,13,55,Water Gun,1,13,
-160,feraligatr,13,56,Hydro Pump,1,58,
-160,feraligatr,13,99,Rage,1,1,3
-160,feraligatr,13,99,Rage,1,7,
-160,feraligatr,13,103,Screech,1,47,
-160,feraligatr,13,163,Slash,1,38,
-160,feraligatr,13,184,Scary Face,1,28,
-160,feraligatr,14,10,Scratch,1,1,1
-160,feraligatr,14,37,Thrash,1,58,
-160,feraligatr,14,43,Leer,1,1,2
-160,feraligatr,14,44,Bite,1,13,
-160,feraligatr,14,55,Water Gun,1,1,3
-160,feraligatr,14,55,Water Gun,1,6,
-160,feraligatr,14,56,Hydro Pump,1,76,
-160,feraligatr,14,97,Agility,1,30,
-160,feraligatr,14,99,Rage,1,1,4
-160,feraligatr,14,99,Rage,1,8,
-160,feraligatr,14,103,Screech,1,50,
-160,feraligatr,14,163,Slash,1,45,
-160,feraligatr,14,175,Flail,1,24,
-160,feraligatr,14,184,Scary Face,1,15,
-160,feraligatr,14,242,Crunch,1,32,
-160,feraligatr,14,276,Superpower,1,71,
-160,feraligatr,14,401,Aqua Tail,1,63,
-160,feraligatr,14,423,Ice Fang,1,21,
-160,feraligatr,14,498,Chip Away,1,37,
-160,feraligatr,15,10,Scratch,1,1,1
-160,feraligatr,15,37,Thrash,1,58,
-160,feraligatr,15,43,Leer,1,1,2
-160,feraligatr,15,44,Bite,1,13,
-160,feraligatr,15,55,Water Gun,1,1,3
-160,feraligatr,15,55,Water Gun,1,6,
-160,feraligatr,15,56,Hydro Pump,1,76,
-160,feraligatr,15,97,Agility,1,30,
-160,feraligatr,15,99,Rage,1,1,4
-160,feraligatr,15,99,Rage,1,8,
-160,feraligatr,15,103,Screech,1,50,
-160,feraligatr,15,163,Slash,1,45,
-160,feraligatr,15,175,Flail,1,24,
-160,feraligatr,15,184,Scary Face,1,15,
-160,feraligatr,15,242,Crunch,1,32,
-160,feraligatr,15,276,Superpower,1,71,
-160,feraligatr,15,401,Aqua Tail,1,63,
-160,feraligatr,15,423,Ice Fang,1,21,
-160,feraligatr,15,498,Chip Away,1,37,
-160,feraligatr,16,10,Scratch,1,1,1
-160,feraligatr,16,37,Thrash,1,58,1
-160,feraligatr,16,43,Leer,1,1,2
-160,feraligatr,16,44,Bite,1,13,1
-160,feraligatr,16,55,Water Gun,1,1,3
-160,feraligatr,16,55,Water Gun,1,6,1
-160,feraligatr,16,56,Hydro Pump,1,76,1
-160,feraligatr,16,97,Agility,1,30,1
-160,feraligatr,16,99,Rage,1,1,4
-160,feraligatr,16,99,Rage,1,8,1
-160,feraligatr,16,103,Screech,1,50,1
-160,feraligatr,16,163,Slash,1,45,1
-160,feraligatr,16,175,Flail,1,24,1
-160,feraligatr,16,184,Scary Face,1,15,1
-160,feraligatr,16,242,Crunch,1,32,1
-160,feraligatr,16,276,Superpower,1,71,1
-160,feraligatr,16,401,Aqua Tail,1,63,1
-160,feraligatr,16,423,Ice Fang,1,21,1
-160,feraligatr,16,498,Chip Away,1,37,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+160,3,Scratch,1,normal,40,100
+160,3,Leer,1,normal,-,100
+160,3,Water Gun,1,water,40,100
+160,3,Rage,1,normal,20,100
+160,4,Scratch,1,normal,40,100
+160,4,Leer,1,normal,-,100
+160,4,Water Gun,1,water,40,100
+160,4,Rage,1,normal,20,100
+160,5,Scratch,1,normal,40,100
+160,5,Leer,1,normal,-,100
+160,5,Water Gun,1,water,40,100
+160,5,Rage,1,normal,20,100
+160,6,Scratch,1,normal,40,100
+160,6,Leer,1,normal,-,100
+160,6,Water Gun,1,water,40,100
+160,6,Rage,1,normal,20,100
+160,7,Scratch,1,normal,40,100
+160,7,Leer,1,normal,-,100
+160,7,Water Gun,1,water,40,100
+160,7,Rage,1,normal,20,100
+160,8,Scratch,1,normal,40,100
+160,8,Leer,1,normal,-,100
+160,8,Water Gun,1,water,40,100
+160,8,Rage,1,normal,20,100
+160,9,Scratch,1,normal,40,100
+160,9,Leer,1,normal,-,100
+160,9,Water Gun,1,water,40,100
+160,9,Rage,1,normal,20,100
+160,10,Scratch,1,normal,40,100
+160,10,Leer,1,normal,-,100
+160,10,Water Gun,1,water,40,100
+160,10,Rage,1,normal,20,100
+160,11,Scratch,1,normal,40,100
+160,11,Leer,1,normal,-,100
+160,11,Water Gun,1,water,40,100
+160,11,Rage,1,normal,20,100
+160,12,Scratch,1,normal,40,100
+160,12,Leer,1,normal,-,100
+160,12,Water Gun,1,water,40,100
+160,12,Rage,1,normal,20,100
+160,13,Scratch,1,normal,40,100
+160,13,Leer,1,normal,-,100
+160,13,Water Gun,1,water,40,100
+160,13,Rage,1,normal,20,100
+160,14,Scratch,1,normal,40,100
+160,14,Leer,1,normal,-,100
+160,14,Water Gun,1,water,40,100
+160,14,Rage,1,normal,20,100
+160,15,Scratch,1,normal,40,100
+160,15,Leer,1,normal,-,100
+160,15,Water Gun,1,water,40,100
+160,15,Rage,1,normal,20,100
+160,16,Scratch,1,normal,40,100
+160,16,Leer,1,normal,-,100
+160,16,Water Gun,1,water,40,100
+160,16,Rage,1,normal,20,100
+160,8,Water Gun,6,water,40,100
+160,9,Water Gun,6,water,40,100
+160,10,Water Gun,6,water,40,100
+160,11,Water Gun,6,water,40,100
+160,14,Water Gun,6,water,40,100
+160,15,Water Gun,6,water,40,100
+160,16,Water Gun,6,water,40,100
+160,3,Rage,7,normal,20,100
+160,4,Rage,7,normal,20,100
+160,5,Rage,7,normal,20,100
+160,6,Rage,7,normal,20,100
+160,7,Rage,7,normal,20,100
+160,12,Rage,7,normal,20,100
+160,13,Rage,7,normal,20,100
+160,8,Rage,8,normal,20,100
+160,9,Rage,8,normal,20,100
+160,10,Rage,8,normal,20,100
+160,11,Rage,8,normal,20,100
+160,14,Rage,8,normal,20,100
+160,15,Rage,8,normal,20,100
+160,16,Rage,8,normal,20,100
+160,3,Water Gun,13,water,40,100
+160,4,Water Gun,13,water,40,100
+160,5,Water Gun,13,water,40,100
+160,6,Water Gun,13,water,40,100
+160,7,Water Gun,13,water,40,100
+160,8,Bite,13,dark,60,100
+160,9,Bite,13,dark,60,100
+160,10,Bite,13,dark,60,100
+160,11,Bite,13,dark,60,100
+160,12,Water Gun,13,water,40,100
+160,13,Water Gun,13,water,40,100
+160,14,Bite,13,dark,60,100
+160,15,Bite,13,dark,60,100
+160,16,Bite,13,dark,60,100
+160,8,Scary Face,15,normal,-,100
+160,9,Scary Face,15,normal,-,100
+160,10,Scary Face,15,normal,-,100
+160,11,Scary Face,15,normal,-,100
+160,14,Scary Face,15,normal,-,100
+160,15,Scary Face,15,normal,-,100
+160,16,Scary Face,15,normal,-,100
+160,3,Bite,21,dark,60,100
+160,4,Bite,21,dark,60,100
+160,5,Bite,21,dark,60,100
+160,6,Bite,21,dark,60,100
+160,7,Bite,21,dark,60,100
+160,8,Ice Fang,21,ice,65,95
+160,9,Ice Fang,21,ice,65,95
+160,10,Ice Fang,21,ice,65,95
+160,11,Ice Fang,21,ice,65,95
+160,12,Bite,21,dark,60,100
+160,13,Bite,21,dark,60,100
+160,14,Ice Fang,21,ice,65,95
+160,15,Ice Fang,21,ice,65,95
+160,16,Ice Fang,21,ice,65,95
+160,8,Thrash,24,normal,120,100
+160,9,Flail,24,normal,-,100
+160,10,Flail,24,normal,-,100
+160,11,Flail,24,normal,-,100
+160,14,Flail,24,normal,-,100
+160,15,Flail,24,normal,-,100
+160,16,Flail,24,normal,-,100
+160,3,Scary Face,28,normal,-,100
+160,4,Scary Face,28,normal,-,100
+160,5,Scary Face,28,normal,-,100
+160,6,Scary Face,28,normal,-,100
+160,7,Scary Face,28,normal,-,100
+160,12,Scary Face,28,normal,-,100
+160,13,Scary Face,28,normal,-,100
+160,8,Agility,30,psychic,-,-
+160,9,Agility,30,psychic,-,-
+160,10,Agility,30,psychic,-,-
+160,11,Agility,30,psychic,-,-
+160,14,Agility,30,psychic,-,-
+160,15,Agility,30,psychic,-,-
+160,16,Agility,30,psychic,-,-
+160,8,Crunch,32,dark,80,100
+160,9,Crunch,32,dark,80,100
+160,10,Crunch,32,dark,80,100
+160,11,Crunch,32,dark,80,100
+160,14,Crunch,32,dark,80,100
+160,15,Crunch,32,dark,80,100
+160,16,Crunch,32,dark,80,100
+160,8,Slash,37,normal,70,100
+160,9,Slash,37,normal,70,100
+160,10,Slash,37,normal,70,100
+160,11,Chip Away,37,normal,70,100
+160,14,Chip Away,37,normal,70,100
+160,15,Chip Away,37,normal,70,100
+160,16,Chip Away,37,normal,70,100
+160,3,Slash,38,normal,70,100
+160,4,Slash,38,normal,70,100
+160,5,Slash,38,normal,70,100
+160,6,Slash,38,normal,70,100
+160,7,Slash,38,normal,70,100
+160,12,Slash,38,normal,70,100
+160,13,Slash,38,normal,70,100
+160,8,Screech,45,normal,-,85
+160,9,Screech,45,normal,-,85
+160,10,Screech,45,normal,-,85
+160,11,Slash,45,normal,70,100
+160,14,Slash,45,normal,70,100
+160,15,Slash,45,normal,70,100
+160,16,Slash,45,normal,70,100
+160,3,Screech,47,normal,-,85
+160,4,Screech,47,normal,-,85
+160,5,Screech,47,normal,-,85
+160,6,Screech,47,normal,-,85
+160,7,Screech,47,normal,-,85
+160,12,Screech,47,normal,-,85
+160,13,Screech,47,normal,-,85
+160,8,Aqua Tail,50,water,90,90
+160,9,Thrash,50,normal,120,100
+160,10,Thrash,50,normal,120,100
+160,11,Screech,50,normal,-,85
+160,14,Screech,50,normal,-,85
+160,15,Screech,50,normal,-,85
+160,16,Screech,50,normal,-,85
+160,3,Hydro Pump,58,water,110,80
+160,4,Hydro Pump,58,water,110,80
+160,5,Hydro Pump,58,water,110,80
+160,6,Hydro Pump,58,water,110,80
+160,7,Hydro Pump,58,water,110,80
+160,8,Superpower,58,fighting,120,100
+160,9,Aqua Tail,58,water,90,90
+160,10,Aqua Tail,58,water,90,90
+160,11,Thrash,58,normal,120,100
+160,12,Hydro Pump,58,water,110,80
+160,13,Hydro Pump,58,water,110,80
+160,14,Thrash,58,normal,120,100
+160,15,Thrash,58,normal,120,100
+160,16,Thrash,58,normal,120,100
+160,8,Hydro Pump,63,water,110,80
+160,9,Superpower,63,fighting,120,100
+160,10,Superpower,63,fighting,120,100
+160,11,Aqua Tail,63,water,90,90
+160,14,Aqua Tail,63,water,90,90
+160,15,Aqua Tail,63,water,90,90
+160,16,Aqua Tail,63,water,90,90
+160,9,Hydro Pump,71,water,110,80
+160,10,Hydro Pump,71,water,110,80
+160,11,Superpower,71,fighting,120,100
+160,14,Superpower,71,fighting,120,100
+160,15,Superpower,71,fighting,120,100
+160,16,Superpower,71,fighting,120,100
+160,11,Hydro Pump,76,water,110,80
+160,14,Hydro Pump,76,water,110,80
+160,15,Hydro Pump,76,water,110,80
+160,16,Hydro Pump,76,water,110,80

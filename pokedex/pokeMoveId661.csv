@@ -1,29 +1,29 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-661,fletchling,15,13,Razor Wind,1,25,
-661,fletchling,15,33,Tackle,1,1,1
-661,fletchling,15,45,Growl,1,1,2
-661,fletchling,15,64,Peck,1,10,
-661,fletchling,15,97,Agility,1,13,
-661,fletchling,15,98,Quick Attack,1,6,
-661,fletchling,15,175,Flail,1,16,
-661,fletchling,15,211,Steel Wing,1,48,
-661,fletchling,15,355,Roost,1,21,
-661,fletchling,15,363,Natural Gift,1,29,
-661,fletchling,15,366,Tailwind,1,45,
-661,fletchling,15,382,Me First,1,41,
-661,fletchling,15,488,Flame Charge,1,34,
-661,fletchling,15,512,Acrobatics,1,39,
-661,fletchling,16,13,Razor Wind,1,25,1
-661,fletchling,16,33,Tackle,1,1,1
-661,fletchling,16,45,Growl,1,1,2
-661,fletchling,16,64,Peck,1,10,1
-661,fletchling,16,97,Agility,1,13,1
-661,fletchling,16,98,Quick Attack,1,6,1
-661,fletchling,16,175,Flail,1,16,1
-661,fletchling,16,211,Steel Wing,1,48,1
-661,fletchling,16,355,Roost,1,21,1
-661,fletchling,16,363,Natural Gift,1,29,1
-661,fletchling,16,366,Tailwind,1,45,1
-661,fletchling,16,382,Me First,1,41,1
-661,fletchling,16,488,Flame Charge,1,34,1
-661,fletchling,16,512,Acrobatics,1,39,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+661,15,Tackle,1,normal,50,100
+661,15,Growl,1,normal,-,100
+661,16,Tackle,1,normal,50,100
+661,16,Growl,1,normal,-,100
+661,15,Quick Attack,6,normal,40,100
+661,16,Quick Attack,6,normal,40,100
+661,15,Peck,10,flying,35,100
+661,16,Peck,10,flying,35,100
+661,15,Agility,13,psychic,-,-
+661,16,Agility,13,psychic,-,-
+661,15,Flail,16,normal,-,100
+661,16,Flail,16,normal,-,100
+661,15,Roost,21,flying,-,-
+661,16,Roost,21,flying,-,-
+661,15,Razor Wind,25,normal,80,100
+661,16,Razor Wind,25,normal,80,100
+661,15,Natural Gift,29,normal,-,100
+661,16,Natural Gift,29,normal,-,100
+661,15,Flame Charge,34,fire,50,100
+661,16,Flame Charge,34,fire,50,100
+661,15,Acrobatics,39,flying,55,100
+661,16,Acrobatics,39,flying,55,100
+661,15,Me First,41,normal,-,-
+661,16,Me First,41,normal,-,-
+661,15,Tailwind,45,flying,-,-
+661,16,Tailwind,45,flying,-,-
+661,15,Steel Wing,48,steel,70,90
+661,16,Steel Wing,48,steel,70,90

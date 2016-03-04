@@ -1,199 +1,199 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-302,sableye,5,10,Scratch,1,1,2
-302,sableye,5,43,Leer,1,1,1
-302,sableye,5,101,Night Shade,1,9,
-302,sableye,5,109,Confuse Ray,1,37,
-302,sableye,5,154,Fury Swipes,1,17,
-302,sableye,5,185,Feint Attack,1,29,
-302,sableye,5,193,Foresight,1,5,
-302,sableye,5,197,Detect,1,25,
-302,sableye,5,212,Mean Look,1,45,
-302,sableye,5,247,Shadow Ball,1,41,
-302,sableye,5,252,Fake Out,1,21,
-302,sableye,5,282,Knock Off,1,33,
-302,sableye,5,310,Astonish,1,13,
-302,sableye,6,10,Scratch,1,1,2
-302,sableye,6,43,Leer,1,1,1
-302,sableye,6,101,Night Shade,1,9,
-302,sableye,6,109,Confuse Ray,1,37,
-302,sableye,6,154,Fury Swipes,1,17,
-302,sableye,6,185,Feint Attack,1,29,
-302,sableye,6,193,Foresight,1,5,
-302,sableye,6,197,Detect,1,25,
-302,sableye,6,212,Mean Look,1,45,
-302,sableye,6,247,Shadow Ball,1,41,
-302,sableye,6,252,Fake Out,1,21,
-302,sableye,6,282,Knock Off,1,33,
-302,sableye,6,310,Astonish,1,13,
-302,sableye,7,10,Scratch,1,1,2
-302,sableye,7,43,Leer,1,1,1
-302,sableye,7,101,Night Shade,1,9,
-302,sableye,7,109,Confuse Ray,1,37,
-302,sableye,7,154,Fury Swipes,1,17,
-302,sableye,7,185,Feint Attack,1,29,
-302,sableye,7,193,Foresight,1,5,
-302,sableye,7,197,Detect,1,25,
-302,sableye,7,212,Mean Look,1,45,
-302,sableye,7,247,Shadow Ball,1,41,
-302,sableye,7,252,Fake Out,1,21,
-302,sableye,7,282,Knock Off,1,33,
-302,sableye,7,310,Astonish,1,13,
-302,sableye,8,10,Scratch,1,1,2
-302,sableye,8,43,Leer,1,1,1
-302,sableye,8,101,Night Shade,1,8,
-302,sableye,8,109,Confuse Ray,1,46,
-302,sableye,8,154,Fury Swipes,1,15,
-302,sableye,8,185,Feint Attack,1,32,
-302,sableye,8,193,Foresight,1,4,
-302,sableye,8,197,Detect,1,22,
-302,sableye,8,212,Mean Look,1,57,
-302,sableye,8,247,Shadow Ball,1,53,
-302,sableye,8,252,Fake Out,1,18,
-302,sableye,8,282,Knock Off,1,29,
-302,sableye,8,310,Astonish,1,11,
-302,sableye,8,386,Punishment,1,36,
-302,sableye,8,408,Power Gem,1,43,
-302,sableye,8,421,Shadow Claw,1,39,
-302,sableye,8,425,Shadow Sneak,1,25,
-302,sableye,8,428,Zen Headbutt,1,50,
-302,sableye,9,10,Scratch,1,1,2
-302,sableye,9,43,Leer,1,1,1
-302,sableye,9,101,Night Shade,1,8,
-302,sableye,9,109,Confuse Ray,1,46,
-302,sableye,9,154,Fury Swipes,1,15,
-302,sableye,9,185,Feint Attack,1,32,
-302,sableye,9,193,Foresight,1,4,
-302,sableye,9,197,Detect,1,22,
-302,sableye,9,212,Mean Look,1,57,
-302,sableye,9,247,Shadow Ball,1,53,
-302,sableye,9,252,Fake Out,1,18,
-302,sableye,9,282,Knock Off,1,29,
-302,sableye,9,310,Astonish,1,11,
-302,sableye,9,386,Punishment,1,36,
-302,sableye,9,408,Power Gem,1,43,
-302,sableye,9,421,Shadow Claw,1,39,
-302,sableye,9,425,Shadow Sneak,1,25,
-302,sableye,9,428,Zen Headbutt,1,50,
-302,sableye,10,10,Scratch,1,1,2
-302,sableye,10,43,Leer,1,1,1
-302,sableye,10,101,Night Shade,1,8,
-302,sableye,10,109,Confuse Ray,1,46,
-302,sableye,10,154,Fury Swipes,1,15,
-302,sableye,10,185,Feint Attack,1,32,
-302,sableye,10,193,Foresight,1,4,
-302,sableye,10,197,Detect,1,22,
-302,sableye,10,212,Mean Look,1,57,
-302,sableye,10,247,Shadow Ball,1,53,
-302,sableye,10,252,Fake Out,1,18,
-302,sableye,10,282,Knock Off,1,29,
-302,sableye,10,310,Astonish,1,11,
-302,sableye,10,386,Punishment,1,36,
-302,sableye,10,408,Power Gem,1,43,
-302,sableye,10,421,Shadow Claw,1,39,
-302,sableye,10,425,Shadow Sneak,1,25,
-302,sableye,10,428,Zen Headbutt,1,50,
-302,sableye,11,10,Scratch,1,1,2
-302,sableye,11,43,Leer,1,1,1
-302,sableye,11,101,Night Shade,1,8,
-302,sableye,11,109,Confuse Ray,1,46,
-302,sableye,11,154,Fury Swipes,1,15,
-302,sableye,11,185,Feint Attack,1,32,
-302,sableye,11,193,Foresight,1,4,
-302,sableye,11,197,Detect,1,22,
-302,sableye,11,212,Mean Look,1,60,
-302,sableye,11,247,Shadow Ball,1,57,
-302,sableye,11,252,Fake Out,1,18,
-302,sableye,11,282,Knock Off,1,29,
-302,sableye,11,310,Astonish,1,11,
-302,sableye,11,386,Punishment,1,36,
-302,sableye,11,408,Power Gem,1,43,
-302,sableye,11,421,Shadow Claw,1,39,
-302,sableye,11,425,Shadow Sneak,1,25,
-302,sableye,11,428,Zen Headbutt,1,53,
-302,sableye,11,492,Foul Play,1,50,
-302,sableye,12,10,Scratch,1,1,2
-302,sableye,12,43,Leer,1,1,1
-302,sableye,12,101,Night Shade,1,9,
-302,sableye,12,109,Confuse Ray,1,37,
-302,sableye,12,154,Fury Swipes,1,17,
-302,sableye,12,185,Feint Attack,1,29,
-302,sableye,12,193,Foresight,1,5,
-302,sableye,12,197,Detect,1,25,
-302,sableye,12,212,Mean Look,1,45,
-302,sableye,12,247,Shadow Ball,1,41,
-302,sableye,12,252,Fake Out,1,21,
-302,sableye,12,282,Knock Off,1,33,
-302,sableye,12,310,Astonish,1,13,
-302,sableye,13,10,Scratch,1,1,2
-302,sableye,13,43,Leer,1,1,1
-302,sableye,13,101,Night Shade,1,9,
-302,sableye,13,109,Confuse Ray,1,37,
-302,sableye,13,154,Fury Swipes,1,17,
-302,sableye,13,185,Feint Attack,1,29,
-302,sableye,13,193,Foresight,1,5,
-302,sableye,13,197,Detect,1,25,
-302,sableye,13,212,Mean Look,1,45,
-302,sableye,13,247,Shadow Ball,1,41,
-302,sableye,13,252,Fake Out,1,21,
-302,sableye,13,282,Knock Off,1,33,
-302,sableye,13,310,Astonish,1,13,
-302,sableye,14,10,Scratch,1,1,2
-302,sableye,14,43,Leer,1,1,1
-302,sableye,14,101,Night Shade,1,8,
-302,sableye,14,109,Confuse Ray,1,46,
-302,sableye,14,154,Fury Swipes,1,15,
-302,sableye,14,185,Feint Attack,1,32,
-302,sableye,14,193,Foresight,1,4,
-302,sableye,14,197,Detect,1,22,
-302,sableye,14,212,Mean Look,1,60,
-302,sableye,14,247,Shadow Ball,1,57,
-302,sableye,14,252,Fake Out,1,18,
-302,sableye,14,282,Knock Off,1,29,
-302,sableye,14,310,Astonish,1,11,
-302,sableye,14,386,Punishment,1,36,
-302,sableye,14,408,Power Gem,1,43,
-302,sableye,14,421,Shadow Claw,1,39,
-302,sableye,14,425,Shadow Sneak,1,25,
-302,sableye,14,428,Zen Headbutt,1,53,
-302,sableye,14,492,Foul Play,1,50,
-302,sableye,15,10,Scratch,1,1,4
-302,sableye,15,43,Leer,1,1,3
-302,sableye,15,101,Night Shade,1,8,
-302,sableye,15,109,Confuse Ray,1,46,
-302,sableye,15,154,Fury Swipes,1,15,
-302,sableye,15,185,Feint Attack,1,32,
-302,sableye,15,193,Foresight,1,4,
-302,sableye,15,197,Detect,1,22,
-302,sableye,15,212,Mean Look,1,1,1
-302,sableye,15,212,Mean Look,1,60,
-302,sableye,15,247,Shadow Ball,1,57,
-302,sableye,15,252,Fake Out,1,18,
-302,sableye,15,282,Knock Off,1,29,
-302,sableye,15,310,Astonish,1,11,
-302,sableye,15,386,Punishment,1,36,
-302,sableye,15,408,Power Gem,1,43,
-302,sableye,15,421,Shadow Claw,1,39,
-302,sableye,15,425,Shadow Sneak,1,25,
-302,sableye,15,428,Zen Headbutt,1,1,2
-302,sableye,15,428,Zen Headbutt,1,53,
-302,sableye,15,492,Foul Play,1,50,
-302,sableye,16,10,Scratch,1,1,2
-302,sableye,16,43,Leer,1,1,1
-302,sableye,16,101,Night Shade,1,6,1
-302,sableye,16,109,Confuse Ray,1,31,1
-302,sableye,16,154,Fury Swipes,1,11,1
-302,sableye,16,185,Feint Attack,1,19,1
-302,sableye,16,193,Foresight,1,4,1
-302,sableye,16,197,Detect,1,14,1
-302,sableye,16,212,Mean Look,1,46,1
-302,sableye,16,247,Shadow Ball,1,39,1
-302,sableye,16,252,Fake Out,1,21,1
-302,sableye,16,282,Knock Off,1,26,1
-302,sableye,16,310,Astonish,1,9,1
-302,sableye,16,386,Punishment,1,24,1
-302,sableye,16,408,Power Gem,1,36,1
-302,sableye,16,421,Shadow Claw,1,29,1
-302,sableye,16,425,Shadow Sneak,1,16,1
-302,sableye,16,428,Zen Headbutt,1,34,1
-302,sableye,16,492,Foul Play,1,41,1
-302,sableye,16,511,Quash,1,44,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+302,5,Scratch,1,normal,40,100
+302,5,Leer,1,normal,-,100
+302,6,Scratch,1,normal,40,100
+302,6,Leer,1,normal,-,100
+302,7,Scratch,1,normal,40,100
+302,7,Leer,1,normal,-,100
+302,8,Scratch,1,normal,40,100
+302,8,Leer,1,normal,-,100
+302,9,Scratch,1,normal,40,100
+302,9,Leer,1,normal,-,100
+302,10,Scratch,1,normal,40,100
+302,10,Leer,1,normal,-,100
+302,11,Scratch,1,normal,40,100
+302,11,Leer,1,normal,-,100
+302,12,Scratch,1,normal,40,100
+302,12,Leer,1,normal,-,100
+302,13,Scratch,1,normal,40,100
+302,13,Leer,1,normal,-,100
+302,14,Scratch,1,normal,40,100
+302,14,Leer,1,normal,-,100
+302,15,Scratch,1,normal,40,100
+302,15,Leer,1,normal,-,100
+302,15,Mean Look,1,normal,-,-
+302,15,Zen Headbutt,1,psychic,80,90
+302,16,Scratch,1,normal,40,100
+302,16,Leer,1,normal,-,100
+302,8,Foresight,4,normal,-,-
+302,9,Foresight,4,normal,-,-
+302,10,Foresight,4,normal,-,-
+302,11,Foresight,4,normal,-,-
+302,14,Foresight,4,normal,-,-
+302,15,Foresight,4,normal,-,-
+302,16,Foresight,4,normal,-,-
+302,5,Foresight,5,normal,-,-
+302,6,Foresight,5,normal,-,-
+302,7,Foresight,5,normal,-,-
+302,12,Foresight,5,normal,-,-
+302,13,Foresight,5,normal,-,-
+302,16,Night Shade,6,ghost,-,100
+302,8,Night Shade,8,ghost,-,100
+302,9,Night Shade,8,ghost,-,100
+302,10,Night Shade,8,ghost,-,100
+302,11,Night Shade,8,ghost,-,100
+302,14,Night Shade,8,ghost,-,100
+302,15,Night Shade,8,ghost,-,100
+302,5,Night Shade,9,ghost,-,100
+302,6,Night Shade,9,ghost,-,100
+302,7,Night Shade,9,ghost,-,100
+302,12,Night Shade,9,ghost,-,100
+302,13,Night Shade,9,ghost,-,100
+302,16,Astonish,9,ghost,30,100
+302,8,Astonish,11,ghost,30,100
+302,9,Astonish,11,ghost,30,100
+302,10,Astonish,11,ghost,30,100
+302,11,Astonish,11,ghost,30,100
+302,14,Astonish,11,ghost,30,100
+302,15,Astonish,11,ghost,30,100
+302,16,Fury Swipes,11,normal,18,80
+302,5,Astonish,13,ghost,30,100
+302,6,Astonish,13,ghost,30,100
+302,7,Astonish,13,ghost,30,100
+302,12,Astonish,13,ghost,30,100
+302,13,Astonish,13,ghost,30,100
+302,16,Detect,14,fighting,-,-
+302,8,Fury Swipes,15,normal,18,80
+302,9,Fury Swipes,15,normal,18,80
+302,10,Fury Swipes,15,normal,18,80
+302,11,Fury Swipes,15,normal,18,80
+302,14,Fury Swipes,15,normal,18,80
+302,15,Fury Swipes,15,normal,18,80
+302,16,Shadow Sneak,16,ghost,40,100
+302,5,Fury Swipes,17,normal,18,80
+302,6,Fury Swipes,17,normal,18,80
+302,7,Fury Swipes,17,normal,18,80
+302,12,Fury Swipes,17,normal,18,80
+302,13,Fury Swipes,17,normal,18,80
+302,8,Fake Out,18,normal,40,100
+302,9,Fake Out,18,normal,40,100
+302,10,Fake Out,18,normal,40,100
+302,11,Fake Out,18,normal,40,100
+302,14,Fake Out,18,normal,40,100
+302,15,Fake Out,18,normal,40,100
+302,16,Feint Attack,19,dark,60,-
+302,5,Fake Out,21,normal,40,100
+302,6,Fake Out,21,normal,40,100
+302,7,Fake Out,21,normal,40,100
+302,12,Fake Out,21,normal,40,100
+302,13,Fake Out,21,normal,40,100
+302,16,Fake Out,21,normal,40,100
+302,8,Detect,22,fighting,-,-
+302,9,Detect,22,fighting,-,-
+302,10,Detect,22,fighting,-,-
+302,11,Detect,22,fighting,-,-
+302,14,Detect,22,fighting,-,-
+302,15,Detect,22,fighting,-,-
+302,16,Punishment,24,dark,-,100
+302,5,Detect,25,fighting,-,-
+302,6,Detect,25,fighting,-,-
+302,7,Detect,25,fighting,-,-
+302,8,Shadow Sneak,25,ghost,40,100
+302,9,Shadow Sneak,25,ghost,40,100
+302,10,Shadow Sneak,25,ghost,40,100
+302,11,Shadow Sneak,25,ghost,40,100
+302,12,Detect,25,fighting,-,-
+302,13,Detect,25,fighting,-,-
+302,14,Shadow Sneak,25,ghost,40,100
+302,15,Shadow Sneak,25,ghost,40,100
+302,16,Knock Off,26,dark,65,100
+302,5,Feint Attack,29,dark,60,-
+302,6,Feint Attack,29,dark,60,-
+302,7,Feint Attack,29,dark,60,-
+302,8,Knock Off,29,dark,65,100
+302,9,Knock Off,29,dark,65,100
+302,10,Knock Off,29,dark,65,100
+302,11,Knock Off,29,dark,65,100
+302,12,Feint Attack,29,dark,60,-
+302,13,Feint Attack,29,dark,60,-
+302,14,Knock Off,29,dark,65,100
+302,15,Knock Off,29,dark,65,100
+302,16,Shadow Claw,29,ghost,70,100
+302,16,Confuse Ray,31,ghost,-,100
+302,8,Feint Attack,32,dark,60,-
+302,9,Feint Attack,32,dark,60,-
+302,10,Feint Attack,32,dark,60,-
+302,11,Feint Attack,32,dark,60,-
+302,14,Feint Attack,32,dark,60,-
+302,15,Feint Attack,32,dark,60,-
+302,5,Knock Off,33,dark,65,100
+302,6,Knock Off,33,dark,65,100
+302,7,Knock Off,33,dark,65,100
+302,12,Knock Off,33,dark,65,100
+302,13,Knock Off,33,dark,65,100
+302,16,Zen Headbutt,34,psychic,80,90
+302,8,Punishment,36,dark,-,100
+302,9,Punishment,36,dark,-,100
+302,10,Punishment,36,dark,-,100
+302,11,Punishment,36,dark,-,100
+302,14,Punishment,36,dark,-,100
+302,15,Punishment,36,dark,-,100
+302,16,Power Gem,36,rock,80,100
+302,5,Confuse Ray,37,ghost,-,100
+302,6,Confuse Ray,37,ghost,-,100
+302,7,Confuse Ray,37,ghost,-,100
+302,12,Confuse Ray,37,ghost,-,100
+302,13,Confuse Ray,37,ghost,-,100
+302,8,Shadow Claw,39,ghost,70,100
+302,9,Shadow Claw,39,ghost,70,100
+302,10,Shadow Claw,39,ghost,70,100
+302,11,Shadow Claw,39,ghost,70,100
+302,14,Shadow Claw,39,ghost,70,100
+302,15,Shadow Claw,39,ghost,70,100
+302,16,Shadow Ball,39,ghost,80,100
+302,5,Shadow Ball,41,ghost,80,100
+302,6,Shadow Ball,41,ghost,80,100
+302,7,Shadow Ball,41,ghost,80,100
+302,12,Shadow Ball,41,ghost,80,100
+302,13,Shadow Ball,41,ghost,80,100
+302,16,Foul Play,41,dark,95,100
+302,8,Power Gem,43,rock,80,100
+302,9,Power Gem,43,rock,80,100
+302,10,Power Gem,43,rock,80,100
+302,11,Power Gem,43,rock,80,100
+302,14,Power Gem,43,rock,80,100
+302,15,Power Gem,43,rock,80,100
+302,16,Quash,44,dark,-,100
+302,5,Mean Look,45,normal,-,-
+302,6,Mean Look,45,normal,-,-
+302,7,Mean Look,45,normal,-,-
+302,12,Mean Look,45,normal,-,-
+302,13,Mean Look,45,normal,-,-
+302,8,Confuse Ray,46,ghost,-,100
+302,9,Confuse Ray,46,ghost,-,100
+302,10,Confuse Ray,46,ghost,-,100
+302,11,Confuse Ray,46,ghost,-,100
+302,14,Confuse Ray,46,ghost,-,100
+302,15,Confuse Ray,46,ghost,-,100
+302,16,Mean Look,46,normal,-,-
+302,8,Zen Headbutt,50,psychic,80,90
+302,9,Zen Headbutt,50,psychic,80,90
+302,10,Zen Headbutt,50,psychic,80,90
+302,11,Foul Play,50,dark,95,100
+302,14,Foul Play,50,dark,95,100
+302,15,Foul Play,50,dark,95,100
+302,8,Shadow Ball,53,ghost,80,100
+302,9,Shadow Ball,53,ghost,80,100
+302,10,Shadow Ball,53,ghost,80,100
+302,11,Zen Headbutt,53,psychic,80,90
+302,14,Zen Headbutt,53,psychic,80,90
+302,15,Zen Headbutt,53,psychic,80,90
+302,8,Mean Look,57,normal,-,-
+302,9,Mean Look,57,normal,-,-
+302,10,Mean Look,57,normal,-,-
+302,11,Shadow Ball,57,ghost,80,100
+302,14,Shadow Ball,57,ghost,80,100
+302,15,Shadow Ball,57,ghost,80,100
+302,11,Mean Look,60,normal,-,-
+302,14,Mean Look,60,normal,-,-
+302,15,Mean Look,60,normal,-,-

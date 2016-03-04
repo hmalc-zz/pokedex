@@ -1,29 +1,29 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-674,pancham,15,2,Karate Chop,1,12,
-674,pancham,15,4,Comet Punch,1,15,
-674,pancham,15,33,Tackle,1,1,1
-674,pancham,15,34,Body Slam,1,33,
-674,pancham,15,43,Leer,1,1,2
-674,pancham,15,163,Slash,1,20,
-674,pancham,15,233,Vital Throw,1,27,
-674,pancham,15,242,Crunch,1,39,
-674,pancham,15,292,Arm Thrust,1,7,
-674,pancham,15,327,Sky Uppercut,1,48,
-674,pancham,15,494,Entrainment,1,42,
-674,pancham,15,509,Circle Throw,1,25,
-674,pancham,15,526,Work Up,1,10,
-674,pancham,15,575,Parting Shot,1,45,
-674,pancham,16,2,Karate Chop,1,12,1
-674,pancham,16,4,Comet Punch,1,15,1
-674,pancham,16,33,Tackle,1,1,1
-674,pancham,16,34,Body Slam,1,33,1
-674,pancham,16,43,Leer,1,1,2
-674,pancham,16,163,Slash,1,20,1
-674,pancham,16,233,Vital Throw,1,27,1
-674,pancham,16,242,Crunch,1,39,1
-674,pancham,16,292,Arm Thrust,1,7,1
-674,pancham,16,327,Sky Uppercut,1,48,1
-674,pancham,16,494,Entrainment,1,42,1
-674,pancham,16,509,Circle Throw,1,25,1
-674,pancham,16,526,Work Up,1,10,1
-674,pancham,16,575,Parting Shot,1,45,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+674,15,Tackle,1,normal,50,100
+674,15,Leer,1,normal,-,100
+674,16,Tackle,1,normal,50,100
+674,16,Leer,1,normal,-,100
+674,15,Arm Thrust,7,fighting,15,100
+674,16,Arm Thrust,7,fighting,15,100
+674,15,Work Up,10,normal,-,-
+674,16,Work Up,10,normal,-,-
+674,15,Karate Chop,12,fighting,50,100
+674,16,Karate Chop,12,fighting,50,100
+674,15,Comet Punch,15,normal,18,85
+674,16,Comet Punch,15,normal,18,85
+674,15,Slash,20,normal,70,100
+674,16,Slash,20,normal,70,100
+674,15,Circle Throw,25,fighting,60,90
+674,16,Circle Throw,25,fighting,60,90
+674,15,Vital Throw,27,fighting,70,-
+674,16,Vital Throw,27,fighting,70,-
+674,15,Body Slam,33,normal,85,100
+674,16,Body Slam,33,normal,85,100
+674,15,Crunch,39,dark,80,100
+674,16,Crunch,39,dark,80,100
+674,15,Entrainment,42,normal,-,100
+674,16,Entrainment,42,normal,-,100
+674,15,Parting Shot,45,dark,-,100
+674,16,Parting Shot,45,dark,-,100
+674,15,Sky Uppercut,48,fighting,85,90
+674,16,Sky Uppercut,48,fighting,85,90

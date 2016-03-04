@@ -1,120 +1,120 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-446,munchlax,8,33,Tackle,1,1,3
-446,munchlax,8,34,Body Slam,1,33,
-446,munchlax,8,103,Screech,1,20,
-446,munchlax,8,111,Defense Curl,1,4,
-446,munchlax,8,118,Metronome,1,1,1
-446,munchlax,8,122,Lick,1,12,
-446,munchlax,8,133,Amnesia,1,9,
-446,munchlax,8,205,Rollout,1,41,
-446,munchlax,8,254,Stockpile,1,25,
-446,munchlax,8,256,Swallow,1,28,
-446,munchlax,8,278,Recycle,1,17,
-446,munchlax,8,316,Odor Sleuth,1,1,2
-446,munchlax,8,363,Natural Gift,1,44,
-446,munchlax,8,374,Fling,1,36,
-446,munchlax,8,387,Last Resort,1,49,
-446,munchlax,9,33,Tackle,1,1,3
-446,munchlax,9,34,Body Slam,1,33,
-446,munchlax,9,103,Screech,1,20,
-446,munchlax,9,111,Defense Curl,1,4,
-446,munchlax,9,118,Metronome,1,1,1
-446,munchlax,9,122,Lick,1,12,
-446,munchlax,9,133,Amnesia,1,9,
-446,munchlax,9,205,Rollout,1,41,
-446,munchlax,9,254,Stockpile,1,25,
-446,munchlax,9,256,Swallow,1,28,
-446,munchlax,9,278,Recycle,1,17,
-446,munchlax,9,316,Odor Sleuth,1,1,2
-446,munchlax,9,363,Natural Gift,1,44,
-446,munchlax,9,374,Fling,1,36,
-446,munchlax,9,387,Last Resort,1,49,
-446,munchlax,10,33,Tackle,1,1,3
-446,munchlax,10,34,Body Slam,1,33,
-446,munchlax,10,103,Screech,1,20,
-446,munchlax,10,111,Defense Curl,1,4,
-446,munchlax,10,118,Metronome,1,1,1
-446,munchlax,10,122,Lick,1,12,
-446,munchlax,10,133,Amnesia,1,9,
-446,munchlax,10,205,Rollout,1,41,
-446,munchlax,10,254,Stockpile,1,25,
-446,munchlax,10,256,Swallow,1,28,
-446,munchlax,10,278,Recycle,1,17,
-446,munchlax,10,316,Odor Sleuth,1,1,2
-446,munchlax,10,363,Natural Gift,1,44,
-446,munchlax,10,374,Fling,1,36,
-446,munchlax,10,387,Last Resort,1,49,
-446,munchlax,11,33,Tackle,1,1,3
-446,munchlax,11,34,Body Slam,1,36,
-446,munchlax,11,103,Screech,1,20,
-446,munchlax,11,111,Defense Curl,1,4,
-446,munchlax,11,118,Metronome,1,1,1
-446,munchlax,11,122,Lick,1,12,
-446,munchlax,11,133,Amnesia,1,9,
-446,munchlax,11,205,Rollout,1,44,
-446,munchlax,11,254,Stockpile,1,28,
-446,munchlax,11,256,Swallow,1,33,
-446,munchlax,11,278,Recycle,1,17,
-446,munchlax,11,289,Snatch,1,52,
-446,munchlax,11,316,Odor Sleuth,1,1,2
-446,munchlax,11,363,Natural Gift,1,49,
-446,munchlax,11,374,Fling,1,41,
-446,munchlax,11,387,Last Resort,1,57,
-446,munchlax,11,498,Chip Away,1,25,
-446,munchlax,14,33,Tackle,1,1,3
-446,munchlax,14,34,Body Slam,1,36,
-446,munchlax,14,103,Screech,1,20,
-446,munchlax,14,111,Defense Curl,1,4,
-446,munchlax,14,118,Metronome,1,1,1
-446,munchlax,14,122,Lick,1,12,
-446,munchlax,14,133,Amnesia,1,9,
-446,munchlax,14,205,Rollout,1,44,
-446,munchlax,14,254,Stockpile,1,28,
-446,munchlax,14,256,Swallow,1,33,
-446,munchlax,14,278,Recycle,1,17,
-446,munchlax,14,289,Snatch,1,52,
-446,munchlax,14,316,Odor Sleuth,1,1,2
-446,munchlax,14,363,Natural Gift,1,49,
-446,munchlax,14,374,Fling,1,41,
-446,munchlax,14,387,Last Resort,1,57,
-446,munchlax,14,498,Chip Away,1,25,
-446,munchlax,15,33,Tackle,1,1,6
-446,munchlax,15,34,Body Slam,1,25,
-446,munchlax,15,103,Screech,1,20,
-446,munchlax,15,111,Defense Curl,1,4,
-446,munchlax,15,118,Metronome,1,1,4
-446,munchlax,15,122,Lick,1,1,3
-446,munchlax,15,122,Lick,1,12,
-446,munchlax,15,133,Amnesia,1,9,
-446,munchlax,15,187,Belly Drum,1,44,
-446,munchlax,15,205,Rollout,1,36,
-446,munchlax,15,254,Stockpile,1,28,
-446,munchlax,15,256,Swallow,1,33,
-446,munchlax,15,289,Snatch,1,1,2
-446,munchlax,15,289,Snatch,1,52,
-446,munchlax,15,316,Odor Sleuth,1,1,5
-446,munchlax,15,363,Natural Gift,1,49,
-446,munchlax,15,374,Fling,1,41,
-446,munchlax,15,387,Last Resort,1,1,1
-446,munchlax,15,387,Last Resort,1,57,
-446,munchlax,15,498,Chip Away,1,17,
-446,munchlax,16,33,Tackle,1,1,6
-446,munchlax,16,34,Body Slam,1,25,1
-446,munchlax,16,103,Screech,1,20,1
-446,munchlax,16,111,Defense Curl,1,4,1
-446,munchlax,16,118,Metronome,1,1,4
-446,munchlax,16,122,Lick,1,1,3
-446,munchlax,16,122,Lick,1,12,1
-446,munchlax,16,133,Amnesia,1,9,1
-446,munchlax,16,187,Belly Drum,1,44,1
-446,munchlax,16,205,Rollout,1,36,1
-446,munchlax,16,254,Stockpile,1,28,1
-446,munchlax,16,256,Swallow,1,33,1
-446,munchlax,16,278,Recycle,1,1,2
-446,munchlax,16,289,Snatch,1,50,1
-446,munchlax,16,316,Odor Sleuth,1,1,5
-446,munchlax,16,363,Natural Gift,1,49,1
-446,munchlax,16,374,Fling,1,41,1
-446,munchlax,16,387,Last Resort,1,1,1
-446,munchlax,16,387,Last Resort,1,57,1
-446,munchlax,16,498,Chip Away,1,17,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+446,8,Tackle,1,normal,50,100
+446,8,Metronome,1,normal,-,-
+446,8,Odor Sleuth,1,normal,-,-
+446,9,Tackle,1,normal,50,100
+446,9,Metronome,1,normal,-,-
+446,9,Odor Sleuth,1,normal,-,-
+446,10,Tackle,1,normal,50,100
+446,10,Metronome,1,normal,-,-
+446,10,Odor Sleuth,1,normal,-,-
+446,11,Tackle,1,normal,50,100
+446,11,Metronome,1,normal,-,-
+446,11,Odor Sleuth,1,normal,-,-
+446,14,Tackle,1,normal,50,100
+446,14,Metronome,1,normal,-,-
+446,14,Odor Sleuth,1,normal,-,-
+446,15,Tackle,1,normal,50,100
+446,15,Metronome,1,normal,-,-
+446,15,Lick,1,ghost,30,100
+446,15,Snatch,1,dark,-,-
+446,15,Odor Sleuth,1,normal,-,-
+446,15,Last Resort,1,normal,140,100
+446,16,Tackle,1,normal,50,100
+446,16,Metronome,1,normal,-,-
+446,16,Lick,1,ghost,30,100
+446,16,Recycle,1,normal,-,-
+446,16,Odor Sleuth,1,normal,-,-
+446,16,Last Resort,1,normal,140,100
+446,8,Defense Curl,4,normal,-,-
+446,9,Defense Curl,4,normal,-,-
+446,10,Defense Curl,4,normal,-,-
+446,11,Defense Curl,4,normal,-,-
+446,14,Defense Curl,4,normal,-,-
+446,15,Defense Curl,4,normal,-,-
+446,16,Defense Curl,4,normal,-,-
+446,8,Amnesia,9,psychic,-,-
+446,9,Amnesia,9,psychic,-,-
+446,10,Amnesia,9,psychic,-,-
+446,11,Amnesia,9,psychic,-,-
+446,14,Amnesia,9,psychic,-,-
+446,15,Amnesia,9,psychic,-,-
+446,16,Amnesia,9,psychic,-,-
+446,8,Lick,12,ghost,30,100
+446,9,Lick,12,ghost,30,100
+446,10,Lick,12,ghost,30,100
+446,11,Lick,12,ghost,30,100
+446,14,Lick,12,ghost,30,100
+446,15,Lick,12,ghost,30,100
+446,16,Lick,12,ghost,30,100
+446,8,Recycle,17,normal,-,-
+446,9,Recycle,17,normal,-,-
+446,10,Recycle,17,normal,-,-
+446,11,Recycle,17,normal,-,-
+446,14,Recycle,17,normal,-,-
+446,15,Chip Away,17,normal,70,100
+446,16,Chip Away,17,normal,70,100
+446,8,Screech,20,normal,-,85
+446,9,Screech,20,normal,-,85
+446,10,Screech,20,normal,-,85
+446,11,Screech,20,normal,-,85
+446,14,Screech,20,normal,-,85
+446,15,Screech,20,normal,-,85
+446,16,Screech,20,normal,-,85
+446,8,Stockpile,25,normal,-,-
+446,9,Stockpile,25,normal,-,-
+446,10,Stockpile,25,normal,-,-
+446,11,Chip Away,25,normal,70,100
+446,14,Chip Away,25,normal,70,100
+446,15,Body Slam,25,normal,85,100
+446,16,Body Slam,25,normal,85,100
+446,8,Swallow,28,normal,-,-
+446,9,Swallow,28,normal,-,-
+446,10,Swallow,28,normal,-,-
+446,11,Stockpile,28,normal,-,-
+446,14,Stockpile,28,normal,-,-
+446,15,Stockpile,28,normal,-,-
+446,16,Stockpile,28,normal,-,-
+446,8,Body Slam,33,normal,85,100
+446,9,Body Slam,33,normal,85,100
+446,10,Body Slam,33,normal,85,100
+446,11,Swallow,33,normal,-,-
+446,14,Swallow,33,normal,-,-
+446,15,Swallow,33,normal,-,-
+446,16,Swallow,33,normal,-,-
+446,8,Fling,36,dark,-,100
+446,9,Fling,36,dark,-,100
+446,10,Fling,36,dark,-,100
+446,11,Body Slam,36,normal,85,100
+446,14,Body Slam,36,normal,85,100
+446,15,Rollout,36,rock,30,90
+446,16,Rollout,36,rock,30,90
+446,8,Rollout,41,rock,30,90
+446,9,Rollout,41,rock,30,90
+446,10,Rollout,41,rock,30,90
+446,11,Fling,41,dark,-,100
+446,14,Fling,41,dark,-,100
+446,15,Fling,41,dark,-,100
+446,16,Fling,41,dark,-,100
+446,8,Natural Gift,44,normal,-,100
+446,9,Natural Gift,44,normal,-,100
+446,10,Natural Gift,44,normal,-,100
+446,11,Rollout,44,rock,30,90
+446,14,Rollout,44,rock,30,90
+446,15,Belly Drum,44,normal,-,-
+446,16,Belly Drum,44,normal,-,-
+446,8,Last Resort,49,normal,140,100
+446,9,Last Resort,49,normal,140,100
+446,10,Last Resort,49,normal,140,100
+446,11,Natural Gift,49,normal,-,100
+446,14,Natural Gift,49,normal,-,100
+446,15,Natural Gift,49,normal,-,100
+446,16,Natural Gift,49,normal,-,100
+446,16,Snatch,50,dark,-,-
+446,11,Snatch,52,dark,-,-
+446,14,Snatch,52,dark,-,-
+446,15,Snatch,52,dark,-,-
+446,11,Last Resort,57,normal,140,100
+446,14,Last Resort,57,normal,140,100
+446,15,Last Resort,57,normal,140,100
+446,16,Last Resort,57,normal,140,100

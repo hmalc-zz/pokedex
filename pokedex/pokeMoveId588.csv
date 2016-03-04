@@ -1,61 +1,61 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-588,karrablast,11,14,Swords Dance,1,52,
-588,karrablast,11,29,Headbutt,1,20,
-588,karrablast,11,31,Fury Attack,1,16,
-588,karrablast,11,36,Take Down,1,37,
-588,karrablast,11,38,Double-Edge,1,56,
-588,karrablast,11,43,Leer,1,4,
-588,karrablast,11,64,Peck,1,1,
-588,karrablast,11,163,Slash,1,32,
-588,karrablast,11,175,Flail,1,49,
-588,karrablast,11,184,Scary Face,1,40,
-588,karrablast,11,203,Endure,1,8,
-588,karrablast,11,206,False Swipe,1,25,
-588,karrablast,11,210,Fury Cutter,1,13,
-588,karrablast,11,404,X-Scissor,1,44,
-588,karrablast,11,405,Bug Buzz,1,28,
-588,karrablast,14,14,Swords Dance,1,52,
-588,karrablast,14,29,Headbutt,1,20,
-588,karrablast,14,31,Fury Attack,1,16,
-588,karrablast,14,36,Take Down,1,37,
-588,karrablast,14,38,Double-Edge,1,56,
-588,karrablast,14,43,Leer,1,4,
-588,karrablast,14,64,Peck,1,1,
-588,karrablast,14,163,Slash,1,32,
-588,karrablast,14,175,Flail,1,49,
-588,karrablast,14,184,Scary Face,1,40,
-588,karrablast,14,203,Endure,1,8,
-588,karrablast,14,206,False Swipe,1,25,
-588,karrablast,14,210,Fury Cutter,1,13,
-588,karrablast,14,404,X-Scissor,1,44,
-588,karrablast,14,405,Bug Buzz,1,28,
-588,karrablast,15,14,Swords Dance,1,52,
-588,karrablast,15,29,Headbutt,1,20,
-588,karrablast,15,31,Fury Attack,1,16,
-588,karrablast,15,36,Take Down,1,37,
-588,karrablast,15,38,Double-Edge,1,56,
-588,karrablast,15,43,Leer,1,4,
-588,karrablast,15,64,Peck,1,1,
-588,karrablast,15,163,Slash,1,32,
-588,karrablast,15,175,Flail,1,49,
-588,karrablast,15,184,Scary Face,1,40,
-588,karrablast,15,203,Endure,1,8,
-588,karrablast,15,206,False Swipe,1,25,
-588,karrablast,15,210,Fury Cutter,1,13,
-588,karrablast,15,404,X-Scissor,1,44,
-588,karrablast,15,405,Bug Buzz,1,28,
-588,karrablast,16,14,Swords Dance,1,52,1
-588,karrablast,16,29,Headbutt,1,20,1
-588,karrablast,16,31,Fury Attack,1,16,1
-588,karrablast,16,36,Take Down,1,37,1
-588,karrablast,16,38,Double-Edge,1,56,1
-588,karrablast,16,43,Leer,1,4,1
-588,karrablast,16,64,Peck,1,1,1
-588,karrablast,16,163,Slash,1,32,1
-588,karrablast,16,175,Flail,1,49,1
-588,karrablast,16,184,Scary Face,1,40,1
-588,karrablast,16,203,Endure,1,8,1
-588,karrablast,16,206,False Swipe,1,25,1
-588,karrablast,16,210,Fury Cutter,1,13,1
-588,karrablast,16,404,X-Scissor,1,44,1
-588,karrablast,16,405,Bug Buzz,1,28,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+588,11,Peck,1,flying,35,100
+588,14,Peck,1,flying,35,100
+588,15,Peck,1,flying,35,100
+588,16,Peck,1,flying,35,100
+588,11,Leer,4,normal,-,100
+588,14,Leer,4,normal,-,100
+588,15,Leer,4,normal,-,100
+588,16,Leer,4,normal,-,100
+588,11,Endure,8,normal,-,-
+588,14,Endure,8,normal,-,-
+588,15,Endure,8,normal,-,-
+588,16,Endure,8,normal,-,-
+588,11,Fury Cutter,13,bug,40,95
+588,14,Fury Cutter,13,bug,40,95
+588,15,Fury Cutter,13,bug,40,95
+588,16,Fury Cutter,13,bug,40,95
+588,11,Fury Attack,16,normal,15,85
+588,14,Fury Attack,16,normal,15,85
+588,15,Fury Attack,16,normal,15,85
+588,16,Fury Attack,16,normal,15,85
+588,11,Headbutt,20,normal,70,100
+588,14,Headbutt,20,normal,70,100
+588,15,Headbutt,20,normal,70,100
+588,16,Headbutt,20,normal,70,100
+588,11,False Swipe,25,normal,40,100
+588,14,False Swipe,25,normal,40,100
+588,15,False Swipe,25,normal,40,100
+588,16,False Swipe,25,normal,40,100
+588,11,Bug Buzz,28,bug,90,100
+588,14,Bug Buzz,28,bug,90,100
+588,15,Bug Buzz,28,bug,90,100
+588,16,Bug Buzz,28,bug,90,100
+588,11,Slash,32,normal,70,100
+588,14,Slash,32,normal,70,100
+588,15,Slash,32,normal,70,100
+588,16,Slash,32,normal,70,100
+588,11,Take Down,37,normal,90,85
+588,14,Take Down,37,normal,90,85
+588,15,Take Down,37,normal,90,85
+588,16,Take Down,37,normal,90,85
+588,11,Scary Face,40,normal,-,100
+588,14,Scary Face,40,normal,-,100
+588,15,Scary Face,40,normal,-,100
+588,16,Scary Face,40,normal,-,100
+588,11,X-Scissor,44,bug,80,100
+588,14,X-Scissor,44,bug,80,100
+588,15,X-Scissor,44,bug,80,100
+588,16,X-Scissor,44,bug,80,100
+588,11,Flail,49,normal,-,100
+588,14,Flail,49,normal,-,100
+588,15,Flail,49,normal,-,100
+588,16,Flail,49,normal,-,100
+588,11,Swords Dance,52,normal,-,-
+588,14,Swords Dance,52,normal,-,-
+588,15,Swords Dance,52,normal,-,-
+588,16,Swords Dance,52,normal,-,-
+588,11,Double-Edge,56,normal,120,100
+588,14,Double-Edge,56,normal,120,100
+588,15,Double-Edge,56,normal,120,100
+588,16,Double-Edge,56,normal,120,100

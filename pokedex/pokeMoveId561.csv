@@ -1,69 +1,69 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-561,sigilyph,11,16,Gust,1,1,1
-561,sigilyph,11,18,Whirlwind,1,14,
-561,sigilyph,11,60,Psybeam,1,18,
-561,sigilyph,11,94,Psychic,1,44,
-561,sigilyph,11,95,Hypnosis,1,4,
-561,sigilyph,11,113,Light Screen,1,24,
-561,sigilyph,11,115,Reflect,1,28,
-561,sigilyph,11,119,Mirror Move,1,34,
-561,sigilyph,11,143,Sky Attack,1,51,
-561,sigilyph,11,149,Psywave,1,8,
-561,sigilyph,11,314,Air Cutter,1,21,
-561,sigilyph,11,322,Cosmic Power,1,48,
-561,sigilyph,11,356,Gravity,1,38,
-561,sigilyph,11,357,Miracle Eye,1,1,2
-561,sigilyph,11,366,Tailwind,1,11,
-561,sigilyph,11,403,Air Slash,1,41,
-561,sigilyph,11,485,Synchronoise,1,31,
-561,sigilyph,14,16,Gust,1,1,1
-561,sigilyph,14,18,Whirlwind,1,14,
-561,sigilyph,14,60,Psybeam,1,18,
-561,sigilyph,14,94,Psychic,1,44,
-561,sigilyph,14,95,Hypnosis,1,4,
-561,sigilyph,14,113,Light Screen,1,24,
-561,sigilyph,14,115,Reflect,1,28,
-561,sigilyph,14,119,Mirror Move,1,34,
-561,sigilyph,14,143,Sky Attack,1,51,
-561,sigilyph,14,149,Psywave,1,8,
-561,sigilyph,14,314,Air Cutter,1,21,
-561,sigilyph,14,322,Cosmic Power,1,48,
-561,sigilyph,14,356,Gravity,1,38,
-561,sigilyph,14,357,Miracle Eye,1,1,2
-561,sigilyph,14,366,Tailwind,1,11,
-561,sigilyph,14,403,Air Slash,1,41,
-561,sigilyph,14,485,Synchronoise,1,31,
-561,sigilyph,15,16,Gust,1,1,1
-561,sigilyph,15,18,Whirlwind,1,14,
-561,sigilyph,15,60,Psybeam,1,18,
-561,sigilyph,15,94,Psychic,1,44,
-561,sigilyph,15,95,Hypnosis,1,4,
-561,sigilyph,15,113,Light Screen,1,24,
-561,sigilyph,15,115,Reflect,1,28,
-561,sigilyph,15,119,Mirror Move,1,34,
-561,sigilyph,15,143,Sky Attack,1,50,
-561,sigilyph,15,149,Psywave,1,8,
-561,sigilyph,15,314,Air Cutter,1,21,
-561,sigilyph,15,322,Cosmic Power,1,48,
-561,sigilyph,15,356,Gravity,1,38,
-561,sigilyph,15,357,Miracle Eye,1,1,2
-561,sigilyph,15,366,Tailwind,1,11,
-561,sigilyph,15,403,Air Slash,1,41,
-561,sigilyph,15,485,Synchronoise,1,31,
-561,sigilyph,16,16,Gust,1,1,1
-561,sigilyph,16,18,Whirlwind,1,14,1
-561,sigilyph,16,60,Psybeam,1,18,1
-561,sigilyph,16,94,Psychic,1,44,1
-561,sigilyph,16,95,Hypnosis,1,4,1
-561,sigilyph,16,113,Light Screen,1,24,1
-561,sigilyph,16,115,Reflect,1,28,1
-561,sigilyph,16,119,Mirror Move,1,34,1
-561,sigilyph,16,143,Sky Attack,1,50,1
-561,sigilyph,16,149,Psywave,1,8,1
-561,sigilyph,16,314,Air Cutter,1,21,1
-561,sigilyph,16,322,Cosmic Power,1,48,1
-561,sigilyph,16,356,Gravity,1,38,1
-561,sigilyph,16,357,Miracle Eye,1,1,2
-561,sigilyph,16,366,Tailwind,1,11,1
-561,sigilyph,16,403,Air Slash,1,41,1
-561,sigilyph,16,485,Synchronoise,1,31,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+561,11,Gust,1,flying,40,100
+561,11,Miracle Eye,1,psychic,-,-
+561,14,Gust,1,flying,40,100
+561,14,Miracle Eye,1,psychic,-,-
+561,15,Gust,1,flying,40,100
+561,15,Miracle Eye,1,psychic,-,-
+561,16,Gust,1,flying,40,100
+561,16,Miracle Eye,1,psychic,-,-
+561,11,Hypnosis,4,psychic,-,60
+561,14,Hypnosis,4,psychic,-,60
+561,15,Hypnosis,4,psychic,-,60
+561,16,Hypnosis,4,psychic,-,60
+561,11,Psywave,8,psychic,-,100
+561,14,Psywave,8,psychic,-,100
+561,15,Psywave,8,psychic,-,100
+561,16,Psywave,8,psychic,-,100
+561,11,Tailwind,11,flying,-,-
+561,14,Tailwind,11,flying,-,-
+561,15,Tailwind,11,flying,-,-
+561,16,Tailwind,11,flying,-,-
+561,11,Whirlwind,14,normal,-,-
+561,14,Whirlwind,14,normal,-,-
+561,15,Whirlwind,14,normal,-,-
+561,16,Whirlwind,14,normal,-,-
+561,11,Psybeam,18,psychic,65,100
+561,14,Psybeam,18,psychic,65,100
+561,15,Psybeam,18,psychic,65,100
+561,16,Psybeam,18,psychic,65,100
+561,11,Air Cutter,21,flying,60,95
+561,14,Air Cutter,21,flying,60,95
+561,15,Air Cutter,21,flying,60,95
+561,16,Air Cutter,21,flying,60,95
+561,11,Light Screen,24,psychic,-,-
+561,14,Light Screen,24,psychic,-,-
+561,15,Light Screen,24,psychic,-,-
+561,16,Light Screen,24,psychic,-,-
+561,11,Reflect,28,psychic,-,-
+561,14,Reflect,28,psychic,-,-
+561,15,Reflect,28,psychic,-,-
+561,16,Reflect,28,psychic,-,-
+561,11,Synchronoise,31,psychic,120,100
+561,14,Synchronoise,31,psychic,120,100
+561,15,Synchronoise,31,psychic,120,100
+561,16,Synchronoise,31,psychic,120,100
+561,11,Mirror Move,34,flying,-,-
+561,14,Mirror Move,34,flying,-,-
+561,15,Mirror Move,34,flying,-,-
+561,16,Mirror Move,34,flying,-,-
+561,11,Gravity,38,psychic,-,-
+561,14,Gravity,38,psychic,-,-
+561,15,Gravity,38,psychic,-,-
+561,16,Gravity,38,psychic,-,-
+561,11,Air Slash,41,flying,75,95
+561,14,Air Slash,41,flying,75,95
+561,15,Air Slash,41,flying,75,95
+561,16,Air Slash,41,flying,75,95
+561,11,Psychic,44,psychic,90,100
+561,14,Psychic,44,psychic,90,100
+561,15,Psychic,44,psychic,90,100
+561,16,Psychic,44,psychic,90,100
+561,11,Cosmic Power,48,psychic,-,-
+561,14,Cosmic Power,48,psychic,-,-
+561,15,Cosmic Power,48,psychic,-,-
+561,16,Cosmic Power,48,psychic,-,-
+561,15,Sky Attack,50,flying,140,90
+561,16,Sky Attack,50,flying,140,90
+561,11,Sky Attack,51,flying,140,90
+561,14,Sky Attack,51,flying,140,90

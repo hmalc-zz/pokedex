@@ -1,201 +1,201 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-279,pelipper,5,17,Wing Attack,1,1,4
-279,pelipper,5,17,Wing Attack,1,13,
-279,pelipper,5,45,Growl,1,1,1
-279,pelipper,5,48,Supersonic,1,7,
-279,pelipper,5,54,Mist,1,21,
-279,pelipper,5,55,Water Gun,1,1,2
-279,pelipper,5,55,Water Gun,1,3,
-279,pelipper,5,56,Hydro Pump,1,61,
-279,pelipper,5,182,Protect,1,25,
-279,pelipper,5,254,Stockpile,1,33,
-279,pelipper,5,255,Spit Up,1,47,
-279,pelipper,5,256,Swallow,1,33,5
-279,pelipper,5,346,Water Sport,1,1,3
-279,pelipper,6,17,Wing Attack,1,1,4
-279,pelipper,6,17,Wing Attack,1,13,
-279,pelipper,6,45,Growl,1,1,1
-279,pelipper,6,48,Supersonic,1,7,
-279,pelipper,6,54,Mist,1,21,
-279,pelipper,6,55,Water Gun,1,1,2
-279,pelipper,6,55,Water Gun,1,3,
-279,pelipper,6,56,Hydro Pump,1,61,
-279,pelipper,6,182,Protect,1,25,
-279,pelipper,6,254,Stockpile,1,33,
-279,pelipper,6,255,Spit Up,1,47,
-279,pelipper,6,256,Swallow,1,33,5
-279,pelipper,6,346,Water Sport,1,1,3
-279,pelipper,7,17,Wing Attack,1,1,4
-279,pelipper,7,17,Wing Attack,1,13,
-279,pelipper,7,45,Growl,1,1,1
-279,pelipper,7,48,Supersonic,1,7,
-279,pelipper,7,54,Mist,1,21,
-279,pelipper,7,55,Water Gun,1,1,2
-279,pelipper,7,55,Water Gun,1,3,
-279,pelipper,7,56,Hydro Pump,1,61,
-279,pelipper,7,182,Protect,1,25,
-279,pelipper,7,254,Stockpile,1,33,
-279,pelipper,7,255,Spit Up,1,47,
-279,pelipper,7,256,Swallow,1,33,5
-279,pelipper,7,346,Water Sport,1,1,3
-279,pelipper,8,17,Wing Attack,1,1,4
-279,pelipper,8,17,Wing Attack,1,11,
-279,pelipper,8,45,Growl,1,1,1
-279,pelipper,8,48,Supersonic,1,6,
-279,pelipper,8,54,Mist,1,16,
-279,pelipper,8,55,Water Gun,1,1,2
-279,pelipper,8,56,Hydro Pump,1,57,
-279,pelipper,8,182,Protect,1,25,
-279,pelipper,8,254,Stockpile,1,38,1
-279,pelipper,8,255,Spit Up,1,38,3
-279,pelipper,8,256,Swallow,1,38,2
-279,pelipper,8,346,Water Sport,1,1,3
-279,pelipper,8,352,Water Pulse,1,19,
-279,pelipper,8,355,Roost,1,31,
-279,pelipper,8,366,Tailwind,1,50,
-279,pelipper,8,371,Payback,1,24,
-279,pelipper,8,374,Fling,1,43,
-279,pelipper,9,17,Wing Attack,1,1,4
-279,pelipper,9,17,Wing Attack,1,11,
-279,pelipper,9,45,Growl,1,1,1
-279,pelipper,9,48,Supersonic,1,6,
-279,pelipper,9,54,Mist,1,16,
-279,pelipper,9,55,Water Gun,1,1,2
-279,pelipper,9,56,Hydro Pump,1,57,
-279,pelipper,9,182,Protect,1,25,
-279,pelipper,9,254,Stockpile,1,38,1
-279,pelipper,9,255,Spit Up,1,38,3
-279,pelipper,9,256,Swallow,1,38,2
-279,pelipper,9,346,Water Sport,1,1,3
-279,pelipper,9,352,Water Pulse,1,19,
-279,pelipper,9,355,Roost,1,31,
-279,pelipper,9,366,Tailwind,1,50,
-279,pelipper,9,371,Payback,1,24,
-279,pelipper,9,374,Fling,1,43,
-279,pelipper,10,17,Wing Attack,1,1,4
-279,pelipper,10,17,Wing Attack,1,11,
-279,pelipper,10,45,Growl,1,1,1
-279,pelipper,10,48,Supersonic,1,6,
-279,pelipper,10,54,Mist,1,16,
-279,pelipper,10,55,Water Gun,1,1,2
-279,pelipper,10,56,Hydro Pump,1,57,
-279,pelipper,10,182,Protect,1,25,
-279,pelipper,10,254,Stockpile,1,38,1
-279,pelipper,10,255,Spit Up,1,38,3
-279,pelipper,10,256,Swallow,1,38,2
-279,pelipper,10,346,Water Sport,1,1,3
-279,pelipper,10,352,Water Pulse,1,19,
-279,pelipper,10,355,Roost,1,31,
-279,pelipper,10,366,Tailwind,1,50,
-279,pelipper,10,371,Payback,1,24,
-279,pelipper,10,374,Fling,1,43,
-279,pelipper,11,17,Wing Attack,1,1,5
-279,pelipper,11,17,Wing Attack,1,11,
-279,pelipper,11,45,Growl,1,1,2
-279,pelipper,11,48,Supersonic,1,6,
-279,pelipper,11,54,Mist,1,16,
-279,pelipper,11,55,Water Gun,1,1,3
-279,pelipper,11,56,Hydro Pump,1,57,
-279,pelipper,11,182,Protect,1,25,
-279,pelipper,11,254,Stockpile,1,38,1
-279,pelipper,11,255,Spit Up,1,38,3
-279,pelipper,11,256,Swallow,1,38,2
-279,pelipper,11,346,Water Sport,1,1,4
-279,pelipper,11,352,Water Pulse,1,19,
-279,pelipper,11,355,Roost,1,31,
-279,pelipper,11,366,Tailwind,1,50,
-279,pelipper,11,371,Payback,1,24,
-279,pelipper,11,374,Fling,1,43,
-279,pelipper,11,487,Soak,1,1,1
-279,pelipper,11,542,Hurricane,1,63,
-279,pelipper,12,17,Wing Attack,1,1,4
-279,pelipper,12,17,Wing Attack,1,13,
-279,pelipper,12,45,Growl,1,1,1
-279,pelipper,12,48,Supersonic,1,7,
-279,pelipper,12,54,Mist,1,21,
-279,pelipper,12,55,Water Gun,1,1,2
-279,pelipper,12,55,Water Gun,1,3,
-279,pelipper,12,56,Hydro Pump,1,61,
-279,pelipper,12,182,Protect,1,25,
-279,pelipper,12,254,Stockpile,1,33,
-279,pelipper,12,255,Spit Up,1,47,
-279,pelipper,12,256,Swallow,1,33,5
-279,pelipper,12,346,Water Sport,1,1,3
-279,pelipper,13,17,Wing Attack,1,1,4
-279,pelipper,13,17,Wing Attack,1,13,
-279,pelipper,13,45,Growl,1,1,1
-279,pelipper,13,48,Supersonic,1,7,
-279,pelipper,13,54,Mist,1,21,
-279,pelipper,13,55,Water Gun,1,1,2
-279,pelipper,13,55,Water Gun,1,3,
-279,pelipper,13,56,Hydro Pump,1,61,
-279,pelipper,13,182,Protect,1,25,
-279,pelipper,13,254,Stockpile,1,33,
-279,pelipper,13,255,Spit Up,1,47,
-279,pelipper,13,256,Swallow,1,33,5
-279,pelipper,13,346,Water Sport,1,1,3
-279,pelipper,14,17,Wing Attack,1,1,5
-279,pelipper,14,17,Wing Attack,1,9,
-279,pelipper,14,45,Growl,1,1,2
-279,pelipper,14,48,Supersonic,1,6,
-279,pelipper,14,54,Mist,1,14,
-279,pelipper,14,55,Water Gun,1,1,3
-279,pelipper,14,56,Hydro Pump,1,58,
-279,pelipper,14,182,Protect,1,25,
-279,pelipper,14,254,Stockpile,1,39,1
-279,pelipper,14,255,Spit Up,1,39,3
-279,pelipper,14,256,Swallow,1,39,2
-279,pelipper,14,346,Water Sport,1,1,4
-279,pelipper,14,352,Water Pulse,1,17,
-279,pelipper,14,355,Roost,1,28,
-279,pelipper,14,362,Brine,1,34,
-279,pelipper,14,366,Tailwind,1,52,
-279,pelipper,14,371,Payback,1,22,
-279,pelipper,14,374,Fling,1,46,
-279,pelipper,14,487,Soak,1,1,1
-279,pelipper,14,542,Hurricane,1,63,
-279,pelipper,15,17,Wing Attack,1,1,7
-279,pelipper,15,17,Wing Attack,1,9,
-279,pelipper,15,45,Growl,1,1,4
-279,pelipper,15,48,Supersonic,1,6,
-279,pelipper,15,54,Mist,1,14,
-279,pelipper,15,55,Water Gun,1,1,5
-279,pelipper,15,56,Hydro Pump,1,1,1
-279,pelipper,15,56,Hydro Pump,1,58,
-279,pelipper,15,182,Protect,1,25,
-279,pelipper,15,254,Stockpile,1,39,1
-279,pelipper,15,255,Spit Up,1,39,3
-279,pelipper,15,256,Swallow,1,39,2
-279,pelipper,15,346,Water Sport,1,1,6
-279,pelipper,15,352,Water Pulse,1,17,
-279,pelipper,15,355,Roost,1,28,
-279,pelipper,15,362,Brine,1,34,
-279,pelipper,15,366,Tailwind,1,1,2
-279,pelipper,15,366,Tailwind,1,52,
-279,pelipper,15,371,Payback,1,22,
-279,pelipper,15,374,Fling,1,46,
-279,pelipper,15,487,Soak,1,1,3
-279,pelipper,15,542,Hurricane,1,63,
-279,pelipper,16,17,Wing Attack,1,1,8
-279,pelipper,16,17,Wing Attack,1,8,1
-279,pelipper,16,45,Growl,1,1,5
-279,pelipper,16,48,Supersonic,1,5,1
-279,pelipper,16,54,Mist,1,12,1
-279,pelipper,16,55,Water Gun,1,1,6
-279,pelipper,16,56,Hydro Pump,1,1,2
-279,pelipper,16,56,Hydro Pump,1,50,1
-279,pelipper,16,182,Protect,1,25,1
-279,pelipper,16,254,Stockpile,1,33,1
-279,pelipper,16,255,Spit Up,1,33,3
-279,pelipper,16,256,Swallow,1,33,2
-279,pelipper,16,346,Water Sport,1,1,7
-279,pelipper,16,352,Water Pulse,1,15,1
-279,pelipper,16,355,Roost,1,22,1
-279,pelipper,16,362,Brine,1,28,1
-279,pelipper,16,366,Tailwind,1,1,3
-279,pelipper,16,366,Tailwind,1,44,1
-279,pelipper,16,371,Payback,1,19,1
-279,pelipper,16,374,Fling,1,39,1
-279,pelipper,16,487,Soak,1,1,4
-279,pelipper,16,542,Hurricane,1,1,1
-279,pelipper,16,542,Hurricane,1,55,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+279,5,Wing Attack,1,flying,60,100
+279,5,Growl,1,normal,-,100
+279,5,Water Gun,1,water,40,100
+279,5,Water Sport,1,water,-,-
+279,6,Wing Attack,1,flying,60,100
+279,6,Growl,1,normal,-,100
+279,6,Water Gun,1,water,40,100
+279,6,Water Sport,1,water,-,-
+279,7,Wing Attack,1,flying,60,100
+279,7,Growl,1,normal,-,100
+279,7,Water Gun,1,water,40,100
+279,7,Water Sport,1,water,-,-
+279,8,Wing Attack,1,flying,60,100
+279,8,Growl,1,normal,-,100
+279,8,Water Gun,1,water,40,100
+279,8,Water Sport,1,water,-,-
+279,9,Wing Attack,1,flying,60,100
+279,9,Growl,1,normal,-,100
+279,9,Water Gun,1,water,40,100
+279,9,Water Sport,1,water,-,-
+279,10,Wing Attack,1,flying,60,100
+279,10,Growl,1,normal,-,100
+279,10,Water Gun,1,water,40,100
+279,10,Water Sport,1,water,-,-
+279,11,Wing Attack,1,flying,60,100
+279,11,Growl,1,normal,-,100
+279,11,Water Gun,1,water,40,100
+279,11,Water Sport,1,water,-,-
+279,11,Soak,1,water,-,100
+279,12,Wing Attack,1,flying,60,100
+279,12,Growl,1,normal,-,100
+279,12,Water Gun,1,water,40,100
+279,12,Water Sport,1,water,-,-
+279,13,Wing Attack,1,flying,60,100
+279,13,Growl,1,normal,-,100
+279,13,Water Gun,1,water,40,100
+279,13,Water Sport,1,water,-,-
+279,14,Wing Attack,1,flying,60,100
+279,14,Growl,1,normal,-,100
+279,14,Water Gun,1,water,40,100
+279,14,Water Sport,1,water,-,-
+279,14,Soak,1,water,-,100
+279,15,Wing Attack,1,flying,60,100
+279,15,Growl,1,normal,-,100
+279,15,Water Gun,1,water,40,100
+279,15,Hydro Pump,1,water,110,80
+279,15,Water Sport,1,water,-,-
+279,15,Tailwind,1,flying,-,-
+279,15,Soak,1,water,-,100
+279,16,Wing Attack,1,flying,60,100
+279,16,Growl,1,normal,-,100
+279,16,Water Gun,1,water,40,100
+279,16,Hydro Pump,1,water,110,80
+279,16,Water Sport,1,water,-,-
+279,16,Tailwind,1,flying,-,-
+279,16,Soak,1,water,-,100
+279,16,Hurricane,1,flying,110,70
+279,5,Water Gun,3,water,40,100
+279,6,Water Gun,3,water,40,100
+279,7,Water Gun,3,water,40,100
+279,12,Water Gun,3,water,40,100
+279,13,Water Gun,3,water,40,100
+279,16,Supersonic,5,normal,-,55
+279,8,Supersonic,6,normal,-,55
+279,9,Supersonic,6,normal,-,55
+279,10,Supersonic,6,normal,-,55
+279,11,Supersonic,6,normal,-,55
+279,14,Supersonic,6,normal,-,55
+279,15,Supersonic,6,normal,-,55
+279,5,Supersonic,7,normal,-,55
+279,6,Supersonic,7,normal,-,55
+279,7,Supersonic,7,normal,-,55
+279,12,Supersonic,7,normal,-,55
+279,13,Supersonic,7,normal,-,55
+279,16,Wing Attack,8,flying,60,100
+279,14,Wing Attack,9,flying,60,100
+279,15,Wing Attack,9,flying,60,100
+279,8,Wing Attack,11,flying,60,100
+279,9,Wing Attack,11,flying,60,100
+279,10,Wing Attack,11,flying,60,100
+279,11,Wing Attack,11,flying,60,100
+279,16,Mist,12,ice,-,-
+279,5,Wing Attack,13,flying,60,100
+279,6,Wing Attack,13,flying,60,100
+279,7,Wing Attack,13,flying,60,100
+279,12,Wing Attack,13,flying,60,100
+279,13,Wing Attack,13,flying,60,100
+279,14,Mist,14,ice,-,-
+279,15,Mist,14,ice,-,-
+279,16,Water Pulse,15,water,60,100
+279,8,Mist,16,ice,-,-
+279,9,Mist,16,ice,-,-
+279,10,Mist,16,ice,-,-
+279,11,Mist,16,ice,-,-
+279,14,Water Pulse,17,water,60,100
+279,15,Water Pulse,17,water,60,100
+279,8,Water Pulse,19,water,60,100
+279,9,Water Pulse,19,water,60,100
+279,10,Water Pulse,19,water,60,100
+279,11,Water Pulse,19,water,60,100
+279,16,Payback,19,dark,50,100
+279,5,Mist,21,ice,-,-
+279,6,Mist,21,ice,-,-
+279,7,Mist,21,ice,-,-
+279,12,Mist,21,ice,-,-
+279,13,Mist,21,ice,-,-
+279,14,Payback,22,dark,50,100
+279,15,Payback,22,dark,50,100
+279,16,Roost,22,flying,-,-
+279,8,Payback,24,dark,50,100
+279,9,Payback,24,dark,50,100
+279,10,Payback,24,dark,50,100
+279,11,Payback,24,dark,50,100
+279,5,Protect,25,normal,-,-
+279,6,Protect,25,normal,-,-
+279,7,Protect,25,normal,-,-
+279,8,Protect,25,normal,-,-
+279,9,Protect,25,normal,-,-
+279,10,Protect,25,normal,-,-
+279,11,Protect,25,normal,-,-
+279,12,Protect,25,normal,-,-
+279,13,Protect,25,normal,-,-
+279,14,Protect,25,normal,-,-
+279,15,Protect,25,normal,-,-
+279,16,Protect,25,normal,-,-
+279,14,Roost,28,flying,-,-
+279,15,Roost,28,flying,-,-
+279,16,Brine,28,water,65,100
+279,8,Roost,31,flying,-,-
+279,9,Roost,31,flying,-,-
+279,10,Roost,31,flying,-,-
+279,11,Roost,31,flying,-,-
+279,5,Stockpile,33,normal,-,-
+279,5,Swallow,33,normal,-,-
+279,6,Stockpile,33,normal,-,-
+279,6,Swallow,33,normal,-,-
+279,7,Stockpile,33,normal,-,-
+279,7,Swallow,33,normal,-,-
+279,12,Stockpile,33,normal,-,-
+279,12,Swallow,33,normal,-,-
+279,13,Stockpile,33,normal,-,-
+279,13,Swallow,33,normal,-,-
+279,16,Stockpile,33,normal,-,-
+279,16,Spit Up,33,normal,-,100
+279,16,Swallow,33,normal,-,-
+279,14,Brine,34,water,65,100
+279,15,Brine,34,water,65,100
+279,8,Stockpile,38,normal,-,-
+279,8,Spit Up,38,normal,-,100
+279,8,Swallow,38,normal,-,-
+279,9,Stockpile,38,normal,-,-
+279,9,Spit Up,38,normal,-,100
+279,9,Swallow,38,normal,-,-
+279,10,Stockpile,38,normal,-,-
+279,10,Spit Up,38,normal,-,100
+279,10,Swallow,38,normal,-,-
+279,11,Stockpile,38,normal,-,-
+279,11,Spit Up,38,normal,-,100
+279,11,Swallow,38,normal,-,-
+279,14,Stockpile,39,normal,-,-
+279,14,Spit Up,39,normal,-,100
+279,14,Swallow,39,normal,-,-
+279,15,Stockpile,39,normal,-,-
+279,15,Spit Up,39,normal,-,100
+279,15,Swallow,39,normal,-,-
+279,16,Fling,39,dark,-,100
+279,8,Fling,43,dark,-,100
+279,9,Fling,43,dark,-,100
+279,10,Fling,43,dark,-,100
+279,11,Fling,43,dark,-,100
+279,16,Tailwind,44,flying,-,-
+279,14,Fling,46,dark,-,100
+279,15,Fling,46,dark,-,100
+279,5,Spit Up,47,normal,-,100
+279,6,Spit Up,47,normal,-,100
+279,7,Spit Up,47,normal,-,100
+279,12,Spit Up,47,normal,-,100
+279,13,Spit Up,47,normal,-,100
+279,8,Tailwind,50,flying,-,-
+279,9,Tailwind,50,flying,-,-
+279,10,Tailwind,50,flying,-,-
+279,11,Tailwind,50,flying,-,-
+279,16,Hydro Pump,50,water,110,80
+279,14,Tailwind,52,flying,-,-
+279,15,Tailwind,52,flying,-,-
+279,16,Hurricane,55,flying,110,70
+279,8,Hydro Pump,57,water,110,80
+279,9,Hydro Pump,57,water,110,80
+279,10,Hydro Pump,57,water,110,80
+279,11,Hydro Pump,57,water,110,80
+279,14,Hydro Pump,58,water,110,80
+279,15,Hydro Pump,58,water,110,80
+279,5,Hydro Pump,61,water,110,80
+279,6,Hydro Pump,61,water,110,80
+279,7,Hydro Pump,61,water,110,80
+279,12,Hydro Pump,61,water,110,80
+279,13,Hydro Pump,61,water,110,80
+279,11,Hurricane,63,flying,110,70
+279,14,Hurricane,63,flying,110,70
+279,15,Hurricane,63,flying,110,70

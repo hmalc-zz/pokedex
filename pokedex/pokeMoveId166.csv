@@ -1,183 +1,183 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-166,ledian,3,4,Comet Punch,1,15,
-166,ledian,3,33,Tackle,1,1,1
-166,ledian,3,38,Double-Edge,1,60,
-166,ledian,3,48,Supersonic,1,1,2
-166,ledian,3,48,Supersonic,1,8,
-166,ledian,3,97,Agility,1,51,
-166,ledian,3,113,Light Screen,1,24,
-166,ledian,3,115,Reflect,1,24,3
-166,ledian,3,129,Swift,1,42,
-166,ledian,3,219,Safeguard,1,24,4
-166,ledian,3,226,Baton Pass,1,33,
-166,ledian,4,4,Comet Punch,1,15,
-166,ledian,4,33,Tackle,1,1,1
-166,ledian,4,38,Double-Edge,1,60,
-166,ledian,4,48,Supersonic,1,1,2
-166,ledian,4,48,Supersonic,1,8,
-166,ledian,4,97,Agility,1,51,
-166,ledian,4,113,Light Screen,1,24,
-166,ledian,4,115,Reflect,1,24,3
-166,ledian,4,129,Swift,1,42,
-166,ledian,4,219,Safeguard,1,24,4
-166,ledian,4,226,Baton Pass,1,33,
-166,ledian,5,4,Comet Punch,1,15,
-166,ledian,5,33,Tackle,1,1,1
-166,ledian,5,38,Double-Edge,1,60,
-166,ledian,5,48,Supersonic,1,1,2
-166,ledian,5,48,Supersonic,1,8,
-166,ledian,5,97,Agility,1,51,
-166,ledian,5,113,Light Screen,1,24,
-166,ledian,5,115,Reflect,1,24,3
-166,ledian,5,129,Swift,1,42,
-166,ledian,5,219,Safeguard,1,24,4
-166,ledian,5,226,Baton Pass,1,33,
-166,ledian,6,4,Comet Punch,1,15,
-166,ledian,6,33,Tackle,1,1,1
-166,ledian,6,38,Double-Edge,1,60,
-166,ledian,6,48,Supersonic,1,1,2
-166,ledian,6,48,Supersonic,1,8,
-166,ledian,6,97,Agility,1,51,
-166,ledian,6,113,Light Screen,1,24,
-166,ledian,6,115,Reflect,1,24,3
-166,ledian,6,129,Swift,1,42,
-166,ledian,6,219,Safeguard,1,24,4
-166,ledian,6,226,Baton Pass,1,33,
-166,ledian,7,4,Comet Punch,1,15,
-166,ledian,7,33,Tackle,1,1,1
-166,ledian,7,38,Double-Edge,1,60,
-166,ledian,7,48,Supersonic,1,1,2
-166,ledian,7,48,Supersonic,1,8,
-166,ledian,7,97,Agility,1,51,
-166,ledian,7,113,Light Screen,1,24,
-166,ledian,7,115,Reflect,1,24,3
-166,ledian,7,129,Swift,1,42,
-166,ledian,7,219,Safeguard,1,24,4
-166,ledian,7,226,Baton Pass,1,33,
-166,ledian,8,4,Comet Punch,1,1,3
-166,ledian,8,4,Comet Punch,1,9,
-166,ledian,8,33,Tackle,1,1,1
-166,ledian,8,38,Double-Edge,1,48,
-166,ledian,8,48,Supersonic,1,1,2
-166,ledian,8,48,Supersonic,1,6,
-166,ledian,8,97,Agility,1,36,
-166,ledian,8,113,Light Screen,1,14,1
-166,ledian,8,115,Reflect,1,14,2
-166,ledian,8,129,Swift,1,41,
-166,ledian,8,183,Mach Punch,1,17,
-166,ledian,8,219,Safeguard,1,14,3
-166,ledian,8,226,Baton Pass,1,24,
-166,ledian,8,318,Silver Wind,1,29,
-166,ledian,8,405,Bug Buzz,1,53,
-166,ledian,9,4,Comet Punch,1,1,3
-166,ledian,9,4,Comet Punch,1,9,
-166,ledian,9,33,Tackle,1,1,1
-166,ledian,9,38,Double-Edge,1,48,
-166,ledian,9,48,Supersonic,1,1,2
-166,ledian,9,48,Supersonic,1,6,
-166,ledian,9,97,Agility,1,36,
-166,ledian,9,113,Light Screen,1,14,1
-166,ledian,9,115,Reflect,1,14,2
-166,ledian,9,129,Swift,1,41,
-166,ledian,9,183,Mach Punch,1,17,
-166,ledian,9,219,Safeguard,1,14,3
-166,ledian,9,226,Baton Pass,1,24,
-166,ledian,9,318,Silver Wind,1,29,
-166,ledian,9,405,Bug Buzz,1,53,
-166,ledian,10,4,Comet Punch,1,1,3
-166,ledian,10,4,Comet Punch,1,9,
-166,ledian,10,33,Tackle,1,1,1
-166,ledian,10,38,Double-Edge,1,48,
-166,ledian,10,48,Supersonic,1,1,2
-166,ledian,10,48,Supersonic,1,6,
-166,ledian,10,97,Agility,1,36,
-166,ledian,10,113,Light Screen,1,14,1
-166,ledian,10,115,Reflect,1,14,2
-166,ledian,10,129,Swift,1,41,
-166,ledian,10,183,Mach Punch,1,17,
-166,ledian,10,219,Safeguard,1,14,3
-166,ledian,10,226,Baton Pass,1,24,
-166,ledian,10,318,Silver Wind,1,29,
-166,ledian,10,405,Bug Buzz,1,53,
-166,ledian,11,4,Comet Punch,1,1,3
-166,ledian,11,4,Comet Punch,1,9,
-166,ledian,11,33,Tackle,1,1,1
-166,ledian,11,38,Double-Edge,1,48,
-166,ledian,11,48,Supersonic,1,1,2
-166,ledian,11,48,Supersonic,1,6,
-166,ledian,11,97,Agility,1,36,
-166,ledian,11,113,Light Screen,1,14,1
-166,ledian,11,115,Reflect,1,14,2
-166,ledian,11,129,Swift,1,41,
-166,ledian,11,183,Mach Punch,1,17,
-166,ledian,11,219,Safeguard,1,14,3
-166,ledian,11,226,Baton Pass,1,24,
-166,ledian,11,318,Silver Wind,1,29,
-166,ledian,11,405,Bug Buzz,1,53,
-166,ledian,12,4,Comet Punch,1,15,
-166,ledian,12,33,Tackle,1,1,1
-166,ledian,12,38,Double-Edge,1,60,
-166,ledian,12,48,Supersonic,1,1,2
-166,ledian,12,48,Supersonic,1,8,
-166,ledian,12,97,Agility,1,51,
-166,ledian,12,113,Light Screen,1,24,
-166,ledian,12,115,Reflect,1,24,3
-166,ledian,12,129,Swift,1,42,
-166,ledian,12,219,Safeguard,1,24,4
-166,ledian,12,226,Baton Pass,1,33,
-166,ledian,13,4,Comet Punch,1,15,
-166,ledian,13,33,Tackle,1,1,1
-166,ledian,13,38,Double-Edge,1,60,
-166,ledian,13,48,Supersonic,1,1,2
-166,ledian,13,48,Supersonic,1,8,
-166,ledian,13,97,Agility,1,51,
-166,ledian,13,113,Light Screen,1,24,
-166,ledian,13,115,Reflect,1,24,3
-166,ledian,13,129,Swift,1,42,
-166,ledian,13,219,Safeguard,1,24,4
-166,ledian,13,226,Baton Pass,1,33,
-166,ledian,14,4,Comet Punch,1,1,3
-166,ledian,14,4,Comet Punch,1,9,
-166,ledian,14,33,Tackle,1,1,1
-166,ledian,14,38,Double-Edge,1,48,
-166,ledian,14,48,Supersonic,1,1,2
-166,ledian,14,48,Supersonic,1,6,
-166,ledian,14,97,Agility,1,36,
-166,ledian,14,113,Light Screen,1,14,1
-166,ledian,14,115,Reflect,1,14,2
-166,ledian,14,129,Swift,1,41,
-166,ledian,14,183,Mach Punch,1,17,
-166,ledian,14,219,Safeguard,1,14,3
-166,ledian,14,226,Baton Pass,1,24,
-166,ledian,14,318,Silver Wind,1,29,
-166,ledian,14,405,Bug Buzz,1,53,
-166,ledian,15,4,Comet Punch,1,1,3
-166,ledian,15,4,Comet Punch,1,9,
-166,ledian,15,33,Tackle,1,1,1
-166,ledian,15,38,Double-Edge,1,48,
-166,ledian,15,48,Supersonic,1,1,2
-166,ledian,15,48,Supersonic,1,6,
-166,ledian,15,97,Agility,1,36,
-166,ledian,15,113,Light Screen,1,14,1
-166,ledian,15,115,Reflect,1,14,2
-166,ledian,15,129,Swift,1,41,
-166,ledian,15,183,Mach Punch,1,17,
-166,ledian,15,219,Safeguard,1,14,3
-166,ledian,15,226,Baton Pass,1,24,
-166,ledian,15,318,Silver Wind,1,29,
-166,ledian,15,405,Bug Buzz,1,53,
-166,ledian,16,4,Comet Punch,1,1,3
-166,ledian,16,4,Comet Punch,1,9,1
-166,ledian,16,33,Tackle,1,1,1
-166,ledian,16,38,Double-Edge,1,48,1
-166,ledian,16,48,Supersonic,1,1,2
-166,ledian,16,48,Supersonic,1,6,1
-166,ledian,16,97,Agility,1,36,1
-166,ledian,16,113,Light Screen,1,14,1
-166,ledian,16,115,Reflect,1,14,2
-166,ledian,16,129,Swift,1,41,1
-166,ledian,16,183,Mach Punch,1,17,1
-166,ledian,16,219,Safeguard,1,14,3
-166,ledian,16,226,Baton Pass,1,24,1
-166,ledian,16,318,Silver Wind,1,29,1
-166,ledian,16,405,Bug Buzz,1,53,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+166,3,Tackle,1,normal,50,100
+166,3,Supersonic,1,normal,-,55
+166,4,Tackle,1,normal,50,100
+166,4,Supersonic,1,normal,-,55
+166,5,Tackle,1,normal,50,100
+166,5,Supersonic,1,normal,-,55
+166,6,Tackle,1,normal,50,100
+166,6,Supersonic,1,normal,-,55
+166,7,Tackle,1,normal,50,100
+166,7,Supersonic,1,normal,-,55
+166,8,Comet Punch,1,normal,18,85
+166,8,Tackle,1,normal,50,100
+166,8,Supersonic,1,normal,-,55
+166,9,Comet Punch,1,normal,18,85
+166,9,Tackle,1,normal,50,100
+166,9,Supersonic,1,normal,-,55
+166,10,Comet Punch,1,normal,18,85
+166,10,Tackle,1,normal,50,100
+166,10,Supersonic,1,normal,-,55
+166,11,Comet Punch,1,normal,18,85
+166,11,Tackle,1,normal,50,100
+166,11,Supersonic,1,normal,-,55
+166,12,Tackle,1,normal,50,100
+166,12,Supersonic,1,normal,-,55
+166,13,Tackle,1,normal,50,100
+166,13,Supersonic,1,normal,-,55
+166,14,Comet Punch,1,normal,18,85
+166,14,Tackle,1,normal,50,100
+166,14,Supersonic,1,normal,-,55
+166,15,Comet Punch,1,normal,18,85
+166,15,Tackle,1,normal,50,100
+166,15,Supersonic,1,normal,-,55
+166,16,Comet Punch,1,normal,18,85
+166,16,Tackle,1,normal,50,100
+166,16,Supersonic,1,normal,-,55
+166,8,Supersonic,6,normal,-,55
+166,9,Supersonic,6,normal,-,55
+166,10,Supersonic,6,normal,-,55
+166,11,Supersonic,6,normal,-,55
+166,14,Supersonic,6,normal,-,55
+166,15,Supersonic,6,normal,-,55
+166,16,Supersonic,6,normal,-,55
+166,3,Supersonic,8,normal,-,55
+166,4,Supersonic,8,normal,-,55
+166,5,Supersonic,8,normal,-,55
+166,6,Supersonic,8,normal,-,55
+166,7,Supersonic,8,normal,-,55
+166,12,Supersonic,8,normal,-,55
+166,13,Supersonic,8,normal,-,55
+166,8,Comet Punch,9,normal,18,85
+166,9,Comet Punch,9,normal,18,85
+166,10,Comet Punch,9,normal,18,85
+166,11,Comet Punch,9,normal,18,85
+166,14,Comet Punch,9,normal,18,85
+166,15,Comet Punch,9,normal,18,85
+166,16,Comet Punch,9,normal,18,85
+166,8,Light Screen,14,psychic,-,-
+166,8,Reflect,14,psychic,-,-
+166,8,Safeguard,14,normal,-,-
+166,9,Light Screen,14,psychic,-,-
+166,9,Reflect,14,psychic,-,-
+166,9,Safeguard,14,normal,-,-
+166,10,Light Screen,14,psychic,-,-
+166,10,Reflect,14,psychic,-,-
+166,10,Safeguard,14,normal,-,-
+166,11,Light Screen,14,psychic,-,-
+166,11,Reflect,14,psychic,-,-
+166,11,Safeguard,14,normal,-,-
+166,14,Light Screen,14,psychic,-,-
+166,14,Reflect,14,psychic,-,-
+166,14,Safeguard,14,normal,-,-
+166,15,Light Screen,14,psychic,-,-
+166,15,Reflect,14,psychic,-,-
+166,15,Safeguard,14,normal,-,-
+166,16,Light Screen,14,psychic,-,-
+166,16,Reflect,14,psychic,-,-
+166,16,Safeguard,14,normal,-,-
+166,3,Comet Punch,15,normal,18,85
+166,4,Comet Punch,15,normal,18,85
+166,5,Comet Punch,15,normal,18,85
+166,6,Comet Punch,15,normal,18,85
+166,7,Comet Punch,15,normal,18,85
+166,12,Comet Punch,15,normal,18,85
+166,13,Comet Punch,15,normal,18,85
+166,8,Mach Punch,17,fighting,40,100
+166,9,Mach Punch,17,fighting,40,100
+166,10,Mach Punch,17,fighting,40,100
+166,11,Mach Punch,17,fighting,40,100
+166,14,Mach Punch,17,fighting,40,100
+166,15,Mach Punch,17,fighting,40,100
+166,16,Mach Punch,17,fighting,40,100
+166,3,Light Screen,24,psychic,-,-
+166,3,Reflect,24,psychic,-,-
+166,3,Safeguard,24,normal,-,-
+166,4,Light Screen,24,psychic,-,-
+166,4,Reflect,24,psychic,-,-
+166,4,Safeguard,24,normal,-,-
+166,5,Light Screen,24,psychic,-,-
+166,5,Reflect,24,psychic,-,-
+166,5,Safeguard,24,normal,-,-
+166,6,Light Screen,24,psychic,-,-
+166,6,Reflect,24,psychic,-,-
+166,6,Safeguard,24,normal,-,-
+166,7,Light Screen,24,psychic,-,-
+166,7,Reflect,24,psychic,-,-
+166,7,Safeguard,24,normal,-,-
+166,8,Baton Pass,24,normal,-,-
+166,9,Baton Pass,24,normal,-,-
+166,10,Baton Pass,24,normal,-,-
+166,11,Baton Pass,24,normal,-,-
+166,12,Light Screen,24,psychic,-,-
+166,12,Reflect,24,psychic,-,-
+166,12,Safeguard,24,normal,-,-
+166,13,Light Screen,24,psychic,-,-
+166,13,Reflect,24,psychic,-,-
+166,13,Safeguard,24,normal,-,-
+166,14,Baton Pass,24,normal,-,-
+166,15,Baton Pass,24,normal,-,-
+166,16,Baton Pass,24,normal,-,-
+166,8,Silver Wind,29,bug,60,100
+166,9,Silver Wind,29,bug,60,100
+166,10,Silver Wind,29,bug,60,100
+166,11,Silver Wind,29,bug,60,100
+166,14,Silver Wind,29,bug,60,100
+166,15,Silver Wind,29,bug,60,100
+166,16,Silver Wind,29,bug,60,100
+166,3,Baton Pass,33,normal,-,-
+166,4,Baton Pass,33,normal,-,-
+166,5,Baton Pass,33,normal,-,-
+166,6,Baton Pass,33,normal,-,-
+166,7,Baton Pass,33,normal,-,-
+166,12,Baton Pass,33,normal,-,-
+166,13,Baton Pass,33,normal,-,-
+166,8,Agility,36,psychic,-,-
+166,9,Agility,36,psychic,-,-
+166,10,Agility,36,psychic,-,-
+166,11,Agility,36,psychic,-,-
+166,14,Agility,36,psychic,-,-
+166,15,Agility,36,psychic,-,-
+166,16,Agility,36,psychic,-,-
+166,8,Swift,41,normal,60,-
+166,9,Swift,41,normal,60,-
+166,10,Swift,41,normal,60,-
+166,11,Swift,41,normal,60,-
+166,14,Swift,41,normal,60,-
+166,15,Swift,41,normal,60,-
+166,16,Swift,41,normal,60,-
+166,3,Swift,42,normal,60,-
+166,4,Swift,42,normal,60,-
+166,5,Swift,42,normal,60,-
+166,6,Swift,42,normal,60,-
+166,7,Swift,42,normal,60,-
+166,12,Swift,42,normal,60,-
+166,13,Swift,42,normal,60,-
+166,8,Double-Edge,48,normal,120,100
+166,9,Double-Edge,48,normal,120,100
+166,10,Double-Edge,48,normal,120,100
+166,11,Double-Edge,48,normal,120,100
+166,14,Double-Edge,48,normal,120,100
+166,15,Double-Edge,48,normal,120,100
+166,16,Double-Edge,48,normal,120,100
+166,3,Agility,51,psychic,-,-
+166,4,Agility,51,psychic,-,-
+166,5,Agility,51,psychic,-,-
+166,6,Agility,51,psychic,-,-
+166,7,Agility,51,psychic,-,-
+166,12,Agility,51,psychic,-,-
+166,13,Agility,51,psychic,-,-
+166,8,Bug Buzz,53,bug,90,100
+166,9,Bug Buzz,53,bug,90,100
+166,10,Bug Buzz,53,bug,90,100
+166,11,Bug Buzz,53,bug,90,100
+166,14,Bug Buzz,53,bug,90,100
+166,15,Bug Buzz,53,bug,90,100
+166,16,Bug Buzz,53,bug,90,100
+166,3,Double-Edge,60,normal,120,100
+166,4,Double-Edge,60,normal,120,100
+166,5,Double-Edge,60,normal,120,100
+166,6,Double-Edge,60,normal,120,100
+166,7,Double-Edge,60,normal,120,100
+166,12,Double-Edge,60,normal,120,100
+166,13,Double-Edge,60,normal,120,100

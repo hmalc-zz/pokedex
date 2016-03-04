@@ -1,90 +1,90 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-481,mesprit,8,93,Confusion,1,21,
-481,mesprit,8,156,Rest,1,1,
-481,mesprit,8,182,Protect,1,16,
-481,mesprit,8,204,Charm,1,46,
-481,mesprit,8,248,Future Sight,1,36,
-481,mesprit,8,286,Imprison,1,6,
-481,mesprit,8,326,Extrasensory,1,51,
-481,mesprit,8,361,Healing Wish,1,76,
-481,mesprit,8,363,Natural Gift,1,66,
-481,mesprit,8,381,Lucky Chant,1,31,
-481,mesprit,8,383,Copycat,1,61,
-481,mesprit,9,93,Confusion,1,1,2
-481,mesprit,9,129,Swift,1,21,
-481,mesprit,9,156,Rest,1,1,1
-481,mesprit,9,182,Protect,1,16,
-481,mesprit,9,204,Charm,1,46,
-481,mesprit,9,248,Future Sight,1,36,
-481,mesprit,9,286,Imprison,1,6,
-481,mesprit,9,326,Extrasensory,1,51,
-481,mesprit,9,361,Healing Wish,1,76,
-481,mesprit,9,363,Natural Gift,1,66,
-481,mesprit,9,381,Lucky Chant,1,31,
-481,mesprit,9,383,Copycat,1,61,
-481,mesprit,10,93,Confusion,1,1,2
-481,mesprit,10,129,Swift,1,21,
-481,mesprit,10,156,Rest,1,1,1
-481,mesprit,10,182,Protect,1,16,
-481,mesprit,10,204,Charm,1,46,
-481,mesprit,10,248,Future Sight,1,36,
-481,mesprit,10,286,Imprison,1,6,
-481,mesprit,10,326,Extrasensory,1,51,
-481,mesprit,10,361,Healing Wish,1,76,
-481,mesprit,10,363,Natural Gift,1,66,
-481,mesprit,10,381,Lucky Chant,1,31,
-481,mesprit,10,383,Copycat,1,61,
-481,mesprit,11,93,Confusion,1,1,2
-481,mesprit,11,129,Swift,1,21,
-481,mesprit,11,156,Rest,1,1,1
-481,mesprit,11,182,Protect,1,16,
-481,mesprit,11,204,Charm,1,46,
-481,mesprit,11,248,Future Sight,1,36,
-481,mesprit,11,286,Imprison,1,6,
-481,mesprit,11,326,Extrasensory,1,51,
-481,mesprit,11,361,Healing Wish,1,76,
-481,mesprit,11,363,Natural Gift,1,66,
-481,mesprit,11,381,Lucky Chant,1,31,
-481,mesprit,11,383,Copycat,1,61,
-481,mesprit,14,93,Confusion,1,1,2
-481,mesprit,14,129,Swift,1,21,
-481,mesprit,14,156,Rest,1,1,1
-481,mesprit,14,182,Protect,1,16,
-481,mesprit,14,204,Charm,1,46,
-481,mesprit,14,248,Future Sight,1,36,
-481,mesprit,14,286,Imprison,1,6,
-481,mesprit,14,326,Extrasensory,1,51,
-481,mesprit,14,361,Healing Wish,1,76,
-481,mesprit,14,363,Natural Gift,1,66,
-481,mesprit,14,381,Lucky Chant,1,31,
-481,mesprit,14,383,Copycat,1,61,
-481,mesprit,15,93,Confusion,1,1,5
-481,mesprit,15,129,Swift,1,21,
-481,mesprit,15,156,Rest,1,1,4
-481,mesprit,15,182,Protect,1,16,
-481,mesprit,15,204,Charm,1,46,
-481,mesprit,15,248,Future Sight,1,36,
-481,mesprit,15,286,Imprison,1,6,
-481,mesprit,15,326,Extrasensory,1,50,
-481,mesprit,15,361,Healing Wish,1,1,1
-481,mesprit,15,361,Healing Wish,1,76,
-481,mesprit,15,363,Natural Gift,1,1,2
-481,mesprit,15,363,Natural Gift,1,66,
-481,mesprit,15,381,Lucky Chant,1,31,
-481,mesprit,15,383,Copycat,1,1,3
-481,mesprit,15,383,Copycat,1,61,
-481,mesprit,16,93,Confusion,1,1,5
-481,mesprit,16,129,Swift,1,21,1
-481,mesprit,16,156,Rest,1,1,4
-481,mesprit,16,182,Protect,1,16,1
-481,mesprit,16,204,Charm,1,46,1
-481,mesprit,16,248,Future Sight,1,36,1
-481,mesprit,16,286,Imprison,1,6,1
-481,mesprit,16,326,Extrasensory,1,50,1
-481,mesprit,16,361,Healing Wish,1,1,1
-481,mesprit,16,361,Healing Wish,1,76,1
-481,mesprit,16,363,Natural Gift,1,1,2
-481,mesprit,16,363,Natural Gift,1,66,1
-481,mesprit,16,381,Lucky Chant,1,31,1
-481,mesprit,16,383,Copycat,1,1,3
-481,mesprit,16,383,Copycat,1,61,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+481,8,Rest,1,psychic,-,-
+481,9,Confusion,1,psychic,50,100
+481,9,Rest,1,psychic,-,-
+481,10,Confusion,1,psychic,50,100
+481,10,Rest,1,psychic,-,-
+481,11,Confusion,1,psychic,50,100
+481,11,Rest,1,psychic,-,-
+481,14,Confusion,1,psychic,50,100
+481,14,Rest,1,psychic,-,-
+481,15,Confusion,1,psychic,50,100
+481,15,Rest,1,psychic,-,-
+481,15,Healing Wish,1,psychic,-,-
+481,15,Natural Gift,1,normal,-,100
+481,15,Copycat,1,normal,-,-
+481,16,Confusion,1,psychic,50,100
+481,16,Rest,1,psychic,-,-
+481,16,Healing Wish,1,psychic,-,-
+481,16,Natural Gift,1,normal,-,100
+481,16,Copycat,1,normal,-,-
+481,8,Imprison,6,psychic,-,-
+481,9,Imprison,6,psychic,-,-
+481,10,Imprison,6,psychic,-,-
+481,11,Imprison,6,psychic,-,-
+481,14,Imprison,6,psychic,-,-
+481,15,Imprison,6,psychic,-,-
+481,16,Imprison,6,psychic,-,-
+481,8,Protect,16,normal,-,-
+481,9,Protect,16,normal,-,-
+481,10,Protect,16,normal,-,-
+481,11,Protect,16,normal,-,-
+481,14,Protect,16,normal,-,-
+481,15,Protect,16,normal,-,-
+481,16,Protect,16,normal,-,-
+481,8,Confusion,21,psychic,50,100
+481,9,Swift,21,normal,60,-
+481,10,Swift,21,normal,60,-
+481,11,Swift,21,normal,60,-
+481,14,Swift,21,normal,60,-
+481,15,Swift,21,normal,60,-
+481,16,Swift,21,normal,60,-
+481,8,Lucky Chant,31,normal,-,-
+481,9,Lucky Chant,31,normal,-,-
+481,10,Lucky Chant,31,normal,-,-
+481,11,Lucky Chant,31,normal,-,-
+481,14,Lucky Chant,31,normal,-,-
+481,15,Lucky Chant,31,normal,-,-
+481,16,Lucky Chant,31,normal,-,-
+481,8,Future Sight,36,psychic,120,100
+481,9,Future Sight,36,psychic,120,100
+481,10,Future Sight,36,psychic,120,100
+481,11,Future Sight,36,psychic,120,100
+481,14,Future Sight,36,psychic,120,100
+481,15,Future Sight,36,psychic,120,100
+481,16,Future Sight,36,psychic,120,100
+481,8,Charm,46,fairy,-,100
+481,9,Charm,46,fairy,-,100
+481,10,Charm,46,fairy,-,100
+481,11,Charm,46,fairy,-,100
+481,14,Charm,46,fairy,-,100
+481,15,Charm,46,fairy,-,100
+481,16,Charm,46,fairy,-,100
+481,15,Extrasensory,50,psychic,80,100
+481,16,Extrasensory,50,psychic,80,100
+481,8,Extrasensory,51,psychic,80,100
+481,9,Extrasensory,51,psychic,80,100
+481,10,Extrasensory,51,psychic,80,100
+481,11,Extrasensory,51,psychic,80,100
+481,14,Extrasensory,51,psychic,80,100
+481,8,Copycat,61,normal,-,-
+481,9,Copycat,61,normal,-,-
+481,10,Copycat,61,normal,-,-
+481,11,Copycat,61,normal,-,-
+481,14,Copycat,61,normal,-,-
+481,15,Copycat,61,normal,-,-
+481,16,Copycat,61,normal,-,-
+481,8,Natural Gift,66,normal,-,100
+481,9,Natural Gift,66,normal,-,100
+481,10,Natural Gift,66,normal,-,100
+481,11,Natural Gift,66,normal,-,100
+481,14,Natural Gift,66,normal,-,100
+481,15,Natural Gift,66,normal,-,100
+481,16,Natural Gift,66,normal,-,100
+481,8,Healing Wish,76,psychic,-,-
+481,9,Healing Wish,76,psychic,-,-
+481,10,Healing Wish,76,psychic,-,-
+481,11,Healing Wish,76,psychic,-,-
+481,14,Healing Wish,76,psychic,-,-
+481,15,Healing Wish,76,psychic,-,-
+481,16,Healing Wish,76,psychic,-,-

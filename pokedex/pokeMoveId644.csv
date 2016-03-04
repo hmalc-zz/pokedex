@@ -1,65 +1,65 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-644,zekrom,11,82,Dragon Rage,1,1,2
-644,zekrom,11,85,Thunderbolt,1,22,
-644,zekrom,11,87,Thunder,1,78,
-644,zekrom,11,163,Slash,1,36,
-644,zekrom,11,200,Outrage,1,85,
-644,zekrom,11,225,Dragon Breath,1,29,
-644,zekrom,11,242,Crunch,1,71,
-644,zekrom,11,246,Ancient Power,1,15,
-644,zekrom,11,286,Imprison,1,8,
-644,zekrom,11,286,Imprison,1,64,
-644,zekrom,11,304,Hyper Voice,1,92,
-644,zekrom,11,337,Dragon Claw,1,54,
-644,zekrom,11,422,Thunder Fang,1,1,1
-644,zekrom,11,428,Zen Headbutt,1,43,
-644,zekrom,11,550,Bolt Strike,1,100,
-644,zekrom,11,559,Fusion Bolt,1,50,
-644,zekrom,14,82,Dragon Rage,1,1,2
-644,zekrom,14,85,Thunderbolt,1,22,
-644,zekrom,14,87,Thunder,1,78,
-644,zekrom,14,163,Slash,1,36,
-644,zekrom,14,200,Outrage,1,85,
-644,zekrom,14,225,Dragon Breath,1,29,
-644,zekrom,14,242,Crunch,1,71,
-644,zekrom,14,246,Ancient Power,1,15,
-644,zekrom,14,286,Imprison,1,8,
-644,zekrom,14,286,Imprison,1,64,
-644,zekrom,14,304,Hyper Voice,1,92,
-644,zekrom,14,337,Dragon Claw,1,54,
-644,zekrom,14,422,Thunder Fang,1,1,1
-644,zekrom,14,428,Zen Headbutt,1,43,
-644,zekrom,14,550,Bolt Strike,1,100,
-644,zekrom,14,559,Fusion Bolt,1,50,
-644,zekrom,15,82,Dragon Rage,1,1,2
-644,zekrom,15,85,Thunderbolt,1,22,
-644,zekrom,15,87,Thunder,1,78,
-644,zekrom,15,163,Slash,1,36,
-644,zekrom,15,200,Outrage,1,85,
-644,zekrom,15,225,Dragon Breath,1,29,
-644,zekrom,15,242,Crunch,1,71,
-644,zekrom,15,246,Ancient Power,1,15,
-644,zekrom,15,286,Imprison,1,8,
-644,zekrom,15,286,Imprison,1,64,
-644,zekrom,15,304,Hyper Voice,1,92,
-644,zekrom,15,337,Dragon Claw,1,54,
-644,zekrom,15,422,Thunder Fang,1,1,1
-644,zekrom,15,428,Zen Headbutt,1,43,
-644,zekrom,15,550,Bolt Strike,1,100,
-644,zekrom,15,559,Fusion Bolt,1,50,
-644,zekrom,16,82,Dragon Rage,1,1,2
-644,zekrom,16,85,Thunderbolt,1,22,1
-644,zekrom,16,87,Thunder,1,78,1
-644,zekrom,16,163,Slash,1,36,1
-644,zekrom,16,200,Outrage,1,85,1
-644,zekrom,16,225,Dragon Breath,1,29,1
-644,zekrom,16,242,Crunch,1,71,1
-644,zekrom,16,246,Ancient Power,1,15,1
-644,zekrom,16,286,Imprison,1,8,1
-644,zekrom,16,286,Imprison,1,64,1
-644,zekrom,16,304,Hyper Voice,1,92,1
-644,zekrom,16,337,Dragon Claw,1,54,1
-644,zekrom,16,422,Thunder Fang,1,1,1
-644,zekrom,16,428,Zen Headbutt,1,43,1
-644,zekrom,16,550,Bolt Strike,1,100,1
-644,zekrom,16,559,Fusion Bolt,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+644,11,Dragon Rage,1,dragon,-,100
+644,11,Thunder Fang,1,electric,65,95
+644,14,Dragon Rage,1,dragon,-,100
+644,14,Thunder Fang,1,electric,65,95
+644,15,Dragon Rage,1,dragon,-,100
+644,15,Thunder Fang,1,electric,65,95
+644,16,Dragon Rage,1,dragon,-,100
+644,16,Thunder Fang,1,electric,65,95
+644,11,Imprison,8,psychic,-,-
+644,14,Imprison,8,psychic,-,-
+644,15,Imprison,8,psychic,-,-
+644,16,Imprison,8,psychic,-,-
+644,11,Ancient Power,15,rock,60,100
+644,14,Ancient Power,15,rock,60,100
+644,15,Ancient Power,15,rock,60,100
+644,16,Ancient Power,15,rock,60,100
+644,11,Thunderbolt,22,electric,90,100
+644,14,Thunderbolt,22,electric,90,100
+644,15,Thunderbolt,22,electric,90,100
+644,16,Thunderbolt,22,electric,90,100
+644,11,Dragon Breath,29,dragon,60,100
+644,14,Dragon Breath,29,dragon,60,100
+644,15,Dragon Breath,29,dragon,60,100
+644,16,Dragon Breath,29,dragon,60,100
+644,11,Slash,36,normal,70,100
+644,14,Slash,36,normal,70,100
+644,15,Slash,36,normal,70,100
+644,16,Slash,36,normal,70,100
+644,11,Zen Headbutt,43,psychic,80,90
+644,14,Zen Headbutt,43,psychic,80,90
+644,15,Zen Headbutt,43,psychic,80,90
+644,16,Zen Headbutt,43,psychic,80,90
+644,11,Fusion Bolt,50,electric,100,100
+644,14,Fusion Bolt,50,electric,100,100
+644,15,Fusion Bolt,50,electric,100,100
+644,16,Fusion Bolt,50,electric,100,100
+644,11,Dragon Claw,54,dragon,80,100
+644,14,Dragon Claw,54,dragon,80,100
+644,15,Dragon Claw,54,dragon,80,100
+644,16,Dragon Claw,54,dragon,80,100
+644,11,Imprison,64,psychic,-,-
+644,14,Imprison,64,psychic,-,-
+644,15,Imprison,64,psychic,-,-
+644,16,Imprison,64,psychic,-,-
+644,11,Crunch,71,dark,80,100
+644,14,Crunch,71,dark,80,100
+644,15,Crunch,71,dark,80,100
+644,16,Crunch,71,dark,80,100
+644,11,Thunder,78,electric,110,70
+644,14,Thunder,78,electric,110,70
+644,15,Thunder,78,electric,110,70
+644,16,Thunder,78,electric,110,70
+644,11,Outrage,85,dragon,120,100
+644,14,Outrage,85,dragon,120,100
+644,15,Outrage,85,dragon,120,100
+644,16,Outrage,85,dragon,120,100
+644,11,Hyper Voice,92,normal,90,100
+644,14,Hyper Voice,92,normal,90,100
+644,15,Hyper Voice,92,normal,90,100
+644,16,Hyper Voice,92,normal,90,100
+644,11,Bolt Strike,100,electric,130,85
+644,14,Bolt Strike,100,electric,130,85
+644,15,Bolt Strike,100,electric,130,85
+644,16,Bolt Strike,100,electric,130,85

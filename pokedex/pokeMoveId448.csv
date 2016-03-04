@@ -1,131 +1,131 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-448,lucario,8,14,Swords Dance,1,33,
-448,lucario,8,68,Counter,1,6,
-448,lucario,8,98,Quick Attack,1,1,2
-448,lucario,8,193,Foresight,1,1,3
-448,lucario,8,197,Detect,1,1,4
-448,lucario,8,198,Bone Rush,1,19,
-448,lucario,8,232,Metal Claw,1,1,5
-448,lucario,8,245,Extreme Speed,1,51,
-448,lucario,8,319,Metal Sound,1,24,
-448,lucario,8,364,Feint,1,15,
-448,lucario,8,370,Close Combat,1,42,
-448,lucario,8,382,Me First,1,29,
-448,lucario,8,395,Force Palm,1,11,
-448,lucario,8,396,Aura Sphere,1,37,
-448,lucario,8,399,Dark Pulse,1,1,1
-448,lucario,8,406,Dragon Pulse,1,47,
-448,lucario,9,14,Swords Dance,1,33,
-448,lucario,9,68,Counter,1,6,
-448,lucario,9,98,Quick Attack,1,1,2
-448,lucario,9,193,Foresight,1,1,3
-448,lucario,9,197,Detect,1,1,4
-448,lucario,9,198,Bone Rush,1,19,
-448,lucario,9,232,Metal Claw,1,1,5
-448,lucario,9,245,Extreme Speed,1,51,
-448,lucario,9,319,Metal Sound,1,24,
-448,lucario,9,364,Feint,1,15,
-448,lucario,9,370,Close Combat,1,42,
-448,lucario,9,382,Me First,1,29,
-448,lucario,9,395,Force Palm,1,11,
-448,lucario,9,396,Aura Sphere,1,37,
-448,lucario,9,399,Dark Pulse,1,1,1
-448,lucario,9,406,Dragon Pulse,1,47,
-448,lucario,10,14,Swords Dance,1,33,
-448,lucario,10,68,Counter,1,6,
-448,lucario,10,98,Quick Attack,1,1,2
-448,lucario,10,193,Foresight,1,1,3
-448,lucario,10,197,Detect,1,1,4
-448,lucario,10,198,Bone Rush,1,19,
-448,lucario,10,232,Metal Claw,1,1,5
-448,lucario,10,245,Extreme Speed,1,51,
-448,lucario,10,319,Metal Sound,1,24,
-448,lucario,10,364,Feint,1,15,
-448,lucario,10,370,Close Combat,1,42,
-448,lucario,10,382,Me First,1,29,
-448,lucario,10,395,Force Palm,1,11,
-448,lucario,10,396,Aura Sphere,1,37,
-448,lucario,10,399,Dark Pulse,1,1,1
-448,lucario,10,406,Dragon Pulse,1,47,
-448,lucario,11,14,Swords Dance,1,37,
-448,lucario,11,68,Counter,1,6,
-448,lucario,11,98,Quick Attack,1,1,2
-448,lucario,11,193,Foresight,1,1,3
-448,lucario,11,197,Detect,1,1,4
-448,lucario,11,198,Bone Rush,1,19,
-448,lucario,11,232,Metal Claw,1,1,5
-448,lucario,11,245,Extreme Speed,1,65,
-448,lucario,11,319,Metal Sound,1,24,
-448,lucario,11,347,Calm Mind,1,47,
-448,lucario,11,364,Feint,1,15,
-448,lucario,11,370,Close Combat,1,55,
-448,lucario,11,382,Me First,1,29,
-448,lucario,11,395,Force Palm,1,11,
-448,lucario,11,396,Aura Sphere,1,51,
-448,lucario,11,399,Dark Pulse,1,1,1
-448,lucario,11,406,Dragon Pulse,1,60,
-448,lucario,11,501,Quick Guard,1,33,
-448,lucario,11,505,Heal Pulse,1,42,
-448,lucario,14,14,Swords Dance,1,37,
-448,lucario,14,68,Counter,1,6,
-448,lucario,14,98,Quick Attack,1,1,3
-448,lucario,14,193,Foresight,1,1,2
-448,lucario,14,197,Detect,1,1,4
-448,lucario,14,198,Bone Rush,1,29,
-448,lucario,14,232,Metal Claw,1,1,5
-448,lucario,14,245,Extreme Speed,1,65,
-448,lucario,14,319,Metal Sound,1,24,
-448,lucario,14,347,Calm Mind,1,47,
-448,lucario,14,364,Feint,1,11,
-448,lucario,14,370,Close Combat,1,55,
-448,lucario,14,382,Me First,1,19,
-448,lucario,14,395,Force Palm,1,15,
-448,lucario,14,396,Aura Sphere,1,51,
-448,lucario,14,399,Dark Pulse,1,1,1
-448,lucario,14,406,Dragon Pulse,1,60,
-448,lucario,14,501,Quick Guard,1,33,
-448,lucario,14,505,Heal Pulse,1,42,
-448,lucario,15,14,Swords Dance,1,19,
-448,lucario,15,68,Counter,1,6,
-448,lucario,15,98,Quick Attack,1,1,6
-448,lucario,15,193,Foresight,1,1,5
-448,lucario,15,197,Detect,1,1,7
-448,lucario,15,198,Bone Rush,1,29,
-448,lucario,15,232,Metal Claw,1,1,8
-448,lucario,15,245,Extreme Speed,1,1,1
-448,lucario,15,245,Extreme Speed,1,65,
-448,lucario,15,319,Metal Sound,1,24,
-448,lucario,15,347,Calm Mind,1,47,
-448,lucario,15,364,Feint,1,11,
-448,lucario,15,370,Close Combat,1,1,3
-448,lucario,15,370,Close Combat,1,55,
-448,lucario,15,382,Me First,1,37,
-448,lucario,15,396,Aura Sphere,1,1,4
-448,lucario,15,396,Aura Sphere,1,42,
-448,lucario,15,406,Dragon Pulse,1,1,2
-448,lucario,15,406,Dragon Pulse,1,60,
-448,lucario,15,501,Quick Guard,1,33,
-448,lucario,15,505,Heal Pulse,1,51,
-448,lucario,15,612,Power-Up Punch,1,15,
-448,lucario,16,14,Swords Dance,1,19,1
-448,lucario,16,68,Counter,1,6,1
-448,lucario,16,98,Quick Attack,1,1,6
-448,lucario,16,193,Foresight,1,1,5
-448,lucario,16,197,Detect,1,1,7
-448,lucario,16,198,Bone Rush,1,29,1
-448,lucario,16,232,Metal Claw,1,1,8
-448,lucario,16,245,Extreme Speed,1,1,1
-448,lucario,16,245,Extreme Speed,1,65,1
-448,lucario,16,319,Metal Sound,1,24,1
-448,lucario,16,347,Calm Mind,1,47,1
-448,lucario,16,364,Feint,1,11,1
-448,lucario,16,370,Close Combat,1,1,3
-448,lucario,16,370,Close Combat,1,55,1
-448,lucario,16,382,Me First,1,37,1
-448,lucario,16,396,Aura Sphere,1,1,4
-448,lucario,16,396,Aura Sphere,1,42,1
-448,lucario,16,406,Dragon Pulse,1,1,2
-448,lucario,16,406,Dragon Pulse,1,60,1
-448,lucario,16,501,Quick Guard,1,33,1
-448,lucario,16,505,Heal Pulse,1,51,1
-448,lucario,16,612,Power-Up Punch,1,15,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+448,8,Quick Attack,1,normal,40,100
+448,8,Foresight,1,normal,-,-
+448,8,Detect,1,fighting,-,-
+448,8,Metal Claw,1,steel,50,95
+448,8,Dark Pulse,1,dark,80,100
+448,9,Quick Attack,1,normal,40,100
+448,9,Foresight,1,normal,-,-
+448,9,Detect,1,fighting,-,-
+448,9,Metal Claw,1,steel,50,95
+448,9,Dark Pulse,1,dark,80,100
+448,10,Quick Attack,1,normal,40,100
+448,10,Foresight,1,normal,-,-
+448,10,Detect,1,fighting,-,-
+448,10,Metal Claw,1,steel,50,95
+448,10,Dark Pulse,1,dark,80,100
+448,11,Quick Attack,1,normal,40,100
+448,11,Foresight,1,normal,-,-
+448,11,Detect,1,fighting,-,-
+448,11,Metal Claw,1,steel,50,95
+448,11,Dark Pulse,1,dark,80,100
+448,14,Quick Attack,1,normal,40,100
+448,14,Foresight,1,normal,-,-
+448,14,Detect,1,fighting,-,-
+448,14,Metal Claw,1,steel,50,95
+448,14,Dark Pulse,1,dark,80,100
+448,15,Quick Attack,1,normal,40,100
+448,15,Foresight,1,normal,-,-
+448,15,Detect,1,fighting,-,-
+448,15,Metal Claw,1,steel,50,95
+448,15,Extreme Speed,1,normal,80,100
+448,15,Close Combat,1,fighting,120,100
+448,15,Aura Sphere,1,fighting,80,-
+448,15,Dragon Pulse,1,dragon,85,100
+448,16,Quick Attack,1,normal,40,100
+448,16,Foresight,1,normal,-,-
+448,16,Detect,1,fighting,-,-
+448,16,Metal Claw,1,steel,50,95
+448,16,Extreme Speed,1,normal,80,100
+448,16,Close Combat,1,fighting,120,100
+448,16,Aura Sphere,1,fighting,80,-
+448,16,Dragon Pulse,1,dragon,85,100
+448,8,Counter,6,fighting,-,100
+448,9,Counter,6,fighting,-,100
+448,10,Counter,6,fighting,-,100
+448,11,Counter,6,fighting,-,100
+448,14,Counter,6,fighting,-,100
+448,15,Counter,6,fighting,-,100
+448,16,Counter,6,fighting,-,100
+448,8,Force Palm,11,fighting,60,100
+448,9,Force Palm,11,fighting,60,100
+448,10,Force Palm,11,fighting,60,100
+448,11,Force Palm,11,fighting,60,100
+448,14,Feint,11,normal,30,100
+448,15,Feint,11,normal,30,100
+448,16,Feint,11,normal,30,100
+448,8,Feint,15,normal,30,100
+448,9,Feint,15,normal,30,100
+448,10,Feint,15,normal,30,100
+448,11,Feint,15,normal,30,100
+448,14,Force Palm,15,fighting,60,100
+448,15,Power-Up Punch,15,fighting,40,100
+448,16,Power-Up Punch,15,fighting,40,100
+448,8,Bone Rush,19,ground,25,90
+448,9,Bone Rush,19,ground,25,90
+448,10,Bone Rush,19,ground,25,90
+448,11,Bone Rush,19,ground,25,90
+448,14,Me First,19,normal,-,-
+448,15,Swords Dance,19,normal,-,-
+448,16,Swords Dance,19,normal,-,-
+448,8,Metal Sound,24,steel,-,85
+448,9,Metal Sound,24,steel,-,85
+448,10,Metal Sound,24,steel,-,85
+448,11,Metal Sound,24,steel,-,85
+448,14,Metal Sound,24,steel,-,85
+448,15,Metal Sound,24,steel,-,85
+448,16,Metal Sound,24,steel,-,85
+448,8,Me First,29,normal,-,-
+448,9,Me First,29,normal,-,-
+448,10,Me First,29,normal,-,-
+448,11,Me First,29,normal,-,-
+448,14,Bone Rush,29,ground,25,90
+448,15,Bone Rush,29,ground,25,90
+448,16,Bone Rush,29,ground,25,90
+448,8,Swords Dance,33,normal,-,-
+448,9,Swords Dance,33,normal,-,-
+448,10,Swords Dance,33,normal,-,-
+448,11,Quick Guard,33,fighting,-,-
+448,14,Quick Guard,33,fighting,-,-
+448,15,Quick Guard,33,fighting,-,-
+448,16,Quick Guard,33,fighting,-,-
+448,8,Aura Sphere,37,fighting,80,-
+448,9,Aura Sphere,37,fighting,80,-
+448,10,Aura Sphere,37,fighting,80,-
+448,11,Swords Dance,37,normal,-,-
+448,14,Swords Dance,37,normal,-,-
+448,15,Me First,37,normal,-,-
+448,16,Me First,37,normal,-,-
+448,8,Close Combat,42,fighting,120,100
+448,9,Close Combat,42,fighting,120,100
+448,10,Close Combat,42,fighting,120,100
+448,11,Heal Pulse,42,psychic,-,-
+448,14,Heal Pulse,42,psychic,-,-
+448,15,Aura Sphere,42,fighting,80,-
+448,16,Aura Sphere,42,fighting,80,-
+448,8,Dragon Pulse,47,dragon,85,100
+448,9,Dragon Pulse,47,dragon,85,100
+448,10,Dragon Pulse,47,dragon,85,100
+448,11,Calm Mind,47,psychic,-,-
+448,14,Calm Mind,47,psychic,-,-
+448,15,Calm Mind,47,psychic,-,-
+448,16,Calm Mind,47,psychic,-,-
+448,8,Extreme Speed,51,normal,80,100
+448,9,Extreme Speed,51,normal,80,100
+448,10,Extreme Speed,51,normal,80,100
+448,11,Aura Sphere,51,fighting,80,-
+448,14,Aura Sphere,51,fighting,80,-
+448,15,Heal Pulse,51,psychic,-,-
+448,16,Heal Pulse,51,psychic,-,-
+448,11,Close Combat,55,fighting,120,100
+448,14,Close Combat,55,fighting,120,100
+448,15,Close Combat,55,fighting,120,100
+448,16,Close Combat,55,fighting,120,100
+448,11,Dragon Pulse,60,dragon,85,100
+448,14,Dragon Pulse,60,dragon,85,100
+448,15,Dragon Pulse,60,dragon,85,100
+448,16,Dragon Pulse,60,dragon,85,100
+448,11,Extreme Speed,65,normal,80,100
+448,14,Extreme Speed,65,normal,80,100
+448,15,Extreme Speed,65,normal,80,100
+448,16,Extreme Speed,65,normal,80,100

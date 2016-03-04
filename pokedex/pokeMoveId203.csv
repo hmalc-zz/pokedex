@@ -1,184 +1,184 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-203,girafarig,3,23,Stomp,1,1,4
-203,girafarig,3,23,Stomp,1,13,
-203,girafarig,3,33,Tackle,1,1,1
-203,girafarig,3,45,Growl,1,1,2
-203,girafarig,3,60,Psybeam,1,41,
-203,girafarig,3,93,Confusion,1,1,3
-203,girafarig,3,93,Confusion,1,7,
-203,girafarig,3,97,Agility,1,20,
-203,girafarig,3,226,Baton Pass,1,30,
-203,girafarig,3,242,Crunch,1,54,
-203,girafarig,4,23,Stomp,1,1,4
-203,girafarig,4,23,Stomp,1,13,
-203,girafarig,4,33,Tackle,1,1,1
-203,girafarig,4,45,Growl,1,1,2
-203,girafarig,4,60,Psybeam,1,41,
-203,girafarig,4,93,Confusion,1,1,3
-203,girafarig,4,93,Confusion,1,7,
-203,girafarig,4,97,Agility,1,20,
-203,girafarig,4,226,Baton Pass,1,30,
-203,girafarig,4,242,Crunch,1,54,
-203,girafarig,5,23,Stomp,1,19,
-203,girafarig,5,33,Tackle,1,1,1
-203,girafarig,5,45,Growl,1,1,2
-203,girafarig,5,60,Psybeam,1,43,
-203,girafarig,5,93,Confusion,1,13,
-203,girafarig,5,97,Agility,1,31,
-203,girafarig,5,226,Baton Pass,1,37,
-203,girafarig,5,242,Crunch,1,49,
-203,girafarig,5,310,Astonish,1,7,
-203,girafarig,5,316,Odor Sleuth,1,25,
-203,girafarig,6,23,Stomp,1,19,
-203,girafarig,6,33,Tackle,1,1,1
-203,girafarig,6,45,Growl,1,1,2
-203,girafarig,6,60,Psybeam,1,43,
-203,girafarig,6,93,Confusion,1,13,
-203,girafarig,6,97,Agility,1,31,
-203,girafarig,6,226,Baton Pass,1,37,
-203,girafarig,6,242,Crunch,1,49,
-203,girafarig,6,310,Astonish,1,7,
-203,girafarig,6,316,Odor Sleuth,1,25,
-203,girafarig,7,23,Stomp,1,19,
-203,girafarig,7,33,Tackle,1,1,1
-203,girafarig,7,45,Growl,1,1,2
-203,girafarig,7,60,Psybeam,1,43,
-203,girafarig,7,93,Confusion,1,13,
-203,girafarig,7,97,Agility,1,31,
-203,girafarig,7,226,Baton Pass,1,37,
-203,girafarig,7,242,Crunch,1,49,
-203,girafarig,7,310,Astonish,1,7,
-203,girafarig,7,316,Odor Sleuth,1,25,
-203,girafarig,8,23,Stomp,1,10,
-203,girafarig,8,33,Tackle,1,1,4
-203,girafarig,8,45,Growl,1,1,5
-203,girafarig,8,60,Psybeam,1,19,
-203,girafarig,8,93,Confusion,1,1,6
-203,girafarig,8,94,Psychic,1,37,
-203,girafarig,8,97,Agility,1,14,
-203,girafarig,8,226,Baton Pass,1,23,
-203,girafarig,8,242,Crunch,1,46,
-203,girafarig,8,310,Astonish,1,1,3
-203,girafarig,8,316,Odor Sleuth,1,5,
-203,girafarig,8,372,Assurance,1,28,
-203,girafarig,8,384,Power Swap,1,1,1
-203,girafarig,8,385,Guard Swap,1,1,2
-203,girafarig,8,428,Zen Headbutt,1,41,
-203,girafarig,8,458,Double Hit,1,32,
-203,girafarig,9,23,Stomp,1,10,
-203,girafarig,9,33,Tackle,1,1,4
-203,girafarig,9,45,Growl,1,1,5
-203,girafarig,9,60,Psybeam,1,19,
-203,girafarig,9,93,Confusion,1,1,6
-203,girafarig,9,94,Psychic,1,37,
-203,girafarig,9,97,Agility,1,14,
-203,girafarig,9,226,Baton Pass,1,23,
-203,girafarig,9,242,Crunch,1,46,
-203,girafarig,9,310,Astonish,1,1,3
-203,girafarig,9,316,Odor Sleuth,1,5,
-203,girafarig,9,372,Assurance,1,28,
-203,girafarig,9,384,Power Swap,1,1,1
-203,girafarig,9,385,Guard Swap,1,1,2
-203,girafarig,9,428,Zen Headbutt,1,41,
-203,girafarig,9,458,Double Hit,1,32,
-203,girafarig,10,23,Stomp,1,10,
-203,girafarig,10,33,Tackle,1,1,4
-203,girafarig,10,45,Growl,1,1,5
-203,girafarig,10,60,Psybeam,1,19,
-203,girafarig,10,93,Confusion,1,1,6
-203,girafarig,10,94,Psychic,1,37,
-203,girafarig,10,97,Agility,1,14,
-203,girafarig,10,226,Baton Pass,1,23,
-203,girafarig,10,242,Crunch,1,46,
-203,girafarig,10,310,Astonish,1,1,3
-203,girafarig,10,316,Odor Sleuth,1,5,
-203,girafarig,10,372,Assurance,1,28,
-203,girafarig,10,384,Power Swap,1,1,1
-203,girafarig,10,385,Guard Swap,1,1,2
-203,girafarig,10,428,Zen Headbutt,1,41,
-203,girafarig,10,458,Double Hit,1,32,
-203,girafarig,11,23,Stomp,1,10,
-203,girafarig,11,33,Tackle,1,1,4
-203,girafarig,11,45,Growl,1,1,5
-203,girafarig,11,60,Psybeam,1,19,
-203,girafarig,11,93,Confusion,1,1,6
-203,girafarig,11,94,Psychic,1,37,
-203,girafarig,11,97,Agility,1,14,
-203,girafarig,11,226,Baton Pass,1,23,
-203,girafarig,11,242,Crunch,1,46,
-203,girafarig,11,310,Astonish,1,1,3
-203,girafarig,11,316,Odor Sleuth,1,5,
-203,girafarig,11,372,Assurance,1,28,
-203,girafarig,11,384,Power Swap,1,1,1
-203,girafarig,11,385,Guard Swap,1,1,2
-203,girafarig,11,428,Zen Headbutt,1,41,
-203,girafarig,11,458,Double Hit,1,32,
-203,girafarig,12,23,Stomp,1,19,
-203,girafarig,12,33,Tackle,1,1,1
-203,girafarig,12,45,Growl,1,1,2
-203,girafarig,12,60,Psybeam,1,43,
-203,girafarig,12,93,Confusion,1,13,
-203,girafarig,12,97,Agility,1,31,
-203,girafarig,12,226,Baton Pass,1,37,
-203,girafarig,12,242,Crunch,1,49,
-203,girafarig,12,310,Astonish,1,7,
-203,girafarig,12,316,Odor Sleuth,1,25,
-203,girafarig,13,23,Stomp,1,19,
-203,girafarig,13,33,Tackle,1,1,1
-203,girafarig,13,45,Growl,1,1,2
-203,girafarig,13,60,Psybeam,1,43,
-203,girafarig,13,93,Confusion,1,13,
-203,girafarig,13,97,Agility,1,31,
-203,girafarig,13,226,Baton Pass,1,37,
-203,girafarig,13,242,Crunch,1,49,
-203,girafarig,13,310,Astonish,1,7,
-203,girafarig,13,316,Odor Sleuth,1,25,
-203,girafarig,14,23,Stomp,1,10,
-203,girafarig,14,33,Tackle,1,1,4
-203,girafarig,14,45,Growl,1,1,5
-203,girafarig,14,60,Psybeam,1,19,
-203,girafarig,14,93,Confusion,1,1,6
-203,girafarig,14,94,Psychic,1,37,
-203,girafarig,14,97,Agility,1,14,
-203,girafarig,14,226,Baton Pass,1,23,
-203,girafarig,14,242,Crunch,1,46,
-203,girafarig,14,310,Astonish,1,1,3
-203,girafarig,14,316,Odor Sleuth,1,5,
-203,girafarig,14,372,Assurance,1,28,
-203,girafarig,14,384,Power Swap,1,1,1
-203,girafarig,14,385,Guard Swap,1,1,2
-203,girafarig,14,428,Zen Headbutt,1,41,
-203,girafarig,14,458,Double Hit,1,32,
-203,girafarig,15,23,Stomp,1,10,
-203,girafarig,15,33,Tackle,1,1,4
-203,girafarig,15,45,Growl,1,1,5
-203,girafarig,15,60,Psybeam,1,19,
-203,girafarig,15,93,Confusion,1,1,6
-203,girafarig,15,94,Psychic,1,37,
-203,girafarig,15,97,Agility,1,14,
-203,girafarig,15,226,Baton Pass,1,23,
-203,girafarig,15,242,Crunch,1,46,
-203,girafarig,15,310,Astonish,1,1,3
-203,girafarig,15,316,Odor Sleuth,1,5,
-203,girafarig,15,372,Assurance,1,28,
-203,girafarig,15,384,Power Swap,1,1,1
-203,girafarig,15,385,Guard Swap,1,1,2
-203,girafarig,15,428,Zen Headbutt,1,41,
-203,girafarig,15,458,Double Hit,1,32,
-203,girafarig,16,23,Stomp,1,14,1
-203,girafarig,16,33,Tackle,1,1,4
-203,girafarig,16,45,Growl,1,1,5
-203,girafarig,16,60,Psybeam,1,19,1
-203,girafarig,16,93,Confusion,1,1,6
-203,girafarig,16,94,Psychic,1,50,1
-203,girafarig,16,97,Agility,1,23,1
-203,girafarig,16,226,Baton Pass,1,41,1
-203,girafarig,16,242,Crunch,1,37,1
-203,girafarig,16,310,Astonish,1,1,3
-203,girafarig,16,316,Odor Sleuth,1,5,1
-203,girafarig,16,372,Assurance,1,10,1
-203,girafarig,16,384,Power Swap,1,1,1
-203,girafarig,16,385,Guard Swap,1,1,2
-203,girafarig,16,417,Nasty Plot,1,46,1
-203,girafarig,16,428,Zen Headbutt,1,32,1
-203,girafarig,16,458,Double Hit,1,28,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+203,3,Stomp,1,normal,65,100
+203,3,Tackle,1,normal,50,100
+203,3,Growl,1,normal,-,100
+203,3,Confusion,1,psychic,50,100
+203,4,Stomp,1,normal,65,100
+203,4,Tackle,1,normal,50,100
+203,4,Growl,1,normal,-,100
+203,4,Confusion,1,psychic,50,100
+203,5,Tackle,1,normal,50,100
+203,5,Growl,1,normal,-,100
+203,6,Tackle,1,normal,50,100
+203,6,Growl,1,normal,-,100
+203,7,Tackle,1,normal,50,100
+203,7,Growl,1,normal,-,100
+203,8,Tackle,1,normal,50,100
+203,8,Growl,1,normal,-,100
+203,8,Confusion,1,psychic,50,100
+203,8,Astonish,1,ghost,30,100
+203,8,Power Swap,1,psychic,-,-
+203,8,Guard Swap,1,psychic,-,-
+203,9,Tackle,1,normal,50,100
+203,9,Growl,1,normal,-,100
+203,9,Confusion,1,psychic,50,100
+203,9,Astonish,1,ghost,30,100
+203,9,Power Swap,1,psychic,-,-
+203,9,Guard Swap,1,psychic,-,-
+203,10,Tackle,1,normal,50,100
+203,10,Growl,1,normal,-,100
+203,10,Confusion,1,psychic,50,100
+203,10,Astonish,1,ghost,30,100
+203,10,Power Swap,1,psychic,-,-
+203,10,Guard Swap,1,psychic,-,-
+203,11,Tackle,1,normal,50,100
+203,11,Growl,1,normal,-,100
+203,11,Confusion,1,psychic,50,100
+203,11,Astonish,1,ghost,30,100
+203,11,Power Swap,1,psychic,-,-
+203,11,Guard Swap,1,psychic,-,-
+203,12,Tackle,1,normal,50,100
+203,12,Growl,1,normal,-,100
+203,13,Tackle,1,normal,50,100
+203,13,Growl,1,normal,-,100
+203,14,Tackle,1,normal,50,100
+203,14,Growl,1,normal,-,100
+203,14,Confusion,1,psychic,50,100
+203,14,Astonish,1,ghost,30,100
+203,14,Power Swap,1,psychic,-,-
+203,14,Guard Swap,1,psychic,-,-
+203,15,Tackle,1,normal,50,100
+203,15,Growl,1,normal,-,100
+203,15,Confusion,1,psychic,50,100
+203,15,Astonish,1,ghost,30,100
+203,15,Power Swap,1,psychic,-,-
+203,15,Guard Swap,1,psychic,-,-
+203,16,Tackle,1,normal,50,100
+203,16,Growl,1,normal,-,100
+203,16,Confusion,1,psychic,50,100
+203,16,Astonish,1,ghost,30,100
+203,16,Power Swap,1,psychic,-,-
+203,16,Guard Swap,1,psychic,-,-
+203,8,Odor Sleuth,5,normal,-,-
+203,9,Odor Sleuth,5,normal,-,-
+203,10,Odor Sleuth,5,normal,-,-
+203,11,Odor Sleuth,5,normal,-,-
+203,14,Odor Sleuth,5,normal,-,-
+203,15,Odor Sleuth,5,normal,-,-
+203,16,Odor Sleuth,5,normal,-,-
+203,3,Confusion,7,psychic,50,100
+203,4,Confusion,7,psychic,50,100
+203,5,Astonish,7,ghost,30,100
+203,6,Astonish,7,ghost,30,100
+203,7,Astonish,7,ghost,30,100
+203,12,Astonish,7,ghost,30,100
+203,13,Astonish,7,ghost,30,100
+203,8,Stomp,10,normal,65,100
+203,9,Stomp,10,normal,65,100
+203,10,Stomp,10,normal,65,100
+203,11,Stomp,10,normal,65,100
+203,14,Stomp,10,normal,65,100
+203,15,Stomp,10,normal,65,100
+203,16,Assurance,10,dark,60,100
+203,3,Stomp,13,normal,65,100
+203,4,Stomp,13,normal,65,100
+203,5,Confusion,13,psychic,50,100
+203,6,Confusion,13,psychic,50,100
+203,7,Confusion,13,psychic,50,100
+203,12,Confusion,13,psychic,50,100
+203,13,Confusion,13,psychic,50,100
+203,8,Agility,14,psychic,-,-
+203,9,Agility,14,psychic,-,-
+203,10,Agility,14,psychic,-,-
+203,11,Agility,14,psychic,-,-
+203,14,Agility,14,psychic,-,-
+203,15,Agility,14,psychic,-,-
+203,16,Stomp,14,normal,65,100
+203,5,Stomp,19,normal,65,100
+203,6,Stomp,19,normal,65,100
+203,7,Stomp,19,normal,65,100
+203,8,Psybeam,19,psychic,65,100
+203,9,Psybeam,19,psychic,65,100
+203,10,Psybeam,19,psychic,65,100
+203,11,Psybeam,19,psychic,65,100
+203,12,Stomp,19,normal,65,100
+203,13,Stomp,19,normal,65,100
+203,14,Psybeam,19,psychic,65,100
+203,15,Psybeam,19,psychic,65,100
+203,16,Psybeam,19,psychic,65,100
+203,3,Agility,20,psychic,-,-
+203,4,Agility,20,psychic,-,-
+203,8,Baton Pass,23,normal,-,-
+203,9,Baton Pass,23,normal,-,-
+203,10,Baton Pass,23,normal,-,-
+203,11,Baton Pass,23,normal,-,-
+203,14,Baton Pass,23,normal,-,-
+203,15,Baton Pass,23,normal,-,-
+203,16,Agility,23,psychic,-,-
+203,5,Odor Sleuth,25,normal,-,-
+203,6,Odor Sleuth,25,normal,-,-
+203,7,Odor Sleuth,25,normal,-,-
+203,12,Odor Sleuth,25,normal,-,-
+203,13,Odor Sleuth,25,normal,-,-
+203,8,Assurance,28,dark,60,100
+203,9,Assurance,28,dark,60,100
+203,10,Assurance,28,dark,60,100
+203,11,Assurance,28,dark,60,100
+203,14,Assurance,28,dark,60,100
+203,15,Assurance,28,dark,60,100
+203,16,Double Hit,28,normal,35,90
+203,3,Baton Pass,30,normal,-,-
+203,4,Baton Pass,30,normal,-,-
+203,5,Agility,31,psychic,-,-
+203,6,Agility,31,psychic,-,-
+203,7,Agility,31,psychic,-,-
+203,12,Agility,31,psychic,-,-
+203,13,Agility,31,psychic,-,-
+203,8,Double Hit,32,normal,35,90
+203,9,Double Hit,32,normal,35,90
+203,10,Double Hit,32,normal,35,90
+203,11,Double Hit,32,normal,35,90
+203,14,Double Hit,32,normal,35,90
+203,15,Double Hit,32,normal,35,90
+203,16,Zen Headbutt,32,psychic,80,90
+203,5,Baton Pass,37,normal,-,-
+203,6,Baton Pass,37,normal,-,-
+203,7,Baton Pass,37,normal,-,-
+203,8,Psychic,37,psychic,90,100
+203,9,Psychic,37,psychic,90,100
+203,10,Psychic,37,psychic,90,100
+203,11,Psychic,37,psychic,90,100
+203,12,Baton Pass,37,normal,-,-
+203,13,Baton Pass,37,normal,-,-
+203,14,Psychic,37,psychic,90,100
+203,15,Psychic,37,psychic,90,100
+203,16,Crunch,37,dark,80,100
+203,3,Psybeam,41,psychic,65,100
+203,4,Psybeam,41,psychic,65,100
+203,8,Zen Headbutt,41,psychic,80,90
+203,9,Zen Headbutt,41,psychic,80,90
+203,10,Zen Headbutt,41,psychic,80,90
+203,11,Zen Headbutt,41,psychic,80,90
+203,14,Zen Headbutt,41,psychic,80,90
+203,15,Zen Headbutt,41,psychic,80,90
+203,16,Baton Pass,41,normal,-,-
+203,5,Psybeam,43,psychic,65,100
+203,6,Psybeam,43,psychic,65,100
+203,7,Psybeam,43,psychic,65,100
+203,12,Psybeam,43,psychic,65,100
+203,13,Psybeam,43,psychic,65,100
+203,8,Crunch,46,dark,80,100
+203,9,Crunch,46,dark,80,100
+203,10,Crunch,46,dark,80,100
+203,11,Crunch,46,dark,80,100
+203,14,Crunch,46,dark,80,100
+203,15,Crunch,46,dark,80,100
+203,16,Nasty Plot,46,dark,-,-
+203,5,Crunch,49,dark,80,100
+203,6,Crunch,49,dark,80,100
+203,7,Crunch,49,dark,80,100
+203,12,Crunch,49,dark,80,100
+203,13,Crunch,49,dark,80,100
+203,16,Psychic,50,psychic,90,100
+203,3,Crunch,54,dark,80,100
+203,4,Crunch,54,dark,80,100

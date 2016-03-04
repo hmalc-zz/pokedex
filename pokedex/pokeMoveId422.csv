@@ -1,71 +1,71 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-422,shellos,8,34,Body Slam,1,29,
-422,shellos,8,105,Recover,1,46,
-422,shellos,8,106,Harden,1,4,
-422,shellos,8,189,Mud-Slap,1,1,
-422,shellos,8,237,Hidden Power,1,16,
-422,shellos,8,240,Rain Dance,1,22,
-422,shellos,8,300,Mud Sport,1,2,
-422,shellos,8,330,Muddy Water,1,37,
-422,shellos,8,352,Water Pulse,1,7,
-422,shellos,8,426,Mud Bomb,1,11,
-422,shellos,9,34,Body Slam,1,29,
-422,shellos,9,105,Recover,1,46,
-422,shellos,9,106,Harden,1,4,
-422,shellos,9,189,Mud-Slap,1,1,
-422,shellos,9,237,Hidden Power,1,16,
-422,shellos,9,240,Rain Dance,1,22,
-422,shellos,9,300,Mud Sport,1,2,
-422,shellos,9,330,Muddy Water,1,37,
-422,shellos,9,352,Water Pulse,1,7,
-422,shellos,9,426,Mud Bomb,1,11,
-422,shellos,10,34,Body Slam,1,29,
-422,shellos,10,105,Recover,1,46,
-422,shellos,10,106,Harden,1,4,
-422,shellos,10,189,Mud-Slap,1,1,
-422,shellos,10,237,Hidden Power,1,16,
-422,shellos,10,240,Rain Dance,1,22,
-422,shellos,10,300,Mud Sport,1,2,
-422,shellos,10,330,Muddy Water,1,37,
-422,shellos,10,352,Water Pulse,1,7,
-422,shellos,10,426,Mud Bomb,1,11,
-422,shellos,11,34,Body Slam,1,29,
-422,shellos,11,105,Recover,1,46,
-422,shellos,11,106,Harden,1,4,
-422,shellos,11,189,Mud-Slap,1,1,
-422,shellos,11,237,Hidden Power,1,16,
-422,shellos,11,240,Rain Dance,1,22,
-422,shellos,11,300,Mud Sport,1,2,
-422,shellos,11,330,Muddy Water,1,37,
-422,shellos,11,352,Water Pulse,1,7,
-422,shellos,11,426,Mud Bomb,1,11,
-422,shellos,14,34,Body Slam,1,29,
-422,shellos,14,105,Recover,1,46,
-422,shellos,14,106,Harden,1,4,
-422,shellos,14,189,Mud-Slap,1,1,
-422,shellos,14,237,Hidden Power,1,16,
-422,shellos,14,240,Rain Dance,1,22,
-422,shellos,14,300,Mud Sport,1,2,
-422,shellos,14,330,Muddy Water,1,37,
-422,shellos,14,352,Water Pulse,1,7,
-422,shellos,14,426,Mud Bomb,1,11,
-422,shellos,15,34,Body Slam,1,29,
-422,shellos,15,105,Recover,1,46,
-422,shellos,15,106,Harden,1,4,
-422,shellos,15,189,Mud-Slap,1,1,
-422,shellos,15,237,Hidden Power,1,16,
-422,shellos,15,240,Rain Dance,1,22,
-422,shellos,15,300,Mud Sport,1,2,
-422,shellos,15,330,Muddy Water,1,37,
-422,shellos,15,352,Water Pulse,1,7,
-422,shellos,15,426,Mud Bomb,1,11,
-422,shellos,16,34,Body Slam,1,29,1
-422,shellos,16,105,Recover,1,46,1
-422,shellos,16,106,Harden,1,4,1
-422,shellos,16,189,Mud-Slap,1,1,1
-422,shellos,16,237,Hidden Power,1,16,1
-422,shellos,16,240,Rain Dance,1,22,1
-422,shellos,16,300,Mud Sport,1,2,1
-422,shellos,16,330,Muddy Water,1,37,1
-422,shellos,16,352,Water Pulse,1,7,1
-422,shellos,16,426,Mud Bomb,1,11,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+422,8,Mud-Slap,1,ground,20,100
+422,9,Mud-Slap,1,ground,20,100
+422,10,Mud-Slap,1,ground,20,100
+422,11,Mud-Slap,1,ground,20,100
+422,14,Mud-Slap,1,ground,20,100
+422,15,Mud-Slap,1,ground,20,100
+422,16,Mud-Slap,1,ground,20,100
+422,8,Mud Sport,2,ground,-,-
+422,9,Mud Sport,2,ground,-,-
+422,10,Mud Sport,2,ground,-,-
+422,11,Mud Sport,2,ground,-,-
+422,14,Mud Sport,2,ground,-,-
+422,15,Mud Sport,2,ground,-,-
+422,16,Mud Sport,2,ground,-,-
+422,8,Harden,4,normal,-,-
+422,9,Harden,4,normal,-,-
+422,10,Harden,4,normal,-,-
+422,11,Harden,4,normal,-,-
+422,14,Harden,4,normal,-,-
+422,15,Harden,4,normal,-,-
+422,16,Harden,4,normal,-,-
+422,8,Water Pulse,7,water,60,100
+422,9,Water Pulse,7,water,60,100
+422,10,Water Pulse,7,water,60,100
+422,11,Water Pulse,7,water,60,100
+422,14,Water Pulse,7,water,60,100
+422,15,Water Pulse,7,water,60,100
+422,16,Water Pulse,7,water,60,100
+422,8,Mud Bomb,11,ground,65,85
+422,9,Mud Bomb,11,ground,65,85
+422,10,Mud Bomb,11,ground,65,85
+422,11,Mud Bomb,11,ground,65,85
+422,14,Mud Bomb,11,ground,65,85
+422,15,Mud Bomb,11,ground,65,85
+422,16,Mud Bomb,11,ground,65,85
+422,8,Hidden Power,16,normal,60,100
+422,9,Hidden Power,16,normal,60,100
+422,10,Hidden Power,16,normal,60,100
+422,11,Hidden Power,16,normal,60,100
+422,14,Hidden Power,16,normal,60,100
+422,15,Hidden Power,16,normal,60,100
+422,16,Hidden Power,16,normal,60,100
+422,8,Rain Dance,22,water,-,-
+422,9,Rain Dance,22,water,-,-
+422,10,Rain Dance,22,water,-,-
+422,11,Rain Dance,22,water,-,-
+422,14,Rain Dance,22,water,-,-
+422,15,Rain Dance,22,water,-,-
+422,16,Rain Dance,22,water,-,-
+422,8,Body Slam,29,normal,85,100
+422,9,Body Slam,29,normal,85,100
+422,10,Body Slam,29,normal,85,100
+422,11,Body Slam,29,normal,85,100
+422,14,Body Slam,29,normal,85,100
+422,15,Body Slam,29,normal,85,100
+422,16,Body Slam,29,normal,85,100
+422,8,Muddy Water,37,water,90,85
+422,9,Muddy Water,37,water,90,85
+422,10,Muddy Water,37,water,90,85
+422,11,Muddy Water,37,water,90,85
+422,14,Muddy Water,37,water,90,85
+422,15,Muddy Water,37,water,90,85
+422,16,Muddy Water,37,water,90,85
+422,8,Recover,46,normal,-,-
+422,9,Recover,46,normal,-,-
+422,10,Recover,46,normal,-,-
+422,11,Recover,46,normal,-,-
+422,14,Recover,46,normal,-,-
+422,15,Recover,46,normal,-,-
+422,16,Recover,46,normal,-,-

@@ -1,65 +1,65 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-627,rufflet,11,17,Wing Attack,1,10,
-627,rufflet,11,18,Whirlwind,1,55,
-627,rufflet,11,31,Fury Attack,1,5,
-627,rufflet,11,37,Thrash,1,64,
-627,rufflet,11,43,Leer,1,1,2
-627,rufflet,11,64,Peck,1,1,1
-627,rufflet,11,163,Slash,1,28,
-627,rufflet,11,184,Scary Face,1,19,
-627,rufflet,11,306,Crush Claw,1,46,
-627,rufflet,11,332,Aerial Ace,1,23,
-627,rufflet,11,366,Tailwind,1,37,
-627,rufflet,11,403,Air Slash,1,41,
-627,rufflet,11,413,Brave Bird,1,59,
-627,rufflet,11,432,Defog,1,32,
-627,rufflet,11,468,Hone Claws,1,14,
-627,rufflet,11,507,Sky Drop,1,50,
-627,rufflet,14,17,Wing Attack,1,10,
-627,rufflet,14,18,Whirlwind,1,55,
-627,rufflet,14,31,Fury Attack,1,5,
-627,rufflet,14,37,Thrash,1,64,
-627,rufflet,14,43,Leer,1,1,2
-627,rufflet,14,64,Peck,1,1,1
-627,rufflet,14,163,Slash,1,28,
-627,rufflet,14,184,Scary Face,1,19,
-627,rufflet,14,306,Crush Claw,1,46,
-627,rufflet,14,332,Aerial Ace,1,23,
-627,rufflet,14,366,Tailwind,1,37,
-627,rufflet,14,403,Air Slash,1,41,
-627,rufflet,14,413,Brave Bird,1,59,
-627,rufflet,14,432,Defog,1,32,
-627,rufflet,14,468,Hone Claws,1,14,
-627,rufflet,14,507,Sky Drop,1,50,
-627,rufflet,15,17,Wing Attack,1,10,
-627,rufflet,15,18,Whirlwind,1,55,
-627,rufflet,15,31,Fury Attack,1,5,
-627,rufflet,15,37,Thrash,1,64,
-627,rufflet,15,43,Leer,1,1,2
-627,rufflet,15,64,Peck,1,1,1
-627,rufflet,15,163,Slash,1,28,
-627,rufflet,15,184,Scary Face,1,19,
-627,rufflet,15,306,Crush Claw,1,46,
-627,rufflet,15,332,Aerial Ace,1,23,
-627,rufflet,15,366,Tailwind,1,37,
-627,rufflet,15,403,Air Slash,1,41,
-627,rufflet,15,413,Brave Bird,1,59,
-627,rufflet,15,432,Defog,1,32,
-627,rufflet,15,468,Hone Claws,1,14,
-627,rufflet,15,507,Sky Drop,1,50,
-627,rufflet,16,17,Wing Attack,1,10,1
-627,rufflet,16,18,Whirlwind,1,55,1
-627,rufflet,16,31,Fury Attack,1,5,1
-627,rufflet,16,37,Thrash,1,64,1
-627,rufflet,16,43,Leer,1,1,2
-627,rufflet,16,64,Peck,1,1,1
-627,rufflet,16,163,Slash,1,28,1
-627,rufflet,16,184,Scary Face,1,19,1
-627,rufflet,16,306,Crush Claw,1,46,1
-627,rufflet,16,332,Aerial Ace,1,23,1
-627,rufflet,16,366,Tailwind,1,37,1
-627,rufflet,16,403,Air Slash,1,41,1
-627,rufflet,16,413,Brave Bird,1,59,1
-627,rufflet,16,432,Defog,1,32,1
-627,rufflet,16,468,Hone Claws,1,14,1
-627,rufflet,16,507,Sky Drop,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+627,11,Leer,1,normal,-,100
+627,11,Peck,1,flying,35,100
+627,14,Leer,1,normal,-,100
+627,14,Peck,1,flying,35,100
+627,15,Leer,1,normal,-,100
+627,15,Peck,1,flying,35,100
+627,16,Leer,1,normal,-,100
+627,16,Peck,1,flying,35,100
+627,11,Fury Attack,5,normal,15,85
+627,14,Fury Attack,5,normal,15,85
+627,15,Fury Attack,5,normal,15,85
+627,16,Fury Attack,5,normal,15,85
+627,11,Wing Attack,10,flying,60,100
+627,14,Wing Attack,10,flying,60,100
+627,15,Wing Attack,10,flying,60,100
+627,16,Wing Attack,10,flying,60,100
+627,11,Hone Claws,14,dark,-,-
+627,14,Hone Claws,14,dark,-,-
+627,15,Hone Claws,14,dark,-,-
+627,16,Hone Claws,14,dark,-,-
+627,11,Scary Face,19,normal,-,100
+627,14,Scary Face,19,normal,-,100
+627,15,Scary Face,19,normal,-,100
+627,16,Scary Face,19,normal,-,100
+627,11,Aerial Ace,23,flying,60,-
+627,14,Aerial Ace,23,flying,60,-
+627,15,Aerial Ace,23,flying,60,-
+627,16,Aerial Ace,23,flying,60,-
+627,11,Slash,28,normal,70,100
+627,14,Slash,28,normal,70,100
+627,15,Slash,28,normal,70,100
+627,16,Slash,28,normal,70,100
+627,11,Defog,32,flying,-,-
+627,14,Defog,32,flying,-,-
+627,15,Defog,32,flying,-,-
+627,16,Defog,32,flying,-,-
+627,11,Tailwind,37,flying,-,-
+627,14,Tailwind,37,flying,-,-
+627,15,Tailwind,37,flying,-,-
+627,16,Tailwind,37,flying,-,-
+627,11,Air Slash,41,flying,75,95
+627,14,Air Slash,41,flying,75,95
+627,15,Air Slash,41,flying,75,95
+627,16,Air Slash,41,flying,75,95
+627,11,Crush Claw,46,normal,75,95
+627,14,Crush Claw,46,normal,75,95
+627,15,Crush Claw,46,normal,75,95
+627,16,Crush Claw,46,normal,75,95
+627,11,Sky Drop,50,flying,60,100
+627,14,Sky Drop,50,flying,60,100
+627,15,Sky Drop,50,flying,60,100
+627,16,Sky Drop,50,flying,60,100
+627,11,Whirlwind,55,normal,-,-
+627,14,Whirlwind,55,normal,-,-
+627,15,Whirlwind,55,normal,-,-
+627,16,Whirlwind,55,normal,-,-
+627,11,Brave Bird,59,flying,120,100
+627,14,Brave Bird,59,flying,120,100
+627,15,Brave Bird,59,flying,120,100
+627,16,Brave Bird,59,flying,120,100
+627,11,Thrash,64,normal,120,100
+627,14,Thrash,64,normal,120,100
+627,15,Thrash,64,normal,120,100
+627,16,Thrash,64,normal,120,100

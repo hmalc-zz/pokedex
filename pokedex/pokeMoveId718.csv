@@ -1,37 +1,37 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-718,zygarde,15,20,Bind,1,18,
-718,zygarde,15,44,Bite,1,1,4
-718,zygarde,15,89,Earthquake,1,55,
-718,zygarde,15,91,Dig,1,10,
-718,zygarde,15,114,Haze,1,44,
-718,zygarde,15,137,Glare,1,1,1
-718,zygarde,15,200,Outrage,1,93,
-718,zygarde,15,201,Sandstorm,1,35,
-718,zygarde,15,219,Safeguard,1,5,
-718,zygarde,15,225,Dragon Breath,1,1,3
-718,zygarde,15,242,Crunch,1,51,
-718,zygarde,15,245,Extreme Speed,1,88,
-718,zygarde,15,293,Camouflage,1,59,
-718,zygarde,15,349,Dragon Dance,1,72,
-718,zygarde,15,406,Dragon Pulse,1,63,
-718,zygarde,15,489,Coil,1,80,
-718,zygarde,15,523,Bulldoze,1,1,2
-718,zygarde,15,616,Land's Wrath,1,26,
-718,zygarde,16,20,Bind,1,18,1
-718,zygarde,16,44,Bite,1,1,4
-718,zygarde,16,89,Earthquake,1,55,1
-718,zygarde,16,91,Dig,1,10,1
-718,zygarde,16,114,Haze,1,44,1
-718,zygarde,16,137,Glare,1,1,1
-718,zygarde,16,200,Outrage,1,93,1
-718,zygarde,16,201,Sandstorm,1,35,1
-718,zygarde,16,219,Safeguard,1,5,1
-718,zygarde,16,225,Dragon Breath,1,1,3
-718,zygarde,16,242,Crunch,1,51,1
-718,zygarde,16,245,Extreme Speed,1,88,1
-718,zygarde,16,293,Camouflage,1,59,1
-718,zygarde,16,349,Dragon Dance,1,72,1
-718,zygarde,16,406,Dragon Pulse,1,63,1
-718,zygarde,16,489,Coil,1,80,1
-718,zygarde,16,523,Bulldoze,1,1,2
-718,zygarde,16,616,Land's Wrath,1,26,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+718,15,Bite,1,dark,60,100
+718,15,Glare,1,normal,-,100
+718,15,Dragon Breath,1,dragon,60,100
+718,15,Bulldoze,1,ground,60,100
+718,16,Bite,1,dark,60,100
+718,16,Glare,1,normal,-,100
+718,16,Dragon Breath,1,dragon,60,100
+718,16,Bulldoze,1,ground,60,100
+718,15,Safeguard,5,normal,-,-
+718,16,Safeguard,5,normal,-,-
+718,15,Dig,10,ground,80,100
+718,16,Dig,10,ground,80,100
+718,15,Bind,18,normal,15,85
+718,16,Bind,18,normal,15,85
+718,15,Land's Wrath,26,ground,90,100
+718,16,Land's Wrath,26,ground,90,100
+718,15,Sandstorm,35,rock,-,-
+718,16,Sandstorm,35,rock,-,-
+718,15,Haze,44,ice,-,-
+718,16,Haze,44,ice,-,-
+718,15,Crunch,51,dark,80,100
+718,16,Crunch,51,dark,80,100
+718,15,Earthquake,55,ground,100,100
+718,16,Earthquake,55,ground,100,100
+718,15,Camouflage,59,normal,-,-
+718,16,Camouflage,59,normal,-,-
+718,15,Dragon Pulse,63,dragon,85,100
+718,16,Dragon Pulse,63,dragon,85,100
+718,15,Dragon Dance,72,dragon,-,-
+718,16,Dragon Dance,72,dragon,-,-
+718,15,Coil,80,poison,-,-
+718,16,Coil,80,poison,-,-
+718,15,Extreme Speed,88,normal,80,100
+718,16,Extreme Speed,88,normal,80,100
+718,15,Outrage,93,dragon,120,100
+718,16,Outrage,93,dragon,120,100

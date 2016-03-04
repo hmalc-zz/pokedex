@@ -1,183 +1,183 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-108,lickitung,1,21,Slam,1,31,
-108,lickitung,1,23,Stomp,1,7,
-108,lickitung,1,35,Wrap,1,1,1
-108,lickitung,1,48,Supersonic,1,1,2
-108,lickitung,1,50,Disable,1,15,
-108,lickitung,1,103,Screech,1,39,
-108,lickitung,1,111,Defense Curl,1,23,
-108,lickitung,2,21,Slam,1,31,
-108,lickitung,2,23,Stomp,1,7,
-108,lickitung,2,35,Wrap,1,1,1
-108,lickitung,2,48,Supersonic,1,1,2
-108,lickitung,2,50,Disable,1,15,
-108,lickitung,2,103,Screech,1,39,
-108,lickitung,2,111,Defense Curl,1,23,
-108,lickitung,3,21,Slam,1,37,
-108,lickitung,3,23,Stomp,1,19,
-108,lickitung,3,35,Wrap,1,25,
-108,lickitung,3,48,Supersonic,1,7,
-108,lickitung,3,50,Disable,1,31,
-108,lickitung,3,103,Screech,1,43,
-108,lickitung,3,111,Defense Curl,1,13,
-108,lickitung,3,122,Lick,1,1,
-108,lickitung,4,21,Slam,1,37,
-108,lickitung,4,23,Stomp,1,19,
-108,lickitung,4,35,Wrap,1,25,
-108,lickitung,4,48,Supersonic,1,7,
-108,lickitung,4,50,Disable,1,31,
-108,lickitung,4,103,Screech,1,43,
-108,lickitung,4,111,Defense Curl,1,13,
-108,lickitung,4,122,Lick,1,1,
-108,lickitung,5,21,Slam,1,40,
-108,lickitung,5,23,Stomp,1,23,
-108,lickitung,5,35,Wrap,1,29,
-108,lickitung,5,48,Supersonic,1,7,
-108,lickitung,5,50,Disable,1,34,
-108,lickitung,5,103,Screech,1,45,
-108,lickitung,5,111,Defense Curl,1,12,
-108,lickitung,5,122,Lick,1,1,
-108,lickitung,5,282,Knock Off,1,18,
-108,lickitung,5,287,Refresh,1,51,
-108,lickitung,6,21,Slam,1,40,
-108,lickitung,6,23,Stomp,1,23,
-108,lickitung,6,35,Wrap,1,29,
-108,lickitung,6,48,Supersonic,1,7,
-108,lickitung,6,50,Disable,1,34,
-108,lickitung,6,103,Screech,1,45,
-108,lickitung,6,111,Defense Curl,1,12,
-108,lickitung,6,122,Lick,1,1,
-108,lickitung,6,282,Knock Off,1,18,
-108,lickitung,6,287,Refresh,1,51,
-108,lickitung,7,21,Slam,1,40,
-108,lickitung,7,23,Stomp,1,23,
-108,lickitung,7,35,Wrap,1,29,
-108,lickitung,7,48,Supersonic,1,7,
-108,lickitung,7,50,Disable,1,34,
-108,lickitung,7,103,Screech,1,45,
-108,lickitung,7,111,Defense Curl,1,12,
-108,lickitung,7,122,Lick,1,1,
-108,lickitung,7,282,Knock Off,1,18,
-108,lickitung,7,287,Refresh,1,51,
-108,lickitung,8,21,Slam,1,29,
-108,lickitung,8,23,Stomp,1,21,
-108,lickitung,8,35,Wrap,1,17,
-108,lickitung,8,48,Supersonic,1,5,
-108,lickitung,8,50,Disable,1,25,
-108,lickitung,8,103,Screech,1,45,
-108,lickitung,8,111,Defense Curl,1,9,
-108,lickitung,8,122,Lick,1,1,
-108,lickitung,8,205,Rollout,1,33,
-108,lickitung,8,282,Knock Off,1,13,
-108,lickitung,8,287,Refresh,1,41,
-108,lickitung,8,378,Wring Out,1,53,
-108,lickitung,8,382,Me First,1,37,
-108,lickitung,8,438,Power Whip,1,49,
-108,lickitung,9,21,Slam,1,29,
-108,lickitung,9,23,Stomp,1,21,
-108,lickitung,9,35,Wrap,1,17,
-108,lickitung,9,48,Supersonic,1,5,
-108,lickitung,9,50,Disable,1,25,
-108,lickitung,9,103,Screech,1,45,
-108,lickitung,9,111,Defense Curl,1,9,
-108,lickitung,9,122,Lick,1,1,
-108,lickitung,9,205,Rollout,1,33,
-108,lickitung,9,282,Knock Off,1,13,
-108,lickitung,9,287,Refresh,1,41,
-108,lickitung,9,378,Wring Out,1,53,
-108,lickitung,9,382,Me First,1,37,
-108,lickitung,9,438,Power Whip,1,49,
-108,lickitung,10,21,Slam,1,29,
-108,lickitung,10,23,Stomp,1,21,
-108,lickitung,10,35,Wrap,1,17,
-108,lickitung,10,48,Supersonic,1,5,
-108,lickitung,10,50,Disable,1,25,
-108,lickitung,10,103,Screech,1,45,
-108,lickitung,10,111,Defense Curl,1,9,
-108,lickitung,10,122,Lick,1,1,
-108,lickitung,10,205,Rollout,1,33,
-108,lickitung,10,282,Knock Off,1,13,
-108,lickitung,10,287,Refresh,1,41,
-108,lickitung,10,378,Wring Out,1,53,
-108,lickitung,10,382,Me First,1,37,
-108,lickitung,10,438,Power Whip,1,49,
-108,lickitung,11,21,Slam,1,29,
-108,lickitung,11,23,Stomp,1,21,
-108,lickitung,11,35,Wrap,1,17,
-108,lickitung,11,48,Supersonic,1,5,
-108,lickitung,11,50,Disable,1,25,
-108,lickitung,11,103,Screech,1,49,
-108,lickitung,11,111,Defense Curl,1,9,
-108,lickitung,11,122,Lick,1,1,
-108,lickitung,11,205,Rollout,1,33,
-108,lickitung,11,282,Knock Off,1,13,
-108,lickitung,11,287,Refresh,1,45,
-108,lickitung,11,378,Wring Out,1,57,
-108,lickitung,11,382,Me First,1,41,
-108,lickitung,11,438,Power Whip,1,53,
-108,lickitung,11,498,Chip Away,1,37,
-108,lickitung,12,21,Slam,1,40,
-108,lickitung,12,23,Stomp,1,23,
-108,lickitung,12,35,Wrap,1,29,
-108,lickitung,12,48,Supersonic,1,7,
-108,lickitung,12,50,Disable,1,34,
-108,lickitung,12,103,Screech,1,45,
-108,lickitung,12,111,Defense Curl,1,12,
-108,lickitung,12,122,Lick,1,1,
-108,lickitung,12,282,Knock Off,1,18,
-108,lickitung,12,287,Refresh,1,51,
-108,lickitung,13,21,Slam,1,40,
-108,lickitung,13,23,Stomp,1,23,
-108,lickitung,13,35,Wrap,1,29,
-108,lickitung,13,48,Supersonic,1,7,
-108,lickitung,13,50,Disable,1,34,
-108,lickitung,13,103,Screech,1,45,
-108,lickitung,13,111,Defense Curl,1,12,
-108,lickitung,13,122,Lick,1,1,
-108,lickitung,13,282,Knock Off,1,18,
-108,lickitung,13,287,Refresh,1,51,
-108,lickitung,14,21,Slam,1,29,
-108,lickitung,14,23,Stomp,1,21,
-108,lickitung,14,35,Wrap,1,17,
-108,lickitung,14,48,Supersonic,1,5,
-108,lickitung,14,50,Disable,1,25,
-108,lickitung,14,103,Screech,1,49,
-108,lickitung,14,111,Defense Curl,1,9,
-108,lickitung,14,122,Lick,1,1,
-108,lickitung,14,205,Rollout,1,33,
-108,lickitung,14,282,Knock Off,1,13,
-108,lickitung,14,287,Refresh,1,45,
-108,lickitung,14,378,Wring Out,1,57,
-108,lickitung,14,382,Me First,1,41,
-108,lickitung,14,438,Power Whip,1,53,
-108,lickitung,14,498,Chip Away,1,37,
-108,lickitung,15,21,Slam,1,29,
-108,lickitung,15,23,Stomp,1,21,
-108,lickitung,15,35,Wrap,1,17,
-108,lickitung,15,48,Supersonic,1,5,
-108,lickitung,15,50,Disable,1,25,
-108,lickitung,15,103,Screech,1,49,
-108,lickitung,15,111,Defense Curl,1,9,
-108,lickitung,15,122,Lick,1,1,
-108,lickitung,15,205,Rollout,1,33,
-108,lickitung,15,282,Knock Off,1,13,
-108,lickitung,15,287,Refresh,1,45,
-108,lickitung,15,378,Wring Out,1,57,
-108,lickitung,15,382,Me First,1,41,
-108,lickitung,15,438,Power Whip,1,53,
-108,lickitung,15,498,Chip Away,1,37,
-108,lickitung,16,21,Slam,1,29,1
-108,lickitung,16,23,Stomp,1,21,1
-108,lickitung,16,35,Wrap,1,17,1
-108,lickitung,16,48,Supersonic,1,5,1
-108,lickitung,16,50,Disable,1,25,1
-108,lickitung,16,103,Screech,1,49,1
-108,lickitung,16,111,Defense Curl,1,9,1
-108,lickitung,16,122,Lick,1,1,1
-108,lickitung,16,205,Rollout,1,33,1
-108,lickitung,16,282,Knock Off,1,13,1
-108,lickitung,16,287,Refresh,1,45,1
-108,lickitung,16,378,Wring Out,1,57,1
-108,lickitung,16,382,Me First,1,41,1
-108,lickitung,16,438,Power Whip,1,53,1
-108,lickitung,16,498,Chip Away,1,37,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+108,1,Wrap,1,normal,15,90
+108,1,Supersonic,1,normal,-,55
+108,2,Wrap,1,normal,15,90
+108,2,Supersonic,1,normal,-,55
+108,3,Lick,1,ghost,30,100
+108,4,Lick,1,ghost,30,100
+108,5,Lick,1,ghost,30,100
+108,6,Lick,1,ghost,30,100
+108,7,Lick,1,ghost,30,100
+108,8,Lick,1,ghost,30,100
+108,9,Lick,1,ghost,30,100
+108,10,Lick,1,ghost,30,100
+108,11,Lick,1,ghost,30,100
+108,12,Lick,1,ghost,30,100
+108,13,Lick,1,ghost,30,100
+108,14,Lick,1,ghost,30,100
+108,15,Lick,1,ghost,30,100
+108,16,Lick,1,ghost,30,100
+108,8,Supersonic,5,normal,-,55
+108,9,Supersonic,5,normal,-,55
+108,10,Supersonic,5,normal,-,55
+108,11,Supersonic,5,normal,-,55
+108,14,Supersonic,5,normal,-,55
+108,15,Supersonic,5,normal,-,55
+108,16,Supersonic,5,normal,-,55
+108,1,Stomp,7,normal,65,100
+108,2,Stomp,7,normal,65,100
+108,3,Supersonic,7,normal,-,55
+108,4,Supersonic,7,normal,-,55
+108,5,Supersonic,7,normal,-,55
+108,6,Supersonic,7,normal,-,55
+108,7,Supersonic,7,normal,-,55
+108,12,Supersonic,7,normal,-,55
+108,13,Supersonic,7,normal,-,55
+108,8,Defense Curl,9,normal,-,-
+108,9,Defense Curl,9,normal,-,-
+108,10,Defense Curl,9,normal,-,-
+108,11,Defense Curl,9,normal,-,-
+108,14,Defense Curl,9,normal,-,-
+108,15,Defense Curl,9,normal,-,-
+108,16,Defense Curl,9,normal,-,-
+108,5,Defense Curl,12,normal,-,-
+108,6,Defense Curl,12,normal,-,-
+108,7,Defense Curl,12,normal,-,-
+108,12,Defense Curl,12,normal,-,-
+108,13,Defense Curl,12,normal,-,-
+108,3,Defense Curl,13,normal,-,-
+108,4,Defense Curl,13,normal,-,-
+108,8,Knock Off,13,dark,65,100
+108,9,Knock Off,13,dark,65,100
+108,10,Knock Off,13,dark,65,100
+108,11,Knock Off,13,dark,65,100
+108,14,Knock Off,13,dark,65,100
+108,15,Knock Off,13,dark,65,100
+108,16,Knock Off,13,dark,65,100
+108,1,Disable,15,normal,-,100
+108,2,Disable,15,normal,-,100
+108,8,Wrap,17,normal,15,90
+108,9,Wrap,17,normal,15,90
+108,10,Wrap,17,normal,15,90
+108,11,Wrap,17,normal,15,90
+108,14,Wrap,17,normal,15,90
+108,15,Wrap,17,normal,15,90
+108,16,Wrap,17,normal,15,90
+108,5,Knock Off,18,dark,65,100
+108,6,Knock Off,18,dark,65,100
+108,7,Knock Off,18,dark,65,100
+108,12,Knock Off,18,dark,65,100
+108,13,Knock Off,18,dark,65,100
+108,3,Stomp,19,normal,65,100
+108,4,Stomp,19,normal,65,100
+108,8,Stomp,21,normal,65,100
+108,9,Stomp,21,normal,65,100
+108,10,Stomp,21,normal,65,100
+108,11,Stomp,21,normal,65,100
+108,14,Stomp,21,normal,65,100
+108,15,Stomp,21,normal,65,100
+108,16,Stomp,21,normal,65,100
+108,1,Defense Curl,23,normal,-,-
+108,2,Defense Curl,23,normal,-,-
+108,5,Stomp,23,normal,65,100
+108,6,Stomp,23,normal,65,100
+108,7,Stomp,23,normal,65,100
+108,12,Stomp,23,normal,65,100
+108,13,Stomp,23,normal,65,100
+108,3,Wrap,25,normal,15,90
+108,4,Wrap,25,normal,15,90
+108,8,Disable,25,normal,-,100
+108,9,Disable,25,normal,-,100
+108,10,Disable,25,normal,-,100
+108,11,Disable,25,normal,-,100
+108,14,Disable,25,normal,-,100
+108,15,Disable,25,normal,-,100
+108,16,Disable,25,normal,-,100
+108,5,Wrap,29,normal,15,90
+108,6,Wrap,29,normal,15,90
+108,7,Wrap,29,normal,15,90
+108,8,Slam,29,normal,80,75
+108,9,Slam,29,normal,80,75
+108,10,Slam,29,normal,80,75
+108,11,Slam,29,normal,80,75
+108,12,Wrap,29,normal,15,90
+108,13,Wrap,29,normal,15,90
+108,14,Slam,29,normal,80,75
+108,15,Slam,29,normal,80,75
+108,16,Slam,29,normal,80,75
+108,1,Slam,31,normal,80,75
+108,2,Slam,31,normal,80,75
+108,3,Disable,31,normal,-,100
+108,4,Disable,31,normal,-,100
+108,8,Rollout,33,rock,30,90
+108,9,Rollout,33,rock,30,90
+108,10,Rollout,33,rock,30,90
+108,11,Rollout,33,rock,30,90
+108,14,Rollout,33,rock,30,90
+108,15,Rollout,33,rock,30,90
+108,16,Rollout,33,rock,30,90
+108,5,Disable,34,normal,-,100
+108,6,Disable,34,normal,-,100
+108,7,Disable,34,normal,-,100
+108,12,Disable,34,normal,-,100
+108,13,Disable,34,normal,-,100
+108,3,Slam,37,normal,80,75
+108,4,Slam,37,normal,80,75
+108,8,Me First,37,normal,-,-
+108,9,Me First,37,normal,-,-
+108,10,Me First,37,normal,-,-
+108,11,Chip Away,37,normal,70,100
+108,14,Chip Away,37,normal,70,100
+108,15,Chip Away,37,normal,70,100
+108,16,Chip Away,37,normal,70,100
+108,1,Screech,39,normal,-,85
+108,2,Screech,39,normal,-,85
+108,5,Slam,40,normal,80,75
+108,6,Slam,40,normal,80,75
+108,7,Slam,40,normal,80,75
+108,12,Slam,40,normal,80,75
+108,13,Slam,40,normal,80,75
+108,8,Refresh,41,normal,-,-
+108,9,Refresh,41,normal,-,-
+108,10,Refresh,41,normal,-,-
+108,11,Me First,41,normal,-,-
+108,14,Me First,41,normal,-,-
+108,15,Me First,41,normal,-,-
+108,16,Me First,41,normal,-,-
+108,3,Screech,43,normal,-,85
+108,4,Screech,43,normal,-,85
+108,5,Screech,45,normal,-,85
+108,6,Screech,45,normal,-,85
+108,7,Screech,45,normal,-,85
+108,8,Screech,45,normal,-,85
+108,9,Screech,45,normal,-,85
+108,10,Screech,45,normal,-,85
+108,11,Refresh,45,normal,-,-
+108,12,Screech,45,normal,-,85
+108,13,Screech,45,normal,-,85
+108,14,Refresh,45,normal,-,-
+108,15,Refresh,45,normal,-,-
+108,16,Refresh,45,normal,-,-
+108,8,Power Whip,49,grass,120,85
+108,9,Power Whip,49,grass,120,85
+108,10,Power Whip,49,grass,120,85
+108,11,Screech,49,normal,-,85
+108,14,Screech,49,normal,-,85
+108,15,Screech,49,normal,-,85
+108,16,Screech,49,normal,-,85
+108,5,Refresh,51,normal,-,-
+108,6,Refresh,51,normal,-,-
+108,7,Refresh,51,normal,-,-
+108,12,Refresh,51,normal,-,-
+108,13,Refresh,51,normal,-,-
+108,8,Wring Out,53,normal,-,100
+108,9,Wring Out,53,normal,-,100
+108,10,Wring Out,53,normal,-,100
+108,11,Power Whip,53,grass,120,85
+108,14,Power Whip,53,grass,120,85
+108,15,Power Whip,53,grass,120,85
+108,16,Power Whip,53,grass,120,85
+108,11,Wring Out,57,normal,-,100
+108,14,Wring Out,57,normal,-,100
+108,15,Wring Out,57,normal,-,100
+108,16,Wring Out,57,normal,-,100

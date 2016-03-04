@@ -1,82 +1,82 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-396,starly,8,17,Wing Attack,1,9,
-396,starly,8,18,Whirlwind,1,21,
-396,starly,8,33,Tackle,1,1,1
-396,starly,8,36,Take Down,1,29,
-396,starly,8,45,Growl,1,1,2
-396,starly,8,97,Agility,1,33,
-396,starly,8,98,Quick Attack,1,5,
-396,starly,8,104,Double Team,1,13,
-396,starly,8,283,Endeavor,1,17,
-396,starly,8,332,Aerial Ace,1,25,
-396,starly,8,413,Brave Bird,1,37,
-396,starly,9,17,Wing Attack,1,9,
-396,starly,9,18,Whirlwind,1,21,
-396,starly,9,33,Tackle,1,1,1
-396,starly,9,36,Take Down,1,29,
-396,starly,9,45,Growl,1,1,2
-396,starly,9,97,Agility,1,33,
-396,starly,9,98,Quick Attack,1,5,
-396,starly,9,104,Double Team,1,13,
-396,starly,9,283,Endeavor,1,17,
-396,starly,9,332,Aerial Ace,1,25,
-396,starly,9,413,Brave Bird,1,37,
-396,starly,10,17,Wing Attack,1,9,
-396,starly,10,18,Whirlwind,1,21,
-396,starly,10,33,Tackle,1,1,1
-396,starly,10,36,Take Down,1,29,
-396,starly,10,45,Growl,1,1,2
-396,starly,10,97,Agility,1,33,
-396,starly,10,98,Quick Attack,1,5,
-396,starly,10,104,Double Team,1,13,
-396,starly,10,283,Endeavor,1,17,
-396,starly,10,332,Aerial Ace,1,25,
-396,starly,10,413,Brave Bird,1,37,
-396,starly,11,17,Wing Attack,1,9,
-396,starly,11,18,Whirlwind,1,21,
-396,starly,11,33,Tackle,1,1,1
-396,starly,11,36,Take Down,1,29,
-396,starly,11,45,Growl,1,1,2
-396,starly,11,97,Agility,1,33,
-396,starly,11,98,Quick Attack,1,5,
-396,starly,11,104,Double Team,1,13,
-396,starly,11,283,Endeavor,1,17,
-396,starly,11,332,Aerial Ace,1,25,
-396,starly,11,413,Brave Bird,1,37,
-396,starly,11,515,Final Gambit,1,41,
-396,starly,14,17,Wing Attack,1,9,
-396,starly,14,18,Whirlwind,1,21,
-396,starly,14,33,Tackle,1,1,1
-396,starly,14,36,Take Down,1,29,
-396,starly,14,45,Growl,1,1,2
-396,starly,14,97,Agility,1,33,
-396,starly,14,98,Quick Attack,1,5,
-396,starly,14,104,Double Team,1,13,
-396,starly,14,283,Endeavor,1,17,
-396,starly,14,332,Aerial Ace,1,25,
-396,starly,14,413,Brave Bird,1,37,
-396,starly,14,515,Final Gambit,1,41,
-396,starly,15,17,Wing Attack,1,9,
-396,starly,15,18,Whirlwind,1,21,
-396,starly,15,33,Tackle,1,1,1
-396,starly,15,36,Take Down,1,29,
-396,starly,15,45,Growl,1,1,2
-396,starly,15,97,Agility,1,33,
-396,starly,15,98,Quick Attack,1,5,
-396,starly,15,104,Double Team,1,13,
-396,starly,15,283,Endeavor,1,17,
-396,starly,15,332,Aerial Ace,1,25,
-396,starly,15,413,Brave Bird,1,37,
-396,starly,15,515,Final Gambit,1,41,
-396,starly,16,17,Wing Attack,1,9,1
-396,starly,16,18,Whirlwind,1,21,1
-396,starly,16,33,Tackle,1,1,1
-396,starly,16,36,Take Down,1,29,1
-396,starly,16,45,Growl,1,1,2
-396,starly,16,97,Agility,1,33,1
-396,starly,16,98,Quick Attack,1,5,1
-396,starly,16,104,Double Team,1,13,1
-396,starly,16,283,Endeavor,1,17,1
-396,starly,16,332,Aerial Ace,1,25,1
-396,starly,16,413,Brave Bird,1,37,1
-396,starly,16,515,Final Gambit,1,41,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+396,8,Tackle,1,normal,50,100
+396,8,Growl,1,normal,-,100
+396,9,Tackle,1,normal,50,100
+396,9,Growl,1,normal,-,100
+396,10,Tackle,1,normal,50,100
+396,10,Growl,1,normal,-,100
+396,11,Tackle,1,normal,50,100
+396,11,Growl,1,normal,-,100
+396,14,Tackle,1,normal,50,100
+396,14,Growl,1,normal,-,100
+396,15,Tackle,1,normal,50,100
+396,15,Growl,1,normal,-,100
+396,16,Tackle,1,normal,50,100
+396,16,Growl,1,normal,-,100
+396,8,Quick Attack,5,normal,40,100
+396,9,Quick Attack,5,normal,40,100
+396,10,Quick Attack,5,normal,40,100
+396,11,Quick Attack,5,normal,40,100
+396,14,Quick Attack,5,normal,40,100
+396,15,Quick Attack,5,normal,40,100
+396,16,Quick Attack,5,normal,40,100
+396,8,Wing Attack,9,flying,60,100
+396,9,Wing Attack,9,flying,60,100
+396,10,Wing Attack,9,flying,60,100
+396,11,Wing Attack,9,flying,60,100
+396,14,Wing Attack,9,flying,60,100
+396,15,Wing Attack,9,flying,60,100
+396,16,Wing Attack,9,flying,60,100
+396,8,Double Team,13,normal,-,-
+396,9,Double Team,13,normal,-,-
+396,10,Double Team,13,normal,-,-
+396,11,Double Team,13,normal,-,-
+396,14,Double Team,13,normal,-,-
+396,15,Double Team,13,normal,-,-
+396,16,Double Team,13,normal,-,-
+396,8,Endeavor,17,normal,-,100
+396,9,Endeavor,17,normal,-,100
+396,10,Endeavor,17,normal,-,100
+396,11,Endeavor,17,normal,-,100
+396,14,Endeavor,17,normal,-,100
+396,15,Endeavor,17,normal,-,100
+396,16,Endeavor,17,normal,-,100
+396,8,Whirlwind,21,normal,-,-
+396,9,Whirlwind,21,normal,-,-
+396,10,Whirlwind,21,normal,-,-
+396,11,Whirlwind,21,normal,-,-
+396,14,Whirlwind,21,normal,-,-
+396,15,Whirlwind,21,normal,-,-
+396,16,Whirlwind,21,normal,-,-
+396,8,Aerial Ace,25,flying,60,-
+396,9,Aerial Ace,25,flying,60,-
+396,10,Aerial Ace,25,flying,60,-
+396,11,Aerial Ace,25,flying,60,-
+396,14,Aerial Ace,25,flying,60,-
+396,15,Aerial Ace,25,flying,60,-
+396,16,Aerial Ace,25,flying,60,-
+396,8,Take Down,29,normal,90,85
+396,9,Take Down,29,normal,90,85
+396,10,Take Down,29,normal,90,85
+396,11,Take Down,29,normal,90,85
+396,14,Take Down,29,normal,90,85
+396,15,Take Down,29,normal,90,85
+396,16,Take Down,29,normal,90,85
+396,8,Agility,33,psychic,-,-
+396,9,Agility,33,psychic,-,-
+396,10,Agility,33,psychic,-,-
+396,11,Agility,33,psychic,-,-
+396,14,Agility,33,psychic,-,-
+396,15,Agility,33,psychic,-,-
+396,16,Agility,33,psychic,-,-
+396,8,Brave Bird,37,flying,120,100
+396,9,Brave Bird,37,flying,120,100
+396,10,Brave Bird,37,flying,120,100
+396,11,Brave Bird,37,flying,120,100
+396,14,Brave Bird,37,flying,120,100
+396,15,Brave Bird,37,flying,120,100
+396,16,Brave Bird,37,flying,120,100
+396,11,Final Gambit,41,fighting,-,100
+396,14,Final Gambit,41,fighting,-,100
+396,15,Final Gambit,41,fighting,-,100
+396,16,Final Gambit,41,fighting,-,100

@@ -1,112 +1,112 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-71,victreebel,1,35,Wrap,1,13,
-71,victreebel,1,51,Acid,1,1,3
-71,victreebel,1,75,Razor Leaf,1,1,4
-71,victreebel,1,77,Poison Powder,1,15,
-71,victreebel,1,78,Stun Spore,1,1,2
-71,victreebel,1,79,Sleep Powder,1,1,1
-71,victreebel,1,79,Sleep Powder,1,18,
-71,victreebel,2,35,Wrap,1,13,
-71,victreebel,2,51,Acid,1,1,3
-71,victreebel,2,75,Razor Leaf,1,1,4
-71,victreebel,2,77,Poison Powder,1,15,
-71,victreebel,2,78,Stun Spore,1,1,2
-71,victreebel,2,79,Sleep Powder,1,1,1
-71,victreebel,2,79,Sleep Powder,1,18,
-71,victreebel,3,22,Vine Whip,1,1,1
-71,victreebel,3,75,Razor Leaf,1,1,4
-71,victreebel,3,79,Sleep Powder,1,1,2
-71,victreebel,3,230,Sweet Scent,1,1,3
-71,victreebel,4,22,Vine Whip,1,1,1
-71,victreebel,4,75,Razor Leaf,1,1,4
-71,victreebel,4,79,Sleep Powder,1,1,2
-71,victreebel,4,230,Sweet Scent,1,1,3
-71,victreebel,5,22,Vine Whip,1,1,1
-71,victreebel,5,75,Razor Leaf,1,1,4
-71,victreebel,5,79,Sleep Powder,1,1,2
-71,victreebel,5,230,Sweet Scent,1,1,3
-71,victreebel,6,22,Vine Whip,1,1,1
-71,victreebel,6,75,Razor Leaf,1,1,4
-71,victreebel,6,79,Sleep Powder,1,1,2
-71,victreebel,6,230,Sweet Scent,1,1,3
-71,victreebel,7,22,Vine Whip,1,1,4
-71,victreebel,7,75,Razor Leaf,1,1,7
-71,victreebel,7,79,Sleep Powder,1,1,5
-71,victreebel,7,230,Sweet Scent,1,1,6
-71,victreebel,7,254,Stockpile,1,1,1
-71,victreebel,7,255,Spit Up,1,1,2
-71,victreebel,7,256,Swallow,1,1,3
-71,victreebel,8,22,Vine Whip,1,1,4
-71,victreebel,8,75,Razor Leaf,1,1,7
-71,victreebel,8,79,Sleep Powder,1,1,5
-71,victreebel,8,230,Sweet Scent,1,1,6
-71,victreebel,8,254,Stockpile,1,1,1
-71,victreebel,8,255,Spit Up,1,1,3
-71,victreebel,8,256,Swallow,1,1,2
-71,victreebel,8,437,Leaf Storm,1,47,
-71,victreebel,9,22,Vine Whip,1,1,4
-71,victreebel,9,75,Razor Leaf,1,1,7
-71,victreebel,9,79,Sleep Powder,1,1,5
-71,victreebel,9,230,Sweet Scent,1,1,6
-71,victreebel,9,254,Stockpile,1,1,1
-71,victreebel,9,255,Spit Up,1,1,3
-71,victreebel,9,256,Swallow,1,1,2
-71,victreebel,9,348,Leaf Blade,1,47,2
-71,victreebel,9,437,Leaf Storm,1,47,1
-71,victreebel,10,22,Vine Whip,1,1,4
-71,victreebel,10,75,Razor Leaf,1,1,7
-71,victreebel,10,79,Sleep Powder,1,1,5
-71,victreebel,10,230,Sweet Scent,1,1,6
-71,victreebel,10,254,Stockpile,1,1,1
-71,victreebel,10,255,Spit Up,1,1,3
-71,victreebel,10,256,Swallow,1,1,2
-71,victreebel,10,348,Leaf Blade,1,47,2
-71,victreebel,10,437,Leaf Storm,1,47,1
-71,victreebel,11,22,Vine Whip,1,1,4
-71,victreebel,11,75,Razor Leaf,1,1,7
-71,victreebel,11,79,Sleep Powder,1,1,5
-71,victreebel,11,230,Sweet Scent,1,1,6
-71,victreebel,11,254,Stockpile,1,1,1
-71,victreebel,11,255,Spit Up,1,1,3
-71,victreebel,11,256,Swallow,1,1,2
-71,victreebel,11,348,Leaf Blade,1,47,2
-71,victreebel,11,437,Leaf Storm,1,47,1
-71,victreebel,11,536,Leaf Tornado,1,27,
-71,victreebel,12,22,Vine Whip,1,1,1
-71,victreebel,12,75,Razor Leaf,1,1,4
-71,victreebel,12,79,Sleep Powder,1,1,2
-71,victreebel,12,230,Sweet Scent,1,1,3
-71,victreebel,13,22,Vine Whip,1,1,1
-71,victreebel,13,75,Razor Leaf,1,1,4
-71,victreebel,13,79,Sleep Powder,1,1,2
-71,victreebel,13,230,Sweet Scent,1,1,3
-71,victreebel,14,22,Vine Whip,1,1,4
-71,victreebel,14,75,Razor Leaf,1,1,7
-71,victreebel,14,79,Sleep Powder,1,1,5
-71,victreebel,14,230,Sweet Scent,1,1,6
-71,victreebel,14,254,Stockpile,1,1,1
-71,victreebel,14,255,Spit Up,1,1,3
-71,victreebel,14,256,Swallow,1,1,2
-71,victreebel,14,348,Leaf Blade,1,47,2
-71,victreebel,14,437,Leaf Storm,1,47,1
-71,victreebel,14,536,Leaf Tornado,1,27,
-71,victreebel,15,22,Vine Whip,1,1,4
-71,victreebel,15,75,Razor Leaf,1,1,7
-71,victreebel,15,79,Sleep Powder,1,1,5
-71,victreebel,15,230,Sweet Scent,1,1,6
-71,victreebel,15,254,Stockpile,1,1,1
-71,victreebel,15,255,Spit Up,1,1,3
-71,victreebel,15,256,Swallow,1,1,2
-71,victreebel,15,348,Leaf Blade,1,47,2
-71,victreebel,15,437,Leaf Storm,1,47,1
-71,victreebel,15,536,Leaf Tornado,1,27,
-71,victreebel,16,22,Vine Whip,1,1,4
-71,victreebel,16,75,Razor Leaf,1,1,7
-71,victreebel,16,79,Sleep Powder,1,1,5
-71,victreebel,16,230,Sweet Scent,1,1,6
-71,victreebel,16,254,Stockpile,1,1,1
-71,victreebel,16,255,Spit Up,1,1,3
-71,victreebel,16,256,Swallow,1,1,2
-71,victreebel,16,348,Leaf Blade,1,47,2
-71,victreebel,16,437,Leaf Storm,1,47,1
-71,victreebel,16,536,Leaf Tornado,1,27,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+71,1,Acid,1,poison,40,100
+71,1,Razor Leaf,1,grass,55,95
+71,1,Stun Spore,1,grass,-,75
+71,1,Sleep Powder,1,grass,-,75
+71,2,Acid,1,poison,40,100
+71,2,Razor Leaf,1,grass,55,95
+71,2,Stun Spore,1,grass,-,75
+71,2,Sleep Powder,1,grass,-,75
+71,3,Vine Whip,1,grass,45,100
+71,3,Razor Leaf,1,grass,55,95
+71,3,Sleep Powder,1,grass,-,75
+71,3,Sweet Scent,1,normal,-,100
+71,4,Vine Whip,1,grass,45,100
+71,4,Razor Leaf,1,grass,55,95
+71,4,Sleep Powder,1,grass,-,75
+71,4,Sweet Scent,1,normal,-,100
+71,5,Vine Whip,1,grass,45,100
+71,5,Razor Leaf,1,grass,55,95
+71,5,Sleep Powder,1,grass,-,75
+71,5,Sweet Scent,1,normal,-,100
+71,6,Vine Whip,1,grass,45,100
+71,6,Razor Leaf,1,grass,55,95
+71,6,Sleep Powder,1,grass,-,75
+71,6,Sweet Scent,1,normal,-,100
+71,7,Vine Whip,1,grass,45,100
+71,7,Razor Leaf,1,grass,55,95
+71,7,Sleep Powder,1,grass,-,75
+71,7,Sweet Scent,1,normal,-,100
+71,7,Stockpile,1,normal,-,-
+71,7,Spit Up,1,normal,-,100
+71,7,Swallow,1,normal,-,-
+71,8,Vine Whip,1,grass,45,100
+71,8,Razor Leaf,1,grass,55,95
+71,8,Sleep Powder,1,grass,-,75
+71,8,Sweet Scent,1,normal,-,100
+71,8,Stockpile,1,normal,-,-
+71,8,Spit Up,1,normal,-,100
+71,8,Swallow,1,normal,-,-
+71,9,Vine Whip,1,grass,45,100
+71,9,Razor Leaf,1,grass,55,95
+71,9,Sleep Powder,1,grass,-,75
+71,9,Sweet Scent,1,normal,-,100
+71,9,Stockpile,1,normal,-,-
+71,9,Spit Up,1,normal,-,100
+71,9,Swallow,1,normal,-,-
+71,10,Vine Whip,1,grass,45,100
+71,10,Razor Leaf,1,grass,55,95
+71,10,Sleep Powder,1,grass,-,75
+71,10,Sweet Scent,1,normal,-,100
+71,10,Stockpile,1,normal,-,-
+71,10,Spit Up,1,normal,-,100
+71,10,Swallow,1,normal,-,-
+71,11,Vine Whip,1,grass,45,100
+71,11,Razor Leaf,1,grass,55,95
+71,11,Sleep Powder,1,grass,-,75
+71,11,Sweet Scent,1,normal,-,100
+71,11,Stockpile,1,normal,-,-
+71,11,Spit Up,1,normal,-,100
+71,11,Swallow,1,normal,-,-
+71,12,Vine Whip,1,grass,45,100
+71,12,Razor Leaf,1,grass,55,95
+71,12,Sleep Powder,1,grass,-,75
+71,12,Sweet Scent,1,normal,-,100
+71,13,Vine Whip,1,grass,45,100
+71,13,Razor Leaf,1,grass,55,95
+71,13,Sleep Powder,1,grass,-,75
+71,13,Sweet Scent,1,normal,-,100
+71,14,Vine Whip,1,grass,45,100
+71,14,Razor Leaf,1,grass,55,95
+71,14,Sleep Powder,1,grass,-,75
+71,14,Sweet Scent,1,normal,-,100
+71,14,Stockpile,1,normal,-,-
+71,14,Spit Up,1,normal,-,100
+71,14,Swallow,1,normal,-,-
+71,15,Vine Whip,1,grass,45,100
+71,15,Razor Leaf,1,grass,55,95
+71,15,Sleep Powder,1,grass,-,75
+71,15,Sweet Scent,1,normal,-,100
+71,15,Stockpile,1,normal,-,-
+71,15,Spit Up,1,normal,-,100
+71,15,Swallow,1,normal,-,-
+71,16,Vine Whip,1,grass,45,100
+71,16,Razor Leaf,1,grass,55,95
+71,16,Sleep Powder,1,grass,-,75
+71,16,Sweet Scent,1,normal,-,100
+71,16,Stockpile,1,normal,-,-
+71,16,Spit Up,1,normal,-,100
+71,16,Swallow,1,normal,-,-
+71,1,Wrap,13,normal,15,90
+71,2,Wrap,13,normal,15,90
+71,1,Poison Powder,15,poison,-,75
+71,2,Poison Powder,15,poison,-,75
+71,1,Sleep Powder,18,grass,-,75
+71,2,Sleep Powder,18,grass,-,75
+71,11,Leaf Tornado,27,grass,65,90
+71,14,Leaf Tornado,27,grass,65,90
+71,15,Leaf Tornado,27,grass,65,90
+71,16,Leaf Tornado,27,grass,65,90
+71,8,Leaf Storm,47,grass,130,90
+71,9,Leaf Blade,47,grass,90,100
+71,9,Leaf Storm,47,grass,130,90
+71,10,Leaf Blade,47,grass,90,100
+71,10,Leaf Storm,47,grass,130,90
+71,11,Leaf Blade,47,grass,90,100
+71,11,Leaf Storm,47,grass,130,90
+71,14,Leaf Blade,47,grass,90,100
+71,14,Leaf Storm,47,grass,130,90
+71,15,Leaf Blade,47,grass,90,100
+71,15,Leaf Storm,47,grass,130,90
+71,16,Leaf Blade,47,grass,90,100
+71,16,Leaf Storm,47,grass,130,90

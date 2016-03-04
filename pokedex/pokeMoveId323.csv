@@ -1,185 +1,185 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-323,camerupt,5,33,Tackle,1,1,2
-323,camerupt,5,36,Take Down,1,29,
-323,camerupt,5,45,Growl,1,1,1
-323,camerupt,5,52,Ember,1,1,3
-323,camerupt,5,52,Ember,1,11,
-323,camerupt,5,89,Earthquake,1,37,
-323,camerupt,5,90,Fissure,1,55,
-323,camerupt,5,116,Focus Energy,1,25,
-323,camerupt,5,133,Amnesia,1,31,
-323,camerupt,5,157,Rock Slide,1,33,
-323,camerupt,5,222,Magnitude,1,1,4
-323,camerupt,5,222,Magnitude,1,19,
-323,camerupt,5,284,Eruption,1,45,
-323,camerupt,6,33,Tackle,1,1,2
-323,camerupt,6,36,Take Down,1,29,
-323,camerupt,6,45,Growl,1,1,1
-323,camerupt,6,52,Ember,1,1,3
-323,camerupt,6,52,Ember,1,11,
-323,camerupt,6,89,Earthquake,1,37,
-323,camerupt,6,90,Fissure,1,55,
-323,camerupt,6,116,Focus Energy,1,25,
-323,camerupt,6,133,Amnesia,1,31,
-323,camerupt,6,157,Rock Slide,1,33,
-323,camerupt,6,222,Magnitude,1,1,4
-323,camerupt,6,222,Magnitude,1,19,
-323,camerupt,6,284,Eruption,1,45,
-323,camerupt,7,33,Tackle,1,1,2
-323,camerupt,7,36,Take Down,1,29,
-323,camerupt,7,45,Growl,1,1,1
-323,camerupt,7,52,Ember,1,1,3
-323,camerupt,7,52,Ember,1,11,
-323,camerupt,7,89,Earthquake,1,37,
-323,camerupt,7,90,Fissure,1,55,
-323,camerupt,7,116,Focus Energy,1,25,
-323,camerupt,7,133,Amnesia,1,31,
-323,camerupt,7,157,Rock Slide,1,33,
-323,camerupt,7,222,Magnitude,1,1,4
-323,camerupt,7,222,Magnitude,1,19,
-323,camerupt,7,284,Eruption,1,45,
-323,camerupt,8,33,Tackle,1,1,2
-323,camerupt,8,36,Take Down,1,21,
-323,camerupt,8,45,Growl,1,1,1
-323,camerupt,8,52,Ember,1,1,3
-323,camerupt,8,52,Ember,1,5,
-323,camerupt,8,89,Earthquake,1,49,
-323,camerupt,8,90,Fissure,1,67,
-323,camerupt,8,116,Focus Energy,1,15,
-323,camerupt,8,133,Amnesia,1,25,
-323,camerupt,8,157,Rock Slide,1,33,
-323,camerupt,8,222,Magnitude,1,1,4
-323,camerupt,8,222,Magnitude,1,11,
-323,camerupt,8,284,Eruption,1,57,
-323,camerupt,8,414,Earth Power,1,39,
-323,camerupt,8,436,Lava Plume,1,31,
-323,camerupt,9,33,Tackle,1,1,2
-323,camerupt,9,36,Take Down,1,21,
-323,camerupt,9,45,Growl,1,1,1
-323,camerupt,9,52,Ember,1,1,3
-323,camerupt,9,52,Ember,1,5,
-323,camerupt,9,89,Earthquake,1,49,
-323,camerupt,9,90,Fissure,1,67,
-323,camerupt,9,116,Focus Energy,1,15,
-323,camerupt,9,133,Amnesia,1,25,
-323,camerupt,9,157,Rock Slide,1,33,
-323,camerupt,9,222,Magnitude,1,1,4
-323,camerupt,9,222,Magnitude,1,11,
-323,camerupt,9,284,Eruption,1,57,
-323,camerupt,9,414,Earth Power,1,39,
-323,camerupt,9,436,Lava Plume,1,31,
-323,camerupt,10,33,Tackle,1,1,2
-323,camerupt,10,36,Take Down,1,21,
-323,camerupt,10,45,Growl,1,1,1
-323,camerupt,10,52,Ember,1,1,3
-323,camerupt,10,52,Ember,1,5,
-323,camerupt,10,89,Earthquake,1,49,
-323,camerupt,10,90,Fissure,1,67,
-323,camerupt,10,116,Focus Energy,1,15,
-323,camerupt,10,133,Amnesia,1,25,
-323,camerupt,10,157,Rock Slide,1,33,
-323,camerupt,10,222,Magnitude,1,1,4
-323,camerupt,10,222,Magnitude,1,11,
-323,camerupt,10,284,Eruption,1,57,
-323,camerupt,10,414,Earth Power,1,39,
-323,camerupt,10,436,Lava Plume,1,31,
-323,camerupt,11,33,Tackle,1,1,2
-323,camerupt,11,36,Take Down,1,25,
-323,camerupt,11,45,Growl,1,1,1
-323,camerupt,11,52,Ember,1,1,3
-323,camerupt,11,52,Ember,1,5,
-323,camerupt,11,89,Earthquake,1,57,
-323,camerupt,11,90,Fissure,1,75,
-323,camerupt,11,116,Focus Energy,1,15,
-323,camerupt,11,133,Amnesia,1,31,
-323,camerupt,11,157,Rock Slide,1,39,
-323,camerupt,11,222,Magnitude,1,1,4
-323,camerupt,11,222,Magnitude,1,11,
-323,camerupt,11,284,Eruption,1,67,
-323,camerupt,11,414,Earth Power,1,49,
-323,camerupt,11,436,Lava Plume,1,33,
-323,camerupt,11,481,Flame Burst,1,21,
-323,camerupt,12,33,Tackle,1,1,2
-323,camerupt,12,36,Take Down,1,29,
-323,camerupt,12,45,Growl,1,1,1
-323,camerupt,12,52,Ember,1,1,3
-323,camerupt,12,52,Ember,1,11,
-323,camerupt,12,89,Earthquake,1,37,
-323,camerupt,12,90,Fissure,1,55,
-323,camerupt,12,116,Focus Energy,1,25,
-323,camerupt,12,133,Amnesia,1,31,
-323,camerupt,12,157,Rock Slide,1,33,
-323,camerupt,12,222,Magnitude,1,1,4
-323,camerupt,12,222,Magnitude,1,19,
-323,camerupt,12,284,Eruption,1,45,
-323,camerupt,13,33,Tackle,1,1,2
-323,camerupt,13,36,Take Down,1,29,
-323,camerupt,13,45,Growl,1,1,1
-323,camerupt,13,52,Ember,1,1,3
-323,camerupt,13,52,Ember,1,11,
-323,camerupt,13,89,Earthquake,1,37,
-323,camerupt,13,90,Fissure,1,55,
-323,camerupt,13,116,Focus Energy,1,25,
-323,camerupt,13,133,Amnesia,1,31,
-323,camerupt,13,157,Rock Slide,1,33,
-323,camerupt,13,222,Magnitude,1,1,4
-323,camerupt,13,222,Magnitude,1,19,
-323,camerupt,13,284,Eruption,1,45,
-323,camerupt,14,33,Tackle,1,1,2
-323,camerupt,14,36,Take Down,1,31,
-323,camerupt,14,45,Growl,1,1,1
-323,camerupt,14,52,Ember,1,1,3
-323,camerupt,14,52,Ember,1,5,
-323,camerupt,14,89,Earthquake,1,46,
-323,camerupt,14,90,Fissure,1,59,
-323,camerupt,14,116,Focus Energy,1,12,
-323,camerupt,14,133,Amnesia,1,19,
-323,camerupt,14,157,Rock Slide,1,33,
-323,camerupt,14,174,Curse,1,29,
-323,camerupt,14,222,Magnitude,1,1,4
-323,camerupt,14,222,Magnitude,1,8,
-323,camerupt,14,281,Yawn,1,39,
-323,camerupt,14,284,Eruption,1,52,
-323,camerupt,14,414,Earth Power,1,26,
-323,camerupt,14,436,Lava Plume,1,22,
-323,camerupt,14,481,Flame Burst,1,15,
-323,camerupt,15,33,Tackle,1,1,4
-323,camerupt,15,36,Take Down,1,31,
-323,camerupt,15,45,Growl,1,1,3
-323,camerupt,15,52,Ember,1,1,5
-323,camerupt,15,52,Ember,1,5,
-323,camerupt,15,89,Earthquake,1,46,
-323,camerupt,15,90,Fissure,1,1,1
-323,camerupt,15,90,Fissure,1,59,
-323,camerupt,15,116,Focus Energy,1,12,
-323,camerupt,15,133,Amnesia,1,19,
-323,camerupt,15,157,Rock Slide,1,33,
-323,camerupt,15,174,Curse,1,29,
-323,camerupt,15,222,Magnitude,1,1,6
-323,camerupt,15,222,Magnitude,1,8,
-323,camerupt,15,281,Yawn,1,39,
-323,camerupt,15,284,Eruption,1,1,2
-323,camerupt,15,284,Eruption,1,52,
-323,camerupt,15,414,Earth Power,1,26,
-323,camerupt,15,436,Lava Plume,1,22,
-323,camerupt,15,481,Flame Burst,1,15,
-323,camerupt,16,33,Tackle,1,1,4
-323,camerupt,16,36,Take Down,1,31,1
-323,camerupt,16,45,Growl,1,1,3
-323,camerupt,16,52,Ember,1,1,5
-323,camerupt,16,52,Ember,1,5,1
-323,camerupt,16,89,Earthquake,1,46,1
-323,camerupt,16,90,Fissure,1,1,1
-323,camerupt,16,90,Fissure,1,59,1
-323,camerupt,16,116,Focus Energy,1,1,6
-323,camerupt,16,116,Focus Energy,1,8,1
-323,camerupt,16,133,Amnesia,1,19,1
-323,camerupt,16,157,Rock Slide,1,33,1
-323,camerupt,16,174,Curse,1,29,1
-323,camerupt,16,222,Magnitude,1,12,1
-323,camerupt,16,281,Yawn,1,39,1
-323,camerupt,16,284,Eruption,1,1,2
-323,camerupt,16,284,Eruption,1,52,1
-323,camerupt,16,414,Earth Power,1,26,1
-323,camerupt,16,436,Lava Plume,1,22,1
-323,camerupt,16,481,Flame Burst,1,15,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+323,5,Tackle,1,normal,50,100
+323,5,Growl,1,normal,-,100
+323,5,Ember,1,fire,40,100
+323,5,Magnitude,1,ground,-,100
+323,6,Tackle,1,normal,50,100
+323,6,Growl,1,normal,-,100
+323,6,Ember,1,fire,40,100
+323,6,Magnitude,1,ground,-,100
+323,7,Tackle,1,normal,50,100
+323,7,Growl,1,normal,-,100
+323,7,Ember,1,fire,40,100
+323,7,Magnitude,1,ground,-,100
+323,8,Tackle,1,normal,50,100
+323,8,Growl,1,normal,-,100
+323,8,Ember,1,fire,40,100
+323,8,Magnitude,1,ground,-,100
+323,9,Tackle,1,normal,50,100
+323,9,Growl,1,normal,-,100
+323,9,Ember,1,fire,40,100
+323,9,Magnitude,1,ground,-,100
+323,10,Tackle,1,normal,50,100
+323,10,Growl,1,normal,-,100
+323,10,Ember,1,fire,40,100
+323,10,Magnitude,1,ground,-,100
+323,11,Tackle,1,normal,50,100
+323,11,Growl,1,normal,-,100
+323,11,Ember,1,fire,40,100
+323,11,Magnitude,1,ground,-,100
+323,12,Tackle,1,normal,50,100
+323,12,Growl,1,normal,-,100
+323,12,Ember,1,fire,40,100
+323,12,Magnitude,1,ground,-,100
+323,13,Tackle,1,normal,50,100
+323,13,Growl,1,normal,-,100
+323,13,Ember,1,fire,40,100
+323,13,Magnitude,1,ground,-,100
+323,14,Tackle,1,normal,50,100
+323,14,Growl,1,normal,-,100
+323,14,Ember,1,fire,40,100
+323,14,Magnitude,1,ground,-,100
+323,15,Tackle,1,normal,50,100
+323,15,Growl,1,normal,-,100
+323,15,Ember,1,fire,40,100
+323,15,Fissure,1,ground,-,30
+323,15,Magnitude,1,ground,-,100
+323,15,Eruption,1,fire,150,100
+323,16,Tackle,1,normal,50,100
+323,16,Growl,1,normal,-,100
+323,16,Ember,1,fire,40,100
+323,16,Fissure,1,ground,-,30
+323,16,Focus Energy,1,normal,-,-
+323,16,Eruption,1,fire,150,100
+323,8,Ember,5,fire,40,100
+323,9,Ember,5,fire,40,100
+323,10,Ember,5,fire,40,100
+323,11,Ember,5,fire,40,100
+323,14,Ember,5,fire,40,100
+323,15,Ember,5,fire,40,100
+323,16,Ember,5,fire,40,100
+323,14,Magnitude,8,ground,-,100
+323,15,Magnitude,8,ground,-,100
+323,16,Focus Energy,8,normal,-,-
+323,5,Ember,11,fire,40,100
+323,6,Ember,11,fire,40,100
+323,7,Ember,11,fire,40,100
+323,8,Magnitude,11,ground,-,100
+323,9,Magnitude,11,ground,-,100
+323,10,Magnitude,11,ground,-,100
+323,11,Magnitude,11,ground,-,100
+323,12,Ember,11,fire,40,100
+323,13,Ember,11,fire,40,100
+323,14,Focus Energy,12,normal,-,-
+323,15,Focus Energy,12,normal,-,-
+323,16,Magnitude,12,ground,-,100
+323,8,Focus Energy,15,normal,-,-
+323,9,Focus Energy,15,normal,-,-
+323,10,Focus Energy,15,normal,-,-
+323,11,Focus Energy,15,normal,-,-
+323,14,Flame Burst,15,fire,70,100
+323,15,Flame Burst,15,fire,70,100
+323,16,Flame Burst,15,fire,70,100
+323,5,Magnitude,19,ground,-,100
+323,6,Magnitude,19,ground,-,100
+323,7,Magnitude,19,ground,-,100
+323,12,Magnitude,19,ground,-,100
+323,13,Magnitude,19,ground,-,100
+323,14,Amnesia,19,psychic,-,-
+323,15,Amnesia,19,psychic,-,-
+323,16,Amnesia,19,psychic,-,-
+323,8,Take Down,21,normal,90,85
+323,9,Take Down,21,normal,90,85
+323,10,Take Down,21,normal,90,85
+323,11,Flame Burst,21,fire,70,100
+323,14,Lava Plume,22,fire,80,100
+323,15,Lava Plume,22,fire,80,100
+323,16,Lava Plume,22,fire,80,100
+323,5,Focus Energy,25,normal,-,-
+323,6,Focus Energy,25,normal,-,-
+323,7,Focus Energy,25,normal,-,-
+323,8,Amnesia,25,psychic,-,-
+323,9,Amnesia,25,psychic,-,-
+323,10,Amnesia,25,psychic,-,-
+323,11,Take Down,25,normal,90,85
+323,12,Focus Energy,25,normal,-,-
+323,13,Focus Energy,25,normal,-,-
+323,14,Earth Power,26,ground,90,100
+323,15,Earth Power,26,ground,90,100
+323,16,Earth Power,26,ground,90,100
+323,5,Take Down,29,normal,90,85
+323,6,Take Down,29,normal,90,85
+323,7,Take Down,29,normal,90,85
+323,12,Take Down,29,normal,90,85
+323,13,Take Down,29,normal,90,85
+323,14,Curse,29,ghost,-,-
+323,15,Curse,29,ghost,-,-
+323,16,Curse,29,ghost,-,-
+323,5,Amnesia,31,psychic,-,-
+323,6,Amnesia,31,psychic,-,-
+323,7,Amnesia,31,psychic,-,-
+323,8,Lava Plume,31,fire,80,100
+323,9,Lava Plume,31,fire,80,100
+323,10,Lava Plume,31,fire,80,100
+323,11,Amnesia,31,psychic,-,-
+323,12,Amnesia,31,psychic,-,-
+323,13,Amnesia,31,psychic,-,-
+323,14,Take Down,31,normal,90,85
+323,15,Take Down,31,normal,90,85
+323,16,Take Down,31,normal,90,85
+323,5,Rock Slide,33,rock,75,90
+323,6,Rock Slide,33,rock,75,90
+323,7,Rock Slide,33,rock,75,90
+323,8,Rock Slide,33,rock,75,90
+323,9,Rock Slide,33,rock,75,90
+323,10,Rock Slide,33,rock,75,90
+323,11,Lava Plume,33,fire,80,100
+323,12,Rock Slide,33,rock,75,90
+323,13,Rock Slide,33,rock,75,90
+323,14,Rock Slide,33,rock,75,90
+323,15,Rock Slide,33,rock,75,90
+323,16,Rock Slide,33,rock,75,90
+323,5,Earthquake,37,ground,100,100
+323,6,Earthquake,37,ground,100,100
+323,7,Earthquake,37,ground,100,100
+323,12,Earthquake,37,ground,100,100
+323,13,Earthquake,37,ground,100,100
+323,8,Earth Power,39,ground,90,100
+323,9,Earth Power,39,ground,90,100
+323,10,Earth Power,39,ground,90,100
+323,11,Rock Slide,39,rock,75,90
+323,14,Yawn,39,normal,-,-
+323,15,Yawn,39,normal,-,-
+323,16,Yawn,39,normal,-,-
+323,5,Eruption,45,fire,150,100
+323,6,Eruption,45,fire,150,100
+323,7,Eruption,45,fire,150,100
+323,12,Eruption,45,fire,150,100
+323,13,Eruption,45,fire,150,100
+323,14,Earthquake,46,ground,100,100
+323,15,Earthquake,46,ground,100,100
+323,16,Earthquake,46,ground,100,100
+323,8,Earthquake,49,ground,100,100
+323,9,Earthquake,49,ground,100,100
+323,10,Earthquake,49,ground,100,100
+323,11,Earth Power,49,ground,90,100
+323,14,Eruption,52,fire,150,100
+323,15,Eruption,52,fire,150,100
+323,16,Eruption,52,fire,150,100
+323,5,Fissure,55,ground,-,30
+323,6,Fissure,55,ground,-,30
+323,7,Fissure,55,ground,-,30
+323,12,Fissure,55,ground,-,30
+323,13,Fissure,55,ground,-,30
+323,8,Eruption,57,fire,150,100
+323,9,Eruption,57,fire,150,100
+323,10,Eruption,57,fire,150,100
+323,11,Earthquake,57,ground,100,100
+323,14,Fissure,59,ground,-,30
+323,15,Fissure,59,ground,-,30
+323,16,Fissure,59,ground,-,30
+323,8,Fissure,67,ground,-,30
+323,9,Fissure,67,ground,-,30
+323,10,Fissure,67,ground,-,30
+323,11,Eruption,67,fire,150,100
+323,11,Fissure,75,ground,-,30

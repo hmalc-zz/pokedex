@@ -1,114 +1,114 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-287,slakoth,5,10,Scratch,1,1,1
-287,slakoth,5,68,Counter,1,37,
-287,slakoth,5,133,Amnesia,1,25,
-287,slakoth,5,175,Flail,1,43,
-287,slakoth,5,185,Feint Attack,1,19,
-287,slakoth,5,227,Encore,1,7,
-287,slakoth,5,281,Yawn,1,1,2
-287,slakoth,5,303,Slack Off,1,13,
-287,slakoth,5,343,Covet,1,31,
-287,slakoth,6,10,Scratch,1,1,1
-287,slakoth,6,68,Counter,1,37,
-287,slakoth,6,133,Amnesia,1,25,
-287,slakoth,6,175,Flail,1,43,
-287,slakoth,6,185,Feint Attack,1,19,
-287,slakoth,6,227,Encore,1,7,
-287,slakoth,6,281,Yawn,1,1,2
-287,slakoth,6,303,Slack Off,1,13,
-287,slakoth,6,343,Covet,1,31,
-287,slakoth,7,10,Scratch,1,1,1
-287,slakoth,7,68,Counter,1,37,
-287,slakoth,7,133,Amnesia,1,25,
-287,slakoth,7,175,Flail,1,43,
-287,slakoth,7,185,Feint Attack,1,19,
-287,slakoth,7,227,Encore,1,7,
-287,slakoth,7,281,Yawn,1,1,2
-287,slakoth,7,303,Slack Off,1,13,
-287,slakoth,7,343,Covet,1,31,
-287,slakoth,8,10,Scratch,1,1,1
-287,slakoth,8,68,Counter,1,37,
-287,slakoth,8,133,Amnesia,1,25,
-287,slakoth,8,175,Flail,1,43,
-287,slakoth,8,185,Feint Attack,1,19,
-287,slakoth,8,227,Encore,1,7,
-287,slakoth,8,281,Yawn,1,1,2
-287,slakoth,8,303,Slack Off,1,13,
-287,slakoth,8,343,Covet,1,31,
-287,slakoth,9,10,Scratch,1,1,1
-287,slakoth,9,68,Counter,1,37,
-287,slakoth,9,133,Amnesia,1,25,
-287,slakoth,9,175,Flail,1,43,
-287,slakoth,9,185,Feint Attack,1,19,
-287,slakoth,9,227,Encore,1,7,
-287,slakoth,9,281,Yawn,1,1,2
-287,slakoth,9,303,Slack Off,1,13,
-287,slakoth,9,343,Covet,1,31,
-287,slakoth,10,10,Scratch,1,1,1
-287,slakoth,10,68,Counter,1,37,
-287,slakoth,10,133,Amnesia,1,25,
-287,slakoth,10,175,Flail,1,43,
-287,slakoth,10,185,Feint Attack,1,19,
-287,slakoth,10,227,Encore,1,7,
-287,slakoth,10,281,Yawn,1,1,2
-287,slakoth,10,303,Slack Off,1,13,
-287,slakoth,10,343,Covet,1,31,
-287,slakoth,11,10,Scratch,1,1,1
-287,slakoth,11,68,Counter,1,43,
-287,slakoth,11,133,Amnesia,1,25,
-287,slakoth,11,175,Flail,1,49,
-287,slakoth,11,185,Feint Attack,1,19,
-287,slakoth,11,227,Encore,1,7,
-287,slakoth,11,281,Yawn,1,1,2
-287,slakoth,11,303,Slack Off,1,13,
-287,slakoth,11,343,Covet,1,31,
-287,slakoth,11,498,Chip Away,1,37,
-287,slakoth,12,10,Scratch,1,1,1
-287,slakoth,12,68,Counter,1,37,
-287,slakoth,12,133,Amnesia,1,25,
-287,slakoth,12,175,Flail,1,43,
-287,slakoth,12,185,Feint Attack,1,19,
-287,slakoth,12,227,Encore,1,7,
-287,slakoth,12,281,Yawn,1,1,2
-287,slakoth,12,303,Slack Off,1,13,
-287,slakoth,12,343,Covet,1,31,
-287,slakoth,13,10,Scratch,1,1,1
-287,slakoth,13,68,Counter,1,37,
-287,slakoth,13,133,Amnesia,1,25,
-287,slakoth,13,175,Flail,1,43,
-287,slakoth,13,185,Feint Attack,1,19,
-287,slakoth,13,227,Encore,1,7,
-287,slakoth,13,281,Yawn,1,1,2
-287,slakoth,13,303,Slack Off,1,13,
-287,slakoth,13,343,Covet,1,31,
-287,slakoth,14,10,Scratch,1,1,1
-287,slakoth,14,68,Counter,1,43,
-287,slakoth,14,133,Amnesia,1,25,
-287,slakoth,14,175,Flail,1,49,
-287,slakoth,14,185,Feint Attack,1,19,
-287,slakoth,14,227,Encore,1,7,
-287,slakoth,14,281,Yawn,1,1,2
-287,slakoth,14,303,Slack Off,1,13,
-287,slakoth,14,343,Covet,1,31,
-287,slakoth,14,498,Chip Away,1,37,
-287,slakoth,15,10,Scratch,1,1,1
-287,slakoth,15,68,Counter,1,43,
-287,slakoth,15,133,Amnesia,1,25,
-287,slakoth,15,175,Flail,1,49,
-287,slakoth,15,185,Feint Attack,1,19,
-287,slakoth,15,227,Encore,1,7,
-287,slakoth,15,281,Yawn,1,1,2
-287,slakoth,15,303,Slack Off,1,13,
-287,slakoth,15,343,Covet,1,31,
-287,slakoth,15,498,Chip Away,1,37,
-287,slakoth,16,10,Scratch,1,1,1
-287,slakoth,16,68,Counter,1,30,1
-287,slakoth,16,133,Amnesia,1,17,1
-287,slakoth,16,175,Flail,1,33,1
-287,slakoth,16,185,Feint Attack,1,14,1
-287,slakoth,16,227,Encore,1,6,1
-287,slakoth,16,281,Yawn,1,1,2
-287,slakoth,16,303,Slack Off,1,9,1
-287,slakoth,16,343,Covet,1,22,1
-287,slakoth,16,498,Chip Away,1,25,1
-287,slakoth,16,583,Play Rough,1,38,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+287,5,Scratch,1,normal,40,100
+287,5,Yawn,1,normal,-,-
+287,6,Scratch,1,normal,40,100
+287,6,Yawn,1,normal,-,-
+287,7,Scratch,1,normal,40,100
+287,7,Yawn,1,normal,-,-
+287,8,Scratch,1,normal,40,100
+287,8,Yawn,1,normal,-,-
+287,9,Scratch,1,normal,40,100
+287,9,Yawn,1,normal,-,-
+287,10,Scratch,1,normal,40,100
+287,10,Yawn,1,normal,-,-
+287,11,Scratch,1,normal,40,100
+287,11,Yawn,1,normal,-,-
+287,12,Scratch,1,normal,40,100
+287,12,Yawn,1,normal,-,-
+287,13,Scratch,1,normal,40,100
+287,13,Yawn,1,normal,-,-
+287,14,Scratch,1,normal,40,100
+287,14,Yawn,1,normal,-,-
+287,15,Scratch,1,normal,40,100
+287,15,Yawn,1,normal,-,-
+287,16,Scratch,1,normal,40,100
+287,16,Yawn,1,normal,-,-
+287,16,Encore,6,normal,-,100
+287,5,Encore,7,normal,-,100
+287,6,Encore,7,normal,-,100
+287,7,Encore,7,normal,-,100
+287,8,Encore,7,normal,-,100
+287,9,Encore,7,normal,-,100
+287,10,Encore,7,normal,-,100
+287,11,Encore,7,normal,-,100
+287,12,Encore,7,normal,-,100
+287,13,Encore,7,normal,-,100
+287,14,Encore,7,normal,-,100
+287,15,Encore,7,normal,-,100
+287,16,Slack Off,9,normal,-,-
+287,5,Slack Off,13,normal,-,-
+287,6,Slack Off,13,normal,-,-
+287,7,Slack Off,13,normal,-,-
+287,8,Slack Off,13,normal,-,-
+287,9,Slack Off,13,normal,-,-
+287,10,Slack Off,13,normal,-,-
+287,11,Slack Off,13,normal,-,-
+287,12,Slack Off,13,normal,-,-
+287,13,Slack Off,13,normal,-,-
+287,14,Slack Off,13,normal,-,-
+287,15,Slack Off,13,normal,-,-
+287,16,Feint Attack,14,dark,60,-
+287,16,Amnesia,17,psychic,-,-
+287,5,Feint Attack,19,dark,60,-
+287,6,Feint Attack,19,dark,60,-
+287,7,Feint Attack,19,dark,60,-
+287,8,Feint Attack,19,dark,60,-
+287,9,Feint Attack,19,dark,60,-
+287,10,Feint Attack,19,dark,60,-
+287,11,Feint Attack,19,dark,60,-
+287,12,Feint Attack,19,dark,60,-
+287,13,Feint Attack,19,dark,60,-
+287,14,Feint Attack,19,dark,60,-
+287,15,Feint Attack,19,dark,60,-
+287,16,Covet,22,normal,60,100
+287,5,Amnesia,25,psychic,-,-
+287,6,Amnesia,25,psychic,-,-
+287,7,Amnesia,25,psychic,-,-
+287,8,Amnesia,25,psychic,-,-
+287,9,Amnesia,25,psychic,-,-
+287,10,Amnesia,25,psychic,-,-
+287,11,Amnesia,25,psychic,-,-
+287,12,Amnesia,25,psychic,-,-
+287,13,Amnesia,25,psychic,-,-
+287,14,Amnesia,25,psychic,-,-
+287,15,Amnesia,25,psychic,-,-
+287,16,Chip Away,25,normal,70,100
+287,16,Counter,30,fighting,-,100
+287,5,Covet,31,normal,60,100
+287,6,Covet,31,normal,60,100
+287,7,Covet,31,normal,60,100
+287,8,Covet,31,normal,60,100
+287,9,Covet,31,normal,60,100
+287,10,Covet,31,normal,60,100
+287,11,Covet,31,normal,60,100
+287,12,Covet,31,normal,60,100
+287,13,Covet,31,normal,60,100
+287,14,Covet,31,normal,60,100
+287,15,Covet,31,normal,60,100
+287,16,Flail,33,normal,-,100
+287,5,Counter,37,fighting,-,100
+287,6,Counter,37,fighting,-,100
+287,7,Counter,37,fighting,-,100
+287,8,Counter,37,fighting,-,100
+287,9,Counter,37,fighting,-,100
+287,10,Counter,37,fighting,-,100
+287,11,Chip Away,37,normal,70,100
+287,12,Counter,37,fighting,-,100
+287,13,Counter,37,fighting,-,100
+287,14,Chip Away,37,normal,70,100
+287,15,Chip Away,37,normal,70,100
+287,16,Play Rough,38,fairy,90,90
+287,5,Flail,43,normal,-,100
+287,6,Flail,43,normal,-,100
+287,7,Flail,43,normal,-,100
+287,8,Flail,43,normal,-,100
+287,9,Flail,43,normal,-,100
+287,10,Flail,43,normal,-,100
+287,11,Counter,43,fighting,-,100
+287,12,Flail,43,normal,-,100
+287,13,Flail,43,normal,-,100
+287,14,Counter,43,fighting,-,100
+287,15,Counter,43,fighting,-,100
+287,11,Flail,49,normal,-,100
+287,14,Flail,49,normal,-,100
+287,15,Flail,49,normal,-,100

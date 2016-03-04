@@ -1,96 +1,96 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-456,finneon,8,1,Pound,1,1,
-456,finneon,8,16,Gust,1,17,
-456,finneon,8,55,Water Gun,1,6,
-456,finneon,8,213,Attract,1,10,
-456,finneon,8,219,Safeguard,1,29,
-456,finneon,8,240,Rain Dance,1,13,
-456,finneon,8,250,Whirlpool,1,38,
-456,finneon,8,318,Silver Wind,1,49,
-456,finneon,8,340,Bounce,1,45,
-456,finneon,8,352,Water Pulse,1,22,
-456,finneon,8,369,U-turn,1,42,
-456,finneon,8,392,Aqua Ring,1,33,
-456,finneon,8,445,Captivate,1,26,
-456,finneon,9,1,Pound,1,1,
-456,finneon,9,16,Gust,1,17,
-456,finneon,9,55,Water Gun,1,6,
-456,finneon,9,213,Attract,1,10,
-456,finneon,9,219,Safeguard,1,29,
-456,finneon,9,240,Rain Dance,1,13,
-456,finneon,9,250,Whirlpool,1,38,
-456,finneon,9,318,Silver Wind,1,49,
-456,finneon,9,340,Bounce,1,45,
-456,finneon,9,352,Water Pulse,1,22,
-456,finneon,9,369,U-turn,1,42,
-456,finneon,9,392,Aqua Ring,1,33,
-456,finneon,9,445,Captivate,1,26,
-456,finneon,10,1,Pound,1,1,
-456,finneon,10,16,Gust,1,17,
-456,finneon,10,55,Water Gun,1,6,
-456,finneon,10,213,Attract,1,10,
-456,finneon,10,219,Safeguard,1,29,
-456,finneon,10,240,Rain Dance,1,13,
-456,finneon,10,250,Whirlpool,1,38,
-456,finneon,10,318,Silver Wind,1,49,
-456,finneon,10,340,Bounce,1,45,
-456,finneon,10,352,Water Pulse,1,22,
-456,finneon,10,369,U-turn,1,42,
-456,finneon,10,392,Aqua Ring,1,33,
-456,finneon,10,445,Captivate,1,26,
-456,finneon,11,1,Pound,1,1,
-456,finneon,11,16,Gust,1,17,
-456,finneon,11,55,Water Gun,1,6,
-456,finneon,11,213,Attract,1,10,
-456,finneon,11,219,Safeguard,1,29,
-456,finneon,11,240,Rain Dance,1,13,
-456,finneon,11,250,Whirlpool,1,38,
-456,finneon,11,318,Silver Wind,1,49,
-456,finneon,11,340,Bounce,1,45,
-456,finneon,11,352,Water Pulse,1,22,
-456,finneon,11,369,U-turn,1,42,
-456,finneon,11,392,Aqua Ring,1,33,
-456,finneon,11,445,Captivate,1,26,
-456,finneon,11,487,Soak,1,54,
-456,finneon,14,1,Pound,1,1,
-456,finneon,14,16,Gust,1,17,
-456,finneon,14,55,Water Gun,1,6,
-456,finneon,14,213,Attract,1,10,
-456,finneon,14,219,Safeguard,1,29,
-456,finneon,14,240,Rain Dance,1,13,
-456,finneon,14,250,Whirlpool,1,38,
-456,finneon,14,318,Silver Wind,1,49,
-456,finneon,14,340,Bounce,1,45,
-456,finneon,14,352,Water Pulse,1,22,
-456,finneon,14,369,U-turn,1,42,
-456,finneon,14,392,Aqua Ring,1,33,
-456,finneon,14,445,Captivate,1,26,
-456,finneon,14,487,Soak,1,54,
-456,finneon,15,1,Pound,1,1,
-456,finneon,15,16,Gust,1,17,
-456,finneon,15,55,Water Gun,1,6,
-456,finneon,15,213,Attract,1,10,
-456,finneon,15,219,Safeguard,1,29,
-456,finneon,15,240,Rain Dance,1,13,
-456,finneon,15,250,Whirlpool,1,38,
-456,finneon,15,318,Silver Wind,1,49,
-456,finneon,15,340,Bounce,1,45,
-456,finneon,15,352,Water Pulse,1,22,
-456,finneon,15,369,U-turn,1,42,
-456,finneon,15,392,Aqua Ring,1,33,
-456,finneon,15,445,Captivate,1,26,
-456,finneon,15,487,Soak,1,54,
-456,finneon,16,1,Pound,1,1,1
-456,finneon,16,16,Gust,1,17,1
-456,finneon,16,55,Water Gun,1,6,1
-456,finneon,16,213,Attract,1,10,1
-456,finneon,16,219,Safeguard,1,29,1
-456,finneon,16,240,Rain Dance,1,13,1
-456,finneon,16,250,Whirlpool,1,38,1
-456,finneon,16,318,Silver Wind,1,49,1
-456,finneon,16,340,Bounce,1,45,1
-456,finneon,16,352,Water Pulse,1,22,1
-456,finneon,16,369,U-turn,1,42,1
-456,finneon,16,392,Aqua Ring,1,33,1
-456,finneon,16,445,Captivate,1,26,1
-456,finneon,16,487,Soak,1,54,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+456,8,Pound,1,normal,40,100
+456,9,Pound,1,normal,40,100
+456,10,Pound,1,normal,40,100
+456,11,Pound,1,normal,40,100
+456,14,Pound,1,normal,40,100
+456,15,Pound,1,normal,40,100
+456,16,Pound,1,normal,40,100
+456,8,Water Gun,6,water,40,100
+456,9,Water Gun,6,water,40,100
+456,10,Water Gun,6,water,40,100
+456,11,Water Gun,6,water,40,100
+456,14,Water Gun,6,water,40,100
+456,15,Water Gun,6,water,40,100
+456,16,Water Gun,6,water,40,100
+456,8,Attract,10,normal,-,100
+456,9,Attract,10,normal,-,100
+456,10,Attract,10,normal,-,100
+456,11,Attract,10,normal,-,100
+456,14,Attract,10,normal,-,100
+456,15,Attract,10,normal,-,100
+456,16,Attract,10,normal,-,100
+456,8,Rain Dance,13,water,-,-
+456,9,Rain Dance,13,water,-,-
+456,10,Rain Dance,13,water,-,-
+456,11,Rain Dance,13,water,-,-
+456,14,Rain Dance,13,water,-,-
+456,15,Rain Dance,13,water,-,-
+456,16,Rain Dance,13,water,-,-
+456,8,Gust,17,flying,40,100
+456,9,Gust,17,flying,40,100
+456,10,Gust,17,flying,40,100
+456,11,Gust,17,flying,40,100
+456,14,Gust,17,flying,40,100
+456,15,Gust,17,flying,40,100
+456,16,Gust,17,flying,40,100
+456,8,Water Pulse,22,water,60,100
+456,9,Water Pulse,22,water,60,100
+456,10,Water Pulse,22,water,60,100
+456,11,Water Pulse,22,water,60,100
+456,14,Water Pulse,22,water,60,100
+456,15,Water Pulse,22,water,60,100
+456,16,Water Pulse,22,water,60,100
+456,8,Captivate,26,normal,-,100
+456,9,Captivate,26,normal,-,100
+456,10,Captivate,26,normal,-,100
+456,11,Captivate,26,normal,-,100
+456,14,Captivate,26,normal,-,100
+456,15,Captivate,26,normal,-,100
+456,16,Captivate,26,normal,-,100
+456,8,Safeguard,29,normal,-,-
+456,9,Safeguard,29,normal,-,-
+456,10,Safeguard,29,normal,-,-
+456,11,Safeguard,29,normal,-,-
+456,14,Safeguard,29,normal,-,-
+456,15,Safeguard,29,normal,-,-
+456,16,Safeguard,29,normal,-,-
+456,8,Aqua Ring,33,water,-,-
+456,9,Aqua Ring,33,water,-,-
+456,10,Aqua Ring,33,water,-,-
+456,11,Aqua Ring,33,water,-,-
+456,14,Aqua Ring,33,water,-,-
+456,15,Aqua Ring,33,water,-,-
+456,16,Aqua Ring,33,water,-,-
+456,8,Whirlpool,38,water,35,85
+456,9,Whirlpool,38,water,35,85
+456,10,Whirlpool,38,water,35,85
+456,11,Whirlpool,38,water,35,85
+456,14,Whirlpool,38,water,35,85
+456,15,Whirlpool,38,water,35,85
+456,16,Whirlpool,38,water,35,85
+456,8,U-turn,42,bug,70,100
+456,9,U-turn,42,bug,70,100
+456,10,U-turn,42,bug,70,100
+456,11,U-turn,42,bug,70,100
+456,14,U-turn,42,bug,70,100
+456,15,U-turn,42,bug,70,100
+456,16,U-turn,42,bug,70,100
+456,8,Bounce,45,flying,85,85
+456,9,Bounce,45,flying,85,85
+456,10,Bounce,45,flying,85,85
+456,11,Bounce,45,flying,85,85
+456,14,Bounce,45,flying,85,85
+456,15,Bounce,45,flying,85,85
+456,16,Bounce,45,flying,85,85
+456,8,Silver Wind,49,bug,60,100
+456,9,Silver Wind,49,bug,60,100
+456,10,Silver Wind,49,bug,60,100
+456,11,Silver Wind,49,bug,60,100
+456,14,Silver Wind,49,bug,60,100
+456,15,Silver Wind,49,bug,60,100
+456,16,Silver Wind,49,bug,60,100
+456,11,Soak,54,water,-,100
+456,14,Soak,54,water,-,100
+456,15,Soak,54,water,-,100
+456,16,Soak,54,water,-,100

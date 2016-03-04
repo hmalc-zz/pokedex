@@ -1,191 +1,191 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-352,kecleon,5,10,Scratch,1,1,5
-352,kecleon,5,20,Bind,1,4,
-352,kecleon,5,39,Tail Whip,1,1,2
-352,kecleon,5,60,Psybeam,1,17,
-352,kecleon,5,103,Screech,1,24,
-352,kecleon,5,122,Lick,1,1,4
-352,kecleon,5,154,Fury Swipes,1,12,
-352,kecleon,5,163,Slash,1,31,
-352,kecleon,5,164,Substitute,1,40,
-352,kecleon,5,168,Thief,1,1,1
-352,kecleon,5,185,Feint Attack,1,7,
-352,kecleon,5,246,Ancient Power,1,49,
-352,kecleon,5,310,Astonish,1,1,3
-352,kecleon,6,10,Scratch,1,1,5
-352,kecleon,6,20,Bind,1,4,
-352,kecleon,6,39,Tail Whip,1,1,2
-352,kecleon,6,60,Psybeam,1,17,
-352,kecleon,6,103,Screech,1,24,
-352,kecleon,6,122,Lick,1,1,4
-352,kecleon,6,154,Fury Swipes,1,12,
-352,kecleon,6,163,Slash,1,31,
-352,kecleon,6,164,Substitute,1,40,
-352,kecleon,6,168,Thief,1,1,1
-352,kecleon,6,185,Feint Attack,1,7,
-352,kecleon,6,246,Ancient Power,1,49,
-352,kecleon,6,310,Astonish,1,1,3
-352,kecleon,7,10,Scratch,1,1,5
-352,kecleon,7,20,Bind,1,4,
-352,kecleon,7,39,Tail Whip,1,1,2
-352,kecleon,7,60,Psybeam,1,17,
-352,kecleon,7,103,Screech,1,24,
-352,kecleon,7,122,Lick,1,1,4
-352,kecleon,7,154,Fury Swipes,1,12,
-352,kecleon,7,163,Slash,1,31,
-352,kecleon,7,164,Substitute,1,40,
-352,kecleon,7,168,Thief,1,1,1
-352,kecleon,7,185,Feint Attack,1,7,
-352,kecleon,7,246,Ancient Power,1,49,
-352,kecleon,7,310,Astonish,1,1,3
-352,kecleon,8,10,Scratch,1,1,5
-352,kecleon,8,20,Bind,1,4,
-352,kecleon,8,39,Tail Whip,1,1,2
-352,kecleon,8,60,Psybeam,1,15,
-352,kecleon,8,103,Screech,1,32,
-352,kecleon,8,122,Lick,1,1,4
-352,kecleon,8,154,Fury Swipes,1,10,
-352,kecleon,8,163,Slash,1,25,
-352,kecleon,8,164,Substitute,1,39,
-352,kecleon,8,168,Thief,1,1,1
-352,kecleon,8,185,Feint Attack,1,7,
-352,kecleon,8,246,Ancient Power,1,64,
-352,kecleon,8,310,Astonish,1,1,3
-352,kecleon,8,389,Sucker Punch,1,46,
-352,kecleon,8,421,Shadow Claw,1,55,
-352,kecleon,8,425,Shadow Sneak,1,20,
-352,kecleon,9,10,Scratch,1,1,5
-352,kecleon,9,20,Bind,1,4,
-352,kecleon,9,39,Tail Whip,1,1,2
-352,kecleon,9,60,Psybeam,1,18,
-352,kecleon,9,103,Screech,1,32,
-352,kecleon,9,122,Lick,1,1,4
-352,kecleon,9,154,Fury Swipes,1,10,
-352,kecleon,9,163,Slash,1,27,
-352,kecleon,9,164,Substitute,1,37,
-352,kecleon,9,168,Thief,1,1,1
-352,kecleon,9,185,Feint Attack,1,7,
-352,kecleon,9,246,Ancient Power,1,55,
-352,kecleon,9,310,Astonish,1,1,3
-352,kecleon,9,364,Feint,1,14,
-352,kecleon,9,389,Sucker Punch,1,43,
-352,kecleon,9,421,Shadow Claw,1,49,
-352,kecleon,9,425,Shadow Sneak,1,22,
-352,kecleon,10,10,Scratch,1,1,5
-352,kecleon,10,20,Bind,1,4,
-352,kecleon,10,39,Tail Whip,1,1,2
-352,kecleon,10,60,Psybeam,1,18,
-352,kecleon,10,103,Screech,1,32,
-352,kecleon,10,122,Lick,1,1,4
-352,kecleon,10,154,Fury Swipes,1,10,
-352,kecleon,10,163,Slash,1,27,
-352,kecleon,10,164,Substitute,1,37,
-352,kecleon,10,168,Thief,1,1,1
-352,kecleon,10,185,Feint Attack,1,7,
-352,kecleon,10,246,Ancient Power,1,55,
-352,kecleon,10,310,Astonish,1,1,3
-352,kecleon,10,364,Feint,1,14,
-352,kecleon,10,389,Sucker Punch,1,43,
-352,kecleon,10,421,Shadow Claw,1,49,
-352,kecleon,10,425,Shadow Sneak,1,22,
-352,kecleon,11,10,Scratch,1,1,5
-352,kecleon,11,20,Bind,1,4,
-352,kecleon,11,39,Tail Whip,1,1,2
-352,kecleon,11,60,Psybeam,1,18,
-352,kecleon,11,103,Screech,1,32,
-352,kecleon,11,122,Lick,1,1,4
-352,kecleon,11,154,Fury Swipes,1,10,
-352,kecleon,11,163,Slash,1,27,
-352,kecleon,11,164,Substitute,1,37,
-352,kecleon,11,168,Thief,1,1,1
-352,kecleon,11,185,Feint Attack,1,7,
-352,kecleon,11,246,Ancient Power,1,55,
-352,kecleon,11,310,Astonish,1,1,3
-352,kecleon,11,364,Feint,1,14,
-352,kecleon,11,389,Sucker Punch,1,43,
-352,kecleon,11,421,Shadow Claw,1,49,
-352,kecleon,11,425,Shadow Sneak,1,22,
-352,kecleon,11,485,Synchronoise,1,58,
-352,kecleon,12,10,Scratch,1,1,5
-352,kecleon,12,20,Bind,1,4,
-352,kecleon,12,39,Tail Whip,1,1,2
-352,kecleon,12,60,Psybeam,1,17,
-352,kecleon,12,103,Screech,1,24,
-352,kecleon,12,122,Lick,1,1,4
-352,kecleon,12,154,Fury Swipes,1,12,
-352,kecleon,12,163,Slash,1,31,
-352,kecleon,12,164,Substitute,1,40,
-352,kecleon,12,168,Thief,1,1,1
-352,kecleon,12,185,Feint Attack,1,7,
-352,kecleon,12,246,Ancient Power,1,49,
-352,kecleon,12,310,Astonish,1,1,3
-352,kecleon,13,10,Scratch,1,1,5
-352,kecleon,13,20,Bind,1,4,
-352,kecleon,13,39,Tail Whip,1,1,2
-352,kecleon,13,60,Psybeam,1,17,
-352,kecleon,13,103,Screech,1,24,
-352,kecleon,13,122,Lick,1,1,4
-352,kecleon,13,154,Fury Swipes,1,12,
-352,kecleon,13,163,Slash,1,31,
-352,kecleon,13,164,Substitute,1,40,
-352,kecleon,13,168,Thief,1,1,1
-352,kecleon,13,185,Feint Attack,1,7,
-352,kecleon,13,246,Ancient Power,1,49,
-352,kecleon,13,310,Astonish,1,1,3
-352,kecleon,14,10,Scratch,1,1,5
-352,kecleon,14,20,Bind,1,4,
-352,kecleon,14,39,Tail Whip,1,1,2
-352,kecleon,14,60,Psybeam,1,18,
-352,kecleon,14,103,Screech,1,32,
-352,kecleon,14,122,Lick,1,1,4
-352,kecleon,14,154,Fury Swipes,1,10,
-352,kecleon,14,163,Slash,1,27,
-352,kecleon,14,164,Substitute,1,37,
-352,kecleon,14,168,Thief,1,1,1
-352,kecleon,14,185,Feint Attack,1,7,
-352,kecleon,14,246,Ancient Power,1,55,
-352,kecleon,14,310,Astonish,1,1,3
-352,kecleon,14,364,Feint,1,14,
-352,kecleon,14,389,Sucker Punch,1,43,
-352,kecleon,14,421,Shadow Claw,1,49,
-352,kecleon,14,425,Shadow Sneak,1,22,
-352,kecleon,14,485,Synchronoise,1,58,
-352,kecleon,15,10,Scratch,1,1,7
-352,kecleon,15,20,Bind,1,4,
-352,kecleon,15,39,Tail Whip,1,1,4
-352,kecleon,15,60,Psybeam,1,18,
-352,kecleon,15,103,Screech,1,32,
-352,kecleon,15,122,Lick,1,1,6
-352,kecleon,15,154,Fury Swipes,1,10,
-352,kecleon,15,163,Slash,1,27,
-352,kecleon,15,164,Substitute,1,37,
-352,kecleon,15,168,Thief,1,1,3
-352,kecleon,15,185,Feint Attack,1,7,
-352,kecleon,15,246,Ancient Power,1,1,2
-352,kecleon,15,246,Ancient Power,1,55,
-352,kecleon,15,310,Astonish,1,1,5
-352,kecleon,15,364,Feint,1,14,
-352,kecleon,15,389,Sucker Punch,1,43,
-352,kecleon,15,421,Shadow Claw,1,49,
-352,kecleon,15,425,Shadow Sneak,1,22,
-352,kecleon,15,485,Synchronoise,1,1,1
-352,kecleon,15,485,Synchronoise,1,58,
-352,kecleon,16,10,Scratch,1,1,5
-352,kecleon,16,20,Bind,1,4,1
-352,kecleon,16,39,Tail Whip,1,1,2
-352,kecleon,16,60,Psybeam,1,18,1
-352,kecleon,16,103,Screech,1,38,1
-352,kecleon,16,122,Lick,1,1,4
-352,kecleon,16,154,Fury Swipes,1,13,1
-352,kecleon,16,163,Slash,1,25,1
-352,kecleon,16,164,Substitute,1,42,1
-352,kecleon,16,168,Thief,1,1,1
-352,kecleon,16,185,Feint Attack,1,16,1
-352,kecleon,16,246,Ancient Power,1,21,1
-352,kecleon,16,293,Camouflage,1,30,1
-352,kecleon,16,310,Astonish,1,1,3
-352,kecleon,16,364,Feint,1,10,1
-352,kecleon,16,389,Sucker Punch,1,46,1
-352,kecleon,16,421,Shadow Claw,1,33,1
-352,kecleon,16,425,Shadow Sneak,1,7,1
-352,kecleon,16,485,Synchronoise,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+352,5,Scratch,1,normal,40,100
+352,5,Tail Whip,1,normal,-,100
+352,5,Lick,1,ghost,30,100
+352,5,Thief,1,dark,60,100
+352,5,Astonish,1,ghost,30,100
+352,6,Scratch,1,normal,40,100
+352,6,Tail Whip,1,normal,-,100
+352,6,Lick,1,ghost,30,100
+352,6,Thief,1,dark,60,100
+352,6,Astonish,1,ghost,30,100
+352,7,Scratch,1,normal,40,100
+352,7,Tail Whip,1,normal,-,100
+352,7,Lick,1,ghost,30,100
+352,7,Thief,1,dark,60,100
+352,7,Astonish,1,ghost,30,100
+352,8,Scratch,1,normal,40,100
+352,8,Tail Whip,1,normal,-,100
+352,8,Lick,1,ghost,30,100
+352,8,Thief,1,dark,60,100
+352,8,Astonish,1,ghost,30,100
+352,9,Scratch,1,normal,40,100
+352,9,Tail Whip,1,normal,-,100
+352,9,Lick,1,ghost,30,100
+352,9,Thief,1,dark,60,100
+352,9,Astonish,1,ghost,30,100
+352,10,Scratch,1,normal,40,100
+352,10,Tail Whip,1,normal,-,100
+352,10,Lick,1,ghost,30,100
+352,10,Thief,1,dark,60,100
+352,10,Astonish,1,ghost,30,100
+352,11,Scratch,1,normal,40,100
+352,11,Tail Whip,1,normal,-,100
+352,11,Lick,1,ghost,30,100
+352,11,Thief,1,dark,60,100
+352,11,Astonish,1,ghost,30,100
+352,12,Scratch,1,normal,40,100
+352,12,Tail Whip,1,normal,-,100
+352,12,Lick,1,ghost,30,100
+352,12,Thief,1,dark,60,100
+352,12,Astonish,1,ghost,30,100
+352,13,Scratch,1,normal,40,100
+352,13,Tail Whip,1,normal,-,100
+352,13,Lick,1,ghost,30,100
+352,13,Thief,1,dark,60,100
+352,13,Astonish,1,ghost,30,100
+352,14,Scratch,1,normal,40,100
+352,14,Tail Whip,1,normal,-,100
+352,14,Lick,1,ghost,30,100
+352,14,Thief,1,dark,60,100
+352,14,Astonish,1,ghost,30,100
+352,15,Scratch,1,normal,40,100
+352,15,Tail Whip,1,normal,-,100
+352,15,Lick,1,ghost,30,100
+352,15,Thief,1,dark,60,100
+352,15,Ancient Power,1,rock,60,100
+352,15,Astonish,1,ghost,30,100
+352,15,Synchronoise,1,psychic,120,100
+352,16,Scratch,1,normal,40,100
+352,16,Tail Whip,1,normal,-,100
+352,16,Lick,1,ghost,30,100
+352,16,Thief,1,dark,60,100
+352,16,Astonish,1,ghost,30,100
+352,5,Bind,4,normal,15,85
+352,6,Bind,4,normal,15,85
+352,7,Bind,4,normal,15,85
+352,8,Bind,4,normal,15,85
+352,9,Bind,4,normal,15,85
+352,10,Bind,4,normal,15,85
+352,11,Bind,4,normal,15,85
+352,12,Bind,4,normal,15,85
+352,13,Bind,4,normal,15,85
+352,14,Bind,4,normal,15,85
+352,15,Bind,4,normal,15,85
+352,16,Bind,4,normal,15,85
+352,5,Feint Attack,7,dark,60,-
+352,6,Feint Attack,7,dark,60,-
+352,7,Feint Attack,7,dark,60,-
+352,8,Feint Attack,7,dark,60,-
+352,9,Feint Attack,7,dark,60,-
+352,10,Feint Attack,7,dark,60,-
+352,11,Feint Attack,7,dark,60,-
+352,12,Feint Attack,7,dark,60,-
+352,13,Feint Attack,7,dark,60,-
+352,14,Feint Attack,7,dark,60,-
+352,15,Feint Attack,7,dark,60,-
+352,16,Shadow Sneak,7,ghost,40,100
+352,8,Fury Swipes,10,normal,18,80
+352,9,Fury Swipes,10,normal,18,80
+352,10,Fury Swipes,10,normal,18,80
+352,11,Fury Swipes,10,normal,18,80
+352,14,Fury Swipes,10,normal,18,80
+352,15,Fury Swipes,10,normal,18,80
+352,16,Feint,10,normal,30,100
+352,5,Fury Swipes,12,normal,18,80
+352,6,Fury Swipes,12,normal,18,80
+352,7,Fury Swipes,12,normal,18,80
+352,12,Fury Swipes,12,normal,18,80
+352,13,Fury Swipes,12,normal,18,80
+352,16,Fury Swipes,13,normal,18,80
+352,9,Feint,14,normal,30,100
+352,10,Feint,14,normal,30,100
+352,11,Feint,14,normal,30,100
+352,14,Feint,14,normal,30,100
+352,15,Feint,14,normal,30,100
+352,8,Psybeam,15,psychic,65,100
+352,16,Feint Attack,16,dark,60,-
+352,5,Psybeam,17,psychic,65,100
+352,6,Psybeam,17,psychic,65,100
+352,7,Psybeam,17,psychic,65,100
+352,12,Psybeam,17,psychic,65,100
+352,13,Psybeam,17,psychic,65,100
+352,9,Psybeam,18,psychic,65,100
+352,10,Psybeam,18,psychic,65,100
+352,11,Psybeam,18,psychic,65,100
+352,14,Psybeam,18,psychic,65,100
+352,15,Psybeam,18,psychic,65,100
+352,16,Psybeam,18,psychic,65,100
+352,8,Shadow Sneak,20,ghost,40,100
+352,16,Ancient Power,21,rock,60,100
+352,9,Shadow Sneak,22,ghost,40,100
+352,10,Shadow Sneak,22,ghost,40,100
+352,11,Shadow Sneak,22,ghost,40,100
+352,14,Shadow Sneak,22,ghost,40,100
+352,15,Shadow Sneak,22,ghost,40,100
+352,5,Screech,24,normal,-,85
+352,6,Screech,24,normal,-,85
+352,7,Screech,24,normal,-,85
+352,12,Screech,24,normal,-,85
+352,13,Screech,24,normal,-,85
+352,8,Slash,25,normal,70,100
+352,16,Slash,25,normal,70,100
+352,9,Slash,27,normal,70,100
+352,10,Slash,27,normal,70,100
+352,11,Slash,27,normal,70,100
+352,14,Slash,27,normal,70,100
+352,15,Slash,27,normal,70,100
+352,16,Camouflage,30,normal,-,-
+352,5,Slash,31,normal,70,100
+352,6,Slash,31,normal,70,100
+352,7,Slash,31,normal,70,100
+352,12,Slash,31,normal,70,100
+352,13,Slash,31,normal,70,100
+352,8,Screech,32,normal,-,85
+352,9,Screech,32,normal,-,85
+352,10,Screech,32,normal,-,85
+352,11,Screech,32,normal,-,85
+352,14,Screech,32,normal,-,85
+352,15,Screech,32,normal,-,85
+352,16,Shadow Claw,33,ghost,70,100
+352,9,Substitute,37,normal,-,-
+352,10,Substitute,37,normal,-,-
+352,11,Substitute,37,normal,-,-
+352,14,Substitute,37,normal,-,-
+352,15,Substitute,37,normal,-,-
+352,16,Screech,38,normal,-,85
+352,8,Substitute,39,normal,-,-
+352,5,Substitute,40,normal,-,-
+352,6,Substitute,40,normal,-,-
+352,7,Substitute,40,normal,-,-
+352,12,Substitute,40,normal,-,-
+352,13,Substitute,40,normal,-,-
+352,16,Substitute,42,normal,-,-
+352,9,Sucker Punch,43,dark,80,100
+352,10,Sucker Punch,43,dark,80,100
+352,11,Sucker Punch,43,dark,80,100
+352,14,Sucker Punch,43,dark,80,100
+352,15,Sucker Punch,43,dark,80,100
+352,8,Sucker Punch,46,dark,80,100
+352,16,Sucker Punch,46,dark,80,100
+352,5,Ancient Power,49,rock,60,100
+352,6,Ancient Power,49,rock,60,100
+352,7,Ancient Power,49,rock,60,100
+352,9,Shadow Claw,49,ghost,70,100
+352,10,Shadow Claw,49,ghost,70,100
+352,11,Shadow Claw,49,ghost,70,100
+352,12,Ancient Power,49,rock,60,100
+352,13,Ancient Power,49,rock,60,100
+352,14,Shadow Claw,49,ghost,70,100
+352,15,Shadow Claw,49,ghost,70,100
+352,16,Synchronoise,50,psychic,120,100
+352,8,Shadow Claw,55,ghost,70,100
+352,9,Ancient Power,55,rock,60,100
+352,10,Ancient Power,55,rock,60,100
+352,11,Ancient Power,55,rock,60,100
+352,14,Ancient Power,55,rock,60,100
+352,15,Ancient Power,55,rock,60,100
+352,11,Synchronoise,58,psychic,120,100
+352,14,Synchronoise,58,psychic,120,100
+352,15,Synchronoise,58,psychic,120,100
+352,8,Ancient Power,64,rock,60,100

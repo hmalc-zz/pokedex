@@ -1,25 +1,25 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-401,kricketot,8,45,Growl,1,1,1
-401,kricketot,8,117,Bide,1,1,2
-401,kricketot,9,45,Growl,1,1,1
-401,kricketot,9,117,Bide,1,1,2
-401,kricketot,9,450,Bug Bite,1,16,
-401,kricketot,10,45,Growl,1,1,1
-401,kricketot,10,117,Bide,1,1,2
-401,kricketot,10,450,Bug Bite,1,16,
-401,kricketot,11,45,Growl,1,1,1
-401,kricketot,11,117,Bide,1,1,2
-401,kricketot,11,450,Bug Bite,1,16,
-401,kricketot,11,522,Struggle Bug,1,6,
-401,kricketot,14,45,Growl,1,1,1
-401,kricketot,14,117,Bide,1,1,2
-401,kricketot,14,450,Bug Bite,1,16,
-401,kricketot,14,522,Struggle Bug,1,6,
-401,kricketot,15,45,Growl,1,1,1
-401,kricketot,15,117,Bide,1,1,2
-401,kricketot,15,450,Bug Bite,1,16,
-401,kricketot,15,522,Struggle Bug,1,6,
-401,kricketot,16,45,Growl,1,1,1
-401,kricketot,16,117,Bide,1,1,2
-401,kricketot,16,450,Bug Bite,1,16,1
-401,kricketot,16,522,Struggle Bug,1,6,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+401,8,Growl,1,normal,-,100
+401,8,Bide,1,normal,-,-
+401,9,Growl,1,normal,-,100
+401,9,Bide,1,normal,-,-
+401,10,Growl,1,normal,-,100
+401,10,Bide,1,normal,-,-
+401,11,Growl,1,normal,-,100
+401,11,Bide,1,normal,-,-
+401,14,Growl,1,normal,-,100
+401,14,Bide,1,normal,-,-
+401,15,Growl,1,normal,-,100
+401,15,Bide,1,normal,-,-
+401,16,Growl,1,normal,-,100
+401,16,Bide,1,normal,-,-
+401,11,Struggle Bug,6,bug,50,100
+401,14,Struggle Bug,6,bug,50,100
+401,15,Struggle Bug,6,bug,50,100
+401,16,Struggle Bug,6,bug,50,100
+401,9,Bug Bite,16,bug,60,100
+401,10,Bug Bite,16,bug,60,100
+401,11,Bug Bite,16,bug,60,100
+401,14,Bug Bite,16,bug,60,100
+401,15,Bug Bite,16,bug,60,100
+401,16,Bug Bite,16,bug,60,100

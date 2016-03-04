@@ -1,63 +1,63 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-542,leavanny,11,14,Swords Dance,1,46,
-542,leavanny,11,33,Tackle,1,1,2
-542,leavanny,11,75,Razor Leaf,1,1,5
-542,leavanny,11,75,Razor Leaf,1,15,
-542,leavanny,11,81,String Shot,1,1,3
-542,leavanny,11,163,Slash,1,29,
-542,leavanny,11,206,False Swipe,1,1,1
-542,leavanny,11,270,Helping Hand,1,32,
-542,leavanny,11,348,Leaf Blade,1,36,
-542,leavanny,11,404,X-Scissor,1,39,
-542,leavanny,11,437,Leaf Storm,1,50,
-542,leavanny,11,450,Bug Bite,1,1,4
-542,leavanny,11,450,Bug Bite,1,8,
-542,leavanny,11,494,Entrainment,1,43,
-542,leavanny,11,522,Struggle Bug,1,22,
-542,leavanny,14,14,Swords Dance,1,46,
-542,leavanny,14,33,Tackle,1,1,2
-542,leavanny,14,75,Razor Leaf,1,1,5
-542,leavanny,14,75,Razor Leaf,1,15,
-542,leavanny,14,81,String Shot,1,1,3
-542,leavanny,14,163,Slash,1,29,
-542,leavanny,14,206,False Swipe,1,1,1
-542,leavanny,14,270,Helping Hand,1,32,
-542,leavanny,14,348,Leaf Blade,1,36,
-542,leavanny,14,404,X-Scissor,1,39,
-542,leavanny,14,437,Leaf Storm,1,50,
-542,leavanny,14,450,Bug Bite,1,1,4
-542,leavanny,14,450,Bug Bite,1,8,
-542,leavanny,14,494,Entrainment,1,43,
-542,leavanny,14,522,Struggle Bug,1,22,
-542,leavanny,15,14,Swords Dance,1,46,
-542,leavanny,15,33,Tackle,1,1,2
-542,leavanny,15,75,Razor Leaf,1,1,5
-542,leavanny,15,75,Razor Leaf,1,15,
-542,leavanny,15,81,String Shot,1,1,3
-542,leavanny,15,163,Slash,1,29,
-542,leavanny,15,206,False Swipe,1,1,1
-542,leavanny,15,270,Helping Hand,1,32,
-542,leavanny,15,348,Leaf Blade,1,36,
-542,leavanny,15,404,X-Scissor,1,39,
-542,leavanny,15,437,Leaf Storm,1,50,
-542,leavanny,15,450,Bug Bite,1,1,4
-542,leavanny,15,450,Bug Bite,1,8,
-542,leavanny,15,494,Entrainment,1,43,
-542,leavanny,15,522,Struggle Bug,1,22,
-542,leavanny,15,565,Fell Stinger,1,34,
-542,leavanny,16,14,Swords Dance,1,46,1
-542,leavanny,16,33,Tackle,1,1,2
-542,leavanny,16,75,Razor Leaf,1,1,5
-542,leavanny,16,75,Razor Leaf,1,15,1
-542,leavanny,16,81,String Shot,1,1,3
-542,leavanny,16,163,Slash,1,29,1
-542,leavanny,16,206,False Swipe,1,1,1
-542,leavanny,16,270,Helping Hand,1,32,1
-542,leavanny,16,348,Leaf Blade,1,36,1
-542,leavanny,16,404,X-Scissor,1,39,1
-542,leavanny,16,437,Leaf Storm,1,50,1
-542,leavanny,16,450,Bug Bite,1,1,4
-542,leavanny,16,450,Bug Bite,1,8,1
-542,leavanny,16,494,Entrainment,1,43,1
-542,leavanny,16,522,Struggle Bug,1,22,1
-542,leavanny,16,565,Fell Stinger,1,34,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+542,11,Tackle,1,normal,50,100
+542,11,Razor Leaf,1,grass,55,95
+542,11,String Shot,1,bug,-,95
+542,11,False Swipe,1,normal,40,100
+542,11,Bug Bite,1,bug,60,100
+542,14,Tackle,1,normal,50,100
+542,14,Razor Leaf,1,grass,55,95
+542,14,String Shot,1,bug,-,95
+542,14,False Swipe,1,normal,40,100
+542,14,Bug Bite,1,bug,60,100
+542,15,Tackle,1,normal,50,100
+542,15,Razor Leaf,1,grass,55,95
+542,15,String Shot,1,bug,-,95
+542,15,False Swipe,1,normal,40,100
+542,15,Bug Bite,1,bug,60,100
+542,16,Tackle,1,normal,50,100
+542,16,Razor Leaf,1,grass,55,95
+542,16,String Shot,1,bug,-,95
+542,16,False Swipe,1,normal,40,100
+542,16,Bug Bite,1,bug,60,100
+542,11,Bug Bite,8,bug,60,100
+542,14,Bug Bite,8,bug,60,100
+542,15,Bug Bite,8,bug,60,100
+542,16,Bug Bite,8,bug,60,100
+542,11,Razor Leaf,15,grass,55,95
+542,14,Razor Leaf,15,grass,55,95
+542,15,Razor Leaf,15,grass,55,95
+542,16,Razor Leaf,15,grass,55,95
+542,11,Struggle Bug,22,bug,50,100
+542,14,Struggle Bug,22,bug,50,100
+542,15,Struggle Bug,22,bug,50,100
+542,16,Struggle Bug,22,bug,50,100
+542,11,Slash,29,normal,70,100
+542,14,Slash,29,normal,70,100
+542,15,Slash,29,normal,70,100
+542,16,Slash,29,normal,70,100
+542,11,Helping Hand,32,normal,-,-
+542,14,Helping Hand,32,normal,-,-
+542,15,Helping Hand,32,normal,-,-
+542,16,Helping Hand,32,normal,-,-
+542,15,Fell Stinger,34,bug,30,100
+542,16,Fell Stinger,34,bug,30,100
+542,11,Leaf Blade,36,grass,90,100
+542,14,Leaf Blade,36,grass,90,100
+542,15,Leaf Blade,36,grass,90,100
+542,16,Leaf Blade,36,grass,90,100
+542,11,X-Scissor,39,bug,80,100
+542,14,X-Scissor,39,bug,80,100
+542,15,X-Scissor,39,bug,80,100
+542,16,X-Scissor,39,bug,80,100
+542,11,Entrainment,43,normal,-,100
+542,14,Entrainment,43,normal,-,100
+542,15,Entrainment,43,normal,-,100
+542,16,Entrainment,43,normal,-,100
+542,11,Swords Dance,46,normal,-,-
+542,14,Swords Dance,46,normal,-,-
+542,15,Swords Dance,46,normal,-,-
+542,16,Swords Dance,46,normal,-,-
+542,11,Leaf Storm,50,grass,130,90
+542,14,Leaf Storm,50,grass,130,90
+542,15,Leaf Storm,50,grass,130,90
+542,16,Leaf Storm,50,grass,130,90

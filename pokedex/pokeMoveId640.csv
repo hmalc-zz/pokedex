@@ -1,65 +1,65 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-640,virizion,11,14,Swords Dance,1,49,
-640,virizion,11,24,Double Kick,1,7,
-640,virizion,11,36,Take Down,1,19,
-640,virizion,11,43,Leer,1,1,2
-640,virizion,11,98,Quick Attack,1,1,1
-640,virizion,11,202,Giga Drain,1,37,
-640,virizion,11,270,Helping Hand,1,25,
-640,virizion,11,345,Magical Leaf,1,13,
-640,virizion,11,348,Leaf Blade,1,67,
-640,virizion,11,370,Close Combat,1,73,
-640,virizion,11,501,Quick Guard,1,55,
-640,virizion,11,514,Retaliate,1,31,
-640,virizion,11,526,Work Up,1,61,
-640,virizion,11,533,Sacred Sword,1,42,
-640,virizion,14,14,Swords Dance,1,49,
-640,virizion,14,24,Double Kick,1,7,
-640,virizion,14,36,Take Down,1,19,
-640,virizion,14,43,Leer,1,1,2
-640,virizion,14,98,Quick Attack,1,1,1
-640,virizion,14,202,Giga Drain,1,37,
-640,virizion,14,270,Helping Hand,1,25,
-640,virizion,14,345,Magical Leaf,1,13,
-640,virizion,14,348,Leaf Blade,1,67,
-640,virizion,14,370,Close Combat,1,73,
-640,virizion,14,501,Quick Guard,1,55,
-640,virizion,14,514,Retaliate,1,31,
-640,virizion,14,526,Work Up,1,61,
-640,virizion,14,533,Sacred Sword,1,42,
-640,virizion,15,14,Swords Dance,1,49,
-640,virizion,15,24,Double Kick,1,7,
-640,virizion,15,36,Take Down,1,19,
-640,virizion,15,43,Leer,1,1,6
-640,virizion,15,98,Quick Attack,1,1,5
-640,virizion,15,202,Giga Drain,1,37,
-640,virizion,15,270,Helping Hand,1,25,
-640,virizion,15,345,Magical Leaf,1,13,
-640,virizion,15,348,Leaf Blade,1,1,2
-640,virizion,15,348,Leaf Blade,1,67,
-640,virizion,15,370,Close Combat,1,1,1
-640,virizion,15,370,Close Combat,1,73,
-640,virizion,15,501,Quick Guard,1,1,4
-640,virizion,15,501,Quick Guard,1,55,
-640,virizion,15,514,Retaliate,1,31,
-640,virizion,15,526,Work Up,1,1,3
-640,virizion,15,526,Work Up,1,61,
-640,virizion,15,533,Sacred Sword,1,42,
-640,virizion,16,14,Swords Dance,1,49,1
-640,virizion,16,24,Double Kick,1,7,1
-640,virizion,16,36,Take Down,1,19,1
-640,virizion,16,43,Leer,1,1,6
-640,virizion,16,98,Quick Attack,1,1,5
-640,virizion,16,202,Giga Drain,1,37,1
-640,virizion,16,270,Helping Hand,1,25,1
-640,virizion,16,345,Magical Leaf,1,13,1
-640,virizion,16,348,Leaf Blade,1,1,2
-640,virizion,16,348,Leaf Blade,1,67,1
-640,virizion,16,370,Close Combat,1,1,1
-640,virizion,16,370,Close Combat,1,73,1
-640,virizion,16,501,Quick Guard,1,1,4
-640,virizion,16,501,Quick Guard,1,55,1
-640,virizion,16,514,Retaliate,1,31,1
-640,virizion,16,526,Work Up,1,1,3
-640,virizion,16,526,Work Up,1,61,1
-640,virizion,16,533,Sacred Sword,1,42,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+640,11,Leer,1,normal,-,100
+640,11,Quick Attack,1,normal,40,100
+640,14,Leer,1,normal,-,100
+640,14,Quick Attack,1,normal,40,100
+640,15,Leer,1,normal,-,100
+640,15,Quick Attack,1,normal,40,100
+640,15,Leaf Blade,1,grass,90,100
+640,15,Close Combat,1,fighting,120,100
+640,15,Quick Guard,1,fighting,-,-
+640,15,Work Up,1,normal,-,-
+640,16,Leer,1,normal,-,100
+640,16,Quick Attack,1,normal,40,100
+640,16,Leaf Blade,1,grass,90,100
+640,16,Close Combat,1,fighting,120,100
+640,16,Quick Guard,1,fighting,-,-
+640,16,Work Up,1,normal,-,-
+640,11,Double Kick,7,fighting,30,100
+640,14,Double Kick,7,fighting,30,100
+640,15,Double Kick,7,fighting,30,100
+640,16,Double Kick,7,fighting,30,100
+640,11,Magical Leaf,13,grass,60,-
+640,14,Magical Leaf,13,grass,60,-
+640,15,Magical Leaf,13,grass,60,-
+640,16,Magical Leaf,13,grass,60,-
+640,11,Take Down,19,normal,90,85
+640,14,Take Down,19,normal,90,85
+640,15,Take Down,19,normal,90,85
+640,16,Take Down,19,normal,90,85
+640,11,Helping Hand,25,normal,-,-
+640,14,Helping Hand,25,normal,-,-
+640,15,Helping Hand,25,normal,-,-
+640,16,Helping Hand,25,normal,-,-
+640,11,Retaliate,31,normal,70,100
+640,14,Retaliate,31,normal,70,100
+640,15,Retaliate,31,normal,70,100
+640,16,Retaliate,31,normal,70,100
+640,11,Giga Drain,37,grass,75,100
+640,14,Giga Drain,37,grass,75,100
+640,15,Giga Drain,37,grass,75,100
+640,16,Giga Drain,37,grass,75,100
+640,11,Sacred Sword,42,fighting,90,100
+640,14,Sacred Sword,42,fighting,90,100
+640,15,Sacred Sword,42,fighting,90,100
+640,16,Sacred Sword,42,fighting,90,100
+640,11,Swords Dance,49,normal,-,-
+640,14,Swords Dance,49,normal,-,-
+640,15,Swords Dance,49,normal,-,-
+640,16,Swords Dance,49,normal,-,-
+640,11,Quick Guard,55,fighting,-,-
+640,14,Quick Guard,55,fighting,-,-
+640,15,Quick Guard,55,fighting,-,-
+640,16,Quick Guard,55,fighting,-,-
+640,11,Work Up,61,normal,-,-
+640,14,Work Up,61,normal,-,-
+640,15,Work Up,61,normal,-,-
+640,16,Work Up,61,normal,-,-
+640,11,Leaf Blade,67,grass,90,100
+640,14,Leaf Blade,67,grass,90,100
+640,15,Leaf Blade,67,grass,90,100
+640,16,Leaf Blade,67,grass,90,100
+640,11,Close Combat,73,fighting,120,100
+640,14,Close Combat,73,fighting,120,100
+640,15,Close Combat,73,fighting,120,100
+640,16,Close Combat,73,fighting,120,100

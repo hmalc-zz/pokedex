@@ -1,155 +1,155 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-130,gyarados,1,43,Leer,1,1,3
-130,gyarados,1,43,Leer,1,32,
-130,gyarados,1,44,Bite,1,1,1
-130,gyarados,1,44,Bite,1,20,
-130,gyarados,1,56,Hydro Pump,1,1,4
-130,gyarados,1,56,Hydro Pump,1,41,
-130,gyarados,1,63,Hyper Beam,1,52,
-130,gyarados,1,82,Dragon Rage,1,1,2
-130,gyarados,1,82,Dragon Rage,1,25,
-130,gyarados,2,33,Tackle,1,1,
-130,gyarados,2,43,Leer,1,32,
-130,gyarados,2,44,Bite,1,20,
-130,gyarados,2,56,Hydro Pump,1,41,
-130,gyarados,2,63,Hyper Beam,1,52,
-130,gyarados,2,82,Dragon Rage,1,25,
-130,gyarados,3,37,Thrash,1,1,
-130,gyarados,3,43,Leer,1,30,
-130,gyarados,3,44,Bite,1,20,
-130,gyarados,3,56,Hydro Pump,1,40,
-130,gyarados,3,63,Hyper Beam,1,50,
-130,gyarados,3,82,Dragon Rage,1,25,
-130,gyarados,3,239,Twister,1,35,
-130,gyarados,3,240,Rain Dance,1,45,
-130,gyarados,4,37,Thrash,1,1,
-130,gyarados,4,43,Leer,1,30,
-130,gyarados,4,44,Bite,1,20,
-130,gyarados,4,56,Hydro Pump,1,40,
-130,gyarados,4,63,Hyper Beam,1,50,
-130,gyarados,4,82,Dragon Rage,1,25,
-130,gyarados,4,239,Twister,1,35,
-130,gyarados,4,240,Rain Dance,1,45,
-130,gyarados,5,37,Thrash,1,1,
-130,gyarados,5,43,Leer,1,30,
-130,gyarados,5,44,Bite,1,20,
-130,gyarados,5,56,Hydro Pump,1,40,
-130,gyarados,5,63,Hyper Beam,1,55,
-130,gyarados,5,82,Dragon Rage,1,25,
-130,gyarados,5,239,Twister,1,35,
-130,gyarados,5,240,Rain Dance,1,45,
-130,gyarados,5,349,Dragon Dance,1,50,
-130,gyarados,6,37,Thrash,1,1,
-130,gyarados,6,43,Leer,1,30,
-130,gyarados,6,44,Bite,1,20,
-130,gyarados,6,56,Hydro Pump,1,40,
-130,gyarados,6,63,Hyper Beam,1,55,
-130,gyarados,6,82,Dragon Rage,1,25,
-130,gyarados,6,239,Twister,1,35,
-130,gyarados,6,240,Rain Dance,1,45,
-130,gyarados,6,349,Dragon Dance,1,50,
-130,gyarados,7,37,Thrash,1,1,
-130,gyarados,7,43,Leer,1,30,
-130,gyarados,7,44,Bite,1,20,
-130,gyarados,7,56,Hydro Pump,1,40,
-130,gyarados,7,63,Hyper Beam,1,55,
-130,gyarados,7,82,Dragon Rage,1,25,
-130,gyarados,7,239,Twister,1,35,
-130,gyarados,7,240,Rain Dance,1,45,
-130,gyarados,7,349,Dragon Dance,1,50,
-130,gyarados,8,37,Thrash,1,1,
-130,gyarados,8,43,Leer,1,26,
-130,gyarados,8,44,Bite,1,20,
-130,gyarados,8,56,Hydro Pump,1,41,
-130,gyarados,8,63,Hyper Beam,1,47,
-130,gyarados,8,82,Dragon Rage,1,23,
-130,gyarados,8,239,Twister,1,29,
-130,gyarados,8,240,Rain Dance,1,38,
-130,gyarados,8,349,Dragon Dance,1,44,
-130,gyarados,8,401,Aqua Tail,1,35,
-130,gyarados,8,423,Ice Fang,1,32,
-130,gyarados,9,37,Thrash,1,1,
-130,gyarados,9,43,Leer,1,26,
-130,gyarados,9,44,Bite,1,20,
-130,gyarados,9,56,Hydro Pump,1,41,
-130,gyarados,9,63,Hyper Beam,1,47,
-130,gyarados,9,82,Dragon Rage,1,23,
-130,gyarados,9,239,Twister,1,29,
-130,gyarados,9,240,Rain Dance,1,38,
-130,gyarados,9,349,Dragon Dance,1,44,
-130,gyarados,9,401,Aqua Tail,1,35,
-130,gyarados,9,423,Ice Fang,1,32,
-130,gyarados,10,37,Thrash,1,1,
-130,gyarados,10,43,Leer,1,26,
-130,gyarados,10,44,Bite,1,20,
-130,gyarados,10,56,Hydro Pump,1,41,
-130,gyarados,10,63,Hyper Beam,1,47,
-130,gyarados,10,82,Dragon Rage,1,23,
-130,gyarados,10,239,Twister,1,29,
-130,gyarados,10,240,Rain Dance,1,38,
-130,gyarados,10,349,Dragon Dance,1,44,
-130,gyarados,10,401,Aqua Tail,1,35,
-130,gyarados,10,423,Ice Fang,1,32,
-130,gyarados,11,37,Thrash,1,1,
-130,gyarados,11,43,Leer,1,26,
-130,gyarados,11,44,Bite,1,20,
-130,gyarados,11,56,Hydro Pump,1,41,
-130,gyarados,11,63,Hyper Beam,1,47,
-130,gyarados,11,82,Dragon Rage,1,23,
-130,gyarados,11,239,Twister,1,29,
-130,gyarados,11,240,Rain Dance,1,38,
-130,gyarados,11,349,Dragon Dance,1,44,
-130,gyarados,11,401,Aqua Tail,1,35,
-130,gyarados,11,423,Ice Fang,1,32,
-130,gyarados,12,37,Thrash,1,1,
-130,gyarados,12,43,Leer,1,30,
-130,gyarados,12,44,Bite,1,20,
-130,gyarados,12,56,Hydro Pump,1,40,
-130,gyarados,12,63,Hyper Beam,1,55,
-130,gyarados,12,82,Dragon Rage,1,25,
-130,gyarados,12,239,Twister,1,35,
-130,gyarados,12,240,Rain Dance,1,45,
-130,gyarados,12,349,Dragon Dance,1,50,
-130,gyarados,13,37,Thrash,1,1,
-130,gyarados,13,43,Leer,1,30,
-130,gyarados,13,44,Bite,1,20,
-130,gyarados,13,56,Hydro Pump,1,40,
-130,gyarados,13,63,Hyper Beam,1,55,
-130,gyarados,13,82,Dragon Rage,1,25,
-130,gyarados,13,239,Twister,1,35,
-130,gyarados,13,240,Rain Dance,1,45,
-130,gyarados,13,349,Dragon Dance,1,50,
-130,gyarados,14,37,Thrash,1,1,
-130,gyarados,14,43,Leer,1,26,
-130,gyarados,14,44,Bite,1,20,
-130,gyarados,14,56,Hydro Pump,1,41,
-130,gyarados,14,63,Hyper Beam,1,47,
-130,gyarados,14,82,Dragon Rage,1,23,
-130,gyarados,14,239,Twister,1,29,
-130,gyarados,14,240,Rain Dance,1,38,
-130,gyarados,14,349,Dragon Dance,1,44,
-130,gyarados,14,401,Aqua Tail,1,35,
-130,gyarados,14,423,Ice Fang,1,32,
-130,gyarados,15,37,Thrash,1,1,
-130,gyarados,15,43,Leer,1,26,
-130,gyarados,15,44,Bite,1,20,
-130,gyarados,15,56,Hydro Pump,1,41,
-130,gyarados,15,63,Hyper Beam,1,47,
-130,gyarados,15,82,Dragon Rage,1,23,
-130,gyarados,15,239,Twister,1,29,
-130,gyarados,15,240,Rain Dance,1,38,
-130,gyarados,15,349,Dragon Dance,1,44,
-130,gyarados,15,401,Aqua Tail,1,35,
-130,gyarados,15,423,Ice Fang,1,32,
-130,gyarados,16,37,Thrash,1,1,1
-130,gyarados,16,43,Leer,1,26,1
-130,gyarados,16,44,Bite,1,20,1
-130,gyarados,16,56,Hydro Pump,1,44,1
-130,gyarados,16,63,Hyper Beam,1,50,1
-130,gyarados,16,82,Dragon Rage,1,23,1
-130,gyarados,16,239,Twister,1,29,1
-130,gyarados,16,240,Rain Dance,1,38,1
-130,gyarados,16,242,Crunch,1,41,1
-130,gyarados,16,349,Dragon Dance,1,47,1
-130,gyarados,16,401,Aqua Tail,1,35,1
-130,gyarados,16,423,Ice Fang,1,32,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+130,1,Leer,1,normal,-,100
+130,1,Bite,1,dark,60,100
+130,1,Hydro Pump,1,water,110,80
+130,1,Dragon Rage,1,dragon,-,100
+130,2,Tackle,1,normal,50,100
+130,3,Thrash,1,normal,120,100
+130,4,Thrash,1,normal,120,100
+130,5,Thrash,1,normal,120,100
+130,6,Thrash,1,normal,120,100
+130,7,Thrash,1,normal,120,100
+130,8,Thrash,1,normal,120,100
+130,9,Thrash,1,normal,120,100
+130,10,Thrash,1,normal,120,100
+130,11,Thrash,1,normal,120,100
+130,12,Thrash,1,normal,120,100
+130,13,Thrash,1,normal,120,100
+130,14,Thrash,1,normal,120,100
+130,15,Thrash,1,normal,120,100
+130,16,Thrash,1,normal,120,100
+130,1,Bite,20,dark,60,100
+130,2,Bite,20,dark,60,100
+130,3,Bite,20,dark,60,100
+130,4,Bite,20,dark,60,100
+130,5,Bite,20,dark,60,100
+130,6,Bite,20,dark,60,100
+130,7,Bite,20,dark,60,100
+130,8,Bite,20,dark,60,100
+130,9,Bite,20,dark,60,100
+130,10,Bite,20,dark,60,100
+130,11,Bite,20,dark,60,100
+130,12,Bite,20,dark,60,100
+130,13,Bite,20,dark,60,100
+130,14,Bite,20,dark,60,100
+130,15,Bite,20,dark,60,100
+130,16,Bite,20,dark,60,100
+130,8,Dragon Rage,23,dragon,-,100
+130,9,Dragon Rage,23,dragon,-,100
+130,10,Dragon Rage,23,dragon,-,100
+130,11,Dragon Rage,23,dragon,-,100
+130,14,Dragon Rage,23,dragon,-,100
+130,15,Dragon Rage,23,dragon,-,100
+130,16,Dragon Rage,23,dragon,-,100
+130,1,Dragon Rage,25,dragon,-,100
+130,2,Dragon Rage,25,dragon,-,100
+130,3,Dragon Rage,25,dragon,-,100
+130,4,Dragon Rage,25,dragon,-,100
+130,5,Dragon Rage,25,dragon,-,100
+130,6,Dragon Rage,25,dragon,-,100
+130,7,Dragon Rage,25,dragon,-,100
+130,12,Dragon Rage,25,dragon,-,100
+130,13,Dragon Rage,25,dragon,-,100
+130,8,Leer,26,normal,-,100
+130,9,Leer,26,normal,-,100
+130,10,Leer,26,normal,-,100
+130,11,Leer,26,normal,-,100
+130,14,Leer,26,normal,-,100
+130,15,Leer,26,normal,-,100
+130,16,Leer,26,normal,-,100
+130,8,Twister,29,dragon,40,100
+130,9,Twister,29,dragon,40,100
+130,10,Twister,29,dragon,40,100
+130,11,Twister,29,dragon,40,100
+130,14,Twister,29,dragon,40,100
+130,15,Twister,29,dragon,40,100
+130,16,Twister,29,dragon,40,100
+130,3,Leer,30,normal,-,100
+130,4,Leer,30,normal,-,100
+130,5,Leer,30,normal,-,100
+130,6,Leer,30,normal,-,100
+130,7,Leer,30,normal,-,100
+130,12,Leer,30,normal,-,100
+130,13,Leer,30,normal,-,100
+130,1,Leer,32,normal,-,100
+130,2,Leer,32,normal,-,100
+130,8,Ice Fang,32,ice,65,95
+130,9,Ice Fang,32,ice,65,95
+130,10,Ice Fang,32,ice,65,95
+130,11,Ice Fang,32,ice,65,95
+130,14,Ice Fang,32,ice,65,95
+130,15,Ice Fang,32,ice,65,95
+130,16,Ice Fang,32,ice,65,95
+130,3,Twister,35,dragon,40,100
+130,4,Twister,35,dragon,40,100
+130,5,Twister,35,dragon,40,100
+130,6,Twister,35,dragon,40,100
+130,7,Twister,35,dragon,40,100
+130,8,Aqua Tail,35,water,90,90
+130,9,Aqua Tail,35,water,90,90
+130,10,Aqua Tail,35,water,90,90
+130,11,Aqua Tail,35,water,90,90
+130,12,Twister,35,dragon,40,100
+130,13,Twister,35,dragon,40,100
+130,14,Aqua Tail,35,water,90,90
+130,15,Aqua Tail,35,water,90,90
+130,16,Aqua Tail,35,water,90,90
+130,8,Rain Dance,38,water,-,-
+130,9,Rain Dance,38,water,-,-
+130,10,Rain Dance,38,water,-,-
+130,11,Rain Dance,38,water,-,-
+130,14,Rain Dance,38,water,-,-
+130,15,Rain Dance,38,water,-,-
+130,16,Rain Dance,38,water,-,-
+130,3,Hydro Pump,40,water,110,80
+130,4,Hydro Pump,40,water,110,80
+130,5,Hydro Pump,40,water,110,80
+130,6,Hydro Pump,40,water,110,80
+130,7,Hydro Pump,40,water,110,80
+130,12,Hydro Pump,40,water,110,80
+130,13,Hydro Pump,40,water,110,80
+130,1,Hydro Pump,41,water,110,80
+130,2,Hydro Pump,41,water,110,80
+130,8,Hydro Pump,41,water,110,80
+130,9,Hydro Pump,41,water,110,80
+130,10,Hydro Pump,41,water,110,80
+130,11,Hydro Pump,41,water,110,80
+130,14,Hydro Pump,41,water,110,80
+130,15,Hydro Pump,41,water,110,80
+130,16,Crunch,41,dark,80,100
+130,8,Dragon Dance,44,dragon,-,-
+130,9,Dragon Dance,44,dragon,-,-
+130,10,Dragon Dance,44,dragon,-,-
+130,11,Dragon Dance,44,dragon,-,-
+130,14,Dragon Dance,44,dragon,-,-
+130,15,Dragon Dance,44,dragon,-,-
+130,16,Hydro Pump,44,water,110,80
+130,3,Rain Dance,45,water,-,-
+130,4,Rain Dance,45,water,-,-
+130,5,Rain Dance,45,water,-,-
+130,6,Rain Dance,45,water,-,-
+130,7,Rain Dance,45,water,-,-
+130,12,Rain Dance,45,water,-,-
+130,13,Rain Dance,45,water,-,-
+130,8,Hyper Beam,47,normal,150,90
+130,9,Hyper Beam,47,normal,150,90
+130,10,Hyper Beam,47,normal,150,90
+130,11,Hyper Beam,47,normal,150,90
+130,14,Hyper Beam,47,normal,150,90
+130,15,Hyper Beam,47,normal,150,90
+130,16,Dragon Dance,47,dragon,-,-
+130,3,Hyper Beam,50,normal,150,90
+130,4,Hyper Beam,50,normal,150,90
+130,5,Dragon Dance,50,dragon,-,-
+130,6,Dragon Dance,50,dragon,-,-
+130,7,Dragon Dance,50,dragon,-,-
+130,12,Dragon Dance,50,dragon,-,-
+130,13,Dragon Dance,50,dragon,-,-
+130,16,Hyper Beam,50,normal,150,90
+130,1,Hyper Beam,52,normal,150,90
+130,2,Hyper Beam,52,normal,150,90
+130,5,Hyper Beam,55,normal,150,90
+130,6,Hyper Beam,55,normal,150,90
+130,7,Hyper Beam,55,normal,150,90
+130,12,Hyper Beam,55,normal,150,90
+130,13,Hyper Beam,55,normal,150,90

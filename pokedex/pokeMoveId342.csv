@@ -1,194 +1,194 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-342,crawdaunt,5,11,Vice Grip,1,1,3
-342,crawdaunt,5,11,Vice Grip,1,10,
-342,crawdaunt,5,12,Guillotine,1,52,
-342,crawdaunt,5,14,Swords Dance,1,44,
-342,crawdaunt,5,43,Leer,1,1,4
-342,crawdaunt,5,43,Leer,1,13,
-342,crawdaunt,5,61,Bubble Beam,1,20,
-342,crawdaunt,5,106,Harden,1,1,2
-342,crawdaunt,5,106,Harden,1,7,
-342,crawdaunt,5,145,Bubble,1,1,1
-342,crawdaunt,5,152,Crabhammer,1,39,
-342,crawdaunt,5,182,Protect,1,23,
-342,crawdaunt,5,269,Taunt,1,34,
-342,crawdaunt,5,282,Knock Off,1,26,
-342,crawdaunt,6,11,Vice Grip,1,1,3
-342,crawdaunt,6,11,Vice Grip,1,10,
-342,crawdaunt,6,12,Guillotine,1,52,
-342,crawdaunt,6,14,Swords Dance,1,44,
-342,crawdaunt,6,43,Leer,1,1,4
-342,crawdaunt,6,43,Leer,1,13,
-342,crawdaunt,6,61,Bubble Beam,1,20,
-342,crawdaunt,6,106,Harden,1,1,2
-342,crawdaunt,6,106,Harden,1,7,
-342,crawdaunt,6,145,Bubble,1,1,1
-342,crawdaunt,6,152,Crabhammer,1,39,
-342,crawdaunt,6,182,Protect,1,23,
-342,crawdaunt,6,269,Taunt,1,34,
-342,crawdaunt,6,282,Knock Off,1,26,
-342,crawdaunt,7,11,Vice Grip,1,1,3
-342,crawdaunt,7,11,Vice Grip,1,10,
-342,crawdaunt,7,12,Guillotine,1,56,
-342,crawdaunt,7,14,Swords Dance,1,43,
-342,crawdaunt,7,43,Leer,1,1,4
-342,crawdaunt,7,43,Leer,1,13,
-342,crawdaunt,7,61,Bubble Beam,1,19,
-342,crawdaunt,7,106,Harden,1,1,2
-342,crawdaunt,7,106,Harden,1,7,
-342,crawdaunt,7,145,Bubble,1,1,1
-342,crawdaunt,7,152,Crabhammer,1,38,
-342,crawdaunt,7,182,Protect,1,22,
-342,crawdaunt,7,242,Crunch,1,51,
-342,crawdaunt,7,269,Taunt,1,33,
-342,crawdaunt,7,282,Knock Off,1,25,
-342,crawdaunt,8,11,Vice Grip,1,1,3
-342,crawdaunt,8,11,Vice Grip,1,10,
-342,crawdaunt,8,12,Guillotine,1,65,
-342,crawdaunt,8,14,Swords Dance,1,52,
-342,crawdaunt,8,43,Leer,1,1,4
-342,crawdaunt,8,43,Leer,1,13,
-342,crawdaunt,8,61,Bubble Beam,1,20,
-342,crawdaunt,8,106,Harden,1,1,2
-342,crawdaunt,8,106,Harden,1,7,
-342,crawdaunt,8,129,Swift,1,30,
-342,crawdaunt,8,145,Bubble,1,1,1
-342,crawdaunt,8,152,Crabhammer,1,44,
-342,crawdaunt,8,182,Protect,1,23,
-342,crawdaunt,8,242,Crunch,1,57,
-342,crawdaunt,8,269,Taunt,1,34,
-342,crawdaunt,8,282,Knock Off,1,26,
-342,crawdaunt,8,400,Night Slash,1,39,
-342,crawdaunt,9,11,Vice Grip,1,1,3
-342,crawdaunt,9,11,Vice Grip,1,10,
-342,crawdaunt,9,12,Guillotine,1,65,
-342,crawdaunt,9,14,Swords Dance,1,52,
-342,crawdaunt,9,43,Leer,1,1,4
-342,crawdaunt,9,43,Leer,1,13,
-342,crawdaunt,9,61,Bubble Beam,1,20,
-342,crawdaunt,9,106,Harden,1,1,2
-342,crawdaunt,9,106,Harden,1,7,
-342,crawdaunt,9,129,Swift,1,30,
-342,crawdaunt,9,145,Bubble,1,1,1
-342,crawdaunt,9,152,Crabhammer,1,44,
-342,crawdaunt,9,182,Protect,1,23,
-342,crawdaunt,9,242,Crunch,1,57,
-342,crawdaunt,9,269,Taunt,1,34,
-342,crawdaunt,9,282,Knock Off,1,26,
-342,crawdaunt,9,400,Night Slash,1,39,
-342,crawdaunt,10,11,Vice Grip,1,1,3
-342,crawdaunt,10,11,Vice Grip,1,10,
-342,crawdaunt,10,12,Guillotine,1,65,
-342,crawdaunt,10,14,Swords Dance,1,52,
-342,crawdaunt,10,43,Leer,1,1,4
-342,crawdaunt,10,43,Leer,1,13,
-342,crawdaunt,10,61,Bubble Beam,1,20,
-342,crawdaunt,10,106,Harden,1,1,2
-342,crawdaunt,10,106,Harden,1,7,
-342,crawdaunt,10,129,Swift,1,30,
-342,crawdaunt,10,145,Bubble,1,1,1
-342,crawdaunt,10,152,Crabhammer,1,44,
-342,crawdaunt,10,182,Protect,1,23,
-342,crawdaunt,10,242,Crunch,1,57,
-342,crawdaunt,10,269,Taunt,1,34,
-342,crawdaunt,10,282,Knock Off,1,26,
-342,crawdaunt,10,400,Night Slash,1,39,
-342,crawdaunt,11,11,Vice Grip,1,1,3
-342,crawdaunt,11,11,Vice Grip,1,10,
-342,crawdaunt,11,12,Guillotine,1,65,
-342,crawdaunt,11,14,Swords Dance,1,52,
-342,crawdaunt,11,43,Leer,1,1,4
-342,crawdaunt,11,43,Leer,1,13,
-342,crawdaunt,11,61,Bubble Beam,1,20,
-342,crawdaunt,11,106,Harden,1,1,2
-342,crawdaunt,11,106,Harden,1,7,
-342,crawdaunt,11,129,Swift,1,30,
-342,crawdaunt,11,145,Bubble,1,1,1
-342,crawdaunt,11,152,Crabhammer,1,44,
-342,crawdaunt,11,182,Protect,1,23,
-342,crawdaunt,11,242,Crunch,1,57,
-342,crawdaunt,11,269,Taunt,1,34,
-342,crawdaunt,11,282,Knock Off,1,26,
-342,crawdaunt,11,400,Night Slash,1,39,
-342,crawdaunt,12,11,Vice Grip,1,1,3
-342,crawdaunt,12,11,Vice Grip,1,10,
-342,crawdaunt,12,12,Guillotine,1,52,
-342,crawdaunt,12,14,Swords Dance,1,44,
-342,crawdaunt,12,43,Leer,1,1,4
-342,crawdaunt,12,43,Leer,1,13,
-342,crawdaunt,12,61,Bubble Beam,1,20,
-342,crawdaunt,12,106,Harden,1,1,2
-342,crawdaunt,12,106,Harden,1,7,
-342,crawdaunt,12,145,Bubble,1,1,1
-342,crawdaunt,12,152,Crabhammer,1,39,
-342,crawdaunt,12,182,Protect,1,23,
-342,crawdaunt,12,269,Taunt,1,34,
-342,crawdaunt,12,282,Knock Off,1,26,
-342,crawdaunt,13,11,Vice Grip,1,1,3
-342,crawdaunt,13,11,Vice Grip,1,10,
-342,crawdaunt,13,12,Guillotine,1,52,
-342,crawdaunt,13,14,Swords Dance,1,44,
-342,crawdaunt,13,43,Leer,1,1,4
-342,crawdaunt,13,43,Leer,1,13,
-342,crawdaunt,13,61,Bubble Beam,1,20,
-342,crawdaunt,13,106,Harden,1,1,2
-342,crawdaunt,13,106,Harden,1,7,
-342,crawdaunt,13,145,Bubble,1,1,1
-342,crawdaunt,13,152,Crabhammer,1,39,
-342,crawdaunt,13,182,Protect,1,23,
-342,crawdaunt,13,269,Taunt,1,34,
-342,crawdaunt,13,282,Knock Off,1,26,
-342,crawdaunt,14,11,Vice Grip,1,1,3
-342,crawdaunt,14,11,Vice Grip,1,10,
-342,crawdaunt,14,12,Guillotine,1,65,
-342,crawdaunt,14,14,Swords Dance,1,52,
-342,crawdaunt,14,43,Leer,1,1,4
-342,crawdaunt,14,43,Leer,1,13,
-342,crawdaunt,14,61,Bubble Beam,1,20,
-342,crawdaunt,14,106,Harden,1,1,2
-342,crawdaunt,14,106,Harden,1,7,
-342,crawdaunt,14,129,Swift,1,30,
-342,crawdaunt,14,145,Bubble,1,1,1
-342,crawdaunt,14,152,Crabhammer,1,44,
-342,crawdaunt,14,182,Protect,1,23,
-342,crawdaunt,14,242,Crunch,1,57,
-342,crawdaunt,14,269,Taunt,1,34,
-342,crawdaunt,14,282,Knock Off,1,26,
-342,crawdaunt,14,400,Night Slash,1,39,
-342,crawdaunt,15,11,Vice Grip,1,1,4
-342,crawdaunt,15,11,Vice Grip,1,10,
-342,crawdaunt,15,12,Guillotine,1,1,1
-342,crawdaunt,15,12,Guillotine,1,65,
-342,crawdaunt,15,14,Swords Dance,1,52,
-342,crawdaunt,15,43,Leer,1,1,5
-342,crawdaunt,15,43,Leer,1,13,
-342,crawdaunt,15,61,Bubble Beam,1,20,
-342,crawdaunt,15,106,Harden,1,1,3
-342,crawdaunt,15,106,Harden,1,7,
-342,crawdaunt,15,129,Swift,1,30,
-342,crawdaunt,15,145,Bubble,1,1,2
-342,crawdaunt,15,152,Crabhammer,1,44,
-342,crawdaunt,15,182,Protect,1,23,
-342,crawdaunt,15,242,Crunch,1,57,
-342,crawdaunt,15,269,Taunt,1,34,
-342,crawdaunt,15,282,Knock Off,1,26,
-342,crawdaunt,15,400,Night Slash,1,39,
-342,crawdaunt,16,11,Vice Grip,1,1,3
-342,crawdaunt,16,11,Vice Grip,1,7,1
-342,crawdaunt,16,12,Guillotine,1,54,1
-342,crawdaunt,16,14,Swords Dance,1,40,1
-342,crawdaunt,16,43,Leer,1,1,4
-342,crawdaunt,16,43,Leer,1,10,1
-342,crawdaunt,16,61,Bubble Beam,1,14,1
-342,crawdaunt,16,106,Harden,1,1,2
-342,crawdaunt,16,106,Harden,1,5,1
-342,crawdaunt,16,129,Swift,1,30,1
-342,crawdaunt,16,145,Bubble,1,1,1
-342,crawdaunt,16,152,Crabhammer,1,48,1
-342,crawdaunt,16,182,Protect,1,17,1
-342,crawdaunt,16,242,Crunch,1,43,1
-342,crawdaunt,16,269,Taunt,1,36,1
-342,crawdaunt,16,282,Knock Off,1,23,1
-342,crawdaunt,16,400,Night Slash,1,26,1
-342,crawdaunt,16,458,Double Hit,1,20,1
-342,crawdaunt,16,534,Razor Shell,1,32,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+342,5,Vice Grip,1,normal,55,100
+342,5,Leer,1,normal,-,100
+342,5,Harden,1,normal,-,-
+342,5,Bubble,1,water,40,100
+342,6,Vice Grip,1,normal,55,100
+342,6,Leer,1,normal,-,100
+342,6,Harden,1,normal,-,-
+342,6,Bubble,1,water,40,100
+342,7,Vice Grip,1,normal,55,100
+342,7,Leer,1,normal,-,100
+342,7,Harden,1,normal,-,-
+342,7,Bubble,1,water,40,100
+342,8,Vice Grip,1,normal,55,100
+342,8,Leer,1,normal,-,100
+342,8,Harden,1,normal,-,-
+342,8,Bubble,1,water,40,100
+342,9,Vice Grip,1,normal,55,100
+342,9,Leer,1,normal,-,100
+342,9,Harden,1,normal,-,-
+342,9,Bubble,1,water,40,100
+342,10,Vice Grip,1,normal,55,100
+342,10,Leer,1,normal,-,100
+342,10,Harden,1,normal,-,-
+342,10,Bubble,1,water,40,100
+342,11,Vice Grip,1,normal,55,100
+342,11,Leer,1,normal,-,100
+342,11,Harden,1,normal,-,-
+342,11,Bubble,1,water,40,100
+342,12,Vice Grip,1,normal,55,100
+342,12,Leer,1,normal,-,100
+342,12,Harden,1,normal,-,-
+342,12,Bubble,1,water,40,100
+342,13,Vice Grip,1,normal,55,100
+342,13,Leer,1,normal,-,100
+342,13,Harden,1,normal,-,-
+342,13,Bubble,1,water,40,100
+342,14,Vice Grip,1,normal,55,100
+342,14,Leer,1,normal,-,100
+342,14,Harden,1,normal,-,-
+342,14,Bubble,1,water,40,100
+342,15,Vice Grip,1,normal,55,100
+342,15,Guillotine,1,normal,-,30
+342,15,Leer,1,normal,-,100
+342,15,Harden,1,normal,-,-
+342,15,Bubble,1,water,40,100
+342,16,Vice Grip,1,normal,55,100
+342,16,Leer,1,normal,-,100
+342,16,Harden,1,normal,-,-
+342,16,Bubble,1,water,40,100
+342,16,Harden,5,normal,-,-
+342,5,Harden,7,normal,-,-
+342,6,Harden,7,normal,-,-
+342,7,Harden,7,normal,-,-
+342,8,Harden,7,normal,-,-
+342,9,Harden,7,normal,-,-
+342,10,Harden,7,normal,-,-
+342,11,Harden,7,normal,-,-
+342,12,Harden,7,normal,-,-
+342,13,Harden,7,normal,-,-
+342,14,Harden,7,normal,-,-
+342,15,Harden,7,normal,-,-
+342,16,Vice Grip,7,normal,55,100
+342,5,Vice Grip,10,normal,55,100
+342,6,Vice Grip,10,normal,55,100
+342,7,Vice Grip,10,normal,55,100
+342,8,Vice Grip,10,normal,55,100
+342,9,Vice Grip,10,normal,55,100
+342,10,Vice Grip,10,normal,55,100
+342,11,Vice Grip,10,normal,55,100
+342,12,Vice Grip,10,normal,55,100
+342,13,Vice Grip,10,normal,55,100
+342,14,Vice Grip,10,normal,55,100
+342,15,Vice Grip,10,normal,55,100
+342,16,Leer,10,normal,-,100
+342,5,Leer,13,normal,-,100
+342,6,Leer,13,normal,-,100
+342,7,Leer,13,normal,-,100
+342,8,Leer,13,normal,-,100
+342,9,Leer,13,normal,-,100
+342,10,Leer,13,normal,-,100
+342,11,Leer,13,normal,-,100
+342,12,Leer,13,normal,-,100
+342,13,Leer,13,normal,-,100
+342,14,Leer,13,normal,-,100
+342,15,Leer,13,normal,-,100
+342,16,Bubble Beam,14,water,65,100
+342,16,Protect,17,normal,-,-
+342,7,Bubble Beam,19,water,65,100
+342,5,Bubble Beam,20,water,65,100
+342,6,Bubble Beam,20,water,65,100
+342,8,Bubble Beam,20,water,65,100
+342,9,Bubble Beam,20,water,65,100
+342,10,Bubble Beam,20,water,65,100
+342,11,Bubble Beam,20,water,65,100
+342,12,Bubble Beam,20,water,65,100
+342,13,Bubble Beam,20,water,65,100
+342,14,Bubble Beam,20,water,65,100
+342,15,Bubble Beam,20,water,65,100
+342,16,Double Hit,20,normal,35,90
+342,7,Protect,22,normal,-,-
+342,5,Protect,23,normal,-,-
+342,6,Protect,23,normal,-,-
+342,8,Protect,23,normal,-,-
+342,9,Protect,23,normal,-,-
+342,10,Protect,23,normal,-,-
+342,11,Protect,23,normal,-,-
+342,12,Protect,23,normal,-,-
+342,13,Protect,23,normal,-,-
+342,14,Protect,23,normal,-,-
+342,15,Protect,23,normal,-,-
+342,16,Knock Off,23,dark,65,100
+342,7,Knock Off,25,dark,65,100
+342,5,Knock Off,26,dark,65,100
+342,6,Knock Off,26,dark,65,100
+342,8,Knock Off,26,dark,65,100
+342,9,Knock Off,26,dark,65,100
+342,10,Knock Off,26,dark,65,100
+342,11,Knock Off,26,dark,65,100
+342,12,Knock Off,26,dark,65,100
+342,13,Knock Off,26,dark,65,100
+342,14,Knock Off,26,dark,65,100
+342,15,Knock Off,26,dark,65,100
+342,16,Night Slash,26,dark,70,100
+342,8,Swift,30,normal,60,-
+342,9,Swift,30,normal,60,-
+342,10,Swift,30,normal,60,-
+342,11,Swift,30,normal,60,-
+342,14,Swift,30,normal,60,-
+342,15,Swift,30,normal,60,-
+342,16,Swift,30,normal,60,-
+342,16,Razor Shell,32,water,75,95
+342,7,Taunt,33,dark,-,100
+342,5,Taunt,34,dark,-,100
+342,6,Taunt,34,dark,-,100
+342,8,Taunt,34,dark,-,100
+342,9,Taunt,34,dark,-,100
+342,10,Taunt,34,dark,-,100
+342,11,Taunt,34,dark,-,100
+342,12,Taunt,34,dark,-,100
+342,13,Taunt,34,dark,-,100
+342,14,Taunt,34,dark,-,100
+342,15,Taunt,34,dark,-,100
+342,16,Taunt,36,dark,-,100
+342,7,Crabhammer,38,water,100,90
+342,5,Crabhammer,39,water,100,90
+342,6,Crabhammer,39,water,100,90
+342,8,Night Slash,39,dark,70,100
+342,9,Night Slash,39,dark,70,100
+342,10,Night Slash,39,dark,70,100
+342,11,Night Slash,39,dark,70,100
+342,12,Crabhammer,39,water,100,90
+342,13,Crabhammer,39,water,100,90
+342,14,Night Slash,39,dark,70,100
+342,15,Night Slash,39,dark,70,100
+342,16,Swords Dance,40,normal,-,-
+342,7,Swords Dance,43,normal,-,-
+342,16,Crunch,43,dark,80,100
+342,5,Swords Dance,44,normal,-,-
+342,6,Swords Dance,44,normal,-,-
+342,8,Crabhammer,44,water,100,90
+342,9,Crabhammer,44,water,100,90
+342,10,Crabhammer,44,water,100,90
+342,11,Crabhammer,44,water,100,90
+342,12,Swords Dance,44,normal,-,-
+342,13,Swords Dance,44,normal,-,-
+342,14,Crabhammer,44,water,100,90
+342,15,Crabhammer,44,water,100,90
+342,16,Crabhammer,48,water,100,90
+342,7,Crunch,51,dark,80,100
+342,5,Guillotine,52,normal,-,30
+342,6,Guillotine,52,normal,-,30
+342,8,Swords Dance,52,normal,-,-
+342,9,Swords Dance,52,normal,-,-
+342,10,Swords Dance,52,normal,-,-
+342,11,Swords Dance,52,normal,-,-
+342,12,Guillotine,52,normal,-,30
+342,13,Guillotine,52,normal,-,30
+342,14,Swords Dance,52,normal,-,-
+342,15,Swords Dance,52,normal,-,-
+342,16,Guillotine,54,normal,-,30
+342,7,Guillotine,56,normal,-,30
+342,8,Crunch,57,dark,80,100
+342,9,Crunch,57,dark,80,100
+342,10,Crunch,57,dark,80,100
+342,11,Crunch,57,dark,80,100
+342,14,Crunch,57,dark,80,100
+342,15,Crunch,57,dark,80,100
+342,8,Guillotine,65,normal,-,30
+342,9,Guillotine,65,normal,-,30
+342,10,Guillotine,65,normal,-,30
+342,11,Guillotine,65,normal,-,30
+342,14,Guillotine,65,normal,-,30
+342,15,Guillotine,65,normal,-,30

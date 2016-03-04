@@ -1,64 +1,64 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-531,audino,11,1,Pound,1,1,1
-531,audino,11,3,Double Slap,1,10,
-531,audino,11,36,Take Down,1,30,
-531,audino,11,38,Double-Edge,1,50,
-531,audino,11,45,Growl,1,1,2
-531,audino,11,213,Attract,1,15,
-531,audino,11,270,Helping Hand,1,1,3
-531,audino,11,287,Refresh,1,5,
-531,audino,11,290,Secret Power,1,20,
-531,audino,11,387,Last Resort,1,55,
-531,audino,11,493,Simple Beam,1,45,
-531,audino,11,494,Entrainment,1,25,
-531,audino,11,495,After You,1,40,
-531,audino,11,505,Heal Pulse,1,35,
-531,audino,14,1,Pound,1,1,1
-531,audino,14,3,Double Slap,1,10,
-531,audino,14,36,Take Down,1,30,
-531,audino,14,38,Double-Edge,1,50,
-531,audino,14,45,Growl,1,1,2
-531,audino,14,213,Attract,1,15,
-531,audino,14,270,Helping Hand,1,1,3
-531,audino,14,287,Refresh,1,5,
-531,audino,14,290,Secret Power,1,20,
-531,audino,14,387,Last Resort,1,55,
-531,audino,14,493,Simple Beam,1,45,
-531,audino,14,494,Entrainment,1,25,
-531,audino,14,495,After You,1,40,
-531,audino,14,505,Heal Pulse,1,35,
-531,audino,15,1,Pound,1,1,3
-531,audino,15,3,Double Slap,1,10,
-531,audino,15,36,Take Down,1,30,
-531,audino,15,38,Double-Edge,1,50,
-531,audino,15,45,Growl,1,1,4
-531,audino,15,213,Attract,1,15,
-531,audino,15,270,Helping Hand,1,1,5
-531,audino,15,287,Refresh,1,5,
-531,audino,15,290,Secret Power,1,20,
-531,audino,15,387,Last Resort,1,1,1
-531,audino,15,387,Last Resort,1,55,
-531,audino,15,493,Simple Beam,1,45,
-531,audino,15,494,Entrainment,1,25,
-531,audino,15,495,After You,1,40,
-531,audino,15,505,Heal Pulse,1,35,
-531,audino,15,589,Play Nice,1,1,2
-531,audino,16,1,Pound,1,1,4
-531,audino,16,3,Double Slap,1,17,1
-531,audino,16,36,Take Down,1,33,1
-531,audino,16,38,Double-Edge,1,49,1
-531,audino,16,45,Growl,1,1,5
-531,audino,16,213,Attract,1,21,1
-531,audino,16,270,Helping Hand,1,1,6
-531,audino,16,287,Refresh,1,9,1
-531,audino,16,290,Secret Power,1,25,1
-531,audino,16,387,Last Resort,1,1,1
-531,audino,16,387,Last Resort,1,53,1
-531,audino,16,493,Simple Beam,1,45,1
-531,audino,16,494,Entrainment,1,29,1
-531,audino,16,495,After You,1,41,1
-531,audino,16,505,Heal Pulse,1,37,1
-531,audino,16,574,Disarming Voice,1,13,1
-531,audino,16,581,Misty Terrain,1,1,2
-531,audino,16,589,Play Nice,1,1,3
-531,audino,16,608,Baby-Doll Eyes,1,5,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+531,11,Pound,1,normal,40,100
+531,11,Growl,1,normal,-,100
+531,11,Helping Hand,1,normal,-,-
+531,14,Pound,1,normal,40,100
+531,14,Growl,1,normal,-,100
+531,14,Helping Hand,1,normal,-,-
+531,15,Pound,1,normal,40,100
+531,15,Growl,1,normal,-,100
+531,15,Helping Hand,1,normal,-,-
+531,15,Last Resort,1,normal,140,100
+531,15,Play Nice,1,normal,-,-
+531,16,Pound,1,normal,40,100
+531,16,Growl,1,normal,-,100
+531,16,Helping Hand,1,normal,-,-
+531,16,Last Resort,1,normal,140,100
+531,16,Misty Terrain,1,fairy,-,-
+531,16,Play Nice,1,normal,-,-
+531,11,Refresh,5,normal,-,-
+531,14,Refresh,5,normal,-,-
+531,15,Refresh,5,normal,-,-
+531,16,Baby-Doll Eyes,5,fairy,-,100
+531,16,Refresh,9,normal,-,-
+531,11,Double Slap,10,normal,15,85
+531,14,Double Slap,10,normal,15,85
+531,15,Double Slap,10,normal,15,85
+531,16,Disarming Voice,13,fairy,40,-
+531,11,Attract,15,normal,-,100
+531,14,Attract,15,normal,-,100
+531,15,Attract,15,normal,-,100
+531,16,Double Slap,17,normal,15,85
+531,11,Secret Power,20,normal,70,100
+531,14,Secret Power,20,normal,70,100
+531,15,Secret Power,20,normal,70,100
+531,16,Attract,21,normal,-,100
+531,11,Entrainment,25,normal,-,100
+531,14,Entrainment,25,normal,-,100
+531,15,Entrainment,25,normal,-,100
+531,16,Secret Power,25,normal,70,100
+531,16,Entrainment,29,normal,-,100
+531,11,Take Down,30,normal,90,85
+531,14,Take Down,30,normal,90,85
+531,15,Take Down,30,normal,90,85
+531,16,Take Down,33,normal,90,85
+531,11,Heal Pulse,35,psychic,-,-
+531,14,Heal Pulse,35,psychic,-,-
+531,15,Heal Pulse,35,psychic,-,-
+531,16,Heal Pulse,37,psychic,-,-
+531,11,After You,40,normal,-,-
+531,14,After You,40,normal,-,-
+531,15,After You,40,normal,-,-
+531,16,After You,41,normal,-,-
+531,11,Simple Beam,45,normal,-,100
+531,14,Simple Beam,45,normal,-,100
+531,15,Simple Beam,45,normal,-,100
+531,16,Simple Beam,45,normal,-,100
+531,16,Double-Edge,49,normal,120,100
+531,11,Double-Edge,50,normal,120,100
+531,14,Double-Edge,50,normal,120,100
+531,15,Double-Edge,50,normal,120,100
+531,16,Last Resort,53,normal,140,100
+531,11,Last Resort,55,normal,140,100
+531,14,Last Resort,55,normal,140,100
+531,15,Last Resort,55,normal,140,100

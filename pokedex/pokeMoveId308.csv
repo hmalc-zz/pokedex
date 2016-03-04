@@ -1,235 +1,235 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-308,medicham,5,7,Fire Punch,1,1,1
-308,medicham,5,8,Ice Punch,1,1,3
-308,medicham,5,9,Thunder Punch,1,1,2
-308,medicham,5,93,Confusion,1,1,6
-308,medicham,5,93,Confusion,1,9,
-308,medicham,5,96,Meditate,1,1,5
-308,medicham,5,96,Meditate,1,4,
-308,medicham,5,105,Recover,1,54,
-308,medicham,5,117,Bide,1,1,4
-308,medicham,5,136,High Jump Kick,1,32,
-308,medicham,5,170,Mind Reader,1,22,
-308,medicham,5,179,Reversal,1,46,
-308,medicham,5,197,Detect,1,1,7
-308,medicham,5,197,Detect,1,12,
-308,medicham,5,237,Hidden Power,1,18,
-308,medicham,5,244,Psych Up,1,40,
-308,medicham,5,347,Calm Mind,1,28,
-308,medicham,6,7,Fire Punch,1,1,1
-308,medicham,6,8,Ice Punch,1,1,3
-308,medicham,6,9,Thunder Punch,1,1,2
-308,medicham,6,93,Confusion,1,1,6
-308,medicham,6,93,Confusion,1,9,
-308,medicham,6,96,Meditate,1,1,5
-308,medicham,6,96,Meditate,1,4,
-308,medicham,6,105,Recover,1,54,
-308,medicham,6,117,Bide,1,1,4
-308,medicham,6,136,High Jump Kick,1,32,
-308,medicham,6,170,Mind Reader,1,22,
-308,medicham,6,179,Reversal,1,46,
-308,medicham,6,197,Detect,1,1,7
-308,medicham,6,197,Detect,1,12,
-308,medicham,6,237,Hidden Power,1,18,
-308,medicham,6,244,Psych Up,1,40,
-308,medicham,6,347,Calm Mind,1,28,
-308,medicham,7,7,Fire Punch,1,1,1
-308,medicham,7,8,Ice Punch,1,1,3
-308,medicham,7,9,Thunder Punch,1,1,2
-308,medicham,7,93,Confusion,1,1,6
-308,medicham,7,93,Confusion,1,9,
-308,medicham,7,96,Meditate,1,1,5
-308,medicham,7,96,Meditate,1,4,
-308,medicham,7,105,Recover,1,56,
-308,medicham,7,117,Bide,1,1,4
-308,medicham,7,136,High Jump Kick,1,33,
-308,medicham,7,170,Mind Reader,1,25,
-308,medicham,7,179,Reversal,1,47,
-308,medicham,7,197,Detect,1,1,7
-308,medicham,7,197,Detect,1,12,
-308,medicham,7,207,Swagger,1,20,
-308,medicham,7,237,Hidden Power,1,17,
-308,medicham,7,244,Psych Up,1,36,
-308,medicham,7,347,Calm Mind,1,28,
-308,medicham,8,7,Fire Punch,1,1,1
-308,medicham,8,8,Ice Punch,1,1,3
-308,medicham,8,9,Thunder Punch,1,1,2
-308,medicham,8,93,Confusion,1,1,6
-308,medicham,8,93,Confusion,1,8,
-308,medicham,8,96,Meditate,1,1,5
-308,medicham,8,96,Meditate,1,4,
-308,medicham,8,105,Recover,1,55,
-308,medicham,8,117,Bide,1,1,4
-308,medicham,8,136,High Jump Kick,1,32,
-308,medicham,8,170,Mind Reader,1,18,
-308,medicham,8,179,Reversal,1,49,
-308,medicham,8,197,Detect,1,1,7
-308,medicham,8,197,Detect,1,11,
-308,medicham,8,237,Hidden Power,1,15,
-308,medicham,8,244,Psych Up,1,36,
-308,medicham,8,347,Calm Mind,1,25,
-308,medicham,8,364,Feint,1,22,
-308,medicham,8,379,Power Trick,1,42,
-308,medicham,8,395,Force Palm,1,29,
-308,medicham,9,7,Fire Punch,1,1,1
-308,medicham,9,8,Ice Punch,1,1,3
-308,medicham,9,9,Thunder Punch,1,1,2
-308,medicham,9,93,Confusion,1,1,6
-308,medicham,9,93,Confusion,1,8,
-308,medicham,9,96,Meditate,1,1,5
-308,medicham,9,96,Meditate,1,4,
-308,medicham,9,105,Recover,1,55,
-308,medicham,9,117,Bide,1,1,4
-308,medicham,9,136,High Jump Kick,1,32,
-308,medicham,9,170,Mind Reader,1,18,
-308,medicham,9,179,Reversal,1,49,
-308,medicham,9,197,Detect,1,1,7
-308,medicham,9,197,Detect,1,11,
-308,medicham,9,237,Hidden Power,1,15,
-308,medicham,9,244,Psych Up,1,36,
-308,medicham,9,347,Calm Mind,1,25,
-308,medicham,9,364,Feint,1,22,
-308,medicham,9,379,Power Trick,1,42,
-308,medicham,9,395,Force Palm,1,29,
-308,medicham,10,7,Fire Punch,1,1,1
-308,medicham,10,8,Ice Punch,1,1,3
-308,medicham,10,9,Thunder Punch,1,1,2
-308,medicham,10,93,Confusion,1,1,6
-308,medicham,10,93,Confusion,1,8,
-308,medicham,10,96,Meditate,1,1,5
-308,medicham,10,96,Meditate,1,4,
-308,medicham,10,105,Recover,1,55,
-308,medicham,10,117,Bide,1,1,4
-308,medicham,10,136,High Jump Kick,1,32,
-308,medicham,10,170,Mind Reader,1,18,
-308,medicham,10,179,Reversal,1,49,
-308,medicham,10,197,Detect,1,1,7
-308,medicham,10,197,Detect,1,11,
-308,medicham,10,237,Hidden Power,1,15,
-308,medicham,10,244,Psych Up,1,36,
-308,medicham,10,347,Calm Mind,1,25,
-308,medicham,10,364,Feint,1,22,
-308,medicham,10,379,Power Trick,1,42,
-308,medicham,10,395,Force Palm,1,29,
-308,medicham,11,7,Fire Punch,1,1,1
-308,medicham,11,8,Ice Punch,1,1,3
-308,medicham,11,9,Thunder Punch,1,1,2
-308,medicham,11,93,Confusion,1,1,6
-308,medicham,11,93,Confusion,1,8,
-308,medicham,11,96,Meditate,1,1,5
-308,medicham,11,96,Meditate,1,4,
-308,medicham,11,105,Recover,1,62,
-308,medicham,11,117,Bide,1,1,4
-308,medicham,11,136,High Jump Kick,1,32,
-308,medicham,11,170,Mind Reader,1,18,
-308,medicham,11,179,Reversal,1,55,
-308,medicham,11,197,Detect,1,1,7
-308,medicham,11,197,Detect,1,11,
-308,medicham,11,237,Hidden Power,1,15,
-308,medicham,11,244,Psych Up,1,36,
-308,medicham,11,347,Calm Mind,1,25,
-308,medicham,11,364,Feint,1,22,
-308,medicham,11,367,Acupressure,1,42,
-308,medicham,11,379,Power Trick,1,49,
-308,medicham,11,395,Force Palm,1,29,
-308,medicham,12,7,Fire Punch,1,1,1
-308,medicham,12,8,Ice Punch,1,1,3
-308,medicham,12,9,Thunder Punch,1,1,2
-308,medicham,12,93,Confusion,1,1,6
-308,medicham,12,93,Confusion,1,9,
-308,medicham,12,96,Meditate,1,1,5
-308,medicham,12,96,Meditate,1,4,
-308,medicham,12,105,Recover,1,54,
-308,medicham,12,117,Bide,1,1,4
-308,medicham,12,136,High Jump Kick,1,32,
-308,medicham,12,170,Mind Reader,1,22,
-308,medicham,12,179,Reversal,1,46,
-308,medicham,12,197,Detect,1,1,7
-308,medicham,12,197,Detect,1,12,
-308,medicham,12,237,Hidden Power,1,18,
-308,medicham,12,244,Psych Up,1,40,
-308,medicham,12,347,Calm Mind,1,28,
-308,medicham,13,7,Fire Punch,1,1,1
-308,medicham,13,8,Ice Punch,1,1,3
-308,medicham,13,9,Thunder Punch,1,1,2
-308,medicham,13,93,Confusion,1,1,6
-308,medicham,13,93,Confusion,1,9,
-308,medicham,13,96,Meditate,1,1,5
-308,medicham,13,96,Meditate,1,4,
-308,medicham,13,105,Recover,1,54,
-308,medicham,13,117,Bide,1,1,4
-308,medicham,13,136,High Jump Kick,1,32,
-308,medicham,13,170,Mind Reader,1,22,
-308,medicham,13,179,Reversal,1,46,
-308,medicham,13,197,Detect,1,1,7
-308,medicham,13,197,Detect,1,12,
-308,medicham,13,237,Hidden Power,1,18,
-308,medicham,13,244,Psych Up,1,40,
-308,medicham,13,347,Calm Mind,1,28,
-308,medicham,14,7,Fire Punch,1,1,1
-308,medicham,14,8,Ice Punch,1,1,3
-308,medicham,14,9,Thunder Punch,1,1,2
-308,medicham,14,93,Confusion,1,1,6
-308,medicham,14,93,Confusion,1,8,
-308,medicham,14,96,Meditate,1,1,5
-308,medicham,14,96,Meditate,1,4,
-308,medicham,14,105,Recover,1,62,
-308,medicham,14,117,Bide,1,1,4
-308,medicham,14,136,High Jump Kick,1,32,
-308,medicham,14,170,Mind Reader,1,18,
-308,medicham,14,179,Reversal,1,55,
-308,medicham,14,197,Detect,1,1,7
-308,medicham,14,197,Detect,1,11,
-308,medicham,14,237,Hidden Power,1,15,
-308,medicham,14,244,Psych Up,1,36,
-308,medicham,14,347,Calm Mind,1,25,
-308,medicham,14,364,Feint,1,22,
-308,medicham,14,367,Acupressure,1,42,
-308,medicham,14,379,Power Trick,1,49,
-308,medicham,14,395,Force Palm,1,29,
-308,medicham,15,7,Fire Punch,1,1,2
-308,medicham,15,8,Ice Punch,1,1,4
-308,medicham,15,9,Thunder Punch,1,1,3
-308,medicham,15,93,Confusion,1,1,7
-308,medicham,15,93,Confusion,1,8,
-308,medicham,15,96,Meditate,1,1,6
-308,medicham,15,96,Meditate,1,4,
-308,medicham,15,105,Recover,1,62,
-308,medicham,15,117,Bide,1,1,5
-308,medicham,15,136,High Jump Kick,1,32,
-308,medicham,15,170,Mind Reader,1,18,
-308,medicham,15,179,Reversal,1,55,
-308,medicham,15,197,Detect,1,1,8
-308,medicham,15,197,Detect,1,11,
-308,medicham,15,237,Hidden Power,1,15,
-308,medicham,15,244,Psych Up,1,36,
-308,medicham,15,347,Calm Mind,1,25,
-308,medicham,15,364,Feint,1,22,
-308,medicham,15,367,Acupressure,1,42,
-308,medicham,15,379,Power Trick,1,49,
-308,medicham,15,395,Force Palm,1,29,
-308,medicham,15,428,Zen Headbutt,1,1,1
-308,medicham,16,7,Fire Punch,1,1,2
-308,medicham,16,8,Ice Punch,1,1,4
-308,medicham,16,9,Thunder Punch,1,1,3
-308,medicham,16,68,Counter,1,53,1
-308,medicham,16,93,Confusion,1,1,7
-308,medicham,16,93,Confusion,1,7,1
-308,medicham,16,96,Meditate,1,1,6
-308,medicham,16,96,Meditate,1,4,1
-308,medicham,16,105,Recover,1,47,1
-308,medicham,16,117,Bide,1,1,5
-308,medicham,16,136,High Jump Kick,1,28,1
-308,medicham,16,170,Mind Reader,1,25,1
-308,medicham,16,179,Reversal,1,42,1
-308,medicham,16,197,Detect,1,1,8
-308,medicham,16,197,Detect,1,9,1
-308,medicham,16,203,Endure,1,12,1
-308,medicham,16,237,Hidden Power,1,20,1
-308,medicham,16,244,Psych Up,1,31,1
-308,medicham,16,347,Calm Mind,1,23,1
-308,medicham,16,364,Feint,1,15,1
-308,medicham,16,367,Acupressure,1,33,1
-308,medicham,16,379,Power Trick,1,36,1
-308,medicham,16,395,Force Palm,1,17,1
-308,medicham,16,428,Zen Headbutt,1,1,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+308,5,Fire Punch,1,fire,75,100
+308,5,Ice Punch,1,ice,75,100
+308,5,Thunder Punch,1,electric,75,100
+308,5,Confusion,1,psychic,50,100
+308,5,Meditate,1,psychic,-,-
+308,5,Bide,1,normal,-,-
+308,5,Detect,1,fighting,-,-
+308,6,Fire Punch,1,fire,75,100
+308,6,Ice Punch,1,ice,75,100
+308,6,Thunder Punch,1,electric,75,100
+308,6,Confusion,1,psychic,50,100
+308,6,Meditate,1,psychic,-,-
+308,6,Bide,1,normal,-,-
+308,6,Detect,1,fighting,-,-
+308,7,Fire Punch,1,fire,75,100
+308,7,Ice Punch,1,ice,75,100
+308,7,Thunder Punch,1,electric,75,100
+308,7,Confusion,1,psychic,50,100
+308,7,Meditate,1,psychic,-,-
+308,7,Bide,1,normal,-,-
+308,7,Detect,1,fighting,-,-
+308,8,Fire Punch,1,fire,75,100
+308,8,Ice Punch,1,ice,75,100
+308,8,Thunder Punch,1,electric,75,100
+308,8,Confusion,1,psychic,50,100
+308,8,Meditate,1,psychic,-,-
+308,8,Bide,1,normal,-,-
+308,8,Detect,1,fighting,-,-
+308,9,Fire Punch,1,fire,75,100
+308,9,Ice Punch,1,ice,75,100
+308,9,Thunder Punch,1,electric,75,100
+308,9,Confusion,1,psychic,50,100
+308,9,Meditate,1,psychic,-,-
+308,9,Bide,1,normal,-,-
+308,9,Detect,1,fighting,-,-
+308,10,Fire Punch,1,fire,75,100
+308,10,Ice Punch,1,ice,75,100
+308,10,Thunder Punch,1,electric,75,100
+308,10,Confusion,1,psychic,50,100
+308,10,Meditate,1,psychic,-,-
+308,10,Bide,1,normal,-,-
+308,10,Detect,1,fighting,-,-
+308,11,Fire Punch,1,fire,75,100
+308,11,Ice Punch,1,ice,75,100
+308,11,Thunder Punch,1,electric,75,100
+308,11,Confusion,1,psychic,50,100
+308,11,Meditate,1,psychic,-,-
+308,11,Bide,1,normal,-,-
+308,11,Detect,1,fighting,-,-
+308,12,Fire Punch,1,fire,75,100
+308,12,Ice Punch,1,ice,75,100
+308,12,Thunder Punch,1,electric,75,100
+308,12,Confusion,1,psychic,50,100
+308,12,Meditate,1,psychic,-,-
+308,12,Bide,1,normal,-,-
+308,12,Detect,1,fighting,-,-
+308,13,Fire Punch,1,fire,75,100
+308,13,Ice Punch,1,ice,75,100
+308,13,Thunder Punch,1,electric,75,100
+308,13,Confusion,1,psychic,50,100
+308,13,Meditate,1,psychic,-,-
+308,13,Bide,1,normal,-,-
+308,13,Detect,1,fighting,-,-
+308,14,Fire Punch,1,fire,75,100
+308,14,Ice Punch,1,ice,75,100
+308,14,Thunder Punch,1,electric,75,100
+308,14,Confusion,1,psychic,50,100
+308,14,Meditate,1,psychic,-,-
+308,14,Bide,1,normal,-,-
+308,14,Detect,1,fighting,-,-
+308,15,Fire Punch,1,fire,75,100
+308,15,Ice Punch,1,ice,75,100
+308,15,Thunder Punch,1,electric,75,100
+308,15,Confusion,1,psychic,50,100
+308,15,Meditate,1,psychic,-,-
+308,15,Bide,1,normal,-,-
+308,15,Detect,1,fighting,-,-
+308,15,Zen Headbutt,1,psychic,80,90
+308,16,Fire Punch,1,fire,75,100
+308,16,Ice Punch,1,ice,75,100
+308,16,Thunder Punch,1,electric,75,100
+308,16,Confusion,1,psychic,50,100
+308,16,Meditate,1,psychic,-,-
+308,16,Bide,1,normal,-,-
+308,16,Detect,1,fighting,-,-
+308,16,Zen Headbutt,1,psychic,80,90
+308,5,Meditate,4,psychic,-,-
+308,6,Meditate,4,psychic,-,-
+308,7,Meditate,4,psychic,-,-
+308,8,Meditate,4,psychic,-,-
+308,9,Meditate,4,psychic,-,-
+308,10,Meditate,4,psychic,-,-
+308,11,Meditate,4,psychic,-,-
+308,12,Meditate,4,psychic,-,-
+308,13,Meditate,4,psychic,-,-
+308,14,Meditate,4,psychic,-,-
+308,15,Meditate,4,psychic,-,-
+308,16,Meditate,4,psychic,-,-
+308,16,Confusion,7,psychic,50,100
+308,8,Confusion,8,psychic,50,100
+308,9,Confusion,8,psychic,50,100
+308,10,Confusion,8,psychic,50,100
+308,11,Confusion,8,psychic,50,100
+308,14,Confusion,8,psychic,50,100
+308,15,Confusion,8,psychic,50,100
+308,5,Confusion,9,psychic,50,100
+308,6,Confusion,9,psychic,50,100
+308,7,Confusion,9,psychic,50,100
+308,12,Confusion,9,psychic,50,100
+308,13,Confusion,9,psychic,50,100
+308,16,Detect,9,fighting,-,-
+308,8,Detect,11,fighting,-,-
+308,9,Detect,11,fighting,-,-
+308,10,Detect,11,fighting,-,-
+308,11,Detect,11,fighting,-,-
+308,14,Detect,11,fighting,-,-
+308,15,Detect,11,fighting,-,-
+308,5,Detect,12,fighting,-,-
+308,6,Detect,12,fighting,-,-
+308,7,Detect,12,fighting,-,-
+308,12,Detect,12,fighting,-,-
+308,13,Detect,12,fighting,-,-
+308,16,Endure,12,normal,-,-
+308,8,Hidden Power,15,normal,60,100
+308,9,Hidden Power,15,normal,60,100
+308,10,Hidden Power,15,normal,60,100
+308,11,Hidden Power,15,normal,60,100
+308,14,Hidden Power,15,normal,60,100
+308,15,Hidden Power,15,normal,60,100
+308,16,Feint,15,normal,30,100
+308,7,Hidden Power,17,normal,60,100
+308,16,Force Palm,17,fighting,60,100
+308,5,Hidden Power,18,normal,60,100
+308,6,Hidden Power,18,normal,60,100
+308,8,Mind Reader,18,normal,-,-
+308,9,Mind Reader,18,normal,-,-
+308,10,Mind Reader,18,normal,-,-
+308,11,Mind Reader,18,normal,-,-
+308,12,Hidden Power,18,normal,60,100
+308,13,Hidden Power,18,normal,60,100
+308,14,Mind Reader,18,normal,-,-
+308,15,Mind Reader,18,normal,-,-
+308,7,Swagger,20,normal,-,90
+308,16,Hidden Power,20,normal,60,100
+308,5,Mind Reader,22,normal,-,-
+308,6,Mind Reader,22,normal,-,-
+308,8,Feint,22,normal,30,100
+308,9,Feint,22,normal,30,100
+308,10,Feint,22,normal,30,100
+308,11,Feint,22,normal,30,100
+308,12,Mind Reader,22,normal,-,-
+308,13,Mind Reader,22,normal,-,-
+308,14,Feint,22,normal,30,100
+308,15,Feint,22,normal,30,100
+308,16,Calm Mind,23,psychic,-,-
+308,7,Mind Reader,25,normal,-,-
+308,8,Calm Mind,25,psychic,-,-
+308,9,Calm Mind,25,psychic,-,-
+308,10,Calm Mind,25,psychic,-,-
+308,11,Calm Mind,25,psychic,-,-
+308,14,Calm Mind,25,psychic,-,-
+308,15,Calm Mind,25,psychic,-,-
+308,16,Mind Reader,25,normal,-,-
+308,5,Calm Mind,28,psychic,-,-
+308,6,Calm Mind,28,psychic,-,-
+308,7,Calm Mind,28,psychic,-,-
+308,12,Calm Mind,28,psychic,-,-
+308,13,Calm Mind,28,psychic,-,-
+308,16,High Jump Kick,28,fighting,130,90
+308,8,Force Palm,29,fighting,60,100
+308,9,Force Palm,29,fighting,60,100
+308,10,Force Palm,29,fighting,60,100
+308,11,Force Palm,29,fighting,60,100
+308,14,Force Palm,29,fighting,60,100
+308,15,Force Palm,29,fighting,60,100
+308,16,Psych Up,31,normal,-,-
+308,5,High Jump Kick,32,fighting,130,90
+308,6,High Jump Kick,32,fighting,130,90
+308,8,High Jump Kick,32,fighting,130,90
+308,9,High Jump Kick,32,fighting,130,90
+308,10,High Jump Kick,32,fighting,130,90
+308,11,High Jump Kick,32,fighting,130,90
+308,12,High Jump Kick,32,fighting,130,90
+308,13,High Jump Kick,32,fighting,130,90
+308,14,High Jump Kick,32,fighting,130,90
+308,15,High Jump Kick,32,fighting,130,90
+308,7,High Jump Kick,33,fighting,130,90
+308,16,Acupressure,33,normal,-,-
+308,7,Psych Up,36,normal,-,-
+308,8,Psych Up,36,normal,-,-
+308,9,Psych Up,36,normal,-,-
+308,10,Psych Up,36,normal,-,-
+308,11,Psych Up,36,normal,-,-
+308,14,Psych Up,36,normal,-,-
+308,15,Psych Up,36,normal,-,-
+308,16,Power Trick,36,psychic,-,-
+308,5,Psych Up,40,normal,-,-
+308,6,Psych Up,40,normal,-,-
+308,12,Psych Up,40,normal,-,-
+308,13,Psych Up,40,normal,-,-
+308,8,Power Trick,42,psychic,-,-
+308,9,Power Trick,42,psychic,-,-
+308,10,Power Trick,42,psychic,-,-
+308,11,Acupressure,42,normal,-,-
+308,14,Acupressure,42,normal,-,-
+308,15,Acupressure,42,normal,-,-
+308,16,Reversal,42,fighting,-,100
+308,5,Reversal,46,fighting,-,100
+308,6,Reversal,46,fighting,-,100
+308,12,Reversal,46,fighting,-,100
+308,13,Reversal,46,fighting,-,100
+308,7,Reversal,47,fighting,-,100
+308,16,Recover,47,normal,-,-
+308,8,Reversal,49,fighting,-,100
+308,9,Reversal,49,fighting,-,100
+308,10,Reversal,49,fighting,-,100
+308,11,Power Trick,49,psychic,-,-
+308,14,Power Trick,49,psychic,-,-
+308,15,Power Trick,49,psychic,-,-
+308,16,Counter,53,fighting,-,100
+308,5,Recover,54,normal,-,-
+308,6,Recover,54,normal,-,-
+308,12,Recover,54,normal,-,-
+308,13,Recover,54,normal,-,-
+308,8,Recover,55,normal,-,-
+308,9,Recover,55,normal,-,-
+308,10,Recover,55,normal,-,-
+308,11,Reversal,55,fighting,-,100
+308,14,Reversal,55,fighting,-,100
+308,15,Reversal,55,fighting,-,100
+308,7,Recover,56,normal,-,-
+308,11,Recover,62,normal,-,-
+308,14,Recover,62,normal,-,-
+308,15,Recover,62,normal,-,-

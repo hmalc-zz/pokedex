@@ -1,33 +1,33 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-653,fennekin,15,10,Scratch,1,1,1
-653,fennekin,15,39,Tail Whip,1,1,2
-653,fennekin,15,52,Ember,1,5,
-653,fennekin,15,53,Flamethrower,1,35,
-653,fennekin,15,60,Psybeam,1,17,
-653,fennekin,15,83,Fire Spin,1,20,
-653,fennekin,15,94,Psychic,1,41,
-653,fennekin,15,113,Light Screen,1,27,
-653,fennekin,15,126,Fire Blast,1,48,
-653,fennekin,15,241,Sunny Day,1,43,
-653,fennekin,15,261,Will-O-Wisp,1,38,
-653,fennekin,15,336,Howl,1,11,
-653,fennekin,15,381,Lucky Chant,1,25,
-653,fennekin,15,473,Psyshock,1,31,
-653,fennekin,15,478,Magic Room,1,46,
-653,fennekin,15,488,Flame Charge,1,14,
-653,fennekin,16,10,Scratch,1,1,1
-653,fennekin,16,39,Tail Whip,1,1,2
-653,fennekin,16,52,Ember,1,5,1
-653,fennekin,16,53,Flamethrower,1,35,1
-653,fennekin,16,60,Psybeam,1,17,1
-653,fennekin,16,83,Fire Spin,1,20,1
-653,fennekin,16,94,Psychic,1,41,1
-653,fennekin,16,113,Light Screen,1,27,1
-653,fennekin,16,126,Fire Blast,1,48,1
-653,fennekin,16,241,Sunny Day,1,43,1
-653,fennekin,16,261,Will-O-Wisp,1,38,1
-653,fennekin,16,336,Howl,1,11,1
-653,fennekin,16,381,Lucky Chant,1,25,1
-653,fennekin,16,473,Psyshock,1,31,1
-653,fennekin,16,478,Magic Room,1,46,1
-653,fennekin,16,488,Flame Charge,1,14,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+653,15,Scratch,1,normal,40,100
+653,15,Tail Whip,1,normal,-,100
+653,16,Scratch,1,normal,40,100
+653,16,Tail Whip,1,normal,-,100
+653,15,Ember,5,fire,40,100
+653,16,Ember,5,fire,40,100
+653,15,Howl,11,normal,-,-
+653,16,Howl,11,normal,-,-
+653,15,Flame Charge,14,fire,50,100
+653,16,Flame Charge,14,fire,50,100
+653,15,Psybeam,17,psychic,65,100
+653,16,Psybeam,17,psychic,65,100
+653,15,Fire Spin,20,fire,35,85
+653,16,Fire Spin,20,fire,35,85
+653,15,Lucky Chant,25,normal,-,-
+653,16,Lucky Chant,25,normal,-,-
+653,15,Light Screen,27,psychic,-,-
+653,16,Light Screen,27,psychic,-,-
+653,15,Psyshock,31,psychic,80,100
+653,16,Psyshock,31,psychic,80,100
+653,15,Flamethrower,35,fire,90,100
+653,16,Flamethrower,35,fire,90,100
+653,15,Will-O-Wisp,38,fire,-,85
+653,16,Will-O-Wisp,38,fire,-,85
+653,15,Psychic,41,psychic,90,100
+653,16,Psychic,41,psychic,90,100
+653,15,Sunny Day,43,fire,-,-
+653,16,Sunny Day,43,fire,-,-
+653,15,Magic Room,46,psychic,-,-
+653,16,Magic Room,46,psychic,-,-
+653,15,Fire Blast,48,fire,110,85
+653,16,Fire Blast,48,fire,110,85

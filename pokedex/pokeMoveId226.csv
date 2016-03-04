@@ -1,194 +1,194 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-226,mantine,3,17,Wing Attack,1,40,
-226,mantine,3,33,Tackle,1,1,1
-226,mantine,3,36,Take Down,1,25,
-226,mantine,3,48,Supersonic,1,10,
-226,mantine,3,61,Bubble Beam,1,18,
-226,mantine,3,97,Agility,1,32,
-226,mantine,3,109,Confuse Ray,1,49,
-226,mantine,3,145,Bubble,1,1,2
-226,mantine,4,17,Wing Attack,1,40,
-226,mantine,4,33,Tackle,1,1,1
-226,mantine,4,36,Take Down,1,25,
-226,mantine,4,48,Supersonic,1,10,
-226,mantine,4,61,Bubble Beam,1,18,
-226,mantine,4,97,Agility,1,32,
-226,mantine,4,109,Confuse Ray,1,49,
-226,mantine,4,145,Bubble,1,1,2
-226,mantine,5,17,Wing Attack,1,36,
-226,mantine,5,33,Tackle,1,1,1
-226,mantine,5,36,Take Down,1,22,
-226,mantine,5,48,Supersonic,1,8,
-226,mantine,5,61,Bubble Beam,1,15,
-226,mantine,5,97,Agility,1,29,
-226,mantine,5,109,Confuse Ray,1,50,
-226,mantine,5,145,Bubble,1,1,2
-226,mantine,5,352,Water Pulse,1,43,
-226,mantine,6,17,Wing Attack,1,36,
-226,mantine,6,33,Tackle,1,1,1
-226,mantine,6,36,Take Down,1,22,
-226,mantine,6,48,Supersonic,1,8,
-226,mantine,6,61,Bubble Beam,1,15,
-226,mantine,6,97,Agility,1,29,
-226,mantine,6,109,Confuse Ray,1,50,
-226,mantine,6,145,Bubble,1,1,2
-226,mantine,6,352,Water Pulse,1,43,
-226,mantine,7,17,Wing Attack,1,36,
-226,mantine,7,33,Tackle,1,1,1
-226,mantine,7,36,Take Down,1,22,
-226,mantine,7,48,Supersonic,1,8,
-226,mantine,7,61,Bubble Beam,1,15,
-226,mantine,7,97,Agility,1,29,
-226,mantine,7,109,Confuse Ray,1,50,
-226,mantine,7,145,Bubble,1,1,2
-226,mantine,7,352,Water Pulse,1,43,
-226,mantine,8,17,Wing Attack,1,22,
-226,mantine,8,29,Headbutt,1,13,
-226,mantine,8,33,Tackle,1,1,4
-226,mantine,8,36,Take Down,1,31,
-226,mantine,8,48,Supersonic,1,1,6
-226,mantine,8,48,Supersonic,1,4,
-226,mantine,8,56,Hydro Pump,1,49,
-226,mantine,8,60,Psybeam,1,1,1
-226,mantine,8,61,Bubble Beam,1,1,7
-226,mantine,8,61,Bubble Beam,1,10,
-226,mantine,8,97,Agility,1,19,
-226,mantine,8,109,Confuse Ray,1,37,
-226,mantine,8,145,Bubble,1,1,5
-226,mantine,8,324,Signal Beam,1,1,3
-226,mantine,8,331,Bullet Seed,1,1,2
-226,mantine,8,340,Bounce,1,40,
-226,mantine,8,352,Water Pulse,1,28,
-226,mantine,8,392,Aqua Ring,1,46,
-226,mantine,9,17,Wing Attack,1,22,
-226,mantine,9,29,Headbutt,1,13,
-226,mantine,9,33,Tackle,1,1,4
-226,mantine,9,36,Take Down,1,31,
-226,mantine,9,48,Supersonic,1,1,6
-226,mantine,9,48,Supersonic,1,4,
-226,mantine,9,56,Hydro Pump,1,49,
-226,mantine,9,60,Psybeam,1,1,1
-226,mantine,9,61,Bubble Beam,1,1,7
-226,mantine,9,61,Bubble Beam,1,10,
-226,mantine,9,97,Agility,1,19,
-226,mantine,9,109,Confuse Ray,1,37,
-226,mantine,9,145,Bubble,1,1,5
-226,mantine,9,324,Signal Beam,1,1,3
-226,mantine,9,331,Bullet Seed,1,1,2
-226,mantine,9,340,Bounce,1,40,
-226,mantine,9,352,Water Pulse,1,28,
-226,mantine,9,392,Aqua Ring,1,46,
-226,mantine,10,17,Wing Attack,1,22,
-226,mantine,10,29,Headbutt,1,13,
-226,mantine,10,33,Tackle,1,1,4
-226,mantine,10,36,Take Down,1,31,
-226,mantine,10,48,Supersonic,1,1,6
-226,mantine,10,48,Supersonic,1,4,
-226,mantine,10,56,Hydro Pump,1,49,
-226,mantine,10,60,Psybeam,1,1,1
-226,mantine,10,61,Bubble Beam,1,1,7
-226,mantine,10,61,Bubble Beam,1,10,
-226,mantine,10,97,Agility,1,19,
-226,mantine,10,109,Confuse Ray,1,37,
-226,mantine,10,145,Bubble,1,1,5
-226,mantine,10,324,Signal Beam,1,1,3
-226,mantine,10,331,Bullet Seed,1,1,2
-226,mantine,10,340,Bounce,1,40,
-226,mantine,10,352,Water Pulse,1,28,
-226,mantine,10,392,Aqua Ring,1,46,
-226,mantine,11,17,Wing Attack,1,22,
-226,mantine,11,29,Headbutt,1,13,
-226,mantine,11,33,Tackle,1,1,4
-226,mantine,11,36,Take Down,1,31,
-226,mantine,11,48,Supersonic,1,1,6
-226,mantine,11,48,Supersonic,1,4,
-226,mantine,11,56,Hydro Pump,1,49,
-226,mantine,11,60,Psybeam,1,1,1
-226,mantine,11,61,Bubble Beam,1,1,7
-226,mantine,11,61,Bubble Beam,1,10,
-226,mantine,11,97,Agility,1,19,
-226,mantine,11,109,Confuse Ray,1,37,
-226,mantine,11,145,Bubble,1,1,5
-226,mantine,11,324,Signal Beam,1,1,3
-226,mantine,11,331,Bullet Seed,1,1,2
-226,mantine,11,340,Bounce,1,40,
-226,mantine,11,352,Water Pulse,1,28,
-226,mantine,11,392,Aqua Ring,1,46,
-226,mantine,12,17,Wing Attack,1,36,
-226,mantine,12,33,Tackle,1,1,1
-226,mantine,12,36,Take Down,1,22,
-226,mantine,12,48,Supersonic,1,8,
-226,mantine,12,61,Bubble Beam,1,15,
-226,mantine,12,97,Agility,1,29,
-226,mantine,12,109,Confuse Ray,1,50,
-226,mantine,12,145,Bubble,1,1,2
-226,mantine,12,352,Water Pulse,1,43,
-226,mantine,13,17,Wing Attack,1,36,
-226,mantine,13,33,Tackle,1,1,1
-226,mantine,13,36,Take Down,1,22,
-226,mantine,13,48,Supersonic,1,8,
-226,mantine,13,61,Bubble Beam,1,15,
-226,mantine,13,97,Agility,1,29,
-226,mantine,13,109,Confuse Ray,1,50,
-226,mantine,13,145,Bubble,1,1,2
-226,mantine,13,352,Water Pulse,1,43,
-226,mantine,14,17,Wing Attack,1,14,
-226,mantine,14,29,Headbutt,1,16,
-226,mantine,14,33,Tackle,1,1,4
-226,mantine,14,36,Take Down,1,27,
-226,mantine,14,48,Supersonic,1,1,6
-226,mantine,14,48,Supersonic,1,3,
-226,mantine,14,56,Hydro Pump,1,49,
-226,mantine,14,60,Psybeam,1,1,1
-226,mantine,14,61,Bubble Beam,1,1,7
-226,mantine,14,61,Bubble Beam,1,7,
-226,mantine,14,97,Agility,1,32,
-226,mantine,14,109,Confuse Ray,1,11,
-226,mantine,14,145,Bubble,1,1,5
-226,mantine,14,324,Signal Beam,1,1,3
-226,mantine,14,331,Bullet Seed,1,1,2
-226,mantine,14,340,Bounce,1,46,
-226,mantine,14,352,Water Pulse,1,19,
-226,mantine,14,392,Aqua Ring,1,39,
-226,mantine,14,403,Air Slash,1,36,
-226,mantine,14,469,Wide Guard,1,23,
-226,mantine,15,17,Wing Attack,1,14,
-226,mantine,15,29,Headbutt,1,16,
-226,mantine,15,33,Tackle,1,1,4
-226,mantine,15,36,Take Down,1,27,
-226,mantine,15,48,Supersonic,1,1,6
-226,mantine,15,48,Supersonic,1,3,
-226,mantine,15,56,Hydro Pump,1,49,
-226,mantine,15,60,Psybeam,1,1,1
-226,mantine,15,61,Bubble Beam,1,1,7
-226,mantine,15,61,Bubble Beam,1,7,
-226,mantine,15,97,Agility,1,32,
-226,mantine,15,109,Confuse Ray,1,11,
-226,mantine,15,145,Bubble,1,1,5
-226,mantine,15,324,Signal Beam,1,1,3
-226,mantine,15,331,Bullet Seed,1,1,2
-226,mantine,15,340,Bounce,1,46,
-226,mantine,15,352,Water Pulse,1,19,
-226,mantine,15,392,Aqua Ring,1,39,
-226,mantine,15,403,Air Slash,1,36,
-226,mantine,15,469,Wide Guard,1,23,
-226,mantine,16,17,Wing Attack,1,14,1
-226,mantine,16,29,Headbutt,1,16,1
-226,mantine,16,33,Tackle,1,1,4
-226,mantine,16,36,Take Down,1,27,1
-226,mantine,16,48,Supersonic,1,1,6
-226,mantine,16,48,Supersonic,1,3,1
-226,mantine,16,56,Hydro Pump,1,49,1
-226,mantine,16,60,Psybeam,1,1,1
-226,mantine,16,61,Bubble Beam,1,1,7
-226,mantine,16,61,Bubble Beam,1,7,1
-226,mantine,16,97,Agility,1,32,1
-226,mantine,16,109,Confuse Ray,1,11,1
-226,mantine,16,145,Bubble,1,1,5
-226,mantine,16,324,Signal Beam,1,1,3
-226,mantine,16,331,Bullet Seed,1,1,2
-226,mantine,16,340,Bounce,1,46,1
-226,mantine,16,352,Water Pulse,1,19,1
-226,mantine,16,392,Aqua Ring,1,39,1
-226,mantine,16,403,Air Slash,1,36,1
-226,mantine,16,469,Wide Guard,1,23,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+226,3,Tackle,1,normal,50,100
+226,3,Bubble,1,water,40,100
+226,4,Tackle,1,normal,50,100
+226,4,Bubble,1,water,40,100
+226,5,Tackle,1,normal,50,100
+226,5,Bubble,1,water,40,100
+226,6,Tackle,1,normal,50,100
+226,6,Bubble,1,water,40,100
+226,7,Tackle,1,normal,50,100
+226,7,Bubble,1,water,40,100
+226,8,Tackle,1,normal,50,100
+226,8,Supersonic,1,normal,-,55
+226,8,Psybeam,1,psychic,65,100
+226,8,Bubble Beam,1,water,65,100
+226,8,Bubble,1,water,40,100
+226,8,Signal Beam,1,bug,75,100
+226,8,Bullet Seed,1,grass,25,100
+226,9,Tackle,1,normal,50,100
+226,9,Supersonic,1,normal,-,55
+226,9,Psybeam,1,psychic,65,100
+226,9,Bubble Beam,1,water,65,100
+226,9,Bubble,1,water,40,100
+226,9,Signal Beam,1,bug,75,100
+226,9,Bullet Seed,1,grass,25,100
+226,10,Tackle,1,normal,50,100
+226,10,Supersonic,1,normal,-,55
+226,10,Psybeam,1,psychic,65,100
+226,10,Bubble Beam,1,water,65,100
+226,10,Bubble,1,water,40,100
+226,10,Signal Beam,1,bug,75,100
+226,10,Bullet Seed,1,grass,25,100
+226,11,Tackle,1,normal,50,100
+226,11,Supersonic,1,normal,-,55
+226,11,Psybeam,1,psychic,65,100
+226,11,Bubble Beam,1,water,65,100
+226,11,Bubble,1,water,40,100
+226,11,Signal Beam,1,bug,75,100
+226,11,Bullet Seed,1,grass,25,100
+226,12,Tackle,1,normal,50,100
+226,12,Bubble,1,water,40,100
+226,13,Tackle,1,normal,50,100
+226,13,Bubble,1,water,40,100
+226,14,Tackle,1,normal,50,100
+226,14,Supersonic,1,normal,-,55
+226,14,Psybeam,1,psychic,65,100
+226,14,Bubble Beam,1,water,65,100
+226,14,Bubble,1,water,40,100
+226,14,Signal Beam,1,bug,75,100
+226,14,Bullet Seed,1,grass,25,100
+226,15,Tackle,1,normal,50,100
+226,15,Supersonic,1,normal,-,55
+226,15,Psybeam,1,psychic,65,100
+226,15,Bubble Beam,1,water,65,100
+226,15,Bubble,1,water,40,100
+226,15,Signal Beam,1,bug,75,100
+226,15,Bullet Seed,1,grass,25,100
+226,16,Tackle,1,normal,50,100
+226,16,Supersonic,1,normal,-,55
+226,16,Psybeam,1,psychic,65,100
+226,16,Bubble Beam,1,water,65,100
+226,16,Bubble,1,water,40,100
+226,16,Signal Beam,1,bug,75,100
+226,16,Bullet Seed,1,grass,25,100
+226,14,Supersonic,3,normal,-,55
+226,15,Supersonic,3,normal,-,55
+226,16,Supersonic,3,normal,-,55
+226,8,Supersonic,4,normal,-,55
+226,9,Supersonic,4,normal,-,55
+226,10,Supersonic,4,normal,-,55
+226,11,Supersonic,4,normal,-,55
+226,14,Bubble Beam,7,water,65,100
+226,15,Bubble Beam,7,water,65,100
+226,16,Bubble Beam,7,water,65,100
+226,5,Supersonic,8,normal,-,55
+226,6,Supersonic,8,normal,-,55
+226,7,Supersonic,8,normal,-,55
+226,12,Supersonic,8,normal,-,55
+226,13,Supersonic,8,normal,-,55
+226,3,Supersonic,10,normal,-,55
+226,4,Supersonic,10,normal,-,55
+226,8,Bubble Beam,10,water,65,100
+226,9,Bubble Beam,10,water,65,100
+226,10,Bubble Beam,10,water,65,100
+226,11,Bubble Beam,10,water,65,100
+226,14,Confuse Ray,11,ghost,-,100
+226,15,Confuse Ray,11,ghost,-,100
+226,16,Confuse Ray,11,ghost,-,100
+226,8,Headbutt,13,normal,70,100
+226,9,Headbutt,13,normal,70,100
+226,10,Headbutt,13,normal,70,100
+226,11,Headbutt,13,normal,70,100
+226,14,Wing Attack,14,flying,60,100
+226,15,Wing Attack,14,flying,60,100
+226,16,Wing Attack,14,flying,60,100
+226,5,Bubble Beam,15,water,65,100
+226,6,Bubble Beam,15,water,65,100
+226,7,Bubble Beam,15,water,65,100
+226,12,Bubble Beam,15,water,65,100
+226,13,Bubble Beam,15,water,65,100
+226,14,Headbutt,16,normal,70,100
+226,15,Headbutt,16,normal,70,100
+226,16,Headbutt,16,normal,70,100
+226,3,Bubble Beam,18,water,65,100
+226,4,Bubble Beam,18,water,65,100
+226,8,Agility,19,psychic,-,-
+226,9,Agility,19,psychic,-,-
+226,10,Agility,19,psychic,-,-
+226,11,Agility,19,psychic,-,-
+226,14,Water Pulse,19,water,60,100
+226,15,Water Pulse,19,water,60,100
+226,16,Water Pulse,19,water,60,100
+226,5,Take Down,22,normal,90,85
+226,6,Take Down,22,normal,90,85
+226,7,Take Down,22,normal,90,85
+226,8,Wing Attack,22,flying,60,100
+226,9,Wing Attack,22,flying,60,100
+226,10,Wing Attack,22,flying,60,100
+226,11,Wing Attack,22,flying,60,100
+226,12,Take Down,22,normal,90,85
+226,13,Take Down,22,normal,90,85
+226,14,Wide Guard,23,rock,-,-
+226,15,Wide Guard,23,rock,-,-
+226,16,Wide Guard,23,rock,-,-
+226,3,Take Down,25,normal,90,85
+226,4,Take Down,25,normal,90,85
+226,14,Take Down,27,normal,90,85
+226,15,Take Down,27,normal,90,85
+226,16,Take Down,27,normal,90,85
+226,8,Water Pulse,28,water,60,100
+226,9,Water Pulse,28,water,60,100
+226,10,Water Pulse,28,water,60,100
+226,11,Water Pulse,28,water,60,100
+226,5,Agility,29,psychic,-,-
+226,6,Agility,29,psychic,-,-
+226,7,Agility,29,psychic,-,-
+226,12,Agility,29,psychic,-,-
+226,13,Agility,29,psychic,-,-
+226,8,Take Down,31,normal,90,85
+226,9,Take Down,31,normal,90,85
+226,10,Take Down,31,normal,90,85
+226,11,Take Down,31,normal,90,85
+226,3,Agility,32,psychic,-,-
+226,4,Agility,32,psychic,-,-
+226,14,Agility,32,psychic,-,-
+226,15,Agility,32,psychic,-,-
+226,16,Agility,32,psychic,-,-
+226,5,Wing Attack,36,flying,60,100
+226,6,Wing Attack,36,flying,60,100
+226,7,Wing Attack,36,flying,60,100
+226,12,Wing Attack,36,flying,60,100
+226,13,Wing Attack,36,flying,60,100
+226,14,Air Slash,36,flying,75,95
+226,15,Air Slash,36,flying,75,95
+226,16,Air Slash,36,flying,75,95
+226,8,Confuse Ray,37,ghost,-,100
+226,9,Confuse Ray,37,ghost,-,100
+226,10,Confuse Ray,37,ghost,-,100
+226,11,Confuse Ray,37,ghost,-,100
+226,14,Aqua Ring,39,water,-,-
+226,15,Aqua Ring,39,water,-,-
+226,16,Aqua Ring,39,water,-,-
+226,3,Wing Attack,40,flying,60,100
+226,4,Wing Attack,40,flying,60,100
+226,8,Bounce,40,flying,85,85
+226,9,Bounce,40,flying,85,85
+226,10,Bounce,40,flying,85,85
+226,11,Bounce,40,flying,85,85
+226,5,Water Pulse,43,water,60,100
+226,6,Water Pulse,43,water,60,100
+226,7,Water Pulse,43,water,60,100
+226,12,Water Pulse,43,water,60,100
+226,13,Water Pulse,43,water,60,100
+226,8,Aqua Ring,46,water,-,-
+226,9,Aqua Ring,46,water,-,-
+226,10,Aqua Ring,46,water,-,-
+226,11,Aqua Ring,46,water,-,-
+226,14,Bounce,46,flying,85,85
+226,15,Bounce,46,flying,85,85
+226,16,Bounce,46,flying,85,85
+226,3,Confuse Ray,49,ghost,-,100
+226,4,Confuse Ray,49,ghost,-,100
+226,8,Hydro Pump,49,water,110,80
+226,9,Hydro Pump,49,water,110,80
+226,10,Hydro Pump,49,water,110,80
+226,11,Hydro Pump,49,water,110,80
+226,14,Hydro Pump,49,water,110,80
+226,15,Hydro Pump,49,water,110,80
+226,16,Hydro Pump,49,water,110,80
+226,5,Confuse Ray,50,ghost,-,100
+226,6,Confuse Ray,50,ghost,-,100
+226,7,Confuse Ray,50,ghost,-,100
+226,12,Confuse Ray,50,ghost,-,100
+226,13,Confuse Ray,50,ghost,-,100

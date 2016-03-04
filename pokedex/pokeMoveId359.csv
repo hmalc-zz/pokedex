@@ -1,190 +1,190 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-359,absol,5,10,Scratch,1,1,
-359,absol,5,13,Razor Wind,1,17,
-359,absol,5,14,Swords Dance,1,26,
-359,absol,5,43,Leer,1,5,
-359,absol,5,44,Bite,1,21,
-359,absol,5,98,Quick Attack,1,13,
-359,absol,5,104,Double Team,1,31,
-359,absol,5,163,Slash,1,36,
-359,absol,5,195,Perish Song,1,46,
-359,absol,5,248,Future Sight,1,41,
-359,absol,5,269,Taunt,1,9,
-359,absol,6,10,Scratch,1,1,
-359,absol,6,13,Razor Wind,1,17,
-359,absol,6,14,Swords Dance,1,26,
-359,absol,6,43,Leer,1,5,
-359,absol,6,44,Bite,1,21,
-359,absol,6,98,Quick Attack,1,13,
-359,absol,6,104,Double Team,1,31,
-359,absol,6,163,Slash,1,36,
-359,absol,6,195,Perish Song,1,46,
-359,absol,6,248,Future Sight,1,41,
-359,absol,6,269,Taunt,1,9,
-359,absol,7,10,Scratch,1,1,
-359,absol,7,13,Razor Wind,1,17,
-359,absol,7,14,Swords Dance,1,26,
-359,absol,7,43,Leer,1,5,
-359,absol,7,44,Bite,1,21,
-359,absol,7,98,Quick Attack,1,13,
-359,absol,7,104,Double Team,1,31,
-359,absol,7,163,Slash,1,36,
-359,absol,7,195,Perish Song,1,46,
-359,absol,7,248,Future Sight,1,41,
-359,absol,7,269,Taunt,1,9,
-359,absol,8,10,Scratch,1,1,
-359,absol,8,13,Razor Wind,1,17,
-359,absol,8,14,Swords Dance,1,25,
-359,absol,8,43,Leer,1,4,
-359,absol,8,44,Bite,1,28,
-359,absol,8,98,Quick Attack,1,12,
-359,absol,8,104,Double Team,1,33,
-359,absol,8,163,Slash,1,36,
-359,absol,8,195,Perish Song,1,65,
-359,absol,8,197,Detect,1,49,
-359,absol,8,228,Pursuit,1,20,
-359,absol,8,248,Future Sight,1,41,
-359,absol,8,269,Taunt,1,9,
-359,absol,8,382,Me First,1,57,
-359,absol,8,389,Sucker Punch,1,44,
-359,absol,8,400,Night Slash,1,52,
-359,absol,8,427,Psycho Cut,1,60,
-359,absol,9,10,Scratch,1,1,1
-359,absol,9,13,Razor Wind,1,17,
-359,absol,9,14,Swords Dance,1,25,
-359,absol,9,43,Leer,1,4,
-359,absol,9,44,Bite,1,28,
-359,absol,9,98,Quick Attack,1,12,
-359,absol,9,104,Double Team,1,33,
-359,absol,9,163,Slash,1,36,
-359,absol,9,195,Perish Song,1,65,
-359,absol,9,197,Detect,1,49,
-359,absol,9,228,Pursuit,1,20,
-359,absol,9,248,Future Sight,1,41,
-359,absol,9,269,Taunt,1,9,
-359,absol,9,364,Feint,1,1,2
-359,absol,9,382,Me First,1,57,
-359,absol,9,389,Sucker Punch,1,44,
-359,absol,9,400,Night Slash,1,52,
-359,absol,9,427,Psycho Cut,1,60,
-359,absol,10,10,Scratch,1,1,1
-359,absol,10,13,Razor Wind,1,17,
-359,absol,10,14,Swords Dance,1,25,
-359,absol,10,43,Leer,1,4,
-359,absol,10,44,Bite,1,28,
-359,absol,10,98,Quick Attack,1,12,
-359,absol,10,104,Double Team,1,33,
-359,absol,10,163,Slash,1,36,
-359,absol,10,195,Perish Song,1,65,
-359,absol,10,197,Detect,1,49,
-359,absol,10,228,Pursuit,1,20,
-359,absol,10,248,Future Sight,1,41,
-359,absol,10,269,Taunt,1,9,
-359,absol,10,364,Feint,1,1,2
-359,absol,10,382,Me First,1,57,
-359,absol,10,389,Sucker Punch,1,44,
-359,absol,10,400,Night Slash,1,52,
-359,absol,10,427,Psycho Cut,1,60,
-359,absol,11,10,Scratch,1,1,1
-359,absol,11,13,Razor Wind,1,17,
-359,absol,11,14,Swords Dance,1,25,
-359,absol,11,43,Leer,1,4,
-359,absol,11,44,Bite,1,28,
-359,absol,11,98,Quick Attack,1,12,
-359,absol,11,104,Double Team,1,33,
-359,absol,11,163,Slash,1,36,
-359,absol,11,195,Perish Song,1,65,
-359,absol,11,197,Detect,1,49,
-359,absol,11,228,Pursuit,1,20,
-359,absol,11,248,Future Sight,1,41,
-359,absol,11,269,Taunt,1,9,
-359,absol,11,364,Feint,1,1,2
-359,absol,11,382,Me First,1,57,
-359,absol,11,389,Sucker Punch,1,44,
-359,absol,11,400,Night Slash,1,52,
-359,absol,11,427,Psycho Cut,1,60,
-359,absol,12,10,Scratch,1,1,
-359,absol,12,13,Razor Wind,1,17,
-359,absol,12,14,Swords Dance,1,26,
-359,absol,12,43,Leer,1,5,
-359,absol,12,44,Bite,1,21,
-359,absol,12,98,Quick Attack,1,13,
-359,absol,12,104,Double Team,1,31,
-359,absol,12,163,Slash,1,36,
-359,absol,12,195,Perish Song,1,46,
-359,absol,12,248,Future Sight,1,41,
-359,absol,12,269,Taunt,1,9,
-359,absol,13,10,Scratch,1,1,
-359,absol,13,13,Razor Wind,1,17,
-359,absol,13,14,Swords Dance,1,26,
-359,absol,13,43,Leer,1,5,
-359,absol,13,44,Bite,1,21,
-359,absol,13,98,Quick Attack,1,13,
-359,absol,13,104,Double Team,1,31,
-359,absol,13,163,Slash,1,36,
-359,absol,13,195,Perish Song,1,46,
-359,absol,13,248,Future Sight,1,41,
-359,absol,13,269,Taunt,1,9,
-359,absol,14,10,Scratch,1,1,1
-359,absol,14,13,Razor Wind,1,57,
-359,absol,14,14,Swords Dance,1,33,
-359,absol,14,43,Leer,1,4,
-359,absol,14,44,Bite,1,20,
-359,absol,14,98,Quick Attack,1,9,
-359,absol,14,104,Double Team,1,25,
-359,absol,14,163,Slash,1,28,
-359,absol,14,195,Perish Song,1,65,
-359,absol,14,197,Detect,1,44,
-359,absol,14,228,Pursuit,1,12,
-359,absol,14,248,Future Sight,1,36,
-359,absol,14,269,Taunt,1,17,
-359,absol,14,364,Feint,1,1,2
-359,absol,14,382,Me First,1,60,
-359,absol,14,389,Sucker Punch,1,52,
-359,absol,14,400,Night Slash,1,41,
-359,absol,14,427,Psycho Cut,1,49,
-359,absol,15,10,Scratch,1,1,6
-359,absol,15,13,Razor Wind,1,1,3
-359,absol,15,13,Razor Wind,1,57,
-359,absol,15,14,Swords Dance,1,33,
-359,absol,15,43,Leer,1,4,
-359,absol,15,44,Bite,1,20,
-359,absol,15,98,Quick Attack,1,9,
-359,absol,15,104,Double Team,1,25,
-359,absol,15,163,Slash,1,28,
-359,absol,15,195,Perish Song,1,1,1
-359,absol,15,195,Perish Song,1,65,
-359,absol,15,197,Detect,1,1,4
-359,absol,15,197,Detect,1,44,
-359,absol,15,228,Pursuit,1,12,
-359,absol,15,248,Future Sight,1,36,
-359,absol,15,269,Taunt,1,1,5
-359,absol,15,269,Taunt,1,17,
-359,absol,15,364,Feint,1,1,7
-359,absol,15,382,Me First,1,1,2
-359,absol,15,382,Me First,1,60,
-359,absol,15,389,Sucker Punch,1,50,
-359,absol,15,400,Night Slash,1,41,
-359,absol,15,427,Psycho Cut,1,47,
-359,absol,16,10,Scratch,1,1,3
-359,absol,16,13,Razor Wind,1,49,1
-359,absol,16,14,Swords Dance,1,25,1
-359,absol,16,43,Leer,1,1,5
-359,absol,16,43,Leer,1,4,1
-359,absol,16,44,Bite,1,16,1
-359,absol,16,98,Quick Attack,1,1,6
-359,absol,16,98,Quick Attack,1,7,1
-359,absol,16,104,Double Team,1,19,1
-359,absol,16,163,Slash,1,22,1
-359,absol,16,195,Perish Song,1,1,1
-359,absol,16,195,Perish Song,1,57,1
-359,absol,16,197,Detect,1,33,1
-359,absol,16,228,Pursuit,1,10,1
-359,absol,16,248,Future Sight,1,1,2
-359,absol,16,248,Future Sight,1,53,1
-359,absol,16,269,Taunt,1,13,1
-359,absol,16,364,Feint,1,1,4
-359,absol,16,382,Me First,1,41,1
-359,absol,16,389,Sucker Punch,1,45,1
-359,absol,16,400,Night Slash,1,29,1
-359,absol,16,427,Psycho Cut,1,37,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+359,5,Scratch,1,normal,40,100
+359,6,Scratch,1,normal,40,100
+359,7,Scratch,1,normal,40,100
+359,8,Scratch,1,normal,40,100
+359,9,Scratch,1,normal,40,100
+359,9,Feint,1,normal,30,100
+359,10,Scratch,1,normal,40,100
+359,10,Feint,1,normal,30,100
+359,11,Scratch,1,normal,40,100
+359,11,Feint,1,normal,30,100
+359,12,Scratch,1,normal,40,100
+359,13,Scratch,1,normal,40,100
+359,14,Scratch,1,normal,40,100
+359,14,Feint,1,normal,30,100
+359,15,Scratch,1,normal,40,100
+359,15,Razor Wind,1,normal,80,100
+359,15,Perish Song,1,normal,-,-
+359,15,Detect,1,fighting,-,-
+359,15,Taunt,1,dark,-,100
+359,15,Feint,1,normal,30,100
+359,15,Me First,1,normal,-,-
+359,16,Scratch,1,normal,40,100
+359,16,Leer,1,normal,-,100
+359,16,Quick Attack,1,normal,40,100
+359,16,Perish Song,1,normal,-,-
+359,16,Future Sight,1,psychic,120,100
+359,16,Feint,1,normal,30,100
+359,8,Leer,4,normal,-,100
+359,9,Leer,4,normal,-,100
+359,10,Leer,4,normal,-,100
+359,11,Leer,4,normal,-,100
+359,14,Leer,4,normal,-,100
+359,15,Leer,4,normal,-,100
+359,16,Leer,4,normal,-,100
+359,5,Leer,5,normal,-,100
+359,6,Leer,5,normal,-,100
+359,7,Leer,5,normal,-,100
+359,12,Leer,5,normal,-,100
+359,13,Leer,5,normal,-,100
+359,16,Quick Attack,7,normal,40,100
+359,5,Taunt,9,dark,-,100
+359,6,Taunt,9,dark,-,100
+359,7,Taunt,9,dark,-,100
+359,8,Taunt,9,dark,-,100
+359,9,Taunt,9,dark,-,100
+359,10,Taunt,9,dark,-,100
+359,11,Taunt,9,dark,-,100
+359,12,Taunt,9,dark,-,100
+359,13,Taunt,9,dark,-,100
+359,14,Quick Attack,9,normal,40,100
+359,15,Quick Attack,9,normal,40,100
+359,16,Pursuit,10,dark,40,100
+359,8,Quick Attack,12,normal,40,100
+359,9,Quick Attack,12,normal,40,100
+359,10,Quick Attack,12,normal,40,100
+359,11,Quick Attack,12,normal,40,100
+359,14,Pursuit,12,dark,40,100
+359,15,Pursuit,12,dark,40,100
+359,5,Quick Attack,13,normal,40,100
+359,6,Quick Attack,13,normal,40,100
+359,7,Quick Attack,13,normal,40,100
+359,12,Quick Attack,13,normal,40,100
+359,13,Quick Attack,13,normal,40,100
+359,16,Taunt,13,dark,-,100
+359,16,Bite,16,dark,60,100
+359,5,Razor Wind,17,normal,80,100
+359,6,Razor Wind,17,normal,80,100
+359,7,Razor Wind,17,normal,80,100
+359,8,Razor Wind,17,normal,80,100
+359,9,Razor Wind,17,normal,80,100
+359,10,Razor Wind,17,normal,80,100
+359,11,Razor Wind,17,normal,80,100
+359,12,Razor Wind,17,normal,80,100
+359,13,Razor Wind,17,normal,80,100
+359,14,Taunt,17,dark,-,100
+359,15,Taunt,17,dark,-,100
+359,16,Double Team,19,normal,-,-
+359,8,Pursuit,20,dark,40,100
+359,9,Pursuit,20,dark,40,100
+359,10,Pursuit,20,dark,40,100
+359,11,Pursuit,20,dark,40,100
+359,14,Bite,20,dark,60,100
+359,15,Bite,20,dark,60,100
+359,5,Bite,21,dark,60,100
+359,6,Bite,21,dark,60,100
+359,7,Bite,21,dark,60,100
+359,12,Bite,21,dark,60,100
+359,13,Bite,21,dark,60,100
+359,16,Slash,22,normal,70,100
+359,8,Swords Dance,25,normal,-,-
+359,9,Swords Dance,25,normal,-,-
+359,10,Swords Dance,25,normal,-,-
+359,11,Swords Dance,25,normal,-,-
+359,14,Double Team,25,normal,-,-
+359,15,Double Team,25,normal,-,-
+359,16,Swords Dance,25,normal,-,-
+359,5,Swords Dance,26,normal,-,-
+359,6,Swords Dance,26,normal,-,-
+359,7,Swords Dance,26,normal,-,-
+359,12,Swords Dance,26,normal,-,-
+359,13,Swords Dance,26,normal,-,-
+359,8,Bite,28,dark,60,100
+359,9,Bite,28,dark,60,100
+359,10,Bite,28,dark,60,100
+359,11,Bite,28,dark,60,100
+359,14,Slash,28,normal,70,100
+359,15,Slash,28,normal,70,100
+359,16,Night Slash,29,dark,70,100
+359,5,Double Team,31,normal,-,-
+359,6,Double Team,31,normal,-,-
+359,7,Double Team,31,normal,-,-
+359,12,Double Team,31,normal,-,-
+359,13,Double Team,31,normal,-,-
+359,8,Double Team,33,normal,-,-
+359,9,Double Team,33,normal,-,-
+359,10,Double Team,33,normal,-,-
+359,11,Double Team,33,normal,-,-
+359,14,Swords Dance,33,normal,-,-
+359,15,Swords Dance,33,normal,-,-
+359,16,Detect,33,fighting,-,-
+359,5,Slash,36,normal,70,100
+359,6,Slash,36,normal,70,100
+359,7,Slash,36,normal,70,100
+359,8,Slash,36,normal,70,100
+359,9,Slash,36,normal,70,100
+359,10,Slash,36,normal,70,100
+359,11,Slash,36,normal,70,100
+359,12,Slash,36,normal,70,100
+359,13,Slash,36,normal,70,100
+359,14,Future Sight,36,psychic,120,100
+359,15,Future Sight,36,psychic,120,100
+359,16,Psycho Cut,37,psychic,70,100
+359,5,Future Sight,41,psychic,120,100
+359,6,Future Sight,41,psychic,120,100
+359,7,Future Sight,41,psychic,120,100
+359,8,Future Sight,41,psychic,120,100
+359,9,Future Sight,41,psychic,120,100
+359,10,Future Sight,41,psychic,120,100
+359,11,Future Sight,41,psychic,120,100
+359,12,Future Sight,41,psychic,120,100
+359,13,Future Sight,41,psychic,120,100
+359,14,Night Slash,41,dark,70,100
+359,15,Night Slash,41,dark,70,100
+359,16,Me First,41,normal,-,-
+359,8,Sucker Punch,44,dark,80,100
+359,9,Sucker Punch,44,dark,80,100
+359,10,Sucker Punch,44,dark,80,100
+359,11,Sucker Punch,44,dark,80,100
+359,14,Detect,44,fighting,-,-
+359,15,Detect,44,fighting,-,-
+359,16,Sucker Punch,45,dark,80,100
+359,5,Perish Song,46,normal,-,-
+359,6,Perish Song,46,normal,-,-
+359,7,Perish Song,46,normal,-,-
+359,12,Perish Song,46,normal,-,-
+359,13,Perish Song,46,normal,-,-
+359,15,Psycho Cut,47,psychic,70,100
+359,8,Detect,49,fighting,-,-
+359,9,Detect,49,fighting,-,-
+359,10,Detect,49,fighting,-,-
+359,11,Detect,49,fighting,-,-
+359,14,Psycho Cut,49,psychic,70,100
+359,16,Razor Wind,49,normal,80,100
+359,15,Sucker Punch,50,dark,80,100
+359,8,Night Slash,52,dark,70,100
+359,9,Night Slash,52,dark,70,100
+359,10,Night Slash,52,dark,70,100
+359,11,Night Slash,52,dark,70,100
+359,14,Sucker Punch,52,dark,80,100
+359,16,Future Sight,53,psychic,120,100
+359,8,Me First,57,normal,-,-
+359,9,Me First,57,normal,-,-
+359,10,Me First,57,normal,-,-
+359,11,Me First,57,normal,-,-
+359,14,Razor Wind,57,normal,80,100
+359,15,Razor Wind,57,normal,80,100
+359,16,Perish Song,57,normal,-,-
+359,8,Psycho Cut,60,psychic,70,100
+359,9,Psycho Cut,60,psychic,70,100
+359,10,Psycho Cut,60,psychic,70,100
+359,11,Psycho Cut,60,psychic,70,100
+359,14,Me First,60,normal,-,-
+359,15,Me First,60,normal,-,-
+359,8,Perish Song,65,normal,-,-
+359,9,Perish Song,65,normal,-,-
+359,10,Perish Song,65,normal,-,-
+359,11,Perish Song,65,normal,-,-
+359,14,Perish Song,65,normal,-,-
+359,15,Perish Song,65,normal,-,-

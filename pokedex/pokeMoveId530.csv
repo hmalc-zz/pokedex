@@ -1,75 +1,75 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-530,excadrill,11,10,Scratch,1,1,1
-530,excadrill,11,14,Swords Dance,1,42,
-530,excadrill,11,32,Horn Drill,1,31,
-530,excadrill,11,89,Earthquake,1,36,
-530,excadrill,11,90,Fissure,1,62,
-530,excadrill,11,91,Dig,1,19,
-530,excadrill,11,154,Fury Swipes,1,12,
-530,excadrill,11,157,Rock Slide,1,29,
-530,excadrill,11,163,Slash,1,26,
-530,excadrill,11,189,Mud-Slap,1,1,4
-530,excadrill,11,189,Mud-Slap,1,8,
-530,excadrill,11,201,Sandstorm,1,49,
-530,excadrill,11,229,Rapid Spin,1,1,3
-530,excadrill,11,229,Rapid Spin,1,5,
-530,excadrill,11,232,Metal Claw,1,15,
-530,excadrill,11,300,Mud Sport,1,1,2
-530,excadrill,11,468,Hone Claws,1,22,
-530,excadrill,11,529,Drill Run,1,55,
-530,excadrill,14,10,Scratch,1,1,1
-530,excadrill,14,14,Swords Dance,1,42,
-530,excadrill,14,32,Horn Drill,1,31,
-530,excadrill,14,89,Earthquake,1,36,
-530,excadrill,14,90,Fissure,1,62,
-530,excadrill,14,91,Dig,1,19,
-530,excadrill,14,154,Fury Swipes,1,12,
-530,excadrill,14,157,Rock Slide,1,29,
-530,excadrill,14,163,Slash,1,26,
-530,excadrill,14,189,Mud-Slap,1,1,4
-530,excadrill,14,189,Mud-Slap,1,8,
-530,excadrill,14,201,Sandstorm,1,49,
-530,excadrill,14,229,Rapid Spin,1,1,3
-530,excadrill,14,229,Rapid Spin,1,5,
-530,excadrill,14,232,Metal Claw,1,15,
-530,excadrill,14,300,Mud Sport,1,1,2
-530,excadrill,14,468,Hone Claws,1,22,
-530,excadrill,14,529,Drill Run,1,55,
-530,excadrill,15,10,Scratch,1,1,2
-530,excadrill,15,14,Swords Dance,1,42,
-530,excadrill,15,32,Horn Drill,1,31,
-530,excadrill,15,89,Earthquake,1,36,
-530,excadrill,15,90,Fissure,1,62,
-530,excadrill,15,91,Dig,1,19,
-530,excadrill,15,154,Fury Swipes,1,12,
-530,excadrill,15,157,Rock Slide,1,29,
-530,excadrill,15,163,Slash,1,26,
-530,excadrill,15,189,Mud-Slap,1,1,5
-530,excadrill,15,189,Mud-Slap,1,8,
-530,excadrill,15,201,Sandstorm,1,49,
-530,excadrill,15,229,Rapid Spin,1,1,4
-530,excadrill,15,229,Rapid Spin,1,5,
-530,excadrill,15,232,Metal Claw,1,15,
-530,excadrill,15,300,Mud Sport,1,1,3
-530,excadrill,15,468,Hone Claws,1,22,
-530,excadrill,15,529,Drill Run,1,55,
-530,excadrill,15,563,Rototiller,1,1,1
-530,excadrill,16,10,Scratch,1,1,2
-530,excadrill,16,14,Swords Dance,1,42,1
-530,excadrill,16,32,Horn Drill,1,31,1
-530,excadrill,16,89,Earthquake,1,36,1
-530,excadrill,16,90,Fissure,1,62,1
-530,excadrill,16,91,Dig,1,19,1
-530,excadrill,16,154,Fury Swipes,1,12,1
-530,excadrill,16,157,Rock Slide,1,29,1
-530,excadrill,16,163,Slash,1,26,1
-530,excadrill,16,189,Mud-Slap,1,1,5
-530,excadrill,16,189,Mud-Slap,1,8,1
-530,excadrill,16,201,Sandstorm,1,49,1
-530,excadrill,16,229,Rapid Spin,1,1,4
-530,excadrill,16,229,Rapid Spin,1,5,1
-530,excadrill,16,232,Metal Claw,1,15,1
-530,excadrill,16,300,Mud Sport,1,1,3
-530,excadrill,16,468,Hone Claws,1,22,1
-530,excadrill,16,529,Drill Run,1,55,1
-530,excadrill,16,563,Rototiller,1,1,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+530,11,Scratch,1,normal,40,100
+530,11,Mud-Slap,1,ground,20,100
+530,11,Rapid Spin,1,normal,20,100
+530,11,Mud Sport,1,ground,-,-
+530,14,Scratch,1,normal,40,100
+530,14,Mud-Slap,1,ground,20,100
+530,14,Rapid Spin,1,normal,20,100
+530,14,Mud Sport,1,ground,-,-
+530,15,Scratch,1,normal,40,100
+530,15,Mud-Slap,1,ground,20,100
+530,15,Rapid Spin,1,normal,20,100
+530,15,Mud Sport,1,ground,-,-
+530,15,Rototiller,1,ground,-,-
+530,16,Scratch,1,normal,40,100
+530,16,Mud-Slap,1,ground,20,100
+530,16,Rapid Spin,1,normal,20,100
+530,16,Mud Sport,1,ground,-,-
+530,16,Rototiller,1,ground,-,-
+530,11,Rapid Spin,5,normal,20,100
+530,14,Rapid Spin,5,normal,20,100
+530,15,Rapid Spin,5,normal,20,100
+530,16,Rapid Spin,5,normal,20,100
+530,11,Mud-Slap,8,ground,20,100
+530,14,Mud-Slap,8,ground,20,100
+530,15,Mud-Slap,8,ground,20,100
+530,16,Mud-Slap,8,ground,20,100
+530,11,Fury Swipes,12,normal,18,80
+530,14,Fury Swipes,12,normal,18,80
+530,15,Fury Swipes,12,normal,18,80
+530,16,Fury Swipes,12,normal,18,80
+530,11,Metal Claw,15,steel,50,95
+530,14,Metal Claw,15,steel,50,95
+530,15,Metal Claw,15,steel,50,95
+530,16,Metal Claw,15,steel,50,95
+530,11,Dig,19,ground,80,100
+530,14,Dig,19,ground,80,100
+530,15,Dig,19,ground,80,100
+530,16,Dig,19,ground,80,100
+530,11,Hone Claws,22,dark,-,-
+530,14,Hone Claws,22,dark,-,-
+530,15,Hone Claws,22,dark,-,-
+530,16,Hone Claws,22,dark,-,-
+530,11,Slash,26,normal,70,100
+530,14,Slash,26,normal,70,100
+530,15,Slash,26,normal,70,100
+530,16,Slash,26,normal,70,100
+530,11,Rock Slide,29,rock,75,90
+530,14,Rock Slide,29,rock,75,90
+530,15,Rock Slide,29,rock,75,90
+530,16,Rock Slide,29,rock,75,90
+530,11,Horn Drill,31,normal,-,30
+530,14,Horn Drill,31,normal,-,30
+530,15,Horn Drill,31,normal,-,30
+530,16,Horn Drill,31,normal,-,30
+530,11,Earthquake,36,ground,100,100
+530,14,Earthquake,36,ground,100,100
+530,15,Earthquake,36,ground,100,100
+530,16,Earthquake,36,ground,100,100
+530,11,Swords Dance,42,normal,-,-
+530,14,Swords Dance,42,normal,-,-
+530,15,Swords Dance,42,normal,-,-
+530,16,Swords Dance,42,normal,-,-
+530,11,Sandstorm,49,rock,-,-
+530,14,Sandstorm,49,rock,-,-
+530,15,Sandstorm,49,rock,-,-
+530,16,Sandstorm,49,rock,-,-
+530,11,Drill Run,55,ground,80,95
+530,14,Drill Run,55,ground,80,95
+530,15,Drill Run,55,ground,80,95
+530,16,Drill Run,55,ground,80,95
+530,11,Fissure,62,ground,-,30
+530,14,Fissure,62,ground,-,30
+530,15,Fissure,62,ground,-,30
+530,16,Fissure,62,ground,-,30

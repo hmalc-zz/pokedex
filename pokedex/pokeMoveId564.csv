@@ -1,73 +1,73 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-564,tirtouga,11,44,Bite,1,8,
-564,tirtouga,11,55,Water Gun,1,1,3
-564,tirtouga,11,56,Hydro Pump,1,51,
-564,tirtouga,11,110,Withdraw,1,1,2
-564,tirtouga,11,117,Bide,1,1,1
-564,tirtouga,11,157,Rock Slide,1,45,
-564,tirtouga,11,174,Curse,1,35,
-564,tirtouga,11,182,Protect,1,11,
-564,tirtouga,11,205,Rollout,1,5,
-564,tirtouga,11,240,Rain Dance,1,48,
-564,tirtouga,11,242,Crunch,1,21,
-564,tirtouga,11,246,Ancient Power,1,18,
-564,tirtouga,11,362,Brine,1,28,
-564,tirtouga,11,401,Aqua Tail,1,41,
-564,tirtouga,11,453,Aqua Jet,1,15,
-564,tirtouga,11,469,Wide Guard,1,25,
-564,tirtouga,11,479,Smack Down,1,31,
-564,tirtouga,11,504,Shell Smash,1,38,
-564,tirtouga,14,44,Bite,1,8,
-564,tirtouga,14,55,Water Gun,1,1,3
-564,tirtouga,14,56,Hydro Pump,1,51,
-564,tirtouga,14,110,Withdraw,1,1,2
-564,tirtouga,14,117,Bide,1,1,1
-564,tirtouga,14,157,Rock Slide,1,45,
-564,tirtouga,14,174,Curse,1,35,
-564,tirtouga,14,182,Protect,1,11,
-564,tirtouga,14,205,Rollout,1,5,
-564,tirtouga,14,240,Rain Dance,1,48,
-564,tirtouga,14,242,Crunch,1,21,
-564,tirtouga,14,246,Ancient Power,1,18,
-564,tirtouga,14,362,Brine,1,28,
-564,tirtouga,14,401,Aqua Tail,1,41,
-564,tirtouga,14,453,Aqua Jet,1,15,
-564,tirtouga,14,469,Wide Guard,1,25,
-564,tirtouga,14,479,Smack Down,1,31,
-564,tirtouga,14,504,Shell Smash,1,38,
-564,tirtouga,15,44,Bite,1,8,
-564,tirtouga,15,55,Water Gun,1,1,3
-564,tirtouga,15,56,Hydro Pump,1,50,
-564,tirtouga,15,110,Withdraw,1,1,2
-564,tirtouga,15,117,Bide,1,1,1
-564,tirtouga,15,157,Rock Slide,1,45,
-564,tirtouga,15,174,Curse,1,35,
-564,tirtouga,15,182,Protect,1,11,
-564,tirtouga,15,205,Rollout,1,5,
-564,tirtouga,15,240,Rain Dance,1,48,
-564,tirtouga,15,242,Crunch,1,21,
-564,tirtouga,15,246,Ancient Power,1,18,
-564,tirtouga,15,362,Brine,1,28,
-564,tirtouga,15,401,Aqua Tail,1,41,
-564,tirtouga,15,453,Aqua Jet,1,15,
-564,tirtouga,15,469,Wide Guard,1,25,
-564,tirtouga,15,479,Smack Down,1,31,
-564,tirtouga,15,504,Shell Smash,1,38,
-564,tirtouga,16,44,Bite,1,8,1
-564,tirtouga,16,55,Water Gun,1,1,3
-564,tirtouga,16,56,Hydro Pump,1,50,1
-564,tirtouga,16,110,Withdraw,1,1,2
-564,tirtouga,16,117,Bide,1,1,1
-564,tirtouga,16,157,Rock Slide,1,45,1
-564,tirtouga,16,174,Curse,1,35,1
-564,tirtouga,16,182,Protect,1,11,1
-564,tirtouga,16,205,Rollout,1,5,1
-564,tirtouga,16,240,Rain Dance,1,48,1
-564,tirtouga,16,242,Crunch,1,21,1
-564,tirtouga,16,246,Ancient Power,1,18,1
-564,tirtouga,16,362,Brine,1,28,1
-564,tirtouga,16,401,Aqua Tail,1,41,1
-564,tirtouga,16,453,Aqua Jet,1,15,1
-564,tirtouga,16,469,Wide Guard,1,25,1
-564,tirtouga,16,479,Smack Down,1,31,1
-564,tirtouga,16,504,Shell Smash,1,38,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+564,11,Water Gun,1,water,40,100
+564,11,Withdraw,1,water,-,-
+564,11,Bide,1,normal,-,-
+564,14,Water Gun,1,water,40,100
+564,14,Withdraw,1,water,-,-
+564,14,Bide,1,normal,-,-
+564,15,Water Gun,1,water,40,100
+564,15,Withdraw,1,water,-,-
+564,15,Bide,1,normal,-,-
+564,16,Water Gun,1,water,40,100
+564,16,Withdraw,1,water,-,-
+564,16,Bide,1,normal,-,-
+564,11,Rollout,5,rock,30,90
+564,14,Rollout,5,rock,30,90
+564,15,Rollout,5,rock,30,90
+564,16,Rollout,5,rock,30,90
+564,11,Bite,8,dark,60,100
+564,14,Bite,8,dark,60,100
+564,15,Bite,8,dark,60,100
+564,16,Bite,8,dark,60,100
+564,11,Protect,11,normal,-,-
+564,14,Protect,11,normal,-,-
+564,15,Protect,11,normal,-,-
+564,16,Protect,11,normal,-,-
+564,11,Aqua Jet,15,water,40,100
+564,14,Aqua Jet,15,water,40,100
+564,15,Aqua Jet,15,water,40,100
+564,16,Aqua Jet,15,water,40,100
+564,11,Ancient Power,18,rock,60,100
+564,14,Ancient Power,18,rock,60,100
+564,15,Ancient Power,18,rock,60,100
+564,16,Ancient Power,18,rock,60,100
+564,11,Crunch,21,dark,80,100
+564,14,Crunch,21,dark,80,100
+564,15,Crunch,21,dark,80,100
+564,16,Crunch,21,dark,80,100
+564,11,Wide Guard,25,rock,-,-
+564,14,Wide Guard,25,rock,-,-
+564,15,Wide Guard,25,rock,-,-
+564,16,Wide Guard,25,rock,-,-
+564,11,Brine,28,water,65,100
+564,14,Brine,28,water,65,100
+564,15,Brine,28,water,65,100
+564,16,Brine,28,water,65,100
+564,11,Smack Down,31,rock,50,100
+564,14,Smack Down,31,rock,50,100
+564,15,Smack Down,31,rock,50,100
+564,16,Smack Down,31,rock,50,100
+564,11,Curse,35,ghost,-,-
+564,14,Curse,35,ghost,-,-
+564,15,Curse,35,ghost,-,-
+564,16,Curse,35,ghost,-,-
+564,11,Shell Smash,38,normal,-,-
+564,14,Shell Smash,38,normal,-,-
+564,15,Shell Smash,38,normal,-,-
+564,16,Shell Smash,38,normal,-,-
+564,11,Aqua Tail,41,water,90,90
+564,14,Aqua Tail,41,water,90,90
+564,15,Aqua Tail,41,water,90,90
+564,16,Aqua Tail,41,water,90,90
+564,11,Rock Slide,45,rock,75,90
+564,14,Rock Slide,45,rock,75,90
+564,15,Rock Slide,45,rock,75,90
+564,16,Rock Slide,45,rock,75,90
+564,11,Rain Dance,48,water,-,-
+564,14,Rain Dance,48,water,-,-
+564,15,Rain Dance,48,water,-,-
+564,16,Rain Dance,48,water,-,-
+564,15,Hydro Pump,50,water,110,80
+564,16,Hydro Pump,50,water,110,80
+564,11,Hydro Pump,51,water,110,80
+564,14,Hydro Pump,51,water,110,80

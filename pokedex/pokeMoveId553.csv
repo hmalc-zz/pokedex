@@ -1,79 +1,79 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-553,krookodile,11,28,Sand Attack,1,1,4
-553,krookodile,11,28,Sand Attack,1,7,
-553,krookodile,11,43,Leer,1,1,1
-553,krookodile,11,44,Bite,1,1,3
-553,krookodile,11,44,Bite,1,4,
-553,krookodile,11,89,Earthquake,1,54,
-553,krookodile,11,91,Dig,1,32,
-553,krookodile,11,99,Rage,1,1,2
-553,krookodile,11,184,Scary Face,1,36,
-553,krookodile,11,189,Mud-Slap,1,19,
-553,krookodile,11,200,Outrage,1,60,
-553,krookodile,11,201,Sandstorm,1,48,
-553,krookodile,11,207,Swagger,1,25,
-553,krookodile,11,242,Crunch,1,28,
-553,krookodile,11,259,Torment,1,10,
-553,krookodile,11,328,Sand Tomb,1,13,
-553,krookodile,11,372,Assurance,1,16,
-553,krookodile,11,373,Embargo,1,22,
-553,krookodile,11,492,Foul Play,1,42,
-553,krookodile,14,28,Sand Attack,1,1,4
-553,krookodile,14,28,Sand Attack,1,7,
-553,krookodile,14,43,Leer,1,1,1
-553,krookodile,14,44,Bite,1,1,3
-553,krookodile,14,44,Bite,1,4,
-553,krookodile,14,89,Earthquake,1,54,
-553,krookodile,14,91,Dig,1,32,
-553,krookodile,14,99,Rage,1,1,2
-553,krookodile,14,184,Scary Face,1,36,
-553,krookodile,14,189,Mud-Slap,1,19,
-553,krookodile,14,200,Outrage,1,60,
-553,krookodile,14,201,Sandstorm,1,48,
-553,krookodile,14,207,Swagger,1,25,
-553,krookodile,14,242,Crunch,1,28,
-553,krookodile,14,259,Torment,1,10,
-553,krookodile,14,328,Sand Tomb,1,13,
-553,krookodile,14,372,Assurance,1,16,
-553,krookodile,14,373,Embargo,1,22,
-553,krookodile,14,492,Foul Play,1,42,
-553,krookodile,15,28,Sand Attack,1,1,5
-553,krookodile,15,28,Sand Attack,1,7,
-553,krookodile,15,43,Leer,1,1,2
-553,krookodile,15,44,Bite,1,1,4
-553,krookodile,15,44,Bite,1,4,
-553,krookodile,15,89,Earthquake,1,54,
-553,krookodile,15,91,Dig,1,32,
-553,krookodile,15,99,Rage,1,1,3
-553,krookodile,15,184,Scary Face,1,36,
-553,krookodile,15,189,Mud-Slap,1,19,
-553,krookodile,15,200,Outrage,1,1,1
-553,krookodile,15,200,Outrage,1,60,
-553,krookodile,15,201,Sandstorm,1,48,
-553,krookodile,15,207,Swagger,1,25,
-553,krookodile,15,242,Crunch,1,28,
-553,krookodile,15,259,Torment,1,10,
-553,krookodile,15,328,Sand Tomb,1,13,
-553,krookodile,15,372,Assurance,1,16,
-553,krookodile,15,373,Embargo,1,22,
-553,krookodile,15,492,Foul Play,1,42,
-553,krookodile,16,28,Sand Attack,1,1,5
-553,krookodile,16,28,Sand Attack,1,7,1
-553,krookodile,16,43,Leer,1,1,2
-553,krookodile,16,44,Bite,1,1,4
-553,krookodile,16,44,Bite,1,4,1
-553,krookodile,16,89,Earthquake,1,54,1
-553,krookodile,16,91,Dig,1,32,1
-553,krookodile,16,99,Rage,1,1,3
-553,krookodile,16,184,Scary Face,1,36,1
-553,krookodile,16,189,Mud-Slap,1,19,1
-553,krookodile,16,200,Outrage,1,1,1
-553,krookodile,16,200,Outrage,1,60,1
-553,krookodile,16,201,Sandstorm,1,48,1
-553,krookodile,16,207,Swagger,1,25,1
-553,krookodile,16,242,Crunch,1,28,1
-553,krookodile,16,259,Torment,1,10,1
-553,krookodile,16,328,Sand Tomb,1,13,1
-553,krookodile,16,372,Assurance,1,16,1
-553,krookodile,16,373,Embargo,1,22,1
-553,krookodile,16,492,Foul Play,1,42,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+553,11,Sand Attack,1,ground,-,100
+553,11,Leer,1,normal,-,100
+553,11,Bite,1,dark,60,100
+553,11,Rage,1,normal,20,100
+553,14,Sand Attack,1,ground,-,100
+553,14,Leer,1,normal,-,100
+553,14,Bite,1,dark,60,100
+553,14,Rage,1,normal,20,100
+553,15,Sand Attack,1,ground,-,100
+553,15,Leer,1,normal,-,100
+553,15,Bite,1,dark,60,100
+553,15,Rage,1,normal,20,100
+553,15,Outrage,1,dragon,120,100
+553,16,Sand Attack,1,ground,-,100
+553,16,Leer,1,normal,-,100
+553,16,Bite,1,dark,60,100
+553,16,Rage,1,normal,20,100
+553,16,Outrage,1,dragon,120,100
+553,11,Bite,4,dark,60,100
+553,14,Bite,4,dark,60,100
+553,15,Bite,4,dark,60,100
+553,16,Bite,4,dark,60,100
+553,11,Sand Attack,7,ground,-,100
+553,14,Sand Attack,7,ground,-,100
+553,15,Sand Attack,7,ground,-,100
+553,16,Sand Attack,7,ground,-,100
+553,11,Torment,10,dark,-,100
+553,14,Torment,10,dark,-,100
+553,15,Torment,10,dark,-,100
+553,16,Torment,10,dark,-,100
+553,11,Sand Tomb,13,ground,35,85
+553,14,Sand Tomb,13,ground,35,85
+553,15,Sand Tomb,13,ground,35,85
+553,16,Sand Tomb,13,ground,35,85
+553,11,Assurance,16,dark,60,100
+553,14,Assurance,16,dark,60,100
+553,15,Assurance,16,dark,60,100
+553,16,Assurance,16,dark,60,100
+553,11,Mud-Slap,19,ground,20,100
+553,14,Mud-Slap,19,ground,20,100
+553,15,Mud-Slap,19,ground,20,100
+553,16,Mud-Slap,19,ground,20,100
+553,11,Embargo,22,dark,-,100
+553,14,Embargo,22,dark,-,100
+553,15,Embargo,22,dark,-,100
+553,16,Embargo,22,dark,-,100
+553,11,Swagger,25,normal,-,90
+553,14,Swagger,25,normal,-,90
+553,15,Swagger,25,normal,-,90
+553,16,Swagger,25,normal,-,90
+553,11,Crunch,28,dark,80,100
+553,14,Crunch,28,dark,80,100
+553,15,Crunch,28,dark,80,100
+553,16,Crunch,28,dark,80,100
+553,11,Dig,32,ground,80,100
+553,14,Dig,32,ground,80,100
+553,15,Dig,32,ground,80,100
+553,16,Dig,32,ground,80,100
+553,11,Scary Face,36,normal,-,100
+553,14,Scary Face,36,normal,-,100
+553,15,Scary Face,36,normal,-,100
+553,16,Scary Face,36,normal,-,100
+553,11,Foul Play,42,dark,95,100
+553,14,Foul Play,42,dark,95,100
+553,15,Foul Play,42,dark,95,100
+553,16,Foul Play,42,dark,95,100
+553,11,Sandstorm,48,rock,-,-
+553,14,Sandstorm,48,rock,-,-
+553,15,Sandstorm,48,rock,-,-
+553,16,Sandstorm,48,rock,-,-
+553,11,Earthquake,54,ground,100,100
+553,14,Earthquake,54,ground,100,100
+553,15,Earthquake,54,ground,100,100
+553,16,Earthquake,54,ground,100,100
+553,11,Outrage,60,dragon,120,100
+553,14,Outrage,60,dragon,120,100
+553,15,Outrage,60,dragon,120,100
+553,16,Outrage,60,dragon,120,100

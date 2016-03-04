@@ -1,165 +1,165 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-4,charmander,1,10,Scratch,1,1,1
-4,charmander,1,43,Leer,1,15,
-4,charmander,1,45,Growl,1,1,2
-4,charmander,1,52,Ember,1,9,
-4,charmander,1,53,Flamethrower,1,38,
-4,charmander,1,83,Fire Spin,1,46,
-4,charmander,1,99,Rage,1,22,
-4,charmander,1,163,Slash,1,30,
-4,charmander,2,10,Scratch,1,1,1
-4,charmander,2,43,Leer,1,15,
-4,charmander,2,45,Growl,1,1,2
-4,charmander,2,52,Ember,1,9,
-4,charmander,2,53,Flamethrower,1,38,
-4,charmander,2,83,Fire Spin,1,46,
-4,charmander,2,99,Rage,1,22,
-4,charmander,2,163,Slash,1,30,
-4,charmander,3,10,Scratch,1,1,1
-4,charmander,3,45,Growl,1,1,2
-4,charmander,3,52,Ember,1,7,
-4,charmander,3,53,Flamethrower,1,31,
-4,charmander,3,82,Dragon Rage,1,43,
-4,charmander,3,83,Fire Spin,1,49,
-4,charmander,3,99,Rage,1,19,
-4,charmander,3,108,Smokescreen,1,13,
-4,charmander,3,163,Slash,1,37,
-4,charmander,3,184,Scary Face,1,25,
-4,charmander,4,10,Scratch,1,1,1
-4,charmander,4,45,Growl,1,1,2
-4,charmander,4,52,Ember,1,7,
-4,charmander,4,53,Flamethrower,1,31,
-4,charmander,4,82,Dragon Rage,1,43,
-4,charmander,4,83,Fire Spin,1,49,
-4,charmander,4,99,Rage,1,19,
-4,charmander,4,108,Smokescreen,1,13,
-4,charmander,4,163,Slash,1,37,
-4,charmander,4,184,Scary Face,1,25,
-4,charmander,5,10,Scratch,1,1,1
-4,charmander,5,45,Growl,1,1,2
-4,charmander,5,52,Ember,1,7,
-4,charmander,5,53,Flamethrower,1,31,
-4,charmander,5,82,Dragon Rage,1,43,
-4,charmander,5,83,Fire Spin,1,49,
-4,charmander,5,99,Rage,1,19,
-4,charmander,5,108,Smokescreen,1,13,
-4,charmander,5,163,Slash,1,37,
-4,charmander,5,184,Scary Face,1,25,
-4,charmander,6,10,Scratch,1,1,1
-4,charmander,6,45,Growl,1,1,2
-4,charmander,6,52,Ember,1,7,
-4,charmander,6,53,Flamethrower,1,31,
-4,charmander,6,82,Dragon Rage,1,43,
-4,charmander,6,83,Fire Spin,1,49,
-4,charmander,6,99,Rage,1,19,
-4,charmander,6,108,Smokescreen,1,13,
-4,charmander,6,163,Slash,1,37,
-4,charmander,6,184,Scary Face,1,25,
-4,charmander,7,10,Scratch,1,1,1
-4,charmander,7,45,Growl,1,1,2
-4,charmander,7,52,Ember,1,7,
-4,charmander,7,53,Flamethrower,1,31,
-4,charmander,7,82,Dragon Rage,1,43,
-4,charmander,7,83,Fire Spin,1,49,
-4,charmander,7,108,Smokescreen,1,19,
-4,charmander,7,163,Slash,1,37,
-4,charmander,7,184,Scary Face,1,25,
-4,charmander,7,232,Metal Claw,1,13,
-4,charmander,8,10,Scratch,1,1,1
-4,charmander,8,45,Growl,1,1,2
-4,charmander,8,52,Ember,1,7,
-4,charmander,8,53,Flamethrower,1,34,
-4,charmander,8,82,Dragon Rage,1,16,
-4,charmander,8,83,Fire Spin,1,37,
-4,charmander,8,108,Smokescreen,1,10,
-4,charmander,8,163,Slash,1,28,
-4,charmander,8,184,Scary Face,1,19,
-4,charmander,8,424,Fire Fang,1,25,
-4,charmander,9,10,Scratch,1,1,1
-4,charmander,9,45,Growl,1,1,2
-4,charmander,9,52,Ember,1,7,
-4,charmander,9,53,Flamethrower,1,34,
-4,charmander,9,82,Dragon Rage,1,16,
-4,charmander,9,83,Fire Spin,1,37,
-4,charmander,9,108,Smokescreen,1,10,
-4,charmander,9,163,Slash,1,28,
-4,charmander,9,184,Scary Face,1,19,
-4,charmander,9,424,Fire Fang,1,25,
-4,charmander,10,10,Scratch,1,1,1
-4,charmander,10,45,Growl,1,1,2
-4,charmander,10,52,Ember,1,7,
-4,charmander,10,53,Flamethrower,1,34,
-4,charmander,10,82,Dragon Rage,1,16,
-4,charmander,10,83,Fire Spin,1,37,
-4,charmander,10,108,Smokescreen,1,10,
-4,charmander,10,163,Slash,1,28,
-4,charmander,10,184,Scary Face,1,19,
-4,charmander,10,424,Fire Fang,1,25,
-4,charmander,11,10,Scratch,1,1,1
-4,charmander,11,45,Growl,1,1,2
-4,charmander,11,52,Ember,1,7,
-4,charmander,11,53,Flamethrower,1,37,
-4,charmander,11,82,Dragon Rage,1,16,
-4,charmander,11,83,Fire Spin,1,43,
-4,charmander,11,108,Smokescreen,1,10,
-4,charmander,11,163,Slash,1,34,
-4,charmander,11,184,Scary Face,1,19,
-4,charmander,11,424,Fire Fang,1,25,
-4,charmander,11,481,Flame Burst,1,28,
-4,charmander,11,517,Inferno,1,46,
-4,charmander,12,10,Scratch,1,1,1
-4,charmander,12,45,Growl,1,1,2
-4,charmander,12,52,Ember,1,7,
-4,charmander,12,53,Flamethrower,1,31,
-4,charmander,12,82,Dragon Rage,1,43,
-4,charmander,12,83,Fire Spin,1,49,
-4,charmander,12,99,Rage,1,19,
-4,charmander,12,108,Smokescreen,1,13,
-4,charmander,12,163,Slash,1,37,
-4,charmander,12,184,Scary Face,1,25,
-4,charmander,13,10,Scratch,1,1,1
-4,charmander,13,45,Growl,1,1,2
-4,charmander,13,52,Ember,1,7,
-4,charmander,13,53,Flamethrower,1,31,
-4,charmander,13,82,Dragon Rage,1,43,
-4,charmander,13,83,Fire Spin,1,49,
-4,charmander,13,99,Rage,1,19,
-4,charmander,13,108,Smokescreen,1,13,
-4,charmander,13,163,Slash,1,37,
-4,charmander,13,184,Scary Face,1,25,
-4,charmander,14,10,Scratch,1,1,1
-4,charmander,14,45,Growl,1,1,2
-4,charmander,14,52,Ember,1,7,
-4,charmander,14,53,Flamethrower,1,37,
-4,charmander,14,82,Dragon Rage,1,16,
-4,charmander,14,83,Fire Spin,1,43,
-4,charmander,14,108,Smokescreen,1,10,
-4,charmander,14,163,Slash,1,34,
-4,charmander,14,184,Scary Face,1,19,
-4,charmander,14,424,Fire Fang,1,25,
-4,charmander,14,481,Flame Burst,1,28,
-4,charmander,14,517,Inferno,1,46,
-4,charmander,15,10,Scratch,1,1,1
-4,charmander,15,45,Growl,1,1,2
-4,charmander,15,52,Ember,1,7,
-4,charmander,15,53,Flamethrower,1,37,
-4,charmander,15,82,Dragon Rage,1,16,
-4,charmander,15,83,Fire Spin,1,43,
-4,charmander,15,108,Smokescreen,1,10,
-4,charmander,15,163,Slash,1,34,
-4,charmander,15,184,Scary Face,1,19,
-4,charmander,15,424,Fire Fang,1,25,
-4,charmander,15,481,Flame Burst,1,28,
-4,charmander,15,517,Inferno,1,46,
-4,charmander,16,10,Scratch,1,1,1
-4,charmander,16,45,Growl,1,1,2
-4,charmander,16,52,Ember,1,7,1
-4,charmander,16,53,Flamethrower,1,37,1
-4,charmander,16,82,Dragon Rage,1,16,1
-4,charmander,16,83,Fire Spin,1,43,1
-4,charmander,16,108,Smokescreen,1,10,1
-4,charmander,16,163,Slash,1,34,1
-4,charmander,16,184,Scary Face,1,19,1
-4,charmander,16,424,Fire Fang,1,25,1
-4,charmander,16,481,Flame Burst,1,28,1
-4,charmander,16,517,Inferno,1,46,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+4,1,Scratch,1,normal,40,100
+4,1,Growl,1,normal,-,100
+4,2,Scratch,1,normal,40,100
+4,2,Growl,1,normal,-,100
+4,3,Scratch,1,normal,40,100
+4,3,Growl,1,normal,-,100
+4,4,Scratch,1,normal,40,100
+4,4,Growl,1,normal,-,100
+4,5,Scratch,1,normal,40,100
+4,5,Growl,1,normal,-,100
+4,6,Scratch,1,normal,40,100
+4,6,Growl,1,normal,-,100
+4,7,Scratch,1,normal,40,100
+4,7,Growl,1,normal,-,100
+4,8,Scratch,1,normal,40,100
+4,8,Growl,1,normal,-,100
+4,9,Scratch,1,normal,40,100
+4,9,Growl,1,normal,-,100
+4,10,Scratch,1,normal,40,100
+4,10,Growl,1,normal,-,100
+4,11,Scratch,1,normal,40,100
+4,11,Growl,1,normal,-,100
+4,12,Scratch,1,normal,40,100
+4,12,Growl,1,normal,-,100
+4,13,Scratch,1,normal,40,100
+4,13,Growl,1,normal,-,100
+4,14,Scratch,1,normal,40,100
+4,14,Growl,1,normal,-,100
+4,15,Scratch,1,normal,40,100
+4,15,Growl,1,normal,-,100
+4,16,Scratch,1,normal,40,100
+4,16,Growl,1,normal,-,100
+4,3,Ember,7,fire,40,100
+4,4,Ember,7,fire,40,100
+4,5,Ember,7,fire,40,100
+4,6,Ember,7,fire,40,100
+4,7,Ember,7,fire,40,100
+4,8,Ember,7,fire,40,100
+4,9,Ember,7,fire,40,100
+4,10,Ember,7,fire,40,100
+4,11,Ember,7,fire,40,100
+4,12,Ember,7,fire,40,100
+4,13,Ember,7,fire,40,100
+4,14,Ember,7,fire,40,100
+4,15,Ember,7,fire,40,100
+4,16,Ember,7,fire,40,100
+4,1,Ember,9,fire,40,100
+4,2,Ember,9,fire,40,100
+4,8,Smokescreen,10,normal,-,100
+4,9,Smokescreen,10,normal,-,100
+4,10,Smokescreen,10,normal,-,100
+4,11,Smokescreen,10,normal,-,100
+4,14,Smokescreen,10,normal,-,100
+4,15,Smokescreen,10,normal,-,100
+4,16,Smokescreen,10,normal,-,100
+4,3,Smokescreen,13,normal,-,100
+4,4,Smokescreen,13,normal,-,100
+4,5,Smokescreen,13,normal,-,100
+4,6,Smokescreen,13,normal,-,100
+4,7,Metal Claw,13,steel,50,95
+4,12,Smokescreen,13,normal,-,100
+4,13,Smokescreen,13,normal,-,100
+4,1,Leer,15,normal,-,100
+4,2,Leer,15,normal,-,100
+4,8,Dragon Rage,16,dragon,-,100
+4,9,Dragon Rage,16,dragon,-,100
+4,10,Dragon Rage,16,dragon,-,100
+4,11,Dragon Rage,16,dragon,-,100
+4,14,Dragon Rage,16,dragon,-,100
+4,15,Dragon Rage,16,dragon,-,100
+4,16,Dragon Rage,16,dragon,-,100
+4,3,Rage,19,normal,20,100
+4,4,Rage,19,normal,20,100
+4,5,Rage,19,normal,20,100
+4,6,Rage,19,normal,20,100
+4,7,Smokescreen,19,normal,-,100
+4,8,Scary Face,19,normal,-,100
+4,9,Scary Face,19,normal,-,100
+4,10,Scary Face,19,normal,-,100
+4,11,Scary Face,19,normal,-,100
+4,12,Rage,19,normal,20,100
+4,13,Rage,19,normal,20,100
+4,14,Scary Face,19,normal,-,100
+4,15,Scary Face,19,normal,-,100
+4,16,Scary Face,19,normal,-,100
+4,1,Rage,22,normal,20,100
+4,2,Rage,22,normal,20,100
+4,3,Scary Face,25,normal,-,100
+4,4,Scary Face,25,normal,-,100
+4,5,Scary Face,25,normal,-,100
+4,6,Scary Face,25,normal,-,100
+4,7,Scary Face,25,normal,-,100
+4,8,Fire Fang,25,fire,65,95
+4,9,Fire Fang,25,fire,65,95
+4,10,Fire Fang,25,fire,65,95
+4,11,Fire Fang,25,fire,65,95
+4,12,Scary Face,25,normal,-,100
+4,13,Scary Face,25,normal,-,100
+4,14,Fire Fang,25,fire,65,95
+4,15,Fire Fang,25,fire,65,95
+4,16,Fire Fang,25,fire,65,95
+4,8,Slash,28,normal,70,100
+4,9,Slash,28,normal,70,100
+4,10,Slash,28,normal,70,100
+4,11,Flame Burst,28,fire,70,100
+4,14,Flame Burst,28,fire,70,100
+4,15,Flame Burst,28,fire,70,100
+4,16,Flame Burst,28,fire,70,100
+4,1,Slash,30,normal,70,100
+4,2,Slash,30,normal,70,100
+4,3,Flamethrower,31,fire,90,100
+4,4,Flamethrower,31,fire,90,100
+4,5,Flamethrower,31,fire,90,100
+4,6,Flamethrower,31,fire,90,100
+4,7,Flamethrower,31,fire,90,100
+4,12,Flamethrower,31,fire,90,100
+4,13,Flamethrower,31,fire,90,100
+4,8,Flamethrower,34,fire,90,100
+4,9,Flamethrower,34,fire,90,100
+4,10,Flamethrower,34,fire,90,100
+4,11,Slash,34,normal,70,100
+4,14,Slash,34,normal,70,100
+4,15,Slash,34,normal,70,100
+4,16,Slash,34,normal,70,100
+4,3,Slash,37,normal,70,100
+4,4,Slash,37,normal,70,100
+4,5,Slash,37,normal,70,100
+4,6,Slash,37,normal,70,100
+4,7,Slash,37,normal,70,100
+4,8,Fire Spin,37,fire,35,85
+4,9,Fire Spin,37,fire,35,85
+4,10,Fire Spin,37,fire,35,85
+4,11,Flamethrower,37,fire,90,100
+4,12,Slash,37,normal,70,100
+4,13,Slash,37,normal,70,100
+4,14,Flamethrower,37,fire,90,100
+4,15,Flamethrower,37,fire,90,100
+4,16,Flamethrower,37,fire,90,100
+4,1,Flamethrower,38,fire,90,100
+4,2,Flamethrower,38,fire,90,100
+4,3,Dragon Rage,43,dragon,-,100
+4,4,Dragon Rage,43,dragon,-,100
+4,5,Dragon Rage,43,dragon,-,100
+4,6,Dragon Rage,43,dragon,-,100
+4,7,Dragon Rage,43,dragon,-,100
+4,11,Fire Spin,43,fire,35,85
+4,12,Dragon Rage,43,dragon,-,100
+4,13,Dragon Rage,43,dragon,-,100
+4,14,Fire Spin,43,fire,35,85
+4,15,Fire Spin,43,fire,35,85
+4,16,Fire Spin,43,fire,35,85
+4,1,Fire Spin,46,fire,35,85
+4,2,Fire Spin,46,fire,35,85
+4,11,Inferno,46,fire,100,50
+4,14,Inferno,46,fire,100,50
+4,15,Inferno,46,fire,100,50
+4,16,Inferno,46,fire,100,50
+4,3,Fire Spin,49,fire,35,85
+4,4,Fire Spin,49,fire,35,85
+4,5,Fire Spin,49,fire,35,85
+4,6,Fire Spin,49,fire,35,85
+4,7,Fire Spin,49,fire,35,85
+4,12,Fire Spin,49,fire,35,85
+4,13,Fire Spin,49,fire,35,85

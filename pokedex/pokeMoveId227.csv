@@ -1,167 +1,167 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-227,skarmory,3,28,Sand Attack,1,13,
-227,skarmory,3,31,Fury Attack,1,37,
-227,skarmory,3,43,Leer,1,1,1
-227,skarmory,3,64,Peck,1,1,2
-227,skarmory,3,97,Agility,1,25,
-227,skarmory,3,129,Swift,1,19,
-227,skarmory,3,211,Steel Wing,1,49,
-227,skarmory,4,28,Sand Attack,1,13,
-227,skarmory,4,31,Fury Attack,1,37,
-227,skarmory,4,43,Leer,1,1,1
-227,skarmory,4,64,Peck,1,1,2
-227,skarmory,4,97,Agility,1,25,
-227,skarmory,4,129,Swift,1,19,
-227,skarmory,4,211,Steel Wing,1,49,
-227,skarmory,5,28,Sand Attack,1,10,
-227,skarmory,5,31,Fury Attack,1,26,
-227,skarmory,5,43,Leer,1,1,1
-227,skarmory,5,64,Peck,1,1,2
-227,skarmory,5,97,Agility,1,16,
-227,skarmory,5,129,Swift,1,13,
-227,skarmory,5,191,Spikes,1,42,
-227,skarmory,5,211,Steel Wing,1,32,
-227,skarmory,5,314,Air Cutter,1,29,
-227,skarmory,5,319,Metal Sound,1,45,
-227,skarmory,6,28,Sand Attack,1,10,
-227,skarmory,6,31,Fury Attack,1,26,
-227,skarmory,6,43,Leer,1,1,1
-227,skarmory,6,64,Peck,1,1,2
-227,skarmory,6,97,Agility,1,16,
-227,skarmory,6,129,Swift,1,13,
-227,skarmory,6,191,Spikes,1,42,
-227,skarmory,6,211,Steel Wing,1,32,
-227,skarmory,6,314,Air Cutter,1,29,
-227,skarmory,6,319,Metal Sound,1,45,
-227,skarmory,7,28,Sand Attack,1,10,
-227,skarmory,7,31,Fury Attack,1,26,
-227,skarmory,7,43,Leer,1,1,1
-227,skarmory,7,64,Peck,1,1,2
-227,skarmory,7,97,Agility,1,16,
-227,skarmory,7,129,Swift,1,13,
-227,skarmory,7,191,Spikes,1,42,
-227,skarmory,7,211,Steel Wing,1,32,
-227,skarmory,7,314,Air Cutter,1,29,
-227,skarmory,7,319,Metal Sound,1,45,
-227,skarmory,8,28,Sand Attack,1,7,
-227,skarmory,8,31,Fury Attack,1,20,
-227,skarmory,8,43,Leer,1,1,1
-227,skarmory,8,64,Peck,1,1,2
-227,skarmory,8,97,Agility,1,14,
-227,skarmory,8,129,Swift,1,11,
-227,skarmory,8,163,Slash,1,46,
-227,skarmory,8,191,Spikes,1,27,
-227,skarmory,8,211,Steel Wing,1,38,
-227,skarmory,8,314,Air Cutter,1,24,
-227,skarmory,8,319,Metal Sound,1,33,
-227,skarmory,8,400,Night Slash,1,50,
-227,skarmory,8,403,Air Slash,1,40,
-227,skarmory,9,28,Sand Attack,1,6,
-227,skarmory,9,31,Fury Attack,1,17,
-227,skarmory,9,43,Leer,1,1,1
-227,skarmory,9,64,Peck,1,1,2
-227,skarmory,9,97,Agility,1,12,
-227,skarmory,9,129,Swift,1,9,
-227,skarmory,9,163,Slash,1,42,
-227,skarmory,9,191,Spikes,1,28,
-227,skarmory,9,211,Steel Wing,1,34,
-227,skarmory,9,314,Air Cutter,1,23,
-227,skarmory,9,319,Metal Sound,1,31,
-227,skarmory,9,364,Feint,1,20,
-227,skarmory,9,400,Night Slash,1,45,
-227,skarmory,9,403,Air Slash,1,39,
-227,skarmory,10,28,Sand Attack,1,6,
-227,skarmory,10,31,Fury Attack,1,17,
-227,skarmory,10,43,Leer,1,1,1
-227,skarmory,10,64,Peck,1,1,2
-227,skarmory,10,97,Agility,1,12,
-227,skarmory,10,129,Swift,1,9,
-227,skarmory,10,163,Slash,1,42,
-227,skarmory,10,191,Spikes,1,28,
-227,skarmory,10,211,Steel Wing,1,34,
-227,skarmory,10,314,Air Cutter,1,23,
-227,skarmory,10,319,Metal Sound,1,31,
-227,skarmory,10,364,Feint,1,20,
-227,skarmory,10,400,Night Slash,1,45,
-227,skarmory,10,403,Air Slash,1,39,
-227,skarmory,11,28,Sand Attack,1,6,
-227,skarmory,11,31,Fury Attack,1,17,
-227,skarmory,11,43,Leer,1,1,1
-227,skarmory,11,64,Peck,1,1,2
-227,skarmory,11,97,Agility,1,12,
-227,skarmory,11,129,Swift,1,9,
-227,skarmory,11,163,Slash,1,45,
-227,skarmory,11,191,Spikes,1,28,
-227,skarmory,11,211,Steel Wing,1,34,
-227,skarmory,11,314,Air Cutter,1,23,
-227,skarmory,11,319,Metal Sound,1,31,
-227,skarmory,11,364,Feint,1,20,
-227,skarmory,11,400,Night Slash,1,50,
-227,skarmory,11,403,Air Slash,1,42,
-227,skarmory,11,475,Autotomize,1,39,
-227,skarmory,12,28,Sand Attack,1,10,
-227,skarmory,12,31,Fury Attack,1,26,
-227,skarmory,12,43,Leer,1,1,1
-227,skarmory,12,64,Peck,1,1,2
-227,skarmory,12,97,Agility,1,16,
-227,skarmory,12,129,Swift,1,13,
-227,skarmory,12,191,Spikes,1,42,
-227,skarmory,12,211,Steel Wing,1,32,
-227,skarmory,12,314,Air Cutter,1,29,
-227,skarmory,12,319,Metal Sound,1,45,
-227,skarmory,13,28,Sand Attack,1,10,
-227,skarmory,13,31,Fury Attack,1,26,
-227,skarmory,13,43,Leer,1,1,1
-227,skarmory,13,64,Peck,1,1,2
-227,skarmory,13,97,Agility,1,16,
-227,skarmory,13,129,Swift,1,13,
-227,skarmory,13,191,Spikes,1,42,
-227,skarmory,13,211,Steel Wing,1,32,
-227,skarmory,13,314,Air Cutter,1,29,
-227,skarmory,13,319,Metal Sound,1,45,
-227,skarmory,14,28,Sand Attack,1,6,
-227,skarmory,14,31,Fury Attack,1,17,
-227,skarmory,14,43,Leer,1,1,1
-227,skarmory,14,64,Peck,1,1,2
-227,skarmory,14,97,Agility,1,12,
-227,skarmory,14,129,Swift,1,9,
-227,skarmory,14,163,Slash,1,45,
-227,skarmory,14,191,Spikes,1,28,
-227,skarmory,14,211,Steel Wing,1,34,
-227,skarmory,14,314,Air Cutter,1,23,
-227,skarmory,14,319,Metal Sound,1,31,
-227,skarmory,14,364,Feint,1,20,
-227,skarmory,14,400,Night Slash,1,50,
-227,skarmory,14,403,Air Slash,1,42,
-227,skarmory,14,475,Autotomize,1,39,
-227,skarmory,15,28,Sand Attack,1,6,
-227,skarmory,15,31,Fury Attack,1,17,
-227,skarmory,15,43,Leer,1,1,1
-227,skarmory,15,64,Peck,1,1,2
-227,skarmory,15,97,Agility,1,12,
-227,skarmory,15,129,Swift,1,9,
-227,skarmory,15,163,Slash,1,45,
-227,skarmory,15,191,Spikes,1,28,
-227,skarmory,15,211,Steel Wing,1,34,
-227,skarmory,15,314,Air Cutter,1,23,
-227,skarmory,15,319,Metal Sound,1,31,
-227,skarmory,15,364,Feint,1,20,
-227,skarmory,15,400,Night Slash,1,50,
-227,skarmory,15,403,Air Slash,1,42,
-227,skarmory,15,475,Autotomize,1,39,
-227,skarmory,16,28,Sand Attack,1,6,1
-227,skarmory,16,31,Fury Attack,1,17,1
-227,skarmory,16,43,Leer,1,1,1
-227,skarmory,16,64,Peck,1,1,2
-227,skarmory,16,97,Agility,1,31,1
-227,skarmory,16,129,Swift,1,23,1
-227,skarmory,16,163,Slash,1,39,1
-227,skarmory,16,191,Spikes,1,28,1
-227,skarmory,16,211,Steel Wing,1,34,1
-227,skarmory,16,232,Metal Claw,1,9,1
-227,skarmory,16,314,Air Cutter,1,12,1
-227,skarmory,16,319,Metal Sound,1,42,1
-227,skarmory,16,364,Feint,1,20,1
-227,skarmory,16,400,Night Slash,1,53,1
-227,skarmory,16,403,Air Slash,1,45,1
-227,skarmory,16,475,Autotomize,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+227,3,Leer,1,normal,-,100
+227,3,Peck,1,flying,35,100
+227,4,Leer,1,normal,-,100
+227,4,Peck,1,flying,35,100
+227,5,Leer,1,normal,-,100
+227,5,Peck,1,flying,35,100
+227,6,Leer,1,normal,-,100
+227,6,Peck,1,flying,35,100
+227,7,Leer,1,normal,-,100
+227,7,Peck,1,flying,35,100
+227,8,Leer,1,normal,-,100
+227,8,Peck,1,flying,35,100
+227,9,Leer,1,normal,-,100
+227,9,Peck,1,flying,35,100
+227,10,Leer,1,normal,-,100
+227,10,Peck,1,flying,35,100
+227,11,Leer,1,normal,-,100
+227,11,Peck,1,flying,35,100
+227,12,Leer,1,normal,-,100
+227,12,Peck,1,flying,35,100
+227,13,Leer,1,normal,-,100
+227,13,Peck,1,flying,35,100
+227,14,Leer,1,normal,-,100
+227,14,Peck,1,flying,35,100
+227,15,Leer,1,normal,-,100
+227,15,Peck,1,flying,35,100
+227,16,Leer,1,normal,-,100
+227,16,Peck,1,flying,35,100
+227,9,Sand Attack,6,ground,-,100
+227,10,Sand Attack,6,ground,-,100
+227,11,Sand Attack,6,ground,-,100
+227,14,Sand Attack,6,ground,-,100
+227,15,Sand Attack,6,ground,-,100
+227,16,Sand Attack,6,ground,-,100
+227,8,Sand Attack,7,ground,-,100
+227,9,Swift,9,normal,60,-
+227,10,Swift,9,normal,60,-
+227,11,Swift,9,normal,60,-
+227,14,Swift,9,normal,60,-
+227,15,Swift,9,normal,60,-
+227,16,Metal Claw,9,steel,50,95
+227,5,Sand Attack,10,ground,-,100
+227,6,Sand Attack,10,ground,-,100
+227,7,Sand Attack,10,ground,-,100
+227,12,Sand Attack,10,ground,-,100
+227,13,Sand Attack,10,ground,-,100
+227,8,Swift,11,normal,60,-
+227,9,Agility,12,psychic,-,-
+227,10,Agility,12,psychic,-,-
+227,11,Agility,12,psychic,-,-
+227,14,Agility,12,psychic,-,-
+227,15,Agility,12,psychic,-,-
+227,16,Air Cutter,12,flying,60,95
+227,3,Sand Attack,13,ground,-,100
+227,4,Sand Attack,13,ground,-,100
+227,5,Swift,13,normal,60,-
+227,6,Swift,13,normal,60,-
+227,7,Swift,13,normal,60,-
+227,12,Swift,13,normal,60,-
+227,13,Swift,13,normal,60,-
+227,8,Agility,14,psychic,-,-
+227,5,Agility,16,psychic,-,-
+227,6,Agility,16,psychic,-,-
+227,7,Agility,16,psychic,-,-
+227,12,Agility,16,psychic,-,-
+227,13,Agility,16,psychic,-,-
+227,9,Fury Attack,17,normal,15,85
+227,10,Fury Attack,17,normal,15,85
+227,11,Fury Attack,17,normal,15,85
+227,14,Fury Attack,17,normal,15,85
+227,15,Fury Attack,17,normal,15,85
+227,16,Fury Attack,17,normal,15,85
+227,3,Swift,19,normal,60,-
+227,4,Swift,19,normal,60,-
+227,8,Fury Attack,20,normal,15,85
+227,9,Feint,20,normal,30,100
+227,10,Feint,20,normal,30,100
+227,11,Feint,20,normal,30,100
+227,14,Feint,20,normal,30,100
+227,15,Feint,20,normal,30,100
+227,16,Feint,20,normal,30,100
+227,9,Air Cutter,23,flying,60,95
+227,10,Air Cutter,23,flying,60,95
+227,11,Air Cutter,23,flying,60,95
+227,14,Air Cutter,23,flying,60,95
+227,15,Air Cutter,23,flying,60,95
+227,16,Swift,23,normal,60,-
+227,8,Air Cutter,24,flying,60,95
+227,3,Agility,25,psychic,-,-
+227,4,Agility,25,psychic,-,-
+227,5,Fury Attack,26,normal,15,85
+227,6,Fury Attack,26,normal,15,85
+227,7,Fury Attack,26,normal,15,85
+227,12,Fury Attack,26,normal,15,85
+227,13,Fury Attack,26,normal,15,85
+227,8,Spikes,27,ground,-,-
+227,9,Spikes,28,ground,-,-
+227,10,Spikes,28,ground,-,-
+227,11,Spikes,28,ground,-,-
+227,14,Spikes,28,ground,-,-
+227,15,Spikes,28,ground,-,-
+227,16,Spikes,28,ground,-,-
+227,5,Air Cutter,29,flying,60,95
+227,6,Air Cutter,29,flying,60,95
+227,7,Air Cutter,29,flying,60,95
+227,12,Air Cutter,29,flying,60,95
+227,13,Air Cutter,29,flying,60,95
+227,9,Metal Sound,31,steel,-,85
+227,10,Metal Sound,31,steel,-,85
+227,11,Metal Sound,31,steel,-,85
+227,14,Metal Sound,31,steel,-,85
+227,15,Metal Sound,31,steel,-,85
+227,16,Agility,31,psychic,-,-
+227,5,Steel Wing,32,steel,70,90
+227,6,Steel Wing,32,steel,70,90
+227,7,Steel Wing,32,steel,70,90
+227,12,Steel Wing,32,steel,70,90
+227,13,Steel Wing,32,steel,70,90
+227,8,Metal Sound,33,steel,-,85
+227,9,Steel Wing,34,steel,70,90
+227,10,Steel Wing,34,steel,70,90
+227,11,Steel Wing,34,steel,70,90
+227,14,Steel Wing,34,steel,70,90
+227,15,Steel Wing,34,steel,70,90
+227,16,Steel Wing,34,steel,70,90
+227,3,Fury Attack,37,normal,15,85
+227,4,Fury Attack,37,normal,15,85
+227,8,Steel Wing,38,steel,70,90
+227,9,Air Slash,39,flying,75,95
+227,10,Air Slash,39,flying,75,95
+227,11,Autotomize,39,steel,-,-
+227,14,Autotomize,39,steel,-,-
+227,15,Autotomize,39,steel,-,-
+227,16,Slash,39,normal,70,100
+227,8,Air Slash,40,flying,75,95
+227,5,Spikes,42,ground,-,-
+227,6,Spikes,42,ground,-,-
+227,7,Spikes,42,ground,-,-
+227,9,Slash,42,normal,70,100
+227,10,Slash,42,normal,70,100
+227,11,Air Slash,42,flying,75,95
+227,12,Spikes,42,ground,-,-
+227,13,Spikes,42,ground,-,-
+227,14,Air Slash,42,flying,75,95
+227,15,Air Slash,42,flying,75,95
+227,16,Metal Sound,42,steel,-,85
+227,5,Metal Sound,45,steel,-,85
+227,6,Metal Sound,45,steel,-,85
+227,7,Metal Sound,45,steel,-,85
+227,9,Night Slash,45,dark,70,100
+227,10,Night Slash,45,dark,70,100
+227,11,Slash,45,normal,70,100
+227,12,Metal Sound,45,steel,-,85
+227,13,Metal Sound,45,steel,-,85
+227,14,Slash,45,normal,70,100
+227,15,Slash,45,normal,70,100
+227,16,Air Slash,45,flying,75,95
+227,8,Slash,46,normal,70,100
+227,3,Steel Wing,49,steel,70,90
+227,4,Steel Wing,49,steel,70,90
+227,8,Night Slash,50,dark,70,100
+227,11,Night Slash,50,dark,70,100
+227,14,Night Slash,50,dark,70,100
+227,15,Night Slash,50,dark,70,100
+227,16,Autotomize,50,steel,-,-
+227,16,Night Slash,53,dark,70,100

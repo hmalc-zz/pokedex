@@ -1,82 +1,82 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-410,shieldon,8,33,Tackle,1,1,1
-410,shieldon,8,36,Take Down,1,15,
-410,shieldon,8,182,Protect,1,1,2
-410,shieldon,8,203,Endure,1,33,
-410,shieldon,8,207,Swagger,1,24,
-410,shieldon,8,246,Ancient Power,1,28,
-410,shieldon,8,269,Taunt,1,6,
-410,shieldon,8,319,Metal Sound,1,10,
-410,shieldon,8,334,Iron Defense,1,19,
-410,shieldon,8,368,Metal Burst,1,37,
-410,shieldon,8,442,Iron Head,1,43,
-410,shieldon,9,33,Tackle,1,1,1
-410,shieldon,9,36,Take Down,1,15,
-410,shieldon,9,182,Protect,1,1,2
-410,shieldon,9,203,Endure,1,33,
-410,shieldon,9,207,Swagger,1,24,
-410,shieldon,9,246,Ancient Power,1,28,
-410,shieldon,9,269,Taunt,1,6,
-410,shieldon,9,319,Metal Sound,1,10,
-410,shieldon,9,334,Iron Defense,1,19,
-410,shieldon,9,368,Metal Burst,1,37,
-410,shieldon,9,442,Iron Head,1,43,
-410,shieldon,10,33,Tackle,1,1,1
-410,shieldon,10,36,Take Down,1,15,
-410,shieldon,10,182,Protect,1,1,2
-410,shieldon,10,203,Endure,1,33,
-410,shieldon,10,207,Swagger,1,24,
-410,shieldon,10,246,Ancient Power,1,28,
-410,shieldon,10,269,Taunt,1,6,
-410,shieldon,10,319,Metal Sound,1,10,
-410,shieldon,10,334,Iron Defense,1,19,
-410,shieldon,10,368,Metal Burst,1,37,
-410,shieldon,10,442,Iron Head,1,43,
-410,shieldon,11,33,Tackle,1,1,1
-410,shieldon,11,36,Take Down,1,15,
-410,shieldon,11,182,Protect,1,1,2
-410,shieldon,11,203,Endure,1,33,
-410,shieldon,11,207,Swagger,1,24,
-410,shieldon,11,246,Ancient Power,1,28,
-410,shieldon,11,269,Taunt,1,6,
-410,shieldon,11,319,Metal Sound,1,10,
-410,shieldon,11,334,Iron Defense,1,19,
-410,shieldon,11,368,Metal Burst,1,37,
-410,shieldon,11,442,Iron Head,1,42,
-410,shieldon,11,484,Heavy Slam,1,46,
-410,shieldon,14,33,Tackle,1,1,1
-410,shieldon,14,36,Take Down,1,15,
-410,shieldon,14,182,Protect,1,1,2
-410,shieldon,14,203,Endure,1,33,
-410,shieldon,14,207,Swagger,1,24,
-410,shieldon,14,246,Ancient Power,1,28,
-410,shieldon,14,269,Taunt,1,6,
-410,shieldon,14,319,Metal Sound,1,10,
-410,shieldon,14,334,Iron Defense,1,19,
-410,shieldon,14,368,Metal Burst,1,37,
-410,shieldon,14,442,Iron Head,1,42,
-410,shieldon,14,484,Heavy Slam,1,46,
-410,shieldon,15,33,Tackle,1,1,1
-410,shieldon,15,36,Take Down,1,15,
-410,shieldon,15,182,Protect,1,1,2
-410,shieldon,15,203,Endure,1,33,
-410,shieldon,15,207,Swagger,1,24,
-410,shieldon,15,246,Ancient Power,1,28,
-410,shieldon,15,269,Taunt,1,6,
-410,shieldon,15,319,Metal Sound,1,10,
-410,shieldon,15,334,Iron Defense,1,19,
-410,shieldon,15,368,Metal Burst,1,37,
-410,shieldon,15,442,Iron Head,1,42,
-410,shieldon,15,484,Heavy Slam,1,46,
-410,shieldon,16,33,Tackle,1,1,1
-410,shieldon,16,36,Take Down,1,15,1
-410,shieldon,16,182,Protect,1,1,2
-410,shieldon,16,203,Endure,1,33,1
-410,shieldon,16,207,Swagger,1,24,1
-410,shieldon,16,246,Ancient Power,1,28,1
-410,shieldon,16,269,Taunt,1,6,1
-410,shieldon,16,319,Metal Sound,1,10,1
-410,shieldon,16,334,Iron Defense,1,19,1
-410,shieldon,16,368,Metal Burst,1,37,1
-410,shieldon,16,442,Iron Head,1,42,1
-410,shieldon,16,484,Heavy Slam,1,46,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+410,8,Tackle,1,normal,50,100
+410,8,Protect,1,normal,-,-
+410,9,Tackle,1,normal,50,100
+410,9,Protect,1,normal,-,-
+410,10,Tackle,1,normal,50,100
+410,10,Protect,1,normal,-,-
+410,11,Tackle,1,normal,50,100
+410,11,Protect,1,normal,-,-
+410,14,Tackle,1,normal,50,100
+410,14,Protect,1,normal,-,-
+410,15,Tackle,1,normal,50,100
+410,15,Protect,1,normal,-,-
+410,16,Tackle,1,normal,50,100
+410,16,Protect,1,normal,-,-
+410,8,Taunt,6,dark,-,100
+410,9,Taunt,6,dark,-,100
+410,10,Taunt,6,dark,-,100
+410,11,Taunt,6,dark,-,100
+410,14,Taunt,6,dark,-,100
+410,15,Taunt,6,dark,-,100
+410,16,Taunt,6,dark,-,100
+410,8,Metal Sound,10,steel,-,85
+410,9,Metal Sound,10,steel,-,85
+410,10,Metal Sound,10,steel,-,85
+410,11,Metal Sound,10,steel,-,85
+410,14,Metal Sound,10,steel,-,85
+410,15,Metal Sound,10,steel,-,85
+410,16,Metal Sound,10,steel,-,85
+410,8,Take Down,15,normal,90,85
+410,9,Take Down,15,normal,90,85
+410,10,Take Down,15,normal,90,85
+410,11,Take Down,15,normal,90,85
+410,14,Take Down,15,normal,90,85
+410,15,Take Down,15,normal,90,85
+410,16,Take Down,15,normal,90,85
+410,8,Iron Defense,19,steel,-,-
+410,9,Iron Defense,19,steel,-,-
+410,10,Iron Defense,19,steel,-,-
+410,11,Iron Defense,19,steel,-,-
+410,14,Iron Defense,19,steel,-,-
+410,15,Iron Defense,19,steel,-,-
+410,16,Iron Defense,19,steel,-,-
+410,8,Swagger,24,normal,-,90
+410,9,Swagger,24,normal,-,90
+410,10,Swagger,24,normal,-,90
+410,11,Swagger,24,normal,-,90
+410,14,Swagger,24,normal,-,90
+410,15,Swagger,24,normal,-,90
+410,16,Swagger,24,normal,-,90
+410,8,Ancient Power,28,rock,60,100
+410,9,Ancient Power,28,rock,60,100
+410,10,Ancient Power,28,rock,60,100
+410,11,Ancient Power,28,rock,60,100
+410,14,Ancient Power,28,rock,60,100
+410,15,Ancient Power,28,rock,60,100
+410,16,Ancient Power,28,rock,60,100
+410,8,Endure,33,normal,-,-
+410,9,Endure,33,normal,-,-
+410,10,Endure,33,normal,-,-
+410,11,Endure,33,normal,-,-
+410,14,Endure,33,normal,-,-
+410,15,Endure,33,normal,-,-
+410,16,Endure,33,normal,-,-
+410,8,Metal Burst,37,steel,-,100
+410,9,Metal Burst,37,steel,-,100
+410,10,Metal Burst,37,steel,-,100
+410,11,Metal Burst,37,steel,-,100
+410,14,Metal Burst,37,steel,-,100
+410,15,Metal Burst,37,steel,-,100
+410,16,Metal Burst,37,steel,-,100
+410,11,Iron Head,42,steel,80,100
+410,14,Iron Head,42,steel,80,100
+410,15,Iron Head,42,steel,80,100
+410,16,Iron Head,42,steel,80,100
+410,8,Iron Head,43,steel,80,100
+410,9,Iron Head,43,steel,80,100
+410,10,Iron Head,43,steel,80,100
+410,11,Heavy Slam,46,steel,-,100
+410,14,Heavy Slam,46,steel,-,100
+410,15,Heavy Slam,46,steel,-,100
+410,16,Heavy Slam,46,steel,-,100

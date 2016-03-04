@@ -1,105 +1,105 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-103,exeggutor,1,23,Stomp,1,28,
-103,exeggutor,1,95,Hypnosis,1,1,2
-103,exeggutor,1,140,Barrage,1,1,1
-103,exeggutor,2,23,Stomp,1,28,
-103,exeggutor,2,95,Hypnosis,1,1,2
-103,exeggutor,2,140,Barrage,1,1,1
-103,exeggutor,3,23,Stomp,1,19,
-103,exeggutor,3,93,Confusion,1,1,3
-103,exeggutor,3,95,Hypnosis,1,1,2
-103,exeggutor,3,121,Egg Bomb,1,31,
-103,exeggutor,3,140,Barrage,1,1,1
-103,exeggutor,4,23,Stomp,1,19,
-103,exeggutor,4,93,Confusion,1,1,3
-103,exeggutor,4,95,Hypnosis,1,1,2
-103,exeggutor,4,121,Egg Bomb,1,31,
-103,exeggutor,4,140,Barrage,1,1,1
-103,exeggutor,5,23,Stomp,1,19,
-103,exeggutor,5,93,Confusion,1,1,3
-103,exeggutor,5,95,Hypnosis,1,1,2
-103,exeggutor,5,121,Egg Bomb,1,31,
-103,exeggutor,5,140,Barrage,1,1,1
-103,exeggutor,6,23,Stomp,1,19,
-103,exeggutor,6,93,Confusion,1,1,3
-103,exeggutor,6,95,Hypnosis,1,1,2
-103,exeggutor,6,121,Egg Bomb,1,31,
-103,exeggutor,6,140,Barrage,1,1,1
-103,exeggutor,7,23,Stomp,1,19,
-103,exeggutor,7,93,Confusion,1,1,3
-103,exeggutor,7,95,Hypnosis,1,1,2
-103,exeggutor,7,121,Egg Bomb,1,31,
-103,exeggutor,7,140,Barrage,1,1,1
-103,exeggutor,8,23,Stomp,1,1,5
-103,exeggutor,8,23,Stomp,1,17,
-103,exeggutor,8,93,Confusion,1,1,4
-103,exeggutor,8,95,Hypnosis,1,1,3
-103,exeggutor,8,121,Egg Bomb,1,27,
-103,exeggutor,8,140,Barrage,1,1,2
-103,exeggutor,8,402,Seed Bomb,1,1,1
-103,exeggutor,8,437,Leaf Storm,1,47,
-103,exeggutor,8,452,Wood Hammer,1,37,
-103,exeggutor,9,23,Stomp,1,1,5
-103,exeggutor,9,23,Stomp,1,17,
-103,exeggutor,9,93,Confusion,1,1,4
-103,exeggutor,9,95,Hypnosis,1,1,3
-103,exeggutor,9,121,Egg Bomb,1,27,
-103,exeggutor,9,140,Barrage,1,1,2
-103,exeggutor,9,402,Seed Bomb,1,1,1
-103,exeggutor,9,437,Leaf Storm,1,47,
-103,exeggutor,9,452,Wood Hammer,1,37,
-103,exeggutor,10,23,Stomp,1,1,5
-103,exeggutor,10,23,Stomp,1,17,
-103,exeggutor,10,93,Confusion,1,1,4
-103,exeggutor,10,95,Hypnosis,1,1,3
-103,exeggutor,10,121,Egg Bomb,1,27,
-103,exeggutor,10,140,Barrage,1,1,2
-103,exeggutor,10,402,Seed Bomb,1,1,1
-103,exeggutor,10,437,Leaf Storm,1,47,
-103,exeggutor,10,452,Wood Hammer,1,37,
-103,exeggutor,11,23,Stomp,1,1,5
-103,exeggutor,11,93,Confusion,1,1,4
-103,exeggutor,11,95,Hypnosis,1,1,3
-103,exeggutor,11,121,Egg Bomb,1,27,
-103,exeggutor,11,140,Barrage,1,1,2
-103,exeggutor,11,402,Seed Bomb,1,1,1
-103,exeggutor,11,437,Leaf Storm,1,47,
-103,exeggutor,11,452,Wood Hammer,1,37,
-103,exeggutor,11,473,Psyshock,1,17,
-103,exeggutor,12,23,Stomp,1,19,
-103,exeggutor,12,93,Confusion,1,1,3
-103,exeggutor,12,95,Hypnosis,1,1,2
-103,exeggutor,12,121,Egg Bomb,1,31,
-103,exeggutor,12,140,Barrage,1,1,1
-103,exeggutor,13,23,Stomp,1,19,
-103,exeggutor,13,93,Confusion,1,1,3
-103,exeggutor,13,95,Hypnosis,1,1,2
-103,exeggutor,13,121,Egg Bomb,1,31,
-103,exeggutor,13,140,Barrage,1,1,1
-103,exeggutor,14,23,Stomp,1,1,5
-103,exeggutor,14,93,Confusion,1,1,4
-103,exeggutor,14,95,Hypnosis,1,1,3
-103,exeggutor,14,121,Egg Bomb,1,27,
-103,exeggutor,14,140,Barrage,1,1,2
-103,exeggutor,14,402,Seed Bomb,1,1,1
-103,exeggutor,14,437,Leaf Storm,1,47,
-103,exeggutor,14,452,Wood Hammer,1,37,
-103,exeggutor,14,473,Psyshock,1,17,
-103,exeggutor,15,23,Stomp,1,1,5
-103,exeggutor,15,93,Confusion,1,1,4
-103,exeggutor,15,95,Hypnosis,1,1,3
-103,exeggutor,15,121,Egg Bomb,1,27,
-103,exeggutor,15,140,Barrage,1,1,2
-103,exeggutor,15,402,Seed Bomb,1,1,1
-103,exeggutor,15,437,Leaf Storm,1,47,
-103,exeggutor,15,452,Wood Hammer,1,37,
-103,exeggutor,15,473,Psyshock,1,17,
-103,exeggutor,16,23,Stomp,1,1,5
-103,exeggutor,16,93,Confusion,1,1,4
-103,exeggutor,16,95,Hypnosis,1,1,3
-103,exeggutor,16,121,Egg Bomb,1,27,1
-103,exeggutor,16,140,Barrage,1,1,2
-103,exeggutor,16,402,Seed Bomb,1,1,1
-103,exeggutor,16,437,Leaf Storm,1,47,1
-103,exeggutor,16,452,Wood Hammer,1,37,1
-103,exeggutor,16,473,Psyshock,1,17,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+103,1,Hypnosis,1,psychic,-,60
+103,1,Barrage,1,normal,15,85
+103,2,Hypnosis,1,psychic,-,60
+103,2,Barrage,1,normal,15,85
+103,3,Confusion,1,psychic,50,100
+103,3,Hypnosis,1,psychic,-,60
+103,3,Barrage,1,normal,15,85
+103,4,Confusion,1,psychic,50,100
+103,4,Hypnosis,1,psychic,-,60
+103,4,Barrage,1,normal,15,85
+103,5,Confusion,1,psychic,50,100
+103,5,Hypnosis,1,psychic,-,60
+103,5,Barrage,1,normal,15,85
+103,6,Confusion,1,psychic,50,100
+103,6,Hypnosis,1,psychic,-,60
+103,6,Barrage,1,normal,15,85
+103,7,Confusion,1,psychic,50,100
+103,7,Hypnosis,1,psychic,-,60
+103,7,Barrage,1,normal,15,85
+103,8,Stomp,1,normal,65,100
+103,8,Confusion,1,psychic,50,100
+103,8,Hypnosis,1,psychic,-,60
+103,8,Barrage,1,normal,15,85
+103,8,Seed Bomb,1,grass,80,100
+103,9,Stomp,1,normal,65,100
+103,9,Confusion,1,psychic,50,100
+103,9,Hypnosis,1,psychic,-,60
+103,9,Barrage,1,normal,15,85
+103,9,Seed Bomb,1,grass,80,100
+103,10,Stomp,1,normal,65,100
+103,10,Confusion,1,psychic,50,100
+103,10,Hypnosis,1,psychic,-,60
+103,10,Barrage,1,normal,15,85
+103,10,Seed Bomb,1,grass,80,100
+103,11,Stomp,1,normal,65,100
+103,11,Confusion,1,psychic,50,100
+103,11,Hypnosis,1,psychic,-,60
+103,11,Barrage,1,normal,15,85
+103,11,Seed Bomb,1,grass,80,100
+103,12,Confusion,1,psychic,50,100
+103,12,Hypnosis,1,psychic,-,60
+103,12,Barrage,1,normal,15,85
+103,13,Confusion,1,psychic,50,100
+103,13,Hypnosis,1,psychic,-,60
+103,13,Barrage,1,normal,15,85
+103,14,Stomp,1,normal,65,100
+103,14,Confusion,1,psychic,50,100
+103,14,Hypnosis,1,psychic,-,60
+103,14,Barrage,1,normal,15,85
+103,14,Seed Bomb,1,grass,80,100
+103,15,Stomp,1,normal,65,100
+103,15,Confusion,1,psychic,50,100
+103,15,Hypnosis,1,psychic,-,60
+103,15,Barrage,1,normal,15,85
+103,15,Seed Bomb,1,grass,80,100
+103,16,Stomp,1,normal,65,100
+103,16,Confusion,1,psychic,50,100
+103,16,Hypnosis,1,psychic,-,60
+103,16,Barrage,1,normal,15,85
+103,16,Seed Bomb,1,grass,80,100
+103,8,Stomp,17,normal,65,100
+103,9,Stomp,17,normal,65,100
+103,10,Stomp,17,normal,65,100
+103,11,Psyshock,17,psychic,80,100
+103,14,Psyshock,17,psychic,80,100
+103,15,Psyshock,17,psychic,80,100
+103,16,Psyshock,17,psychic,80,100
+103,3,Stomp,19,normal,65,100
+103,4,Stomp,19,normal,65,100
+103,5,Stomp,19,normal,65,100
+103,6,Stomp,19,normal,65,100
+103,7,Stomp,19,normal,65,100
+103,12,Stomp,19,normal,65,100
+103,13,Stomp,19,normal,65,100
+103,8,Egg Bomb,27,normal,100,75
+103,9,Egg Bomb,27,normal,100,75
+103,10,Egg Bomb,27,normal,100,75
+103,11,Egg Bomb,27,normal,100,75
+103,14,Egg Bomb,27,normal,100,75
+103,15,Egg Bomb,27,normal,100,75
+103,16,Egg Bomb,27,normal,100,75
+103,1,Stomp,28,normal,65,100
+103,2,Stomp,28,normal,65,100
+103,3,Egg Bomb,31,normal,100,75
+103,4,Egg Bomb,31,normal,100,75
+103,5,Egg Bomb,31,normal,100,75
+103,6,Egg Bomb,31,normal,100,75
+103,7,Egg Bomb,31,normal,100,75
+103,12,Egg Bomb,31,normal,100,75
+103,13,Egg Bomb,31,normal,100,75
+103,8,Wood Hammer,37,grass,120,100
+103,9,Wood Hammer,37,grass,120,100
+103,10,Wood Hammer,37,grass,120,100
+103,11,Wood Hammer,37,grass,120,100
+103,14,Wood Hammer,37,grass,120,100
+103,15,Wood Hammer,37,grass,120,100
+103,16,Wood Hammer,37,grass,120,100
+103,8,Leaf Storm,47,grass,130,90
+103,9,Leaf Storm,47,grass,130,90
+103,10,Leaf Storm,47,grass,130,90
+103,11,Leaf Storm,47,grass,130,90
+103,14,Leaf Storm,47,grass,130,90
+103,15,Leaf Storm,47,grass,130,90
+103,16,Leaf Storm,47,grass,130,90

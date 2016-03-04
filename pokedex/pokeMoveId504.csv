@@ -1,61 +1,61 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-504,patrat,11,21,Slam,1,36,
-504,patrat,11,28,Sand Attack,1,13,
-504,patrat,11,33,Tackle,1,1,
-504,patrat,11,43,Leer,1,3,
-504,patrat,11,44,Bite,1,6,
-504,patrat,11,95,Hypnosis,1,18,
-504,patrat,11,117,Bide,1,8,
-504,patrat,11,158,Hyper Fang,1,28,
-504,patrat,11,162,Super Fang,1,21,
-504,patrat,11,197,Detect,1,11,
-504,patrat,11,212,Mean Look,1,31,
-504,patrat,11,226,Baton Pass,1,33,
-504,patrat,11,242,Crunch,1,16,
-504,patrat,11,495,After You,1,23,
-504,patrat,11,526,Work Up,1,26,
-504,patrat,14,21,Slam,1,36,
-504,patrat,14,28,Sand Attack,1,13,
-504,patrat,14,33,Tackle,1,1,
-504,patrat,14,43,Leer,1,3,
-504,patrat,14,44,Bite,1,6,
-504,patrat,14,95,Hypnosis,1,18,
-504,patrat,14,117,Bide,1,8,
-504,patrat,14,158,Hyper Fang,1,28,
-504,patrat,14,162,Super Fang,1,21,
-504,patrat,14,197,Detect,1,11,
-504,patrat,14,212,Mean Look,1,31,
-504,patrat,14,226,Baton Pass,1,33,
-504,patrat,14,242,Crunch,1,16,
-504,patrat,14,495,After You,1,23,
-504,patrat,14,526,Work Up,1,26,
-504,patrat,15,21,Slam,1,36,
-504,patrat,15,28,Sand Attack,1,13,
-504,patrat,15,33,Tackle,1,1,
-504,patrat,15,43,Leer,1,3,
-504,patrat,15,44,Bite,1,6,
-504,patrat,15,95,Hypnosis,1,18,
-504,patrat,15,117,Bide,1,8,
-504,patrat,15,158,Hyper Fang,1,28,
-504,patrat,15,162,Super Fang,1,21,
-504,patrat,15,197,Detect,1,11,
-504,patrat,15,212,Mean Look,1,31,
-504,patrat,15,226,Baton Pass,1,33,
-504,patrat,15,242,Crunch,1,16,
-504,patrat,15,495,After You,1,23,
-504,patrat,15,526,Work Up,1,26,
-504,patrat,16,21,Slam,1,36,1
-504,patrat,16,28,Sand Attack,1,13,1
-504,patrat,16,33,Tackle,1,1,1
-504,patrat,16,43,Leer,1,3,1
-504,patrat,16,44,Bite,1,6,1
-504,patrat,16,95,Hypnosis,1,18,1
-504,patrat,16,117,Bide,1,8,1
-504,patrat,16,158,Hyper Fang,1,28,1
-504,patrat,16,162,Super Fang,1,21,1
-504,patrat,16,197,Detect,1,11,1
-504,patrat,16,212,Mean Look,1,31,1
-504,patrat,16,226,Baton Pass,1,33,1
-504,patrat,16,242,Crunch,1,16,1
-504,patrat,16,495,After You,1,23,1
-504,patrat,16,526,Work Up,1,26,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+504,11,Tackle,1,normal,50,100
+504,14,Tackle,1,normal,50,100
+504,15,Tackle,1,normal,50,100
+504,16,Tackle,1,normal,50,100
+504,11,Leer,3,normal,-,100
+504,14,Leer,3,normal,-,100
+504,15,Leer,3,normal,-,100
+504,16,Leer,3,normal,-,100
+504,11,Bite,6,dark,60,100
+504,14,Bite,6,dark,60,100
+504,15,Bite,6,dark,60,100
+504,16,Bite,6,dark,60,100
+504,11,Bide,8,normal,-,-
+504,14,Bide,8,normal,-,-
+504,15,Bide,8,normal,-,-
+504,16,Bide,8,normal,-,-
+504,11,Detect,11,fighting,-,-
+504,14,Detect,11,fighting,-,-
+504,15,Detect,11,fighting,-,-
+504,16,Detect,11,fighting,-,-
+504,11,Sand Attack,13,ground,-,100
+504,14,Sand Attack,13,ground,-,100
+504,15,Sand Attack,13,ground,-,100
+504,16,Sand Attack,13,ground,-,100
+504,11,Crunch,16,dark,80,100
+504,14,Crunch,16,dark,80,100
+504,15,Crunch,16,dark,80,100
+504,16,Crunch,16,dark,80,100
+504,11,Hypnosis,18,psychic,-,60
+504,14,Hypnosis,18,psychic,-,60
+504,15,Hypnosis,18,psychic,-,60
+504,16,Hypnosis,18,psychic,-,60
+504,11,Super Fang,21,normal,-,90
+504,14,Super Fang,21,normal,-,90
+504,15,Super Fang,21,normal,-,90
+504,16,Super Fang,21,normal,-,90
+504,11,After You,23,normal,-,-
+504,14,After You,23,normal,-,-
+504,15,After You,23,normal,-,-
+504,16,After You,23,normal,-,-
+504,11,Work Up,26,normal,-,-
+504,14,Work Up,26,normal,-,-
+504,15,Work Up,26,normal,-,-
+504,16,Work Up,26,normal,-,-
+504,11,Hyper Fang,28,normal,80,90
+504,14,Hyper Fang,28,normal,80,90
+504,15,Hyper Fang,28,normal,80,90
+504,16,Hyper Fang,28,normal,80,90
+504,11,Mean Look,31,normal,-,-
+504,14,Mean Look,31,normal,-,-
+504,15,Mean Look,31,normal,-,-
+504,16,Mean Look,31,normal,-,-
+504,11,Baton Pass,33,normal,-,-
+504,14,Baton Pass,33,normal,-,-
+504,15,Baton Pass,33,normal,-,-
+504,16,Baton Pass,33,normal,-,-
+504,11,Slam,36,normal,80,75
+504,14,Slam,36,normal,80,75
+504,15,Slam,36,normal,80,75
+504,16,Slam,36,normal,80,75

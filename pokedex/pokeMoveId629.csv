@@ -1,65 +1,65 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-629,vullaby,11,16,Gust,1,1,1
-629,vullaby,11,18,Whirlwind,1,55,
-629,vullaby,11,31,Fury Attack,1,5,
-629,vullaby,11,43,Leer,1,1,2
-629,vullaby,11,119,Mirror Move,1,64,
-629,vullaby,11,185,Feint Attack,1,23,
-629,vullaby,11,260,Flatter,1,19,
-629,vullaby,11,365,Pluck,1,10,
-629,vullaby,11,366,Tailwind,1,37,
-629,vullaby,11,373,Embargo,1,50,
-629,vullaby,11,386,Punishment,1,28,
-629,vullaby,11,399,Dark Pulse,1,46,
-629,vullaby,11,403,Air Slash,1,41,
-629,vullaby,11,413,Brave Bird,1,59,
-629,vullaby,11,417,Nasty Plot,1,14,
-629,vullaby,11,432,Defog,1,32,
-629,vullaby,14,16,Gust,1,1,1
-629,vullaby,14,18,Whirlwind,1,55,
-629,vullaby,14,31,Fury Attack,1,5,
-629,vullaby,14,43,Leer,1,1,2
-629,vullaby,14,119,Mirror Move,1,64,
-629,vullaby,14,185,Feint Attack,1,23,
-629,vullaby,14,260,Flatter,1,19,
-629,vullaby,14,365,Pluck,1,10,
-629,vullaby,14,366,Tailwind,1,37,
-629,vullaby,14,373,Embargo,1,50,
-629,vullaby,14,386,Punishment,1,28,
-629,vullaby,14,399,Dark Pulse,1,46,
-629,vullaby,14,403,Air Slash,1,41,
-629,vullaby,14,413,Brave Bird,1,59,
-629,vullaby,14,417,Nasty Plot,1,14,
-629,vullaby,14,432,Defog,1,32,
-629,vullaby,15,16,Gust,1,1,1
-629,vullaby,15,18,Whirlwind,1,55,
-629,vullaby,15,31,Fury Attack,1,5,
-629,vullaby,15,43,Leer,1,1,2
-629,vullaby,15,119,Mirror Move,1,64,
-629,vullaby,15,185,Feint Attack,1,23,
-629,vullaby,15,260,Flatter,1,19,
-629,vullaby,15,365,Pluck,1,10,
-629,vullaby,15,366,Tailwind,1,37,
-629,vullaby,15,373,Embargo,1,50,
-629,vullaby,15,386,Punishment,1,28,
-629,vullaby,15,399,Dark Pulse,1,46,
-629,vullaby,15,403,Air Slash,1,41,
-629,vullaby,15,413,Brave Bird,1,59,
-629,vullaby,15,417,Nasty Plot,1,14,
-629,vullaby,15,432,Defog,1,32,
-629,vullaby,16,16,Gust,1,1,1
-629,vullaby,16,18,Whirlwind,1,55,1
-629,vullaby,16,31,Fury Attack,1,5,1
-629,vullaby,16,43,Leer,1,1,2
-629,vullaby,16,119,Mirror Move,1,64,1
-629,vullaby,16,185,Feint Attack,1,23,1
-629,vullaby,16,260,Flatter,1,19,1
-629,vullaby,16,365,Pluck,1,10,1
-629,vullaby,16,366,Tailwind,1,37,1
-629,vullaby,16,373,Embargo,1,50,1
-629,vullaby,16,386,Punishment,1,28,1
-629,vullaby,16,399,Dark Pulse,1,46,1
-629,vullaby,16,403,Air Slash,1,41,1
-629,vullaby,16,413,Brave Bird,1,59,1
-629,vullaby,16,417,Nasty Plot,1,14,1
-629,vullaby,16,432,Defog,1,32,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+629,11,Gust,1,flying,40,100
+629,11,Leer,1,normal,-,100
+629,14,Gust,1,flying,40,100
+629,14,Leer,1,normal,-,100
+629,15,Gust,1,flying,40,100
+629,15,Leer,1,normal,-,100
+629,16,Gust,1,flying,40,100
+629,16,Leer,1,normal,-,100
+629,11,Fury Attack,5,normal,15,85
+629,14,Fury Attack,5,normal,15,85
+629,15,Fury Attack,5,normal,15,85
+629,16,Fury Attack,5,normal,15,85
+629,11,Pluck,10,flying,60,100
+629,14,Pluck,10,flying,60,100
+629,15,Pluck,10,flying,60,100
+629,16,Pluck,10,flying,60,100
+629,11,Nasty Plot,14,dark,-,-
+629,14,Nasty Plot,14,dark,-,-
+629,15,Nasty Plot,14,dark,-,-
+629,16,Nasty Plot,14,dark,-,-
+629,11,Flatter,19,dark,-,100
+629,14,Flatter,19,dark,-,100
+629,15,Flatter,19,dark,-,100
+629,16,Flatter,19,dark,-,100
+629,11,Feint Attack,23,dark,60,-
+629,14,Feint Attack,23,dark,60,-
+629,15,Feint Attack,23,dark,60,-
+629,16,Feint Attack,23,dark,60,-
+629,11,Punishment,28,dark,-,100
+629,14,Punishment,28,dark,-,100
+629,15,Punishment,28,dark,-,100
+629,16,Punishment,28,dark,-,100
+629,11,Defog,32,flying,-,-
+629,14,Defog,32,flying,-,-
+629,15,Defog,32,flying,-,-
+629,16,Defog,32,flying,-,-
+629,11,Tailwind,37,flying,-,-
+629,14,Tailwind,37,flying,-,-
+629,15,Tailwind,37,flying,-,-
+629,16,Tailwind,37,flying,-,-
+629,11,Air Slash,41,flying,75,95
+629,14,Air Slash,41,flying,75,95
+629,15,Air Slash,41,flying,75,95
+629,16,Air Slash,41,flying,75,95
+629,11,Dark Pulse,46,dark,80,100
+629,14,Dark Pulse,46,dark,80,100
+629,15,Dark Pulse,46,dark,80,100
+629,16,Dark Pulse,46,dark,80,100
+629,11,Embargo,50,dark,-,100
+629,14,Embargo,50,dark,-,100
+629,15,Embargo,50,dark,-,100
+629,16,Embargo,50,dark,-,100
+629,11,Whirlwind,55,normal,-,-
+629,14,Whirlwind,55,normal,-,-
+629,15,Whirlwind,55,normal,-,-
+629,16,Whirlwind,55,normal,-,-
+629,11,Brave Bird,59,flying,120,100
+629,14,Brave Bird,59,flying,120,100
+629,15,Brave Bird,59,flying,120,100
+629,16,Brave Bird,59,flying,120,100
+629,11,Mirror Move,64,flying,-,-
+629,14,Mirror Move,64,flying,-,-
+629,15,Mirror Move,64,flying,-,-
+629,16,Mirror Move,64,flying,-,-

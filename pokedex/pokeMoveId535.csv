@@ -1,57 +1,57 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-535,tympole,11,45,Growl,1,1,2
-535,tympole,11,48,Supersonic,1,5,
-535,tympole,11,56,Hydro Pump,1,42,
-535,tympole,11,61,Bubble Beam,1,12,
-535,tympole,11,145,Bubble,1,1,1
-535,tympole,11,175,Flail,1,34,
-535,tympole,11,240,Rain Dance,1,31,
-535,tympole,11,253,Uproar,1,23,
-535,tympole,11,304,Hyper Voice,1,45,
-535,tympole,11,330,Muddy Water,1,27,
-535,tympole,11,341,Mud Shot,1,16,
-535,tympole,11,392,Aqua Ring,1,20,
-535,tympole,11,496,Round,1,9,
-535,tympole,11,497,Echoed Voice,1,38,
-535,tympole,14,45,Growl,1,1,2
-535,tympole,14,48,Supersonic,1,5,
-535,tympole,14,56,Hydro Pump,1,42,
-535,tympole,14,61,Bubble Beam,1,12,
-535,tympole,14,145,Bubble,1,1,1
-535,tympole,14,175,Flail,1,34,
-535,tympole,14,240,Rain Dance,1,31,
-535,tympole,14,253,Uproar,1,23,
-535,tympole,14,304,Hyper Voice,1,45,
-535,tympole,14,330,Muddy Water,1,27,
-535,tympole,14,341,Mud Shot,1,16,
-535,tympole,14,392,Aqua Ring,1,20,
-535,tympole,14,496,Round,1,9,
-535,tympole,14,497,Echoed Voice,1,38,
-535,tympole,15,45,Growl,1,1,2
-535,tympole,15,48,Supersonic,1,5,
-535,tympole,15,56,Hydro Pump,1,42,
-535,tympole,15,61,Bubble Beam,1,12,
-535,tympole,15,145,Bubble,1,1,1
-535,tympole,15,175,Flail,1,34,
-535,tympole,15,240,Rain Dance,1,31,
-535,tympole,15,253,Uproar,1,23,
-535,tympole,15,304,Hyper Voice,1,45,
-535,tympole,15,330,Muddy Water,1,27,
-535,tympole,15,341,Mud Shot,1,16,
-535,tympole,15,392,Aqua Ring,1,20,
-535,tympole,15,496,Round,1,9,
-535,tympole,15,497,Echoed Voice,1,38,
-535,tympole,16,45,Growl,1,1,2
-535,tympole,16,48,Supersonic,1,5,1
-535,tympole,16,56,Hydro Pump,1,42,1
-535,tympole,16,61,Bubble Beam,1,12,1
-535,tympole,16,145,Bubble,1,1,1
-535,tympole,16,175,Flail,1,34,1
-535,tympole,16,240,Rain Dance,1,31,1
-535,tympole,16,253,Uproar,1,23,1
-535,tympole,16,304,Hyper Voice,1,45,1
-535,tympole,16,330,Muddy Water,1,27,1
-535,tympole,16,341,Mud Shot,1,16,1
-535,tympole,16,392,Aqua Ring,1,20,1
-535,tympole,16,496,Round,1,9,1
-535,tympole,16,497,Echoed Voice,1,38,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+535,11,Growl,1,normal,-,100
+535,11,Bubble,1,water,40,100
+535,14,Growl,1,normal,-,100
+535,14,Bubble,1,water,40,100
+535,15,Growl,1,normal,-,100
+535,15,Bubble,1,water,40,100
+535,16,Growl,1,normal,-,100
+535,16,Bubble,1,water,40,100
+535,11,Supersonic,5,normal,-,55
+535,14,Supersonic,5,normal,-,55
+535,15,Supersonic,5,normal,-,55
+535,16,Supersonic,5,normal,-,55
+535,11,Round,9,normal,60,100
+535,14,Round,9,normal,60,100
+535,15,Round,9,normal,60,100
+535,16,Round,9,normal,60,100
+535,11,Bubble Beam,12,water,65,100
+535,14,Bubble Beam,12,water,65,100
+535,15,Bubble Beam,12,water,65,100
+535,16,Bubble Beam,12,water,65,100
+535,11,Mud Shot,16,ground,55,95
+535,14,Mud Shot,16,ground,55,95
+535,15,Mud Shot,16,ground,55,95
+535,16,Mud Shot,16,ground,55,95
+535,11,Aqua Ring,20,water,-,-
+535,14,Aqua Ring,20,water,-,-
+535,15,Aqua Ring,20,water,-,-
+535,16,Aqua Ring,20,water,-,-
+535,11,Uproar,23,normal,90,100
+535,14,Uproar,23,normal,90,100
+535,15,Uproar,23,normal,90,100
+535,16,Uproar,23,normal,90,100
+535,11,Muddy Water,27,water,90,85
+535,14,Muddy Water,27,water,90,85
+535,15,Muddy Water,27,water,90,85
+535,16,Muddy Water,27,water,90,85
+535,11,Rain Dance,31,water,-,-
+535,14,Rain Dance,31,water,-,-
+535,15,Rain Dance,31,water,-,-
+535,16,Rain Dance,31,water,-,-
+535,11,Flail,34,normal,-,100
+535,14,Flail,34,normal,-,100
+535,15,Flail,34,normal,-,100
+535,16,Flail,34,normal,-,100
+535,11,Echoed Voice,38,normal,40,100
+535,14,Echoed Voice,38,normal,40,100
+535,15,Echoed Voice,38,normal,40,100
+535,16,Echoed Voice,38,normal,40,100
+535,11,Hydro Pump,42,water,110,80
+535,14,Hydro Pump,42,water,110,80
+535,15,Hydro Pump,42,water,110,80
+535,16,Hydro Pump,42,water,110,80
+535,11,Hyper Voice,45,normal,90,100
+535,14,Hyper Voice,45,normal,90,100
+535,15,Hyper Voice,45,normal,90,100
+535,16,Hyper Voice,45,normal,90,100

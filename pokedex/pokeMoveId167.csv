@@ -1,175 +1,175 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-167,spinarak,3,40,Poison Sting,1,1,1
-167,spinarak,3,81,String Shot,1,1,2
-167,spinarak,3,94,Psychic,1,53,
-167,spinarak,3,101,Night Shade,1,17,
-167,spinarak,3,103,Screech,1,45,
-167,spinarak,3,132,Constrict,1,11,
-167,spinarak,3,141,Leech Life,1,23,
-167,spinarak,3,154,Fury Swipes,1,30,
-167,spinarak,3,169,Spider Web,1,37,
-167,spinarak,3,184,Scary Face,1,6,
-167,spinarak,4,40,Poison Sting,1,1,1
-167,spinarak,4,81,String Shot,1,1,2
-167,spinarak,4,94,Psychic,1,53,
-167,spinarak,4,97,Agility,1,45,
-167,spinarak,4,101,Night Shade,1,17,
-167,spinarak,4,132,Constrict,1,11,
-167,spinarak,4,141,Leech Life,1,23,
-167,spinarak,4,154,Fury Swipes,1,30,
-167,spinarak,4,169,Spider Web,1,37,
-167,spinarak,4,184,Scary Face,1,6,
-167,spinarak,5,40,Poison Sting,1,1,1
-167,spinarak,5,81,String Shot,1,1,2
-167,spinarak,5,94,Psychic,1,53,
-167,spinarak,5,97,Agility,1,45,
-167,spinarak,5,101,Night Shade,1,17,
-167,spinarak,5,132,Constrict,1,11,
-167,spinarak,5,141,Leech Life,1,23,
-167,spinarak,5,154,Fury Swipes,1,30,
-167,spinarak,5,169,Spider Web,1,37,
-167,spinarak,5,184,Scary Face,1,6,
-167,spinarak,6,40,Poison Sting,1,1,1
-167,spinarak,6,81,String Shot,1,1,2
-167,spinarak,6,94,Psychic,1,53,
-167,spinarak,6,97,Agility,1,45,
-167,spinarak,6,101,Night Shade,1,17,
-167,spinarak,6,132,Constrict,1,11,
-167,spinarak,6,141,Leech Life,1,23,
-167,spinarak,6,154,Fury Swipes,1,30,
-167,spinarak,6,169,Spider Web,1,37,
-167,spinarak,6,184,Scary Face,1,6,
-167,spinarak,7,40,Poison Sting,1,1,1
-167,spinarak,7,81,String Shot,1,1,2
-167,spinarak,7,94,Psychic,1,53,
-167,spinarak,7,97,Agility,1,45,
-167,spinarak,7,101,Night Shade,1,17,
-167,spinarak,7,132,Constrict,1,11,
-167,spinarak,7,141,Leech Life,1,23,
-167,spinarak,7,154,Fury Swipes,1,30,
-167,spinarak,7,169,Spider Web,1,37,
-167,spinarak,7,184,Scary Face,1,6,
-167,spinarak,8,40,Poison Sting,1,1,1
-167,spinarak,8,42,Pin Missile,1,36,
-167,spinarak,8,81,String Shot,1,1,2
-167,spinarak,8,94,Psychic,1,40,
-167,spinarak,8,97,Agility,1,33,
-167,spinarak,8,101,Night Shade,1,15,
-167,spinarak,8,132,Constrict,1,8,
-167,spinarak,8,141,Leech Life,1,12,
-167,spinarak,8,154,Fury Swipes,1,22,
-167,spinarak,8,169,Spider Web,1,29,
-167,spinarak,8,184,Scary Face,1,5,
-167,spinarak,8,389,Sucker Punch,1,26,
-167,spinarak,8,398,Poison Jab,1,43,
-167,spinarak,8,425,Shadow Sneak,1,19,
-167,spinarak,9,40,Poison Sting,1,1,1
-167,spinarak,9,42,Pin Missile,1,36,
-167,spinarak,9,81,String Shot,1,1,2
-167,spinarak,9,94,Psychic,1,40,
-167,spinarak,9,97,Agility,1,33,
-167,spinarak,9,101,Night Shade,1,15,
-167,spinarak,9,132,Constrict,1,8,
-167,spinarak,9,141,Leech Life,1,12,
-167,spinarak,9,154,Fury Swipes,1,22,
-167,spinarak,9,169,Spider Web,1,29,
-167,spinarak,9,184,Scary Face,1,5,
-167,spinarak,9,389,Sucker Punch,1,26,
-167,spinarak,9,398,Poison Jab,1,43,
-167,spinarak,9,425,Shadow Sneak,1,19,
-167,spinarak,10,40,Poison Sting,1,1,1
-167,spinarak,10,42,Pin Missile,1,36,
-167,spinarak,10,81,String Shot,1,1,2
-167,spinarak,10,94,Psychic,1,40,
-167,spinarak,10,97,Agility,1,33,
-167,spinarak,10,101,Night Shade,1,15,
-167,spinarak,10,132,Constrict,1,8,
-167,spinarak,10,141,Leech Life,1,12,
-167,spinarak,10,154,Fury Swipes,1,22,
-167,spinarak,10,169,Spider Web,1,29,
-167,spinarak,10,184,Scary Face,1,5,
-167,spinarak,10,389,Sucker Punch,1,26,
-167,spinarak,10,398,Poison Jab,1,43,
-167,spinarak,10,425,Shadow Sneak,1,19,
-167,spinarak,11,40,Poison Sting,1,1,1
-167,spinarak,11,42,Pin Missile,1,36,
-167,spinarak,11,81,String Shot,1,1,2
-167,spinarak,11,94,Psychic,1,40,
-167,spinarak,11,97,Agility,1,33,
-167,spinarak,11,101,Night Shade,1,15,
-167,spinarak,11,132,Constrict,1,8,
-167,spinarak,11,141,Leech Life,1,12,
-167,spinarak,11,154,Fury Swipes,1,22,
-167,spinarak,11,169,Spider Web,1,29,
-167,spinarak,11,184,Scary Face,1,5,
-167,spinarak,11,389,Sucker Punch,1,26,
-167,spinarak,11,398,Poison Jab,1,43,
-167,spinarak,11,425,Shadow Sneak,1,19,
-167,spinarak,11,440,Cross Poison,1,47,
-167,spinarak,12,40,Poison Sting,1,1,1
-167,spinarak,12,81,String Shot,1,1,2
-167,spinarak,12,94,Psychic,1,53,
-167,spinarak,12,97,Agility,1,45,
-167,spinarak,12,101,Night Shade,1,17,
-167,spinarak,12,132,Constrict,1,11,
-167,spinarak,12,141,Leech Life,1,23,
-167,spinarak,12,154,Fury Swipes,1,30,
-167,spinarak,12,169,Spider Web,1,37,
-167,spinarak,12,184,Scary Face,1,6,
-167,spinarak,13,40,Poison Sting,1,1,1
-167,spinarak,13,81,String Shot,1,1,2
-167,spinarak,13,94,Psychic,1,53,
-167,spinarak,13,97,Agility,1,45,
-167,spinarak,13,101,Night Shade,1,17,
-167,spinarak,13,132,Constrict,1,11,
-167,spinarak,13,141,Leech Life,1,23,
-167,spinarak,13,154,Fury Swipes,1,30,
-167,spinarak,13,169,Spider Web,1,37,
-167,spinarak,13,184,Scary Face,1,6,
-167,spinarak,14,40,Poison Sting,1,1,1
-167,spinarak,14,42,Pin Missile,1,36,
-167,spinarak,14,81,String Shot,1,1,2
-167,spinarak,14,94,Psychic,1,40,
-167,spinarak,14,97,Agility,1,33,
-167,spinarak,14,101,Night Shade,1,15,
-167,spinarak,14,132,Constrict,1,8,
-167,spinarak,14,141,Leech Life,1,12,
-167,spinarak,14,154,Fury Swipes,1,22,
-167,spinarak,14,169,Spider Web,1,29,
-167,spinarak,14,184,Scary Face,1,5,
-167,spinarak,14,389,Sucker Punch,1,26,
-167,spinarak,14,398,Poison Jab,1,43,
-167,spinarak,14,425,Shadow Sneak,1,19,
-167,spinarak,14,440,Cross Poison,1,47,
-167,spinarak,15,40,Poison Sting,1,1,1
-167,spinarak,15,42,Pin Missile,1,36,
-167,spinarak,15,81,String Shot,1,1,2
-167,spinarak,15,94,Psychic,1,40,
-167,spinarak,15,97,Agility,1,33,
-167,spinarak,15,101,Night Shade,1,15,
-167,spinarak,15,132,Constrict,1,8,
-167,spinarak,15,141,Leech Life,1,12,
-167,spinarak,15,154,Fury Swipes,1,22,
-167,spinarak,15,169,Spider Web,1,29,
-167,spinarak,15,184,Scary Face,1,5,
-167,spinarak,15,389,Sucker Punch,1,26,
-167,spinarak,15,398,Poison Jab,1,43,
-167,spinarak,15,425,Shadow Sneak,1,19,
-167,spinarak,15,440,Cross Poison,1,47,
-167,spinarak,15,564,Sticky Web,1,50,
-167,spinarak,16,40,Poison Sting,1,1,1
-167,spinarak,16,42,Pin Missile,1,36,1
-167,spinarak,16,81,String Shot,1,1,2
-167,spinarak,16,94,Psychic,1,40,1
-167,spinarak,16,97,Agility,1,33,1
-167,spinarak,16,101,Night Shade,1,15,1
-167,spinarak,16,132,Constrict,1,8,1
-167,spinarak,16,141,Leech Life,1,12,1
-167,spinarak,16,154,Fury Swipes,1,22,1
-167,spinarak,16,169,Spider Web,1,29,1
-167,spinarak,16,184,Scary Face,1,5,1
-167,spinarak,16,389,Sucker Punch,1,26,1
-167,spinarak,16,398,Poison Jab,1,43,1
-167,spinarak,16,425,Shadow Sneak,1,19,1
-167,spinarak,16,440,Cross Poison,1,47,1
-167,spinarak,16,564,Sticky Web,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+167,3,Poison Sting,1,poison,15,100
+167,3,String Shot,1,bug,-,95
+167,4,Poison Sting,1,poison,15,100
+167,4,String Shot,1,bug,-,95
+167,5,Poison Sting,1,poison,15,100
+167,5,String Shot,1,bug,-,95
+167,6,Poison Sting,1,poison,15,100
+167,6,String Shot,1,bug,-,95
+167,7,Poison Sting,1,poison,15,100
+167,7,String Shot,1,bug,-,95
+167,8,Poison Sting,1,poison,15,100
+167,8,String Shot,1,bug,-,95
+167,9,Poison Sting,1,poison,15,100
+167,9,String Shot,1,bug,-,95
+167,10,Poison Sting,1,poison,15,100
+167,10,String Shot,1,bug,-,95
+167,11,Poison Sting,1,poison,15,100
+167,11,String Shot,1,bug,-,95
+167,12,Poison Sting,1,poison,15,100
+167,12,String Shot,1,bug,-,95
+167,13,Poison Sting,1,poison,15,100
+167,13,String Shot,1,bug,-,95
+167,14,Poison Sting,1,poison,15,100
+167,14,String Shot,1,bug,-,95
+167,15,Poison Sting,1,poison,15,100
+167,15,String Shot,1,bug,-,95
+167,16,Poison Sting,1,poison,15,100
+167,16,String Shot,1,bug,-,95
+167,8,Scary Face,5,normal,-,100
+167,9,Scary Face,5,normal,-,100
+167,10,Scary Face,5,normal,-,100
+167,11,Scary Face,5,normal,-,100
+167,14,Scary Face,5,normal,-,100
+167,15,Scary Face,5,normal,-,100
+167,16,Scary Face,5,normal,-,100
+167,3,Scary Face,6,normal,-,100
+167,4,Scary Face,6,normal,-,100
+167,5,Scary Face,6,normal,-,100
+167,6,Scary Face,6,normal,-,100
+167,7,Scary Face,6,normal,-,100
+167,12,Scary Face,6,normal,-,100
+167,13,Scary Face,6,normal,-,100
+167,8,Constrict,8,normal,10,100
+167,9,Constrict,8,normal,10,100
+167,10,Constrict,8,normal,10,100
+167,11,Constrict,8,normal,10,100
+167,14,Constrict,8,normal,10,100
+167,15,Constrict,8,normal,10,100
+167,16,Constrict,8,normal,10,100
+167,3,Constrict,11,normal,10,100
+167,4,Constrict,11,normal,10,100
+167,5,Constrict,11,normal,10,100
+167,6,Constrict,11,normal,10,100
+167,7,Constrict,11,normal,10,100
+167,12,Constrict,11,normal,10,100
+167,13,Constrict,11,normal,10,100
+167,8,Leech Life,12,bug,20,100
+167,9,Leech Life,12,bug,20,100
+167,10,Leech Life,12,bug,20,100
+167,11,Leech Life,12,bug,20,100
+167,14,Leech Life,12,bug,20,100
+167,15,Leech Life,12,bug,20,100
+167,16,Leech Life,12,bug,20,100
+167,8,Night Shade,15,ghost,-,100
+167,9,Night Shade,15,ghost,-,100
+167,10,Night Shade,15,ghost,-,100
+167,11,Night Shade,15,ghost,-,100
+167,14,Night Shade,15,ghost,-,100
+167,15,Night Shade,15,ghost,-,100
+167,16,Night Shade,15,ghost,-,100
+167,3,Night Shade,17,ghost,-,100
+167,4,Night Shade,17,ghost,-,100
+167,5,Night Shade,17,ghost,-,100
+167,6,Night Shade,17,ghost,-,100
+167,7,Night Shade,17,ghost,-,100
+167,12,Night Shade,17,ghost,-,100
+167,13,Night Shade,17,ghost,-,100
+167,8,Shadow Sneak,19,ghost,40,100
+167,9,Shadow Sneak,19,ghost,40,100
+167,10,Shadow Sneak,19,ghost,40,100
+167,11,Shadow Sneak,19,ghost,40,100
+167,14,Shadow Sneak,19,ghost,40,100
+167,15,Shadow Sneak,19,ghost,40,100
+167,16,Shadow Sneak,19,ghost,40,100
+167,8,Fury Swipes,22,normal,18,80
+167,9,Fury Swipes,22,normal,18,80
+167,10,Fury Swipes,22,normal,18,80
+167,11,Fury Swipes,22,normal,18,80
+167,14,Fury Swipes,22,normal,18,80
+167,15,Fury Swipes,22,normal,18,80
+167,16,Fury Swipes,22,normal,18,80
+167,3,Leech Life,23,bug,20,100
+167,4,Leech Life,23,bug,20,100
+167,5,Leech Life,23,bug,20,100
+167,6,Leech Life,23,bug,20,100
+167,7,Leech Life,23,bug,20,100
+167,12,Leech Life,23,bug,20,100
+167,13,Leech Life,23,bug,20,100
+167,8,Sucker Punch,26,dark,80,100
+167,9,Sucker Punch,26,dark,80,100
+167,10,Sucker Punch,26,dark,80,100
+167,11,Sucker Punch,26,dark,80,100
+167,14,Sucker Punch,26,dark,80,100
+167,15,Sucker Punch,26,dark,80,100
+167,16,Sucker Punch,26,dark,80,100
+167,8,Spider Web,29,bug,-,-
+167,9,Spider Web,29,bug,-,-
+167,10,Spider Web,29,bug,-,-
+167,11,Spider Web,29,bug,-,-
+167,14,Spider Web,29,bug,-,-
+167,15,Spider Web,29,bug,-,-
+167,16,Spider Web,29,bug,-,-
+167,3,Fury Swipes,30,normal,18,80
+167,4,Fury Swipes,30,normal,18,80
+167,5,Fury Swipes,30,normal,18,80
+167,6,Fury Swipes,30,normal,18,80
+167,7,Fury Swipes,30,normal,18,80
+167,12,Fury Swipes,30,normal,18,80
+167,13,Fury Swipes,30,normal,18,80
+167,8,Agility,33,psychic,-,-
+167,9,Agility,33,psychic,-,-
+167,10,Agility,33,psychic,-,-
+167,11,Agility,33,psychic,-,-
+167,14,Agility,33,psychic,-,-
+167,15,Agility,33,psychic,-,-
+167,16,Agility,33,psychic,-,-
+167,8,Pin Missile,36,bug,25,95
+167,9,Pin Missile,36,bug,25,95
+167,10,Pin Missile,36,bug,25,95
+167,11,Pin Missile,36,bug,25,95
+167,14,Pin Missile,36,bug,25,95
+167,15,Pin Missile,36,bug,25,95
+167,16,Pin Missile,36,bug,25,95
+167,3,Spider Web,37,bug,-,-
+167,4,Spider Web,37,bug,-,-
+167,5,Spider Web,37,bug,-,-
+167,6,Spider Web,37,bug,-,-
+167,7,Spider Web,37,bug,-,-
+167,12,Spider Web,37,bug,-,-
+167,13,Spider Web,37,bug,-,-
+167,8,Psychic,40,psychic,90,100
+167,9,Psychic,40,psychic,90,100
+167,10,Psychic,40,psychic,90,100
+167,11,Psychic,40,psychic,90,100
+167,14,Psychic,40,psychic,90,100
+167,15,Psychic,40,psychic,90,100
+167,16,Psychic,40,psychic,90,100
+167,8,Poison Jab,43,poison,80,100
+167,9,Poison Jab,43,poison,80,100
+167,10,Poison Jab,43,poison,80,100
+167,11,Poison Jab,43,poison,80,100
+167,14,Poison Jab,43,poison,80,100
+167,15,Poison Jab,43,poison,80,100
+167,16,Poison Jab,43,poison,80,100
+167,3,Screech,45,normal,-,85
+167,4,Agility,45,psychic,-,-
+167,5,Agility,45,psychic,-,-
+167,6,Agility,45,psychic,-,-
+167,7,Agility,45,psychic,-,-
+167,12,Agility,45,psychic,-,-
+167,13,Agility,45,psychic,-,-
+167,11,Cross Poison,47,poison,70,100
+167,14,Cross Poison,47,poison,70,100
+167,15,Cross Poison,47,poison,70,100
+167,16,Cross Poison,47,poison,70,100
+167,15,Sticky Web,50,bug,-,-
+167,16,Sticky Web,50,bug,-,-
+167,3,Psychic,53,psychic,90,100
+167,4,Psychic,53,psychic,90,100
+167,5,Psychic,53,psychic,90,100
+167,6,Psychic,53,psychic,90,100
+167,7,Psychic,53,psychic,90,100
+167,12,Psychic,53,psychic,90,100
+167,13,Psychic,53,psychic,90,100

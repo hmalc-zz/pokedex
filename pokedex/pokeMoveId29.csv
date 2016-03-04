@@ -1,174 +1,174 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-29,nidoran-f,1,10,Scratch,1,8,
-29,nidoran-f,1,24,Double Kick,1,43,
-29,nidoran-f,1,33,Tackle,1,1,2
-29,nidoran-f,1,39,Tail Whip,1,21,
-29,nidoran-f,1,40,Poison Sting,1,14,
-29,nidoran-f,1,44,Bite,1,29,
-29,nidoran-f,1,45,Growl,1,1,1
-29,nidoran-f,1,154,Fury Swipes,1,36,
-29,nidoran-f,2,10,Scratch,1,8,
-29,nidoran-f,2,24,Double Kick,1,12,
-29,nidoran-f,2,33,Tackle,1,1,2
-29,nidoran-f,2,39,Tail Whip,1,23,
-29,nidoran-f,2,40,Poison Sting,1,17,
-29,nidoran-f,2,44,Bite,1,30,
-29,nidoran-f,2,45,Growl,1,1,1
-29,nidoran-f,2,154,Fury Swipes,1,38,
-29,nidoran-f,3,10,Scratch,1,8,
-29,nidoran-f,3,24,Double Kick,1,12,
-29,nidoran-f,3,33,Tackle,1,1,2
-29,nidoran-f,3,39,Tail Whip,1,23,
-29,nidoran-f,3,40,Poison Sting,1,17,
-29,nidoran-f,3,44,Bite,1,30,
-29,nidoran-f,3,45,Growl,1,1,1
-29,nidoran-f,3,154,Fury Swipes,1,38,
-29,nidoran-f,4,10,Scratch,1,8,
-29,nidoran-f,4,24,Double Kick,1,12,
-29,nidoran-f,4,33,Tackle,1,1,2
-29,nidoran-f,4,39,Tail Whip,1,23,
-29,nidoran-f,4,40,Poison Sting,1,17,
-29,nidoran-f,4,44,Bite,1,30,
-29,nidoran-f,4,45,Growl,1,1,1
-29,nidoran-f,4,154,Fury Swipes,1,38,
-29,nidoran-f,5,10,Scratch,1,1,2
-29,nidoran-f,5,24,Double Kick,1,12,
-29,nidoran-f,5,39,Tail Whip,1,8,
-29,nidoran-f,5,40,Poison Sting,1,17,
-29,nidoran-f,5,44,Bite,1,20,
-29,nidoran-f,5,45,Growl,1,1,1
-29,nidoran-f,5,154,Fury Swipes,1,30,
-29,nidoran-f,5,242,Crunch,1,47,
-29,nidoran-f,5,260,Flatter,1,38,
-29,nidoran-f,5,270,Helping Hand,1,23,
-29,nidoran-f,6,10,Scratch,1,1,2
-29,nidoran-f,6,24,Double Kick,1,12,
-29,nidoran-f,6,39,Tail Whip,1,8,
-29,nidoran-f,6,40,Poison Sting,1,17,
-29,nidoran-f,6,44,Bite,1,20,
-29,nidoran-f,6,45,Growl,1,1,1
-29,nidoran-f,6,154,Fury Swipes,1,30,
-29,nidoran-f,6,242,Crunch,1,47,
-29,nidoran-f,6,260,Flatter,1,38,
-29,nidoran-f,6,270,Helping Hand,1,23,
-29,nidoran-f,7,10,Scratch,1,1,2
-29,nidoran-f,7,24,Double Kick,1,12,
-29,nidoran-f,7,39,Tail Whip,1,8,
-29,nidoran-f,7,40,Poison Sting,1,17,
-29,nidoran-f,7,44,Bite,1,20,
-29,nidoran-f,7,45,Growl,1,1,1
-29,nidoran-f,7,154,Fury Swipes,1,30,
-29,nidoran-f,7,242,Crunch,1,47,
-29,nidoran-f,7,260,Flatter,1,38,
-29,nidoran-f,7,270,Helping Hand,1,23,
-29,nidoran-f,8,10,Scratch,1,1,2
-29,nidoran-f,8,24,Double Kick,1,9,
-29,nidoran-f,8,39,Tail Whip,1,7,
-29,nidoran-f,8,40,Poison Sting,1,13,
-29,nidoran-f,8,44,Bite,1,21,
-29,nidoran-f,8,45,Growl,1,1,1
-29,nidoran-f,8,154,Fury Swipes,1,19,
-29,nidoran-f,8,242,Crunch,1,37,
-29,nidoran-f,8,260,Flatter,1,33,
-29,nidoran-f,8,270,Helping Hand,1,25,
-29,nidoran-f,8,305,Poison Fang,1,45,
-29,nidoran-f,8,390,Toxic Spikes,1,31,
-29,nidoran-f,8,445,Captivate,1,43,
-29,nidoran-f,9,10,Scratch,1,1,2
-29,nidoran-f,9,24,Double Kick,1,9,
-29,nidoran-f,9,39,Tail Whip,1,7,
-29,nidoran-f,9,40,Poison Sting,1,13,
-29,nidoran-f,9,44,Bite,1,21,
-29,nidoran-f,9,45,Growl,1,1,1
-29,nidoran-f,9,154,Fury Swipes,1,19,
-29,nidoran-f,9,242,Crunch,1,37,
-29,nidoran-f,9,260,Flatter,1,33,
-29,nidoran-f,9,270,Helping Hand,1,25,
-29,nidoran-f,9,305,Poison Fang,1,45,
-29,nidoran-f,9,390,Toxic Spikes,1,31,
-29,nidoran-f,9,445,Captivate,1,43,
-29,nidoran-f,10,10,Scratch,1,1,2
-29,nidoran-f,10,24,Double Kick,1,9,
-29,nidoran-f,10,39,Tail Whip,1,7,
-29,nidoran-f,10,40,Poison Sting,1,13,
-29,nidoran-f,10,44,Bite,1,21,
-29,nidoran-f,10,45,Growl,1,1,1
-29,nidoran-f,10,154,Fury Swipes,1,19,
-29,nidoran-f,10,242,Crunch,1,37,
-29,nidoran-f,10,260,Flatter,1,33,
-29,nidoran-f,10,270,Helping Hand,1,25,
-29,nidoran-f,10,305,Poison Fang,1,45,
-29,nidoran-f,10,390,Toxic Spikes,1,31,
-29,nidoran-f,10,445,Captivate,1,43,
-29,nidoran-f,11,10,Scratch,1,1,2
-29,nidoran-f,11,24,Double Kick,1,9,
-29,nidoran-f,11,39,Tail Whip,1,7,
-29,nidoran-f,11,40,Poison Sting,1,13,
-29,nidoran-f,11,44,Bite,1,21,
-29,nidoran-f,11,45,Growl,1,1,1
-29,nidoran-f,11,154,Fury Swipes,1,19,
-29,nidoran-f,11,242,Crunch,1,37,
-29,nidoran-f,11,260,Flatter,1,33,
-29,nidoran-f,11,270,Helping Hand,1,25,
-29,nidoran-f,11,305,Poison Fang,1,45,
-29,nidoran-f,11,390,Toxic Spikes,1,31,
-29,nidoran-f,11,445,Captivate,1,43,
-29,nidoran-f,12,10,Scratch,1,1,2
-29,nidoran-f,12,24,Double Kick,1,12,
-29,nidoran-f,12,39,Tail Whip,1,8,
-29,nidoran-f,12,40,Poison Sting,1,17,
-29,nidoran-f,12,44,Bite,1,20,
-29,nidoran-f,12,45,Growl,1,1,1
-29,nidoran-f,12,154,Fury Swipes,1,30,
-29,nidoran-f,12,242,Crunch,1,47,
-29,nidoran-f,12,260,Flatter,1,38,
-29,nidoran-f,12,270,Helping Hand,1,23,
-29,nidoran-f,13,10,Scratch,1,1,2
-29,nidoran-f,13,24,Double Kick,1,12,
-29,nidoran-f,13,39,Tail Whip,1,8,
-29,nidoran-f,13,40,Poison Sting,1,17,
-29,nidoran-f,13,44,Bite,1,20,
-29,nidoran-f,13,45,Growl,1,1,1
-29,nidoran-f,13,154,Fury Swipes,1,30,
-29,nidoran-f,13,242,Crunch,1,47,
-29,nidoran-f,13,260,Flatter,1,38,
-29,nidoran-f,13,270,Helping Hand,1,23,
-29,nidoran-f,14,10,Scratch,1,1,2
-29,nidoran-f,14,24,Double Kick,1,9,
-29,nidoran-f,14,39,Tail Whip,1,7,
-29,nidoran-f,14,40,Poison Sting,1,13,
-29,nidoran-f,14,44,Bite,1,21,
-29,nidoran-f,14,45,Growl,1,1,1
-29,nidoran-f,14,154,Fury Swipes,1,19,
-29,nidoran-f,14,242,Crunch,1,37,
-29,nidoran-f,14,260,Flatter,1,33,
-29,nidoran-f,14,270,Helping Hand,1,25,
-29,nidoran-f,14,305,Poison Fang,1,45,
-29,nidoran-f,14,390,Toxic Spikes,1,31,
-29,nidoran-f,14,445,Captivate,1,43,
-29,nidoran-f,15,10,Scratch,1,1,2
-29,nidoran-f,15,24,Double Kick,1,9,
-29,nidoran-f,15,39,Tail Whip,1,7,
-29,nidoran-f,15,40,Poison Sting,1,13,
-29,nidoran-f,15,44,Bite,1,21,
-29,nidoran-f,15,45,Growl,1,1,1
-29,nidoran-f,15,154,Fury Swipes,1,19,
-29,nidoran-f,15,242,Crunch,1,37,
-29,nidoran-f,15,260,Flatter,1,33,
-29,nidoran-f,15,270,Helping Hand,1,25,
-29,nidoran-f,15,305,Poison Fang,1,45,
-29,nidoran-f,15,390,Toxic Spikes,1,31,
-29,nidoran-f,15,445,Captivate,1,43,
-29,nidoran-f,16,10,Scratch,1,1,2
-29,nidoran-f,16,24,Double Kick,1,9,1
-29,nidoran-f,16,39,Tail Whip,1,7,1
-29,nidoran-f,16,40,Poison Sting,1,13,1
-29,nidoran-f,16,44,Bite,1,21,1
-29,nidoran-f,16,45,Growl,1,1,1
-29,nidoran-f,16,154,Fury Swipes,1,19,1
-29,nidoran-f,16,242,Crunch,1,37,1
-29,nidoran-f,16,260,Flatter,1,33,1
-29,nidoran-f,16,270,Helping Hand,1,25,1
-29,nidoran-f,16,305,Poison Fang,1,45,1
-29,nidoran-f,16,390,Toxic Spikes,1,31,1
-29,nidoran-f,16,445,Captivate,1,43,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+29,1,Tackle,1,normal,50,100
+29,1,Growl,1,normal,-,100
+29,2,Tackle,1,normal,50,100
+29,2,Growl,1,normal,-,100
+29,3,Tackle,1,normal,50,100
+29,3,Growl,1,normal,-,100
+29,4,Tackle,1,normal,50,100
+29,4,Growl,1,normal,-,100
+29,5,Scratch,1,normal,40,100
+29,5,Growl,1,normal,-,100
+29,6,Scratch,1,normal,40,100
+29,6,Growl,1,normal,-,100
+29,7,Scratch,1,normal,40,100
+29,7,Growl,1,normal,-,100
+29,8,Scratch,1,normal,40,100
+29,8,Growl,1,normal,-,100
+29,9,Scratch,1,normal,40,100
+29,9,Growl,1,normal,-,100
+29,10,Scratch,1,normal,40,100
+29,10,Growl,1,normal,-,100
+29,11,Scratch,1,normal,40,100
+29,11,Growl,1,normal,-,100
+29,12,Scratch,1,normal,40,100
+29,12,Growl,1,normal,-,100
+29,13,Scratch,1,normal,40,100
+29,13,Growl,1,normal,-,100
+29,14,Scratch,1,normal,40,100
+29,14,Growl,1,normal,-,100
+29,15,Scratch,1,normal,40,100
+29,15,Growl,1,normal,-,100
+29,16,Scratch,1,normal,40,100
+29,16,Growl,1,normal,-,100
+29,8,Tail Whip,7,normal,-,100
+29,9,Tail Whip,7,normal,-,100
+29,10,Tail Whip,7,normal,-,100
+29,11,Tail Whip,7,normal,-,100
+29,14,Tail Whip,7,normal,-,100
+29,15,Tail Whip,7,normal,-,100
+29,16,Tail Whip,7,normal,-,100
+29,1,Scratch,8,normal,40,100
+29,2,Scratch,8,normal,40,100
+29,3,Scratch,8,normal,40,100
+29,4,Scratch,8,normal,40,100
+29,5,Tail Whip,8,normal,-,100
+29,6,Tail Whip,8,normal,-,100
+29,7,Tail Whip,8,normal,-,100
+29,12,Tail Whip,8,normal,-,100
+29,13,Tail Whip,8,normal,-,100
+29,8,Double Kick,9,fighting,30,100
+29,9,Double Kick,9,fighting,30,100
+29,10,Double Kick,9,fighting,30,100
+29,11,Double Kick,9,fighting,30,100
+29,14,Double Kick,9,fighting,30,100
+29,15,Double Kick,9,fighting,30,100
+29,16,Double Kick,9,fighting,30,100
+29,2,Double Kick,12,fighting,30,100
+29,3,Double Kick,12,fighting,30,100
+29,4,Double Kick,12,fighting,30,100
+29,5,Double Kick,12,fighting,30,100
+29,6,Double Kick,12,fighting,30,100
+29,7,Double Kick,12,fighting,30,100
+29,12,Double Kick,12,fighting,30,100
+29,13,Double Kick,12,fighting,30,100
+29,8,Poison Sting,13,poison,15,100
+29,9,Poison Sting,13,poison,15,100
+29,10,Poison Sting,13,poison,15,100
+29,11,Poison Sting,13,poison,15,100
+29,14,Poison Sting,13,poison,15,100
+29,15,Poison Sting,13,poison,15,100
+29,16,Poison Sting,13,poison,15,100
+29,1,Poison Sting,14,poison,15,100
+29,2,Poison Sting,17,poison,15,100
+29,3,Poison Sting,17,poison,15,100
+29,4,Poison Sting,17,poison,15,100
+29,5,Poison Sting,17,poison,15,100
+29,6,Poison Sting,17,poison,15,100
+29,7,Poison Sting,17,poison,15,100
+29,12,Poison Sting,17,poison,15,100
+29,13,Poison Sting,17,poison,15,100
+29,8,Fury Swipes,19,normal,18,80
+29,9,Fury Swipes,19,normal,18,80
+29,10,Fury Swipes,19,normal,18,80
+29,11,Fury Swipes,19,normal,18,80
+29,14,Fury Swipes,19,normal,18,80
+29,15,Fury Swipes,19,normal,18,80
+29,16,Fury Swipes,19,normal,18,80
+29,5,Bite,20,dark,60,100
+29,6,Bite,20,dark,60,100
+29,7,Bite,20,dark,60,100
+29,12,Bite,20,dark,60,100
+29,13,Bite,20,dark,60,100
+29,1,Tail Whip,21,normal,-,100
+29,8,Bite,21,dark,60,100
+29,9,Bite,21,dark,60,100
+29,10,Bite,21,dark,60,100
+29,11,Bite,21,dark,60,100
+29,14,Bite,21,dark,60,100
+29,15,Bite,21,dark,60,100
+29,16,Bite,21,dark,60,100
+29,2,Tail Whip,23,normal,-,100
+29,3,Tail Whip,23,normal,-,100
+29,4,Tail Whip,23,normal,-,100
+29,5,Helping Hand,23,normal,-,-
+29,6,Helping Hand,23,normal,-,-
+29,7,Helping Hand,23,normal,-,-
+29,12,Helping Hand,23,normal,-,-
+29,13,Helping Hand,23,normal,-,-
+29,8,Helping Hand,25,normal,-,-
+29,9,Helping Hand,25,normal,-,-
+29,10,Helping Hand,25,normal,-,-
+29,11,Helping Hand,25,normal,-,-
+29,14,Helping Hand,25,normal,-,-
+29,15,Helping Hand,25,normal,-,-
+29,16,Helping Hand,25,normal,-,-
+29,1,Bite,29,dark,60,100
+29,2,Bite,30,dark,60,100
+29,3,Bite,30,dark,60,100
+29,4,Bite,30,dark,60,100
+29,5,Fury Swipes,30,normal,18,80
+29,6,Fury Swipes,30,normal,18,80
+29,7,Fury Swipes,30,normal,18,80
+29,12,Fury Swipes,30,normal,18,80
+29,13,Fury Swipes,30,normal,18,80
+29,8,Toxic Spikes,31,poison,-,-
+29,9,Toxic Spikes,31,poison,-,-
+29,10,Toxic Spikes,31,poison,-,-
+29,11,Toxic Spikes,31,poison,-,-
+29,14,Toxic Spikes,31,poison,-,-
+29,15,Toxic Spikes,31,poison,-,-
+29,16,Toxic Spikes,31,poison,-,-
+29,8,Flatter,33,dark,-,100
+29,9,Flatter,33,dark,-,100
+29,10,Flatter,33,dark,-,100
+29,11,Flatter,33,dark,-,100
+29,14,Flatter,33,dark,-,100
+29,15,Flatter,33,dark,-,100
+29,16,Flatter,33,dark,-,100
+29,1,Fury Swipes,36,normal,18,80
+29,8,Crunch,37,dark,80,100
+29,9,Crunch,37,dark,80,100
+29,10,Crunch,37,dark,80,100
+29,11,Crunch,37,dark,80,100
+29,14,Crunch,37,dark,80,100
+29,15,Crunch,37,dark,80,100
+29,16,Crunch,37,dark,80,100
+29,2,Fury Swipes,38,normal,18,80
+29,3,Fury Swipes,38,normal,18,80
+29,4,Fury Swipes,38,normal,18,80
+29,5,Flatter,38,dark,-,100
+29,6,Flatter,38,dark,-,100
+29,7,Flatter,38,dark,-,100
+29,12,Flatter,38,dark,-,100
+29,13,Flatter,38,dark,-,100
+29,1,Double Kick,43,fighting,30,100
+29,8,Captivate,43,normal,-,100
+29,9,Captivate,43,normal,-,100
+29,10,Captivate,43,normal,-,100
+29,11,Captivate,43,normal,-,100
+29,14,Captivate,43,normal,-,100
+29,15,Captivate,43,normal,-,100
+29,16,Captivate,43,normal,-,100
+29,8,Poison Fang,45,poison,50,100
+29,9,Poison Fang,45,poison,50,100
+29,10,Poison Fang,45,poison,50,100
+29,11,Poison Fang,45,poison,50,100
+29,14,Poison Fang,45,poison,50,100
+29,15,Poison Fang,45,poison,50,100
+29,16,Poison Fang,45,poison,50,100
+29,5,Crunch,47,dark,80,100
+29,6,Crunch,47,dark,80,100
+29,7,Crunch,47,dark,80,100
+29,12,Crunch,47,dark,80,100
+29,13,Crunch,47,dark,80,100

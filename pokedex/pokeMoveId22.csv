@@ -1,191 +1,191 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-22,fearow,1,31,Fury Attack,1,15,
-22,fearow,1,43,Leer,1,1,3
-22,fearow,1,43,Leer,1,9,
-22,fearow,1,45,Growl,1,1,2
-22,fearow,1,64,Peck,1,1,1
-22,fearow,1,65,Drill Peck,1,34,
-22,fearow,1,97,Agility,1,43,
-22,fearow,1,119,Mirror Move,1,25,
-22,fearow,2,31,Fury Attack,1,15,
-22,fearow,2,43,Leer,1,1,3
-22,fearow,2,43,Leer,1,9,
-22,fearow,2,45,Growl,1,1,2
-22,fearow,2,64,Peck,1,1,1
-22,fearow,2,65,Drill Peck,1,34,
-22,fearow,2,97,Agility,1,43,
-22,fearow,2,119,Mirror Move,1,25,
-22,fearow,3,31,Fury Attack,1,1,4
-22,fearow,3,31,Fury Attack,1,13,
-22,fearow,3,43,Leer,1,1,3
-22,fearow,3,43,Leer,1,7,
-22,fearow,3,45,Growl,1,1,2
-22,fearow,3,64,Peck,1,1,1
-22,fearow,3,65,Drill Peck,1,40,
-22,fearow,3,97,Agility,1,47,
-22,fearow,3,119,Mirror Move,1,32,
-22,fearow,3,228,Pursuit,1,26,
-22,fearow,4,31,Fury Attack,1,1,4
-22,fearow,4,31,Fury Attack,1,13,
-22,fearow,4,43,Leer,1,1,3
-22,fearow,4,43,Leer,1,7,
-22,fearow,4,45,Growl,1,1,2
-22,fearow,4,64,Peck,1,1,1
-22,fearow,4,65,Drill Peck,1,40,
-22,fearow,4,97,Agility,1,47,
-22,fearow,4,119,Mirror Move,1,32,
-22,fearow,4,228,Pursuit,1,26,
-22,fearow,5,31,Fury Attack,1,1,4
-22,fearow,5,31,Fury Attack,1,13,
-22,fearow,5,43,Leer,1,1,3
-22,fearow,5,43,Leer,1,7,
-22,fearow,5,45,Growl,1,1,2
-22,fearow,5,64,Peck,1,1,1
-22,fearow,5,65,Drill Peck,1,40,
-22,fearow,5,97,Agility,1,47,
-22,fearow,5,119,Mirror Move,1,32,
-22,fearow,5,228,Pursuit,1,26,
-22,fearow,6,31,Fury Attack,1,1,4
-22,fearow,6,31,Fury Attack,1,13,
-22,fearow,6,43,Leer,1,1,3
-22,fearow,6,43,Leer,1,7,
-22,fearow,6,45,Growl,1,1,2
-22,fearow,6,64,Peck,1,1,1
-22,fearow,6,65,Drill Peck,1,40,
-22,fearow,6,97,Agility,1,47,
-22,fearow,6,119,Mirror Move,1,32,
-22,fearow,6,228,Pursuit,1,26,
-22,fearow,7,31,Fury Attack,1,1,4
-22,fearow,7,31,Fury Attack,1,13,
-22,fearow,7,43,Leer,1,1,3
-22,fearow,7,43,Leer,1,7,
-22,fearow,7,45,Growl,1,1,2
-22,fearow,7,64,Peck,1,1,1
-22,fearow,7,65,Drill Peck,1,40,
-22,fearow,7,97,Agility,1,47,
-22,fearow,7,119,Mirror Move,1,32,
-22,fearow,7,228,Pursuit,1,26,
-22,fearow,8,31,Fury Attack,1,1,5
-22,fearow,8,31,Fury Attack,1,9,
-22,fearow,8,43,Leer,1,1,4
-22,fearow,8,43,Leer,1,5,
-22,fearow,8,45,Growl,1,1,3
-22,fearow,8,64,Peck,1,1,2
-22,fearow,8,65,Drill Peck,1,47,
-22,fearow,8,97,Agility,1,29,
-22,fearow,8,119,Mirror Move,1,23,
-22,fearow,8,228,Pursuit,1,13,
-22,fearow,8,332,Aerial Ace,1,17,
-22,fearow,8,355,Roost,1,41,
-22,fearow,8,365,Pluck,1,1,1
-22,fearow,8,372,Assurance,1,35,
-22,fearow,9,31,Fury Attack,1,1,5
-22,fearow,9,31,Fury Attack,1,9,
-22,fearow,9,43,Leer,1,1,4
-22,fearow,9,43,Leer,1,5,
-22,fearow,9,45,Growl,1,1,3
-22,fearow,9,64,Peck,1,1,2
-22,fearow,9,65,Drill Peck,1,47,
-22,fearow,9,97,Agility,1,29,
-22,fearow,9,119,Mirror Move,1,23,
-22,fearow,9,228,Pursuit,1,13,
-22,fearow,9,332,Aerial Ace,1,17,
-22,fearow,9,355,Roost,1,41,
-22,fearow,9,365,Pluck,1,1,1
-22,fearow,9,372,Assurance,1,35,
-22,fearow,10,31,Fury Attack,1,1,5
-22,fearow,10,31,Fury Attack,1,9,
-22,fearow,10,43,Leer,1,1,4
-22,fearow,10,43,Leer,1,5,
-22,fearow,10,45,Growl,1,1,3
-22,fearow,10,64,Peck,1,1,2
-22,fearow,10,65,Drill Peck,1,47,
-22,fearow,10,97,Agility,1,29,
-22,fearow,10,119,Mirror Move,1,23,
-22,fearow,10,228,Pursuit,1,13,
-22,fearow,10,332,Aerial Ace,1,17,
-22,fearow,10,355,Roost,1,41,
-22,fearow,10,365,Pluck,1,1,1
-22,fearow,10,372,Assurance,1,35,
-22,fearow,11,31,Fury Attack,1,1,5
-22,fearow,11,31,Fury Attack,1,9,
-22,fearow,11,43,Leer,1,1,4
-22,fearow,11,43,Leer,1,5,
-22,fearow,11,45,Growl,1,1,3
-22,fearow,11,64,Peck,1,1,2
-22,fearow,11,65,Drill Peck,1,47,
-22,fearow,11,97,Agility,1,29,
-22,fearow,11,119,Mirror Move,1,23,
-22,fearow,11,228,Pursuit,1,13,
-22,fearow,11,332,Aerial Ace,1,17,
-22,fearow,11,355,Roost,1,41,
-22,fearow,11,365,Pluck,1,1,1
-22,fearow,11,372,Assurance,1,35,
-22,fearow,11,529,Drill Run,1,53,
-22,fearow,12,31,Fury Attack,1,1,4
-22,fearow,12,31,Fury Attack,1,13,
-22,fearow,12,43,Leer,1,1,3
-22,fearow,12,43,Leer,1,7,
-22,fearow,12,45,Growl,1,1,2
-22,fearow,12,64,Peck,1,1,1
-22,fearow,12,65,Drill Peck,1,40,
-22,fearow,12,97,Agility,1,47,
-22,fearow,12,119,Mirror Move,1,32,
-22,fearow,12,228,Pursuit,1,26,
-22,fearow,13,31,Fury Attack,1,1,4
-22,fearow,13,31,Fury Attack,1,13,
-22,fearow,13,43,Leer,1,1,3
-22,fearow,13,43,Leer,1,7,
-22,fearow,13,45,Growl,1,1,2
-22,fearow,13,64,Peck,1,1,1
-22,fearow,13,65,Drill Peck,1,40,
-22,fearow,13,97,Agility,1,47,
-22,fearow,13,119,Mirror Move,1,32,
-22,fearow,13,228,Pursuit,1,26,
-22,fearow,14,31,Fury Attack,1,1,5
-22,fearow,14,31,Fury Attack,1,9,
-22,fearow,14,43,Leer,1,1,4
-22,fearow,14,43,Leer,1,5,
-22,fearow,14,45,Growl,1,1,3
-22,fearow,14,64,Peck,1,1,2
-22,fearow,14,65,Drill Peck,1,47,
-22,fearow,14,97,Agility,1,29,
-22,fearow,14,119,Mirror Move,1,23,
-22,fearow,14,228,Pursuit,1,13,
-22,fearow,14,332,Aerial Ace,1,17,
-22,fearow,14,355,Roost,1,41,
-22,fearow,14,365,Pluck,1,1,1
-22,fearow,14,372,Assurance,1,35,
-22,fearow,14,529,Drill Run,1,53,
-22,fearow,15,31,Fury Attack,1,1,6
-22,fearow,15,31,Fury Attack,1,9,
-22,fearow,15,43,Leer,1,1,5
-22,fearow,15,43,Leer,1,5,
-22,fearow,15,45,Growl,1,1,4
-22,fearow,15,64,Peck,1,1,3
-22,fearow,15,65,Drill Peck,1,47,
-22,fearow,15,97,Agility,1,29,
-22,fearow,15,119,Mirror Move,1,23,
-22,fearow,15,228,Pursuit,1,13,
-22,fearow,15,332,Aerial Ace,1,17,
-22,fearow,15,355,Roost,1,41,
-22,fearow,15,365,Pluck,1,1,2
-22,fearow,15,372,Assurance,1,35,
-22,fearow,15,529,Drill Run,1,1,1
-22,fearow,15,529,Drill Run,1,53,
-22,fearow,16,31,Fury Attack,1,1,6
-22,fearow,16,31,Fury Attack,1,9,1
-22,fearow,16,43,Leer,1,1,5
-22,fearow,16,43,Leer,1,5,1
-22,fearow,16,45,Growl,1,1,4
-22,fearow,16,64,Peck,1,1,3
-22,fearow,16,65,Drill Peck,1,47,1
-22,fearow,16,97,Agility,1,29,1
-22,fearow,16,119,Mirror Move,1,23,1
-22,fearow,16,228,Pursuit,1,13,1
-22,fearow,16,332,Aerial Ace,1,17,1
-22,fearow,16,355,Roost,1,41,1
-22,fearow,16,365,Pluck,1,1,2
-22,fearow,16,372,Assurance,1,35,1
-22,fearow,16,529,Drill Run,1,1,1
-22,fearow,16,529,Drill Run,1,53,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+22,1,Leer,1,normal,-,100
+22,1,Growl,1,normal,-,100
+22,1,Peck,1,flying,35,100
+22,2,Leer,1,normal,-,100
+22,2,Growl,1,normal,-,100
+22,2,Peck,1,flying,35,100
+22,3,Fury Attack,1,normal,15,85
+22,3,Leer,1,normal,-,100
+22,3,Growl,1,normal,-,100
+22,3,Peck,1,flying,35,100
+22,4,Fury Attack,1,normal,15,85
+22,4,Leer,1,normal,-,100
+22,4,Growl,1,normal,-,100
+22,4,Peck,1,flying,35,100
+22,5,Fury Attack,1,normal,15,85
+22,5,Leer,1,normal,-,100
+22,5,Growl,1,normal,-,100
+22,5,Peck,1,flying,35,100
+22,6,Fury Attack,1,normal,15,85
+22,6,Leer,1,normal,-,100
+22,6,Growl,1,normal,-,100
+22,6,Peck,1,flying,35,100
+22,7,Fury Attack,1,normal,15,85
+22,7,Leer,1,normal,-,100
+22,7,Growl,1,normal,-,100
+22,7,Peck,1,flying,35,100
+22,8,Fury Attack,1,normal,15,85
+22,8,Leer,1,normal,-,100
+22,8,Growl,1,normal,-,100
+22,8,Peck,1,flying,35,100
+22,8,Pluck,1,flying,60,100
+22,9,Fury Attack,1,normal,15,85
+22,9,Leer,1,normal,-,100
+22,9,Growl,1,normal,-,100
+22,9,Peck,1,flying,35,100
+22,9,Pluck,1,flying,60,100
+22,10,Fury Attack,1,normal,15,85
+22,10,Leer,1,normal,-,100
+22,10,Growl,1,normal,-,100
+22,10,Peck,1,flying,35,100
+22,10,Pluck,1,flying,60,100
+22,11,Fury Attack,1,normal,15,85
+22,11,Leer,1,normal,-,100
+22,11,Growl,1,normal,-,100
+22,11,Peck,1,flying,35,100
+22,11,Pluck,1,flying,60,100
+22,12,Fury Attack,1,normal,15,85
+22,12,Leer,1,normal,-,100
+22,12,Growl,1,normal,-,100
+22,12,Peck,1,flying,35,100
+22,13,Fury Attack,1,normal,15,85
+22,13,Leer,1,normal,-,100
+22,13,Growl,1,normal,-,100
+22,13,Peck,1,flying,35,100
+22,14,Fury Attack,1,normal,15,85
+22,14,Leer,1,normal,-,100
+22,14,Growl,1,normal,-,100
+22,14,Peck,1,flying,35,100
+22,14,Pluck,1,flying,60,100
+22,15,Fury Attack,1,normal,15,85
+22,15,Leer,1,normal,-,100
+22,15,Growl,1,normal,-,100
+22,15,Peck,1,flying,35,100
+22,15,Pluck,1,flying,60,100
+22,15,Drill Run,1,ground,80,95
+22,16,Fury Attack,1,normal,15,85
+22,16,Leer,1,normal,-,100
+22,16,Growl,1,normal,-,100
+22,16,Peck,1,flying,35,100
+22,16,Pluck,1,flying,60,100
+22,16,Drill Run,1,ground,80,95
+22,8,Leer,5,normal,-,100
+22,9,Leer,5,normal,-,100
+22,10,Leer,5,normal,-,100
+22,11,Leer,5,normal,-,100
+22,14,Leer,5,normal,-,100
+22,15,Leer,5,normal,-,100
+22,16,Leer,5,normal,-,100
+22,3,Leer,7,normal,-,100
+22,4,Leer,7,normal,-,100
+22,5,Leer,7,normal,-,100
+22,6,Leer,7,normal,-,100
+22,7,Leer,7,normal,-,100
+22,12,Leer,7,normal,-,100
+22,13,Leer,7,normal,-,100
+22,1,Leer,9,normal,-,100
+22,2,Leer,9,normal,-,100
+22,8,Fury Attack,9,normal,15,85
+22,9,Fury Attack,9,normal,15,85
+22,10,Fury Attack,9,normal,15,85
+22,11,Fury Attack,9,normal,15,85
+22,14,Fury Attack,9,normal,15,85
+22,15,Fury Attack,9,normal,15,85
+22,16,Fury Attack,9,normal,15,85
+22,3,Fury Attack,13,normal,15,85
+22,4,Fury Attack,13,normal,15,85
+22,5,Fury Attack,13,normal,15,85
+22,6,Fury Attack,13,normal,15,85
+22,7,Fury Attack,13,normal,15,85
+22,8,Pursuit,13,dark,40,100
+22,9,Pursuit,13,dark,40,100
+22,10,Pursuit,13,dark,40,100
+22,11,Pursuit,13,dark,40,100
+22,12,Fury Attack,13,normal,15,85
+22,13,Fury Attack,13,normal,15,85
+22,14,Pursuit,13,dark,40,100
+22,15,Pursuit,13,dark,40,100
+22,16,Pursuit,13,dark,40,100
+22,1,Fury Attack,15,normal,15,85
+22,2,Fury Attack,15,normal,15,85
+22,8,Aerial Ace,17,flying,60,-
+22,9,Aerial Ace,17,flying,60,-
+22,10,Aerial Ace,17,flying,60,-
+22,11,Aerial Ace,17,flying,60,-
+22,14,Aerial Ace,17,flying,60,-
+22,15,Aerial Ace,17,flying,60,-
+22,16,Aerial Ace,17,flying,60,-
+22,8,Mirror Move,23,flying,-,-
+22,9,Mirror Move,23,flying,-,-
+22,10,Mirror Move,23,flying,-,-
+22,11,Mirror Move,23,flying,-,-
+22,14,Mirror Move,23,flying,-,-
+22,15,Mirror Move,23,flying,-,-
+22,16,Mirror Move,23,flying,-,-
+22,1,Mirror Move,25,flying,-,-
+22,2,Mirror Move,25,flying,-,-
+22,3,Pursuit,26,dark,40,100
+22,4,Pursuit,26,dark,40,100
+22,5,Pursuit,26,dark,40,100
+22,6,Pursuit,26,dark,40,100
+22,7,Pursuit,26,dark,40,100
+22,12,Pursuit,26,dark,40,100
+22,13,Pursuit,26,dark,40,100
+22,8,Agility,29,psychic,-,-
+22,9,Agility,29,psychic,-,-
+22,10,Agility,29,psychic,-,-
+22,11,Agility,29,psychic,-,-
+22,14,Agility,29,psychic,-,-
+22,15,Agility,29,psychic,-,-
+22,16,Agility,29,psychic,-,-
+22,3,Mirror Move,32,flying,-,-
+22,4,Mirror Move,32,flying,-,-
+22,5,Mirror Move,32,flying,-,-
+22,6,Mirror Move,32,flying,-,-
+22,7,Mirror Move,32,flying,-,-
+22,12,Mirror Move,32,flying,-,-
+22,13,Mirror Move,32,flying,-,-
+22,1,Drill Peck,34,flying,80,100
+22,2,Drill Peck,34,flying,80,100
+22,8,Assurance,35,dark,60,100
+22,9,Assurance,35,dark,60,100
+22,10,Assurance,35,dark,60,100
+22,11,Assurance,35,dark,60,100
+22,14,Assurance,35,dark,60,100
+22,15,Assurance,35,dark,60,100
+22,16,Assurance,35,dark,60,100
+22,3,Drill Peck,40,flying,80,100
+22,4,Drill Peck,40,flying,80,100
+22,5,Drill Peck,40,flying,80,100
+22,6,Drill Peck,40,flying,80,100
+22,7,Drill Peck,40,flying,80,100
+22,12,Drill Peck,40,flying,80,100
+22,13,Drill Peck,40,flying,80,100
+22,8,Roost,41,flying,-,-
+22,9,Roost,41,flying,-,-
+22,10,Roost,41,flying,-,-
+22,11,Roost,41,flying,-,-
+22,14,Roost,41,flying,-,-
+22,15,Roost,41,flying,-,-
+22,16,Roost,41,flying,-,-
+22,1,Agility,43,psychic,-,-
+22,2,Agility,43,psychic,-,-
+22,3,Agility,47,psychic,-,-
+22,4,Agility,47,psychic,-,-
+22,5,Agility,47,psychic,-,-
+22,6,Agility,47,psychic,-,-
+22,7,Agility,47,psychic,-,-
+22,8,Drill Peck,47,flying,80,100
+22,9,Drill Peck,47,flying,80,100
+22,10,Drill Peck,47,flying,80,100
+22,11,Drill Peck,47,flying,80,100
+22,12,Agility,47,psychic,-,-
+22,13,Agility,47,psychic,-,-
+22,14,Drill Peck,47,flying,80,100
+22,15,Drill Peck,47,flying,80,100
+22,16,Drill Peck,47,flying,80,100
+22,11,Drill Run,53,ground,80,95
+22,14,Drill Run,53,ground,80,95
+22,15,Drill Run,53,ground,80,95
+22,16,Drill Run,53,ground,80,95

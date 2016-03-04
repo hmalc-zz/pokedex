@@ -1,85 +1,85 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-491,darkrai,8,50,Disable,1,1,2
-491,darkrai,8,95,Hypnosis,1,20,
-491,darkrai,8,98,Quick Attack,1,11,
-491,darkrai,8,101,Night Shade,1,1,1
-491,darkrai,8,104,Double Team,1,47,
-491,darkrai,8,114,Haze,1,57,
-491,darkrai,8,138,Dream Eater,1,84,
-491,darkrai,8,171,Nightmare,1,38,
-491,darkrai,8,228,Pursuit,1,29,
-491,darkrai,8,373,Embargo,1,75,
-491,darkrai,8,399,Dark Pulse,1,93,
-491,darkrai,8,464,Dark Void,1,66,
-491,darkrai,9,50,Disable,1,1,2
-491,darkrai,9,95,Hypnosis,1,20,
-491,darkrai,9,98,Quick Attack,1,11,
-491,darkrai,9,104,Double Team,1,47,
-491,darkrai,9,114,Haze,1,57,
-491,darkrai,9,138,Dream Eater,1,84,
-491,darkrai,9,171,Nightmare,1,38,
-491,darkrai,9,185,Feint Attack,1,29,
-491,darkrai,9,399,Dark Pulse,1,93,
-491,darkrai,9,417,Nasty Plot,1,75,
-491,darkrai,9,464,Dark Void,1,66,
-491,darkrai,9,466,Ominous Wind,1,1,1
-491,darkrai,10,50,Disable,1,1,2
-491,darkrai,10,95,Hypnosis,1,20,
-491,darkrai,10,98,Quick Attack,1,11,
-491,darkrai,10,104,Double Team,1,47,
-491,darkrai,10,114,Haze,1,57,
-491,darkrai,10,138,Dream Eater,1,84,
-491,darkrai,10,171,Nightmare,1,38,
-491,darkrai,10,185,Feint Attack,1,29,
-491,darkrai,10,399,Dark Pulse,1,93,
-491,darkrai,10,417,Nasty Plot,1,75,
-491,darkrai,10,464,Dark Void,1,66,
-491,darkrai,10,466,Ominous Wind,1,1,1
-491,darkrai,11,50,Disable,1,1,2
-491,darkrai,11,95,Hypnosis,1,20,
-491,darkrai,11,98,Quick Attack,1,11,
-491,darkrai,11,104,Double Team,1,47,
-491,darkrai,11,114,Haze,1,57,
-491,darkrai,11,138,Dream Eater,1,84,
-491,darkrai,11,171,Nightmare,1,38,
-491,darkrai,11,185,Feint Attack,1,29,
-491,darkrai,11,399,Dark Pulse,1,93,
-491,darkrai,11,417,Nasty Plot,1,75,
-491,darkrai,11,464,Dark Void,1,66,
-491,darkrai,11,466,Ominous Wind,1,1,1
-491,darkrai,14,50,Disable,1,1,2
-491,darkrai,14,95,Hypnosis,1,20,
-491,darkrai,14,98,Quick Attack,1,11,
-491,darkrai,14,104,Double Team,1,47,
-491,darkrai,14,114,Haze,1,57,
-491,darkrai,14,138,Dream Eater,1,84,
-491,darkrai,14,171,Nightmare,1,38,
-491,darkrai,14,185,Feint Attack,1,29,
-491,darkrai,14,399,Dark Pulse,1,93,
-491,darkrai,14,417,Nasty Plot,1,75,
-491,darkrai,14,464,Dark Void,1,66,
-491,darkrai,14,466,Ominous Wind,1,1,1
-491,darkrai,15,50,Disable,1,1,2
-491,darkrai,15,95,Hypnosis,1,20,
-491,darkrai,15,98,Quick Attack,1,11,
-491,darkrai,15,104,Double Team,1,47,
-491,darkrai,15,114,Haze,1,57,
-491,darkrai,15,138,Dream Eater,1,84,
-491,darkrai,15,171,Nightmare,1,38,
-491,darkrai,15,185,Feint Attack,1,29,
-491,darkrai,15,399,Dark Pulse,1,93,
-491,darkrai,15,417,Nasty Plot,1,75,
-491,darkrai,15,464,Dark Void,1,66,
-491,darkrai,15,466,Ominous Wind,1,1,1
-491,darkrai,16,50,Disable,1,1,2
-491,darkrai,16,95,Hypnosis,1,20,1
-491,darkrai,16,98,Quick Attack,1,11,1
-491,darkrai,16,104,Double Team,1,47,1
-491,darkrai,16,114,Haze,1,57,1
-491,darkrai,16,138,Dream Eater,1,84,1
-491,darkrai,16,171,Nightmare,1,38,1
-491,darkrai,16,185,Feint Attack,1,29,1
-491,darkrai,16,399,Dark Pulse,1,93,1
-491,darkrai,16,417,Nasty Plot,1,75,1
-491,darkrai,16,464,Dark Void,1,66,1
-491,darkrai,16,466,Ominous Wind,1,1,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+491,8,Disable,1,normal,-,100
+491,8,Night Shade,1,ghost,-,100
+491,9,Disable,1,normal,-,100
+491,9,Ominous Wind,1,ghost,60,100
+491,10,Disable,1,normal,-,100
+491,10,Ominous Wind,1,ghost,60,100
+491,11,Disable,1,normal,-,100
+491,11,Ominous Wind,1,ghost,60,100
+491,14,Disable,1,normal,-,100
+491,14,Ominous Wind,1,ghost,60,100
+491,15,Disable,1,normal,-,100
+491,15,Ominous Wind,1,ghost,60,100
+491,16,Disable,1,normal,-,100
+491,16,Ominous Wind,1,ghost,60,100
+491,8,Quick Attack,11,normal,40,100
+491,9,Quick Attack,11,normal,40,100
+491,10,Quick Attack,11,normal,40,100
+491,11,Quick Attack,11,normal,40,100
+491,14,Quick Attack,11,normal,40,100
+491,15,Quick Attack,11,normal,40,100
+491,16,Quick Attack,11,normal,40,100
+491,8,Hypnosis,20,psychic,-,60
+491,9,Hypnosis,20,psychic,-,60
+491,10,Hypnosis,20,psychic,-,60
+491,11,Hypnosis,20,psychic,-,60
+491,14,Hypnosis,20,psychic,-,60
+491,15,Hypnosis,20,psychic,-,60
+491,16,Hypnosis,20,psychic,-,60
+491,8,Pursuit,29,dark,40,100
+491,9,Feint Attack,29,dark,60,-
+491,10,Feint Attack,29,dark,60,-
+491,11,Feint Attack,29,dark,60,-
+491,14,Feint Attack,29,dark,60,-
+491,15,Feint Attack,29,dark,60,-
+491,16,Feint Attack,29,dark,60,-
+491,8,Nightmare,38,ghost,-,100
+491,9,Nightmare,38,ghost,-,100
+491,10,Nightmare,38,ghost,-,100
+491,11,Nightmare,38,ghost,-,100
+491,14,Nightmare,38,ghost,-,100
+491,15,Nightmare,38,ghost,-,100
+491,16,Nightmare,38,ghost,-,100
+491,8,Double Team,47,normal,-,-
+491,9,Double Team,47,normal,-,-
+491,10,Double Team,47,normal,-,-
+491,11,Double Team,47,normal,-,-
+491,14,Double Team,47,normal,-,-
+491,15,Double Team,47,normal,-,-
+491,16,Double Team,47,normal,-,-
+491,8,Haze,57,ice,-,-
+491,9,Haze,57,ice,-,-
+491,10,Haze,57,ice,-,-
+491,11,Haze,57,ice,-,-
+491,14,Haze,57,ice,-,-
+491,15,Haze,57,ice,-,-
+491,16,Haze,57,ice,-,-
+491,8,Dark Void,66,dark,-,80
+491,9,Dark Void,66,dark,-,80
+491,10,Dark Void,66,dark,-,80
+491,11,Dark Void,66,dark,-,80
+491,14,Dark Void,66,dark,-,80
+491,15,Dark Void,66,dark,-,80
+491,16,Dark Void,66,dark,-,80
+491,8,Embargo,75,dark,-,100
+491,9,Nasty Plot,75,dark,-,-
+491,10,Nasty Plot,75,dark,-,-
+491,11,Nasty Plot,75,dark,-,-
+491,14,Nasty Plot,75,dark,-,-
+491,15,Nasty Plot,75,dark,-,-
+491,16,Nasty Plot,75,dark,-,-
+491,8,Dream Eater,84,psychic,100,100
+491,9,Dream Eater,84,psychic,100,100
+491,10,Dream Eater,84,psychic,100,100
+491,11,Dream Eater,84,psychic,100,100
+491,14,Dream Eater,84,psychic,100,100
+491,15,Dream Eater,84,psychic,100,100
+491,16,Dream Eater,84,psychic,100,100
+491,8,Dark Pulse,93,dark,80,100
+491,9,Dark Pulse,93,dark,80,100
+491,10,Dark Pulse,93,dark,80,100
+491,11,Dark Pulse,93,dark,80,100
+491,14,Dark Pulse,93,dark,80,100
+491,15,Dark Pulse,93,dark,80,100
+491,16,Dark Pulse,93,dark,80,100

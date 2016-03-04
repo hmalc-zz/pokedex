@@ -1,93 +1,93 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-402,kricketune,8,45,Growl,1,1,1
-402,kricketune,8,47,Sing,1,18,
-402,kricketune,8,103,Screech,1,30,
-402,kricketune,8,116,Focus Energy,1,22,
-402,kricketune,8,117,Bide,1,1,2
-402,kricketune,8,141,Leech Life,1,14,
-402,kricketune,8,195,Perish Song,1,38,
-402,kricketune,8,210,Fury Cutter,1,10,
-402,kricketune,8,404,X-Scissor,1,26,
-402,kricketune,8,405,Bug Buzz,1,34,
-402,kricketune,9,45,Growl,1,1,1
-402,kricketune,9,47,Sing,1,18,
-402,kricketune,9,103,Screech,1,34,
-402,kricketune,9,116,Focus Energy,1,22,
-402,kricketune,9,117,Bide,1,1,2
-402,kricketune,9,141,Leech Life,1,14,
-402,kricketune,9,163,Slash,1,26,
-402,kricketune,9,195,Perish Song,1,50,
-402,kricketune,9,210,Fury Cutter,1,10,
-402,kricketune,9,269,Taunt,1,38,
-402,kricketune,9,400,Night Slash,1,42,
-402,kricketune,9,404,X-Scissor,1,30,
-402,kricketune,9,405,Bug Buzz,1,46,
-402,kricketune,10,45,Growl,1,1,1
-402,kricketune,10,47,Sing,1,18,
-402,kricketune,10,103,Screech,1,34,
-402,kricketune,10,116,Focus Energy,1,22,
-402,kricketune,10,117,Bide,1,1,2
-402,kricketune,10,141,Leech Life,1,14,
-402,kricketune,10,163,Slash,1,26,
-402,kricketune,10,195,Perish Song,1,50,
-402,kricketune,10,210,Fury Cutter,1,10,
-402,kricketune,10,269,Taunt,1,38,
-402,kricketune,10,400,Night Slash,1,42,
-402,kricketune,10,404,X-Scissor,1,30,
-402,kricketune,10,405,Bug Buzz,1,46,
-402,kricketune,11,45,Growl,1,1,1
-402,kricketune,11,47,Sing,1,18,
-402,kricketune,11,103,Screech,1,34,
-402,kricketune,11,116,Focus Energy,1,22,
-402,kricketune,11,117,Bide,1,1,2
-402,kricketune,11,141,Leech Life,1,14,
-402,kricketune,11,163,Slash,1,26,
-402,kricketune,11,195,Perish Song,1,50,
-402,kricketune,11,210,Fury Cutter,1,10,
-402,kricketune,11,269,Taunt,1,38,
-402,kricketune,11,400,Night Slash,1,42,
-402,kricketune,11,404,X-Scissor,1,30,
-402,kricketune,11,405,Bug Buzz,1,46,
-402,kricketune,14,45,Growl,1,1,1
-402,kricketune,14,47,Sing,1,18,
-402,kricketune,14,103,Screech,1,34,
-402,kricketune,14,116,Focus Energy,1,22,
-402,kricketune,14,117,Bide,1,1,2
-402,kricketune,14,141,Leech Life,1,14,
-402,kricketune,14,163,Slash,1,26,
-402,kricketune,14,195,Perish Song,1,50,
-402,kricketune,14,210,Fury Cutter,1,10,
-402,kricketune,14,269,Taunt,1,38,
-402,kricketune,14,400,Night Slash,1,42,
-402,kricketune,14,404,X-Scissor,1,30,
-402,kricketune,14,405,Bug Buzz,1,46,
-402,kricketune,15,45,Growl,1,1,1
-402,kricketune,15,47,Sing,1,18,
-402,kricketune,15,103,Screech,1,34,
-402,kricketune,15,116,Focus Energy,1,22,
-402,kricketune,15,117,Bide,1,1,2
-402,kricketune,15,141,Leech Life,1,14,
-402,kricketune,15,163,Slash,1,26,
-402,kricketune,15,195,Perish Song,1,50,
-402,kricketune,15,210,Fury Cutter,1,10,
-402,kricketune,15,269,Taunt,1,38,
-402,kricketune,15,400,Night Slash,1,42,
-402,kricketune,15,404,X-Scissor,1,30,
-402,kricketune,15,405,Bug Buzz,1,46,
-402,kricketune,15,564,Sticky Web,1,44,
-402,kricketune,15,565,Fell Stinger,1,36,
-402,kricketune,16,45,Growl,1,1,1
-402,kricketune,16,47,Sing,1,18,1
-402,kricketune,16,103,Screech,1,34,1
-402,kricketune,16,116,Focus Energy,1,22,1
-402,kricketune,16,117,Bide,1,1,2
-402,kricketune,16,141,Leech Life,1,14,1
-402,kricketune,16,163,Slash,1,26,1
-402,kricketune,16,195,Perish Song,1,50,1
-402,kricketune,16,210,Fury Cutter,1,10,1
-402,kricketune,16,269,Taunt,1,38,1
-402,kricketune,16,400,Night Slash,1,42,1
-402,kricketune,16,404,X-Scissor,1,30,1
-402,kricketune,16,405,Bug Buzz,1,46,1
-402,kricketune,16,564,Sticky Web,1,44,1
-402,kricketune,16,565,Fell Stinger,1,36,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+402,8,Growl,1,normal,-,100
+402,8,Bide,1,normal,-,-
+402,9,Growl,1,normal,-,100
+402,9,Bide,1,normal,-,-
+402,10,Growl,1,normal,-,100
+402,10,Bide,1,normal,-,-
+402,11,Growl,1,normal,-,100
+402,11,Bide,1,normal,-,-
+402,14,Growl,1,normal,-,100
+402,14,Bide,1,normal,-,-
+402,15,Growl,1,normal,-,100
+402,15,Bide,1,normal,-,-
+402,16,Growl,1,normal,-,100
+402,16,Bide,1,normal,-,-
+402,8,Fury Cutter,10,bug,40,95
+402,9,Fury Cutter,10,bug,40,95
+402,10,Fury Cutter,10,bug,40,95
+402,11,Fury Cutter,10,bug,40,95
+402,14,Fury Cutter,10,bug,40,95
+402,15,Fury Cutter,10,bug,40,95
+402,16,Fury Cutter,10,bug,40,95
+402,8,Leech Life,14,bug,20,100
+402,9,Leech Life,14,bug,20,100
+402,10,Leech Life,14,bug,20,100
+402,11,Leech Life,14,bug,20,100
+402,14,Leech Life,14,bug,20,100
+402,15,Leech Life,14,bug,20,100
+402,16,Leech Life,14,bug,20,100
+402,8,Sing,18,normal,-,55
+402,9,Sing,18,normal,-,55
+402,10,Sing,18,normal,-,55
+402,11,Sing,18,normal,-,55
+402,14,Sing,18,normal,-,55
+402,15,Sing,18,normal,-,55
+402,16,Sing,18,normal,-,55
+402,8,Focus Energy,22,normal,-,-
+402,9,Focus Energy,22,normal,-,-
+402,10,Focus Energy,22,normal,-,-
+402,11,Focus Energy,22,normal,-,-
+402,14,Focus Energy,22,normal,-,-
+402,15,Focus Energy,22,normal,-,-
+402,16,Focus Energy,22,normal,-,-
+402,8,X-Scissor,26,bug,80,100
+402,9,Slash,26,normal,70,100
+402,10,Slash,26,normal,70,100
+402,11,Slash,26,normal,70,100
+402,14,Slash,26,normal,70,100
+402,15,Slash,26,normal,70,100
+402,16,Slash,26,normal,70,100
+402,8,Screech,30,normal,-,85
+402,9,X-Scissor,30,bug,80,100
+402,10,X-Scissor,30,bug,80,100
+402,11,X-Scissor,30,bug,80,100
+402,14,X-Scissor,30,bug,80,100
+402,15,X-Scissor,30,bug,80,100
+402,16,X-Scissor,30,bug,80,100
+402,8,Bug Buzz,34,bug,90,100
+402,9,Screech,34,normal,-,85
+402,10,Screech,34,normal,-,85
+402,11,Screech,34,normal,-,85
+402,14,Screech,34,normal,-,85
+402,15,Screech,34,normal,-,85
+402,16,Screech,34,normal,-,85
+402,15,Fell Stinger,36,bug,30,100
+402,16,Fell Stinger,36,bug,30,100
+402,8,Perish Song,38,normal,-,-
+402,9,Taunt,38,dark,-,100
+402,10,Taunt,38,dark,-,100
+402,11,Taunt,38,dark,-,100
+402,14,Taunt,38,dark,-,100
+402,15,Taunt,38,dark,-,100
+402,16,Taunt,38,dark,-,100
+402,9,Night Slash,42,dark,70,100
+402,10,Night Slash,42,dark,70,100
+402,11,Night Slash,42,dark,70,100
+402,14,Night Slash,42,dark,70,100
+402,15,Night Slash,42,dark,70,100
+402,16,Night Slash,42,dark,70,100
+402,15,Sticky Web,44,bug,-,-
+402,16,Sticky Web,44,bug,-,-
+402,9,Bug Buzz,46,bug,90,100
+402,10,Bug Buzz,46,bug,90,100
+402,11,Bug Buzz,46,bug,90,100
+402,14,Bug Buzz,46,bug,90,100
+402,15,Bug Buzz,46,bug,90,100
+402,16,Bug Buzz,46,bug,90,100
+402,9,Perish Song,50,normal,-,-
+402,10,Perish Song,50,normal,-,-
+402,11,Perish Song,50,normal,-,-
+402,14,Perish Song,50,normal,-,-
+402,15,Perish Song,50,normal,-,-
+402,16,Perish Song,50,normal,-,-

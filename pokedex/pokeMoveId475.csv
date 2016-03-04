@@ -1,141 +1,141 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-475,gallade,8,14,Swords Dance,1,25,
-475,gallade,8,43,Leer,1,1,3
-475,gallade,8,93,Confusion,1,1,4
-475,gallade,8,93,Confusion,1,6,
-475,gallade,8,100,Teleport,1,1,6
-475,gallade,8,100,Teleport,1,12,
-475,gallade,8,104,Double Team,1,1,5
-475,gallade,8,104,Double Team,1,10,
-475,gallade,8,163,Slash,1,22,
-475,gallade,8,182,Protect,1,50,
-475,gallade,8,206,False Swipe,1,45,
-475,gallade,8,210,Fury Cutter,1,17,
-475,gallade,8,270,Helping Hand,1,36,
-475,gallade,8,348,Leaf Blade,1,1,1
-475,gallade,8,364,Feint,1,39,
-475,gallade,8,370,Close Combat,1,53,
-475,gallade,8,400,Night Slash,1,1,2
-475,gallade,8,427,Psycho Cut,1,31,
-475,gallade,9,14,Swords Dance,1,25,
-475,gallade,9,43,Leer,1,1,3
-475,gallade,9,93,Confusion,1,1,4
-475,gallade,9,93,Confusion,1,6,
-475,gallade,9,100,Teleport,1,1,6
-475,gallade,9,100,Teleport,1,12,
-475,gallade,9,104,Double Team,1,1,5
-475,gallade,9,104,Double Team,1,10,
-475,gallade,9,163,Slash,1,22,
-475,gallade,9,182,Protect,1,50,
-475,gallade,9,206,False Swipe,1,45,
-475,gallade,9,210,Fury Cutter,1,17,
-475,gallade,9,270,Helping Hand,1,36,
-475,gallade,9,348,Leaf Blade,1,1,1
-475,gallade,9,364,Feint,1,39,
-475,gallade,9,370,Close Combat,1,53,
-475,gallade,9,400,Night Slash,1,1,2
-475,gallade,9,427,Psycho Cut,1,31,
-475,gallade,10,14,Swords Dance,1,25,
-475,gallade,10,43,Leer,1,1,3
-475,gallade,10,93,Confusion,1,1,4
-475,gallade,10,93,Confusion,1,6,
-475,gallade,10,100,Teleport,1,1,6
-475,gallade,10,100,Teleport,1,12,
-475,gallade,10,104,Double Team,1,1,5
-475,gallade,10,104,Double Team,1,10,
-475,gallade,10,163,Slash,1,22,
-475,gallade,10,182,Protect,1,50,
-475,gallade,10,206,False Swipe,1,45,
-475,gallade,10,210,Fury Cutter,1,17,
-475,gallade,10,270,Helping Hand,1,36,
-475,gallade,10,348,Leaf Blade,1,1,1
-475,gallade,10,364,Feint,1,39,
-475,gallade,10,370,Close Combat,1,53,
-475,gallade,10,400,Night Slash,1,1,2
-475,gallade,10,427,Psycho Cut,1,31,
-475,gallade,11,14,Swords Dance,1,31,
-475,gallade,11,43,Leer,1,1,3
-475,gallade,11,93,Confusion,1,1,4
-475,gallade,11,93,Confusion,1,6,
-475,gallade,11,100,Teleport,1,1,6
-475,gallade,11,100,Teleport,1,12,
-475,gallade,11,104,Double Team,1,1,5
-475,gallade,11,104,Double Team,1,10,
-475,gallade,11,163,Slash,1,22,
-475,gallade,11,182,Protect,1,53,
-475,gallade,11,206,False Swipe,1,50,
-475,gallade,11,210,Fury Cutter,1,17,
-475,gallade,11,270,Helping Hand,1,39,
-475,gallade,11,348,Leaf Blade,1,1,1
-475,gallade,11,364,Feint,1,45,
-475,gallade,11,370,Close Combat,1,59,
-475,gallade,11,400,Night Slash,1,1,2
-475,gallade,11,427,Psycho Cut,1,36,
-475,gallade,11,500,Stored Power,1,64,
-475,gallade,11,505,Heal Pulse,1,25,
-475,gallade,14,14,Swords Dance,1,31,
-475,gallade,14,43,Leer,1,1,3
-475,gallade,14,93,Confusion,1,1,4
-475,gallade,14,93,Confusion,1,6,
-475,gallade,14,100,Teleport,1,1,6
-475,gallade,14,100,Teleport,1,12,
-475,gallade,14,104,Double Team,1,1,5
-475,gallade,14,104,Double Team,1,10,
-475,gallade,14,163,Slash,1,22,
-475,gallade,14,182,Protect,1,53,
-475,gallade,14,206,False Swipe,1,50,
-475,gallade,14,210,Fury Cutter,1,17,
-475,gallade,14,270,Helping Hand,1,39,
-475,gallade,14,348,Leaf Blade,1,1,1
-475,gallade,14,364,Feint,1,45,
-475,gallade,14,370,Close Combat,1,59,
-475,gallade,14,400,Night Slash,1,1,2
-475,gallade,14,427,Psycho Cut,1,36,
-475,gallade,14,500,Stored Power,1,64,
-475,gallade,14,505,Heal Pulse,1,25,
-475,gallade,15,14,Swords Dance,1,31,
-475,gallade,15,43,Leer,1,1,5
-475,gallade,15,93,Confusion,1,1,6
-475,gallade,15,93,Confusion,1,6,
-475,gallade,15,100,Teleport,1,1,8
-475,gallade,15,100,Teleport,1,12,
-475,gallade,15,104,Double Team,1,1,7
-475,gallade,15,104,Double Team,1,10,
-475,gallade,15,163,Slash,1,22,
-475,gallade,15,182,Protect,1,53,
-475,gallade,15,206,False Swipe,1,50,
-475,gallade,15,210,Fury Cutter,1,17,
-475,gallade,15,270,Helping Hand,1,39,
-475,gallade,15,348,Leaf Blade,1,1,3
-475,gallade,15,364,Feint,1,45,
-475,gallade,15,370,Close Combat,1,1,2
-475,gallade,15,370,Close Combat,1,59,
-475,gallade,15,400,Night Slash,1,1,4
-475,gallade,15,427,Psycho Cut,1,36,
-475,gallade,15,500,Stored Power,1,1,1
-475,gallade,15,500,Stored Power,1,64,
-475,gallade,15,505,Heal Pulse,1,25,
-475,gallade,16,14,Swords Dance,1,26,1
-475,gallade,16,43,Leer,1,1,5
-475,gallade,16,93,Confusion,1,1,6
-475,gallade,16,93,Confusion,1,4,1
-475,gallade,16,100,Teleport,1,1,8
-475,gallade,16,100,Teleport,1,9,1
-475,gallade,16,104,Double Team,1,1,7
-475,gallade,16,104,Double Team,1,6,1
-475,gallade,16,163,Slash,1,17,1
-475,gallade,16,182,Protect,1,49,1
-475,gallade,16,206,False Swipe,1,44,1
-475,gallade,16,210,Fury Cutter,1,14,1
-475,gallade,16,270,Helping Hand,1,35,1
-475,gallade,16,348,Leaf Blade,1,1,3
-475,gallade,16,364,Feint,1,40,1
-475,gallade,16,370,Close Combat,1,1,2
-475,gallade,16,370,Close Combat,1,53,1
-475,gallade,16,400,Night Slash,1,1,4
-475,gallade,16,427,Psycho Cut,1,31,1
-475,gallade,16,469,Wide Guard,1,23,1
-475,gallade,16,500,Stored Power,1,1,1
-475,gallade,16,500,Stored Power,1,58,1
-475,gallade,16,501,Quick Guard,1,11,1
-475,gallade,16,505,Heal Pulse,1,19,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+475,8,Leer,1,normal,-,100
+475,8,Confusion,1,psychic,50,100
+475,8,Teleport,1,psychic,-,-
+475,8,Double Team,1,normal,-,-
+475,8,Leaf Blade,1,grass,90,100
+475,8,Night Slash,1,dark,70,100
+475,9,Leer,1,normal,-,100
+475,9,Confusion,1,psychic,50,100
+475,9,Teleport,1,psychic,-,-
+475,9,Double Team,1,normal,-,-
+475,9,Leaf Blade,1,grass,90,100
+475,9,Night Slash,1,dark,70,100
+475,10,Leer,1,normal,-,100
+475,10,Confusion,1,psychic,50,100
+475,10,Teleport,1,psychic,-,-
+475,10,Double Team,1,normal,-,-
+475,10,Leaf Blade,1,grass,90,100
+475,10,Night Slash,1,dark,70,100
+475,11,Leer,1,normal,-,100
+475,11,Confusion,1,psychic,50,100
+475,11,Teleport,1,psychic,-,-
+475,11,Double Team,1,normal,-,-
+475,11,Leaf Blade,1,grass,90,100
+475,11,Night Slash,1,dark,70,100
+475,14,Leer,1,normal,-,100
+475,14,Confusion,1,psychic,50,100
+475,14,Teleport,1,psychic,-,-
+475,14,Double Team,1,normal,-,-
+475,14,Leaf Blade,1,grass,90,100
+475,14,Night Slash,1,dark,70,100
+475,15,Leer,1,normal,-,100
+475,15,Confusion,1,psychic,50,100
+475,15,Teleport,1,psychic,-,-
+475,15,Double Team,1,normal,-,-
+475,15,Leaf Blade,1,grass,90,100
+475,15,Close Combat,1,fighting,120,100
+475,15,Night Slash,1,dark,70,100
+475,15,Stored Power,1,psychic,20,100
+475,16,Leer,1,normal,-,100
+475,16,Confusion,1,psychic,50,100
+475,16,Teleport,1,psychic,-,-
+475,16,Double Team,1,normal,-,-
+475,16,Leaf Blade,1,grass,90,100
+475,16,Close Combat,1,fighting,120,100
+475,16,Night Slash,1,dark,70,100
+475,16,Stored Power,1,psychic,20,100
+475,16,Confusion,4,psychic,50,100
+475,8,Confusion,6,psychic,50,100
+475,9,Confusion,6,psychic,50,100
+475,10,Confusion,6,psychic,50,100
+475,11,Confusion,6,psychic,50,100
+475,14,Confusion,6,psychic,50,100
+475,15,Confusion,6,psychic,50,100
+475,16,Double Team,6,normal,-,-
+475,16,Teleport,9,psychic,-,-
+475,8,Double Team,10,normal,-,-
+475,9,Double Team,10,normal,-,-
+475,10,Double Team,10,normal,-,-
+475,11,Double Team,10,normal,-,-
+475,14,Double Team,10,normal,-,-
+475,15,Double Team,10,normal,-,-
+475,16,Quick Guard,11,fighting,-,-
+475,8,Teleport,12,psychic,-,-
+475,9,Teleport,12,psychic,-,-
+475,10,Teleport,12,psychic,-,-
+475,11,Teleport,12,psychic,-,-
+475,14,Teleport,12,psychic,-,-
+475,15,Teleport,12,psychic,-,-
+475,16,Fury Cutter,14,bug,40,95
+475,8,Fury Cutter,17,bug,40,95
+475,9,Fury Cutter,17,bug,40,95
+475,10,Fury Cutter,17,bug,40,95
+475,11,Fury Cutter,17,bug,40,95
+475,14,Fury Cutter,17,bug,40,95
+475,15,Fury Cutter,17,bug,40,95
+475,16,Slash,17,normal,70,100
+475,16,Heal Pulse,19,psychic,-,-
+475,8,Slash,22,normal,70,100
+475,9,Slash,22,normal,70,100
+475,10,Slash,22,normal,70,100
+475,11,Slash,22,normal,70,100
+475,14,Slash,22,normal,70,100
+475,15,Slash,22,normal,70,100
+475,16,Wide Guard,23,rock,-,-
+475,8,Swords Dance,25,normal,-,-
+475,9,Swords Dance,25,normal,-,-
+475,10,Swords Dance,25,normal,-,-
+475,11,Heal Pulse,25,psychic,-,-
+475,14,Heal Pulse,25,psychic,-,-
+475,15,Heal Pulse,25,psychic,-,-
+475,16,Swords Dance,26,normal,-,-
+475,8,Psycho Cut,31,psychic,70,100
+475,9,Psycho Cut,31,psychic,70,100
+475,10,Psycho Cut,31,psychic,70,100
+475,11,Swords Dance,31,normal,-,-
+475,14,Swords Dance,31,normal,-,-
+475,15,Swords Dance,31,normal,-,-
+475,16,Psycho Cut,31,psychic,70,100
+475,16,Helping Hand,35,normal,-,-
+475,8,Helping Hand,36,normal,-,-
+475,9,Helping Hand,36,normal,-,-
+475,10,Helping Hand,36,normal,-,-
+475,11,Psycho Cut,36,psychic,70,100
+475,14,Psycho Cut,36,psychic,70,100
+475,15,Psycho Cut,36,psychic,70,100
+475,8,Feint,39,normal,30,100
+475,9,Feint,39,normal,30,100
+475,10,Feint,39,normal,30,100
+475,11,Helping Hand,39,normal,-,-
+475,14,Helping Hand,39,normal,-,-
+475,15,Helping Hand,39,normal,-,-
+475,16,Feint,40,normal,30,100
+475,16,False Swipe,44,normal,40,100
+475,8,False Swipe,45,normal,40,100
+475,9,False Swipe,45,normal,40,100
+475,10,False Swipe,45,normal,40,100
+475,11,Feint,45,normal,30,100
+475,14,Feint,45,normal,30,100
+475,15,Feint,45,normal,30,100
+475,16,Protect,49,normal,-,-
+475,8,Protect,50,normal,-,-
+475,9,Protect,50,normal,-,-
+475,10,Protect,50,normal,-,-
+475,11,False Swipe,50,normal,40,100
+475,14,False Swipe,50,normal,40,100
+475,15,False Swipe,50,normal,40,100
+475,8,Close Combat,53,fighting,120,100
+475,9,Close Combat,53,fighting,120,100
+475,10,Close Combat,53,fighting,120,100
+475,11,Protect,53,normal,-,-
+475,14,Protect,53,normal,-,-
+475,15,Protect,53,normal,-,-
+475,16,Close Combat,53,fighting,120,100
+475,16,Stored Power,58,psychic,20,100
+475,11,Close Combat,59,fighting,120,100
+475,14,Close Combat,59,fighting,120,100
+475,15,Close Combat,59,fighting,120,100
+475,11,Stored Power,64,psychic,20,100
+475,14,Stored Power,64,psychic,20,100
+475,15,Stored Power,64,psychic,20,100

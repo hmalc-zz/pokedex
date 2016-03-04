@@ -1,182 +1,182 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-300,skitty,5,3,Double Slap,1,15,
-300,skitty,5,33,Tackle,1,1,2
-300,skitty,5,38,Double-Edge,1,39,
-300,skitty,5,39,Tail Whip,1,3,
-300,skitty,5,45,Growl,1,1,1
-300,skitty,5,47,Sing,1,13,
-300,skitty,5,185,Feint Attack,1,27,
-300,skitty,5,204,Charm,1,25,
-300,skitty,5,213,Attract,1,7,
-300,skitty,5,215,Heal Bell,1,37,
-300,skitty,5,274,Assist,1,19,
-300,skitty,5,343,Covet,1,31,
-300,skitty,6,3,Double Slap,1,15,
-300,skitty,6,33,Tackle,1,1,2
-300,skitty,6,38,Double-Edge,1,39,
-300,skitty,6,39,Tail Whip,1,3,
-300,skitty,6,45,Growl,1,1,1
-300,skitty,6,47,Sing,1,13,
-300,skitty,6,185,Feint Attack,1,27,
-300,skitty,6,204,Charm,1,25,
-300,skitty,6,213,Attract,1,7,
-300,skitty,6,215,Heal Bell,1,37,
-300,skitty,6,274,Assist,1,19,
-300,skitty,6,343,Covet,1,31,
-300,skitty,7,3,Double Slap,1,15,
-300,skitty,7,33,Tackle,1,1,2
-300,skitty,7,38,Double-Edge,1,39,
-300,skitty,7,39,Tail Whip,1,3,
-300,skitty,7,45,Growl,1,1,1
-300,skitty,7,47,Sing,1,13,
-300,skitty,7,185,Feint Attack,1,27,
-300,skitty,7,204,Charm,1,25,
-300,skitty,7,213,Attract,1,7,
-300,skitty,7,215,Heal Bell,1,37,
-300,skitty,7,274,Assist,1,19,
-300,skitty,7,343,Covet,1,31,
-300,skitty,8,3,Double Slap,1,15,
-300,skitty,8,33,Tackle,1,1,4
-300,skitty,8,38,Double-Edge,1,39,
-300,skitty,8,39,Tail Whip,1,1,3
-300,skitty,8,45,Growl,1,1,2
-300,skitty,8,47,Sing,1,8,
-300,skitty,8,185,Feint Attack,1,25,
-300,skitty,8,204,Charm,1,22,
-300,skitty,8,213,Attract,1,4,
-300,skitty,8,215,Heal Bell,1,36,
-300,skitty,8,252,Fake Out,1,1,1
-300,skitty,8,274,Assist,1,18,
-300,skitty,8,343,Covet,1,32,
-300,skitty,8,358,Wake-Up Slap,1,29,
-300,skitty,8,383,Copycat,1,11,
-300,skitty,8,445,Captivate,1,42,
-300,skitty,9,3,Double Slap,1,15,
-300,skitty,9,33,Tackle,1,1,4
-300,skitty,9,38,Double-Edge,1,42,
-300,skitty,9,39,Tail Whip,1,1,3
-300,skitty,9,45,Growl,1,1,2
-300,skitty,9,47,Sing,1,11,
-300,skitty,9,185,Feint Attack,1,29,
-300,skitty,9,193,Foresight,1,4,
-300,skitty,9,204,Charm,1,25,
-300,skitty,9,213,Attract,1,8,
-300,skitty,9,215,Heal Bell,1,39,
-300,skitty,9,252,Fake Out,1,1,1
-300,skitty,9,274,Assist,1,22,
-300,skitty,9,343,Covet,1,36,
-300,skitty,9,358,Wake-Up Slap,1,32,
-300,skitty,9,383,Copycat,1,18,
-300,skitty,9,445,Captivate,1,46,
-300,skitty,10,3,Double Slap,1,15,
-300,skitty,10,33,Tackle,1,1,4
-300,skitty,10,38,Double-Edge,1,42,
-300,skitty,10,39,Tail Whip,1,1,3
-300,skitty,10,45,Growl,1,1,2
-300,skitty,10,47,Sing,1,11,
-300,skitty,10,185,Feint Attack,1,29,
-300,skitty,10,193,Foresight,1,4,
-300,skitty,10,204,Charm,1,25,
-300,skitty,10,213,Attract,1,8,
-300,skitty,10,215,Heal Bell,1,39,
-300,skitty,10,252,Fake Out,1,1,1
-300,skitty,10,274,Assist,1,22,
-300,skitty,10,343,Covet,1,36,
-300,skitty,10,358,Wake-Up Slap,1,32,
-300,skitty,10,383,Copycat,1,18,
-300,skitty,10,445,Captivate,1,46,
-300,skitty,11,3,Double Slap,1,15,
-300,skitty,11,33,Tackle,1,1,4
-300,skitty,11,38,Double-Edge,1,42,
-300,skitty,11,39,Tail Whip,1,1,3
-300,skitty,11,45,Growl,1,1,2
-300,skitty,11,47,Sing,1,11,
-300,skitty,11,185,Feint Attack,1,29,
-300,skitty,11,193,Foresight,1,4,
-300,skitty,11,204,Charm,1,25,
-300,skitty,11,213,Attract,1,8,
-300,skitty,11,215,Heal Bell,1,39,
-300,skitty,11,252,Fake Out,1,1,1
-300,skitty,11,274,Assist,1,22,
-300,skitty,11,343,Covet,1,36,
-300,skitty,11,358,Wake-Up Slap,1,32,
-300,skitty,11,383,Copycat,1,18,
-300,skitty,11,445,Captivate,1,46,
-300,skitty,12,3,Double Slap,1,15,
-300,skitty,12,33,Tackle,1,1,2
-300,skitty,12,38,Double-Edge,1,39,
-300,skitty,12,39,Tail Whip,1,3,
-300,skitty,12,45,Growl,1,1,1
-300,skitty,12,47,Sing,1,13,
-300,skitty,12,185,Feint Attack,1,27,
-300,skitty,12,204,Charm,1,25,
-300,skitty,12,213,Attract,1,7,
-300,skitty,12,215,Heal Bell,1,37,
-300,skitty,12,274,Assist,1,19,
-300,skitty,12,343,Covet,1,31,
-300,skitty,13,3,Double Slap,1,15,
-300,skitty,13,33,Tackle,1,1,2
-300,skitty,13,38,Double-Edge,1,39,
-300,skitty,13,39,Tail Whip,1,3,
-300,skitty,13,45,Growl,1,1,1
-300,skitty,13,47,Sing,1,13,
-300,skitty,13,185,Feint Attack,1,27,
-300,skitty,13,204,Charm,1,25,
-300,skitty,13,213,Attract,1,7,
-300,skitty,13,215,Heal Bell,1,37,
-300,skitty,13,274,Assist,1,19,
-300,skitty,13,343,Covet,1,31,
-300,skitty,14,3,Double Slap,1,15,
-300,skitty,14,33,Tackle,1,1,4
-300,skitty,14,38,Double-Edge,1,42,
-300,skitty,14,39,Tail Whip,1,1,3
-300,skitty,14,45,Growl,1,1,2
-300,skitty,14,47,Sing,1,11,
-300,skitty,14,185,Feint Attack,1,29,
-300,skitty,14,193,Foresight,1,4,
-300,skitty,14,204,Charm,1,25,
-300,skitty,14,213,Attract,1,8,
-300,skitty,14,215,Heal Bell,1,39,
-300,skitty,14,252,Fake Out,1,1,1
-300,skitty,14,274,Assist,1,22,
-300,skitty,14,343,Covet,1,36,
-300,skitty,14,358,Wake-Up Slap,1,32,
-300,skitty,14,383,Copycat,1,18,
-300,skitty,14,445,Captivate,1,46,
-300,skitty,15,3,Double Slap,1,15,
-300,skitty,15,33,Tackle,1,1,4
-300,skitty,15,38,Double-Edge,1,42,
-300,skitty,15,39,Tail Whip,1,1,3
-300,skitty,15,45,Growl,1,1,2
-300,skitty,15,47,Sing,1,11,
-300,skitty,15,185,Feint Attack,1,29,
-300,skitty,15,193,Foresight,1,4,
-300,skitty,15,204,Charm,1,25,
-300,skitty,15,213,Attract,1,8,
-300,skitty,15,215,Heal Bell,1,39,
-300,skitty,15,252,Fake Out,1,1,1
-300,skitty,15,274,Assist,1,22,
-300,skitty,15,343,Covet,1,36,
-300,skitty,15,358,Wake-Up Slap,1,32,
-300,skitty,15,383,Copycat,1,18,
-300,skitty,15,445,Captivate,1,46,
-300,skitty,15,583,Play Rough,1,49,
-300,skitty,16,3,Double Slap,1,16,1
-300,skitty,16,33,Tackle,1,1,4
-300,skitty,16,38,Double-Edge,1,40,1
-300,skitty,16,39,Tail Whip,1,1,3
-300,skitty,16,45,Growl,1,1,2
-300,skitty,16,47,Sing,1,7,1
-300,skitty,16,185,Feint Attack,1,22,1
-300,skitty,16,193,Foresight,1,4,1
-300,skitty,16,204,Charm,1,25,1
-300,skitty,16,213,Attract,1,10,1
-300,skitty,16,215,Heal Bell,1,37,1
-300,skitty,16,252,Fake Out,1,1,1
-300,skitty,16,274,Assist,1,31,1
-300,skitty,16,343,Covet,1,34,1
-300,skitty,16,358,Wake-Up Slap,1,28,1
-300,skitty,16,383,Copycat,1,19,1
-300,skitty,16,445,Captivate,1,43,1
-300,skitty,16,574,Disarming Voice,1,13,1
-300,skitty,16,583,Play Rough,1,46,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+300,5,Tackle,1,normal,50,100
+300,5,Growl,1,normal,-,100
+300,6,Tackle,1,normal,50,100
+300,6,Growl,1,normal,-,100
+300,7,Tackle,1,normal,50,100
+300,7,Growl,1,normal,-,100
+300,8,Tackle,1,normal,50,100
+300,8,Tail Whip,1,normal,-,100
+300,8,Growl,1,normal,-,100
+300,8,Fake Out,1,normal,40,100
+300,9,Tackle,1,normal,50,100
+300,9,Tail Whip,1,normal,-,100
+300,9,Growl,1,normal,-,100
+300,9,Fake Out,1,normal,40,100
+300,10,Tackle,1,normal,50,100
+300,10,Tail Whip,1,normal,-,100
+300,10,Growl,1,normal,-,100
+300,10,Fake Out,1,normal,40,100
+300,11,Tackle,1,normal,50,100
+300,11,Tail Whip,1,normal,-,100
+300,11,Growl,1,normal,-,100
+300,11,Fake Out,1,normal,40,100
+300,12,Tackle,1,normal,50,100
+300,12,Growl,1,normal,-,100
+300,13,Tackle,1,normal,50,100
+300,13,Growl,1,normal,-,100
+300,14,Tackle,1,normal,50,100
+300,14,Tail Whip,1,normal,-,100
+300,14,Growl,1,normal,-,100
+300,14,Fake Out,1,normal,40,100
+300,15,Tackle,1,normal,50,100
+300,15,Tail Whip,1,normal,-,100
+300,15,Growl,1,normal,-,100
+300,15,Fake Out,1,normal,40,100
+300,16,Tackle,1,normal,50,100
+300,16,Tail Whip,1,normal,-,100
+300,16,Growl,1,normal,-,100
+300,16,Fake Out,1,normal,40,100
+300,5,Tail Whip,3,normal,-,100
+300,6,Tail Whip,3,normal,-,100
+300,7,Tail Whip,3,normal,-,100
+300,12,Tail Whip,3,normal,-,100
+300,13,Tail Whip,3,normal,-,100
+300,8,Attract,4,normal,-,100
+300,9,Foresight,4,normal,-,-
+300,10,Foresight,4,normal,-,-
+300,11,Foresight,4,normal,-,-
+300,14,Foresight,4,normal,-,-
+300,15,Foresight,4,normal,-,-
+300,16,Foresight,4,normal,-,-
+300,5,Attract,7,normal,-,100
+300,6,Attract,7,normal,-,100
+300,7,Attract,7,normal,-,100
+300,12,Attract,7,normal,-,100
+300,13,Attract,7,normal,-,100
+300,16,Sing,7,normal,-,55
+300,8,Sing,8,normal,-,55
+300,9,Attract,8,normal,-,100
+300,10,Attract,8,normal,-,100
+300,11,Attract,8,normal,-,100
+300,14,Attract,8,normal,-,100
+300,15,Attract,8,normal,-,100
+300,16,Attract,10,normal,-,100
+300,8,Copycat,11,normal,-,-
+300,9,Sing,11,normal,-,55
+300,10,Sing,11,normal,-,55
+300,11,Sing,11,normal,-,55
+300,14,Sing,11,normal,-,55
+300,15,Sing,11,normal,-,55
+300,5,Sing,13,normal,-,55
+300,6,Sing,13,normal,-,55
+300,7,Sing,13,normal,-,55
+300,12,Sing,13,normal,-,55
+300,13,Sing,13,normal,-,55
+300,16,Disarming Voice,13,fairy,40,-
+300,5,Double Slap,15,normal,15,85
+300,6,Double Slap,15,normal,15,85
+300,7,Double Slap,15,normal,15,85
+300,8,Double Slap,15,normal,15,85
+300,9,Double Slap,15,normal,15,85
+300,10,Double Slap,15,normal,15,85
+300,11,Double Slap,15,normal,15,85
+300,12,Double Slap,15,normal,15,85
+300,13,Double Slap,15,normal,15,85
+300,14,Double Slap,15,normal,15,85
+300,15,Double Slap,15,normal,15,85
+300,16,Double Slap,16,normal,15,85
+300,8,Assist,18,normal,-,-
+300,9,Copycat,18,normal,-,-
+300,10,Copycat,18,normal,-,-
+300,11,Copycat,18,normal,-,-
+300,14,Copycat,18,normal,-,-
+300,15,Copycat,18,normal,-,-
+300,5,Assist,19,normal,-,-
+300,6,Assist,19,normal,-,-
+300,7,Assist,19,normal,-,-
+300,12,Assist,19,normal,-,-
+300,13,Assist,19,normal,-,-
+300,16,Copycat,19,normal,-,-
+300,8,Charm,22,fairy,-,100
+300,9,Assist,22,normal,-,-
+300,10,Assist,22,normal,-,-
+300,11,Assist,22,normal,-,-
+300,14,Assist,22,normal,-,-
+300,15,Assist,22,normal,-,-
+300,16,Feint Attack,22,dark,60,-
+300,5,Charm,25,fairy,-,100
+300,6,Charm,25,fairy,-,100
+300,7,Charm,25,fairy,-,100
+300,8,Feint Attack,25,dark,60,-
+300,9,Charm,25,fairy,-,100
+300,10,Charm,25,fairy,-,100
+300,11,Charm,25,fairy,-,100
+300,12,Charm,25,fairy,-,100
+300,13,Charm,25,fairy,-,100
+300,14,Charm,25,fairy,-,100
+300,15,Charm,25,fairy,-,100
+300,16,Charm,25,fairy,-,100
+300,5,Feint Attack,27,dark,60,-
+300,6,Feint Attack,27,dark,60,-
+300,7,Feint Attack,27,dark,60,-
+300,12,Feint Attack,27,dark,60,-
+300,13,Feint Attack,27,dark,60,-
+300,16,Wake-Up Slap,28,fighting,70,100
+300,8,Wake-Up Slap,29,fighting,70,100
+300,9,Feint Attack,29,dark,60,-
+300,10,Feint Attack,29,dark,60,-
+300,11,Feint Attack,29,dark,60,-
+300,14,Feint Attack,29,dark,60,-
+300,15,Feint Attack,29,dark,60,-
+300,5,Covet,31,normal,60,100
+300,6,Covet,31,normal,60,100
+300,7,Covet,31,normal,60,100
+300,12,Covet,31,normal,60,100
+300,13,Covet,31,normal,60,100
+300,16,Assist,31,normal,-,-
+300,8,Covet,32,normal,60,100
+300,9,Wake-Up Slap,32,fighting,70,100
+300,10,Wake-Up Slap,32,fighting,70,100
+300,11,Wake-Up Slap,32,fighting,70,100
+300,14,Wake-Up Slap,32,fighting,70,100
+300,15,Wake-Up Slap,32,fighting,70,100
+300,16,Covet,34,normal,60,100
+300,8,Heal Bell,36,normal,-,-
+300,9,Covet,36,normal,60,100
+300,10,Covet,36,normal,60,100
+300,11,Covet,36,normal,60,100
+300,14,Covet,36,normal,60,100
+300,15,Covet,36,normal,60,100
+300,5,Heal Bell,37,normal,-,-
+300,6,Heal Bell,37,normal,-,-
+300,7,Heal Bell,37,normal,-,-
+300,12,Heal Bell,37,normal,-,-
+300,13,Heal Bell,37,normal,-,-
+300,16,Heal Bell,37,normal,-,-
+300,5,Double-Edge,39,normal,120,100
+300,6,Double-Edge,39,normal,120,100
+300,7,Double-Edge,39,normal,120,100
+300,8,Double-Edge,39,normal,120,100
+300,9,Heal Bell,39,normal,-,-
+300,10,Heal Bell,39,normal,-,-
+300,11,Heal Bell,39,normal,-,-
+300,12,Double-Edge,39,normal,120,100
+300,13,Double-Edge,39,normal,120,100
+300,14,Heal Bell,39,normal,-,-
+300,15,Heal Bell,39,normal,-,-
+300,16,Double-Edge,40,normal,120,100
+300,8,Captivate,42,normal,-,100
+300,9,Double-Edge,42,normal,120,100
+300,10,Double-Edge,42,normal,120,100
+300,11,Double-Edge,42,normal,120,100
+300,14,Double-Edge,42,normal,120,100
+300,15,Double-Edge,42,normal,120,100
+300,16,Captivate,43,normal,-,100
+300,9,Captivate,46,normal,-,100
+300,10,Captivate,46,normal,-,100
+300,11,Captivate,46,normal,-,100
+300,14,Captivate,46,normal,-,100
+300,15,Captivate,46,normal,-,100
+300,16,Play Rough,46,fairy,90,90
+300,15,Play Rough,49,fairy,90,90

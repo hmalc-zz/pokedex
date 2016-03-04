@@ -1,17 +1,17 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-514,simisear,11,43,Leer,1,1,1
-514,simisear,11,122,Lick,1,1,2
-514,simisear,11,154,Fury Swipes,1,1,3
-514,simisear,11,481,Flame Burst,1,1,4
-514,simisear,14,43,Leer,1,1,1
-514,simisear,14,122,Lick,1,1,2
-514,simisear,14,154,Fury Swipes,1,1,3
-514,simisear,14,481,Flame Burst,1,1,4
-514,simisear,15,43,Leer,1,1,1
-514,simisear,15,122,Lick,1,1,2
-514,simisear,15,154,Fury Swipes,1,1,3
-514,simisear,15,481,Flame Burst,1,1,4
-514,simisear,16,43,Leer,1,1,1
-514,simisear,16,122,Lick,1,1,2
-514,simisear,16,154,Fury Swipes,1,1,3
-514,simisear,16,481,Flame Burst,1,1,4
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+514,11,Leer,1,normal,-,100
+514,11,Lick,1,ghost,30,100
+514,11,Fury Swipes,1,normal,18,80
+514,11,Flame Burst,1,fire,70,100
+514,14,Leer,1,normal,-,100
+514,14,Lick,1,ghost,30,100
+514,14,Fury Swipes,1,normal,18,80
+514,14,Flame Burst,1,fire,70,100
+514,15,Leer,1,normal,-,100
+514,15,Lick,1,ghost,30,100
+514,15,Fury Swipes,1,normal,18,80
+514,15,Flame Burst,1,fire,70,100
+514,16,Leer,1,normal,-,100
+514,16,Lick,1,ghost,30,100
+514,16,Fury Swipes,1,normal,18,80
+514,16,Flame Burst,1,fire,70,100

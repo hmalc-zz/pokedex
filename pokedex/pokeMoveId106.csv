@@ -1,224 +1,224 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-106,hitmonlee,1,24,Double Kick,1,1,1
-106,hitmonlee,1,25,Mega Kick,1,53,
-106,hitmonlee,1,26,Jump Kick,1,38,
-106,hitmonlee,1,27,Rolling Kick,1,33,
-106,hitmonlee,1,96,Meditate,1,1,2
-106,hitmonlee,1,116,Focus Energy,1,43,
-106,hitmonlee,1,136,High Jump Kick,1,48,
-106,hitmonlee,2,24,Double Kick,1,1,1
-106,hitmonlee,2,25,Mega Kick,1,53,
-106,hitmonlee,2,26,Jump Kick,1,38,
-106,hitmonlee,2,27,Rolling Kick,1,33,
-106,hitmonlee,2,96,Meditate,1,1,2
-106,hitmonlee,2,116,Focus Energy,1,43,
-106,hitmonlee,2,136,High Jump Kick,1,48,
-106,hitmonlee,3,24,Double Kick,1,1,
-106,hitmonlee,3,25,Mega Kick,1,46,
-106,hitmonlee,3,26,Jump Kick,1,16,
-106,hitmonlee,3,27,Rolling Kick,1,11,
-106,hitmonlee,3,96,Meditate,1,6,
-106,hitmonlee,3,116,Focus Energy,1,21,
-106,hitmonlee,3,136,High Jump Kick,1,26,
-106,hitmonlee,3,170,Mind Reader,1,31,
-106,hitmonlee,3,179,Reversal,1,51,
-106,hitmonlee,3,193,Foresight,1,36,
-106,hitmonlee,3,203,Endure,1,41,
-106,hitmonlee,4,24,Double Kick,1,1,
-106,hitmonlee,4,25,Mega Kick,1,46,
-106,hitmonlee,4,26,Jump Kick,1,16,
-106,hitmonlee,4,27,Rolling Kick,1,11,
-106,hitmonlee,4,96,Meditate,1,6,
-106,hitmonlee,4,116,Focus Energy,1,21,
-106,hitmonlee,4,136,High Jump Kick,1,26,
-106,hitmonlee,4,170,Mind Reader,1,31,
-106,hitmonlee,4,179,Reversal,1,51,
-106,hitmonlee,4,193,Foresight,1,36,
-106,hitmonlee,4,203,Endure,1,41,
-106,hitmonlee,5,24,Double Kick,1,1,2
-106,hitmonlee,5,25,Mega Kick,1,46,
-106,hitmonlee,5,26,Jump Kick,1,16,
-106,hitmonlee,5,27,Rolling Kick,1,11,
-106,hitmonlee,5,96,Meditate,1,6,
-106,hitmonlee,5,116,Focus Energy,1,21,
-106,hitmonlee,5,136,High Jump Kick,1,26,
-106,hitmonlee,5,170,Mind Reader,1,31,
-106,hitmonlee,5,179,Reversal,1,51,
-106,hitmonlee,5,193,Foresight,1,36,
-106,hitmonlee,5,203,Endure,1,41,
-106,hitmonlee,5,279,Revenge,1,1,1
-106,hitmonlee,5,280,Brick Break,1,20,
-106,hitmonlee,6,24,Double Kick,1,1,2
-106,hitmonlee,6,25,Mega Kick,1,46,
-106,hitmonlee,6,26,Jump Kick,1,16,
-106,hitmonlee,6,27,Rolling Kick,1,11,
-106,hitmonlee,6,96,Meditate,1,6,
-106,hitmonlee,6,116,Focus Energy,1,21,
-106,hitmonlee,6,136,High Jump Kick,1,26,
-106,hitmonlee,6,170,Mind Reader,1,31,
-106,hitmonlee,6,179,Reversal,1,51,
-106,hitmonlee,6,193,Foresight,1,36,
-106,hitmonlee,6,203,Endure,1,41,
-106,hitmonlee,6,279,Revenge,1,1,1
-106,hitmonlee,6,280,Brick Break,1,20,
-106,hitmonlee,7,24,Double Kick,1,1,2
-106,hitmonlee,7,25,Mega Kick,1,46,
-106,hitmonlee,7,26,Jump Kick,1,16,
-106,hitmonlee,7,27,Rolling Kick,1,11,
-106,hitmonlee,7,96,Meditate,1,6,
-106,hitmonlee,7,116,Focus Energy,1,21,
-106,hitmonlee,7,136,High Jump Kick,1,26,
-106,hitmonlee,7,170,Mind Reader,1,31,
-106,hitmonlee,7,179,Reversal,1,51,
-106,hitmonlee,7,193,Foresight,1,36,
-106,hitmonlee,7,203,Endure,1,41,
-106,hitmonlee,7,279,Revenge,1,1,1
-106,hitmonlee,7,280,Brick Break,1,20,
-106,hitmonlee,8,24,Double Kick,1,1,2
-106,hitmonlee,8,25,Mega Kick,1,49,
-106,hitmonlee,8,26,Jump Kick,1,13,
-106,hitmonlee,8,27,Rolling Kick,1,9,
-106,hitmonlee,8,96,Meditate,1,5,
-106,hitmonlee,8,116,Focus Energy,1,21,
-106,hitmonlee,8,136,High Jump Kick,1,29,
-106,hitmonlee,8,170,Mind Reader,1,33,
-106,hitmonlee,8,179,Reversal,1,57,
-106,hitmonlee,8,193,Foresight,1,37,
-106,hitmonlee,8,203,Endure,1,45,
-106,hitmonlee,8,279,Revenge,1,1,1
-106,hitmonlee,8,280,Brick Break,1,17,
-106,hitmonlee,8,299,Blaze Kick,1,41,
-106,hitmonlee,8,364,Feint,1,25,
-106,hitmonlee,8,370,Close Combat,1,53,
-106,hitmonlee,9,24,Double Kick,1,1,2
-106,hitmonlee,9,25,Mega Kick,1,49,
-106,hitmonlee,9,26,Jump Kick,1,13,
-106,hitmonlee,9,27,Rolling Kick,1,9,
-106,hitmonlee,9,96,Meditate,1,5,
-106,hitmonlee,9,116,Focus Energy,1,21,
-106,hitmonlee,9,136,High Jump Kick,1,29,
-106,hitmonlee,9,170,Mind Reader,1,33,
-106,hitmonlee,9,179,Reversal,1,57,
-106,hitmonlee,9,193,Foresight,1,37,
-106,hitmonlee,9,203,Endure,1,45,
-106,hitmonlee,9,279,Revenge,1,1,1
-106,hitmonlee,9,280,Brick Break,1,17,
-106,hitmonlee,9,299,Blaze Kick,1,41,
-106,hitmonlee,9,364,Feint,1,25,
-106,hitmonlee,9,370,Close Combat,1,53,
-106,hitmonlee,10,24,Double Kick,1,1,2
-106,hitmonlee,10,25,Mega Kick,1,49,
-106,hitmonlee,10,26,Jump Kick,1,13,
-106,hitmonlee,10,27,Rolling Kick,1,9,
-106,hitmonlee,10,96,Meditate,1,5,
-106,hitmonlee,10,116,Focus Energy,1,21,
-106,hitmonlee,10,136,High Jump Kick,1,29,
-106,hitmonlee,10,170,Mind Reader,1,33,
-106,hitmonlee,10,179,Reversal,1,57,
-106,hitmonlee,10,193,Foresight,1,37,
-106,hitmonlee,10,203,Endure,1,45,
-106,hitmonlee,10,279,Revenge,1,1,1
-106,hitmonlee,10,280,Brick Break,1,17,
-106,hitmonlee,10,299,Blaze Kick,1,41,
-106,hitmonlee,10,364,Feint,1,25,
-106,hitmonlee,10,370,Close Combat,1,53,
-106,hitmonlee,11,24,Double Kick,1,1,2
-106,hitmonlee,11,25,Mega Kick,1,53,
-106,hitmonlee,11,26,Jump Kick,1,13,
-106,hitmonlee,11,27,Rolling Kick,1,9,
-106,hitmonlee,11,96,Meditate,1,5,
-106,hitmonlee,11,116,Focus Energy,1,21,
-106,hitmonlee,11,136,High Jump Kick,1,29,
-106,hitmonlee,11,170,Mind Reader,1,33,
-106,hitmonlee,11,179,Reversal,1,61,
-106,hitmonlee,11,193,Foresight,1,37,
-106,hitmonlee,11,203,Endure,1,49,
-106,hitmonlee,11,279,Revenge,1,1,1
-106,hitmonlee,11,280,Brick Break,1,17,
-106,hitmonlee,11,299,Blaze Kick,1,45,
-106,hitmonlee,11,364,Feint,1,25,
-106,hitmonlee,11,370,Close Combat,1,57,
-106,hitmonlee,11,469,Wide Guard,1,41,
-106,hitmonlee,12,24,Double Kick,1,1,2
-106,hitmonlee,12,25,Mega Kick,1,46,
-106,hitmonlee,12,26,Jump Kick,1,16,
-106,hitmonlee,12,27,Rolling Kick,1,11,
-106,hitmonlee,12,96,Meditate,1,6,
-106,hitmonlee,12,116,Focus Energy,1,21,
-106,hitmonlee,12,136,High Jump Kick,1,26,
-106,hitmonlee,12,170,Mind Reader,1,31,
-106,hitmonlee,12,179,Reversal,1,51,
-106,hitmonlee,12,193,Foresight,1,36,
-106,hitmonlee,12,203,Endure,1,41,
-106,hitmonlee,12,279,Revenge,1,1,1
-106,hitmonlee,12,280,Brick Break,1,20,
-106,hitmonlee,13,24,Double Kick,1,1,2
-106,hitmonlee,13,25,Mega Kick,1,46,
-106,hitmonlee,13,26,Jump Kick,1,16,
-106,hitmonlee,13,27,Rolling Kick,1,11,
-106,hitmonlee,13,96,Meditate,1,6,
-106,hitmonlee,13,116,Focus Energy,1,21,
-106,hitmonlee,13,136,High Jump Kick,1,26,
-106,hitmonlee,13,170,Mind Reader,1,31,
-106,hitmonlee,13,179,Reversal,1,51,
-106,hitmonlee,13,193,Foresight,1,36,
-106,hitmonlee,13,203,Endure,1,41,
-106,hitmonlee,13,279,Revenge,1,1,1
-106,hitmonlee,13,280,Brick Break,1,20,
-106,hitmonlee,14,24,Double Kick,1,1,2
-106,hitmonlee,14,25,Mega Kick,1,53,
-106,hitmonlee,14,26,Jump Kick,1,13,
-106,hitmonlee,14,27,Rolling Kick,1,9,
-106,hitmonlee,14,96,Meditate,1,5,
-106,hitmonlee,14,116,Focus Energy,1,21,
-106,hitmonlee,14,136,High Jump Kick,1,29,
-106,hitmonlee,14,170,Mind Reader,1,33,
-106,hitmonlee,14,179,Reversal,1,61,
-106,hitmonlee,14,193,Foresight,1,37,
-106,hitmonlee,14,203,Endure,1,49,
-106,hitmonlee,14,279,Revenge,1,1,1
-106,hitmonlee,14,280,Brick Break,1,17,
-106,hitmonlee,14,299,Blaze Kick,1,45,
-106,hitmonlee,14,364,Feint,1,25,
-106,hitmonlee,14,370,Close Combat,1,57,
-106,hitmonlee,14,469,Wide Guard,1,41,
-106,hitmonlee,15,24,Double Kick,1,1,5
-106,hitmonlee,15,25,Mega Kick,1,1,3
-106,hitmonlee,15,25,Mega Kick,1,53,
-106,hitmonlee,15,26,Jump Kick,1,13,
-106,hitmonlee,15,27,Rolling Kick,1,9,
-106,hitmonlee,15,96,Meditate,1,5,
-106,hitmonlee,15,116,Focus Energy,1,21,
-106,hitmonlee,15,136,High Jump Kick,1,29,
-106,hitmonlee,15,170,Mind Reader,1,33,
-106,hitmonlee,15,179,Reversal,1,1,1
-106,hitmonlee,15,179,Reversal,1,61,
-106,hitmonlee,15,193,Foresight,1,37,
-106,hitmonlee,15,203,Endure,1,49,
-106,hitmonlee,15,279,Revenge,1,1,4
-106,hitmonlee,15,280,Brick Break,1,17,
-106,hitmonlee,15,299,Blaze Kick,1,45,
-106,hitmonlee,15,364,Feint,1,25,
-106,hitmonlee,15,370,Close Combat,1,1,2
-106,hitmonlee,15,370,Close Combat,1,57,
-106,hitmonlee,15,469,Wide Guard,1,41,
-106,hitmonlee,16,24,Double Kick,1,1,5
-106,hitmonlee,16,25,Mega Kick,1,1,3
-106,hitmonlee,16,25,Mega Kick,1,53,1
-106,hitmonlee,16,26,Jump Kick,1,13,1
-106,hitmonlee,16,27,Rolling Kick,1,9,1
-106,hitmonlee,16,96,Meditate,1,5,1
-106,hitmonlee,16,116,Focus Energy,1,21,1
-106,hitmonlee,16,136,High Jump Kick,1,29,1
-106,hitmonlee,16,170,Mind Reader,1,33,1
-106,hitmonlee,16,179,Reversal,1,1,1
-106,hitmonlee,16,179,Reversal,1,61,1
-106,hitmonlee,16,193,Foresight,1,37,1
-106,hitmonlee,16,203,Endure,1,49,1
-106,hitmonlee,16,279,Revenge,1,1,4
-106,hitmonlee,16,280,Brick Break,1,17,1
-106,hitmonlee,16,299,Blaze Kick,1,45,1
-106,hitmonlee,16,364,Feint,1,25,1
-106,hitmonlee,16,370,Close Combat,1,1,2
-106,hitmonlee,16,370,Close Combat,1,57,1
-106,hitmonlee,16,469,Wide Guard,1,41,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+106,1,Double Kick,1,fighting,30,100
+106,1,Meditate,1,psychic,-,-
+106,2,Double Kick,1,fighting,30,100
+106,2,Meditate,1,psychic,-,-
+106,3,Double Kick,1,fighting,30,100
+106,4,Double Kick,1,fighting,30,100
+106,5,Double Kick,1,fighting,30,100
+106,5,Revenge,1,fighting,60,100
+106,6,Double Kick,1,fighting,30,100
+106,6,Revenge,1,fighting,60,100
+106,7,Double Kick,1,fighting,30,100
+106,7,Revenge,1,fighting,60,100
+106,8,Double Kick,1,fighting,30,100
+106,8,Revenge,1,fighting,60,100
+106,9,Double Kick,1,fighting,30,100
+106,9,Revenge,1,fighting,60,100
+106,10,Double Kick,1,fighting,30,100
+106,10,Revenge,1,fighting,60,100
+106,11,Double Kick,1,fighting,30,100
+106,11,Revenge,1,fighting,60,100
+106,12,Double Kick,1,fighting,30,100
+106,12,Revenge,1,fighting,60,100
+106,13,Double Kick,1,fighting,30,100
+106,13,Revenge,1,fighting,60,100
+106,14,Double Kick,1,fighting,30,100
+106,14,Revenge,1,fighting,60,100
+106,15,Double Kick,1,fighting,30,100
+106,15,Mega Kick,1,normal,120,75
+106,15,Reversal,1,fighting,-,100
+106,15,Revenge,1,fighting,60,100
+106,15,Close Combat,1,fighting,120,100
+106,16,Double Kick,1,fighting,30,100
+106,16,Mega Kick,1,normal,120,75
+106,16,Reversal,1,fighting,-,100
+106,16,Revenge,1,fighting,60,100
+106,16,Close Combat,1,fighting,120,100
+106,8,Meditate,5,psychic,-,-
+106,9,Meditate,5,psychic,-,-
+106,10,Meditate,5,psychic,-,-
+106,11,Meditate,5,psychic,-,-
+106,14,Meditate,5,psychic,-,-
+106,15,Meditate,5,psychic,-,-
+106,16,Meditate,5,psychic,-,-
+106,3,Meditate,6,psychic,-,-
+106,4,Meditate,6,psychic,-,-
+106,5,Meditate,6,psychic,-,-
+106,6,Meditate,6,psychic,-,-
+106,7,Meditate,6,psychic,-,-
+106,12,Meditate,6,psychic,-,-
+106,13,Meditate,6,psychic,-,-
+106,8,Rolling Kick,9,fighting,60,85
+106,9,Rolling Kick,9,fighting,60,85
+106,10,Rolling Kick,9,fighting,60,85
+106,11,Rolling Kick,9,fighting,60,85
+106,14,Rolling Kick,9,fighting,60,85
+106,15,Rolling Kick,9,fighting,60,85
+106,16,Rolling Kick,9,fighting,60,85
+106,3,Rolling Kick,11,fighting,60,85
+106,4,Rolling Kick,11,fighting,60,85
+106,5,Rolling Kick,11,fighting,60,85
+106,6,Rolling Kick,11,fighting,60,85
+106,7,Rolling Kick,11,fighting,60,85
+106,12,Rolling Kick,11,fighting,60,85
+106,13,Rolling Kick,11,fighting,60,85
+106,8,Jump Kick,13,fighting,100,95
+106,9,Jump Kick,13,fighting,100,95
+106,10,Jump Kick,13,fighting,100,95
+106,11,Jump Kick,13,fighting,100,95
+106,14,Jump Kick,13,fighting,100,95
+106,15,Jump Kick,13,fighting,100,95
+106,16,Jump Kick,13,fighting,100,95
+106,3,Jump Kick,16,fighting,100,95
+106,4,Jump Kick,16,fighting,100,95
+106,5,Jump Kick,16,fighting,100,95
+106,6,Jump Kick,16,fighting,100,95
+106,7,Jump Kick,16,fighting,100,95
+106,12,Jump Kick,16,fighting,100,95
+106,13,Jump Kick,16,fighting,100,95
+106,8,Brick Break,17,fighting,75,100
+106,9,Brick Break,17,fighting,75,100
+106,10,Brick Break,17,fighting,75,100
+106,11,Brick Break,17,fighting,75,100
+106,14,Brick Break,17,fighting,75,100
+106,15,Brick Break,17,fighting,75,100
+106,16,Brick Break,17,fighting,75,100
+106,5,Brick Break,20,fighting,75,100
+106,6,Brick Break,20,fighting,75,100
+106,7,Brick Break,20,fighting,75,100
+106,12,Brick Break,20,fighting,75,100
+106,13,Brick Break,20,fighting,75,100
+106,3,Focus Energy,21,normal,-,-
+106,4,Focus Energy,21,normal,-,-
+106,5,Focus Energy,21,normal,-,-
+106,6,Focus Energy,21,normal,-,-
+106,7,Focus Energy,21,normal,-,-
+106,8,Focus Energy,21,normal,-,-
+106,9,Focus Energy,21,normal,-,-
+106,10,Focus Energy,21,normal,-,-
+106,11,Focus Energy,21,normal,-,-
+106,12,Focus Energy,21,normal,-,-
+106,13,Focus Energy,21,normal,-,-
+106,14,Focus Energy,21,normal,-,-
+106,15,Focus Energy,21,normal,-,-
+106,16,Focus Energy,21,normal,-,-
+106,8,Feint,25,normal,30,100
+106,9,Feint,25,normal,30,100
+106,10,Feint,25,normal,30,100
+106,11,Feint,25,normal,30,100
+106,14,Feint,25,normal,30,100
+106,15,Feint,25,normal,30,100
+106,16,Feint,25,normal,30,100
+106,3,High Jump Kick,26,fighting,130,90
+106,4,High Jump Kick,26,fighting,130,90
+106,5,High Jump Kick,26,fighting,130,90
+106,6,High Jump Kick,26,fighting,130,90
+106,7,High Jump Kick,26,fighting,130,90
+106,12,High Jump Kick,26,fighting,130,90
+106,13,High Jump Kick,26,fighting,130,90
+106,8,High Jump Kick,29,fighting,130,90
+106,9,High Jump Kick,29,fighting,130,90
+106,10,High Jump Kick,29,fighting,130,90
+106,11,High Jump Kick,29,fighting,130,90
+106,14,High Jump Kick,29,fighting,130,90
+106,15,High Jump Kick,29,fighting,130,90
+106,16,High Jump Kick,29,fighting,130,90
+106,3,Mind Reader,31,normal,-,-
+106,4,Mind Reader,31,normal,-,-
+106,5,Mind Reader,31,normal,-,-
+106,6,Mind Reader,31,normal,-,-
+106,7,Mind Reader,31,normal,-,-
+106,12,Mind Reader,31,normal,-,-
+106,13,Mind Reader,31,normal,-,-
+106,1,Rolling Kick,33,fighting,60,85
+106,2,Rolling Kick,33,fighting,60,85
+106,8,Mind Reader,33,normal,-,-
+106,9,Mind Reader,33,normal,-,-
+106,10,Mind Reader,33,normal,-,-
+106,11,Mind Reader,33,normal,-,-
+106,14,Mind Reader,33,normal,-,-
+106,15,Mind Reader,33,normal,-,-
+106,16,Mind Reader,33,normal,-,-
+106,3,Foresight,36,normal,-,-
+106,4,Foresight,36,normal,-,-
+106,5,Foresight,36,normal,-,-
+106,6,Foresight,36,normal,-,-
+106,7,Foresight,36,normal,-,-
+106,12,Foresight,36,normal,-,-
+106,13,Foresight,36,normal,-,-
+106,8,Foresight,37,normal,-,-
+106,9,Foresight,37,normal,-,-
+106,10,Foresight,37,normal,-,-
+106,11,Foresight,37,normal,-,-
+106,14,Foresight,37,normal,-,-
+106,15,Foresight,37,normal,-,-
+106,16,Foresight,37,normal,-,-
+106,1,Jump Kick,38,fighting,100,95
+106,2,Jump Kick,38,fighting,100,95
+106,3,Endure,41,normal,-,-
+106,4,Endure,41,normal,-,-
+106,5,Endure,41,normal,-,-
+106,6,Endure,41,normal,-,-
+106,7,Endure,41,normal,-,-
+106,8,Blaze Kick,41,fire,85,90
+106,9,Blaze Kick,41,fire,85,90
+106,10,Blaze Kick,41,fire,85,90
+106,11,Wide Guard,41,rock,-,-
+106,12,Endure,41,normal,-,-
+106,13,Endure,41,normal,-,-
+106,14,Wide Guard,41,rock,-,-
+106,15,Wide Guard,41,rock,-,-
+106,16,Wide Guard,41,rock,-,-
+106,1,Focus Energy,43,normal,-,-
+106,2,Focus Energy,43,normal,-,-
+106,8,Endure,45,normal,-,-
+106,9,Endure,45,normal,-,-
+106,10,Endure,45,normal,-,-
+106,11,Blaze Kick,45,fire,85,90
+106,14,Blaze Kick,45,fire,85,90
+106,15,Blaze Kick,45,fire,85,90
+106,16,Blaze Kick,45,fire,85,90
+106,3,Mega Kick,46,normal,120,75
+106,4,Mega Kick,46,normal,120,75
+106,5,Mega Kick,46,normal,120,75
+106,6,Mega Kick,46,normal,120,75
+106,7,Mega Kick,46,normal,120,75
+106,12,Mega Kick,46,normal,120,75
+106,13,Mega Kick,46,normal,120,75
+106,1,High Jump Kick,48,fighting,130,90
+106,2,High Jump Kick,48,fighting,130,90
+106,8,Mega Kick,49,normal,120,75
+106,9,Mega Kick,49,normal,120,75
+106,10,Mega Kick,49,normal,120,75
+106,11,Endure,49,normal,-,-
+106,14,Endure,49,normal,-,-
+106,15,Endure,49,normal,-,-
+106,16,Endure,49,normal,-,-
+106,3,Reversal,51,fighting,-,100
+106,4,Reversal,51,fighting,-,100
+106,5,Reversal,51,fighting,-,100
+106,6,Reversal,51,fighting,-,100
+106,7,Reversal,51,fighting,-,100
+106,12,Reversal,51,fighting,-,100
+106,13,Reversal,51,fighting,-,100
+106,1,Mega Kick,53,normal,120,75
+106,2,Mega Kick,53,normal,120,75
+106,8,Close Combat,53,fighting,120,100
+106,9,Close Combat,53,fighting,120,100
+106,10,Close Combat,53,fighting,120,100
+106,11,Mega Kick,53,normal,120,75
+106,14,Mega Kick,53,normal,120,75
+106,15,Mega Kick,53,normal,120,75
+106,16,Mega Kick,53,normal,120,75
+106,8,Reversal,57,fighting,-,100
+106,9,Reversal,57,fighting,-,100
+106,10,Reversal,57,fighting,-,100
+106,11,Close Combat,57,fighting,120,100
+106,14,Close Combat,57,fighting,120,100
+106,15,Close Combat,57,fighting,120,100
+106,16,Close Combat,57,fighting,120,100
+106,11,Reversal,61,fighting,-,100
+106,14,Reversal,61,fighting,-,100
+106,15,Reversal,61,fighting,-,100
+106,16,Reversal,61,fighting,-,100

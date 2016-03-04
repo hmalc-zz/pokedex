@@ -1,97 +1,97 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-479,rotom,8,84,Thunder Shock,1,1,4
-479,rotom,8,86,Thunder Wave,1,1,3
-479,rotom,8,104,Double Team,1,15,
-479,rotom,8,109,Confuse Ray,1,1,5
-479,rotom,8,164,Substitute,1,36,
-479,rotom,8,253,Uproar,1,8,
-479,rotom,8,268,Charge,1,43,
-479,rotom,8,271,Trick,1,1,1
-479,rotom,8,310,Astonish,1,1,2
-479,rotom,8,351,Shock Wave,1,22,
-479,rotom,8,435,Discharge,1,50,
-479,rotom,8,466,Ominous Wind,1,29,
-479,rotom,9,84,Thunder Shock,1,1,4
-479,rotom,9,86,Thunder Wave,1,1,3
-479,rotom,9,104,Double Team,1,15,
-479,rotom,9,109,Confuse Ray,1,1,5
-479,rotom,9,164,Substitute,1,36,
-479,rotom,9,253,Uproar,1,8,
-479,rotom,9,268,Charge,1,43,
-479,rotom,9,271,Trick,1,1,1
-479,rotom,9,310,Astonish,1,1,2
-479,rotom,9,351,Shock Wave,1,22,
-479,rotom,9,435,Discharge,1,50,
-479,rotom,9,466,Ominous Wind,1,29,
-479,rotom,10,84,Thunder Shock,1,1,4
-479,rotom,10,86,Thunder Wave,1,1,3
-479,rotom,10,104,Double Team,1,15,
-479,rotom,10,109,Confuse Ray,1,1,5
-479,rotom,10,164,Substitute,1,36,
-479,rotom,10,253,Uproar,1,8,
-479,rotom,10,268,Charge,1,43,
-479,rotom,10,271,Trick,1,1,1
-479,rotom,10,310,Astonish,1,1,2
-479,rotom,10,351,Shock Wave,1,22,
-479,rotom,10,435,Discharge,1,50,
-479,rotom,10,466,Ominous Wind,1,29,
-479,rotom,11,84,Thunder Shock,1,1,4
-479,rotom,11,86,Thunder Wave,1,1,3
-479,rotom,11,104,Double Team,1,15,
-479,rotom,11,109,Confuse Ray,1,1,5
-479,rotom,11,164,Substitute,1,36,
-479,rotom,11,253,Uproar,1,8,
-479,rotom,11,268,Charge,1,57,
-479,rotom,11,271,Trick,1,1,1
-479,rotom,11,310,Astonish,1,1,2
-479,rotom,11,351,Shock Wave,1,22,
-479,rotom,11,435,Discharge,1,64,
-479,rotom,11,466,Ominous Wind,1,29,
-479,rotom,11,486,Electro Ball,1,43,
-479,rotom,11,506,Hex,1,50,
-479,rotom,14,84,Thunder Shock,1,1,4
-479,rotom,14,86,Thunder Wave,1,1,3
-479,rotom,14,104,Double Team,1,15,
-479,rotom,14,109,Confuse Ray,1,1,5
-479,rotom,14,164,Substitute,1,36,
-479,rotom,14,253,Uproar,1,8,
-479,rotom,14,268,Charge,1,57,
-479,rotom,14,271,Trick,1,1,1
-479,rotom,14,310,Astonish,1,1,2
-479,rotom,14,351,Shock Wave,1,22,
-479,rotom,14,435,Discharge,1,64,
-479,rotom,14,466,Ominous Wind,1,29,
-479,rotom,14,486,Electro Ball,1,43,
-479,rotom,14,506,Hex,1,50,
-479,rotom,15,84,Thunder Shock,1,1,6
-479,rotom,15,86,Thunder Wave,1,1,5
-479,rotom,15,104,Double Team,1,15,
-479,rotom,15,109,Confuse Ray,1,1,7
-479,rotom,15,164,Substitute,1,36,
-479,rotom,15,253,Uproar,1,8,
-479,rotom,15,268,Charge,1,1,2
-479,rotom,15,268,Charge,1,57,
-479,rotom,15,271,Trick,1,1,3
-479,rotom,15,310,Astonish,1,1,4
-479,rotom,15,351,Shock Wave,1,22,
-479,rotom,15,435,Discharge,1,1,1
-479,rotom,15,435,Discharge,1,64,
-479,rotom,15,466,Ominous Wind,1,29,
-479,rotom,15,486,Electro Ball,1,43,
-479,rotom,15,506,Hex,1,50,
-479,rotom,16,84,Thunder Shock,1,1,6
-479,rotom,16,86,Thunder Wave,1,1,5
-479,rotom,16,104,Double Team,1,15,1
-479,rotom,16,109,Confuse Ray,1,1,7
-479,rotom,16,164,Substitute,1,36,1
-479,rotom,16,253,Uproar,1,8,1
-479,rotom,16,268,Charge,1,1,2
-479,rotom,16,268,Charge,1,57,1
-479,rotom,16,271,Trick,1,1,3
-479,rotom,16,310,Astonish,1,1,4
-479,rotom,16,351,Shock Wave,1,22,1
-479,rotom,16,435,Discharge,1,1,1
-479,rotom,16,435,Discharge,1,64,1
-479,rotom,16,466,Ominous Wind,1,29,1
-479,rotom,16,486,Electro Ball,1,43,1
-479,rotom,16,506,Hex,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+479,8,Thunder Shock,1,electric,40,100
+479,8,Thunder Wave,1,electric,-,100
+479,8,Confuse Ray,1,ghost,-,100
+479,8,Trick,1,psychic,-,100
+479,8,Astonish,1,ghost,30,100
+479,9,Thunder Shock,1,electric,40,100
+479,9,Thunder Wave,1,electric,-,100
+479,9,Confuse Ray,1,ghost,-,100
+479,9,Trick,1,psychic,-,100
+479,9,Astonish,1,ghost,30,100
+479,10,Thunder Shock,1,electric,40,100
+479,10,Thunder Wave,1,electric,-,100
+479,10,Confuse Ray,1,ghost,-,100
+479,10,Trick,1,psychic,-,100
+479,10,Astonish,1,ghost,30,100
+479,11,Thunder Shock,1,electric,40,100
+479,11,Thunder Wave,1,electric,-,100
+479,11,Confuse Ray,1,ghost,-,100
+479,11,Trick,1,psychic,-,100
+479,11,Astonish,1,ghost,30,100
+479,14,Thunder Shock,1,electric,40,100
+479,14,Thunder Wave,1,electric,-,100
+479,14,Confuse Ray,1,ghost,-,100
+479,14,Trick,1,psychic,-,100
+479,14,Astonish,1,ghost,30,100
+479,15,Thunder Shock,1,electric,40,100
+479,15,Thunder Wave,1,electric,-,100
+479,15,Confuse Ray,1,ghost,-,100
+479,15,Charge,1,electric,-,-
+479,15,Trick,1,psychic,-,100
+479,15,Astonish,1,ghost,30,100
+479,15,Discharge,1,electric,80,100
+479,16,Thunder Shock,1,electric,40,100
+479,16,Thunder Wave,1,electric,-,100
+479,16,Confuse Ray,1,ghost,-,100
+479,16,Charge,1,electric,-,-
+479,16,Trick,1,psychic,-,100
+479,16,Astonish,1,ghost,30,100
+479,16,Discharge,1,electric,80,100
+479,8,Uproar,8,normal,90,100
+479,9,Uproar,8,normal,90,100
+479,10,Uproar,8,normal,90,100
+479,11,Uproar,8,normal,90,100
+479,14,Uproar,8,normal,90,100
+479,15,Uproar,8,normal,90,100
+479,16,Uproar,8,normal,90,100
+479,8,Double Team,15,normal,-,-
+479,9,Double Team,15,normal,-,-
+479,10,Double Team,15,normal,-,-
+479,11,Double Team,15,normal,-,-
+479,14,Double Team,15,normal,-,-
+479,15,Double Team,15,normal,-,-
+479,16,Double Team,15,normal,-,-
+479,8,Shock Wave,22,electric,60,-
+479,9,Shock Wave,22,electric,60,-
+479,10,Shock Wave,22,electric,60,-
+479,11,Shock Wave,22,electric,60,-
+479,14,Shock Wave,22,electric,60,-
+479,15,Shock Wave,22,electric,60,-
+479,16,Shock Wave,22,electric,60,-
+479,8,Ominous Wind,29,ghost,60,100
+479,9,Ominous Wind,29,ghost,60,100
+479,10,Ominous Wind,29,ghost,60,100
+479,11,Ominous Wind,29,ghost,60,100
+479,14,Ominous Wind,29,ghost,60,100
+479,15,Ominous Wind,29,ghost,60,100
+479,16,Ominous Wind,29,ghost,60,100
+479,8,Substitute,36,normal,-,-
+479,9,Substitute,36,normal,-,-
+479,10,Substitute,36,normal,-,-
+479,11,Substitute,36,normal,-,-
+479,14,Substitute,36,normal,-,-
+479,15,Substitute,36,normal,-,-
+479,16,Substitute,36,normal,-,-
+479,8,Charge,43,electric,-,-
+479,9,Charge,43,electric,-,-
+479,10,Charge,43,electric,-,-
+479,11,Electro Ball,43,electric,-,100
+479,14,Electro Ball,43,electric,-,100
+479,15,Electro Ball,43,electric,-,100
+479,16,Electro Ball,43,electric,-,100
+479,8,Discharge,50,electric,80,100
+479,9,Discharge,50,electric,80,100
+479,10,Discharge,50,electric,80,100
+479,11,Hex,50,ghost,65,100
+479,14,Hex,50,ghost,65,100
+479,15,Hex,50,ghost,65,100
+479,16,Hex,50,ghost,65,100
+479,11,Charge,57,electric,-,-
+479,14,Charge,57,electric,-,-
+479,15,Charge,57,electric,-,-
+479,16,Charge,57,electric,-,-
+479,11,Discharge,64,electric,80,100
+479,14,Discharge,64,electric,80,100
+479,15,Discharge,64,electric,80,100
+479,16,Discharge,64,electric,80,100

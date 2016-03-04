@@ -1,73 +1,73 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-566,archen,11,17,Wing Attack,1,1,3
-566,archen,11,37,Thrash,1,51,
-566,archen,11,43,Leer,1,1,2
-566,archen,11,88,Rock Throw,1,5,
-566,archen,11,97,Agility,1,21,
-566,archen,11,98,Quick Attack,1,1,1
-566,archen,11,104,Double Team,1,8,
-566,archen,11,157,Rock Slide,1,45,
-566,archen,11,184,Scary Face,1,11,
-566,archen,11,225,Dragon Breath,1,31,
-566,archen,11,242,Crunch,1,35,
-566,archen,11,246,Ancient Power,1,18,
-566,archen,11,283,Endeavor,1,38,
-566,archen,11,337,Dragon Claw,1,48,
-566,archen,11,365,Pluck,1,15,
-566,archen,11,369,U-turn,1,41,
-566,archen,11,501,Quick Guard,1,25,
-566,archen,11,512,Acrobatics,1,28,
-566,archen,14,17,Wing Attack,1,1,3
-566,archen,14,37,Thrash,1,51,
-566,archen,14,43,Leer,1,1,2
-566,archen,14,88,Rock Throw,1,5,
-566,archen,14,97,Agility,1,21,
-566,archen,14,98,Quick Attack,1,1,1
-566,archen,14,104,Double Team,1,8,
-566,archen,14,157,Rock Slide,1,45,
-566,archen,14,184,Scary Face,1,11,
-566,archen,14,225,Dragon Breath,1,31,
-566,archen,14,242,Crunch,1,35,
-566,archen,14,246,Ancient Power,1,18,
-566,archen,14,283,Endeavor,1,38,
-566,archen,14,337,Dragon Claw,1,48,
-566,archen,14,365,Pluck,1,15,
-566,archen,14,369,U-turn,1,41,
-566,archen,14,501,Quick Guard,1,25,
-566,archen,14,512,Acrobatics,1,28,
-566,archen,15,17,Wing Attack,1,1,3
-566,archen,15,37,Thrash,1,50,
-566,archen,15,43,Leer,1,1,2
-566,archen,15,88,Rock Throw,1,5,
-566,archen,15,97,Agility,1,21,
-566,archen,15,98,Quick Attack,1,1,1
-566,archen,15,104,Double Team,1,8,
-566,archen,15,157,Rock Slide,1,45,
-566,archen,15,184,Scary Face,1,11,
-566,archen,15,225,Dragon Breath,1,31,
-566,archen,15,242,Crunch,1,35,
-566,archen,15,246,Ancient Power,1,18,
-566,archen,15,283,Endeavor,1,38,
-566,archen,15,337,Dragon Claw,1,48,
-566,archen,15,365,Pluck,1,15,
-566,archen,15,369,U-turn,1,41,
-566,archen,15,501,Quick Guard,1,25,
-566,archen,15,512,Acrobatics,1,28,
-566,archen,16,17,Wing Attack,1,1,3
-566,archen,16,37,Thrash,1,50,1
-566,archen,16,43,Leer,1,1,2
-566,archen,16,88,Rock Throw,1,5,1
-566,archen,16,97,Agility,1,21,1
-566,archen,16,98,Quick Attack,1,1,1
-566,archen,16,104,Double Team,1,8,1
-566,archen,16,157,Rock Slide,1,45,1
-566,archen,16,184,Scary Face,1,11,1
-566,archen,16,225,Dragon Breath,1,31,1
-566,archen,16,242,Crunch,1,35,1
-566,archen,16,246,Ancient Power,1,18,1
-566,archen,16,283,Endeavor,1,38,1
-566,archen,16,337,Dragon Claw,1,48,1
-566,archen,16,365,Pluck,1,15,1
-566,archen,16,369,U-turn,1,41,1
-566,archen,16,501,Quick Guard,1,25,1
-566,archen,16,512,Acrobatics,1,28,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+566,11,Wing Attack,1,flying,60,100
+566,11,Leer,1,normal,-,100
+566,11,Quick Attack,1,normal,40,100
+566,14,Wing Attack,1,flying,60,100
+566,14,Leer,1,normal,-,100
+566,14,Quick Attack,1,normal,40,100
+566,15,Wing Attack,1,flying,60,100
+566,15,Leer,1,normal,-,100
+566,15,Quick Attack,1,normal,40,100
+566,16,Wing Attack,1,flying,60,100
+566,16,Leer,1,normal,-,100
+566,16,Quick Attack,1,normal,40,100
+566,11,Rock Throw,5,rock,50,90
+566,14,Rock Throw,5,rock,50,90
+566,15,Rock Throw,5,rock,50,90
+566,16,Rock Throw,5,rock,50,90
+566,11,Double Team,8,normal,-,-
+566,14,Double Team,8,normal,-,-
+566,15,Double Team,8,normal,-,-
+566,16,Double Team,8,normal,-,-
+566,11,Scary Face,11,normal,-,100
+566,14,Scary Face,11,normal,-,100
+566,15,Scary Face,11,normal,-,100
+566,16,Scary Face,11,normal,-,100
+566,11,Pluck,15,flying,60,100
+566,14,Pluck,15,flying,60,100
+566,15,Pluck,15,flying,60,100
+566,16,Pluck,15,flying,60,100
+566,11,Ancient Power,18,rock,60,100
+566,14,Ancient Power,18,rock,60,100
+566,15,Ancient Power,18,rock,60,100
+566,16,Ancient Power,18,rock,60,100
+566,11,Agility,21,psychic,-,-
+566,14,Agility,21,psychic,-,-
+566,15,Agility,21,psychic,-,-
+566,16,Agility,21,psychic,-,-
+566,11,Quick Guard,25,fighting,-,-
+566,14,Quick Guard,25,fighting,-,-
+566,15,Quick Guard,25,fighting,-,-
+566,16,Quick Guard,25,fighting,-,-
+566,11,Acrobatics,28,flying,55,100
+566,14,Acrobatics,28,flying,55,100
+566,15,Acrobatics,28,flying,55,100
+566,16,Acrobatics,28,flying,55,100
+566,11,Dragon Breath,31,dragon,60,100
+566,14,Dragon Breath,31,dragon,60,100
+566,15,Dragon Breath,31,dragon,60,100
+566,16,Dragon Breath,31,dragon,60,100
+566,11,Crunch,35,dark,80,100
+566,14,Crunch,35,dark,80,100
+566,15,Crunch,35,dark,80,100
+566,16,Crunch,35,dark,80,100
+566,11,Endeavor,38,normal,-,100
+566,14,Endeavor,38,normal,-,100
+566,15,Endeavor,38,normal,-,100
+566,16,Endeavor,38,normal,-,100
+566,11,U-turn,41,bug,70,100
+566,14,U-turn,41,bug,70,100
+566,15,U-turn,41,bug,70,100
+566,16,U-turn,41,bug,70,100
+566,11,Rock Slide,45,rock,75,90
+566,14,Rock Slide,45,rock,75,90
+566,15,Rock Slide,45,rock,75,90
+566,16,Rock Slide,45,rock,75,90
+566,11,Dragon Claw,48,dragon,80,100
+566,14,Dragon Claw,48,dragon,80,100
+566,15,Dragon Claw,48,dragon,80,100
+566,16,Dragon Claw,48,dragon,80,100
+566,15,Thrash,50,normal,120,100
+566,16,Thrash,50,normal,120,100
+566,11,Thrash,51,normal,120,100
+566,14,Thrash,51,normal,120,100

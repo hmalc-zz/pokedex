@@ -1,225 +1,225 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-295,exploud,5,1,Pound,1,1,1
-295,exploud,5,23,Stomp,1,29,
-295,exploud,5,46,Roar,1,45,
-295,exploud,5,48,Supersonic,1,23,
-295,exploud,5,63,Hyper Beam,1,40,
-295,exploud,5,103,Screech,1,37,
-295,exploud,5,156,Rest,1,55,
-295,exploud,5,214,Sleep Talk,1,55,5
-295,exploud,5,253,Uproar,1,1,2
-295,exploud,5,253,Uproar,1,5,
-295,exploud,5,304,Hyper Voice,1,63,
-295,exploud,5,310,Astonish,1,1,3
-295,exploud,5,310,Astonish,1,11,
-295,exploud,5,336,Howl,1,1,4
-295,exploud,5,336,Howl,1,15,
-295,exploud,6,1,Pound,1,1,1
-295,exploud,6,23,Stomp,1,29,
-295,exploud,6,46,Roar,1,45,
-295,exploud,6,48,Supersonic,1,23,
-295,exploud,6,63,Hyper Beam,1,40,
-295,exploud,6,103,Screech,1,37,
-295,exploud,6,156,Rest,1,55,
-295,exploud,6,214,Sleep Talk,1,55,5
-295,exploud,6,253,Uproar,1,1,2
-295,exploud,6,253,Uproar,1,5,
-295,exploud,6,304,Hyper Voice,1,63,
-295,exploud,6,310,Astonish,1,1,3
-295,exploud,6,310,Astonish,1,11,
-295,exploud,6,336,Howl,1,1,4
-295,exploud,6,336,Howl,1,15,
-295,exploud,7,1,Pound,1,1,1
-295,exploud,7,23,Stomp,1,29,
-295,exploud,7,46,Roar,1,45,
-295,exploud,7,48,Supersonic,1,23,
-295,exploud,7,63,Hyper Beam,1,40,
-295,exploud,7,103,Screech,1,37,
-295,exploud,7,156,Rest,1,55,
-295,exploud,7,214,Sleep Talk,1,55,5
-295,exploud,7,253,Uproar,1,1,2
-295,exploud,7,253,Uproar,1,5,
-295,exploud,7,304,Hyper Voice,1,63,
-295,exploud,7,310,Astonish,1,1,3
-295,exploud,7,310,Astonish,1,11,
-295,exploud,7,336,Howl,1,1,4
-295,exploud,7,336,Howl,1,15,
-295,exploud,8,1,Pound,1,1,4
-295,exploud,8,23,Stomp,1,29,
-295,exploud,8,44,Bite,1,20,
-295,exploud,8,46,Roar,1,45,
-295,exploud,8,48,Supersonic,1,23,
-295,exploud,8,63,Hyper Beam,1,71,
-295,exploud,8,103,Screech,1,37,
-295,exploud,8,156,Rest,1,55,1
-295,exploud,8,214,Sleep Talk,1,55,2
-295,exploud,8,242,Crunch,1,40,
-295,exploud,8,253,Uproar,1,1,5
-295,exploud,8,253,Uproar,1,5,
-295,exploud,8,304,Hyper Voice,1,63,
-295,exploud,8,310,Astonish,1,1,6
-295,exploud,8,310,Astonish,1,11,
-295,exploud,8,336,Howl,1,1,7
-295,exploud,8,336,Howl,1,15,
-295,exploud,8,422,Thunder Fang,1,1,3
-295,exploud,8,423,Ice Fang,1,1,1
-295,exploud,8,424,Fire Fang,1,1,2
-295,exploud,9,1,Pound,1,1,4
-295,exploud,9,23,Stomp,1,29,
-295,exploud,9,44,Bite,1,20,
-295,exploud,9,46,Roar,1,45,
-295,exploud,9,48,Supersonic,1,23,
-295,exploud,9,63,Hyper Beam,1,71,
-295,exploud,9,103,Screech,1,37,
-295,exploud,9,156,Rest,1,55,1
-295,exploud,9,214,Sleep Talk,1,55,2
-295,exploud,9,242,Crunch,1,40,
-295,exploud,9,253,Uproar,1,1,5
-295,exploud,9,253,Uproar,1,5,
-295,exploud,9,304,Hyper Voice,1,63,
-295,exploud,9,310,Astonish,1,1,6
-295,exploud,9,310,Astonish,1,11,
-295,exploud,9,336,Howl,1,1,7
-295,exploud,9,336,Howl,1,15,
-295,exploud,9,422,Thunder Fang,1,1,3
-295,exploud,9,423,Ice Fang,1,1,1
-295,exploud,9,424,Fire Fang,1,1,2
-295,exploud,10,1,Pound,1,1,4
-295,exploud,10,23,Stomp,1,29,
-295,exploud,10,44,Bite,1,20,
-295,exploud,10,46,Roar,1,45,
-295,exploud,10,48,Supersonic,1,23,
-295,exploud,10,63,Hyper Beam,1,71,
-295,exploud,10,103,Screech,1,37,
-295,exploud,10,156,Rest,1,55,1
-295,exploud,10,214,Sleep Talk,1,55,2
-295,exploud,10,242,Crunch,1,40,
-295,exploud,10,253,Uproar,1,1,5
-295,exploud,10,253,Uproar,1,5,
-295,exploud,10,304,Hyper Voice,1,63,
-295,exploud,10,310,Astonish,1,1,6
-295,exploud,10,310,Astonish,1,11,
-295,exploud,10,336,Howl,1,1,7
-295,exploud,10,336,Howl,1,15,
-295,exploud,10,422,Thunder Fang,1,1,3
-295,exploud,10,423,Ice Fang,1,1,1
-295,exploud,10,424,Fire Fang,1,1,2
-295,exploud,11,1,Pound,1,1,4
-295,exploud,11,23,Stomp,1,29,
-295,exploud,11,44,Bite,1,20,
-295,exploud,11,46,Roar,1,45,
-295,exploud,11,48,Supersonic,1,23,
-295,exploud,11,63,Hyper Beam,1,79,
-295,exploud,11,103,Screech,1,37,
-295,exploud,11,156,Rest,1,55,2
-295,exploud,11,214,Sleep Talk,1,63,
-295,exploud,11,242,Crunch,1,40,
-295,exploud,11,253,Uproar,1,1,5
-295,exploud,11,253,Uproar,1,5,
-295,exploud,11,304,Hyper Voice,1,71,
-295,exploud,11,310,Astonish,1,1,6
-295,exploud,11,310,Astonish,1,11,
-295,exploud,11,336,Howl,1,1,7
-295,exploud,11,336,Howl,1,15,
-295,exploud,11,422,Thunder Fang,1,1,3
-295,exploud,11,423,Ice Fang,1,1,1
-295,exploud,11,424,Fire Fang,1,1,2
-295,exploud,11,485,Synchronoise,1,55,1
-295,exploud,12,1,Pound,1,1,1
-295,exploud,12,23,Stomp,1,29,
-295,exploud,12,46,Roar,1,45,
-295,exploud,12,48,Supersonic,1,23,
-295,exploud,12,63,Hyper Beam,1,40,
-295,exploud,12,103,Screech,1,37,
-295,exploud,12,156,Rest,1,55,
-295,exploud,12,214,Sleep Talk,1,55,5
-295,exploud,12,253,Uproar,1,1,2
-295,exploud,12,253,Uproar,1,5,
-295,exploud,12,304,Hyper Voice,1,63,
-295,exploud,12,310,Astonish,1,1,3
-295,exploud,12,310,Astonish,1,11,
-295,exploud,12,336,Howl,1,1,4
-295,exploud,12,336,Howl,1,15,
-295,exploud,13,1,Pound,1,1,1
-295,exploud,13,23,Stomp,1,29,
-295,exploud,13,46,Roar,1,45,
-295,exploud,13,48,Supersonic,1,23,
-295,exploud,13,63,Hyper Beam,1,40,
-295,exploud,13,103,Screech,1,37,
-295,exploud,13,156,Rest,1,55,
-295,exploud,13,214,Sleep Talk,1,55,5
-295,exploud,13,253,Uproar,1,1,2
-295,exploud,13,253,Uproar,1,5,
-295,exploud,13,304,Hyper Voice,1,63,
-295,exploud,13,310,Astonish,1,1,3
-295,exploud,13,310,Astonish,1,11,
-295,exploud,13,336,Howl,1,1,4
-295,exploud,13,336,Howl,1,15,
-295,exploud,14,1,Pound,1,1,4
-295,exploud,14,23,Stomp,1,29,
-295,exploud,14,44,Bite,1,20,
-295,exploud,14,46,Roar,1,45,
-295,exploud,14,48,Supersonic,1,23,
-295,exploud,14,63,Hyper Beam,1,79,
-295,exploud,14,103,Screech,1,37,
-295,exploud,14,156,Rest,1,55,2
-295,exploud,14,214,Sleep Talk,1,63,
-295,exploud,14,242,Crunch,1,40,
-295,exploud,14,253,Uproar,1,1,5
-295,exploud,14,253,Uproar,1,5,
-295,exploud,14,304,Hyper Voice,1,71,
-295,exploud,14,310,Astonish,1,1,6
-295,exploud,14,310,Astonish,1,11,
-295,exploud,14,336,Howl,1,1,7
-295,exploud,14,336,Howl,1,15,
-295,exploud,14,422,Thunder Fang,1,1,3
-295,exploud,14,423,Ice Fang,1,1,1
-295,exploud,14,424,Fire Fang,1,1,2
-295,exploud,14,485,Synchronoise,1,55,1
-295,exploud,15,1,Pound,1,1,5
-295,exploud,15,23,Stomp,1,29,
-295,exploud,15,44,Bite,1,20,
-295,exploud,15,46,Roar,1,45,
-295,exploud,15,48,Supersonic,1,23,
-295,exploud,15,63,Hyper Beam,1,79,
-295,exploud,15,103,Screech,1,37,
-295,exploud,15,156,Rest,1,55,2
-295,exploud,15,214,Sleep Talk,1,63,
-295,exploud,15,242,Crunch,1,40,
-295,exploud,15,253,Uproar,1,1,6
-295,exploud,15,253,Uproar,1,5,
-295,exploud,15,304,Hyper Voice,1,71,
-295,exploud,15,310,Astonish,1,1,7
-295,exploud,15,310,Astonish,1,11,
-295,exploud,15,336,Howl,1,1,8
-295,exploud,15,336,Howl,1,15,
-295,exploud,15,422,Thunder Fang,1,1,4
-295,exploud,15,423,Ice Fang,1,1,2
-295,exploud,15,424,Fire Fang,1,1,3
-295,exploud,15,485,Synchronoise,1,55,1
-295,exploud,15,586,Boomburst,1,1,1
-295,exploud,15,586,Boomburst,1,85,
-295,exploud,16,1,Pound,1,1,5
-295,exploud,16,23,Stomp,1,23,1
-295,exploud,16,44,Bite,1,20,1
-295,exploud,16,46,Roar,1,32,1
-295,exploud,16,48,Supersonic,1,18,1
-295,exploud,16,63,Hyper Beam,1,64,1
-295,exploud,16,103,Screech,1,15,1
-295,exploud,16,156,Rest,1,36,1
-295,exploud,16,214,Sleep Talk,1,42,1
-295,exploud,16,242,Crunch,1,40,1
-295,exploud,16,253,Uproar,1,27,1
-295,exploud,16,304,Hyper Voice,1,47,1
-295,exploud,16,310,Astonish,1,1,7
-295,exploud,16,310,Astonish,1,9,1
-295,exploud,16,336,Howl,1,1,8
-295,exploud,16,336,Howl,1,11,1
-295,exploud,16,422,Thunder Fang,1,1,4
-295,exploud,16,423,Ice Fang,1,1,2
-295,exploud,16,424,Fire Fang,1,1,3
-295,exploud,16,485,Synchronoise,1,53,1
-295,exploud,16,497,Echoed Voice,1,1,6
-295,exploud,16,497,Echoed Voice,1,4,1
-295,exploud,16,586,Boomburst,1,1,1
-295,exploud,16,586,Boomburst,1,58,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+295,5,Pound,1,normal,40,100
+295,5,Uproar,1,normal,90,100
+295,5,Astonish,1,ghost,30,100
+295,5,Howl,1,normal,-,-
+295,6,Pound,1,normal,40,100
+295,6,Uproar,1,normal,90,100
+295,6,Astonish,1,ghost,30,100
+295,6,Howl,1,normal,-,-
+295,7,Pound,1,normal,40,100
+295,7,Uproar,1,normal,90,100
+295,7,Astonish,1,ghost,30,100
+295,7,Howl,1,normal,-,-
+295,8,Pound,1,normal,40,100
+295,8,Uproar,1,normal,90,100
+295,8,Astonish,1,ghost,30,100
+295,8,Howl,1,normal,-,-
+295,8,Thunder Fang,1,electric,65,95
+295,8,Ice Fang,1,ice,65,95
+295,8,Fire Fang,1,fire,65,95
+295,9,Pound,1,normal,40,100
+295,9,Uproar,1,normal,90,100
+295,9,Astonish,1,ghost,30,100
+295,9,Howl,1,normal,-,-
+295,9,Thunder Fang,1,electric,65,95
+295,9,Ice Fang,1,ice,65,95
+295,9,Fire Fang,1,fire,65,95
+295,10,Pound,1,normal,40,100
+295,10,Uproar,1,normal,90,100
+295,10,Astonish,1,ghost,30,100
+295,10,Howl,1,normal,-,-
+295,10,Thunder Fang,1,electric,65,95
+295,10,Ice Fang,1,ice,65,95
+295,10,Fire Fang,1,fire,65,95
+295,11,Pound,1,normal,40,100
+295,11,Uproar,1,normal,90,100
+295,11,Astonish,1,ghost,30,100
+295,11,Howl,1,normal,-,-
+295,11,Thunder Fang,1,electric,65,95
+295,11,Ice Fang,1,ice,65,95
+295,11,Fire Fang,1,fire,65,95
+295,12,Pound,1,normal,40,100
+295,12,Uproar,1,normal,90,100
+295,12,Astonish,1,ghost,30,100
+295,12,Howl,1,normal,-,-
+295,13,Pound,1,normal,40,100
+295,13,Uproar,1,normal,90,100
+295,13,Astonish,1,ghost,30,100
+295,13,Howl,1,normal,-,-
+295,14,Pound,1,normal,40,100
+295,14,Uproar,1,normal,90,100
+295,14,Astonish,1,ghost,30,100
+295,14,Howl,1,normal,-,-
+295,14,Thunder Fang,1,electric,65,95
+295,14,Ice Fang,1,ice,65,95
+295,14,Fire Fang,1,fire,65,95
+295,15,Pound,1,normal,40,100
+295,15,Uproar,1,normal,90,100
+295,15,Astonish,1,ghost,30,100
+295,15,Howl,1,normal,-,-
+295,15,Thunder Fang,1,electric,65,95
+295,15,Ice Fang,1,ice,65,95
+295,15,Fire Fang,1,fire,65,95
+295,15,Boomburst,1,normal,140,100
+295,16,Pound,1,normal,40,100
+295,16,Astonish,1,ghost,30,100
+295,16,Howl,1,normal,-,-
+295,16,Thunder Fang,1,electric,65,95
+295,16,Ice Fang,1,ice,65,95
+295,16,Fire Fang,1,fire,65,95
+295,16,Echoed Voice,1,normal,40,100
+295,16,Boomburst,1,normal,140,100
+295,16,Echoed Voice,4,normal,40,100
+295,5,Uproar,5,normal,90,100
+295,6,Uproar,5,normal,90,100
+295,7,Uproar,5,normal,90,100
+295,8,Uproar,5,normal,90,100
+295,9,Uproar,5,normal,90,100
+295,10,Uproar,5,normal,90,100
+295,11,Uproar,5,normal,90,100
+295,12,Uproar,5,normal,90,100
+295,13,Uproar,5,normal,90,100
+295,14,Uproar,5,normal,90,100
+295,15,Uproar,5,normal,90,100
+295,16,Astonish,9,ghost,30,100
+295,5,Astonish,11,ghost,30,100
+295,6,Astonish,11,ghost,30,100
+295,7,Astonish,11,ghost,30,100
+295,8,Astonish,11,ghost,30,100
+295,9,Astonish,11,ghost,30,100
+295,10,Astonish,11,ghost,30,100
+295,11,Astonish,11,ghost,30,100
+295,12,Astonish,11,ghost,30,100
+295,13,Astonish,11,ghost,30,100
+295,14,Astonish,11,ghost,30,100
+295,15,Astonish,11,ghost,30,100
+295,16,Howl,11,normal,-,-
+295,5,Howl,15,normal,-,-
+295,6,Howl,15,normal,-,-
+295,7,Howl,15,normal,-,-
+295,8,Howl,15,normal,-,-
+295,9,Howl,15,normal,-,-
+295,10,Howl,15,normal,-,-
+295,11,Howl,15,normal,-,-
+295,12,Howl,15,normal,-,-
+295,13,Howl,15,normal,-,-
+295,14,Howl,15,normal,-,-
+295,15,Howl,15,normal,-,-
+295,16,Screech,15,normal,-,85
+295,16,Supersonic,18,normal,-,55
+295,8,Bite,20,dark,60,100
+295,9,Bite,20,dark,60,100
+295,10,Bite,20,dark,60,100
+295,11,Bite,20,dark,60,100
+295,14,Bite,20,dark,60,100
+295,15,Bite,20,dark,60,100
+295,16,Bite,20,dark,60,100
+295,5,Supersonic,23,normal,-,55
+295,6,Supersonic,23,normal,-,55
+295,7,Supersonic,23,normal,-,55
+295,8,Supersonic,23,normal,-,55
+295,9,Supersonic,23,normal,-,55
+295,10,Supersonic,23,normal,-,55
+295,11,Supersonic,23,normal,-,55
+295,12,Supersonic,23,normal,-,55
+295,13,Supersonic,23,normal,-,55
+295,14,Supersonic,23,normal,-,55
+295,15,Supersonic,23,normal,-,55
+295,16,Stomp,23,normal,65,100
+295,16,Uproar,27,normal,90,100
+295,5,Stomp,29,normal,65,100
+295,6,Stomp,29,normal,65,100
+295,7,Stomp,29,normal,65,100
+295,8,Stomp,29,normal,65,100
+295,9,Stomp,29,normal,65,100
+295,10,Stomp,29,normal,65,100
+295,11,Stomp,29,normal,65,100
+295,12,Stomp,29,normal,65,100
+295,13,Stomp,29,normal,65,100
+295,14,Stomp,29,normal,65,100
+295,15,Stomp,29,normal,65,100
+295,16,Roar,32,normal,-,-
+295,16,Rest,36,psychic,-,-
+295,5,Screech,37,normal,-,85
+295,6,Screech,37,normal,-,85
+295,7,Screech,37,normal,-,85
+295,8,Screech,37,normal,-,85
+295,9,Screech,37,normal,-,85
+295,10,Screech,37,normal,-,85
+295,11,Screech,37,normal,-,85
+295,12,Screech,37,normal,-,85
+295,13,Screech,37,normal,-,85
+295,14,Screech,37,normal,-,85
+295,15,Screech,37,normal,-,85
+295,5,Hyper Beam,40,normal,150,90
+295,6,Hyper Beam,40,normal,150,90
+295,7,Hyper Beam,40,normal,150,90
+295,8,Crunch,40,dark,80,100
+295,9,Crunch,40,dark,80,100
+295,10,Crunch,40,dark,80,100
+295,11,Crunch,40,dark,80,100
+295,12,Hyper Beam,40,normal,150,90
+295,13,Hyper Beam,40,normal,150,90
+295,14,Crunch,40,dark,80,100
+295,15,Crunch,40,dark,80,100
+295,16,Crunch,40,dark,80,100
+295,16,Sleep Talk,42,normal,-,-
+295,5,Roar,45,normal,-,-
+295,6,Roar,45,normal,-,-
+295,7,Roar,45,normal,-,-
+295,8,Roar,45,normal,-,-
+295,9,Roar,45,normal,-,-
+295,10,Roar,45,normal,-,-
+295,11,Roar,45,normal,-,-
+295,12,Roar,45,normal,-,-
+295,13,Roar,45,normal,-,-
+295,14,Roar,45,normal,-,-
+295,15,Roar,45,normal,-,-
+295,16,Hyper Voice,47,normal,90,100
+295,16,Synchronoise,53,psychic,120,100
+295,5,Rest,55,psychic,-,-
+295,5,Sleep Talk,55,normal,-,-
+295,6,Rest,55,psychic,-,-
+295,6,Sleep Talk,55,normal,-,-
+295,7,Rest,55,psychic,-,-
+295,7,Sleep Talk,55,normal,-,-
+295,8,Rest,55,psychic,-,-
+295,8,Sleep Talk,55,normal,-,-
+295,9,Rest,55,psychic,-,-
+295,9,Sleep Talk,55,normal,-,-
+295,10,Rest,55,psychic,-,-
+295,10,Sleep Talk,55,normal,-,-
+295,11,Rest,55,psychic,-,-
+295,11,Synchronoise,55,psychic,120,100
+295,12,Rest,55,psychic,-,-
+295,12,Sleep Talk,55,normal,-,-
+295,13,Rest,55,psychic,-,-
+295,13,Sleep Talk,55,normal,-,-
+295,14,Rest,55,psychic,-,-
+295,14,Synchronoise,55,psychic,120,100
+295,15,Rest,55,psychic,-,-
+295,15,Synchronoise,55,psychic,120,100
+295,16,Boomburst,58,normal,140,100
+295,5,Hyper Voice,63,normal,90,100
+295,6,Hyper Voice,63,normal,90,100
+295,7,Hyper Voice,63,normal,90,100
+295,8,Hyper Voice,63,normal,90,100
+295,9,Hyper Voice,63,normal,90,100
+295,10,Hyper Voice,63,normal,90,100
+295,11,Sleep Talk,63,normal,-,-
+295,12,Hyper Voice,63,normal,90,100
+295,13,Hyper Voice,63,normal,90,100
+295,14,Sleep Talk,63,normal,-,-
+295,15,Sleep Talk,63,normal,-,-
+295,16,Hyper Beam,64,normal,150,90
+295,8,Hyper Beam,71,normal,150,90
+295,9,Hyper Beam,71,normal,150,90
+295,10,Hyper Beam,71,normal,150,90
+295,11,Hyper Voice,71,normal,90,100
+295,14,Hyper Voice,71,normal,90,100
+295,15,Hyper Voice,71,normal,90,100
+295,11,Hyper Beam,79,normal,150,90
+295,14,Hyper Beam,79,normal,150,90
+295,15,Hyper Beam,79,normal,150,90
+295,15,Boomburst,85,normal,140,100

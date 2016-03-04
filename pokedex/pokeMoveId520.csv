@@ -1,73 +1,73 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-520,tranquill,11,13,Razor Wind,1,36,
-520,tranquill,11,16,Gust,1,1,1
-520,tranquill,11,43,Leer,1,1,3
-520,tranquill,11,43,Leer,1,8,
-520,tranquill,11,45,Growl,1,1,2
-520,tranquill,11,45,Growl,1,4,
-520,tranquill,11,98,Quick Attack,1,1,4
-520,tranquill,11,98,Quick Attack,1,11,
-520,tranquill,11,143,Sky Attack,1,59,
-520,tranquill,11,197,Detect,1,23,
-520,tranquill,11,207,Swagger,1,45,
-520,tranquill,11,263,Facade,1,50,
-520,tranquill,11,269,Taunt,1,27,
-520,tranquill,11,297,Feather Dance,1,41,
-520,tranquill,11,314,Air Cutter,1,15,
-520,tranquill,11,355,Roost,1,18,
-520,tranquill,11,366,Tailwind,1,54,
-520,tranquill,11,403,Air Slash,1,32,
-520,tranquill,14,13,Razor Wind,1,36,
-520,tranquill,14,16,Gust,1,1,1
-520,tranquill,14,43,Leer,1,1,3
-520,tranquill,14,43,Leer,1,8,
-520,tranquill,14,45,Growl,1,1,2
-520,tranquill,14,45,Growl,1,4,
-520,tranquill,14,98,Quick Attack,1,1,4
-520,tranquill,14,98,Quick Attack,1,11,
-520,tranquill,14,143,Sky Attack,1,59,
-520,tranquill,14,197,Detect,1,23,
-520,tranquill,14,207,Swagger,1,45,
-520,tranquill,14,263,Facade,1,50,
-520,tranquill,14,269,Taunt,1,27,
-520,tranquill,14,297,Feather Dance,1,41,
-520,tranquill,14,314,Air Cutter,1,15,
-520,tranquill,14,355,Roost,1,18,
-520,tranquill,14,366,Tailwind,1,54,
-520,tranquill,14,403,Air Slash,1,32,
-520,tranquill,15,13,Razor Wind,1,36,
-520,tranquill,15,16,Gust,1,1,1
-520,tranquill,15,43,Leer,1,1,3
-520,tranquill,15,43,Leer,1,8,
-520,tranquill,15,45,Growl,1,1,2
-520,tranquill,15,45,Growl,1,4,
-520,tranquill,15,98,Quick Attack,1,1,4
-520,tranquill,15,98,Quick Attack,1,11,
-520,tranquill,15,143,Sky Attack,1,59,
-520,tranquill,15,197,Detect,1,23,
-520,tranquill,15,207,Swagger,1,45,
-520,tranquill,15,263,Facade,1,50,
-520,tranquill,15,269,Taunt,1,27,
-520,tranquill,15,297,Feather Dance,1,41,
-520,tranquill,15,314,Air Cutter,1,15,
-520,tranquill,15,355,Roost,1,18,
-520,tranquill,15,366,Tailwind,1,54,
-520,tranquill,15,403,Air Slash,1,32,
-520,tranquill,16,13,Razor Wind,1,36,1
-520,tranquill,16,16,Gust,1,1,1
-520,tranquill,16,43,Leer,1,1,3
-520,tranquill,16,43,Leer,1,8,1
-520,tranquill,16,45,Growl,1,1,2
-520,tranquill,16,45,Growl,1,4,1
-520,tranquill,16,98,Quick Attack,1,1,4
-520,tranquill,16,98,Quick Attack,1,11,1
-520,tranquill,16,143,Sky Attack,1,59,1
-520,tranquill,16,197,Detect,1,23,1
-520,tranquill,16,207,Swagger,1,45,1
-520,tranquill,16,263,Facade,1,50,1
-520,tranquill,16,269,Taunt,1,27,1
-520,tranquill,16,297,Feather Dance,1,41,1
-520,tranquill,16,314,Air Cutter,1,15,1
-520,tranquill,16,355,Roost,1,18,1
-520,tranquill,16,366,Tailwind,1,54,1
-520,tranquill,16,403,Air Slash,1,32,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+520,11,Gust,1,flying,40,100
+520,11,Leer,1,normal,-,100
+520,11,Growl,1,normal,-,100
+520,11,Quick Attack,1,normal,40,100
+520,14,Gust,1,flying,40,100
+520,14,Leer,1,normal,-,100
+520,14,Growl,1,normal,-,100
+520,14,Quick Attack,1,normal,40,100
+520,15,Gust,1,flying,40,100
+520,15,Leer,1,normal,-,100
+520,15,Growl,1,normal,-,100
+520,15,Quick Attack,1,normal,40,100
+520,16,Gust,1,flying,40,100
+520,16,Leer,1,normal,-,100
+520,16,Growl,1,normal,-,100
+520,16,Quick Attack,1,normal,40,100
+520,11,Growl,4,normal,-,100
+520,14,Growl,4,normal,-,100
+520,15,Growl,4,normal,-,100
+520,16,Growl,4,normal,-,100
+520,11,Leer,8,normal,-,100
+520,14,Leer,8,normal,-,100
+520,15,Leer,8,normal,-,100
+520,16,Leer,8,normal,-,100
+520,11,Quick Attack,11,normal,40,100
+520,14,Quick Attack,11,normal,40,100
+520,15,Quick Attack,11,normal,40,100
+520,16,Quick Attack,11,normal,40,100
+520,11,Air Cutter,15,flying,60,95
+520,14,Air Cutter,15,flying,60,95
+520,15,Air Cutter,15,flying,60,95
+520,16,Air Cutter,15,flying,60,95
+520,11,Roost,18,flying,-,-
+520,14,Roost,18,flying,-,-
+520,15,Roost,18,flying,-,-
+520,16,Roost,18,flying,-,-
+520,11,Detect,23,fighting,-,-
+520,14,Detect,23,fighting,-,-
+520,15,Detect,23,fighting,-,-
+520,16,Detect,23,fighting,-,-
+520,11,Taunt,27,dark,-,100
+520,14,Taunt,27,dark,-,100
+520,15,Taunt,27,dark,-,100
+520,16,Taunt,27,dark,-,100
+520,11,Air Slash,32,flying,75,95
+520,14,Air Slash,32,flying,75,95
+520,15,Air Slash,32,flying,75,95
+520,16,Air Slash,32,flying,75,95
+520,11,Razor Wind,36,normal,80,100
+520,14,Razor Wind,36,normal,80,100
+520,15,Razor Wind,36,normal,80,100
+520,16,Razor Wind,36,normal,80,100
+520,11,Feather Dance,41,flying,-,100
+520,14,Feather Dance,41,flying,-,100
+520,15,Feather Dance,41,flying,-,100
+520,16,Feather Dance,41,flying,-,100
+520,11,Swagger,45,normal,-,90
+520,14,Swagger,45,normal,-,90
+520,15,Swagger,45,normal,-,90
+520,16,Swagger,45,normal,-,90
+520,11,Facade,50,normal,70,100
+520,14,Facade,50,normal,70,100
+520,15,Facade,50,normal,70,100
+520,16,Facade,50,normal,70,100
+520,11,Tailwind,54,flying,-,-
+520,14,Tailwind,54,flying,-,-
+520,15,Tailwind,54,flying,-,-
+520,16,Tailwind,54,flying,-,-
+520,11,Sky Attack,59,flying,140,90
+520,14,Sky Attack,59,flying,140,90
+520,15,Sky Attack,59,flying,140,90
+520,16,Sky Attack,59,flying,140,90

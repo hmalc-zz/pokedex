@@ -1,187 +1,187 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-142,aerodactyl,1,17,Wing Attack,1,1,1
-142,aerodactyl,1,36,Take Down,1,45,
-142,aerodactyl,1,44,Bite,1,38,
-142,aerodactyl,1,48,Supersonic,1,33,
-142,aerodactyl,1,63,Hyper Beam,1,54,
-142,aerodactyl,1,97,Agility,1,1,2
-142,aerodactyl,2,17,Wing Attack,1,1,1
-142,aerodactyl,2,36,Take Down,1,45,
-142,aerodactyl,2,44,Bite,1,38,
-142,aerodactyl,2,48,Supersonic,1,33,
-142,aerodactyl,2,63,Hyper Beam,1,54,
-142,aerodactyl,2,97,Agility,1,1,2
-142,aerodactyl,3,17,Wing Attack,1,1,
-142,aerodactyl,3,36,Take Down,1,43,
-142,aerodactyl,3,44,Bite,1,15,
-142,aerodactyl,3,48,Supersonic,1,22,
-142,aerodactyl,3,63,Hyper Beam,1,50,
-142,aerodactyl,3,97,Agility,1,8,
-142,aerodactyl,3,184,Scary Face,1,36,
-142,aerodactyl,3,246,Ancient Power,1,29,
-142,aerodactyl,4,17,Wing Attack,1,1,
-142,aerodactyl,4,36,Take Down,1,43,
-142,aerodactyl,4,44,Bite,1,15,
-142,aerodactyl,4,48,Supersonic,1,22,
-142,aerodactyl,4,63,Hyper Beam,1,50,
-142,aerodactyl,4,97,Agility,1,8,
-142,aerodactyl,4,184,Scary Face,1,36,
-142,aerodactyl,4,246,Ancient Power,1,29,
-142,aerodactyl,5,17,Wing Attack,1,1,
-142,aerodactyl,5,36,Take Down,1,43,
-142,aerodactyl,5,44,Bite,1,15,
-142,aerodactyl,5,48,Supersonic,1,22,
-142,aerodactyl,5,63,Hyper Beam,1,50,
-142,aerodactyl,5,97,Agility,1,8,
-142,aerodactyl,5,184,Scary Face,1,36,
-142,aerodactyl,5,246,Ancient Power,1,29,
-142,aerodactyl,6,17,Wing Attack,1,1,
-142,aerodactyl,6,36,Take Down,1,43,
-142,aerodactyl,6,44,Bite,1,15,
-142,aerodactyl,6,48,Supersonic,1,22,
-142,aerodactyl,6,63,Hyper Beam,1,50,
-142,aerodactyl,6,97,Agility,1,8,
-142,aerodactyl,6,184,Scary Face,1,36,
-142,aerodactyl,6,246,Ancient Power,1,29,
-142,aerodactyl,7,17,Wing Attack,1,1,
-142,aerodactyl,7,36,Take Down,1,43,
-142,aerodactyl,7,44,Bite,1,15,
-142,aerodactyl,7,48,Supersonic,1,22,
-142,aerodactyl,7,63,Hyper Beam,1,50,
-142,aerodactyl,7,97,Agility,1,8,
-142,aerodactyl,7,184,Scary Face,1,36,
-142,aerodactyl,7,246,Ancient Power,1,29,
-142,aerodactyl,8,17,Wing Attack,1,1,4
-142,aerodactyl,8,36,Take Down,1,41,
-142,aerodactyl,8,44,Bite,1,1,6
-142,aerodactyl,8,46,Roar,1,9,
-142,aerodactyl,8,48,Supersonic,1,1,5
-142,aerodactyl,8,63,Hyper Beam,1,57,
-142,aerodactyl,8,97,Agility,1,17,
-142,aerodactyl,8,157,Rock Slide,1,65,
-142,aerodactyl,8,184,Scary Face,1,1,7
-142,aerodactyl,8,242,Crunch,1,33,
-142,aerodactyl,8,246,Ancient Power,1,25,
-142,aerodactyl,8,416,Giga Impact,1,73,
-142,aerodactyl,8,422,Thunder Fang,1,1,3
-142,aerodactyl,8,423,Ice Fang,1,1,1
-142,aerodactyl,8,424,Fire Fang,1,1,2
-142,aerodactyl,8,442,Iron Head,1,49,
-142,aerodactyl,9,17,Wing Attack,1,1,4
-142,aerodactyl,9,36,Take Down,1,41,
-142,aerodactyl,9,44,Bite,1,1,6
-142,aerodactyl,9,46,Roar,1,9,
-142,aerodactyl,9,48,Supersonic,1,1,5
-142,aerodactyl,9,63,Hyper Beam,1,57,
-142,aerodactyl,9,97,Agility,1,17,
-142,aerodactyl,9,157,Rock Slide,1,65,
-142,aerodactyl,9,184,Scary Face,1,1,7
-142,aerodactyl,9,242,Crunch,1,33,
-142,aerodactyl,9,246,Ancient Power,1,25,
-142,aerodactyl,9,416,Giga Impact,1,73,
-142,aerodactyl,9,422,Thunder Fang,1,1,3
-142,aerodactyl,9,423,Ice Fang,1,1,1
-142,aerodactyl,9,424,Fire Fang,1,1,2
-142,aerodactyl,9,442,Iron Head,1,49,
-142,aerodactyl,10,17,Wing Attack,1,1,4
-142,aerodactyl,10,36,Take Down,1,41,
-142,aerodactyl,10,44,Bite,1,1,6
-142,aerodactyl,10,46,Roar,1,9,
-142,aerodactyl,10,48,Supersonic,1,1,5
-142,aerodactyl,10,63,Hyper Beam,1,57,
-142,aerodactyl,10,97,Agility,1,17,
-142,aerodactyl,10,157,Rock Slide,1,65,
-142,aerodactyl,10,184,Scary Face,1,1,7
-142,aerodactyl,10,242,Crunch,1,33,
-142,aerodactyl,10,246,Ancient Power,1,25,
-142,aerodactyl,10,416,Giga Impact,1,73,
-142,aerodactyl,10,422,Thunder Fang,1,1,3
-142,aerodactyl,10,423,Ice Fang,1,1,1
-142,aerodactyl,10,424,Fire Fang,1,1,2
-142,aerodactyl,10,442,Iron Head,1,49,
-142,aerodactyl,11,17,Wing Attack,1,1,4
-142,aerodactyl,11,36,Take Down,1,41,
-142,aerodactyl,11,44,Bite,1,1,6
-142,aerodactyl,11,46,Roar,1,9,
-142,aerodactyl,11,48,Supersonic,1,1,5
-142,aerodactyl,11,63,Hyper Beam,1,65,
-142,aerodactyl,11,97,Agility,1,17,
-142,aerodactyl,11,157,Rock Slide,1,73,
-142,aerodactyl,11,184,Scary Face,1,1,7
-142,aerodactyl,11,242,Crunch,1,33,
-142,aerodactyl,11,246,Ancient Power,1,25,
-142,aerodactyl,11,416,Giga Impact,1,81,
-142,aerodactyl,11,422,Thunder Fang,1,1,3
-142,aerodactyl,11,423,Ice Fang,1,1,1
-142,aerodactyl,11,424,Fire Fang,1,1,2
-142,aerodactyl,11,442,Iron Head,1,57,
-142,aerodactyl,11,507,Sky Drop,1,49,
-142,aerodactyl,12,17,Wing Attack,1,1,
-142,aerodactyl,12,36,Take Down,1,43,
-142,aerodactyl,12,44,Bite,1,15,
-142,aerodactyl,12,48,Supersonic,1,22,
-142,aerodactyl,12,63,Hyper Beam,1,50,
-142,aerodactyl,12,97,Agility,1,8,
-142,aerodactyl,12,184,Scary Face,1,36,
-142,aerodactyl,12,246,Ancient Power,1,29,
-142,aerodactyl,13,17,Wing Attack,1,1,
-142,aerodactyl,13,36,Take Down,1,43,
-142,aerodactyl,13,44,Bite,1,15,
-142,aerodactyl,13,48,Supersonic,1,22,
-142,aerodactyl,13,63,Hyper Beam,1,50,
-142,aerodactyl,13,97,Agility,1,8,
-142,aerodactyl,13,184,Scary Face,1,36,
-142,aerodactyl,13,246,Ancient Power,1,29,
-142,aerodactyl,14,17,Wing Attack,1,1,4
-142,aerodactyl,14,36,Take Down,1,41,
-142,aerodactyl,14,44,Bite,1,1,6
-142,aerodactyl,14,46,Roar,1,9,
-142,aerodactyl,14,48,Supersonic,1,1,5
-142,aerodactyl,14,63,Hyper Beam,1,65,
-142,aerodactyl,14,97,Agility,1,17,
-142,aerodactyl,14,157,Rock Slide,1,73,
-142,aerodactyl,14,184,Scary Face,1,1,7
-142,aerodactyl,14,242,Crunch,1,33,
-142,aerodactyl,14,246,Ancient Power,1,25,
-142,aerodactyl,14,416,Giga Impact,1,81,
-142,aerodactyl,14,422,Thunder Fang,1,1,3
-142,aerodactyl,14,423,Ice Fang,1,1,1
-142,aerodactyl,14,424,Fire Fang,1,1,2
-142,aerodactyl,14,442,Iron Head,1,57,
-142,aerodactyl,14,507,Sky Drop,1,49,
-142,aerodactyl,15,17,Wing Attack,1,1,5
-142,aerodactyl,15,36,Take Down,1,41,
-142,aerodactyl,15,44,Bite,1,1,7
-142,aerodactyl,15,46,Roar,1,9,
-142,aerodactyl,15,48,Supersonic,1,1,6
-142,aerodactyl,15,63,Hyper Beam,1,65,
-142,aerodactyl,15,97,Agility,1,17,
-142,aerodactyl,15,157,Rock Slide,1,73,
-142,aerodactyl,15,184,Scary Face,1,1,8
-142,aerodactyl,15,242,Crunch,1,33,
-142,aerodactyl,15,246,Ancient Power,1,25,
-142,aerodactyl,15,416,Giga Impact,1,81,
-142,aerodactyl,15,422,Thunder Fang,1,1,4
-142,aerodactyl,15,423,Ice Fang,1,1,2
-142,aerodactyl,15,424,Fire Fang,1,1,3
-142,aerodactyl,15,442,Iron Head,1,1,1
-142,aerodactyl,15,442,Iron Head,1,57,
-142,aerodactyl,15,507,Sky Drop,1,49,
-142,aerodactyl,16,17,Wing Attack,1,1,5
-142,aerodactyl,16,36,Take Down,1,41,1
-142,aerodactyl,16,44,Bite,1,1,7
-142,aerodactyl,16,46,Roar,1,9,1
-142,aerodactyl,16,48,Supersonic,1,1,6
-142,aerodactyl,16,63,Hyper Beam,1,65,1
-142,aerodactyl,16,97,Agility,1,17,1
-142,aerodactyl,16,157,Rock Slide,1,73,1
-142,aerodactyl,16,184,Scary Face,1,1,8
-142,aerodactyl,16,242,Crunch,1,33,1
-142,aerodactyl,16,246,Ancient Power,1,25,1
-142,aerodactyl,16,416,Giga Impact,1,81,1
-142,aerodactyl,16,422,Thunder Fang,1,1,4
-142,aerodactyl,16,423,Ice Fang,1,1,2
-142,aerodactyl,16,424,Fire Fang,1,1,3
-142,aerodactyl,16,442,Iron Head,1,1,1
-142,aerodactyl,16,442,Iron Head,1,57,1
-142,aerodactyl,16,507,Sky Drop,1,49,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+142,1,Wing Attack,1,flying,60,100
+142,1,Agility,1,psychic,-,-
+142,2,Wing Attack,1,flying,60,100
+142,2,Agility,1,psychic,-,-
+142,3,Wing Attack,1,flying,60,100
+142,4,Wing Attack,1,flying,60,100
+142,5,Wing Attack,1,flying,60,100
+142,6,Wing Attack,1,flying,60,100
+142,7,Wing Attack,1,flying,60,100
+142,8,Wing Attack,1,flying,60,100
+142,8,Bite,1,dark,60,100
+142,8,Supersonic,1,normal,-,55
+142,8,Scary Face,1,normal,-,100
+142,8,Thunder Fang,1,electric,65,95
+142,8,Ice Fang,1,ice,65,95
+142,8,Fire Fang,1,fire,65,95
+142,9,Wing Attack,1,flying,60,100
+142,9,Bite,1,dark,60,100
+142,9,Supersonic,1,normal,-,55
+142,9,Scary Face,1,normal,-,100
+142,9,Thunder Fang,1,electric,65,95
+142,9,Ice Fang,1,ice,65,95
+142,9,Fire Fang,1,fire,65,95
+142,10,Wing Attack,1,flying,60,100
+142,10,Bite,1,dark,60,100
+142,10,Supersonic,1,normal,-,55
+142,10,Scary Face,1,normal,-,100
+142,10,Thunder Fang,1,electric,65,95
+142,10,Ice Fang,1,ice,65,95
+142,10,Fire Fang,1,fire,65,95
+142,11,Wing Attack,1,flying,60,100
+142,11,Bite,1,dark,60,100
+142,11,Supersonic,1,normal,-,55
+142,11,Scary Face,1,normal,-,100
+142,11,Thunder Fang,1,electric,65,95
+142,11,Ice Fang,1,ice,65,95
+142,11,Fire Fang,1,fire,65,95
+142,12,Wing Attack,1,flying,60,100
+142,13,Wing Attack,1,flying,60,100
+142,14,Wing Attack,1,flying,60,100
+142,14,Bite,1,dark,60,100
+142,14,Supersonic,1,normal,-,55
+142,14,Scary Face,1,normal,-,100
+142,14,Thunder Fang,1,electric,65,95
+142,14,Ice Fang,1,ice,65,95
+142,14,Fire Fang,1,fire,65,95
+142,15,Wing Attack,1,flying,60,100
+142,15,Bite,1,dark,60,100
+142,15,Supersonic,1,normal,-,55
+142,15,Scary Face,1,normal,-,100
+142,15,Thunder Fang,1,electric,65,95
+142,15,Ice Fang,1,ice,65,95
+142,15,Fire Fang,1,fire,65,95
+142,15,Iron Head,1,steel,80,100
+142,16,Wing Attack,1,flying,60,100
+142,16,Bite,1,dark,60,100
+142,16,Supersonic,1,normal,-,55
+142,16,Scary Face,1,normal,-,100
+142,16,Thunder Fang,1,electric,65,95
+142,16,Ice Fang,1,ice,65,95
+142,16,Fire Fang,1,fire,65,95
+142,16,Iron Head,1,steel,80,100
+142,3,Agility,8,psychic,-,-
+142,4,Agility,8,psychic,-,-
+142,5,Agility,8,psychic,-,-
+142,6,Agility,8,psychic,-,-
+142,7,Agility,8,psychic,-,-
+142,12,Agility,8,psychic,-,-
+142,13,Agility,8,psychic,-,-
+142,8,Roar,9,normal,-,-
+142,9,Roar,9,normal,-,-
+142,10,Roar,9,normal,-,-
+142,11,Roar,9,normal,-,-
+142,14,Roar,9,normal,-,-
+142,15,Roar,9,normal,-,-
+142,16,Roar,9,normal,-,-
+142,3,Bite,15,dark,60,100
+142,4,Bite,15,dark,60,100
+142,5,Bite,15,dark,60,100
+142,6,Bite,15,dark,60,100
+142,7,Bite,15,dark,60,100
+142,12,Bite,15,dark,60,100
+142,13,Bite,15,dark,60,100
+142,8,Agility,17,psychic,-,-
+142,9,Agility,17,psychic,-,-
+142,10,Agility,17,psychic,-,-
+142,11,Agility,17,psychic,-,-
+142,14,Agility,17,psychic,-,-
+142,15,Agility,17,psychic,-,-
+142,16,Agility,17,psychic,-,-
+142,3,Supersonic,22,normal,-,55
+142,4,Supersonic,22,normal,-,55
+142,5,Supersonic,22,normal,-,55
+142,6,Supersonic,22,normal,-,55
+142,7,Supersonic,22,normal,-,55
+142,12,Supersonic,22,normal,-,55
+142,13,Supersonic,22,normal,-,55
+142,8,Ancient Power,25,rock,60,100
+142,9,Ancient Power,25,rock,60,100
+142,10,Ancient Power,25,rock,60,100
+142,11,Ancient Power,25,rock,60,100
+142,14,Ancient Power,25,rock,60,100
+142,15,Ancient Power,25,rock,60,100
+142,16,Ancient Power,25,rock,60,100
+142,3,Ancient Power,29,rock,60,100
+142,4,Ancient Power,29,rock,60,100
+142,5,Ancient Power,29,rock,60,100
+142,6,Ancient Power,29,rock,60,100
+142,7,Ancient Power,29,rock,60,100
+142,12,Ancient Power,29,rock,60,100
+142,13,Ancient Power,29,rock,60,100
+142,1,Supersonic,33,normal,-,55
+142,2,Supersonic,33,normal,-,55
+142,8,Crunch,33,dark,80,100
+142,9,Crunch,33,dark,80,100
+142,10,Crunch,33,dark,80,100
+142,11,Crunch,33,dark,80,100
+142,14,Crunch,33,dark,80,100
+142,15,Crunch,33,dark,80,100
+142,16,Crunch,33,dark,80,100
+142,3,Scary Face,36,normal,-,100
+142,4,Scary Face,36,normal,-,100
+142,5,Scary Face,36,normal,-,100
+142,6,Scary Face,36,normal,-,100
+142,7,Scary Face,36,normal,-,100
+142,12,Scary Face,36,normal,-,100
+142,13,Scary Face,36,normal,-,100
+142,1,Bite,38,dark,60,100
+142,2,Bite,38,dark,60,100
+142,8,Take Down,41,normal,90,85
+142,9,Take Down,41,normal,90,85
+142,10,Take Down,41,normal,90,85
+142,11,Take Down,41,normal,90,85
+142,14,Take Down,41,normal,90,85
+142,15,Take Down,41,normal,90,85
+142,16,Take Down,41,normal,90,85
+142,3,Take Down,43,normal,90,85
+142,4,Take Down,43,normal,90,85
+142,5,Take Down,43,normal,90,85
+142,6,Take Down,43,normal,90,85
+142,7,Take Down,43,normal,90,85
+142,12,Take Down,43,normal,90,85
+142,13,Take Down,43,normal,90,85
+142,1,Take Down,45,normal,90,85
+142,2,Take Down,45,normal,90,85
+142,8,Iron Head,49,steel,80,100
+142,9,Iron Head,49,steel,80,100
+142,10,Iron Head,49,steel,80,100
+142,11,Sky Drop,49,flying,60,100
+142,14,Sky Drop,49,flying,60,100
+142,15,Sky Drop,49,flying,60,100
+142,16,Sky Drop,49,flying,60,100
+142,3,Hyper Beam,50,normal,150,90
+142,4,Hyper Beam,50,normal,150,90
+142,5,Hyper Beam,50,normal,150,90
+142,6,Hyper Beam,50,normal,150,90
+142,7,Hyper Beam,50,normal,150,90
+142,12,Hyper Beam,50,normal,150,90
+142,13,Hyper Beam,50,normal,150,90
+142,1,Hyper Beam,54,normal,150,90
+142,2,Hyper Beam,54,normal,150,90
+142,8,Hyper Beam,57,normal,150,90
+142,9,Hyper Beam,57,normal,150,90
+142,10,Hyper Beam,57,normal,150,90
+142,11,Iron Head,57,steel,80,100
+142,14,Iron Head,57,steel,80,100
+142,15,Iron Head,57,steel,80,100
+142,16,Iron Head,57,steel,80,100
+142,8,Rock Slide,65,rock,75,90
+142,9,Rock Slide,65,rock,75,90
+142,10,Rock Slide,65,rock,75,90
+142,11,Hyper Beam,65,normal,150,90
+142,14,Hyper Beam,65,normal,150,90
+142,15,Hyper Beam,65,normal,150,90
+142,16,Hyper Beam,65,normal,150,90
+142,8,Giga Impact,73,normal,150,90
+142,9,Giga Impact,73,normal,150,90
+142,10,Giga Impact,73,normal,150,90
+142,11,Rock Slide,73,rock,75,90
+142,14,Rock Slide,73,rock,75,90
+142,15,Rock Slide,73,rock,75,90
+142,16,Rock Slide,73,rock,75,90
+142,11,Giga Impact,81,normal,150,90
+142,14,Giga Impact,81,normal,150,90
+142,15,Giga Impact,81,normal,150,90
+142,16,Giga Impact,81,normal,150,90

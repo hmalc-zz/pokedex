@@ -1,197 +1,197 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-136,flareon,1,28,Sand Attack,1,1,2
-136,flareon,1,33,Tackle,1,1,1
-136,flareon,1,39,Tail Whip,1,37,
-136,flareon,1,43,Leer,1,42,
-136,flareon,1,44,Bite,1,40,
-136,flareon,1,52,Ember,1,1,4
-136,flareon,1,52,Ember,1,31,
-136,flareon,1,53,Flamethrower,1,54,
-136,flareon,1,83,Fire Spin,1,44,
-136,flareon,1,98,Quick Attack,1,1,3
-136,flareon,1,98,Quick Attack,1,27,
-136,flareon,1,99,Rage,1,48,
-136,flareon,2,28,Sand Attack,1,8,
-136,flareon,2,33,Tackle,1,1,1
-136,flareon,2,39,Tail Whip,1,1,2
-136,flareon,2,43,Leer,1,47,
-136,flareon,2,44,Bite,1,30,
-136,flareon,2,52,Ember,1,1,4
-136,flareon,2,52,Ember,1,16,
-136,flareon,2,53,Flamethrower,1,52,
-136,flareon,2,83,Fire Spin,1,36,
-136,flareon,2,98,Quick Attack,1,1,3
-136,flareon,2,98,Quick Attack,1,23,
-136,flareon,2,123,Smog,1,42,
-136,flareon,3,28,Sand Attack,1,8,
-136,flareon,3,33,Tackle,1,1,1
-136,flareon,3,39,Tail Whip,1,1,2
-136,flareon,3,43,Leer,1,47,
-136,flareon,3,44,Bite,1,30,
-136,flareon,3,52,Ember,1,16,
-136,flareon,3,53,Flamethrower,1,52,
-136,flareon,3,83,Fire Spin,1,36,
-136,flareon,3,98,Quick Attack,1,23,
-136,flareon,3,123,Smog,1,42,
-136,flareon,4,28,Sand Attack,1,8,
-136,flareon,4,33,Tackle,1,1,1
-136,flareon,4,39,Tail Whip,1,1,2
-136,flareon,4,43,Leer,1,47,
-136,flareon,4,44,Bite,1,30,
-136,flareon,4,52,Ember,1,16,
-136,flareon,4,53,Flamethrower,1,52,
-136,flareon,4,83,Fire Spin,1,36,
-136,flareon,4,98,Quick Attack,1,23,
-136,flareon,4,123,Smog,1,42,
-136,flareon,5,28,Sand Attack,1,8,
-136,flareon,5,33,Tackle,1,1,1
-136,flareon,5,39,Tail Whip,1,1,2
-136,flareon,5,43,Leer,1,47,
-136,flareon,5,44,Bite,1,30,
-136,flareon,5,52,Ember,1,16,
-136,flareon,5,53,Flamethrower,1,52,
-136,flareon,5,83,Fire Spin,1,36,
-136,flareon,5,98,Quick Attack,1,23,
-136,flareon,5,123,Smog,1,42,
-136,flareon,5,270,Helping Hand,1,1,3
-136,flareon,6,28,Sand Attack,1,8,
-136,flareon,6,33,Tackle,1,1,1
-136,flareon,6,39,Tail Whip,1,1,2
-136,flareon,6,43,Leer,1,47,
-136,flareon,6,44,Bite,1,30,
-136,flareon,6,52,Ember,1,16,
-136,flareon,6,53,Flamethrower,1,52,
-136,flareon,6,83,Fire Spin,1,36,
-136,flareon,6,98,Quick Attack,1,23,
-136,flareon,6,123,Smog,1,42,
-136,flareon,6,270,Helping Hand,1,1,3
-136,flareon,7,28,Sand Attack,1,8,
-136,flareon,7,33,Tackle,1,1,1
-136,flareon,7,39,Tail Whip,1,1,2
-136,flareon,7,43,Leer,1,47,
-136,flareon,7,44,Bite,1,30,
-136,flareon,7,52,Ember,1,16,
-136,flareon,7,53,Flamethrower,1,52,
-136,flareon,7,83,Fire Spin,1,36,
-136,flareon,7,98,Quick Attack,1,23,
-136,flareon,7,123,Smog,1,42,
-136,flareon,7,270,Helping Hand,1,1,3
-136,flareon,8,28,Sand Attack,1,8,
-136,flareon,8,33,Tackle,1,1,1
-136,flareon,8,39,Tail Whip,1,1,2
-136,flareon,8,44,Bite,1,29,
-136,flareon,8,52,Ember,1,15,
-136,flareon,8,83,Fire Spin,1,36,
-136,flareon,8,98,Quick Attack,1,22,
-136,flareon,8,123,Smog,1,57,
-136,flareon,8,126,Fire Blast,1,71,
-136,flareon,8,184,Scary Face,1,64,
-136,flareon,8,270,Helping Hand,1,1,3
-136,flareon,8,387,Last Resort,1,50,
-136,flareon,8,424,Fire Fang,1,43,
-136,flareon,9,28,Sand Attack,1,8,
-136,flareon,9,33,Tackle,1,1,2
-136,flareon,9,39,Tail Whip,1,1,1
-136,flareon,9,44,Bite,1,29,
-136,flareon,9,52,Ember,1,15,
-136,flareon,9,83,Fire Spin,1,36,
-136,flareon,9,98,Quick Attack,1,22,
-136,flareon,9,123,Smog,1,57,
-136,flareon,9,126,Fire Blast,1,71,
-136,flareon,9,184,Scary Face,1,64,
-136,flareon,9,270,Helping Hand,1,1,3
-136,flareon,9,387,Last Resort,1,50,
-136,flareon,9,424,Fire Fang,1,43,
-136,flareon,9,436,Lava Plume,1,78,
-136,flareon,10,28,Sand Attack,1,8,
-136,flareon,10,33,Tackle,1,1,2
-136,flareon,10,39,Tail Whip,1,1,1
-136,flareon,10,44,Bite,1,29,
-136,flareon,10,52,Ember,1,15,
-136,flareon,10,83,Fire Spin,1,36,
-136,flareon,10,98,Quick Attack,1,22,
-136,flareon,10,123,Smog,1,57,
-136,flareon,10,126,Fire Blast,1,71,
-136,flareon,10,184,Scary Face,1,64,
-136,flareon,10,270,Helping Hand,1,1,3
-136,flareon,10,387,Last Resort,1,50,
-136,flareon,10,424,Fire Fang,1,43,
-136,flareon,10,436,Lava Plume,1,78,
-136,flareon,11,28,Sand Attack,1,8,
-136,flareon,11,33,Tackle,1,1,2
-136,flareon,11,39,Tail Whip,1,1,1
-136,flareon,11,44,Bite,1,29,
-136,flareon,11,52,Ember,1,15,
-136,flareon,11,83,Fire Spin,1,36,
-136,flareon,11,98,Quick Attack,1,22,
-136,flareon,11,123,Smog,1,57,
-136,flareon,11,126,Fire Blast,1,71,
-136,flareon,11,184,Scary Face,1,64,
-136,flareon,11,270,Helping Hand,1,1,3
-136,flareon,11,387,Last Resort,1,50,
-136,flareon,11,424,Fire Fang,1,43,
-136,flareon,11,436,Lava Plume,1,78,
-136,flareon,12,28,Sand Attack,1,8,
-136,flareon,12,33,Tackle,1,1,1
-136,flareon,12,39,Tail Whip,1,1,2
-136,flareon,12,43,Leer,1,47,
-136,flareon,12,44,Bite,1,30,
-136,flareon,12,52,Ember,1,16,
-136,flareon,12,53,Flamethrower,1,52,
-136,flareon,12,83,Fire Spin,1,36,
-136,flareon,12,98,Quick Attack,1,23,
-136,flareon,12,123,Smog,1,42,
-136,flareon,12,270,Helping Hand,1,1,3
-136,flareon,13,28,Sand Attack,1,8,
-136,flareon,13,33,Tackle,1,1,1
-136,flareon,13,39,Tail Whip,1,1,2
-136,flareon,13,43,Leer,1,47,
-136,flareon,13,44,Bite,1,30,
-136,flareon,13,52,Ember,1,16,
-136,flareon,13,53,Flamethrower,1,52,
-136,flareon,13,83,Fire Spin,1,36,
-136,flareon,13,98,Quick Attack,1,23,
-136,flareon,13,123,Smog,1,42,
-136,flareon,13,270,Helping Hand,1,1,3
-136,flareon,14,28,Sand Attack,1,5,
-136,flareon,14,33,Tackle,1,1,2
-136,flareon,14,39,Tail Whip,1,1,3
-136,flareon,14,44,Bite,1,17,
-136,flareon,14,52,Ember,1,9,
-136,flareon,14,83,Fire Spin,1,25,
-136,flareon,14,98,Quick Attack,1,13,
-136,flareon,14,123,Smog,1,33,
-136,flareon,14,126,Fire Blast,1,45,
-136,flareon,14,184,Scary Face,1,29,
-136,flareon,14,270,Helping Hand,1,1,1
-136,flareon,14,387,Last Resort,1,41,
-136,flareon,14,424,Fire Fang,1,21,
-136,flareon,14,436,Lava Plume,1,37,
-136,flareon,15,28,Sand Attack,1,5,
-136,flareon,15,33,Tackle,1,1,2
-136,flareon,15,39,Tail Whip,1,1,3
-136,flareon,15,44,Bite,1,17,
-136,flareon,15,52,Ember,1,9,
-136,flareon,15,83,Fire Spin,1,25,
-136,flareon,15,98,Quick Attack,1,13,
-136,flareon,15,123,Smog,1,33,
-136,flareon,15,184,Scary Face,1,29,
-136,flareon,15,270,Helping Hand,1,1,1
-136,flareon,15,387,Last Resort,1,41,
-136,flareon,15,394,Flare Blitz,1,45,
-136,flareon,15,424,Fire Fang,1,20,
-136,flareon,15,436,Lava Plume,1,37,
-136,flareon,16,28,Sand Attack,1,5,1
-136,flareon,16,33,Tackle,1,1,2
-136,flareon,16,39,Tail Whip,1,1,3
-136,flareon,16,44,Bite,1,17,1
-136,flareon,16,52,Ember,1,9,1
-136,flareon,16,83,Fire Spin,1,25,1
-136,flareon,16,98,Quick Attack,1,13,1
-136,flareon,16,123,Smog,1,33,1
-136,flareon,16,184,Scary Face,1,29,1
-136,flareon,16,270,Helping Hand,1,1,1
-136,flareon,16,387,Last Resort,1,41,1
-136,flareon,16,394,Flare Blitz,1,45,1
-136,flareon,16,424,Fire Fang,1,20,1
-136,flareon,16,436,Lava Plume,1,37,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+136,1,Sand Attack,1,ground,-,100
+136,1,Tackle,1,normal,50,100
+136,1,Ember,1,fire,40,100
+136,1,Quick Attack,1,normal,40,100
+136,2,Tackle,1,normal,50,100
+136,2,Tail Whip,1,normal,-,100
+136,2,Ember,1,fire,40,100
+136,2,Quick Attack,1,normal,40,100
+136,3,Tackle,1,normal,50,100
+136,3,Tail Whip,1,normal,-,100
+136,4,Tackle,1,normal,50,100
+136,4,Tail Whip,1,normal,-,100
+136,5,Tackle,1,normal,50,100
+136,5,Tail Whip,1,normal,-,100
+136,5,Helping Hand,1,normal,-,-
+136,6,Tackle,1,normal,50,100
+136,6,Tail Whip,1,normal,-,100
+136,6,Helping Hand,1,normal,-,-
+136,7,Tackle,1,normal,50,100
+136,7,Tail Whip,1,normal,-,100
+136,7,Helping Hand,1,normal,-,-
+136,8,Tackle,1,normal,50,100
+136,8,Tail Whip,1,normal,-,100
+136,8,Helping Hand,1,normal,-,-
+136,9,Tackle,1,normal,50,100
+136,9,Tail Whip,1,normal,-,100
+136,9,Helping Hand,1,normal,-,-
+136,10,Tackle,1,normal,50,100
+136,10,Tail Whip,1,normal,-,100
+136,10,Helping Hand,1,normal,-,-
+136,11,Tackle,1,normal,50,100
+136,11,Tail Whip,1,normal,-,100
+136,11,Helping Hand,1,normal,-,-
+136,12,Tackle,1,normal,50,100
+136,12,Tail Whip,1,normal,-,100
+136,12,Helping Hand,1,normal,-,-
+136,13,Tackle,1,normal,50,100
+136,13,Tail Whip,1,normal,-,100
+136,13,Helping Hand,1,normal,-,-
+136,14,Tackle,1,normal,50,100
+136,14,Tail Whip,1,normal,-,100
+136,14,Helping Hand,1,normal,-,-
+136,15,Tackle,1,normal,50,100
+136,15,Tail Whip,1,normal,-,100
+136,15,Helping Hand,1,normal,-,-
+136,16,Tackle,1,normal,50,100
+136,16,Tail Whip,1,normal,-,100
+136,16,Helping Hand,1,normal,-,-
+136,14,Sand Attack,5,ground,-,100
+136,15,Sand Attack,5,ground,-,100
+136,16,Sand Attack,5,ground,-,100
+136,2,Sand Attack,8,ground,-,100
+136,3,Sand Attack,8,ground,-,100
+136,4,Sand Attack,8,ground,-,100
+136,5,Sand Attack,8,ground,-,100
+136,6,Sand Attack,8,ground,-,100
+136,7,Sand Attack,8,ground,-,100
+136,8,Sand Attack,8,ground,-,100
+136,9,Sand Attack,8,ground,-,100
+136,10,Sand Attack,8,ground,-,100
+136,11,Sand Attack,8,ground,-,100
+136,12,Sand Attack,8,ground,-,100
+136,13,Sand Attack,8,ground,-,100
+136,14,Ember,9,fire,40,100
+136,15,Ember,9,fire,40,100
+136,16,Ember,9,fire,40,100
+136,14,Quick Attack,13,normal,40,100
+136,15,Quick Attack,13,normal,40,100
+136,16,Quick Attack,13,normal,40,100
+136,8,Ember,15,fire,40,100
+136,9,Ember,15,fire,40,100
+136,10,Ember,15,fire,40,100
+136,11,Ember,15,fire,40,100
+136,2,Ember,16,fire,40,100
+136,3,Ember,16,fire,40,100
+136,4,Ember,16,fire,40,100
+136,5,Ember,16,fire,40,100
+136,6,Ember,16,fire,40,100
+136,7,Ember,16,fire,40,100
+136,12,Ember,16,fire,40,100
+136,13,Ember,16,fire,40,100
+136,14,Bite,17,dark,60,100
+136,15,Bite,17,dark,60,100
+136,16,Bite,17,dark,60,100
+136,15,Fire Fang,20,fire,65,95
+136,16,Fire Fang,20,fire,65,95
+136,14,Fire Fang,21,fire,65,95
+136,8,Quick Attack,22,normal,40,100
+136,9,Quick Attack,22,normal,40,100
+136,10,Quick Attack,22,normal,40,100
+136,11,Quick Attack,22,normal,40,100
+136,2,Quick Attack,23,normal,40,100
+136,3,Quick Attack,23,normal,40,100
+136,4,Quick Attack,23,normal,40,100
+136,5,Quick Attack,23,normal,40,100
+136,6,Quick Attack,23,normal,40,100
+136,7,Quick Attack,23,normal,40,100
+136,12,Quick Attack,23,normal,40,100
+136,13,Quick Attack,23,normal,40,100
+136,14,Fire Spin,25,fire,35,85
+136,15,Fire Spin,25,fire,35,85
+136,16,Fire Spin,25,fire,35,85
+136,1,Quick Attack,27,normal,40,100
+136,8,Bite,29,dark,60,100
+136,9,Bite,29,dark,60,100
+136,10,Bite,29,dark,60,100
+136,11,Bite,29,dark,60,100
+136,14,Scary Face,29,normal,-,100
+136,15,Scary Face,29,normal,-,100
+136,16,Scary Face,29,normal,-,100
+136,2,Bite,30,dark,60,100
+136,3,Bite,30,dark,60,100
+136,4,Bite,30,dark,60,100
+136,5,Bite,30,dark,60,100
+136,6,Bite,30,dark,60,100
+136,7,Bite,30,dark,60,100
+136,12,Bite,30,dark,60,100
+136,13,Bite,30,dark,60,100
+136,1,Ember,31,fire,40,100
+136,14,Smog,33,poison,30,70
+136,15,Smog,33,poison,30,70
+136,16,Smog,33,poison,30,70
+136,2,Fire Spin,36,fire,35,85
+136,3,Fire Spin,36,fire,35,85
+136,4,Fire Spin,36,fire,35,85
+136,5,Fire Spin,36,fire,35,85
+136,6,Fire Spin,36,fire,35,85
+136,7,Fire Spin,36,fire,35,85
+136,8,Fire Spin,36,fire,35,85
+136,9,Fire Spin,36,fire,35,85
+136,10,Fire Spin,36,fire,35,85
+136,11,Fire Spin,36,fire,35,85
+136,12,Fire Spin,36,fire,35,85
+136,13,Fire Spin,36,fire,35,85
+136,1,Tail Whip,37,normal,-,100
+136,14,Lava Plume,37,fire,80,100
+136,15,Lava Plume,37,fire,80,100
+136,16,Lava Plume,37,fire,80,100
+136,1,Bite,40,dark,60,100
+136,14,Last Resort,41,normal,140,100
+136,15,Last Resort,41,normal,140,100
+136,16,Last Resort,41,normal,140,100
+136,1,Leer,42,normal,-,100
+136,2,Smog,42,poison,30,70
+136,3,Smog,42,poison,30,70
+136,4,Smog,42,poison,30,70
+136,5,Smog,42,poison,30,70
+136,6,Smog,42,poison,30,70
+136,7,Smog,42,poison,30,70
+136,12,Smog,42,poison,30,70
+136,13,Smog,42,poison,30,70
+136,8,Fire Fang,43,fire,65,95
+136,9,Fire Fang,43,fire,65,95
+136,10,Fire Fang,43,fire,65,95
+136,11,Fire Fang,43,fire,65,95
+136,1,Fire Spin,44,fire,35,85
+136,14,Fire Blast,45,fire,110,85
+136,15,Flare Blitz,45,fire,120,100
+136,16,Flare Blitz,45,fire,120,100
+136,2,Leer,47,normal,-,100
+136,3,Leer,47,normal,-,100
+136,4,Leer,47,normal,-,100
+136,5,Leer,47,normal,-,100
+136,6,Leer,47,normal,-,100
+136,7,Leer,47,normal,-,100
+136,12,Leer,47,normal,-,100
+136,13,Leer,47,normal,-,100
+136,1,Rage,48,normal,20,100
+136,8,Last Resort,50,normal,140,100
+136,9,Last Resort,50,normal,140,100
+136,10,Last Resort,50,normal,140,100
+136,11,Last Resort,50,normal,140,100
+136,2,Flamethrower,52,fire,90,100
+136,3,Flamethrower,52,fire,90,100
+136,4,Flamethrower,52,fire,90,100
+136,5,Flamethrower,52,fire,90,100
+136,6,Flamethrower,52,fire,90,100
+136,7,Flamethrower,52,fire,90,100
+136,12,Flamethrower,52,fire,90,100
+136,13,Flamethrower,52,fire,90,100
+136,1,Flamethrower,54,fire,90,100
+136,8,Smog,57,poison,30,70
+136,9,Smog,57,poison,30,70
+136,10,Smog,57,poison,30,70
+136,11,Smog,57,poison,30,70
+136,8,Scary Face,64,normal,-,100
+136,9,Scary Face,64,normal,-,100
+136,10,Scary Face,64,normal,-,100
+136,11,Scary Face,64,normal,-,100
+136,8,Fire Blast,71,fire,110,85
+136,9,Fire Blast,71,fire,110,85
+136,10,Fire Blast,71,fire,110,85
+136,11,Fire Blast,71,fire,110,85
+136,9,Lava Plume,78,fire,80,100
+136,10,Lava Plume,78,fire,80,100
+136,11,Lava Plume,78,fire,80,100

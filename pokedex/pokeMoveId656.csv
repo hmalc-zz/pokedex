@@ -1,29 +1,29 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-656,froakie,15,1,Pound,1,1,1
-656,froakie,15,45,Growl,1,1,2
-656,froakie,15,56,Hydro Pump,1,48,
-656,froakie,15,98,Quick Attack,1,8,
-656,froakie,15,104,Double Team,1,43,
-656,froakie,15,108,Smokescreen,1,18,
-656,froakie,15,122,Lick,1,10,
-656,froakie,15,145,Bubble,1,5,
-656,froakie,15,164,Substitute,1,35,
-656,froakie,15,340,Bounce,1,39,
-656,froakie,15,352,Water Pulse,1,14,
-656,froakie,15,374,Fling,1,25,
-656,froakie,15,479,Smack Down,1,29,
-656,froakie,15,496,Round,1,21,
-656,froakie,16,1,Pound,1,1,1
-656,froakie,16,45,Growl,1,1,2
-656,froakie,16,56,Hydro Pump,1,48,1
-656,froakie,16,98,Quick Attack,1,8,1
-656,froakie,16,104,Double Team,1,43,1
-656,froakie,16,108,Smokescreen,1,18,1
-656,froakie,16,122,Lick,1,10,1
-656,froakie,16,145,Bubble,1,5,1
-656,froakie,16,164,Substitute,1,35,1
-656,froakie,16,340,Bounce,1,39,1
-656,froakie,16,352,Water Pulse,1,14,1
-656,froakie,16,374,Fling,1,25,1
-656,froakie,16,479,Smack Down,1,29,1
-656,froakie,16,496,Round,1,21,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+656,15,Pound,1,normal,40,100
+656,15,Growl,1,normal,-,100
+656,16,Pound,1,normal,40,100
+656,16,Growl,1,normal,-,100
+656,15,Bubble,5,water,40,100
+656,16,Bubble,5,water,40,100
+656,15,Quick Attack,8,normal,40,100
+656,16,Quick Attack,8,normal,40,100
+656,15,Lick,10,ghost,30,100
+656,16,Lick,10,ghost,30,100
+656,15,Water Pulse,14,water,60,100
+656,16,Water Pulse,14,water,60,100
+656,15,Smokescreen,18,normal,-,100
+656,16,Smokescreen,18,normal,-,100
+656,15,Round,21,normal,60,100
+656,16,Round,21,normal,60,100
+656,15,Fling,25,dark,-,100
+656,16,Fling,25,dark,-,100
+656,15,Smack Down,29,rock,50,100
+656,16,Smack Down,29,rock,50,100
+656,15,Substitute,35,normal,-,-
+656,16,Substitute,35,normal,-,-
+656,15,Bounce,39,flying,85,85
+656,16,Bounce,39,flying,85,85
+656,15,Double Team,43,normal,-,-
+656,16,Double Team,43,normal,-,-
+656,15,Hydro Pump,48,water,110,80
+656,16,Hydro Pump,48,water,110,80

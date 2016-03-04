@@ -1,174 +1,174 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-209,snubbull,3,33,Tackle,1,1,1
-209,snubbull,3,36,Take Down,1,43,
-209,snubbull,3,39,Tail Whip,1,4,
-209,snubbull,3,44,Bite,1,13,
-209,snubbull,3,46,Roar,1,26,
-209,snubbull,3,99,Rage,1,34,
-209,snubbull,3,122,Lick,1,19,
-209,snubbull,3,184,Scary Face,1,1,2
-209,snubbull,3,204,Charm,1,8,
-209,snubbull,4,33,Tackle,1,1,1
-209,snubbull,4,36,Take Down,1,43,
-209,snubbull,4,39,Tail Whip,1,4,
-209,snubbull,4,44,Bite,1,13,
-209,snubbull,4,46,Roar,1,26,
-209,snubbull,4,99,Rage,1,34,
-209,snubbull,4,122,Lick,1,19,
-209,snubbull,4,184,Scary Face,1,1,2
-209,snubbull,4,204,Charm,1,8,
-209,snubbull,5,33,Tackle,1,1,1
-209,snubbull,5,36,Take Down,1,43,
-209,snubbull,5,39,Tail Whip,1,4,
-209,snubbull,5,44,Bite,1,13,
-209,snubbull,5,46,Roar,1,26,
-209,snubbull,5,99,Rage,1,34,
-209,snubbull,5,122,Lick,1,19,
-209,snubbull,5,184,Scary Face,1,1,2
-209,snubbull,5,204,Charm,1,8,
-209,snubbull,5,242,Crunch,1,53,
-209,snubbull,6,33,Tackle,1,1,1
-209,snubbull,6,36,Take Down,1,43,
-209,snubbull,6,39,Tail Whip,1,4,
-209,snubbull,6,44,Bite,1,13,
-209,snubbull,6,46,Roar,1,26,
-209,snubbull,6,99,Rage,1,34,
-209,snubbull,6,122,Lick,1,19,
-209,snubbull,6,184,Scary Face,1,1,2
-209,snubbull,6,204,Charm,1,8,
-209,snubbull,6,242,Crunch,1,53,
-209,snubbull,7,33,Tackle,1,1,1
-209,snubbull,7,36,Take Down,1,43,
-209,snubbull,7,39,Tail Whip,1,4,
-209,snubbull,7,44,Bite,1,13,
-209,snubbull,7,46,Roar,1,26,
-209,snubbull,7,99,Rage,1,34,
-209,snubbull,7,122,Lick,1,19,
-209,snubbull,7,184,Scary Face,1,1,2
-209,snubbull,7,204,Charm,1,8,
-209,snubbull,7,242,Crunch,1,53,
-209,snubbull,8,29,Headbutt,1,19,
-209,snubbull,8,33,Tackle,1,1,4
-209,snubbull,8,36,Take Down,1,37,
-209,snubbull,8,39,Tail Whip,1,1,6
-209,snubbull,8,44,Bite,1,7,
-209,snubbull,8,46,Roar,1,25,
-209,snubbull,8,99,Rage,1,31,
-209,snubbull,8,122,Lick,1,13,
-209,snubbull,8,184,Scary Face,1,1,5
-209,snubbull,8,204,Charm,1,1,7
-209,snubbull,8,242,Crunch,1,49,
-209,snubbull,8,371,Payback,1,43,
-209,snubbull,8,422,Thunder Fang,1,1,3
-209,snubbull,8,423,Ice Fang,1,1,1
-209,snubbull,8,424,Fire Fang,1,1,2
-209,snubbull,9,29,Headbutt,1,19,
-209,snubbull,9,33,Tackle,1,1,4
-209,snubbull,9,36,Take Down,1,37,
-209,snubbull,9,39,Tail Whip,1,1,6
-209,snubbull,9,44,Bite,1,7,
-209,snubbull,9,46,Roar,1,25,
-209,snubbull,9,99,Rage,1,31,
-209,snubbull,9,122,Lick,1,13,
-209,snubbull,9,184,Scary Face,1,1,5
-209,snubbull,9,204,Charm,1,1,7
-209,snubbull,9,242,Crunch,1,49,
-209,snubbull,9,371,Payback,1,43,
-209,snubbull,9,422,Thunder Fang,1,1,3
-209,snubbull,9,423,Ice Fang,1,1,1
-209,snubbull,9,424,Fire Fang,1,1,2
-209,snubbull,10,29,Headbutt,1,19,
-209,snubbull,10,33,Tackle,1,1,4
-209,snubbull,10,36,Take Down,1,37,
-209,snubbull,10,39,Tail Whip,1,1,6
-209,snubbull,10,44,Bite,1,7,
-209,snubbull,10,46,Roar,1,25,
-209,snubbull,10,99,Rage,1,31,
-209,snubbull,10,122,Lick,1,13,
-209,snubbull,10,184,Scary Face,1,1,5
-209,snubbull,10,204,Charm,1,1,7
-209,snubbull,10,242,Crunch,1,49,
-209,snubbull,10,371,Payback,1,43,
-209,snubbull,10,422,Thunder Fang,1,1,3
-209,snubbull,10,423,Ice Fang,1,1,1
-209,snubbull,10,424,Fire Fang,1,1,2
-209,snubbull,11,29,Headbutt,1,19,
-209,snubbull,11,33,Tackle,1,1,4
-209,snubbull,11,36,Take Down,1,37,
-209,snubbull,11,39,Tail Whip,1,1,6
-209,snubbull,11,44,Bite,1,7,
-209,snubbull,11,46,Roar,1,25,
-209,snubbull,11,99,Rage,1,31,
-209,snubbull,11,122,Lick,1,13,
-209,snubbull,11,184,Scary Face,1,1,5
-209,snubbull,11,204,Charm,1,1,7
-209,snubbull,11,242,Crunch,1,49,
-209,snubbull,11,371,Payback,1,43,
-209,snubbull,11,422,Thunder Fang,1,1,3
-209,snubbull,11,423,Ice Fang,1,1,1
-209,snubbull,11,424,Fire Fang,1,1,2
-209,snubbull,12,33,Tackle,1,1,1
-209,snubbull,12,36,Take Down,1,43,
-209,snubbull,12,39,Tail Whip,1,4,
-209,snubbull,12,44,Bite,1,13,
-209,snubbull,12,46,Roar,1,26,
-209,snubbull,12,99,Rage,1,34,
-209,snubbull,12,122,Lick,1,19,
-209,snubbull,12,184,Scary Face,1,1,2
-209,snubbull,12,204,Charm,1,8,
-209,snubbull,12,242,Crunch,1,53,
-209,snubbull,13,33,Tackle,1,1,1
-209,snubbull,13,36,Take Down,1,43,
-209,snubbull,13,39,Tail Whip,1,4,
-209,snubbull,13,44,Bite,1,13,
-209,snubbull,13,46,Roar,1,26,
-209,snubbull,13,99,Rage,1,34,
-209,snubbull,13,122,Lick,1,19,
-209,snubbull,13,184,Scary Face,1,1,2
-209,snubbull,13,204,Charm,1,8,
-209,snubbull,13,242,Crunch,1,53,
-209,snubbull,14,29,Headbutt,1,19,
-209,snubbull,14,33,Tackle,1,1,4
-209,snubbull,14,36,Take Down,1,37,
-209,snubbull,14,39,Tail Whip,1,1,6
-209,snubbull,14,44,Bite,1,7,
-209,snubbull,14,46,Roar,1,25,
-209,snubbull,14,99,Rage,1,31,
-209,snubbull,14,122,Lick,1,13,
-209,snubbull,14,184,Scary Face,1,1,5
-209,snubbull,14,204,Charm,1,1,7
-209,snubbull,14,242,Crunch,1,49,
-209,snubbull,14,371,Payback,1,43,
-209,snubbull,14,422,Thunder Fang,1,1,3
-209,snubbull,14,423,Ice Fang,1,1,1
-209,snubbull,14,424,Fire Fang,1,1,2
-209,snubbull,15,29,Headbutt,1,19,
-209,snubbull,15,33,Tackle,1,1,4
-209,snubbull,15,39,Tail Whip,1,1,6
-209,snubbull,15,44,Bite,1,7,
-209,snubbull,15,46,Roar,1,25,
-209,snubbull,15,99,Rage,1,31,
-209,snubbull,15,122,Lick,1,13,
-209,snubbull,15,184,Scary Face,1,1,5
-209,snubbull,15,204,Charm,1,1,7
-209,snubbull,15,242,Crunch,1,49,
-209,snubbull,15,371,Payback,1,43,
-209,snubbull,15,422,Thunder Fang,1,1,3
-209,snubbull,15,423,Ice Fang,1,1,1
-209,snubbull,15,424,Fire Fang,1,1,2
-209,snubbull,15,583,Play Rough,1,37,
-209,snubbull,16,29,Headbutt,1,19,1
-209,snubbull,16,33,Tackle,1,1,4
-209,snubbull,16,39,Tail Whip,1,1,6
-209,snubbull,16,44,Bite,1,7,1
-209,snubbull,16,46,Roar,1,25,1
-209,snubbull,16,99,Rage,1,31,1
-209,snubbull,16,122,Lick,1,13,1
-209,snubbull,16,184,Scary Face,1,1,5
-209,snubbull,16,204,Charm,1,1,7
-209,snubbull,16,242,Crunch,1,49,1
-209,snubbull,16,371,Payback,1,43,1
-209,snubbull,16,422,Thunder Fang,1,1,3
-209,snubbull,16,423,Ice Fang,1,1,1
-209,snubbull,16,424,Fire Fang,1,1,2
-209,snubbull,16,583,Play Rough,1,37,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+209,3,Tackle,1,normal,50,100
+209,3,Scary Face,1,normal,-,100
+209,4,Tackle,1,normal,50,100
+209,4,Scary Face,1,normal,-,100
+209,5,Tackle,1,normal,50,100
+209,5,Scary Face,1,normal,-,100
+209,6,Tackle,1,normal,50,100
+209,6,Scary Face,1,normal,-,100
+209,7,Tackle,1,normal,50,100
+209,7,Scary Face,1,normal,-,100
+209,8,Tackle,1,normal,50,100
+209,8,Tail Whip,1,normal,-,100
+209,8,Scary Face,1,normal,-,100
+209,8,Charm,1,fairy,-,100
+209,8,Thunder Fang,1,electric,65,95
+209,8,Ice Fang,1,ice,65,95
+209,8,Fire Fang,1,fire,65,95
+209,9,Tackle,1,normal,50,100
+209,9,Tail Whip,1,normal,-,100
+209,9,Scary Face,1,normal,-,100
+209,9,Charm,1,fairy,-,100
+209,9,Thunder Fang,1,electric,65,95
+209,9,Ice Fang,1,ice,65,95
+209,9,Fire Fang,1,fire,65,95
+209,10,Tackle,1,normal,50,100
+209,10,Tail Whip,1,normal,-,100
+209,10,Scary Face,1,normal,-,100
+209,10,Charm,1,fairy,-,100
+209,10,Thunder Fang,1,electric,65,95
+209,10,Ice Fang,1,ice,65,95
+209,10,Fire Fang,1,fire,65,95
+209,11,Tackle,1,normal,50,100
+209,11,Tail Whip,1,normal,-,100
+209,11,Scary Face,1,normal,-,100
+209,11,Charm,1,fairy,-,100
+209,11,Thunder Fang,1,electric,65,95
+209,11,Ice Fang,1,ice,65,95
+209,11,Fire Fang,1,fire,65,95
+209,12,Tackle,1,normal,50,100
+209,12,Scary Face,1,normal,-,100
+209,13,Tackle,1,normal,50,100
+209,13,Scary Face,1,normal,-,100
+209,14,Tackle,1,normal,50,100
+209,14,Tail Whip,1,normal,-,100
+209,14,Scary Face,1,normal,-,100
+209,14,Charm,1,fairy,-,100
+209,14,Thunder Fang,1,electric,65,95
+209,14,Ice Fang,1,ice,65,95
+209,14,Fire Fang,1,fire,65,95
+209,15,Tackle,1,normal,50,100
+209,15,Tail Whip,1,normal,-,100
+209,15,Scary Face,1,normal,-,100
+209,15,Charm,1,fairy,-,100
+209,15,Thunder Fang,1,electric,65,95
+209,15,Ice Fang,1,ice,65,95
+209,15,Fire Fang,1,fire,65,95
+209,16,Tackle,1,normal,50,100
+209,16,Tail Whip,1,normal,-,100
+209,16,Scary Face,1,normal,-,100
+209,16,Charm,1,fairy,-,100
+209,16,Thunder Fang,1,electric,65,95
+209,16,Ice Fang,1,ice,65,95
+209,16,Fire Fang,1,fire,65,95
+209,3,Tail Whip,4,normal,-,100
+209,4,Tail Whip,4,normal,-,100
+209,5,Tail Whip,4,normal,-,100
+209,6,Tail Whip,4,normal,-,100
+209,7,Tail Whip,4,normal,-,100
+209,12,Tail Whip,4,normal,-,100
+209,13,Tail Whip,4,normal,-,100
+209,8,Bite,7,dark,60,100
+209,9,Bite,7,dark,60,100
+209,10,Bite,7,dark,60,100
+209,11,Bite,7,dark,60,100
+209,14,Bite,7,dark,60,100
+209,15,Bite,7,dark,60,100
+209,16,Bite,7,dark,60,100
+209,3,Charm,8,fairy,-,100
+209,4,Charm,8,fairy,-,100
+209,5,Charm,8,fairy,-,100
+209,6,Charm,8,fairy,-,100
+209,7,Charm,8,fairy,-,100
+209,12,Charm,8,fairy,-,100
+209,13,Charm,8,fairy,-,100
+209,3,Bite,13,dark,60,100
+209,4,Bite,13,dark,60,100
+209,5,Bite,13,dark,60,100
+209,6,Bite,13,dark,60,100
+209,7,Bite,13,dark,60,100
+209,8,Lick,13,ghost,30,100
+209,9,Lick,13,ghost,30,100
+209,10,Lick,13,ghost,30,100
+209,11,Lick,13,ghost,30,100
+209,12,Bite,13,dark,60,100
+209,13,Bite,13,dark,60,100
+209,14,Lick,13,ghost,30,100
+209,15,Lick,13,ghost,30,100
+209,16,Lick,13,ghost,30,100
+209,3,Lick,19,ghost,30,100
+209,4,Lick,19,ghost,30,100
+209,5,Lick,19,ghost,30,100
+209,6,Lick,19,ghost,30,100
+209,7,Lick,19,ghost,30,100
+209,8,Headbutt,19,normal,70,100
+209,9,Headbutt,19,normal,70,100
+209,10,Headbutt,19,normal,70,100
+209,11,Headbutt,19,normal,70,100
+209,12,Lick,19,ghost,30,100
+209,13,Lick,19,ghost,30,100
+209,14,Headbutt,19,normal,70,100
+209,15,Headbutt,19,normal,70,100
+209,16,Headbutt,19,normal,70,100
+209,8,Roar,25,normal,-,-
+209,9,Roar,25,normal,-,-
+209,10,Roar,25,normal,-,-
+209,11,Roar,25,normal,-,-
+209,14,Roar,25,normal,-,-
+209,15,Roar,25,normal,-,-
+209,16,Roar,25,normal,-,-
+209,3,Roar,26,normal,-,-
+209,4,Roar,26,normal,-,-
+209,5,Roar,26,normal,-,-
+209,6,Roar,26,normal,-,-
+209,7,Roar,26,normal,-,-
+209,12,Roar,26,normal,-,-
+209,13,Roar,26,normal,-,-
+209,8,Rage,31,normal,20,100
+209,9,Rage,31,normal,20,100
+209,10,Rage,31,normal,20,100
+209,11,Rage,31,normal,20,100
+209,14,Rage,31,normal,20,100
+209,15,Rage,31,normal,20,100
+209,16,Rage,31,normal,20,100
+209,3,Rage,34,normal,20,100
+209,4,Rage,34,normal,20,100
+209,5,Rage,34,normal,20,100
+209,6,Rage,34,normal,20,100
+209,7,Rage,34,normal,20,100
+209,12,Rage,34,normal,20,100
+209,13,Rage,34,normal,20,100
+209,8,Take Down,37,normal,90,85
+209,9,Take Down,37,normal,90,85
+209,10,Take Down,37,normal,90,85
+209,11,Take Down,37,normal,90,85
+209,14,Take Down,37,normal,90,85
+209,15,Play Rough,37,fairy,90,90
+209,16,Play Rough,37,fairy,90,90
+209,3,Take Down,43,normal,90,85
+209,4,Take Down,43,normal,90,85
+209,5,Take Down,43,normal,90,85
+209,6,Take Down,43,normal,90,85
+209,7,Take Down,43,normal,90,85
+209,8,Payback,43,dark,50,100
+209,9,Payback,43,dark,50,100
+209,10,Payback,43,dark,50,100
+209,11,Payback,43,dark,50,100
+209,12,Take Down,43,normal,90,85
+209,13,Take Down,43,normal,90,85
+209,14,Payback,43,dark,50,100
+209,15,Payback,43,dark,50,100
+209,16,Payback,43,dark,50,100
+209,8,Crunch,49,dark,80,100
+209,9,Crunch,49,dark,80,100
+209,10,Crunch,49,dark,80,100
+209,11,Crunch,49,dark,80,100
+209,14,Crunch,49,dark,80,100
+209,15,Crunch,49,dark,80,100
+209,16,Crunch,49,dark,80,100
+209,5,Crunch,53,dark,80,100
+209,6,Crunch,53,dark,80,100
+209,7,Crunch,53,dark,80,100
+209,12,Crunch,53,dark,80,100
+209,13,Crunch,53,dark,80,100

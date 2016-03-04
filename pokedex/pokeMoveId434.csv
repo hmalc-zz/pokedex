@@ -1,90 +1,90 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-434,stunky,8,10,Scratch,1,1,1
-434,stunky,8,92,Toxic,1,20,
-434,stunky,8,103,Screech,1,7,
-434,stunky,8,108,Smokescreen,1,15,
-434,stunky,8,116,Focus Energy,1,1,2
-434,stunky,8,139,Poison Gas,1,4,
-434,stunky,8,153,Explosion,1,44,
-434,stunky,8,154,Fury Swipes,1,11,
-434,stunky,8,163,Slash,1,25,
-434,stunky,8,262,Memento,1,37,
-434,stunky,8,400,Night Slash,1,31,
-434,stunky,9,10,Scratch,1,1,1
-434,stunky,9,92,Toxic,1,27,
-434,stunky,9,103,Screech,1,7,
-434,stunky,9,108,Smokescreen,1,14,
-434,stunky,9,116,Focus Energy,1,1,2
-434,stunky,9,139,Poison Gas,1,4,
-434,stunky,9,153,Explosion,1,44,
-434,stunky,9,154,Fury Swipes,1,10,
-434,stunky,9,163,Slash,1,22,
-434,stunky,9,262,Memento,1,38,
-434,stunky,9,364,Feint,1,18,
-434,stunky,9,400,Night Slash,1,32,
-434,stunky,10,10,Scratch,1,1,1
-434,stunky,10,92,Toxic,1,27,
-434,stunky,10,103,Screech,1,7,
-434,stunky,10,108,Smokescreen,1,14,
-434,stunky,10,116,Focus Energy,1,1,2
-434,stunky,10,139,Poison Gas,1,4,
-434,stunky,10,153,Explosion,1,44,
-434,stunky,10,154,Fury Swipes,1,10,
-434,stunky,10,163,Slash,1,22,
-434,stunky,10,262,Memento,1,38,
-434,stunky,10,364,Feint,1,18,
-434,stunky,10,400,Night Slash,1,32,
-434,stunky,11,10,Scratch,1,1,1
-434,stunky,11,92,Toxic,1,27,
-434,stunky,11,103,Screech,1,7,
-434,stunky,11,108,Smokescreen,1,14,
-434,stunky,11,116,Focus Energy,1,1,2
-434,stunky,11,139,Poison Gas,1,4,
-434,stunky,11,153,Explosion,1,49,
-434,stunky,11,154,Fury Swipes,1,10,
-434,stunky,11,163,Slash,1,22,
-434,stunky,11,262,Memento,1,43,
-434,stunky,11,364,Feint,1,18,
-434,stunky,11,400,Night Slash,1,37,
-434,stunky,11,491,Acid Spray,1,32,
-434,stunky,14,10,Scratch,1,1,1
-434,stunky,14,92,Toxic,1,27,
-434,stunky,14,103,Screech,1,7,
-434,stunky,14,108,Smokescreen,1,14,
-434,stunky,14,116,Focus Energy,1,1,2
-434,stunky,14,139,Poison Gas,1,4,
-434,stunky,14,153,Explosion,1,49,
-434,stunky,14,154,Fury Swipes,1,10,
-434,stunky,14,163,Slash,1,22,
-434,stunky,14,262,Memento,1,43,
-434,stunky,14,364,Feint,1,18,
-434,stunky,14,400,Night Slash,1,37,
-434,stunky,14,491,Acid Spray,1,32,
-434,stunky,15,10,Scratch,1,1,1
-434,stunky,15,92,Toxic,1,27,
-434,stunky,15,103,Screech,1,7,
-434,stunky,15,108,Smokescreen,1,14,
-434,stunky,15,116,Focus Energy,1,1,2
-434,stunky,15,139,Poison Gas,1,4,
-434,stunky,15,153,Explosion,1,49,
-434,stunky,15,154,Fury Swipes,1,10,
-434,stunky,15,163,Slash,1,22,
-434,stunky,15,262,Memento,1,43,
-434,stunky,15,364,Feint,1,18,
-434,stunky,15,400,Night Slash,1,37,
-434,stunky,15,491,Acid Spray,1,32,
-434,stunky,15,562,Belch,1,46,
-434,stunky,16,10,Scratch,1,1,1
-434,stunky,16,92,Toxic,1,27,1
-434,stunky,16,103,Screech,1,7,1
-434,stunky,16,108,Smokescreen,1,14,1
-434,stunky,16,116,Focus Energy,1,1,2
-434,stunky,16,139,Poison Gas,1,4,1
-434,stunky,16,153,Explosion,1,49,1
-434,stunky,16,154,Fury Swipes,1,10,1
-434,stunky,16,163,Slash,1,22,1
-434,stunky,16,262,Memento,1,43,1
-434,stunky,16,364,Feint,1,18,1
-434,stunky,16,400,Night Slash,1,37,1
-434,stunky,16,491,Acid Spray,1,32,1
-434,stunky,16,562,Belch,1,46,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+434,8,Scratch,1,normal,40,100
+434,8,Focus Energy,1,normal,-,-
+434,9,Scratch,1,normal,40,100
+434,9,Focus Energy,1,normal,-,-
+434,10,Scratch,1,normal,40,100
+434,10,Focus Energy,1,normal,-,-
+434,11,Scratch,1,normal,40,100
+434,11,Focus Energy,1,normal,-,-
+434,14,Scratch,1,normal,40,100
+434,14,Focus Energy,1,normal,-,-
+434,15,Scratch,1,normal,40,100
+434,15,Focus Energy,1,normal,-,-
+434,16,Scratch,1,normal,40,100
+434,16,Focus Energy,1,normal,-,-
+434,8,Poison Gas,4,poison,-,90
+434,9,Poison Gas,4,poison,-,90
+434,10,Poison Gas,4,poison,-,90
+434,11,Poison Gas,4,poison,-,90
+434,14,Poison Gas,4,poison,-,90
+434,15,Poison Gas,4,poison,-,90
+434,16,Poison Gas,4,poison,-,90
+434,8,Screech,7,normal,-,85
+434,9,Screech,7,normal,-,85
+434,10,Screech,7,normal,-,85
+434,11,Screech,7,normal,-,85
+434,14,Screech,7,normal,-,85
+434,15,Screech,7,normal,-,85
+434,16,Screech,7,normal,-,85
+434,9,Fury Swipes,10,normal,18,80
+434,10,Fury Swipes,10,normal,18,80
+434,11,Fury Swipes,10,normal,18,80
+434,14,Fury Swipes,10,normal,18,80
+434,15,Fury Swipes,10,normal,18,80
+434,16,Fury Swipes,10,normal,18,80
+434,8,Fury Swipes,11,normal,18,80
+434,9,Smokescreen,14,normal,-,100
+434,10,Smokescreen,14,normal,-,100
+434,11,Smokescreen,14,normal,-,100
+434,14,Smokescreen,14,normal,-,100
+434,15,Smokescreen,14,normal,-,100
+434,16,Smokescreen,14,normal,-,100
+434,8,Smokescreen,15,normal,-,100
+434,9,Feint,18,normal,30,100
+434,10,Feint,18,normal,30,100
+434,11,Feint,18,normal,30,100
+434,14,Feint,18,normal,30,100
+434,15,Feint,18,normal,30,100
+434,16,Feint,18,normal,30,100
+434,8,Toxic,20,poison,-,90
+434,9,Slash,22,normal,70,100
+434,10,Slash,22,normal,70,100
+434,11,Slash,22,normal,70,100
+434,14,Slash,22,normal,70,100
+434,15,Slash,22,normal,70,100
+434,16,Slash,22,normal,70,100
+434,8,Slash,25,normal,70,100
+434,9,Toxic,27,poison,-,90
+434,10,Toxic,27,poison,-,90
+434,11,Toxic,27,poison,-,90
+434,14,Toxic,27,poison,-,90
+434,15,Toxic,27,poison,-,90
+434,16,Toxic,27,poison,-,90
+434,8,Night Slash,31,dark,70,100
+434,9,Night Slash,32,dark,70,100
+434,10,Night Slash,32,dark,70,100
+434,11,Acid Spray,32,poison,40,100
+434,14,Acid Spray,32,poison,40,100
+434,15,Acid Spray,32,poison,40,100
+434,16,Acid Spray,32,poison,40,100
+434,8,Memento,37,dark,-,100
+434,11,Night Slash,37,dark,70,100
+434,14,Night Slash,37,dark,70,100
+434,15,Night Slash,37,dark,70,100
+434,16,Night Slash,37,dark,70,100
+434,9,Memento,38,dark,-,100
+434,10,Memento,38,dark,-,100
+434,11,Memento,43,dark,-,100
+434,14,Memento,43,dark,-,100
+434,15,Memento,43,dark,-,100
+434,16,Memento,43,dark,-,100
+434,8,Explosion,44,normal,250,100
+434,9,Explosion,44,normal,250,100
+434,10,Explosion,44,normal,250,100
+434,15,Belch,46,poison,120,90
+434,16,Belch,46,poison,120,90
+434,11,Explosion,49,normal,250,100
+434,14,Explosion,49,normal,250,100
+434,15,Explosion,49,normal,250,100
+434,16,Explosion,49,normal,250,100

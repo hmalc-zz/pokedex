@@ -1,95 +1,95 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-414,mothim,8,16,Gust,1,26,
-414,mothim,8,33,Tackle,1,1,
-414,mothim,8,60,Psybeam,1,32,
-414,mothim,8,77,Poison Powder,1,29,
-414,mothim,8,93,Confusion,1,23,
-414,mothim,8,94,Psychic,1,44,
-414,mothim,8,182,Protect,1,10,
-414,mothim,8,237,Hidden Power,1,20,
-414,mothim,8,293,Camouflage,1,35,
-414,mothim,8,318,Silver Wind,1,38,
-414,mothim,8,403,Air Slash,1,41,
-414,mothim,8,405,Bug Buzz,1,47,
-414,mothim,9,16,Gust,1,26,
-414,mothim,9,33,Tackle,1,1,
-414,mothim,9,60,Psybeam,1,32,
-414,mothim,9,77,Poison Powder,1,29,
-414,mothim,9,93,Confusion,1,23,
-414,mothim,9,94,Psychic,1,44,
-414,mothim,9,182,Protect,1,10,
-414,mothim,9,237,Hidden Power,1,20,
-414,mothim,9,293,Camouflage,1,35,
-414,mothim,9,318,Silver Wind,1,38,
-414,mothim,9,403,Air Slash,1,41,
-414,mothim,9,405,Bug Buzz,1,47,
-414,mothim,9,450,Bug Bite,1,15,
-414,mothim,10,16,Gust,1,26,
-414,mothim,10,33,Tackle,1,1,
-414,mothim,10,60,Psybeam,1,32,
-414,mothim,10,77,Poison Powder,1,29,
-414,mothim,10,93,Confusion,1,23,
-414,mothim,10,94,Psychic,1,44,
-414,mothim,10,182,Protect,1,10,
-414,mothim,10,237,Hidden Power,1,20,
-414,mothim,10,293,Camouflage,1,35,
-414,mothim,10,318,Silver Wind,1,38,
-414,mothim,10,403,Air Slash,1,41,
-414,mothim,10,405,Bug Buzz,1,47,
-414,mothim,10,450,Bug Bite,1,15,
-414,mothim,11,16,Gust,1,26,
-414,mothim,11,33,Tackle,1,1,
-414,mothim,11,60,Psybeam,1,32,
-414,mothim,11,77,Poison Powder,1,29,
-414,mothim,11,93,Confusion,1,23,
-414,mothim,11,94,Psychic,1,44,
-414,mothim,11,182,Protect,1,10,
-414,mothim,11,237,Hidden Power,1,20,
-414,mothim,11,293,Camouflage,1,35,
-414,mothim,11,318,Silver Wind,1,38,
-414,mothim,11,403,Air Slash,1,41,
-414,mothim,11,405,Bug Buzz,1,47,
-414,mothim,11,450,Bug Bite,1,15,
-414,mothim,11,483,Quiver Dance,1,50,
-414,mothim,14,16,Gust,1,26,
-414,mothim,14,33,Tackle,1,1,
-414,mothim,14,60,Psybeam,1,32,
-414,mothim,14,77,Poison Powder,1,29,
-414,mothim,14,93,Confusion,1,23,
-414,mothim,14,94,Psychic,1,44,
-414,mothim,14,182,Protect,1,10,
-414,mothim,14,237,Hidden Power,1,20,
-414,mothim,14,293,Camouflage,1,35,
-414,mothim,14,318,Silver Wind,1,38,
-414,mothim,14,403,Air Slash,1,41,
-414,mothim,14,405,Bug Buzz,1,47,
-414,mothim,14,450,Bug Bite,1,15,
-414,mothim,14,483,Quiver Dance,1,50,
-414,mothim,15,16,Gust,1,26,
-414,mothim,15,33,Tackle,1,1,
-414,mothim,15,60,Psybeam,1,32,
-414,mothim,15,77,Poison Powder,1,29,
-414,mothim,15,93,Confusion,1,23,
-414,mothim,15,94,Psychic,1,44,
-414,mothim,15,182,Protect,1,10,
-414,mothim,15,237,Hidden Power,1,20,
-414,mothim,15,293,Camouflage,1,35,
-414,mothim,15,318,Silver Wind,1,38,
-414,mothim,15,403,Air Slash,1,41,
-414,mothim,15,405,Bug Buzz,1,47,
-414,mothim,15,450,Bug Bite,1,15,
-414,mothim,15,483,Quiver Dance,1,50,
-414,mothim,16,16,Gust,1,26,1
-414,mothim,16,33,Tackle,1,1,1
-414,mothim,16,60,Psybeam,1,32,1
-414,mothim,16,77,Poison Powder,1,29,1
-414,mothim,16,93,Confusion,1,23,1
-414,mothim,16,94,Psychic,1,44,1
-414,mothim,16,182,Protect,1,10,1
-414,mothim,16,237,Hidden Power,1,20,1
-414,mothim,16,293,Camouflage,1,35,1
-414,mothim,16,318,Silver Wind,1,38,1
-414,mothim,16,403,Air Slash,1,41,1
-414,mothim,16,405,Bug Buzz,1,47,1
-414,mothim,16,450,Bug Bite,1,15,1
-414,mothim,16,483,Quiver Dance,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+414,8,Tackle,1,normal,50,100
+414,9,Tackle,1,normal,50,100
+414,10,Tackle,1,normal,50,100
+414,11,Tackle,1,normal,50,100
+414,14,Tackle,1,normal,50,100
+414,15,Tackle,1,normal,50,100
+414,16,Tackle,1,normal,50,100
+414,8,Protect,10,normal,-,-
+414,9,Protect,10,normal,-,-
+414,10,Protect,10,normal,-,-
+414,11,Protect,10,normal,-,-
+414,14,Protect,10,normal,-,-
+414,15,Protect,10,normal,-,-
+414,16,Protect,10,normal,-,-
+414,9,Bug Bite,15,bug,60,100
+414,10,Bug Bite,15,bug,60,100
+414,11,Bug Bite,15,bug,60,100
+414,14,Bug Bite,15,bug,60,100
+414,15,Bug Bite,15,bug,60,100
+414,16,Bug Bite,15,bug,60,100
+414,8,Hidden Power,20,normal,60,100
+414,9,Hidden Power,20,normal,60,100
+414,10,Hidden Power,20,normal,60,100
+414,11,Hidden Power,20,normal,60,100
+414,14,Hidden Power,20,normal,60,100
+414,15,Hidden Power,20,normal,60,100
+414,16,Hidden Power,20,normal,60,100
+414,8,Confusion,23,psychic,50,100
+414,9,Confusion,23,psychic,50,100
+414,10,Confusion,23,psychic,50,100
+414,11,Confusion,23,psychic,50,100
+414,14,Confusion,23,psychic,50,100
+414,15,Confusion,23,psychic,50,100
+414,16,Confusion,23,psychic,50,100
+414,8,Gust,26,flying,40,100
+414,9,Gust,26,flying,40,100
+414,10,Gust,26,flying,40,100
+414,11,Gust,26,flying,40,100
+414,14,Gust,26,flying,40,100
+414,15,Gust,26,flying,40,100
+414,16,Gust,26,flying,40,100
+414,8,Poison Powder,29,poison,-,75
+414,9,Poison Powder,29,poison,-,75
+414,10,Poison Powder,29,poison,-,75
+414,11,Poison Powder,29,poison,-,75
+414,14,Poison Powder,29,poison,-,75
+414,15,Poison Powder,29,poison,-,75
+414,16,Poison Powder,29,poison,-,75
+414,8,Psybeam,32,psychic,65,100
+414,9,Psybeam,32,psychic,65,100
+414,10,Psybeam,32,psychic,65,100
+414,11,Psybeam,32,psychic,65,100
+414,14,Psybeam,32,psychic,65,100
+414,15,Psybeam,32,psychic,65,100
+414,16,Psybeam,32,psychic,65,100
+414,8,Camouflage,35,normal,-,-
+414,9,Camouflage,35,normal,-,-
+414,10,Camouflage,35,normal,-,-
+414,11,Camouflage,35,normal,-,-
+414,14,Camouflage,35,normal,-,-
+414,15,Camouflage,35,normal,-,-
+414,16,Camouflage,35,normal,-,-
+414,8,Silver Wind,38,bug,60,100
+414,9,Silver Wind,38,bug,60,100
+414,10,Silver Wind,38,bug,60,100
+414,11,Silver Wind,38,bug,60,100
+414,14,Silver Wind,38,bug,60,100
+414,15,Silver Wind,38,bug,60,100
+414,16,Silver Wind,38,bug,60,100
+414,8,Air Slash,41,flying,75,95
+414,9,Air Slash,41,flying,75,95
+414,10,Air Slash,41,flying,75,95
+414,11,Air Slash,41,flying,75,95
+414,14,Air Slash,41,flying,75,95
+414,15,Air Slash,41,flying,75,95
+414,16,Air Slash,41,flying,75,95
+414,8,Psychic,44,psychic,90,100
+414,9,Psychic,44,psychic,90,100
+414,10,Psychic,44,psychic,90,100
+414,11,Psychic,44,psychic,90,100
+414,14,Psychic,44,psychic,90,100
+414,15,Psychic,44,psychic,90,100
+414,16,Psychic,44,psychic,90,100
+414,8,Bug Buzz,47,bug,90,100
+414,9,Bug Buzz,47,bug,90,100
+414,10,Bug Buzz,47,bug,90,100
+414,11,Bug Buzz,47,bug,90,100
+414,14,Bug Buzz,47,bug,90,100
+414,15,Bug Buzz,47,bug,90,100
+414,16,Bug Buzz,47,bug,90,100
+414,11,Quiver Dance,50,bug,-,-
+414,14,Quiver Dance,50,bug,-,-
+414,15,Quiver Dance,50,bug,-,-
+414,16,Quiver Dance,50,bug,-,-

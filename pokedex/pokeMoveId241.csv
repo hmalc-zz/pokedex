@@ -1,155 +1,155 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-241,miltank,3,23,Stomp,1,13,
-241,miltank,3,33,Tackle,1,1,
-241,miltank,3,34,Body Slam,1,43,
-241,miltank,3,45,Growl,1,4,
-241,miltank,3,111,Defense Curl,1,8,
-241,miltank,3,117,Bide,1,26,
-241,miltank,3,205,Rollout,1,34,
-241,miltank,3,208,Milk Drink,1,19,
-241,miltank,3,215,Heal Bell,1,53,
-241,miltank,4,23,Stomp,1,13,
-241,miltank,4,33,Tackle,1,1,
-241,miltank,4,34,Body Slam,1,43,
-241,miltank,4,45,Growl,1,4,
-241,miltank,4,111,Defense Curl,1,8,
-241,miltank,4,117,Bide,1,26,
-241,miltank,4,205,Rollout,1,34,
-241,miltank,4,208,Milk Drink,1,19,
-241,miltank,4,215,Heal Bell,1,53,
-241,miltank,5,23,Stomp,1,13,
-241,miltank,5,33,Tackle,1,1,
-241,miltank,5,34,Body Slam,1,43,
-241,miltank,5,45,Growl,1,4,
-241,miltank,5,111,Defense Curl,1,8,
-241,miltank,5,117,Bide,1,26,
-241,miltank,5,205,Rollout,1,34,
-241,miltank,5,208,Milk Drink,1,19,
-241,miltank,5,215,Heal Bell,1,53,
-241,miltank,6,23,Stomp,1,13,
-241,miltank,6,33,Tackle,1,1,
-241,miltank,6,34,Body Slam,1,43,
-241,miltank,6,45,Growl,1,4,
-241,miltank,6,111,Defense Curl,1,8,
-241,miltank,6,117,Bide,1,26,
-241,miltank,6,205,Rollout,1,34,
-241,miltank,6,208,Milk Drink,1,19,
-241,miltank,6,215,Heal Bell,1,53,
-241,miltank,7,23,Stomp,1,13,
-241,miltank,7,33,Tackle,1,1,
-241,miltank,7,34,Body Slam,1,43,
-241,miltank,7,45,Growl,1,4,
-241,miltank,7,111,Defense Curl,1,8,
-241,miltank,7,117,Bide,1,26,
-241,miltank,7,205,Rollout,1,34,
-241,miltank,7,208,Milk Drink,1,19,
-241,miltank,7,215,Heal Bell,1,53,
-241,miltank,8,23,Stomp,1,8,
-241,miltank,8,33,Tackle,1,1,
-241,miltank,8,34,Body Slam,1,24,
-241,miltank,8,45,Growl,1,3,
-241,miltank,8,111,Defense Curl,1,5,
-241,miltank,8,117,Bide,1,15,
-241,miltank,8,205,Rollout,1,19,
-241,miltank,8,208,Milk Drink,1,11,
-241,miltank,8,215,Heal Bell,1,48,
-241,miltank,8,358,Wake-Up Slap,1,55,
-241,miltank,8,360,Gyro Ball,1,41,
-241,miltank,8,428,Zen Headbutt,1,29,
-241,miltank,8,445,Captivate,1,35,
-241,miltank,9,23,Stomp,1,8,
-241,miltank,9,33,Tackle,1,1,
-241,miltank,9,34,Body Slam,1,24,
-241,miltank,9,45,Growl,1,3,
-241,miltank,9,111,Defense Curl,1,5,
-241,miltank,9,117,Bide,1,15,
-241,miltank,9,205,Rollout,1,19,
-241,miltank,9,208,Milk Drink,1,11,
-241,miltank,9,215,Heal Bell,1,48,
-241,miltank,9,358,Wake-Up Slap,1,55,
-241,miltank,9,360,Gyro Ball,1,41,
-241,miltank,9,428,Zen Headbutt,1,29,
-241,miltank,9,445,Captivate,1,35,
-241,miltank,10,23,Stomp,1,8,
-241,miltank,10,33,Tackle,1,1,
-241,miltank,10,34,Body Slam,1,24,
-241,miltank,10,45,Growl,1,3,
-241,miltank,10,111,Defense Curl,1,5,
-241,miltank,10,117,Bide,1,15,
-241,miltank,10,205,Rollout,1,19,
-241,miltank,10,208,Milk Drink,1,11,
-241,miltank,10,215,Heal Bell,1,48,
-241,miltank,10,358,Wake-Up Slap,1,55,
-241,miltank,10,360,Gyro Ball,1,41,
-241,miltank,10,428,Zen Headbutt,1,29,
-241,miltank,10,445,Captivate,1,35,
-241,miltank,11,23,Stomp,1,8,
-241,miltank,11,33,Tackle,1,1,
-241,miltank,11,34,Body Slam,1,24,
-241,miltank,11,45,Growl,1,3,
-241,miltank,11,111,Defense Curl,1,5,
-241,miltank,11,117,Bide,1,15,
-241,miltank,11,205,Rollout,1,19,
-241,miltank,11,208,Milk Drink,1,11,
-241,miltank,11,215,Heal Bell,1,48,
-241,miltank,11,358,Wake-Up Slap,1,55,
-241,miltank,11,360,Gyro Ball,1,41,
-241,miltank,11,428,Zen Headbutt,1,29,
-241,miltank,11,445,Captivate,1,35,
-241,miltank,12,23,Stomp,1,13,
-241,miltank,12,33,Tackle,1,1,
-241,miltank,12,34,Body Slam,1,43,
-241,miltank,12,45,Growl,1,4,
-241,miltank,12,111,Defense Curl,1,8,
-241,miltank,12,117,Bide,1,26,
-241,miltank,12,205,Rollout,1,34,
-241,miltank,12,208,Milk Drink,1,19,
-241,miltank,12,215,Heal Bell,1,53,
-241,miltank,13,23,Stomp,1,13,
-241,miltank,13,33,Tackle,1,1,
-241,miltank,13,34,Body Slam,1,43,
-241,miltank,13,45,Growl,1,4,
-241,miltank,13,111,Defense Curl,1,8,
-241,miltank,13,117,Bide,1,26,
-241,miltank,13,205,Rollout,1,34,
-241,miltank,13,208,Milk Drink,1,19,
-241,miltank,13,215,Heal Bell,1,53,
-241,miltank,14,23,Stomp,1,8,
-241,miltank,14,33,Tackle,1,1,
-241,miltank,14,34,Body Slam,1,24,
-241,miltank,14,45,Growl,1,3,
-241,miltank,14,111,Defense Curl,1,5,
-241,miltank,14,117,Bide,1,15,
-241,miltank,14,205,Rollout,1,19,
-241,miltank,14,208,Milk Drink,1,11,
-241,miltank,14,215,Heal Bell,1,48,
-241,miltank,14,358,Wake-Up Slap,1,55,
-241,miltank,14,360,Gyro Ball,1,41,
-241,miltank,14,428,Zen Headbutt,1,29,
-241,miltank,14,445,Captivate,1,35,
-241,miltank,15,23,Stomp,1,8,
-241,miltank,15,33,Tackle,1,1,
-241,miltank,15,34,Body Slam,1,24,
-241,miltank,15,45,Growl,1,3,
-241,miltank,15,111,Defense Curl,1,5,
-241,miltank,15,117,Bide,1,15,
-241,miltank,15,205,Rollout,1,19,
-241,miltank,15,208,Milk Drink,1,11,
-241,miltank,15,215,Heal Bell,1,48,
-241,miltank,15,358,Wake-Up Slap,1,50,
-241,miltank,15,360,Gyro Ball,1,41,
-241,miltank,15,428,Zen Headbutt,1,29,
-241,miltank,15,445,Captivate,1,35,
-241,miltank,16,23,Stomp,1,8,1
-241,miltank,16,33,Tackle,1,1,1
-241,miltank,16,34,Body Slam,1,24,1
-241,miltank,16,45,Growl,1,3,1
-241,miltank,16,111,Defense Curl,1,5,1
-241,miltank,16,117,Bide,1,15,1
-241,miltank,16,205,Rollout,1,19,1
-241,miltank,16,208,Milk Drink,1,11,1
-241,miltank,16,215,Heal Bell,1,48,1
-241,miltank,16,358,Wake-Up Slap,1,50,1
-241,miltank,16,360,Gyro Ball,1,41,1
-241,miltank,16,428,Zen Headbutt,1,29,1
-241,miltank,16,445,Captivate,1,35,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+241,3,Tackle,1,normal,50,100
+241,4,Tackle,1,normal,50,100
+241,5,Tackle,1,normal,50,100
+241,6,Tackle,1,normal,50,100
+241,7,Tackle,1,normal,50,100
+241,8,Tackle,1,normal,50,100
+241,9,Tackle,1,normal,50,100
+241,10,Tackle,1,normal,50,100
+241,11,Tackle,1,normal,50,100
+241,12,Tackle,1,normal,50,100
+241,13,Tackle,1,normal,50,100
+241,14,Tackle,1,normal,50,100
+241,15,Tackle,1,normal,50,100
+241,16,Tackle,1,normal,50,100
+241,8,Growl,3,normal,-,100
+241,9,Growl,3,normal,-,100
+241,10,Growl,3,normal,-,100
+241,11,Growl,3,normal,-,100
+241,14,Growl,3,normal,-,100
+241,15,Growl,3,normal,-,100
+241,16,Growl,3,normal,-,100
+241,3,Growl,4,normal,-,100
+241,4,Growl,4,normal,-,100
+241,5,Growl,4,normal,-,100
+241,6,Growl,4,normal,-,100
+241,7,Growl,4,normal,-,100
+241,12,Growl,4,normal,-,100
+241,13,Growl,4,normal,-,100
+241,8,Defense Curl,5,normal,-,-
+241,9,Defense Curl,5,normal,-,-
+241,10,Defense Curl,5,normal,-,-
+241,11,Defense Curl,5,normal,-,-
+241,14,Defense Curl,5,normal,-,-
+241,15,Defense Curl,5,normal,-,-
+241,16,Defense Curl,5,normal,-,-
+241,3,Defense Curl,8,normal,-,-
+241,4,Defense Curl,8,normal,-,-
+241,5,Defense Curl,8,normal,-,-
+241,6,Defense Curl,8,normal,-,-
+241,7,Defense Curl,8,normal,-,-
+241,8,Stomp,8,normal,65,100
+241,9,Stomp,8,normal,65,100
+241,10,Stomp,8,normal,65,100
+241,11,Stomp,8,normal,65,100
+241,12,Defense Curl,8,normal,-,-
+241,13,Defense Curl,8,normal,-,-
+241,14,Stomp,8,normal,65,100
+241,15,Stomp,8,normal,65,100
+241,16,Stomp,8,normal,65,100
+241,8,Milk Drink,11,normal,-,-
+241,9,Milk Drink,11,normal,-,-
+241,10,Milk Drink,11,normal,-,-
+241,11,Milk Drink,11,normal,-,-
+241,14,Milk Drink,11,normal,-,-
+241,15,Milk Drink,11,normal,-,-
+241,16,Milk Drink,11,normal,-,-
+241,3,Stomp,13,normal,65,100
+241,4,Stomp,13,normal,65,100
+241,5,Stomp,13,normal,65,100
+241,6,Stomp,13,normal,65,100
+241,7,Stomp,13,normal,65,100
+241,12,Stomp,13,normal,65,100
+241,13,Stomp,13,normal,65,100
+241,8,Bide,15,normal,-,-
+241,9,Bide,15,normal,-,-
+241,10,Bide,15,normal,-,-
+241,11,Bide,15,normal,-,-
+241,14,Bide,15,normal,-,-
+241,15,Bide,15,normal,-,-
+241,16,Bide,15,normal,-,-
+241,3,Milk Drink,19,normal,-,-
+241,4,Milk Drink,19,normal,-,-
+241,5,Milk Drink,19,normal,-,-
+241,6,Milk Drink,19,normal,-,-
+241,7,Milk Drink,19,normal,-,-
+241,8,Rollout,19,rock,30,90
+241,9,Rollout,19,rock,30,90
+241,10,Rollout,19,rock,30,90
+241,11,Rollout,19,rock,30,90
+241,12,Milk Drink,19,normal,-,-
+241,13,Milk Drink,19,normal,-,-
+241,14,Rollout,19,rock,30,90
+241,15,Rollout,19,rock,30,90
+241,16,Rollout,19,rock,30,90
+241,8,Body Slam,24,normal,85,100
+241,9,Body Slam,24,normal,85,100
+241,10,Body Slam,24,normal,85,100
+241,11,Body Slam,24,normal,85,100
+241,14,Body Slam,24,normal,85,100
+241,15,Body Slam,24,normal,85,100
+241,16,Body Slam,24,normal,85,100
+241,3,Bide,26,normal,-,-
+241,4,Bide,26,normal,-,-
+241,5,Bide,26,normal,-,-
+241,6,Bide,26,normal,-,-
+241,7,Bide,26,normal,-,-
+241,12,Bide,26,normal,-,-
+241,13,Bide,26,normal,-,-
+241,8,Zen Headbutt,29,psychic,80,90
+241,9,Zen Headbutt,29,psychic,80,90
+241,10,Zen Headbutt,29,psychic,80,90
+241,11,Zen Headbutt,29,psychic,80,90
+241,14,Zen Headbutt,29,psychic,80,90
+241,15,Zen Headbutt,29,psychic,80,90
+241,16,Zen Headbutt,29,psychic,80,90
+241,3,Rollout,34,rock,30,90
+241,4,Rollout,34,rock,30,90
+241,5,Rollout,34,rock,30,90
+241,6,Rollout,34,rock,30,90
+241,7,Rollout,34,rock,30,90
+241,12,Rollout,34,rock,30,90
+241,13,Rollout,34,rock,30,90
+241,8,Captivate,35,normal,-,100
+241,9,Captivate,35,normal,-,100
+241,10,Captivate,35,normal,-,100
+241,11,Captivate,35,normal,-,100
+241,14,Captivate,35,normal,-,100
+241,15,Captivate,35,normal,-,100
+241,16,Captivate,35,normal,-,100
+241,8,Gyro Ball,41,steel,-,100
+241,9,Gyro Ball,41,steel,-,100
+241,10,Gyro Ball,41,steel,-,100
+241,11,Gyro Ball,41,steel,-,100
+241,14,Gyro Ball,41,steel,-,100
+241,15,Gyro Ball,41,steel,-,100
+241,16,Gyro Ball,41,steel,-,100
+241,3,Body Slam,43,normal,85,100
+241,4,Body Slam,43,normal,85,100
+241,5,Body Slam,43,normal,85,100
+241,6,Body Slam,43,normal,85,100
+241,7,Body Slam,43,normal,85,100
+241,12,Body Slam,43,normal,85,100
+241,13,Body Slam,43,normal,85,100
+241,8,Heal Bell,48,normal,-,-
+241,9,Heal Bell,48,normal,-,-
+241,10,Heal Bell,48,normal,-,-
+241,11,Heal Bell,48,normal,-,-
+241,14,Heal Bell,48,normal,-,-
+241,15,Heal Bell,48,normal,-,-
+241,16,Heal Bell,48,normal,-,-
+241,15,Wake-Up Slap,50,fighting,70,100
+241,16,Wake-Up Slap,50,fighting,70,100
+241,3,Heal Bell,53,normal,-,-
+241,4,Heal Bell,53,normal,-,-
+241,5,Heal Bell,53,normal,-,-
+241,6,Heal Bell,53,normal,-,-
+241,7,Heal Bell,53,normal,-,-
+241,12,Heal Bell,53,normal,-,-
+241,13,Heal Bell,53,normal,-,-
+241,8,Wake-Up Slap,55,fighting,70,100
+241,9,Wake-Up Slap,55,fighting,70,100
+241,10,Wake-Up Slap,55,fighting,70,100
+241,11,Wake-Up Slap,55,fighting,70,100
+241,14,Wake-Up Slap,55,fighting,70,100

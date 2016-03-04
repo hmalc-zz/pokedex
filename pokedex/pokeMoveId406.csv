@@ -1,43 +1,43 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-406,budew,8,71,Absorb,1,1,
-406,budew,8,72,Mega Drain,1,13,
-406,budew,8,74,Growth,1,4,
-406,budew,8,78,Stun Spore,1,10,
-406,budew,8,346,Water Sport,1,7,
-406,budew,8,388,Worry Seed,1,16,
-406,budew,9,71,Absorb,1,1,
-406,budew,9,72,Mega Drain,1,13,
-406,budew,9,74,Growth,1,4,
-406,budew,9,78,Stun Spore,1,10,
-406,budew,9,346,Water Sport,1,7,
-406,budew,9,388,Worry Seed,1,16,
-406,budew,10,71,Absorb,1,1,
-406,budew,10,72,Mega Drain,1,13,
-406,budew,10,74,Growth,1,4,
-406,budew,10,78,Stun Spore,1,10,
-406,budew,10,346,Water Sport,1,7,
-406,budew,10,388,Worry Seed,1,16,
-406,budew,11,71,Absorb,1,1,
-406,budew,11,72,Mega Drain,1,13,
-406,budew,11,74,Growth,1,4,
-406,budew,11,78,Stun Spore,1,10,
-406,budew,11,346,Water Sport,1,7,
-406,budew,11,388,Worry Seed,1,16,
-406,budew,14,71,Absorb,1,1,
-406,budew,14,72,Mega Drain,1,13,
-406,budew,14,74,Growth,1,4,
-406,budew,14,78,Stun Spore,1,10,
-406,budew,14,346,Water Sport,1,7,
-406,budew,14,388,Worry Seed,1,16,
-406,budew,15,71,Absorb,1,1,
-406,budew,15,72,Mega Drain,1,13,
-406,budew,15,74,Growth,1,4,
-406,budew,15,78,Stun Spore,1,10,
-406,budew,15,346,Water Sport,1,7,
-406,budew,15,388,Worry Seed,1,16,
-406,budew,16,71,Absorb,1,1,1
-406,budew,16,72,Mega Drain,1,13,1
-406,budew,16,74,Growth,1,4,1
-406,budew,16,78,Stun Spore,1,10,1
-406,budew,16,346,Water Sport,1,7,1
-406,budew,16,388,Worry Seed,1,16,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+406,8,Absorb,1,grass,20,100
+406,9,Absorb,1,grass,20,100
+406,10,Absorb,1,grass,20,100
+406,11,Absorb,1,grass,20,100
+406,14,Absorb,1,grass,20,100
+406,15,Absorb,1,grass,20,100
+406,16,Absorb,1,grass,20,100
+406,8,Growth,4,normal,-,-
+406,9,Growth,4,normal,-,-
+406,10,Growth,4,normal,-,-
+406,11,Growth,4,normal,-,-
+406,14,Growth,4,normal,-,-
+406,15,Growth,4,normal,-,-
+406,16,Growth,4,normal,-,-
+406,8,Water Sport,7,water,-,-
+406,9,Water Sport,7,water,-,-
+406,10,Water Sport,7,water,-,-
+406,11,Water Sport,7,water,-,-
+406,14,Water Sport,7,water,-,-
+406,15,Water Sport,7,water,-,-
+406,16,Water Sport,7,water,-,-
+406,8,Stun Spore,10,grass,-,75
+406,9,Stun Spore,10,grass,-,75
+406,10,Stun Spore,10,grass,-,75
+406,11,Stun Spore,10,grass,-,75
+406,14,Stun Spore,10,grass,-,75
+406,15,Stun Spore,10,grass,-,75
+406,16,Stun Spore,10,grass,-,75
+406,8,Mega Drain,13,grass,40,100
+406,9,Mega Drain,13,grass,40,100
+406,10,Mega Drain,13,grass,40,100
+406,11,Mega Drain,13,grass,40,100
+406,14,Mega Drain,13,grass,40,100
+406,15,Mega Drain,13,grass,40,100
+406,16,Mega Drain,13,grass,40,100
+406,8,Worry Seed,16,grass,-,100
+406,9,Worry Seed,16,grass,-,100
+406,10,Worry Seed,16,grass,-,100
+406,11,Worry Seed,16,grass,-,100
+406,14,Worry Seed,16,grass,-,100
+406,15,Worry Seed,16,grass,-,100
+406,16,Worry Seed,16,grass,-,100

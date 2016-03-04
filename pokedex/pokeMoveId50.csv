@@ -1,170 +1,170 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-50,diglett,1,10,Scratch,1,1,
-50,diglett,1,28,Sand Attack,1,24,
-50,diglett,1,45,Growl,1,15,
-50,diglett,1,89,Earthquake,1,40,
-50,diglett,1,91,Dig,1,19,
-50,diglett,1,163,Slash,1,31,
-50,diglett,2,10,Scratch,1,1,
-50,diglett,2,28,Sand Attack,1,24,
-50,diglett,2,45,Growl,1,15,
-50,diglett,2,89,Earthquake,1,40,
-50,diglett,2,91,Dig,1,19,
-50,diglett,2,163,Slash,1,31,
-50,diglett,3,10,Scratch,1,1,
-50,diglett,3,28,Sand Attack,1,25,
-50,diglett,3,45,Growl,1,5,
-50,diglett,3,89,Earthquake,1,41,
-50,diglett,3,90,Fissure,1,49,
-50,diglett,3,91,Dig,1,17,
-50,diglett,3,163,Slash,1,33,
-50,diglett,3,222,Magnitude,1,9,
-50,diglett,4,10,Scratch,1,1,
-50,diglett,4,28,Sand Attack,1,25,
-50,diglett,4,45,Growl,1,5,
-50,diglett,4,89,Earthquake,1,41,
-50,diglett,4,90,Fissure,1,49,
-50,diglett,4,91,Dig,1,17,
-50,diglett,4,163,Slash,1,33,
-50,diglett,4,222,Magnitude,1,9,
-50,diglett,5,10,Scratch,1,1,1
-50,diglett,5,28,Sand Attack,1,1,2
-50,diglett,5,45,Growl,1,5,
-50,diglett,5,89,Earthquake,1,41,
-50,diglett,5,90,Fissure,1,49,
-50,diglett,5,91,Dig,1,17,
-50,diglett,5,163,Slash,1,33,
-50,diglett,5,189,Mud-Slap,1,25,
-50,diglett,5,222,Magnitude,1,9,
-50,diglett,6,10,Scratch,1,1,1
-50,diglett,6,28,Sand Attack,1,1,2
-50,diglett,6,45,Growl,1,5,
-50,diglett,6,89,Earthquake,1,41,
-50,diglett,6,90,Fissure,1,49,
-50,diglett,6,91,Dig,1,17,
-50,diglett,6,163,Slash,1,33,
-50,diglett,6,189,Mud-Slap,1,25,
-50,diglett,6,222,Magnitude,1,9,
-50,diglett,7,10,Scratch,1,1,2
-50,diglett,7,28,Sand Attack,1,1,1
-50,diglett,7,45,Growl,1,5,
-50,diglett,7,89,Earthquake,1,41,
-50,diglett,7,90,Fissure,1,49,
-50,diglett,7,91,Dig,1,17,
-50,diglett,7,154,Fury Swipes,1,21,
-50,diglett,7,163,Slash,1,33,
-50,diglett,7,189,Mud-Slap,1,25,
-50,diglett,7,222,Magnitude,1,9,
-50,diglett,8,10,Scratch,1,1,1
-50,diglett,8,28,Sand Attack,1,1,2
-50,diglett,8,45,Growl,1,4,
-50,diglett,8,89,Earthquake,1,37,
-50,diglett,8,90,Fissure,1,40,
-50,diglett,8,91,Dig,1,18,
-50,diglett,8,163,Slash,1,34,
-50,diglett,8,189,Mud-Slap,1,15,
-50,diglett,8,222,Magnitude,1,12,
-50,diglett,8,310,Astonish,1,7,
-50,diglett,8,389,Sucker Punch,1,23,
-50,diglett,8,414,Earth Power,1,26,
-50,diglett,8,426,Mud Bomb,1,29,
-50,diglett,9,10,Scratch,1,1,1
-50,diglett,9,28,Sand Attack,1,1,2
-50,diglett,9,45,Growl,1,4,
-50,diglett,9,89,Earthquake,1,37,
-50,diglett,9,90,Fissure,1,40,
-50,diglett,9,91,Dig,1,18,
-50,diglett,9,163,Slash,1,34,
-50,diglett,9,189,Mud-Slap,1,15,
-50,diglett,9,222,Magnitude,1,12,
-50,diglett,9,310,Astonish,1,7,
-50,diglett,9,389,Sucker Punch,1,23,
-50,diglett,9,414,Earth Power,1,26,
-50,diglett,9,426,Mud Bomb,1,29,
-50,diglett,10,10,Scratch,1,1,1
-50,diglett,10,28,Sand Attack,1,1,2
-50,diglett,10,45,Growl,1,4,
-50,diglett,10,89,Earthquake,1,37,
-50,diglett,10,90,Fissure,1,40,
-50,diglett,10,91,Dig,1,18,
-50,diglett,10,163,Slash,1,34,
-50,diglett,10,189,Mud-Slap,1,15,
-50,diglett,10,222,Magnitude,1,12,
-50,diglett,10,310,Astonish,1,7,
-50,diglett,10,389,Sucker Punch,1,23,
-50,diglett,10,414,Earth Power,1,26,
-50,diglett,10,426,Mud Bomb,1,29,
-50,diglett,11,10,Scratch,1,1,1
-50,diglett,11,28,Sand Attack,1,1,2
-50,diglett,11,45,Growl,1,4,
-50,diglett,11,89,Earthquake,1,40,
-50,diglett,11,90,Fissure,1,45,
-50,diglett,11,91,Dig,1,34,
-50,diglett,11,163,Slash,1,37,
-50,diglett,11,189,Mud-Slap,1,12,
-50,diglett,11,222,Magnitude,1,15,
-50,diglett,11,310,Astonish,1,7,
-50,diglett,11,389,Sucker Punch,1,23,
-50,diglett,11,414,Earth Power,1,29,
-50,diglett,11,426,Mud Bomb,1,26,
-50,diglett,11,523,Bulldoze,1,18,
-50,diglett,12,10,Scratch,1,1,1
-50,diglett,12,28,Sand Attack,1,1,2
-50,diglett,12,45,Growl,1,5,
-50,diglett,12,89,Earthquake,1,41,
-50,diglett,12,90,Fissure,1,49,
-50,diglett,12,91,Dig,1,17,
-50,diglett,12,163,Slash,1,33,
-50,diglett,12,189,Mud-Slap,1,25,
-50,diglett,12,222,Magnitude,1,9,
-50,diglett,13,10,Scratch,1,1,1
-50,diglett,13,28,Sand Attack,1,1,2
-50,diglett,13,45,Growl,1,5,
-50,diglett,13,89,Earthquake,1,41,
-50,diglett,13,90,Fissure,1,49,
-50,diglett,13,91,Dig,1,17,
-50,diglett,13,163,Slash,1,33,
-50,diglett,13,189,Mud-Slap,1,25,
-50,diglett,13,222,Magnitude,1,9,
-50,diglett,14,10,Scratch,1,1,1
-50,diglett,14,28,Sand Attack,1,1,2
-50,diglett,14,45,Growl,1,4,
-50,diglett,14,89,Earthquake,1,40,
-50,diglett,14,90,Fissure,1,45,
-50,diglett,14,91,Dig,1,34,
-50,diglett,14,163,Slash,1,37,
-50,diglett,14,189,Mud-Slap,1,12,
-50,diglett,14,222,Magnitude,1,15,
-50,diglett,14,310,Astonish,1,7,
-50,diglett,14,389,Sucker Punch,1,23,
-50,diglett,14,414,Earth Power,1,29,
-50,diglett,14,426,Mud Bomb,1,26,
-50,diglett,14,523,Bulldoze,1,18,
-50,diglett,15,10,Scratch,1,1,1
-50,diglett,15,28,Sand Attack,1,1,2
-50,diglett,15,45,Growl,1,4,
-50,diglett,15,89,Earthquake,1,40,
-50,diglett,15,90,Fissure,1,45,
-50,diglett,15,91,Dig,1,34,
-50,diglett,15,163,Slash,1,37,
-50,diglett,15,189,Mud-Slap,1,12,
-50,diglett,15,222,Magnitude,1,15,
-50,diglett,15,310,Astonish,1,7,
-50,diglett,15,389,Sucker Punch,1,23,
-50,diglett,15,414,Earth Power,1,29,
-50,diglett,15,426,Mud Bomb,1,26,
-50,diglett,15,523,Bulldoze,1,18,
-50,diglett,16,10,Scratch,1,1,1
-50,diglett,16,28,Sand Attack,1,1,2
-50,diglett,16,45,Growl,1,4,1
-50,diglett,16,89,Earthquake,1,40,1
-50,diglett,16,90,Fissure,1,45,1
-50,diglett,16,91,Dig,1,34,1
-50,diglett,16,163,Slash,1,37,1
-50,diglett,16,189,Mud-Slap,1,12,1
-50,diglett,16,222,Magnitude,1,15,1
-50,diglett,16,310,Astonish,1,7,1
-50,diglett,16,389,Sucker Punch,1,23,1
-50,diglett,16,414,Earth Power,1,29,1
-50,diglett,16,426,Mud Bomb,1,26,1
-50,diglett,16,523,Bulldoze,1,18,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+50,1,Scratch,1,normal,40,100
+50,2,Scratch,1,normal,40,100
+50,3,Scratch,1,normal,40,100
+50,4,Scratch,1,normal,40,100
+50,5,Scratch,1,normal,40,100
+50,5,Sand Attack,1,ground,-,100
+50,6,Scratch,1,normal,40,100
+50,6,Sand Attack,1,ground,-,100
+50,7,Scratch,1,normal,40,100
+50,7,Sand Attack,1,ground,-,100
+50,8,Scratch,1,normal,40,100
+50,8,Sand Attack,1,ground,-,100
+50,9,Scratch,1,normal,40,100
+50,9,Sand Attack,1,ground,-,100
+50,10,Scratch,1,normal,40,100
+50,10,Sand Attack,1,ground,-,100
+50,11,Scratch,1,normal,40,100
+50,11,Sand Attack,1,ground,-,100
+50,12,Scratch,1,normal,40,100
+50,12,Sand Attack,1,ground,-,100
+50,13,Scratch,1,normal,40,100
+50,13,Sand Attack,1,ground,-,100
+50,14,Scratch,1,normal,40,100
+50,14,Sand Attack,1,ground,-,100
+50,15,Scratch,1,normal,40,100
+50,15,Sand Attack,1,ground,-,100
+50,16,Scratch,1,normal,40,100
+50,16,Sand Attack,1,ground,-,100
+50,8,Growl,4,normal,-,100
+50,9,Growl,4,normal,-,100
+50,10,Growl,4,normal,-,100
+50,11,Growl,4,normal,-,100
+50,14,Growl,4,normal,-,100
+50,15,Growl,4,normal,-,100
+50,16,Growl,4,normal,-,100
+50,3,Growl,5,normal,-,100
+50,4,Growl,5,normal,-,100
+50,5,Growl,5,normal,-,100
+50,6,Growl,5,normal,-,100
+50,7,Growl,5,normal,-,100
+50,12,Growl,5,normal,-,100
+50,13,Growl,5,normal,-,100
+50,8,Astonish,7,ghost,30,100
+50,9,Astonish,7,ghost,30,100
+50,10,Astonish,7,ghost,30,100
+50,11,Astonish,7,ghost,30,100
+50,14,Astonish,7,ghost,30,100
+50,15,Astonish,7,ghost,30,100
+50,16,Astonish,7,ghost,30,100
+50,3,Magnitude,9,ground,-,100
+50,4,Magnitude,9,ground,-,100
+50,5,Magnitude,9,ground,-,100
+50,6,Magnitude,9,ground,-,100
+50,7,Magnitude,9,ground,-,100
+50,12,Magnitude,9,ground,-,100
+50,13,Magnitude,9,ground,-,100
+50,8,Magnitude,12,ground,-,100
+50,9,Magnitude,12,ground,-,100
+50,10,Magnitude,12,ground,-,100
+50,11,Mud-Slap,12,ground,20,100
+50,14,Mud-Slap,12,ground,20,100
+50,15,Mud-Slap,12,ground,20,100
+50,16,Mud-Slap,12,ground,20,100
+50,1,Growl,15,normal,-,100
+50,2,Growl,15,normal,-,100
+50,8,Mud-Slap,15,ground,20,100
+50,9,Mud-Slap,15,ground,20,100
+50,10,Mud-Slap,15,ground,20,100
+50,11,Magnitude,15,ground,-,100
+50,14,Magnitude,15,ground,-,100
+50,15,Magnitude,15,ground,-,100
+50,16,Magnitude,15,ground,-,100
+50,3,Dig,17,ground,80,100
+50,4,Dig,17,ground,80,100
+50,5,Dig,17,ground,80,100
+50,6,Dig,17,ground,80,100
+50,7,Dig,17,ground,80,100
+50,12,Dig,17,ground,80,100
+50,13,Dig,17,ground,80,100
+50,8,Dig,18,ground,80,100
+50,9,Dig,18,ground,80,100
+50,10,Dig,18,ground,80,100
+50,11,Bulldoze,18,ground,60,100
+50,14,Bulldoze,18,ground,60,100
+50,15,Bulldoze,18,ground,60,100
+50,16,Bulldoze,18,ground,60,100
+50,1,Dig,19,ground,80,100
+50,2,Dig,19,ground,80,100
+50,7,Fury Swipes,21,normal,18,80
+50,8,Sucker Punch,23,dark,80,100
+50,9,Sucker Punch,23,dark,80,100
+50,10,Sucker Punch,23,dark,80,100
+50,11,Sucker Punch,23,dark,80,100
+50,14,Sucker Punch,23,dark,80,100
+50,15,Sucker Punch,23,dark,80,100
+50,16,Sucker Punch,23,dark,80,100
+50,1,Sand Attack,24,ground,-,100
+50,2,Sand Attack,24,ground,-,100
+50,3,Sand Attack,25,ground,-,100
+50,4,Sand Attack,25,ground,-,100
+50,5,Mud-Slap,25,ground,20,100
+50,6,Mud-Slap,25,ground,20,100
+50,7,Mud-Slap,25,ground,20,100
+50,12,Mud-Slap,25,ground,20,100
+50,13,Mud-Slap,25,ground,20,100
+50,8,Earth Power,26,ground,90,100
+50,9,Earth Power,26,ground,90,100
+50,10,Earth Power,26,ground,90,100
+50,11,Mud Bomb,26,ground,65,85
+50,14,Mud Bomb,26,ground,65,85
+50,15,Mud Bomb,26,ground,65,85
+50,16,Mud Bomb,26,ground,65,85
+50,8,Mud Bomb,29,ground,65,85
+50,9,Mud Bomb,29,ground,65,85
+50,10,Mud Bomb,29,ground,65,85
+50,11,Earth Power,29,ground,90,100
+50,14,Earth Power,29,ground,90,100
+50,15,Earth Power,29,ground,90,100
+50,16,Earth Power,29,ground,90,100
+50,1,Slash,31,normal,70,100
+50,2,Slash,31,normal,70,100
+50,3,Slash,33,normal,70,100
+50,4,Slash,33,normal,70,100
+50,5,Slash,33,normal,70,100
+50,6,Slash,33,normal,70,100
+50,7,Slash,33,normal,70,100
+50,12,Slash,33,normal,70,100
+50,13,Slash,33,normal,70,100
+50,8,Slash,34,normal,70,100
+50,9,Slash,34,normal,70,100
+50,10,Slash,34,normal,70,100
+50,11,Dig,34,ground,80,100
+50,14,Dig,34,ground,80,100
+50,15,Dig,34,ground,80,100
+50,16,Dig,34,ground,80,100
+50,8,Earthquake,37,ground,100,100
+50,9,Earthquake,37,ground,100,100
+50,10,Earthquake,37,ground,100,100
+50,11,Slash,37,normal,70,100
+50,14,Slash,37,normal,70,100
+50,15,Slash,37,normal,70,100
+50,16,Slash,37,normal,70,100
+50,1,Earthquake,40,ground,100,100
+50,2,Earthquake,40,ground,100,100
+50,8,Fissure,40,ground,-,30
+50,9,Fissure,40,ground,-,30
+50,10,Fissure,40,ground,-,30
+50,11,Earthquake,40,ground,100,100
+50,14,Earthquake,40,ground,100,100
+50,15,Earthquake,40,ground,100,100
+50,16,Earthquake,40,ground,100,100
+50,3,Earthquake,41,ground,100,100
+50,4,Earthquake,41,ground,100,100
+50,5,Earthquake,41,ground,100,100
+50,6,Earthquake,41,ground,100,100
+50,7,Earthquake,41,ground,100,100
+50,12,Earthquake,41,ground,100,100
+50,13,Earthquake,41,ground,100,100
+50,11,Fissure,45,ground,-,30
+50,14,Fissure,45,ground,-,30
+50,15,Fissure,45,ground,-,30
+50,16,Fissure,45,ground,-,30
+50,3,Fissure,49,ground,-,30
+50,4,Fissure,49,ground,-,30
+50,5,Fissure,49,ground,-,30
+50,6,Fissure,49,ground,-,30
+50,7,Fissure,49,ground,-,30
+50,12,Fissure,49,ground,-,30
+50,13,Fissure,49,ground,-,30

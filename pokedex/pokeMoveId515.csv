@@ -1,63 +1,63 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-515,panpour,11,10,Scratch,1,1,
-515,panpour,11,43,Leer,1,4,
-515,panpour,11,44,Bite,1,19,
-515,panpour,11,55,Water Gun,1,10,
-515,panpour,11,122,Lick,1,7,
-515,panpour,11,154,Fury Swipes,1,13,
-515,panpour,11,242,Crunch,1,43,
-515,panpour,11,269,Taunt,1,25,
-515,panpour,11,278,Recycle,1,37,
-515,panpour,11,346,Water Sport,1,16,
-515,panpour,11,362,Brine,1,34,
-515,panpour,11,363,Natural Gift,1,40,
-515,panpour,11,374,Fling,1,28,
-515,panpour,11,503,Scald,1,22,
-515,panpour,11,512,Acrobatics,1,31,
-515,panpour,14,10,Scratch,1,1,
-515,panpour,14,43,Leer,1,4,
-515,panpour,14,44,Bite,1,19,
-515,panpour,14,55,Water Gun,1,10,
-515,panpour,14,122,Lick,1,7,
-515,panpour,14,154,Fury Swipes,1,13,
-515,panpour,14,242,Crunch,1,43,
-515,panpour,14,269,Taunt,1,25,
-515,panpour,14,278,Recycle,1,37,
-515,panpour,14,346,Water Sport,1,16,
-515,panpour,14,362,Brine,1,34,
-515,panpour,14,363,Natural Gift,1,40,
-515,panpour,14,374,Fling,1,28,
-515,panpour,14,503,Scald,1,22,
-515,panpour,14,512,Acrobatics,1,31,
-515,panpour,15,10,Scratch,1,1,1
-515,panpour,15,43,Leer,1,4,
-515,panpour,15,44,Bite,1,19,
-515,panpour,15,55,Water Gun,1,10,
-515,panpour,15,122,Lick,1,7,
-515,panpour,15,154,Fury Swipes,1,13,
-515,panpour,15,242,Crunch,1,43,
-515,panpour,15,269,Taunt,1,25,
-515,panpour,15,278,Recycle,1,37,
-515,panpour,15,346,Water Sport,1,16,
-515,panpour,15,362,Brine,1,34,
-515,panpour,15,363,Natural Gift,1,40,
-515,panpour,15,374,Fling,1,28,
-515,panpour,15,503,Scald,1,22,
-515,panpour,15,512,Acrobatics,1,31,
-515,panpour,15,589,Play Nice,1,1,2
-515,panpour,16,10,Scratch,1,1,1
-515,panpour,16,43,Leer,1,4,1
-515,panpour,16,44,Bite,1,19,1
-515,panpour,16,55,Water Gun,1,10,1
-515,panpour,16,122,Lick,1,7,1
-515,panpour,16,154,Fury Swipes,1,13,1
-515,panpour,16,242,Crunch,1,43,1
-515,panpour,16,269,Taunt,1,25,1
-515,panpour,16,278,Recycle,1,37,1
-515,panpour,16,346,Water Sport,1,16,1
-515,panpour,16,362,Brine,1,34,1
-515,panpour,16,363,Natural Gift,1,40,1
-515,panpour,16,374,Fling,1,28,1
-515,panpour,16,503,Scald,1,22,1
-515,panpour,16,512,Acrobatics,1,31,1
-515,panpour,16,589,Play Nice,1,1,2
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+515,11,Scratch,1,normal,40,100
+515,14,Scratch,1,normal,40,100
+515,15,Scratch,1,normal,40,100
+515,15,Play Nice,1,normal,-,-
+515,16,Scratch,1,normal,40,100
+515,16,Play Nice,1,normal,-,-
+515,11,Leer,4,normal,-,100
+515,14,Leer,4,normal,-,100
+515,15,Leer,4,normal,-,100
+515,16,Leer,4,normal,-,100
+515,11,Lick,7,ghost,30,100
+515,14,Lick,7,ghost,30,100
+515,15,Lick,7,ghost,30,100
+515,16,Lick,7,ghost,30,100
+515,11,Water Gun,10,water,40,100
+515,14,Water Gun,10,water,40,100
+515,15,Water Gun,10,water,40,100
+515,16,Water Gun,10,water,40,100
+515,11,Fury Swipes,13,normal,18,80
+515,14,Fury Swipes,13,normal,18,80
+515,15,Fury Swipes,13,normal,18,80
+515,16,Fury Swipes,13,normal,18,80
+515,11,Water Sport,16,water,-,-
+515,14,Water Sport,16,water,-,-
+515,15,Water Sport,16,water,-,-
+515,16,Water Sport,16,water,-,-
+515,11,Bite,19,dark,60,100
+515,14,Bite,19,dark,60,100
+515,15,Bite,19,dark,60,100
+515,16,Bite,19,dark,60,100
+515,11,Scald,22,water,80,100
+515,14,Scald,22,water,80,100
+515,15,Scald,22,water,80,100
+515,16,Scald,22,water,80,100
+515,11,Taunt,25,dark,-,100
+515,14,Taunt,25,dark,-,100
+515,15,Taunt,25,dark,-,100
+515,16,Taunt,25,dark,-,100
+515,11,Fling,28,dark,-,100
+515,14,Fling,28,dark,-,100
+515,15,Fling,28,dark,-,100
+515,16,Fling,28,dark,-,100
+515,11,Acrobatics,31,flying,55,100
+515,14,Acrobatics,31,flying,55,100
+515,15,Acrobatics,31,flying,55,100
+515,16,Acrobatics,31,flying,55,100
+515,11,Brine,34,water,65,100
+515,14,Brine,34,water,65,100
+515,15,Brine,34,water,65,100
+515,16,Brine,34,water,65,100
+515,11,Recycle,37,normal,-,-
+515,14,Recycle,37,normal,-,-
+515,15,Recycle,37,normal,-,-
+515,16,Recycle,37,normal,-,-
+515,11,Natural Gift,40,normal,-,100
+515,14,Natural Gift,40,normal,-,100
+515,15,Natural Gift,40,normal,-,100
+515,16,Natural Gift,40,normal,-,100
+515,11,Crunch,43,dark,80,100
+515,14,Crunch,43,dark,80,100
+515,15,Crunch,43,dark,80,100
+515,16,Crunch,43,dark,80,100

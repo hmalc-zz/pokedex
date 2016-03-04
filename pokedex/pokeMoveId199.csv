@@ -1,194 +1,194 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-199,slowking,3,29,Headbutt,1,34,
-199,slowking,3,33,Tackle,1,1,2
-199,slowking,3,45,Growl,1,6,
-199,slowking,3,50,Disable,1,29,
-199,slowking,3,55,Water Gun,1,15,
-199,slowking,3,93,Confusion,1,20,
-199,slowking,3,94,Psychic,1,48,
-199,slowking,3,174,Curse,1,1,1
-199,slowking,3,207,Swagger,1,43,
-199,slowking,4,29,Headbutt,1,34,
-199,slowking,4,33,Tackle,1,1,2
-199,slowking,4,45,Growl,1,6,
-199,slowking,4,50,Disable,1,29,
-199,slowking,4,55,Water Gun,1,15,
-199,slowking,4,93,Confusion,1,20,
-199,slowking,4,94,Psychic,1,48,
-199,slowking,4,174,Curse,1,1,1
-199,slowking,4,207,Swagger,1,43,
-199,slowking,5,29,Headbutt,1,34,
-199,slowking,5,33,Tackle,1,1,3
-199,slowking,5,45,Growl,1,6,
-199,slowking,5,50,Disable,1,29,
-199,slowking,5,55,Water Gun,1,15,
-199,slowking,5,93,Confusion,1,20,
-199,slowking,5,94,Psychic,1,48,
-199,slowking,5,174,Curse,1,1,1
-199,slowking,5,207,Swagger,1,43,
-199,slowking,5,281,Yawn,1,1,2
-199,slowking,6,29,Headbutt,1,34,
-199,slowking,6,33,Tackle,1,1,3
-199,slowking,6,45,Growl,1,6,
-199,slowking,6,50,Disable,1,29,
-199,slowking,6,55,Water Gun,1,15,
-199,slowking,6,93,Confusion,1,20,
-199,slowking,6,94,Psychic,1,48,
-199,slowking,6,174,Curse,1,1,1
-199,slowking,6,207,Swagger,1,43,
-199,slowking,6,281,Yawn,1,1,2
-199,slowking,7,29,Headbutt,1,29,
-199,slowking,7,33,Tackle,1,1,3
-199,slowking,7,45,Growl,1,6,
-199,slowking,7,50,Disable,1,24,
-199,slowking,7,55,Water Gun,1,13,
-199,slowking,7,93,Confusion,1,17,
-199,slowking,7,94,Psychic,1,40,
-199,slowking,7,174,Curse,1,1,1
-199,slowking,7,207,Swagger,1,36,
-199,slowking,7,244,Psych Up,1,47,
-199,slowking,7,281,Yawn,1,1,2
-199,slowking,8,29,Headbutt,1,25,
-199,slowking,8,33,Tackle,1,1,4
-199,slowking,8,45,Growl,1,6,
-199,slowking,8,50,Disable,1,20,
-199,slowking,8,55,Water Gun,1,11,
-199,slowking,8,93,Confusion,1,15,
-199,slowking,8,94,Psychic,1,48,
-199,slowking,8,174,Curse,1,1,2
-199,slowking,8,207,Swagger,1,43,
-199,slowking,8,237,Hidden Power,1,1,1
-199,slowking,8,244,Psych Up,1,57,
-199,slowking,8,281,Yawn,1,1,3
-199,slowking,8,352,Water Pulse,1,29,
-199,slowking,8,376,Trump Card,1,53,
-199,slowking,8,417,Nasty Plot,1,39,
-199,slowking,8,428,Zen Headbutt,1,34,
-199,slowking,9,29,Headbutt,1,25,
-199,slowking,9,33,Tackle,1,1,5
-199,slowking,9,45,Growl,1,6,
-199,slowking,9,50,Disable,1,20,
-199,slowking,9,55,Water Gun,1,11,
-199,slowking,9,93,Confusion,1,15,
-199,slowking,9,94,Psychic,1,48,
-199,slowking,9,174,Curse,1,1,3
-199,slowking,9,207,Swagger,1,43,
-199,slowking,9,237,Hidden Power,1,1,2
-199,slowking,9,244,Psych Up,1,57,
-199,slowking,9,281,Yawn,1,1,4
-199,slowking,9,352,Water Pulse,1,29,
-199,slowking,9,376,Trump Card,1,53,
-199,slowking,9,408,Power Gem,1,1,1
-199,slowking,9,417,Nasty Plot,1,39,
-199,slowking,9,428,Zen Headbutt,1,34,
-199,slowking,10,29,Headbutt,1,25,
-199,slowking,10,33,Tackle,1,1,5
-199,slowking,10,45,Growl,1,6,
-199,slowking,10,50,Disable,1,20,
-199,slowking,10,55,Water Gun,1,11,
-199,slowking,10,93,Confusion,1,15,
-199,slowking,10,94,Psychic,1,48,
-199,slowking,10,174,Curse,1,1,3
-199,slowking,10,207,Swagger,1,43,
-199,slowking,10,237,Hidden Power,1,1,2
-199,slowking,10,244,Psych Up,1,57,
-199,slowking,10,281,Yawn,1,1,4
-199,slowking,10,352,Water Pulse,1,29,
-199,slowking,10,376,Trump Card,1,53,
-199,slowking,10,408,Power Gem,1,1,1
-199,slowking,10,417,Nasty Plot,1,39,
-199,slowking,10,428,Zen Headbutt,1,34,
-199,slowking,11,29,Headbutt,1,23,
-199,slowking,11,33,Tackle,1,1,5
-199,slowking,11,45,Growl,1,5,
-199,slowking,11,50,Disable,1,19,
-199,slowking,11,55,Water Gun,1,9,
-199,slowking,11,93,Confusion,1,14,
-199,slowking,11,94,Psychic,1,45,
-199,slowking,11,174,Curse,1,1,3
-199,slowking,11,207,Swagger,1,41,
-199,slowking,11,237,Hidden Power,1,1,2
-199,slowking,11,244,Psych Up,1,54,
-199,slowking,11,281,Yawn,1,1,4
-199,slowking,11,352,Water Pulse,1,28,
-199,slowking,11,376,Trump Card,1,49,
-199,slowking,11,408,Power Gem,1,1,1
-199,slowking,11,417,Nasty Plot,1,36,
-199,slowking,11,428,Zen Headbutt,1,32,
-199,slowking,11,505,Heal Pulse,1,58,
-199,slowking,12,29,Headbutt,1,34,
-199,slowking,12,33,Tackle,1,1,3
-199,slowking,12,45,Growl,1,6,
-199,slowking,12,50,Disable,1,29,
-199,slowking,12,55,Water Gun,1,15,
-199,slowking,12,93,Confusion,1,20,
-199,slowking,12,94,Psychic,1,48,
-199,slowking,12,174,Curse,1,1,1
-199,slowking,12,207,Swagger,1,43,
-199,slowking,12,281,Yawn,1,1,2
-199,slowking,13,29,Headbutt,1,34,
-199,slowking,13,33,Tackle,1,1,3
-199,slowking,13,45,Growl,1,6,
-199,slowking,13,50,Disable,1,29,
-199,slowking,13,55,Water Gun,1,15,
-199,slowking,13,93,Confusion,1,20,
-199,slowking,13,94,Psychic,1,48,
-199,slowking,13,174,Curse,1,1,1
-199,slowking,13,207,Swagger,1,43,
-199,slowking,13,281,Yawn,1,1,2
-199,slowking,14,29,Headbutt,1,23,
-199,slowking,14,33,Tackle,1,1,5
-199,slowking,14,45,Growl,1,5,
-199,slowking,14,50,Disable,1,19,
-199,slowking,14,55,Water Gun,1,9,
-199,slowking,14,93,Confusion,1,14,
-199,slowking,14,94,Psychic,1,45,
-199,slowking,14,174,Curse,1,1,3
-199,slowking,14,207,Swagger,1,41,
-199,slowking,14,237,Hidden Power,1,1,2
-199,slowking,14,244,Psych Up,1,54,
-199,slowking,14,281,Yawn,1,1,4
-199,slowking,14,352,Water Pulse,1,28,
-199,slowking,14,376,Trump Card,1,49,
-199,slowking,14,408,Power Gem,1,1,1
-199,slowking,14,417,Nasty Plot,1,36,
-199,slowking,14,428,Zen Headbutt,1,32,
-199,slowking,14,505,Heal Pulse,1,58,
-199,slowking,15,29,Headbutt,1,23,
-199,slowking,15,33,Tackle,1,1,6
-199,slowking,15,45,Growl,1,5,
-199,slowking,15,50,Disable,1,19,
-199,slowking,15,55,Water Gun,1,9,
-199,slowking,15,93,Confusion,1,14,
-199,slowking,15,94,Psychic,1,45,
-199,slowking,15,174,Curse,1,1,4
-199,slowking,15,207,Swagger,1,41,
-199,slowking,15,237,Hidden Power,1,1,3
-199,slowking,15,244,Psych Up,1,54,
-199,slowking,15,281,Yawn,1,1,5
-199,slowking,15,352,Water Pulse,1,28,
-199,slowking,15,376,Trump Card,1,49,
-199,slowking,15,408,Power Gem,1,1,2
-199,slowking,15,417,Nasty Plot,1,36,
-199,slowking,15,428,Zen Headbutt,1,32,
-199,slowking,15,505,Heal Pulse,1,1,1
-199,slowking,15,505,Heal Pulse,1,58,
-199,slowking,16,29,Headbutt,1,23,1
-199,slowking,16,33,Tackle,1,1,6
-199,slowking,16,45,Growl,1,5,1
-199,slowking,16,50,Disable,1,19,1
-199,slowking,16,55,Water Gun,1,9,1
-199,slowking,16,93,Confusion,1,14,1
-199,slowking,16,94,Psychic,1,45,1
-199,slowking,16,174,Curse,1,1,4
-199,slowking,16,207,Swagger,1,41,1
-199,slowking,16,237,Hidden Power,1,1,3
-199,slowking,16,244,Psych Up,1,54,1
-199,slowking,16,281,Yawn,1,1,5
-199,slowking,16,352,Water Pulse,1,28,1
-199,slowking,16,376,Trump Card,1,49,1
-199,slowking,16,408,Power Gem,1,1,2
-199,slowking,16,417,Nasty Plot,1,36,1
-199,slowking,16,428,Zen Headbutt,1,32,1
-199,slowking,16,505,Heal Pulse,1,1,1
-199,slowking,16,505,Heal Pulse,1,58,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+199,3,Tackle,1,normal,50,100
+199,3,Curse,1,ghost,-,-
+199,4,Tackle,1,normal,50,100
+199,4,Curse,1,ghost,-,-
+199,5,Tackle,1,normal,50,100
+199,5,Curse,1,ghost,-,-
+199,5,Yawn,1,normal,-,-
+199,6,Tackle,1,normal,50,100
+199,6,Curse,1,ghost,-,-
+199,6,Yawn,1,normal,-,-
+199,7,Tackle,1,normal,50,100
+199,7,Curse,1,ghost,-,-
+199,7,Yawn,1,normal,-,-
+199,8,Tackle,1,normal,50,100
+199,8,Curse,1,ghost,-,-
+199,8,Hidden Power,1,normal,60,100
+199,8,Yawn,1,normal,-,-
+199,9,Tackle,1,normal,50,100
+199,9,Curse,1,ghost,-,-
+199,9,Hidden Power,1,normal,60,100
+199,9,Yawn,1,normal,-,-
+199,9,Power Gem,1,rock,80,100
+199,10,Tackle,1,normal,50,100
+199,10,Curse,1,ghost,-,-
+199,10,Hidden Power,1,normal,60,100
+199,10,Yawn,1,normal,-,-
+199,10,Power Gem,1,rock,80,100
+199,11,Tackle,1,normal,50,100
+199,11,Curse,1,ghost,-,-
+199,11,Hidden Power,1,normal,60,100
+199,11,Yawn,1,normal,-,-
+199,11,Power Gem,1,rock,80,100
+199,12,Tackle,1,normal,50,100
+199,12,Curse,1,ghost,-,-
+199,12,Yawn,1,normal,-,-
+199,13,Tackle,1,normal,50,100
+199,13,Curse,1,ghost,-,-
+199,13,Yawn,1,normal,-,-
+199,14,Tackle,1,normal,50,100
+199,14,Curse,1,ghost,-,-
+199,14,Hidden Power,1,normal,60,100
+199,14,Yawn,1,normal,-,-
+199,14,Power Gem,1,rock,80,100
+199,15,Tackle,1,normal,50,100
+199,15,Curse,1,ghost,-,-
+199,15,Hidden Power,1,normal,60,100
+199,15,Yawn,1,normal,-,-
+199,15,Power Gem,1,rock,80,100
+199,15,Heal Pulse,1,psychic,-,-
+199,16,Tackle,1,normal,50,100
+199,16,Curse,1,ghost,-,-
+199,16,Hidden Power,1,normal,60,100
+199,16,Yawn,1,normal,-,-
+199,16,Power Gem,1,rock,80,100
+199,16,Heal Pulse,1,psychic,-,-
+199,11,Growl,5,normal,-,100
+199,14,Growl,5,normal,-,100
+199,15,Growl,5,normal,-,100
+199,16,Growl,5,normal,-,100
+199,3,Growl,6,normal,-,100
+199,4,Growl,6,normal,-,100
+199,5,Growl,6,normal,-,100
+199,6,Growl,6,normal,-,100
+199,7,Growl,6,normal,-,100
+199,8,Growl,6,normal,-,100
+199,9,Growl,6,normal,-,100
+199,10,Growl,6,normal,-,100
+199,12,Growl,6,normal,-,100
+199,13,Growl,6,normal,-,100
+199,11,Water Gun,9,water,40,100
+199,14,Water Gun,9,water,40,100
+199,15,Water Gun,9,water,40,100
+199,16,Water Gun,9,water,40,100
+199,8,Water Gun,11,water,40,100
+199,9,Water Gun,11,water,40,100
+199,10,Water Gun,11,water,40,100
+199,7,Water Gun,13,water,40,100
+199,11,Confusion,14,psychic,50,100
+199,14,Confusion,14,psychic,50,100
+199,15,Confusion,14,psychic,50,100
+199,16,Confusion,14,psychic,50,100
+199,3,Water Gun,15,water,40,100
+199,4,Water Gun,15,water,40,100
+199,5,Water Gun,15,water,40,100
+199,6,Water Gun,15,water,40,100
+199,8,Confusion,15,psychic,50,100
+199,9,Confusion,15,psychic,50,100
+199,10,Confusion,15,psychic,50,100
+199,12,Water Gun,15,water,40,100
+199,13,Water Gun,15,water,40,100
+199,7,Confusion,17,psychic,50,100
+199,11,Disable,19,normal,-,100
+199,14,Disable,19,normal,-,100
+199,15,Disable,19,normal,-,100
+199,16,Disable,19,normal,-,100
+199,3,Confusion,20,psychic,50,100
+199,4,Confusion,20,psychic,50,100
+199,5,Confusion,20,psychic,50,100
+199,6,Confusion,20,psychic,50,100
+199,8,Disable,20,normal,-,100
+199,9,Disable,20,normal,-,100
+199,10,Disable,20,normal,-,100
+199,12,Confusion,20,psychic,50,100
+199,13,Confusion,20,psychic,50,100
+199,11,Headbutt,23,normal,70,100
+199,14,Headbutt,23,normal,70,100
+199,15,Headbutt,23,normal,70,100
+199,16,Headbutt,23,normal,70,100
+199,7,Disable,24,normal,-,100
+199,8,Headbutt,25,normal,70,100
+199,9,Headbutt,25,normal,70,100
+199,10,Headbutt,25,normal,70,100
+199,11,Water Pulse,28,water,60,100
+199,14,Water Pulse,28,water,60,100
+199,15,Water Pulse,28,water,60,100
+199,16,Water Pulse,28,water,60,100
+199,3,Disable,29,normal,-,100
+199,4,Disable,29,normal,-,100
+199,5,Disable,29,normal,-,100
+199,6,Disable,29,normal,-,100
+199,7,Headbutt,29,normal,70,100
+199,8,Water Pulse,29,water,60,100
+199,9,Water Pulse,29,water,60,100
+199,10,Water Pulse,29,water,60,100
+199,12,Disable,29,normal,-,100
+199,13,Disable,29,normal,-,100
+199,11,Zen Headbutt,32,psychic,80,90
+199,14,Zen Headbutt,32,psychic,80,90
+199,15,Zen Headbutt,32,psychic,80,90
+199,16,Zen Headbutt,32,psychic,80,90
+199,3,Headbutt,34,normal,70,100
+199,4,Headbutt,34,normal,70,100
+199,5,Headbutt,34,normal,70,100
+199,6,Headbutt,34,normal,70,100
+199,8,Zen Headbutt,34,psychic,80,90
+199,9,Zen Headbutt,34,psychic,80,90
+199,10,Zen Headbutt,34,psychic,80,90
+199,12,Headbutt,34,normal,70,100
+199,13,Headbutt,34,normal,70,100
+199,7,Swagger,36,normal,-,90
+199,11,Nasty Plot,36,dark,-,-
+199,14,Nasty Plot,36,dark,-,-
+199,15,Nasty Plot,36,dark,-,-
+199,16,Nasty Plot,36,dark,-,-
+199,8,Nasty Plot,39,dark,-,-
+199,9,Nasty Plot,39,dark,-,-
+199,10,Nasty Plot,39,dark,-,-
+199,7,Psychic,40,psychic,90,100
+199,11,Swagger,41,normal,-,90
+199,14,Swagger,41,normal,-,90
+199,15,Swagger,41,normal,-,90
+199,16,Swagger,41,normal,-,90
+199,3,Swagger,43,normal,-,90
+199,4,Swagger,43,normal,-,90
+199,5,Swagger,43,normal,-,90
+199,6,Swagger,43,normal,-,90
+199,8,Swagger,43,normal,-,90
+199,9,Swagger,43,normal,-,90
+199,10,Swagger,43,normal,-,90
+199,12,Swagger,43,normal,-,90
+199,13,Swagger,43,normal,-,90
+199,11,Psychic,45,psychic,90,100
+199,14,Psychic,45,psychic,90,100
+199,15,Psychic,45,psychic,90,100
+199,16,Psychic,45,psychic,90,100
+199,7,Psych Up,47,normal,-,-
+199,3,Psychic,48,psychic,90,100
+199,4,Psychic,48,psychic,90,100
+199,5,Psychic,48,psychic,90,100
+199,6,Psychic,48,psychic,90,100
+199,8,Psychic,48,psychic,90,100
+199,9,Psychic,48,psychic,90,100
+199,10,Psychic,48,psychic,90,100
+199,12,Psychic,48,psychic,90,100
+199,13,Psychic,48,psychic,90,100
+199,11,Trump Card,49,normal,-,-
+199,14,Trump Card,49,normal,-,-
+199,15,Trump Card,49,normal,-,-
+199,16,Trump Card,49,normal,-,-
+199,8,Trump Card,53,normal,-,-
+199,9,Trump Card,53,normal,-,-
+199,10,Trump Card,53,normal,-,-
+199,11,Psych Up,54,normal,-,-
+199,14,Psych Up,54,normal,-,-
+199,15,Psych Up,54,normal,-,-
+199,16,Psych Up,54,normal,-,-
+199,8,Psych Up,57,normal,-,-
+199,9,Psych Up,57,normal,-,-
+199,10,Psych Up,57,normal,-,-
+199,11,Heal Pulse,58,psychic,-,-
+199,14,Heal Pulse,58,psychic,-,-
+199,15,Heal Pulse,58,psychic,-,-
+199,16,Heal Pulse,58,psychic,-,-

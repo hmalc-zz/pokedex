@@ -1,219 +1,219 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-18,pidgeot,1,16,Gust,1,1,1
-18,pidgeot,1,17,Wing Attack,1,31,
-18,pidgeot,1,18,Whirlwind,1,21,
-18,pidgeot,1,28,Sand Attack,1,1,2
-18,pidgeot,1,28,Sand Attack,1,5,
-18,pidgeot,1,97,Agility,1,44,
-18,pidgeot,1,98,Quick Attack,1,1,3
-18,pidgeot,1,98,Quick Attack,1,12,
-18,pidgeot,1,119,Mirror Move,1,54,
-18,pidgeot,2,16,Gust,1,1,1
-18,pidgeot,2,17,Wing Attack,1,31,
-18,pidgeot,2,18,Whirlwind,1,21,
-18,pidgeot,2,28,Sand Attack,1,1,2
-18,pidgeot,2,28,Sand Attack,1,5,
-18,pidgeot,2,97,Agility,1,44,
-18,pidgeot,2,98,Quick Attack,1,1,3
-18,pidgeot,2,98,Quick Attack,1,12,
-18,pidgeot,2,119,Mirror Move,1,54,
-18,pidgeot,3,16,Gust,1,1,3
-18,pidgeot,3,16,Gust,1,9,
-18,pidgeot,3,17,Wing Attack,1,33,
-18,pidgeot,3,18,Whirlwind,1,23,
-18,pidgeot,3,28,Sand Attack,1,1,2
-18,pidgeot,3,28,Sand Attack,1,5,
-18,pidgeot,3,33,Tackle,1,1,1
-18,pidgeot,3,97,Agility,1,46,
-18,pidgeot,3,98,Quick Attack,1,1,4
-18,pidgeot,3,98,Quick Attack,1,15,
-18,pidgeot,3,119,Mirror Move,1,61,
-18,pidgeot,4,16,Gust,1,1,3
-18,pidgeot,4,16,Gust,1,9,
-18,pidgeot,4,17,Wing Attack,1,33,
-18,pidgeot,4,18,Whirlwind,1,23,
-18,pidgeot,4,28,Sand Attack,1,1,2
-18,pidgeot,4,28,Sand Attack,1,5,
-18,pidgeot,4,33,Tackle,1,1,1
-18,pidgeot,4,97,Agility,1,46,
-18,pidgeot,4,98,Quick Attack,1,1,4
-18,pidgeot,4,98,Quick Attack,1,15,
-18,pidgeot,4,119,Mirror Move,1,61,
-18,pidgeot,5,16,Gust,1,1,3
-18,pidgeot,5,16,Gust,1,9,
-18,pidgeot,5,17,Wing Attack,1,27,
-18,pidgeot,5,18,Whirlwind,1,20,
-18,pidgeot,5,28,Sand Attack,1,1,2
-18,pidgeot,5,28,Sand Attack,1,5,
-18,pidgeot,5,33,Tackle,1,1,1
-18,pidgeot,5,97,Agility,1,48,
-18,pidgeot,5,98,Quick Attack,1,1,4
-18,pidgeot,5,98,Quick Attack,1,13,
-18,pidgeot,5,119,Mirror Move,1,62,
-18,pidgeot,5,297,Feather Dance,1,34,
-18,pidgeot,6,16,Gust,1,1,3
-18,pidgeot,6,16,Gust,1,9,
-18,pidgeot,6,17,Wing Attack,1,27,
-18,pidgeot,6,18,Whirlwind,1,20,
-18,pidgeot,6,28,Sand Attack,1,1,2
-18,pidgeot,6,28,Sand Attack,1,5,
-18,pidgeot,6,33,Tackle,1,1,1
-18,pidgeot,6,97,Agility,1,48,
-18,pidgeot,6,98,Quick Attack,1,1,4
-18,pidgeot,6,98,Quick Attack,1,13,
-18,pidgeot,6,119,Mirror Move,1,62,
-18,pidgeot,6,297,Feather Dance,1,34,
-18,pidgeot,7,16,Gust,1,1,3
-18,pidgeot,7,16,Gust,1,9,
-18,pidgeot,7,17,Wing Attack,1,27,
-18,pidgeot,7,18,Whirlwind,1,20,
-18,pidgeot,7,28,Sand Attack,1,1,2
-18,pidgeot,7,28,Sand Attack,1,5,
-18,pidgeot,7,33,Tackle,1,1,1
-18,pidgeot,7,97,Agility,1,48,
-18,pidgeot,7,98,Quick Attack,1,1,4
-18,pidgeot,7,98,Quick Attack,1,13,
-18,pidgeot,7,119,Mirror Move,1,62,
-18,pidgeot,7,297,Feather Dance,1,34,
-18,pidgeot,8,16,Gust,1,1,3
-18,pidgeot,8,16,Gust,1,9,
-18,pidgeot,8,17,Wing Attack,1,38,
-18,pidgeot,8,18,Whirlwind,1,17,
-18,pidgeot,8,28,Sand Attack,1,1,2
-18,pidgeot,8,28,Sand Attack,1,5,
-18,pidgeot,8,33,Tackle,1,1,1
-18,pidgeot,8,97,Agility,1,32,
-18,pidgeot,8,98,Quick Attack,1,1,4
-18,pidgeot,8,98,Quick Attack,1,13,
-18,pidgeot,8,119,Mirror Move,1,56,
-18,pidgeot,8,239,Twister,1,22,
-18,pidgeot,8,297,Feather Dance,1,27,
-18,pidgeot,8,355,Roost,1,44,
-18,pidgeot,8,366,Tailwind,1,50,
-18,pidgeot,8,403,Air Slash,1,62,
-18,pidgeot,9,16,Gust,1,1,3
-18,pidgeot,9,16,Gust,1,9,
-18,pidgeot,9,17,Wing Attack,1,38,
-18,pidgeot,9,18,Whirlwind,1,17,
-18,pidgeot,9,28,Sand Attack,1,1,2
-18,pidgeot,9,28,Sand Attack,1,5,
-18,pidgeot,9,33,Tackle,1,1,1
-18,pidgeot,9,97,Agility,1,32,
-18,pidgeot,9,98,Quick Attack,1,1,4
-18,pidgeot,9,98,Quick Attack,1,13,
-18,pidgeot,9,119,Mirror Move,1,56,
-18,pidgeot,9,239,Twister,1,22,
-18,pidgeot,9,297,Feather Dance,1,27,
-18,pidgeot,9,355,Roost,1,44,
-18,pidgeot,9,366,Tailwind,1,50,
-18,pidgeot,9,403,Air Slash,1,62,
-18,pidgeot,10,16,Gust,1,1,3
-18,pidgeot,10,16,Gust,1,9,
-18,pidgeot,10,17,Wing Attack,1,38,
-18,pidgeot,10,18,Whirlwind,1,17,
-18,pidgeot,10,28,Sand Attack,1,1,2
-18,pidgeot,10,28,Sand Attack,1,5,
-18,pidgeot,10,33,Tackle,1,1,1
-18,pidgeot,10,97,Agility,1,32,
-18,pidgeot,10,98,Quick Attack,1,1,4
-18,pidgeot,10,98,Quick Attack,1,13,
-18,pidgeot,10,119,Mirror Move,1,56,
-18,pidgeot,10,239,Twister,1,22,
-18,pidgeot,10,297,Feather Dance,1,27,
-18,pidgeot,10,355,Roost,1,44,
-18,pidgeot,10,366,Tailwind,1,50,
-18,pidgeot,10,403,Air Slash,1,62,
-18,pidgeot,11,16,Gust,1,1,3
-18,pidgeot,11,16,Gust,1,9,
-18,pidgeot,11,17,Wing Attack,1,38,
-18,pidgeot,11,18,Whirlwind,1,17,
-18,pidgeot,11,28,Sand Attack,1,1,2
-18,pidgeot,11,28,Sand Attack,1,5,
-18,pidgeot,11,33,Tackle,1,1,1
-18,pidgeot,11,97,Agility,1,32,
-18,pidgeot,11,98,Quick Attack,1,1,4
-18,pidgeot,11,98,Quick Attack,1,13,
-18,pidgeot,11,119,Mirror Move,1,56,
-18,pidgeot,11,239,Twister,1,22,
-18,pidgeot,11,297,Feather Dance,1,27,
-18,pidgeot,11,355,Roost,1,44,
-18,pidgeot,11,366,Tailwind,1,50,
-18,pidgeot,11,403,Air Slash,1,62,
-18,pidgeot,11,542,Hurricane,1,68,
-18,pidgeot,12,16,Gust,1,1,3
-18,pidgeot,12,16,Gust,1,9,
-18,pidgeot,12,17,Wing Attack,1,27,
-18,pidgeot,12,18,Whirlwind,1,20,
-18,pidgeot,12,28,Sand Attack,1,1,2
-18,pidgeot,12,28,Sand Attack,1,5,
-18,pidgeot,12,33,Tackle,1,1,1
-18,pidgeot,12,97,Agility,1,48,
-18,pidgeot,12,98,Quick Attack,1,1,4
-18,pidgeot,12,98,Quick Attack,1,13,
-18,pidgeot,12,119,Mirror Move,1,62,
-18,pidgeot,12,297,Feather Dance,1,34,
-18,pidgeot,13,16,Gust,1,1,3
-18,pidgeot,13,16,Gust,1,9,
-18,pidgeot,13,17,Wing Attack,1,27,
-18,pidgeot,13,18,Whirlwind,1,20,
-18,pidgeot,13,28,Sand Attack,1,1,2
-18,pidgeot,13,28,Sand Attack,1,5,
-18,pidgeot,13,33,Tackle,1,1,1
-18,pidgeot,13,97,Agility,1,48,
-18,pidgeot,13,98,Quick Attack,1,1,4
-18,pidgeot,13,98,Quick Attack,1,13,
-18,pidgeot,13,119,Mirror Move,1,62,
-18,pidgeot,13,297,Feather Dance,1,34,
-18,pidgeot,14,16,Gust,1,1,3
-18,pidgeot,14,16,Gust,1,9,
-18,pidgeot,14,17,Wing Attack,1,38,
-18,pidgeot,14,18,Whirlwind,1,17,
-18,pidgeot,14,28,Sand Attack,1,1,2
-18,pidgeot,14,28,Sand Attack,1,5,
-18,pidgeot,14,33,Tackle,1,1,1
-18,pidgeot,14,97,Agility,1,32,
-18,pidgeot,14,98,Quick Attack,1,1,4
-18,pidgeot,14,98,Quick Attack,1,13,
-18,pidgeot,14,119,Mirror Move,1,56,
-18,pidgeot,14,239,Twister,1,22,
-18,pidgeot,14,297,Feather Dance,1,27,
-18,pidgeot,14,355,Roost,1,44,
-18,pidgeot,14,366,Tailwind,1,50,
-18,pidgeot,14,403,Air Slash,1,62,
-18,pidgeot,14,542,Hurricane,1,68,
-18,pidgeot,15,16,Gust,1,1,4
-18,pidgeot,15,16,Gust,1,9,
-18,pidgeot,15,17,Wing Attack,1,38,
-18,pidgeot,15,18,Whirlwind,1,17,
-18,pidgeot,15,28,Sand Attack,1,1,3
-18,pidgeot,15,28,Sand Attack,1,5,
-18,pidgeot,15,33,Tackle,1,1,2
-18,pidgeot,15,97,Agility,1,32,
-18,pidgeot,15,98,Quick Attack,1,1,5
-18,pidgeot,15,98,Quick Attack,1,13,
-18,pidgeot,15,119,Mirror Move,1,56,
-18,pidgeot,15,239,Twister,1,22,
-18,pidgeot,15,297,Feather Dance,1,27,
-18,pidgeot,15,355,Roost,1,44,
-18,pidgeot,15,366,Tailwind,1,50,
-18,pidgeot,15,403,Air Slash,1,62,
-18,pidgeot,15,542,Hurricane,1,1,1
-18,pidgeot,15,542,Hurricane,1,68,
-18,pidgeot,16,16,Gust,1,1,4
-18,pidgeot,16,16,Gust,1,9,1
-18,pidgeot,16,17,Wing Attack,1,38,1
-18,pidgeot,16,18,Whirlwind,1,17,1
-18,pidgeot,16,28,Sand Attack,1,1,3
-18,pidgeot,16,28,Sand Attack,1,5,1
-18,pidgeot,16,33,Tackle,1,1,2
-18,pidgeot,16,97,Agility,1,32,1
-18,pidgeot,16,98,Quick Attack,1,1,5
-18,pidgeot,16,98,Quick Attack,1,13,1
-18,pidgeot,16,119,Mirror Move,1,56,1
-18,pidgeot,16,239,Twister,1,22,1
-18,pidgeot,16,297,Feather Dance,1,27,1
-18,pidgeot,16,355,Roost,1,44,1
-18,pidgeot,16,366,Tailwind,1,50,1
-18,pidgeot,16,403,Air Slash,1,62,1
-18,pidgeot,16,542,Hurricane,1,1,1
-18,pidgeot,16,542,Hurricane,1,68,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+18,1,Gust,1,flying,40,100
+18,1,Sand Attack,1,ground,-,100
+18,1,Quick Attack,1,normal,40,100
+18,2,Gust,1,flying,40,100
+18,2,Sand Attack,1,ground,-,100
+18,2,Quick Attack,1,normal,40,100
+18,3,Gust,1,flying,40,100
+18,3,Sand Attack,1,ground,-,100
+18,3,Tackle,1,normal,50,100
+18,3,Quick Attack,1,normal,40,100
+18,4,Gust,1,flying,40,100
+18,4,Sand Attack,1,ground,-,100
+18,4,Tackle,1,normal,50,100
+18,4,Quick Attack,1,normal,40,100
+18,5,Gust,1,flying,40,100
+18,5,Sand Attack,1,ground,-,100
+18,5,Tackle,1,normal,50,100
+18,5,Quick Attack,1,normal,40,100
+18,6,Gust,1,flying,40,100
+18,6,Sand Attack,1,ground,-,100
+18,6,Tackle,1,normal,50,100
+18,6,Quick Attack,1,normal,40,100
+18,7,Gust,1,flying,40,100
+18,7,Sand Attack,1,ground,-,100
+18,7,Tackle,1,normal,50,100
+18,7,Quick Attack,1,normal,40,100
+18,8,Gust,1,flying,40,100
+18,8,Sand Attack,1,ground,-,100
+18,8,Tackle,1,normal,50,100
+18,8,Quick Attack,1,normal,40,100
+18,9,Gust,1,flying,40,100
+18,9,Sand Attack,1,ground,-,100
+18,9,Tackle,1,normal,50,100
+18,9,Quick Attack,1,normal,40,100
+18,10,Gust,1,flying,40,100
+18,10,Sand Attack,1,ground,-,100
+18,10,Tackle,1,normal,50,100
+18,10,Quick Attack,1,normal,40,100
+18,11,Gust,1,flying,40,100
+18,11,Sand Attack,1,ground,-,100
+18,11,Tackle,1,normal,50,100
+18,11,Quick Attack,1,normal,40,100
+18,12,Gust,1,flying,40,100
+18,12,Sand Attack,1,ground,-,100
+18,12,Tackle,1,normal,50,100
+18,12,Quick Attack,1,normal,40,100
+18,13,Gust,1,flying,40,100
+18,13,Sand Attack,1,ground,-,100
+18,13,Tackle,1,normal,50,100
+18,13,Quick Attack,1,normal,40,100
+18,14,Gust,1,flying,40,100
+18,14,Sand Attack,1,ground,-,100
+18,14,Tackle,1,normal,50,100
+18,14,Quick Attack,1,normal,40,100
+18,15,Gust,1,flying,40,100
+18,15,Sand Attack,1,ground,-,100
+18,15,Tackle,1,normal,50,100
+18,15,Quick Attack,1,normal,40,100
+18,15,Hurricane,1,flying,110,70
+18,16,Gust,1,flying,40,100
+18,16,Sand Attack,1,ground,-,100
+18,16,Tackle,1,normal,50,100
+18,16,Quick Attack,1,normal,40,100
+18,16,Hurricane,1,flying,110,70
+18,1,Sand Attack,5,ground,-,100
+18,2,Sand Attack,5,ground,-,100
+18,3,Sand Attack,5,ground,-,100
+18,4,Sand Attack,5,ground,-,100
+18,5,Sand Attack,5,ground,-,100
+18,6,Sand Attack,5,ground,-,100
+18,7,Sand Attack,5,ground,-,100
+18,8,Sand Attack,5,ground,-,100
+18,9,Sand Attack,5,ground,-,100
+18,10,Sand Attack,5,ground,-,100
+18,11,Sand Attack,5,ground,-,100
+18,12,Sand Attack,5,ground,-,100
+18,13,Sand Attack,5,ground,-,100
+18,14,Sand Attack,5,ground,-,100
+18,15,Sand Attack,5,ground,-,100
+18,16,Sand Attack,5,ground,-,100
+18,3,Gust,9,flying,40,100
+18,4,Gust,9,flying,40,100
+18,5,Gust,9,flying,40,100
+18,6,Gust,9,flying,40,100
+18,7,Gust,9,flying,40,100
+18,8,Gust,9,flying,40,100
+18,9,Gust,9,flying,40,100
+18,10,Gust,9,flying,40,100
+18,11,Gust,9,flying,40,100
+18,12,Gust,9,flying,40,100
+18,13,Gust,9,flying,40,100
+18,14,Gust,9,flying,40,100
+18,15,Gust,9,flying,40,100
+18,16,Gust,9,flying,40,100
+18,1,Quick Attack,12,normal,40,100
+18,2,Quick Attack,12,normal,40,100
+18,5,Quick Attack,13,normal,40,100
+18,6,Quick Attack,13,normal,40,100
+18,7,Quick Attack,13,normal,40,100
+18,8,Quick Attack,13,normal,40,100
+18,9,Quick Attack,13,normal,40,100
+18,10,Quick Attack,13,normal,40,100
+18,11,Quick Attack,13,normal,40,100
+18,12,Quick Attack,13,normal,40,100
+18,13,Quick Attack,13,normal,40,100
+18,14,Quick Attack,13,normal,40,100
+18,15,Quick Attack,13,normal,40,100
+18,16,Quick Attack,13,normal,40,100
+18,3,Quick Attack,15,normal,40,100
+18,4,Quick Attack,15,normal,40,100
+18,8,Whirlwind,17,normal,-,-
+18,9,Whirlwind,17,normal,-,-
+18,10,Whirlwind,17,normal,-,-
+18,11,Whirlwind,17,normal,-,-
+18,14,Whirlwind,17,normal,-,-
+18,15,Whirlwind,17,normal,-,-
+18,16,Whirlwind,17,normal,-,-
+18,5,Whirlwind,20,normal,-,-
+18,6,Whirlwind,20,normal,-,-
+18,7,Whirlwind,20,normal,-,-
+18,12,Whirlwind,20,normal,-,-
+18,13,Whirlwind,20,normal,-,-
+18,1,Whirlwind,21,normal,-,-
+18,2,Whirlwind,21,normal,-,-
+18,8,Twister,22,dragon,40,100
+18,9,Twister,22,dragon,40,100
+18,10,Twister,22,dragon,40,100
+18,11,Twister,22,dragon,40,100
+18,14,Twister,22,dragon,40,100
+18,15,Twister,22,dragon,40,100
+18,16,Twister,22,dragon,40,100
+18,3,Whirlwind,23,normal,-,-
+18,4,Whirlwind,23,normal,-,-
+18,5,Wing Attack,27,flying,60,100
+18,6,Wing Attack,27,flying,60,100
+18,7,Wing Attack,27,flying,60,100
+18,8,Feather Dance,27,flying,-,100
+18,9,Feather Dance,27,flying,-,100
+18,10,Feather Dance,27,flying,-,100
+18,11,Feather Dance,27,flying,-,100
+18,12,Wing Attack,27,flying,60,100
+18,13,Wing Attack,27,flying,60,100
+18,14,Feather Dance,27,flying,-,100
+18,15,Feather Dance,27,flying,-,100
+18,16,Feather Dance,27,flying,-,100
+18,1,Wing Attack,31,flying,60,100
+18,2,Wing Attack,31,flying,60,100
+18,8,Agility,32,psychic,-,-
+18,9,Agility,32,psychic,-,-
+18,10,Agility,32,psychic,-,-
+18,11,Agility,32,psychic,-,-
+18,14,Agility,32,psychic,-,-
+18,15,Agility,32,psychic,-,-
+18,16,Agility,32,psychic,-,-
+18,3,Wing Attack,33,flying,60,100
+18,4,Wing Attack,33,flying,60,100
+18,5,Feather Dance,34,flying,-,100
+18,6,Feather Dance,34,flying,-,100
+18,7,Feather Dance,34,flying,-,100
+18,12,Feather Dance,34,flying,-,100
+18,13,Feather Dance,34,flying,-,100
+18,8,Wing Attack,38,flying,60,100
+18,9,Wing Attack,38,flying,60,100
+18,10,Wing Attack,38,flying,60,100
+18,11,Wing Attack,38,flying,60,100
+18,14,Wing Attack,38,flying,60,100
+18,15,Wing Attack,38,flying,60,100
+18,16,Wing Attack,38,flying,60,100
+18,1,Agility,44,psychic,-,-
+18,2,Agility,44,psychic,-,-
+18,8,Roost,44,flying,-,-
+18,9,Roost,44,flying,-,-
+18,10,Roost,44,flying,-,-
+18,11,Roost,44,flying,-,-
+18,14,Roost,44,flying,-,-
+18,15,Roost,44,flying,-,-
+18,16,Roost,44,flying,-,-
+18,3,Agility,46,psychic,-,-
+18,4,Agility,46,psychic,-,-
+18,5,Agility,48,psychic,-,-
+18,6,Agility,48,psychic,-,-
+18,7,Agility,48,psychic,-,-
+18,12,Agility,48,psychic,-,-
+18,13,Agility,48,psychic,-,-
+18,8,Tailwind,50,flying,-,-
+18,9,Tailwind,50,flying,-,-
+18,10,Tailwind,50,flying,-,-
+18,11,Tailwind,50,flying,-,-
+18,14,Tailwind,50,flying,-,-
+18,15,Tailwind,50,flying,-,-
+18,16,Tailwind,50,flying,-,-
+18,1,Mirror Move,54,flying,-,-
+18,2,Mirror Move,54,flying,-,-
+18,8,Mirror Move,56,flying,-,-
+18,9,Mirror Move,56,flying,-,-
+18,10,Mirror Move,56,flying,-,-
+18,11,Mirror Move,56,flying,-,-
+18,14,Mirror Move,56,flying,-,-
+18,15,Mirror Move,56,flying,-,-
+18,16,Mirror Move,56,flying,-,-
+18,3,Mirror Move,61,flying,-,-
+18,4,Mirror Move,61,flying,-,-
+18,5,Mirror Move,62,flying,-,-
+18,6,Mirror Move,62,flying,-,-
+18,7,Mirror Move,62,flying,-,-
+18,8,Air Slash,62,flying,75,95
+18,9,Air Slash,62,flying,75,95
+18,10,Air Slash,62,flying,75,95
+18,11,Air Slash,62,flying,75,95
+18,12,Mirror Move,62,flying,-,-
+18,13,Mirror Move,62,flying,-,-
+18,14,Air Slash,62,flying,75,95
+18,15,Air Slash,62,flying,75,95
+18,16,Air Slash,62,flying,75,95
+18,11,Hurricane,68,flying,110,70
+18,14,Hurricane,68,flying,110,70
+18,15,Hurricane,68,flying,110,70
+18,16,Hurricane,68,flying,110,70

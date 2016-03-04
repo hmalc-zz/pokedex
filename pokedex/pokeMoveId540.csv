@@ -1,35 +1,35 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-540,sewaddle,11,33,Tackle,1,1,1
-540,sewaddle,11,75,Razor Leaf,1,15,
-540,sewaddle,11,81,String Shot,1,1,2
-540,sewaddle,11,175,Flail,1,43,
-540,sewaddle,11,203,Endure,1,29,
-540,sewaddle,11,405,Bug Buzz,1,36,
-540,sewaddle,11,450,Bug Bite,1,8,
-540,sewaddle,11,522,Struggle Bug,1,22,
-540,sewaddle,14,33,Tackle,1,1,1
-540,sewaddle,14,75,Razor Leaf,1,15,
-540,sewaddle,14,81,String Shot,1,1,2
-540,sewaddle,14,175,Flail,1,43,
-540,sewaddle,14,203,Endure,1,29,
-540,sewaddle,14,405,Bug Buzz,1,36,
-540,sewaddle,14,450,Bug Bite,1,8,
-540,sewaddle,14,522,Struggle Bug,1,22,
-540,sewaddle,15,33,Tackle,1,1,1
-540,sewaddle,15,75,Razor Leaf,1,15,
-540,sewaddle,15,81,String Shot,1,1,2
-540,sewaddle,15,175,Flail,1,43,
-540,sewaddle,15,203,Endure,1,29,
-540,sewaddle,15,405,Bug Buzz,1,36,
-540,sewaddle,15,450,Bug Bite,1,8,
-540,sewaddle,15,522,Struggle Bug,1,22,
-540,sewaddle,15,564,Sticky Web,1,31,
-540,sewaddle,16,33,Tackle,1,1,1
-540,sewaddle,16,75,Razor Leaf,1,15,1
-540,sewaddle,16,81,String Shot,1,1,2
-540,sewaddle,16,175,Flail,1,43,1
-540,sewaddle,16,203,Endure,1,29,1
-540,sewaddle,16,405,Bug Buzz,1,36,1
-540,sewaddle,16,450,Bug Bite,1,8,1
-540,sewaddle,16,522,Struggle Bug,1,22,1
-540,sewaddle,16,564,Sticky Web,1,31,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+540,11,Tackle,1,normal,50,100
+540,11,String Shot,1,bug,-,95
+540,14,Tackle,1,normal,50,100
+540,14,String Shot,1,bug,-,95
+540,15,Tackle,1,normal,50,100
+540,15,String Shot,1,bug,-,95
+540,16,Tackle,1,normal,50,100
+540,16,String Shot,1,bug,-,95
+540,11,Bug Bite,8,bug,60,100
+540,14,Bug Bite,8,bug,60,100
+540,15,Bug Bite,8,bug,60,100
+540,16,Bug Bite,8,bug,60,100
+540,11,Razor Leaf,15,grass,55,95
+540,14,Razor Leaf,15,grass,55,95
+540,15,Razor Leaf,15,grass,55,95
+540,16,Razor Leaf,15,grass,55,95
+540,11,Struggle Bug,22,bug,50,100
+540,14,Struggle Bug,22,bug,50,100
+540,15,Struggle Bug,22,bug,50,100
+540,16,Struggle Bug,22,bug,50,100
+540,11,Endure,29,normal,-,-
+540,14,Endure,29,normal,-,-
+540,15,Endure,29,normal,-,-
+540,16,Endure,29,normal,-,-
+540,15,Sticky Web,31,bug,-,-
+540,16,Sticky Web,31,bug,-,-
+540,11,Bug Buzz,36,bug,90,100
+540,14,Bug Buzz,36,bug,90,100
+540,15,Bug Buzz,36,bug,90,100
+540,16,Bug Buzz,36,bug,90,100
+540,11,Flail,43,normal,-,100
+540,14,Flail,43,normal,-,100
+540,15,Flail,43,normal,-,100
+540,16,Flail,43,normal,-,100

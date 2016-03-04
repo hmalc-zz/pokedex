@@ -1,135 +1,135 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-386,deoxys-normal,5,35,Wrap,1,1,2
-386,deoxys-normal,5,43,Leer,1,1,1
-386,deoxys-normal,5,63,Hyper Beam,1,50,
-386,deoxys-normal,5,94,Psychic,1,25,
-386,deoxys-normal,5,100,Teleport,1,10,
-386,deoxys-normal,5,101,Night Shade,1,5,
-386,deoxys-normal,5,105,Recover,1,40,
-386,deoxys-normal,5,228,Pursuit,1,20,
-386,deoxys-normal,5,282,Knock Off,1,15,
-386,deoxys-normal,5,289,Snatch,1,30,
-386,deoxys-normal,5,322,Cosmic Power,1,35,
-386,deoxys-normal,5,354,Psycho Boost,1,45,
-386,deoxys-normal,8,35,Wrap,1,1,2
-386,deoxys-normal,8,43,Leer,1,1,1
-386,deoxys-normal,8,63,Hyper Beam,1,97,
-386,deoxys-normal,8,94,Psychic,1,41,
-386,deoxys-normal,8,100,Teleport,1,17,
-386,deoxys-normal,8,101,Night Shade,1,9,
-386,deoxys-normal,8,105,Recover,1,81,
-386,deoxys-normal,8,228,Pursuit,1,33,
-386,deoxys-normal,8,282,Knock Off,1,25,
-386,deoxys-normal,8,289,Snatch,1,49,
-386,deoxys-normal,8,322,Cosmic Power,1,73,
-386,deoxys-normal,8,354,Psycho Boost,1,89,
-386,deoxys-normal,8,375,Psycho Shift,1,57,
-386,deoxys-normal,8,428,Zen Headbutt,1,65,
-386,deoxys-normal,9,35,Wrap,1,1,2
-386,deoxys-normal,9,43,Leer,1,1,1
-386,deoxys-normal,9,63,Hyper Beam,1,97,
-386,deoxys-normal,9,94,Psychic,1,41,
-386,deoxys-normal,9,100,Teleport,1,17,
-386,deoxys-normal,9,101,Night Shade,1,9,
-386,deoxys-normal,9,105,Recover,1,81,
-386,deoxys-normal,9,228,Pursuit,1,33,
-386,deoxys-normal,9,282,Knock Off,1,25,
-386,deoxys-normal,9,289,Snatch,1,49,
-386,deoxys-normal,9,322,Cosmic Power,1,73,
-386,deoxys-normal,9,354,Psycho Boost,1,89,
-386,deoxys-normal,9,375,Psycho Shift,1,57,
-386,deoxys-normal,9,428,Zen Headbutt,1,65,
-386,deoxys-normal,10,35,Wrap,1,1,2
-386,deoxys-normal,10,43,Leer,1,1,1
-386,deoxys-normal,10,63,Hyper Beam,1,97,
-386,deoxys-normal,10,94,Psychic,1,41,
-386,deoxys-normal,10,100,Teleport,1,17,
-386,deoxys-normal,10,101,Night Shade,1,9,
-386,deoxys-normal,10,105,Recover,1,81,
-386,deoxys-normal,10,228,Pursuit,1,33,
-386,deoxys-normal,10,282,Knock Off,1,25,
-386,deoxys-normal,10,289,Snatch,1,49,
-386,deoxys-normal,10,322,Cosmic Power,1,73,
-386,deoxys-normal,10,354,Psycho Boost,1,89,
-386,deoxys-normal,10,375,Psycho Shift,1,57,
-386,deoxys-normal,10,428,Zen Headbutt,1,65,
-386,deoxys-normal,11,35,Wrap,1,1,2
-386,deoxys-normal,11,43,Leer,1,1,1
-386,deoxys-normal,11,63,Hyper Beam,1,97,
-386,deoxys-normal,11,94,Psychic,1,41,
-386,deoxys-normal,11,100,Teleport,1,17,
-386,deoxys-normal,11,101,Night Shade,1,9,
-386,deoxys-normal,11,105,Recover,1,81,
-386,deoxys-normal,11,228,Pursuit,1,33,
-386,deoxys-normal,11,282,Knock Off,1,25,
-386,deoxys-normal,11,289,Snatch,1,49,
-386,deoxys-normal,11,322,Cosmic Power,1,73,
-386,deoxys-normal,11,354,Psycho Boost,1,89,
-386,deoxys-normal,11,375,Psycho Shift,1,57,
-386,deoxys-normal,11,428,Zen Headbutt,1,65,
-386,deoxys-normal,12,35,Wrap,1,1,2
-386,deoxys-normal,12,43,Leer,1,1,1
-386,deoxys-normal,12,63,Hyper Beam,1,50,
-386,deoxys-normal,12,94,Psychic,1,25,
-386,deoxys-normal,12,100,Teleport,1,10,
-386,deoxys-normal,12,101,Night Shade,1,5,
-386,deoxys-normal,12,105,Recover,1,40,
-386,deoxys-normal,12,228,Pursuit,1,20,
-386,deoxys-normal,12,282,Knock Off,1,15,
-386,deoxys-normal,12,289,Snatch,1,30,
-386,deoxys-normal,12,322,Cosmic Power,1,35,
-386,deoxys-normal,12,354,Psycho Boost,1,45,
-386,deoxys-normal,13,35,Wrap,1,1,2
-386,deoxys-normal,13,43,Leer,1,1,1
-386,deoxys-normal,13,63,Hyper Beam,1,50,
-386,deoxys-normal,13,94,Psychic,1,25,
-386,deoxys-normal,13,100,Teleport,1,10,
-386,deoxys-normal,13,101,Night Shade,1,5,
-386,deoxys-normal,13,105,Recover,1,40,
-386,deoxys-normal,13,228,Pursuit,1,20,
-386,deoxys-normal,13,282,Knock Off,1,15,
-386,deoxys-normal,13,289,Snatch,1,30,
-386,deoxys-normal,13,322,Cosmic Power,1,35,
-386,deoxys-normal,13,354,Psycho Boost,1,45,
-386,deoxys-normal,14,35,Wrap,1,1,2
-386,deoxys-normal,14,43,Leer,1,1,1
-386,deoxys-normal,14,63,Hyper Beam,1,97,
-386,deoxys-normal,14,94,Psychic,1,41,
-386,deoxys-normal,14,100,Teleport,1,17,
-386,deoxys-normal,14,101,Night Shade,1,9,
-386,deoxys-normal,14,105,Recover,1,81,
-386,deoxys-normal,14,228,Pursuit,1,33,
-386,deoxys-normal,14,282,Knock Off,1,25,
-386,deoxys-normal,14,289,Snatch,1,49,
-386,deoxys-normal,14,322,Cosmic Power,1,73,
-386,deoxys-normal,14,354,Psycho Boost,1,89,
-386,deoxys-normal,14,375,Psycho Shift,1,57,
-386,deoxys-normal,14,428,Zen Headbutt,1,65,
-386,deoxys-normal,15,35,Wrap,1,1,2
-386,deoxys-normal,15,43,Leer,1,1,1
-386,deoxys-normal,15,63,Hyper Beam,1,97,
-386,deoxys-normal,15,94,Psychic,1,41,
-386,deoxys-normal,15,100,Teleport,1,17,
-386,deoxys-normal,15,101,Night Shade,1,9,
-386,deoxys-normal,15,105,Recover,1,81,
-386,deoxys-normal,15,228,Pursuit,1,33,
-386,deoxys-normal,15,282,Knock Off,1,25,
-386,deoxys-normal,15,289,Snatch,1,49,
-386,deoxys-normal,15,322,Cosmic Power,1,73,
-386,deoxys-normal,15,354,Psycho Boost,1,89,
-386,deoxys-normal,15,375,Psycho Shift,1,57,
-386,deoxys-normal,15,428,Zen Headbutt,1,65,
-386,deoxys-normal,16,35,Wrap,1,1,2
-386,deoxys-normal,16,43,Leer,1,1,1
-386,deoxys-normal,16,63,Hyper Beam,1,73,1
-386,deoxys-normal,16,94,Psychic,1,31,1
-386,deoxys-normal,16,100,Teleport,1,13,1
-386,deoxys-normal,16,101,Night Shade,1,7,1
-386,deoxys-normal,16,105,Recover,1,61,1
-386,deoxys-normal,16,228,Pursuit,1,25,1
-386,deoxys-normal,16,282,Knock Off,1,19,1
-386,deoxys-normal,16,289,Snatch,1,37,1
-386,deoxys-normal,16,322,Cosmic Power,1,55,1
-386,deoxys-normal,16,354,Psycho Boost,1,67,1
-386,deoxys-normal,16,375,Psycho Shift,1,43,1
-386,deoxys-normal,16,428,Zen Headbutt,1,49,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+386,5,Wrap,1,normal,15,90
+386,5,Leer,1,normal,-,100
+386,8,Wrap,1,normal,15,90
+386,8,Leer,1,normal,-,100
+386,9,Wrap,1,normal,15,90
+386,9,Leer,1,normal,-,100
+386,10,Wrap,1,normal,15,90
+386,10,Leer,1,normal,-,100
+386,11,Wrap,1,normal,15,90
+386,11,Leer,1,normal,-,100
+386,12,Wrap,1,normal,15,90
+386,12,Leer,1,normal,-,100
+386,13,Wrap,1,normal,15,90
+386,13,Leer,1,normal,-,100
+386,14,Wrap,1,normal,15,90
+386,14,Leer,1,normal,-,100
+386,15,Wrap,1,normal,15,90
+386,15,Leer,1,normal,-,100
+386,16,Wrap,1,normal,15,90
+386,16,Leer,1,normal,-,100
+386,5,Night Shade,5,ghost,-,100
+386,12,Night Shade,5,ghost,-,100
+386,13,Night Shade,5,ghost,-,100
+386,16,Night Shade,7,ghost,-,100
+386,8,Night Shade,9,ghost,-,100
+386,9,Night Shade,9,ghost,-,100
+386,10,Night Shade,9,ghost,-,100
+386,11,Night Shade,9,ghost,-,100
+386,14,Night Shade,9,ghost,-,100
+386,15,Night Shade,9,ghost,-,100
+386,5,Teleport,10,psychic,-,-
+386,12,Teleport,10,psychic,-,-
+386,13,Teleport,10,psychic,-,-
+386,16,Teleport,13,psychic,-,-
+386,5,Knock Off,15,dark,65,100
+386,12,Knock Off,15,dark,65,100
+386,13,Knock Off,15,dark,65,100
+386,8,Teleport,17,psychic,-,-
+386,9,Teleport,17,psychic,-,-
+386,10,Teleport,17,psychic,-,-
+386,11,Teleport,17,psychic,-,-
+386,14,Teleport,17,psychic,-,-
+386,15,Teleport,17,psychic,-,-
+386,16,Knock Off,19,dark,65,100
+386,5,Pursuit,20,dark,40,100
+386,12,Pursuit,20,dark,40,100
+386,13,Pursuit,20,dark,40,100
+386,5,Psychic,25,psychic,90,100
+386,8,Knock Off,25,dark,65,100
+386,9,Knock Off,25,dark,65,100
+386,10,Knock Off,25,dark,65,100
+386,11,Knock Off,25,dark,65,100
+386,12,Psychic,25,psychic,90,100
+386,13,Psychic,25,psychic,90,100
+386,14,Knock Off,25,dark,65,100
+386,15,Knock Off,25,dark,65,100
+386,16,Pursuit,25,dark,40,100
+386,5,Snatch,30,dark,-,-
+386,12,Snatch,30,dark,-,-
+386,13,Snatch,30,dark,-,-
+386,16,Psychic,31,psychic,90,100
+386,8,Pursuit,33,dark,40,100
+386,9,Pursuit,33,dark,40,100
+386,10,Pursuit,33,dark,40,100
+386,11,Pursuit,33,dark,40,100
+386,14,Pursuit,33,dark,40,100
+386,15,Pursuit,33,dark,40,100
+386,5,Cosmic Power,35,psychic,-,-
+386,12,Cosmic Power,35,psychic,-,-
+386,13,Cosmic Power,35,psychic,-,-
+386,16,Snatch,37,dark,-,-
+386,5,Recover,40,normal,-,-
+386,12,Recover,40,normal,-,-
+386,13,Recover,40,normal,-,-
+386,8,Psychic,41,psychic,90,100
+386,9,Psychic,41,psychic,90,100
+386,10,Psychic,41,psychic,90,100
+386,11,Psychic,41,psychic,90,100
+386,14,Psychic,41,psychic,90,100
+386,15,Psychic,41,psychic,90,100
+386,16,Psycho Shift,43,psychic,-,100
+386,5,Psycho Boost,45,psychic,140,90
+386,12,Psycho Boost,45,psychic,140,90
+386,13,Psycho Boost,45,psychic,140,90
+386,8,Snatch,49,dark,-,-
+386,9,Snatch,49,dark,-,-
+386,10,Snatch,49,dark,-,-
+386,11,Snatch,49,dark,-,-
+386,14,Snatch,49,dark,-,-
+386,15,Snatch,49,dark,-,-
+386,16,Zen Headbutt,49,psychic,80,90
+386,5,Hyper Beam,50,normal,150,90
+386,12,Hyper Beam,50,normal,150,90
+386,13,Hyper Beam,50,normal,150,90
+386,16,Cosmic Power,55,psychic,-,-
+386,8,Psycho Shift,57,psychic,-,100
+386,9,Psycho Shift,57,psychic,-,100
+386,10,Psycho Shift,57,psychic,-,100
+386,11,Psycho Shift,57,psychic,-,100
+386,14,Psycho Shift,57,psychic,-,100
+386,15,Psycho Shift,57,psychic,-,100
+386,16,Recover,61,normal,-,-
+386,8,Zen Headbutt,65,psychic,80,90
+386,9,Zen Headbutt,65,psychic,80,90
+386,10,Zen Headbutt,65,psychic,80,90
+386,11,Zen Headbutt,65,psychic,80,90
+386,14,Zen Headbutt,65,psychic,80,90
+386,15,Zen Headbutt,65,psychic,80,90
+386,16,Psycho Boost,67,psychic,140,90
+386,8,Cosmic Power,73,psychic,-,-
+386,9,Cosmic Power,73,psychic,-,-
+386,10,Cosmic Power,73,psychic,-,-
+386,11,Cosmic Power,73,psychic,-,-
+386,14,Cosmic Power,73,psychic,-,-
+386,15,Cosmic Power,73,psychic,-,-
+386,16,Hyper Beam,73,normal,150,90
+386,8,Recover,81,normal,-,-
+386,9,Recover,81,normal,-,-
+386,10,Recover,81,normal,-,-
+386,11,Recover,81,normal,-,-
+386,14,Recover,81,normal,-,-
+386,15,Recover,81,normal,-,-
+386,8,Psycho Boost,89,psychic,140,90
+386,9,Psycho Boost,89,psychic,140,90
+386,10,Psycho Boost,89,psychic,140,90
+386,11,Psycho Boost,89,psychic,140,90
+386,14,Psycho Boost,89,psychic,140,90
+386,15,Psycho Boost,89,psychic,140,90
+386,8,Hyper Beam,97,normal,150,90
+386,9,Hyper Beam,97,normal,150,90
+386,10,Hyper Beam,97,normal,150,90
+386,11,Hyper Beam,97,normal,150,90
+386,14,Hyper Beam,97,normal,150,90
+386,15,Hyper Beam,97,normal,150,90

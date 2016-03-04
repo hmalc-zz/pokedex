@@ -1,96 +1,96 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-455,carnivine,8,20,Bind,1,1,1
-455,carnivine,8,22,Vine Whip,1,11,
-455,carnivine,8,44,Bite,1,7,
-455,carnivine,8,74,Growth,1,1,2
-455,carnivine,8,185,Feint Attack,1,27,
-455,carnivine,8,230,Sweet Scent,1,17,
-455,carnivine,8,242,Crunch,1,37,
-455,carnivine,8,254,Stockpile,1,31,1
-455,carnivine,8,255,Spit Up,1,31,2
-455,carnivine,8,256,Swallow,1,31,3
-455,carnivine,8,275,Ingrain,1,21,
-455,carnivine,8,378,Wring Out,1,41,
-455,carnivine,8,438,Power Whip,1,47,
-455,carnivine,9,20,Bind,1,1,1
-455,carnivine,9,22,Vine Whip,1,11,
-455,carnivine,9,44,Bite,1,7,
-455,carnivine,9,74,Growth,1,1,2
-455,carnivine,9,185,Feint Attack,1,27,
-455,carnivine,9,230,Sweet Scent,1,17,
-455,carnivine,9,242,Crunch,1,37,
-455,carnivine,9,254,Stockpile,1,31,1
-455,carnivine,9,255,Spit Up,1,31,2
-455,carnivine,9,256,Swallow,1,31,3
-455,carnivine,9,275,Ingrain,1,21,
-455,carnivine,9,378,Wring Out,1,41,
-455,carnivine,9,438,Power Whip,1,47,
-455,carnivine,10,20,Bind,1,1,1
-455,carnivine,10,22,Vine Whip,1,11,
-455,carnivine,10,44,Bite,1,7,
-455,carnivine,10,74,Growth,1,1,2
-455,carnivine,10,185,Feint Attack,1,27,
-455,carnivine,10,230,Sweet Scent,1,17,
-455,carnivine,10,242,Crunch,1,37,
-455,carnivine,10,254,Stockpile,1,31,1
-455,carnivine,10,255,Spit Up,1,31,2
-455,carnivine,10,256,Swallow,1,31,3
-455,carnivine,10,275,Ingrain,1,21,
-455,carnivine,10,378,Wring Out,1,41,
-455,carnivine,10,438,Power Whip,1,47,
-455,carnivine,11,20,Bind,1,1,1
-455,carnivine,11,22,Vine Whip,1,11,
-455,carnivine,11,44,Bite,1,7,
-455,carnivine,11,74,Growth,1,1,2
-455,carnivine,11,185,Feint Attack,1,27,
-455,carnivine,11,230,Sweet Scent,1,17,
-455,carnivine,11,242,Crunch,1,41,
-455,carnivine,11,254,Stockpile,1,37,1
-455,carnivine,11,255,Spit Up,1,37,2
-455,carnivine,11,256,Swallow,1,37,3
-455,carnivine,11,275,Ingrain,1,21,
-455,carnivine,11,378,Wring Out,1,47,
-455,carnivine,11,438,Power Whip,1,51,
-455,carnivine,11,536,Leaf Tornado,1,31,
-455,carnivine,14,20,Bind,1,1,1
-455,carnivine,14,22,Vine Whip,1,11,
-455,carnivine,14,44,Bite,1,7,
-455,carnivine,14,74,Growth,1,1,2
-455,carnivine,14,185,Feint Attack,1,27,
-455,carnivine,14,230,Sweet Scent,1,17,
-455,carnivine,14,242,Crunch,1,41,
-455,carnivine,14,254,Stockpile,1,37,1
-455,carnivine,14,255,Spit Up,1,37,2
-455,carnivine,14,256,Swallow,1,37,3
-455,carnivine,14,275,Ingrain,1,21,
-455,carnivine,14,378,Wring Out,1,47,
-455,carnivine,14,438,Power Whip,1,51,
-455,carnivine,14,536,Leaf Tornado,1,31,
-455,carnivine,15,20,Bind,1,1,1
-455,carnivine,15,22,Vine Whip,1,11,
-455,carnivine,15,44,Bite,1,7,
-455,carnivine,15,74,Growth,1,1,2
-455,carnivine,15,185,Feint Attack,1,27,
-455,carnivine,15,230,Sweet Scent,1,17,
-455,carnivine,15,242,Crunch,1,41,
-455,carnivine,15,254,Stockpile,1,37,1
-455,carnivine,15,255,Spit Up,1,37,2
-455,carnivine,15,256,Swallow,1,37,3
-455,carnivine,15,275,Ingrain,1,21,
-455,carnivine,15,378,Wring Out,1,47,
-455,carnivine,15,438,Power Whip,1,50,
-455,carnivine,15,536,Leaf Tornado,1,31,
-455,carnivine,16,20,Bind,1,1,1
-455,carnivine,16,22,Vine Whip,1,11,1
-455,carnivine,16,44,Bite,1,7,1
-455,carnivine,16,74,Growth,1,1,2
-455,carnivine,16,185,Feint Attack,1,27,1
-455,carnivine,16,230,Sweet Scent,1,17,1
-455,carnivine,16,242,Crunch,1,41,1
-455,carnivine,16,254,Stockpile,1,37,1
-455,carnivine,16,255,Spit Up,1,37,2
-455,carnivine,16,256,Swallow,1,37,3
-455,carnivine,16,275,Ingrain,1,21,1
-455,carnivine,16,378,Wring Out,1,47,1
-455,carnivine,16,438,Power Whip,1,50,1
-455,carnivine,16,536,Leaf Tornado,1,31,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+455,8,Bind,1,normal,15,85
+455,8,Growth,1,normal,-,-
+455,9,Bind,1,normal,15,85
+455,9,Growth,1,normal,-,-
+455,10,Bind,1,normal,15,85
+455,10,Growth,1,normal,-,-
+455,11,Bind,1,normal,15,85
+455,11,Growth,1,normal,-,-
+455,14,Bind,1,normal,15,85
+455,14,Growth,1,normal,-,-
+455,15,Bind,1,normal,15,85
+455,15,Growth,1,normal,-,-
+455,16,Bind,1,normal,15,85
+455,16,Growth,1,normal,-,-
+455,8,Bite,7,dark,60,100
+455,9,Bite,7,dark,60,100
+455,10,Bite,7,dark,60,100
+455,11,Bite,7,dark,60,100
+455,14,Bite,7,dark,60,100
+455,15,Bite,7,dark,60,100
+455,16,Bite,7,dark,60,100
+455,8,Vine Whip,11,grass,45,100
+455,9,Vine Whip,11,grass,45,100
+455,10,Vine Whip,11,grass,45,100
+455,11,Vine Whip,11,grass,45,100
+455,14,Vine Whip,11,grass,45,100
+455,15,Vine Whip,11,grass,45,100
+455,16,Vine Whip,11,grass,45,100
+455,8,Sweet Scent,17,normal,-,100
+455,9,Sweet Scent,17,normal,-,100
+455,10,Sweet Scent,17,normal,-,100
+455,11,Sweet Scent,17,normal,-,100
+455,14,Sweet Scent,17,normal,-,100
+455,15,Sweet Scent,17,normal,-,100
+455,16,Sweet Scent,17,normal,-,100
+455,8,Ingrain,21,grass,-,-
+455,9,Ingrain,21,grass,-,-
+455,10,Ingrain,21,grass,-,-
+455,11,Ingrain,21,grass,-,-
+455,14,Ingrain,21,grass,-,-
+455,15,Ingrain,21,grass,-,-
+455,16,Ingrain,21,grass,-,-
+455,8,Feint Attack,27,dark,60,-
+455,9,Feint Attack,27,dark,60,-
+455,10,Feint Attack,27,dark,60,-
+455,11,Feint Attack,27,dark,60,-
+455,14,Feint Attack,27,dark,60,-
+455,15,Feint Attack,27,dark,60,-
+455,16,Feint Attack,27,dark,60,-
+455,8,Stockpile,31,normal,-,-
+455,8,Spit Up,31,normal,-,100
+455,8,Swallow,31,normal,-,-
+455,9,Stockpile,31,normal,-,-
+455,9,Spit Up,31,normal,-,100
+455,9,Swallow,31,normal,-,-
+455,10,Stockpile,31,normal,-,-
+455,10,Spit Up,31,normal,-,100
+455,10,Swallow,31,normal,-,-
+455,11,Leaf Tornado,31,grass,65,90
+455,14,Leaf Tornado,31,grass,65,90
+455,15,Leaf Tornado,31,grass,65,90
+455,16,Leaf Tornado,31,grass,65,90
+455,8,Crunch,37,dark,80,100
+455,9,Crunch,37,dark,80,100
+455,10,Crunch,37,dark,80,100
+455,11,Stockpile,37,normal,-,-
+455,11,Spit Up,37,normal,-,100
+455,11,Swallow,37,normal,-,-
+455,14,Stockpile,37,normal,-,-
+455,14,Spit Up,37,normal,-,100
+455,14,Swallow,37,normal,-,-
+455,15,Stockpile,37,normal,-,-
+455,15,Spit Up,37,normal,-,100
+455,15,Swallow,37,normal,-,-
+455,16,Stockpile,37,normal,-,-
+455,16,Spit Up,37,normal,-,100
+455,16,Swallow,37,normal,-,-
+455,8,Wring Out,41,normal,-,100
+455,9,Wring Out,41,normal,-,100
+455,10,Wring Out,41,normal,-,100
+455,11,Crunch,41,dark,80,100
+455,14,Crunch,41,dark,80,100
+455,15,Crunch,41,dark,80,100
+455,16,Crunch,41,dark,80,100
+455,8,Power Whip,47,grass,120,85
+455,9,Power Whip,47,grass,120,85
+455,10,Power Whip,47,grass,120,85
+455,11,Wring Out,47,normal,-,100
+455,14,Wring Out,47,normal,-,100
+455,15,Wring Out,47,normal,-,100
+455,16,Wring Out,47,normal,-,100
+455,15,Power Whip,50,grass,120,85
+455,16,Power Whip,50,grass,120,85
+455,11,Power Whip,51,grass,120,85
+455,14,Power Whip,51,grass,120,85

@@ -1,158 +1,158 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-325,spoink,5,60,Psybeam,1,16,
-325,spoink,5,94,Psychic,1,34,
-325,spoink,5,109,Confuse Ray,1,25,
-325,spoink,5,149,Psywave,1,7,
-325,spoink,5,150,Splash,1,1,
-325,spoink,5,156,Rest,1,37,1
-325,spoink,5,173,Snore,1,37,2
-325,spoink,5,244,Psych Up,1,19,
-325,spoink,5,277,Magic Coat,1,28,
-325,spoink,5,316,Odor Sleuth,1,10,
-325,spoink,5,340,Bounce,1,43,
-325,spoink,6,60,Psybeam,1,16,
-325,spoink,6,94,Psychic,1,34,
-325,spoink,6,109,Confuse Ray,1,25,
-325,spoink,6,149,Psywave,1,7,
-325,spoink,6,150,Splash,1,1,
-325,spoink,6,156,Rest,1,37,1
-325,spoink,6,173,Snore,1,37,2
-325,spoink,6,244,Psych Up,1,19,
-325,spoink,6,277,Magic Coat,1,28,
-325,spoink,6,316,Odor Sleuth,1,10,
-325,spoink,6,340,Bounce,1,43,
-325,spoink,7,60,Psybeam,1,16,
-325,spoink,7,94,Psychic,1,34,
-325,spoink,7,109,Confuse Ray,1,25,
-325,spoink,7,149,Psywave,1,7,
-325,spoink,7,150,Splash,1,1,
-325,spoink,7,156,Rest,1,37,1
-325,spoink,7,173,Snore,1,37,2
-325,spoink,7,244,Psych Up,1,19,
-325,spoink,7,277,Magic Coat,1,28,
-325,spoink,7,316,Odor Sleuth,1,10,
-325,spoink,7,340,Bounce,1,43,
-325,spoink,8,60,Psybeam,1,14,
-325,spoink,8,94,Psychic,1,41,
-325,spoink,8,109,Confuse Ray,1,18,
-325,spoink,8,149,Psywave,1,7,
-325,spoink,8,150,Splash,1,1,
-325,spoink,8,156,Rest,1,29,1
-325,spoink,8,173,Snore,1,29,2
-325,spoink,8,244,Psych Up,1,15,
-325,spoink,8,277,Magic Coat,1,21,
-325,spoink,8,316,Odor Sleuth,1,10,
-325,spoink,8,340,Bounce,1,48,
-325,spoink,8,371,Payback,1,34,
-325,spoink,8,408,Power Gem,1,46,
-325,spoink,8,428,Zen Headbutt,1,26,
-325,spoink,9,60,Psybeam,1,14,
-325,spoink,9,94,Psychic,1,41,
-325,spoink,9,109,Confuse Ray,1,18,
-325,spoink,9,149,Psywave,1,7,
-325,spoink,9,150,Splash,1,1,
-325,spoink,9,156,Rest,1,29,1
-325,spoink,9,173,Snore,1,29,2
-325,spoink,9,244,Psych Up,1,15,
-325,spoink,9,277,Magic Coat,1,21,
-325,spoink,9,316,Odor Sleuth,1,10,
-325,spoink,9,340,Bounce,1,48,
-325,spoink,9,371,Payback,1,34,
-325,spoink,9,408,Power Gem,1,46,
-325,spoink,9,428,Zen Headbutt,1,26,
-325,spoink,10,60,Psybeam,1,14,
-325,spoink,10,94,Psychic,1,41,
-325,spoink,10,109,Confuse Ray,1,18,
-325,spoink,10,149,Psywave,1,7,
-325,spoink,10,150,Splash,1,1,
-325,spoink,10,156,Rest,1,29,1
-325,spoink,10,173,Snore,1,29,2
-325,spoink,10,244,Psych Up,1,15,
-325,spoink,10,277,Magic Coat,1,21,
-325,spoink,10,316,Odor Sleuth,1,10,
-325,spoink,10,340,Bounce,1,48,
-325,spoink,10,371,Payback,1,34,
-325,spoink,10,408,Power Gem,1,46,
-325,spoink,10,428,Zen Headbutt,1,26,
-325,spoink,11,60,Psybeam,1,14,
-325,spoink,11,94,Psychic,1,46,
-325,spoink,11,109,Confuse Ray,1,18,
-325,spoink,11,149,Psywave,1,7,
-325,spoink,11,150,Splash,1,1,
-325,spoink,11,156,Rest,1,29,1
-325,spoink,11,173,Snore,1,29,2
-325,spoink,11,244,Psych Up,1,15,
-325,spoink,11,277,Magic Coat,1,21,
-325,spoink,11,316,Odor Sleuth,1,10,
-325,spoink,11,340,Bounce,1,53,
-325,spoink,11,371,Payback,1,41,
-325,spoink,11,408,Power Gem,1,48,
-325,spoink,11,428,Zen Headbutt,1,26,
-325,spoink,11,473,Psyshock,1,34,
-325,spoink,12,60,Psybeam,1,16,
-325,spoink,12,94,Psychic,1,34,
-325,spoink,12,109,Confuse Ray,1,25,
-325,spoink,12,149,Psywave,1,7,
-325,spoink,12,150,Splash,1,1,
-325,spoink,12,156,Rest,1,37,1
-325,spoink,12,173,Snore,1,37,2
-325,spoink,12,244,Psych Up,1,19,
-325,spoink,12,277,Magic Coat,1,28,
-325,spoink,12,316,Odor Sleuth,1,10,
-325,spoink,12,340,Bounce,1,43,
-325,spoink,13,60,Psybeam,1,16,
-325,spoink,13,94,Psychic,1,34,
-325,spoink,13,109,Confuse Ray,1,25,
-325,spoink,13,149,Psywave,1,7,
-325,spoink,13,150,Splash,1,1,
-325,spoink,13,156,Rest,1,37,1
-325,spoink,13,173,Snore,1,37,2
-325,spoink,13,244,Psych Up,1,19,
-325,spoink,13,277,Magic Coat,1,28,
-325,spoink,13,316,Odor Sleuth,1,10,
-325,spoink,13,340,Bounce,1,43,
-325,spoink,14,60,Psybeam,1,14,
-325,spoink,14,94,Psychic,1,44,
-325,spoink,14,109,Confuse Ray,1,18,
-325,spoink,14,149,Psywave,1,7,
-325,spoink,14,150,Splash,1,1,
-325,spoink,14,156,Rest,1,29,1
-325,spoink,14,173,Snore,1,29,2
-325,spoink,14,244,Psych Up,1,15,
-325,spoink,14,277,Magic Coat,1,21,
-325,spoink,14,316,Odor Sleuth,1,10,
-325,spoink,14,340,Bounce,1,50,
-325,spoink,14,371,Payback,1,40,
-325,spoink,14,408,Power Gem,1,33,
-325,spoink,14,428,Zen Headbutt,1,26,
-325,spoink,14,473,Psyshock,1,38,
-325,spoink,15,60,Psybeam,1,14,
-325,spoink,15,94,Psychic,1,44,
-325,spoink,15,109,Confuse Ray,1,18,
-325,spoink,15,149,Psywave,1,7,
-325,spoink,15,150,Splash,1,1,
-325,spoink,15,156,Rest,1,29,1
-325,spoink,15,173,Snore,1,29,2
-325,spoink,15,244,Psych Up,1,15,
-325,spoink,15,277,Magic Coat,1,21,
-325,spoink,15,316,Odor Sleuth,1,10,
-325,spoink,15,340,Bounce,1,50,
-325,spoink,15,371,Payback,1,40,
-325,spoink,15,408,Power Gem,1,33,
-325,spoink,15,428,Zen Headbutt,1,26,
-325,spoink,15,473,Psyshock,1,38,
-325,spoink,16,60,Psybeam,1,14,1
-325,spoink,16,94,Psychic,1,44,1
-325,spoink,16,109,Confuse Ray,1,18,1
-325,spoink,16,149,Psywave,1,7,1
-325,spoink,16,150,Splash,1,1,1
-325,spoink,16,156,Rest,1,29,2
-325,spoink,16,173,Snore,1,33,1
-325,spoink,16,244,Psych Up,1,15,1
-325,spoink,16,277,Magic Coat,1,21,1
-325,spoink,16,316,Odor Sleuth,1,10,1
-325,spoink,16,340,Bounce,1,50,1
-325,spoink,16,371,Payback,1,40,1
-325,spoink,16,408,Power Gem,1,29,1
-325,spoink,16,428,Zen Headbutt,1,26,1
-325,spoink,16,473,Psyshock,1,38,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+325,5,Splash,1,normal,-,-
+325,6,Splash,1,normal,-,-
+325,7,Splash,1,normal,-,-
+325,8,Splash,1,normal,-,-
+325,9,Splash,1,normal,-,-
+325,10,Splash,1,normal,-,-
+325,11,Splash,1,normal,-,-
+325,12,Splash,1,normal,-,-
+325,13,Splash,1,normal,-,-
+325,14,Splash,1,normal,-,-
+325,15,Splash,1,normal,-,-
+325,16,Splash,1,normal,-,-
+325,5,Psywave,7,psychic,-,100
+325,6,Psywave,7,psychic,-,100
+325,7,Psywave,7,psychic,-,100
+325,8,Psywave,7,psychic,-,100
+325,9,Psywave,7,psychic,-,100
+325,10,Psywave,7,psychic,-,100
+325,11,Psywave,7,psychic,-,100
+325,12,Psywave,7,psychic,-,100
+325,13,Psywave,7,psychic,-,100
+325,14,Psywave,7,psychic,-,100
+325,15,Psywave,7,psychic,-,100
+325,16,Psywave,7,psychic,-,100
+325,5,Odor Sleuth,10,normal,-,-
+325,6,Odor Sleuth,10,normal,-,-
+325,7,Odor Sleuth,10,normal,-,-
+325,8,Odor Sleuth,10,normal,-,-
+325,9,Odor Sleuth,10,normal,-,-
+325,10,Odor Sleuth,10,normal,-,-
+325,11,Odor Sleuth,10,normal,-,-
+325,12,Odor Sleuth,10,normal,-,-
+325,13,Odor Sleuth,10,normal,-,-
+325,14,Odor Sleuth,10,normal,-,-
+325,15,Odor Sleuth,10,normal,-,-
+325,16,Odor Sleuth,10,normal,-,-
+325,8,Psybeam,14,psychic,65,100
+325,9,Psybeam,14,psychic,65,100
+325,10,Psybeam,14,psychic,65,100
+325,11,Psybeam,14,psychic,65,100
+325,14,Psybeam,14,psychic,65,100
+325,15,Psybeam,14,psychic,65,100
+325,16,Psybeam,14,psychic,65,100
+325,8,Psych Up,15,normal,-,-
+325,9,Psych Up,15,normal,-,-
+325,10,Psych Up,15,normal,-,-
+325,11,Psych Up,15,normal,-,-
+325,14,Psych Up,15,normal,-,-
+325,15,Psych Up,15,normal,-,-
+325,16,Psych Up,15,normal,-,-
+325,5,Psybeam,16,psychic,65,100
+325,6,Psybeam,16,psychic,65,100
+325,7,Psybeam,16,psychic,65,100
+325,12,Psybeam,16,psychic,65,100
+325,13,Psybeam,16,psychic,65,100
+325,8,Confuse Ray,18,ghost,-,100
+325,9,Confuse Ray,18,ghost,-,100
+325,10,Confuse Ray,18,ghost,-,100
+325,11,Confuse Ray,18,ghost,-,100
+325,14,Confuse Ray,18,ghost,-,100
+325,15,Confuse Ray,18,ghost,-,100
+325,16,Confuse Ray,18,ghost,-,100
+325,5,Psych Up,19,normal,-,-
+325,6,Psych Up,19,normal,-,-
+325,7,Psych Up,19,normal,-,-
+325,12,Psych Up,19,normal,-,-
+325,13,Psych Up,19,normal,-,-
+325,8,Magic Coat,21,psychic,-,-
+325,9,Magic Coat,21,psychic,-,-
+325,10,Magic Coat,21,psychic,-,-
+325,11,Magic Coat,21,psychic,-,-
+325,14,Magic Coat,21,psychic,-,-
+325,15,Magic Coat,21,psychic,-,-
+325,16,Magic Coat,21,psychic,-,-
+325,5,Confuse Ray,25,ghost,-,100
+325,6,Confuse Ray,25,ghost,-,100
+325,7,Confuse Ray,25,ghost,-,100
+325,12,Confuse Ray,25,ghost,-,100
+325,13,Confuse Ray,25,ghost,-,100
+325,8,Zen Headbutt,26,psychic,80,90
+325,9,Zen Headbutt,26,psychic,80,90
+325,10,Zen Headbutt,26,psychic,80,90
+325,11,Zen Headbutt,26,psychic,80,90
+325,14,Zen Headbutt,26,psychic,80,90
+325,15,Zen Headbutt,26,psychic,80,90
+325,16,Zen Headbutt,26,psychic,80,90
+325,5,Magic Coat,28,psychic,-,-
+325,6,Magic Coat,28,psychic,-,-
+325,7,Magic Coat,28,psychic,-,-
+325,12,Magic Coat,28,psychic,-,-
+325,13,Magic Coat,28,psychic,-,-
+325,8,Rest,29,psychic,-,-
+325,8,Snore,29,normal,50,100
+325,9,Rest,29,psychic,-,-
+325,9,Snore,29,normal,50,100
+325,10,Rest,29,psychic,-,-
+325,10,Snore,29,normal,50,100
+325,11,Rest,29,psychic,-,-
+325,11,Snore,29,normal,50,100
+325,14,Rest,29,psychic,-,-
+325,14,Snore,29,normal,50,100
+325,15,Rest,29,psychic,-,-
+325,15,Snore,29,normal,50,100
+325,16,Rest,29,psychic,-,-
+325,16,Power Gem,29,rock,80,100
+325,14,Power Gem,33,rock,80,100
+325,15,Power Gem,33,rock,80,100
+325,16,Snore,33,normal,50,100
+325,5,Psychic,34,psychic,90,100
+325,6,Psychic,34,psychic,90,100
+325,7,Psychic,34,psychic,90,100
+325,8,Payback,34,dark,50,100
+325,9,Payback,34,dark,50,100
+325,10,Payback,34,dark,50,100
+325,11,Psyshock,34,psychic,80,100
+325,12,Psychic,34,psychic,90,100
+325,13,Psychic,34,psychic,90,100
+325,5,Rest,37,psychic,-,-
+325,5,Snore,37,normal,50,100
+325,6,Rest,37,psychic,-,-
+325,6,Snore,37,normal,50,100
+325,7,Rest,37,psychic,-,-
+325,7,Snore,37,normal,50,100
+325,12,Rest,37,psychic,-,-
+325,12,Snore,37,normal,50,100
+325,13,Rest,37,psychic,-,-
+325,13,Snore,37,normal,50,100
+325,14,Psyshock,38,psychic,80,100
+325,15,Psyshock,38,psychic,80,100
+325,16,Psyshock,38,psychic,80,100
+325,14,Payback,40,dark,50,100
+325,15,Payback,40,dark,50,100
+325,16,Payback,40,dark,50,100
+325,8,Psychic,41,psychic,90,100
+325,9,Psychic,41,psychic,90,100
+325,10,Psychic,41,psychic,90,100
+325,11,Payback,41,dark,50,100
+325,5,Bounce,43,flying,85,85
+325,6,Bounce,43,flying,85,85
+325,7,Bounce,43,flying,85,85
+325,12,Bounce,43,flying,85,85
+325,13,Bounce,43,flying,85,85
+325,14,Psychic,44,psychic,90,100
+325,15,Psychic,44,psychic,90,100
+325,16,Psychic,44,psychic,90,100
+325,8,Power Gem,46,rock,80,100
+325,9,Power Gem,46,rock,80,100
+325,10,Power Gem,46,rock,80,100
+325,11,Psychic,46,psychic,90,100
+325,8,Bounce,48,flying,85,85
+325,9,Bounce,48,flying,85,85
+325,10,Bounce,48,flying,85,85
+325,11,Power Gem,48,rock,80,100
+325,14,Bounce,50,flying,85,85
+325,15,Bounce,50,flying,85,85
+325,16,Bounce,50,flying,85,85
+325,11,Bounce,53,flying,85,85

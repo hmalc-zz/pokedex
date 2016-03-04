@@ -1,166 +1,166 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-364,sealeo,5,34,Body Slam,1,19,
-364,sealeo,5,45,Growl,1,1,2
-364,sealeo,5,55,Water Gun,1,1,3
-364,sealeo,5,59,Blizzard,1,47,
-364,sealeo,5,62,Aurora Beam,1,25,
-364,sealeo,5,156,Rest,1,39,
-364,sealeo,5,173,Snore,1,39,5
-364,sealeo,5,181,Powder Snow,1,1,1
-364,sealeo,5,227,Encore,1,1,4
-364,sealeo,5,227,Encore,1,7,
-364,sealeo,5,258,Hail,1,31,
-364,sealeo,5,301,Ice Ball,1,13,
-364,sealeo,5,329,Sheer Cold,1,55,
-364,sealeo,6,34,Body Slam,1,19,
-364,sealeo,6,45,Growl,1,1,2
-364,sealeo,6,55,Water Gun,1,1,3
-364,sealeo,6,59,Blizzard,1,47,
-364,sealeo,6,62,Aurora Beam,1,25,
-364,sealeo,6,156,Rest,1,39,
-364,sealeo,6,173,Snore,1,39,5
-364,sealeo,6,181,Powder Snow,1,1,1
-364,sealeo,6,227,Encore,1,1,4
-364,sealeo,6,227,Encore,1,7,
-364,sealeo,6,258,Hail,1,31,
-364,sealeo,6,301,Ice Ball,1,13,
-364,sealeo,6,329,Sheer Cold,1,55,
-364,sealeo,7,34,Body Slam,1,19,
-364,sealeo,7,45,Growl,1,1,2
-364,sealeo,7,55,Water Gun,1,1,4
-364,sealeo,7,59,Blizzard,1,47,
-364,sealeo,7,62,Aurora Beam,1,25,
-364,sealeo,7,111,Defense Curl,1,1,3
-364,sealeo,7,156,Rest,1,39,
-364,sealeo,7,173,Snore,1,39,5
-364,sealeo,7,181,Powder Snow,1,1,1
-364,sealeo,7,227,Encore,1,7,
-364,sealeo,7,258,Hail,1,31,
-364,sealeo,7,301,Ice Ball,1,13,
-364,sealeo,7,329,Sheer Cold,1,55,
-364,sealeo,8,34,Body Slam,1,19,
-364,sealeo,8,45,Growl,1,1,2
-364,sealeo,8,55,Water Gun,1,1,3
-364,sealeo,8,59,Blizzard,1,47,
-364,sealeo,8,62,Aurora Beam,1,25,
-364,sealeo,8,156,Rest,1,39,1
-364,sealeo,8,173,Snore,1,39,2
-364,sealeo,8,181,Powder Snow,1,1,1
-364,sealeo,8,207,Swagger,1,32,
-364,sealeo,8,227,Encore,1,1,4
-364,sealeo,8,227,Encore,1,7,
-364,sealeo,8,258,Hail,1,31,
-364,sealeo,8,301,Ice Ball,1,13,
-364,sealeo,8,329,Sheer Cold,1,55,
-364,sealeo,9,34,Body Slam,1,19,
-364,sealeo,9,45,Growl,1,1,2
-364,sealeo,9,55,Water Gun,1,1,3
-364,sealeo,9,59,Blizzard,1,47,
-364,sealeo,9,62,Aurora Beam,1,25,
-364,sealeo,9,156,Rest,1,39,1
-364,sealeo,9,173,Snore,1,39,2
-364,sealeo,9,181,Powder Snow,1,1,1
-364,sealeo,9,207,Swagger,1,32,
-364,sealeo,9,227,Encore,1,1,4
-364,sealeo,9,227,Encore,1,7,
-364,sealeo,9,258,Hail,1,31,
-364,sealeo,9,301,Ice Ball,1,13,
-364,sealeo,9,329,Sheer Cold,1,55,
-364,sealeo,10,34,Body Slam,1,19,
-364,sealeo,10,45,Growl,1,1,2
-364,sealeo,10,55,Water Gun,1,1,3
-364,sealeo,10,59,Blizzard,1,47,
-364,sealeo,10,62,Aurora Beam,1,25,
-364,sealeo,10,156,Rest,1,39,1
-364,sealeo,10,173,Snore,1,39,2
-364,sealeo,10,181,Powder Snow,1,1,1
-364,sealeo,10,207,Swagger,1,32,
-364,sealeo,10,227,Encore,1,1,4
-364,sealeo,10,227,Encore,1,7,
-364,sealeo,10,258,Hail,1,31,
-364,sealeo,10,301,Ice Ball,1,13,
-364,sealeo,10,329,Sheer Cold,1,55,
-364,sealeo,11,34,Body Slam,1,19,
-364,sealeo,11,45,Growl,1,1,2
-364,sealeo,11,55,Water Gun,1,1,3
-364,sealeo,11,59,Blizzard,1,47,
-364,sealeo,11,62,Aurora Beam,1,25,
-364,sealeo,11,156,Rest,1,39,1
-364,sealeo,11,173,Snore,1,39,2
-364,sealeo,11,181,Powder Snow,1,1,1
-364,sealeo,11,207,Swagger,1,32,
-364,sealeo,11,227,Encore,1,1,4
-364,sealeo,11,227,Encore,1,7,
-364,sealeo,11,258,Hail,1,31,
-364,sealeo,11,301,Ice Ball,1,13,
-364,sealeo,11,329,Sheer Cold,1,55,
-364,sealeo,12,34,Body Slam,1,19,
-364,sealeo,12,45,Growl,1,1,2
-364,sealeo,12,55,Water Gun,1,1,3
-364,sealeo,12,59,Blizzard,1,47,
-364,sealeo,12,62,Aurora Beam,1,25,
-364,sealeo,12,156,Rest,1,39,
-364,sealeo,12,173,Snore,1,39,5
-364,sealeo,12,181,Powder Snow,1,1,1
-364,sealeo,12,227,Encore,1,1,4
-364,sealeo,12,227,Encore,1,7,
-364,sealeo,12,258,Hail,1,31,
-364,sealeo,12,301,Ice Ball,1,13,
-364,sealeo,12,329,Sheer Cold,1,55,
-364,sealeo,13,34,Body Slam,1,19,
-364,sealeo,13,45,Growl,1,1,2
-364,sealeo,13,55,Water Gun,1,1,3
-364,sealeo,13,59,Blizzard,1,47,
-364,sealeo,13,62,Aurora Beam,1,25,
-364,sealeo,13,156,Rest,1,39,
-364,sealeo,13,173,Snore,1,39,5
-364,sealeo,13,181,Powder Snow,1,1,1
-364,sealeo,13,227,Encore,1,1,4
-364,sealeo,13,227,Encore,1,7,
-364,sealeo,13,258,Hail,1,31,
-364,sealeo,13,301,Ice Ball,1,13,
-364,sealeo,13,329,Sheer Cold,1,55,
-364,sealeo,14,34,Body Slam,1,19,
-364,sealeo,14,45,Growl,1,1,2
-364,sealeo,14,55,Water Gun,1,1,3
-364,sealeo,14,59,Blizzard,1,47,
-364,sealeo,14,62,Aurora Beam,1,25,
-364,sealeo,14,156,Rest,1,39,1
-364,sealeo,14,173,Snore,1,39,2
-364,sealeo,14,181,Powder Snow,1,1,1
-364,sealeo,14,207,Swagger,1,32,
-364,sealeo,14,227,Encore,1,1,4
-364,sealeo,14,227,Encore,1,7,
-364,sealeo,14,258,Hail,1,31,
-364,sealeo,14,301,Ice Ball,1,13,
-364,sealeo,14,329,Sheer Cold,1,55,
-364,sealeo,15,34,Body Slam,1,19,
-364,sealeo,15,45,Growl,1,1,2
-364,sealeo,15,55,Water Gun,1,1,3
-364,sealeo,15,59,Blizzard,1,47,
-364,sealeo,15,62,Aurora Beam,1,25,
-364,sealeo,15,156,Rest,1,39,1
-364,sealeo,15,173,Snore,1,39,2
-364,sealeo,15,181,Powder Snow,1,1,1
-364,sealeo,15,207,Swagger,1,32,
-364,sealeo,15,227,Encore,1,1,4
-364,sealeo,15,227,Encore,1,7,
-364,sealeo,15,258,Hail,1,31,
-364,sealeo,15,301,Ice Ball,1,13,
-364,sealeo,15,329,Sheer Cold,1,55,
-364,sealeo,16,34,Body Slam,1,26,1
-364,sealeo,16,45,Growl,1,1,3
-364,sealeo,16,55,Water Gun,1,1,4
-364,sealeo,16,59,Blizzard,1,45,1
-364,sealeo,16,62,Aurora Beam,1,21,1
-364,sealeo,16,111,Defense Curl,1,1,1
-364,sealeo,16,156,Rest,1,31,1
-364,sealeo,16,173,Snore,1,31,2
-364,sealeo,16,181,Powder Snow,1,1,2
-364,sealeo,16,205,Rollout,1,5,1
-364,sealeo,16,207,Swagger,1,32,1
-364,sealeo,16,227,Encore,1,9,1
-364,sealeo,16,258,Hail,1,38,1
-364,sealeo,16,301,Ice Ball,1,13,1
-364,sealeo,16,329,Sheer Cold,1,52,1
-364,sealeo,16,362,Brine,1,17,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+364,5,Growl,1,normal,-,100
+364,5,Water Gun,1,water,40,100
+364,5,Powder Snow,1,ice,40,100
+364,5,Encore,1,normal,-,100
+364,6,Growl,1,normal,-,100
+364,6,Water Gun,1,water,40,100
+364,6,Powder Snow,1,ice,40,100
+364,6,Encore,1,normal,-,100
+364,7,Growl,1,normal,-,100
+364,7,Water Gun,1,water,40,100
+364,7,Defense Curl,1,normal,-,-
+364,7,Powder Snow,1,ice,40,100
+364,8,Growl,1,normal,-,100
+364,8,Water Gun,1,water,40,100
+364,8,Powder Snow,1,ice,40,100
+364,8,Encore,1,normal,-,100
+364,9,Growl,1,normal,-,100
+364,9,Water Gun,1,water,40,100
+364,9,Powder Snow,1,ice,40,100
+364,9,Encore,1,normal,-,100
+364,10,Growl,1,normal,-,100
+364,10,Water Gun,1,water,40,100
+364,10,Powder Snow,1,ice,40,100
+364,10,Encore,1,normal,-,100
+364,11,Growl,1,normal,-,100
+364,11,Water Gun,1,water,40,100
+364,11,Powder Snow,1,ice,40,100
+364,11,Encore,1,normal,-,100
+364,12,Growl,1,normal,-,100
+364,12,Water Gun,1,water,40,100
+364,12,Powder Snow,1,ice,40,100
+364,12,Encore,1,normal,-,100
+364,13,Growl,1,normal,-,100
+364,13,Water Gun,1,water,40,100
+364,13,Powder Snow,1,ice,40,100
+364,13,Encore,1,normal,-,100
+364,14,Growl,1,normal,-,100
+364,14,Water Gun,1,water,40,100
+364,14,Powder Snow,1,ice,40,100
+364,14,Encore,1,normal,-,100
+364,15,Growl,1,normal,-,100
+364,15,Water Gun,1,water,40,100
+364,15,Powder Snow,1,ice,40,100
+364,15,Encore,1,normal,-,100
+364,16,Growl,1,normal,-,100
+364,16,Water Gun,1,water,40,100
+364,16,Defense Curl,1,normal,-,-
+364,16,Powder Snow,1,ice,40,100
+364,16,Rollout,5,rock,30,90
+364,5,Encore,7,normal,-,100
+364,6,Encore,7,normal,-,100
+364,7,Encore,7,normal,-,100
+364,8,Encore,7,normal,-,100
+364,9,Encore,7,normal,-,100
+364,10,Encore,7,normal,-,100
+364,11,Encore,7,normal,-,100
+364,12,Encore,7,normal,-,100
+364,13,Encore,7,normal,-,100
+364,14,Encore,7,normal,-,100
+364,15,Encore,7,normal,-,100
+364,16,Encore,9,normal,-,100
+364,5,Ice Ball,13,ice,30,90
+364,6,Ice Ball,13,ice,30,90
+364,7,Ice Ball,13,ice,30,90
+364,8,Ice Ball,13,ice,30,90
+364,9,Ice Ball,13,ice,30,90
+364,10,Ice Ball,13,ice,30,90
+364,11,Ice Ball,13,ice,30,90
+364,12,Ice Ball,13,ice,30,90
+364,13,Ice Ball,13,ice,30,90
+364,14,Ice Ball,13,ice,30,90
+364,15,Ice Ball,13,ice,30,90
+364,16,Ice Ball,13,ice,30,90
+364,16,Brine,17,water,65,100
+364,5,Body Slam,19,normal,85,100
+364,6,Body Slam,19,normal,85,100
+364,7,Body Slam,19,normal,85,100
+364,8,Body Slam,19,normal,85,100
+364,9,Body Slam,19,normal,85,100
+364,10,Body Slam,19,normal,85,100
+364,11,Body Slam,19,normal,85,100
+364,12,Body Slam,19,normal,85,100
+364,13,Body Slam,19,normal,85,100
+364,14,Body Slam,19,normal,85,100
+364,15,Body Slam,19,normal,85,100
+364,16,Aurora Beam,21,ice,65,100
+364,5,Aurora Beam,25,ice,65,100
+364,6,Aurora Beam,25,ice,65,100
+364,7,Aurora Beam,25,ice,65,100
+364,8,Aurora Beam,25,ice,65,100
+364,9,Aurora Beam,25,ice,65,100
+364,10,Aurora Beam,25,ice,65,100
+364,11,Aurora Beam,25,ice,65,100
+364,12,Aurora Beam,25,ice,65,100
+364,13,Aurora Beam,25,ice,65,100
+364,14,Aurora Beam,25,ice,65,100
+364,15,Aurora Beam,25,ice,65,100
+364,16,Body Slam,26,normal,85,100
+364,5,Hail,31,ice,-,-
+364,6,Hail,31,ice,-,-
+364,7,Hail,31,ice,-,-
+364,8,Hail,31,ice,-,-
+364,9,Hail,31,ice,-,-
+364,10,Hail,31,ice,-,-
+364,11,Hail,31,ice,-,-
+364,12,Hail,31,ice,-,-
+364,13,Hail,31,ice,-,-
+364,14,Hail,31,ice,-,-
+364,15,Hail,31,ice,-,-
+364,16,Rest,31,psychic,-,-
+364,16,Snore,31,normal,50,100
+364,8,Swagger,32,normal,-,90
+364,9,Swagger,32,normal,-,90
+364,10,Swagger,32,normal,-,90
+364,11,Swagger,32,normal,-,90
+364,14,Swagger,32,normal,-,90
+364,15,Swagger,32,normal,-,90
+364,16,Swagger,32,normal,-,90
+364,16,Hail,38,ice,-,-
+364,5,Rest,39,psychic,-,-
+364,5,Snore,39,normal,50,100
+364,6,Rest,39,psychic,-,-
+364,6,Snore,39,normal,50,100
+364,7,Rest,39,psychic,-,-
+364,7,Snore,39,normal,50,100
+364,8,Rest,39,psychic,-,-
+364,8,Snore,39,normal,50,100
+364,9,Rest,39,psychic,-,-
+364,9,Snore,39,normal,50,100
+364,10,Rest,39,psychic,-,-
+364,10,Snore,39,normal,50,100
+364,11,Rest,39,psychic,-,-
+364,11,Snore,39,normal,50,100
+364,12,Rest,39,psychic,-,-
+364,12,Snore,39,normal,50,100
+364,13,Rest,39,psychic,-,-
+364,13,Snore,39,normal,50,100
+364,14,Rest,39,psychic,-,-
+364,14,Snore,39,normal,50,100
+364,15,Rest,39,psychic,-,-
+364,15,Snore,39,normal,50,100
+364,16,Blizzard,45,ice,110,70
+364,5,Blizzard,47,ice,110,70
+364,6,Blizzard,47,ice,110,70
+364,7,Blizzard,47,ice,110,70
+364,8,Blizzard,47,ice,110,70
+364,9,Blizzard,47,ice,110,70
+364,10,Blizzard,47,ice,110,70
+364,11,Blizzard,47,ice,110,70
+364,12,Blizzard,47,ice,110,70
+364,13,Blizzard,47,ice,110,70
+364,14,Blizzard,47,ice,110,70
+364,15,Blizzard,47,ice,110,70
+364,16,Sheer Cold,52,ice,-,30
+364,5,Sheer Cold,55,ice,-,30
+364,6,Sheer Cold,55,ice,-,30
+364,7,Sheer Cold,55,ice,-,30
+364,8,Sheer Cold,55,ice,-,30
+364,9,Sheer Cold,55,ice,-,30
+364,10,Sheer Cold,55,ice,-,30
+364,11,Sheer Cold,55,ice,-,30
+364,12,Sheer Cold,55,ice,-,30
+364,13,Sheer Cold,55,ice,-,30
+364,14,Sheer Cold,55,ice,-,30
+364,15,Sheer Cold,55,ice,-,30

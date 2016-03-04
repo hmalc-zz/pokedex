@@ -1,249 +1,249 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-3,venusaur,1,22,Vine Whip,1,1,4
-3,venusaur,1,22,Vine Whip,1,13,
-3,venusaur,1,33,Tackle,1,1,1
-3,venusaur,1,45,Growl,1,1,2
-3,venusaur,1,73,Leech Seed,1,1,3
-3,venusaur,1,73,Leech Seed,1,7,
-3,venusaur,1,74,Growth,1,43,
-3,venusaur,1,75,Razor Leaf,1,30,
-3,venusaur,1,76,Solar Beam,1,65,
-3,venusaur,1,77,Poison Powder,1,22,
-3,venusaur,1,79,Sleep Powder,1,55,
-3,venusaur,2,22,Vine Whip,1,1,4
-3,venusaur,2,22,Vine Whip,1,13,
-3,venusaur,2,33,Tackle,1,1,1
-3,venusaur,2,45,Growl,1,1,2
-3,venusaur,2,73,Leech Seed,1,1,3
-3,venusaur,2,73,Leech Seed,1,7,
-3,venusaur,2,74,Growth,1,43,
-3,venusaur,2,75,Razor Leaf,1,30,
-3,venusaur,2,76,Solar Beam,1,65,
-3,venusaur,2,77,Poison Powder,1,22,
-3,venusaur,2,79,Sleep Powder,1,55,
-3,venusaur,3,22,Vine Whip,1,1,4
-3,venusaur,3,22,Vine Whip,1,10,
-3,venusaur,3,33,Tackle,1,1,1
-3,venusaur,3,45,Growl,1,1,2
-3,venusaur,3,45,Growl,1,4,
-3,venusaur,3,73,Leech Seed,1,1,3
-3,venusaur,3,73,Leech Seed,1,7,
-3,venusaur,3,74,Growth,1,41,
-3,venusaur,3,75,Razor Leaf,1,22,
-3,venusaur,3,76,Solar Beam,1,65,
-3,venusaur,3,77,Poison Powder,1,15,
-3,venusaur,3,79,Sleep Powder,1,15,5
-3,venusaur,3,230,Sweet Scent,1,29,
-3,venusaur,3,235,Synthesis,1,53,
-3,venusaur,4,22,Vine Whip,1,1,4
-3,venusaur,4,22,Vine Whip,1,10,
-3,venusaur,4,33,Tackle,1,1,1
-3,venusaur,4,45,Growl,1,1,2
-3,venusaur,4,45,Growl,1,4,
-3,venusaur,4,73,Leech Seed,1,1,3
-3,venusaur,4,73,Leech Seed,1,7,
-3,venusaur,4,74,Growth,1,41,
-3,venusaur,4,75,Razor Leaf,1,22,
-3,venusaur,4,76,Solar Beam,1,65,
-3,venusaur,4,77,Poison Powder,1,15,
-3,venusaur,4,79,Sleep Powder,1,15,5
-3,venusaur,4,230,Sweet Scent,1,29,
-3,venusaur,4,235,Synthesis,1,53,
-3,venusaur,5,22,Vine Whip,1,1,4
-3,venusaur,5,22,Vine Whip,1,10,
-3,venusaur,5,33,Tackle,1,1,1
-3,venusaur,5,45,Growl,1,1,2
-3,venusaur,5,45,Growl,1,4,
-3,venusaur,5,73,Leech Seed,1,1,3
-3,venusaur,5,73,Leech Seed,1,7,
-3,venusaur,5,74,Growth,1,41,
-3,venusaur,5,75,Razor Leaf,1,22,
-3,venusaur,5,76,Solar Beam,1,65,
-3,venusaur,5,77,Poison Powder,1,15,
-3,venusaur,5,79,Sleep Powder,1,15,5
-3,venusaur,5,230,Sweet Scent,1,29,
-3,venusaur,5,235,Synthesis,1,53,
-3,venusaur,6,22,Vine Whip,1,1,4
-3,venusaur,6,22,Vine Whip,1,10,
-3,venusaur,6,33,Tackle,1,1,1
-3,venusaur,6,45,Growl,1,1,2
-3,venusaur,6,45,Growl,1,4,
-3,venusaur,6,73,Leech Seed,1,1,3
-3,venusaur,6,73,Leech Seed,1,7,
-3,venusaur,6,74,Growth,1,41,
-3,venusaur,6,75,Razor Leaf,1,22,
-3,venusaur,6,76,Solar Beam,1,65,
-3,venusaur,6,77,Poison Powder,1,15,
-3,venusaur,6,79,Sleep Powder,1,15,5
-3,venusaur,6,230,Sweet Scent,1,29,
-3,venusaur,6,235,Synthesis,1,53,
-3,venusaur,7,22,Vine Whip,1,1,4
-3,venusaur,7,22,Vine Whip,1,10,
-3,venusaur,7,33,Tackle,1,1,1
-3,venusaur,7,45,Growl,1,1,2
-3,venusaur,7,45,Growl,1,4,
-3,venusaur,7,73,Leech Seed,1,1,3
-3,venusaur,7,73,Leech Seed,1,7,
-3,venusaur,7,74,Growth,1,41,
-3,venusaur,7,75,Razor Leaf,1,22,
-3,venusaur,7,76,Solar Beam,1,65,
-3,venusaur,7,77,Poison Powder,1,15,
-3,venusaur,7,79,Sleep Powder,1,15,5
-3,venusaur,7,230,Sweet Scent,1,29,
-3,venusaur,7,235,Synthesis,1,53,
-3,venusaur,8,22,Vine Whip,1,1,4
-3,venusaur,8,22,Vine Whip,1,9,
-3,venusaur,8,33,Tackle,1,1,1
-3,venusaur,8,36,Take Down,1,15,
-3,venusaur,8,38,Double-Edge,1,31,
-3,venusaur,8,45,Growl,1,1,2
-3,venusaur,8,45,Growl,1,3,
-3,venusaur,8,73,Leech Seed,1,1,3
-3,venusaur,8,73,Leech Seed,1,7,
-3,venusaur,8,74,Growth,1,28,
-3,venusaur,8,75,Razor Leaf,1,20,
-3,venusaur,8,76,Solar Beam,1,53,
-3,venusaur,8,77,Poison Powder,1,13,1
-3,venusaur,8,79,Sleep Powder,1,13,2
-3,venusaur,8,80,Petal Dance,1,32,
-3,venusaur,8,230,Sweet Scent,1,23,
-3,venusaur,8,235,Synthesis,1,45,
-3,venusaur,8,388,Worry Seed,1,39,
-3,venusaur,9,22,Vine Whip,1,1,4
-3,venusaur,9,22,Vine Whip,1,9,
-3,venusaur,9,33,Tackle,1,1,1
-3,venusaur,9,36,Take Down,1,15,
-3,venusaur,9,38,Double-Edge,1,31,
-3,venusaur,9,45,Growl,1,1,2
-3,venusaur,9,45,Growl,1,3,
-3,venusaur,9,73,Leech Seed,1,1,3
-3,venusaur,9,73,Leech Seed,1,7,
-3,venusaur,9,74,Growth,1,28,
-3,venusaur,9,75,Razor Leaf,1,20,
-3,venusaur,9,76,Solar Beam,1,53,
-3,venusaur,9,77,Poison Powder,1,13,1
-3,venusaur,9,79,Sleep Powder,1,13,2
-3,venusaur,9,80,Petal Dance,1,32,
-3,venusaur,9,230,Sweet Scent,1,23,
-3,venusaur,9,235,Synthesis,1,45,
-3,venusaur,9,388,Worry Seed,1,39,
-3,venusaur,10,22,Vine Whip,1,1,4
-3,venusaur,10,22,Vine Whip,1,9,
-3,venusaur,10,33,Tackle,1,1,1
-3,venusaur,10,36,Take Down,1,15,
-3,venusaur,10,38,Double-Edge,1,31,
-3,venusaur,10,45,Growl,1,1,2
-3,venusaur,10,45,Growl,1,3,
-3,venusaur,10,73,Leech Seed,1,1,3
-3,venusaur,10,73,Leech Seed,1,7,
-3,venusaur,10,74,Growth,1,28,
-3,venusaur,10,75,Razor Leaf,1,20,
-3,venusaur,10,76,Solar Beam,1,53,
-3,venusaur,10,77,Poison Powder,1,13,1
-3,venusaur,10,79,Sleep Powder,1,13,2
-3,venusaur,10,80,Petal Dance,1,32,
-3,venusaur,10,230,Sweet Scent,1,23,
-3,venusaur,10,235,Synthesis,1,45,
-3,venusaur,10,388,Worry Seed,1,39,
-3,venusaur,11,22,Vine Whip,1,1,4
-3,venusaur,11,22,Vine Whip,1,9,
-3,venusaur,11,33,Tackle,1,1,1
-3,venusaur,11,36,Take Down,1,15,
-3,venusaur,11,38,Double-Edge,1,31,
-3,venusaur,11,45,Growl,1,1,2
-3,venusaur,11,45,Growl,1,3,
-3,venusaur,11,73,Leech Seed,1,1,3
-3,venusaur,11,73,Leech Seed,1,7,
-3,venusaur,11,74,Growth,1,28,
-3,venusaur,11,75,Razor Leaf,1,20,
-3,venusaur,11,76,Solar Beam,1,53,
-3,venusaur,11,77,Poison Powder,1,13,1
-3,venusaur,11,79,Sleep Powder,1,13,2
-3,venusaur,11,80,Petal Dance,1,32,
-3,venusaur,11,230,Sweet Scent,1,23,
-3,venusaur,11,235,Synthesis,1,45,
-3,venusaur,11,388,Worry Seed,1,39,
-3,venusaur,12,22,Vine Whip,1,1,4
-3,venusaur,12,22,Vine Whip,1,10,
-3,venusaur,12,33,Tackle,1,1,1
-3,venusaur,12,45,Growl,1,1,2
-3,venusaur,12,45,Growl,1,4,
-3,venusaur,12,73,Leech Seed,1,1,3
-3,venusaur,12,73,Leech Seed,1,7,
-3,venusaur,12,74,Growth,1,41,
-3,venusaur,12,75,Razor Leaf,1,22,
-3,venusaur,12,76,Solar Beam,1,65,
-3,venusaur,12,77,Poison Powder,1,15,
-3,venusaur,12,79,Sleep Powder,1,15,5
-3,venusaur,12,230,Sweet Scent,1,29,
-3,venusaur,12,235,Synthesis,1,53,
-3,venusaur,13,22,Vine Whip,1,1,4
-3,venusaur,13,22,Vine Whip,1,10,
-3,venusaur,13,33,Tackle,1,1,1
-3,venusaur,13,45,Growl,1,1,2
-3,venusaur,13,45,Growl,1,4,
-3,venusaur,13,73,Leech Seed,1,1,3
-3,venusaur,13,73,Leech Seed,1,7,
-3,venusaur,13,74,Growth,1,41,
-3,venusaur,13,75,Razor Leaf,1,22,
-3,venusaur,13,76,Solar Beam,1,65,
-3,venusaur,13,77,Poison Powder,1,15,
-3,venusaur,13,79,Sleep Powder,1,15,5
-3,venusaur,13,230,Sweet Scent,1,29,
-3,venusaur,13,235,Synthesis,1,53,
-3,venusaur,14,22,Vine Whip,1,1,4
-3,venusaur,14,22,Vine Whip,1,9,
-3,venusaur,14,33,Tackle,1,1,1
-3,venusaur,14,36,Take Down,1,15,
-3,venusaur,14,38,Double-Edge,1,31,
-3,venusaur,14,45,Growl,1,1,2
-3,venusaur,14,45,Growl,1,3,
-3,venusaur,14,73,Leech Seed,1,1,3
-3,venusaur,14,73,Leech Seed,1,7,
-3,venusaur,14,74,Growth,1,28,
-3,venusaur,14,75,Razor Leaf,1,20,
-3,venusaur,14,76,Solar Beam,1,53,
-3,venusaur,14,77,Poison Powder,1,13,1
-3,venusaur,14,79,Sleep Powder,1,13,2
-3,venusaur,14,80,Petal Dance,1,32,
-3,venusaur,14,230,Sweet Scent,1,23,
-3,venusaur,14,235,Synthesis,1,45,
-3,venusaur,14,388,Worry Seed,1,39,
-3,venusaur,15,22,Vine Whip,1,1,4
-3,venusaur,15,22,Vine Whip,1,9,
-3,venusaur,15,33,Tackle,1,1,1
-3,venusaur,15,36,Take Down,1,15,
-3,venusaur,15,38,Double-Edge,1,31,
-3,venusaur,15,45,Growl,1,1,2
-3,venusaur,15,45,Growl,1,3,
-3,venusaur,15,73,Leech Seed,1,1,3
-3,venusaur,15,73,Leech Seed,1,7,
-3,venusaur,15,74,Growth,1,28,
-3,venusaur,15,75,Razor Leaf,1,20,
-3,venusaur,15,76,Solar Beam,1,53,
-3,venusaur,15,77,Poison Powder,1,13,1
-3,venusaur,15,79,Sleep Powder,1,13,2
-3,venusaur,15,80,Petal Dance,1,32,
-3,venusaur,15,230,Sweet Scent,1,23,
-3,venusaur,15,235,Synthesis,1,45,
-3,venusaur,15,388,Worry Seed,1,39,
-3,venusaur,15,572,Petal Blizzard,1,50,
-3,venusaur,16,22,Vine Whip,1,1,4
-3,venusaur,16,22,Vine Whip,1,9,1
-3,venusaur,16,33,Tackle,1,1,1
-3,venusaur,16,36,Take Down,1,15,1
-3,venusaur,16,38,Double-Edge,1,31,1
-3,venusaur,16,45,Growl,1,1,2
-3,venusaur,16,45,Growl,1,3,1
-3,venusaur,16,73,Leech Seed,1,1,3
-3,venusaur,16,73,Leech Seed,1,7,1
-3,venusaur,16,74,Growth,1,28,1
-3,venusaur,16,75,Razor Leaf,1,20,1
-3,venusaur,16,76,Solar Beam,1,53,1
-3,venusaur,16,77,Poison Powder,1,13,1
-3,venusaur,16,79,Sleep Powder,1,13,2
-3,venusaur,16,80,Petal Dance,1,32,1
-3,venusaur,16,230,Sweet Scent,1,23,1
-3,venusaur,16,235,Synthesis,1,45,1
-3,venusaur,16,388,Worry Seed,1,39,1
-3,venusaur,16,572,Petal Blizzard,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+3,1,Vine Whip,1,grass,45,100
+3,1,Tackle,1,normal,50,100
+3,1,Growl,1,normal,-,100
+3,1,Leech Seed,1,grass,-,90
+3,2,Vine Whip,1,grass,45,100
+3,2,Tackle,1,normal,50,100
+3,2,Growl,1,normal,-,100
+3,2,Leech Seed,1,grass,-,90
+3,3,Vine Whip,1,grass,45,100
+3,3,Tackle,1,normal,50,100
+3,3,Growl,1,normal,-,100
+3,3,Leech Seed,1,grass,-,90
+3,4,Vine Whip,1,grass,45,100
+3,4,Tackle,1,normal,50,100
+3,4,Growl,1,normal,-,100
+3,4,Leech Seed,1,grass,-,90
+3,5,Vine Whip,1,grass,45,100
+3,5,Tackle,1,normal,50,100
+3,5,Growl,1,normal,-,100
+3,5,Leech Seed,1,grass,-,90
+3,6,Vine Whip,1,grass,45,100
+3,6,Tackle,1,normal,50,100
+3,6,Growl,1,normal,-,100
+3,6,Leech Seed,1,grass,-,90
+3,7,Vine Whip,1,grass,45,100
+3,7,Tackle,1,normal,50,100
+3,7,Growl,1,normal,-,100
+3,7,Leech Seed,1,grass,-,90
+3,8,Vine Whip,1,grass,45,100
+3,8,Tackle,1,normal,50,100
+3,8,Growl,1,normal,-,100
+3,8,Leech Seed,1,grass,-,90
+3,9,Vine Whip,1,grass,45,100
+3,9,Tackle,1,normal,50,100
+3,9,Growl,1,normal,-,100
+3,9,Leech Seed,1,grass,-,90
+3,10,Vine Whip,1,grass,45,100
+3,10,Tackle,1,normal,50,100
+3,10,Growl,1,normal,-,100
+3,10,Leech Seed,1,grass,-,90
+3,11,Vine Whip,1,grass,45,100
+3,11,Tackle,1,normal,50,100
+3,11,Growl,1,normal,-,100
+3,11,Leech Seed,1,grass,-,90
+3,12,Vine Whip,1,grass,45,100
+3,12,Tackle,1,normal,50,100
+3,12,Growl,1,normal,-,100
+3,12,Leech Seed,1,grass,-,90
+3,13,Vine Whip,1,grass,45,100
+3,13,Tackle,1,normal,50,100
+3,13,Growl,1,normal,-,100
+3,13,Leech Seed,1,grass,-,90
+3,14,Vine Whip,1,grass,45,100
+3,14,Tackle,1,normal,50,100
+3,14,Growl,1,normal,-,100
+3,14,Leech Seed,1,grass,-,90
+3,15,Vine Whip,1,grass,45,100
+3,15,Tackle,1,normal,50,100
+3,15,Growl,1,normal,-,100
+3,15,Leech Seed,1,grass,-,90
+3,16,Vine Whip,1,grass,45,100
+3,16,Tackle,1,normal,50,100
+3,16,Growl,1,normal,-,100
+3,16,Leech Seed,1,grass,-,90
+3,8,Growl,3,normal,-,100
+3,9,Growl,3,normal,-,100
+3,10,Growl,3,normal,-,100
+3,11,Growl,3,normal,-,100
+3,14,Growl,3,normal,-,100
+3,15,Growl,3,normal,-,100
+3,16,Growl,3,normal,-,100
+3,3,Growl,4,normal,-,100
+3,4,Growl,4,normal,-,100
+3,5,Growl,4,normal,-,100
+3,6,Growl,4,normal,-,100
+3,7,Growl,4,normal,-,100
+3,12,Growl,4,normal,-,100
+3,13,Growl,4,normal,-,100
+3,1,Leech Seed,7,grass,-,90
+3,2,Leech Seed,7,grass,-,90
+3,3,Leech Seed,7,grass,-,90
+3,4,Leech Seed,7,grass,-,90
+3,5,Leech Seed,7,grass,-,90
+3,6,Leech Seed,7,grass,-,90
+3,7,Leech Seed,7,grass,-,90
+3,8,Leech Seed,7,grass,-,90
+3,9,Leech Seed,7,grass,-,90
+3,10,Leech Seed,7,grass,-,90
+3,11,Leech Seed,7,grass,-,90
+3,12,Leech Seed,7,grass,-,90
+3,13,Leech Seed,7,grass,-,90
+3,14,Leech Seed,7,grass,-,90
+3,15,Leech Seed,7,grass,-,90
+3,16,Leech Seed,7,grass,-,90
+3,8,Vine Whip,9,grass,45,100
+3,9,Vine Whip,9,grass,45,100
+3,10,Vine Whip,9,grass,45,100
+3,11,Vine Whip,9,grass,45,100
+3,14,Vine Whip,9,grass,45,100
+3,15,Vine Whip,9,grass,45,100
+3,16,Vine Whip,9,grass,45,100
+3,3,Vine Whip,10,grass,45,100
+3,4,Vine Whip,10,grass,45,100
+3,5,Vine Whip,10,grass,45,100
+3,6,Vine Whip,10,grass,45,100
+3,7,Vine Whip,10,grass,45,100
+3,12,Vine Whip,10,grass,45,100
+3,13,Vine Whip,10,grass,45,100
+3,1,Vine Whip,13,grass,45,100
+3,2,Vine Whip,13,grass,45,100
+3,8,Poison Powder,13,poison,-,75
+3,8,Sleep Powder,13,grass,-,75
+3,9,Poison Powder,13,poison,-,75
+3,9,Sleep Powder,13,grass,-,75
+3,10,Poison Powder,13,poison,-,75
+3,10,Sleep Powder,13,grass,-,75
+3,11,Poison Powder,13,poison,-,75
+3,11,Sleep Powder,13,grass,-,75
+3,14,Poison Powder,13,poison,-,75
+3,14,Sleep Powder,13,grass,-,75
+3,15,Poison Powder,13,poison,-,75
+3,15,Sleep Powder,13,grass,-,75
+3,16,Poison Powder,13,poison,-,75
+3,16,Sleep Powder,13,grass,-,75
+3,3,Poison Powder,15,poison,-,75
+3,3,Sleep Powder,15,grass,-,75
+3,4,Poison Powder,15,poison,-,75
+3,4,Sleep Powder,15,grass,-,75
+3,5,Poison Powder,15,poison,-,75
+3,5,Sleep Powder,15,grass,-,75
+3,6,Poison Powder,15,poison,-,75
+3,6,Sleep Powder,15,grass,-,75
+3,7,Poison Powder,15,poison,-,75
+3,7,Sleep Powder,15,grass,-,75
+3,8,Take Down,15,normal,90,85
+3,9,Take Down,15,normal,90,85
+3,10,Take Down,15,normal,90,85
+3,11,Take Down,15,normal,90,85
+3,12,Poison Powder,15,poison,-,75
+3,12,Sleep Powder,15,grass,-,75
+3,13,Poison Powder,15,poison,-,75
+3,13,Sleep Powder,15,grass,-,75
+3,14,Take Down,15,normal,90,85
+3,15,Take Down,15,normal,90,85
+3,16,Take Down,15,normal,90,85
+3,8,Razor Leaf,20,grass,55,95
+3,9,Razor Leaf,20,grass,55,95
+3,10,Razor Leaf,20,grass,55,95
+3,11,Razor Leaf,20,grass,55,95
+3,14,Razor Leaf,20,grass,55,95
+3,15,Razor Leaf,20,grass,55,95
+3,16,Razor Leaf,20,grass,55,95
+3,1,Poison Powder,22,poison,-,75
+3,2,Poison Powder,22,poison,-,75
+3,3,Razor Leaf,22,grass,55,95
+3,4,Razor Leaf,22,grass,55,95
+3,5,Razor Leaf,22,grass,55,95
+3,6,Razor Leaf,22,grass,55,95
+3,7,Razor Leaf,22,grass,55,95
+3,12,Razor Leaf,22,grass,55,95
+3,13,Razor Leaf,22,grass,55,95
+3,8,Sweet Scent,23,normal,-,100
+3,9,Sweet Scent,23,normal,-,100
+3,10,Sweet Scent,23,normal,-,100
+3,11,Sweet Scent,23,normal,-,100
+3,14,Sweet Scent,23,normal,-,100
+3,15,Sweet Scent,23,normal,-,100
+3,16,Sweet Scent,23,normal,-,100
+3,8,Growth,28,normal,-,-
+3,9,Growth,28,normal,-,-
+3,10,Growth,28,normal,-,-
+3,11,Growth,28,normal,-,-
+3,14,Growth,28,normal,-,-
+3,15,Growth,28,normal,-,-
+3,16,Growth,28,normal,-,-
+3,3,Sweet Scent,29,normal,-,100
+3,4,Sweet Scent,29,normal,-,100
+3,5,Sweet Scent,29,normal,-,100
+3,6,Sweet Scent,29,normal,-,100
+3,7,Sweet Scent,29,normal,-,100
+3,12,Sweet Scent,29,normal,-,100
+3,13,Sweet Scent,29,normal,-,100
+3,1,Razor Leaf,30,grass,55,95
+3,2,Razor Leaf,30,grass,55,95
+3,8,Double-Edge,31,normal,120,100
+3,9,Double-Edge,31,normal,120,100
+3,10,Double-Edge,31,normal,120,100
+3,11,Double-Edge,31,normal,120,100
+3,14,Double-Edge,31,normal,120,100
+3,15,Double-Edge,31,normal,120,100
+3,16,Double-Edge,31,normal,120,100
+3,8,Petal Dance,32,grass,120,100
+3,9,Petal Dance,32,grass,120,100
+3,10,Petal Dance,32,grass,120,100
+3,11,Petal Dance,32,grass,120,100
+3,14,Petal Dance,32,grass,120,100
+3,15,Petal Dance,32,grass,120,100
+3,16,Petal Dance,32,grass,120,100
+3,8,Worry Seed,39,grass,-,100
+3,9,Worry Seed,39,grass,-,100
+3,10,Worry Seed,39,grass,-,100
+3,11,Worry Seed,39,grass,-,100
+3,14,Worry Seed,39,grass,-,100
+3,15,Worry Seed,39,grass,-,100
+3,16,Worry Seed,39,grass,-,100
+3,3,Growth,41,normal,-,-
+3,4,Growth,41,normal,-,-
+3,5,Growth,41,normal,-,-
+3,6,Growth,41,normal,-,-
+3,7,Growth,41,normal,-,-
+3,12,Growth,41,normal,-,-
+3,13,Growth,41,normal,-,-
+3,1,Growth,43,normal,-,-
+3,2,Growth,43,normal,-,-
+3,8,Synthesis,45,grass,-,-
+3,9,Synthesis,45,grass,-,-
+3,10,Synthesis,45,grass,-,-
+3,11,Synthesis,45,grass,-,-
+3,14,Synthesis,45,grass,-,-
+3,15,Synthesis,45,grass,-,-
+3,16,Synthesis,45,grass,-,-
+3,15,Petal Blizzard,50,grass,90,100
+3,16,Petal Blizzard,50,grass,90,100
+3,3,Synthesis,53,grass,-,-
+3,4,Synthesis,53,grass,-,-
+3,5,Synthesis,53,grass,-,-
+3,6,Synthesis,53,grass,-,-
+3,7,Synthesis,53,grass,-,-
+3,8,Solar Beam,53,grass,120,100
+3,9,Solar Beam,53,grass,120,100
+3,10,Solar Beam,53,grass,120,100
+3,11,Solar Beam,53,grass,120,100
+3,12,Synthesis,53,grass,-,-
+3,13,Synthesis,53,grass,-,-
+3,14,Solar Beam,53,grass,120,100
+3,15,Solar Beam,53,grass,120,100
+3,16,Solar Beam,53,grass,120,100
+3,1,Sleep Powder,55,grass,-,75
+3,2,Sleep Powder,55,grass,-,75
+3,1,Solar Beam,65,grass,120,100
+3,2,Solar Beam,65,grass,120,100
+3,3,Solar Beam,65,grass,120,100
+3,4,Solar Beam,65,grass,120,100
+3,5,Solar Beam,65,grass,120,100
+3,6,Solar Beam,65,grass,120,100
+3,7,Solar Beam,65,grass,120,100
+3,12,Solar Beam,65,grass,120,100
+3,13,Solar Beam,65,grass,120,100

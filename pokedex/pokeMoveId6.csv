@@ -1,251 +1,251 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-6,charizard,1,10,Scratch,1,1,1
-6,charizard,1,43,Leer,1,1,4
-6,charizard,1,43,Leer,1,15,
-6,charizard,1,45,Growl,1,1,2
-6,charizard,1,52,Ember,1,1,3
-6,charizard,1,52,Ember,1,9,
-6,charizard,1,53,Flamethrower,1,46,
-6,charizard,1,83,Fire Spin,1,55,
-6,charizard,1,99,Rage,1,24,
-6,charizard,1,163,Slash,1,36,
-6,charizard,2,10,Scratch,1,1,1
-6,charizard,2,43,Leer,1,1,4
-6,charizard,2,43,Leer,1,15,
-6,charizard,2,45,Growl,1,1,2
-6,charizard,2,52,Ember,1,1,3
-6,charizard,2,52,Ember,1,9,
-6,charizard,2,53,Flamethrower,1,46,
-6,charizard,2,83,Fire Spin,1,55,
-6,charizard,2,99,Rage,1,24,
-6,charizard,2,163,Slash,1,36,
-6,charizard,3,10,Scratch,1,1,1
-6,charizard,3,17,Wing Attack,1,36,
-6,charizard,3,45,Growl,1,1,2
-6,charizard,3,52,Ember,1,1,3
-6,charizard,3,52,Ember,1,7,
-6,charizard,3,53,Flamethrower,1,34,
-6,charizard,3,82,Dragon Rage,1,54,
-6,charizard,3,83,Fire Spin,1,64,
-6,charizard,3,99,Rage,1,20,
-6,charizard,3,108,Smokescreen,1,1,4
-6,charizard,3,108,Smokescreen,1,13,
-6,charizard,3,163,Slash,1,44,
-6,charizard,3,184,Scary Face,1,27,
-6,charizard,4,10,Scratch,1,1,1
-6,charizard,4,17,Wing Attack,1,36,
-6,charizard,4,45,Growl,1,1,2
-6,charizard,4,52,Ember,1,1,3
-6,charizard,4,52,Ember,1,7,
-6,charizard,4,53,Flamethrower,1,34,
-6,charizard,4,82,Dragon Rage,1,54,
-6,charizard,4,83,Fire Spin,1,64,
-6,charizard,4,99,Rage,1,20,
-6,charizard,4,108,Smokescreen,1,1,4
-6,charizard,4,108,Smokescreen,1,13,
-6,charizard,4,163,Slash,1,44,
-6,charizard,4,184,Scary Face,1,27,
-6,charizard,5,10,Scratch,1,1,1
-6,charizard,5,17,Wing Attack,1,36,
-6,charizard,5,45,Growl,1,1,2
-6,charizard,5,52,Ember,1,1,3
-6,charizard,5,52,Ember,1,7,
-6,charizard,5,53,Flamethrower,1,34,
-6,charizard,5,82,Dragon Rage,1,54,
-6,charizard,5,83,Fire Spin,1,64,
-6,charizard,5,99,Rage,1,20,
-6,charizard,5,108,Smokescreen,1,1,4
-6,charizard,5,108,Smokescreen,1,13,
-6,charizard,5,163,Slash,1,44,
-6,charizard,5,184,Scary Face,1,27,
-6,charizard,6,10,Scratch,1,1,1
-6,charizard,6,17,Wing Attack,1,36,
-6,charizard,6,45,Growl,1,1,2
-6,charizard,6,52,Ember,1,1,3
-6,charizard,6,52,Ember,1,7,
-6,charizard,6,53,Flamethrower,1,34,
-6,charizard,6,82,Dragon Rage,1,54,
-6,charizard,6,83,Fire Spin,1,64,
-6,charizard,6,99,Rage,1,20,
-6,charizard,6,108,Smokescreen,1,1,4
-6,charizard,6,108,Smokescreen,1,13,
-6,charizard,6,163,Slash,1,44,
-6,charizard,6,184,Scary Face,1,27,
-6,charizard,7,10,Scratch,1,1,2
-6,charizard,7,17,Wing Attack,1,36,
-6,charizard,7,45,Growl,1,1,3
-6,charizard,7,52,Ember,1,1,4
-6,charizard,7,52,Ember,1,7,
-6,charizard,7,53,Flamethrower,1,34,
-6,charizard,7,82,Dragon Rage,1,54,
-6,charizard,7,83,Fire Spin,1,64,
-6,charizard,7,108,Smokescreen,1,20,
-6,charizard,7,163,Slash,1,44,
-6,charizard,7,184,Scary Face,1,27,
-6,charizard,7,232,Metal Claw,1,1,5
-6,charizard,7,232,Metal Claw,1,13,
-6,charizard,7,257,Heat Wave,1,1,1
-6,charizard,8,10,Scratch,1,1,4
-6,charizard,8,17,Wing Attack,1,36,
-6,charizard,8,45,Growl,1,1,5
-6,charizard,8,52,Ember,1,1,6
-6,charizard,8,52,Ember,1,7,
-6,charizard,8,53,Flamethrower,1,42,
-6,charizard,8,82,Dragon Rage,1,17,
-6,charizard,8,83,Fire Spin,1,49,
-6,charizard,8,108,Smokescreen,1,1,7
-6,charizard,8,108,Smokescreen,1,10,
-6,charizard,8,163,Slash,1,32,
-6,charizard,8,184,Scary Face,1,21,
-6,charizard,8,257,Heat Wave,1,59,
-6,charizard,8,337,Dragon Claw,1,1,1
-6,charizard,8,394,Flare Blitz,1,66,
-6,charizard,8,403,Air Slash,1,1,3
-6,charizard,8,421,Shadow Claw,1,1,2
-6,charizard,8,424,Fire Fang,1,28,
-6,charizard,9,10,Scratch,1,1,4
-6,charizard,9,17,Wing Attack,1,36,
-6,charizard,9,45,Growl,1,1,5
-6,charizard,9,52,Ember,1,1,6
-6,charizard,9,52,Ember,1,7,
-6,charizard,9,53,Flamethrower,1,42,
-6,charizard,9,82,Dragon Rage,1,17,
-6,charizard,9,83,Fire Spin,1,49,
-6,charizard,9,108,Smokescreen,1,1,7
-6,charizard,9,108,Smokescreen,1,10,
-6,charizard,9,163,Slash,1,32,
-6,charizard,9,184,Scary Face,1,21,
-6,charizard,9,257,Heat Wave,1,59,
-6,charizard,9,337,Dragon Claw,1,1,1
-6,charizard,9,394,Flare Blitz,1,66,
-6,charizard,9,403,Air Slash,1,1,3
-6,charizard,9,421,Shadow Claw,1,1,2
-6,charizard,9,424,Fire Fang,1,28,
-6,charizard,10,10,Scratch,1,1,4
-6,charizard,10,17,Wing Attack,1,36,
-6,charizard,10,45,Growl,1,1,5
-6,charizard,10,52,Ember,1,1,6
-6,charizard,10,52,Ember,1,7,
-6,charizard,10,53,Flamethrower,1,42,
-6,charizard,10,82,Dragon Rage,1,17,
-6,charizard,10,83,Fire Spin,1,49,
-6,charizard,10,108,Smokescreen,1,1,7
-6,charizard,10,108,Smokescreen,1,10,
-6,charizard,10,163,Slash,1,32,
-6,charizard,10,184,Scary Face,1,21,
-6,charizard,10,257,Heat Wave,1,59,
-6,charizard,10,337,Dragon Claw,1,1,1
-6,charizard,10,394,Flare Blitz,1,66,
-6,charizard,10,403,Air Slash,1,1,3
-6,charizard,10,421,Shadow Claw,1,1,2
-6,charizard,10,424,Fire Fang,1,28,
-6,charizard,11,10,Scratch,1,1,4
-6,charizard,11,17,Wing Attack,1,36,
-6,charizard,11,45,Growl,1,1,5
-6,charizard,11,52,Ember,1,1,6
-6,charizard,11,52,Ember,1,7,
-6,charizard,11,53,Flamethrower,1,47,
-6,charizard,11,82,Dragon Rage,1,17,
-6,charizard,11,83,Fire Spin,1,56,
-6,charizard,11,108,Smokescreen,1,1,7
-6,charizard,11,108,Smokescreen,1,10,
-6,charizard,11,163,Slash,1,41,
-6,charizard,11,184,Scary Face,1,21,
-6,charizard,11,257,Heat Wave,1,71,
-6,charizard,11,337,Dragon Claw,1,1,1
-6,charizard,11,394,Flare Blitz,1,77,
-6,charizard,11,403,Air Slash,1,1,3
-6,charizard,11,421,Shadow Claw,1,1,2
-6,charizard,11,424,Fire Fang,1,28,
-6,charizard,11,481,Flame Burst,1,32,
-6,charizard,11,517,Inferno,1,62,
-6,charizard,12,10,Scratch,1,1,1
-6,charizard,12,17,Wing Attack,1,36,
-6,charizard,12,45,Growl,1,1,2
-6,charizard,12,52,Ember,1,1,3
-6,charizard,12,52,Ember,1,7,
-6,charizard,12,53,Flamethrower,1,34,
-6,charizard,12,82,Dragon Rage,1,54,
-6,charizard,12,83,Fire Spin,1,64,
-6,charizard,12,99,Rage,1,20,
-6,charizard,12,108,Smokescreen,1,1,4
-6,charizard,12,108,Smokescreen,1,13,
-6,charizard,12,163,Slash,1,44,
-6,charizard,12,184,Scary Face,1,27,
-6,charizard,13,10,Scratch,1,1,1
-6,charizard,13,17,Wing Attack,1,36,
-6,charizard,13,45,Growl,1,1,2
-6,charizard,13,52,Ember,1,1,3
-6,charizard,13,52,Ember,1,7,
-6,charizard,13,53,Flamethrower,1,34,
-6,charizard,13,82,Dragon Rage,1,54,
-6,charizard,13,83,Fire Spin,1,64,
-6,charizard,13,99,Rage,1,20,
-6,charizard,13,108,Smokescreen,1,1,4
-6,charizard,13,108,Smokescreen,1,13,
-6,charizard,13,163,Slash,1,44,
-6,charizard,13,184,Scary Face,1,27,
-6,charizard,14,10,Scratch,1,1,4
-6,charizard,14,17,Wing Attack,1,36,
-6,charizard,14,45,Growl,1,1,5
-6,charizard,14,52,Ember,1,1,6
-6,charizard,14,52,Ember,1,7,
-6,charizard,14,53,Flamethrower,1,47,
-6,charizard,14,82,Dragon Rage,1,17,
-6,charizard,14,83,Fire Spin,1,56,
-6,charizard,14,108,Smokescreen,1,1,7
-6,charizard,14,108,Smokescreen,1,10,
-6,charizard,14,163,Slash,1,41,
-6,charizard,14,184,Scary Face,1,21,
-6,charizard,14,257,Heat Wave,1,71,
-6,charizard,14,337,Dragon Claw,1,1,1
-6,charizard,14,394,Flare Blitz,1,77,
-6,charizard,14,403,Air Slash,1,1,3
-6,charizard,14,421,Shadow Claw,1,1,2
-6,charizard,14,424,Fire Fang,1,28,
-6,charizard,14,481,Flame Burst,1,32,
-6,charizard,14,517,Inferno,1,62,
-6,charizard,15,10,Scratch,1,1,6
-6,charizard,15,17,Wing Attack,1,36,
-6,charizard,15,45,Growl,1,1,7
-6,charizard,15,52,Ember,1,1,8
-6,charizard,15,52,Ember,1,7,
-6,charizard,15,53,Flamethrower,1,47,
-6,charizard,15,82,Dragon Rage,1,17,
-6,charizard,15,83,Fire Spin,1,56,
-6,charizard,15,108,Smokescreen,1,1,9
-6,charizard,15,108,Smokescreen,1,10,
-6,charizard,15,163,Slash,1,41,
-6,charizard,15,184,Scary Face,1,21,
-6,charizard,15,257,Heat Wave,1,1,2
-6,charizard,15,257,Heat Wave,1,71,
-6,charizard,15,337,Dragon Claw,1,1,3
-6,charizard,15,394,Flare Blitz,1,1,1
-6,charizard,15,394,Flare Blitz,1,77,
-6,charizard,15,403,Air Slash,1,1,5
-6,charizard,15,421,Shadow Claw,1,1,4
-6,charizard,15,424,Fire Fang,1,28,
-6,charizard,15,481,Flame Burst,1,32,
-6,charizard,15,517,Inferno,1,62,
-6,charizard,16,10,Scratch,1,1,6
-6,charizard,16,17,Wing Attack,1,36,1
-6,charizard,16,45,Growl,1,1,7
-6,charizard,16,52,Ember,1,1,8
-6,charizard,16,52,Ember,1,7,1
-6,charizard,16,53,Flamethrower,1,47,1
-6,charizard,16,82,Dragon Rage,1,17,1
-6,charizard,16,83,Fire Spin,1,56,1
-6,charizard,16,108,Smokescreen,1,1,9
-6,charizard,16,108,Smokescreen,1,10,1
-6,charizard,16,163,Slash,1,41,1
-6,charizard,16,184,Scary Face,1,21,1
-6,charizard,16,257,Heat Wave,1,1,2
-6,charizard,16,257,Heat Wave,1,71,1
-6,charizard,16,337,Dragon Claw,1,1,3
-6,charizard,16,394,Flare Blitz,1,1,1
-6,charizard,16,394,Flare Blitz,1,77,1
-6,charizard,16,403,Air Slash,1,1,5
-6,charizard,16,421,Shadow Claw,1,1,4
-6,charizard,16,424,Fire Fang,1,28,1
-6,charizard,16,481,Flame Burst,1,32,1
-6,charizard,16,517,Inferno,1,62,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+6,1,Scratch,1,normal,40,100
+6,1,Leer,1,normal,-,100
+6,1,Growl,1,normal,-,100
+6,1,Ember,1,fire,40,100
+6,2,Scratch,1,normal,40,100
+6,2,Leer,1,normal,-,100
+6,2,Growl,1,normal,-,100
+6,2,Ember,1,fire,40,100
+6,3,Scratch,1,normal,40,100
+6,3,Growl,1,normal,-,100
+6,3,Ember,1,fire,40,100
+6,3,Smokescreen,1,normal,-,100
+6,4,Scratch,1,normal,40,100
+6,4,Growl,1,normal,-,100
+6,4,Ember,1,fire,40,100
+6,4,Smokescreen,1,normal,-,100
+6,5,Scratch,1,normal,40,100
+6,5,Growl,1,normal,-,100
+6,5,Ember,1,fire,40,100
+6,5,Smokescreen,1,normal,-,100
+6,6,Scratch,1,normal,40,100
+6,6,Growl,1,normal,-,100
+6,6,Ember,1,fire,40,100
+6,6,Smokescreen,1,normal,-,100
+6,7,Scratch,1,normal,40,100
+6,7,Growl,1,normal,-,100
+6,7,Ember,1,fire,40,100
+6,7,Metal Claw,1,steel,50,95
+6,7,Heat Wave,1,fire,95,90
+6,8,Scratch,1,normal,40,100
+6,8,Growl,1,normal,-,100
+6,8,Ember,1,fire,40,100
+6,8,Smokescreen,1,normal,-,100
+6,8,Dragon Claw,1,dragon,80,100
+6,8,Air Slash,1,flying,75,95
+6,8,Shadow Claw,1,ghost,70,100
+6,9,Scratch,1,normal,40,100
+6,9,Growl,1,normal,-,100
+6,9,Ember,1,fire,40,100
+6,9,Smokescreen,1,normal,-,100
+6,9,Dragon Claw,1,dragon,80,100
+6,9,Air Slash,1,flying,75,95
+6,9,Shadow Claw,1,ghost,70,100
+6,10,Scratch,1,normal,40,100
+6,10,Growl,1,normal,-,100
+6,10,Ember,1,fire,40,100
+6,10,Smokescreen,1,normal,-,100
+6,10,Dragon Claw,1,dragon,80,100
+6,10,Air Slash,1,flying,75,95
+6,10,Shadow Claw,1,ghost,70,100
+6,11,Scratch,1,normal,40,100
+6,11,Growl,1,normal,-,100
+6,11,Ember,1,fire,40,100
+6,11,Smokescreen,1,normal,-,100
+6,11,Dragon Claw,1,dragon,80,100
+6,11,Air Slash,1,flying,75,95
+6,11,Shadow Claw,1,ghost,70,100
+6,12,Scratch,1,normal,40,100
+6,12,Growl,1,normal,-,100
+6,12,Ember,1,fire,40,100
+6,12,Smokescreen,1,normal,-,100
+6,13,Scratch,1,normal,40,100
+6,13,Growl,1,normal,-,100
+6,13,Ember,1,fire,40,100
+6,13,Smokescreen,1,normal,-,100
+6,14,Scratch,1,normal,40,100
+6,14,Growl,1,normal,-,100
+6,14,Ember,1,fire,40,100
+6,14,Smokescreen,1,normal,-,100
+6,14,Dragon Claw,1,dragon,80,100
+6,14,Air Slash,1,flying,75,95
+6,14,Shadow Claw,1,ghost,70,100
+6,15,Scratch,1,normal,40,100
+6,15,Growl,1,normal,-,100
+6,15,Ember,1,fire,40,100
+6,15,Smokescreen,1,normal,-,100
+6,15,Heat Wave,1,fire,95,90
+6,15,Dragon Claw,1,dragon,80,100
+6,15,Flare Blitz,1,fire,120,100
+6,15,Air Slash,1,flying,75,95
+6,15,Shadow Claw,1,ghost,70,100
+6,16,Scratch,1,normal,40,100
+6,16,Growl,1,normal,-,100
+6,16,Ember,1,fire,40,100
+6,16,Smokescreen,1,normal,-,100
+6,16,Heat Wave,1,fire,95,90
+6,16,Dragon Claw,1,dragon,80,100
+6,16,Flare Blitz,1,fire,120,100
+6,16,Air Slash,1,flying,75,95
+6,16,Shadow Claw,1,ghost,70,100
+6,3,Ember,7,fire,40,100
+6,4,Ember,7,fire,40,100
+6,5,Ember,7,fire,40,100
+6,6,Ember,7,fire,40,100
+6,7,Ember,7,fire,40,100
+6,8,Ember,7,fire,40,100
+6,9,Ember,7,fire,40,100
+6,10,Ember,7,fire,40,100
+6,11,Ember,7,fire,40,100
+6,12,Ember,7,fire,40,100
+6,13,Ember,7,fire,40,100
+6,14,Ember,7,fire,40,100
+6,15,Ember,7,fire,40,100
+6,16,Ember,7,fire,40,100
+6,1,Ember,9,fire,40,100
+6,2,Ember,9,fire,40,100
+6,8,Smokescreen,10,normal,-,100
+6,9,Smokescreen,10,normal,-,100
+6,10,Smokescreen,10,normal,-,100
+6,11,Smokescreen,10,normal,-,100
+6,14,Smokescreen,10,normal,-,100
+6,15,Smokescreen,10,normal,-,100
+6,16,Smokescreen,10,normal,-,100
+6,3,Smokescreen,13,normal,-,100
+6,4,Smokescreen,13,normal,-,100
+6,5,Smokescreen,13,normal,-,100
+6,6,Smokescreen,13,normal,-,100
+6,7,Metal Claw,13,steel,50,95
+6,12,Smokescreen,13,normal,-,100
+6,13,Smokescreen,13,normal,-,100
+6,1,Leer,15,normal,-,100
+6,2,Leer,15,normal,-,100
+6,8,Dragon Rage,17,dragon,-,100
+6,9,Dragon Rage,17,dragon,-,100
+6,10,Dragon Rage,17,dragon,-,100
+6,11,Dragon Rage,17,dragon,-,100
+6,14,Dragon Rage,17,dragon,-,100
+6,15,Dragon Rage,17,dragon,-,100
+6,16,Dragon Rage,17,dragon,-,100
+6,3,Rage,20,normal,20,100
+6,4,Rage,20,normal,20,100
+6,5,Rage,20,normal,20,100
+6,6,Rage,20,normal,20,100
+6,7,Smokescreen,20,normal,-,100
+6,12,Rage,20,normal,20,100
+6,13,Rage,20,normal,20,100
+6,8,Scary Face,21,normal,-,100
+6,9,Scary Face,21,normal,-,100
+6,10,Scary Face,21,normal,-,100
+6,11,Scary Face,21,normal,-,100
+6,14,Scary Face,21,normal,-,100
+6,15,Scary Face,21,normal,-,100
+6,16,Scary Face,21,normal,-,100
+6,1,Rage,24,normal,20,100
+6,2,Rage,24,normal,20,100
+6,3,Scary Face,27,normal,-,100
+6,4,Scary Face,27,normal,-,100
+6,5,Scary Face,27,normal,-,100
+6,6,Scary Face,27,normal,-,100
+6,7,Scary Face,27,normal,-,100
+6,12,Scary Face,27,normal,-,100
+6,13,Scary Face,27,normal,-,100
+6,8,Fire Fang,28,fire,65,95
+6,9,Fire Fang,28,fire,65,95
+6,10,Fire Fang,28,fire,65,95
+6,11,Fire Fang,28,fire,65,95
+6,14,Fire Fang,28,fire,65,95
+6,15,Fire Fang,28,fire,65,95
+6,16,Fire Fang,28,fire,65,95
+6,8,Slash,32,normal,70,100
+6,9,Slash,32,normal,70,100
+6,10,Slash,32,normal,70,100
+6,11,Flame Burst,32,fire,70,100
+6,14,Flame Burst,32,fire,70,100
+6,15,Flame Burst,32,fire,70,100
+6,16,Flame Burst,32,fire,70,100
+6,3,Flamethrower,34,fire,90,100
+6,4,Flamethrower,34,fire,90,100
+6,5,Flamethrower,34,fire,90,100
+6,6,Flamethrower,34,fire,90,100
+6,7,Flamethrower,34,fire,90,100
+6,12,Flamethrower,34,fire,90,100
+6,13,Flamethrower,34,fire,90,100
+6,1,Slash,36,normal,70,100
+6,2,Slash,36,normal,70,100
+6,3,Wing Attack,36,flying,60,100
+6,4,Wing Attack,36,flying,60,100
+6,5,Wing Attack,36,flying,60,100
+6,6,Wing Attack,36,flying,60,100
+6,7,Wing Attack,36,flying,60,100
+6,8,Wing Attack,36,flying,60,100
+6,9,Wing Attack,36,flying,60,100
+6,10,Wing Attack,36,flying,60,100
+6,11,Wing Attack,36,flying,60,100
+6,12,Wing Attack,36,flying,60,100
+6,13,Wing Attack,36,flying,60,100
+6,14,Wing Attack,36,flying,60,100
+6,15,Wing Attack,36,flying,60,100
+6,16,Wing Attack,36,flying,60,100
+6,11,Slash,41,normal,70,100
+6,14,Slash,41,normal,70,100
+6,15,Slash,41,normal,70,100
+6,16,Slash,41,normal,70,100
+6,8,Flamethrower,42,fire,90,100
+6,9,Flamethrower,42,fire,90,100
+6,10,Flamethrower,42,fire,90,100
+6,3,Slash,44,normal,70,100
+6,4,Slash,44,normal,70,100
+6,5,Slash,44,normal,70,100
+6,6,Slash,44,normal,70,100
+6,7,Slash,44,normal,70,100
+6,12,Slash,44,normal,70,100
+6,13,Slash,44,normal,70,100
+6,1,Flamethrower,46,fire,90,100
+6,2,Flamethrower,46,fire,90,100
+6,11,Flamethrower,47,fire,90,100
+6,14,Flamethrower,47,fire,90,100
+6,15,Flamethrower,47,fire,90,100
+6,16,Flamethrower,47,fire,90,100
+6,8,Fire Spin,49,fire,35,85
+6,9,Fire Spin,49,fire,35,85
+6,10,Fire Spin,49,fire,35,85
+6,3,Dragon Rage,54,dragon,-,100
+6,4,Dragon Rage,54,dragon,-,100
+6,5,Dragon Rage,54,dragon,-,100
+6,6,Dragon Rage,54,dragon,-,100
+6,7,Dragon Rage,54,dragon,-,100
+6,12,Dragon Rage,54,dragon,-,100
+6,13,Dragon Rage,54,dragon,-,100
+6,1,Fire Spin,55,fire,35,85
+6,2,Fire Spin,55,fire,35,85
+6,11,Fire Spin,56,fire,35,85
+6,14,Fire Spin,56,fire,35,85
+6,15,Fire Spin,56,fire,35,85
+6,16,Fire Spin,56,fire,35,85
+6,8,Heat Wave,59,fire,95,90
+6,9,Heat Wave,59,fire,95,90
+6,10,Heat Wave,59,fire,95,90
+6,11,Inferno,62,fire,100,50
+6,14,Inferno,62,fire,100,50
+6,15,Inferno,62,fire,100,50
+6,16,Inferno,62,fire,100,50
+6,3,Fire Spin,64,fire,35,85
+6,4,Fire Spin,64,fire,35,85
+6,5,Fire Spin,64,fire,35,85
+6,6,Fire Spin,64,fire,35,85
+6,7,Fire Spin,64,fire,35,85
+6,12,Fire Spin,64,fire,35,85
+6,13,Fire Spin,64,fire,35,85
+6,8,Flare Blitz,66,fire,120,100
+6,9,Flare Blitz,66,fire,120,100
+6,10,Flare Blitz,66,fire,120,100
+6,11,Heat Wave,71,fire,95,90
+6,14,Heat Wave,71,fire,95,90
+6,15,Heat Wave,71,fire,95,90
+6,16,Heat Wave,71,fire,95,90
+6,11,Flare Blitz,77,fire,120,100
+6,14,Flare Blitz,77,fire,120,100
+6,15,Flare Blitz,77,fire,120,100
+6,16,Flare Blitz,77,fire,120,100

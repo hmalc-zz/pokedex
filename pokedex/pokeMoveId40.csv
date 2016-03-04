@@ -1,69 +1,69 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-40,wigglytuff,1,3,Double Slap,1,1,4
-40,wigglytuff,1,47,Sing,1,1,1
-40,wigglytuff,1,50,Disable,1,1,2
-40,wigglytuff,1,111,Defense Curl,1,1,3
-40,wigglytuff,2,3,Double Slap,1,1,4
-40,wigglytuff,2,47,Sing,1,1,1
-40,wigglytuff,2,50,Disable,1,1,2
-40,wigglytuff,2,111,Defense Curl,1,1,3
-40,wigglytuff,3,3,Double Slap,1,1,4
-40,wigglytuff,3,47,Sing,1,1,1
-40,wigglytuff,3,50,Disable,1,1,2
-40,wigglytuff,3,111,Defense Curl,1,1,3
-40,wigglytuff,4,3,Double Slap,1,1,4
-40,wigglytuff,4,47,Sing,1,1,1
-40,wigglytuff,4,50,Disable,1,1,2
-40,wigglytuff,4,111,Defense Curl,1,1,3
-40,wigglytuff,5,3,Double Slap,1,1,4
-40,wigglytuff,5,47,Sing,1,1,1
-40,wigglytuff,5,50,Disable,1,1,2
-40,wigglytuff,5,111,Defense Curl,1,1,3
-40,wigglytuff,6,3,Double Slap,1,1,4
-40,wigglytuff,6,47,Sing,1,1,1
-40,wigglytuff,6,50,Disable,1,1,2
-40,wigglytuff,6,111,Defense Curl,1,1,3
-40,wigglytuff,7,3,Double Slap,1,1,4
-40,wigglytuff,7,47,Sing,1,1,1
-40,wigglytuff,7,50,Disable,1,1,2
-40,wigglytuff,7,111,Defense Curl,1,1,3
-40,wigglytuff,8,3,Double Slap,1,1,4
-40,wigglytuff,8,47,Sing,1,1,1
-40,wigglytuff,8,50,Disable,1,1,2
-40,wigglytuff,8,111,Defense Curl,1,1,3
-40,wigglytuff,9,3,Double Slap,1,1,4
-40,wigglytuff,9,47,Sing,1,1,1
-40,wigglytuff,9,50,Disable,1,1,2
-40,wigglytuff,9,111,Defense Curl,1,1,3
-40,wigglytuff,10,3,Double Slap,1,1,4
-40,wigglytuff,10,47,Sing,1,1,1
-40,wigglytuff,10,50,Disable,1,1,2
-40,wigglytuff,10,111,Defense Curl,1,1,3
-40,wigglytuff,11,3,Double Slap,1,1,4
-40,wigglytuff,11,47,Sing,1,1,1
-40,wigglytuff,11,50,Disable,1,1,2
-40,wigglytuff,11,111,Defense Curl,1,1,3
-40,wigglytuff,12,3,Double Slap,1,1,4
-40,wigglytuff,12,47,Sing,1,1,1
-40,wigglytuff,12,50,Disable,1,1,2
-40,wigglytuff,12,111,Defense Curl,1,1,3
-40,wigglytuff,13,3,Double Slap,1,1,4
-40,wigglytuff,13,47,Sing,1,1,1
-40,wigglytuff,13,50,Disable,1,1,2
-40,wigglytuff,13,111,Defense Curl,1,1,3
-40,wigglytuff,14,3,Double Slap,1,1,4
-40,wigglytuff,14,47,Sing,1,1,1
-40,wigglytuff,14,50,Disable,1,1,2
-40,wigglytuff,14,111,Defense Curl,1,1,3
-40,wigglytuff,15,3,Double Slap,1,1,6
-40,wigglytuff,15,38,Double-Edge,1,1,1
-40,wigglytuff,15,47,Sing,1,1,3
-40,wigglytuff,15,50,Disable,1,1,4
-40,wigglytuff,15,111,Defense Curl,1,1,5
-40,wigglytuff,15,583,Play Rough,1,1,2
-40,wigglytuff,16,3,Double Slap,1,1,6
-40,wigglytuff,16,38,Double-Edge,1,1,1
-40,wigglytuff,16,47,Sing,1,1,3
-40,wigglytuff,16,50,Disable,1,1,5
-40,wigglytuff,16,111,Defense Curl,1,1,4
-40,wigglytuff,16,583,Play Rough,1,1,2
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+40,1,Double Slap,1,normal,15,85
+40,1,Sing,1,normal,-,55
+40,1,Disable,1,normal,-,100
+40,1,Defense Curl,1,normal,-,-
+40,2,Double Slap,1,normal,15,85
+40,2,Sing,1,normal,-,55
+40,2,Disable,1,normal,-,100
+40,2,Defense Curl,1,normal,-,-
+40,3,Double Slap,1,normal,15,85
+40,3,Sing,1,normal,-,55
+40,3,Disable,1,normal,-,100
+40,3,Defense Curl,1,normal,-,-
+40,4,Double Slap,1,normal,15,85
+40,4,Sing,1,normal,-,55
+40,4,Disable,1,normal,-,100
+40,4,Defense Curl,1,normal,-,-
+40,5,Double Slap,1,normal,15,85
+40,5,Sing,1,normal,-,55
+40,5,Disable,1,normal,-,100
+40,5,Defense Curl,1,normal,-,-
+40,6,Double Slap,1,normal,15,85
+40,6,Sing,1,normal,-,55
+40,6,Disable,1,normal,-,100
+40,6,Defense Curl,1,normal,-,-
+40,7,Double Slap,1,normal,15,85
+40,7,Sing,1,normal,-,55
+40,7,Disable,1,normal,-,100
+40,7,Defense Curl,1,normal,-,-
+40,8,Double Slap,1,normal,15,85
+40,8,Sing,1,normal,-,55
+40,8,Disable,1,normal,-,100
+40,8,Defense Curl,1,normal,-,-
+40,9,Double Slap,1,normal,15,85
+40,9,Sing,1,normal,-,55
+40,9,Disable,1,normal,-,100
+40,9,Defense Curl,1,normal,-,-
+40,10,Double Slap,1,normal,15,85
+40,10,Sing,1,normal,-,55
+40,10,Disable,1,normal,-,100
+40,10,Defense Curl,1,normal,-,-
+40,11,Double Slap,1,normal,15,85
+40,11,Sing,1,normal,-,55
+40,11,Disable,1,normal,-,100
+40,11,Defense Curl,1,normal,-,-
+40,12,Double Slap,1,normal,15,85
+40,12,Sing,1,normal,-,55
+40,12,Disable,1,normal,-,100
+40,12,Defense Curl,1,normal,-,-
+40,13,Double Slap,1,normal,15,85
+40,13,Sing,1,normal,-,55
+40,13,Disable,1,normal,-,100
+40,13,Defense Curl,1,normal,-,-
+40,14,Double Slap,1,normal,15,85
+40,14,Sing,1,normal,-,55
+40,14,Disable,1,normal,-,100
+40,14,Defense Curl,1,normal,-,-
+40,15,Double Slap,1,normal,15,85
+40,15,Double-Edge,1,normal,120,100
+40,15,Sing,1,normal,-,55
+40,15,Disable,1,normal,-,100
+40,15,Defense Curl,1,normal,-,-
+40,15,Play Rough,1,fairy,90,90
+40,16,Double Slap,1,normal,15,85
+40,16,Double-Edge,1,normal,120,100
+40,16,Sing,1,normal,-,55
+40,16,Disable,1,normal,-,100
+40,16,Defense Curl,1,normal,-,-
+40,16,Play Rough,1,fairy,90,90

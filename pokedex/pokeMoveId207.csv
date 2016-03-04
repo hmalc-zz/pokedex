@@ -1,155 +1,155 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-207,gligar,3,12,Guillotine,1,52,
-207,gligar,3,28,Sand Attack,1,6,
-207,gligar,3,40,Poison Sting,1,1,
-207,gligar,3,98,Quick Attack,1,20,
-207,gligar,3,103,Screech,1,44,
-207,gligar,3,106,Harden,1,13,
-207,gligar,3,163,Slash,1,36,
-207,gligar,3,185,Feint Attack,1,28,
-207,gligar,4,12,Guillotine,1,52,
-207,gligar,4,28,Sand Attack,1,6,
-207,gligar,4,40,Poison Sting,1,1,
-207,gligar,4,98,Quick Attack,1,20,
-207,gligar,4,103,Screech,1,44,
-207,gligar,4,106,Harden,1,13,
-207,gligar,4,163,Slash,1,36,
-207,gligar,4,185,Feint Attack,1,28,
-207,gligar,5,12,Guillotine,1,52,
-207,gligar,5,28,Sand Attack,1,6,
-207,gligar,5,40,Poison Sting,1,1,
-207,gligar,5,98,Quick Attack,1,20,
-207,gligar,5,103,Screech,1,44,
-207,gligar,5,106,Harden,1,13,
-207,gligar,5,163,Slash,1,36,
-207,gligar,5,185,Feint Attack,1,28,
-207,gligar,6,12,Guillotine,1,52,
-207,gligar,6,28,Sand Attack,1,6,
-207,gligar,6,40,Poison Sting,1,1,
-207,gligar,6,98,Quick Attack,1,20,
-207,gligar,6,103,Screech,1,44,
-207,gligar,6,106,Harden,1,13,
-207,gligar,6,163,Slash,1,36,
-207,gligar,6,185,Feint Attack,1,28,
-207,gligar,7,12,Guillotine,1,52,
-207,gligar,7,28,Sand Attack,1,6,
-207,gligar,7,40,Poison Sting,1,1,
-207,gligar,7,98,Quick Attack,1,20,
-207,gligar,7,103,Screech,1,44,
-207,gligar,7,106,Harden,1,13,
-207,gligar,7,163,Slash,1,36,
-207,gligar,7,185,Feint Attack,1,28,
-207,gligar,8,12,Guillotine,1,45,
-207,gligar,8,14,Swords Dance,1,34,
-207,gligar,8,28,Sand Attack,1,5,
-207,gligar,8,40,Poison Sting,1,1,
-207,gligar,8,98,Quick Attack,1,16,
-207,gligar,8,103,Screech,1,27,
-207,gligar,8,106,Harden,1,9,
-207,gligar,8,163,Slash,1,31,
-207,gligar,8,185,Feint Attack,1,23,
-207,gligar,8,210,Fury Cutter,1,20,
-207,gligar,8,282,Knock Off,1,12,
-207,gligar,8,369,U-turn,1,38,
-207,gligar,8,404,X-Scissor,1,42,
-207,gligar,9,12,Guillotine,1,45,
-207,gligar,9,14,Swords Dance,1,34,
-207,gligar,9,28,Sand Attack,1,5,
-207,gligar,9,40,Poison Sting,1,1,
-207,gligar,9,98,Quick Attack,1,16,
-207,gligar,9,103,Screech,1,27,
-207,gligar,9,106,Harden,1,9,
-207,gligar,9,163,Slash,1,31,
-207,gligar,9,185,Feint Attack,1,23,
-207,gligar,9,210,Fury Cutter,1,20,
-207,gligar,9,282,Knock Off,1,12,
-207,gligar,9,369,U-turn,1,38,
-207,gligar,9,404,X-Scissor,1,42,
-207,gligar,10,12,Guillotine,1,45,
-207,gligar,10,14,Swords Dance,1,34,
-207,gligar,10,28,Sand Attack,1,5,
-207,gligar,10,40,Poison Sting,1,1,
-207,gligar,10,98,Quick Attack,1,16,
-207,gligar,10,103,Screech,1,27,
-207,gligar,10,106,Harden,1,9,
-207,gligar,10,163,Slash,1,31,
-207,gligar,10,185,Feint Attack,1,23,
-207,gligar,10,210,Fury Cutter,1,20,
-207,gligar,10,282,Knock Off,1,12,
-207,gligar,10,369,U-turn,1,38,
-207,gligar,10,404,X-Scissor,1,42,
-207,gligar,11,12,Guillotine,1,49,
-207,gligar,11,14,Swords Dance,1,38,
-207,gligar,11,28,Sand Attack,1,5,
-207,gligar,11,40,Poison Sting,1,1,
-207,gligar,11,98,Quick Attack,1,16,
-207,gligar,11,103,Screech,1,31,
-207,gligar,11,106,Harden,1,9,
-207,gligar,11,163,Slash,1,34,
-207,gligar,11,185,Feint Attack,1,23,
-207,gligar,11,210,Fury Cutter,1,20,
-207,gligar,11,282,Knock Off,1,12,
-207,gligar,11,369,U-turn,1,42,
-207,gligar,11,404,X-Scissor,1,45,
-207,gligar,11,512,Acrobatics,1,27,
-207,gligar,12,12,Guillotine,1,52,
-207,gligar,12,28,Sand Attack,1,6,
-207,gligar,12,40,Poison Sting,1,1,
-207,gligar,12,98,Quick Attack,1,20,
-207,gligar,12,103,Screech,1,44,
-207,gligar,12,106,Harden,1,13,
-207,gligar,12,163,Slash,1,36,
-207,gligar,12,185,Feint Attack,1,28,
-207,gligar,13,12,Guillotine,1,52,
-207,gligar,13,28,Sand Attack,1,6,
-207,gligar,13,40,Poison Sting,1,1,
-207,gligar,13,98,Quick Attack,1,20,
-207,gligar,13,103,Screech,1,44,
-207,gligar,13,106,Harden,1,13,
-207,gligar,13,163,Slash,1,36,
-207,gligar,13,185,Feint Attack,1,28,
-207,gligar,14,12,Guillotine,1,55,
-207,gligar,14,14,Swords Dance,1,50,
-207,gligar,14,28,Sand Attack,1,4,
-207,gligar,14,40,Poison Sting,1,1,
-207,gligar,14,98,Quick Attack,1,13,
-207,gligar,14,103,Screech,1,35,
-207,gligar,14,106,Harden,1,7,
-207,gligar,14,163,Slash,1,27,
-207,gligar,14,185,Feint Attack,1,19,
-207,gligar,14,210,Fury Cutter,1,16,
-207,gligar,14,282,Knock Off,1,10,
-207,gligar,14,327,Sky Uppercut,1,45,
-207,gligar,14,369,U-turn,1,30,
-207,gligar,14,404,X-Scissor,1,40,
-207,gligar,14,512,Acrobatics,1,22,
-207,gligar,15,12,Guillotine,1,55,
-207,gligar,15,14,Swords Dance,1,50,
-207,gligar,15,28,Sand Attack,1,4,
-207,gligar,15,40,Poison Sting,1,1,
-207,gligar,15,98,Quick Attack,1,13,
-207,gligar,15,103,Screech,1,35,
-207,gligar,15,106,Harden,1,7,
-207,gligar,15,163,Slash,1,27,
-207,gligar,15,185,Feint Attack,1,19,
-207,gligar,15,210,Fury Cutter,1,16,
-207,gligar,15,282,Knock Off,1,10,
-207,gligar,15,327,Sky Uppercut,1,45,
-207,gligar,15,369,U-turn,1,30,
-207,gligar,15,404,X-Scissor,1,40,
-207,gligar,15,512,Acrobatics,1,22,
-207,gligar,16,12,Guillotine,1,55,1
-207,gligar,16,14,Swords Dance,1,50,1
-207,gligar,16,28,Sand Attack,1,4,1
-207,gligar,16,40,Poison Sting,1,1,1
-207,gligar,16,98,Quick Attack,1,13,1
-207,gligar,16,103,Screech,1,35,1
-207,gligar,16,106,Harden,1,7,1
-207,gligar,16,163,Slash,1,27,1
-207,gligar,16,185,Feint Attack,1,19,1
-207,gligar,16,210,Fury Cutter,1,16,1
-207,gligar,16,282,Knock Off,1,10,1
-207,gligar,16,327,Sky Uppercut,1,45,1
-207,gligar,16,369,U-turn,1,30,1
-207,gligar,16,404,X-Scissor,1,40,1
-207,gligar,16,512,Acrobatics,1,22,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+207,3,Poison Sting,1,poison,15,100
+207,4,Poison Sting,1,poison,15,100
+207,5,Poison Sting,1,poison,15,100
+207,6,Poison Sting,1,poison,15,100
+207,7,Poison Sting,1,poison,15,100
+207,8,Poison Sting,1,poison,15,100
+207,9,Poison Sting,1,poison,15,100
+207,10,Poison Sting,1,poison,15,100
+207,11,Poison Sting,1,poison,15,100
+207,12,Poison Sting,1,poison,15,100
+207,13,Poison Sting,1,poison,15,100
+207,14,Poison Sting,1,poison,15,100
+207,15,Poison Sting,1,poison,15,100
+207,16,Poison Sting,1,poison,15,100
+207,14,Sand Attack,4,ground,-,100
+207,15,Sand Attack,4,ground,-,100
+207,16,Sand Attack,4,ground,-,100
+207,8,Sand Attack,5,ground,-,100
+207,9,Sand Attack,5,ground,-,100
+207,10,Sand Attack,5,ground,-,100
+207,11,Sand Attack,5,ground,-,100
+207,3,Sand Attack,6,ground,-,100
+207,4,Sand Attack,6,ground,-,100
+207,5,Sand Attack,6,ground,-,100
+207,6,Sand Attack,6,ground,-,100
+207,7,Sand Attack,6,ground,-,100
+207,12,Sand Attack,6,ground,-,100
+207,13,Sand Attack,6,ground,-,100
+207,14,Harden,7,normal,-,-
+207,15,Harden,7,normal,-,-
+207,16,Harden,7,normal,-,-
+207,8,Harden,9,normal,-,-
+207,9,Harden,9,normal,-,-
+207,10,Harden,9,normal,-,-
+207,11,Harden,9,normal,-,-
+207,14,Knock Off,10,dark,65,100
+207,15,Knock Off,10,dark,65,100
+207,16,Knock Off,10,dark,65,100
+207,8,Knock Off,12,dark,65,100
+207,9,Knock Off,12,dark,65,100
+207,10,Knock Off,12,dark,65,100
+207,11,Knock Off,12,dark,65,100
+207,3,Harden,13,normal,-,-
+207,4,Harden,13,normal,-,-
+207,5,Harden,13,normal,-,-
+207,6,Harden,13,normal,-,-
+207,7,Harden,13,normal,-,-
+207,12,Harden,13,normal,-,-
+207,13,Harden,13,normal,-,-
+207,14,Quick Attack,13,normal,40,100
+207,15,Quick Attack,13,normal,40,100
+207,16,Quick Attack,13,normal,40,100
+207,8,Quick Attack,16,normal,40,100
+207,9,Quick Attack,16,normal,40,100
+207,10,Quick Attack,16,normal,40,100
+207,11,Quick Attack,16,normal,40,100
+207,14,Fury Cutter,16,bug,40,95
+207,15,Fury Cutter,16,bug,40,95
+207,16,Fury Cutter,16,bug,40,95
+207,14,Feint Attack,19,dark,60,-
+207,15,Feint Attack,19,dark,60,-
+207,16,Feint Attack,19,dark,60,-
+207,3,Quick Attack,20,normal,40,100
+207,4,Quick Attack,20,normal,40,100
+207,5,Quick Attack,20,normal,40,100
+207,6,Quick Attack,20,normal,40,100
+207,7,Quick Attack,20,normal,40,100
+207,8,Fury Cutter,20,bug,40,95
+207,9,Fury Cutter,20,bug,40,95
+207,10,Fury Cutter,20,bug,40,95
+207,11,Fury Cutter,20,bug,40,95
+207,12,Quick Attack,20,normal,40,100
+207,13,Quick Attack,20,normal,40,100
+207,14,Acrobatics,22,flying,55,100
+207,15,Acrobatics,22,flying,55,100
+207,16,Acrobatics,22,flying,55,100
+207,8,Feint Attack,23,dark,60,-
+207,9,Feint Attack,23,dark,60,-
+207,10,Feint Attack,23,dark,60,-
+207,11,Feint Attack,23,dark,60,-
+207,8,Screech,27,normal,-,85
+207,9,Screech,27,normal,-,85
+207,10,Screech,27,normal,-,85
+207,11,Acrobatics,27,flying,55,100
+207,14,Slash,27,normal,70,100
+207,15,Slash,27,normal,70,100
+207,16,Slash,27,normal,70,100
+207,3,Feint Attack,28,dark,60,-
+207,4,Feint Attack,28,dark,60,-
+207,5,Feint Attack,28,dark,60,-
+207,6,Feint Attack,28,dark,60,-
+207,7,Feint Attack,28,dark,60,-
+207,12,Feint Attack,28,dark,60,-
+207,13,Feint Attack,28,dark,60,-
+207,14,U-turn,30,bug,70,100
+207,15,U-turn,30,bug,70,100
+207,16,U-turn,30,bug,70,100
+207,8,Slash,31,normal,70,100
+207,9,Slash,31,normal,70,100
+207,10,Slash,31,normal,70,100
+207,11,Screech,31,normal,-,85
+207,8,Swords Dance,34,normal,-,-
+207,9,Swords Dance,34,normal,-,-
+207,10,Swords Dance,34,normal,-,-
+207,11,Slash,34,normal,70,100
+207,14,Screech,35,normal,-,85
+207,15,Screech,35,normal,-,85
+207,16,Screech,35,normal,-,85
+207,3,Slash,36,normal,70,100
+207,4,Slash,36,normal,70,100
+207,5,Slash,36,normal,70,100
+207,6,Slash,36,normal,70,100
+207,7,Slash,36,normal,70,100
+207,12,Slash,36,normal,70,100
+207,13,Slash,36,normal,70,100
+207,8,U-turn,38,bug,70,100
+207,9,U-turn,38,bug,70,100
+207,10,U-turn,38,bug,70,100
+207,11,Swords Dance,38,normal,-,-
+207,14,X-Scissor,40,bug,80,100
+207,15,X-Scissor,40,bug,80,100
+207,16,X-Scissor,40,bug,80,100
+207,8,X-Scissor,42,bug,80,100
+207,9,X-Scissor,42,bug,80,100
+207,10,X-Scissor,42,bug,80,100
+207,11,U-turn,42,bug,70,100
+207,3,Screech,44,normal,-,85
+207,4,Screech,44,normal,-,85
+207,5,Screech,44,normal,-,85
+207,6,Screech,44,normal,-,85
+207,7,Screech,44,normal,-,85
+207,12,Screech,44,normal,-,85
+207,13,Screech,44,normal,-,85
+207,8,Guillotine,45,normal,-,30
+207,9,Guillotine,45,normal,-,30
+207,10,Guillotine,45,normal,-,30
+207,11,X-Scissor,45,bug,80,100
+207,14,Sky Uppercut,45,fighting,85,90
+207,15,Sky Uppercut,45,fighting,85,90
+207,16,Sky Uppercut,45,fighting,85,90
+207,11,Guillotine,49,normal,-,30
+207,14,Swords Dance,50,normal,-,-
+207,15,Swords Dance,50,normal,-,-
+207,16,Swords Dance,50,normal,-,-
+207,3,Guillotine,52,normal,-,30
+207,4,Guillotine,52,normal,-,30
+207,5,Guillotine,52,normal,-,30
+207,6,Guillotine,52,normal,-,30
+207,7,Guillotine,52,normal,-,30
+207,12,Guillotine,52,normal,-,30
+207,13,Guillotine,52,normal,-,30
+207,14,Guillotine,55,normal,-,30
+207,15,Guillotine,55,normal,-,30
+207,16,Guillotine,55,normal,-,30

@@ -1,176 +1,176 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-289,slaking,5,10,Scratch,1,1,1
-289,slaking,5,68,Counter,1,37,
-289,slaking,5,133,Amnesia,1,25,
-289,slaking,5,175,Flail,1,43,
-289,slaking,5,185,Feint Attack,1,19,
-289,slaking,5,207,Swagger,1,36,
-289,slaking,5,227,Encore,1,1,3
-289,slaking,5,227,Encore,1,7,
-289,slaking,5,281,Yawn,1,1,2
-289,slaking,5,303,Slack Off,1,1,4
-289,slaking,5,303,Slack Off,1,13,
-289,slaking,5,343,Covet,1,31,
-289,slaking,6,10,Scratch,1,1,1
-289,slaking,6,68,Counter,1,37,
-289,slaking,6,133,Amnesia,1,25,
-289,slaking,6,175,Flail,1,43,
-289,slaking,6,185,Feint Attack,1,19,
-289,slaking,6,207,Swagger,1,36,
-289,slaking,6,227,Encore,1,1,3
-289,slaking,6,227,Encore,1,7,
-289,slaking,6,281,Yawn,1,1,2
-289,slaking,6,303,Slack Off,1,1,4
-289,slaking,6,303,Slack Off,1,13,
-289,slaking,6,343,Covet,1,31,
-289,slaking,7,10,Scratch,1,1,1
-289,slaking,7,68,Counter,1,37,
-289,slaking,7,133,Amnesia,1,25,
-289,slaking,7,175,Flail,1,43,
-289,slaking,7,185,Feint Attack,1,19,
-289,slaking,7,207,Swagger,1,36,
-289,slaking,7,227,Encore,1,1,3
-289,slaking,7,227,Encore,1,7,
-289,slaking,7,281,Yawn,1,1,2
-289,slaking,7,303,Slack Off,1,1,4
-289,slaking,7,303,Slack Off,1,13,
-289,slaking,7,343,Covet,1,31,
-289,slaking,8,10,Scratch,1,1,1
-289,slaking,8,68,Counter,1,37,
-289,slaking,8,133,Amnesia,1,25,
-289,slaking,8,175,Flail,1,43,
-289,slaking,8,185,Feint Attack,1,19,
-289,slaking,8,207,Swagger,1,36,
-289,slaking,8,227,Encore,1,1,3
-289,slaking,8,227,Encore,1,7,
-289,slaking,8,281,Yawn,1,1,2
-289,slaking,8,303,Slack Off,1,1,4
-289,slaking,8,303,Slack Off,1,13,
-289,slaking,8,343,Covet,1,31,
-289,slaking,8,359,Hammer Arm,1,61,
-289,slaking,8,374,Fling,1,49,
-289,slaking,8,386,Punishment,1,55,
-289,slaking,9,10,Scratch,1,1,1
-289,slaking,9,68,Counter,1,37,
-289,slaking,9,133,Amnesia,1,25,
-289,slaking,9,175,Flail,1,43,
-289,slaking,9,185,Feint Attack,1,19,
-289,slaking,9,207,Swagger,1,36,
-289,slaking,9,227,Encore,1,1,3
-289,slaking,9,227,Encore,1,7,
-289,slaking,9,281,Yawn,1,1,2
-289,slaking,9,303,Slack Off,1,1,4
-289,slaking,9,303,Slack Off,1,13,
-289,slaking,9,343,Covet,1,31,
-289,slaking,9,359,Hammer Arm,1,61,
-289,slaking,9,374,Fling,1,49,
-289,slaking,9,386,Punishment,1,55,
-289,slaking,10,10,Scratch,1,1,1
-289,slaking,10,68,Counter,1,37,
-289,slaking,10,133,Amnesia,1,25,
-289,slaking,10,175,Flail,1,43,
-289,slaking,10,185,Feint Attack,1,19,
-289,slaking,10,207,Swagger,1,36,
-289,slaking,10,227,Encore,1,1,3
-289,slaking,10,227,Encore,1,7,
-289,slaking,10,281,Yawn,1,1,2
-289,slaking,10,303,Slack Off,1,1,4
-289,slaking,10,303,Slack Off,1,13,
-289,slaking,10,343,Covet,1,31,
-289,slaking,10,359,Hammer Arm,1,61,
-289,slaking,10,374,Fling,1,49,
-289,slaking,10,386,Punishment,1,55,
-289,slaking,11,10,Scratch,1,1,1
-289,slaking,11,68,Counter,1,43,
-289,slaking,11,133,Amnesia,1,25,
-289,slaking,11,175,Flail,1,49,
-289,slaking,11,185,Feint Attack,1,19,
-289,slaking,11,207,Swagger,1,36,
-289,slaking,11,227,Encore,1,1,3
-289,slaking,11,227,Encore,1,7,
-289,slaking,11,281,Yawn,1,1,2
-289,slaking,11,303,Slack Off,1,1,4
-289,slaking,11,303,Slack Off,1,13,
-289,slaking,11,343,Covet,1,31,
-289,slaking,11,359,Hammer Arm,1,67,
-289,slaking,11,374,Fling,1,55,
-289,slaking,11,386,Punishment,1,61,
-289,slaking,11,498,Chip Away,1,37,
-289,slaking,12,10,Scratch,1,1,1
-289,slaking,12,68,Counter,1,37,
-289,slaking,12,133,Amnesia,1,25,
-289,slaking,12,175,Flail,1,43,
-289,slaking,12,185,Feint Attack,1,19,
-289,slaking,12,207,Swagger,1,36,
-289,slaking,12,227,Encore,1,1,3
-289,slaking,12,227,Encore,1,7,
-289,slaking,12,281,Yawn,1,1,2
-289,slaking,12,303,Slack Off,1,1,4
-289,slaking,12,303,Slack Off,1,13,
-289,slaking,12,343,Covet,1,31,
-289,slaking,13,10,Scratch,1,1,1
-289,slaking,13,68,Counter,1,37,
-289,slaking,13,133,Amnesia,1,25,
-289,slaking,13,175,Flail,1,43,
-289,slaking,13,185,Feint Attack,1,19,
-289,slaking,13,207,Swagger,1,36,
-289,slaking,13,227,Encore,1,1,3
-289,slaking,13,227,Encore,1,7,
-289,slaking,13,281,Yawn,1,1,2
-289,slaking,13,303,Slack Off,1,1,4
-289,slaking,13,303,Slack Off,1,13,
-289,slaking,13,343,Covet,1,31,
-289,slaking,14,10,Scratch,1,1,1
-289,slaking,14,68,Counter,1,43,
-289,slaking,14,133,Amnesia,1,25,
-289,slaking,14,175,Flail,1,49,
-289,slaking,14,185,Feint Attack,1,19,
-289,slaking,14,207,Swagger,1,36,
-289,slaking,14,227,Encore,1,1,3
-289,slaking,14,227,Encore,1,7,
-289,slaking,14,281,Yawn,1,1,2
-289,slaking,14,303,Slack Off,1,1,4
-289,slaking,14,303,Slack Off,1,13,
-289,slaking,14,343,Covet,1,31,
-289,slaking,14,359,Hammer Arm,1,67,
-289,slaking,14,374,Fling,1,55,
-289,slaking,14,386,Punishment,1,61,
-289,slaking,14,498,Chip Away,1,37,
-289,slaking,15,10,Scratch,1,1,4
-289,slaking,15,68,Counter,1,43,
-289,slaking,15,133,Amnesia,1,25,
-289,slaking,15,175,Flail,1,49,
-289,slaking,15,185,Feint Attack,1,19,
-289,slaking,15,207,Swagger,1,36,
-289,slaking,15,227,Encore,1,1,6
-289,slaking,15,227,Encore,1,7,
-289,slaking,15,281,Yawn,1,1,5
-289,slaking,15,303,Slack Off,1,1,7
-289,slaking,15,303,Slack Off,1,13,
-289,slaking,15,343,Covet,1,31,
-289,slaking,15,359,Hammer Arm,1,1,1
-289,slaking,15,359,Hammer Arm,1,67,
-289,slaking,15,374,Fling,1,1,3
-289,slaking,15,374,Fling,1,55,
-289,slaking,15,386,Punishment,1,1,2
-289,slaking,15,386,Punishment,1,61,
-289,slaking,15,498,Chip Away,1,37,
-289,slaking,16,10,Scratch,1,1,4
-289,slaking,16,68,Counter,1,33,1
-289,slaking,16,133,Amnesia,1,17,1
-289,slaking,16,175,Flail,1,39,1
-289,slaking,16,185,Feint Attack,1,14,1
-289,slaking,16,207,Swagger,1,36,1
-289,slaking,16,227,Encore,1,1,6
-289,slaking,16,227,Encore,1,6,1
-289,slaking,16,281,Yawn,1,1,5
-289,slaking,16,303,Slack Off,1,1,7
-289,slaking,16,303,Slack Off,1,9,1
-289,slaking,16,343,Covet,1,23,1
-289,slaking,16,359,Hammer Arm,1,1,1
-289,slaking,16,359,Hammer Arm,1,61,1
-289,slaking,16,374,Fling,1,1,3
-289,slaking,16,374,Fling,1,47,1
-289,slaking,16,386,Punishment,1,1,2
-289,slaking,16,386,Punishment,1,53,1
-289,slaking,16,498,Chip Away,1,27,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+289,5,Scratch,1,normal,40,100
+289,5,Encore,1,normal,-,100
+289,5,Yawn,1,normal,-,-
+289,5,Slack Off,1,normal,-,-
+289,6,Scratch,1,normal,40,100
+289,6,Encore,1,normal,-,100
+289,6,Yawn,1,normal,-,-
+289,6,Slack Off,1,normal,-,-
+289,7,Scratch,1,normal,40,100
+289,7,Encore,1,normal,-,100
+289,7,Yawn,1,normal,-,-
+289,7,Slack Off,1,normal,-,-
+289,8,Scratch,1,normal,40,100
+289,8,Encore,1,normal,-,100
+289,8,Yawn,1,normal,-,-
+289,8,Slack Off,1,normal,-,-
+289,9,Scratch,1,normal,40,100
+289,9,Encore,1,normal,-,100
+289,9,Yawn,1,normal,-,-
+289,9,Slack Off,1,normal,-,-
+289,10,Scratch,1,normal,40,100
+289,10,Encore,1,normal,-,100
+289,10,Yawn,1,normal,-,-
+289,10,Slack Off,1,normal,-,-
+289,11,Scratch,1,normal,40,100
+289,11,Encore,1,normal,-,100
+289,11,Yawn,1,normal,-,-
+289,11,Slack Off,1,normal,-,-
+289,12,Scratch,1,normal,40,100
+289,12,Encore,1,normal,-,100
+289,12,Yawn,1,normal,-,-
+289,12,Slack Off,1,normal,-,-
+289,13,Scratch,1,normal,40,100
+289,13,Encore,1,normal,-,100
+289,13,Yawn,1,normal,-,-
+289,13,Slack Off,1,normal,-,-
+289,14,Scratch,1,normal,40,100
+289,14,Encore,1,normal,-,100
+289,14,Yawn,1,normal,-,-
+289,14,Slack Off,1,normal,-,-
+289,15,Scratch,1,normal,40,100
+289,15,Encore,1,normal,-,100
+289,15,Yawn,1,normal,-,-
+289,15,Slack Off,1,normal,-,-
+289,15,Hammer Arm,1,fighting,100,90
+289,15,Fling,1,dark,-,100
+289,15,Punishment,1,dark,-,100
+289,16,Scratch,1,normal,40,100
+289,16,Encore,1,normal,-,100
+289,16,Yawn,1,normal,-,-
+289,16,Slack Off,1,normal,-,-
+289,16,Hammer Arm,1,fighting,100,90
+289,16,Fling,1,dark,-,100
+289,16,Punishment,1,dark,-,100
+289,16,Encore,6,normal,-,100
+289,5,Encore,7,normal,-,100
+289,6,Encore,7,normal,-,100
+289,7,Encore,7,normal,-,100
+289,8,Encore,7,normal,-,100
+289,9,Encore,7,normal,-,100
+289,10,Encore,7,normal,-,100
+289,11,Encore,7,normal,-,100
+289,12,Encore,7,normal,-,100
+289,13,Encore,7,normal,-,100
+289,14,Encore,7,normal,-,100
+289,15,Encore,7,normal,-,100
+289,16,Slack Off,9,normal,-,-
+289,5,Slack Off,13,normal,-,-
+289,6,Slack Off,13,normal,-,-
+289,7,Slack Off,13,normal,-,-
+289,8,Slack Off,13,normal,-,-
+289,9,Slack Off,13,normal,-,-
+289,10,Slack Off,13,normal,-,-
+289,11,Slack Off,13,normal,-,-
+289,12,Slack Off,13,normal,-,-
+289,13,Slack Off,13,normal,-,-
+289,14,Slack Off,13,normal,-,-
+289,15,Slack Off,13,normal,-,-
+289,16,Feint Attack,14,dark,60,-
+289,16,Amnesia,17,psychic,-,-
+289,5,Feint Attack,19,dark,60,-
+289,6,Feint Attack,19,dark,60,-
+289,7,Feint Attack,19,dark,60,-
+289,8,Feint Attack,19,dark,60,-
+289,9,Feint Attack,19,dark,60,-
+289,10,Feint Attack,19,dark,60,-
+289,11,Feint Attack,19,dark,60,-
+289,12,Feint Attack,19,dark,60,-
+289,13,Feint Attack,19,dark,60,-
+289,14,Feint Attack,19,dark,60,-
+289,15,Feint Attack,19,dark,60,-
+289,16,Covet,23,normal,60,100
+289,5,Amnesia,25,psychic,-,-
+289,6,Amnesia,25,psychic,-,-
+289,7,Amnesia,25,psychic,-,-
+289,8,Amnesia,25,psychic,-,-
+289,9,Amnesia,25,psychic,-,-
+289,10,Amnesia,25,psychic,-,-
+289,11,Amnesia,25,psychic,-,-
+289,12,Amnesia,25,psychic,-,-
+289,13,Amnesia,25,psychic,-,-
+289,14,Amnesia,25,psychic,-,-
+289,15,Amnesia,25,psychic,-,-
+289,16,Chip Away,27,normal,70,100
+289,5,Covet,31,normal,60,100
+289,6,Covet,31,normal,60,100
+289,7,Covet,31,normal,60,100
+289,8,Covet,31,normal,60,100
+289,9,Covet,31,normal,60,100
+289,10,Covet,31,normal,60,100
+289,11,Covet,31,normal,60,100
+289,12,Covet,31,normal,60,100
+289,13,Covet,31,normal,60,100
+289,14,Covet,31,normal,60,100
+289,15,Covet,31,normal,60,100
+289,16,Counter,33,fighting,-,100
+289,5,Swagger,36,normal,-,90
+289,6,Swagger,36,normal,-,90
+289,7,Swagger,36,normal,-,90
+289,8,Swagger,36,normal,-,90
+289,9,Swagger,36,normal,-,90
+289,10,Swagger,36,normal,-,90
+289,11,Swagger,36,normal,-,90
+289,12,Swagger,36,normal,-,90
+289,13,Swagger,36,normal,-,90
+289,14,Swagger,36,normal,-,90
+289,15,Swagger,36,normal,-,90
+289,16,Swagger,36,normal,-,90
+289,5,Counter,37,fighting,-,100
+289,6,Counter,37,fighting,-,100
+289,7,Counter,37,fighting,-,100
+289,8,Counter,37,fighting,-,100
+289,9,Counter,37,fighting,-,100
+289,10,Counter,37,fighting,-,100
+289,11,Chip Away,37,normal,70,100
+289,12,Counter,37,fighting,-,100
+289,13,Counter,37,fighting,-,100
+289,14,Chip Away,37,normal,70,100
+289,15,Chip Away,37,normal,70,100
+289,16,Flail,39,normal,-,100
+289,5,Flail,43,normal,-,100
+289,6,Flail,43,normal,-,100
+289,7,Flail,43,normal,-,100
+289,8,Flail,43,normal,-,100
+289,9,Flail,43,normal,-,100
+289,10,Flail,43,normal,-,100
+289,11,Counter,43,fighting,-,100
+289,12,Flail,43,normal,-,100
+289,13,Flail,43,normal,-,100
+289,14,Counter,43,fighting,-,100
+289,15,Counter,43,fighting,-,100
+289,16,Fling,47,dark,-,100
+289,8,Fling,49,dark,-,100
+289,9,Fling,49,dark,-,100
+289,10,Fling,49,dark,-,100
+289,11,Flail,49,normal,-,100
+289,14,Flail,49,normal,-,100
+289,15,Flail,49,normal,-,100
+289,16,Punishment,53,dark,-,100
+289,8,Punishment,55,dark,-,100
+289,9,Punishment,55,dark,-,100
+289,10,Punishment,55,dark,-,100
+289,11,Fling,55,dark,-,100
+289,14,Fling,55,dark,-,100
+289,15,Fling,55,dark,-,100
+289,8,Hammer Arm,61,fighting,100,90
+289,9,Hammer Arm,61,fighting,100,90
+289,10,Hammer Arm,61,fighting,100,90
+289,11,Punishment,61,dark,-,100
+289,14,Punishment,61,dark,-,100
+289,15,Punishment,61,dark,-,100
+289,16,Hammer Arm,61,fighting,100,90
+289,11,Hammer Arm,67,fighting,100,90
+289,14,Hammer Arm,67,fighting,100,90
+289,15,Hammer Arm,67,fighting,100,90

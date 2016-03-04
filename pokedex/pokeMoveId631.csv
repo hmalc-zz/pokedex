@@ -1,71 +1,71 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-631,heatmor,11,20,Bind,1,11,
-631,heatmor,11,53,Flamethrower,1,51,
-631,heatmor,11,83,Fire Spin,1,16,
-631,heatmor,11,122,Lick,1,1,2
-631,heatmor,11,133,Amnesia,1,46,
-631,heatmor,11,154,Fury Swipes,1,21,
-631,heatmor,11,163,Slash,1,41,
-631,heatmor,11,254,Stockpile,1,56,1
-631,heatmor,11,255,Spit Up,1,56,2
-631,heatmor,11,256,Swallow,1,56,3
-631,heatmor,11,289,Snatch,1,26,
-631,heatmor,11,316,Odor Sleuth,1,6,
-631,heatmor,11,450,Bug Bite,1,36,
-631,heatmor,11,481,Flame Burst,1,31,
-631,heatmor,11,510,Incinerate,1,1,1
-631,heatmor,11,517,Inferno,1,61,
-631,heatmor,14,20,Bind,1,11,
-631,heatmor,14,53,Flamethrower,1,51,
-631,heatmor,14,83,Fire Spin,1,16,
-631,heatmor,14,122,Lick,1,1,2
-631,heatmor,14,133,Amnesia,1,46,
-631,heatmor,14,154,Fury Swipes,1,21,
-631,heatmor,14,163,Slash,1,41,
-631,heatmor,14,254,Stockpile,1,56,1
-631,heatmor,14,255,Spit Up,1,56,2
-631,heatmor,14,256,Swallow,1,56,3
-631,heatmor,14,289,Snatch,1,26,
-631,heatmor,14,316,Odor Sleuth,1,6,
-631,heatmor,14,450,Bug Bite,1,36,
-631,heatmor,14,481,Flame Burst,1,31,
-631,heatmor,14,510,Incinerate,1,1,1
-631,heatmor,14,517,Inferno,1,61,
-631,heatmor,15,20,Bind,1,11,
-631,heatmor,15,33,Tackle,1,1,3
-631,heatmor,15,53,Flamethrower,1,47,
-631,heatmor,15,83,Fire Spin,1,16,
-631,heatmor,15,122,Lick,1,1,5
-631,heatmor,15,133,Amnesia,1,44,
-631,heatmor,15,154,Fury Swipes,1,21,
-631,heatmor,15,163,Slash,1,41,
-631,heatmor,15,254,Stockpile,1,50,1
-631,heatmor,15,255,Spit Up,1,50,2
-631,heatmor,15,256,Swallow,1,50,3
-631,heatmor,15,289,Snatch,1,26,
-631,heatmor,15,316,Odor Sleuth,1,6,
-631,heatmor,15,450,Bug Bite,1,36,
-631,heatmor,15,468,Hone Claws,1,1,2
-631,heatmor,15,481,Flame Burst,1,31,
-631,heatmor,15,510,Incinerate,1,1,4
-631,heatmor,15,517,Inferno,1,1,1
-631,heatmor,15,517,Inferno,1,61,
-631,heatmor,16,20,Bind,1,11,1
-631,heatmor,16,33,Tackle,1,1,3
-631,heatmor,16,53,Flamethrower,1,47,1
-631,heatmor,16,83,Fire Spin,1,16,1
-631,heatmor,16,122,Lick,1,1,5
-631,heatmor,16,133,Amnesia,1,44,1
-631,heatmor,16,154,Fury Swipes,1,21,1
-631,heatmor,16,163,Slash,1,41,1
-631,heatmor,16,254,Stockpile,1,50,1
-631,heatmor,16,255,Spit Up,1,50,2
-631,heatmor,16,256,Swallow,1,50,3
-631,heatmor,16,289,Snatch,1,26,1
-631,heatmor,16,316,Odor Sleuth,1,6,1
-631,heatmor,16,450,Bug Bite,1,36,1
-631,heatmor,16,468,Hone Claws,1,1,2
-631,heatmor,16,481,Flame Burst,1,31,1
-631,heatmor,16,510,Incinerate,1,1,4
-631,heatmor,16,517,Inferno,1,1,1
-631,heatmor,16,517,Inferno,1,61,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+631,11,Lick,1,ghost,30,100
+631,11,Incinerate,1,fire,60,100
+631,14,Lick,1,ghost,30,100
+631,14,Incinerate,1,fire,60,100
+631,15,Tackle,1,normal,50,100
+631,15,Lick,1,ghost,30,100
+631,15,Hone Claws,1,dark,-,-
+631,15,Incinerate,1,fire,60,100
+631,15,Inferno,1,fire,100,50
+631,16,Tackle,1,normal,50,100
+631,16,Lick,1,ghost,30,100
+631,16,Hone Claws,1,dark,-,-
+631,16,Incinerate,1,fire,60,100
+631,16,Inferno,1,fire,100,50
+631,11,Odor Sleuth,6,normal,-,-
+631,14,Odor Sleuth,6,normal,-,-
+631,15,Odor Sleuth,6,normal,-,-
+631,16,Odor Sleuth,6,normal,-,-
+631,11,Bind,11,normal,15,85
+631,14,Bind,11,normal,15,85
+631,15,Bind,11,normal,15,85
+631,16,Bind,11,normal,15,85
+631,11,Fire Spin,16,fire,35,85
+631,14,Fire Spin,16,fire,35,85
+631,15,Fire Spin,16,fire,35,85
+631,16,Fire Spin,16,fire,35,85
+631,11,Fury Swipes,21,normal,18,80
+631,14,Fury Swipes,21,normal,18,80
+631,15,Fury Swipes,21,normal,18,80
+631,16,Fury Swipes,21,normal,18,80
+631,11,Snatch,26,dark,-,-
+631,14,Snatch,26,dark,-,-
+631,15,Snatch,26,dark,-,-
+631,16,Snatch,26,dark,-,-
+631,11,Flame Burst,31,fire,70,100
+631,14,Flame Burst,31,fire,70,100
+631,15,Flame Burst,31,fire,70,100
+631,16,Flame Burst,31,fire,70,100
+631,11,Bug Bite,36,bug,60,100
+631,14,Bug Bite,36,bug,60,100
+631,15,Bug Bite,36,bug,60,100
+631,16,Bug Bite,36,bug,60,100
+631,11,Slash,41,normal,70,100
+631,14,Slash,41,normal,70,100
+631,15,Slash,41,normal,70,100
+631,16,Slash,41,normal,70,100
+631,15,Amnesia,44,psychic,-,-
+631,16,Amnesia,44,psychic,-,-
+631,11,Amnesia,46,psychic,-,-
+631,14,Amnesia,46,psychic,-,-
+631,15,Flamethrower,47,fire,90,100
+631,16,Flamethrower,47,fire,90,100
+631,15,Stockpile,50,normal,-,-
+631,15,Spit Up,50,normal,-,100
+631,15,Swallow,50,normal,-,-
+631,16,Stockpile,50,normal,-,-
+631,16,Spit Up,50,normal,-,100
+631,16,Swallow,50,normal,-,-
+631,11,Flamethrower,51,fire,90,100
+631,14,Flamethrower,51,fire,90,100
+631,11,Stockpile,56,normal,-,-
+631,11,Spit Up,56,normal,-,100
+631,11,Swallow,56,normal,-,-
+631,14,Stockpile,56,normal,-,-
+631,14,Spit Up,56,normal,-,100
+631,14,Swallow,56,normal,-,-
+631,11,Inferno,61,fire,100,50
+631,14,Inferno,61,fire,100,50
+631,15,Inferno,61,fire,100,50
+631,16,Inferno,61,fire,100,50

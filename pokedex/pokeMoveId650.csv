@@ -1,29 +1,29 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-650,chespin,15,22,Vine Whip,1,5,
-650,chespin,15,33,Tackle,1,1,1
-650,chespin,15,34,Body Slam,1,42,
-650,chespin,15,36,Take Down,1,27,
-650,chespin,15,42,Pin Missile,1,18,
-650,chespin,15,44,Bite,1,11,
-650,chespin,15,45,Growl,1,1,2
-650,chespin,15,73,Leech Seed,1,15,
-650,chespin,15,205,Rollout,1,8,
-650,chespin,15,220,Pain Split,1,45,
-650,chespin,15,339,Bulk Up,1,39,
-650,chespin,15,341,Mud Shot,1,35,
-650,chespin,15,402,Seed Bomb,1,32,
-650,chespin,15,452,Wood Hammer,1,48,
-650,chespin,16,22,Vine Whip,1,5,1
-650,chespin,16,33,Tackle,1,1,1
-650,chespin,16,34,Body Slam,1,42,1
-650,chespin,16,36,Take Down,1,27,1
-650,chespin,16,42,Pin Missile,1,18,1
-650,chespin,16,44,Bite,1,11,1
-650,chespin,16,45,Growl,1,1,2
-650,chespin,16,73,Leech Seed,1,15,1
-650,chespin,16,205,Rollout,1,8,1
-650,chespin,16,220,Pain Split,1,45,1
-650,chespin,16,339,Bulk Up,1,39,1
-650,chespin,16,341,Mud Shot,1,35,1
-650,chespin,16,402,Seed Bomb,1,32,1
-650,chespin,16,452,Wood Hammer,1,48,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+650,15,Tackle,1,normal,50,100
+650,15,Growl,1,normal,-,100
+650,16,Tackle,1,normal,50,100
+650,16,Growl,1,normal,-,100
+650,15,Vine Whip,5,grass,45,100
+650,16,Vine Whip,5,grass,45,100
+650,15,Rollout,8,rock,30,90
+650,16,Rollout,8,rock,30,90
+650,15,Bite,11,dark,60,100
+650,16,Bite,11,dark,60,100
+650,15,Leech Seed,15,grass,-,90
+650,16,Leech Seed,15,grass,-,90
+650,15,Pin Missile,18,bug,25,95
+650,16,Pin Missile,18,bug,25,95
+650,15,Take Down,27,normal,90,85
+650,16,Take Down,27,normal,90,85
+650,15,Seed Bomb,32,grass,80,100
+650,16,Seed Bomb,32,grass,80,100
+650,15,Mud Shot,35,ground,55,95
+650,16,Mud Shot,35,ground,55,95
+650,15,Bulk Up,39,fighting,-,-
+650,16,Bulk Up,39,fighting,-,-
+650,15,Body Slam,42,normal,85,100
+650,16,Body Slam,42,normal,85,100
+650,15,Pain Split,45,normal,-,-
+650,16,Pain Split,45,normal,-,-
+650,15,Wood Hammer,48,grass,120,100
+650,16,Wood Hammer,48,grass,120,100

@@ -1,61 +1,61 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-590,foongus,11,71,Absorb,1,1,
-590,foongus,11,72,Mega Drain,1,15,
-590,foongus,11,74,Growth,1,6,
-590,foongus,11,76,Solar Beam,1,43,
-590,foongus,11,92,Toxic,1,32,
-590,foongus,11,117,Bide,1,12,
-590,foongus,11,147,Spore,1,50,
-590,foongus,11,185,Feint Attack,1,20,
-590,foongus,11,202,Giga Drain,1,28,
-590,foongus,11,230,Sweet Scent,1,24,
-590,foongus,11,235,Synthesis,1,35,
-590,foongus,11,275,Ingrain,1,18,
-590,foongus,11,310,Astonish,1,8,
-590,foongus,11,476,Rage Powder,1,45,
-590,foongus,11,499,Clear Smog,1,39,
-590,foongus,14,71,Absorb,1,1,
-590,foongus,14,72,Mega Drain,1,15,
-590,foongus,14,74,Growth,1,6,
-590,foongus,14,76,Solar Beam,1,43,
-590,foongus,14,92,Toxic,1,32,
-590,foongus,14,117,Bide,1,12,
-590,foongus,14,147,Spore,1,50,
-590,foongus,14,185,Feint Attack,1,20,
-590,foongus,14,202,Giga Drain,1,28,
-590,foongus,14,230,Sweet Scent,1,24,
-590,foongus,14,235,Synthesis,1,35,
-590,foongus,14,275,Ingrain,1,18,
-590,foongus,14,310,Astonish,1,8,
-590,foongus,14,476,Rage Powder,1,45,
-590,foongus,14,499,Clear Smog,1,39,
-590,foongus,15,71,Absorb,1,1,
-590,foongus,15,72,Mega Drain,1,15,
-590,foongus,15,74,Growth,1,6,
-590,foongus,15,76,Solar Beam,1,43,
-590,foongus,15,92,Toxic,1,32,
-590,foongus,15,117,Bide,1,12,
-590,foongus,15,147,Spore,1,50,
-590,foongus,15,185,Feint Attack,1,20,
-590,foongus,15,202,Giga Drain,1,28,
-590,foongus,15,230,Sweet Scent,1,24,
-590,foongus,15,235,Synthesis,1,35,
-590,foongus,15,275,Ingrain,1,18,
-590,foongus,15,310,Astonish,1,8,
-590,foongus,15,476,Rage Powder,1,45,
-590,foongus,15,499,Clear Smog,1,39,
-590,foongus,16,71,Absorb,1,1,1
-590,foongus,16,72,Mega Drain,1,15,1
-590,foongus,16,74,Growth,1,6,1
-590,foongus,16,76,Solar Beam,1,43,1
-590,foongus,16,92,Toxic,1,32,1
-590,foongus,16,117,Bide,1,12,1
-590,foongus,16,147,Spore,1,50,1
-590,foongus,16,185,Feint Attack,1,20,1
-590,foongus,16,202,Giga Drain,1,28,1
-590,foongus,16,230,Sweet Scent,1,24,1
-590,foongus,16,235,Synthesis,1,35,1
-590,foongus,16,275,Ingrain,1,18,1
-590,foongus,16,310,Astonish,1,8,1
-590,foongus,16,476,Rage Powder,1,45,1
-590,foongus,16,499,Clear Smog,1,39,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+590,11,Absorb,1,grass,20,100
+590,14,Absorb,1,grass,20,100
+590,15,Absorb,1,grass,20,100
+590,16,Absorb,1,grass,20,100
+590,11,Growth,6,normal,-,-
+590,14,Growth,6,normal,-,-
+590,15,Growth,6,normal,-,-
+590,16,Growth,6,normal,-,-
+590,11,Astonish,8,ghost,30,100
+590,14,Astonish,8,ghost,30,100
+590,15,Astonish,8,ghost,30,100
+590,16,Astonish,8,ghost,30,100
+590,11,Bide,12,normal,-,-
+590,14,Bide,12,normal,-,-
+590,15,Bide,12,normal,-,-
+590,16,Bide,12,normal,-,-
+590,11,Mega Drain,15,grass,40,100
+590,14,Mega Drain,15,grass,40,100
+590,15,Mega Drain,15,grass,40,100
+590,16,Mega Drain,15,grass,40,100
+590,11,Ingrain,18,grass,-,-
+590,14,Ingrain,18,grass,-,-
+590,15,Ingrain,18,grass,-,-
+590,16,Ingrain,18,grass,-,-
+590,11,Feint Attack,20,dark,60,-
+590,14,Feint Attack,20,dark,60,-
+590,15,Feint Attack,20,dark,60,-
+590,16,Feint Attack,20,dark,60,-
+590,11,Sweet Scent,24,normal,-,100
+590,14,Sweet Scent,24,normal,-,100
+590,15,Sweet Scent,24,normal,-,100
+590,16,Sweet Scent,24,normal,-,100
+590,11,Giga Drain,28,grass,75,100
+590,14,Giga Drain,28,grass,75,100
+590,15,Giga Drain,28,grass,75,100
+590,16,Giga Drain,28,grass,75,100
+590,11,Toxic,32,poison,-,90
+590,14,Toxic,32,poison,-,90
+590,15,Toxic,32,poison,-,90
+590,16,Toxic,32,poison,-,90
+590,11,Synthesis,35,grass,-,-
+590,14,Synthesis,35,grass,-,-
+590,15,Synthesis,35,grass,-,-
+590,16,Synthesis,35,grass,-,-
+590,11,Clear Smog,39,poison,50,-
+590,14,Clear Smog,39,poison,50,-
+590,15,Clear Smog,39,poison,50,-
+590,16,Clear Smog,39,poison,50,-
+590,11,Solar Beam,43,grass,120,100
+590,14,Solar Beam,43,grass,120,100
+590,15,Solar Beam,43,grass,120,100
+590,16,Solar Beam,43,grass,120,100
+590,11,Rage Powder,45,bug,-,-
+590,14,Rage Powder,45,bug,-,-
+590,15,Rage Powder,45,bug,-,-
+590,16,Rage Powder,45,bug,-,-
+590,11,Spore,50,grass,-,100
+590,14,Spore,50,grass,-,100
+590,15,Spore,50,grass,-,100
+590,16,Spore,50,grass,-,100

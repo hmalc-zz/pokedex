@@ -1,19 +1,19 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-677,espurr,15,10,Scratch,1,1,1
-677,espurr,15,43,Leer,1,1,2
-677,espurr,15,60,Psybeam,1,17,
-677,espurr,15,93,Confusion,1,9,
-677,espurr,15,113,Light Screen,1,13,
-677,espurr,15,252,Fake Out,1,19,
-677,espurr,15,343,Covet,1,5,
-677,espurr,15,473,Psyshock,1,25,
-677,espurr,15,574,Disarming Voice,1,22,
-677,espurr,16,10,Scratch,1,1,1
-677,espurr,16,43,Leer,1,1,2
-677,espurr,16,60,Psybeam,1,17,1
-677,espurr,16,93,Confusion,1,9,1
-677,espurr,16,113,Light Screen,1,13,1
-677,espurr,16,252,Fake Out,1,19,1
-677,espurr,16,343,Covet,1,5,1
-677,espurr,16,473,Psyshock,1,25,1
-677,espurr,16,574,Disarming Voice,1,22,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+677,15,Scratch,1,normal,40,100
+677,15,Leer,1,normal,-,100
+677,16,Scratch,1,normal,40,100
+677,16,Leer,1,normal,-,100
+677,15,Covet,5,normal,60,100
+677,16,Covet,5,normal,60,100
+677,15,Confusion,9,psychic,50,100
+677,16,Confusion,9,psychic,50,100
+677,15,Light Screen,13,psychic,-,-
+677,16,Light Screen,13,psychic,-,-
+677,15,Psybeam,17,psychic,65,100
+677,16,Psybeam,17,psychic,65,100
+677,15,Fake Out,19,normal,40,100
+677,16,Fake Out,19,normal,40,100
+677,15,Disarming Voice,22,fairy,40,-
+677,16,Disarming Voice,22,fairy,40,-
+677,15,Psyshock,25,psychic,80,100
+677,16,Psyshock,25,psychic,80,100

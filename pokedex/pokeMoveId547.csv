@@ -1,31 +1,31 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-547,whimsicott,11,16,Gust,1,10,
-547,whimsicott,11,72,Mega Drain,1,1,3
-547,whimsicott,11,73,Leech Seed,1,1,2
-547,whimsicott,11,74,Growth,1,1,1
-547,whimsicott,11,178,Cotton Spore,1,1,4
-547,whimsicott,11,366,Tailwind,1,28,
-547,whimsicott,11,542,Hurricane,1,46,
-547,whimsicott,14,16,Gust,1,10,
-547,whimsicott,14,72,Mega Drain,1,1,3
-547,whimsicott,14,73,Leech Seed,1,1,2
-547,whimsicott,14,74,Growth,1,1,1
-547,whimsicott,14,178,Cotton Spore,1,1,4
-547,whimsicott,14,366,Tailwind,1,28,
-547,whimsicott,14,542,Hurricane,1,46,
-547,whimsicott,15,16,Gust,1,10,
-547,whimsicott,15,72,Mega Drain,1,1,3
-547,whimsicott,15,73,Leech Seed,1,1,2
-547,whimsicott,15,74,Growth,1,1,1
-547,whimsicott,15,178,Cotton Spore,1,1,4
-547,whimsicott,15,366,Tailwind,1,28,
-547,whimsicott,15,542,Hurricane,1,46,
-547,whimsicott,15,585,Moonblast,1,50,
-547,whimsicott,16,16,Gust,1,10,1
-547,whimsicott,16,72,Mega Drain,1,1,3
-547,whimsicott,16,73,Leech Seed,1,1,2
-547,whimsicott,16,74,Growth,1,1,1
-547,whimsicott,16,178,Cotton Spore,1,1,4
-547,whimsicott,16,366,Tailwind,1,28,1
-547,whimsicott,16,542,Hurricane,1,46,1
-547,whimsicott,16,585,Moonblast,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+547,11,Mega Drain,1,grass,40,100
+547,11,Leech Seed,1,grass,-,90
+547,11,Growth,1,normal,-,-
+547,11,Cotton Spore,1,grass,-,100
+547,14,Mega Drain,1,grass,40,100
+547,14,Leech Seed,1,grass,-,90
+547,14,Growth,1,normal,-,-
+547,14,Cotton Spore,1,grass,-,100
+547,15,Mega Drain,1,grass,40,100
+547,15,Leech Seed,1,grass,-,90
+547,15,Growth,1,normal,-,-
+547,15,Cotton Spore,1,grass,-,100
+547,16,Mega Drain,1,grass,40,100
+547,16,Leech Seed,1,grass,-,90
+547,16,Growth,1,normal,-,-
+547,16,Cotton Spore,1,grass,-,100
+547,11,Gust,10,flying,40,100
+547,14,Gust,10,flying,40,100
+547,15,Gust,10,flying,40,100
+547,16,Gust,10,flying,40,100
+547,11,Tailwind,28,flying,-,-
+547,14,Tailwind,28,flying,-,-
+547,15,Tailwind,28,flying,-,-
+547,16,Tailwind,28,flying,-,-
+547,11,Hurricane,46,flying,110,70
+547,14,Hurricane,46,flying,110,70
+547,15,Hurricane,46,flying,110,70
+547,16,Hurricane,46,flying,110,70
+547,15,Moonblast,50,fairy,95,100
+547,16,Moonblast,50,fairy,95,100

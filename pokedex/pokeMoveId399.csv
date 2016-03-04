@@ -1,84 +1,84 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-399,bidoof,8,29,Headbutt,1,17,
-399,bidoof,8,33,Tackle,1,1,
-399,bidoof,8,36,Take Down,1,33,
-399,bidoof,8,45,Growl,1,5,
-399,bidoof,8,111,Defense Curl,1,9,
-399,bidoof,8,133,Amnesia,1,29,
-399,bidoof,8,158,Hyper Fang,1,21,
-399,bidoof,8,162,Super Fang,1,37,
-399,bidoof,8,205,Rollout,1,13,
-399,bidoof,8,276,Superpower,1,41,
-399,bidoof,8,281,Yawn,1,25,
-399,bidoof,9,29,Headbutt,1,17,
-399,bidoof,9,33,Tackle,1,1,
-399,bidoof,9,36,Take Down,1,33,
-399,bidoof,9,45,Growl,1,5,
-399,bidoof,9,111,Defense Curl,1,9,
-399,bidoof,9,133,Amnesia,1,29,
-399,bidoof,9,158,Hyper Fang,1,21,
-399,bidoof,9,162,Super Fang,1,37,
-399,bidoof,9,174,Curse,1,45,
-399,bidoof,9,205,Rollout,1,13,
-399,bidoof,9,276,Superpower,1,41,
-399,bidoof,9,281,Yawn,1,25,
-399,bidoof,10,29,Headbutt,1,17,
-399,bidoof,10,33,Tackle,1,1,
-399,bidoof,10,36,Take Down,1,33,
-399,bidoof,10,45,Growl,1,5,
-399,bidoof,10,111,Defense Curl,1,9,
-399,bidoof,10,133,Amnesia,1,29,
-399,bidoof,10,158,Hyper Fang,1,21,
-399,bidoof,10,162,Super Fang,1,37,
-399,bidoof,10,174,Curse,1,45,
-399,bidoof,10,205,Rollout,1,13,
-399,bidoof,10,276,Superpower,1,41,
-399,bidoof,10,281,Yawn,1,25,
-399,bidoof,11,29,Headbutt,1,17,
-399,bidoof,11,33,Tackle,1,1,
-399,bidoof,11,36,Take Down,1,33,
-399,bidoof,11,45,Growl,1,5,
-399,bidoof,11,111,Defense Curl,1,9,
-399,bidoof,11,133,Amnesia,1,29,
-399,bidoof,11,158,Hyper Fang,1,21,
-399,bidoof,11,162,Super Fang,1,37,
-399,bidoof,11,174,Curse,1,45,
-399,bidoof,11,205,Rollout,1,13,
-399,bidoof,11,276,Superpower,1,41,
-399,bidoof,11,281,Yawn,1,25,
-399,bidoof,14,29,Headbutt,1,17,
-399,bidoof,14,33,Tackle,1,1,
-399,bidoof,14,36,Take Down,1,33,
-399,bidoof,14,45,Growl,1,5,
-399,bidoof,14,111,Defense Curl,1,9,
-399,bidoof,14,133,Amnesia,1,29,
-399,bidoof,14,158,Hyper Fang,1,21,
-399,bidoof,14,162,Super Fang,1,37,
-399,bidoof,14,174,Curse,1,45,
-399,bidoof,14,205,Rollout,1,13,
-399,bidoof,14,276,Superpower,1,41,
-399,bidoof,14,281,Yawn,1,25,
-399,bidoof,15,29,Headbutt,1,17,
-399,bidoof,15,33,Tackle,1,1,
-399,bidoof,15,36,Take Down,1,33,
-399,bidoof,15,45,Growl,1,5,
-399,bidoof,15,111,Defense Curl,1,9,
-399,bidoof,15,133,Amnesia,1,29,
-399,bidoof,15,158,Hyper Fang,1,21,
-399,bidoof,15,162,Super Fang,1,37,
-399,bidoof,15,174,Curse,1,45,
-399,bidoof,15,205,Rollout,1,13,
-399,bidoof,15,276,Superpower,1,41,
-399,bidoof,15,281,Yawn,1,25,
-399,bidoof,16,29,Headbutt,1,17,1
-399,bidoof,16,33,Tackle,1,1,1
-399,bidoof,16,36,Take Down,1,33,1
-399,bidoof,16,45,Growl,1,5,1
-399,bidoof,16,111,Defense Curl,1,9,1
-399,bidoof,16,133,Amnesia,1,29,1
-399,bidoof,16,158,Hyper Fang,1,21,1
-399,bidoof,16,162,Super Fang,1,37,1
-399,bidoof,16,174,Curse,1,45,1
-399,bidoof,16,205,Rollout,1,13,1
-399,bidoof,16,276,Superpower,1,41,1
-399,bidoof,16,281,Yawn,1,25,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+399,8,Tackle,1,normal,50,100
+399,9,Tackle,1,normal,50,100
+399,10,Tackle,1,normal,50,100
+399,11,Tackle,1,normal,50,100
+399,14,Tackle,1,normal,50,100
+399,15,Tackle,1,normal,50,100
+399,16,Tackle,1,normal,50,100
+399,8,Growl,5,normal,-,100
+399,9,Growl,5,normal,-,100
+399,10,Growl,5,normal,-,100
+399,11,Growl,5,normal,-,100
+399,14,Growl,5,normal,-,100
+399,15,Growl,5,normal,-,100
+399,16,Growl,5,normal,-,100
+399,8,Defense Curl,9,normal,-,-
+399,9,Defense Curl,9,normal,-,-
+399,10,Defense Curl,9,normal,-,-
+399,11,Defense Curl,9,normal,-,-
+399,14,Defense Curl,9,normal,-,-
+399,15,Defense Curl,9,normal,-,-
+399,16,Defense Curl,9,normal,-,-
+399,8,Rollout,13,rock,30,90
+399,9,Rollout,13,rock,30,90
+399,10,Rollout,13,rock,30,90
+399,11,Rollout,13,rock,30,90
+399,14,Rollout,13,rock,30,90
+399,15,Rollout,13,rock,30,90
+399,16,Rollout,13,rock,30,90
+399,8,Headbutt,17,normal,70,100
+399,9,Headbutt,17,normal,70,100
+399,10,Headbutt,17,normal,70,100
+399,11,Headbutt,17,normal,70,100
+399,14,Headbutt,17,normal,70,100
+399,15,Headbutt,17,normal,70,100
+399,16,Headbutt,17,normal,70,100
+399,8,Hyper Fang,21,normal,80,90
+399,9,Hyper Fang,21,normal,80,90
+399,10,Hyper Fang,21,normal,80,90
+399,11,Hyper Fang,21,normal,80,90
+399,14,Hyper Fang,21,normal,80,90
+399,15,Hyper Fang,21,normal,80,90
+399,16,Hyper Fang,21,normal,80,90
+399,8,Yawn,25,normal,-,-
+399,9,Yawn,25,normal,-,-
+399,10,Yawn,25,normal,-,-
+399,11,Yawn,25,normal,-,-
+399,14,Yawn,25,normal,-,-
+399,15,Yawn,25,normal,-,-
+399,16,Yawn,25,normal,-,-
+399,8,Amnesia,29,psychic,-,-
+399,9,Amnesia,29,psychic,-,-
+399,10,Amnesia,29,psychic,-,-
+399,11,Amnesia,29,psychic,-,-
+399,14,Amnesia,29,psychic,-,-
+399,15,Amnesia,29,psychic,-,-
+399,16,Amnesia,29,psychic,-,-
+399,8,Take Down,33,normal,90,85
+399,9,Take Down,33,normal,90,85
+399,10,Take Down,33,normal,90,85
+399,11,Take Down,33,normal,90,85
+399,14,Take Down,33,normal,90,85
+399,15,Take Down,33,normal,90,85
+399,16,Take Down,33,normal,90,85
+399,8,Super Fang,37,normal,-,90
+399,9,Super Fang,37,normal,-,90
+399,10,Super Fang,37,normal,-,90
+399,11,Super Fang,37,normal,-,90
+399,14,Super Fang,37,normal,-,90
+399,15,Super Fang,37,normal,-,90
+399,16,Super Fang,37,normal,-,90
+399,8,Superpower,41,fighting,120,100
+399,9,Superpower,41,fighting,120,100
+399,10,Superpower,41,fighting,120,100
+399,11,Superpower,41,fighting,120,100
+399,14,Superpower,41,fighting,120,100
+399,15,Superpower,41,fighting,120,100
+399,16,Superpower,41,fighting,120,100
+399,9,Curse,45,ghost,-,-
+399,10,Curse,45,ghost,-,-
+399,11,Curse,45,ghost,-,-
+399,14,Curse,45,ghost,-,-
+399,15,Curse,45,ghost,-,-
+399,16,Curse,45,ghost,-,-

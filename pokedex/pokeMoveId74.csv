@@ -1,191 +1,191 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-74,geodude,1,33,Tackle,1,1,
-74,geodude,1,88,Rock Throw,1,16,
-74,geodude,1,89,Earthquake,1,31,
-74,geodude,1,106,Harden,1,26,
-74,geodude,1,111,Defense Curl,1,11,
-74,geodude,1,120,Self-Destruct,1,21,
-74,geodude,1,153,Explosion,1,36,
-74,geodude,2,33,Tackle,1,1,
-74,geodude,2,88,Rock Throw,1,16,
-74,geodude,2,89,Earthquake,1,31,
-74,geodude,2,106,Harden,1,26,
-74,geodude,2,111,Defense Curl,1,11,
-74,geodude,2,120,Self-Destruct,1,21,
-74,geodude,2,153,Explosion,1,36,
-74,geodude,3,33,Tackle,1,1,
-74,geodude,3,88,Rock Throw,1,11,
-74,geodude,3,89,Earthquake,1,36,
-74,geodude,3,106,Harden,1,26,
-74,geodude,3,111,Defense Curl,1,6,
-74,geodude,3,120,Self-Destruct,1,21,
-74,geodude,3,153,Explosion,1,41,
-74,geodude,3,205,Rollout,1,31,
-74,geodude,3,222,Magnitude,1,16,
-74,geodude,4,33,Tackle,1,1,
-74,geodude,4,88,Rock Throw,1,11,
-74,geodude,4,89,Earthquake,1,36,
-74,geodude,4,106,Harden,1,26,
-74,geodude,4,111,Defense Curl,1,6,
-74,geodude,4,120,Self-Destruct,1,21,
-74,geodude,4,153,Explosion,1,41,
-74,geodude,4,205,Rollout,1,31,
-74,geodude,4,222,Magnitude,1,16,
-74,geodude,5,33,Tackle,1,1,1
-74,geodude,5,38,Double-Edge,1,46,
-74,geodude,5,88,Rock Throw,1,11,
-74,geodude,5,89,Earthquake,1,36,
-74,geodude,5,111,Defense Curl,1,1,2
-74,geodude,5,120,Self-Destruct,1,21,
-74,geodude,5,153,Explosion,1,41,
-74,geodude,5,205,Rollout,1,26,
-74,geodude,5,222,Magnitude,1,16,
-74,geodude,5,300,Mud Sport,1,6,
-74,geodude,5,350,Rock Blast,1,31,
-74,geodude,6,33,Tackle,1,1,1
-74,geodude,6,38,Double-Edge,1,46,
-74,geodude,6,88,Rock Throw,1,11,
-74,geodude,6,89,Earthquake,1,36,
-74,geodude,6,111,Defense Curl,1,1,2
-74,geodude,6,120,Self-Destruct,1,21,
-74,geodude,6,153,Explosion,1,41,
-74,geodude,6,205,Rollout,1,26,
-74,geodude,6,222,Magnitude,1,16,
-74,geodude,6,300,Mud Sport,1,6,
-74,geodude,6,350,Rock Blast,1,31,
-74,geodude,7,33,Tackle,1,1,1
-74,geodude,7,38,Double-Edge,1,46,
-74,geodude,7,88,Rock Throw,1,11,
-74,geodude,7,89,Earthquake,1,36,
-74,geodude,7,111,Defense Curl,1,1,2
-74,geodude,7,120,Self-Destruct,1,21,
-74,geodude,7,153,Explosion,1,41,
-74,geodude,7,205,Rollout,1,26,
-74,geodude,7,222,Magnitude,1,16,
-74,geodude,7,300,Mud Sport,1,6,
-74,geodude,7,350,Rock Blast,1,31,
-74,geodude,8,33,Tackle,1,1,1
-74,geodude,8,38,Double-Edge,1,36,
-74,geodude,8,88,Rock Throw,1,11,
-74,geodude,8,89,Earthquake,1,29,
-74,geodude,8,111,Defense Curl,1,1,2
-74,geodude,8,120,Self-Destruct,1,18,
-74,geodude,8,153,Explosion,1,32,
-74,geodude,8,205,Rollout,1,22,
-74,geodude,8,222,Magnitude,1,15,
-74,geodude,8,300,Mud Sport,1,4,
-74,geodude,8,350,Rock Blast,1,25,
-74,geodude,8,397,Rock Polish,1,8,
-74,geodude,8,444,Stone Edge,1,39,
-74,geodude,9,33,Tackle,1,1,1
-74,geodude,9,38,Double-Edge,1,36,
-74,geodude,9,88,Rock Throw,1,11,
-74,geodude,9,89,Earthquake,1,29,
-74,geodude,9,111,Defense Curl,1,1,2
-74,geodude,9,120,Self-Destruct,1,18,
-74,geodude,9,153,Explosion,1,32,
-74,geodude,9,205,Rollout,1,22,
-74,geodude,9,222,Magnitude,1,15,
-74,geodude,9,300,Mud Sport,1,4,
-74,geodude,9,350,Rock Blast,1,25,
-74,geodude,9,397,Rock Polish,1,8,
-74,geodude,9,444,Stone Edge,1,39,
-74,geodude,10,33,Tackle,1,1,1
-74,geodude,10,38,Double-Edge,1,36,
-74,geodude,10,88,Rock Throw,1,11,
-74,geodude,10,89,Earthquake,1,29,
-74,geodude,10,111,Defense Curl,1,1,2
-74,geodude,10,120,Self-Destruct,1,18,
-74,geodude,10,153,Explosion,1,32,
-74,geodude,10,205,Rollout,1,22,
-74,geodude,10,222,Magnitude,1,15,
-74,geodude,10,300,Mud Sport,1,4,
-74,geodude,10,350,Rock Blast,1,25,
-74,geodude,10,397,Rock Polish,1,8,
-74,geodude,10,444,Stone Edge,1,39,
-74,geodude,11,33,Tackle,1,1,1
-74,geodude,11,38,Double-Edge,1,46,
-74,geodude,11,88,Rock Throw,1,11,
-74,geodude,11,89,Earthquake,1,39,
-74,geodude,11,111,Defense Curl,1,1,2
-74,geodude,11,120,Self-Destruct,1,29,
-74,geodude,11,153,Explosion,1,43,
-74,geodude,11,205,Rollout,1,18,
-74,geodude,11,222,Magnitude,1,15,
-74,geodude,11,300,Mud Sport,1,4,
-74,geodude,11,350,Rock Blast,1,22,
-74,geodude,11,397,Rock Polish,1,8,
-74,geodude,11,444,Stone Edge,1,50,
-74,geodude,11,446,Stealth Rock,1,36,
-74,geodude,11,479,Smack Down,1,25,
-74,geodude,11,523,Bulldoze,1,32,
-74,geodude,12,33,Tackle,1,1,1
-74,geodude,12,38,Double-Edge,1,46,
-74,geodude,12,88,Rock Throw,1,11,
-74,geodude,12,89,Earthquake,1,36,
-74,geodude,12,111,Defense Curl,1,1,2
-74,geodude,12,120,Self-Destruct,1,21,
-74,geodude,12,153,Explosion,1,41,
-74,geodude,12,205,Rollout,1,26,
-74,geodude,12,222,Magnitude,1,16,
-74,geodude,12,300,Mud Sport,1,6,
-74,geodude,12,350,Rock Blast,1,31,
-74,geodude,13,33,Tackle,1,1,1
-74,geodude,13,38,Double-Edge,1,46,
-74,geodude,13,88,Rock Throw,1,11,
-74,geodude,13,89,Earthquake,1,36,
-74,geodude,13,111,Defense Curl,1,1,2
-74,geodude,13,120,Self-Destruct,1,21,
-74,geodude,13,153,Explosion,1,41,
-74,geodude,13,205,Rollout,1,26,
-74,geodude,13,222,Magnitude,1,16,
-74,geodude,13,300,Mud Sport,1,6,
-74,geodude,13,350,Rock Blast,1,31,
-74,geodude,14,33,Tackle,1,1,1
-74,geodude,14,38,Double-Edge,1,46,
-74,geodude,14,88,Rock Throw,1,11,
-74,geodude,14,89,Earthquake,1,39,
-74,geodude,14,111,Defense Curl,1,1,2
-74,geodude,14,120,Self-Destruct,1,29,
-74,geodude,14,153,Explosion,1,43,
-74,geodude,14,205,Rollout,1,18,
-74,geodude,14,222,Magnitude,1,15,
-74,geodude,14,300,Mud Sport,1,4,
-74,geodude,14,350,Rock Blast,1,22,
-74,geodude,14,397,Rock Polish,1,8,
-74,geodude,14,444,Stone Edge,1,50,
-74,geodude,14,446,Stealth Rock,1,36,
-74,geodude,14,479,Smack Down,1,25,
-74,geodude,14,523,Bulldoze,1,32,
-74,geodude,15,33,Tackle,1,1,1
-74,geodude,15,38,Double-Edge,1,46,
-74,geodude,15,88,Rock Throw,1,18,
-74,geodude,15,89,Earthquake,1,39,
-74,geodude,15,111,Defense Curl,1,1,2
-74,geodude,15,120,Self-Destruct,1,29,
-74,geodude,15,153,Explosion,1,43,
-74,geodude,15,205,Rollout,1,11,
-74,geodude,15,222,Magnitude,1,15,
-74,geodude,15,300,Mud Sport,1,4,
-74,geodude,15,350,Rock Blast,1,22,
-74,geodude,15,397,Rock Polish,1,8,
-74,geodude,15,444,Stone Edge,1,50,
-74,geodude,15,446,Stealth Rock,1,36,
-74,geodude,15,479,Smack Down,1,25,
-74,geodude,15,523,Bulldoze,1,32,
-74,geodude,16,33,Tackle,1,1,1
-74,geodude,16,38,Double-Edge,1,40,1
-74,geodude,16,88,Rock Throw,1,16,1
-74,geodude,16,89,Earthquake,1,34,1
-74,geodude,16,111,Defense Curl,1,1,2
-74,geodude,16,120,Self-Destruct,1,24,1
-74,geodude,16,153,Explosion,1,36,1
-74,geodude,16,205,Rollout,1,10,1
-74,geodude,16,222,Magnitude,1,12,1
-74,geodude,16,300,Mud Sport,1,4,1
-74,geodude,16,350,Rock Blast,1,30,1
-74,geodude,16,397,Rock Polish,1,6,1
-74,geodude,16,444,Stone Edge,1,42,1
-74,geodude,16,446,Stealth Rock,1,28,1
-74,geodude,16,479,Smack Down,1,18,1
-74,geodude,16,523,Bulldoze,1,22,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+74,1,Tackle,1,normal,50,100
+74,2,Tackle,1,normal,50,100
+74,3,Tackle,1,normal,50,100
+74,4,Tackle,1,normal,50,100
+74,5,Tackle,1,normal,50,100
+74,5,Defense Curl,1,normal,-,-
+74,6,Tackle,1,normal,50,100
+74,6,Defense Curl,1,normal,-,-
+74,7,Tackle,1,normal,50,100
+74,7,Defense Curl,1,normal,-,-
+74,8,Tackle,1,normal,50,100
+74,8,Defense Curl,1,normal,-,-
+74,9,Tackle,1,normal,50,100
+74,9,Defense Curl,1,normal,-,-
+74,10,Tackle,1,normal,50,100
+74,10,Defense Curl,1,normal,-,-
+74,11,Tackle,1,normal,50,100
+74,11,Defense Curl,1,normal,-,-
+74,12,Tackle,1,normal,50,100
+74,12,Defense Curl,1,normal,-,-
+74,13,Tackle,1,normal,50,100
+74,13,Defense Curl,1,normal,-,-
+74,14,Tackle,1,normal,50,100
+74,14,Defense Curl,1,normal,-,-
+74,15,Tackle,1,normal,50,100
+74,15,Defense Curl,1,normal,-,-
+74,16,Tackle,1,normal,50,100
+74,16,Defense Curl,1,normal,-,-
+74,8,Mud Sport,4,ground,-,-
+74,9,Mud Sport,4,ground,-,-
+74,10,Mud Sport,4,ground,-,-
+74,11,Mud Sport,4,ground,-,-
+74,14,Mud Sport,4,ground,-,-
+74,15,Mud Sport,4,ground,-,-
+74,16,Mud Sport,4,ground,-,-
+74,3,Defense Curl,6,normal,-,-
+74,4,Defense Curl,6,normal,-,-
+74,5,Mud Sport,6,ground,-,-
+74,6,Mud Sport,6,ground,-,-
+74,7,Mud Sport,6,ground,-,-
+74,12,Mud Sport,6,ground,-,-
+74,13,Mud Sport,6,ground,-,-
+74,16,Rock Polish,6,rock,-,-
+74,8,Rock Polish,8,rock,-,-
+74,9,Rock Polish,8,rock,-,-
+74,10,Rock Polish,8,rock,-,-
+74,11,Rock Polish,8,rock,-,-
+74,14,Rock Polish,8,rock,-,-
+74,15,Rock Polish,8,rock,-,-
+74,16,Rollout,10,rock,30,90
+74,1,Defense Curl,11,normal,-,-
+74,2,Defense Curl,11,normal,-,-
+74,3,Rock Throw,11,rock,50,90
+74,4,Rock Throw,11,rock,50,90
+74,5,Rock Throw,11,rock,50,90
+74,6,Rock Throw,11,rock,50,90
+74,7,Rock Throw,11,rock,50,90
+74,8,Rock Throw,11,rock,50,90
+74,9,Rock Throw,11,rock,50,90
+74,10,Rock Throw,11,rock,50,90
+74,11,Rock Throw,11,rock,50,90
+74,12,Rock Throw,11,rock,50,90
+74,13,Rock Throw,11,rock,50,90
+74,14,Rock Throw,11,rock,50,90
+74,15,Rollout,11,rock,30,90
+74,16,Magnitude,12,ground,-,100
+74,8,Magnitude,15,ground,-,100
+74,9,Magnitude,15,ground,-,100
+74,10,Magnitude,15,ground,-,100
+74,11,Magnitude,15,ground,-,100
+74,14,Magnitude,15,ground,-,100
+74,15,Magnitude,15,ground,-,100
+74,1,Rock Throw,16,rock,50,90
+74,2,Rock Throw,16,rock,50,90
+74,3,Magnitude,16,ground,-,100
+74,4,Magnitude,16,ground,-,100
+74,5,Magnitude,16,ground,-,100
+74,6,Magnitude,16,ground,-,100
+74,7,Magnitude,16,ground,-,100
+74,12,Magnitude,16,ground,-,100
+74,13,Magnitude,16,ground,-,100
+74,16,Rock Throw,16,rock,50,90
+74,8,Self-Destruct,18,normal,200,100
+74,9,Self-Destruct,18,normal,200,100
+74,10,Self-Destruct,18,normal,200,100
+74,11,Rollout,18,rock,30,90
+74,14,Rollout,18,rock,30,90
+74,15,Rock Throw,18,rock,50,90
+74,16,Smack Down,18,rock,50,100
+74,1,Self-Destruct,21,normal,200,100
+74,2,Self-Destruct,21,normal,200,100
+74,3,Self-Destruct,21,normal,200,100
+74,4,Self-Destruct,21,normal,200,100
+74,5,Self-Destruct,21,normal,200,100
+74,6,Self-Destruct,21,normal,200,100
+74,7,Self-Destruct,21,normal,200,100
+74,12,Self-Destruct,21,normal,200,100
+74,13,Self-Destruct,21,normal,200,100
+74,8,Rollout,22,rock,30,90
+74,9,Rollout,22,rock,30,90
+74,10,Rollout,22,rock,30,90
+74,11,Rock Blast,22,rock,25,90
+74,14,Rock Blast,22,rock,25,90
+74,15,Rock Blast,22,rock,25,90
+74,16,Bulldoze,22,ground,60,100
+74,16,Self-Destruct,24,normal,200,100
+74,8,Rock Blast,25,rock,25,90
+74,9,Rock Blast,25,rock,25,90
+74,10,Rock Blast,25,rock,25,90
+74,11,Smack Down,25,rock,50,100
+74,14,Smack Down,25,rock,50,100
+74,15,Smack Down,25,rock,50,100
+74,1,Harden,26,normal,-,-
+74,2,Harden,26,normal,-,-
+74,3,Harden,26,normal,-,-
+74,4,Harden,26,normal,-,-
+74,5,Rollout,26,rock,30,90
+74,6,Rollout,26,rock,30,90
+74,7,Rollout,26,rock,30,90
+74,12,Rollout,26,rock,30,90
+74,13,Rollout,26,rock,30,90
+74,16,Stealth Rock,28,rock,-,-
+74,8,Earthquake,29,ground,100,100
+74,9,Earthquake,29,ground,100,100
+74,10,Earthquake,29,ground,100,100
+74,11,Self-Destruct,29,normal,200,100
+74,14,Self-Destruct,29,normal,200,100
+74,15,Self-Destruct,29,normal,200,100
+74,16,Rock Blast,30,rock,25,90
+74,1,Earthquake,31,ground,100,100
+74,2,Earthquake,31,ground,100,100
+74,3,Rollout,31,rock,30,90
+74,4,Rollout,31,rock,30,90
+74,5,Rock Blast,31,rock,25,90
+74,6,Rock Blast,31,rock,25,90
+74,7,Rock Blast,31,rock,25,90
+74,12,Rock Blast,31,rock,25,90
+74,13,Rock Blast,31,rock,25,90
+74,8,Explosion,32,normal,250,100
+74,9,Explosion,32,normal,250,100
+74,10,Explosion,32,normal,250,100
+74,11,Bulldoze,32,ground,60,100
+74,14,Bulldoze,32,ground,60,100
+74,15,Bulldoze,32,ground,60,100
+74,16,Earthquake,34,ground,100,100
+74,1,Explosion,36,normal,250,100
+74,2,Explosion,36,normal,250,100
+74,3,Earthquake,36,ground,100,100
+74,4,Earthquake,36,ground,100,100
+74,5,Earthquake,36,ground,100,100
+74,6,Earthquake,36,ground,100,100
+74,7,Earthquake,36,ground,100,100
+74,8,Double-Edge,36,normal,120,100
+74,9,Double-Edge,36,normal,120,100
+74,10,Double-Edge,36,normal,120,100
+74,11,Stealth Rock,36,rock,-,-
+74,12,Earthquake,36,ground,100,100
+74,13,Earthquake,36,ground,100,100
+74,14,Stealth Rock,36,rock,-,-
+74,15,Stealth Rock,36,rock,-,-
+74,16,Explosion,36,normal,250,100
+74,8,Stone Edge,39,rock,100,80
+74,9,Stone Edge,39,rock,100,80
+74,10,Stone Edge,39,rock,100,80
+74,11,Earthquake,39,ground,100,100
+74,14,Earthquake,39,ground,100,100
+74,15,Earthquake,39,ground,100,100
+74,16,Double-Edge,40,normal,120,100
+74,3,Explosion,41,normal,250,100
+74,4,Explosion,41,normal,250,100
+74,5,Explosion,41,normal,250,100
+74,6,Explosion,41,normal,250,100
+74,7,Explosion,41,normal,250,100
+74,12,Explosion,41,normal,250,100
+74,13,Explosion,41,normal,250,100
+74,16,Stone Edge,42,rock,100,80
+74,11,Explosion,43,normal,250,100
+74,14,Explosion,43,normal,250,100
+74,15,Explosion,43,normal,250,100
+74,5,Double-Edge,46,normal,120,100
+74,6,Double-Edge,46,normal,120,100
+74,7,Double-Edge,46,normal,120,100
+74,11,Double-Edge,46,normal,120,100
+74,12,Double-Edge,46,normal,120,100
+74,13,Double-Edge,46,normal,120,100
+74,14,Double-Edge,46,normal,120,100
+74,15,Double-Edge,46,normal,120,100
+74,11,Stone Edge,50,rock,100,80
+74,14,Stone Edge,50,rock,100,80
+74,15,Stone Edge,50,rock,100,80

@@ -1,81 +1,81 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-503,samurott,11,14,Swords Dance,1,57,
-503,samurott,11,33,Tackle,1,1,2
-503,samurott,11,39,Tail Whip,1,1,3
-503,samurott,11,39,Tail Whip,1,5,
-503,samurott,11,55,Water Gun,1,1,4
-503,samurott,11,55,Water Gun,1,7,
-503,samurott,11,56,Hydro Pump,1,62,
-503,samurott,11,116,Focus Energy,1,13,
-503,samurott,11,163,Slash,1,36,
-503,samurott,11,210,Fury Cutter,1,20,
-503,samurott,11,224,Megahorn,1,1,1
-503,samurott,11,227,Encore,1,38,
-503,samurott,11,279,Revenge,1,28,
-503,samurott,11,346,Water Sport,1,1,5
-503,samurott,11,346,Water Sport,1,11,
-503,samurott,11,352,Water Pulse,1,25,
-503,samurott,11,401,Aqua Tail,1,45,
-503,samurott,11,453,Aqua Jet,1,33,
-503,samurott,11,514,Retaliate,1,50,
-503,samurott,11,534,Razor Shell,1,17,
-503,samurott,14,14,Swords Dance,1,57,
-503,samurott,14,33,Tackle,1,1,2
-503,samurott,14,39,Tail Whip,1,1,3
-503,samurott,14,39,Tail Whip,1,5,
-503,samurott,14,55,Water Gun,1,1,4
-503,samurott,14,55,Water Gun,1,7,
-503,samurott,14,56,Hydro Pump,1,62,
-503,samurott,14,116,Focus Energy,1,13,
-503,samurott,14,163,Slash,1,36,
-503,samurott,14,210,Fury Cutter,1,20,
-503,samurott,14,224,Megahorn,1,1,1
-503,samurott,14,227,Encore,1,38,
-503,samurott,14,279,Revenge,1,28,
-503,samurott,14,346,Water Sport,1,1,5
-503,samurott,14,346,Water Sport,1,11,
-503,samurott,14,352,Water Pulse,1,25,
-503,samurott,14,401,Aqua Tail,1,45,
-503,samurott,14,453,Aqua Jet,1,33,
-503,samurott,14,514,Retaliate,1,50,
-503,samurott,14,534,Razor Shell,1,17,
-503,samurott,15,14,Swords Dance,1,57,
-503,samurott,15,33,Tackle,1,1,2
-503,samurott,15,39,Tail Whip,1,1,3
-503,samurott,15,39,Tail Whip,1,5,
-503,samurott,15,55,Water Gun,1,1,4
-503,samurott,15,55,Water Gun,1,7,
-503,samurott,15,56,Hydro Pump,1,62,
-503,samurott,15,116,Focus Energy,1,13,
-503,samurott,15,163,Slash,1,36,
-503,samurott,15,210,Fury Cutter,1,20,
-503,samurott,15,224,Megahorn,1,1,1
-503,samurott,15,227,Encore,1,38,
-503,samurott,15,279,Revenge,1,28,
-503,samurott,15,346,Water Sport,1,1,5
-503,samurott,15,346,Water Sport,1,11,
-503,samurott,15,352,Water Pulse,1,25,
-503,samurott,15,401,Aqua Tail,1,45,
-503,samurott,15,453,Aqua Jet,1,33,
-503,samurott,15,514,Retaliate,1,50,
-503,samurott,15,534,Razor Shell,1,17,
-503,samurott,16,14,Swords Dance,1,57,1
-503,samurott,16,33,Tackle,1,1,2
-503,samurott,16,39,Tail Whip,1,1,3
-503,samurott,16,39,Tail Whip,1,5,1
-503,samurott,16,55,Water Gun,1,1,4
-503,samurott,16,55,Water Gun,1,7,1
-503,samurott,16,56,Hydro Pump,1,62,1
-503,samurott,16,116,Focus Energy,1,13,1
-503,samurott,16,163,Slash,1,36,1
-503,samurott,16,210,Fury Cutter,1,20,1
-503,samurott,16,224,Megahorn,1,1,1
-503,samurott,16,227,Encore,1,38,1
-503,samurott,16,279,Revenge,1,28,1
-503,samurott,16,346,Water Sport,1,1,5
-503,samurott,16,346,Water Sport,1,11,1
-503,samurott,16,352,Water Pulse,1,25,1
-503,samurott,16,401,Aqua Tail,1,45,1
-503,samurott,16,453,Aqua Jet,1,33,1
-503,samurott,16,514,Retaliate,1,50,1
-503,samurott,16,534,Razor Shell,1,17,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+503,11,Tackle,1,normal,50,100
+503,11,Tail Whip,1,normal,-,100
+503,11,Water Gun,1,water,40,100
+503,11,Megahorn,1,bug,120,85
+503,11,Water Sport,1,water,-,-
+503,14,Tackle,1,normal,50,100
+503,14,Tail Whip,1,normal,-,100
+503,14,Water Gun,1,water,40,100
+503,14,Megahorn,1,bug,120,85
+503,14,Water Sport,1,water,-,-
+503,15,Tackle,1,normal,50,100
+503,15,Tail Whip,1,normal,-,100
+503,15,Water Gun,1,water,40,100
+503,15,Megahorn,1,bug,120,85
+503,15,Water Sport,1,water,-,-
+503,16,Tackle,1,normal,50,100
+503,16,Tail Whip,1,normal,-,100
+503,16,Water Gun,1,water,40,100
+503,16,Megahorn,1,bug,120,85
+503,16,Water Sport,1,water,-,-
+503,11,Tail Whip,5,normal,-,100
+503,14,Tail Whip,5,normal,-,100
+503,15,Tail Whip,5,normal,-,100
+503,16,Tail Whip,5,normal,-,100
+503,11,Water Gun,7,water,40,100
+503,14,Water Gun,7,water,40,100
+503,15,Water Gun,7,water,40,100
+503,16,Water Gun,7,water,40,100
+503,11,Water Sport,11,water,-,-
+503,14,Water Sport,11,water,-,-
+503,15,Water Sport,11,water,-,-
+503,16,Water Sport,11,water,-,-
+503,11,Focus Energy,13,normal,-,-
+503,14,Focus Energy,13,normal,-,-
+503,15,Focus Energy,13,normal,-,-
+503,16,Focus Energy,13,normal,-,-
+503,11,Razor Shell,17,water,75,95
+503,14,Razor Shell,17,water,75,95
+503,15,Razor Shell,17,water,75,95
+503,16,Razor Shell,17,water,75,95
+503,11,Fury Cutter,20,bug,40,95
+503,14,Fury Cutter,20,bug,40,95
+503,15,Fury Cutter,20,bug,40,95
+503,16,Fury Cutter,20,bug,40,95
+503,11,Water Pulse,25,water,60,100
+503,14,Water Pulse,25,water,60,100
+503,15,Water Pulse,25,water,60,100
+503,16,Water Pulse,25,water,60,100
+503,11,Revenge,28,fighting,60,100
+503,14,Revenge,28,fighting,60,100
+503,15,Revenge,28,fighting,60,100
+503,16,Revenge,28,fighting,60,100
+503,11,Aqua Jet,33,water,40,100
+503,14,Aqua Jet,33,water,40,100
+503,15,Aqua Jet,33,water,40,100
+503,16,Aqua Jet,33,water,40,100
+503,11,Slash,36,normal,70,100
+503,14,Slash,36,normal,70,100
+503,15,Slash,36,normal,70,100
+503,16,Slash,36,normal,70,100
+503,11,Encore,38,normal,-,100
+503,14,Encore,38,normal,-,100
+503,15,Encore,38,normal,-,100
+503,16,Encore,38,normal,-,100
+503,11,Aqua Tail,45,water,90,90
+503,14,Aqua Tail,45,water,90,90
+503,15,Aqua Tail,45,water,90,90
+503,16,Aqua Tail,45,water,90,90
+503,11,Retaliate,50,normal,70,100
+503,14,Retaliate,50,normal,70,100
+503,15,Retaliate,50,normal,70,100
+503,16,Retaliate,50,normal,70,100
+503,11,Swords Dance,57,normal,-,-
+503,14,Swords Dance,57,normal,-,-
+503,15,Swords Dance,57,normal,-,-
+503,16,Swords Dance,57,normal,-,-
+503,11,Hydro Pump,62,water,110,80
+503,14,Hydro Pump,62,water,110,80
+503,15,Hydro Pump,62,water,110,80
+503,16,Hydro Pump,62,water,110,80

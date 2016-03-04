@@ -1,69 +1,69 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-526,gigalith,11,28,Sand Attack,1,1,3
-526,gigalith,11,28,Sand Attack,1,7,
-526,gigalith,11,29,Headbutt,1,1,4
-526,gigalith,11,29,Headbutt,1,10,
-526,gigalith,11,33,Tackle,1,1,1
-526,gigalith,11,106,Harden,1,1,2
-526,gigalith,11,106,Harden,1,4,
-526,gigalith,11,153,Explosion,1,55,
-526,gigalith,11,157,Rock Slide,1,30,
-526,gigalith,11,189,Mud-Slap,1,17,
-526,gigalith,11,201,Sandstorm,1,42,
-526,gigalith,11,334,Iron Defense,1,20,
-526,gigalith,11,350,Rock Blast,1,14,
-526,gigalith,11,408,Power Gem,1,25,
-526,gigalith,11,444,Stone Edge,1,48,
-526,gigalith,11,446,Stealth Rock,1,36,
-526,gigalith,11,479,Smack Down,1,23,
-526,gigalith,14,28,Sand Attack,1,1,3
-526,gigalith,14,28,Sand Attack,1,7,
-526,gigalith,14,29,Headbutt,1,1,4
-526,gigalith,14,29,Headbutt,1,10,
-526,gigalith,14,33,Tackle,1,1,1
-526,gigalith,14,106,Harden,1,1,2
-526,gigalith,14,106,Harden,1,4,
-526,gigalith,14,153,Explosion,1,55,
-526,gigalith,14,157,Rock Slide,1,30,
-526,gigalith,14,189,Mud-Slap,1,17,
-526,gigalith,14,201,Sandstorm,1,42,
-526,gigalith,14,334,Iron Defense,1,20,
-526,gigalith,14,350,Rock Blast,1,14,
-526,gigalith,14,408,Power Gem,1,25,
-526,gigalith,14,444,Stone Edge,1,48,
-526,gigalith,14,446,Stealth Rock,1,36,
-526,gigalith,14,479,Smack Down,1,23,
-526,gigalith,15,28,Sand Attack,1,1,3
-526,gigalith,15,28,Sand Attack,1,7,
-526,gigalith,15,29,Headbutt,1,1,4
-526,gigalith,15,29,Headbutt,1,10,
-526,gigalith,15,33,Tackle,1,1,1
-526,gigalith,15,106,Harden,1,1,2
-526,gigalith,15,106,Harden,1,4,
-526,gigalith,15,153,Explosion,1,55,
-526,gigalith,15,157,Rock Slide,1,30,
-526,gigalith,15,189,Mud-Slap,1,17,
-526,gigalith,15,201,Sandstorm,1,42,
-526,gigalith,15,334,Iron Defense,1,20,
-526,gigalith,15,350,Rock Blast,1,14,
-526,gigalith,15,408,Power Gem,1,25,
-526,gigalith,15,444,Stone Edge,1,48,
-526,gigalith,15,446,Stealth Rock,1,36,
-526,gigalith,15,479,Smack Down,1,23,
-526,gigalith,16,28,Sand Attack,1,1,3
-526,gigalith,16,28,Sand Attack,1,7,1
-526,gigalith,16,29,Headbutt,1,1,4
-526,gigalith,16,29,Headbutt,1,10,1
-526,gigalith,16,33,Tackle,1,1,1
-526,gigalith,16,106,Harden,1,1,2
-526,gigalith,16,106,Harden,1,4,1
-526,gigalith,16,153,Explosion,1,55,1
-526,gigalith,16,157,Rock Slide,1,30,1
-526,gigalith,16,189,Mud-Slap,1,17,1
-526,gigalith,16,201,Sandstorm,1,42,1
-526,gigalith,16,334,Iron Defense,1,20,1
-526,gigalith,16,350,Rock Blast,1,14,1
-526,gigalith,16,408,Power Gem,1,25,1
-526,gigalith,16,444,Stone Edge,1,48,1
-526,gigalith,16,446,Stealth Rock,1,36,1
-526,gigalith,16,479,Smack Down,1,23,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+526,11,Sand Attack,1,ground,-,100
+526,11,Headbutt,1,normal,70,100
+526,11,Tackle,1,normal,50,100
+526,11,Harden,1,normal,-,-
+526,14,Sand Attack,1,ground,-,100
+526,14,Headbutt,1,normal,70,100
+526,14,Tackle,1,normal,50,100
+526,14,Harden,1,normal,-,-
+526,15,Sand Attack,1,ground,-,100
+526,15,Headbutt,1,normal,70,100
+526,15,Tackle,1,normal,50,100
+526,15,Harden,1,normal,-,-
+526,16,Sand Attack,1,ground,-,100
+526,16,Headbutt,1,normal,70,100
+526,16,Tackle,1,normal,50,100
+526,16,Harden,1,normal,-,-
+526,11,Harden,4,normal,-,-
+526,14,Harden,4,normal,-,-
+526,15,Harden,4,normal,-,-
+526,16,Harden,4,normal,-,-
+526,11,Sand Attack,7,ground,-,100
+526,14,Sand Attack,7,ground,-,100
+526,15,Sand Attack,7,ground,-,100
+526,16,Sand Attack,7,ground,-,100
+526,11,Headbutt,10,normal,70,100
+526,14,Headbutt,10,normal,70,100
+526,15,Headbutt,10,normal,70,100
+526,16,Headbutt,10,normal,70,100
+526,11,Rock Blast,14,rock,25,90
+526,14,Rock Blast,14,rock,25,90
+526,15,Rock Blast,14,rock,25,90
+526,16,Rock Blast,14,rock,25,90
+526,11,Mud-Slap,17,ground,20,100
+526,14,Mud-Slap,17,ground,20,100
+526,15,Mud-Slap,17,ground,20,100
+526,16,Mud-Slap,17,ground,20,100
+526,11,Iron Defense,20,steel,-,-
+526,14,Iron Defense,20,steel,-,-
+526,15,Iron Defense,20,steel,-,-
+526,16,Iron Defense,20,steel,-,-
+526,11,Smack Down,23,rock,50,100
+526,14,Smack Down,23,rock,50,100
+526,15,Smack Down,23,rock,50,100
+526,16,Smack Down,23,rock,50,100
+526,11,Power Gem,25,rock,80,100
+526,14,Power Gem,25,rock,80,100
+526,15,Power Gem,25,rock,80,100
+526,16,Power Gem,25,rock,80,100
+526,11,Rock Slide,30,rock,75,90
+526,14,Rock Slide,30,rock,75,90
+526,15,Rock Slide,30,rock,75,90
+526,16,Rock Slide,30,rock,75,90
+526,11,Stealth Rock,36,rock,-,-
+526,14,Stealth Rock,36,rock,-,-
+526,15,Stealth Rock,36,rock,-,-
+526,16,Stealth Rock,36,rock,-,-
+526,11,Sandstorm,42,rock,-,-
+526,14,Sandstorm,42,rock,-,-
+526,15,Sandstorm,42,rock,-,-
+526,16,Sandstorm,42,rock,-,-
+526,11,Stone Edge,48,rock,100,80
+526,14,Stone Edge,48,rock,100,80
+526,15,Stone Edge,48,rock,100,80
+526,16,Stone Edge,48,rock,100,80
+526,11,Explosion,55,normal,250,100
+526,14,Explosion,55,normal,250,100
+526,15,Explosion,55,normal,250,100
+526,16,Explosion,55,normal,250,100

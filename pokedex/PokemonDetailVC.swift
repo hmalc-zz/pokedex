@@ -684,8 +684,11 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             
             let move = pokemon.moveList[indexPath.row]
             let level = pokemon.levelList[indexPath.row]
+            let type = pokemon.typeList[indexPath.row]
+            let power = pokemon.powerList[indexPath.row]
+            let accuracy = pokemon.accuracyList[indexPath.row]
         
-            cell.configureMoves(move, atLevel: level)
+            cell.configureMoves(move,Level: level,typeName: type, powerLevel: power, accuracyLevel: accuracy)
         
             return cell
         }

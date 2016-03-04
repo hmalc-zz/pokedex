@@ -1,35 +1,35 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-719,diancie,15,33,Tackle,1,1,1
-719,diancie,15,88,Rock Throw,1,5,
-719,diancie,15,106,Harden,1,1,2
-719,diancie,15,113,Light Screen,1,60,
-719,diancie,15,115,Reflect,1,18,
-719,diancie,15,159,Sharpen,1,8,
-719,diancie,15,175,Flail,1,35,
-719,diancie,15,219,Safeguard,1,70,
-719,diancie,15,246,Ancient Power,1,31,
-719,diancie,15,285,Skill Swap,1,40,
-719,diancie,15,433,Trick Room,1,46,
-719,diancie,15,444,Stone Edge,1,49,
-719,diancie,15,446,Stealth Rock,1,21,
-719,diancie,15,470,Guard Split,1,27,
-719,diancie,15,479,Smack Down,1,12,
-719,diancie,15,585,Moonblast,1,50,1
-719,diancie,15,591,Diamond Storm,1,50,2
-719,diancie,16,33,Tackle,1,1,1
-719,diancie,16,88,Rock Throw,1,5,1
-719,diancie,16,106,Harden,1,1,2
-719,diancie,16,113,Light Screen,1,60,1
-719,diancie,16,115,Reflect,1,18,1
-719,diancie,16,159,Sharpen,1,8,1
-719,diancie,16,175,Flail,1,35,1
-719,diancie,16,219,Safeguard,1,70,1
-719,diancie,16,246,Ancient Power,1,31,1
-719,diancie,16,285,Skill Swap,1,40,1
-719,diancie,16,433,Trick Room,1,46,1
-719,diancie,16,444,Stone Edge,1,49,1
-719,diancie,16,446,Stealth Rock,1,21,1
-719,diancie,16,470,Guard Split,1,27,1
-719,diancie,16,479,Smack Down,1,12,1
-719,diancie,16,585,Moonblast,1,50,1
-719,diancie,16,591,Diamond Storm,1,50,2
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+719,15,Tackle,1,normal,50,100
+719,15,Harden,1,normal,-,-
+719,16,Tackle,1,normal,50,100
+719,16,Harden,1,normal,-,-
+719,15,Rock Throw,5,rock,50,90
+719,16,Rock Throw,5,rock,50,90
+719,15,Sharpen,8,normal,-,-
+719,16,Sharpen,8,normal,-,-
+719,15,Smack Down,12,rock,50,100
+719,16,Smack Down,12,rock,50,100
+719,15,Reflect,18,psychic,-,-
+719,16,Reflect,18,psychic,-,-
+719,15,Stealth Rock,21,rock,-,-
+719,16,Stealth Rock,21,rock,-,-
+719,15,Guard Split,27,psychic,-,-
+719,16,Guard Split,27,psychic,-,-
+719,15,Ancient Power,31,rock,60,100
+719,16,Ancient Power,31,rock,60,100
+719,15,Flail,35,normal,-,100
+719,16,Flail,35,normal,-,100
+719,15,Skill Swap,40,psychic,-,-
+719,16,Skill Swap,40,psychic,-,-
+719,15,Trick Room,46,psychic,-,-
+719,16,Trick Room,46,psychic,-,-
+719,15,Stone Edge,49,rock,100,80
+719,16,Stone Edge,49,rock,100,80
+719,15,Moonblast,50,fairy,95,100
+719,15,Diamond Storm,50,rock,100,95
+719,16,Moonblast,50,fairy,95,100
+719,16,Diamond Storm,50,rock,100,95
+719,15,Light Screen,60,psychic,-,-
+719,16,Light Screen,60,psychic,-,-
+719,15,Safeguard,70,normal,-,-
+719,16,Safeguard,70,normal,-,-

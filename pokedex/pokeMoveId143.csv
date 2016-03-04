@@ -1,207 +1,207 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-143,snorlax,1,29,Headbutt,1,1,1
-143,snorlax,1,34,Body Slam,1,35,
-143,snorlax,1,38,Double-Edge,1,48,
-143,snorlax,1,63,Hyper Beam,1,56,
-143,snorlax,1,106,Harden,1,41,
-143,snorlax,1,133,Amnesia,1,1,2
-143,snorlax,1,156,Rest,1,1,3
-143,snorlax,2,29,Headbutt,1,1,1
-143,snorlax,2,34,Body Slam,1,35,
-143,snorlax,2,38,Double-Edge,1,48,
-143,snorlax,2,63,Hyper Beam,1,56,
-143,snorlax,2,106,Harden,1,41,
-143,snorlax,2,133,Amnesia,1,1,2
-143,snorlax,2,156,Rest,1,1,3
-143,snorlax,3,29,Headbutt,1,29,
-143,snorlax,3,33,Tackle,1,1,
-143,snorlax,3,34,Body Slam,1,43,
-143,snorlax,3,63,Hyper Beam,1,57,
-143,snorlax,3,111,Defense Curl,1,15,
-143,snorlax,3,133,Amnesia,1,8,
-143,snorlax,3,156,Rest,1,36,2
-143,snorlax,3,173,Snore,1,36,1
-143,snorlax,3,187,Belly Drum,1,22,
-143,snorlax,3,205,Rollout,1,50,
-143,snorlax,4,29,Headbutt,1,29,
-143,snorlax,4,33,Tackle,1,1,
-143,snorlax,4,34,Body Slam,1,43,
-143,snorlax,4,63,Hyper Beam,1,57,
-143,snorlax,4,111,Defense Curl,1,15,
-143,snorlax,4,133,Amnesia,1,8,
-143,snorlax,4,156,Rest,1,36,2
-143,snorlax,4,173,Snore,1,36,1
-143,snorlax,4,187,Belly Drum,1,22,
-143,snorlax,4,205,Rollout,1,50,
-143,snorlax,5,29,Headbutt,1,19,
-143,snorlax,5,33,Tackle,1,1,
-143,snorlax,5,34,Body Slam,1,33,
-143,snorlax,5,63,Hyper Beam,1,51,
-143,snorlax,5,111,Defense Curl,1,10,
-143,snorlax,5,133,Amnesia,1,6,
-143,snorlax,5,156,Rest,1,28,1
-143,snorlax,5,173,Snore,1,28,2
-143,snorlax,5,187,Belly Drum,1,15,
-143,snorlax,5,205,Rollout,1,46,
-143,snorlax,5,281,Yawn,1,24,
-143,snorlax,5,335,Block,1,37,
-143,snorlax,5,343,Covet,1,42,
-143,snorlax,6,29,Headbutt,1,19,
-143,snorlax,6,33,Tackle,1,1,
-143,snorlax,6,34,Body Slam,1,33,
-143,snorlax,6,63,Hyper Beam,1,51,
-143,snorlax,6,111,Defense Curl,1,10,
-143,snorlax,6,133,Amnesia,1,6,
-143,snorlax,6,156,Rest,1,28,1
-143,snorlax,6,173,Snore,1,28,2
-143,snorlax,6,187,Belly Drum,1,15,
-143,snorlax,6,205,Rollout,1,46,
-143,snorlax,6,281,Yawn,1,24,
-143,snorlax,6,335,Block,1,37,
-143,snorlax,6,343,Covet,1,42,
-143,snorlax,7,29,Headbutt,1,17,
-143,snorlax,7,33,Tackle,1,1,
-143,snorlax,7,34,Body Slam,1,33,
-143,snorlax,7,63,Hyper Beam,1,53,
-143,snorlax,7,111,Defense Curl,1,9,
-143,snorlax,7,133,Amnesia,1,5,
-143,snorlax,7,156,Rest,1,25,
-143,snorlax,7,173,Snore,1,29,
-143,snorlax,7,187,Belly Drum,1,13,
-143,snorlax,7,205,Rollout,1,49,
-143,snorlax,7,214,Sleep Talk,1,37,
-143,snorlax,7,281,Yawn,1,21,
-143,snorlax,7,335,Block,1,41,
-143,snorlax,7,343,Covet,1,45,
-143,snorlax,8,33,Tackle,1,1,
-143,snorlax,8,34,Body Slam,1,33,
-143,snorlax,8,111,Defense Curl,1,4,
-143,snorlax,8,122,Lick,1,12,
-143,snorlax,8,133,Amnesia,1,9,
-143,snorlax,8,156,Rest,1,25,
-143,snorlax,8,173,Snore,1,28,1
-143,snorlax,8,187,Belly Drum,1,17,
-143,snorlax,8,205,Rollout,1,41,
-143,snorlax,8,214,Sleep Talk,1,28,2
-143,snorlax,8,242,Crunch,1,44,
-143,snorlax,8,281,Yawn,1,20,
-143,snorlax,8,335,Block,1,36,
-143,snorlax,8,416,Giga Impact,1,49,
-143,snorlax,9,33,Tackle,1,1,
-143,snorlax,9,34,Body Slam,1,33,
-143,snorlax,9,111,Defense Curl,1,4,
-143,snorlax,9,122,Lick,1,12,
-143,snorlax,9,133,Amnesia,1,9,
-143,snorlax,9,156,Rest,1,25,
-143,snorlax,9,173,Snore,1,28,1
-143,snorlax,9,187,Belly Drum,1,17,
-143,snorlax,9,205,Rollout,1,41,
-143,snorlax,9,214,Sleep Talk,1,28,2
-143,snorlax,9,242,Crunch,1,44,
-143,snorlax,9,281,Yawn,1,20,
-143,snorlax,9,335,Block,1,36,
-143,snorlax,9,416,Giga Impact,1,49,
-143,snorlax,10,33,Tackle,1,1,
-143,snorlax,10,34,Body Slam,1,33,
-143,snorlax,10,111,Defense Curl,1,4,
-143,snorlax,10,122,Lick,1,12,
-143,snorlax,10,133,Amnesia,1,9,
-143,snorlax,10,156,Rest,1,25,
-143,snorlax,10,173,Snore,1,28,1
-143,snorlax,10,187,Belly Drum,1,17,
-143,snorlax,10,205,Rollout,1,41,
-143,snorlax,10,214,Sleep Talk,1,28,2
-143,snorlax,10,242,Crunch,1,44,
-143,snorlax,10,281,Yawn,1,20,
-143,snorlax,10,335,Block,1,36,
-143,snorlax,10,416,Giga Impact,1,49,
-143,snorlax,11,33,Tackle,1,1,
-143,snorlax,11,34,Body Slam,1,36,
-143,snorlax,11,111,Defense Curl,1,4,
-143,snorlax,11,122,Lick,1,12,
-143,snorlax,11,133,Amnesia,1,9,
-143,snorlax,11,156,Rest,1,28,1
-143,snorlax,11,173,Snore,1,28,2
-143,snorlax,11,187,Belly Drum,1,17,
-143,snorlax,11,205,Rollout,1,44,
-143,snorlax,11,214,Sleep Talk,1,33,
-143,snorlax,11,242,Crunch,1,49,
-143,snorlax,11,281,Yawn,1,20,
-143,snorlax,11,335,Block,1,41,
-143,snorlax,11,416,Giga Impact,1,57,
-143,snorlax,11,484,Heavy Slam,1,52,
-143,snorlax,11,498,Chip Away,1,25,
-143,snorlax,12,29,Headbutt,1,19,
-143,snorlax,12,33,Tackle,1,1,
-143,snorlax,12,34,Body Slam,1,33,
-143,snorlax,12,63,Hyper Beam,1,51,
-143,snorlax,12,111,Defense Curl,1,10,
-143,snorlax,12,133,Amnesia,1,6,
-143,snorlax,12,156,Rest,1,28,1
-143,snorlax,12,173,Snore,1,28,2
-143,snorlax,12,187,Belly Drum,1,15,
-143,snorlax,12,205,Rollout,1,46,
-143,snorlax,12,281,Yawn,1,24,
-143,snorlax,12,335,Block,1,37,
-143,snorlax,12,343,Covet,1,42,
-143,snorlax,13,29,Headbutt,1,19,
-143,snorlax,13,33,Tackle,1,1,
-143,snorlax,13,34,Body Slam,1,33,
-143,snorlax,13,63,Hyper Beam,1,51,
-143,snorlax,13,111,Defense Curl,1,10,
-143,snorlax,13,133,Amnesia,1,6,
-143,snorlax,13,156,Rest,1,28,1
-143,snorlax,13,173,Snore,1,28,2
-143,snorlax,13,187,Belly Drum,1,15,
-143,snorlax,13,205,Rollout,1,46,
-143,snorlax,13,281,Yawn,1,24,
-143,snorlax,13,335,Block,1,37,
-143,snorlax,13,343,Covet,1,42,
-143,snorlax,14,33,Tackle,1,1,
-143,snorlax,14,34,Body Slam,1,36,
-143,snorlax,14,111,Defense Curl,1,4,
-143,snorlax,14,122,Lick,1,12,
-143,snorlax,14,133,Amnesia,1,9,
-143,snorlax,14,156,Rest,1,28,1
-143,snorlax,14,173,Snore,1,28,2
-143,snorlax,14,187,Belly Drum,1,17,
-143,snorlax,14,205,Rollout,1,44,
-143,snorlax,14,214,Sleep Talk,1,33,
-143,snorlax,14,242,Crunch,1,49,
-143,snorlax,14,281,Yawn,1,20,
-143,snorlax,14,335,Block,1,41,
-143,snorlax,14,416,Giga Impact,1,57,
-143,snorlax,14,484,Heavy Slam,1,52,
-143,snorlax,14,498,Chip Away,1,25,
-143,snorlax,15,33,Tackle,1,1,
-143,snorlax,15,34,Body Slam,1,25,
-143,snorlax,15,111,Defense Curl,1,4,
-143,snorlax,15,122,Lick,1,12,
-143,snorlax,15,133,Amnesia,1,9,
-143,snorlax,15,156,Rest,1,28,1
-143,snorlax,15,173,Snore,1,28,2
-143,snorlax,15,187,Belly Drum,1,44,
-143,snorlax,15,205,Rollout,1,36,
-143,snorlax,15,214,Sleep Talk,1,33,
-143,snorlax,15,242,Crunch,1,49,
-143,snorlax,15,281,Yawn,1,20,
-143,snorlax,15,335,Block,1,41,
-143,snorlax,15,416,Giga Impact,1,57,
-143,snorlax,15,484,Heavy Slam,1,50,
-143,snorlax,15,498,Chip Away,1,17,
-143,snorlax,16,33,Tackle,1,1,1
-143,snorlax,16,34,Body Slam,1,25,1
-143,snorlax,16,111,Defense Curl,1,4,1
-143,snorlax,16,122,Lick,1,12,1
-143,snorlax,16,133,Amnesia,1,9,1
-143,snorlax,16,156,Rest,1,28,1
-143,snorlax,16,173,Snore,1,28,2
-143,snorlax,16,187,Belly Drum,1,44,1
-143,snorlax,16,205,Rollout,1,36,1
-143,snorlax,16,214,Sleep Talk,1,33,1
-143,snorlax,16,242,Crunch,1,49,1
-143,snorlax,16,281,Yawn,1,20,1
-143,snorlax,16,335,Block,1,41,1
-143,snorlax,16,416,Giga Impact,1,57,1
-143,snorlax,16,484,Heavy Slam,1,50,1
-143,snorlax,16,498,Chip Away,1,17,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+143,1,Headbutt,1,normal,70,100
+143,1,Amnesia,1,psychic,-,-
+143,1,Rest,1,psychic,-,-
+143,2,Headbutt,1,normal,70,100
+143,2,Amnesia,1,psychic,-,-
+143,2,Rest,1,psychic,-,-
+143,3,Tackle,1,normal,50,100
+143,4,Tackle,1,normal,50,100
+143,5,Tackle,1,normal,50,100
+143,6,Tackle,1,normal,50,100
+143,7,Tackle,1,normal,50,100
+143,8,Tackle,1,normal,50,100
+143,9,Tackle,1,normal,50,100
+143,10,Tackle,1,normal,50,100
+143,11,Tackle,1,normal,50,100
+143,12,Tackle,1,normal,50,100
+143,13,Tackle,1,normal,50,100
+143,14,Tackle,1,normal,50,100
+143,15,Tackle,1,normal,50,100
+143,16,Tackle,1,normal,50,100
+143,8,Defense Curl,4,normal,-,-
+143,9,Defense Curl,4,normal,-,-
+143,10,Defense Curl,4,normal,-,-
+143,11,Defense Curl,4,normal,-,-
+143,14,Defense Curl,4,normal,-,-
+143,15,Defense Curl,4,normal,-,-
+143,16,Defense Curl,4,normal,-,-
+143,7,Amnesia,5,psychic,-,-
+143,5,Amnesia,6,psychic,-,-
+143,6,Amnesia,6,psychic,-,-
+143,12,Amnesia,6,psychic,-,-
+143,13,Amnesia,6,psychic,-,-
+143,3,Amnesia,8,psychic,-,-
+143,4,Amnesia,8,psychic,-,-
+143,7,Defense Curl,9,normal,-,-
+143,8,Amnesia,9,psychic,-,-
+143,9,Amnesia,9,psychic,-,-
+143,10,Amnesia,9,psychic,-,-
+143,11,Amnesia,9,psychic,-,-
+143,14,Amnesia,9,psychic,-,-
+143,15,Amnesia,9,psychic,-,-
+143,16,Amnesia,9,psychic,-,-
+143,5,Defense Curl,10,normal,-,-
+143,6,Defense Curl,10,normal,-,-
+143,12,Defense Curl,10,normal,-,-
+143,13,Defense Curl,10,normal,-,-
+143,8,Lick,12,ghost,30,100
+143,9,Lick,12,ghost,30,100
+143,10,Lick,12,ghost,30,100
+143,11,Lick,12,ghost,30,100
+143,14,Lick,12,ghost,30,100
+143,15,Lick,12,ghost,30,100
+143,16,Lick,12,ghost,30,100
+143,7,Belly Drum,13,normal,-,-
+143,3,Defense Curl,15,normal,-,-
+143,4,Defense Curl,15,normal,-,-
+143,5,Belly Drum,15,normal,-,-
+143,6,Belly Drum,15,normal,-,-
+143,12,Belly Drum,15,normal,-,-
+143,13,Belly Drum,15,normal,-,-
+143,7,Headbutt,17,normal,70,100
+143,8,Belly Drum,17,normal,-,-
+143,9,Belly Drum,17,normal,-,-
+143,10,Belly Drum,17,normal,-,-
+143,11,Belly Drum,17,normal,-,-
+143,14,Belly Drum,17,normal,-,-
+143,15,Chip Away,17,normal,70,100
+143,16,Chip Away,17,normal,70,100
+143,5,Headbutt,19,normal,70,100
+143,6,Headbutt,19,normal,70,100
+143,12,Headbutt,19,normal,70,100
+143,13,Headbutt,19,normal,70,100
+143,8,Yawn,20,normal,-,-
+143,9,Yawn,20,normal,-,-
+143,10,Yawn,20,normal,-,-
+143,11,Yawn,20,normal,-,-
+143,14,Yawn,20,normal,-,-
+143,15,Yawn,20,normal,-,-
+143,16,Yawn,20,normal,-,-
+143,7,Yawn,21,normal,-,-
+143,3,Belly Drum,22,normal,-,-
+143,4,Belly Drum,22,normal,-,-
+143,5,Yawn,24,normal,-,-
+143,6,Yawn,24,normal,-,-
+143,12,Yawn,24,normal,-,-
+143,13,Yawn,24,normal,-,-
+143,7,Rest,25,psychic,-,-
+143,8,Rest,25,psychic,-,-
+143,9,Rest,25,psychic,-,-
+143,10,Rest,25,psychic,-,-
+143,11,Chip Away,25,normal,70,100
+143,14,Chip Away,25,normal,70,100
+143,15,Body Slam,25,normal,85,100
+143,16,Body Slam,25,normal,85,100
+143,5,Rest,28,psychic,-,-
+143,5,Snore,28,normal,50,100
+143,6,Rest,28,psychic,-,-
+143,6,Snore,28,normal,50,100
+143,8,Snore,28,normal,50,100
+143,8,Sleep Talk,28,normal,-,-
+143,9,Snore,28,normal,50,100
+143,9,Sleep Talk,28,normal,-,-
+143,10,Snore,28,normal,50,100
+143,10,Sleep Talk,28,normal,-,-
+143,11,Rest,28,psychic,-,-
+143,11,Snore,28,normal,50,100
+143,12,Rest,28,psychic,-,-
+143,12,Snore,28,normal,50,100
+143,13,Rest,28,psychic,-,-
+143,13,Snore,28,normal,50,100
+143,14,Rest,28,psychic,-,-
+143,14,Snore,28,normal,50,100
+143,15,Rest,28,psychic,-,-
+143,15,Snore,28,normal,50,100
+143,16,Rest,28,psychic,-,-
+143,16,Snore,28,normal,50,100
+143,3,Headbutt,29,normal,70,100
+143,4,Headbutt,29,normal,70,100
+143,7,Snore,29,normal,50,100
+143,5,Body Slam,33,normal,85,100
+143,6,Body Slam,33,normal,85,100
+143,7,Body Slam,33,normal,85,100
+143,8,Body Slam,33,normal,85,100
+143,9,Body Slam,33,normal,85,100
+143,10,Body Slam,33,normal,85,100
+143,11,Sleep Talk,33,normal,-,-
+143,12,Body Slam,33,normal,85,100
+143,13,Body Slam,33,normal,85,100
+143,14,Sleep Talk,33,normal,-,-
+143,15,Sleep Talk,33,normal,-,-
+143,16,Sleep Talk,33,normal,-,-
+143,1,Body Slam,35,normal,85,100
+143,2,Body Slam,35,normal,85,100
+143,3,Rest,36,psychic,-,-
+143,3,Snore,36,normal,50,100
+143,4,Rest,36,psychic,-,-
+143,4,Snore,36,normal,50,100
+143,8,Block,36,normal,-,-
+143,9,Block,36,normal,-,-
+143,10,Block,36,normal,-,-
+143,11,Body Slam,36,normal,85,100
+143,14,Body Slam,36,normal,85,100
+143,15,Rollout,36,rock,30,90
+143,16,Rollout,36,rock,30,90
+143,5,Block,37,normal,-,-
+143,6,Block,37,normal,-,-
+143,7,Sleep Talk,37,normal,-,-
+143,12,Block,37,normal,-,-
+143,13,Block,37,normal,-,-
+143,1,Harden,41,normal,-,-
+143,2,Harden,41,normal,-,-
+143,7,Block,41,normal,-,-
+143,8,Rollout,41,rock,30,90
+143,9,Rollout,41,rock,30,90
+143,10,Rollout,41,rock,30,90
+143,11,Block,41,normal,-,-
+143,14,Block,41,normal,-,-
+143,15,Block,41,normal,-,-
+143,16,Block,41,normal,-,-
+143,5,Covet,42,normal,60,100
+143,6,Covet,42,normal,60,100
+143,12,Covet,42,normal,60,100
+143,13,Covet,42,normal,60,100
+143,3,Body Slam,43,normal,85,100
+143,4,Body Slam,43,normal,85,100
+143,8,Crunch,44,dark,80,100
+143,9,Crunch,44,dark,80,100
+143,10,Crunch,44,dark,80,100
+143,11,Rollout,44,rock,30,90
+143,14,Rollout,44,rock,30,90
+143,15,Belly Drum,44,normal,-,-
+143,16,Belly Drum,44,normal,-,-
+143,7,Covet,45,normal,60,100
+143,5,Rollout,46,rock,30,90
+143,6,Rollout,46,rock,30,90
+143,12,Rollout,46,rock,30,90
+143,13,Rollout,46,rock,30,90
+143,1,Double-Edge,48,normal,120,100
+143,2,Double-Edge,48,normal,120,100
+143,7,Rollout,49,rock,30,90
+143,8,Giga Impact,49,normal,150,90
+143,9,Giga Impact,49,normal,150,90
+143,10,Giga Impact,49,normal,150,90
+143,11,Crunch,49,dark,80,100
+143,14,Crunch,49,dark,80,100
+143,15,Crunch,49,dark,80,100
+143,16,Crunch,49,dark,80,100
+143,3,Rollout,50,rock,30,90
+143,4,Rollout,50,rock,30,90
+143,15,Heavy Slam,50,steel,-,100
+143,16,Heavy Slam,50,steel,-,100
+143,5,Hyper Beam,51,normal,150,90
+143,6,Hyper Beam,51,normal,150,90
+143,12,Hyper Beam,51,normal,150,90
+143,13,Hyper Beam,51,normal,150,90
+143,11,Heavy Slam,52,steel,-,100
+143,14,Heavy Slam,52,steel,-,100
+143,7,Hyper Beam,53,normal,150,90
+143,1,Hyper Beam,56,normal,150,90
+143,2,Hyper Beam,56,normal,150,90
+143,3,Hyper Beam,57,normal,150,90
+143,4,Hyper Beam,57,normal,150,90
+143,11,Giga Impact,57,normal,150,90
+143,14,Giga Impact,57,normal,150,90
+143,15,Giga Impact,57,normal,150,90
+143,16,Giga Impact,57,normal,150,90

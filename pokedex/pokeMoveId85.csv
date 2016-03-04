@@ -1,203 +1,203 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-85,dodrio,1,31,Fury Attack,1,1,3
-85,dodrio,1,31,Fury Attack,1,24,
-85,dodrio,1,45,Growl,1,1,2
-85,dodrio,1,45,Growl,1,20,
-85,dodrio,1,64,Peck,1,1,1
-85,dodrio,1,65,Drill Peck,1,30,
-85,dodrio,1,97,Agility,1,51,
-85,dodrio,1,99,Rage,1,39,
-85,dodrio,1,161,Tri Attack,1,45,
-85,dodrio,2,31,Fury Attack,1,1,3
-85,dodrio,2,31,Fury Attack,1,24,
-85,dodrio,2,45,Growl,1,1,2
-85,dodrio,2,45,Growl,1,20,
-85,dodrio,2,64,Peck,1,1,1
-85,dodrio,2,65,Drill Peck,1,30,
-85,dodrio,2,97,Agility,1,51,
-85,dodrio,2,99,Rage,1,39,
-85,dodrio,2,161,Tri Attack,1,45,
-85,dodrio,3,31,Fury Attack,1,1,4
-85,dodrio,3,31,Fury Attack,1,13,
-85,dodrio,3,45,Growl,1,1,2
-85,dodrio,3,64,Peck,1,1,1
-85,dodrio,3,65,Drill Peck,1,38,
-85,dodrio,3,97,Agility,1,47,
-85,dodrio,3,99,Rage,1,25,
-85,dodrio,3,161,Tri Attack,1,21,
-85,dodrio,3,228,Pursuit,1,1,3
-85,dodrio,3,228,Pursuit,1,9,
-85,dodrio,4,31,Fury Attack,1,1,4
-85,dodrio,4,31,Fury Attack,1,13,
-85,dodrio,4,45,Growl,1,1,2
-85,dodrio,4,64,Peck,1,1,1
-85,dodrio,4,65,Drill Peck,1,38,
-85,dodrio,4,97,Agility,1,47,
-85,dodrio,4,99,Rage,1,25,
-85,dodrio,4,161,Tri Attack,1,21,
-85,dodrio,4,228,Pursuit,1,1,3
-85,dodrio,4,228,Pursuit,1,9,
-85,dodrio,5,31,Fury Attack,1,1,4
-85,dodrio,5,31,Fury Attack,1,13,
-85,dodrio,5,45,Growl,1,1,2
-85,dodrio,5,64,Peck,1,1,1
-85,dodrio,5,65,Drill Peck,1,47,
-85,dodrio,5,97,Agility,1,60,
-85,dodrio,5,99,Rage,1,25,
-85,dodrio,5,161,Tri Attack,1,21,
-85,dodrio,5,228,Pursuit,1,1,3
-85,dodrio,5,228,Pursuit,1,9,
-85,dodrio,5,253,Uproar,1,38,
-85,dodrio,6,31,Fury Attack,1,1,4
-85,dodrio,6,31,Fury Attack,1,13,
-85,dodrio,6,45,Growl,1,1,2
-85,dodrio,6,64,Peck,1,1,1
-85,dodrio,6,65,Drill Peck,1,47,
-85,dodrio,6,97,Agility,1,60,
-85,dodrio,6,99,Rage,1,25,
-85,dodrio,6,161,Tri Attack,1,21,
-85,dodrio,6,228,Pursuit,1,1,3
-85,dodrio,6,228,Pursuit,1,9,
-85,dodrio,6,253,Uproar,1,38,
-85,dodrio,7,31,Fury Attack,1,1,4
-85,dodrio,7,31,Fury Attack,1,13,
-85,dodrio,7,45,Growl,1,1,2
-85,dodrio,7,64,Peck,1,1,1
-85,dodrio,7,65,Drill Peck,1,47,
-85,dodrio,7,97,Agility,1,60,
-85,dodrio,7,99,Rage,1,25,
-85,dodrio,7,161,Tri Attack,1,21,
-85,dodrio,7,228,Pursuit,1,1,3
-85,dodrio,7,228,Pursuit,1,9,
-85,dodrio,7,253,Uproar,1,38,
-85,dodrio,8,31,Fury Attack,1,14,
-85,dodrio,8,45,Growl,1,1,3
-85,dodrio,8,64,Peck,1,1,2
-85,dodrio,8,65,Drill Peck,1,47,
-85,dodrio,8,97,Agility,1,41,
-85,dodrio,8,98,Quick Attack,1,1,4
-85,dodrio,8,98,Quick Attack,1,5,
-85,dodrio,8,99,Rage,1,1,5
-85,dodrio,8,99,Rage,1,10,
-85,dodrio,8,161,Tri Attack,1,34,
-85,dodrio,8,228,Pursuit,1,19,
-85,dodrio,8,253,Uproar,1,23,
-85,dodrio,8,283,Endeavor,1,54,
-85,dodrio,8,365,Pluck,1,1,1
-85,dodrio,8,367,Acupressure,1,28,
-85,dodrio,9,31,Fury Attack,1,14,
-85,dodrio,9,45,Growl,1,1,3
-85,dodrio,9,64,Peck,1,1,2
-85,dodrio,9,65,Drill Peck,1,47,
-85,dodrio,9,97,Agility,1,41,
-85,dodrio,9,98,Quick Attack,1,1,4
-85,dodrio,9,98,Quick Attack,1,5,
-85,dodrio,9,99,Rage,1,1,5
-85,dodrio,9,99,Rage,1,10,
-85,dodrio,9,161,Tri Attack,1,34,
-85,dodrio,9,228,Pursuit,1,19,
-85,dodrio,9,253,Uproar,1,23,
-85,dodrio,9,283,Endeavor,1,54,
-85,dodrio,9,365,Pluck,1,1,1
-85,dodrio,9,367,Acupressure,1,28,
-85,dodrio,10,31,Fury Attack,1,14,
-85,dodrio,10,45,Growl,1,1,3
-85,dodrio,10,64,Peck,1,1,2
-85,dodrio,10,65,Drill Peck,1,47,
-85,dodrio,10,97,Agility,1,41,
-85,dodrio,10,98,Quick Attack,1,1,4
-85,dodrio,10,98,Quick Attack,1,5,
-85,dodrio,10,99,Rage,1,1,5
-85,dodrio,10,99,Rage,1,10,
-85,dodrio,10,161,Tri Attack,1,34,
-85,dodrio,10,228,Pursuit,1,19,
-85,dodrio,10,253,Uproar,1,23,
-85,dodrio,10,283,Endeavor,1,54,
-85,dodrio,10,365,Pluck,1,1,1
-85,dodrio,10,367,Acupressure,1,28,
-85,dodrio,11,31,Fury Attack,1,14,
-85,dodrio,11,37,Thrash,1,60,
-85,dodrio,11,45,Growl,1,1,3
-85,dodrio,11,64,Peck,1,1,2
-85,dodrio,11,65,Drill Peck,1,47,
-85,dodrio,11,97,Agility,1,41,
-85,dodrio,11,98,Quick Attack,1,1,4
-85,dodrio,11,98,Quick Attack,1,5,
-85,dodrio,11,99,Rage,1,1,5
-85,dodrio,11,99,Rage,1,10,
-85,dodrio,11,161,Tri Attack,1,34,
-85,dodrio,11,228,Pursuit,1,19,
-85,dodrio,11,253,Uproar,1,23,
-85,dodrio,11,283,Endeavor,1,54,
-85,dodrio,11,365,Pluck,1,1,1
-85,dodrio,11,367,Acupressure,1,28,
-85,dodrio,12,31,Fury Attack,1,1,4
-85,dodrio,12,31,Fury Attack,1,13,
-85,dodrio,12,45,Growl,1,1,2
-85,dodrio,12,64,Peck,1,1,1
-85,dodrio,12,65,Drill Peck,1,47,
-85,dodrio,12,97,Agility,1,60,
-85,dodrio,12,99,Rage,1,25,
-85,dodrio,12,161,Tri Attack,1,21,
-85,dodrio,12,228,Pursuit,1,1,3
-85,dodrio,12,228,Pursuit,1,9,
-85,dodrio,12,253,Uproar,1,38,
-85,dodrio,13,31,Fury Attack,1,1,4
-85,dodrio,13,31,Fury Attack,1,13,
-85,dodrio,13,45,Growl,1,1,2
-85,dodrio,13,64,Peck,1,1,1
-85,dodrio,13,65,Drill Peck,1,47,
-85,dodrio,13,97,Agility,1,60,
-85,dodrio,13,99,Rage,1,25,
-85,dodrio,13,161,Tri Attack,1,21,
-85,dodrio,13,228,Pursuit,1,1,3
-85,dodrio,13,228,Pursuit,1,9,
-85,dodrio,13,253,Uproar,1,38,
-85,dodrio,14,31,Fury Attack,1,14,
-85,dodrio,14,37,Thrash,1,60,
-85,dodrio,14,45,Growl,1,1,3
-85,dodrio,14,64,Peck,1,1,2
-85,dodrio,14,65,Drill Peck,1,47,
-85,dodrio,14,97,Agility,1,41,
-85,dodrio,14,98,Quick Attack,1,1,4
-85,dodrio,14,98,Quick Attack,1,5,
-85,dodrio,14,99,Rage,1,1,5
-85,dodrio,14,99,Rage,1,10,
-85,dodrio,14,161,Tri Attack,1,34,
-85,dodrio,14,228,Pursuit,1,19,
-85,dodrio,14,253,Uproar,1,23,
-85,dodrio,14,283,Endeavor,1,54,
-85,dodrio,14,365,Pluck,1,1,1
-85,dodrio,14,367,Acupressure,1,28,
-85,dodrio,15,31,Fury Attack,1,14,
-85,dodrio,15,37,Thrash,1,60,
-85,dodrio,15,45,Growl,1,1,3
-85,dodrio,15,64,Peck,1,1,2
-85,dodrio,15,65,Drill Peck,1,47,
-85,dodrio,15,97,Agility,1,41,
-85,dodrio,15,98,Quick Attack,1,1,4
-85,dodrio,15,98,Quick Attack,1,5,
-85,dodrio,15,99,Rage,1,1,5
-85,dodrio,15,99,Rage,1,10,
-85,dodrio,15,161,Tri Attack,1,34,
-85,dodrio,15,228,Pursuit,1,19,
-85,dodrio,15,253,Uproar,1,23,
-85,dodrio,15,283,Endeavor,1,54,
-85,dodrio,15,365,Pluck,1,1,1
-85,dodrio,15,367,Acupressure,1,28,
-85,dodrio,16,31,Fury Attack,1,13,1
-85,dodrio,16,37,Thrash,1,59,1
-85,dodrio,16,45,Growl,1,1,2
-85,dodrio,16,64,Peck,1,1,1
-85,dodrio,16,65,Drill Peck,1,41,1
-85,dodrio,16,97,Agility,1,35,1
-85,dodrio,16,98,Quick Attack,1,1,3
-85,dodrio,16,98,Quick Attack,1,5,1
-85,dodrio,16,99,Rage,1,1,4
-85,dodrio,16,99,Rage,1,9,1
-85,dodrio,16,161,Tri Attack,1,25,1
-85,dodrio,16,228,Pursuit,1,17,1
-85,dodrio,16,253,Uproar,1,47,1
-85,dodrio,16,283,Endeavor,1,53,1
-85,dodrio,16,365,Pluck,1,21,1
-85,dodrio,16,367,Acupressure,1,29,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+85,1,Fury Attack,1,normal,15,85
+85,1,Growl,1,normal,-,100
+85,1,Peck,1,flying,35,100
+85,2,Fury Attack,1,normal,15,85
+85,2,Growl,1,normal,-,100
+85,2,Peck,1,flying,35,100
+85,3,Fury Attack,1,normal,15,85
+85,3,Growl,1,normal,-,100
+85,3,Peck,1,flying,35,100
+85,3,Pursuit,1,dark,40,100
+85,4,Fury Attack,1,normal,15,85
+85,4,Growl,1,normal,-,100
+85,4,Peck,1,flying,35,100
+85,4,Pursuit,1,dark,40,100
+85,5,Fury Attack,1,normal,15,85
+85,5,Growl,1,normal,-,100
+85,5,Peck,1,flying,35,100
+85,5,Pursuit,1,dark,40,100
+85,6,Fury Attack,1,normal,15,85
+85,6,Growl,1,normal,-,100
+85,6,Peck,1,flying,35,100
+85,6,Pursuit,1,dark,40,100
+85,7,Fury Attack,1,normal,15,85
+85,7,Growl,1,normal,-,100
+85,7,Peck,1,flying,35,100
+85,7,Pursuit,1,dark,40,100
+85,8,Growl,1,normal,-,100
+85,8,Peck,1,flying,35,100
+85,8,Quick Attack,1,normal,40,100
+85,8,Rage,1,normal,20,100
+85,8,Pluck,1,flying,60,100
+85,9,Growl,1,normal,-,100
+85,9,Peck,1,flying,35,100
+85,9,Quick Attack,1,normal,40,100
+85,9,Rage,1,normal,20,100
+85,9,Pluck,1,flying,60,100
+85,10,Growl,1,normal,-,100
+85,10,Peck,1,flying,35,100
+85,10,Quick Attack,1,normal,40,100
+85,10,Rage,1,normal,20,100
+85,10,Pluck,1,flying,60,100
+85,11,Growl,1,normal,-,100
+85,11,Peck,1,flying,35,100
+85,11,Quick Attack,1,normal,40,100
+85,11,Rage,1,normal,20,100
+85,11,Pluck,1,flying,60,100
+85,12,Fury Attack,1,normal,15,85
+85,12,Growl,1,normal,-,100
+85,12,Peck,1,flying,35,100
+85,12,Pursuit,1,dark,40,100
+85,13,Fury Attack,1,normal,15,85
+85,13,Growl,1,normal,-,100
+85,13,Peck,1,flying,35,100
+85,13,Pursuit,1,dark,40,100
+85,14,Growl,1,normal,-,100
+85,14,Peck,1,flying,35,100
+85,14,Quick Attack,1,normal,40,100
+85,14,Rage,1,normal,20,100
+85,14,Pluck,1,flying,60,100
+85,15,Growl,1,normal,-,100
+85,15,Peck,1,flying,35,100
+85,15,Quick Attack,1,normal,40,100
+85,15,Rage,1,normal,20,100
+85,15,Pluck,1,flying,60,100
+85,16,Growl,1,normal,-,100
+85,16,Peck,1,flying,35,100
+85,16,Quick Attack,1,normal,40,100
+85,16,Rage,1,normal,20,100
+85,8,Quick Attack,5,normal,40,100
+85,9,Quick Attack,5,normal,40,100
+85,10,Quick Attack,5,normal,40,100
+85,11,Quick Attack,5,normal,40,100
+85,14,Quick Attack,5,normal,40,100
+85,15,Quick Attack,5,normal,40,100
+85,16,Quick Attack,5,normal,40,100
+85,3,Pursuit,9,dark,40,100
+85,4,Pursuit,9,dark,40,100
+85,5,Pursuit,9,dark,40,100
+85,6,Pursuit,9,dark,40,100
+85,7,Pursuit,9,dark,40,100
+85,12,Pursuit,9,dark,40,100
+85,13,Pursuit,9,dark,40,100
+85,16,Rage,9,normal,20,100
+85,8,Rage,10,normal,20,100
+85,9,Rage,10,normal,20,100
+85,10,Rage,10,normal,20,100
+85,11,Rage,10,normal,20,100
+85,14,Rage,10,normal,20,100
+85,15,Rage,10,normal,20,100
+85,3,Fury Attack,13,normal,15,85
+85,4,Fury Attack,13,normal,15,85
+85,5,Fury Attack,13,normal,15,85
+85,6,Fury Attack,13,normal,15,85
+85,7,Fury Attack,13,normal,15,85
+85,12,Fury Attack,13,normal,15,85
+85,13,Fury Attack,13,normal,15,85
+85,16,Fury Attack,13,normal,15,85
+85,8,Fury Attack,14,normal,15,85
+85,9,Fury Attack,14,normal,15,85
+85,10,Fury Attack,14,normal,15,85
+85,11,Fury Attack,14,normal,15,85
+85,14,Fury Attack,14,normal,15,85
+85,15,Fury Attack,14,normal,15,85
+85,16,Pursuit,17,dark,40,100
+85,8,Pursuit,19,dark,40,100
+85,9,Pursuit,19,dark,40,100
+85,10,Pursuit,19,dark,40,100
+85,11,Pursuit,19,dark,40,100
+85,14,Pursuit,19,dark,40,100
+85,15,Pursuit,19,dark,40,100
+85,1,Growl,20,normal,-,100
+85,2,Growl,20,normal,-,100
+85,3,Tri Attack,21,normal,80,100
+85,4,Tri Attack,21,normal,80,100
+85,5,Tri Attack,21,normal,80,100
+85,6,Tri Attack,21,normal,80,100
+85,7,Tri Attack,21,normal,80,100
+85,12,Tri Attack,21,normal,80,100
+85,13,Tri Attack,21,normal,80,100
+85,16,Pluck,21,flying,60,100
+85,8,Uproar,23,normal,90,100
+85,9,Uproar,23,normal,90,100
+85,10,Uproar,23,normal,90,100
+85,11,Uproar,23,normal,90,100
+85,14,Uproar,23,normal,90,100
+85,15,Uproar,23,normal,90,100
+85,1,Fury Attack,24,normal,15,85
+85,2,Fury Attack,24,normal,15,85
+85,3,Rage,25,normal,20,100
+85,4,Rage,25,normal,20,100
+85,5,Rage,25,normal,20,100
+85,6,Rage,25,normal,20,100
+85,7,Rage,25,normal,20,100
+85,12,Rage,25,normal,20,100
+85,13,Rage,25,normal,20,100
+85,16,Tri Attack,25,normal,80,100
+85,8,Acupressure,28,normal,-,-
+85,9,Acupressure,28,normal,-,-
+85,10,Acupressure,28,normal,-,-
+85,11,Acupressure,28,normal,-,-
+85,14,Acupressure,28,normal,-,-
+85,15,Acupressure,28,normal,-,-
+85,16,Acupressure,29,normal,-,-
+85,1,Drill Peck,30,flying,80,100
+85,2,Drill Peck,30,flying,80,100
+85,8,Tri Attack,34,normal,80,100
+85,9,Tri Attack,34,normal,80,100
+85,10,Tri Attack,34,normal,80,100
+85,11,Tri Attack,34,normal,80,100
+85,14,Tri Attack,34,normal,80,100
+85,15,Tri Attack,34,normal,80,100
+85,16,Agility,35,psychic,-,-
+85,3,Drill Peck,38,flying,80,100
+85,4,Drill Peck,38,flying,80,100
+85,5,Uproar,38,normal,90,100
+85,6,Uproar,38,normal,90,100
+85,7,Uproar,38,normal,90,100
+85,12,Uproar,38,normal,90,100
+85,13,Uproar,38,normal,90,100
+85,1,Rage,39,normal,20,100
+85,2,Rage,39,normal,20,100
+85,8,Agility,41,psychic,-,-
+85,9,Agility,41,psychic,-,-
+85,10,Agility,41,psychic,-,-
+85,11,Agility,41,psychic,-,-
+85,14,Agility,41,psychic,-,-
+85,15,Agility,41,psychic,-,-
+85,16,Drill Peck,41,flying,80,100
+85,1,Tri Attack,45,normal,80,100
+85,2,Tri Attack,45,normal,80,100
+85,3,Agility,47,psychic,-,-
+85,4,Agility,47,psychic,-,-
+85,5,Drill Peck,47,flying,80,100
+85,6,Drill Peck,47,flying,80,100
+85,7,Drill Peck,47,flying,80,100
+85,8,Drill Peck,47,flying,80,100
+85,9,Drill Peck,47,flying,80,100
+85,10,Drill Peck,47,flying,80,100
+85,11,Drill Peck,47,flying,80,100
+85,12,Drill Peck,47,flying,80,100
+85,13,Drill Peck,47,flying,80,100
+85,14,Drill Peck,47,flying,80,100
+85,15,Drill Peck,47,flying,80,100
+85,16,Uproar,47,normal,90,100
+85,1,Agility,51,psychic,-,-
+85,2,Agility,51,psychic,-,-
+85,16,Endeavor,53,normal,-,100
+85,8,Endeavor,54,normal,-,100
+85,9,Endeavor,54,normal,-,100
+85,10,Endeavor,54,normal,-,100
+85,11,Endeavor,54,normal,-,100
+85,14,Endeavor,54,normal,-,100
+85,15,Endeavor,54,normal,-,100
+85,16,Thrash,59,normal,120,100
+85,5,Agility,60,psychic,-,-
+85,6,Agility,60,psychic,-,-
+85,7,Agility,60,psychic,-,-
+85,11,Thrash,60,normal,120,100
+85,12,Agility,60,psychic,-,-
+85,13,Agility,60,psychic,-,-
+85,14,Thrash,60,normal,120,100
+85,15,Thrash,60,normal,120,100

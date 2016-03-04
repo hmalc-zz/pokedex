@@ -1,180 +1,180 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-331,cacnea,5,28,Sand Attack,1,17,
-331,cacnea,5,40,Poison Sting,1,1,1
-331,cacnea,5,42,Pin Missile,1,21,
-331,cacnea,5,43,Leer,1,1,2
-331,cacnea,5,71,Absorb,1,5,
-331,cacnea,5,73,Leech Seed,1,13,
-331,cacnea,5,74,Growth,1,9,
-331,cacnea,5,178,Cotton Spore,1,41,
-331,cacnea,5,185,Feint Attack,1,29,
-331,cacnea,5,191,Spikes,1,33,
-331,cacnea,5,201,Sandstorm,1,45,
-331,cacnea,5,275,Ingrain,1,25,
-331,cacnea,5,302,Needle Arm,1,37,
-331,cacnea,6,28,Sand Attack,1,17,
-331,cacnea,6,40,Poison Sting,1,1,1
-331,cacnea,6,42,Pin Missile,1,21,
-331,cacnea,6,43,Leer,1,1,2
-331,cacnea,6,71,Absorb,1,5,
-331,cacnea,6,73,Leech Seed,1,13,
-331,cacnea,6,74,Growth,1,9,
-331,cacnea,6,178,Cotton Spore,1,41,
-331,cacnea,6,185,Feint Attack,1,29,
-331,cacnea,6,191,Spikes,1,33,
-331,cacnea,6,201,Sandstorm,1,45,
-331,cacnea,6,275,Ingrain,1,25,
-331,cacnea,6,302,Needle Arm,1,37,
-331,cacnea,7,28,Sand Attack,1,17,
-331,cacnea,7,40,Poison Sting,1,1,1
-331,cacnea,7,42,Pin Missile,1,21,
-331,cacnea,7,43,Leer,1,1,2
-331,cacnea,7,71,Absorb,1,5,
-331,cacnea,7,73,Leech Seed,1,13,
-331,cacnea,7,74,Growth,1,9,
-331,cacnea,7,178,Cotton Spore,1,41,
-331,cacnea,7,185,Feint Attack,1,29,
-331,cacnea,7,191,Spikes,1,33,
-331,cacnea,7,194,Destiny Bond,1,49,
-331,cacnea,7,201,Sandstorm,1,45,
-331,cacnea,7,275,Ingrain,1,25,
-331,cacnea,7,302,Needle Arm,1,37,
-331,cacnea,8,28,Sand Attack,1,17,
-331,cacnea,8,40,Poison Sting,1,1,1
-331,cacnea,8,42,Pin Missile,1,21,
-331,cacnea,8,43,Leer,1,1,2
-331,cacnea,8,71,Absorb,1,5,
-331,cacnea,8,73,Leech Seed,1,13,
-331,cacnea,8,74,Growth,1,9,
-331,cacnea,8,178,Cotton Spore,1,49,
-331,cacnea,8,185,Feint Attack,1,29,
-331,cacnea,8,191,Spikes,1,33,
-331,cacnea,8,194,Destiny Bond,1,57,
-331,cacnea,8,201,Sandstorm,1,53,
-331,cacnea,8,275,Ingrain,1,25,
-331,cacnea,8,302,Needle Arm,1,45,
-331,cacnea,8,371,Payback,1,41,
-331,cacnea,8,389,Sucker Punch,1,37,
-331,cacnea,9,28,Sand Attack,1,17,
-331,cacnea,9,40,Poison Sting,1,1,1
-331,cacnea,9,42,Pin Missile,1,21,
-331,cacnea,9,43,Leer,1,1,2
-331,cacnea,9,71,Absorb,1,5,
-331,cacnea,9,73,Leech Seed,1,13,
-331,cacnea,9,74,Growth,1,9,
-331,cacnea,9,178,Cotton Spore,1,49,
-331,cacnea,9,185,Feint Attack,1,29,
-331,cacnea,9,191,Spikes,1,33,
-331,cacnea,9,194,Destiny Bond,1,57,
-331,cacnea,9,201,Sandstorm,1,53,
-331,cacnea,9,275,Ingrain,1,25,
-331,cacnea,9,302,Needle Arm,1,45,
-331,cacnea,9,371,Payback,1,41,
-331,cacnea,9,389,Sucker Punch,1,37,
-331,cacnea,10,28,Sand Attack,1,17,
-331,cacnea,10,40,Poison Sting,1,1,1
-331,cacnea,10,42,Pin Missile,1,21,
-331,cacnea,10,43,Leer,1,1,2
-331,cacnea,10,71,Absorb,1,5,
-331,cacnea,10,73,Leech Seed,1,13,
-331,cacnea,10,74,Growth,1,9,
-331,cacnea,10,178,Cotton Spore,1,49,
-331,cacnea,10,185,Feint Attack,1,29,
-331,cacnea,10,191,Spikes,1,33,
-331,cacnea,10,194,Destiny Bond,1,57,
-331,cacnea,10,201,Sandstorm,1,53,
-331,cacnea,10,275,Ingrain,1,25,
-331,cacnea,10,302,Needle Arm,1,45,
-331,cacnea,10,371,Payback,1,41,
-331,cacnea,10,389,Sucker Punch,1,37,
-331,cacnea,11,28,Sand Attack,1,17,
-331,cacnea,11,40,Poison Sting,1,1,1
-331,cacnea,11,42,Pin Missile,1,21,
-331,cacnea,11,43,Leer,1,1,2
-331,cacnea,11,71,Absorb,1,5,
-331,cacnea,11,73,Leech Seed,1,13,
-331,cacnea,11,74,Growth,1,9,
-331,cacnea,11,178,Cotton Spore,1,49,
-331,cacnea,11,185,Feint Attack,1,29,
-331,cacnea,11,191,Spikes,1,33,
-331,cacnea,11,194,Destiny Bond,1,57,
-331,cacnea,11,201,Sandstorm,1,53,
-331,cacnea,11,275,Ingrain,1,25,
-331,cacnea,11,302,Needle Arm,1,45,
-331,cacnea,11,371,Payback,1,41,
-331,cacnea,11,389,Sucker Punch,1,37,
-331,cacnea,12,28,Sand Attack,1,17,
-331,cacnea,12,40,Poison Sting,1,1,1
-331,cacnea,12,42,Pin Missile,1,21,
-331,cacnea,12,43,Leer,1,1,2
-331,cacnea,12,71,Absorb,1,5,
-331,cacnea,12,73,Leech Seed,1,13,
-331,cacnea,12,74,Growth,1,9,
-331,cacnea,12,178,Cotton Spore,1,41,
-331,cacnea,12,185,Feint Attack,1,29,
-331,cacnea,12,191,Spikes,1,33,
-331,cacnea,12,201,Sandstorm,1,45,
-331,cacnea,12,275,Ingrain,1,25,
-331,cacnea,12,302,Needle Arm,1,37,
-331,cacnea,13,28,Sand Attack,1,17,
-331,cacnea,13,40,Poison Sting,1,1,1
-331,cacnea,13,42,Pin Missile,1,21,
-331,cacnea,13,43,Leer,1,1,2
-331,cacnea,13,71,Absorb,1,5,
-331,cacnea,13,73,Leech Seed,1,13,
-331,cacnea,13,74,Growth,1,9,
-331,cacnea,13,178,Cotton Spore,1,41,
-331,cacnea,13,185,Feint Attack,1,29,
-331,cacnea,13,191,Spikes,1,33,
-331,cacnea,13,201,Sandstorm,1,45,
-331,cacnea,13,275,Ingrain,1,25,
-331,cacnea,13,302,Needle Arm,1,37,
-331,cacnea,14,28,Sand Attack,1,17,
-331,cacnea,14,40,Poison Sting,1,1,1
-331,cacnea,14,42,Pin Missile,1,21,
-331,cacnea,14,43,Leer,1,1,2
-331,cacnea,14,71,Absorb,1,5,
-331,cacnea,14,73,Leech Seed,1,13,
-331,cacnea,14,74,Growth,1,9,
-331,cacnea,14,178,Cotton Spore,1,49,
-331,cacnea,14,185,Feint Attack,1,29,
-331,cacnea,14,191,Spikes,1,33,
-331,cacnea,14,194,Destiny Bond,1,57,
-331,cacnea,14,201,Sandstorm,1,53,
-331,cacnea,14,275,Ingrain,1,25,
-331,cacnea,14,302,Needle Arm,1,45,
-331,cacnea,14,371,Payback,1,41,
-331,cacnea,14,389,Sucker Punch,1,37,
-331,cacnea,15,28,Sand Attack,1,17,
-331,cacnea,15,40,Poison Sting,1,1,1
-331,cacnea,15,42,Pin Missile,1,21,
-331,cacnea,15,43,Leer,1,1,2
-331,cacnea,15,71,Absorb,1,5,
-331,cacnea,15,73,Leech Seed,1,13,
-331,cacnea,15,74,Growth,1,9,
-331,cacnea,15,178,Cotton Spore,1,49,
-331,cacnea,15,185,Feint Attack,1,29,
-331,cacnea,15,191,Spikes,1,33,
-331,cacnea,15,194,Destiny Bond,1,57,
-331,cacnea,15,201,Sandstorm,1,53,
-331,cacnea,15,275,Ingrain,1,25,
-331,cacnea,15,302,Needle Arm,1,45,
-331,cacnea,15,371,Payback,1,41,
-331,cacnea,15,389,Sucker Punch,1,37,
-331,cacnea,16,28,Sand Attack,1,13,1
-331,cacnea,16,40,Poison Sting,1,1,1
-331,cacnea,16,42,Pin Missile,1,38,1
-331,cacnea,16,43,Leer,1,1,2
-331,cacnea,16,71,Absorb,1,4,1
-331,cacnea,16,73,Leech Seed,1,10,1
-331,cacnea,16,74,Growth,1,7,1
-331,cacnea,16,178,Cotton Spore,1,46,1
-331,cacnea,16,185,Feint Attack,1,19,1
-331,cacnea,16,191,Spikes,1,30,1
-331,cacnea,16,194,Destiny Bond,1,54,1
-331,cacnea,16,201,Sandstorm,1,50,1
-331,cacnea,16,275,Ingrain,1,22,1
-331,cacnea,16,302,Needle Arm,1,16,1
-331,cacnea,16,371,Payback,1,26,1
-331,cacnea,16,389,Sucker Punch,1,34,1
-331,cacnea,16,412,Energy Ball,1,42,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+331,5,Poison Sting,1,poison,15,100
+331,5,Leer,1,normal,-,100
+331,6,Poison Sting,1,poison,15,100
+331,6,Leer,1,normal,-,100
+331,7,Poison Sting,1,poison,15,100
+331,7,Leer,1,normal,-,100
+331,8,Poison Sting,1,poison,15,100
+331,8,Leer,1,normal,-,100
+331,9,Poison Sting,1,poison,15,100
+331,9,Leer,1,normal,-,100
+331,10,Poison Sting,1,poison,15,100
+331,10,Leer,1,normal,-,100
+331,11,Poison Sting,1,poison,15,100
+331,11,Leer,1,normal,-,100
+331,12,Poison Sting,1,poison,15,100
+331,12,Leer,1,normal,-,100
+331,13,Poison Sting,1,poison,15,100
+331,13,Leer,1,normal,-,100
+331,14,Poison Sting,1,poison,15,100
+331,14,Leer,1,normal,-,100
+331,15,Poison Sting,1,poison,15,100
+331,15,Leer,1,normal,-,100
+331,16,Poison Sting,1,poison,15,100
+331,16,Leer,1,normal,-,100
+331,16,Absorb,4,grass,20,100
+331,5,Absorb,5,grass,20,100
+331,6,Absorb,5,grass,20,100
+331,7,Absorb,5,grass,20,100
+331,8,Absorb,5,grass,20,100
+331,9,Absorb,5,grass,20,100
+331,10,Absorb,5,grass,20,100
+331,11,Absorb,5,grass,20,100
+331,12,Absorb,5,grass,20,100
+331,13,Absorb,5,grass,20,100
+331,14,Absorb,5,grass,20,100
+331,15,Absorb,5,grass,20,100
+331,16,Growth,7,normal,-,-
+331,5,Growth,9,normal,-,-
+331,6,Growth,9,normal,-,-
+331,7,Growth,9,normal,-,-
+331,8,Growth,9,normal,-,-
+331,9,Growth,9,normal,-,-
+331,10,Growth,9,normal,-,-
+331,11,Growth,9,normal,-,-
+331,12,Growth,9,normal,-,-
+331,13,Growth,9,normal,-,-
+331,14,Growth,9,normal,-,-
+331,15,Growth,9,normal,-,-
+331,16,Leech Seed,10,grass,-,90
+331,5,Leech Seed,13,grass,-,90
+331,6,Leech Seed,13,grass,-,90
+331,7,Leech Seed,13,grass,-,90
+331,8,Leech Seed,13,grass,-,90
+331,9,Leech Seed,13,grass,-,90
+331,10,Leech Seed,13,grass,-,90
+331,11,Leech Seed,13,grass,-,90
+331,12,Leech Seed,13,grass,-,90
+331,13,Leech Seed,13,grass,-,90
+331,14,Leech Seed,13,grass,-,90
+331,15,Leech Seed,13,grass,-,90
+331,16,Sand Attack,13,ground,-,100
+331,16,Needle Arm,16,grass,60,100
+331,5,Sand Attack,17,ground,-,100
+331,6,Sand Attack,17,ground,-,100
+331,7,Sand Attack,17,ground,-,100
+331,8,Sand Attack,17,ground,-,100
+331,9,Sand Attack,17,ground,-,100
+331,10,Sand Attack,17,ground,-,100
+331,11,Sand Attack,17,ground,-,100
+331,12,Sand Attack,17,ground,-,100
+331,13,Sand Attack,17,ground,-,100
+331,14,Sand Attack,17,ground,-,100
+331,15,Sand Attack,17,ground,-,100
+331,16,Feint Attack,19,dark,60,-
+331,5,Pin Missile,21,bug,25,95
+331,6,Pin Missile,21,bug,25,95
+331,7,Pin Missile,21,bug,25,95
+331,8,Pin Missile,21,bug,25,95
+331,9,Pin Missile,21,bug,25,95
+331,10,Pin Missile,21,bug,25,95
+331,11,Pin Missile,21,bug,25,95
+331,12,Pin Missile,21,bug,25,95
+331,13,Pin Missile,21,bug,25,95
+331,14,Pin Missile,21,bug,25,95
+331,15,Pin Missile,21,bug,25,95
+331,16,Ingrain,22,grass,-,-
+331,5,Ingrain,25,grass,-,-
+331,6,Ingrain,25,grass,-,-
+331,7,Ingrain,25,grass,-,-
+331,8,Ingrain,25,grass,-,-
+331,9,Ingrain,25,grass,-,-
+331,10,Ingrain,25,grass,-,-
+331,11,Ingrain,25,grass,-,-
+331,12,Ingrain,25,grass,-,-
+331,13,Ingrain,25,grass,-,-
+331,14,Ingrain,25,grass,-,-
+331,15,Ingrain,25,grass,-,-
+331,16,Payback,26,dark,50,100
+331,5,Feint Attack,29,dark,60,-
+331,6,Feint Attack,29,dark,60,-
+331,7,Feint Attack,29,dark,60,-
+331,8,Feint Attack,29,dark,60,-
+331,9,Feint Attack,29,dark,60,-
+331,10,Feint Attack,29,dark,60,-
+331,11,Feint Attack,29,dark,60,-
+331,12,Feint Attack,29,dark,60,-
+331,13,Feint Attack,29,dark,60,-
+331,14,Feint Attack,29,dark,60,-
+331,15,Feint Attack,29,dark,60,-
+331,16,Spikes,30,ground,-,-
+331,5,Spikes,33,ground,-,-
+331,6,Spikes,33,ground,-,-
+331,7,Spikes,33,ground,-,-
+331,8,Spikes,33,ground,-,-
+331,9,Spikes,33,ground,-,-
+331,10,Spikes,33,ground,-,-
+331,11,Spikes,33,ground,-,-
+331,12,Spikes,33,ground,-,-
+331,13,Spikes,33,ground,-,-
+331,14,Spikes,33,ground,-,-
+331,15,Spikes,33,ground,-,-
+331,16,Sucker Punch,34,dark,80,100
+331,5,Needle Arm,37,grass,60,100
+331,6,Needle Arm,37,grass,60,100
+331,7,Needle Arm,37,grass,60,100
+331,8,Sucker Punch,37,dark,80,100
+331,9,Sucker Punch,37,dark,80,100
+331,10,Sucker Punch,37,dark,80,100
+331,11,Sucker Punch,37,dark,80,100
+331,12,Needle Arm,37,grass,60,100
+331,13,Needle Arm,37,grass,60,100
+331,14,Sucker Punch,37,dark,80,100
+331,15,Sucker Punch,37,dark,80,100
+331,16,Pin Missile,38,bug,25,95
+331,5,Cotton Spore,41,grass,-,100
+331,6,Cotton Spore,41,grass,-,100
+331,7,Cotton Spore,41,grass,-,100
+331,8,Payback,41,dark,50,100
+331,9,Payback,41,dark,50,100
+331,10,Payback,41,dark,50,100
+331,11,Payback,41,dark,50,100
+331,12,Cotton Spore,41,grass,-,100
+331,13,Cotton Spore,41,grass,-,100
+331,14,Payback,41,dark,50,100
+331,15,Payback,41,dark,50,100
+331,16,Energy Ball,42,grass,90,100
+331,5,Sandstorm,45,rock,-,-
+331,6,Sandstorm,45,rock,-,-
+331,7,Sandstorm,45,rock,-,-
+331,8,Needle Arm,45,grass,60,100
+331,9,Needle Arm,45,grass,60,100
+331,10,Needle Arm,45,grass,60,100
+331,11,Needle Arm,45,grass,60,100
+331,12,Sandstorm,45,rock,-,-
+331,13,Sandstorm,45,rock,-,-
+331,14,Needle Arm,45,grass,60,100
+331,15,Needle Arm,45,grass,60,100
+331,16,Cotton Spore,46,grass,-,100
+331,7,Destiny Bond,49,ghost,-,-
+331,8,Cotton Spore,49,grass,-,100
+331,9,Cotton Spore,49,grass,-,100
+331,10,Cotton Spore,49,grass,-,100
+331,11,Cotton Spore,49,grass,-,100
+331,14,Cotton Spore,49,grass,-,100
+331,15,Cotton Spore,49,grass,-,100
+331,16,Sandstorm,50,rock,-,-
+331,8,Sandstorm,53,rock,-,-
+331,9,Sandstorm,53,rock,-,-
+331,10,Sandstorm,53,rock,-,-
+331,11,Sandstorm,53,rock,-,-
+331,14,Sandstorm,53,rock,-,-
+331,15,Sandstorm,53,rock,-,-
+331,16,Destiny Bond,54,ghost,-,-
+331,8,Destiny Bond,57,ghost,-,-
+331,9,Destiny Bond,57,ghost,-,-
+331,10,Destiny Bond,57,ghost,-,-
+331,11,Destiny Bond,57,ghost,-,-
+331,14,Destiny Bond,57,ghost,-,-
+331,15,Destiny Bond,57,ghost,-,-

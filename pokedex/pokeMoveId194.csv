@@ -1,158 +1,158 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-194,wooper,3,21,Slam,1,11,
-194,wooper,3,39,Tail Whip,1,1,2
-194,wooper,3,54,Mist,1,51,
-194,wooper,3,55,Water Gun,1,1,1
-194,wooper,3,89,Earthquake,1,31,
-194,wooper,3,114,Haze,1,51,3
-194,wooper,3,133,Amnesia,1,21,
-194,wooper,3,240,Rain Dance,1,41,
-194,wooper,4,21,Slam,1,11,
-194,wooper,4,39,Tail Whip,1,1,2
-194,wooper,4,54,Mist,1,51,
-194,wooper,4,55,Water Gun,1,1,1
-194,wooper,4,89,Earthquake,1,31,
-194,wooper,4,114,Haze,1,51,3
-194,wooper,4,133,Amnesia,1,21,
-194,wooper,4,240,Rain Dance,1,41,
-194,wooper,5,21,Slam,1,11,
-194,wooper,5,39,Tail Whip,1,1,2
-194,wooper,5,54,Mist,1,51,
-194,wooper,5,55,Water Gun,1,1,1
-194,wooper,5,89,Earthquake,1,36,
-194,wooper,5,114,Haze,1,51,3
-194,wooper,5,133,Amnesia,1,21,
-194,wooper,5,240,Rain Dance,1,41,
-194,wooper,5,281,Yawn,1,31,
-194,wooper,5,341,Mud Shot,1,16,
-194,wooper,6,21,Slam,1,11,
-194,wooper,6,39,Tail Whip,1,1,2
-194,wooper,6,54,Mist,1,51,
-194,wooper,6,55,Water Gun,1,1,1
-194,wooper,6,89,Earthquake,1,36,
-194,wooper,6,114,Haze,1,51,3
-194,wooper,6,133,Amnesia,1,21,
-194,wooper,6,240,Rain Dance,1,41,
-194,wooper,6,281,Yawn,1,31,
-194,wooper,6,341,Mud Shot,1,16,
-194,wooper,7,21,Slam,1,11,
-194,wooper,7,39,Tail Whip,1,1,2
-194,wooper,7,54,Mist,1,51,
-194,wooper,7,55,Water Gun,1,1,1
-194,wooper,7,89,Earthquake,1,36,
-194,wooper,7,114,Haze,1,51,3
-194,wooper,7,133,Amnesia,1,21,
-194,wooper,7,240,Rain Dance,1,41,
-194,wooper,7,281,Yawn,1,31,
-194,wooper,7,341,Mud Shot,1,16,
-194,wooper,8,21,Slam,1,15,
-194,wooper,8,39,Tail Whip,1,1,2
-194,wooper,8,54,Mist,1,43,1
-194,wooper,8,55,Water Gun,1,1,1
-194,wooper,8,89,Earthquake,1,33,
-194,wooper,8,114,Haze,1,43,2
-194,wooper,8,133,Amnesia,1,23,
-194,wooper,8,240,Rain Dance,1,37,
-194,wooper,8,281,Yawn,1,29,
-194,wooper,8,300,Mud Sport,1,5,
-194,wooper,8,330,Muddy Water,1,47,
-194,wooper,8,341,Mud Shot,1,9,
-194,wooper,8,426,Mud Bomb,1,19,
-194,wooper,9,21,Slam,1,15,
-194,wooper,9,39,Tail Whip,1,1,2
-194,wooper,9,54,Mist,1,43,1
-194,wooper,9,55,Water Gun,1,1,1
-194,wooper,9,89,Earthquake,1,33,
-194,wooper,9,114,Haze,1,43,2
-194,wooper,9,133,Amnesia,1,23,
-194,wooper,9,240,Rain Dance,1,37,
-194,wooper,9,281,Yawn,1,29,
-194,wooper,9,300,Mud Sport,1,5,
-194,wooper,9,330,Muddy Water,1,47,
-194,wooper,9,341,Mud Shot,1,9,
-194,wooper,9,426,Mud Bomb,1,19,
-194,wooper,10,21,Slam,1,15,
-194,wooper,10,39,Tail Whip,1,1,2
-194,wooper,10,54,Mist,1,43,1
-194,wooper,10,55,Water Gun,1,1,1
-194,wooper,10,89,Earthquake,1,33,
-194,wooper,10,114,Haze,1,43,2
-194,wooper,10,133,Amnesia,1,23,
-194,wooper,10,240,Rain Dance,1,37,
-194,wooper,10,281,Yawn,1,29,
-194,wooper,10,300,Mud Sport,1,5,
-194,wooper,10,330,Muddy Water,1,47,
-194,wooper,10,341,Mud Shot,1,9,
-194,wooper,10,426,Mud Bomb,1,19,
-194,wooper,11,21,Slam,1,15,
-194,wooper,11,39,Tail Whip,1,1,2
-194,wooper,11,54,Mist,1,43,1
-194,wooper,11,55,Water Gun,1,1,1
-194,wooper,11,89,Earthquake,1,33,
-194,wooper,11,114,Haze,1,43,2
-194,wooper,11,133,Amnesia,1,23,
-194,wooper,11,240,Rain Dance,1,37,
-194,wooper,11,281,Yawn,1,29,
-194,wooper,11,300,Mud Sport,1,5,
-194,wooper,11,330,Muddy Water,1,47,
-194,wooper,11,341,Mud Shot,1,9,
-194,wooper,11,426,Mud Bomb,1,19,
-194,wooper,12,21,Slam,1,11,
-194,wooper,12,39,Tail Whip,1,1,2
-194,wooper,12,54,Mist,1,51,
-194,wooper,12,55,Water Gun,1,1,1
-194,wooper,12,89,Earthquake,1,36,
-194,wooper,12,114,Haze,1,51,3
-194,wooper,12,133,Amnesia,1,21,
-194,wooper,12,240,Rain Dance,1,41,
-194,wooper,12,281,Yawn,1,31,
-194,wooper,12,341,Mud Shot,1,16,
-194,wooper,13,21,Slam,1,11,
-194,wooper,13,39,Tail Whip,1,1,2
-194,wooper,13,54,Mist,1,51,
-194,wooper,13,55,Water Gun,1,1,1
-194,wooper,13,89,Earthquake,1,36,
-194,wooper,13,114,Haze,1,51,3
-194,wooper,13,133,Amnesia,1,21,
-194,wooper,13,240,Rain Dance,1,41,
-194,wooper,13,281,Yawn,1,31,
-194,wooper,13,341,Mud Shot,1,16,
-194,wooper,14,21,Slam,1,15,
-194,wooper,14,39,Tail Whip,1,1,2
-194,wooper,14,54,Mist,1,43,1
-194,wooper,14,55,Water Gun,1,1,1
-194,wooper,14,89,Earthquake,1,33,
-194,wooper,14,114,Haze,1,43,2
-194,wooper,14,133,Amnesia,1,23,
-194,wooper,14,240,Rain Dance,1,37,
-194,wooper,14,281,Yawn,1,29,
-194,wooper,14,300,Mud Sport,1,5,
-194,wooper,14,330,Muddy Water,1,47,
-194,wooper,14,341,Mud Shot,1,9,
-194,wooper,14,426,Mud Bomb,1,19,
-194,wooper,15,21,Slam,1,15,
-194,wooper,15,39,Tail Whip,1,1,2
-194,wooper,15,54,Mist,1,43,1
-194,wooper,15,55,Water Gun,1,1,1
-194,wooper,15,89,Earthquake,1,33,
-194,wooper,15,114,Haze,1,43,2
-194,wooper,15,133,Amnesia,1,23,
-194,wooper,15,240,Rain Dance,1,37,
-194,wooper,15,281,Yawn,1,29,
-194,wooper,15,300,Mud Sport,1,5,
-194,wooper,15,330,Muddy Water,1,47,
-194,wooper,15,341,Mud Shot,1,9,
-194,wooper,15,426,Mud Bomb,1,19,
-194,wooper,16,21,Slam,1,15,1
-194,wooper,16,39,Tail Whip,1,1,2
-194,wooper,16,54,Mist,1,43,1
-194,wooper,16,55,Water Gun,1,1,1
-194,wooper,16,89,Earthquake,1,33,1
-194,wooper,16,114,Haze,1,43,2
-194,wooper,16,133,Amnesia,1,23,1
-194,wooper,16,240,Rain Dance,1,37,1
-194,wooper,16,281,Yawn,1,29,1
-194,wooper,16,300,Mud Sport,1,5,1
-194,wooper,16,330,Muddy Water,1,47,1
-194,wooper,16,341,Mud Shot,1,9,1
-194,wooper,16,426,Mud Bomb,1,19,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+194,3,Tail Whip,1,normal,-,100
+194,3,Water Gun,1,water,40,100
+194,4,Tail Whip,1,normal,-,100
+194,4,Water Gun,1,water,40,100
+194,5,Tail Whip,1,normal,-,100
+194,5,Water Gun,1,water,40,100
+194,6,Tail Whip,1,normal,-,100
+194,6,Water Gun,1,water,40,100
+194,7,Tail Whip,1,normal,-,100
+194,7,Water Gun,1,water,40,100
+194,8,Tail Whip,1,normal,-,100
+194,8,Water Gun,1,water,40,100
+194,9,Tail Whip,1,normal,-,100
+194,9,Water Gun,1,water,40,100
+194,10,Tail Whip,1,normal,-,100
+194,10,Water Gun,1,water,40,100
+194,11,Tail Whip,1,normal,-,100
+194,11,Water Gun,1,water,40,100
+194,12,Tail Whip,1,normal,-,100
+194,12,Water Gun,1,water,40,100
+194,13,Tail Whip,1,normal,-,100
+194,13,Water Gun,1,water,40,100
+194,14,Tail Whip,1,normal,-,100
+194,14,Water Gun,1,water,40,100
+194,15,Tail Whip,1,normal,-,100
+194,15,Water Gun,1,water,40,100
+194,16,Tail Whip,1,normal,-,100
+194,16,Water Gun,1,water,40,100
+194,8,Mud Sport,5,ground,-,-
+194,9,Mud Sport,5,ground,-,-
+194,10,Mud Sport,5,ground,-,-
+194,11,Mud Sport,5,ground,-,-
+194,14,Mud Sport,5,ground,-,-
+194,15,Mud Sport,5,ground,-,-
+194,16,Mud Sport,5,ground,-,-
+194,8,Mud Shot,9,ground,55,95
+194,9,Mud Shot,9,ground,55,95
+194,10,Mud Shot,9,ground,55,95
+194,11,Mud Shot,9,ground,55,95
+194,14,Mud Shot,9,ground,55,95
+194,15,Mud Shot,9,ground,55,95
+194,16,Mud Shot,9,ground,55,95
+194,3,Slam,11,normal,80,75
+194,4,Slam,11,normal,80,75
+194,5,Slam,11,normal,80,75
+194,6,Slam,11,normal,80,75
+194,7,Slam,11,normal,80,75
+194,12,Slam,11,normal,80,75
+194,13,Slam,11,normal,80,75
+194,8,Slam,15,normal,80,75
+194,9,Slam,15,normal,80,75
+194,10,Slam,15,normal,80,75
+194,11,Slam,15,normal,80,75
+194,14,Slam,15,normal,80,75
+194,15,Slam,15,normal,80,75
+194,16,Slam,15,normal,80,75
+194,5,Mud Shot,16,ground,55,95
+194,6,Mud Shot,16,ground,55,95
+194,7,Mud Shot,16,ground,55,95
+194,12,Mud Shot,16,ground,55,95
+194,13,Mud Shot,16,ground,55,95
+194,8,Mud Bomb,19,ground,65,85
+194,9,Mud Bomb,19,ground,65,85
+194,10,Mud Bomb,19,ground,65,85
+194,11,Mud Bomb,19,ground,65,85
+194,14,Mud Bomb,19,ground,65,85
+194,15,Mud Bomb,19,ground,65,85
+194,16,Mud Bomb,19,ground,65,85
+194,3,Amnesia,21,psychic,-,-
+194,4,Amnesia,21,psychic,-,-
+194,5,Amnesia,21,psychic,-,-
+194,6,Amnesia,21,psychic,-,-
+194,7,Amnesia,21,psychic,-,-
+194,12,Amnesia,21,psychic,-,-
+194,13,Amnesia,21,psychic,-,-
+194,8,Amnesia,23,psychic,-,-
+194,9,Amnesia,23,psychic,-,-
+194,10,Amnesia,23,psychic,-,-
+194,11,Amnesia,23,psychic,-,-
+194,14,Amnesia,23,psychic,-,-
+194,15,Amnesia,23,psychic,-,-
+194,16,Amnesia,23,psychic,-,-
+194,8,Yawn,29,normal,-,-
+194,9,Yawn,29,normal,-,-
+194,10,Yawn,29,normal,-,-
+194,11,Yawn,29,normal,-,-
+194,14,Yawn,29,normal,-,-
+194,15,Yawn,29,normal,-,-
+194,16,Yawn,29,normal,-,-
+194,3,Earthquake,31,ground,100,100
+194,4,Earthquake,31,ground,100,100
+194,5,Yawn,31,normal,-,-
+194,6,Yawn,31,normal,-,-
+194,7,Yawn,31,normal,-,-
+194,12,Yawn,31,normal,-,-
+194,13,Yawn,31,normal,-,-
+194,8,Earthquake,33,ground,100,100
+194,9,Earthquake,33,ground,100,100
+194,10,Earthquake,33,ground,100,100
+194,11,Earthquake,33,ground,100,100
+194,14,Earthquake,33,ground,100,100
+194,15,Earthquake,33,ground,100,100
+194,16,Earthquake,33,ground,100,100
+194,5,Earthquake,36,ground,100,100
+194,6,Earthquake,36,ground,100,100
+194,7,Earthquake,36,ground,100,100
+194,12,Earthquake,36,ground,100,100
+194,13,Earthquake,36,ground,100,100
+194,8,Rain Dance,37,water,-,-
+194,9,Rain Dance,37,water,-,-
+194,10,Rain Dance,37,water,-,-
+194,11,Rain Dance,37,water,-,-
+194,14,Rain Dance,37,water,-,-
+194,15,Rain Dance,37,water,-,-
+194,16,Rain Dance,37,water,-,-
+194,3,Rain Dance,41,water,-,-
+194,4,Rain Dance,41,water,-,-
+194,5,Rain Dance,41,water,-,-
+194,6,Rain Dance,41,water,-,-
+194,7,Rain Dance,41,water,-,-
+194,12,Rain Dance,41,water,-,-
+194,13,Rain Dance,41,water,-,-
+194,8,Mist,43,ice,-,-
+194,8,Haze,43,ice,-,-
+194,9,Mist,43,ice,-,-
+194,9,Haze,43,ice,-,-
+194,10,Mist,43,ice,-,-
+194,10,Haze,43,ice,-,-
+194,11,Mist,43,ice,-,-
+194,11,Haze,43,ice,-,-
+194,14,Mist,43,ice,-,-
+194,14,Haze,43,ice,-,-
+194,15,Mist,43,ice,-,-
+194,15,Haze,43,ice,-,-
+194,16,Mist,43,ice,-,-
+194,16,Haze,43,ice,-,-
+194,8,Muddy Water,47,water,90,85
+194,9,Muddy Water,47,water,90,85
+194,10,Muddy Water,47,water,90,85
+194,11,Muddy Water,47,water,90,85
+194,14,Muddy Water,47,water,90,85
+194,15,Muddy Water,47,water,90,85
+194,16,Muddy Water,47,water,90,85
+194,3,Mist,51,ice,-,-
+194,3,Haze,51,ice,-,-
+194,4,Mist,51,ice,-,-
+194,4,Haze,51,ice,-,-
+194,5,Mist,51,ice,-,-
+194,5,Haze,51,ice,-,-
+194,6,Mist,51,ice,-,-
+194,6,Haze,51,ice,-,-
+194,7,Mist,51,ice,-,-
+194,7,Haze,51,ice,-,-
+194,12,Mist,51,ice,-,-
+194,12,Haze,51,ice,-,-
+194,13,Mist,51,ice,-,-
+194,13,Haze,51,ice,-,-

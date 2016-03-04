@@ -1,57 +1,57 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-626,bouffalant,11,14,Swords Dance,1,56,
-626,bouffalant,11,30,Horn Attack,1,16,
-626,bouffalant,11,31,Fury Attack,1,11,
-626,bouffalant,11,37,Thrash,1,51,
-626,bouffalant,11,43,Leer,1,1,2
-626,bouffalant,11,99,Rage,1,6,
-626,bouffalant,11,116,Focus Energy,1,36,
-626,bouffalant,11,179,Reversal,1,46,
-626,bouffalant,11,184,Scary Face,1,21,
-626,bouffalant,11,224,Megahorn,1,41,
-626,bouffalant,11,228,Pursuit,1,1,1
-626,bouffalant,11,279,Revenge,1,26,
-626,bouffalant,11,416,Giga Impact,1,61,
-626,bouffalant,11,543,Head Charge,1,31,
-626,bouffalant,14,14,Swords Dance,1,56,
-626,bouffalant,14,30,Horn Attack,1,16,
-626,bouffalant,14,31,Fury Attack,1,11,
-626,bouffalant,14,37,Thrash,1,51,
-626,bouffalant,14,43,Leer,1,1,2
-626,bouffalant,14,99,Rage,1,6,
-626,bouffalant,14,116,Focus Energy,1,36,
-626,bouffalant,14,179,Reversal,1,46,
-626,bouffalant,14,184,Scary Face,1,21,
-626,bouffalant,14,224,Megahorn,1,41,
-626,bouffalant,14,228,Pursuit,1,1,1
-626,bouffalant,14,279,Revenge,1,26,
-626,bouffalant,14,416,Giga Impact,1,61,
-626,bouffalant,14,543,Head Charge,1,31,
-626,bouffalant,15,14,Swords Dance,1,56,
-626,bouffalant,15,30,Horn Attack,1,16,
-626,bouffalant,15,31,Fury Attack,1,11,
-626,bouffalant,15,37,Thrash,1,50,
-626,bouffalant,15,43,Leer,1,1,2
-626,bouffalant,15,99,Rage,1,6,
-626,bouffalant,15,116,Focus Energy,1,36,
-626,bouffalant,15,179,Reversal,1,46,
-626,bouffalant,15,184,Scary Face,1,21,
-626,bouffalant,15,224,Megahorn,1,41,
-626,bouffalant,15,228,Pursuit,1,1,1
-626,bouffalant,15,279,Revenge,1,26,
-626,bouffalant,15,416,Giga Impact,1,61,
-626,bouffalant,15,543,Head Charge,1,31,
-626,bouffalant,16,14,Swords Dance,1,56,1
-626,bouffalant,16,30,Horn Attack,1,16,1
-626,bouffalant,16,31,Fury Attack,1,11,1
-626,bouffalant,16,37,Thrash,1,50,1
-626,bouffalant,16,43,Leer,1,1,2
-626,bouffalant,16,99,Rage,1,6,1
-626,bouffalant,16,116,Focus Energy,1,36,1
-626,bouffalant,16,179,Reversal,1,46,1
-626,bouffalant,16,184,Scary Face,1,21,1
-626,bouffalant,16,224,Megahorn,1,41,1
-626,bouffalant,16,228,Pursuit,1,1,1
-626,bouffalant,16,279,Revenge,1,26,1
-626,bouffalant,16,416,Giga Impact,1,61,1
-626,bouffalant,16,543,Head Charge,1,31,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+626,11,Leer,1,normal,-,100
+626,11,Pursuit,1,dark,40,100
+626,14,Leer,1,normal,-,100
+626,14,Pursuit,1,dark,40,100
+626,15,Leer,1,normal,-,100
+626,15,Pursuit,1,dark,40,100
+626,16,Leer,1,normal,-,100
+626,16,Pursuit,1,dark,40,100
+626,11,Rage,6,normal,20,100
+626,14,Rage,6,normal,20,100
+626,15,Rage,6,normal,20,100
+626,16,Rage,6,normal,20,100
+626,11,Fury Attack,11,normal,15,85
+626,14,Fury Attack,11,normal,15,85
+626,15,Fury Attack,11,normal,15,85
+626,16,Fury Attack,11,normal,15,85
+626,11,Horn Attack,16,normal,65,100
+626,14,Horn Attack,16,normal,65,100
+626,15,Horn Attack,16,normal,65,100
+626,16,Horn Attack,16,normal,65,100
+626,11,Scary Face,21,normal,-,100
+626,14,Scary Face,21,normal,-,100
+626,15,Scary Face,21,normal,-,100
+626,16,Scary Face,21,normal,-,100
+626,11,Revenge,26,fighting,60,100
+626,14,Revenge,26,fighting,60,100
+626,15,Revenge,26,fighting,60,100
+626,16,Revenge,26,fighting,60,100
+626,11,Head Charge,31,normal,120,100
+626,14,Head Charge,31,normal,120,100
+626,15,Head Charge,31,normal,120,100
+626,16,Head Charge,31,normal,120,100
+626,11,Focus Energy,36,normal,-,-
+626,14,Focus Energy,36,normal,-,-
+626,15,Focus Energy,36,normal,-,-
+626,16,Focus Energy,36,normal,-,-
+626,11,Megahorn,41,bug,120,85
+626,14,Megahorn,41,bug,120,85
+626,15,Megahorn,41,bug,120,85
+626,16,Megahorn,41,bug,120,85
+626,11,Reversal,46,fighting,-,100
+626,14,Reversal,46,fighting,-,100
+626,15,Reversal,46,fighting,-,100
+626,16,Reversal,46,fighting,-,100
+626,15,Thrash,50,normal,120,100
+626,16,Thrash,50,normal,120,100
+626,11,Thrash,51,normal,120,100
+626,14,Thrash,51,normal,120,100
+626,11,Swords Dance,56,normal,-,-
+626,14,Swords Dance,56,normal,-,-
+626,15,Swords Dance,56,normal,-,-
+626,16,Swords Dance,56,normal,-,-
+626,11,Giga Impact,61,normal,150,90
+626,14,Giga Impact,61,normal,150,90
+626,15,Giga Impact,61,normal,150,90
+626,16,Giga Impact,61,normal,150,90

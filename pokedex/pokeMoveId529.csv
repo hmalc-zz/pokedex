@@ -1,61 +1,61 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-529,drilbur,11,10,Scratch,1,1,1
-529,drilbur,11,14,Swords Dance,1,36,
-529,drilbur,11,89,Earthquake,1,33,
-529,drilbur,11,90,Fissure,1,47,
-529,drilbur,11,91,Dig,1,19,
-529,drilbur,11,154,Fury Swipes,1,12,
-529,drilbur,11,157,Rock Slide,1,29,
-529,drilbur,11,163,Slash,1,26,
-529,drilbur,11,189,Mud-Slap,1,8,
-529,drilbur,11,201,Sandstorm,1,40,
-529,drilbur,11,229,Rapid Spin,1,5,
-529,drilbur,11,232,Metal Claw,1,15,
-529,drilbur,11,300,Mud Sport,1,1,2
-529,drilbur,11,468,Hone Claws,1,22,
-529,drilbur,11,529,Drill Run,1,43,
-529,drilbur,14,10,Scratch,1,1,1
-529,drilbur,14,14,Swords Dance,1,36,
-529,drilbur,14,89,Earthquake,1,33,
-529,drilbur,14,90,Fissure,1,47,
-529,drilbur,14,91,Dig,1,19,
-529,drilbur,14,154,Fury Swipes,1,12,
-529,drilbur,14,157,Rock Slide,1,29,
-529,drilbur,14,163,Slash,1,26,
-529,drilbur,14,189,Mud-Slap,1,8,
-529,drilbur,14,201,Sandstorm,1,40,
-529,drilbur,14,229,Rapid Spin,1,5,
-529,drilbur,14,232,Metal Claw,1,15,
-529,drilbur,14,300,Mud Sport,1,1,2
-529,drilbur,14,468,Hone Claws,1,22,
-529,drilbur,14,529,Drill Run,1,43,
-529,drilbur,15,10,Scratch,1,1,1
-529,drilbur,15,14,Swords Dance,1,36,
-529,drilbur,15,89,Earthquake,1,33,
-529,drilbur,15,90,Fissure,1,47,
-529,drilbur,15,91,Dig,1,19,
-529,drilbur,15,154,Fury Swipes,1,12,
-529,drilbur,15,157,Rock Slide,1,29,
-529,drilbur,15,163,Slash,1,26,
-529,drilbur,15,189,Mud-Slap,1,8,
-529,drilbur,15,201,Sandstorm,1,40,
-529,drilbur,15,229,Rapid Spin,1,5,
-529,drilbur,15,232,Metal Claw,1,15,
-529,drilbur,15,300,Mud Sport,1,1,2
-529,drilbur,15,468,Hone Claws,1,22,
-529,drilbur,15,529,Drill Run,1,43,
-529,drilbur,16,10,Scratch,1,1,1
-529,drilbur,16,14,Swords Dance,1,36,1
-529,drilbur,16,89,Earthquake,1,33,1
-529,drilbur,16,90,Fissure,1,47,1
-529,drilbur,16,91,Dig,1,19,1
-529,drilbur,16,154,Fury Swipes,1,12,1
-529,drilbur,16,157,Rock Slide,1,29,1
-529,drilbur,16,163,Slash,1,26,1
-529,drilbur,16,189,Mud-Slap,1,8,1
-529,drilbur,16,201,Sandstorm,1,40,1
-529,drilbur,16,229,Rapid Spin,1,5,1
-529,drilbur,16,232,Metal Claw,1,15,1
-529,drilbur,16,300,Mud Sport,1,1,2
-529,drilbur,16,468,Hone Claws,1,22,1
-529,drilbur,16,529,Drill Run,1,43,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+529,11,Scratch,1,normal,40,100
+529,11,Mud Sport,1,ground,-,-
+529,14,Scratch,1,normal,40,100
+529,14,Mud Sport,1,ground,-,-
+529,15,Scratch,1,normal,40,100
+529,15,Mud Sport,1,ground,-,-
+529,16,Scratch,1,normal,40,100
+529,16,Mud Sport,1,ground,-,-
+529,11,Rapid Spin,5,normal,20,100
+529,14,Rapid Spin,5,normal,20,100
+529,15,Rapid Spin,5,normal,20,100
+529,16,Rapid Spin,5,normal,20,100
+529,11,Mud-Slap,8,ground,20,100
+529,14,Mud-Slap,8,ground,20,100
+529,15,Mud-Slap,8,ground,20,100
+529,16,Mud-Slap,8,ground,20,100
+529,11,Fury Swipes,12,normal,18,80
+529,14,Fury Swipes,12,normal,18,80
+529,15,Fury Swipes,12,normal,18,80
+529,16,Fury Swipes,12,normal,18,80
+529,11,Metal Claw,15,steel,50,95
+529,14,Metal Claw,15,steel,50,95
+529,15,Metal Claw,15,steel,50,95
+529,16,Metal Claw,15,steel,50,95
+529,11,Dig,19,ground,80,100
+529,14,Dig,19,ground,80,100
+529,15,Dig,19,ground,80,100
+529,16,Dig,19,ground,80,100
+529,11,Hone Claws,22,dark,-,-
+529,14,Hone Claws,22,dark,-,-
+529,15,Hone Claws,22,dark,-,-
+529,16,Hone Claws,22,dark,-,-
+529,11,Slash,26,normal,70,100
+529,14,Slash,26,normal,70,100
+529,15,Slash,26,normal,70,100
+529,16,Slash,26,normal,70,100
+529,11,Rock Slide,29,rock,75,90
+529,14,Rock Slide,29,rock,75,90
+529,15,Rock Slide,29,rock,75,90
+529,16,Rock Slide,29,rock,75,90
+529,11,Earthquake,33,ground,100,100
+529,14,Earthquake,33,ground,100,100
+529,15,Earthquake,33,ground,100,100
+529,16,Earthquake,33,ground,100,100
+529,11,Swords Dance,36,normal,-,-
+529,14,Swords Dance,36,normal,-,-
+529,15,Swords Dance,36,normal,-,-
+529,16,Swords Dance,36,normal,-,-
+529,11,Sandstorm,40,rock,-,-
+529,14,Sandstorm,40,rock,-,-
+529,15,Sandstorm,40,rock,-,-
+529,16,Sandstorm,40,rock,-,-
+529,11,Drill Run,43,ground,80,95
+529,14,Drill Run,43,ground,80,95
+529,15,Drill Run,43,ground,80,95
+529,16,Drill Run,43,ground,80,95
+529,11,Fissure,47,ground,-,30
+529,14,Fissure,47,ground,-,30
+529,15,Fissure,47,ground,-,30
+529,16,Fissure,47,ground,-,30

@@ -1,171 +1,171 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-192,sunflora,3,1,Pound,1,1,2
-192,sunflora,3,71,Absorb,1,1,1
-192,sunflora,3,74,Growth,1,4,
-192,sunflora,3,75,Razor Leaf,1,10,
-192,sunflora,3,76,Solar Beam,1,46,
-192,sunflora,3,80,Petal Dance,1,31,
-192,sunflora,3,241,Sunny Day,1,19,
-192,sunflora,4,1,Pound,1,1,2
-192,sunflora,4,71,Absorb,1,1,1
-192,sunflora,4,74,Growth,1,4,
-192,sunflora,4,75,Razor Leaf,1,10,
-192,sunflora,4,76,Solar Beam,1,46,
-192,sunflora,4,80,Petal Dance,1,31,
-192,sunflora,4,241,Sunny Day,1,19,
-192,sunflora,5,1,Pound,1,1,2
-192,sunflora,5,71,Absorb,1,1,1
-192,sunflora,5,74,Growth,1,6,
-192,sunflora,5,75,Razor Leaf,1,13,
-192,sunflora,5,76,Solar Beam,1,42,
-192,sunflora,5,80,Petal Dance,1,37,
-192,sunflora,5,241,Sunny Day,1,30,
-192,sunflora,5,275,Ingrain,1,18,
-192,sunflora,5,331,Bullet Seed,1,25,
-192,sunflora,6,1,Pound,1,1,2
-192,sunflora,6,71,Absorb,1,1,1
-192,sunflora,6,74,Growth,1,6,
-192,sunflora,6,75,Razor Leaf,1,13,
-192,sunflora,6,76,Solar Beam,1,42,
-192,sunflora,6,80,Petal Dance,1,37,
-192,sunflora,6,241,Sunny Day,1,30,
-192,sunflora,6,275,Ingrain,1,18,
-192,sunflora,6,331,Bullet Seed,1,25,
-192,sunflora,7,1,Pound,1,1,2
-192,sunflora,7,71,Absorb,1,1,1
-192,sunflora,7,74,Growth,1,6,
-192,sunflora,7,75,Razor Leaf,1,13,
-192,sunflora,7,76,Solar Beam,1,42,
-192,sunflora,7,80,Petal Dance,1,37,
-192,sunflora,7,241,Sunny Day,1,30,
-192,sunflora,7,275,Ingrain,1,18,
-192,sunflora,7,331,Bullet Seed,1,25,
-192,sunflora,8,1,Pound,1,1,2
-192,sunflora,8,71,Absorb,1,1,1
-192,sunflora,8,72,Mega Drain,1,5,
-192,sunflora,8,73,Leech Seed,1,17,
-192,sunflora,8,74,Growth,1,1,3
-192,sunflora,8,75,Razor Leaf,1,29,
-192,sunflora,8,76,Solar Beam,1,41,
-192,sunflora,8,80,Petal Dance,1,33,
-192,sunflora,8,241,Sunny Day,1,37,
-192,sunflora,8,275,Ingrain,1,9,
-192,sunflora,8,320,Grass Whistle,1,13,
-192,sunflora,8,331,Bullet Seed,1,21,
-192,sunflora,8,388,Worry Seed,1,25,
-192,sunflora,8,437,Leaf Storm,1,43,
-192,sunflora,9,1,Pound,1,1,2
-192,sunflora,9,71,Absorb,1,1,1
-192,sunflora,9,72,Mega Drain,1,5,
-192,sunflora,9,73,Leech Seed,1,17,
-192,sunflora,9,74,Growth,1,1,3
-192,sunflora,9,75,Razor Leaf,1,29,
-192,sunflora,9,76,Solar Beam,1,41,
-192,sunflora,9,80,Petal Dance,1,33,
-192,sunflora,9,241,Sunny Day,1,37,
-192,sunflora,9,275,Ingrain,1,9,
-192,sunflora,9,320,Grass Whistle,1,13,
-192,sunflora,9,331,Bullet Seed,1,21,
-192,sunflora,9,388,Worry Seed,1,25,
-192,sunflora,9,437,Leaf Storm,1,43,
-192,sunflora,10,1,Pound,1,1,2
-192,sunflora,10,71,Absorb,1,1,1
-192,sunflora,10,72,Mega Drain,1,5,
-192,sunflora,10,73,Leech Seed,1,17,
-192,sunflora,10,74,Growth,1,1,3
-192,sunflora,10,75,Razor Leaf,1,29,
-192,sunflora,10,76,Solar Beam,1,41,
-192,sunflora,10,80,Petal Dance,1,33,
-192,sunflora,10,241,Sunny Day,1,37,
-192,sunflora,10,275,Ingrain,1,9,
-192,sunflora,10,320,Grass Whistle,1,13,
-192,sunflora,10,331,Bullet Seed,1,21,
-192,sunflora,10,388,Worry Seed,1,25,
-192,sunflora,10,437,Leaf Storm,1,43,
-192,sunflora,11,1,Pound,1,1,2
-192,sunflora,11,71,Absorb,1,1,1
-192,sunflora,11,72,Mega Drain,1,5,
-192,sunflora,11,73,Leech Seed,1,17,
-192,sunflora,11,74,Growth,1,1,3
-192,sunflora,11,75,Razor Leaf,1,29,
-192,sunflora,11,76,Solar Beam,1,41,
-192,sunflora,11,80,Petal Dance,1,33,
-192,sunflora,11,241,Sunny Day,1,37,
-192,sunflora,11,275,Ingrain,1,9,
-192,sunflora,11,320,Grass Whistle,1,13,
-192,sunflora,11,331,Bullet Seed,1,21,
-192,sunflora,11,388,Worry Seed,1,25,
-192,sunflora,11,437,Leaf Storm,1,45,
-192,sunflora,12,1,Pound,1,1,2
-192,sunflora,12,71,Absorb,1,1,1
-192,sunflora,12,74,Growth,1,6,
-192,sunflora,12,75,Razor Leaf,1,13,
-192,sunflora,12,76,Solar Beam,1,42,
-192,sunflora,12,80,Petal Dance,1,37,
-192,sunflora,12,241,Sunny Day,1,30,
-192,sunflora,12,275,Ingrain,1,18,
-192,sunflora,12,331,Bullet Seed,1,25,
-192,sunflora,13,1,Pound,1,1,2
-192,sunflora,13,71,Absorb,1,1,1
-192,sunflora,13,74,Growth,1,6,
-192,sunflora,13,75,Razor Leaf,1,13,
-192,sunflora,13,76,Solar Beam,1,42,
-192,sunflora,13,80,Petal Dance,1,37,
-192,sunflora,13,241,Sunny Day,1,30,
-192,sunflora,13,275,Ingrain,1,18,
-192,sunflora,13,331,Bullet Seed,1,25,
-192,sunflora,14,1,Pound,1,1,2
-192,sunflora,14,38,Double-Edge,1,37,
-192,sunflora,14,71,Absorb,1,1,1
-192,sunflora,14,72,Mega Drain,1,10,
-192,sunflora,14,73,Leech Seed,1,13,
-192,sunflora,14,74,Growth,1,1,3
-192,sunflora,14,75,Razor Leaf,1,16,
-192,sunflora,14,76,Solar Beam,1,34,
-192,sunflora,14,80,Petal Dance,1,28,
-192,sunflora,14,202,Giga Drain,1,22,
-192,sunflora,14,241,Sunny Day,1,40,
-192,sunflora,14,275,Ingrain,1,4,
-192,sunflora,14,320,Grass Whistle,1,7,
-192,sunflora,14,331,Bullet Seed,1,25,
-192,sunflora,14,363,Natural Gift,1,31,
-192,sunflora,14,388,Worry Seed,1,19,
-192,sunflora,14,437,Leaf Storm,1,43,
-192,sunflora,15,1,Pound,1,1,3
-192,sunflora,15,38,Double-Edge,1,37,
-192,sunflora,15,71,Absorb,1,1,2
-192,sunflora,15,72,Mega Drain,1,10,
-192,sunflora,15,73,Leech Seed,1,13,
-192,sunflora,15,74,Growth,1,1,4
-192,sunflora,15,75,Razor Leaf,1,16,
-192,sunflora,15,76,Solar Beam,1,34,
-192,sunflora,15,80,Petal Dance,1,28,
-192,sunflora,15,202,Giga Drain,1,22,
-192,sunflora,15,241,Sunny Day,1,40,
-192,sunflora,15,275,Ingrain,1,4,
-192,sunflora,15,320,Grass Whistle,1,7,
-192,sunflora,15,331,Bullet Seed,1,25,
-192,sunflora,15,363,Natural Gift,1,31,
-192,sunflora,15,388,Worry Seed,1,19,
-192,sunflora,15,437,Leaf Storm,1,43,
-192,sunflora,15,572,Petal Blizzard,1,50,
-192,sunflora,15,579,Flower Shield,1,1,1
-192,sunflora,16,1,Pound,1,1,3
-192,sunflora,16,38,Double-Edge,1,37,1
-192,sunflora,16,71,Absorb,1,1,2
-192,sunflora,16,72,Mega Drain,1,10,1
-192,sunflora,16,73,Leech Seed,1,13,1
-192,sunflora,16,74,Growth,1,1,4
-192,sunflora,16,75,Razor Leaf,1,16,1
-192,sunflora,16,76,Solar Beam,1,34,1
-192,sunflora,16,80,Petal Dance,1,28,1
-192,sunflora,16,202,Giga Drain,1,22,1
-192,sunflora,16,241,Sunny Day,1,40,1
-192,sunflora,16,275,Ingrain,1,4,1
-192,sunflora,16,320,Grass Whistle,1,7,1
-192,sunflora,16,331,Bullet Seed,1,25,1
-192,sunflora,16,363,Natural Gift,1,31,1
-192,sunflora,16,388,Worry Seed,1,19,1
-192,sunflora,16,437,Leaf Storm,1,43,1
-192,sunflora,16,572,Petal Blizzard,1,50,1
-192,sunflora,16,579,Flower Shield,1,1,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+192,3,Pound,1,normal,40,100
+192,3,Absorb,1,grass,20,100
+192,4,Pound,1,normal,40,100
+192,4,Absorb,1,grass,20,100
+192,5,Pound,1,normal,40,100
+192,5,Absorb,1,grass,20,100
+192,6,Pound,1,normal,40,100
+192,6,Absorb,1,grass,20,100
+192,7,Pound,1,normal,40,100
+192,7,Absorb,1,grass,20,100
+192,8,Pound,1,normal,40,100
+192,8,Absorb,1,grass,20,100
+192,8,Growth,1,normal,-,-
+192,9,Pound,1,normal,40,100
+192,9,Absorb,1,grass,20,100
+192,9,Growth,1,normal,-,-
+192,10,Pound,1,normal,40,100
+192,10,Absorb,1,grass,20,100
+192,10,Growth,1,normal,-,-
+192,11,Pound,1,normal,40,100
+192,11,Absorb,1,grass,20,100
+192,11,Growth,1,normal,-,-
+192,12,Pound,1,normal,40,100
+192,12,Absorb,1,grass,20,100
+192,13,Pound,1,normal,40,100
+192,13,Absorb,1,grass,20,100
+192,14,Pound,1,normal,40,100
+192,14,Absorb,1,grass,20,100
+192,14,Growth,1,normal,-,-
+192,15,Pound,1,normal,40,100
+192,15,Absorb,1,grass,20,100
+192,15,Growth,1,normal,-,-
+192,15,Flower Shield,1,fairy,-,-
+192,16,Pound,1,normal,40,100
+192,16,Absorb,1,grass,20,100
+192,16,Growth,1,normal,-,-
+192,16,Flower Shield,1,fairy,-,-
+192,3,Growth,4,normal,-,-
+192,4,Growth,4,normal,-,-
+192,14,Ingrain,4,grass,-,-
+192,15,Ingrain,4,grass,-,-
+192,16,Ingrain,4,grass,-,-
+192,8,Mega Drain,5,grass,40,100
+192,9,Mega Drain,5,grass,40,100
+192,10,Mega Drain,5,grass,40,100
+192,11,Mega Drain,5,grass,40,100
+192,5,Growth,6,normal,-,-
+192,6,Growth,6,normal,-,-
+192,7,Growth,6,normal,-,-
+192,12,Growth,6,normal,-,-
+192,13,Growth,6,normal,-,-
+192,14,Grass Whistle,7,grass,-,55
+192,15,Grass Whistle,7,grass,-,55
+192,16,Grass Whistle,7,grass,-,55
+192,8,Ingrain,9,grass,-,-
+192,9,Ingrain,9,grass,-,-
+192,10,Ingrain,9,grass,-,-
+192,11,Ingrain,9,grass,-,-
+192,3,Razor Leaf,10,grass,55,95
+192,4,Razor Leaf,10,grass,55,95
+192,14,Mega Drain,10,grass,40,100
+192,15,Mega Drain,10,grass,40,100
+192,16,Mega Drain,10,grass,40,100
+192,5,Razor Leaf,13,grass,55,95
+192,6,Razor Leaf,13,grass,55,95
+192,7,Razor Leaf,13,grass,55,95
+192,8,Grass Whistle,13,grass,-,55
+192,9,Grass Whistle,13,grass,-,55
+192,10,Grass Whistle,13,grass,-,55
+192,11,Grass Whistle,13,grass,-,55
+192,12,Razor Leaf,13,grass,55,95
+192,13,Razor Leaf,13,grass,55,95
+192,14,Leech Seed,13,grass,-,90
+192,15,Leech Seed,13,grass,-,90
+192,16,Leech Seed,13,grass,-,90
+192,14,Razor Leaf,16,grass,55,95
+192,15,Razor Leaf,16,grass,55,95
+192,16,Razor Leaf,16,grass,55,95
+192,8,Leech Seed,17,grass,-,90
+192,9,Leech Seed,17,grass,-,90
+192,10,Leech Seed,17,grass,-,90
+192,11,Leech Seed,17,grass,-,90
+192,5,Ingrain,18,grass,-,-
+192,6,Ingrain,18,grass,-,-
+192,7,Ingrain,18,grass,-,-
+192,12,Ingrain,18,grass,-,-
+192,13,Ingrain,18,grass,-,-
+192,3,Sunny Day,19,fire,-,-
+192,4,Sunny Day,19,fire,-,-
+192,14,Worry Seed,19,grass,-,100
+192,15,Worry Seed,19,grass,-,100
+192,16,Worry Seed,19,grass,-,100
+192,8,Bullet Seed,21,grass,25,100
+192,9,Bullet Seed,21,grass,25,100
+192,10,Bullet Seed,21,grass,25,100
+192,11,Bullet Seed,21,grass,25,100
+192,14,Giga Drain,22,grass,75,100
+192,15,Giga Drain,22,grass,75,100
+192,16,Giga Drain,22,grass,75,100
+192,5,Bullet Seed,25,grass,25,100
+192,6,Bullet Seed,25,grass,25,100
+192,7,Bullet Seed,25,grass,25,100
+192,8,Worry Seed,25,grass,-,100
+192,9,Worry Seed,25,grass,-,100
+192,10,Worry Seed,25,grass,-,100
+192,11,Worry Seed,25,grass,-,100
+192,12,Bullet Seed,25,grass,25,100
+192,13,Bullet Seed,25,grass,25,100
+192,14,Bullet Seed,25,grass,25,100
+192,15,Bullet Seed,25,grass,25,100
+192,16,Bullet Seed,25,grass,25,100
+192,14,Petal Dance,28,grass,120,100
+192,15,Petal Dance,28,grass,120,100
+192,16,Petal Dance,28,grass,120,100
+192,8,Razor Leaf,29,grass,55,95
+192,9,Razor Leaf,29,grass,55,95
+192,10,Razor Leaf,29,grass,55,95
+192,11,Razor Leaf,29,grass,55,95
+192,5,Sunny Day,30,fire,-,-
+192,6,Sunny Day,30,fire,-,-
+192,7,Sunny Day,30,fire,-,-
+192,12,Sunny Day,30,fire,-,-
+192,13,Sunny Day,30,fire,-,-
+192,3,Petal Dance,31,grass,120,100
+192,4,Petal Dance,31,grass,120,100
+192,14,Natural Gift,31,normal,-,100
+192,15,Natural Gift,31,normal,-,100
+192,16,Natural Gift,31,normal,-,100
+192,8,Petal Dance,33,grass,120,100
+192,9,Petal Dance,33,grass,120,100
+192,10,Petal Dance,33,grass,120,100
+192,11,Petal Dance,33,grass,120,100
+192,14,Solar Beam,34,grass,120,100
+192,15,Solar Beam,34,grass,120,100
+192,16,Solar Beam,34,grass,120,100
+192,5,Petal Dance,37,grass,120,100
+192,6,Petal Dance,37,grass,120,100
+192,7,Petal Dance,37,grass,120,100
+192,8,Sunny Day,37,fire,-,-
+192,9,Sunny Day,37,fire,-,-
+192,10,Sunny Day,37,fire,-,-
+192,11,Sunny Day,37,fire,-,-
+192,12,Petal Dance,37,grass,120,100
+192,13,Petal Dance,37,grass,120,100
+192,14,Double-Edge,37,normal,120,100
+192,15,Double-Edge,37,normal,120,100
+192,16,Double-Edge,37,normal,120,100
+192,14,Sunny Day,40,fire,-,-
+192,15,Sunny Day,40,fire,-,-
+192,16,Sunny Day,40,fire,-,-
+192,8,Solar Beam,41,grass,120,100
+192,9,Solar Beam,41,grass,120,100
+192,10,Solar Beam,41,grass,120,100
+192,11,Solar Beam,41,grass,120,100
+192,5,Solar Beam,42,grass,120,100
+192,6,Solar Beam,42,grass,120,100
+192,7,Solar Beam,42,grass,120,100
+192,12,Solar Beam,42,grass,120,100
+192,13,Solar Beam,42,grass,120,100
+192,8,Leaf Storm,43,grass,130,90
+192,9,Leaf Storm,43,grass,130,90
+192,10,Leaf Storm,43,grass,130,90
+192,14,Leaf Storm,43,grass,130,90
+192,15,Leaf Storm,43,grass,130,90
+192,16,Leaf Storm,43,grass,130,90
+192,11,Leaf Storm,45,grass,130,90
+192,3,Solar Beam,46,grass,120,100
+192,4,Solar Beam,46,grass,120,100
+192,15,Petal Blizzard,50,grass,90,100
+192,16,Petal Blizzard,50,grass,90,100

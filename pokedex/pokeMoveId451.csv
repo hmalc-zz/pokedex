@@ -1,100 +1,100 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-451,skorupi,8,40,Poison Sting,1,1,2
-451,skorupi,8,42,Pin Missile,1,12,
-451,skorupi,8,43,Leer,1,6,
-451,skorupi,8,44,Bite,1,1,1
-451,skorupi,8,184,Scary Face,1,28,
-451,skorupi,8,242,Crunch,1,45,
-451,skorupi,8,282,Knock Off,1,23,
-451,skorupi,8,305,Poison Fang,1,39,
-451,skorupi,8,367,Acupressure,1,17,
-451,skorupi,8,390,Toxic Spikes,1,34,
-451,skorupi,8,440,Cross Poison,1,50,
-451,skorupi,9,40,Poison Sting,1,1,2
-451,skorupi,9,42,Pin Missile,1,12,
-451,skorupi,9,43,Leer,1,1,3
-451,skorupi,9,44,Bite,1,1,1
-451,skorupi,9,184,Scary Face,1,23,
-451,skorupi,9,242,Crunch,1,45,
-451,skorupi,9,282,Knock Off,1,6,
-451,skorupi,9,305,Poison Fang,1,39,
-451,skorupi,9,367,Acupressure,1,17,
-451,skorupi,9,390,Toxic Spikes,1,28,
-451,skorupi,9,440,Cross Poison,1,50,
-451,skorupi,9,450,Bug Bite,1,34,
-451,skorupi,10,40,Poison Sting,1,1,2
-451,skorupi,10,42,Pin Missile,1,12,
-451,skorupi,10,43,Leer,1,1,3
-451,skorupi,10,44,Bite,1,1,1
-451,skorupi,10,184,Scary Face,1,23,
-451,skorupi,10,242,Crunch,1,45,
-451,skorupi,10,282,Knock Off,1,6,
-451,skorupi,10,305,Poison Fang,1,39,
-451,skorupi,10,367,Acupressure,1,17,
-451,skorupi,10,390,Toxic Spikes,1,28,
-451,skorupi,10,440,Cross Poison,1,50,
-451,skorupi,10,450,Bug Bite,1,34,
-451,skorupi,11,40,Poison Sting,1,1,2
-451,skorupi,11,42,Pin Missile,1,12,
-451,skorupi,11,43,Leer,1,1,3
-451,skorupi,11,44,Bite,1,1,1
-451,skorupi,11,184,Scary Face,1,23,
-451,skorupi,11,242,Crunch,1,56,
-451,skorupi,11,282,Knock Off,1,6,
-451,skorupi,11,305,Poison Fang,1,39,
-451,skorupi,11,367,Acupressure,1,17,
-451,skorupi,11,390,Toxic Spikes,1,28,
-451,skorupi,11,440,Cross Poison,1,61,
-451,skorupi,11,450,Bug Bite,1,34,
-451,skorupi,11,468,Hone Claws,1,45,
-451,skorupi,11,474,Venoshock,1,50,
-451,skorupi,14,40,Poison Sting,1,1,2
-451,skorupi,14,42,Pin Missile,1,9,
-451,skorupi,14,43,Leer,1,1,3
-451,skorupi,14,44,Bite,1,1,1
-451,skorupi,14,184,Scary Face,1,41,
-451,skorupi,14,228,Pursuit,1,16,
-451,skorupi,14,242,Crunch,1,45,
-451,skorupi,14,282,Knock Off,1,5,
-451,skorupi,14,305,Poison Fang,1,23,
-451,skorupi,14,367,Acupressure,1,13,
-451,skorupi,14,390,Toxic Spikes,1,34,
-451,skorupi,14,400,Night Slash,1,38,
-451,skorupi,14,440,Cross Poison,1,49,
-451,skorupi,14,450,Bug Bite,1,20,
-451,skorupi,14,468,Hone Claws,1,30,
-451,skorupi,14,474,Venoshock,1,27,
-451,skorupi,15,40,Poison Sting,1,1,2
-451,skorupi,15,42,Pin Missile,1,9,
-451,skorupi,15,43,Leer,1,1,3
-451,skorupi,15,44,Bite,1,1,1
-451,skorupi,15,184,Scary Face,1,41,
-451,skorupi,15,228,Pursuit,1,16,
-451,skorupi,15,242,Crunch,1,45,
-451,skorupi,15,282,Knock Off,1,5,
-451,skorupi,15,305,Poison Fang,1,23,
-451,skorupi,15,367,Acupressure,1,13,
-451,skorupi,15,390,Toxic Spikes,1,34,
-451,skorupi,15,400,Night Slash,1,38,
-451,skorupi,15,440,Cross Poison,1,49,
-451,skorupi,15,450,Bug Bite,1,20,
-451,skorupi,15,468,Hone Claws,1,30,
-451,skorupi,15,474,Venoshock,1,27,
-451,skorupi,15,565,Fell Stinger,1,47,
-451,skorupi,16,40,Poison Sting,1,1,2
-451,skorupi,16,42,Pin Missile,1,9,1
-451,skorupi,16,43,Leer,1,1,3
-451,skorupi,16,44,Bite,1,1,1
-451,skorupi,16,184,Scary Face,1,41,1
-451,skorupi,16,228,Pursuit,1,16,1
-451,skorupi,16,242,Crunch,1,45,1
-451,skorupi,16,282,Knock Off,1,5,1
-451,skorupi,16,305,Poison Fang,1,23,1
-451,skorupi,16,367,Acupressure,1,13,1
-451,skorupi,16,390,Toxic Spikes,1,34,1
-451,skorupi,16,400,Night Slash,1,38,1
-451,skorupi,16,440,Cross Poison,1,49,1
-451,skorupi,16,450,Bug Bite,1,20,1
-451,skorupi,16,468,Hone Claws,1,30,1
-451,skorupi,16,474,Venoshock,1,27,1
-451,skorupi,16,565,Fell Stinger,1,47,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+451,8,Poison Sting,1,poison,15,100
+451,8,Bite,1,dark,60,100
+451,9,Poison Sting,1,poison,15,100
+451,9,Leer,1,normal,-,100
+451,9,Bite,1,dark,60,100
+451,10,Poison Sting,1,poison,15,100
+451,10,Leer,1,normal,-,100
+451,10,Bite,1,dark,60,100
+451,11,Poison Sting,1,poison,15,100
+451,11,Leer,1,normal,-,100
+451,11,Bite,1,dark,60,100
+451,14,Poison Sting,1,poison,15,100
+451,14,Leer,1,normal,-,100
+451,14,Bite,1,dark,60,100
+451,15,Poison Sting,1,poison,15,100
+451,15,Leer,1,normal,-,100
+451,15,Bite,1,dark,60,100
+451,16,Poison Sting,1,poison,15,100
+451,16,Leer,1,normal,-,100
+451,16,Bite,1,dark,60,100
+451,14,Knock Off,5,dark,65,100
+451,15,Knock Off,5,dark,65,100
+451,16,Knock Off,5,dark,65,100
+451,8,Leer,6,normal,-,100
+451,9,Knock Off,6,dark,65,100
+451,10,Knock Off,6,dark,65,100
+451,11,Knock Off,6,dark,65,100
+451,14,Pin Missile,9,bug,25,95
+451,15,Pin Missile,9,bug,25,95
+451,16,Pin Missile,9,bug,25,95
+451,8,Pin Missile,12,bug,25,95
+451,9,Pin Missile,12,bug,25,95
+451,10,Pin Missile,12,bug,25,95
+451,11,Pin Missile,12,bug,25,95
+451,14,Acupressure,13,normal,-,-
+451,15,Acupressure,13,normal,-,-
+451,16,Acupressure,13,normal,-,-
+451,14,Pursuit,16,dark,40,100
+451,15,Pursuit,16,dark,40,100
+451,16,Pursuit,16,dark,40,100
+451,8,Acupressure,17,normal,-,-
+451,9,Acupressure,17,normal,-,-
+451,10,Acupressure,17,normal,-,-
+451,11,Acupressure,17,normal,-,-
+451,14,Bug Bite,20,bug,60,100
+451,15,Bug Bite,20,bug,60,100
+451,16,Bug Bite,20,bug,60,100
+451,8,Knock Off,23,dark,65,100
+451,9,Scary Face,23,normal,-,100
+451,10,Scary Face,23,normal,-,100
+451,11,Scary Face,23,normal,-,100
+451,14,Poison Fang,23,poison,50,100
+451,15,Poison Fang,23,poison,50,100
+451,16,Poison Fang,23,poison,50,100
+451,14,Venoshock,27,poison,65,100
+451,15,Venoshock,27,poison,65,100
+451,16,Venoshock,27,poison,65,100
+451,8,Scary Face,28,normal,-,100
+451,9,Toxic Spikes,28,poison,-,-
+451,10,Toxic Spikes,28,poison,-,-
+451,11,Toxic Spikes,28,poison,-,-
+451,14,Hone Claws,30,dark,-,-
+451,15,Hone Claws,30,dark,-,-
+451,16,Hone Claws,30,dark,-,-
+451,8,Toxic Spikes,34,poison,-,-
+451,9,Bug Bite,34,bug,60,100
+451,10,Bug Bite,34,bug,60,100
+451,11,Bug Bite,34,bug,60,100
+451,14,Toxic Spikes,34,poison,-,-
+451,15,Toxic Spikes,34,poison,-,-
+451,16,Toxic Spikes,34,poison,-,-
+451,14,Night Slash,38,dark,70,100
+451,15,Night Slash,38,dark,70,100
+451,16,Night Slash,38,dark,70,100
+451,8,Poison Fang,39,poison,50,100
+451,9,Poison Fang,39,poison,50,100
+451,10,Poison Fang,39,poison,50,100
+451,11,Poison Fang,39,poison,50,100
+451,14,Scary Face,41,normal,-,100
+451,15,Scary Face,41,normal,-,100
+451,16,Scary Face,41,normal,-,100
+451,8,Crunch,45,dark,80,100
+451,9,Crunch,45,dark,80,100
+451,10,Crunch,45,dark,80,100
+451,11,Hone Claws,45,dark,-,-
+451,14,Crunch,45,dark,80,100
+451,15,Crunch,45,dark,80,100
+451,16,Crunch,45,dark,80,100
+451,15,Fell Stinger,47,bug,30,100
+451,16,Fell Stinger,47,bug,30,100
+451,14,Cross Poison,49,poison,70,100
+451,15,Cross Poison,49,poison,70,100
+451,16,Cross Poison,49,poison,70,100
+451,8,Cross Poison,50,poison,70,100
+451,9,Cross Poison,50,poison,70,100
+451,10,Cross Poison,50,poison,70,100
+451,11,Venoshock,50,poison,65,100
+451,11,Crunch,56,dark,80,100
+451,11,Cross Poison,61,poison,70,100

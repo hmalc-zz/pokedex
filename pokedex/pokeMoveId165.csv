@@ -1,162 +1,162 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-165,ledyba,3,4,Comet Punch,1,15,
-165,ledyba,3,33,Tackle,1,1,
-165,ledyba,3,38,Double-Edge,1,50,
-165,ledyba,3,48,Supersonic,1,8,
-165,ledyba,3,97,Agility,1,43,
-165,ledyba,3,113,Light Screen,1,22,1
-165,ledyba,3,115,Reflect,1,22,2
-165,ledyba,3,129,Swift,1,36,
-165,ledyba,3,219,Safeguard,1,22,3
-165,ledyba,3,226,Baton Pass,1,29,
-165,ledyba,4,4,Comet Punch,1,15,
-165,ledyba,4,33,Tackle,1,1,
-165,ledyba,4,38,Double-Edge,1,50,
-165,ledyba,4,48,Supersonic,1,8,
-165,ledyba,4,97,Agility,1,43,
-165,ledyba,4,113,Light Screen,1,22,1
-165,ledyba,4,115,Reflect,1,22,2
-165,ledyba,4,129,Swift,1,36,
-165,ledyba,4,219,Safeguard,1,22,3
-165,ledyba,4,226,Baton Pass,1,29,
-165,ledyba,5,4,Comet Punch,1,15,
-165,ledyba,5,33,Tackle,1,1,
-165,ledyba,5,38,Double-Edge,1,50,
-165,ledyba,5,48,Supersonic,1,8,
-165,ledyba,5,97,Agility,1,43,
-165,ledyba,5,113,Light Screen,1,22,1
-165,ledyba,5,115,Reflect,1,22,2
-165,ledyba,5,129,Swift,1,36,
-165,ledyba,5,219,Safeguard,1,22,3
-165,ledyba,5,226,Baton Pass,1,29,
-165,ledyba,6,4,Comet Punch,1,15,
-165,ledyba,6,33,Tackle,1,1,
-165,ledyba,6,38,Double-Edge,1,50,
-165,ledyba,6,48,Supersonic,1,8,
-165,ledyba,6,97,Agility,1,43,
-165,ledyba,6,113,Light Screen,1,22,1
-165,ledyba,6,115,Reflect,1,22,2
-165,ledyba,6,129,Swift,1,36,
-165,ledyba,6,219,Safeguard,1,22,3
-165,ledyba,6,226,Baton Pass,1,29,
-165,ledyba,7,4,Comet Punch,1,15,
-165,ledyba,7,33,Tackle,1,1,
-165,ledyba,7,38,Double-Edge,1,50,
-165,ledyba,7,48,Supersonic,1,8,
-165,ledyba,7,97,Agility,1,43,
-165,ledyba,7,113,Light Screen,1,22,1
-165,ledyba,7,115,Reflect,1,22,2
-165,ledyba,7,129,Swift,1,36,
-165,ledyba,7,219,Safeguard,1,22,3
-165,ledyba,7,226,Baton Pass,1,29,
-165,ledyba,8,4,Comet Punch,1,9,
-165,ledyba,8,33,Tackle,1,1,
-165,ledyba,8,38,Double-Edge,1,38,
-165,ledyba,8,48,Supersonic,1,6,
-165,ledyba,8,97,Agility,1,30,
-165,ledyba,8,113,Light Screen,1,14,1
-165,ledyba,8,115,Reflect,1,14,2
-165,ledyba,8,129,Swift,1,33,
-165,ledyba,8,183,Mach Punch,1,17,
-165,ledyba,8,219,Safeguard,1,14,3
-165,ledyba,8,226,Baton Pass,1,22,
-165,ledyba,8,318,Silver Wind,1,25,
-165,ledyba,8,405,Bug Buzz,1,41,
-165,ledyba,9,4,Comet Punch,1,9,
-165,ledyba,9,33,Tackle,1,1,
-165,ledyba,9,38,Double-Edge,1,38,
-165,ledyba,9,48,Supersonic,1,6,
-165,ledyba,9,97,Agility,1,30,
-165,ledyba,9,113,Light Screen,1,14,1
-165,ledyba,9,115,Reflect,1,14,2
-165,ledyba,9,129,Swift,1,33,
-165,ledyba,9,183,Mach Punch,1,17,
-165,ledyba,9,219,Safeguard,1,14,3
-165,ledyba,9,226,Baton Pass,1,22,
-165,ledyba,9,318,Silver Wind,1,25,
-165,ledyba,9,405,Bug Buzz,1,41,
-165,ledyba,10,4,Comet Punch,1,9,
-165,ledyba,10,33,Tackle,1,1,
-165,ledyba,10,38,Double-Edge,1,38,
-165,ledyba,10,48,Supersonic,1,6,
-165,ledyba,10,97,Agility,1,30,
-165,ledyba,10,113,Light Screen,1,14,1
-165,ledyba,10,115,Reflect,1,14,2
-165,ledyba,10,129,Swift,1,33,
-165,ledyba,10,183,Mach Punch,1,17,
-165,ledyba,10,219,Safeguard,1,14,3
-165,ledyba,10,226,Baton Pass,1,22,
-165,ledyba,10,318,Silver Wind,1,25,
-165,ledyba,10,405,Bug Buzz,1,41,
-165,ledyba,11,4,Comet Punch,1,9,
-165,ledyba,11,33,Tackle,1,1,
-165,ledyba,11,38,Double-Edge,1,38,
-165,ledyba,11,48,Supersonic,1,6,
-165,ledyba,11,97,Agility,1,30,
-165,ledyba,11,113,Light Screen,1,14,1
-165,ledyba,11,115,Reflect,1,14,2
-165,ledyba,11,129,Swift,1,33,
-165,ledyba,11,183,Mach Punch,1,17,
-165,ledyba,11,219,Safeguard,1,14,3
-165,ledyba,11,226,Baton Pass,1,22,
-165,ledyba,11,318,Silver Wind,1,25,
-165,ledyba,11,405,Bug Buzz,1,41,
-165,ledyba,12,4,Comet Punch,1,15,
-165,ledyba,12,33,Tackle,1,1,
-165,ledyba,12,38,Double-Edge,1,50,
-165,ledyba,12,48,Supersonic,1,8,
-165,ledyba,12,97,Agility,1,43,
-165,ledyba,12,113,Light Screen,1,22,1
-165,ledyba,12,115,Reflect,1,22,2
-165,ledyba,12,129,Swift,1,36,
-165,ledyba,12,219,Safeguard,1,22,3
-165,ledyba,12,226,Baton Pass,1,29,
-165,ledyba,13,4,Comet Punch,1,15,
-165,ledyba,13,33,Tackle,1,1,
-165,ledyba,13,38,Double-Edge,1,50,
-165,ledyba,13,48,Supersonic,1,8,
-165,ledyba,13,97,Agility,1,43,
-165,ledyba,13,113,Light Screen,1,22,1
-165,ledyba,13,115,Reflect,1,22,2
-165,ledyba,13,129,Swift,1,36,
-165,ledyba,13,219,Safeguard,1,22,3
-165,ledyba,13,226,Baton Pass,1,29,
-165,ledyba,14,4,Comet Punch,1,9,
-165,ledyba,14,33,Tackle,1,1,
-165,ledyba,14,38,Double-Edge,1,38,
-165,ledyba,14,48,Supersonic,1,6,
-165,ledyba,14,97,Agility,1,30,
-165,ledyba,14,113,Light Screen,1,14,1
-165,ledyba,14,115,Reflect,1,14,2
-165,ledyba,14,129,Swift,1,33,
-165,ledyba,14,183,Mach Punch,1,17,
-165,ledyba,14,219,Safeguard,1,14,3
-165,ledyba,14,226,Baton Pass,1,22,
-165,ledyba,14,318,Silver Wind,1,25,
-165,ledyba,14,405,Bug Buzz,1,41,
-165,ledyba,15,4,Comet Punch,1,9,
-165,ledyba,15,33,Tackle,1,1,
-165,ledyba,15,38,Double-Edge,1,38,
-165,ledyba,15,48,Supersonic,1,6,
-165,ledyba,15,97,Agility,1,30,
-165,ledyba,15,113,Light Screen,1,14,1
-165,ledyba,15,115,Reflect,1,14,2
-165,ledyba,15,129,Swift,1,33,
-165,ledyba,15,183,Mach Punch,1,17,
-165,ledyba,15,219,Safeguard,1,14,3
-165,ledyba,15,226,Baton Pass,1,22,
-165,ledyba,15,318,Silver Wind,1,25,
-165,ledyba,15,405,Bug Buzz,1,41,
-165,ledyba,16,4,Comet Punch,1,9,1
-165,ledyba,16,33,Tackle,1,1,1
-165,ledyba,16,38,Double-Edge,1,38,1
-165,ledyba,16,48,Supersonic,1,6,1
-165,ledyba,16,97,Agility,1,30,1
-165,ledyba,16,113,Light Screen,1,14,1
-165,ledyba,16,115,Reflect,1,14,2
-165,ledyba,16,129,Swift,1,33,1
-165,ledyba,16,183,Mach Punch,1,17,1
-165,ledyba,16,219,Safeguard,1,14,3
-165,ledyba,16,226,Baton Pass,1,22,1
-165,ledyba,16,318,Silver Wind,1,25,1
-165,ledyba,16,405,Bug Buzz,1,41,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+165,3,Tackle,1,normal,50,100
+165,4,Tackle,1,normal,50,100
+165,5,Tackle,1,normal,50,100
+165,6,Tackle,1,normal,50,100
+165,7,Tackle,1,normal,50,100
+165,8,Tackle,1,normal,50,100
+165,9,Tackle,1,normal,50,100
+165,10,Tackle,1,normal,50,100
+165,11,Tackle,1,normal,50,100
+165,12,Tackle,1,normal,50,100
+165,13,Tackle,1,normal,50,100
+165,14,Tackle,1,normal,50,100
+165,15,Tackle,1,normal,50,100
+165,16,Tackle,1,normal,50,100
+165,8,Supersonic,6,normal,-,55
+165,9,Supersonic,6,normal,-,55
+165,10,Supersonic,6,normal,-,55
+165,11,Supersonic,6,normal,-,55
+165,14,Supersonic,6,normal,-,55
+165,15,Supersonic,6,normal,-,55
+165,16,Supersonic,6,normal,-,55
+165,3,Supersonic,8,normal,-,55
+165,4,Supersonic,8,normal,-,55
+165,5,Supersonic,8,normal,-,55
+165,6,Supersonic,8,normal,-,55
+165,7,Supersonic,8,normal,-,55
+165,12,Supersonic,8,normal,-,55
+165,13,Supersonic,8,normal,-,55
+165,8,Comet Punch,9,normal,18,85
+165,9,Comet Punch,9,normal,18,85
+165,10,Comet Punch,9,normal,18,85
+165,11,Comet Punch,9,normal,18,85
+165,14,Comet Punch,9,normal,18,85
+165,15,Comet Punch,9,normal,18,85
+165,16,Comet Punch,9,normal,18,85
+165,8,Light Screen,14,psychic,-,-
+165,8,Reflect,14,psychic,-,-
+165,8,Safeguard,14,normal,-,-
+165,9,Light Screen,14,psychic,-,-
+165,9,Reflect,14,psychic,-,-
+165,9,Safeguard,14,normal,-,-
+165,10,Light Screen,14,psychic,-,-
+165,10,Reflect,14,psychic,-,-
+165,10,Safeguard,14,normal,-,-
+165,11,Light Screen,14,psychic,-,-
+165,11,Reflect,14,psychic,-,-
+165,11,Safeguard,14,normal,-,-
+165,14,Light Screen,14,psychic,-,-
+165,14,Reflect,14,psychic,-,-
+165,14,Safeguard,14,normal,-,-
+165,15,Light Screen,14,psychic,-,-
+165,15,Reflect,14,psychic,-,-
+165,15,Safeguard,14,normal,-,-
+165,16,Light Screen,14,psychic,-,-
+165,16,Reflect,14,psychic,-,-
+165,16,Safeguard,14,normal,-,-
+165,3,Comet Punch,15,normal,18,85
+165,4,Comet Punch,15,normal,18,85
+165,5,Comet Punch,15,normal,18,85
+165,6,Comet Punch,15,normal,18,85
+165,7,Comet Punch,15,normal,18,85
+165,12,Comet Punch,15,normal,18,85
+165,13,Comet Punch,15,normal,18,85
+165,8,Mach Punch,17,fighting,40,100
+165,9,Mach Punch,17,fighting,40,100
+165,10,Mach Punch,17,fighting,40,100
+165,11,Mach Punch,17,fighting,40,100
+165,14,Mach Punch,17,fighting,40,100
+165,15,Mach Punch,17,fighting,40,100
+165,16,Mach Punch,17,fighting,40,100
+165,3,Light Screen,22,psychic,-,-
+165,3,Reflect,22,psychic,-,-
+165,3,Safeguard,22,normal,-,-
+165,4,Light Screen,22,psychic,-,-
+165,4,Reflect,22,psychic,-,-
+165,4,Safeguard,22,normal,-,-
+165,5,Light Screen,22,psychic,-,-
+165,5,Reflect,22,psychic,-,-
+165,5,Safeguard,22,normal,-,-
+165,6,Light Screen,22,psychic,-,-
+165,6,Reflect,22,psychic,-,-
+165,6,Safeguard,22,normal,-,-
+165,7,Light Screen,22,psychic,-,-
+165,7,Reflect,22,psychic,-,-
+165,7,Safeguard,22,normal,-,-
+165,8,Baton Pass,22,normal,-,-
+165,9,Baton Pass,22,normal,-,-
+165,10,Baton Pass,22,normal,-,-
+165,11,Baton Pass,22,normal,-,-
+165,12,Light Screen,22,psychic,-,-
+165,12,Reflect,22,psychic,-,-
+165,12,Safeguard,22,normal,-,-
+165,13,Light Screen,22,psychic,-,-
+165,13,Reflect,22,psychic,-,-
+165,13,Safeguard,22,normal,-,-
+165,14,Baton Pass,22,normal,-,-
+165,15,Baton Pass,22,normal,-,-
+165,16,Baton Pass,22,normal,-,-
+165,8,Silver Wind,25,bug,60,100
+165,9,Silver Wind,25,bug,60,100
+165,10,Silver Wind,25,bug,60,100
+165,11,Silver Wind,25,bug,60,100
+165,14,Silver Wind,25,bug,60,100
+165,15,Silver Wind,25,bug,60,100
+165,16,Silver Wind,25,bug,60,100
+165,3,Baton Pass,29,normal,-,-
+165,4,Baton Pass,29,normal,-,-
+165,5,Baton Pass,29,normal,-,-
+165,6,Baton Pass,29,normal,-,-
+165,7,Baton Pass,29,normal,-,-
+165,12,Baton Pass,29,normal,-,-
+165,13,Baton Pass,29,normal,-,-
+165,8,Agility,30,psychic,-,-
+165,9,Agility,30,psychic,-,-
+165,10,Agility,30,psychic,-,-
+165,11,Agility,30,psychic,-,-
+165,14,Agility,30,psychic,-,-
+165,15,Agility,30,psychic,-,-
+165,16,Agility,30,psychic,-,-
+165,8,Swift,33,normal,60,-
+165,9,Swift,33,normal,60,-
+165,10,Swift,33,normal,60,-
+165,11,Swift,33,normal,60,-
+165,14,Swift,33,normal,60,-
+165,15,Swift,33,normal,60,-
+165,16,Swift,33,normal,60,-
+165,3,Swift,36,normal,60,-
+165,4,Swift,36,normal,60,-
+165,5,Swift,36,normal,60,-
+165,6,Swift,36,normal,60,-
+165,7,Swift,36,normal,60,-
+165,12,Swift,36,normal,60,-
+165,13,Swift,36,normal,60,-
+165,8,Double-Edge,38,normal,120,100
+165,9,Double-Edge,38,normal,120,100
+165,10,Double-Edge,38,normal,120,100
+165,11,Double-Edge,38,normal,120,100
+165,14,Double-Edge,38,normal,120,100
+165,15,Double-Edge,38,normal,120,100
+165,16,Double-Edge,38,normal,120,100
+165,8,Bug Buzz,41,bug,90,100
+165,9,Bug Buzz,41,bug,90,100
+165,10,Bug Buzz,41,bug,90,100
+165,11,Bug Buzz,41,bug,90,100
+165,14,Bug Buzz,41,bug,90,100
+165,15,Bug Buzz,41,bug,90,100
+165,16,Bug Buzz,41,bug,90,100
+165,3,Agility,43,psychic,-,-
+165,4,Agility,43,psychic,-,-
+165,5,Agility,43,psychic,-,-
+165,6,Agility,43,psychic,-,-
+165,7,Agility,43,psychic,-,-
+165,12,Agility,43,psychic,-,-
+165,13,Agility,43,psychic,-,-
+165,3,Double-Edge,50,normal,120,100
+165,4,Double-Edge,50,normal,120,100
+165,5,Double-Edge,50,normal,120,100
+165,6,Double-Edge,50,normal,120,100
+165,7,Double-Edge,50,normal,120,100
+165,12,Double-Edge,50,normal,120,100
+165,13,Double-Edge,50,normal,120,100

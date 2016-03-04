@@ -1,145 +1,145 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-384,rayquaza,5,19,Fly,1,45,
-384,rayquaza,5,63,Hyper Beam,1,75,
-384,rayquaza,5,156,Rest,1,50,
-384,rayquaza,5,184,Scary Face,1,5,
-384,rayquaza,5,200,Outrage,1,65,
-384,rayquaza,5,239,Twister,1,1,
-384,rayquaza,5,242,Crunch,1,35,
-384,rayquaza,5,245,Extreme Speed,1,60,
-384,rayquaza,5,246,Ancient Power,1,15,
-384,rayquaza,5,337,Dragon Claw,1,20,
-384,rayquaza,5,349,Dragon Dance,1,30,
-384,rayquaza,6,19,Fly,1,45,
-384,rayquaza,6,63,Hyper Beam,1,75,
-384,rayquaza,6,156,Rest,1,50,
-384,rayquaza,6,184,Scary Face,1,5,
-384,rayquaza,6,200,Outrage,1,65,
-384,rayquaza,6,239,Twister,1,1,
-384,rayquaza,6,242,Crunch,1,35,
-384,rayquaza,6,245,Extreme Speed,1,60,
-384,rayquaza,6,246,Ancient Power,1,15,
-384,rayquaza,6,337,Dragon Claw,1,20,
-384,rayquaza,6,349,Dragon Dance,1,30,
-384,rayquaza,7,19,Fly,1,45,
-384,rayquaza,7,63,Hyper Beam,1,75,
-384,rayquaza,7,156,Rest,1,50,
-384,rayquaza,7,184,Scary Face,1,5,
-384,rayquaza,7,200,Outrage,1,65,
-384,rayquaza,7,239,Twister,1,1,
-384,rayquaza,7,242,Crunch,1,35,
-384,rayquaza,7,245,Extreme Speed,1,60,
-384,rayquaza,7,246,Ancient Power,1,15,
-384,rayquaza,7,337,Dragon Claw,1,20,
-384,rayquaza,7,349,Dragon Dance,1,30,
-384,rayquaza,8,19,Fly,1,45,
-384,rayquaza,8,63,Hyper Beam,1,65,
-384,rayquaza,8,156,Rest,1,50,
-384,rayquaza,8,184,Scary Face,1,5,
-384,rayquaza,8,200,Outrage,1,80,
-384,rayquaza,8,239,Twister,1,1,
-384,rayquaza,8,242,Crunch,1,35,
-384,rayquaza,8,245,Extreme Speed,1,60,
-384,rayquaza,8,246,Ancient Power,1,15,
-384,rayquaza,8,337,Dragon Claw,1,20,
-384,rayquaza,8,349,Dragon Dance,1,30,
-384,rayquaza,8,406,Dragon Pulse,1,75,
-384,rayquaza,9,19,Fly,1,45,
-384,rayquaza,9,63,Hyper Beam,1,65,
-384,rayquaza,9,156,Rest,1,50,
-384,rayquaza,9,184,Scary Face,1,5,
-384,rayquaza,9,200,Outrage,1,80,
-384,rayquaza,9,239,Twister,1,1,
-384,rayquaza,9,242,Crunch,1,35,
-384,rayquaza,9,245,Extreme Speed,1,60,
-384,rayquaza,9,246,Ancient Power,1,15,
-384,rayquaza,9,337,Dragon Claw,1,20,
-384,rayquaza,9,349,Dragon Dance,1,30,
-384,rayquaza,9,406,Dragon Pulse,1,75,
-384,rayquaza,10,19,Fly,1,65,
-384,rayquaza,10,63,Hyper Beam,1,80,
-384,rayquaza,10,156,Rest,1,30,
-384,rayquaza,10,184,Scary Face,1,5,
-384,rayquaza,10,200,Outrage,1,50,
-384,rayquaza,10,239,Twister,1,1,
-384,rayquaza,10,242,Crunch,1,15,
-384,rayquaza,10,245,Extreme Speed,1,75,
-384,rayquaza,10,246,Ancient Power,1,45,
-384,rayquaza,10,304,Hyper Voice,1,20,
-384,rayquaza,10,349,Dragon Dance,1,60,
-384,rayquaza,10,403,Air Slash,1,35,
-384,rayquaza,10,406,Dragon Pulse,1,90,
-384,rayquaza,11,19,Fly,1,65,
-384,rayquaza,11,63,Hyper Beam,1,80,
-384,rayquaza,11,156,Rest,1,30,
-384,rayquaza,11,184,Scary Face,1,5,
-384,rayquaza,11,200,Outrage,1,50,
-384,rayquaza,11,239,Twister,1,1,
-384,rayquaza,11,242,Crunch,1,15,
-384,rayquaza,11,245,Extreme Speed,1,75,
-384,rayquaza,11,246,Ancient Power,1,45,
-384,rayquaza,11,304,Hyper Voice,1,20,
-384,rayquaza,11,349,Dragon Dance,1,60,
-384,rayquaza,11,403,Air Slash,1,35,
-384,rayquaza,11,406,Dragon Pulse,1,90,
-384,rayquaza,12,19,Fly,1,45,
-384,rayquaza,12,63,Hyper Beam,1,75,
-384,rayquaza,12,156,Rest,1,50,
-384,rayquaza,12,184,Scary Face,1,5,
-384,rayquaza,12,200,Outrage,1,65,
-384,rayquaza,12,239,Twister,1,1,
-384,rayquaza,12,242,Crunch,1,35,
-384,rayquaza,12,245,Extreme Speed,1,60,
-384,rayquaza,12,246,Ancient Power,1,15,
-384,rayquaza,12,337,Dragon Claw,1,20,
-384,rayquaza,12,349,Dragon Dance,1,30,
-384,rayquaza,13,19,Fly,1,45,
-384,rayquaza,13,63,Hyper Beam,1,75,
-384,rayquaza,13,156,Rest,1,50,
-384,rayquaza,13,184,Scary Face,1,5,
-384,rayquaza,13,200,Outrage,1,65,
-384,rayquaza,13,239,Twister,1,1,
-384,rayquaza,13,242,Crunch,1,35,
-384,rayquaza,13,245,Extreme Speed,1,60,
-384,rayquaza,13,246,Ancient Power,1,15,
-384,rayquaza,13,337,Dragon Claw,1,20,
-384,rayquaza,13,349,Dragon Dance,1,30,
-384,rayquaza,14,19,Fly,1,65,
-384,rayquaza,14,63,Hyper Beam,1,80,
-384,rayquaza,14,156,Rest,1,30,
-384,rayquaza,14,184,Scary Face,1,5,
-384,rayquaza,14,200,Outrage,1,50,
-384,rayquaza,14,239,Twister,1,1,
-384,rayquaza,14,242,Crunch,1,15,
-384,rayquaza,14,245,Extreme Speed,1,75,
-384,rayquaza,14,246,Ancient Power,1,45,
-384,rayquaza,14,304,Hyper Voice,1,20,
-384,rayquaza,14,349,Dragon Dance,1,60,
-384,rayquaza,14,403,Air Slash,1,35,
-384,rayquaza,14,406,Dragon Pulse,1,90,
-384,rayquaza,15,19,Fly,1,65,
-384,rayquaza,15,63,Hyper Beam,1,80,
-384,rayquaza,15,156,Rest,1,30,
-384,rayquaza,15,184,Scary Face,1,5,
-384,rayquaza,15,200,Outrage,1,50,
-384,rayquaza,15,239,Twister,1,1,
-384,rayquaza,15,242,Crunch,1,15,
-384,rayquaza,15,245,Extreme Speed,1,75,
-384,rayquaza,15,246,Ancient Power,1,45,
-384,rayquaza,15,304,Hyper Voice,1,20,
-384,rayquaza,15,349,Dragon Dance,1,60,
-384,rayquaza,15,403,Air Slash,1,35,
-384,rayquaza,15,406,Dragon Pulse,1,90,
-384,rayquaza,16,19,Fly,1,65,1
-384,rayquaza,16,63,Hyper Beam,1,90,1
-384,rayquaza,16,156,Rest,1,35,1
-384,rayquaza,16,184,Scary Face,1,5,1
-384,rayquaza,16,200,Outrage,1,80,1
-384,rayquaza,16,239,Twister,1,1,1
-384,rayquaza,16,242,Crunch,1,20,1
-384,rayquaza,16,245,Extreme Speed,1,45,1
-384,rayquaza,16,246,Ancient Power,1,15,1
-384,rayquaza,16,304,Hyper Voice,1,75,1
-384,rayquaza,16,349,Dragon Dance,1,60,1
-384,rayquaza,16,403,Air Slash,1,30,1
-384,rayquaza,16,406,Dragon Pulse,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+384,5,Twister,1,dragon,40,100
+384,6,Twister,1,dragon,40,100
+384,7,Twister,1,dragon,40,100
+384,8,Twister,1,dragon,40,100
+384,9,Twister,1,dragon,40,100
+384,10,Twister,1,dragon,40,100
+384,11,Twister,1,dragon,40,100
+384,12,Twister,1,dragon,40,100
+384,13,Twister,1,dragon,40,100
+384,14,Twister,1,dragon,40,100
+384,15,Twister,1,dragon,40,100
+384,16,Twister,1,dragon,40,100
+384,5,Scary Face,5,normal,-,100
+384,6,Scary Face,5,normal,-,100
+384,7,Scary Face,5,normal,-,100
+384,8,Scary Face,5,normal,-,100
+384,9,Scary Face,5,normal,-,100
+384,10,Scary Face,5,normal,-,100
+384,11,Scary Face,5,normal,-,100
+384,12,Scary Face,5,normal,-,100
+384,13,Scary Face,5,normal,-,100
+384,14,Scary Face,5,normal,-,100
+384,15,Scary Face,5,normal,-,100
+384,16,Scary Face,5,normal,-,100
+384,5,Ancient Power,15,rock,60,100
+384,6,Ancient Power,15,rock,60,100
+384,7,Ancient Power,15,rock,60,100
+384,8,Ancient Power,15,rock,60,100
+384,9,Ancient Power,15,rock,60,100
+384,10,Crunch,15,dark,80,100
+384,11,Crunch,15,dark,80,100
+384,12,Ancient Power,15,rock,60,100
+384,13,Ancient Power,15,rock,60,100
+384,14,Crunch,15,dark,80,100
+384,15,Crunch,15,dark,80,100
+384,16,Ancient Power,15,rock,60,100
+384,5,Dragon Claw,20,dragon,80,100
+384,6,Dragon Claw,20,dragon,80,100
+384,7,Dragon Claw,20,dragon,80,100
+384,8,Dragon Claw,20,dragon,80,100
+384,9,Dragon Claw,20,dragon,80,100
+384,10,Hyper Voice,20,normal,90,100
+384,11,Hyper Voice,20,normal,90,100
+384,12,Dragon Claw,20,dragon,80,100
+384,13,Dragon Claw,20,dragon,80,100
+384,14,Hyper Voice,20,normal,90,100
+384,15,Hyper Voice,20,normal,90,100
+384,16,Crunch,20,dark,80,100
+384,5,Dragon Dance,30,dragon,-,-
+384,6,Dragon Dance,30,dragon,-,-
+384,7,Dragon Dance,30,dragon,-,-
+384,8,Dragon Dance,30,dragon,-,-
+384,9,Dragon Dance,30,dragon,-,-
+384,10,Rest,30,psychic,-,-
+384,11,Rest,30,psychic,-,-
+384,12,Dragon Dance,30,dragon,-,-
+384,13,Dragon Dance,30,dragon,-,-
+384,14,Rest,30,psychic,-,-
+384,15,Rest,30,psychic,-,-
+384,16,Air Slash,30,flying,75,95
+384,5,Crunch,35,dark,80,100
+384,6,Crunch,35,dark,80,100
+384,7,Crunch,35,dark,80,100
+384,8,Crunch,35,dark,80,100
+384,9,Crunch,35,dark,80,100
+384,10,Air Slash,35,flying,75,95
+384,11,Air Slash,35,flying,75,95
+384,12,Crunch,35,dark,80,100
+384,13,Crunch,35,dark,80,100
+384,14,Air Slash,35,flying,75,95
+384,15,Air Slash,35,flying,75,95
+384,16,Rest,35,psychic,-,-
+384,5,Fly,45,flying,90,95
+384,6,Fly,45,flying,90,95
+384,7,Fly,45,flying,90,95
+384,8,Fly,45,flying,90,95
+384,9,Fly,45,flying,90,95
+384,10,Ancient Power,45,rock,60,100
+384,11,Ancient Power,45,rock,60,100
+384,12,Fly,45,flying,90,95
+384,13,Fly,45,flying,90,95
+384,14,Ancient Power,45,rock,60,100
+384,15,Ancient Power,45,rock,60,100
+384,16,Extreme Speed,45,normal,80,100
+384,5,Rest,50,psychic,-,-
+384,6,Rest,50,psychic,-,-
+384,7,Rest,50,psychic,-,-
+384,8,Rest,50,psychic,-,-
+384,9,Rest,50,psychic,-,-
+384,10,Outrage,50,dragon,120,100
+384,11,Outrage,50,dragon,120,100
+384,12,Rest,50,psychic,-,-
+384,13,Rest,50,psychic,-,-
+384,14,Outrage,50,dragon,120,100
+384,15,Outrage,50,dragon,120,100
+384,16,Dragon Pulse,50,dragon,85,100
+384,5,Extreme Speed,60,normal,80,100
+384,6,Extreme Speed,60,normal,80,100
+384,7,Extreme Speed,60,normal,80,100
+384,8,Extreme Speed,60,normal,80,100
+384,9,Extreme Speed,60,normal,80,100
+384,10,Dragon Dance,60,dragon,-,-
+384,11,Dragon Dance,60,dragon,-,-
+384,12,Extreme Speed,60,normal,80,100
+384,13,Extreme Speed,60,normal,80,100
+384,14,Dragon Dance,60,dragon,-,-
+384,15,Dragon Dance,60,dragon,-,-
+384,16,Dragon Dance,60,dragon,-,-
+384,5,Outrage,65,dragon,120,100
+384,6,Outrage,65,dragon,120,100
+384,7,Outrage,65,dragon,120,100
+384,8,Hyper Beam,65,normal,150,90
+384,9,Hyper Beam,65,normal,150,90
+384,10,Fly,65,flying,90,95
+384,11,Fly,65,flying,90,95
+384,12,Outrage,65,dragon,120,100
+384,13,Outrage,65,dragon,120,100
+384,14,Fly,65,flying,90,95
+384,15,Fly,65,flying,90,95
+384,16,Fly,65,flying,90,95
+384,5,Hyper Beam,75,normal,150,90
+384,6,Hyper Beam,75,normal,150,90
+384,7,Hyper Beam,75,normal,150,90
+384,8,Dragon Pulse,75,dragon,85,100
+384,9,Dragon Pulse,75,dragon,85,100
+384,10,Extreme Speed,75,normal,80,100
+384,11,Extreme Speed,75,normal,80,100
+384,12,Hyper Beam,75,normal,150,90
+384,13,Hyper Beam,75,normal,150,90
+384,14,Extreme Speed,75,normal,80,100
+384,15,Extreme Speed,75,normal,80,100
+384,16,Hyper Voice,75,normal,90,100
+384,8,Outrage,80,dragon,120,100
+384,9,Outrage,80,dragon,120,100
+384,10,Hyper Beam,80,normal,150,90
+384,11,Hyper Beam,80,normal,150,90
+384,14,Hyper Beam,80,normal,150,90
+384,15,Hyper Beam,80,normal,150,90
+384,16,Outrage,80,dragon,120,100
+384,10,Dragon Pulse,90,dragon,85,100
+384,11,Dragon Pulse,90,dragon,85,100
+384,14,Dragon Pulse,90,dragon,85,100
+384,15,Dragon Pulse,90,dragon,85,100
+384,16,Hyper Beam,90,normal,150,90

@@ -1,190 +1,190 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-224,octillery,3,55,Water Gun,1,1,
-224,octillery,3,58,Ice Beam,1,54,
-224,octillery,3,60,Psybeam,1,22,1
-224,octillery,3,61,Bubble Beam,1,22,3
-224,octillery,3,62,Aurora Beam,1,22,2
-224,octillery,3,63,Hyper Beam,1,70,
-224,octillery,3,116,Focus Energy,1,38,
-224,octillery,3,132,Constrict,1,11,
-224,octillery,3,190,Octazooka,1,25,
-224,octillery,4,55,Water Gun,1,1,
-224,octillery,4,58,Ice Beam,1,54,
-224,octillery,4,60,Psybeam,1,22,1
-224,octillery,4,61,Bubble Beam,1,22,3
-224,octillery,4,62,Aurora Beam,1,22,2
-224,octillery,4,63,Hyper Beam,1,70,
-224,octillery,4,116,Focus Energy,1,38,
-224,octillery,4,132,Constrict,1,11,
-224,octillery,4,190,Octazooka,1,25,
-224,octillery,5,55,Water Gun,1,1,
-224,octillery,5,58,Ice Beam,1,54,
-224,octillery,5,60,Psybeam,1,22,1
-224,octillery,5,61,Bubble Beam,1,22,3
-224,octillery,5,62,Aurora Beam,1,22,2
-224,octillery,5,63,Hyper Beam,1,70,
-224,octillery,5,116,Focus Energy,1,38,
-224,octillery,5,132,Constrict,1,11,
-224,octillery,5,190,Octazooka,1,25,
-224,octillery,6,55,Water Gun,1,1,
-224,octillery,6,58,Ice Beam,1,54,
-224,octillery,6,60,Psybeam,1,22,1
-224,octillery,6,61,Bubble Beam,1,22,3
-224,octillery,6,62,Aurora Beam,1,22,2
-224,octillery,6,63,Hyper Beam,1,70,
-224,octillery,6,116,Focus Energy,1,38,
-224,octillery,6,132,Constrict,1,11,
-224,octillery,6,190,Octazooka,1,25,
-224,octillery,7,55,Water Gun,1,1,
-224,octillery,7,58,Ice Beam,1,54,
-224,octillery,7,60,Psybeam,1,22,1
-224,octillery,7,61,Bubble Beam,1,22,3
-224,octillery,7,62,Aurora Beam,1,22,2
-224,octillery,7,63,Hyper Beam,1,70,
-224,octillery,7,116,Focus Energy,1,38,
-224,octillery,7,132,Constrict,1,11,
-224,octillery,7,190,Octazooka,1,25,
-224,octillery,8,55,Water Gun,1,1,3
-224,octillery,8,58,Ice Beam,1,48,
-224,octillery,8,60,Psybeam,1,1,5
-224,octillery,8,60,Psybeam,1,10,
-224,octillery,8,61,Bubble Beam,1,19,
-224,octillery,8,62,Aurora Beam,1,1,6
-224,octillery,8,62,Aurora Beam,1,14,
-224,octillery,8,63,Hyper Beam,1,55,
-224,octillery,8,116,Focus Energy,1,23,
-224,octillery,8,132,Constrict,1,1,4
-224,octillery,8,132,Constrict,1,6,
-224,octillery,8,190,Octazooka,1,25,
-224,octillery,8,324,Signal Beam,1,42,
-224,octillery,8,331,Bullet Seed,1,29,
-224,octillery,8,350,Rock Blast,1,1,2
-224,octillery,8,378,Wring Out,1,36,
-224,octillery,8,441,Gunk Shot,1,1,1
-224,octillery,9,55,Water Gun,1,1,3
-224,octillery,9,58,Ice Beam,1,48,
-224,octillery,9,60,Psybeam,1,1,5
-224,octillery,9,60,Psybeam,1,10,
-224,octillery,9,61,Bubble Beam,1,19,
-224,octillery,9,62,Aurora Beam,1,1,6
-224,octillery,9,62,Aurora Beam,1,14,
-224,octillery,9,63,Hyper Beam,1,55,
-224,octillery,9,116,Focus Energy,1,23,
-224,octillery,9,132,Constrict,1,1,4
-224,octillery,9,132,Constrict,1,6,
-224,octillery,9,190,Octazooka,1,25,
-224,octillery,9,324,Signal Beam,1,42,
-224,octillery,9,331,Bullet Seed,1,29,
-224,octillery,9,350,Rock Blast,1,1,2
-224,octillery,9,378,Wring Out,1,36,
-224,octillery,9,441,Gunk Shot,1,1,1
-224,octillery,10,55,Water Gun,1,1,3
-224,octillery,10,58,Ice Beam,1,48,
-224,octillery,10,60,Psybeam,1,1,5
-224,octillery,10,60,Psybeam,1,10,
-224,octillery,10,61,Bubble Beam,1,19,
-224,octillery,10,62,Aurora Beam,1,1,6
-224,octillery,10,62,Aurora Beam,1,14,
-224,octillery,10,63,Hyper Beam,1,55,
-224,octillery,10,116,Focus Energy,1,23,
-224,octillery,10,132,Constrict,1,1,4
-224,octillery,10,132,Constrict,1,6,
-224,octillery,10,190,Octazooka,1,25,
-224,octillery,10,324,Signal Beam,1,42,
-224,octillery,10,331,Bullet Seed,1,29,
-224,octillery,10,350,Rock Blast,1,1,2
-224,octillery,10,378,Wring Out,1,36,
-224,octillery,10,441,Gunk Shot,1,1,1
-224,octillery,11,55,Water Gun,1,1,3
-224,octillery,11,58,Ice Beam,1,48,
-224,octillery,11,60,Psybeam,1,1,5
-224,octillery,11,60,Psybeam,1,10,
-224,octillery,11,61,Bubble Beam,1,19,
-224,octillery,11,62,Aurora Beam,1,1,6
-224,octillery,11,62,Aurora Beam,1,14,
-224,octillery,11,63,Hyper Beam,1,55,
-224,octillery,11,116,Focus Energy,1,23,
-224,octillery,11,132,Constrict,1,1,4
-224,octillery,11,132,Constrict,1,6,
-224,octillery,11,190,Octazooka,1,25,
-224,octillery,11,324,Signal Beam,1,42,
-224,octillery,11,331,Bullet Seed,1,29,
-224,octillery,11,350,Rock Blast,1,1,2
-224,octillery,11,378,Wring Out,1,36,
-224,octillery,11,441,Gunk Shot,1,1,1
-224,octillery,11,487,Soak,1,61,
-224,octillery,12,55,Water Gun,1,1,
-224,octillery,12,58,Ice Beam,1,54,
-224,octillery,12,60,Psybeam,1,22,1
-224,octillery,12,61,Bubble Beam,1,22,3
-224,octillery,12,62,Aurora Beam,1,22,2
-224,octillery,12,63,Hyper Beam,1,70,
-224,octillery,12,116,Focus Energy,1,38,
-224,octillery,12,132,Constrict,1,11,
-224,octillery,12,190,Octazooka,1,25,
-224,octillery,13,55,Water Gun,1,1,
-224,octillery,13,58,Ice Beam,1,54,
-224,octillery,13,60,Psybeam,1,22,1
-224,octillery,13,61,Bubble Beam,1,22,3
-224,octillery,13,62,Aurora Beam,1,22,2
-224,octillery,13,63,Hyper Beam,1,70,
-224,octillery,13,116,Focus Energy,1,38,
-224,octillery,13,132,Constrict,1,11,
-224,octillery,13,190,Octazooka,1,25,
-224,octillery,14,55,Water Gun,1,1,3
-224,octillery,14,56,Hydro Pump,1,52,
-224,octillery,14,58,Ice Beam,1,40,
-224,octillery,14,60,Psybeam,1,1,5
-224,octillery,14,60,Psybeam,1,10,
-224,octillery,14,61,Bubble Beam,1,18,
-224,octillery,14,62,Aurora Beam,1,1,6
-224,octillery,14,62,Aurora Beam,1,14,
-224,octillery,14,63,Hyper Beam,1,58,
-224,octillery,14,116,Focus Energy,1,22,
-224,octillery,14,132,Constrict,1,1,4
-224,octillery,14,132,Constrict,1,6,
-224,octillery,14,190,Octazooka,1,25,
-224,octillery,14,324,Signal Beam,1,34,
-224,octillery,14,331,Bullet Seed,1,46,
-224,octillery,14,350,Rock Blast,1,1,2
-224,octillery,14,378,Wring Out,1,28,
-224,octillery,14,441,Gunk Shot,1,1,1
-224,octillery,14,487,Soak,1,64,
-224,octillery,15,55,Water Gun,1,1,3
-224,octillery,15,56,Hydro Pump,1,52,
-224,octillery,15,58,Ice Beam,1,40,
-224,octillery,15,60,Psybeam,1,1,5
-224,octillery,15,60,Psybeam,1,10,
-224,octillery,15,61,Bubble Beam,1,18,
-224,octillery,15,62,Aurora Beam,1,1,6
-224,octillery,15,62,Aurora Beam,1,14,
-224,octillery,15,63,Hyper Beam,1,58,
-224,octillery,15,116,Focus Energy,1,22,
-224,octillery,15,132,Constrict,1,1,4
-224,octillery,15,132,Constrict,1,6,
-224,octillery,15,190,Octazooka,1,25,
-224,octillery,15,324,Signal Beam,1,34,
-224,octillery,15,331,Bullet Seed,1,46,
-224,octillery,15,350,Rock Blast,1,1,2
-224,octillery,15,378,Wring Out,1,28,
-224,octillery,15,441,Gunk Shot,1,1,1
-224,octillery,15,487,Soak,1,64,
-224,octillery,16,55,Water Gun,1,1,3
-224,octillery,16,56,Hydro Pump,1,52,1
-224,octillery,16,58,Ice Beam,1,40,1
-224,octillery,16,60,Psybeam,1,1,5
-224,octillery,16,60,Psybeam,1,10,1
-224,octillery,16,61,Bubble Beam,1,18,1
-224,octillery,16,62,Aurora Beam,1,1,6
-224,octillery,16,62,Aurora Beam,1,14,1
-224,octillery,16,63,Hyper Beam,1,58,1
-224,octillery,16,116,Focus Energy,1,22,1
-224,octillery,16,132,Constrict,1,1,4
-224,octillery,16,132,Constrict,1,6,1
-224,octillery,16,190,Octazooka,1,25,1
-224,octillery,16,324,Signal Beam,1,34,1
-224,octillery,16,331,Bullet Seed,1,46,1
-224,octillery,16,350,Rock Blast,1,1,2
-224,octillery,16,378,Wring Out,1,28,1
-224,octillery,16,441,Gunk Shot,1,1,1
-224,octillery,16,487,Soak,1,64,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+224,3,Water Gun,1,water,40,100
+224,4,Water Gun,1,water,40,100
+224,5,Water Gun,1,water,40,100
+224,6,Water Gun,1,water,40,100
+224,7,Water Gun,1,water,40,100
+224,8,Water Gun,1,water,40,100
+224,8,Psybeam,1,psychic,65,100
+224,8,Aurora Beam,1,ice,65,100
+224,8,Constrict,1,normal,10,100
+224,8,Rock Blast,1,rock,25,90
+224,8,Gunk Shot,1,poison,120,80
+224,9,Water Gun,1,water,40,100
+224,9,Psybeam,1,psychic,65,100
+224,9,Aurora Beam,1,ice,65,100
+224,9,Constrict,1,normal,10,100
+224,9,Rock Blast,1,rock,25,90
+224,9,Gunk Shot,1,poison,120,80
+224,10,Water Gun,1,water,40,100
+224,10,Psybeam,1,psychic,65,100
+224,10,Aurora Beam,1,ice,65,100
+224,10,Constrict,1,normal,10,100
+224,10,Rock Blast,1,rock,25,90
+224,10,Gunk Shot,1,poison,120,80
+224,11,Water Gun,1,water,40,100
+224,11,Psybeam,1,psychic,65,100
+224,11,Aurora Beam,1,ice,65,100
+224,11,Constrict,1,normal,10,100
+224,11,Rock Blast,1,rock,25,90
+224,11,Gunk Shot,1,poison,120,80
+224,12,Water Gun,1,water,40,100
+224,13,Water Gun,1,water,40,100
+224,14,Water Gun,1,water,40,100
+224,14,Psybeam,1,psychic,65,100
+224,14,Aurora Beam,1,ice,65,100
+224,14,Constrict,1,normal,10,100
+224,14,Rock Blast,1,rock,25,90
+224,14,Gunk Shot,1,poison,120,80
+224,15,Water Gun,1,water,40,100
+224,15,Psybeam,1,psychic,65,100
+224,15,Aurora Beam,1,ice,65,100
+224,15,Constrict,1,normal,10,100
+224,15,Rock Blast,1,rock,25,90
+224,15,Gunk Shot,1,poison,120,80
+224,16,Water Gun,1,water,40,100
+224,16,Psybeam,1,psychic,65,100
+224,16,Aurora Beam,1,ice,65,100
+224,16,Constrict,1,normal,10,100
+224,16,Rock Blast,1,rock,25,90
+224,16,Gunk Shot,1,poison,120,80
+224,8,Constrict,6,normal,10,100
+224,9,Constrict,6,normal,10,100
+224,10,Constrict,6,normal,10,100
+224,11,Constrict,6,normal,10,100
+224,14,Constrict,6,normal,10,100
+224,15,Constrict,6,normal,10,100
+224,16,Constrict,6,normal,10,100
+224,8,Psybeam,10,psychic,65,100
+224,9,Psybeam,10,psychic,65,100
+224,10,Psybeam,10,psychic,65,100
+224,11,Psybeam,10,psychic,65,100
+224,14,Psybeam,10,psychic,65,100
+224,15,Psybeam,10,psychic,65,100
+224,16,Psybeam,10,psychic,65,100
+224,3,Constrict,11,normal,10,100
+224,4,Constrict,11,normal,10,100
+224,5,Constrict,11,normal,10,100
+224,6,Constrict,11,normal,10,100
+224,7,Constrict,11,normal,10,100
+224,12,Constrict,11,normal,10,100
+224,13,Constrict,11,normal,10,100
+224,8,Aurora Beam,14,ice,65,100
+224,9,Aurora Beam,14,ice,65,100
+224,10,Aurora Beam,14,ice,65,100
+224,11,Aurora Beam,14,ice,65,100
+224,14,Aurora Beam,14,ice,65,100
+224,15,Aurora Beam,14,ice,65,100
+224,16,Aurora Beam,14,ice,65,100
+224,14,Bubble Beam,18,water,65,100
+224,15,Bubble Beam,18,water,65,100
+224,16,Bubble Beam,18,water,65,100
+224,8,Bubble Beam,19,water,65,100
+224,9,Bubble Beam,19,water,65,100
+224,10,Bubble Beam,19,water,65,100
+224,11,Bubble Beam,19,water,65,100
+224,3,Psybeam,22,psychic,65,100
+224,3,Bubble Beam,22,water,65,100
+224,3,Aurora Beam,22,ice,65,100
+224,4,Psybeam,22,psychic,65,100
+224,4,Bubble Beam,22,water,65,100
+224,4,Aurora Beam,22,ice,65,100
+224,5,Psybeam,22,psychic,65,100
+224,5,Bubble Beam,22,water,65,100
+224,5,Aurora Beam,22,ice,65,100
+224,6,Psybeam,22,psychic,65,100
+224,6,Bubble Beam,22,water,65,100
+224,6,Aurora Beam,22,ice,65,100
+224,7,Psybeam,22,psychic,65,100
+224,7,Bubble Beam,22,water,65,100
+224,7,Aurora Beam,22,ice,65,100
+224,12,Psybeam,22,psychic,65,100
+224,12,Bubble Beam,22,water,65,100
+224,12,Aurora Beam,22,ice,65,100
+224,13,Psybeam,22,psychic,65,100
+224,13,Bubble Beam,22,water,65,100
+224,13,Aurora Beam,22,ice,65,100
+224,14,Focus Energy,22,normal,-,-
+224,15,Focus Energy,22,normal,-,-
+224,16,Focus Energy,22,normal,-,-
+224,8,Focus Energy,23,normal,-,-
+224,9,Focus Energy,23,normal,-,-
+224,10,Focus Energy,23,normal,-,-
+224,11,Focus Energy,23,normal,-,-
+224,3,Octazooka,25,water,65,85
+224,4,Octazooka,25,water,65,85
+224,5,Octazooka,25,water,65,85
+224,6,Octazooka,25,water,65,85
+224,7,Octazooka,25,water,65,85
+224,8,Octazooka,25,water,65,85
+224,9,Octazooka,25,water,65,85
+224,10,Octazooka,25,water,65,85
+224,11,Octazooka,25,water,65,85
+224,12,Octazooka,25,water,65,85
+224,13,Octazooka,25,water,65,85
+224,14,Octazooka,25,water,65,85
+224,15,Octazooka,25,water,65,85
+224,16,Octazooka,25,water,65,85
+224,14,Wring Out,28,normal,-,100
+224,15,Wring Out,28,normal,-,100
+224,16,Wring Out,28,normal,-,100
+224,8,Bullet Seed,29,grass,25,100
+224,9,Bullet Seed,29,grass,25,100
+224,10,Bullet Seed,29,grass,25,100
+224,11,Bullet Seed,29,grass,25,100
+224,14,Signal Beam,34,bug,75,100
+224,15,Signal Beam,34,bug,75,100
+224,16,Signal Beam,34,bug,75,100
+224,8,Wring Out,36,normal,-,100
+224,9,Wring Out,36,normal,-,100
+224,10,Wring Out,36,normal,-,100
+224,11,Wring Out,36,normal,-,100
+224,3,Focus Energy,38,normal,-,-
+224,4,Focus Energy,38,normal,-,-
+224,5,Focus Energy,38,normal,-,-
+224,6,Focus Energy,38,normal,-,-
+224,7,Focus Energy,38,normal,-,-
+224,12,Focus Energy,38,normal,-,-
+224,13,Focus Energy,38,normal,-,-
+224,14,Ice Beam,40,ice,90,100
+224,15,Ice Beam,40,ice,90,100
+224,16,Ice Beam,40,ice,90,100
+224,8,Signal Beam,42,bug,75,100
+224,9,Signal Beam,42,bug,75,100
+224,10,Signal Beam,42,bug,75,100
+224,11,Signal Beam,42,bug,75,100
+224,14,Bullet Seed,46,grass,25,100
+224,15,Bullet Seed,46,grass,25,100
+224,16,Bullet Seed,46,grass,25,100
+224,8,Ice Beam,48,ice,90,100
+224,9,Ice Beam,48,ice,90,100
+224,10,Ice Beam,48,ice,90,100
+224,11,Ice Beam,48,ice,90,100
+224,14,Hydro Pump,52,water,110,80
+224,15,Hydro Pump,52,water,110,80
+224,16,Hydro Pump,52,water,110,80
+224,3,Ice Beam,54,ice,90,100
+224,4,Ice Beam,54,ice,90,100
+224,5,Ice Beam,54,ice,90,100
+224,6,Ice Beam,54,ice,90,100
+224,7,Ice Beam,54,ice,90,100
+224,12,Ice Beam,54,ice,90,100
+224,13,Ice Beam,54,ice,90,100
+224,8,Hyper Beam,55,normal,150,90
+224,9,Hyper Beam,55,normal,150,90
+224,10,Hyper Beam,55,normal,150,90
+224,11,Hyper Beam,55,normal,150,90
+224,14,Hyper Beam,58,normal,150,90
+224,15,Hyper Beam,58,normal,150,90
+224,16,Hyper Beam,58,normal,150,90
+224,11,Soak,61,water,-,100
+224,14,Soak,64,water,-,100
+224,15,Soak,64,water,-,100
+224,16,Soak,64,water,-,100
+224,3,Hyper Beam,70,normal,150,90
+224,4,Hyper Beam,70,normal,150,90
+224,5,Hyper Beam,70,normal,150,90
+224,6,Hyper Beam,70,normal,150,90
+224,7,Hyper Beam,70,normal,150,90
+224,12,Hyper Beam,70,normal,150,90
+224,13,Hyper Beam,70,normal,150,90

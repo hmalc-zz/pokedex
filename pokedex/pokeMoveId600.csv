@@ -1,73 +1,73 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-600,klang,11,11,Vice Grip,1,1,1
-600,klang,11,20,Bind,1,21,
-600,klang,11,63,Hyper Beam,1,64,
-600,klang,11,84,Thunder Shock,1,1,3
-600,klang,11,84,Thunder Shock,1,11,
-600,klang,11,103,Screech,1,40,
-600,klang,11,192,Zap Cannon,1,60,
-600,klang,11,199,Lock-On,1,56,
-600,klang,11,268,Charge,1,1,2
-600,klang,11,268,Charge,1,6,
-600,klang,11,319,Metal Sound,1,48,
-600,klang,11,429,Mirror Shot,1,36,
-600,klang,11,435,Discharge,1,44,
-600,klang,11,451,Charge Beam,1,26,
-600,klang,11,475,Autotomize,1,31,
-600,klang,11,508,Shift Gear,1,52,
-600,klang,11,544,Gear Grind,1,1,4
-600,klang,11,544,Gear Grind,1,16,
-600,klang,14,11,Vice Grip,1,1,1
-600,klang,14,20,Bind,1,21,
-600,klang,14,63,Hyper Beam,1,64,
-600,klang,14,84,Thunder Shock,1,1,3
-600,klang,14,84,Thunder Shock,1,11,
-600,klang,14,103,Screech,1,40,
-600,klang,14,192,Zap Cannon,1,60,
-600,klang,14,199,Lock-On,1,56,
-600,klang,14,268,Charge,1,1,2
-600,klang,14,268,Charge,1,6,
-600,klang,14,319,Metal Sound,1,48,
-600,klang,14,429,Mirror Shot,1,36,
-600,klang,14,435,Discharge,1,44,
-600,klang,14,451,Charge Beam,1,26,
-600,klang,14,475,Autotomize,1,31,
-600,klang,14,508,Shift Gear,1,52,
-600,klang,14,544,Gear Grind,1,1,4
-600,klang,14,544,Gear Grind,1,16,
-600,klang,15,11,Vice Grip,1,1,1
-600,klang,15,20,Bind,1,21,
-600,klang,15,63,Hyper Beam,1,64,
-600,klang,15,84,Thunder Shock,1,1,3
-600,klang,15,84,Thunder Shock,1,11,
-600,klang,15,103,Screech,1,40,
-600,klang,15,192,Zap Cannon,1,60,
-600,klang,15,199,Lock-On,1,56,
-600,klang,15,268,Charge,1,1,2
-600,klang,15,268,Charge,1,6,
-600,klang,15,319,Metal Sound,1,48,
-600,klang,15,429,Mirror Shot,1,36,
-600,klang,15,435,Discharge,1,44,
-600,klang,15,451,Charge Beam,1,26,
-600,klang,15,475,Autotomize,1,31,
-600,klang,15,508,Shift Gear,1,52,
-600,klang,15,544,Gear Grind,1,1,4
-600,klang,15,544,Gear Grind,1,16,
-600,klang,16,11,Vice Grip,1,1,1
-600,klang,16,20,Bind,1,21,1
-600,klang,16,63,Hyper Beam,1,64,1
-600,klang,16,84,Thunder Shock,1,1,3
-600,klang,16,84,Thunder Shock,1,11,1
-600,klang,16,103,Screech,1,40,1
-600,klang,16,192,Zap Cannon,1,60,1
-600,klang,16,199,Lock-On,1,56,1
-600,klang,16,268,Charge,1,1,2
-600,klang,16,268,Charge,1,6,1
-600,klang,16,319,Metal Sound,1,48,1
-600,klang,16,429,Mirror Shot,1,36,1
-600,klang,16,435,Discharge,1,44,1
-600,klang,16,451,Charge Beam,1,26,1
-600,klang,16,475,Autotomize,1,31,1
-600,klang,16,508,Shift Gear,1,52,1
-600,klang,16,544,Gear Grind,1,1,4
-600,klang,16,544,Gear Grind,1,16,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+600,11,Vice Grip,1,normal,55,100
+600,11,Thunder Shock,1,electric,40,100
+600,11,Charge,1,electric,-,-
+600,11,Gear Grind,1,steel,50,85
+600,14,Vice Grip,1,normal,55,100
+600,14,Thunder Shock,1,electric,40,100
+600,14,Charge,1,electric,-,-
+600,14,Gear Grind,1,steel,50,85
+600,15,Vice Grip,1,normal,55,100
+600,15,Thunder Shock,1,electric,40,100
+600,15,Charge,1,electric,-,-
+600,15,Gear Grind,1,steel,50,85
+600,16,Vice Grip,1,normal,55,100
+600,16,Thunder Shock,1,electric,40,100
+600,16,Charge,1,electric,-,-
+600,16,Gear Grind,1,steel,50,85
+600,11,Charge,6,electric,-,-
+600,14,Charge,6,electric,-,-
+600,15,Charge,6,electric,-,-
+600,16,Charge,6,electric,-,-
+600,11,Thunder Shock,11,electric,40,100
+600,14,Thunder Shock,11,electric,40,100
+600,15,Thunder Shock,11,electric,40,100
+600,16,Thunder Shock,11,electric,40,100
+600,11,Gear Grind,16,steel,50,85
+600,14,Gear Grind,16,steel,50,85
+600,15,Gear Grind,16,steel,50,85
+600,16,Gear Grind,16,steel,50,85
+600,11,Bind,21,normal,15,85
+600,14,Bind,21,normal,15,85
+600,15,Bind,21,normal,15,85
+600,16,Bind,21,normal,15,85
+600,11,Charge Beam,26,electric,50,90
+600,14,Charge Beam,26,electric,50,90
+600,15,Charge Beam,26,electric,50,90
+600,16,Charge Beam,26,electric,50,90
+600,11,Autotomize,31,steel,-,-
+600,14,Autotomize,31,steel,-,-
+600,15,Autotomize,31,steel,-,-
+600,16,Autotomize,31,steel,-,-
+600,11,Mirror Shot,36,steel,65,85
+600,14,Mirror Shot,36,steel,65,85
+600,15,Mirror Shot,36,steel,65,85
+600,16,Mirror Shot,36,steel,65,85
+600,11,Screech,40,normal,-,85
+600,14,Screech,40,normal,-,85
+600,15,Screech,40,normal,-,85
+600,16,Screech,40,normal,-,85
+600,11,Discharge,44,electric,80,100
+600,14,Discharge,44,electric,80,100
+600,15,Discharge,44,electric,80,100
+600,16,Discharge,44,electric,80,100
+600,11,Metal Sound,48,steel,-,85
+600,14,Metal Sound,48,steel,-,85
+600,15,Metal Sound,48,steel,-,85
+600,16,Metal Sound,48,steel,-,85
+600,11,Shift Gear,52,steel,-,-
+600,14,Shift Gear,52,steel,-,-
+600,15,Shift Gear,52,steel,-,-
+600,16,Shift Gear,52,steel,-,-
+600,11,Lock-On,56,normal,-,-
+600,14,Lock-On,56,normal,-,-
+600,15,Lock-On,56,normal,-,-
+600,16,Lock-On,56,normal,-,-
+600,11,Zap Cannon,60,electric,120,50
+600,14,Zap Cannon,60,electric,120,50
+600,15,Zap Cannon,60,electric,120,50
+600,16,Zap Cannon,60,electric,120,50
+600,11,Hyper Beam,64,normal,150,90
+600,14,Hyper Beam,64,normal,150,90
+600,15,Hyper Beam,64,normal,150,90
+600,16,Hyper Beam,64,normal,150,90

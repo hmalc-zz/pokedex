@@ -1,185 +1,185 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-115,kangaskhan,1,4,Comet Punch,1,1,1
-115,kangaskhan,1,5,Mega Punch,1,36,
-115,kangaskhan,1,39,Tail Whip,1,31,
-115,kangaskhan,1,43,Leer,1,41,
-115,kangaskhan,1,44,Bite,1,26,
-115,kangaskhan,1,99,Rage,1,1,2
-115,kangaskhan,1,146,Dizzy Punch,1,46,
-115,kangaskhan,2,4,Comet Punch,1,1,1
-115,kangaskhan,2,5,Mega Punch,1,36,
-115,kangaskhan,2,39,Tail Whip,1,31,
-115,kangaskhan,2,43,Leer,1,41,
-115,kangaskhan,2,44,Bite,1,26,
-115,kangaskhan,2,99,Rage,1,1,2
-115,kangaskhan,2,146,Dizzy Punch,1,46,
-115,kangaskhan,3,4,Comet Punch,1,1,
-115,kangaskhan,3,5,Mega Punch,1,25,
-115,kangaskhan,3,39,Tail Whip,1,19,
-115,kangaskhan,3,43,Leer,1,7,
-115,kangaskhan,3,44,Bite,1,13,
-115,kangaskhan,3,99,Rage,1,31,
-115,kangaskhan,3,146,Dizzy Punch,1,43,
-115,kangaskhan,3,179,Reversal,1,49,
-115,kangaskhan,3,203,Endure,1,37,
-115,kangaskhan,4,4,Comet Punch,1,1,
-115,kangaskhan,4,5,Mega Punch,1,25,
-115,kangaskhan,4,39,Tail Whip,1,19,
-115,kangaskhan,4,43,Leer,1,7,
-115,kangaskhan,4,44,Bite,1,13,
-115,kangaskhan,4,99,Rage,1,31,
-115,kangaskhan,4,146,Dizzy Punch,1,43,
-115,kangaskhan,4,179,Reversal,1,49,
-115,kangaskhan,4,203,Endure,1,37,
-115,kangaskhan,5,4,Comet Punch,1,1,1
-115,kangaskhan,5,5,Mega Punch,1,25,
-115,kangaskhan,5,39,Tail Whip,1,13,
-115,kangaskhan,5,43,Leer,1,1,2
-115,kangaskhan,5,44,Bite,1,7,
-115,kangaskhan,5,99,Rage,1,31,
-115,kangaskhan,5,146,Dizzy Punch,1,43,
-115,kangaskhan,5,179,Reversal,1,49,
-115,kangaskhan,5,203,Endure,1,37,
-115,kangaskhan,5,252,Fake Out,1,19,
-115,kangaskhan,6,4,Comet Punch,1,1,1
-115,kangaskhan,6,5,Mega Punch,1,25,
-115,kangaskhan,6,39,Tail Whip,1,13,
-115,kangaskhan,6,43,Leer,1,1,2
-115,kangaskhan,6,44,Bite,1,7,
-115,kangaskhan,6,99,Rage,1,31,
-115,kangaskhan,6,146,Dizzy Punch,1,43,
-115,kangaskhan,6,179,Reversal,1,49,
-115,kangaskhan,6,203,Endure,1,37,
-115,kangaskhan,6,252,Fake Out,1,19,
-115,kangaskhan,7,4,Comet Punch,1,1,1
-115,kangaskhan,7,5,Mega Punch,1,25,
-115,kangaskhan,7,39,Tail Whip,1,13,
-115,kangaskhan,7,43,Leer,1,1,2
-115,kangaskhan,7,44,Bite,1,7,
-115,kangaskhan,7,99,Rage,1,31,
-115,kangaskhan,7,146,Dizzy Punch,1,43,
-115,kangaskhan,7,179,Reversal,1,49,
-115,kangaskhan,7,203,Endure,1,37,
-115,kangaskhan,7,252,Fake Out,1,19,
-115,kangaskhan,8,4,Comet Punch,1,1,1
-115,kangaskhan,8,5,Mega Punch,1,19,
-115,kangaskhan,8,39,Tail Whip,1,10,
-115,kangaskhan,8,43,Leer,1,1,2
-115,kangaskhan,8,44,Bite,1,13,
-115,kangaskhan,8,99,Rage,1,22,
-115,kangaskhan,8,146,Dizzy Punch,1,25,
-115,kangaskhan,8,179,Reversal,1,49,
-115,kangaskhan,8,200,Outrage,1,37,
-115,kangaskhan,8,203,Endure,1,34,
-115,kangaskhan,8,242,Crunch,1,31,
-115,kangaskhan,8,252,Fake Out,1,7,
-115,kangaskhan,8,389,Sucker Punch,1,46,
-115,kangaskhan,8,458,Double Hit,1,43,
-115,kangaskhan,9,4,Comet Punch,1,1,1
-115,kangaskhan,9,5,Mega Punch,1,19,
-115,kangaskhan,9,39,Tail Whip,1,10,
-115,kangaskhan,9,43,Leer,1,1,2
-115,kangaskhan,9,44,Bite,1,13,
-115,kangaskhan,9,99,Rage,1,22,
-115,kangaskhan,9,146,Dizzy Punch,1,25,
-115,kangaskhan,9,179,Reversal,1,49,
-115,kangaskhan,9,200,Outrage,1,37,
-115,kangaskhan,9,203,Endure,1,34,
-115,kangaskhan,9,242,Crunch,1,31,
-115,kangaskhan,9,252,Fake Out,1,7,
-115,kangaskhan,9,389,Sucker Punch,1,46,
-115,kangaskhan,9,458,Double Hit,1,43,
-115,kangaskhan,10,4,Comet Punch,1,1,1
-115,kangaskhan,10,5,Mega Punch,1,19,
-115,kangaskhan,10,39,Tail Whip,1,10,
-115,kangaskhan,10,43,Leer,1,1,2
-115,kangaskhan,10,44,Bite,1,13,
-115,kangaskhan,10,99,Rage,1,22,
-115,kangaskhan,10,146,Dizzy Punch,1,25,
-115,kangaskhan,10,179,Reversal,1,49,
-115,kangaskhan,10,200,Outrage,1,37,
-115,kangaskhan,10,203,Endure,1,34,
-115,kangaskhan,10,242,Crunch,1,31,
-115,kangaskhan,10,252,Fake Out,1,7,
-115,kangaskhan,10,389,Sucker Punch,1,46,
-115,kangaskhan,10,458,Double Hit,1,43,
-115,kangaskhan,11,4,Comet Punch,1,1,1
-115,kangaskhan,11,5,Mega Punch,1,25,
-115,kangaskhan,11,39,Tail Whip,1,10,
-115,kangaskhan,11,43,Leer,1,1,2
-115,kangaskhan,11,44,Bite,1,13,
-115,kangaskhan,11,99,Rage,1,22,
-115,kangaskhan,11,146,Dizzy Punch,1,34,
-115,kangaskhan,11,179,Reversal,1,55,
-115,kangaskhan,11,200,Outrage,1,46,
-115,kangaskhan,11,203,Endure,1,43,
-115,kangaskhan,11,242,Crunch,1,37,
-115,kangaskhan,11,252,Fake Out,1,7,
-115,kangaskhan,11,389,Sucker Punch,1,49,
-115,kangaskhan,11,458,Double Hit,1,19,
-115,kangaskhan,11,498,Chip Away,1,31,
-115,kangaskhan,12,4,Comet Punch,1,1,1
-115,kangaskhan,12,5,Mega Punch,1,25,
-115,kangaskhan,12,39,Tail Whip,1,13,
-115,kangaskhan,12,43,Leer,1,1,2
-115,kangaskhan,12,44,Bite,1,7,
-115,kangaskhan,12,99,Rage,1,31,
-115,kangaskhan,12,146,Dizzy Punch,1,43,
-115,kangaskhan,12,179,Reversal,1,49,
-115,kangaskhan,12,203,Endure,1,37,
-115,kangaskhan,12,252,Fake Out,1,19,
-115,kangaskhan,13,4,Comet Punch,1,1,1
-115,kangaskhan,13,5,Mega Punch,1,25,
-115,kangaskhan,13,39,Tail Whip,1,13,
-115,kangaskhan,13,43,Leer,1,1,2
-115,kangaskhan,13,44,Bite,1,7,
-115,kangaskhan,13,99,Rage,1,31,
-115,kangaskhan,13,146,Dizzy Punch,1,43,
-115,kangaskhan,13,179,Reversal,1,49,
-115,kangaskhan,13,203,Endure,1,37,
-115,kangaskhan,13,252,Fake Out,1,19,
-115,kangaskhan,14,4,Comet Punch,1,1,1
-115,kangaskhan,14,5,Mega Punch,1,25,
-115,kangaskhan,14,39,Tail Whip,1,10,
-115,kangaskhan,14,43,Leer,1,1,2
-115,kangaskhan,14,44,Bite,1,13,
-115,kangaskhan,14,99,Rage,1,22,
-115,kangaskhan,14,146,Dizzy Punch,1,34,
-115,kangaskhan,14,179,Reversal,1,55,
-115,kangaskhan,14,200,Outrage,1,46,
-115,kangaskhan,14,203,Endure,1,43,
-115,kangaskhan,14,242,Crunch,1,37,
-115,kangaskhan,14,252,Fake Out,1,7,
-115,kangaskhan,14,389,Sucker Punch,1,49,
-115,kangaskhan,14,458,Double Hit,1,19,
-115,kangaskhan,14,498,Chip Away,1,31,
-115,kangaskhan,15,4,Comet Punch,1,1,1
-115,kangaskhan,15,5,Mega Punch,1,25,
-115,kangaskhan,15,39,Tail Whip,1,10,
-115,kangaskhan,15,43,Leer,1,1,2
-115,kangaskhan,15,44,Bite,1,13,
-115,kangaskhan,15,99,Rage,1,22,
-115,kangaskhan,15,146,Dizzy Punch,1,34,
-115,kangaskhan,15,179,Reversal,1,50,
-115,kangaskhan,15,200,Outrage,1,46,
-115,kangaskhan,15,203,Endure,1,43,
-115,kangaskhan,15,242,Crunch,1,37,
-115,kangaskhan,15,252,Fake Out,1,7,
-115,kangaskhan,15,389,Sucker Punch,1,49,
-115,kangaskhan,15,458,Double Hit,1,19,
-115,kangaskhan,15,498,Chip Away,1,31,
-115,kangaskhan,16,4,Comet Punch,1,1,1
-115,kangaskhan,16,5,Mega Punch,1,25,1
-115,kangaskhan,16,39,Tail Whip,1,10,1
-115,kangaskhan,16,43,Leer,1,1,2
-115,kangaskhan,16,44,Bite,1,13,1
-115,kangaskhan,16,99,Rage,1,22,1
-115,kangaskhan,16,146,Dizzy Punch,1,34,1
-115,kangaskhan,16,179,Reversal,1,50,1
-115,kangaskhan,16,200,Outrage,1,46,1
-115,kangaskhan,16,203,Endure,1,43,1
-115,kangaskhan,16,242,Crunch,1,37,1
-115,kangaskhan,16,252,Fake Out,1,7,1
-115,kangaskhan,16,389,Sucker Punch,1,49,1
-115,kangaskhan,16,458,Double Hit,1,19,1
-115,kangaskhan,16,498,Chip Away,1,31,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+115,1,Comet Punch,1,normal,18,85
+115,1,Rage,1,normal,20,100
+115,2,Comet Punch,1,normal,18,85
+115,2,Rage,1,normal,20,100
+115,3,Comet Punch,1,normal,18,85
+115,4,Comet Punch,1,normal,18,85
+115,5,Comet Punch,1,normal,18,85
+115,5,Leer,1,normal,-,100
+115,6,Comet Punch,1,normal,18,85
+115,6,Leer,1,normal,-,100
+115,7,Comet Punch,1,normal,18,85
+115,7,Leer,1,normal,-,100
+115,8,Comet Punch,1,normal,18,85
+115,8,Leer,1,normal,-,100
+115,9,Comet Punch,1,normal,18,85
+115,9,Leer,1,normal,-,100
+115,10,Comet Punch,1,normal,18,85
+115,10,Leer,1,normal,-,100
+115,11,Comet Punch,1,normal,18,85
+115,11,Leer,1,normal,-,100
+115,12,Comet Punch,1,normal,18,85
+115,12,Leer,1,normal,-,100
+115,13,Comet Punch,1,normal,18,85
+115,13,Leer,1,normal,-,100
+115,14,Comet Punch,1,normal,18,85
+115,14,Leer,1,normal,-,100
+115,15,Comet Punch,1,normal,18,85
+115,15,Leer,1,normal,-,100
+115,16,Comet Punch,1,normal,18,85
+115,16,Leer,1,normal,-,100
+115,3,Leer,7,normal,-,100
+115,4,Leer,7,normal,-,100
+115,5,Bite,7,dark,60,100
+115,6,Bite,7,dark,60,100
+115,7,Bite,7,dark,60,100
+115,8,Fake Out,7,normal,40,100
+115,9,Fake Out,7,normal,40,100
+115,10,Fake Out,7,normal,40,100
+115,11,Fake Out,7,normal,40,100
+115,12,Bite,7,dark,60,100
+115,13,Bite,7,dark,60,100
+115,14,Fake Out,7,normal,40,100
+115,15,Fake Out,7,normal,40,100
+115,16,Fake Out,7,normal,40,100
+115,8,Tail Whip,10,normal,-,100
+115,9,Tail Whip,10,normal,-,100
+115,10,Tail Whip,10,normal,-,100
+115,11,Tail Whip,10,normal,-,100
+115,14,Tail Whip,10,normal,-,100
+115,15,Tail Whip,10,normal,-,100
+115,16,Tail Whip,10,normal,-,100
+115,3,Bite,13,dark,60,100
+115,4,Bite,13,dark,60,100
+115,5,Tail Whip,13,normal,-,100
+115,6,Tail Whip,13,normal,-,100
+115,7,Tail Whip,13,normal,-,100
+115,8,Bite,13,dark,60,100
+115,9,Bite,13,dark,60,100
+115,10,Bite,13,dark,60,100
+115,11,Bite,13,dark,60,100
+115,12,Tail Whip,13,normal,-,100
+115,13,Tail Whip,13,normal,-,100
+115,14,Bite,13,dark,60,100
+115,15,Bite,13,dark,60,100
+115,16,Bite,13,dark,60,100
+115,3,Tail Whip,19,normal,-,100
+115,4,Tail Whip,19,normal,-,100
+115,5,Fake Out,19,normal,40,100
+115,6,Fake Out,19,normal,40,100
+115,7,Fake Out,19,normal,40,100
+115,8,Mega Punch,19,normal,80,85
+115,9,Mega Punch,19,normal,80,85
+115,10,Mega Punch,19,normal,80,85
+115,11,Double Hit,19,normal,35,90
+115,12,Fake Out,19,normal,40,100
+115,13,Fake Out,19,normal,40,100
+115,14,Double Hit,19,normal,35,90
+115,15,Double Hit,19,normal,35,90
+115,16,Double Hit,19,normal,35,90
+115,8,Rage,22,normal,20,100
+115,9,Rage,22,normal,20,100
+115,10,Rage,22,normal,20,100
+115,11,Rage,22,normal,20,100
+115,14,Rage,22,normal,20,100
+115,15,Rage,22,normal,20,100
+115,16,Rage,22,normal,20,100
+115,3,Mega Punch,25,normal,80,85
+115,4,Mega Punch,25,normal,80,85
+115,5,Mega Punch,25,normal,80,85
+115,6,Mega Punch,25,normal,80,85
+115,7,Mega Punch,25,normal,80,85
+115,8,Dizzy Punch,25,normal,70,100
+115,9,Dizzy Punch,25,normal,70,100
+115,10,Dizzy Punch,25,normal,70,100
+115,11,Mega Punch,25,normal,80,85
+115,12,Mega Punch,25,normal,80,85
+115,13,Mega Punch,25,normal,80,85
+115,14,Mega Punch,25,normal,80,85
+115,15,Mega Punch,25,normal,80,85
+115,16,Mega Punch,25,normal,80,85
+115,1,Bite,26,dark,60,100
+115,2,Bite,26,dark,60,100
+115,1,Tail Whip,31,normal,-,100
+115,2,Tail Whip,31,normal,-,100
+115,3,Rage,31,normal,20,100
+115,4,Rage,31,normal,20,100
+115,5,Rage,31,normal,20,100
+115,6,Rage,31,normal,20,100
+115,7,Rage,31,normal,20,100
+115,8,Crunch,31,dark,80,100
+115,9,Crunch,31,dark,80,100
+115,10,Crunch,31,dark,80,100
+115,11,Chip Away,31,normal,70,100
+115,12,Rage,31,normal,20,100
+115,13,Rage,31,normal,20,100
+115,14,Chip Away,31,normal,70,100
+115,15,Chip Away,31,normal,70,100
+115,16,Chip Away,31,normal,70,100
+115,8,Endure,34,normal,-,-
+115,9,Endure,34,normal,-,-
+115,10,Endure,34,normal,-,-
+115,11,Dizzy Punch,34,normal,70,100
+115,14,Dizzy Punch,34,normal,70,100
+115,15,Dizzy Punch,34,normal,70,100
+115,16,Dizzy Punch,34,normal,70,100
+115,1,Mega Punch,36,normal,80,85
+115,2,Mega Punch,36,normal,80,85
+115,3,Endure,37,normal,-,-
+115,4,Endure,37,normal,-,-
+115,5,Endure,37,normal,-,-
+115,6,Endure,37,normal,-,-
+115,7,Endure,37,normal,-,-
+115,8,Outrage,37,dragon,120,100
+115,9,Outrage,37,dragon,120,100
+115,10,Outrage,37,dragon,120,100
+115,11,Crunch,37,dark,80,100
+115,12,Endure,37,normal,-,-
+115,13,Endure,37,normal,-,-
+115,14,Crunch,37,dark,80,100
+115,15,Crunch,37,dark,80,100
+115,16,Crunch,37,dark,80,100
+115,1,Leer,41,normal,-,100
+115,2,Leer,41,normal,-,100
+115,3,Dizzy Punch,43,normal,70,100
+115,4,Dizzy Punch,43,normal,70,100
+115,5,Dizzy Punch,43,normal,70,100
+115,6,Dizzy Punch,43,normal,70,100
+115,7,Dizzy Punch,43,normal,70,100
+115,8,Double Hit,43,normal,35,90
+115,9,Double Hit,43,normal,35,90
+115,10,Double Hit,43,normal,35,90
+115,11,Endure,43,normal,-,-
+115,12,Dizzy Punch,43,normal,70,100
+115,13,Dizzy Punch,43,normal,70,100
+115,14,Endure,43,normal,-,-
+115,15,Endure,43,normal,-,-
+115,16,Endure,43,normal,-,-
+115,1,Dizzy Punch,46,normal,70,100
+115,2,Dizzy Punch,46,normal,70,100
+115,8,Sucker Punch,46,dark,80,100
+115,9,Sucker Punch,46,dark,80,100
+115,10,Sucker Punch,46,dark,80,100
+115,11,Outrage,46,dragon,120,100
+115,14,Outrage,46,dragon,120,100
+115,15,Outrage,46,dragon,120,100
+115,16,Outrage,46,dragon,120,100
+115,3,Reversal,49,fighting,-,100
+115,4,Reversal,49,fighting,-,100
+115,5,Reversal,49,fighting,-,100
+115,6,Reversal,49,fighting,-,100
+115,7,Reversal,49,fighting,-,100
+115,8,Reversal,49,fighting,-,100
+115,9,Reversal,49,fighting,-,100
+115,10,Reversal,49,fighting,-,100
+115,11,Sucker Punch,49,dark,80,100
+115,12,Reversal,49,fighting,-,100
+115,13,Reversal,49,fighting,-,100
+115,14,Sucker Punch,49,dark,80,100
+115,15,Sucker Punch,49,dark,80,100
+115,16,Sucker Punch,49,dark,80,100
+115,15,Reversal,50,fighting,-,100
+115,16,Reversal,50,fighting,-,100
+115,11,Reversal,55,fighting,-,100
+115,14,Reversal,55,fighting,-,100

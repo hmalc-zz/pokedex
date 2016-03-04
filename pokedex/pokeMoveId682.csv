@@ -1,33 +1,33 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-682,spritzee,15,94,Psychic,1,48,
-682,spritzee,15,175,Flail,1,38,
-682,spritzee,15,186,Sweet Kiss,1,6,
-682,spritzee,15,204,Charm,1,35,
-682,spritzee,15,213,Attract,1,29,
-682,spritzee,15,230,Sweet Scent,1,1,1
-682,spritzee,15,285,Skill Swap,1,44,
-682,spritzee,15,312,Aromatherapy,1,25,
-682,spritzee,15,316,Odor Sleuth,1,8,
-682,spritzee,15,347,Calm Mind,1,17,
-682,spritzee,15,497,Echoed Voice,1,13,
-682,spritzee,15,574,Disarming Voice,1,50,
-682,spritzee,15,577,Draining Kiss,1,21,
-682,spritzee,15,581,Misty Terrain,1,42,
-682,spritzee,15,584,Fairy Wind,1,1,2
-682,spritzee,15,585,Moonblast,1,31,
-682,spritzee,16,94,Psychic,1,48,1
-682,spritzee,16,175,Flail,1,38,1
-682,spritzee,16,186,Sweet Kiss,1,6,1
-682,spritzee,16,204,Charm,1,35,1
-682,spritzee,16,213,Attract,1,29,1
-682,spritzee,16,230,Sweet Scent,1,1,1
-682,spritzee,16,285,Skill Swap,1,44,1
-682,spritzee,16,312,Aromatherapy,1,25,1
-682,spritzee,16,316,Odor Sleuth,1,8,1
-682,spritzee,16,347,Calm Mind,1,17,1
-682,spritzee,16,497,Echoed Voice,1,13,1
-682,spritzee,16,574,Disarming Voice,1,50,1
-682,spritzee,16,577,Draining Kiss,1,21,1
-682,spritzee,16,581,Misty Terrain,1,42,1
-682,spritzee,16,584,Fairy Wind,1,1,2
-682,spritzee,16,585,Moonblast,1,31,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+682,15,Sweet Scent,1,normal,-,100
+682,15,Fairy Wind,1,fairy,40,100
+682,16,Sweet Scent,1,normal,-,100
+682,16,Fairy Wind,1,fairy,40,100
+682,15,Sweet Kiss,6,fairy,-,75
+682,16,Sweet Kiss,6,fairy,-,75
+682,15,Odor Sleuth,8,normal,-,-
+682,16,Odor Sleuth,8,normal,-,-
+682,15,Echoed Voice,13,normal,40,100
+682,16,Echoed Voice,13,normal,40,100
+682,15,Calm Mind,17,psychic,-,-
+682,16,Calm Mind,17,psychic,-,-
+682,15,Draining Kiss,21,fairy,50,100
+682,16,Draining Kiss,21,fairy,50,100
+682,15,Aromatherapy,25,grass,-,-
+682,16,Aromatherapy,25,grass,-,-
+682,15,Attract,29,normal,-,100
+682,16,Attract,29,normal,-,100
+682,15,Moonblast,31,fairy,95,100
+682,16,Moonblast,31,fairy,95,100
+682,15,Charm,35,fairy,-,100
+682,16,Charm,35,fairy,-,100
+682,15,Flail,38,normal,-,100
+682,16,Flail,38,normal,-,100
+682,15,Misty Terrain,42,fairy,-,-
+682,16,Misty Terrain,42,fairy,-,-
+682,15,Skill Swap,44,psychic,-,-
+682,16,Skill Swap,44,psychic,-,-
+682,15,Psychic,48,psychic,90,100
+682,16,Psychic,48,psychic,90,100
+682,15,Disarming Voice,50,fairy,40,-
+682,16,Disarming Voice,50,fairy,40,-

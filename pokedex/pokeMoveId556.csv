@@ -1,80 +1,80 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-556,maractus,11,42,Pin Missile,1,10,
-556,maractus,11,64,Peck,1,1,1
-556,maractus,11,71,Absorb,1,1,2
-556,maractus,11,72,Mega Drain,1,13,
-556,maractus,11,74,Growth,1,6,
-556,maractus,11,76,Solar Beam,1,50,
-556,maractus,11,80,Petal Dance,1,38,
-556,maractus,11,178,Cotton Spore,1,18,
-556,maractus,11,202,Giga Drain,1,26,
-556,maractus,11,230,Sweet Scent,1,3,
-556,maractus,11,235,Synthesis,1,15,
-556,maractus,11,241,Sunny Day,1,45,
-556,maractus,11,275,Ingrain,1,33,
-556,maractus,11,302,Needle Arm,1,22,
-556,maractus,11,367,Acupressure,1,29,
-556,maractus,11,389,Sucker Punch,1,42,
-556,maractus,11,495,After You,1,57,
-556,maractus,11,538,Cotton Guard,1,55,
-556,maractus,14,42,Pin Missile,1,10,
-556,maractus,14,64,Peck,1,1,1
-556,maractus,14,71,Absorb,1,1,2
-556,maractus,14,72,Mega Drain,1,13,
-556,maractus,14,74,Growth,1,6,
-556,maractus,14,76,Solar Beam,1,50,
-556,maractus,14,80,Petal Dance,1,38,
-556,maractus,14,178,Cotton Spore,1,18,
-556,maractus,14,202,Giga Drain,1,26,
-556,maractus,14,230,Sweet Scent,1,3,
-556,maractus,14,235,Synthesis,1,15,
-556,maractus,14,241,Sunny Day,1,45,
-556,maractus,14,275,Ingrain,1,33,
-556,maractus,14,302,Needle Arm,1,22,
-556,maractus,14,367,Acupressure,1,29,
-556,maractus,14,389,Sucker Punch,1,42,
-556,maractus,14,495,After You,1,57,
-556,maractus,14,538,Cotton Guard,1,55,
-556,maractus,15,42,Pin Missile,1,10,
-556,maractus,15,64,Peck,1,1,3
-556,maractus,15,71,Absorb,1,1,4
-556,maractus,15,72,Mega Drain,1,13,
-556,maractus,15,74,Growth,1,6,
-556,maractus,15,76,Solar Beam,1,50,
-556,maractus,15,80,Petal Dance,1,38,
-556,maractus,15,178,Cotton Spore,1,18,
-556,maractus,15,202,Giga Drain,1,26,
-556,maractus,15,230,Sweet Scent,1,3,
-556,maractus,15,235,Synthesis,1,15,
-556,maractus,15,241,Sunny Day,1,45,
-556,maractus,15,275,Ingrain,1,33,
-556,maractus,15,302,Needle Arm,1,22,
-556,maractus,15,367,Acupressure,1,29,
-556,maractus,15,389,Sucker Punch,1,42,
-556,maractus,15,495,After You,1,1,2
-556,maractus,15,495,After You,1,57,
-556,maractus,15,538,Cotton Guard,1,1,1
-556,maractus,15,538,Cotton Guard,1,55,
-556,maractus,15,572,Petal Blizzard,1,48,
-556,maractus,16,42,Pin Missile,1,10,1
-556,maractus,16,64,Peck,1,1,4
-556,maractus,16,71,Absorb,1,1,5
-556,maractus,16,72,Mega Drain,1,13,1
-556,maractus,16,74,Growth,1,6,1
-556,maractus,16,76,Solar Beam,1,50,1
-556,maractus,16,80,Petal Dance,1,38,1
-556,maractus,16,178,Cotton Spore,1,18,1
-556,maractus,16,202,Giga Drain,1,26,1
-556,maractus,16,230,Sweet Scent,1,3,1
-556,maractus,16,235,Synthesis,1,15,1
-556,maractus,16,241,Sunny Day,1,45,1
-556,maractus,16,275,Ingrain,1,33,1
-556,maractus,16,302,Needle Arm,1,22,1
-556,maractus,16,367,Acupressure,1,29,1
-556,maractus,16,389,Sucker Punch,1,42,1
-556,maractus,16,495,After You,1,1,3
-556,maractus,16,495,After You,1,57,1
-556,maractus,16,538,Cotton Guard,1,1,2
-556,maractus,16,538,Cotton Guard,1,55,1
-556,maractus,16,572,Petal Blizzard,1,48,1
-556,maractus,16,596,Spiky Shield,1,1,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+556,11,Peck,1,flying,35,100
+556,11,Absorb,1,grass,20,100
+556,14,Peck,1,flying,35,100
+556,14,Absorb,1,grass,20,100
+556,15,Peck,1,flying,35,100
+556,15,Absorb,1,grass,20,100
+556,15,After You,1,normal,-,-
+556,15,Cotton Guard,1,grass,-,-
+556,16,Peck,1,flying,35,100
+556,16,Absorb,1,grass,20,100
+556,16,After You,1,normal,-,-
+556,16,Cotton Guard,1,grass,-,-
+556,16,Spiky Shield,1,grass,-,-
+556,11,Sweet Scent,3,normal,-,100
+556,14,Sweet Scent,3,normal,-,100
+556,15,Sweet Scent,3,normal,-,100
+556,16,Sweet Scent,3,normal,-,100
+556,11,Growth,6,normal,-,-
+556,14,Growth,6,normal,-,-
+556,15,Growth,6,normal,-,-
+556,16,Growth,6,normal,-,-
+556,11,Pin Missile,10,bug,25,95
+556,14,Pin Missile,10,bug,25,95
+556,15,Pin Missile,10,bug,25,95
+556,16,Pin Missile,10,bug,25,95
+556,11,Mega Drain,13,grass,40,100
+556,14,Mega Drain,13,grass,40,100
+556,15,Mega Drain,13,grass,40,100
+556,16,Mega Drain,13,grass,40,100
+556,11,Synthesis,15,grass,-,-
+556,14,Synthesis,15,grass,-,-
+556,15,Synthesis,15,grass,-,-
+556,16,Synthesis,15,grass,-,-
+556,11,Cotton Spore,18,grass,-,100
+556,14,Cotton Spore,18,grass,-,100
+556,15,Cotton Spore,18,grass,-,100
+556,16,Cotton Spore,18,grass,-,100
+556,11,Needle Arm,22,grass,60,100
+556,14,Needle Arm,22,grass,60,100
+556,15,Needle Arm,22,grass,60,100
+556,16,Needle Arm,22,grass,60,100
+556,11,Giga Drain,26,grass,75,100
+556,14,Giga Drain,26,grass,75,100
+556,15,Giga Drain,26,grass,75,100
+556,16,Giga Drain,26,grass,75,100
+556,11,Acupressure,29,normal,-,-
+556,14,Acupressure,29,normal,-,-
+556,15,Acupressure,29,normal,-,-
+556,16,Acupressure,29,normal,-,-
+556,11,Ingrain,33,grass,-,-
+556,14,Ingrain,33,grass,-,-
+556,15,Ingrain,33,grass,-,-
+556,16,Ingrain,33,grass,-,-
+556,11,Petal Dance,38,grass,120,100
+556,14,Petal Dance,38,grass,120,100
+556,15,Petal Dance,38,grass,120,100
+556,16,Petal Dance,38,grass,120,100
+556,11,Sucker Punch,42,dark,80,100
+556,14,Sucker Punch,42,dark,80,100
+556,15,Sucker Punch,42,dark,80,100
+556,16,Sucker Punch,42,dark,80,100
+556,11,Sunny Day,45,fire,-,-
+556,14,Sunny Day,45,fire,-,-
+556,15,Sunny Day,45,fire,-,-
+556,16,Sunny Day,45,fire,-,-
+556,15,Petal Blizzard,48,grass,90,100
+556,16,Petal Blizzard,48,grass,90,100
+556,11,Solar Beam,50,grass,120,100
+556,14,Solar Beam,50,grass,120,100
+556,15,Solar Beam,50,grass,120,100
+556,16,Solar Beam,50,grass,120,100
+556,11,Cotton Guard,55,grass,-,-
+556,14,Cotton Guard,55,grass,-,-
+556,15,Cotton Guard,55,grass,-,-
+556,16,Cotton Guard,55,grass,-,-
+556,11,After You,57,normal,-,-
+556,14,After You,57,normal,-,-
+556,15,After You,57,normal,-,-
+556,16,After You,57,normal,-,-

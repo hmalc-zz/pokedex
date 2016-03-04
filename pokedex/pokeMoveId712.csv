@@ -1,31 +1,31 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-712,bergmite,15,33,Tackle,1,1,1
-712,bergmite,15,36,Take Down,1,15,
-712,bergmite,15,38,Double-Edge,1,49,
-712,bergmite,15,44,Bite,1,1,2
-712,bergmite,15,59,Blizzard,1,43,
-712,bergmite,15,105,Recover,1,47,
-712,bergmite,15,106,Harden,1,1,3
-712,bergmite,15,159,Sharpen,1,20,
-712,bergmite,15,174,Curse,1,22,
-712,bergmite,15,181,Powder Snow,1,5,
-712,bergmite,15,196,Icy Wind,1,10,
-712,bergmite,15,229,Rapid Spin,1,35,
-712,bergmite,15,301,Ice Ball,1,30,
-712,bergmite,15,419,Avalanche,1,39,
-712,bergmite,15,423,Ice Fang,1,26,
-712,bergmite,16,33,Tackle,1,1,1
-712,bergmite,16,36,Take Down,1,15,1
-712,bergmite,16,38,Double-Edge,1,49,1
-712,bergmite,16,44,Bite,1,1,2
-712,bergmite,16,59,Blizzard,1,43,1
-712,bergmite,16,105,Recover,1,47,1
-712,bergmite,16,106,Harden,1,1,3
-712,bergmite,16,159,Sharpen,1,20,1
-712,bergmite,16,174,Curse,1,22,1
-712,bergmite,16,181,Powder Snow,1,5,1
-712,bergmite,16,196,Icy Wind,1,10,1
-712,bergmite,16,229,Rapid Spin,1,35,1
-712,bergmite,16,301,Ice Ball,1,30,1
-712,bergmite,16,419,Avalanche,1,39,1
-712,bergmite,16,423,Ice Fang,1,26,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+712,15,Tackle,1,normal,50,100
+712,15,Bite,1,dark,60,100
+712,15,Harden,1,normal,-,-
+712,16,Tackle,1,normal,50,100
+712,16,Bite,1,dark,60,100
+712,16,Harden,1,normal,-,-
+712,15,Powder Snow,5,ice,40,100
+712,16,Powder Snow,5,ice,40,100
+712,15,Icy Wind,10,ice,55,95
+712,16,Icy Wind,10,ice,55,95
+712,15,Take Down,15,normal,90,85
+712,16,Take Down,15,normal,90,85
+712,15,Sharpen,20,normal,-,-
+712,16,Sharpen,20,normal,-,-
+712,15,Curse,22,ghost,-,-
+712,16,Curse,22,ghost,-,-
+712,15,Ice Fang,26,ice,65,95
+712,16,Ice Fang,26,ice,65,95
+712,15,Ice Ball,30,ice,30,90
+712,16,Ice Ball,30,ice,30,90
+712,15,Rapid Spin,35,normal,20,100
+712,16,Rapid Spin,35,normal,20,100
+712,15,Avalanche,39,ice,60,100
+712,16,Avalanche,39,ice,60,100
+712,15,Blizzard,43,ice,110,70
+712,16,Blizzard,43,ice,110,70
+712,15,Recover,47,normal,-,-
+712,16,Recover,47,normal,-,-
+712,15,Double-Edge,49,normal,120,100
+712,16,Double-Edge,49,normal,120,100

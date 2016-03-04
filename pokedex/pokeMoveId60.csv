@@ -1,162 +1,162 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-60,poliwag,1,3,Double Slap,1,25,
-60,poliwag,1,34,Body Slam,1,31,
-60,poliwag,1,55,Water Gun,1,19,
-60,poliwag,1,56,Hydro Pump,1,45,
-60,poliwag,1,95,Hypnosis,1,16,
-60,poliwag,1,133,Amnesia,1,38,
-60,poliwag,1,145,Bubble,1,1,
-60,poliwag,2,3,Double Slap,1,25,
-60,poliwag,2,34,Body Slam,1,31,
-60,poliwag,2,55,Water Gun,1,19,
-60,poliwag,2,56,Hydro Pump,1,45,
-60,poliwag,2,95,Hypnosis,1,16,
-60,poliwag,2,133,Amnesia,1,38,
-60,poliwag,2,145,Bubble,1,1,
-60,poliwag,3,3,Double Slap,1,19,
-60,poliwag,3,34,Body Slam,1,31,
-60,poliwag,3,55,Water Gun,1,13,
-60,poliwag,3,56,Hydro Pump,1,43,
-60,poliwag,3,95,Hypnosis,1,7,
-60,poliwag,3,145,Bubble,1,1,
-60,poliwag,3,187,Belly Drum,1,37,
-60,poliwag,3,240,Rain Dance,1,25,
-60,poliwag,4,3,Double Slap,1,19,
-60,poliwag,4,34,Body Slam,1,31,
-60,poliwag,4,55,Water Gun,1,13,
-60,poliwag,4,56,Hydro Pump,1,43,
-60,poliwag,4,95,Hypnosis,1,7,
-60,poliwag,4,145,Bubble,1,1,
-60,poliwag,4,187,Belly Drum,1,37,
-60,poliwag,4,240,Rain Dance,1,25,
-60,poliwag,5,3,Double Slap,1,19,
-60,poliwag,5,34,Body Slam,1,31,
-60,poliwag,5,55,Water Gun,1,13,
-60,poliwag,5,56,Hydro Pump,1,43,
-60,poliwag,5,95,Hypnosis,1,7,
-60,poliwag,5,145,Bubble,1,1,
-60,poliwag,5,187,Belly Drum,1,37,
-60,poliwag,5,240,Rain Dance,1,25,
-60,poliwag,6,3,Double Slap,1,19,
-60,poliwag,6,34,Body Slam,1,31,
-60,poliwag,6,55,Water Gun,1,13,
-60,poliwag,6,56,Hydro Pump,1,43,
-60,poliwag,6,95,Hypnosis,1,7,
-60,poliwag,6,145,Bubble,1,1,
-60,poliwag,6,187,Belly Drum,1,37,
-60,poliwag,6,240,Rain Dance,1,25,
-60,poliwag,7,3,Double Slap,1,19,
-60,poliwag,7,34,Body Slam,1,31,
-60,poliwag,7,55,Water Gun,1,13,
-60,poliwag,7,56,Hydro Pump,1,43,
-60,poliwag,7,95,Hypnosis,1,7,
-60,poliwag,7,145,Bubble,1,1,
-60,poliwag,7,187,Belly Drum,1,37,
-60,poliwag,7,240,Rain Dance,1,25,
-60,poliwag,8,3,Double Slap,1,15,
-60,poliwag,8,34,Body Slam,1,21,
-60,poliwag,8,55,Water Gun,1,11,
-60,poliwag,8,56,Hydro Pump,1,38,
-60,poliwag,8,61,Bubble Beam,1,25,
-60,poliwag,8,95,Hypnosis,1,8,
-60,poliwag,8,145,Bubble,1,5,
-60,poliwag,8,187,Belly Drum,1,31,
-60,poliwag,8,240,Rain Dance,1,18,
-60,poliwag,8,341,Mud Shot,1,28,
-60,poliwag,8,346,Water Sport,1,1,
-60,poliwag,8,358,Wake-Up Slap,1,35,
-60,poliwag,8,426,Mud Bomb,1,41,
-60,poliwag,9,3,Double Slap,1,15,
-60,poliwag,9,34,Body Slam,1,21,
-60,poliwag,9,55,Water Gun,1,11,
-60,poliwag,9,56,Hydro Pump,1,38,
-60,poliwag,9,61,Bubble Beam,1,25,
-60,poliwag,9,95,Hypnosis,1,8,
-60,poliwag,9,145,Bubble,1,5,
-60,poliwag,9,187,Belly Drum,1,31,
-60,poliwag,9,240,Rain Dance,1,18,
-60,poliwag,9,341,Mud Shot,1,28,
-60,poliwag,9,346,Water Sport,1,1,
-60,poliwag,9,358,Wake-Up Slap,1,35,
-60,poliwag,9,426,Mud Bomb,1,41,
-60,poliwag,10,3,Double Slap,1,15,
-60,poliwag,10,34,Body Slam,1,21,
-60,poliwag,10,55,Water Gun,1,11,
-60,poliwag,10,56,Hydro Pump,1,38,
-60,poliwag,10,61,Bubble Beam,1,25,
-60,poliwag,10,95,Hypnosis,1,8,
-60,poliwag,10,145,Bubble,1,5,
-60,poliwag,10,187,Belly Drum,1,31,
-60,poliwag,10,240,Rain Dance,1,18,
-60,poliwag,10,341,Mud Shot,1,28,
-60,poliwag,10,346,Water Sport,1,1,
-60,poliwag,10,358,Wake-Up Slap,1,35,
-60,poliwag,10,426,Mud Bomb,1,41,
-60,poliwag,11,3,Double Slap,1,15,
-60,poliwag,11,34,Body Slam,1,21,
-60,poliwag,11,55,Water Gun,1,11,
-60,poliwag,11,56,Hydro Pump,1,38,
-60,poliwag,11,61,Bubble Beam,1,25,
-60,poliwag,11,95,Hypnosis,1,8,
-60,poliwag,11,145,Bubble,1,5,
-60,poliwag,11,187,Belly Drum,1,31,
-60,poliwag,11,240,Rain Dance,1,18,
-60,poliwag,11,341,Mud Shot,1,28,
-60,poliwag,11,346,Water Sport,1,1,
-60,poliwag,11,358,Wake-Up Slap,1,35,
-60,poliwag,11,426,Mud Bomb,1,41,
-60,poliwag,12,3,Double Slap,1,19,
-60,poliwag,12,34,Body Slam,1,31,
-60,poliwag,12,55,Water Gun,1,13,
-60,poliwag,12,56,Hydro Pump,1,43,
-60,poliwag,12,95,Hypnosis,1,7,
-60,poliwag,12,145,Bubble,1,1,
-60,poliwag,12,187,Belly Drum,1,37,
-60,poliwag,12,240,Rain Dance,1,25,
-60,poliwag,13,3,Double Slap,1,19,
-60,poliwag,13,34,Body Slam,1,31,
-60,poliwag,13,55,Water Gun,1,13,
-60,poliwag,13,56,Hydro Pump,1,43,
-60,poliwag,13,95,Hypnosis,1,7,
-60,poliwag,13,145,Bubble,1,1,
-60,poliwag,13,187,Belly Drum,1,37,
-60,poliwag,13,240,Rain Dance,1,25,
-60,poliwag,14,3,Double Slap,1,15,
-60,poliwag,14,34,Body Slam,1,21,
-60,poliwag,14,55,Water Gun,1,11,
-60,poliwag,14,56,Hydro Pump,1,38,
-60,poliwag,14,61,Bubble Beam,1,25,
-60,poliwag,14,95,Hypnosis,1,8,
-60,poliwag,14,145,Bubble,1,5,
-60,poliwag,14,187,Belly Drum,1,31,
-60,poliwag,14,240,Rain Dance,1,18,
-60,poliwag,14,341,Mud Shot,1,28,
-60,poliwag,14,346,Water Sport,1,1,
-60,poliwag,14,358,Wake-Up Slap,1,35,
-60,poliwag,14,426,Mud Bomb,1,41,
-60,poliwag,15,3,Double Slap,1,15,
-60,poliwag,15,34,Body Slam,1,21,
-60,poliwag,15,55,Water Gun,1,5,
-60,poliwag,15,56,Hydro Pump,1,38,
-60,poliwag,15,61,Bubble Beam,1,25,
-60,poliwag,15,95,Hypnosis,1,8,
-60,poliwag,15,145,Bubble,1,11,
-60,poliwag,15,187,Belly Drum,1,31,
-60,poliwag,15,240,Rain Dance,1,18,
-60,poliwag,15,341,Mud Shot,1,28,
-60,poliwag,15,346,Water Sport,1,1,
-60,poliwag,15,358,Wake-Up Slap,1,35,
-60,poliwag,15,426,Mud Bomb,1,41,
-60,poliwag,16,3,Double Slap,1,15,1
-60,poliwag,16,34,Body Slam,1,21,1
-60,poliwag,16,55,Water Gun,1,5,1
-60,poliwag,16,56,Hydro Pump,1,38,1
-60,poliwag,16,61,Bubble Beam,1,25,1
-60,poliwag,16,95,Hypnosis,1,8,1
-60,poliwag,16,145,Bubble,1,11,1
-60,poliwag,16,187,Belly Drum,1,31,1
-60,poliwag,16,240,Rain Dance,1,18,1
-60,poliwag,16,341,Mud Shot,1,28,1
-60,poliwag,16,346,Water Sport,1,1,1
-60,poliwag,16,358,Wake-Up Slap,1,35,1
-60,poliwag,16,426,Mud Bomb,1,41,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+60,1,Bubble,1,water,40,100
+60,2,Bubble,1,water,40,100
+60,3,Bubble,1,water,40,100
+60,4,Bubble,1,water,40,100
+60,5,Bubble,1,water,40,100
+60,6,Bubble,1,water,40,100
+60,7,Bubble,1,water,40,100
+60,8,Water Sport,1,water,-,-
+60,9,Water Sport,1,water,-,-
+60,10,Water Sport,1,water,-,-
+60,11,Water Sport,1,water,-,-
+60,12,Bubble,1,water,40,100
+60,13,Bubble,1,water,40,100
+60,14,Water Sport,1,water,-,-
+60,15,Water Sport,1,water,-,-
+60,16,Water Sport,1,water,-,-
+60,8,Bubble,5,water,40,100
+60,9,Bubble,5,water,40,100
+60,10,Bubble,5,water,40,100
+60,11,Bubble,5,water,40,100
+60,14,Bubble,5,water,40,100
+60,15,Water Gun,5,water,40,100
+60,16,Water Gun,5,water,40,100
+60,3,Hypnosis,7,psychic,-,60
+60,4,Hypnosis,7,psychic,-,60
+60,5,Hypnosis,7,psychic,-,60
+60,6,Hypnosis,7,psychic,-,60
+60,7,Hypnosis,7,psychic,-,60
+60,12,Hypnosis,7,psychic,-,60
+60,13,Hypnosis,7,psychic,-,60
+60,8,Hypnosis,8,psychic,-,60
+60,9,Hypnosis,8,psychic,-,60
+60,10,Hypnosis,8,psychic,-,60
+60,11,Hypnosis,8,psychic,-,60
+60,14,Hypnosis,8,psychic,-,60
+60,15,Hypnosis,8,psychic,-,60
+60,16,Hypnosis,8,psychic,-,60
+60,8,Water Gun,11,water,40,100
+60,9,Water Gun,11,water,40,100
+60,10,Water Gun,11,water,40,100
+60,11,Water Gun,11,water,40,100
+60,14,Water Gun,11,water,40,100
+60,15,Bubble,11,water,40,100
+60,16,Bubble,11,water,40,100
+60,3,Water Gun,13,water,40,100
+60,4,Water Gun,13,water,40,100
+60,5,Water Gun,13,water,40,100
+60,6,Water Gun,13,water,40,100
+60,7,Water Gun,13,water,40,100
+60,12,Water Gun,13,water,40,100
+60,13,Water Gun,13,water,40,100
+60,8,Double Slap,15,normal,15,85
+60,9,Double Slap,15,normal,15,85
+60,10,Double Slap,15,normal,15,85
+60,11,Double Slap,15,normal,15,85
+60,14,Double Slap,15,normal,15,85
+60,15,Double Slap,15,normal,15,85
+60,16,Double Slap,15,normal,15,85
+60,1,Hypnosis,16,psychic,-,60
+60,2,Hypnosis,16,psychic,-,60
+60,8,Rain Dance,18,water,-,-
+60,9,Rain Dance,18,water,-,-
+60,10,Rain Dance,18,water,-,-
+60,11,Rain Dance,18,water,-,-
+60,14,Rain Dance,18,water,-,-
+60,15,Rain Dance,18,water,-,-
+60,16,Rain Dance,18,water,-,-
+60,1,Water Gun,19,water,40,100
+60,2,Water Gun,19,water,40,100
+60,3,Double Slap,19,normal,15,85
+60,4,Double Slap,19,normal,15,85
+60,5,Double Slap,19,normal,15,85
+60,6,Double Slap,19,normal,15,85
+60,7,Double Slap,19,normal,15,85
+60,12,Double Slap,19,normal,15,85
+60,13,Double Slap,19,normal,15,85
+60,8,Body Slam,21,normal,85,100
+60,9,Body Slam,21,normal,85,100
+60,10,Body Slam,21,normal,85,100
+60,11,Body Slam,21,normal,85,100
+60,14,Body Slam,21,normal,85,100
+60,15,Body Slam,21,normal,85,100
+60,16,Body Slam,21,normal,85,100
+60,1,Double Slap,25,normal,15,85
+60,2,Double Slap,25,normal,15,85
+60,3,Rain Dance,25,water,-,-
+60,4,Rain Dance,25,water,-,-
+60,5,Rain Dance,25,water,-,-
+60,6,Rain Dance,25,water,-,-
+60,7,Rain Dance,25,water,-,-
+60,8,Bubble Beam,25,water,65,100
+60,9,Bubble Beam,25,water,65,100
+60,10,Bubble Beam,25,water,65,100
+60,11,Bubble Beam,25,water,65,100
+60,12,Rain Dance,25,water,-,-
+60,13,Rain Dance,25,water,-,-
+60,14,Bubble Beam,25,water,65,100
+60,15,Bubble Beam,25,water,65,100
+60,16,Bubble Beam,25,water,65,100
+60,8,Mud Shot,28,ground,55,95
+60,9,Mud Shot,28,ground,55,95
+60,10,Mud Shot,28,ground,55,95
+60,11,Mud Shot,28,ground,55,95
+60,14,Mud Shot,28,ground,55,95
+60,15,Mud Shot,28,ground,55,95
+60,16,Mud Shot,28,ground,55,95
+60,1,Body Slam,31,normal,85,100
+60,2,Body Slam,31,normal,85,100
+60,3,Body Slam,31,normal,85,100
+60,4,Body Slam,31,normal,85,100
+60,5,Body Slam,31,normal,85,100
+60,6,Body Slam,31,normal,85,100
+60,7,Body Slam,31,normal,85,100
+60,8,Belly Drum,31,normal,-,-
+60,9,Belly Drum,31,normal,-,-
+60,10,Belly Drum,31,normal,-,-
+60,11,Belly Drum,31,normal,-,-
+60,12,Body Slam,31,normal,85,100
+60,13,Body Slam,31,normal,85,100
+60,14,Belly Drum,31,normal,-,-
+60,15,Belly Drum,31,normal,-,-
+60,16,Belly Drum,31,normal,-,-
+60,8,Wake-Up Slap,35,fighting,70,100
+60,9,Wake-Up Slap,35,fighting,70,100
+60,10,Wake-Up Slap,35,fighting,70,100
+60,11,Wake-Up Slap,35,fighting,70,100
+60,14,Wake-Up Slap,35,fighting,70,100
+60,15,Wake-Up Slap,35,fighting,70,100
+60,16,Wake-Up Slap,35,fighting,70,100
+60,3,Belly Drum,37,normal,-,-
+60,4,Belly Drum,37,normal,-,-
+60,5,Belly Drum,37,normal,-,-
+60,6,Belly Drum,37,normal,-,-
+60,7,Belly Drum,37,normal,-,-
+60,12,Belly Drum,37,normal,-,-
+60,13,Belly Drum,37,normal,-,-
+60,1,Amnesia,38,psychic,-,-
+60,2,Amnesia,38,psychic,-,-
+60,8,Hydro Pump,38,water,110,80
+60,9,Hydro Pump,38,water,110,80
+60,10,Hydro Pump,38,water,110,80
+60,11,Hydro Pump,38,water,110,80
+60,14,Hydro Pump,38,water,110,80
+60,15,Hydro Pump,38,water,110,80
+60,16,Hydro Pump,38,water,110,80
+60,8,Mud Bomb,41,ground,65,85
+60,9,Mud Bomb,41,ground,65,85
+60,10,Mud Bomb,41,ground,65,85
+60,11,Mud Bomb,41,ground,65,85
+60,14,Mud Bomb,41,ground,65,85
+60,15,Mud Bomb,41,ground,65,85
+60,16,Mud Bomb,41,ground,65,85
+60,3,Hydro Pump,43,water,110,80
+60,4,Hydro Pump,43,water,110,80
+60,5,Hydro Pump,43,water,110,80
+60,6,Hydro Pump,43,water,110,80
+60,7,Hydro Pump,43,water,110,80
+60,12,Hydro Pump,43,water,110,80
+60,13,Hydro Pump,43,water,110,80
+60,1,Hydro Pump,45,water,110,80
+60,2,Hydro Pump,45,water,110,80

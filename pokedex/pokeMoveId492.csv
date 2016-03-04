@@ -1,85 +1,85 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-492,shaymin-land,8,73,Leech Seed,1,19,
-492,shaymin-land,8,111,Defense Curl,1,1,
-492,shaymin-land,8,230,Sweet Scent,1,37,
-492,shaymin-land,8,235,Synthesis,1,28,
-492,shaymin-land,8,312,Aromatherapy,1,64,
-492,shaymin-land,8,320,Grass Whistle,1,82,
-492,shaymin-land,8,345,Magical Leaf,1,10,
-492,shaymin-land,8,363,Natural Gift,1,46,
-492,shaymin-land,8,381,Lucky Chant,1,91,
-492,shaymin-land,8,388,Worry Seed,1,55,
-492,shaymin-land,8,412,Energy Ball,1,73,
-492,shaymin-land,8,465,Seed Flare,1,100,
-492,shaymin-land,9,73,Leech Seed,1,19,
-492,shaymin-land,9,74,Growth,1,1,
-492,shaymin-land,9,186,Sweet Kiss,1,82,
-492,shaymin-land,9,230,Sweet Scent,1,37,
-492,shaymin-land,9,235,Synthesis,1,28,
-492,shaymin-land,9,312,Aromatherapy,1,64,
-492,shaymin-land,9,345,Magical Leaf,1,10,
-492,shaymin-land,9,361,Healing Wish,1,91,
-492,shaymin-land,9,363,Natural Gift,1,46,
-492,shaymin-land,9,388,Worry Seed,1,55,
-492,shaymin-land,9,412,Energy Ball,1,73,
-492,shaymin-land,9,465,Seed Flare,1,100,
-492,shaymin-land,10,73,Leech Seed,1,19,
-492,shaymin-land,10,74,Growth,1,1,
-492,shaymin-land,10,186,Sweet Kiss,1,82,
-492,shaymin-land,10,230,Sweet Scent,1,37,
-492,shaymin-land,10,235,Synthesis,1,28,
-492,shaymin-land,10,312,Aromatherapy,1,64,
-492,shaymin-land,10,345,Magical Leaf,1,10,
-492,shaymin-land,10,361,Healing Wish,1,91,
-492,shaymin-land,10,363,Natural Gift,1,46,
-492,shaymin-land,10,388,Worry Seed,1,55,
-492,shaymin-land,10,412,Energy Ball,1,73,
-492,shaymin-land,10,465,Seed Flare,1,100,
-492,shaymin-land,11,73,Leech Seed,1,19,
-492,shaymin-land,11,74,Growth,1,1,
-492,shaymin-land,11,186,Sweet Kiss,1,82,
-492,shaymin-land,11,230,Sweet Scent,1,37,
-492,shaymin-land,11,235,Synthesis,1,28,
-492,shaymin-land,11,312,Aromatherapy,1,64,
-492,shaymin-land,11,345,Magical Leaf,1,10,
-492,shaymin-land,11,361,Healing Wish,1,91,
-492,shaymin-land,11,363,Natural Gift,1,46,
-492,shaymin-land,11,388,Worry Seed,1,55,
-492,shaymin-land,11,412,Energy Ball,1,73,
-492,shaymin-land,11,465,Seed Flare,1,100,
-492,shaymin-land,14,73,Leech Seed,1,19,
-492,shaymin-land,14,74,Growth,1,1,
-492,shaymin-land,14,186,Sweet Kiss,1,82,
-492,shaymin-land,14,230,Sweet Scent,1,37,
-492,shaymin-land,14,235,Synthesis,1,28,
-492,shaymin-land,14,312,Aromatherapy,1,64,
-492,shaymin-land,14,345,Magical Leaf,1,10,
-492,shaymin-land,14,361,Healing Wish,1,91,
-492,shaymin-land,14,363,Natural Gift,1,46,
-492,shaymin-land,14,388,Worry Seed,1,55,
-492,shaymin-land,14,412,Energy Ball,1,73,
-492,shaymin-land,14,465,Seed Flare,1,100,
-492,shaymin-land,15,73,Leech Seed,1,19,
-492,shaymin-land,15,74,Growth,1,1,
-492,shaymin-land,15,186,Sweet Kiss,1,82,
-492,shaymin-land,15,230,Sweet Scent,1,37,
-492,shaymin-land,15,235,Synthesis,1,28,
-492,shaymin-land,15,312,Aromatherapy,1,64,
-492,shaymin-land,15,345,Magical Leaf,1,10,
-492,shaymin-land,15,361,Healing Wish,1,91,
-492,shaymin-land,15,363,Natural Gift,1,46,
-492,shaymin-land,15,388,Worry Seed,1,55,
-492,shaymin-land,15,412,Energy Ball,1,73,
-492,shaymin-land,15,465,Seed Flare,1,100,
-492,shaymin-land,16,73,Leech Seed,1,19,1
-492,shaymin-land,16,74,Growth,1,1,1
-492,shaymin-land,16,186,Sweet Kiss,1,82,1
-492,shaymin-land,16,230,Sweet Scent,1,37,1
-492,shaymin-land,16,235,Synthesis,1,28,1
-492,shaymin-land,16,312,Aromatherapy,1,64,1
-492,shaymin-land,16,345,Magical Leaf,1,10,1
-492,shaymin-land,16,361,Healing Wish,1,91,1
-492,shaymin-land,16,363,Natural Gift,1,46,1
-492,shaymin-land,16,388,Worry Seed,1,55,1
-492,shaymin-land,16,412,Energy Ball,1,73,1
-492,shaymin-land,16,465,Seed Flare,1,100,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+492,8,Defense Curl,1,normal,-,-
+492,9,Growth,1,normal,-,-
+492,10,Growth,1,normal,-,-
+492,11,Growth,1,normal,-,-
+492,14,Growth,1,normal,-,-
+492,15,Growth,1,normal,-,-
+492,16,Growth,1,normal,-,-
+492,8,Magical Leaf,10,grass,60,-
+492,9,Magical Leaf,10,grass,60,-
+492,10,Magical Leaf,10,grass,60,-
+492,11,Magical Leaf,10,grass,60,-
+492,14,Magical Leaf,10,grass,60,-
+492,15,Magical Leaf,10,grass,60,-
+492,16,Magical Leaf,10,grass,60,-
+492,8,Leech Seed,19,grass,-,90
+492,9,Leech Seed,19,grass,-,90
+492,10,Leech Seed,19,grass,-,90
+492,11,Leech Seed,19,grass,-,90
+492,14,Leech Seed,19,grass,-,90
+492,15,Leech Seed,19,grass,-,90
+492,16,Leech Seed,19,grass,-,90
+492,8,Synthesis,28,grass,-,-
+492,9,Synthesis,28,grass,-,-
+492,10,Synthesis,28,grass,-,-
+492,11,Synthesis,28,grass,-,-
+492,14,Synthesis,28,grass,-,-
+492,15,Synthesis,28,grass,-,-
+492,16,Synthesis,28,grass,-,-
+492,8,Sweet Scent,37,normal,-,100
+492,9,Sweet Scent,37,normal,-,100
+492,10,Sweet Scent,37,normal,-,100
+492,11,Sweet Scent,37,normal,-,100
+492,14,Sweet Scent,37,normal,-,100
+492,15,Sweet Scent,37,normal,-,100
+492,16,Sweet Scent,37,normal,-,100
+492,8,Natural Gift,46,normal,-,100
+492,9,Natural Gift,46,normal,-,100
+492,10,Natural Gift,46,normal,-,100
+492,11,Natural Gift,46,normal,-,100
+492,14,Natural Gift,46,normal,-,100
+492,15,Natural Gift,46,normal,-,100
+492,16,Natural Gift,46,normal,-,100
+492,8,Worry Seed,55,grass,-,100
+492,9,Worry Seed,55,grass,-,100
+492,10,Worry Seed,55,grass,-,100
+492,11,Worry Seed,55,grass,-,100
+492,14,Worry Seed,55,grass,-,100
+492,15,Worry Seed,55,grass,-,100
+492,16,Worry Seed,55,grass,-,100
+492,8,Aromatherapy,64,grass,-,-
+492,9,Aromatherapy,64,grass,-,-
+492,10,Aromatherapy,64,grass,-,-
+492,11,Aromatherapy,64,grass,-,-
+492,14,Aromatherapy,64,grass,-,-
+492,15,Aromatherapy,64,grass,-,-
+492,16,Aromatherapy,64,grass,-,-
+492,8,Energy Ball,73,grass,90,100
+492,9,Energy Ball,73,grass,90,100
+492,10,Energy Ball,73,grass,90,100
+492,11,Energy Ball,73,grass,90,100
+492,14,Energy Ball,73,grass,90,100
+492,15,Energy Ball,73,grass,90,100
+492,16,Energy Ball,73,grass,90,100
+492,8,Grass Whistle,82,grass,-,55
+492,9,Sweet Kiss,82,fairy,-,75
+492,10,Sweet Kiss,82,fairy,-,75
+492,11,Sweet Kiss,82,fairy,-,75
+492,14,Sweet Kiss,82,fairy,-,75
+492,15,Sweet Kiss,82,fairy,-,75
+492,16,Sweet Kiss,82,fairy,-,75
+492,8,Lucky Chant,91,normal,-,-
+492,9,Healing Wish,91,psychic,-,-
+492,10,Healing Wish,91,psychic,-,-
+492,11,Healing Wish,91,psychic,-,-
+492,14,Healing Wish,91,psychic,-,-
+492,15,Healing Wish,91,psychic,-,-
+492,16,Healing Wish,91,psychic,-,-
+492,8,Seed Flare,100,grass,120,85
+492,9,Seed Flare,100,grass,120,85
+492,10,Seed Flare,100,grass,120,85
+492,11,Seed Flare,100,grass,120,85
+492,14,Seed Flare,100,grass,120,85
+492,15,Seed Flare,100,grass,120,85
+492,16,Seed Flare,100,grass,120,85

@@ -1,103 +1,103 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-62,poliwrath,1,3,Double Slap,1,1,3
-62,poliwrath,1,34,Body Slam,1,1,4
-62,poliwrath,1,55,Water Gun,1,1,2
-62,poliwrath,1,55,Water Gun,1,19,
-62,poliwrath,1,95,Hypnosis,1,1,1
-62,poliwrath,1,95,Hypnosis,1,16,
-62,poliwrath,2,3,Double Slap,1,1,3
-62,poliwrath,2,34,Body Slam,1,1,4
-62,poliwrath,2,55,Water Gun,1,1,2
-62,poliwrath,2,55,Water Gun,1,19,
-62,poliwrath,2,95,Hypnosis,1,1,1
-62,poliwrath,2,95,Hypnosis,1,16,
-62,poliwrath,3,3,Double Slap,1,1,3
-62,poliwrath,3,55,Water Gun,1,1,1
-62,poliwrath,3,66,Submission,1,1,4
-62,poliwrath,3,66,Submission,1,35,
-62,poliwrath,3,95,Hypnosis,1,1,2
-62,poliwrath,3,170,Mind Reader,1,51,
-62,poliwrath,4,3,Double Slap,1,1,3
-62,poliwrath,4,55,Water Gun,1,1,1
-62,poliwrath,4,66,Submission,1,1,4
-62,poliwrath,4,66,Submission,1,35,
-62,poliwrath,4,95,Hypnosis,1,1,2
-62,poliwrath,4,170,Mind Reader,1,51,
-62,poliwrath,5,3,Double Slap,1,1,3
-62,poliwrath,5,55,Water Gun,1,1,1
-62,poliwrath,5,66,Submission,1,1,4
-62,poliwrath,5,66,Submission,1,35,
-62,poliwrath,5,95,Hypnosis,1,1,2
-62,poliwrath,5,170,Mind Reader,1,51,
-62,poliwrath,6,3,Double Slap,1,1,3
-62,poliwrath,6,55,Water Gun,1,1,1
-62,poliwrath,6,66,Submission,1,1,4
-62,poliwrath,6,66,Submission,1,35,
-62,poliwrath,6,95,Hypnosis,1,1,2
-62,poliwrath,6,170,Mind Reader,1,51,
-62,poliwrath,7,3,Double Slap,1,1,3
-62,poliwrath,7,55,Water Gun,1,1,1
-62,poliwrath,7,66,Submission,1,1,4
-62,poliwrath,7,66,Submission,1,35,
-62,poliwrath,7,95,Hypnosis,1,1,2
-62,poliwrath,7,170,Mind Reader,1,51,
-62,poliwrath,8,3,Double Slap,1,1,3
-62,poliwrath,8,61,Bubble Beam,1,1,1
-62,poliwrath,8,66,Submission,1,1,4
-62,poliwrath,8,95,Hypnosis,1,1,2
-62,poliwrath,8,170,Mind Reader,1,53,
-62,poliwrath,8,223,Dynamic Punch,1,43,
-62,poliwrath,9,3,Double Slap,1,1,3
-62,poliwrath,9,61,Bubble Beam,1,1,1
-62,poliwrath,9,66,Submission,1,1,4
-62,poliwrath,9,95,Hypnosis,1,1,2
-62,poliwrath,9,170,Mind Reader,1,53,
-62,poliwrath,9,223,Dynamic Punch,1,43,
-62,poliwrath,10,3,Double Slap,1,1,3
-62,poliwrath,10,61,Bubble Beam,1,1,1
-62,poliwrath,10,66,Submission,1,1,4
-62,poliwrath,10,95,Hypnosis,1,1,2
-62,poliwrath,10,170,Mind Reader,1,53,
-62,poliwrath,10,223,Dynamic Punch,1,43,
-62,poliwrath,11,3,Double Slap,1,1,3
-62,poliwrath,11,61,Bubble Beam,1,1,1
-62,poliwrath,11,66,Submission,1,1,4
-62,poliwrath,11,95,Hypnosis,1,1,2
-62,poliwrath,11,170,Mind Reader,1,43,
-62,poliwrath,11,223,Dynamic Punch,1,32,
-62,poliwrath,11,509,Circle Throw,1,53,
-62,poliwrath,12,3,Double Slap,1,1,3
-62,poliwrath,12,55,Water Gun,1,1,1
-62,poliwrath,12,66,Submission,1,1,4
-62,poliwrath,12,66,Submission,1,35,
-62,poliwrath,12,95,Hypnosis,1,1,2
-62,poliwrath,12,170,Mind Reader,1,51,
-62,poliwrath,13,3,Double Slap,1,1,3
-62,poliwrath,13,55,Water Gun,1,1,1
-62,poliwrath,13,66,Submission,1,1,4
-62,poliwrath,13,66,Submission,1,35,
-62,poliwrath,13,95,Hypnosis,1,1,2
-62,poliwrath,13,170,Mind Reader,1,51,
-62,poliwrath,14,3,Double Slap,1,1,3
-62,poliwrath,14,61,Bubble Beam,1,1,1
-62,poliwrath,14,66,Submission,1,1,4
-62,poliwrath,14,95,Hypnosis,1,1,2
-62,poliwrath,14,170,Mind Reader,1,43,
-62,poliwrath,14,223,Dynamic Punch,1,32,
-62,poliwrath,14,509,Circle Throw,1,53,
-62,poliwrath,15,3,Double Slap,1,1,4
-62,poliwrath,15,61,Bubble Beam,1,1,2
-62,poliwrath,15,66,Submission,1,1,5
-62,poliwrath,15,95,Hypnosis,1,1,3
-62,poliwrath,15,170,Mind Reader,1,43,
-62,poliwrath,15,223,Dynamic Punch,1,32,
-62,poliwrath,15,509,Circle Throw,1,1,1
-62,poliwrath,15,509,Circle Throw,1,53,
-62,poliwrath,16,3,Double Slap,1,1,4
-62,poliwrath,16,61,Bubble Beam,1,1,2
-62,poliwrath,16,66,Submission,1,1,5
-62,poliwrath,16,95,Hypnosis,1,1,3
-62,poliwrath,16,170,Mind Reader,1,43,1
-62,poliwrath,16,223,Dynamic Punch,1,32,1
-62,poliwrath,16,509,Circle Throw,1,1,1
-62,poliwrath,16,509,Circle Throw,1,53,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+62,1,Double Slap,1,normal,15,85
+62,1,Body Slam,1,normal,85,100
+62,1,Water Gun,1,water,40,100
+62,1,Hypnosis,1,psychic,-,60
+62,2,Double Slap,1,normal,15,85
+62,2,Body Slam,1,normal,85,100
+62,2,Water Gun,1,water,40,100
+62,2,Hypnosis,1,psychic,-,60
+62,3,Double Slap,1,normal,15,85
+62,3,Water Gun,1,water,40,100
+62,3,Submission,1,fighting,80,80
+62,3,Hypnosis,1,psychic,-,60
+62,4,Double Slap,1,normal,15,85
+62,4,Water Gun,1,water,40,100
+62,4,Submission,1,fighting,80,80
+62,4,Hypnosis,1,psychic,-,60
+62,5,Double Slap,1,normal,15,85
+62,5,Water Gun,1,water,40,100
+62,5,Submission,1,fighting,80,80
+62,5,Hypnosis,1,psychic,-,60
+62,6,Double Slap,1,normal,15,85
+62,6,Water Gun,1,water,40,100
+62,6,Submission,1,fighting,80,80
+62,6,Hypnosis,1,psychic,-,60
+62,7,Double Slap,1,normal,15,85
+62,7,Water Gun,1,water,40,100
+62,7,Submission,1,fighting,80,80
+62,7,Hypnosis,1,psychic,-,60
+62,8,Double Slap,1,normal,15,85
+62,8,Bubble Beam,1,water,65,100
+62,8,Submission,1,fighting,80,80
+62,8,Hypnosis,1,psychic,-,60
+62,9,Double Slap,1,normal,15,85
+62,9,Bubble Beam,1,water,65,100
+62,9,Submission,1,fighting,80,80
+62,9,Hypnosis,1,psychic,-,60
+62,10,Double Slap,1,normal,15,85
+62,10,Bubble Beam,1,water,65,100
+62,10,Submission,1,fighting,80,80
+62,10,Hypnosis,1,psychic,-,60
+62,11,Double Slap,1,normal,15,85
+62,11,Bubble Beam,1,water,65,100
+62,11,Submission,1,fighting,80,80
+62,11,Hypnosis,1,psychic,-,60
+62,12,Double Slap,1,normal,15,85
+62,12,Water Gun,1,water,40,100
+62,12,Submission,1,fighting,80,80
+62,12,Hypnosis,1,psychic,-,60
+62,13,Double Slap,1,normal,15,85
+62,13,Water Gun,1,water,40,100
+62,13,Submission,1,fighting,80,80
+62,13,Hypnosis,1,psychic,-,60
+62,14,Double Slap,1,normal,15,85
+62,14,Bubble Beam,1,water,65,100
+62,14,Submission,1,fighting,80,80
+62,14,Hypnosis,1,psychic,-,60
+62,15,Double Slap,1,normal,15,85
+62,15,Bubble Beam,1,water,65,100
+62,15,Submission,1,fighting,80,80
+62,15,Hypnosis,1,psychic,-,60
+62,15,Circle Throw,1,fighting,60,90
+62,16,Double Slap,1,normal,15,85
+62,16,Bubble Beam,1,water,65,100
+62,16,Submission,1,fighting,80,80
+62,16,Hypnosis,1,psychic,-,60
+62,16,Circle Throw,1,fighting,60,90
+62,1,Hypnosis,16,psychic,-,60
+62,2,Hypnosis,16,psychic,-,60
+62,1,Water Gun,19,water,40,100
+62,2,Water Gun,19,water,40,100
+62,11,Dynamic Punch,32,fighting,100,50
+62,14,Dynamic Punch,32,fighting,100,50
+62,15,Dynamic Punch,32,fighting,100,50
+62,16,Dynamic Punch,32,fighting,100,50
+62,3,Submission,35,fighting,80,80
+62,4,Submission,35,fighting,80,80
+62,5,Submission,35,fighting,80,80
+62,6,Submission,35,fighting,80,80
+62,7,Submission,35,fighting,80,80
+62,12,Submission,35,fighting,80,80
+62,13,Submission,35,fighting,80,80
+62,8,Dynamic Punch,43,fighting,100,50
+62,9,Dynamic Punch,43,fighting,100,50
+62,10,Dynamic Punch,43,fighting,100,50
+62,11,Mind Reader,43,normal,-,-
+62,14,Mind Reader,43,normal,-,-
+62,15,Mind Reader,43,normal,-,-
+62,16,Mind Reader,43,normal,-,-
+62,3,Mind Reader,51,normal,-,-
+62,4,Mind Reader,51,normal,-,-
+62,5,Mind Reader,51,normal,-,-
+62,6,Mind Reader,51,normal,-,-
+62,7,Mind Reader,51,normal,-,-
+62,12,Mind Reader,51,normal,-,-
+62,13,Mind Reader,51,normal,-,-
+62,8,Mind Reader,53,normal,-,-
+62,9,Mind Reader,53,normal,-,-
+62,10,Mind Reader,53,normal,-,-
+62,11,Circle Throw,53,fighting,60,90
+62,14,Circle Throw,53,fighting,60,90
+62,15,Circle Throw,53,fighting,60,90
+62,16,Circle Throw,53,fighting,60,90

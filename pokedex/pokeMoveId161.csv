@@ -1,158 +1,158 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-161,sentret,3,21,Slam,1,25,
-161,sentret,3,33,Tackle,1,1,
-161,sentret,3,98,Quick Attack,1,11,
-161,sentret,3,111,Defense Curl,1,5,
-161,sentret,3,133,Amnesia,1,41,
-161,sentret,3,154,Fury Swipes,1,17,
-161,sentret,3,156,Rest,1,33,
-161,sentret,4,21,Slam,1,25,
-161,sentret,4,33,Tackle,1,1,
-161,sentret,4,98,Quick Attack,1,11,
-161,sentret,4,111,Defense Curl,1,5,
-161,sentret,4,133,Amnesia,1,41,
-161,sentret,4,154,Fury Swipes,1,17,
-161,sentret,4,156,Rest,1,33,
-161,sentret,5,10,Scratch,1,1,
-161,sentret,5,21,Slam,1,24,
-161,sentret,5,98,Quick Attack,1,7,
-161,sentret,5,111,Defense Curl,1,4,
-161,sentret,5,133,Amnesia,1,49,
-161,sentret,5,154,Fury Swipes,1,12,
-161,sentret,5,156,Rest,1,40,
-161,sentret,5,266,Follow Me,1,31,
-161,sentret,5,270,Helping Hand,1,17,
-161,sentret,6,10,Scratch,1,1,
-161,sentret,6,21,Slam,1,24,
-161,sentret,6,98,Quick Attack,1,7,
-161,sentret,6,111,Defense Curl,1,4,
-161,sentret,6,133,Amnesia,1,49,
-161,sentret,6,154,Fury Swipes,1,12,
-161,sentret,6,156,Rest,1,40,
-161,sentret,6,266,Follow Me,1,31,
-161,sentret,6,270,Helping Hand,1,17,
-161,sentret,7,10,Scratch,1,1,
-161,sentret,7,21,Slam,1,24,
-161,sentret,7,98,Quick Attack,1,7,
-161,sentret,7,111,Defense Curl,1,4,
-161,sentret,7,133,Amnesia,1,49,
-161,sentret,7,154,Fury Swipes,1,12,
-161,sentret,7,156,Rest,1,40,
-161,sentret,7,266,Follow Me,1,31,
-161,sentret,7,270,Helping Hand,1,17,
-161,sentret,8,10,Scratch,1,1,1
-161,sentret,8,21,Slam,1,25,
-161,sentret,8,98,Quick Attack,1,7,
-161,sentret,8,111,Defense Curl,1,4,
-161,sentret,8,133,Amnesia,1,36,
-161,sentret,8,154,Fury Swipes,1,13,
-161,sentret,8,156,Rest,1,28,
-161,sentret,8,193,Foresight,1,1,2
-161,sentret,8,226,Baton Pass,1,39,
-161,sentret,8,266,Follow Me,1,19,
-161,sentret,8,270,Helping Hand,1,16,
-161,sentret,8,304,Hyper Voice,1,47,
-161,sentret,8,382,Me First,1,42,
-161,sentret,8,389,Sucker Punch,1,31,
-161,sentret,9,10,Scratch,1,1,1
-161,sentret,9,21,Slam,1,25,
-161,sentret,9,98,Quick Attack,1,7,
-161,sentret,9,111,Defense Curl,1,4,
-161,sentret,9,133,Amnesia,1,36,
-161,sentret,9,154,Fury Swipes,1,13,
-161,sentret,9,156,Rest,1,28,
-161,sentret,9,193,Foresight,1,1,2
-161,sentret,9,226,Baton Pass,1,39,
-161,sentret,9,266,Follow Me,1,19,
-161,sentret,9,270,Helping Hand,1,16,
-161,sentret,9,304,Hyper Voice,1,47,
-161,sentret,9,382,Me First,1,42,
-161,sentret,9,389,Sucker Punch,1,31,
-161,sentret,10,10,Scratch,1,1,1
-161,sentret,10,21,Slam,1,25,
-161,sentret,10,98,Quick Attack,1,7,
-161,sentret,10,111,Defense Curl,1,4,
-161,sentret,10,133,Amnesia,1,36,
-161,sentret,10,154,Fury Swipes,1,13,
-161,sentret,10,156,Rest,1,28,
-161,sentret,10,193,Foresight,1,1,2
-161,sentret,10,226,Baton Pass,1,39,
-161,sentret,10,266,Follow Me,1,19,
-161,sentret,10,270,Helping Hand,1,16,
-161,sentret,10,304,Hyper Voice,1,47,
-161,sentret,10,382,Me First,1,42,
-161,sentret,10,389,Sucker Punch,1,31,
-161,sentret,11,10,Scratch,1,1,1
-161,sentret,11,21,Slam,1,25,
-161,sentret,11,98,Quick Attack,1,7,
-161,sentret,11,111,Defense Curl,1,4,
-161,sentret,11,133,Amnesia,1,36,
-161,sentret,11,154,Fury Swipes,1,13,
-161,sentret,11,156,Rest,1,28,
-161,sentret,11,193,Foresight,1,1,2
-161,sentret,11,226,Baton Pass,1,39,
-161,sentret,11,266,Follow Me,1,19,
-161,sentret,11,270,Helping Hand,1,16,
-161,sentret,11,304,Hyper Voice,1,47,
-161,sentret,11,382,Me First,1,42,
-161,sentret,11,389,Sucker Punch,1,31,
-161,sentret,12,10,Scratch,1,1,
-161,sentret,12,21,Slam,1,24,
-161,sentret,12,98,Quick Attack,1,7,
-161,sentret,12,111,Defense Curl,1,4,
-161,sentret,12,133,Amnesia,1,49,
-161,sentret,12,154,Fury Swipes,1,12,
-161,sentret,12,156,Rest,1,40,
-161,sentret,12,266,Follow Me,1,31,
-161,sentret,12,270,Helping Hand,1,17,
-161,sentret,13,10,Scratch,1,1,
-161,sentret,13,21,Slam,1,24,
-161,sentret,13,98,Quick Attack,1,7,
-161,sentret,13,111,Defense Curl,1,4,
-161,sentret,13,133,Amnesia,1,49,
-161,sentret,13,154,Fury Swipes,1,12,
-161,sentret,13,156,Rest,1,40,
-161,sentret,13,266,Follow Me,1,31,
-161,sentret,13,270,Helping Hand,1,17,
-161,sentret,14,10,Scratch,1,1,1
-161,sentret,14,21,Slam,1,25,
-161,sentret,14,98,Quick Attack,1,7,
-161,sentret,14,111,Defense Curl,1,4,
-161,sentret,14,133,Amnesia,1,36,
-161,sentret,14,154,Fury Swipes,1,13,
-161,sentret,14,156,Rest,1,28,
-161,sentret,14,193,Foresight,1,1,2
-161,sentret,14,226,Baton Pass,1,39,
-161,sentret,14,266,Follow Me,1,19,
-161,sentret,14,270,Helping Hand,1,16,
-161,sentret,14,304,Hyper Voice,1,47,
-161,sentret,14,382,Me First,1,42,
-161,sentret,14,389,Sucker Punch,1,31,
-161,sentret,15,10,Scratch,1,1,1
-161,sentret,15,21,Slam,1,25,
-161,sentret,15,98,Quick Attack,1,7,
-161,sentret,15,111,Defense Curl,1,4,
-161,sentret,15,133,Amnesia,1,36,
-161,sentret,15,154,Fury Swipes,1,13,
-161,sentret,15,156,Rest,1,28,
-161,sentret,15,193,Foresight,1,1,2
-161,sentret,15,226,Baton Pass,1,39,
-161,sentret,15,266,Follow Me,1,19,
-161,sentret,15,270,Helping Hand,1,16,
-161,sentret,15,304,Hyper Voice,1,47,
-161,sentret,15,382,Me First,1,42,
-161,sentret,15,389,Sucker Punch,1,31,
-161,sentret,16,10,Scratch,1,1,1
-161,sentret,16,21,Slam,1,25,1
-161,sentret,16,98,Quick Attack,1,7,1
-161,sentret,16,111,Defense Curl,1,4,1
-161,sentret,16,133,Amnesia,1,36,1
-161,sentret,16,154,Fury Swipes,1,13,1
-161,sentret,16,156,Rest,1,28,1
-161,sentret,16,193,Foresight,1,1,2
-161,sentret,16,226,Baton Pass,1,39,1
-161,sentret,16,266,Follow Me,1,19,1
-161,sentret,16,270,Helping Hand,1,16,1
-161,sentret,16,304,Hyper Voice,1,47,1
-161,sentret,16,382,Me First,1,42,1
-161,sentret,16,389,Sucker Punch,1,31,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+161,3,Tackle,1,normal,50,100
+161,4,Tackle,1,normal,50,100
+161,5,Scratch,1,normal,40,100
+161,6,Scratch,1,normal,40,100
+161,7,Scratch,1,normal,40,100
+161,8,Scratch,1,normal,40,100
+161,8,Foresight,1,normal,-,-
+161,9,Scratch,1,normal,40,100
+161,9,Foresight,1,normal,-,-
+161,10,Scratch,1,normal,40,100
+161,10,Foresight,1,normal,-,-
+161,11,Scratch,1,normal,40,100
+161,11,Foresight,1,normal,-,-
+161,12,Scratch,1,normal,40,100
+161,13,Scratch,1,normal,40,100
+161,14,Scratch,1,normal,40,100
+161,14,Foresight,1,normal,-,-
+161,15,Scratch,1,normal,40,100
+161,15,Foresight,1,normal,-,-
+161,16,Scratch,1,normal,40,100
+161,16,Foresight,1,normal,-,-
+161,5,Defense Curl,4,normal,-,-
+161,6,Defense Curl,4,normal,-,-
+161,7,Defense Curl,4,normal,-,-
+161,8,Defense Curl,4,normal,-,-
+161,9,Defense Curl,4,normal,-,-
+161,10,Defense Curl,4,normal,-,-
+161,11,Defense Curl,4,normal,-,-
+161,12,Defense Curl,4,normal,-,-
+161,13,Defense Curl,4,normal,-,-
+161,14,Defense Curl,4,normal,-,-
+161,15,Defense Curl,4,normal,-,-
+161,16,Defense Curl,4,normal,-,-
+161,3,Defense Curl,5,normal,-,-
+161,4,Defense Curl,5,normal,-,-
+161,5,Quick Attack,7,normal,40,100
+161,6,Quick Attack,7,normal,40,100
+161,7,Quick Attack,7,normal,40,100
+161,8,Quick Attack,7,normal,40,100
+161,9,Quick Attack,7,normal,40,100
+161,10,Quick Attack,7,normal,40,100
+161,11,Quick Attack,7,normal,40,100
+161,12,Quick Attack,7,normal,40,100
+161,13,Quick Attack,7,normal,40,100
+161,14,Quick Attack,7,normal,40,100
+161,15,Quick Attack,7,normal,40,100
+161,16,Quick Attack,7,normal,40,100
+161,3,Quick Attack,11,normal,40,100
+161,4,Quick Attack,11,normal,40,100
+161,5,Fury Swipes,12,normal,18,80
+161,6,Fury Swipes,12,normal,18,80
+161,7,Fury Swipes,12,normal,18,80
+161,12,Fury Swipes,12,normal,18,80
+161,13,Fury Swipes,12,normal,18,80
+161,8,Fury Swipes,13,normal,18,80
+161,9,Fury Swipes,13,normal,18,80
+161,10,Fury Swipes,13,normal,18,80
+161,11,Fury Swipes,13,normal,18,80
+161,14,Fury Swipes,13,normal,18,80
+161,15,Fury Swipes,13,normal,18,80
+161,16,Fury Swipes,13,normal,18,80
+161,8,Helping Hand,16,normal,-,-
+161,9,Helping Hand,16,normal,-,-
+161,10,Helping Hand,16,normal,-,-
+161,11,Helping Hand,16,normal,-,-
+161,14,Helping Hand,16,normal,-,-
+161,15,Helping Hand,16,normal,-,-
+161,16,Helping Hand,16,normal,-,-
+161,3,Fury Swipes,17,normal,18,80
+161,4,Fury Swipes,17,normal,18,80
+161,5,Helping Hand,17,normal,-,-
+161,6,Helping Hand,17,normal,-,-
+161,7,Helping Hand,17,normal,-,-
+161,12,Helping Hand,17,normal,-,-
+161,13,Helping Hand,17,normal,-,-
+161,8,Follow Me,19,normal,-,-
+161,9,Follow Me,19,normal,-,-
+161,10,Follow Me,19,normal,-,-
+161,11,Follow Me,19,normal,-,-
+161,14,Follow Me,19,normal,-,-
+161,15,Follow Me,19,normal,-,-
+161,16,Follow Me,19,normal,-,-
+161,5,Slam,24,normal,80,75
+161,6,Slam,24,normal,80,75
+161,7,Slam,24,normal,80,75
+161,12,Slam,24,normal,80,75
+161,13,Slam,24,normal,80,75
+161,3,Slam,25,normal,80,75
+161,4,Slam,25,normal,80,75
+161,8,Slam,25,normal,80,75
+161,9,Slam,25,normal,80,75
+161,10,Slam,25,normal,80,75
+161,11,Slam,25,normal,80,75
+161,14,Slam,25,normal,80,75
+161,15,Slam,25,normal,80,75
+161,16,Slam,25,normal,80,75
+161,8,Rest,28,psychic,-,-
+161,9,Rest,28,psychic,-,-
+161,10,Rest,28,psychic,-,-
+161,11,Rest,28,psychic,-,-
+161,14,Rest,28,psychic,-,-
+161,15,Rest,28,psychic,-,-
+161,16,Rest,28,psychic,-,-
+161,5,Follow Me,31,normal,-,-
+161,6,Follow Me,31,normal,-,-
+161,7,Follow Me,31,normal,-,-
+161,8,Sucker Punch,31,dark,80,100
+161,9,Sucker Punch,31,dark,80,100
+161,10,Sucker Punch,31,dark,80,100
+161,11,Sucker Punch,31,dark,80,100
+161,12,Follow Me,31,normal,-,-
+161,13,Follow Me,31,normal,-,-
+161,14,Sucker Punch,31,dark,80,100
+161,15,Sucker Punch,31,dark,80,100
+161,16,Sucker Punch,31,dark,80,100
+161,3,Rest,33,psychic,-,-
+161,4,Rest,33,psychic,-,-
+161,8,Amnesia,36,psychic,-,-
+161,9,Amnesia,36,psychic,-,-
+161,10,Amnesia,36,psychic,-,-
+161,11,Amnesia,36,psychic,-,-
+161,14,Amnesia,36,psychic,-,-
+161,15,Amnesia,36,psychic,-,-
+161,16,Amnesia,36,psychic,-,-
+161,8,Baton Pass,39,normal,-,-
+161,9,Baton Pass,39,normal,-,-
+161,10,Baton Pass,39,normal,-,-
+161,11,Baton Pass,39,normal,-,-
+161,14,Baton Pass,39,normal,-,-
+161,15,Baton Pass,39,normal,-,-
+161,16,Baton Pass,39,normal,-,-
+161,5,Rest,40,psychic,-,-
+161,6,Rest,40,psychic,-,-
+161,7,Rest,40,psychic,-,-
+161,12,Rest,40,psychic,-,-
+161,13,Rest,40,psychic,-,-
+161,3,Amnesia,41,psychic,-,-
+161,4,Amnesia,41,psychic,-,-
+161,8,Me First,42,normal,-,-
+161,9,Me First,42,normal,-,-
+161,10,Me First,42,normal,-,-
+161,11,Me First,42,normal,-,-
+161,14,Me First,42,normal,-,-
+161,15,Me First,42,normal,-,-
+161,16,Me First,42,normal,-,-
+161,8,Hyper Voice,47,normal,90,100
+161,9,Hyper Voice,47,normal,90,100
+161,10,Hyper Voice,47,normal,90,100
+161,11,Hyper Voice,47,normal,90,100
+161,14,Hyper Voice,47,normal,90,100
+161,15,Hyper Voice,47,normal,90,100
+161,16,Hyper Voice,47,normal,90,100
+161,5,Amnesia,49,psychic,-,-
+161,6,Amnesia,49,psychic,-,-
+161,7,Amnesia,49,psychic,-,-
+161,12,Amnesia,49,psychic,-,-
+161,13,Amnesia,49,psychic,-,-

@@ -1,33 +1,33 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-668,pyroar,15,29,Headbutt,1,11,
-668,pyroar,15,33,Tackle,1,1,2
-668,pyroar,15,36,Take Down,1,20,
-668,pyroar,15,43,Leer,1,1,3
-668,pyroar,15,52,Ember,1,5,
-668,pyroar,15,53,Flamethrower,1,38,
-668,pyroar,15,63,Hyper Beam,1,1,1
-668,pyroar,15,242,Crunch,1,42,
-668,pyroar,15,283,Endeavor,1,28,
-668,pyroar,15,304,Hyper Voice,1,48,
-668,pyroar,15,315,Overheat,1,57,
-668,pyroar,15,424,Fire Fang,1,23,
-668,pyroar,15,497,Echoed Voice,1,33,
-668,pyroar,15,510,Incinerate,1,51,
-668,pyroar,15,526,Work Up,1,8,
-668,pyroar,15,568,Noble Roar,1,15,
-668,pyroar,16,29,Headbutt,1,11,1
-668,pyroar,16,33,Tackle,1,1,2
-668,pyroar,16,36,Take Down,1,20,1
-668,pyroar,16,43,Leer,1,1,3
-668,pyroar,16,52,Ember,1,5,1
-668,pyroar,16,53,Flamethrower,1,38,1
-668,pyroar,16,63,Hyper Beam,1,1,1
-668,pyroar,16,242,Crunch,1,42,1
-668,pyroar,16,283,Endeavor,1,28,1
-668,pyroar,16,304,Hyper Voice,1,48,1
-668,pyroar,16,315,Overheat,1,57,1
-668,pyroar,16,424,Fire Fang,1,23,1
-668,pyroar,16,497,Echoed Voice,1,33,1
-668,pyroar,16,510,Incinerate,1,51,1
-668,pyroar,16,526,Work Up,1,8,1
-668,pyroar,16,568,Noble Roar,1,15,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+668,15,Tackle,1,normal,50,100
+668,15,Leer,1,normal,-,100
+668,15,Hyper Beam,1,normal,150,90
+668,16,Tackle,1,normal,50,100
+668,16,Leer,1,normal,-,100
+668,16,Hyper Beam,1,normal,150,90
+668,15,Ember,5,fire,40,100
+668,16,Ember,5,fire,40,100
+668,15,Work Up,8,normal,-,-
+668,16,Work Up,8,normal,-,-
+668,15,Headbutt,11,normal,70,100
+668,16,Headbutt,11,normal,70,100
+668,15,Noble Roar,15,normal,-,100
+668,16,Noble Roar,15,normal,-,100
+668,15,Take Down,20,normal,90,85
+668,16,Take Down,20,normal,90,85
+668,15,Fire Fang,23,fire,65,95
+668,16,Fire Fang,23,fire,65,95
+668,15,Endeavor,28,normal,-,100
+668,16,Endeavor,28,normal,-,100
+668,15,Echoed Voice,33,normal,40,100
+668,16,Echoed Voice,33,normal,40,100
+668,15,Flamethrower,38,fire,90,100
+668,16,Flamethrower,38,fire,90,100
+668,15,Crunch,42,dark,80,100
+668,16,Crunch,42,dark,80,100
+668,15,Hyper Voice,48,normal,90,100
+668,16,Hyper Voice,48,normal,90,100
+668,15,Incinerate,51,fire,60,100
+668,16,Incinerate,51,fire,60,100
+668,15,Overheat,57,fire,130,90
+668,16,Overheat,57,fire,130,90

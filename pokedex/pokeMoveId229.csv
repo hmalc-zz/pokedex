@@ -1,203 +1,203 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-229,houndoom,3,43,Leer,1,1,1
-229,houndoom,3,44,Bite,1,20,
-229,houndoom,3,46,Roar,1,7,
-229,houndoom,3,52,Ember,1,1,2
-229,houndoom,3,53,Flamethrower,1,41,
-229,houndoom,3,123,Smog,1,13,
-229,houndoom,3,185,Feint Attack,1,30,
-229,houndoom,3,242,Crunch,1,52,
-229,houndoom,4,43,Leer,1,1,1
-229,houndoom,4,44,Bite,1,20,
-229,houndoom,4,46,Roar,1,7,
-229,houndoom,4,52,Ember,1,1,2
-229,houndoom,4,53,Flamethrower,1,41,
-229,houndoom,4,123,Smog,1,13,
-229,houndoom,4,185,Feint Attack,1,30,
-229,houndoom,4,242,Crunch,1,52,
-229,houndoom,5,43,Leer,1,1,1
-229,houndoom,5,44,Bite,1,27,
-229,houndoom,5,46,Roar,1,19,
-229,houndoom,5,52,Ember,1,1,2
-229,houndoom,5,53,Flamethrower,1,51,
-229,houndoom,5,123,Smog,1,13,
-229,houndoom,5,185,Feint Attack,1,43,
-229,houndoom,5,242,Crunch,1,59,
-229,houndoom,5,316,Odor Sleuth,1,35,
-229,houndoom,5,336,Howl,1,1,3
-229,houndoom,5,336,Howl,1,7,
-229,houndoom,6,43,Leer,1,1,1
-229,houndoom,6,44,Bite,1,27,
-229,houndoom,6,46,Roar,1,19,
-229,houndoom,6,52,Ember,1,1,2
-229,houndoom,6,53,Flamethrower,1,51,
-229,houndoom,6,123,Smog,1,13,
-229,houndoom,6,185,Feint Attack,1,43,
-229,houndoom,6,242,Crunch,1,59,
-229,houndoom,6,316,Odor Sleuth,1,35,
-229,houndoom,6,336,Howl,1,1,3
-229,houndoom,6,336,Howl,1,7,
-229,houndoom,7,43,Leer,1,1,1
-229,houndoom,7,44,Bite,1,27,
-229,houndoom,7,46,Roar,1,19,
-229,houndoom,7,52,Ember,1,1,2
-229,houndoom,7,53,Flamethrower,1,51,
-229,houndoom,7,123,Smog,1,13,
-229,houndoom,7,185,Feint Attack,1,43,
-229,houndoom,7,242,Crunch,1,59,
-229,houndoom,7,316,Odor Sleuth,1,35,
-229,houndoom,7,336,Howl,1,1,3
-229,houndoom,7,336,Howl,1,7,
-229,houndoom,8,43,Leer,1,1,2
-229,houndoom,8,44,Bite,1,17,
-229,houndoom,8,46,Roar,1,14,
-229,houndoom,8,52,Ember,1,1,3
-229,houndoom,8,53,Flamethrower,1,48,
-229,houndoom,8,123,Smog,1,1,5
-229,houndoom,8,123,Smog,1,9,
-229,houndoom,8,185,Feint Attack,1,38,
-229,houndoom,8,242,Crunch,1,54,
-229,houndoom,8,251,Beat Up,1,28,
-229,houndoom,8,316,Odor Sleuth,1,22,
-229,houndoom,8,336,Howl,1,1,4
-229,houndoom,8,336,Howl,1,4,
-229,houndoom,8,373,Embargo,1,44,
-229,houndoom,8,417,Nasty Plot,1,60,
-229,houndoom,8,422,Thunder Fang,1,1,1
-229,houndoom,8,424,Fire Fang,1,32,
-229,houndoom,9,43,Leer,1,1,2
-229,houndoom,9,44,Bite,1,17,
-229,houndoom,9,46,Roar,1,14,
-229,houndoom,9,52,Ember,1,1,3
-229,houndoom,9,53,Flamethrower,1,48,
-229,houndoom,9,123,Smog,1,1,5
-229,houndoom,9,123,Smog,1,9,
-229,houndoom,9,185,Feint Attack,1,38,
-229,houndoom,9,242,Crunch,1,54,
-229,houndoom,9,251,Beat Up,1,28,
-229,houndoom,9,316,Odor Sleuth,1,22,
-229,houndoom,9,336,Howl,1,1,4
-229,houndoom,9,336,Howl,1,4,
-229,houndoom,9,373,Embargo,1,44,
-229,houndoom,9,417,Nasty Plot,1,60,
-229,houndoom,9,422,Thunder Fang,1,1,1
-229,houndoom,9,424,Fire Fang,1,32,
-229,houndoom,10,43,Leer,1,1,2
-229,houndoom,10,44,Bite,1,17,
-229,houndoom,10,46,Roar,1,14,
-229,houndoom,10,52,Ember,1,1,3
-229,houndoom,10,53,Flamethrower,1,48,
-229,houndoom,10,123,Smog,1,1,5
-229,houndoom,10,123,Smog,1,9,
-229,houndoom,10,185,Feint Attack,1,38,
-229,houndoom,10,242,Crunch,1,54,
-229,houndoom,10,251,Beat Up,1,28,
-229,houndoom,10,316,Odor Sleuth,1,22,
-229,houndoom,10,336,Howl,1,1,4
-229,houndoom,10,336,Howl,1,4,
-229,houndoom,10,373,Embargo,1,44,
-229,houndoom,10,417,Nasty Plot,1,60,
-229,houndoom,10,422,Thunder Fang,1,1,1
-229,houndoom,10,424,Fire Fang,1,32,
-229,houndoom,11,43,Leer,1,1,2
-229,houndoom,11,44,Bite,1,16,
-229,houndoom,11,46,Roar,1,13,
-229,houndoom,11,52,Ember,1,1,3
-229,houndoom,11,53,Flamethrower,1,50,
-229,houndoom,11,123,Smog,1,1,5
-229,houndoom,11,123,Smog,1,8,
-229,houndoom,11,185,Feint Attack,1,35,
-229,houndoom,11,242,Crunch,1,56,
-229,houndoom,11,251,Beat Up,1,26,
-229,houndoom,11,316,Odor Sleuth,1,20,
-229,houndoom,11,336,Howl,1,1,4
-229,houndoom,11,336,Howl,1,4,
-229,houndoom,11,373,Embargo,1,41,
-229,houndoom,11,417,Nasty Plot,1,60,
-229,houndoom,11,422,Thunder Fang,1,1,1
-229,houndoom,11,424,Fire Fang,1,30,
-229,houndoom,11,492,Foul Play,1,45,
-229,houndoom,11,517,Inferno,1,65,
-229,houndoom,12,43,Leer,1,1,1
-229,houndoom,12,44,Bite,1,27,
-229,houndoom,12,46,Roar,1,19,
-229,houndoom,12,52,Ember,1,1,2
-229,houndoom,12,53,Flamethrower,1,51,
-229,houndoom,12,123,Smog,1,13,
-229,houndoom,12,185,Feint Attack,1,43,
-229,houndoom,12,242,Crunch,1,59,
-229,houndoom,12,316,Odor Sleuth,1,35,
-229,houndoom,12,336,Howl,1,1,3
-229,houndoom,12,336,Howl,1,7,
-229,houndoom,13,43,Leer,1,1,1
-229,houndoom,13,44,Bite,1,27,
-229,houndoom,13,46,Roar,1,19,
-229,houndoom,13,52,Ember,1,1,2
-229,houndoom,13,53,Flamethrower,1,51,
-229,houndoom,13,123,Smog,1,13,
-229,houndoom,13,185,Feint Attack,1,43,
-229,houndoom,13,242,Crunch,1,59,
-229,houndoom,13,316,Odor Sleuth,1,35,
-229,houndoom,13,336,Howl,1,1,3
-229,houndoom,13,336,Howl,1,7,
-229,houndoom,14,43,Leer,1,1,2
-229,houndoom,14,44,Bite,1,16,
-229,houndoom,14,46,Roar,1,13,
-229,houndoom,14,52,Ember,1,1,3
-229,houndoom,14,53,Flamethrower,1,50,
-229,houndoom,14,123,Smog,1,1,5
-229,houndoom,14,123,Smog,1,8,
-229,houndoom,14,185,Feint Attack,1,35,
-229,houndoom,14,242,Crunch,1,56,
-229,houndoom,14,251,Beat Up,1,26,
-229,houndoom,14,316,Odor Sleuth,1,20,
-229,houndoom,14,336,Howl,1,1,4
-229,houndoom,14,336,Howl,1,4,
-229,houndoom,14,373,Embargo,1,41,
-229,houndoom,14,417,Nasty Plot,1,60,
-229,houndoom,14,422,Thunder Fang,1,1,1
-229,houndoom,14,424,Fire Fang,1,30,
-229,houndoom,14,492,Foul Play,1,45,
-229,houndoom,14,517,Inferno,1,65,
-229,houndoom,15,43,Leer,1,1,4
-229,houndoom,15,44,Bite,1,16,
-229,houndoom,15,46,Roar,1,13,
-229,houndoom,15,52,Ember,1,1,5
-229,houndoom,15,53,Flamethrower,1,50,
-229,houndoom,15,123,Smog,1,1,7
-229,houndoom,15,123,Smog,1,8,
-229,houndoom,15,185,Feint Attack,1,35,
-229,houndoom,15,242,Crunch,1,56,
-229,houndoom,15,251,Beat Up,1,26,
-229,houndoom,15,316,Odor Sleuth,1,20,
-229,houndoom,15,336,Howl,1,1,6
-229,houndoom,15,336,Howl,1,4,
-229,houndoom,15,373,Embargo,1,41,
-229,houndoom,15,417,Nasty Plot,1,1,2
-229,houndoom,15,417,Nasty Plot,1,60,
-229,houndoom,15,422,Thunder Fang,1,1,3
-229,houndoom,15,424,Fire Fang,1,30,
-229,houndoom,15,492,Foul Play,1,45,
-229,houndoom,15,517,Inferno,1,1,1
-229,houndoom,15,517,Inferno,1,65,
-229,houndoom,16,43,Leer,1,1,4
-229,houndoom,16,44,Bite,1,16,1
-229,houndoom,16,46,Roar,1,13,1
-229,houndoom,16,52,Ember,1,1,5
-229,houndoom,16,53,Flamethrower,1,50,1
-229,houndoom,16,123,Smog,1,1,7
-229,houndoom,16,123,Smog,1,8,1
-229,houndoom,16,185,Feint Attack,1,35,1
-229,houndoom,16,242,Crunch,1,56,1
-229,houndoom,16,251,Beat Up,1,26,1
-229,houndoom,16,316,Odor Sleuth,1,20,1
-229,houndoom,16,336,Howl,1,1,6
-229,houndoom,16,336,Howl,1,4,1
-229,houndoom,16,373,Embargo,1,41,1
-229,houndoom,16,417,Nasty Plot,1,1,2
-229,houndoom,16,417,Nasty Plot,1,60,1
-229,houndoom,16,422,Thunder Fang,1,1,3
-229,houndoom,16,424,Fire Fang,1,30,1
-229,houndoom,16,492,Foul Play,1,45,1
-229,houndoom,16,517,Inferno,1,1,1
-229,houndoom,16,517,Inferno,1,65,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+229,3,Leer,1,normal,-,100
+229,3,Ember,1,fire,40,100
+229,4,Leer,1,normal,-,100
+229,4,Ember,1,fire,40,100
+229,5,Leer,1,normal,-,100
+229,5,Ember,1,fire,40,100
+229,5,Howl,1,normal,-,-
+229,6,Leer,1,normal,-,100
+229,6,Ember,1,fire,40,100
+229,6,Howl,1,normal,-,-
+229,7,Leer,1,normal,-,100
+229,7,Ember,1,fire,40,100
+229,7,Howl,1,normal,-,-
+229,8,Leer,1,normal,-,100
+229,8,Ember,1,fire,40,100
+229,8,Smog,1,poison,30,70
+229,8,Howl,1,normal,-,-
+229,8,Thunder Fang,1,electric,65,95
+229,9,Leer,1,normal,-,100
+229,9,Ember,1,fire,40,100
+229,9,Smog,1,poison,30,70
+229,9,Howl,1,normal,-,-
+229,9,Thunder Fang,1,electric,65,95
+229,10,Leer,1,normal,-,100
+229,10,Ember,1,fire,40,100
+229,10,Smog,1,poison,30,70
+229,10,Howl,1,normal,-,-
+229,10,Thunder Fang,1,electric,65,95
+229,11,Leer,1,normal,-,100
+229,11,Ember,1,fire,40,100
+229,11,Smog,1,poison,30,70
+229,11,Howl,1,normal,-,-
+229,11,Thunder Fang,1,electric,65,95
+229,12,Leer,1,normal,-,100
+229,12,Ember,1,fire,40,100
+229,12,Howl,1,normal,-,-
+229,13,Leer,1,normal,-,100
+229,13,Ember,1,fire,40,100
+229,13,Howl,1,normal,-,-
+229,14,Leer,1,normal,-,100
+229,14,Ember,1,fire,40,100
+229,14,Smog,1,poison,30,70
+229,14,Howl,1,normal,-,-
+229,14,Thunder Fang,1,electric,65,95
+229,15,Leer,1,normal,-,100
+229,15,Ember,1,fire,40,100
+229,15,Smog,1,poison,30,70
+229,15,Howl,1,normal,-,-
+229,15,Nasty Plot,1,dark,-,-
+229,15,Thunder Fang,1,electric,65,95
+229,15,Inferno,1,fire,100,50
+229,16,Leer,1,normal,-,100
+229,16,Ember,1,fire,40,100
+229,16,Smog,1,poison,30,70
+229,16,Howl,1,normal,-,-
+229,16,Nasty Plot,1,dark,-,-
+229,16,Thunder Fang,1,electric,65,95
+229,16,Inferno,1,fire,100,50
+229,8,Howl,4,normal,-,-
+229,9,Howl,4,normal,-,-
+229,10,Howl,4,normal,-,-
+229,11,Howl,4,normal,-,-
+229,14,Howl,4,normal,-,-
+229,15,Howl,4,normal,-,-
+229,16,Howl,4,normal,-,-
+229,3,Roar,7,normal,-,-
+229,4,Roar,7,normal,-,-
+229,5,Howl,7,normal,-,-
+229,6,Howl,7,normal,-,-
+229,7,Howl,7,normal,-,-
+229,12,Howl,7,normal,-,-
+229,13,Howl,7,normal,-,-
+229,11,Smog,8,poison,30,70
+229,14,Smog,8,poison,30,70
+229,15,Smog,8,poison,30,70
+229,16,Smog,8,poison,30,70
+229,8,Smog,9,poison,30,70
+229,9,Smog,9,poison,30,70
+229,10,Smog,9,poison,30,70
+229,3,Smog,13,poison,30,70
+229,4,Smog,13,poison,30,70
+229,5,Smog,13,poison,30,70
+229,6,Smog,13,poison,30,70
+229,7,Smog,13,poison,30,70
+229,11,Roar,13,normal,-,-
+229,12,Smog,13,poison,30,70
+229,13,Smog,13,poison,30,70
+229,14,Roar,13,normal,-,-
+229,15,Roar,13,normal,-,-
+229,16,Roar,13,normal,-,-
+229,8,Roar,14,normal,-,-
+229,9,Roar,14,normal,-,-
+229,10,Roar,14,normal,-,-
+229,11,Bite,16,dark,60,100
+229,14,Bite,16,dark,60,100
+229,15,Bite,16,dark,60,100
+229,16,Bite,16,dark,60,100
+229,8,Bite,17,dark,60,100
+229,9,Bite,17,dark,60,100
+229,10,Bite,17,dark,60,100
+229,5,Roar,19,normal,-,-
+229,6,Roar,19,normal,-,-
+229,7,Roar,19,normal,-,-
+229,12,Roar,19,normal,-,-
+229,13,Roar,19,normal,-,-
+229,3,Bite,20,dark,60,100
+229,4,Bite,20,dark,60,100
+229,11,Odor Sleuth,20,normal,-,-
+229,14,Odor Sleuth,20,normal,-,-
+229,15,Odor Sleuth,20,normal,-,-
+229,16,Odor Sleuth,20,normal,-,-
+229,8,Odor Sleuth,22,normal,-,-
+229,9,Odor Sleuth,22,normal,-,-
+229,10,Odor Sleuth,22,normal,-,-
+229,11,Beat Up,26,dark,-,100
+229,14,Beat Up,26,dark,-,100
+229,15,Beat Up,26,dark,-,100
+229,16,Beat Up,26,dark,-,100
+229,5,Bite,27,dark,60,100
+229,6,Bite,27,dark,60,100
+229,7,Bite,27,dark,60,100
+229,12,Bite,27,dark,60,100
+229,13,Bite,27,dark,60,100
+229,8,Beat Up,28,dark,-,100
+229,9,Beat Up,28,dark,-,100
+229,10,Beat Up,28,dark,-,100
+229,3,Feint Attack,30,dark,60,-
+229,4,Feint Attack,30,dark,60,-
+229,11,Fire Fang,30,fire,65,95
+229,14,Fire Fang,30,fire,65,95
+229,15,Fire Fang,30,fire,65,95
+229,16,Fire Fang,30,fire,65,95
+229,8,Fire Fang,32,fire,65,95
+229,9,Fire Fang,32,fire,65,95
+229,10,Fire Fang,32,fire,65,95
+229,5,Odor Sleuth,35,normal,-,-
+229,6,Odor Sleuth,35,normal,-,-
+229,7,Odor Sleuth,35,normal,-,-
+229,11,Feint Attack,35,dark,60,-
+229,12,Odor Sleuth,35,normal,-,-
+229,13,Odor Sleuth,35,normal,-,-
+229,14,Feint Attack,35,dark,60,-
+229,15,Feint Attack,35,dark,60,-
+229,16,Feint Attack,35,dark,60,-
+229,8,Feint Attack,38,dark,60,-
+229,9,Feint Attack,38,dark,60,-
+229,10,Feint Attack,38,dark,60,-
+229,3,Flamethrower,41,fire,90,100
+229,4,Flamethrower,41,fire,90,100
+229,11,Embargo,41,dark,-,100
+229,14,Embargo,41,dark,-,100
+229,15,Embargo,41,dark,-,100
+229,16,Embargo,41,dark,-,100
+229,5,Feint Attack,43,dark,60,-
+229,6,Feint Attack,43,dark,60,-
+229,7,Feint Attack,43,dark,60,-
+229,12,Feint Attack,43,dark,60,-
+229,13,Feint Attack,43,dark,60,-
+229,8,Embargo,44,dark,-,100
+229,9,Embargo,44,dark,-,100
+229,10,Embargo,44,dark,-,100
+229,11,Foul Play,45,dark,95,100
+229,14,Foul Play,45,dark,95,100
+229,15,Foul Play,45,dark,95,100
+229,16,Foul Play,45,dark,95,100
+229,8,Flamethrower,48,fire,90,100
+229,9,Flamethrower,48,fire,90,100
+229,10,Flamethrower,48,fire,90,100
+229,11,Flamethrower,50,fire,90,100
+229,14,Flamethrower,50,fire,90,100
+229,15,Flamethrower,50,fire,90,100
+229,16,Flamethrower,50,fire,90,100
+229,5,Flamethrower,51,fire,90,100
+229,6,Flamethrower,51,fire,90,100
+229,7,Flamethrower,51,fire,90,100
+229,12,Flamethrower,51,fire,90,100
+229,13,Flamethrower,51,fire,90,100
+229,3,Crunch,52,dark,80,100
+229,4,Crunch,52,dark,80,100
+229,8,Crunch,54,dark,80,100
+229,9,Crunch,54,dark,80,100
+229,10,Crunch,54,dark,80,100
+229,11,Crunch,56,dark,80,100
+229,14,Crunch,56,dark,80,100
+229,15,Crunch,56,dark,80,100
+229,16,Crunch,56,dark,80,100
+229,5,Crunch,59,dark,80,100
+229,6,Crunch,59,dark,80,100
+229,7,Crunch,59,dark,80,100
+229,12,Crunch,59,dark,80,100
+229,13,Crunch,59,dark,80,100
+229,8,Nasty Plot,60,dark,-,-
+229,9,Nasty Plot,60,dark,-,-
+229,10,Nasty Plot,60,dark,-,-
+229,11,Nasty Plot,60,dark,-,-
+229,14,Nasty Plot,60,dark,-,-
+229,15,Nasty Plot,60,dark,-,-
+229,16,Nasty Plot,60,dark,-,-
+229,11,Inferno,65,fire,100,50
+229,14,Inferno,65,fire,100,50
+229,15,Inferno,65,fire,100,50
+229,16,Inferno,65,fire,100,50

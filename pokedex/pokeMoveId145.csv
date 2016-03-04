@@ -1,179 +1,179 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-145,zapdos,1,65,Drill Peck,1,1,2
-145,zapdos,1,84,Thunder Shock,1,1,1
-145,zapdos,1,87,Thunder,1,51,
-145,zapdos,1,97,Agility,1,55,
-145,zapdos,1,113,Light Screen,1,60,
-145,zapdos,2,65,Drill Peck,1,1,2
-145,zapdos,2,84,Thunder Shock,1,1,1
-145,zapdos,2,87,Thunder,1,51,
-145,zapdos,2,97,Agility,1,55,
-145,zapdos,2,113,Light Screen,1,60,
-145,zapdos,3,64,Peck,1,1,1
-145,zapdos,3,65,Drill Peck,1,49,
-145,zapdos,3,84,Thunder Shock,1,1,2
-145,zapdos,3,86,Thunder Wave,1,13,
-145,zapdos,3,87,Thunder,1,73,
-145,zapdos,3,97,Agility,1,25,
-145,zapdos,3,113,Light Screen,1,61,
-145,zapdos,3,197,Detect,1,37,
-145,zapdos,4,64,Peck,1,1,1
-145,zapdos,4,65,Drill Peck,1,49,
-145,zapdos,4,84,Thunder Shock,1,1,2
-145,zapdos,4,86,Thunder Wave,1,13,
-145,zapdos,4,87,Thunder,1,73,
-145,zapdos,4,97,Agility,1,25,
-145,zapdos,4,113,Light Screen,1,61,
-145,zapdos,4,197,Detect,1,37,
-145,zapdos,5,64,Peck,1,1,1
-145,zapdos,5,65,Drill Peck,1,49,
-145,zapdos,5,84,Thunder Shock,1,1,2
-145,zapdos,5,86,Thunder Wave,1,13,
-145,zapdos,5,87,Thunder,1,85,
-145,zapdos,5,97,Agility,1,25,
-145,zapdos,5,113,Light Screen,1,73,
-145,zapdos,5,197,Detect,1,37,
-145,zapdos,5,268,Charge,1,61,
-145,zapdos,6,64,Peck,1,1,1
-145,zapdos,6,65,Drill Peck,1,49,
-145,zapdos,6,84,Thunder Shock,1,1,2
-145,zapdos,6,86,Thunder Wave,1,13,
-145,zapdos,6,87,Thunder,1,85,
-145,zapdos,6,97,Agility,1,25,
-145,zapdos,6,113,Light Screen,1,73,
-145,zapdos,6,197,Detect,1,37,
-145,zapdos,6,268,Charge,1,61,
-145,zapdos,7,64,Peck,1,1,1
-145,zapdos,7,65,Drill Peck,1,49,
-145,zapdos,7,84,Thunder Shock,1,1,2
-145,zapdos,7,86,Thunder Wave,1,13,
-145,zapdos,7,87,Thunder,1,85,
-145,zapdos,7,97,Agility,1,25,
-145,zapdos,7,113,Light Screen,1,73,
-145,zapdos,7,197,Detect,1,37,
-145,zapdos,7,268,Charge,1,61,
-145,zapdos,8,64,Peck,1,1,1
-145,zapdos,8,65,Drill Peck,1,71,
-145,zapdos,8,84,Thunder Shock,1,1,2
-145,zapdos,8,86,Thunder Wave,1,8,
-145,zapdos,8,87,Thunder,1,78,
-145,zapdos,8,97,Agility,1,43,
-145,zapdos,8,113,Light Screen,1,64,
-145,zapdos,8,197,Detect,1,15,
-145,zapdos,8,240,Rain Dance,1,85,
-145,zapdos,8,246,Ancient Power,1,29,
-145,zapdos,8,268,Charge,1,36,
-145,zapdos,8,355,Roost,1,57,
-145,zapdos,8,365,Pluck,1,22,
-145,zapdos,8,435,Discharge,1,50,
-145,zapdos,9,64,Peck,1,1,1
-145,zapdos,9,65,Drill Peck,1,71,
-145,zapdos,9,84,Thunder Shock,1,1,2
-145,zapdos,9,86,Thunder Wave,1,8,
-145,zapdos,9,87,Thunder,1,78,
-145,zapdos,9,97,Agility,1,43,
-145,zapdos,9,113,Light Screen,1,64,
-145,zapdos,9,197,Detect,1,15,
-145,zapdos,9,240,Rain Dance,1,85,
-145,zapdos,9,246,Ancient Power,1,29,
-145,zapdos,9,268,Charge,1,36,
-145,zapdos,9,355,Roost,1,57,
-145,zapdos,9,365,Pluck,1,22,
-145,zapdos,9,435,Discharge,1,50,
-145,zapdos,10,64,Peck,1,1,1
-145,zapdos,10,65,Drill Peck,1,71,
-145,zapdos,10,84,Thunder Shock,1,1,2
-145,zapdos,10,86,Thunder Wave,1,8,
-145,zapdos,10,87,Thunder,1,78,
-145,zapdos,10,97,Agility,1,43,
-145,zapdos,10,113,Light Screen,1,64,
-145,zapdos,10,197,Detect,1,15,
-145,zapdos,10,240,Rain Dance,1,85,
-145,zapdos,10,246,Ancient Power,1,29,
-145,zapdos,10,268,Charge,1,36,
-145,zapdos,10,355,Roost,1,57,
-145,zapdos,10,365,Pluck,1,22,
-145,zapdos,10,435,Discharge,1,50,
-145,zapdos,11,64,Peck,1,1,1
-145,zapdos,11,65,Drill Peck,1,71,
-145,zapdos,11,84,Thunder Shock,1,1,2
-145,zapdos,11,86,Thunder Wave,1,8,
-145,zapdos,11,87,Thunder,1,78,
-145,zapdos,11,97,Agility,1,43,
-145,zapdos,11,113,Light Screen,1,64,
-145,zapdos,11,197,Detect,1,15,
-145,zapdos,11,240,Rain Dance,1,85,
-145,zapdos,11,246,Ancient Power,1,29,
-145,zapdos,11,268,Charge,1,36,
-145,zapdos,11,355,Roost,1,57,
-145,zapdos,11,365,Pluck,1,22,
-145,zapdos,11,435,Discharge,1,50,
-145,zapdos,12,64,Peck,1,1,1
-145,zapdos,12,65,Drill Peck,1,49,
-145,zapdos,12,84,Thunder Shock,1,1,2
-145,zapdos,12,86,Thunder Wave,1,13,
-145,zapdos,12,87,Thunder,1,85,
-145,zapdos,12,97,Agility,1,25,
-145,zapdos,12,113,Light Screen,1,73,
-145,zapdos,12,197,Detect,1,37,
-145,zapdos,12,268,Charge,1,61,
-145,zapdos,13,64,Peck,1,1,1
-145,zapdos,13,65,Drill Peck,1,49,
-145,zapdos,13,84,Thunder Shock,1,1,2
-145,zapdos,13,86,Thunder Wave,1,13,
-145,zapdos,13,87,Thunder,1,85,
-145,zapdos,13,97,Agility,1,25,
-145,zapdos,13,113,Light Screen,1,73,
-145,zapdos,13,197,Detect,1,37,
-145,zapdos,13,268,Charge,1,61,
-145,zapdos,14,64,Peck,1,1,1
-145,zapdos,14,65,Drill Peck,1,71,
-145,zapdos,14,84,Thunder Shock,1,1,2
-145,zapdos,14,86,Thunder Wave,1,8,
-145,zapdos,14,87,Thunder,1,78,
-145,zapdos,14,97,Agility,1,43,
-145,zapdos,14,113,Light Screen,1,64,
-145,zapdos,14,192,Zap Cannon,1,92,
-145,zapdos,14,197,Detect,1,15,
-145,zapdos,14,240,Rain Dance,1,85,
-145,zapdos,14,246,Ancient Power,1,29,
-145,zapdos,14,268,Charge,1,36,
-145,zapdos,14,355,Roost,1,57,
-145,zapdos,14,365,Pluck,1,22,
-145,zapdos,14,435,Discharge,1,50,
-145,zapdos,15,64,Peck,1,1,4
-145,zapdos,15,65,Drill Peck,1,1,3
-145,zapdos,15,65,Drill Peck,1,71,
-145,zapdos,15,84,Thunder Shock,1,1,5
-145,zapdos,15,86,Thunder Wave,1,8,
-145,zapdos,15,87,Thunder,1,78,
-145,zapdos,15,97,Agility,1,43,
-145,zapdos,15,113,Light Screen,1,64,
-145,zapdos,15,192,Zap Cannon,1,1,2
-145,zapdos,15,192,Zap Cannon,1,92,
-145,zapdos,15,197,Detect,1,15,
-145,zapdos,15,240,Rain Dance,1,57,
-145,zapdos,15,246,Ancient Power,1,29,
-145,zapdos,15,268,Charge,1,36,
-145,zapdos,15,355,Roost,1,1,1
-145,zapdos,15,355,Roost,1,85,
-145,zapdos,15,365,Pluck,1,22,
-145,zapdos,15,435,Discharge,1,50,
-145,zapdos,16,64,Peck,1,1,4
-145,zapdos,16,65,Drill Peck,1,1,3
-145,zapdos,16,65,Drill Peck,1,71,1
-145,zapdos,16,84,Thunder Shock,1,1,5
-145,zapdos,16,86,Thunder Wave,1,8,1
-145,zapdos,16,87,Thunder,1,78,1
-145,zapdos,16,97,Agility,1,43,1
-145,zapdos,16,113,Light Screen,1,64,1
-145,zapdos,16,192,Zap Cannon,1,1,2
-145,zapdos,16,192,Zap Cannon,1,92,1
-145,zapdos,16,197,Detect,1,15,1
-145,zapdos,16,240,Rain Dance,1,57,1
-145,zapdos,16,246,Ancient Power,1,29,1
-145,zapdos,16,268,Charge,1,36,1
-145,zapdos,16,355,Roost,1,1,1
-145,zapdos,16,355,Roost,1,85,1
-145,zapdos,16,365,Pluck,1,22,1
-145,zapdos,16,435,Discharge,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+145,1,Drill Peck,1,flying,80,100
+145,1,Thunder Shock,1,electric,40,100
+145,2,Drill Peck,1,flying,80,100
+145,2,Thunder Shock,1,electric,40,100
+145,3,Peck,1,flying,35,100
+145,3,Thunder Shock,1,electric,40,100
+145,4,Peck,1,flying,35,100
+145,4,Thunder Shock,1,electric,40,100
+145,5,Peck,1,flying,35,100
+145,5,Thunder Shock,1,electric,40,100
+145,6,Peck,1,flying,35,100
+145,6,Thunder Shock,1,electric,40,100
+145,7,Peck,1,flying,35,100
+145,7,Thunder Shock,1,electric,40,100
+145,8,Peck,1,flying,35,100
+145,8,Thunder Shock,1,electric,40,100
+145,9,Peck,1,flying,35,100
+145,9,Thunder Shock,1,electric,40,100
+145,10,Peck,1,flying,35,100
+145,10,Thunder Shock,1,electric,40,100
+145,11,Peck,1,flying,35,100
+145,11,Thunder Shock,1,electric,40,100
+145,12,Peck,1,flying,35,100
+145,12,Thunder Shock,1,electric,40,100
+145,13,Peck,1,flying,35,100
+145,13,Thunder Shock,1,electric,40,100
+145,14,Peck,1,flying,35,100
+145,14,Thunder Shock,1,electric,40,100
+145,15,Peck,1,flying,35,100
+145,15,Drill Peck,1,flying,80,100
+145,15,Thunder Shock,1,electric,40,100
+145,15,Zap Cannon,1,electric,120,50
+145,15,Roost,1,flying,-,-
+145,16,Peck,1,flying,35,100
+145,16,Drill Peck,1,flying,80,100
+145,16,Thunder Shock,1,electric,40,100
+145,16,Zap Cannon,1,electric,120,50
+145,16,Roost,1,flying,-,-
+145,8,Thunder Wave,8,electric,-,100
+145,9,Thunder Wave,8,electric,-,100
+145,10,Thunder Wave,8,electric,-,100
+145,11,Thunder Wave,8,electric,-,100
+145,14,Thunder Wave,8,electric,-,100
+145,15,Thunder Wave,8,electric,-,100
+145,16,Thunder Wave,8,electric,-,100
+145,3,Thunder Wave,13,electric,-,100
+145,4,Thunder Wave,13,electric,-,100
+145,5,Thunder Wave,13,electric,-,100
+145,6,Thunder Wave,13,electric,-,100
+145,7,Thunder Wave,13,electric,-,100
+145,12,Thunder Wave,13,electric,-,100
+145,13,Thunder Wave,13,electric,-,100
+145,8,Detect,15,fighting,-,-
+145,9,Detect,15,fighting,-,-
+145,10,Detect,15,fighting,-,-
+145,11,Detect,15,fighting,-,-
+145,14,Detect,15,fighting,-,-
+145,15,Detect,15,fighting,-,-
+145,16,Detect,15,fighting,-,-
+145,8,Pluck,22,flying,60,100
+145,9,Pluck,22,flying,60,100
+145,10,Pluck,22,flying,60,100
+145,11,Pluck,22,flying,60,100
+145,14,Pluck,22,flying,60,100
+145,15,Pluck,22,flying,60,100
+145,16,Pluck,22,flying,60,100
+145,3,Agility,25,psychic,-,-
+145,4,Agility,25,psychic,-,-
+145,5,Agility,25,psychic,-,-
+145,6,Agility,25,psychic,-,-
+145,7,Agility,25,psychic,-,-
+145,12,Agility,25,psychic,-,-
+145,13,Agility,25,psychic,-,-
+145,8,Ancient Power,29,rock,60,100
+145,9,Ancient Power,29,rock,60,100
+145,10,Ancient Power,29,rock,60,100
+145,11,Ancient Power,29,rock,60,100
+145,14,Ancient Power,29,rock,60,100
+145,15,Ancient Power,29,rock,60,100
+145,16,Ancient Power,29,rock,60,100
+145,8,Charge,36,electric,-,-
+145,9,Charge,36,electric,-,-
+145,10,Charge,36,electric,-,-
+145,11,Charge,36,electric,-,-
+145,14,Charge,36,electric,-,-
+145,15,Charge,36,electric,-,-
+145,16,Charge,36,electric,-,-
+145,3,Detect,37,fighting,-,-
+145,4,Detect,37,fighting,-,-
+145,5,Detect,37,fighting,-,-
+145,6,Detect,37,fighting,-,-
+145,7,Detect,37,fighting,-,-
+145,12,Detect,37,fighting,-,-
+145,13,Detect,37,fighting,-,-
+145,8,Agility,43,psychic,-,-
+145,9,Agility,43,psychic,-,-
+145,10,Agility,43,psychic,-,-
+145,11,Agility,43,psychic,-,-
+145,14,Agility,43,psychic,-,-
+145,15,Agility,43,psychic,-,-
+145,16,Agility,43,psychic,-,-
+145,3,Drill Peck,49,flying,80,100
+145,4,Drill Peck,49,flying,80,100
+145,5,Drill Peck,49,flying,80,100
+145,6,Drill Peck,49,flying,80,100
+145,7,Drill Peck,49,flying,80,100
+145,12,Drill Peck,49,flying,80,100
+145,13,Drill Peck,49,flying,80,100
+145,8,Discharge,50,electric,80,100
+145,9,Discharge,50,electric,80,100
+145,10,Discharge,50,electric,80,100
+145,11,Discharge,50,electric,80,100
+145,14,Discharge,50,electric,80,100
+145,15,Discharge,50,electric,80,100
+145,16,Discharge,50,electric,80,100
+145,1,Thunder,51,electric,110,70
+145,2,Thunder,51,electric,110,70
+145,1,Agility,55,psychic,-,-
+145,2,Agility,55,psychic,-,-
+145,8,Roost,57,flying,-,-
+145,9,Roost,57,flying,-,-
+145,10,Roost,57,flying,-,-
+145,11,Roost,57,flying,-,-
+145,14,Roost,57,flying,-,-
+145,15,Rain Dance,57,water,-,-
+145,16,Rain Dance,57,water,-,-
+145,1,Light Screen,60,psychic,-,-
+145,2,Light Screen,60,psychic,-,-
+145,3,Light Screen,61,psychic,-,-
+145,4,Light Screen,61,psychic,-,-
+145,5,Charge,61,electric,-,-
+145,6,Charge,61,electric,-,-
+145,7,Charge,61,electric,-,-
+145,12,Charge,61,electric,-,-
+145,13,Charge,61,electric,-,-
+145,8,Light Screen,64,psychic,-,-
+145,9,Light Screen,64,psychic,-,-
+145,10,Light Screen,64,psychic,-,-
+145,11,Light Screen,64,psychic,-,-
+145,14,Light Screen,64,psychic,-,-
+145,15,Light Screen,64,psychic,-,-
+145,16,Light Screen,64,psychic,-,-
+145,8,Drill Peck,71,flying,80,100
+145,9,Drill Peck,71,flying,80,100
+145,10,Drill Peck,71,flying,80,100
+145,11,Drill Peck,71,flying,80,100
+145,14,Drill Peck,71,flying,80,100
+145,15,Drill Peck,71,flying,80,100
+145,16,Drill Peck,71,flying,80,100
+145,3,Thunder,73,electric,110,70
+145,4,Thunder,73,electric,110,70
+145,5,Light Screen,73,psychic,-,-
+145,6,Light Screen,73,psychic,-,-
+145,7,Light Screen,73,psychic,-,-
+145,12,Light Screen,73,psychic,-,-
+145,13,Light Screen,73,psychic,-,-
+145,8,Thunder,78,electric,110,70
+145,9,Thunder,78,electric,110,70
+145,10,Thunder,78,electric,110,70
+145,11,Thunder,78,electric,110,70
+145,14,Thunder,78,electric,110,70
+145,15,Thunder,78,electric,110,70
+145,16,Thunder,78,electric,110,70
+145,5,Thunder,85,electric,110,70
+145,6,Thunder,85,electric,110,70
+145,7,Thunder,85,electric,110,70
+145,8,Rain Dance,85,water,-,-
+145,9,Rain Dance,85,water,-,-
+145,10,Rain Dance,85,water,-,-
+145,11,Rain Dance,85,water,-,-
+145,12,Thunder,85,electric,110,70
+145,13,Thunder,85,electric,110,70
+145,14,Rain Dance,85,water,-,-
+145,15,Roost,85,flying,-,-
+145,16,Roost,85,flying,-,-
+145,14,Zap Cannon,92,electric,120,50
+145,15,Zap Cannon,92,electric,120,50
+145,16,Zap Cannon,92,electric,120,50

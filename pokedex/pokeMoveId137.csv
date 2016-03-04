@@ -1,195 +1,195 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-137,porygon,1,33,Tackle,1,1,1
-137,porygon,1,60,Psybeam,1,23,
-137,porygon,1,97,Agility,1,35,
-137,porygon,1,105,Recover,1,28,
-137,porygon,1,159,Sharpen,1,1,2
-137,porygon,1,160,Conversion,1,1,3
-137,porygon,1,161,Tri Attack,1,42,
-137,porygon,2,33,Tackle,1,1,1
-137,porygon,2,60,Psybeam,1,23,
-137,porygon,2,97,Agility,1,35,
-137,porygon,2,105,Recover,1,28,
-137,porygon,2,159,Sharpen,1,1,2
-137,porygon,2,160,Conversion,1,1,3
-137,porygon,2,161,Tri Attack,1,42,
-137,porygon,3,33,Tackle,1,1,2
-137,porygon,3,60,Psybeam,1,12,
-137,porygon,3,97,Agility,1,9,
-137,porygon,3,105,Recover,1,20,
-137,porygon,3,159,Sharpen,1,24,
-137,porygon,3,160,Conversion,1,1,3
-137,porygon,3,161,Tri Attack,1,36,
-137,porygon,3,176,Conversion 2,1,1,1
-137,porygon,3,192,Zap Cannon,1,44,
-137,porygon,3,199,Lock-On,1,32,
-137,porygon,4,33,Tackle,1,1,2
-137,porygon,4,60,Psybeam,1,12,
-137,porygon,4,97,Agility,1,9,
-137,porygon,4,105,Recover,1,20,
-137,porygon,4,159,Sharpen,1,24,
-137,porygon,4,160,Conversion,1,1,3
-137,porygon,4,161,Tri Attack,1,36,
-137,porygon,4,176,Conversion 2,1,1,1
-137,porygon,4,192,Zap Cannon,1,44,
-137,porygon,4,199,Lock-On,1,32,
-137,porygon,5,33,Tackle,1,1,2
-137,porygon,5,60,Psybeam,1,12,
-137,porygon,5,97,Agility,1,9,
-137,porygon,5,105,Recover,1,20,
-137,porygon,5,159,Sharpen,1,24,
-137,porygon,5,160,Conversion,1,1,3
-137,porygon,5,161,Tri Attack,1,36,
-137,porygon,5,176,Conversion 2,1,1,1
-137,porygon,5,192,Zap Cannon,1,48,
-137,porygon,5,199,Lock-On,1,32,
-137,porygon,5,278,Recycle,1,44,
-137,porygon,6,33,Tackle,1,1,2
-137,porygon,6,60,Psybeam,1,12,
-137,porygon,6,97,Agility,1,9,
-137,porygon,6,105,Recover,1,20,
-137,porygon,6,159,Sharpen,1,24,
-137,porygon,6,160,Conversion,1,1,3
-137,porygon,6,161,Tri Attack,1,36,
-137,porygon,6,176,Conversion 2,1,1,1
-137,porygon,6,192,Zap Cannon,1,48,
-137,porygon,6,199,Lock-On,1,32,
-137,porygon,6,278,Recycle,1,44,
-137,porygon,7,33,Tackle,1,1,2
-137,porygon,7,60,Psybeam,1,12,
-137,porygon,7,97,Agility,1,9,
-137,porygon,7,105,Recover,1,20,
-137,porygon,7,159,Sharpen,1,24,
-137,porygon,7,160,Conversion,1,1,3
-137,porygon,7,161,Tri Attack,1,36,
-137,porygon,7,176,Conversion 2,1,1,1
-137,porygon,7,192,Zap Cannon,1,48,
-137,porygon,7,199,Lock-On,1,32,
-137,porygon,7,278,Recycle,1,44,
-137,porygon,8,33,Tackle,1,1,2
-137,porygon,8,60,Psybeam,1,7,
-137,porygon,8,97,Agility,1,12,
-137,porygon,8,105,Recover,1,18,
-137,porygon,8,159,Sharpen,1,1,4
-137,porygon,8,160,Conversion,1,1,3
-137,porygon,8,161,Tri Attack,1,51,
-137,porygon,8,176,Conversion 2,1,1,1
-137,porygon,8,192,Zap Cannon,1,62,
-137,porygon,8,199,Lock-On,1,45,
-137,porygon,8,277,Magic Coat,1,56,
-137,porygon,8,278,Recycle,1,34,
-137,porygon,8,324,Signal Beam,1,29,
-137,porygon,8,393,Magnet Rise,1,23,
-137,porygon,8,435,Discharge,1,40,
-137,porygon,9,33,Tackle,1,1,2
-137,porygon,9,60,Psybeam,1,7,
-137,porygon,9,97,Agility,1,12,
-137,porygon,9,105,Recover,1,18,
-137,porygon,9,159,Sharpen,1,1,4
-137,porygon,9,160,Conversion,1,1,3
-137,porygon,9,161,Tri Attack,1,51,
-137,porygon,9,176,Conversion 2,1,1,1
-137,porygon,9,192,Zap Cannon,1,62,
-137,porygon,9,199,Lock-On,1,45,
-137,porygon,9,277,Magic Coat,1,56,
-137,porygon,9,278,Recycle,1,34,
-137,porygon,9,324,Signal Beam,1,29,
-137,porygon,9,393,Magnet Rise,1,23,
-137,porygon,9,435,Discharge,1,40,
-137,porygon,10,33,Tackle,1,1,2
-137,porygon,10,60,Psybeam,1,7,
-137,porygon,10,97,Agility,1,12,
-137,porygon,10,105,Recover,1,18,
-137,porygon,10,159,Sharpen,1,1,4
-137,porygon,10,160,Conversion,1,1,3
-137,porygon,10,161,Tri Attack,1,51,
-137,porygon,10,176,Conversion 2,1,1,1
-137,porygon,10,192,Zap Cannon,1,62,
-137,porygon,10,199,Lock-On,1,45,
-137,porygon,10,277,Magic Coat,1,56,
-137,porygon,10,278,Recycle,1,34,
-137,porygon,10,324,Signal Beam,1,29,
-137,porygon,10,393,Magnet Rise,1,23,
-137,porygon,10,435,Discharge,1,40,
-137,porygon,11,33,Tackle,1,1,2
-137,porygon,11,60,Psybeam,1,7,
-137,porygon,11,97,Agility,1,12,
-137,porygon,11,105,Recover,1,18,
-137,porygon,11,159,Sharpen,1,1,4
-137,porygon,11,160,Conversion,1,1,3
-137,porygon,11,161,Tri Attack,1,51,
-137,porygon,11,176,Conversion 2,1,1,1
-137,porygon,11,192,Zap Cannon,1,62,
-137,porygon,11,199,Lock-On,1,45,
-137,porygon,11,277,Magic Coat,1,56,
-137,porygon,11,278,Recycle,1,34,
-137,porygon,11,324,Signal Beam,1,29,
-137,porygon,11,393,Magnet Rise,1,23,
-137,porygon,11,435,Discharge,1,40,
-137,porygon,12,33,Tackle,1,1,2
-137,porygon,12,60,Psybeam,1,12,
-137,porygon,12,97,Agility,1,9,
-137,porygon,12,105,Recover,1,20,
-137,porygon,12,159,Sharpen,1,24,
-137,porygon,12,160,Conversion,1,1,3
-137,porygon,12,161,Tri Attack,1,36,
-137,porygon,12,176,Conversion 2,1,1,1
-137,porygon,12,192,Zap Cannon,1,48,
-137,porygon,12,199,Lock-On,1,32,
-137,porygon,12,278,Recycle,1,44,
-137,porygon,13,33,Tackle,1,1,2
-137,porygon,13,60,Psybeam,1,12,
-137,porygon,13,97,Agility,1,9,
-137,porygon,13,105,Recover,1,20,
-137,porygon,13,159,Sharpen,1,24,
-137,porygon,13,160,Conversion,1,1,3
-137,porygon,13,161,Tri Attack,1,36,
-137,porygon,13,176,Conversion 2,1,1,1
-137,porygon,13,192,Zap Cannon,1,48,
-137,porygon,13,199,Lock-On,1,32,
-137,porygon,13,278,Recycle,1,44,
-137,porygon,14,33,Tackle,1,1,2
-137,porygon,14,60,Psybeam,1,7,
-137,porygon,14,97,Agility,1,12,
-137,porygon,14,105,Recover,1,18,
-137,porygon,14,159,Sharpen,1,1,4
-137,porygon,14,160,Conversion,1,1,3
-137,porygon,14,161,Tri Attack,1,51,
-137,porygon,14,176,Conversion 2,1,1,1
-137,porygon,14,192,Zap Cannon,1,62,
-137,porygon,14,199,Lock-On,1,45,
-137,porygon,14,277,Magic Coat,1,56,
-137,porygon,14,278,Recycle,1,34,
-137,porygon,14,324,Signal Beam,1,29,
-137,porygon,14,393,Magnet Rise,1,23,
-137,porygon,14,435,Discharge,1,40,
-137,porygon,15,33,Tackle,1,1,2
-137,porygon,15,60,Psybeam,1,7,
-137,porygon,15,97,Agility,1,12,
-137,porygon,15,105,Recover,1,18,
-137,porygon,15,159,Sharpen,1,1,4
-137,porygon,15,160,Conversion,1,1,3
-137,porygon,15,161,Tri Attack,1,50,
-137,porygon,15,176,Conversion 2,1,1,1
-137,porygon,15,192,Zap Cannon,1,62,
-137,porygon,15,199,Lock-On,1,45,
-137,porygon,15,277,Magic Coat,1,56,
-137,porygon,15,278,Recycle,1,34,
-137,porygon,15,324,Signal Beam,1,29,
-137,porygon,15,393,Magnet Rise,1,23,
-137,porygon,15,435,Discharge,1,40,
-137,porygon,16,33,Tackle,1,1,2
-137,porygon,16,60,Psybeam,1,7,1
-137,porygon,16,97,Agility,1,12,1
-137,porygon,16,105,Recover,1,18,1
-137,porygon,16,159,Sharpen,1,1,4
-137,porygon,16,160,Conversion,1,1,3
-137,porygon,16,161,Tri Attack,1,50,1
-137,porygon,16,176,Conversion 2,1,1,1
-137,porygon,16,192,Zap Cannon,1,62,1
-137,porygon,16,199,Lock-On,1,45,1
-137,porygon,16,277,Magic Coat,1,56,1
-137,porygon,16,278,Recycle,1,34,1
-137,porygon,16,324,Signal Beam,1,29,1
-137,porygon,16,393,Magnet Rise,1,23,1
-137,porygon,16,435,Discharge,1,40,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+137,1,Tackle,1,normal,50,100
+137,1,Sharpen,1,normal,-,-
+137,1,Conversion,1,normal,-,-
+137,2,Tackle,1,normal,50,100
+137,2,Sharpen,1,normal,-,-
+137,2,Conversion,1,normal,-,-
+137,3,Tackle,1,normal,50,100
+137,3,Conversion,1,normal,-,-
+137,3,Conversion 2,1,normal,-,-
+137,4,Tackle,1,normal,50,100
+137,4,Conversion,1,normal,-,-
+137,4,Conversion 2,1,normal,-,-
+137,5,Tackle,1,normal,50,100
+137,5,Conversion,1,normal,-,-
+137,5,Conversion 2,1,normal,-,-
+137,6,Tackle,1,normal,50,100
+137,6,Conversion,1,normal,-,-
+137,6,Conversion 2,1,normal,-,-
+137,7,Tackle,1,normal,50,100
+137,7,Conversion,1,normal,-,-
+137,7,Conversion 2,1,normal,-,-
+137,8,Tackle,1,normal,50,100
+137,8,Sharpen,1,normal,-,-
+137,8,Conversion,1,normal,-,-
+137,8,Conversion 2,1,normal,-,-
+137,9,Tackle,1,normal,50,100
+137,9,Sharpen,1,normal,-,-
+137,9,Conversion,1,normal,-,-
+137,9,Conversion 2,1,normal,-,-
+137,10,Tackle,1,normal,50,100
+137,10,Sharpen,1,normal,-,-
+137,10,Conversion,1,normal,-,-
+137,10,Conversion 2,1,normal,-,-
+137,11,Tackle,1,normal,50,100
+137,11,Sharpen,1,normal,-,-
+137,11,Conversion,1,normal,-,-
+137,11,Conversion 2,1,normal,-,-
+137,12,Tackle,1,normal,50,100
+137,12,Conversion,1,normal,-,-
+137,12,Conversion 2,1,normal,-,-
+137,13,Tackle,1,normal,50,100
+137,13,Conversion,1,normal,-,-
+137,13,Conversion 2,1,normal,-,-
+137,14,Tackle,1,normal,50,100
+137,14,Sharpen,1,normal,-,-
+137,14,Conversion,1,normal,-,-
+137,14,Conversion 2,1,normal,-,-
+137,15,Tackle,1,normal,50,100
+137,15,Sharpen,1,normal,-,-
+137,15,Conversion,1,normal,-,-
+137,15,Conversion 2,1,normal,-,-
+137,16,Tackle,1,normal,50,100
+137,16,Sharpen,1,normal,-,-
+137,16,Conversion,1,normal,-,-
+137,16,Conversion 2,1,normal,-,-
+137,8,Psybeam,7,psychic,65,100
+137,9,Psybeam,7,psychic,65,100
+137,10,Psybeam,7,psychic,65,100
+137,11,Psybeam,7,psychic,65,100
+137,14,Psybeam,7,psychic,65,100
+137,15,Psybeam,7,psychic,65,100
+137,16,Psybeam,7,psychic,65,100
+137,3,Agility,9,psychic,-,-
+137,4,Agility,9,psychic,-,-
+137,5,Agility,9,psychic,-,-
+137,6,Agility,9,psychic,-,-
+137,7,Agility,9,psychic,-,-
+137,12,Agility,9,psychic,-,-
+137,13,Agility,9,psychic,-,-
+137,3,Psybeam,12,psychic,65,100
+137,4,Psybeam,12,psychic,65,100
+137,5,Psybeam,12,psychic,65,100
+137,6,Psybeam,12,psychic,65,100
+137,7,Psybeam,12,psychic,65,100
+137,8,Agility,12,psychic,-,-
+137,9,Agility,12,psychic,-,-
+137,10,Agility,12,psychic,-,-
+137,11,Agility,12,psychic,-,-
+137,12,Psybeam,12,psychic,65,100
+137,13,Psybeam,12,psychic,65,100
+137,14,Agility,12,psychic,-,-
+137,15,Agility,12,psychic,-,-
+137,16,Agility,12,psychic,-,-
+137,8,Recover,18,normal,-,-
+137,9,Recover,18,normal,-,-
+137,10,Recover,18,normal,-,-
+137,11,Recover,18,normal,-,-
+137,14,Recover,18,normal,-,-
+137,15,Recover,18,normal,-,-
+137,16,Recover,18,normal,-,-
+137,3,Recover,20,normal,-,-
+137,4,Recover,20,normal,-,-
+137,5,Recover,20,normal,-,-
+137,6,Recover,20,normal,-,-
+137,7,Recover,20,normal,-,-
+137,12,Recover,20,normal,-,-
+137,13,Recover,20,normal,-,-
+137,1,Psybeam,23,psychic,65,100
+137,2,Psybeam,23,psychic,65,100
+137,8,Magnet Rise,23,electric,-,-
+137,9,Magnet Rise,23,electric,-,-
+137,10,Magnet Rise,23,electric,-,-
+137,11,Magnet Rise,23,electric,-,-
+137,14,Magnet Rise,23,electric,-,-
+137,15,Magnet Rise,23,electric,-,-
+137,16,Magnet Rise,23,electric,-,-
+137,3,Sharpen,24,normal,-,-
+137,4,Sharpen,24,normal,-,-
+137,5,Sharpen,24,normal,-,-
+137,6,Sharpen,24,normal,-,-
+137,7,Sharpen,24,normal,-,-
+137,12,Sharpen,24,normal,-,-
+137,13,Sharpen,24,normal,-,-
+137,1,Recover,28,normal,-,-
+137,2,Recover,28,normal,-,-
+137,8,Signal Beam,29,bug,75,100
+137,9,Signal Beam,29,bug,75,100
+137,10,Signal Beam,29,bug,75,100
+137,11,Signal Beam,29,bug,75,100
+137,14,Signal Beam,29,bug,75,100
+137,15,Signal Beam,29,bug,75,100
+137,16,Signal Beam,29,bug,75,100
+137,3,Lock-On,32,normal,-,-
+137,4,Lock-On,32,normal,-,-
+137,5,Lock-On,32,normal,-,-
+137,6,Lock-On,32,normal,-,-
+137,7,Lock-On,32,normal,-,-
+137,12,Lock-On,32,normal,-,-
+137,13,Lock-On,32,normal,-,-
+137,8,Recycle,34,normal,-,-
+137,9,Recycle,34,normal,-,-
+137,10,Recycle,34,normal,-,-
+137,11,Recycle,34,normal,-,-
+137,14,Recycle,34,normal,-,-
+137,15,Recycle,34,normal,-,-
+137,16,Recycle,34,normal,-,-
+137,1,Agility,35,psychic,-,-
+137,2,Agility,35,psychic,-,-
+137,3,Tri Attack,36,normal,80,100
+137,4,Tri Attack,36,normal,80,100
+137,5,Tri Attack,36,normal,80,100
+137,6,Tri Attack,36,normal,80,100
+137,7,Tri Attack,36,normal,80,100
+137,12,Tri Attack,36,normal,80,100
+137,13,Tri Attack,36,normal,80,100
+137,8,Discharge,40,electric,80,100
+137,9,Discharge,40,electric,80,100
+137,10,Discharge,40,electric,80,100
+137,11,Discharge,40,electric,80,100
+137,14,Discharge,40,electric,80,100
+137,15,Discharge,40,electric,80,100
+137,16,Discharge,40,electric,80,100
+137,1,Tri Attack,42,normal,80,100
+137,2,Tri Attack,42,normal,80,100
+137,3,Zap Cannon,44,electric,120,50
+137,4,Zap Cannon,44,electric,120,50
+137,5,Recycle,44,normal,-,-
+137,6,Recycle,44,normal,-,-
+137,7,Recycle,44,normal,-,-
+137,12,Recycle,44,normal,-,-
+137,13,Recycle,44,normal,-,-
+137,8,Lock-On,45,normal,-,-
+137,9,Lock-On,45,normal,-,-
+137,10,Lock-On,45,normal,-,-
+137,11,Lock-On,45,normal,-,-
+137,14,Lock-On,45,normal,-,-
+137,15,Lock-On,45,normal,-,-
+137,16,Lock-On,45,normal,-,-
+137,5,Zap Cannon,48,electric,120,50
+137,6,Zap Cannon,48,electric,120,50
+137,7,Zap Cannon,48,electric,120,50
+137,12,Zap Cannon,48,electric,120,50
+137,13,Zap Cannon,48,electric,120,50
+137,15,Tri Attack,50,normal,80,100
+137,16,Tri Attack,50,normal,80,100
+137,8,Tri Attack,51,normal,80,100
+137,9,Tri Attack,51,normal,80,100
+137,10,Tri Attack,51,normal,80,100
+137,11,Tri Attack,51,normal,80,100
+137,14,Tri Attack,51,normal,80,100
+137,8,Magic Coat,56,psychic,-,-
+137,9,Magic Coat,56,psychic,-,-
+137,10,Magic Coat,56,psychic,-,-
+137,11,Magic Coat,56,psychic,-,-
+137,14,Magic Coat,56,psychic,-,-
+137,15,Magic Coat,56,psychic,-,-
+137,16,Magic Coat,56,psychic,-,-
+137,8,Zap Cannon,62,electric,120,50
+137,9,Zap Cannon,62,electric,120,50
+137,10,Zap Cannon,62,electric,120,50
+137,11,Zap Cannon,62,electric,120,50
+137,14,Zap Cannon,62,electric,120,50
+137,15,Zap Cannon,62,electric,120,50
+137,16,Zap Cannon,62,electric,120,50

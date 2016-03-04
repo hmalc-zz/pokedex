@@ -1,194 +1,194 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-1,bulbasaur,1,22,Vine Whip,1,13,
-1,bulbasaur,1,33,Tackle,1,1,1
-1,bulbasaur,1,45,Growl,1,1,2
-1,bulbasaur,1,73,Leech Seed,1,7,
-1,bulbasaur,1,74,Growth,1,34,
-1,bulbasaur,1,75,Razor Leaf,1,27,
-1,bulbasaur,1,76,Solar Beam,1,48,
-1,bulbasaur,1,77,Poison Powder,1,20,
-1,bulbasaur,1,79,Sleep Powder,1,41,
-1,bulbasaur,2,22,Vine Whip,1,13,
-1,bulbasaur,2,33,Tackle,1,1,1
-1,bulbasaur,2,45,Growl,1,1,2
-1,bulbasaur,2,73,Leech Seed,1,7,
-1,bulbasaur,2,74,Growth,1,34,
-1,bulbasaur,2,75,Razor Leaf,1,27,
-1,bulbasaur,2,76,Solar Beam,1,48,
-1,bulbasaur,2,77,Poison Powder,1,20,
-1,bulbasaur,2,79,Sleep Powder,1,41,
-1,bulbasaur,3,22,Vine Whip,1,10,
-1,bulbasaur,3,33,Tackle,1,1,
-1,bulbasaur,3,45,Growl,1,4,
-1,bulbasaur,3,73,Leech Seed,1,7,
-1,bulbasaur,3,74,Growth,1,32,
-1,bulbasaur,3,75,Razor Leaf,1,20,
-1,bulbasaur,3,76,Solar Beam,1,46,
-1,bulbasaur,3,77,Poison Powder,1,15,1
-1,bulbasaur,3,79,Sleep Powder,1,15,2
-1,bulbasaur,3,230,Sweet Scent,1,25,
-1,bulbasaur,3,235,Synthesis,1,39,
-1,bulbasaur,4,22,Vine Whip,1,10,
-1,bulbasaur,4,33,Tackle,1,1,
-1,bulbasaur,4,45,Growl,1,4,
-1,bulbasaur,4,73,Leech Seed,1,7,
-1,bulbasaur,4,74,Growth,1,32,
-1,bulbasaur,4,75,Razor Leaf,1,20,
-1,bulbasaur,4,76,Solar Beam,1,46,
-1,bulbasaur,4,77,Poison Powder,1,15,1
-1,bulbasaur,4,79,Sleep Powder,1,15,2
-1,bulbasaur,4,230,Sweet Scent,1,25,
-1,bulbasaur,4,235,Synthesis,1,39,
-1,bulbasaur,5,22,Vine Whip,1,10,
-1,bulbasaur,5,33,Tackle,1,1,
-1,bulbasaur,5,45,Growl,1,4,
-1,bulbasaur,5,73,Leech Seed,1,7,
-1,bulbasaur,5,74,Growth,1,32,
-1,bulbasaur,5,75,Razor Leaf,1,20,
-1,bulbasaur,5,76,Solar Beam,1,46,
-1,bulbasaur,5,77,Poison Powder,1,15,1
-1,bulbasaur,5,79,Sleep Powder,1,15,2
-1,bulbasaur,5,230,Sweet Scent,1,25,
-1,bulbasaur,5,235,Synthesis,1,39,
-1,bulbasaur,6,22,Vine Whip,1,10,
-1,bulbasaur,6,33,Tackle,1,1,
-1,bulbasaur,6,45,Growl,1,4,
-1,bulbasaur,6,73,Leech Seed,1,7,
-1,bulbasaur,6,74,Growth,1,32,
-1,bulbasaur,6,75,Razor Leaf,1,20,
-1,bulbasaur,6,76,Solar Beam,1,46,
-1,bulbasaur,6,77,Poison Powder,1,15,1
-1,bulbasaur,6,79,Sleep Powder,1,15,2
-1,bulbasaur,6,230,Sweet Scent,1,25,
-1,bulbasaur,6,235,Synthesis,1,39,
-1,bulbasaur,7,22,Vine Whip,1,10,
-1,bulbasaur,7,33,Tackle,1,1,
-1,bulbasaur,7,45,Growl,1,4,
-1,bulbasaur,7,73,Leech Seed,1,7,
-1,bulbasaur,7,74,Growth,1,32,
-1,bulbasaur,7,75,Razor Leaf,1,20,
-1,bulbasaur,7,76,Solar Beam,1,46,
-1,bulbasaur,7,77,Poison Powder,1,15,1
-1,bulbasaur,7,79,Sleep Powder,1,15,2
-1,bulbasaur,7,230,Sweet Scent,1,25,
-1,bulbasaur,7,235,Synthesis,1,39,
-1,bulbasaur,8,22,Vine Whip,1,9,
-1,bulbasaur,8,33,Tackle,1,1,
-1,bulbasaur,8,36,Take Down,1,15,
-1,bulbasaur,8,38,Double-Edge,1,27,
-1,bulbasaur,8,45,Growl,1,3,
-1,bulbasaur,8,73,Leech Seed,1,7,
-1,bulbasaur,8,74,Growth,1,25,
-1,bulbasaur,8,75,Razor Leaf,1,19,
-1,bulbasaur,8,77,Poison Powder,1,13,1
-1,bulbasaur,8,79,Sleep Powder,1,13,2
-1,bulbasaur,8,230,Sweet Scent,1,21,
-1,bulbasaur,8,235,Synthesis,1,33,
-1,bulbasaur,8,388,Worry Seed,1,31,
-1,bulbasaur,8,402,Seed Bomb,1,37,
-1,bulbasaur,9,22,Vine Whip,1,9,
-1,bulbasaur,9,33,Tackle,1,1,
-1,bulbasaur,9,36,Take Down,1,15,
-1,bulbasaur,9,38,Double-Edge,1,27,
-1,bulbasaur,9,45,Growl,1,3,
-1,bulbasaur,9,73,Leech Seed,1,7,
-1,bulbasaur,9,74,Growth,1,25,
-1,bulbasaur,9,75,Razor Leaf,1,19,
-1,bulbasaur,9,77,Poison Powder,1,13,1
-1,bulbasaur,9,79,Sleep Powder,1,13,2
-1,bulbasaur,9,230,Sweet Scent,1,21,
-1,bulbasaur,9,235,Synthesis,1,33,
-1,bulbasaur,9,388,Worry Seed,1,31,
-1,bulbasaur,9,402,Seed Bomb,1,37,
-1,bulbasaur,10,22,Vine Whip,1,9,
-1,bulbasaur,10,33,Tackle,1,1,
-1,bulbasaur,10,36,Take Down,1,15,
-1,bulbasaur,10,38,Double-Edge,1,27,
-1,bulbasaur,10,45,Growl,1,3,
-1,bulbasaur,10,73,Leech Seed,1,7,
-1,bulbasaur,10,74,Growth,1,25,
-1,bulbasaur,10,75,Razor Leaf,1,19,
-1,bulbasaur,10,77,Poison Powder,1,13,1
-1,bulbasaur,10,79,Sleep Powder,1,13,2
-1,bulbasaur,10,230,Sweet Scent,1,21,
-1,bulbasaur,10,235,Synthesis,1,33,
-1,bulbasaur,10,388,Worry Seed,1,31,
-1,bulbasaur,10,402,Seed Bomb,1,37,
-1,bulbasaur,11,22,Vine Whip,1,9,
-1,bulbasaur,11,33,Tackle,1,1,
-1,bulbasaur,11,36,Take Down,1,15,
-1,bulbasaur,11,38,Double-Edge,1,27,
-1,bulbasaur,11,45,Growl,1,3,
-1,bulbasaur,11,73,Leech Seed,1,7,
-1,bulbasaur,11,74,Growth,1,25,
-1,bulbasaur,11,75,Razor Leaf,1,19,
-1,bulbasaur,11,77,Poison Powder,1,13,1
-1,bulbasaur,11,79,Sleep Powder,1,13,2
-1,bulbasaur,11,230,Sweet Scent,1,21,
-1,bulbasaur,11,235,Synthesis,1,33,
-1,bulbasaur,11,388,Worry Seed,1,31,
-1,bulbasaur,11,402,Seed Bomb,1,37,
-1,bulbasaur,12,22,Vine Whip,1,10,
-1,bulbasaur,12,33,Tackle,1,1,
-1,bulbasaur,12,45,Growl,1,4,
-1,bulbasaur,12,73,Leech Seed,1,7,
-1,bulbasaur,12,74,Growth,1,32,
-1,bulbasaur,12,75,Razor Leaf,1,20,
-1,bulbasaur,12,76,Solar Beam,1,46,
-1,bulbasaur,12,77,Poison Powder,1,15,1
-1,bulbasaur,12,79,Sleep Powder,1,15,2
-1,bulbasaur,12,230,Sweet Scent,1,25,
-1,bulbasaur,12,235,Synthesis,1,39,
-1,bulbasaur,13,22,Vine Whip,1,10,
-1,bulbasaur,13,33,Tackle,1,1,
-1,bulbasaur,13,45,Growl,1,4,
-1,bulbasaur,13,73,Leech Seed,1,7,
-1,bulbasaur,13,74,Growth,1,32,
-1,bulbasaur,13,75,Razor Leaf,1,20,
-1,bulbasaur,13,76,Solar Beam,1,46,
-1,bulbasaur,13,77,Poison Powder,1,15,1
-1,bulbasaur,13,79,Sleep Powder,1,15,2
-1,bulbasaur,13,230,Sweet Scent,1,25,
-1,bulbasaur,13,235,Synthesis,1,39,
-1,bulbasaur,14,22,Vine Whip,1,9,
-1,bulbasaur,14,33,Tackle,1,1,
-1,bulbasaur,14,36,Take Down,1,15,
-1,bulbasaur,14,38,Double-Edge,1,27,
-1,bulbasaur,14,45,Growl,1,3,
-1,bulbasaur,14,73,Leech Seed,1,7,
-1,bulbasaur,14,74,Growth,1,25,
-1,bulbasaur,14,75,Razor Leaf,1,19,
-1,bulbasaur,14,77,Poison Powder,1,13,1
-1,bulbasaur,14,79,Sleep Powder,1,13,2
-1,bulbasaur,14,230,Sweet Scent,1,21,
-1,bulbasaur,14,235,Synthesis,1,33,
-1,bulbasaur,14,388,Worry Seed,1,31,
-1,bulbasaur,14,402,Seed Bomb,1,37,
-1,bulbasaur,15,22,Vine Whip,1,9,
-1,bulbasaur,15,33,Tackle,1,1,
-1,bulbasaur,15,36,Take Down,1,15,
-1,bulbasaur,15,38,Double-Edge,1,27,
-1,bulbasaur,15,45,Growl,1,3,
-1,bulbasaur,15,73,Leech Seed,1,7,
-1,bulbasaur,15,74,Growth,1,25,
-1,bulbasaur,15,75,Razor Leaf,1,19,
-1,bulbasaur,15,77,Poison Powder,1,13,1
-1,bulbasaur,15,79,Sleep Powder,1,13,2
-1,bulbasaur,15,230,Sweet Scent,1,21,
-1,bulbasaur,15,235,Synthesis,1,33,
-1,bulbasaur,15,388,Worry Seed,1,31,
-1,bulbasaur,15,402,Seed Bomb,1,37,
-1,bulbasaur,16,22,Vine Whip,1,9,1
-1,bulbasaur,16,33,Tackle,1,1,1
-1,bulbasaur,16,36,Take Down,1,15,1
-1,bulbasaur,16,38,Double-Edge,1,27,1
-1,bulbasaur,16,45,Growl,1,3,1
-1,bulbasaur,16,73,Leech Seed,1,7,1
-1,bulbasaur,16,74,Growth,1,25,1
-1,bulbasaur,16,75,Razor Leaf,1,19,1
-1,bulbasaur,16,77,Poison Powder,1,13,1
-1,bulbasaur,16,79,Sleep Powder,1,13,2
-1,bulbasaur,16,230,Sweet Scent,1,21,1
-1,bulbasaur,16,235,Synthesis,1,33,1
-1,bulbasaur,16,388,Worry Seed,1,31,1
-1,bulbasaur,16,402,Seed Bomb,1,37,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+1,1,Tackle,1,normal,50,100
+1,1,Growl,1,normal,-,100
+1,2,Tackle,1,normal,50,100
+1,2,Growl,1,normal,-,100
+1,3,Tackle,1,normal,50,100
+1,4,Tackle,1,normal,50,100
+1,5,Tackle,1,normal,50,100
+1,6,Tackle,1,normal,50,100
+1,7,Tackle,1,normal,50,100
+1,8,Tackle,1,normal,50,100
+1,9,Tackle,1,normal,50,100
+1,10,Tackle,1,normal,50,100
+1,11,Tackle,1,normal,50,100
+1,12,Tackle,1,normal,50,100
+1,13,Tackle,1,normal,50,100
+1,14,Tackle,1,normal,50,100
+1,15,Tackle,1,normal,50,100
+1,16,Tackle,1,normal,50,100
+1,8,Growl,3,normal,-,100
+1,9,Growl,3,normal,-,100
+1,10,Growl,3,normal,-,100
+1,11,Growl,3,normal,-,100
+1,14,Growl,3,normal,-,100
+1,15,Growl,3,normal,-,100
+1,16,Growl,3,normal,-,100
+1,3,Growl,4,normal,-,100
+1,4,Growl,4,normal,-,100
+1,5,Growl,4,normal,-,100
+1,6,Growl,4,normal,-,100
+1,7,Growl,4,normal,-,100
+1,12,Growl,4,normal,-,100
+1,13,Growl,4,normal,-,100
+1,1,Leech Seed,7,grass,-,90
+1,2,Leech Seed,7,grass,-,90
+1,3,Leech Seed,7,grass,-,90
+1,4,Leech Seed,7,grass,-,90
+1,5,Leech Seed,7,grass,-,90
+1,6,Leech Seed,7,grass,-,90
+1,7,Leech Seed,7,grass,-,90
+1,8,Leech Seed,7,grass,-,90
+1,9,Leech Seed,7,grass,-,90
+1,10,Leech Seed,7,grass,-,90
+1,11,Leech Seed,7,grass,-,90
+1,12,Leech Seed,7,grass,-,90
+1,13,Leech Seed,7,grass,-,90
+1,14,Leech Seed,7,grass,-,90
+1,15,Leech Seed,7,grass,-,90
+1,16,Leech Seed,7,grass,-,90
+1,8,Vine Whip,9,grass,45,100
+1,9,Vine Whip,9,grass,45,100
+1,10,Vine Whip,9,grass,45,100
+1,11,Vine Whip,9,grass,45,100
+1,14,Vine Whip,9,grass,45,100
+1,15,Vine Whip,9,grass,45,100
+1,16,Vine Whip,9,grass,45,100
+1,3,Vine Whip,10,grass,45,100
+1,4,Vine Whip,10,grass,45,100
+1,5,Vine Whip,10,grass,45,100
+1,6,Vine Whip,10,grass,45,100
+1,7,Vine Whip,10,grass,45,100
+1,12,Vine Whip,10,grass,45,100
+1,13,Vine Whip,10,grass,45,100
+1,1,Vine Whip,13,grass,45,100
+1,2,Vine Whip,13,grass,45,100
+1,8,Poison Powder,13,poison,-,75
+1,8,Sleep Powder,13,grass,-,75
+1,9,Poison Powder,13,poison,-,75
+1,9,Sleep Powder,13,grass,-,75
+1,10,Poison Powder,13,poison,-,75
+1,10,Sleep Powder,13,grass,-,75
+1,11,Poison Powder,13,poison,-,75
+1,11,Sleep Powder,13,grass,-,75
+1,14,Poison Powder,13,poison,-,75
+1,14,Sleep Powder,13,grass,-,75
+1,15,Poison Powder,13,poison,-,75
+1,15,Sleep Powder,13,grass,-,75
+1,16,Poison Powder,13,poison,-,75
+1,16,Sleep Powder,13,grass,-,75
+1,3,Poison Powder,15,poison,-,75
+1,3,Sleep Powder,15,grass,-,75
+1,4,Poison Powder,15,poison,-,75
+1,4,Sleep Powder,15,grass,-,75
+1,5,Poison Powder,15,poison,-,75
+1,5,Sleep Powder,15,grass,-,75
+1,6,Poison Powder,15,poison,-,75
+1,6,Sleep Powder,15,grass,-,75
+1,7,Poison Powder,15,poison,-,75
+1,7,Sleep Powder,15,grass,-,75
+1,8,Take Down,15,normal,90,85
+1,9,Take Down,15,normal,90,85
+1,10,Take Down,15,normal,90,85
+1,11,Take Down,15,normal,90,85
+1,12,Poison Powder,15,poison,-,75
+1,12,Sleep Powder,15,grass,-,75
+1,13,Poison Powder,15,poison,-,75
+1,13,Sleep Powder,15,grass,-,75
+1,14,Take Down,15,normal,90,85
+1,15,Take Down,15,normal,90,85
+1,16,Take Down,15,normal,90,85
+1,8,Razor Leaf,19,grass,55,95
+1,9,Razor Leaf,19,grass,55,95
+1,10,Razor Leaf,19,grass,55,95
+1,11,Razor Leaf,19,grass,55,95
+1,14,Razor Leaf,19,grass,55,95
+1,15,Razor Leaf,19,grass,55,95
+1,16,Razor Leaf,19,grass,55,95
+1,1,Poison Powder,20,poison,-,75
+1,2,Poison Powder,20,poison,-,75
+1,3,Razor Leaf,20,grass,55,95
+1,4,Razor Leaf,20,grass,55,95
+1,5,Razor Leaf,20,grass,55,95
+1,6,Razor Leaf,20,grass,55,95
+1,7,Razor Leaf,20,grass,55,95
+1,12,Razor Leaf,20,grass,55,95
+1,13,Razor Leaf,20,grass,55,95
+1,8,Sweet Scent,21,normal,-,100
+1,9,Sweet Scent,21,normal,-,100
+1,10,Sweet Scent,21,normal,-,100
+1,11,Sweet Scent,21,normal,-,100
+1,14,Sweet Scent,21,normal,-,100
+1,15,Sweet Scent,21,normal,-,100
+1,16,Sweet Scent,21,normal,-,100
+1,3,Sweet Scent,25,normal,-,100
+1,4,Sweet Scent,25,normal,-,100
+1,5,Sweet Scent,25,normal,-,100
+1,6,Sweet Scent,25,normal,-,100
+1,7,Sweet Scent,25,normal,-,100
+1,8,Growth,25,normal,-,-
+1,9,Growth,25,normal,-,-
+1,10,Growth,25,normal,-,-
+1,11,Growth,25,normal,-,-
+1,12,Sweet Scent,25,normal,-,100
+1,13,Sweet Scent,25,normal,-,100
+1,14,Growth,25,normal,-,-
+1,15,Growth,25,normal,-,-
+1,16,Growth,25,normal,-,-
+1,1,Razor Leaf,27,grass,55,95
+1,2,Razor Leaf,27,grass,55,95
+1,8,Double-Edge,27,normal,120,100
+1,9,Double-Edge,27,normal,120,100
+1,10,Double-Edge,27,normal,120,100
+1,11,Double-Edge,27,normal,120,100
+1,14,Double-Edge,27,normal,120,100
+1,15,Double-Edge,27,normal,120,100
+1,16,Double-Edge,27,normal,120,100
+1,8,Worry Seed,31,grass,-,100
+1,9,Worry Seed,31,grass,-,100
+1,10,Worry Seed,31,grass,-,100
+1,11,Worry Seed,31,grass,-,100
+1,14,Worry Seed,31,grass,-,100
+1,15,Worry Seed,31,grass,-,100
+1,16,Worry Seed,31,grass,-,100
+1,3,Growth,32,normal,-,-
+1,4,Growth,32,normal,-,-
+1,5,Growth,32,normal,-,-
+1,6,Growth,32,normal,-,-
+1,7,Growth,32,normal,-,-
+1,12,Growth,32,normal,-,-
+1,13,Growth,32,normal,-,-
+1,8,Synthesis,33,grass,-,-
+1,9,Synthesis,33,grass,-,-
+1,10,Synthesis,33,grass,-,-
+1,11,Synthesis,33,grass,-,-
+1,14,Synthesis,33,grass,-,-
+1,15,Synthesis,33,grass,-,-
+1,16,Synthesis,33,grass,-,-
+1,1,Growth,34,normal,-,-
+1,2,Growth,34,normal,-,-
+1,8,Seed Bomb,37,grass,80,100
+1,9,Seed Bomb,37,grass,80,100
+1,10,Seed Bomb,37,grass,80,100
+1,11,Seed Bomb,37,grass,80,100
+1,14,Seed Bomb,37,grass,80,100
+1,15,Seed Bomb,37,grass,80,100
+1,16,Seed Bomb,37,grass,80,100
+1,3,Synthesis,39,grass,-,-
+1,4,Synthesis,39,grass,-,-
+1,5,Synthesis,39,grass,-,-
+1,6,Synthesis,39,grass,-,-
+1,7,Synthesis,39,grass,-,-
+1,12,Synthesis,39,grass,-,-
+1,13,Synthesis,39,grass,-,-
+1,1,Sleep Powder,41,grass,-,75
+1,2,Sleep Powder,41,grass,-,75
+1,3,Solar Beam,46,grass,120,100
+1,4,Solar Beam,46,grass,120,100
+1,5,Solar Beam,46,grass,120,100
+1,6,Solar Beam,46,grass,120,100
+1,7,Solar Beam,46,grass,120,100
+1,12,Solar Beam,46,grass,120,100
+1,13,Solar Beam,46,grass,120,100
+1,1,Solar Beam,48,grass,120,100
+1,2,Solar Beam,48,grass,120,100

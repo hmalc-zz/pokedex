@@ -1,89 +1,89 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-390,chimchar,8,10,Scratch,1,1,1
-390,chimchar,8,43,Leer,1,1,2
-390,chimchar,8,52,Ember,1,7,
-390,chimchar,8,53,Flamethrower,1,41,
-390,chimchar,8,83,Fire Spin,1,33,
-390,chimchar,8,154,Fury Swipes,1,15,
-390,chimchar,8,172,Flame Wheel,1,17,
-390,chimchar,8,259,Torment,1,25,
-390,chimchar,8,263,Facade,1,31,
-390,chimchar,8,269,Taunt,1,9,
-390,chimchar,8,303,Slack Off,1,39,
-390,chimchar,8,417,Nasty Plot,1,23,
-390,chimchar,9,10,Scratch,1,1,1
-390,chimchar,9,43,Leer,1,1,2
-390,chimchar,9,52,Ember,1,7,
-390,chimchar,9,53,Flamethrower,1,41,
-390,chimchar,9,83,Fire Spin,1,33,
-390,chimchar,9,154,Fury Swipes,1,15,
-390,chimchar,9,172,Flame Wheel,1,17,
-390,chimchar,9,259,Torment,1,25,
-390,chimchar,9,263,Facade,1,31,
-390,chimchar,9,269,Taunt,1,9,
-390,chimchar,9,303,Slack Off,1,39,
-390,chimchar,9,417,Nasty Plot,1,23,
-390,chimchar,10,10,Scratch,1,1,1
-390,chimchar,10,43,Leer,1,1,2
-390,chimchar,10,52,Ember,1,7,
-390,chimchar,10,53,Flamethrower,1,41,
-390,chimchar,10,83,Fire Spin,1,33,
-390,chimchar,10,154,Fury Swipes,1,15,
-390,chimchar,10,172,Flame Wheel,1,17,
-390,chimchar,10,259,Torment,1,25,
-390,chimchar,10,263,Facade,1,31,
-390,chimchar,10,269,Taunt,1,9,
-390,chimchar,10,303,Slack Off,1,39,
-390,chimchar,10,417,Nasty Plot,1,23,
-390,chimchar,11,10,Scratch,1,1,1
-390,chimchar,11,43,Leer,1,1,2
-390,chimchar,11,52,Ember,1,7,
-390,chimchar,11,53,Flamethrower,1,47,
-390,chimchar,11,83,Fire Spin,1,33,
-390,chimchar,11,154,Fury Swipes,1,15,
-390,chimchar,11,172,Flame Wheel,1,17,
-390,chimchar,11,259,Torment,1,25,
-390,chimchar,11,263,Facade,1,31,
-390,chimchar,11,269,Taunt,1,9,
-390,chimchar,11,303,Slack Off,1,41,
-390,chimchar,11,417,Nasty Plot,1,23,
-390,chimchar,11,512,Acrobatics,1,39,
-390,chimchar,14,10,Scratch,1,1,1
-390,chimchar,14,43,Leer,1,1,2
-390,chimchar,14,52,Ember,1,7,
-390,chimchar,14,53,Flamethrower,1,47,
-390,chimchar,14,83,Fire Spin,1,33,
-390,chimchar,14,154,Fury Swipes,1,15,
-390,chimchar,14,172,Flame Wheel,1,17,
-390,chimchar,14,259,Torment,1,25,
-390,chimchar,14,263,Facade,1,31,
-390,chimchar,14,269,Taunt,1,9,
-390,chimchar,14,303,Slack Off,1,41,
-390,chimchar,14,417,Nasty Plot,1,23,
-390,chimchar,14,512,Acrobatics,1,39,
-390,chimchar,15,10,Scratch,1,1,1
-390,chimchar,15,43,Leer,1,1,2
-390,chimchar,15,52,Ember,1,7,
-390,chimchar,15,53,Flamethrower,1,47,
-390,chimchar,15,83,Fire Spin,1,33,
-390,chimchar,15,154,Fury Swipes,1,15,
-390,chimchar,15,172,Flame Wheel,1,17,
-390,chimchar,15,259,Torment,1,25,
-390,chimchar,15,263,Facade,1,31,
-390,chimchar,15,269,Taunt,1,9,
-390,chimchar,15,303,Slack Off,1,41,
-390,chimchar,15,417,Nasty Plot,1,23,
-390,chimchar,15,512,Acrobatics,1,39,
-390,chimchar,16,10,Scratch,1,1,1
-390,chimchar,16,43,Leer,1,1,2
-390,chimchar,16,52,Ember,1,7,1
-390,chimchar,16,53,Flamethrower,1,47,1
-390,chimchar,16,83,Fire Spin,1,33,1
-390,chimchar,16,154,Fury Swipes,1,15,1
-390,chimchar,16,172,Flame Wheel,1,17,1
-390,chimchar,16,259,Torment,1,25,1
-390,chimchar,16,263,Facade,1,31,1
-390,chimchar,16,269,Taunt,1,9,1
-390,chimchar,16,303,Slack Off,1,41,1
-390,chimchar,16,417,Nasty Plot,1,23,1
-390,chimchar,16,512,Acrobatics,1,39,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+390,8,Scratch,1,normal,40,100
+390,8,Leer,1,normal,-,100
+390,9,Scratch,1,normal,40,100
+390,9,Leer,1,normal,-,100
+390,10,Scratch,1,normal,40,100
+390,10,Leer,1,normal,-,100
+390,11,Scratch,1,normal,40,100
+390,11,Leer,1,normal,-,100
+390,14,Scratch,1,normal,40,100
+390,14,Leer,1,normal,-,100
+390,15,Scratch,1,normal,40,100
+390,15,Leer,1,normal,-,100
+390,16,Scratch,1,normal,40,100
+390,16,Leer,1,normal,-,100
+390,8,Ember,7,fire,40,100
+390,9,Ember,7,fire,40,100
+390,10,Ember,7,fire,40,100
+390,11,Ember,7,fire,40,100
+390,14,Ember,7,fire,40,100
+390,15,Ember,7,fire,40,100
+390,16,Ember,7,fire,40,100
+390,8,Taunt,9,dark,-,100
+390,9,Taunt,9,dark,-,100
+390,10,Taunt,9,dark,-,100
+390,11,Taunt,9,dark,-,100
+390,14,Taunt,9,dark,-,100
+390,15,Taunt,9,dark,-,100
+390,16,Taunt,9,dark,-,100
+390,8,Fury Swipes,15,normal,18,80
+390,9,Fury Swipes,15,normal,18,80
+390,10,Fury Swipes,15,normal,18,80
+390,11,Fury Swipes,15,normal,18,80
+390,14,Fury Swipes,15,normal,18,80
+390,15,Fury Swipes,15,normal,18,80
+390,16,Fury Swipes,15,normal,18,80
+390,8,Flame Wheel,17,fire,60,100
+390,9,Flame Wheel,17,fire,60,100
+390,10,Flame Wheel,17,fire,60,100
+390,11,Flame Wheel,17,fire,60,100
+390,14,Flame Wheel,17,fire,60,100
+390,15,Flame Wheel,17,fire,60,100
+390,16,Flame Wheel,17,fire,60,100
+390,8,Nasty Plot,23,dark,-,-
+390,9,Nasty Plot,23,dark,-,-
+390,10,Nasty Plot,23,dark,-,-
+390,11,Nasty Plot,23,dark,-,-
+390,14,Nasty Plot,23,dark,-,-
+390,15,Nasty Plot,23,dark,-,-
+390,16,Nasty Plot,23,dark,-,-
+390,8,Torment,25,dark,-,100
+390,9,Torment,25,dark,-,100
+390,10,Torment,25,dark,-,100
+390,11,Torment,25,dark,-,100
+390,14,Torment,25,dark,-,100
+390,15,Torment,25,dark,-,100
+390,16,Torment,25,dark,-,100
+390,8,Facade,31,normal,70,100
+390,9,Facade,31,normal,70,100
+390,10,Facade,31,normal,70,100
+390,11,Facade,31,normal,70,100
+390,14,Facade,31,normal,70,100
+390,15,Facade,31,normal,70,100
+390,16,Facade,31,normal,70,100
+390,8,Fire Spin,33,fire,35,85
+390,9,Fire Spin,33,fire,35,85
+390,10,Fire Spin,33,fire,35,85
+390,11,Fire Spin,33,fire,35,85
+390,14,Fire Spin,33,fire,35,85
+390,15,Fire Spin,33,fire,35,85
+390,16,Fire Spin,33,fire,35,85
+390,8,Slack Off,39,normal,-,-
+390,9,Slack Off,39,normal,-,-
+390,10,Slack Off,39,normal,-,-
+390,11,Acrobatics,39,flying,55,100
+390,14,Acrobatics,39,flying,55,100
+390,15,Acrobatics,39,flying,55,100
+390,16,Acrobatics,39,flying,55,100
+390,8,Flamethrower,41,fire,90,100
+390,9,Flamethrower,41,fire,90,100
+390,10,Flamethrower,41,fire,90,100
+390,11,Slack Off,41,normal,-,-
+390,14,Slack Off,41,normal,-,-
+390,15,Slack Off,41,normal,-,-
+390,16,Slack Off,41,normal,-,-
+390,11,Flamethrower,47,fire,90,100
+390,14,Flamethrower,47,fire,90,100
+390,15,Flamethrower,47,fire,90,100
+390,16,Flamethrower,47,fire,90,100

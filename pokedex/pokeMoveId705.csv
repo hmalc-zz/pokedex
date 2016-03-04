@@ -1,23 +1,23 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-705,sliggoo,15,33,Tackle,1,1,1
-705,sliggoo,15,34,Body Slam,1,32,
-705,sliggoo,15,71,Absorb,1,5,
-705,sliggoo,15,117,Bide,1,13,
-705,sliggoo,15,145,Bubble,1,1,2
-705,sliggoo,15,175,Flail,1,28,
-705,sliggoo,15,182,Protect,1,9,
-705,sliggoo,15,225,Dragon Breath,1,18,
-705,sliggoo,15,240,Rain Dance,1,25,
-705,sliggoo,15,330,Muddy Water,1,38,
-705,sliggoo,15,406,Dragon Pulse,1,47,
-705,sliggoo,16,33,Tackle,1,1,1
-705,sliggoo,16,34,Body Slam,1,32,1
-705,sliggoo,16,71,Absorb,1,5,1
-705,sliggoo,16,117,Bide,1,13,1
-705,sliggoo,16,145,Bubble,1,1,2
-705,sliggoo,16,175,Flail,1,28,1
-705,sliggoo,16,182,Protect,1,9,1
-705,sliggoo,16,225,Dragon Breath,1,18,1
-705,sliggoo,16,240,Rain Dance,1,25,1
-705,sliggoo,16,330,Muddy Water,1,38,1
-705,sliggoo,16,406,Dragon Pulse,1,47,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+705,15,Tackle,1,normal,50,100
+705,15,Bubble,1,water,40,100
+705,16,Tackle,1,normal,50,100
+705,16,Bubble,1,water,40,100
+705,15,Absorb,5,grass,20,100
+705,16,Absorb,5,grass,20,100
+705,15,Protect,9,normal,-,-
+705,16,Protect,9,normal,-,-
+705,15,Bide,13,normal,-,-
+705,16,Bide,13,normal,-,-
+705,15,Dragon Breath,18,dragon,60,100
+705,16,Dragon Breath,18,dragon,60,100
+705,15,Rain Dance,25,water,-,-
+705,16,Rain Dance,25,water,-,-
+705,15,Flail,28,normal,-,100
+705,16,Flail,28,normal,-,100
+705,15,Body Slam,32,normal,85,100
+705,16,Body Slam,32,normal,85,100
+705,15,Muddy Water,38,water,90,85
+705,16,Muddy Water,38,water,90,85
+705,15,Dragon Pulse,47,dragon,85,100
+705,16,Dragon Pulse,47,dragon,85,100

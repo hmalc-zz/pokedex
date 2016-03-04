@@ -1,208 +1,208 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-154,meganium,3,33,Tackle,1,1,1
-154,meganium,3,34,Body Slam,1,31,
-154,meganium,3,45,Growl,1,1,2
-154,meganium,3,75,Razor Leaf,1,1,3
-154,meganium,3,75,Razor Leaf,1,8,
-154,meganium,3,76,Solar Beam,1,61,
-154,meganium,3,77,Poison Powder,1,15,
-154,meganium,3,113,Light Screen,1,41,
-154,meganium,3,115,Reflect,1,1,4
-154,meganium,3,115,Reflect,1,12,
-154,meganium,3,219,Safeguard,1,51,
-154,meganium,3,235,Synthesis,1,23,
-154,meganium,4,33,Tackle,1,1,1
-154,meganium,4,34,Body Slam,1,31,
-154,meganium,4,45,Growl,1,1,2
-154,meganium,4,75,Razor Leaf,1,1,3
-154,meganium,4,75,Razor Leaf,1,8,
-154,meganium,4,76,Solar Beam,1,61,
-154,meganium,4,77,Poison Powder,1,15,
-154,meganium,4,113,Light Screen,1,41,
-154,meganium,4,115,Reflect,1,1,4
-154,meganium,4,115,Reflect,1,12,
-154,meganium,4,219,Safeguard,1,51,
-154,meganium,4,235,Synthesis,1,23,
-154,meganium,5,33,Tackle,1,1,1
-154,meganium,5,34,Body Slam,1,31,
-154,meganium,5,45,Growl,1,1,2
-154,meganium,5,75,Razor Leaf,1,1,3
-154,meganium,5,75,Razor Leaf,1,8,
-154,meganium,5,76,Solar Beam,1,61,
-154,meganium,5,77,Poison Powder,1,15,
-154,meganium,5,113,Light Screen,1,41,
-154,meganium,5,115,Reflect,1,1,4
-154,meganium,5,115,Reflect,1,12,
-154,meganium,5,219,Safeguard,1,51,
-154,meganium,5,235,Synthesis,1,23,
-154,meganium,6,33,Tackle,1,1,1
-154,meganium,6,34,Body Slam,1,31,
-154,meganium,6,45,Growl,1,1,2
-154,meganium,6,75,Razor Leaf,1,1,3
-154,meganium,6,75,Razor Leaf,1,8,
-154,meganium,6,76,Solar Beam,1,61,
-154,meganium,6,77,Poison Powder,1,15,
-154,meganium,6,113,Light Screen,1,41,
-154,meganium,6,115,Reflect,1,1,4
-154,meganium,6,115,Reflect,1,12,
-154,meganium,6,219,Safeguard,1,51,
-154,meganium,6,235,Synthesis,1,23,
-154,meganium,7,33,Tackle,1,1,1
-154,meganium,7,34,Body Slam,1,31,
-154,meganium,7,45,Growl,1,1,2
-154,meganium,7,75,Razor Leaf,1,1,3
-154,meganium,7,75,Razor Leaf,1,8,
-154,meganium,7,76,Solar Beam,1,61,
-154,meganium,7,77,Poison Powder,1,15,
-154,meganium,7,113,Light Screen,1,41,
-154,meganium,7,115,Reflect,1,1,4
-154,meganium,7,115,Reflect,1,12,
-154,meganium,7,219,Safeguard,1,51,
-154,meganium,7,235,Synthesis,1,23,
-154,meganium,8,33,Tackle,1,1,1
-154,meganium,8,34,Body Slam,1,46,
-154,meganium,8,45,Growl,1,1,2
-154,meganium,8,75,Razor Leaf,1,1,3
-154,meganium,8,75,Razor Leaf,1,6,
-154,meganium,8,76,Solar Beam,1,66,
-154,meganium,8,77,Poison Powder,1,1,4
-154,meganium,8,77,Poison Powder,1,9,
-154,meganium,8,80,Petal Dance,1,32,
-154,meganium,8,113,Light Screen,1,40,
-154,meganium,8,115,Reflect,1,18,
-154,meganium,8,219,Safeguard,1,54,
-154,meganium,8,230,Sweet Scent,1,34,
-154,meganium,8,235,Synthesis,1,12,
-154,meganium,8,312,Aromatherapy,1,60,
-154,meganium,8,345,Magical Leaf,1,22,
-154,meganium,8,363,Natural Gift,1,26,
-154,meganium,9,33,Tackle,1,1,1
-154,meganium,9,34,Body Slam,1,46,
-154,meganium,9,45,Growl,1,1,2
-154,meganium,9,75,Razor Leaf,1,1,3
-154,meganium,9,75,Razor Leaf,1,6,
-154,meganium,9,76,Solar Beam,1,66,
-154,meganium,9,77,Poison Powder,1,1,4
-154,meganium,9,77,Poison Powder,1,9,
-154,meganium,9,80,Petal Dance,1,32,
-154,meganium,9,113,Light Screen,1,40,
-154,meganium,9,115,Reflect,1,18,
-154,meganium,9,219,Safeguard,1,54,
-154,meganium,9,230,Sweet Scent,1,34,
-154,meganium,9,235,Synthesis,1,12,
-154,meganium,9,312,Aromatherapy,1,60,
-154,meganium,9,345,Magical Leaf,1,22,
-154,meganium,9,363,Natural Gift,1,26,
-154,meganium,10,33,Tackle,1,1,1
-154,meganium,10,34,Body Slam,1,46,
-154,meganium,10,45,Growl,1,1,2
-154,meganium,10,75,Razor Leaf,1,1,3
-154,meganium,10,75,Razor Leaf,1,6,
-154,meganium,10,76,Solar Beam,1,66,
-154,meganium,10,77,Poison Powder,1,1,4
-154,meganium,10,77,Poison Powder,1,9,
-154,meganium,10,80,Petal Dance,1,32,
-154,meganium,10,113,Light Screen,1,40,
-154,meganium,10,115,Reflect,1,18,
-154,meganium,10,219,Safeguard,1,54,
-154,meganium,10,230,Sweet Scent,1,34,
-154,meganium,10,235,Synthesis,1,12,
-154,meganium,10,312,Aromatherapy,1,60,
-154,meganium,10,345,Magical Leaf,1,22,
-154,meganium,10,363,Natural Gift,1,26,
-154,meganium,11,33,Tackle,1,1,1
-154,meganium,11,34,Body Slam,1,46,
-154,meganium,11,45,Growl,1,1,2
-154,meganium,11,75,Razor Leaf,1,1,3
-154,meganium,11,75,Razor Leaf,1,6,
-154,meganium,11,76,Solar Beam,1,66,
-154,meganium,11,77,Poison Powder,1,1,4
-154,meganium,11,77,Poison Powder,1,9,
-154,meganium,11,80,Petal Dance,1,32,
-154,meganium,11,113,Light Screen,1,40,
-154,meganium,11,115,Reflect,1,18,
-154,meganium,11,219,Safeguard,1,54,
-154,meganium,11,230,Sweet Scent,1,34,
-154,meganium,11,235,Synthesis,1,12,
-154,meganium,11,312,Aromatherapy,1,60,
-154,meganium,11,345,Magical Leaf,1,22,
-154,meganium,11,363,Natural Gift,1,26,
-154,meganium,12,33,Tackle,1,1,1
-154,meganium,12,34,Body Slam,1,31,
-154,meganium,12,45,Growl,1,1,2
-154,meganium,12,75,Razor Leaf,1,1,3
-154,meganium,12,75,Razor Leaf,1,8,
-154,meganium,12,76,Solar Beam,1,61,
-154,meganium,12,77,Poison Powder,1,15,
-154,meganium,12,113,Light Screen,1,41,
-154,meganium,12,115,Reflect,1,1,4
-154,meganium,12,115,Reflect,1,12,
-154,meganium,12,219,Safeguard,1,51,
-154,meganium,12,235,Synthesis,1,23,
-154,meganium,13,33,Tackle,1,1,1
-154,meganium,13,34,Body Slam,1,31,
-154,meganium,13,45,Growl,1,1,2
-154,meganium,13,75,Razor Leaf,1,1,3
-154,meganium,13,75,Razor Leaf,1,8,
-154,meganium,13,76,Solar Beam,1,61,
-154,meganium,13,77,Poison Powder,1,15,
-154,meganium,13,113,Light Screen,1,41,
-154,meganium,13,115,Reflect,1,1,4
-154,meganium,13,115,Reflect,1,12,
-154,meganium,13,219,Safeguard,1,51,
-154,meganium,13,235,Synthesis,1,23,
-154,meganium,14,33,Tackle,1,1,1
-154,meganium,14,34,Body Slam,1,46,
-154,meganium,14,45,Growl,1,1,2
-154,meganium,14,75,Razor Leaf,1,1,3
-154,meganium,14,75,Razor Leaf,1,6,
-154,meganium,14,76,Solar Beam,1,66,
-154,meganium,14,77,Poison Powder,1,1,4
-154,meganium,14,77,Poison Powder,1,9,
-154,meganium,14,80,Petal Dance,1,32,
-154,meganium,14,113,Light Screen,1,40,
-154,meganium,14,115,Reflect,1,18,
-154,meganium,14,219,Safeguard,1,54,
-154,meganium,14,230,Sweet Scent,1,34,
-154,meganium,14,235,Synthesis,1,12,
-154,meganium,14,312,Aromatherapy,1,60,
-154,meganium,14,345,Magical Leaf,1,22,
-154,meganium,14,363,Natural Gift,1,26,
-154,meganium,15,33,Tackle,1,1,2
-154,meganium,15,34,Body Slam,1,46,
-154,meganium,15,45,Growl,1,1,3
-154,meganium,15,75,Razor Leaf,1,1,4
-154,meganium,15,75,Razor Leaf,1,6,
-154,meganium,15,76,Solar Beam,1,66,
-154,meganium,15,77,Poison Powder,1,1,5
-154,meganium,15,77,Poison Powder,1,9,
-154,meganium,15,80,Petal Dance,1,32,
-154,meganium,15,113,Light Screen,1,40,
-154,meganium,15,115,Reflect,1,18,
-154,meganium,15,219,Safeguard,1,54,
-154,meganium,15,230,Sweet Scent,1,34,
-154,meganium,15,235,Synthesis,1,12,
-154,meganium,15,312,Aromatherapy,1,60,
-154,meganium,15,345,Magical Leaf,1,22,
-154,meganium,15,363,Natural Gift,1,26,
-154,meganium,15,572,Petal Blizzard,1,1,1
-154,meganium,15,572,Petal Blizzard,1,70,
-154,meganium,16,33,Tackle,1,1,2
-154,meganium,16,34,Body Slam,1,46,1
-154,meganium,16,45,Growl,1,1,3
-154,meganium,16,75,Razor Leaf,1,1,4
-154,meganium,16,75,Razor Leaf,1,6,1
-154,meganium,16,76,Solar Beam,1,66,1
-154,meganium,16,77,Poison Powder,1,1,5
-154,meganium,16,77,Poison Powder,1,9,1
-154,meganium,16,80,Petal Dance,1,32,1
-154,meganium,16,113,Light Screen,1,40,1
-154,meganium,16,115,Reflect,1,18,1
-154,meganium,16,219,Safeguard,1,54,1
-154,meganium,16,230,Sweet Scent,1,34,1
-154,meganium,16,235,Synthesis,1,12,1
-154,meganium,16,312,Aromatherapy,1,60,1
-154,meganium,16,345,Magical Leaf,1,22,1
-154,meganium,16,363,Natural Gift,1,26,1
-154,meganium,16,572,Petal Blizzard,1,1,1
-154,meganium,16,572,Petal Blizzard,1,70,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+154,3,Tackle,1,normal,50,100
+154,3,Growl,1,normal,-,100
+154,3,Razor Leaf,1,grass,55,95
+154,3,Reflect,1,psychic,-,-
+154,4,Tackle,1,normal,50,100
+154,4,Growl,1,normal,-,100
+154,4,Razor Leaf,1,grass,55,95
+154,4,Reflect,1,psychic,-,-
+154,5,Tackle,1,normal,50,100
+154,5,Growl,1,normal,-,100
+154,5,Razor Leaf,1,grass,55,95
+154,5,Reflect,1,psychic,-,-
+154,6,Tackle,1,normal,50,100
+154,6,Growl,1,normal,-,100
+154,6,Razor Leaf,1,grass,55,95
+154,6,Reflect,1,psychic,-,-
+154,7,Tackle,1,normal,50,100
+154,7,Growl,1,normal,-,100
+154,7,Razor Leaf,1,grass,55,95
+154,7,Reflect,1,psychic,-,-
+154,8,Tackle,1,normal,50,100
+154,8,Growl,1,normal,-,100
+154,8,Razor Leaf,1,grass,55,95
+154,8,Poison Powder,1,poison,-,75
+154,9,Tackle,1,normal,50,100
+154,9,Growl,1,normal,-,100
+154,9,Razor Leaf,1,grass,55,95
+154,9,Poison Powder,1,poison,-,75
+154,10,Tackle,1,normal,50,100
+154,10,Growl,1,normal,-,100
+154,10,Razor Leaf,1,grass,55,95
+154,10,Poison Powder,1,poison,-,75
+154,11,Tackle,1,normal,50,100
+154,11,Growl,1,normal,-,100
+154,11,Razor Leaf,1,grass,55,95
+154,11,Poison Powder,1,poison,-,75
+154,12,Tackle,1,normal,50,100
+154,12,Growl,1,normal,-,100
+154,12,Razor Leaf,1,grass,55,95
+154,12,Reflect,1,psychic,-,-
+154,13,Tackle,1,normal,50,100
+154,13,Growl,1,normal,-,100
+154,13,Razor Leaf,1,grass,55,95
+154,13,Reflect,1,psychic,-,-
+154,14,Tackle,1,normal,50,100
+154,14,Growl,1,normal,-,100
+154,14,Razor Leaf,1,grass,55,95
+154,14,Poison Powder,1,poison,-,75
+154,15,Tackle,1,normal,50,100
+154,15,Growl,1,normal,-,100
+154,15,Razor Leaf,1,grass,55,95
+154,15,Poison Powder,1,poison,-,75
+154,15,Petal Blizzard,1,grass,90,100
+154,16,Tackle,1,normal,50,100
+154,16,Growl,1,normal,-,100
+154,16,Razor Leaf,1,grass,55,95
+154,16,Poison Powder,1,poison,-,75
+154,16,Petal Blizzard,1,grass,90,100
+154,8,Razor Leaf,6,grass,55,95
+154,9,Razor Leaf,6,grass,55,95
+154,10,Razor Leaf,6,grass,55,95
+154,11,Razor Leaf,6,grass,55,95
+154,14,Razor Leaf,6,grass,55,95
+154,15,Razor Leaf,6,grass,55,95
+154,16,Razor Leaf,6,grass,55,95
+154,3,Razor Leaf,8,grass,55,95
+154,4,Razor Leaf,8,grass,55,95
+154,5,Razor Leaf,8,grass,55,95
+154,6,Razor Leaf,8,grass,55,95
+154,7,Razor Leaf,8,grass,55,95
+154,12,Razor Leaf,8,grass,55,95
+154,13,Razor Leaf,8,grass,55,95
+154,8,Poison Powder,9,poison,-,75
+154,9,Poison Powder,9,poison,-,75
+154,10,Poison Powder,9,poison,-,75
+154,11,Poison Powder,9,poison,-,75
+154,14,Poison Powder,9,poison,-,75
+154,15,Poison Powder,9,poison,-,75
+154,16,Poison Powder,9,poison,-,75
+154,3,Reflect,12,psychic,-,-
+154,4,Reflect,12,psychic,-,-
+154,5,Reflect,12,psychic,-,-
+154,6,Reflect,12,psychic,-,-
+154,7,Reflect,12,psychic,-,-
+154,8,Synthesis,12,grass,-,-
+154,9,Synthesis,12,grass,-,-
+154,10,Synthesis,12,grass,-,-
+154,11,Synthesis,12,grass,-,-
+154,12,Reflect,12,psychic,-,-
+154,13,Reflect,12,psychic,-,-
+154,14,Synthesis,12,grass,-,-
+154,15,Synthesis,12,grass,-,-
+154,16,Synthesis,12,grass,-,-
+154,3,Poison Powder,15,poison,-,75
+154,4,Poison Powder,15,poison,-,75
+154,5,Poison Powder,15,poison,-,75
+154,6,Poison Powder,15,poison,-,75
+154,7,Poison Powder,15,poison,-,75
+154,12,Poison Powder,15,poison,-,75
+154,13,Poison Powder,15,poison,-,75
+154,8,Reflect,18,psychic,-,-
+154,9,Reflect,18,psychic,-,-
+154,10,Reflect,18,psychic,-,-
+154,11,Reflect,18,psychic,-,-
+154,14,Reflect,18,psychic,-,-
+154,15,Reflect,18,psychic,-,-
+154,16,Reflect,18,psychic,-,-
+154,8,Magical Leaf,22,grass,60,-
+154,9,Magical Leaf,22,grass,60,-
+154,10,Magical Leaf,22,grass,60,-
+154,11,Magical Leaf,22,grass,60,-
+154,14,Magical Leaf,22,grass,60,-
+154,15,Magical Leaf,22,grass,60,-
+154,16,Magical Leaf,22,grass,60,-
+154,3,Synthesis,23,grass,-,-
+154,4,Synthesis,23,grass,-,-
+154,5,Synthesis,23,grass,-,-
+154,6,Synthesis,23,grass,-,-
+154,7,Synthesis,23,grass,-,-
+154,12,Synthesis,23,grass,-,-
+154,13,Synthesis,23,grass,-,-
+154,8,Natural Gift,26,normal,-,100
+154,9,Natural Gift,26,normal,-,100
+154,10,Natural Gift,26,normal,-,100
+154,11,Natural Gift,26,normal,-,100
+154,14,Natural Gift,26,normal,-,100
+154,15,Natural Gift,26,normal,-,100
+154,16,Natural Gift,26,normal,-,100
+154,3,Body Slam,31,normal,85,100
+154,4,Body Slam,31,normal,85,100
+154,5,Body Slam,31,normal,85,100
+154,6,Body Slam,31,normal,85,100
+154,7,Body Slam,31,normal,85,100
+154,12,Body Slam,31,normal,85,100
+154,13,Body Slam,31,normal,85,100
+154,8,Petal Dance,32,grass,120,100
+154,9,Petal Dance,32,grass,120,100
+154,10,Petal Dance,32,grass,120,100
+154,11,Petal Dance,32,grass,120,100
+154,14,Petal Dance,32,grass,120,100
+154,15,Petal Dance,32,grass,120,100
+154,16,Petal Dance,32,grass,120,100
+154,8,Sweet Scent,34,normal,-,100
+154,9,Sweet Scent,34,normal,-,100
+154,10,Sweet Scent,34,normal,-,100
+154,11,Sweet Scent,34,normal,-,100
+154,14,Sweet Scent,34,normal,-,100
+154,15,Sweet Scent,34,normal,-,100
+154,16,Sweet Scent,34,normal,-,100
+154,8,Light Screen,40,psychic,-,-
+154,9,Light Screen,40,psychic,-,-
+154,10,Light Screen,40,psychic,-,-
+154,11,Light Screen,40,psychic,-,-
+154,14,Light Screen,40,psychic,-,-
+154,15,Light Screen,40,psychic,-,-
+154,16,Light Screen,40,psychic,-,-
+154,3,Light Screen,41,psychic,-,-
+154,4,Light Screen,41,psychic,-,-
+154,5,Light Screen,41,psychic,-,-
+154,6,Light Screen,41,psychic,-,-
+154,7,Light Screen,41,psychic,-,-
+154,12,Light Screen,41,psychic,-,-
+154,13,Light Screen,41,psychic,-,-
+154,8,Body Slam,46,normal,85,100
+154,9,Body Slam,46,normal,85,100
+154,10,Body Slam,46,normal,85,100
+154,11,Body Slam,46,normal,85,100
+154,14,Body Slam,46,normal,85,100
+154,15,Body Slam,46,normal,85,100
+154,16,Body Slam,46,normal,85,100
+154,3,Safeguard,51,normal,-,-
+154,4,Safeguard,51,normal,-,-
+154,5,Safeguard,51,normal,-,-
+154,6,Safeguard,51,normal,-,-
+154,7,Safeguard,51,normal,-,-
+154,12,Safeguard,51,normal,-,-
+154,13,Safeguard,51,normal,-,-
+154,8,Safeguard,54,normal,-,-
+154,9,Safeguard,54,normal,-,-
+154,10,Safeguard,54,normal,-,-
+154,11,Safeguard,54,normal,-,-
+154,14,Safeguard,54,normal,-,-
+154,15,Safeguard,54,normal,-,-
+154,16,Safeguard,54,normal,-,-
+154,8,Aromatherapy,60,grass,-,-
+154,9,Aromatherapy,60,grass,-,-
+154,10,Aromatherapy,60,grass,-,-
+154,11,Aromatherapy,60,grass,-,-
+154,14,Aromatherapy,60,grass,-,-
+154,15,Aromatherapy,60,grass,-,-
+154,16,Aromatherapy,60,grass,-,-
+154,3,Solar Beam,61,grass,120,100
+154,4,Solar Beam,61,grass,120,100
+154,5,Solar Beam,61,grass,120,100
+154,6,Solar Beam,61,grass,120,100
+154,7,Solar Beam,61,grass,120,100
+154,12,Solar Beam,61,grass,120,100
+154,13,Solar Beam,61,grass,120,100
+154,8,Solar Beam,66,grass,120,100
+154,9,Solar Beam,66,grass,120,100
+154,10,Solar Beam,66,grass,120,100
+154,11,Solar Beam,66,grass,120,100
+154,14,Solar Beam,66,grass,120,100
+154,15,Solar Beam,66,grass,120,100
+154,16,Solar Beam,66,grass,120,100
+154,15,Petal Blizzard,70,grass,90,100
+154,16,Petal Blizzard,70,grass,90,100

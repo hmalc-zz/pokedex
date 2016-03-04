@@ -1,165 +1,165 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-190,aipom,3,10,Scratch,1,1,1
-190,aipom,3,28,Sand Attack,1,6,
-190,aipom,3,39,Tail Whip,1,1,2
-190,aipom,3,97,Agility,1,46,
-190,aipom,3,103,Screech,1,36,
-190,aipom,3,129,Swift,1,27,
-190,aipom,3,154,Fury Swipes,1,19,
-190,aipom,3,226,Baton Pass,1,12,
-190,aipom,4,10,Scratch,1,1,1
-190,aipom,4,28,Sand Attack,1,6,
-190,aipom,4,39,Tail Whip,1,1,2
-190,aipom,4,97,Agility,1,46,
-190,aipom,4,103,Screech,1,36,
-190,aipom,4,129,Swift,1,27,
-190,aipom,4,154,Fury Swipes,1,19,
-190,aipom,4,226,Baton Pass,1,12,
-190,aipom,5,10,Scratch,1,1,1
-190,aipom,5,28,Sand Attack,1,6,
-190,aipom,5,39,Tail Whip,1,1,2
-190,aipom,5,97,Agility,1,50,
-190,aipom,5,103,Screech,1,43,
-190,aipom,5,129,Swift,1,38,
-190,aipom,5,154,Fury Swipes,1,31,
-190,aipom,5,226,Baton Pass,1,18,
-190,aipom,5,310,Astonish,1,13,
-190,aipom,5,321,Tickle,1,25,
-190,aipom,6,10,Scratch,1,1,1
-190,aipom,6,28,Sand Attack,1,6,
-190,aipom,6,39,Tail Whip,1,1,2
-190,aipom,6,97,Agility,1,50,
-190,aipom,6,103,Screech,1,43,
-190,aipom,6,129,Swift,1,38,
-190,aipom,6,154,Fury Swipes,1,31,
-190,aipom,6,226,Baton Pass,1,18,
-190,aipom,6,310,Astonish,1,13,
-190,aipom,6,321,Tickle,1,25,
-190,aipom,7,10,Scratch,1,1,1
-190,aipom,7,28,Sand Attack,1,6,
-190,aipom,7,39,Tail Whip,1,1,2
-190,aipom,7,97,Agility,1,50,
-190,aipom,7,103,Screech,1,43,
-190,aipom,7,129,Swift,1,38,
-190,aipom,7,154,Fury Swipes,1,31,
-190,aipom,7,226,Baton Pass,1,18,
-190,aipom,7,310,Astonish,1,13,
-190,aipom,7,321,Tickle,1,25,
-190,aipom,8,10,Scratch,1,1,1
-190,aipom,8,28,Sand Attack,1,4,
-190,aipom,8,39,Tail Whip,1,1,2
-190,aipom,8,97,Agility,1,29,
-190,aipom,8,103,Screech,1,25,
-190,aipom,8,129,Swift,1,22,
-190,aipom,8,154,Fury Swipes,1,18,
-190,aipom,8,226,Baton Pass,1,11,
-190,aipom,8,310,Astonish,1,8,
-190,aipom,8,321,Tickle,1,15,
-190,aipom,8,374,Fling,1,36,
-190,aipom,8,387,Last Resort,1,43,
-190,aipom,8,417,Nasty Plot,1,39,
-190,aipom,8,458,Double Hit,1,32,
-190,aipom,9,10,Scratch,1,1,1
-190,aipom,9,28,Sand Attack,1,4,
-190,aipom,9,39,Tail Whip,1,1,2
-190,aipom,9,97,Agility,1,29,
-190,aipom,9,103,Screech,1,25,
-190,aipom,9,129,Swift,1,22,
-190,aipom,9,154,Fury Swipes,1,18,
-190,aipom,9,226,Baton Pass,1,11,
-190,aipom,9,310,Astonish,1,8,
-190,aipom,9,321,Tickle,1,15,
-190,aipom,9,374,Fling,1,36,
-190,aipom,9,387,Last Resort,1,43,
-190,aipom,9,417,Nasty Plot,1,39,
-190,aipom,9,458,Double Hit,1,32,
-190,aipom,10,10,Scratch,1,1,1
-190,aipom,10,28,Sand Attack,1,4,
-190,aipom,10,39,Tail Whip,1,1,2
-190,aipom,10,97,Agility,1,29,
-190,aipom,10,103,Screech,1,25,
-190,aipom,10,129,Swift,1,22,
-190,aipom,10,154,Fury Swipes,1,18,
-190,aipom,10,226,Baton Pass,1,11,
-190,aipom,10,310,Astonish,1,8,
-190,aipom,10,321,Tickle,1,15,
-190,aipom,10,374,Fling,1,36,
-190,aipom,10,387,Last Resort,1,43,
-190,aipom,10,417,Nasty Plot,1,39,
-190,aipom,10,458,Double Hit,1,32,
-190,aipom,11,10,Scratch,1,1,1
-190,aipom,11,28,Sand Attack,1,4,
-190,aipom,11,39,Tail Whip,1,1,2
-190,aipom,11,97,Agility,1,29,
-190,aipom,11,103,Screech,1,25,
-190,aipom,11,129,Swift,1,22,
-190,aipom,11,154,Fury Swipes,1,18,
-190,aipom,11,226,Baton Pass,1,11,
-190,aipom,11,310,Astonish,1,8,
-190,aipom,11,321,Tickle,1,15,
-190,aipom,11,374,Fling,1,36,
-190,aipom,11,387,Last Resort,1,43,
-190,aipom,11,417,Nasty Plot,1,39,
-190,aipom,11,458,Double Hit,1,32,
-190,aipom,12,10,Scratch,1,1,1
-190,aipom,12,28,Sand Attack,1,6,
-190,aipom,12,39,Tail Whip,1,1,2
-190,aipom,12,97,Agility,1,50,
-190,aipom,12,103,Screech,1,43,
-190,aipom,12,129,Swift,1,38,
-190,aipom,12,154,Fury Swipes,1,31,
-190,aipom,12,226,Baton Pass,1,18,
-190,aipom,12,310,Astonish,1,13,
-190,aipom,12,321,Tickle,1,25,
-190,aipom,13,10,Scratch,1,1,1
-190,aipom,13,28,Sand Attack,1,6,
-190,aipom,13,39,Tail Whip,1,1,2
-190,aipom,13,97,Agility,1,50,
-190,aipom,13,103,Screech,1,43,
-190,aipom,13,129,Swift,1,38,
-190,aipom,13,154,Fury Swipes,1,31,
-190,aipom,13,226,Baton Pass,1,18,
-190,aipom,13,310,Astonish,1,13,
-190,aipom,13,321,Tickle,1,25,
-190,aipom,14,10,Scratch,1,1,1
-190,aipom,14,28,Sand Attack,1,4,
-190,aipom,14,39,Tail Whip,1,1,2
-190,aipom,14,97,Agility,1,29,
-190,aipom,14,103,Screech,1,25,
-190,aipom,14,129,Swift,1,22,
-190,aipom,14,154,Fury Swipes,1,18,
-190,aipom,14,226,Baton Pass,1,11,
-190,aipom,14,310,Astonish,1,8,
-190,aipom,14,321,Tickle,1,15,
-190,aipom,14,374,Fling,1,36,
-190,aipom,14,387,Last Resort,1,43,
-190,aipom,14,417,Nasty Plot,1,39,
-190,aipom,14,458,Double Hit,1,32,
-190,aipom,15,10,Scratch,1,1,1
-190,aipom,15,28,Sand Attack,1,4,
-190,aipom,15,39,Tail Whip,1,1,2
-190,aipom,15,97,Agility,1,29,
-190,aipom,15,103,Screech,1,25,
-190,aipom,15,129,Swift,1,22,
-190,aipom,15,154,Fury Swipes,1,18,
-190,aipom,15,226,Baton Pass,1,11,
-190,aipom,15,310,Astonish,1,8,
-190,aipom,15,321,Tickle,1,15,
-190,aipom,15,374,Fling,1,36,
-190,aipom,15,387,Last Resort,1,43,
-190,aipom,15,417,Nasty Plot,1,39,
-190,aipom,15,458,Double Hit,1,32,
-190,aipom,16,10,Scratch,1,1,1
-190,aipom,16,28,Sand Attack,1,4,1
-190,aipom,16,39,Tail Whip,1,1,2
-190,aipom,16,97,Agility,1,29,1
-190,aipom,16,103,Screech,1,25,1
-190,aipom,16,129,Swift,1,22,1
-190,aipom,16,154,Fury Swipes,1,18,1
-190,aipom,16,226,Baton Pass,1,11,1
-190,aipom,16,310,Astonish,1,8,1
-190,aipom,16,321,Tickle,1,15,1
-190,aipom,16,374,Fling,1,36,1
-190,aipom,16,387,Last Resort,1,43,1
-190,aipom,16,417,Nasty Plot,1,39,1
-190,aipom,16,458,Double Hit,1,32,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+190,3,Scratch,1,normal,40,100
+190,3,Tail Whip,1,normal,-,100
+190,4,Scratch,1,normal,40,100
+190,4,Tail Whip,1,normal,-,100
+190,5,Scratch,1,normal,40,100
+190,5,Tail Whip,1,normal,-,100
+190,6,Scratch,1,normal,40,100
+190,6,Tail Whip,1,normal,-,100
+190,7,Scratch,1,normal,40,100
+190,7,Tail Whip,1,normal,-,100
+190,8,Scratch,1,normal,40,100
+190,8,Tail Whip,1,normal,-,100
+190,9,Scratch,1,normal,40,100
+190,9,Tail Whip,1,normal,-,100
+190,10,Scratch,1,normal,40,100
+190,10,Tail Whip,1,normal,-,100
+190,11,Scratch,1,normal,40,100
+190,11,Tail Whip,1,normal,-,100
+190,12,Scratch,1,normal,40,100
+190,12,Tail Whip,1,normal,-,100
+190,13,Scratch,1,normal,40,100
+190,13,Tail Whip,1,normal,-,100
+190,14,Scratch,1,normal,40,100
+190,14,Tail Whip,1,normal,-,100
+190,15,Scratch,1,normal,40,100
+190,15,Tail Whip,1,normal,-,100
+190,16,Scratch,1,normal,40,100
+190,16,Tail Whip,1,normal,-,100
+190,8,Sand Attack,4,ground,-,100
+190,9,Sand Attack,4,ground,-,100
+190,10,Sand Attack,4,ground,-,100
+190,11,Sand Attack,4,ground,-,100
+190,14,Sand Attack,4,ground,-,100
+190,15,Sand Attack,4,ground,-,100
+190,16,Sand Attack,4,ground,-,100
+190,3,Sand Attack,6,ground,-,100
+190,4,Sand Attack,6,ground,-,100
+190,5,Sand Attack,6,ground,-,100
+190,6,Sand Attack,6,ground,-,100
+190,7,Sand Attack,6,ground,-,100
+190,12,Sand Attack,6,ground,-,100
+190,13,Sand Attack,6,ground,-,100
+190,8,Astonish,8,ghost,30,100
+190,9,Astonish,8,ghost,30,100
+190,10,Astonish,8,ghost,30,100
+190,11,Astonish,8,ghost,30,100
+190,14,Astonish,8,ghost,30,100
+190,15,Astonish,8,ghost,30,100
+190,16,Astonish,8,ghost,30,100
+190,8,Baton Pass,11,normal,-,-
+190,9,Baton Pass,11,normal,-,-
+190,10,Baton Pass,11,normal,-,-
+190,11,Baton Pass,11,normal,-,-
+190,14,Baton Pass,11,normal,-,-
+190,15,Baton Pass,11,normal,-,-
+190,16,Baton Pass,11,normal,-,-
+190,3,Baton Pass,12,normal,-,-
+190,4,Baton Pass,12,normal,-,-
+190,5,Astonish,13,ghost,30,100
+190,6,Astonish,13,ghost,30,100
+190,7,Astonish,13,ghost,30,100
+190,12,Astonish,13,ghost,30,100
+190,13,Astonish,13,ghost,30,100
+190,8,Tickle,15,normal,-,100
+190,9,Tickle,15,normal,-,100
+190,10,Tickle,15,normal,-,100
+190,11,Tickle,15,normal,-,100
+190,14,Tickle,15,normal,-,100
+190,15,Tickle,15,normal,-,100
+190,16,Tickle,15,normal,-,100
+190,5,Baton Pass,18,normal,-,-
+190,6,Baton Pass,18,normal,-,-
+190,7,Baton Pass,18,normal,-,-
+190,8,Fury Swipes,18,normal,18,80
+190,9,Fury Swipes,18,normal,18,80
+190,10,Fury Swipes,18,normal,18,80
+190,11,Fury Swipes,18,normal,18,80
+190,12,Baton Pass,18,normal,-,-
+190,13,Baton Pass,18,normal,-,-
+190,14,Fury Swipes,18,normal,18,80
+190,15,Fury Swipes,18,normal,18,80
+190,16,Fury Swipes,18,normal,18,80
+190,3,Fury Swipes,19,normal,18,80
+190,4,Fury Swipes,19,normal,18,80
+190,8,Swift,22,normal,60,-
+190,9,Swift,22,normal,60,-
+190,10,Swift,22,normal,60,-
+190,11,Swift,22,normal,60,-
+190,14,Swift,22,normal,60,-
+190,15,Swift,22,normal,60,-
+190,16,Swift,22,normal,60,-
+190,5,Tickle,25,normal,-,100
+190,6,Tickle,25,normal,-,100
+190,7,Tickle,25,normal,-,100
+190,8,Screech,25,normal,-,85
+190,9,Screech,25,normal,-,85
+190,10,Screech,25,normal,-,85
+190,11,Screech,25,normal,-,85
+190,12,Tickle,25,normal,-,100
+190,13,Tickle,25,normal,-,100
+190,14,Screech,25,normal,-,85
+190,15,Screech,25,normal,-,85
+190,16,Screech,25,normal,-,85
+190,3,Swift,27,normal,60,-
+190,4,Swift,27,normal,60,-
+190,8,Agility,29,psychic,-,-
+190,9,Agility,29,psychic,-,-
+190,10,Agility,29,psychic,-,-
+190,11,Agility,29,psychic,-,-
+190,14,Agility,29,psychic,-,-
+190,15,Agility,29,psychic,-,-
+190,16,Agility,29,psychic,-,-
+190,5,Fury Swipes,31,normal,18,80
+190,6,Fury Swipes,31,normal,18,80
+190,7,Fury Swipes,31,normal,18,80
+190,12,Fury Swipes,31,normal,18,80
+190,13,Fury Swipes,31,normal,18,80
+190,8,Double Hit,32,normal,35,90
+190,9,Double Hit,32,normal,35,90
+190,10,Double Hit,32,normal,35,90
+190,11,Double Hit,32,normal,35,90
+190,14,Double Hit,32,normal,35,90
+190,15,Double Hit,32,normal,35,90
+190,16,Double Hit,32,normal,35,90
+190,3,Screech,36,normal,-,85
+190,4,Screech,36,normal,-,85
+190,8,Fling,36,dark,-,100
+190,9,Fling,36,dark,-,100
+190,10,Fling,36,dark,-,100
+190,11,Fling,36,dark,-,100
+190,14,Fling,36,dark,-,100
+190,15,Fling,36,dark,-,100
+190,16,Fling,36,dark,-,100
+190,5,Swift,38,normal,60,-
+190,6,Swift,38,normal,60,-
+190,7,Swift,38,normal,60,-
+190,12,Swift,38,normal,60,-
+190,13,Swift,38,normal,60,-
+190,8,Nasty Plot,39,dark,-,-
+190,9,Nasty Plot,39,dark,-,-
+190,10,Nasty Plot,39,dark,-,-
+190,11,Nasty Plot,39,dark,-,-
+190,14,Nasty Plot,39,dark,-,-
+190,15,Nasty Plot,39,dark,-,-
+190,16,Nasty Plot,39,dark,-,-
+190,5,Screech,43,normal,-,85
+190,6,Screech,43,normal,-,85
+190,7,Screech,43,normal,-,85
+190,8,Last Resort,43,normal,140,100
+190,9,Last Resort,43,normal,140,100
+190,10,Last Resort,43,normal,140,100
+190,11,Last Resort,43,normal,140,100
+190,12,Screech,43,normal,-,85
+190,13,Screech,43,normal,-,85
+190,14,Last Resort,43,normal,140,100
+190,15,Last Resort,43,normal,140,100
+190,16,Last Resort,43,normal,140,100
+190,3,Agility,46,psychic,-,-
+190,4,Agility,46,psychic,-,-
+190,5,Agility,50,psychic,-,-
+190,6,Agility,50,psychic,-,-
+190,7,Agility,50,psychic,-,-
+190,12,Agility,50,psychic,-,-
+190,13,Agility,50,psychic,-,-

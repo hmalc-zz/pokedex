@@ -1,91 +1,91 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-186,politoed,3,3,Double Slap,1,1,3
-186,politoed,3,55,Water Gun,1,1,1
-186,politoed,3,95,Hypnosis,1,1,2
-186,politoed,3,195,Perish Song,1,1,4
-186,politoed,3,195,Perish Song,1,35,
-186,politoed,3,207,Swagger,1,51,
-186,politoed,4,3,Double Slap,1,1,3
-186,politoed,4,55,Water Gun,1,1,1
-186,politoed,4,95,Hypnosis,1,1,2
-186,politoed,4,195,Perish Song,1,1,4
-186,politoed,4,195,Perish Song,1,35,
-186,politoed,4,207,Swagger,1,51,
-186,politoed,5,3,Double Slap,1,1,3
-186,politoed,5,55,Water Gun,1,1,1
-186,politoed,5,95,Hypnosis,1,1,2
-186,politoed,5,195,Perish Song,1,1,4
-186,politoed,5,195,Perish Song,1,35,
-186,politoed,5,207,Swagger,1,51,
-186,politoed,6,3,Double Slap,1,1,3
-186,politoed,6,55,Water Gun,1,1,1
-186,politoed,6,95,Hypnosis,1,1,2
-186,politoed,6,195,Perish Song,1,1,4
-186,politoed,6,195,Perish Song,1,35,
-186,politoed,6,207,Swagger,1,51,
-186,politoed,7,3,Double Slap,1,1,3
-186,politoed,7,55,Water Gun,1,1,1
-186,politoed,7,95,Hypnosis,1,1,2
-186,politoed,7,195,Perish Song,1,1,4
-186,politoed,7,195,Perish Song,1,35,
-186,politoed,7,207,Swagger,1,51,
-186,politoed,8,3,Double Slap,1,1,3
-186,politoed,8,61,Bubble Beam,1,1,1
-186,politoed,8,95,Hypnosis,1,1,2
-186,politoed,8,195,Perish Song,1,1,4
-186,politoed,8,207,Swagger,1,53,
-186,politoed,8,340,Bounce,1,43,
-186,politoed,9,3,Double Slap,1,1,3
-186,politoed,9,61,Bubble Beam,1,1,1
-186,politoed,9,95,Hypnosis,1,1,2
-186,politoed,9,195,Perish Song,1,1,4
-186,politoed,9,207,Swagger,1,27,
-186,politoed,9,304,Hyper Voice,1,48,
-186,politoed,9,340,Bounce,1,37,
-186,politoed,10,3,Double Slap,1,1,3
-186,politoed,10,61,Bubble Beam,1,1,1
-186,politoed,10,95,Hypnosis,1,1,2
-186,politoed,10,195,Perish Song,1,1,4
-186,politoed,10,207,Swagger,1,27,
-186,politoed,10,304,Hyper Voice,1,48,
-186,politoed,10,340,Bounce,1,37,
-186,politoed,11,3,Double Slap,1,1,3
-186,politoed,11,61,Bubble Beam,1,1,1
-186,politoed,11,95,Hypnosis,1,1,2
-186,politoed,11,195,Perish Song,1,1,4
-186,politoed,11,207,Swagger,1,27,
-186,politoed,11,304,Hyper Voice,1,48,
-186,politoed,11,340,Bounce,1,37,
-186,politoed,12,3,Double Slap,1,1,3
-186,politoed,12,55,Water Gun,1,1,1
-186,politoed,12,95,Hypnosis,1,1,2
-186,politoed,12,195,Perish Song,1,1,4
-186,politoed,12,195,Perish Song,1,35,
-186,politoed,12,207,Swagger,1,51,
-186,politoed,13,3,Double Slap,1,1,3
-186,politoed,13,55,Water Gun,1,1,1
-186,politoed,13,95,Hypnosis,1,1,2
-186,politoed,13,195,Perish Song,1,1,4
-186,politoed,13,195,Perish Song,1,35,
-186,politoed,13,207,Swagger,1,51,
-186,politoed,14,3,Double Slap,1,1,3
-186,politoed,14,61,Bubble Beam,1,1,1
-186,politoed,14,95,Hypnosis,1,1,2
-186,politoed,14,195,Perish Song,1,1,4
-186,politoed,14,207,Swagger,1,27,
-186,politoed,14,304,Hyper Voice,1,48,
-186,politoed,14,340,Bounce,1,37,
-186,politoed,15,3,Double Slap,1,1,3
-186,politoed,15,61,Bubble Beam,1,1,1
-186,politoed,15,95,Hypnosis,1,1,2
-186,politoed,15,195,Perish Song,1,1,4
-186,politoed,15,207,Swagger,1,27,
-186,politoed,15,304,Hyper Voice,1,48,
-186,politoed,15,340,Bounce,1,37,
-186,politoed,16,3,Double Slap,1,1,3
-186,politoed,16,61,Bubble Beam,1,1,1
-186,politoed,16,95,Hypnosis,1,1,2
-186,politoed,16,195,Perish Song,1,1,4
-186,politoed,16,207,Swagger,1,27,1
-186,politoed,16,304,Hyper Voice,1,48,1
-186,politoed,16,340,Bounce,1,37,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+186,3,Double Slap,1,normal,15,85
+186,3,Water Gun,1,water,40,100
+186,3,Hypnosis,1,psychic,-,60
+186,3,Perish Song,1,normal,-,-
+186,4,Double Slap,1,normal,15,85
+186,4,Water Gun,1,water,40,100
+186,4,Hypnosis,1,psychic,-,60
+186,4,Perish Song,1,normal,-,-
+186,5,Double Slap,1,normal,15,85
+186,5,Water Gun,1,water,40,100
+186,5,Hypnosis,1,psychic,-,60
+186,5,Perish Song,1,normal,-,-
+186,6,Double Slap,1,normal,15,85
+186,6,Water Gun,1,water,40,100
+186,6,Hypnosis,1,psychic,-,60
+186,6,Perish Song,1,normal,-,-
+186,7,Double Slap,1,normal,15,85
+186,7,Water Gun,1,water,40,100
+186,7,Hypnosis,1,psychic,-,60
+186,7,Perish Song,1,normal,-,-
+186,8,Double Slap,1,normal,15,85
+186,8,Bubble Beam,1,water,65,100
+186,8,Hypnosis,1,psychic,-,60
+186,8,Perish Song,1,normal,-,-
+186,9,Double Slap,1,normal,15,85
+186,9,Bubble Beam,1,water,65,100
+186,9,Hypnosis,1,psychic,-,60
+186,9,Perish Song,1,normal,-,-
+186,10,Double Slap,1,normal,15,85
+186,10,Bubble Beam,1,water,65,100
+186,10,Hypnosis,1,psychic,-,60
+186,10,Perish Song,1,normal,-,-
+186,11,Double Slap,1,normal,15,85
+186,11,Bubble Beam,1,water,65,100
+186,11,Hypnosis,1,psychic,-,60
+186,11,Perish Song,1,normal,-,-
+186,12,Double Slap,1,normal,15,85
+186,12,Water Gun,1,water,40,100
+186,12,Hypnosis,1,psychic,-,60
+186,12,Perish Song,1,normal,-,-
+186,13,Double Slap,1,normal,15,85
+186,13,Water Gun,1,water,40,100
+186,13,Hypnosis,1,psychic,-,60
+186,13,Perish Song,1,normal,-,-
+186,14,Double Slap,1,normal,15,85
+186,14,Bubble Beam,1,water,65,100
+186,14,Hypnosis,1,psychic,-,60
+186,14,Perish Song,1,normal,-,-
+186,15,Double Slap,1,normal,15,85
+186,15,Bubble Beam,1,water,65,100
+186,15,Hypnosis,1,psychic,-,60
+186,15,Perish Song,1,normal,-,-
+186,16,Double Slap,1,normal,15,85
+186,16,Bubble Beam,1,water,65,100
+186,16,Hypnosis,1,psychic,-,60
+186,16,Perish Song,1,normal,-,-
+186,9,Swagger,27,normal,-,90
+186,10,Swagger,27,normal,-,90
+186,11,Swagger,27,normal,-,90
+186,14,Swagger,27,normal,-,90
+186,15,Swagger,27,normal,-,90
+186,16,Swagger,27,normal,-,90
+186,3,Perish Song,35,normal,-,-
+186,4,Perish Song,35,normal,-,-
+186,5,Perish Song,35,normal,-,-
+186,6,Perish Song,35,normal,-,-
+186,7,Perish Song,35,normal,-,-
+186,12,Perish Song,35,normal,-,-
+186,13,Perish Song,35,normal,-,-
+186,9,Bounce,37,flying,85,85
+186,10,Bounce,37,flying,85,85
+186,11,Bounce,37,flying,85,85
+186,14,Bounce,37,flying,85,85
+186,15,Bounce,37,flying,85,85
+186,16,Bounce,37,flying,85,85
+186,8,Bounce,43,flying,85,85
+186,9,Hyper Voice,48,normal,90,100
+186,10,Hyper Voice,48,normal,90,100
+186,11,Hyper Voice,48,normal,90,100
+186,14,Hyper Voice,48,normal,90,100
+186,15,Hyper Voice,48,normal,90,100
+186,16,Hyper Voice,48,normal,90,100
+186,3,Swagger,51,normal,-,90
+186,4,Swagger,51,normal,-,90
+186,5,Swagger,51,normal,-,90
+186,6,Swagger,51,normal,-,90
+186,7,Swagger,51,normal,-,90
+186,12,Swagger,51,normal,-,90
+186,13,Swagger,51,normal,-,90
+186,8,Swagger,53,normal,-,90

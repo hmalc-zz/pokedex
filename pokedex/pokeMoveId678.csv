@@ -1,43 +1,43 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-678,meowstic-male,15,10,Scratch,1,1,4
-678,meowstic-male,15,43,Leer,1,1,5
-678,meowstic-male,15,60,Psybeam,1,17,
-678,meowstic-male,15,93,Confusion,1,9,
-678,meowstic-male,15,94,Psychic,1,40,
-678,meowstic-male,15,113,Light Screen,1,13,
-678,meowstic-male,15,115,Reflect,1,35,
-678,meowstic-male,15,204,Charm,1,28,
-678,meowstic-male,15,212,Mean Look,1,1,2
-678,meowstic-male,15,252,Fake Out,1,19,
-678,meowstic-male,15,270,Helping Hand,1,1,3
-678,meowstic-male,15,272,Role Play,1,43,
-678,meowstic-male,15,286,Imprison,1,45,
-678,meowstic-male,15,343,Covet,1,5,
-678,meowstic-male,15,357,Miracle Eye,1,31,
-678,meowstic-male,15,389,Sucker Punch,1,48,
-678,meowstic-male,15,473,Psyshock,1,25,
-678,meowstic-male,15,501,Quick Guard,1,1,1
-678,meowstic-male,15,501,Quick Guard,1,53,
-678,meowstic-male,15,574,Disarming Voice,1,22,
-678,meowstic-male,15,581,Misty Terrain,1,50,
-678,meowstic-male,16,10,Scratch,1,1,4
-678,meowstic-male,16,43,Leer,1,1,5
-678,meowstic-male,16,60,Psybeam,1,17,1
-678,meowstic-male,16,93,Confusion,1,9,1
-678,meowstic-male,16,94,Psychic,1,40,1
-678,meowstic-male,16,113,Light Screen,1,13,1
-678,meowstic-male,16,115,Reflect,1,35,1
-678,meowstic-male,16,204,Charm,1,28,1
-678,meowstic-male,16,212,Mean Look,1,1,2
-678,meowstic-male,16,252,Fake Out,1,19,1
-678,meowstic-male,16,270,Helping Hand,1,1,3
-678,meowstic-male,16,272,Role Play,1,43,1
-678,meowstic-male,16,286,Imprison,1,45,1
-678,meowstic-male,16,343,Covet,1,5,1
-678,meowstic-male,16,357,Miracle Eye,1,31,1
-678,meowstic-male,16,389,Sucker Punch,1,48,1
-678,meowstic-male,16,473,Psyshock,1,25,1
-678,meowstic-male,16,501,Quick Guard,1,1,1
-678,meowstic-male,16,501,Quick Guard,1,53,1
-678,meowstic-male,16,574,Disarming Voice,1,22,1
-678,meowstic-male,16,581,Misty Terrain,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+678,15,Scratch,1,normal,40,100
+678,15,Leer,1,normal,-,100
+678,15,Mean Look,1,normal,-,-
+678,15,Helping Hand,1,normal,-,-
+678,15,Quick Guard,1,fighting,-,-
+678,16,Scratch,1,normal,40,100
+678,16,Leer,1,normal,-,100
+678,16,Mean Look,1,normal,-,-
+678,16,Helping Hand,1,normal,-,-
+678,16,Quick Guard,1,fighting,-,-
+678,15,Covet,5,normal,60,100
+678,16,Covet,5,normal,60,100
+678,15,Confusion,9,psychic,50,100
+678,16,Confusion,9,psychic,50,100
+678,15,Light Screen,13,psychic,-,-
+678,16,Light Screen,13,psychic,-,-
+678,15,Psybeam,17,psychic,65,100
+678,16,Psybeam,17,psychic,65,100
+678,15,Fake Out,19,normal,40,100
+678,16,Fake Out,19,normal,40,100
+678,15,Disarming Voice,22,fairy,40,-
+678,16,Disarming Voice,22,fairy,40,-
+678,15,Psyshock,25,psychic,80,100
+678,16,Psyshock,25,psychic,80,100
+678,15,Charm,28,fairy,-,100
+678,16,Charm,28,fairy,-,100
+678,15,Miracle Eye,31,psychic,-,-
+678,16,Miracle Eye,31,psychic,-,-
+678,15,Reflect,35,psychic,-,-
+678,16,Reflect,35,psychic,-,-
+678,15,Psychic,40,psychic,90,100
+678,16,Psychic,40,psychic,90,100
+678,15,Role Play,43,psychic,-,-
+678,16,Role Play,43,psychic,-,-
+678,15,Imprison,45,psychic,-,-
+678,16,Imprison,45,psychic,-,-
+678,15,Sucker Punch,48,dark,80,100
+678,16,Sucker Punch,48,dark,80,100
+678,15,Misty Terrain,50,fairy,-,-
+678,16,Misty Terrain,50,fairy,-,-
+678,15,Quick Guard,53,fighting,-,-
+678,16,Quick Guard,53,fighting,-,-

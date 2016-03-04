@@ -1,175 +1,175 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-90,shellder,1,33,Tackle,1,1,1
-90,shellder,1,43,Leer,1,39,
-90,shellder,1,48,Supersonic,1,18,
-90,shellder,1,58,Ice Beam,1,50,
-90,shellder,1,62,Aurora Beam,1,30,
-90,shellder,1,110,Withdraw,1,1,2
-90,shellder,1,128,Clamp,1,23,
-90,shellder,2,33,Tackle,1,1,1
-90,shellder,2,43,Leer,1,39,
-90,shellder,2,48,Supersonic,1,18,
-90,shellder,2,58,Ice Beam,1,50,
-90,shellder,2,62,Aurora Beam,1,30,
-90,shellder,2,110,Withdraw,1,1,2
-90,shellder,2,128,Clamp,1,23,
-90,shellder,3,33,Tackle,1,1,1
-90,shellder,3,43,Leer,1,33,
-90,shellder,3,48,Supersonic,1,9,
-90,shellder,3,58,Ice Beam,1,49,
-90,shellder,3,62,Aurora Beam,1,17,
-90,shellder,3,110,Withdraw,1,1,2
-90,shellder,3,128,Clamp,1,41,
-90,shellder,3,182,Protect,1,25,
-90,shellder,4,33,Tackle,1,1,1
-90,shellder,4,43,Leer,1,33,
-90,shellder,4,48,Supersonic,1,9,
-90,shellder,4,58,Ice Beam,1,49,
-90,shellder,4,62,Aurora Beam,1,17,
-90,shellder,4,110,Withdraw,1,1,2
-90,shellder,4,128,Clamp,1,41,
-90,shellder,4,182,Protect,1,25,
-90,shellder,5,33,Tackle,1,1,1
-90,shellder,5,43,Leer,1,33,
-90,shellder,5,48,Supersonic,1,9,
-90,shellder,5,58,Ice Beam,1,49,
-90,shellder,5,62,Aurora Beam,1,17,
-90,shellder,5,110,Withdraw,1,1,2
-90,shellder,5,128,Clamp,1,41,
-90,shellder,5,182,Protect,1,25,
-90,shellder,6,33,Tackle,1,1,1
-90,shellder,6,43,Leer,1,33,
-90,shellder,6,48,Supersonic,1,9,
-90,shellder,6,58,Ice Beam,1,49,
-90,shellder,6,62,Aurora Beam,1,17,
-90,shellder,6,110,Withdraw,1,1,2
-90,shellder,6,128,Clamp,1,41,
-90,shellder,6,182,Protect,1,25,
-90,shellder,7,33,Tackle,1,1,1
-90,shellder,7,43,Leer,1,36,
-90,shellder,7,48,Supersonic,1,15,
-90,shellder,7,58,Ice Beam,1,50,
-90,shellder,7,62,Aurora Beam,1,22,
-90,shellder,7,110,Withdraw,1,1,2
-90,shellder,7,128,Clamp,1,43,
-90,shellder,7,182,Protect,1,29,
-90,shellder,7,333,Icicle Spear,1,8,
-90,shellder,8,33,Tackle,1,1,
-90,shellder,8,43,Leer,1,20,
-90,shellder,8,48,Supersonic,1,8,
-90,shellder,8,58,Ice Beam,1,49,
-90,shellder,8,62,Aurora Beam,1,32,
-90,shellder,8,110,Withdraw,1,4,
-90,shellder,8,128,Clamp,1,25,
-90,shellder,8,182,Protect,1,16,
-90,shellder,8,250,Whirlpool,1,37,
-90,shellder,8,333,Icicle Spear,1,13,
-90,shellder,8,334,Iron Defense,1,40,
-90,shellder,8,362,Brine,1,44,
-90,shellder,8,420,Ice Shard,1,28,
-90,shellder,9,33,Tackle,1,1,
-90,shellder,9,43,Leer,1,20,
-90,shellder,9,48,Supersonic,1,8,
-90,shellder,9,58,Ice Beam,1,49,
-90,shellder,9,62,Aurora Beam,1,32,
-90,shellder,9,110,Withdraw,1,4,
-90,shellder,9,128,Clamp,1,25,
-90,shellder,9,182,Protect,1,16,
-90,shellder,9,250,Whirlpool,1,37,
-90,shellder,9,333,Icicle Spear,1,13,
-90,shellder,9,334,Iron Defense,1,40,
-90,shellder,9,362,Brine,1,44,
-90,shellder,9,420,Ice Shard,1,28,
-90,shellder,10,33,Tackle,1,1,
-90,shellder,10,43,Leer,1,20,
-90,shellder,10,48,Supersonic,1,8,
-90,shellder,10,58,Ice Beam,1,49,
-90,shellder,10,62,Aurora Beam,1,32,
-90,shellder,10,110,Withdraw,1,4,
-90,shellder,10,128,Clamp,1,25,
-90,shellder,10,182,Protect,1,16,
-90,shellder,10,250,Whirlpool,1,37,
-90,shellder,10,333,Icicle Spear,1,13,
-90,shellder,10,334,Iron Defense,1,40,
-90,shellder,10,362,Brine,1,44,
-90,shellder,10,420,Ice Shard,1,28,
-90,shellder,11,33,Tackle,1,1,
-90,shellder,11,43,Leer,1,20,
-90,shellder,11,48,Supersonic,1,8,
-90,shellder,11,56,Hydro Pump,1,61,
-90,shellder,11,58,Ice Beam,1,52,
-90,shellder,11,62,Aurora Beam,1,37,
-90,shellder,11,110,Withdraw,1,4,
-90,shellder,11,128,Clamp,1,25,
-90,shellder,11,182,Protect,1,16,
-90,shellder,11,250,Whirlpool,1,40,
-90,shellder,11,333,Icicle Spear,1,13,
-90,shellder,11,334,Iron Defense,1,49,
-90,shellder,11,362,Brine,1,44,
-90,shellder,11,420,Ice Shard,1,28,
-90,shellder,11,504,Shell Smash,1,56,
-90,shellder,11,534,Razor Shell,1,32,
-90,shellder,12,33,Tackle,1,1,1
-90,shellder,12,43,Leer,1,33,
-90,shellder,12,48,Supersonic,1,9,
-90,shellder,12,58,Ice Beam,1,49,
-90,shellder,12,62,Aurora Beam,1,17,
-90,shellder,12,110,Withdraw,1,1,2
-90,shellder,12,128,Clamp,1,41,
-90,shellder,12,182,Protect,1,25,
-90,shellder,13,33,Tackle,1,1,1
-90,shellder,13,43,Leer,1,33,
-90,shellder,13,48,Supersonic,1,9,
-90,shellder,13,58,Ice Beam,1,49,
-90,shellder,13,62,Aurora Beam,1,17,
-90,shellder,13,110,Withdraw,1,1,2
-90,shellder,13,128,Clamp,1,41,
-90,shellder,13,182,Protect,1,25,
-90,shellder,14,33,Tackle,1,1,
-90,shellder,14,43,Leer,1,20,
-90,shellder,14,48,Supersonic,1,8,
-90,shellder,14,56,Hydro Pump,1,61,
-90,shellder,14,58,Ice Beam,1,52,
-90,shellder,14,62,Aurora Beam,1,37,
-90,shellder,14,110,Withdraw,1,4,
-90,shellder,14,128,Clamp,1,25,
-90,shellder,14,182,Protect,1,16,
-90,shellder,14,250,Whirlpool,1,40,
-90,shellder,14,333,Icicle Spear,1,13,
-90,shellder,14,334,Iron Defense,1,49,
-90,shellder,14,362,Brine,1,44,
-90,shellder,14,420,Ice Shard,1,28,
-90,shellder,14,504,Shell Smash,1,56,
-90,shellder,14,534,Razor Shell,1,32,
-90,shellder,15,33,Tackle,1,1,
-90,shellder,15,43,Leer,1,20,
-90,shellder,15,48,Supersonic,1,8,
-90,shellder,15,56,Hydro Pump,1,61,
-90,shellder,15,58,Ice Beam,1,52,
-90,shellder,15,62,Aurora Beam,1,37,
-90,shellder,15,110,Withdraw,1,4,
-90,shellder,15,128,Clamp,1,25,
-90,shellder,15,182,Protect,1,16,
-90,shellder,15,250,Whirlpool,1,40,
-90,shellder,15,333,Icicle Spear,1,13,
-90,shellder,15,334,Iron Defense,1,49,
-90,shellder,15,362,Brine,1,44,
-90,shellder,15,420,Ice Shard,1,28,
-90,shellder,15,504,Shell Smash,1,56,
-90,shellder,15,534,Razor Shell,1,32,
-90,shellder,16,33,Tackle,1,1,1
-90,shellder,16,43,Leer,1,20,1
-90,shellder,16,48,Supersonic,1,8,1
-90,shellder,16,56,Hydro Pump,1,61,1
-90,shellder,16,58,Ice Beam,1,52,1
-90,shellder,16,62,Aurora Beam,1,37,1
-90,shellder,16,110,Withdraw,1,4,1
-90,shellder,16,128,Clamp,1,25,1
-90,shellder,16,182,Protect,1,16,1
-90,shellder,16,250,Whirlpool,1,40,1
-90,shellder,16,333,Icicle Spear,1,13,1
-90,shellder,16,334,Iron Defense,1,49,1
-90,shellder,16,362,Brine,1,44,1
-90,shellder,16,420,Ice Shard,1,28,1
-90,shellder,16,504,Shell Smash,1,56,1
-90,shellder,16,534,Razor Shell,1,32,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+90,1,Tackle,1,normal,50,100
+90,1,Withdraw,1,water,-,-
+90,2,Tackle,1,normal,50,100
+90,2,Withdraw,1,water,-,-
+90,3,Tackle,1,normal,50,100
+90,3,Withdraw,1,water,-,-
+90,4,Tackle,1,normal,50,100
+90,4,Withdraw,1,water,-,-
+90,5,Tackle,1,normal,50,100
+90,5,Withdraw,1,water,-,-
+90,6,Tackle,1,normal,50,100
+90,6,Withdraw,1,water,-,-
+90,7,Tackle,1,normal,50,100
+90,7,Withdraw,1,water,-,-
+90,8,Tackle,1,normal,50,100
+90,9,Tackle,1,normal,50,100
+90,10,Tackle,1,normal,50,100
+90,11,Tackle,1,normal,50,100
+90,12,Tackle,1,normal,50,100
+90,12,Withdraw,1,water,-,-
+90,13,Tackle,1,normal,50,100
+90,13,Withdraw,1,water,-,-
+90,14,Tackle,1,normal,50,100
+90,15,Tackle,1,normal,50,100
+90,16,Tackle,1,normal,50,100
+90,8,Withdraw,4,water,-,-
+90,9,Withdraw,4,water,-,-
+90,10,Withdraw,4,water,-,-
+90,11,Withdraw,4,water,-,-
+90,14,Withdraw,4,water,-,-
+90,15,Withdraw,4,water,-,-
+90,16,Withdraw,4,water,-,-
+90,7,Icicle Spear,8,ice,25,100
+90,8,Supersonic,8,normal,-,55
+90,9,Supersonic,8,normal,-,55
+90,10,Supersonic,8,normal,-,55
+90,11,Supersonic,8,normal,-,55
+90,14,Supersonic,8,normal,-,55
+90,15,Supersonic,8,normal,-,55
+90,16,Supersonic,8,normal,-,55
+90,3,Supersonic,9,normal,-,55
+90,4,Supersonic,9,normal,-,55
+90,5,Supersonic,9,normal,-,55
+90,6,Supersonic,9,normal,-,55
+90,12,Supersonic,9,normal,-,55
+90,13,Supersonic,9,normal,-,55
+90,8,Icicle Spear,13,ice,25,100
+90,9,Icicle Spear,13,ice,25,100
+90,10,Icicle Spear,13,ice,25,100
+90,11,Icicle Spear,13,ice,25,100
+90,14,Icicle Spear,13,ice,25,100
+90,15,Icicle Spear,13,ice,25,100
+90,16,Icicle Spear,13,ice,25,100
+90,7,Supersonic,15,normal,-,55
+90,8,Protect,16,normal,-,-
+90,9,Protect,16,normal,-,-
+90,10,Protect,16,normal,-,-
+90,11,Protect,16,normal,-,-
+90,14,Protect,16,normal,-,-
+90,15,Protect,16,normal,-,-
+90,16,Protect,16,normal,-,-
+90,3,Aurora Beam,17,ice,65,100
+90,4,Aurora Beam,17,ice,65,100
+90,5,Aurora Beam,17,ice,65,100
+90,6,Aurora Beam,17,ice,65,100
+90,12,Aurora Beam,17,ice,65,100
+90,13,Aurora Beam,17,ice,65,100
+90,1,Supersonic,18,normal,-,55
+90,2,Supersonic,18,normal,-,55
+90,8,Leer,20,normal,-,100
+90,9,Leer,20,normal,-,100
+90,10,Leer,20,normal,-,100
+90,11,Leer,20,normal,-,100
+90,14,Leer,20,normal,-,100
+90,15,Leer,20,normal,-,100
+90,16,Leer,20,normal,-,100
+90,7,Aurora Beam,22,ice,65,100
+90,1,Clamp,23,water,35,85
+90,2,Clamp,23,water,35,85
+90,3,Protect,25,normal,-,-
+90,4,Protect,25,normal,-,-
+90,5,Protect,25,normal,-,-
+90,6,Protect,25,normal,-,-
+90,8,Clamp,25,water,35,85
+90,9,Clamp,25,water,35,85
+90,10,Clamp,25,water,35,85
+90,11,Clamp,25,water,35,85
+90,12,Protect,25,normal,-,-
+90,13,Protect,25,normal,-,-
+90,14,Clamp,25,water,35,85
+90,15,Clamp,25,water,35,85
+90,16,Clamp,25,water,35,85
+90,8,Ice Shard,28,ice,40,100
+90,9,Ice Shard,28,ice,40,100
+90,10,Ice Shard,28,ice,40,100
+90,11,Ice Shard,28,ice,40,100
+90,14,Ice Shard,28,ice,40,100
+90,15,Ice Shard,28,ice,40,100
+90,16,Ice Shard,28,ice,40,100
+90,7,Protect,29,normal,-,-
+90,1,Aurora Beam,30,ice,65,100
+90,2,Aurora Beam,30,ice,65,100
+90,8,Aurora Beam,32,ice,65,100
+90,9,Aurora Beam,32,ice,65,100
+90,10,Aurora Beam,32,ice,65,100
+90,11,Razor Shell,32,water,75,95
+90,14,Razor Shell,32,water,75,95
+90,15,Razor Shell,32,water,75,95
+90,16,Razor Shell,32,water,75,95
+90,3,Leer,33,normal,-,100
+90,4,Leer,33,normal,-,100
+90,5,Leer,33,normal,-,100
+90,6,Leer,33,normal,-,100
+90,12,Leer,33,normal,-,100
+90,13,Leer,33,normal,-,100
+90,7,Leer,36,normal,-,100
+90,8,Whirlpool,37,water,35,85
+90,9,Whirlpool,37,water,35,85
+90,10,Whirlpool,37,water,35,85
+90,11,Aurora Beam,37,ice,65,100
+90,14,Aurora Beam,37,ice,65,100
+90,15,Aurora Beam,37,ice,65,100
+90,16,Aurora Beam,37,ice,65,100
+90,1,Leer,39,normal,-,100
+90,2,Leer,39,normal,-,100
+90,8,Iron Defense,40,steel,-,-
+90,9,Iron Defense,40,steel,-,-
+90,10,Iron Defense,40,steel,-,-
+90,11,Whirlpool,40,water,35,85
+90,14,Whirlpool,40,water,35,85
+90,15,Whirlpool,40,water,35,85
+90,16,Whirlpool,40,water,35,85
+90,3,Clamp,41,water,35,85
+90,4,Clamp,41,water,35,85
+90,5,Clamp,41,water,35,85
+90,6,Clamp,41,water,35,85
+90,12,Clamp,41,water,35,85
+90,13,Clamp,41,water,35,85
+90,7,Clamp,43,water,35,85
+90,8,Brine,44,water,65,100
+90,9,Brine,44,water,65,100
+90,10,Brine,44,water,65,100
+90,11,Brine,44,water,65,100
+90,14,Brine,44,water,65,100
+90,15,Brine,44,water,65,100
+90,16,Brine,44,water,65,100
+90,3,Ice Beam,49,ice,90,100
+90,4,Ice Beam,49,ice,90,100
+90,5,Ice Beam,49,ice,90,100
+90,6,Ice Beam,49,ice,90,100
+90,8,Ice Beam,49,ice,90,100
+90,9,Ice Beam,49,ice,90,100
+90,10,Ice Beam,49,ice,90,100
+90,11,Iron Defense,49,steel,-,-
+90,12,Ice Beam,49,ice,90,100
+90,13,Ice Beam,49,ice,90,100
+90,14,Iron Defense,49,steel,-,-
+90,15,Iron Defense,49,steel,-,-
+90,16,Iron Defense,49,steel,-,-
+90,1,Ice Beam,50,ice,90,100
+90,2,Ice Beam,50,ice,90,100
+90,7,Ice Beam,50,ice,90,100
+90,11,Ice Beam,52,ice,90,100
+90,14,Ice Beam,52,ice,90,100
+90,15,Ice Beam,52,ice,90,100
+90,16,Ice Beam,52,ice,90,100
+90,11,Shell Smash,56,normal,-,-
+90,14,Shell Smash,56,normal,-,-
+90,15,Shell Smash,56,normal,-,-
+90,16,Shell Smash,56,normal,-,-
+90,11,Hydro Pump,61,water,110,80
+90,14,Hydro Pump,61,water,110,80
+90,15,Hydro Pump,61,water,110,80
+90,16,Hydro Pump,61,water,110,80

@@ -1,129 +1,129 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-452,drapion,8,40,Poison Sting,1,1,5
-452,drapion,8,42,Pin Missile,1,1,7
-452,drapion,8,42,Pin Missile,1,12,
-452,drapion,8,43,Leer,1,1,6
-452,drapion,8,43,Leer,1,6,
-452,drapion,8,44,Bite,1,1,4
-452,drapion,8,184,Scary Face,1,28,
-452,drapion,8,242,Crunch,1,49,
-452,drapion,8,282,Knock Off,1,23,
-452,drapion,8,305,Poison Fang,1,39,
-452,drapion,8,367,Acupressure,1,17,
-452,drapion,8,390,Toxic Spikes,1,34,
-452,drapion,8,422,Thunder Fang,1,1,1
-452,drapion,8,423,Ice Fang,1,1,2
-452,drapion,8,424,Fire Fang,1,1,3
-452,drapion,8,440,Cross Poison,1,58,
-452,drapion,9,40,Poison Sting,1,1,5
-452,drapion,9,42,Pin Missile,1,12,
-452,drapion,9,43,Leer,1,1,6
-452,drapion,9,44,Bite,1,1,4
-452,drapion,9,184,Scary Face,1,23,
-452,drapion,9,242,Crunch,1,49,
-452,drapion,9,282,Knock Off,1,1,7
-452,drapion,9,282,Knock Off,1,6,
-452,drapion,9,305,Poison Fang,1,39,
-452,drapion,9,367,Acupressure,1,17,
-452,drapion,9,390,Toxic Spikes,1,28,
-452,drapion,9,422,Thunder Fang,1,1,1
-452,drapion,9,423,Ice Fang,1,1,2
-452,drapion,9,424,Fire Fang,1,1,3
-452,drapion,9,440,Cross Poison,1,58,
-452,drapion,9,450,Bug Bite,1,34,
-452,drapion,10,40,Poison Sting,1,1,5
-452,drapion,10,42,Pin Missile,1,12,
-452,drapion,10,43,Leer,1,1,6
-452,drapion,10,44,Bite,1,1,4
-452,drapion,10,184,Scary Face,1,23,
-452,drapion,10,242,Crunch,1,49,
-452,drapion,10,282,Knock Off,1,1,7
-452,drapion,10,282,Knock Off,1,6,
-452,drapion,10,305,Poison Fang,1,39,
-452,drapion,10,367,Acupressure,1,17,
-452,drapion,10,390,Toxic Spikes,1,28,
-452,drapion,10,422,Thunder Fang,1,1,1
-452,drapion,10,423,Ice Fang,1,1,2
-452,drapion,10,424,Fire Fang,1,1,3
-452,drapion,10,440,Cross Poison,1,58,
-452,drapion,10,450,Bug Bite,1,34,
-452,drapion,11,40,Poison Sting,1,1,5
-452,drapion,11,42,Pin Missile,1,12,
-452,drapion,11,43,Leer,1,1,6
-452,drapion,11,44,Bite,1,1,4
-452,drapion,11,184,Scary Face,1,23,
-452,drapion,11,242,Crunch,1,65,
-452,drapion,11,282,Knock Off,1,1,7
-452,drapion,11,282,Knock Off,1,6,
-452,drapion,11,305,Poison Fang,1,39,
-452,drapion,11,367,Acupressure,1,17,
-452,drapion,11,390,Toxic Spikes,1,28,
-452,drapion,11,422,Thunder Fang,1,1,1
-452,drapion,11,423,Ice Fang,1,1,2
-452,drapion,11,424,Fire Fang,1,1,3
-452,drapion,11,440,Cross Poison,1,73,
-452,drapion,11,450,Bug Bite,1,34,
-452,drapion,11,468,Hone Claws,1,48,
-452,drapion,11,474,Venoshock,1,56,
-452,drapion,14,40,Poison Sting,1,1,5
-452,drapion,14,42,Pin Missile,1,9,
-452,drapion,14,43,Leer,1,1,6
-452,drapion,14,44,Bite,1,1,4
-452,drapion,14,184,Scary Face,1,43,
-452,drapion,14,228,Pursuit,1,16,
-452,drapion,14,242,Crunch,1,49,
-452,drapion,14,282,Knock Off,1,1,7
-452,drapion,14,282,Knock Off,1,5,
-452,drapion,14,305,Poison Fang,1,23,
-452,drapion,14,367,Acupressure,1,13,
-452,drapion,14,390,Toxic Spikes,1,34,
-452,drapion,14,400,Night Slash,1,38,
-452,drapion,14,422,Thunder Fang,1,1,1
-452,drapion,14,423,Ice Fang,1,1,2
-452,drapion,14,424,Fire Fang,1,1,3
-452,drapion,14,440,Cross Poison,1,57,
-452,drapion,14,450,Bug Bite,1,20,
-452,drapion,14,468,Hone Claws,1,30,
-452,drapion,14,474,Venoshock,1,27,
-452,drapion,15,40,Poison Sting,1,1,5
-452,drapion,15,42,Pin Missile,1,9,
-452,drapion,15,43,Leer,1,1,6
-452,drapion,15,44,Bite,1,1,4
-452,drapion,15,184,Scary Face,1,43,
-452,drapion,15,228,Pursuit,1,16,
-452,drapion,15,242,Crunch,1,49,
-452,drapion,15,282,Knock Off,1,1,7
-452,drapion,15,282,Knock Off,1,5,
-452,drapion,15,305,Poison Fang,1,23,
-452,drapion,15,367,Acupressure,1,13,
-452,drapion,15,390,Toxic Spikes,1,34,
-452,drapion,15,400,Night Slash,1,38,
-452,drapion,15,422,Thunder Fang,1,1,1
-452,drapion,15,423,Ice Fang,1,1,2
-452,drapion,15,424,Fire Fang,1,1,3
-452,drapion,15,440,Cross Poison,1,57,
-452,drapion,15,450,Bug Bite,1,20,
-452,drapion,15,468,Hone Claws,1,30,
-452,drapion,15,474,Venoshock,1,27,
-452,drapion,15,565,Fell Stinger,1,53,
-452,drapion,16,40,Poison Sting,1,1,5
-452,drapion,16,42,Pin Missile,1,9,1
-452,drapion,16,43,Leer,1,1,6
-452,drapion,16,44,Bite,1,1,4
-452,drapion,16,184,Scary Face,1,43,1
-452,drapion,16,228,Pursuit,1,16,1
-452,drapion,16,242,Crunch,1,49,1
-452,drapion,16,282,Knock Off,1,1,7
-452,drapion,16,282,Knock Off,1,5,1
-452,drapion,16,305,Poison Fang,1,23,1
-452,drapion,16,367,Acupressure,1,13,1
-452,drapion,16,390,Toxic Spikes,1,34,1
-452,drapion,16,400,Night Slash,1,38,1
-452,drapion,16,422,Thunder Fang,1,1,1
-452,drapion,16,423,Ice Fang,1,1,2
-452,drapion,16,424,Fire Fang,1,1,3
-452,drapion,16,440,Cross Poison,1,57,1
-452,drapion,16,450,Bug Bite,1,20,1
-452,drapion,16,468,Hone Claws,1,30,1
-452,drapion,16,474,Venoshock,1,27,1
-452,drapion,16,565,Fell Stinger,1,53,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+452,8,Poison Sting,1,poison,15,100
+452,8,Pin Missile,1,bug,25,95
+452,8,Leer,1,normal,-,100
+452,8,Bite,1,dark,60,100
+452,8,Thunder Fang,1,electric,65,95
+452,8,Ice Fang,1,ice,65,95
+452,8,Fire Fang,1,fire,65,95
+452,9,Poison Sting,1,poison,15,100
+452,9,Leer,1,normal,-,100
+452,9,Bite,1,dark,60,100
+452,9,Knock Off,1,dark,65,100
+452,9,Thunder Fang,1,electric,65,95
+452,9,Ice Fang,1,ice,65,95
+452,9,Fire Fang,1,fire,65,95
+452,10,Poison Sting,1,poison,15,100
+452,10,Leer,1,normal,-,100
+452,10,Bite,1,dark,60,100
+452,10,Knock Off,1,dark,65,100
+452,10,Thunder Fang,1,electric,65,95
+452,10,Ice Fang,1,ice,65,95
+452,10,Fire Fang,1,fire,65,95
+452,11,Poison Sting,1,poison,15,100
+452,11,Leer,1,normal,-,100
+452,11,Bite,1,dark,60,100
+452,11,Knock Off,1,dark,65,100
+452,11,Thunder Fang,1,electric,65,95
+452,11,Ice Fang,1,ice,65,95
+452,11,Fire Fang,1,fire,65,95
+452,14,Poison Sting,1,poison,15,100
+452,14,Leer,1,normal,-,100
+452,14,Bite,1,dark,60,100
+452,14,Knock Off,1,dark,65,100
+452,14,Thunder Fang,1,electric,65,95
+452,14,Ice Fang,1,ice,65,95
+452,14,Fire Fang,1,fire,65,95
+452,15,Poison Sting,1,poison,15,100
+452,15,Leer,1,normal,-,100
+452,15,Bite,1,dark,60,100
+452,15,Knock Off,1,dark,65,100
+452,15,Thunder Fang,1,electric,65,95
+452,15,Ice Fang,1,ice,65,95
+452,15,Fire Fang,1,fire,65,95
+452,16,Poison Sting,1,poison,15,100
+452,16,Leer,1,normal,-,100
+452,16,Bite,1,dark,60,100
+452,16,Knock Off,1,dark,65,100
+452,16,Thunder Fang,1,electric,65,95
+452,16,Ice Fang,1,ice,65,95
+452,16,Fire Fang,1,fire,65,95
+452,14,Knock Off,5,dark,65,100
+452,15,Knock Off,5,dark,65,100
+452,16,Knock Off,5,dark,65,100
+452,8,Leer,6,normal,-,100
+452,9,Knock Off,6,dark,65,100
+452,10,Knock Off,6,dark,65,100
+452,11,Knock Off,6,dark,65,100
+452,14,Pin Missile,9,bug,25,95
+452,15,Pin Missile,9,bug,25,95
+452,16,Pin Missile,9,bug,25,95
+452,8,Pin Missile,12,bug,25,95
+452,9,Pin Missile,12,bug,25,95
+452,10,Pin Missile,12,bug,25,95
+452,11,Pin Missile,12,bug,25,95
+452,14,Acupressure,13,normal,-,-
+452,15,Acupressure,13,normal,-,-
+452,16,Acupressure,13,normal,-,-
+452,14,Pursuit,16,dark,40,100
+452,15,Pursuit,16,dark,40,100
+452,16,Pursuit,16,dark,40,100
+452,8,Acupressure,17,normal,-,-
+452,9,Acupressure,17,normal,-,-
+452,10,Acupressure,17,normal,-,-
+452,11,Acupressure,17,normal,-,-
+452,14,Bug Bite,20,bug,60,100
+452,15,Bug Bite,20,bug,60,100
+452,16,Bug Bite,20,bug,60,100
+452,8,Knock Off,23,dark,65,100
+452,9,Scary Face,23,normal,-,100
+452,10,Scary Face,23,normal,-,100
+452,11,Scary Face,23,normal,-,100
+452,14,Poison Fang,23,poison,50,100
+452,15,Poison Fang,23,poison,50,100
+452,16,Poison Fang,23,poison,50,100
+452,14,Venoshock,27,poison,65,100
+452,15,Venoshock,27,poison,65,100
+452,16,Venoshock,27,poison,65,100
+452,8,Scary Face,28,normal,-,100
+452,9,Toxic Spikes,28,poison,-,-
+452,10,Toxic Spikes,28,poison,-,-
+452,11,Toxic Spikes,28,poison,-,-
+452,14,Hone Claws,30,dark,-,-
+452,15,Hone Claws,30,dark,-,-
+452,16,Hone Claws,30,dark,-,-
+452,8,Toxic Spikes,34,poison,-,-
+452,9,Bug Bite,34,bug,60,100
+452,10,Bug Bite,34,bug,60,100
+452,11,Bug Bite,34,bug,60,100
+452,14,Toxic Spikes,34,poison,-,-
+452,15,Toxic Spikes,34,poison,-,-
+452,16,Toxic Spikes,34,poison,-,-
+452,14,Night Slash,38,dark,70,100
+452,15,Night Slash,38,dark,70,100
+452,16,Night Slash,38,dark,70,100
+452,8,Poison Fang,39,poison,50,100
+452,9,Poison Fang,39,poison,50,100
+452,10,Poison Fang,39,poison,50,100
+452,11,Poison Fang,39,poison,50,100
+452,14,Scary Face,43,normal,-,100
+452,15,Scary Face,43,normal,-,100
+452,16,Scary Face,43,normal,-,100
+452,11,Hone Claws,48,dark,-,-
+452,8,Crunch,49,dark,80,100
+452,9,Crunch,49,dark,80,100
+452,10,Crunch,49,dark,80,100
+452,14,Crunch,49,dark,80,100
+452,15,Crunch,49,dark,80,100
+452,16,Crunch,49,dark,80,100
+452,15,Fell Stinger,53,bug,30,100
+452,16,Fell Stinger,53,bug,30,100
+452,11,Venoshock,56,poison,65,100
+452,14,Cross Poison,57,poison,70,100
+452,15,Cross Poison,57,poison,70,100
+452,16,Cross Poison,57,poison,70,100
+452,8,Cross Poison,58,poison,70,100
+452,9,Cross Poison,58,poison,70,100
+452,10,Cross Poison,58,poison,70,100
+452,11,Crunch,65,dark,80,100
+452,11,Cross Poison,73,poison,70,100

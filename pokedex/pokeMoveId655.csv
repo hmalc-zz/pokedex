@@ -1,47 +1,47 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-655,delphox,15,10,Scratch,1,1,5
-655,delphox,15,39,Tail Whip,1,1,6
-655,delphox,15,52,Ember,1,5,
-655,delphox,15,53,Flamethrower,1,42,
-655,delphox,15,60,Psybeam,1,18,
-655,delphox,15,83,Fire Spin,1,22,
-655,delphox,15,94,Psychic,1,51,
-655,delphox,15,113,Light Screen,1,30,
-655,delphox,15,126,Fire Blast,1,61,
-655,delphox,15,241,Sunny Day,1,55,
-655,delphox,15,247,Shadow Ball,1,1,4
-655,delphox,15,248,Future Sight,1,1,1
-655,delphox,15,248,Future Sight,1,69,
-655,delphox,15,261,Will-O-Wisp,1,47,
-655,delphox,15,272,Role Play,1,1,2
-655,delphox,15,336,Howl,1,11,
-655,delphox,15,381,Lucky Chant,1,27,
-655,delphox,15,415,Switcheroo,1,1,3
-655,delphox,15,473,Psyshock,1,34,
-655,delphox,15,478,Magic Room,1,58,
-655,delphox,15,488,Flame Charge,1,14,
-655,delphox,15,595,Mystical Fire,1,36,
-655,delphox,15,595,Mystical Fire,1,75,
-655,delphox,16,10,Scratch,1,1,5
-655,delphox,16,39,Tail Whip,1,1,6
-655,delphox,16,52,Ember,1,5,1
-655,delphox,16,53,Flamethrower,1,42,1
-655,delphox,16,60,Psybeam,1,18,1
-655,delphox,16,83,Fire Spin,1,22,1
-655,delphox,16,94,Psychic,1,51,1
-655,delphox,16,113,Light Screen,1,30,1
-655,delphox,16,126,Fire Blast,1,61,1
-655,delphox,16,241,Sunny Day,1,55,1
-655,delphox,16,247,Shadow Ball,1,1,4
-655,delphox,16,248,Future Sight,1,1,1
-655,delphox,16,248,Future Sight,1,69,1
-655,delphox,16,261,Will-O-Wisp,1,47,1
-655,delphox,16,272,Role Play,1,1,2
-655,delphox,16,336,Howl,1,11,1
-655,delphox,16,381,Lucky Chant,1,27,1
-655,delphox,16,415,Switcheroo,1,1,3
-655,delphox,16,473,Psyshock,1,34,1
-655,delphox,16,478,Magic Room,1,58,1
-655,delphox,16,488,Flame Charge,1,14,1
-655,delphox,16,595,Mystical Fire,1,36,1
-655,delphox,16,595,Mystical Fire,1,75,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+655,15,Scratch,1,normal,40,100
+655,15,Tail Whip,1,normal,-,100
+655,15,Shadow Ball,1,ghost,80,100
+655,15,Future Sight,1,psychic,120,100
+655,15,Role Play,1,psychic,-,-
+655,15,Switcheroo,1,dark,-,100
+655,16,Scratch,1,normal,40,100
+655,16,Tail Whip,1,normal,-,100
+655,16,Shadow Ball,1,ghost,80,100
+655,16,Future Sight,1,psychic,120,100
+655,16,Role Play,1,psychic,-,-
+655,16,Switcheroo,1,dark,-,100
+655,15,Ember,5,fire,40,100
+655,16,Ember,5,fire,40,100
+655,15,Howl,11,normal,-,-
+655,16,Howl,11,normal,-,-
+655,15,Flame Charge,14,fire,50,100
+655,16,Flame Charge,14,fire,50,100
+655,15,Psybeam,18,psychic,65,100
+655,16,Psybeam,18,psychic,65,100
+655,15,Fire Spin,22,fire,35,85
+655,16,Fire Spin,22,fire,35,85
+655,15,Lucky Chant,27,normal,-,-
+655,16,Lucky Chant,27,normal,-,-
+655,15,Light Screen,30,psychic,-,-
+655,16,Light Screen,30,psychic,-,-
+655,15,Psyshock,34,psychic,80,100
+655,16,Psyshock,34,psychic,80,100
+655,15,Mystical Fire,36,fire,65,100
+655,16,Mystical Fire,36,fire,65,100
+655,15,Flamethrower,42,fire,90,100
+655,16,Flamethrower,42,fire,90,100
+655,15,Will-O-Wisp,47,fire,-,85
+655,16,Will-O-Wisp,47,fire,-,85
+655,15,Psychic,51,psychic,90,100
+655,16,Psychic,51,psychic,90,100
+655,15,Sunny Day,55,fire,-,-
+655,16,Sunny Day,55,fire,-,-
+655,15,Magic Room,58,psychic,-,-
+655,16,Magic Room,58,psychic,-,-
+655,15,Fire Blast,61,fire,110,85
+655,16,Fire Blast,61,fire,110,85
+655,15,Future Sight,69,psychic,120,100
+655,16,Future Sight,69,psychic,120,100
+655,15,Mystical Fire,75,fire,65,100
+655,16,Mystical Fire,75,fire,65,100

@@ -1,65 +1,65 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-638,cobalion,11,14,Swords Dance,1,49,
-638,cobalion,11,24,Double Kick,1,7,
-638,cobalion,11,36,Take Down,1,19,
-638,cobalion,11,43,Leer,1,1,2
-638,cobalion,11,98,Quick Attack,1,1,1
-638,cobalion,11,232,Metal Claw,1,13,
-638,cobalion,11,270,Helping Hand,1,25,
-638,cobalion,11,368,Metal Burst,1,67,
-638,cobalion,11,370,Close Combat,1,73,
-638,cobalion,11,442,Iron Head,1,37,
-638,cobalion,11,501,Quick Guard,1,55,
-638,cobalion,11,514,Retaliate,1,31,
-638,cobalion,11,526,Work Up,1,61,
-638,cobalion,11,533,Sacred Sword,1,42,
-638,cobalion,14,14,Swords Dance,1,49,
-638,cobalion,14,24,Double Kick,1,7,
-638,cobalion,14,36,Take Down,1,19,
-638,cobalion,14,43,Leer,1,1,2
-638,cobalion,14,98,Quick Attack,1,1,1
-638,cobalion,14,232,Metal Claw,1,13,
-638,cobalion,14,270,Helping Hand,1,25,
-638,cobalion,14,368,Metal Burst,1,67,
-638,cobalion,14,370,Close Combat,1,73,
-638,cobalion,14,442,Iron Head,1,37,
-638,cobalion,14,501,Quick Guard,1,55,
-638,cobalion,14,514,Retaliate,1,31,
-638,cobalion,14,526,Work Up,1,61,
-638,cobalion,14,533,Sacred Sword,1,42,
-638,cobalion,15,14,Swords Dance,1,49,
-638,cobalion,15,24,Double Kick,1,7,
-638,cobalion,15,36,Take Down,1,19,
-638,cobalion,15,43,Leer,1,1,6
-638,cobalion,15,98,Quick Attack,1,1,5
-638,cobalion,15,232,Metal Claw,1,13,
-638,cobalion,15,270,Helping Hand,1,25,
-638,cobalion,15,368,Metal Burst,1,1,2
-638,cobalion,15,368,Metal Burst,1,67,
-638,cobalion,15,370,Close Combat,1,1,1
-638,cobalion,15,370,Close Combat,1,73,
-638,cobalion,15,442,Iron Head,1,37,
-638,cobalion,15,501,Quick Guard,1,1,4
-638,cobalion,15,501,Quick Guard,1,55,
-638,cobalion,15,514,Retaliate,1,31,
-638,cobalion,15,526,Work Up,1,1,3
-638,cobalion,15,526,Work Up,1,61,
-638,cobalion,15,533,Sacred Sword,1,42,
-638,cobalion,16,14,Swords Dance,1,49,1
-638,cobalion,16,24,Double Kick,1,7,1
-638,cobalion,16,36,Take Down,1,19,1
-638,cobalion,16,43,Leer,1,1,6
-638,cobalion,16,98,Quick Attack,1,1,5
-638,cobalion,16,232,Metal Claw,1,13,1
-638,cobalion,16,270,Helping Hand,1,25,1
-638,cobalion,16,368,Metal Burst,1,1,2
-638,cobalion,16,368,Metal Burst,1,67,1
-638,cobalion,16,370,Close Combat,1,1,1
-638,cobalion,16,370,Close Combat,1,73,1
-638,cobalion,16,442,Iron Head,1,37,1
-638,cobalion,16,501,Quick Guard,1,1,4
-638,cobalion,16,501,Quick Guard,1,55,1
-638,cobalion,16,514,Retaliate,1,31,1
-638,cobalion,16,526,Work Up,1,1,3
-638,cobalion,16,526,Work Up,1,61,1
-638,cobalion,16,533,Sacred Sword,1,42,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+638,11,Leer,1,normal,-,100
+638,11,Quick Attack,1,normal,40,100
+638,14,Leer,1,normal,-,100
+638,14,Quick Attack,1,normal,40,100
+638,15,Leer,1,normal,-,100
+638,15,Quick Attack,1,normal,40,100
+638,15,Metal Burst,1,steel,-,100
+638,15,Close Combat,1,fighting,120,100
+638,15,Quick Guard,1,fighting,-,-
+638,15,Work Up,1,normal,-,-
+638,16,Leer,1,normal,-,100
+638,16,Quick Attack,1,normal,40,100
+638,16,Metal Burst,1,steel,-,100
+638,16,Close Combat,1,fighting,120,100
+638,16,Quick Guard,1,fighting,-,-
+638,16,Work Up,1,normal,-,-
+638,11,Double Kick,7,fighting,30,100
+638,14,Double Kick,7,fighting,30,100
+638,15,Double Kick,7,fighting,30,100
+638,16,Double Kick,7,fighting,30,100
+638,11,Metal Claw,13,steel,50,95
+638,14,Metal Claw,13,steel,50,95
+638,15,Metal Claw,13,steel,50,95
+638,16,Metal Claw,13,steel,50,95
+638,11,Take Down,19,normal,90,85
+638,14,Take Down,19,normal,90,85
+638,15,Take Down,19,normal,90,85
+638,16,Take Down,19,normal,90,85
+638,11,Helping Hand,25,normal,-,-
+638,14,Helping Hand,25,normal,-,-
+638,15,Helping Hand,25,normal,-,-
+638,16,Helping Hand,25,normal,-,-
+638,11,Retaliate,31,normal,70,100
+638,14,Retaliate,31,normal,70,100
+638,15,Retaliate,31,normal,70,100
+638,16,Retaliate,31,normal,70,100
+638,11,Iron Head,37,steel,80,100
+638,14,Iron Head,37,steel,80,100
+638,15,Iron Head,37,steel,80,100
+638,16,Iron Head,37,steel,80,100
+638,11,Sacred Sword,42,fighting,90,100
+638,14,Sacred Sword,42,fighting,90,100
+638,15,Sacred Sword,42,fighting,90,100
+638,16,Sacred Sword,42,fighting,90,100
+638,11,Swords Dance,49,normal,-,-
+638,14,Swords Dance,49,normal,-,-
+638,15,Swords Dance,49,normal,-,-
+638,16,Swords Dance,49,normal,-,-
+638,11,Quick Guard,55,fighting,-,-
+638,14,Quick Guard,55,fighting,-,-
+638,15,Quick Guard,55,fighting,-,-
+638,16,Quick Guard,55,fighting,-,-
+638,11,Work Up,61,normal,-,-
+638,14,Work Up,61,normal,-,-
+638,15,Work Up,61,normal,-,-
+638,16,Work Up,61,normal,-,-
+638,11,Metal Burst,67,steel,-,100
+638,14,Metal Burst,67,steel,-,100
+638,15,Metal Burst,67,steel,-,100
+638,16,Metal Burst,67,steel,-,100
+638,11,Close Combat,73,fighting,120,100
+638,14,Close Combat,73,fighting,120,100
+638,15,Close Combat,73,fighting,120,100
+638,16,Close Combat,73,fighting,120,100

@@ -1,27 +1,27 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-676,furfrou,15,28,Sand Attack,1,5,
-676,furfrou,15,29,Headbutt,1,12,
-676,furfrou,15,33,Tackle,1,1,1
-676,furfrou,15,36,Take Down,1,35,
-676,furfrou,15,39,Tail Whip,1,15,
-676,furfrou,15,44,Bite,1,22,
-676,furfrou,15,45,Growl,1,1,2
-676,furfrou,15,204,Charm,1,38,
-676,furfrou,15,316,Odor Sleuth,1,27,
-676,furfrou,15,389,Sucker Punch,1,42,
-676,furfrou,15,514,Retaliate,1,33,
-676,furfrou,15,538,Cotton Guard,1,48,
-676,furfrou,15,608,Baby-Doll Eyes,1,9,
-676,furfrou,16,28,Sand Attack,1,5,1
-676,furfrou,16,29,Headbutt,1,12,1
-676,furfrou,16,33,Tackle,1,1,1
-676,furfrou,16,36,Take Down,1,35,1
-676,furfrou,16,39,Tail Whip,1,15,1
-676,furfrou,16,44,Bite,1,22,1
-676,furfrou,16,45,Growl,1,1,2
-676,furfrou,16,204,Charm,1,38,1
-676,furfrou,16,316,Odor Sleuth,1,27,1
-676,furfrou,16,389,Sucker Punch,1,42,1
-676,furfrou,16,514,Retaliate,1,33,1
-676,furfrou,16,538,Cotton Guard,1,48,1
-676,furfrou,16,608,Baby-Doll Eyes,1,9,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+676,15,Tackle,1,normal,50,100
+676,15,Growl,1,normal,-,100
+676,16,Tackle,1,normal,50,100
+676,16,Growl,1,normal,-,100
+676,15,Sand Attack,5,ground,-,100
+676,16,Sand Attack,5,ground,-,100
+676,15,Baby-Doll Eyes,9,fairy,-,100
+676,16,Baby-Doll Eyes,9,fairy,-,100
+676,15,Headbutt,12,normal,70,100
+676,16,Headbutt,12,normal,70,100
+676,15,Tail Whip,15,normal,-,100
+676,16,Tail Whip,15,normal,-,100
+676,15,Bite,22,dark,60,100
+676,16,Bite,22,dark,60,100
+676,15,Odor Sleuth,27,normal,-,-
+676,16,Odor Sleuth,27,normal,-,-
+676,15,Retaliate,33,normal,70,100
+676,16,Retaliate,33,normal,70,100
+676,15,Take Down,35,normal,90,85
+676,16,Take Down,35,normal,90,85
+676,15,Charm,38,fairy,-,100
+676,16,Charm,38,fairy,-,100
+676,15,Sucker Punch,42,dark,80,100
+676,16,Sucker Punch,42,dark,80,100
+676,15,Cotton Guard,48,grass,-,-
+676,16,Cotton Guard,48,grass,-,-

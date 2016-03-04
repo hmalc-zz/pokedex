@@ -1,195 +1,195 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-20,raticate,1,33,Tackle,1,1,1
-20,raticate,1,39,Tail Whip,1,1,2
-20,raticate,1,98,Quick Attack,1,1,3
-20,raticate,1,98,Quick Attack,1,7,
-20,raticate,1,116,Focus Energy,1,27,
-20,raticate,1,158,Hyper Fang,1,14,
-20,raticate,1,162,Super Fang,1,41,
-20,raticate,2,33,Tackle,1,1,1
-20,raticate,2,39,Tail Whip,1,1,2
-20,raticate,2,98,Quick Attack,1,1,3
-20,raticate,2,98,Quick Attack,1,7,
-20,raticate,2,116,Focus Energy,1,27,
-20,raticate,2,158,Hyper Fang,1,14,
-20,raticate,2,162,Super Fang,1,41,
-20,raticate,3,33,Tackle,1,1,1
-20,raticate,3,39,Tail Whip,1,1,2
-20,raticate,3,98,Quick Attack,1,1,3
-20,raticate,3,98,Quick Attack,1,7,
-20,raticate,3,158,Hyper Fang,1,13,
-20,raticate,3,162,Super Fang,1,40,
-20,raticate,3,184,Scary Face,1,20,
-20,raticate,3,228,Pursuit,1,30,
-20,raticate,4,33,Tackle,1,1,1
-20,raticate,4,39,Tail Whip,1,1,2
-20,raticate,4,98,Quick Attack,1,1,3
-20,raticate,4,98,Quick Attack,1,7,
-20,raticate,4,158,Hyper Fang,1,13,
-20,raticate,4,162,Super Fang,1,40,
-20,raticate,4,184,Scary Face,1,20,
-20,raticate,4,228,Pursuit,1,30,
-20,raticate,5,33,Tackle,1,1,1
-20,raticate,5,39,Tail Whip,1,1,2
-20,raticate,5,98,Quick Attack,1,1,3
-20,raticate,5,98,Quick Attack,1,7,
-20,raticate,5,158,Hyper Fang,1,13,
-20,raticate,5,162,Super Fang,1,40,
-20,raticate,5,184,Scary Face,1,20,
-20,raticate,5,228,Pursuit,1,30,
-20,raticate,5,283,Endeavor,1,50,
-20,raticate,6,33,Tackle,1,1,1
-20,raticate,6,39,Tail Whip,1,1,2
-20,raticate,6,98,Quick Attack,1,1,3
-20,raticate,6,98,Quick Attack,1,7,
-20,raticate,6,158,Hyper Fang,1,13,
-20,raticate,6,162,Super Fang,1,40,
-20,raticate,6,184,Scary Face,1,20,
-20,raticate,6,228,Pursuit,1,30,
-20,raticate,6,283,Endeavor,1,50,
-20,raticate,7,33,Tackle,1,1,1
-20,raticate,7,39,Tail Whip,1,1,2
-20,raticate,7,98,Quick Attack,1,1,3
-20,raticate,7,98,Quick Attack,1,7,
-20,raticate,7,158,Hyper Fang,1,13,
-20,raticate,7,162,Super Fang,1,40,
-20,raticate,7,184,Scary Face,1,20,
-20,raticate,7,228,Pursuit,1,30,
-20,raticate,7,283,Endeavor,1,50,
-20,raticate,8,14,Swords Dance,1,1,1
-20,raticate,8,33,Tackle,1,1,2
-20,raticate,8,38,Double-Edge,1,39,
-20,raticate,8,39,Tail Whip,1,1,3
-20,raticate,8,44,Bite,1,10,
-20,raticate,8,98,Quick Attack,1,1,4
-20,raticate,8,98,Quick Attack,1,4,
-20,raticate,8,116,Focus Energy,1,1,5
-20,raticate,8,116,Focus Energy,1,7,
-20,raticate,8,158,Hyper Fang,1,16,
-20,raticate,8,162,Super Fang,1,34,
-20,raticate,8,184,Scary Face,1,20,
-20,raticate,8,228,Pursuit,1,13,
-20,raticate,8,242,Crunch,1,24,
-20,raticate,8,283,Endeavor,1,44,
-20,raticate,8,372,Assurance,1,29,
-20,raticate,8,389,Sucker Punch,1,19,
-20,raticate,9,14,Swords Dance,1,1,1
-20,raticate,9,33,Tackle,1,1,2
-20,raticate,9,38,Double-Edge,1,39,
-20,raticate,9,39,Tail Whip,1,1,3
-20,raticate,9,44,Bite,1,10,
-20,raticate,9,98,Quick Attack,1,1,4
-20,raticate,9,98,Quick Attack,1,4,
-20,raticate,9,116,Focus Energy,1,1,5
-20,raticate,9,116,Focus Energy,1,7,
-20,raticate,9,158,Hyper Fang,1,16,
-20,raticate,9,162,Super Fang,1,34,
-20,raticate,9,184,Scary Face,1,20,
-20,raticate,9,228,Pursuit,1,13,
-20,raticate,9,242,Crunch,1,24,
-20,raticate,9,283,Endeavor,1,44,
-20,raticate,9,372,Assurance,1,29,
-20,raticate,9,389,Sucker Punch,1,19,
-20,raticate,10,14,Swords Dance,1,1,1
-20,raticate,10,33,Tackle,1,1,2
-20,raticate,10,38,Double-Edge,1,39,
-20,raticate,10,39,Tail Whip,1,1,3
-20,raticate,10,44,Bite,1,10,
-20,raticate,10,98,Quick Attack,1,1,4
-20,raticate,10,98,Quick Attack,1,4,
-20,raticate,10,116,Focus Energy,1,1,5
-20,raticate,10,116,Focus Energy,1,7,
-20,raticate,10,158,Hyper Fang,1,16,
-20,raticate,10,162,Super Fang,1,34,
-20,raticate,10,184,Scary Face,1,20,
-20,raticate,10,228,Pursuit,1,13,
-20,raticate,10,242,Crunch,1,24,
-20,raticate,10,283,Endeavor,1,44,
-20,raticate,10,372,Assurance,1,29,
-20,raticate,10,389,Sucker Punch,1,19,
-20,raticate,11,14,Swords Dance,1,1,1
-20,raticate,11,33,Tackle,1,1,2
-20,raticate,11,38,Double-Edge,1,39,
-20,raticate,11,39,Tail Whip,1,1,3
-20,raticate,11,44,Bite,1,10,
-20,raticate,11,98,Quick Attack,1,1,4
-20,raticate,11,98,Quick Attack,1,4,
-20,raticate,11,116,Focus Energy,1,1,5
-20,raticate,11,116,Focus Energy,1,7,
-20,raticate,11,158,Hyper Fang,1,16,
-20,raticate,11,162,Super Fang,1,34,
-20,raticate,11,184,Scary Face,1,20,
-20,raticate,11,228,Pursuit,1,13,
-20,raticate,11,242,Crunch,1,24,
-20,raticate,11,283,Endeavor,1,44,
-20,raticate,11,372,Assurance,1,29,
-20,raticate,11,389,Sucker Punch,1,19,
-20,raticate,12,33,Tackle,1,1,1
-20,raticate,12,39,Tail Whip,1,1,2
-20,raticate,12,98,Quick Attack,1,1,3
-20,raticate,12,98,Quick Attack,1,7,
-20,raticate,12,158,Hyper Fang,1,13,
-20,raticate,12,162,Super Fang,1,40,
-20,raticate,12,184,Scary Face,1,20,
-20,raticate,12,228,Pursuit,1,30,
-20,raticate,12,283,Endeavor,1,50,
-20,raticate,13,33,Tackle,1,1,1
-20,raticate,13,39,Tail Whip,1,1,2
-20,raticate,13,98,Quick Attack,1,1,3
-20,raticate,13,98,Quick Attack,1,7,
-20,raticate,13,158,Hyper Fang,1,13,
-20,raticate,13,162,Super Fang,1,40,
-20,raticate,13,184,Scary Face,1,20,
-20,raticate,13,228,Pursuit,1,30,
-20,raticate,13,283,Endeavor,1,50,
-20,raticate,14,14,Swords Dance,1,1,1
-20,raticate,14,33,Tackle,1,1,2
-20,raticate,14,38,Double-Edge,1,39,
-20,raticate,14,39,Tail Whip,1,1,3
-20,raticate,14,44,Bite,1,10,
-20,raticate,14,98,Quick Attack,1,1,4
-20,raticate,14,98,Quick Attack,1,4,
-20,raticate,14,116,Focus Energy,1,1,5
-20,raticate,14,116,Focus Energy,1,7,
-20,raticate,14,158,Hyper Fang,1,16,
-20,raticate,14,162,Super Fang,1,34,
-20,raticate,14,184,Scary Face,1,20,
-20,raticate,14,228,Pursuit,1,13,
-20,raticate,14,242,Crunch,1,24,
-20,raticate,14,283,Endeavor,1,44,
-20,raticate,14,372,Assurance,1,29,
-20,raticate,14,389,Sucker Punch,1,19,
-20,raticate,15,14,Swords Dance,1,1,1
-20,raticate,15,33,Tackle,1,1,2
-20,raticate,15,38,Double-Edge,1,39,
-20,raticate,15,39,Tail Whip,1,1,3
-20,raticate,15,44,Bite,1,10,
-20,raticate,15,98,Quick Attack,1,1,4
-20,raticate,15,98,Quick Attack,1,4,
-20,raticate,15,116,Focus Energy,1,1,5
-20,raticate,15,116,Focus Energy,1,7,
-20,raticate,15,158,Hyper Fang,1,16,
-20,raticate,15,162,Super Fang,1,34,
-20,raticate,15,184,Scary Face,1,20,
-20,raticate,15,228,Pursuit,1,13,
-20,raticate,15,242,Crunch,1,24,
-20,raticate,15,283,Endeavor,1,44,
-20,raticate,15,372,Assurance,1,29,
-20,raticate,15,389,Sucker Punch,1,19,
-20,raticate,16,14,Swords Dance,1,1,1
-20,raticate,16,33,Tackle,1,1,2
-20,raticate,16,38,Double-Edge,1,39,1
-20,raticate,16,39,Tail Whip,1,1,3
-20,raticate,16,44,Bite,1,10,1
-20,raticate,16,98,Quick Attack,1,1,4
-20,raticate,16,98,Quick Attack,1,4,1
-20,raticate,16,116,Focus Energy,1,1,5
-20,raticate,16,116,Focus Energy,1,7,1
-20,raticate,16,158,Hyper Fang,1,16,1
-20,raticate,16,162,Super Fang,1,34,1
-20,raticate,16,184,Scary Face,1,20,1
-20,raticate,16,228,Pursuit,1,13,1
-20,raticate,16,242,Crunch,1,24,1
-20,raticate,16,283,Endeavor,1,44,1
-20,raticate,16,372,Assurance,1,29,1
-20,raticate,16,389,Sucker Punch,1,19,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+20,1,Tackle,1,normal,50,100
+20,1,Tail Whip,1,normal,-,100
+20,1,Quick Attack,1,normal,40,100
+20,2,Tackle,1,normal,50,100
+20,2,Tail Whip,1,normal,-,100
+20,2,Quick Attack,1,normal,40,100
+20,3,Tackle,1,normal,50,100
+20,3,Tail Whip,1,normal,-,100
+20,3,Quick Attack,1,normal,40,100
+20,4,Tackle,1,normal,50,100
+20,4,Tail Whip,1,normal,-,100
+20,4,Quick Attack,1,normal,40,100
+20,5,Tackle,1,normal,50,100
+20,5,Tail Whip,1,normal,-,100
+20,5,Quick Attack,1,normal,40,100
+20,6,Tackle,1,normal,50,100
+20,6,Tail Whip,1,normal,-,100
+20,6,Quick Attack,1,normal,40,100
+20,7,Tackle,1,normal,50,100
+20,7,Tail Whip,1,normal,-,100
+20,7,Quick Attack,1,normal,40,100
+20,8,Swords Dance,1,normal,-,-
+20,8,Tackle,1,normal,50,100
+20,8,Tail Whip,1,normal,-,100
+20,8,Quick Attack,1,normal,40,100
+20,8,Focus Energy,1,normal,-,-
+20,9,Swords Dance,1,normal,-,-
+20,9,Tackle,1,normal,50,100
+20,9,Tail Whip,1,normal,-,100
+20,9,Quick Attack,1,normal,40,100
+20,9,Focus Energy,1,normal,-,-
+20,10,Swords Dance,1,normal,-,-
+20,10,Tackle,1,normal,50,100
+20,10,Tail Whip,1,normal,-,100
+20,10,Quick Attack,1,normal,40,100
+20,10,Focus Energy,1,normal,-,-
+20,11,Swords Dance,1,normal,-,-
+20,11,Tackle,1,normal,50,100
+20,11,Tail Whip,1,normal,-,100
+20,11,Quick Attack,1,normal,40,100
+20,11,Focus Energy,1,normal,-,-
+20,12,Tackle,1,normal,50,100
+20,12,Tail Whip,1,normal,-,100
+20,12,Quick Attack,1,normal,40,100
+20,13,Tackle,1,normal,50,100
+20,13,Tail Whip,1,normal,-,100
+20,13,Quick Attack,1,normal,40,100
+20,14,Swords Dance,1,normal,-,-
+20,14,Tackle,1,normal,50,100
+20,14,Tail Whip,1,normal,-,100
+20,14,Quick Attack,1,normal,40,100
+20,14,Focus Energy,1,normal,-,-
+20,15,Swords Dance,1,normal,-,-
+20,15,Tackle,1,normal,50,100
+20,15,Tail Whip,1,normal,-,100
+20,15,Quick Attack,1,normal,40,100
+20,15,Focus Energy,1,normal,-,-
+20,16,Swords Dance,1,normal,-,-
+20,16,Tackle,1,normal,50,100
+20,16,Tail Whip,1,normal,-,100
+20,16,Quick Attack,1,normal,40,100
+20,16,Focus Energy,1,normal,-,-
+20,8,Quick Attack,4,normal,40,100
+20,9,Quick Attack,4,normal,40,100
+20,10,Quick Attack,4,normal,40,100
+20,11,Quick Attack,4,normal,40,100
+20,14,Quick Attack,4,normal,40,100
+20,15,Quick Attack,4,normal,40,100
+20,16,Quick Attack,4,normal,40,100
+20,1,Quick Attack,7,normal,40,100
+20,2,Quick Attack,7,normal,40,100
+20,3,Quick Attack,7,normal,40,100
+20,4,Quick Attack,7,normal,40,100
+20,5,Quick Attack,7,normal,40,100
+20,6,Quick Attack,7,normal,40,100
+20,7,Quick Attack,7,normal,40,100
+20,8,Focus Energy,7,normal,-,-
+20,9,Focus Energy,7,normal,-,-
+20,10,Focus Energy,7,normal,-,-
+20,11,Focus Energy,7,normal,-,-
+20,12,Quick Attack,7,normal,40,100
+20,13,Quick Attack,7,normal,40,100
+20,14,Focus Energy,7,normal,-,-
+20,15,Focus Energy,7,normal,-,-
+20,16,Focus Energy,7,normal,-,-
+20,8,Bite,10,dark,60,100
+20,9,Bite,10,dark,60,100
+20,10,Bite,10,dark,60,100
+20,11,Bite,10,dark,60,100
+20,14,Bite,10,dark,60,100
+20,15,Bite,10,dark,60,100
+20,16,Bite,10,dark,60,100
+20,3,Hyper Fang,13,normal,80,90
+20,4,Hyper Fang,13,normal,80,90
+20,5,Hyper Fang,13,normal,80,90
+20,6,Hyper Fang,13,normal,80,90
+20,7,Hyper Fang,13,normal,80,90
+20,8,Pursuit,13,dark,40,100
+20,9,Pursuit,13,dark,40,100
+20,10,Pursuit,13,dark,40,100
+20,11,Pursuit,13,dark,40,100
+20,12,Hyper Fang,13,normal,80,90
+20,13,Hyper Fang,13,normal,80,90
+20,14,Pursuit,13,dark,40,100
+20,15,Pursuit,13,dark,40,100
+20,16,Pursuit,13,dark,40,100
+20,1,Hyper Fang,14,normal,80,90
+20,2,Hyper Fang,14,normal,80,90
+20,8,Hyper Fang,16,normal,80,90
+20,9,Hyper Fang,16,normal,80,90
+20,10,Hyper Fang,16,normal,80,90
+20,11,Hyper Fang,16,normal,80,90
+20,14,Hyper Fang,16,normal,80,90
+20,15,Hyper Fang,16,normal,80,90
+20,16,Hyper Fang,16,normal,80,90
+20,8,Sucker Punch,19,dark,80,100
+20,9,Sucker Punch,19,dark,80,100
+20,10,Sucker Punch,19,dark,80,100
+20,11,Sucker Punch,19,dark,80,100
+20,14,Sucker Punch,19,dark,80,100
+20,15,Sucker Punch,19,dark,80,100
+20,16,Sucker Punch,19,dark,80,100
+20,3,Scary Face,20,normal,-,100
+20,4,Scary Face,20,normal,-,100
+20,5,Scary Face,20,normal,-,100
+20,6,Scary Face,20,normal,-,100
+20,7,Scary Face,20,normal,-,100
+20,8,Scary Face,20,normal,-,100
+20,9,Scary Face,20,normal,-,100
+20,10,Scary Face,20,normal,-,100
+20,11,Scary Face,20,normal,-,100
+20,12,Scary Face,20,normal,-,100
+20,13,Scary Face,20,normal,-,100
+20,14,Scary Face,20,normal,-,100
+20,15,Scary Face,20,normal,-,100
+20,16,Scary Face,20,normal,-,100
+20,8,Crunch,24,dark,80,100
+20,9,Crunch,24,dark,80,100
+20,10,Crunch,24,dark,80,100
+20,11,Crunch,24,dark,80,100
+20,14,Crunch,24,dark,80,100
+20,15,Crunch,24,dark,80,100
+20,16,Crunch,24,dark,80,100
+20,1,Focus Energy,27,normal,-,-
+20,2,Focus Energy,27,normal,-,-
+20,8,Assurance,29,dark,60,100
+20,9,Assurance,29,dark,60,100
+20,10,Assurance,29,dark,60,100
+20,11,Assurance,29,dark,60,100
+20,14,Assurance,29,dark,60,100
+20,15,Assurance,29,dark,60,100
+20,16,Assurance,29,dark,60,100
+20,3,Pursuit,30,dark,40,100
+20,4,Pursuit,30,dark,40,100
+20,5,Pursuit,30,dark,40,100
+20,6,Pursuit,30,dark,40,100
+20,7,Pursuit,30,dark,40,100
+20,12,Pursuit,30,dark,40,100
+20,13,Pursuit,30,dark,40,100
+20,8,Super Fang,34,normal,-,90
+20,9,Super Fang,34,normal,-,90
+20,10,Super Fang,34,normal,-,90
+20,11,Super Fang,34,normal,-,90
+20,14,Super Fang,34,normal,-,90
+20,15,Super Fang,34,normal,-,90
+20,16,Super Fang,34,normal,-,90
+20,8,Double-Edge,39,normal,120,100
+20,9,Double-Edge,39,normal,120,100
+20,10,Double-Edge,39,normal,120,100
+20,11,Double-Edge,39,normal,120,100
+20,14,Double-Edge,39,normal,120,100
+20,15,Double-Edge,39,normal,120,100
+20,16,Double-Edge,39,normal,120,100
+20,3,Super Fang,40,normal,-,90
+20,4,Super Fang,40,normal,-,90
+20,5,Super Fang,40,normal,-,90
+20,6,Super Fang,40,normal,-,90
+20,7,Super Fang,40,normal,-,90
+20,12,Super Fang,40,normal,-,90
+20,13,Super Fang,40,normal,-,90
+20,1,Super Fang,41,normal,-,90
+20,2,Super Fang,41,normal,-,90
+20,8,Endeavor,44,normal,-,100
+20,9,Endeavor,44,normal,-,100
+20,10,Endeavor,44,normal,-,100
+20,11,Endeavor,44,normal,-,100
+20,14,Endeavor,44,normal,-,100
+20,15,Endeavor,44,normal,-,100
+20,16,Endeavor,44,normal,-,100
+20,5,Endeavor,50,normal,-,100
+20,6,Endeavor,50,normal,-,100
+20,7,Endeavor,50,normal,-,100
+20,12,Endeavor,50,normal,-,100
+20,13,Endeavor,50,normal,-,100

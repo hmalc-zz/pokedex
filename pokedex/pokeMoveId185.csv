@@ -1,185 +1,185 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-185,sudowoodo,3,21,Slam,1,46,
-185,sudowoodo,3,67,Low Kick,1,19,
-185,sudowoodo,3,88,Rock Throw,1,1,1
-185,sudowoodo,3,102,Mimic,1,1,2
-185,sudowoodo,3,157,Rock Slide,1,28,
-185,sudowoodo,3,175,Flail,1,10,
-185,sudowoodo,3,185,Feint Attack,1,37,
-185,sudowoodo,4,21,Slam,1,46,
-185,sudowoodo,4,67,Low Kick,1,19,
-185,sudowoodo,4,88,Rock Throw,1,1,1
-185,sudowoodo,4,102,Mimic,1,1,2
-185,sudowoodo,4,157,Rock Slide,1,28,
-185,sudowoodo,4,175,Flail,1,10,
-185,sudowoodo,4,185,Feint Attack,1,37,
-185,sudowoodo,5,21,Slam,1,49,
-185,sudowoodo,5,38,Double-Edge,1,57,
-185,sudowoodo,5,67,Low Kick,1,17,
-185,sudowoodo,5,88,Rock Throw,1,1,1
-185,sudowoodo,5,102,Mimic,1,1,2
-185,sudowoodo,5,157,Rock Slide,1,25,
-185,sudowoodo,5,175,Flail,1,9,
-185,sudowoodo,5,185,Feint Attack,1,41,
-185,sudowoodo,5,335,Block,1,33,
-185,sudowoodo,6,21,Slam,1,49,
-185,sudowoodo,6,38,Double-Edge,1,57,
-185,sudowoodo,6,67,Low Kick,1,17,
-185,sudowoodo,6,88,Rock Throw,1,1,1
-185,sudowoodo,6,102,Mimic,1,1,2
-185,sudowoodo,6,157,Rock Slide,1,25,
-185,sudowoodo,6,175,Flail,1,9,
-185,sudowoodo,6,185,Feint Attack,1,41,
-185,sudowoodo,6,335,Block,1,33,
-185,sudowoodo,7,21,Slam,1,49,
-185,sudowoodo,7,38,Double-Edge,1,57,
-185,sudowoodo,7,67,Low Kick,1,17,
-185,sudowoodo,7,88,Rock Throw,1,1,1
-185,sudowoodo,7,102,Mimic,1,1,2
-185,sudowoodo,7,157,Rock Slide,1,25,
-185,sudowoodo,7,175,Flail,1,9,
-185,sudowoodo,7,185,Feint Attack,1,41,
-185,sudowoodo,7,335,Block,1,33,
-185,sudowoodo,8,21,Slam,1,38,
-185,sudowoodo,8,38,Double-Edge,1,46,
-185,sudowoodo,8,67,Low Kick,1,1,4
-185,sudowoodo,8,67,Low Kick,1,9,
-185,sudowoodo,8,88,Rock Throw,1,1,5
-185,sudowoodo,8,88,Rock Throw,1,14,
-185,sudowoodo,8,102,Mimic,1,17,
-185,sudowoodo,8,157,Rock Slide,1,33,
-185,sudowoodo,8,175,Flail,1,1,3
-185,sudowoodo,8,175,Flail,1,6,
-185,sudowoodo,8,185,Feint Attack,1,25,
-185,sudowoodo,8,317,Rock Tomb,1,30,
-185,sudowoodo,8,335,Block,1,22,
-185,sudowoodo,8,359,Hammer Arm,1,49,
-185,sudowoodo,8,383,Copycat,1,1,2
-185,sudowoodo,8,389,Sucker Punch,1,41,
-185,sudowoodo,8,452,Wood Hammer,1,1,1
-185,sudowoodo,9,21,Slam,1,38,
-185,sudowoodo,9,38,Double-Edge,1,46,
-185,sudowoodo,9,67,Low Kick,1,1,4
-185,sudowoodo,9,67,Low Kick,1,9,
-185,sudowoodo,9,88,Rock Throw,1,1,5
-185,sudowoodo,9,88,Rock Throw,1,14,
-185,sudowoodo,9,102,Mimic,1,17,
-185,sudowoodo,9,157,Rock Slide,1,33,
-185,sudowoodo,9,175,Flail,1,1,3
-185,sudowoodo,9,175,Flail,1,6,
-185,sudowoodo,9,185,Feint Attack,1,25,
-185,sudowoodo,9,317,Rock Tomb,1,30,
-185,sudowoodo,9,335,Block,1,22,
-185,sudowoodo,9,359,Hammer Arm,1,49,
-185,sudowoodo,9,383,Copycat,1,1,2
-185,sudowoodo,9,389,Sucker Punch,1,41,
-185,sudowoodo,9,452,Wood Hammer,1,1,1
-185,sudowoodo,10,21,Slam,1,38,
-185,sudowoodo,10,38,Double-Edge,1,46,
-185,sudowoodo,10,67,Low Kick,1,1,4
-185,sudowoodo,10,67,Low Kick,1,9,
-185,sudowoodo,10,88,Rock Throw,1,1,5
-185,sudowoodo,10,88,Rock Throw,1,14,
-185,sudowoodo,10,102,Mimic,1,17,
-185,sudowoodo,10,157,Rock Slide,1,33,
-185,sudowoodo,10,175,Flail,1,1,3
-185,sudowoodo,10,175,Flail,1,6,
-185,sudowoodo,10,185,Feint Attack,1,25,
-185,sudowoodo,10,317,Rock Tomb,1,30,
-185,sudowoodo,10,335,Block,1,22,
-185,sudowoodo,10,359,Hammer Arm,1,49,
-185,sudowoodo,10,383,Copycat,1,1,2
-185,sudowoodo,10,389,Sucker Punch,1,41,
-185,sudowoodo,10,452,Wood Hammer,1,1,1
-185,sudowoodo,11,21,Slam,1,38,
-185,sudowoodo,11,38,Double-Edge,1,46,
-185,sudowoodo,11,67,Low Kick,1,1,4
-185,sudowoodo,11,67,Low Kick,1,9,
-185,sudowoodo,11,88,Rock Throw,1,1,5
-185,sudowoodo,11,88,Rock Throw,1,14,
-185,sudowoodo,11,102,Mimic,1,17,
-185,sudowoodo,11,157,Rock Slide,1,33,
-185,sudowoodo,11,175,Flail,1,1,3
-185,sudowoodo,11,175,Flail,1,6,
-185,sudowoodo,11,185,Feint Attack,1,25,
-185,sudowoodo,11,317,Rock Tomb,1,30,
-185,sudowoodo,11,335,Block,1,22,
-185,sudowoodo,11,359,Hammer Arm,1,49,
-185,sudowoodo,11,383,Copycat,1,1,2
-185,sudowoodo,11,389,Sucker Punch,1,41,
-185,sudowoodo,11,452,Wood Hammer,1,1,1
-185,sudowoodo,12,21,Slam,1,49,
-185,sudowoodo,12,38,Double-Edge,1,57,
-185,sudowoodo,12,67,Low Kick,1,17,
-185,sudowoodo,12,88,Rock Throw,1,1,1
-185,sudowoodo,12,102,Mimic,1,1,2
-185,sudowoodo,12,157,Rock Slide,1,25,
-185,sudowoodo,12,175,Flail,1,9,
-185,sudowoodo,12,185,Feint Attack,1,41,
-185,sudowoodo,12,335,Block,1,33,
-185,sudowoodo,13,21,Slam,1,49,
-185,sudowoodo,13,38,Double-Edge,1,57,
-185,sudowoodo,13,67,Low Kick,1,17,
-185,sudowoodo,13,88,Rock Throw,1,1,1
-185,sudowoodo,13,102,Mimic,1,1,2
-185,sudowoodo,13,157,Rock Slide,1,25,
-185,sudowoodo,13,175,Flail,1,9,
-185,sudowoodo,13,185,Feint Attack,1,41,
-185,sudowoodo,13,335,Block,1,33,
-185,sudowoodo,14,21,Slam,1,15,2
-185,sudowoodo,14,38,Double-Edge,1,40,
-185,sudowoodo,14,67,Low Kick,1,1,4
-185,sudowoodo,14,67,Low Kick,1,8,
-185,sudowoodo,14,68,Counter,1,33,
-185,sudowoodo,14,88,Rock Throw,1,1,5
-185,sudowoodo,14,88,Rock Throw,1,12,
-185,sudowoodo,14,102,Mimic,1,15,1
-185,sudowoodo,14,157,Rock Slide,1,29,
-185,sudowoodo,14,175,Flail,1,1,3
-185,sudowoodo,14,175,Flail,1,5,
-185,sudowoodo,14,185,Feint Attack,1,19,
-185,sudowoodo,14,317,Rock Tomb,1,22,
-185,sudowoodo,14,335,Block,1,26,
-185,sudowoodo,14,359,Hammer Arm,1,47,
-185,sudowoodo,14,383,Copycat,1,1,2
-185,sudowoodo,14,389,Sucker Punch,1,36,
-185,sudowoodo,14,444,Stone Edge,1,43,
-185,sudowoodo,14,452,Wood Hammer,1,1,1
-185,sudowoodo,15,21,Slam,1,15,2
-185,sudowoodo,15,38,Double-Edge,1,40,
-185,sudowoodo,15,67,Low Kick,1,1,4
-185,sudowoodo,15,67,Low Kick,1,8,
-185,sudowoodo,15,68,Counter,1,33,
-185,sudowoodo,15,88,Rock Throw,1,1,5
-185,sudowoodo,15,88,Rock Throw,1,12,
-185,sudowoodo,15,102,Mimic,1,15,1
-185,sudowoodo,15,157,Rock Slide,1,29,
-185,sudowoodo,15,175,Flail,1,1,3
-185,sudowoodo,15,175,Flail,1,5,
-185,sudowoodo,15,185,Feint Attack,1,19,
-185,sudowoodo,15,317,Rock Tomb,1,22,
-185,sudowoodo,15,335,Block,1,26,
-185,sudowoodo,15,359,Hammer Arm,1,47,
-185,sudowoodo,15,383,Copycat,1,1,2
-185,sudowoodo,15,389,Sucker Punch,1,36,
-185,sudowoodo,15,444,Stone Edge,1,43,
-185,sudowoodo,15,452,Wood Hammer,1,1,1
-185,sudowoodo,16,21,Slam,1,15,2
-185,sudowoodo,16,38,Double-Edge,1,40,1
-185,sudowoodo,16,67,Low Kick,1,1,4
-185,sudowoodo,16,67,Low Kick,1,8,1
-185,sudowoodo,16,68,Counter,1,33,1
-185,sudowoodo,16,88,Rock Throw,1,1,5
-185,sudowoodo,16,88,Rock Throw,1,12,1
-185,sudowoodo,16,102,Mimic,1,15,1
-185,sudowoodo,16,157,Rock Slide,1,29,1
-185,sudowoodo,16,175,Flail,1,1,3
-185,sudowoodo,16,175,Flail,1,5,1
-185,sudowoodo,16,185,Feint Attack,1,19,1
-185,sudowoodo,16,317,Rock Tomb,1,22,1
-185,sudowoodo,16,335,Block,1,26,1
-185,sudowoodo,16,359,Hammer Arm,1,47,1
-185,sudowoodo,16,383,Copycat,1,1,2
-185,sudowoodo,16,389,Sucker Punch,1,36,1
-185,sudowoodo,16,444,Stone Edge,1,43,1
-185,sudowoodo,16,452,Wood Hammer,1,1,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+185,3,Rock Throw,1,rock,50,90
+185,3,Mimic,1,normal,-,-
+185,4,Rock Throw,1,rock,50,90
+185,4,Mimic,1,normal,-,-
+185,5,Rock Throw,1,rock,50,90
+185,5,Mimic,1,normal,-,-
+185,6,Rock Throw,1,rock,50,90
+185,6,Mimic,1,normal,-,-
+185,7,Rock Throw,1,rock,50,90
+185,7,Mimic,1,normal,-,-
+185,8,Low Kick,1,fighting,-,100
+185,8,Rock Throw,1,rock,50,90
+185,8,Flail,1,normal,-,100
+185,8,Copycat,1,normal,-,-
+185,8,Wood Hammer,1,grass,120,100
+185,9,Low Kick,1,fighting,-,100
+185,9,Rock Throw,1,rock,50,90
+185,9,Flail,1,normal,-,100
+185,9,Copycat,1,normal,-,-
+185,9,Wood Hammer,1,grass,120,100
+185,10,Low Kick,1,fighting,-,100
+185,10,Rock Throw,1,rock,50,90
+185,10,Flail,1,normal,-,100
+185,10,Copycat,1,normal,-,-
+185,10,Wood Hammer,1,grass,120,100
+185,11,Low Kick,1,fighting,-,100
+185,11,Rock Throw,1,rock,50,90
+185,11,Flail,1,normal,-,100
+185,11,Copycat,1,normal,-,-
+185,11,Wood Hammer,1,grass,120,100
+185,12,Rock Throw,1,rock,50,90
+185,12,Mimic,1,normal,-,-
+185,13,Rock Throw,1,rock,50,90
+185,13,Mimic,1,normal,-,-
+185,14,Low Kick,1,fighting,-,100
+185,14,Rock Throw,1,rock,50,90
+185,14,Flail,1,normal,-,100
+185,14,Copycat,1,normal,-,-
+185,14,Wood Hammer,1,grass,120,100
+185,15,Low Kick,1,fighting,-,100
+185,15,Rock Throw,1,rock,50,90
+185,15,Flail,1,normal,-,100
+185,15,Copycat,1,normal,-,-
+185,15,Wood Hammer,1,grass,120,100
+185,16,Low Kick,1,fighting,-,100
+185,16,Rock Throw,1,rock,50,90
+185,16,Flail,1,normal,-,100
+185,16,Copycat,1,normal,-,-
+185,16,Wood Hammer,1,grass,120,100
+185,14,Flail,5,normal,-,100
+185,15,Flail,5,normal,-,100
+185,16,Flail,5,normal,-,100
+185,8,Flail,6,normal,-,100
+185,9,Flail,6,normal,-,100
+185,10,Flail,6,normal,-,100
+185,11,Flail,6,normal,-,100
+185,14,Low Kick,8,fighting,-,100
+185,15,Low Kick,8,fighting,-,100
+185,16,Low Kick,8,fighting,-,100
+185,5,Flail,9,normal,-,100
+185,6,Flail,9,normal,-,100
+185,7,Flail,9,normal,-,100
+185,8,Low Kick,9,fighting,-,100
+185,9,Low Kick,9,fighting,-,100
+185,10,Low Kick,9,fighting,-,100
+185,11,Low Kick,9,fighting,-,100
+185,12,Flail,9,normal,-,100
+185,13,Flail,9,normal,-,100
+185,3,Flail,10,normal,-,100
+185,4,Flail,10,normal,-,100
+185,14,Rock Throw,12,rock,50,90
+185,15,Rock Throw,12,rock,50,90
+185,16,Rock Throw,12,rock,50,90
+185,8,Rock Throw,14,rock,50,90
+185,9,Rock Throw,14,rock,50,90
+185,10,Rock Throw,14,rock,50,90
+185,11,Rock Throw,14,rock,50,90
+185,14,Slam,15,normal,80,75
+185,14,Mimic,15,normal,-,-
+185,15,Slam,15,normal,80,75
+185,15,Mimic,15,normal,-,-
+185,16,Slam,15,normal,80,75
+185,16,Mimic,15,normal,-,-
+185,5,Low Kick,17,fighting,-,100
+185,6,Low Kick,17,fighting,-,100
+185,7,Low Kick,17,fighting,-,100
+185,8,Mimic,17,normal,-,-
+185,9,Mimic,17,normal,-,-
+185,10,Mimic,17,normal,-,-
+185,11,Mimic,17,normal,-,-
+185,12,Low Kick,17,fighting,-,100
+185,13,Low Kick,17,fighting,-,100
+185,3,Low Kick,19,fighting,-,100
+185,4,Low Kick,19,fighting,-,100
+185,14,Feint Attack,19,dark,60,-
+185,15,Feint Attack,19,dark,60,-
+185,16,Feint Attack,19,dark,60,-
+185,8,Block,22,normal,-,-
+185,9,Block,22,normal,-,-
+185,10,Block,22,normal,-,-
+185,11,Block,22,normal,-,-
+185,14,Rock Tomb,22,rock,60,95
+185,15,Rock Tomb,22,rock,60,95
+185,16,Rock Tomb,22,rock,60,95
+185,5,Rock Slide,25,rock,75,90
+185,6,Rock Slide,25,rock,75,90
+185,7,Rock Slide,25,rock,75,90
+185,8,Feint Attack,25,dark,60,-
+185,9,Feint Attack,25,dark,60,-
+185,10,Feint Attack,25,dark,60,-
+185,11,Feint Attack,25,dark,60,-
+185,12,Rock Slide,25,rock,75,90
+185,13,Rock Slide,25,rock,75,90
+185,14,Block,26,normal,-,-
+185,15,Block,26,normal,-,-
+185,16,Block,26,normal,-,-
+185,3,Rock Slide,28,rock,75,90
+185,4,Rock Slide,28,rock,75,90
+185,14,Rock Slide,29,rock,75,90
+185,15,Rock Slide,29,rock,75,90
+185,16,Rock Slide,29,rock,75,90
+185,8,Rock Tomb,30,rock,60,95
+185,9,Rock Tomb,30,rock,60,95
+185,10,Rock Tomb,30,rock,60,95
+185,11,Rock Tomb,30,rock,60,95
+185,5,Block,33,normal,-,-
+185,6,Block,33,normal,-,-
+185,7,Block,33,normal,-,-
+185,8,Rock Slide,33,rock,75,90
+185,9,Rock Slide,33,rock,75,90
+185,10,Rock Slide,33,rock,75,90
+185,11,Rock Slide,33,rock,75,90
+185,12,Block,33,normal,-,-
+185,13,Block,33,normal,-,-
+185,14,Counter,33,fighting,-,100
+185,15,Counter,33,fighting,-,100
+185,16,Counter,33,fighting,-,100
+185,14,Sucker Punch,36,dark,80,100
+185,15,Sucker Punch,36,dark,80,100
+185,16,Sucker Punch,36,dark,80,100
+185,3,Feint Attack,37,dark,60,-
+185,4,Feint Attack,37,dark,60,-
+185,8,Slam,38,normal,80,75
+185,9,Slam,38,normal,80,75
+185,10,Slam,38,normal,80,75
+185,11,Slam,38,normal,80,75
+185,14,Double-Edge,40,normal,120,100
+185,15,Double-Edge,40,normal,120,100
+185,16,Double-Edge,40,normal,120,100
+185,5,Feint Attack,41,dark,60,-
+185,6,Feint Attack,41,dark,60,-
+185,7,Feint Attack,41,dark,60,-
+185,8,Sucker Punch,41,dark,80,100
+185,9,Sucker Punch,41,dark,80,100
+185,10,Sucker Punch,41,dark,80,100
+185,11,Sucker Punch,41,dark,80,100
+185,12,Feint Attack,41,dark,60,-
+185,13,Feint Attack,41,dark,60,-
+185,14,Stone Edge,43,rock,100,80
+185,15,Stone Edge,43,rock,100,80
+185,16,Stone Edge,43,rock,100,80
+185,3,Slam,46,normal,80,75
+185,4,Slam,46,normal,80,75
+185,8,Double-Edge,46,normal,120,100
+185,9,Double-Edge,46,normal,120,100
+185,10,Double-Edge,46,normal,120,100
+185,11,Double-Edge,46,normal,120,100
+185,14,Hammer Arm,47,fighting,100,90
+185,15,Hammer Arm,47,fighting,100,90
+185,16,Hammer Arm,47,fighting,100,90
+185,5,Slam,49,normal,80,75
+185,6,Slam,49,normal,80,75
+185,7,Slam,49,normal,80,75
+185,8,Hammer Arm,49,fighting,100,90
+185,9,Hammer Arm,49,fighting,100,90
+185,10,Hammer Arm,49,fighting,100,90
+185,11,Hammer Arm,49,fighting,100,90
+185,12,Slam,49,normal,80,75
+185,13,Slam,49,normal,80,75
+185,5,Double-Edge,57,normal,120,100
+185,6,Double-Edge,57,normal,120,100
+185,7,Double-Edge,57,normal,120,100
+185,12,Double-Edge,57,normal,120,100
+185,13,Double-Edge,57,normal,120,100

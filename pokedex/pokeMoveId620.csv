@@ -1,81 +1,81 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-620,mienshao,11,1,Pound,1,1,1
-620,mienshao,11,3,Double Slap,1,17,
-620,mienshao,11,26,Jump Kick,1,37,
-620,mienshao,11,96,Meditate,1,1,2
-620,mienshao,11,96,Meditate,1,5,
-620,mienshao,11,129,Swift,1,21,
-620,mienshao,11,136,High Jump Kick,1,56,
-620,mienshao,11,179,Reversal,1,63,
-620,mienshao,11,197,Detect,1,1,3
-620,mienshao,11,197,Detect,1,9,
-620,mienshao,11,252,Fake Out,1,1,4
-620,mienshao,11,252,Fake Out,1,13,
-620,mienshao,11,340,Bounce,1,49,
-620,mienshao,11,347,Calm Mind,1,25,
-620,mienshao,11,369,U-turn,1,41,
-620,mienshao,11,395,Force Palm,1,29,
-620,mienshao,11,396,Aura Sphere,1,70,
-620,mienshao,11,409,Drain Punch,1,33,
-620,mienshao,11,469,Wide Guard,1,45,
-620,mienshao,14,1,Pound,1,1,1
-620,mienshao,14,3,Double Slap,1,17,
-620,mienshao,14,26,Jump Kick,1,37,
-620,mienshao,14,96,Meditate,1,1,2
-620,mienshao,14,96,Meditate,1,5,
-620,mienshao,14,129,Swift,1,21,
-620,mienshao,14,136,High Jump Kick,1,56,
-620,mienshao,14,179,Reversal,1,63,
-620,mienshao,14,197,Detect,1,1,3
-620,mienshao,14,197,Detect,1,9,
-620,mienshao,14,252,Fake Out,1,1,4
-620,mienshao,14,252,Fake Out,1,13,
-620,mienshao,14,340,Bounce,1,49,
-620,mienshao,14,347,Calm Mind,1,25,
-620,mienshao,14,369,U-turn,1,41,
-620,mienshao,14,395,Force Palm,1,29,
-620,mienshao,14,396,Aura Sphere,1,70,
-620,mienshao,14,409,Drain Punch,1,33,
-620,mienshao,14,469,Wide Guard,1,45,
-620,mienshao,15,1,Pound,1,1,3
-620,mienshao,15,3,Double Slap,1,17,
-620,mienshao,15,26,Jump Kick,1,37,
-620,mienshao,15,96,Meditate,1,1,4
-620,mienshao,15,96,Meditate,1,5,
-620,mienshao,15,129,Swift,1,21,
-620,mienshao,15,136,High Jump Kick,1,56,
-620,mienshao,15,179,Reversal,1,1,2
-620,mienshao,15,179,Reversal,1,63,
-620,mienshao,15,197,Detect,1,1,5
-620,mienshao,15,197,Detect,1,9,
-620,mienshao,15,252,Fake Out,1,1,6
-620,mienshao,15,252,Fake Out,1,13,
-620,mienshao,15,340,Bounce,1,49,
-620,mienshao,15,347,Calm Mind,1,25,
-620,mienshao,15,369,U-turn,1,41,
-620,mienshao,15,395,Force Palm,1,29,
-620,mienshao,15,396,Aura Sphere,1,1,1
-620,mienshao,15,396,Aura Sphere,1,70,
-620,mienshao,15,409,Drain Punch,1,33,
-620,mienshao,15,469,Wide Guard,1,45,
-620,mienshao,16,1,Pound,1,1,3
-620,mienshao,16,3,Double Slap,1,17,1
-620,mienshao,16,26,Jump Kick,1,37,1
-620,mienshao,16,96,Meditate,1,1,4
-620,mienshao,16,96,Meditate,1,5,1
-620,mienshao,16,129,Swift,1,21,1
-620,mienshao,16,136,High Jump Kick,1,56,1
-620,mienshao,16,179,Reversal,1,1,2
-620,mienshao,16,179,Reversal,1,63,1
-620,mienshao,16,197,Detect,1,1,5
-620,mienshao,16,197,Detect,1,9,1
-620,mienshao,16,252,Fake Out,1,1,6
-620,mienshao,16,252,Fake Out,1,13,1
-620,mienshao,16,340,Bounce,1,49,1
-620,mienshao,16,347,Calm Mind,1,25,1
-620,mienshao,16,369,U-turn,1,41,1
-620,mienshao,16,395,Force Palm,1,29,1
-620,mienshao,16,396,Aura Sphere,1,1,1
-620,mienshao,16,396,Aura Sphere,1,70,1
-620,mienshao,16,409,Drain Punch,1,33,1
-620,mienshao,16,469,Wide Guard,1,45,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+620,11,Pound,1,normal,40,100
+620,11,Meditate,1,psychic,-,-
+620,11,Detect,1,fighting,-,-
+620,11,Fake Out,1,normal,40,100
+620,14,Pound,1,normal,40,100
+620,14,Meditate,1,psychic,-,-
+620,14,Detect,1,fighting,-,-
+620,14,Fake Out,1,normal,40,100
+620,15,Pound,1,normal,40,100
+620,15,Meditate,1,psychic,-,-
+620,15,Reversal,1,fighting,-,100
+620,15,Detect,1,fighting,-,-
+620,15,Fake Out,1,normal,40,100
+620,15,Aura Sphere,1,fighting,80,-
+620,16,Pound,1,normal,40,100
+620,16,Meditate,1,psychic,-,-
+620,16,Reversal,1,fighting,-,100
+620,16,Detect,1,fighting,-,-
+620,16,Fake Out,1,normal,40,100
+620,16,Aura Sphere,1,fighting,80,-
+620,11,Meditate,5,psychic,-,-
+620,14,Meditate,5,psychic,-,-
+620,15,Meditate,5,psychic,-,-
+620,16,Meditate,5,psychic,-,-
+620,11,Detect,9,fighting,-,-
+620,14,Detect,9,fighting,-,-
+620,15,Detect,9,fighting,-,-
+620,16,Detect,9,fighting,-,-
+620,11,Fake Out,13,normal,40,100
+620,14,Fake Out,13,normal,40,100
+620,15,Fake Out,13,normal,40,100
+620,16,Fake Out,13,normal,40,100
+620,11,Double Slap,17,normal,15,85
+620,14,Double Slap,17,normal,15,85
+620,15,Double Slap,17,normal,15,85
+620,16,Double Slap,17,normal,15,85
+620,11,Swift,21,normal,60,-
+620,14,Swift,21,normal,60,-
+620,15,Swift,21,normal,60,-
+620,16,Swift,21,normal,60,-
+620,11,Calm Mind,25,psychic,-,-
+620,14,Calm Mind,25,psychic,-,-
+620,15,Calm Mind,25,psychic,-,-
+620,16,Calm Mind,25,psychic,-,-
+620,11,Force Palm,29,fighting,60,100
+620,14,Force Palm,29,fighting,60,100
+620,15,Force Palm,29,fighting,60,100
+620,16,Force Palm,29,fighting,60,100
+620,11,Drain Punch,33,fighting,75,100
+620,14,Drain Punch,33,fighting,75,100
+620,15,Drain Punch,33,fighting,75,100
+620,16,Drain Punch,33,fighting,75,100
+620,11,Jump Kick,37,fighting,100,95
+620,14,Jump Kick,37,fighting,100,95
+620,15,Jump Kick,37,fighting,100,95
+620,16,Jump Kick,37,fighting,100,95
+620,11,U-turn,41,bug,70,100
+620,14,U-turn,41,bug,70,100
+620,15,U-turn,41,bug,70,100
+620,16,U-turn,41,bug,70,100
+620,11,Wide Guard,45,rock,-,-
+620,14,Wide Guard,45,rock,-,-
+620,15,Wide Guard,45,rock,-,-
+620,16,Wide Guard,45,rock,-,-
+620,11,Bounce,49,flying,85,85
+620,14,Bounce,49,flying,85,85
+620,15,Bounce,49,flying,85,85
+620,16,Bounce,49,flying,85,85
+620,11,High Jump Kick,56,fighting,130,90
+620,14,High Jump Kick,56,fighting,130,90
+620,15,High Jump Kick,56,fighting,130,90
+620,16,High Jump Kick,56,fighting,130,90
+620,11,Reversal,63,fighting,-,100
+620,14,Reversal,63,fighting,-,100
+620,15,Reversal,63,fighting,-,100
+620,16,Reversal,63,fighting,-,100
+620,11,Aura Sphere,70,fighting,80,-
+620,14,Aura Sphere,70,fighting,80,-
+620,15,Aura Sphere,70,fighting,80,-
+620,16,Aura Sphere,70,fighting,80,-

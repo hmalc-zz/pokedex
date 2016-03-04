@@ -1,172 +1,172 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-158,totodile,3,10,Scratch,1,1,1
-158,totodile,3,43,Leer,1,1,2
-158,totodile,3,44,Bite,1,20,
-158,totodile,3,55,Water Gun,1,13,
-158,totodile,3,56,Hydro Pump,1,52,
-158,totodile,3,99,Rage,1,7,
-158,totodile,3,103,Screech,1,43,
-158,totodile,3,163,Slash,1,35,
-158,totodile,3,184,Scary Face,1,27,
-158,totodile,4,10,Scratch,1,1,1
-158,totodile,4,43,Leer,1,1,2
-158,totodile,4,44,Bite,1,20,
-158,totodile,4,55,Water Gun,1,13,
-158,totodile,4,56,Hydro Pump,1,52,
-158,totodile,4,99,Rage,1,7,
-158,totodile,4,103,Screech,1,43,
-158,totodile,4,163,Slash,1,35,
-158,totodile,4,184,Scary Face,1,27,
-158,totodile,5,10,Scratch,1,1,1
-158,totodile,5,43,Leer,1,1,2
-158,totodile,5,44,Bite,1,20,
-158,totodile,5,55,Water Gun,1,13,
-158,totodile,5,56,Hydro Pump,1,52,
-158,totodile,5,99,Rage,1,7,
-158,totodile,5,103,Screech,1,43,
-158,totodile,5,163,Slash,1,35,
-158,totodile,5,184,Scary Face,1,27,
-158,totodile,6,10,Scratch,1,1,1
-158,totodile,6,43,Leer,1,1,2
-158,totodile,6,44,Bite,1,20,
-158,totodile,6,55,Water Gun,1,13,
-158,totodile,6,56,Hydro Pump,1,52,
-158,totodile,6,99,Rage,1,7,
-158,totodile,6,103,Screech,1,43,
-158,totodile,6,163,Slash,1,35,
-158,totodile,6,184,Scary Face,1,27,
-158,totodile,7,10,Scratch,1,1,1
-158,totodile,7,43,Leer,1,1,2
-158,totodile,7,44,Bite,1,20,
-158,totodile,7,55,Water Gun,1,13,
-158,totodile,7,56,Hydro Pump,1,52,
-158,totodile,7,99,Rage,1,7,
-158,totodile,7,103,Screech,1,43,
-158,totodile,7,163,Slash,1,35,
-158,totodile,7,184,Scary Face,1,27,
-158,totodile,8,10,Scratch,1,1,1
-158,totodile,8,37,Thrash,1,22,
-158,totodile,8,43,Leer,1,1,2
-158,totodile,8,44,Bite,1,13,
-158,totodile,8,55,Water Gun,1,6,
-158,totodile,8,56,Hydro Pump,1,43,
-158,totodile,8,99,Rage,1,8,
-158,totodile,8,103,Screech,1,34,
-158,totodile,8,163,Slash,1,29,
-158,totodile,8,184,Scary Face,1,15,
-158,totodile,8,242,Crunch,1,27,
-158,totodile,8,276,Superpower,1,41,
-158,totodile,8,401,Aqua Tail,1,36,
-158,totodile,8,423,Ice Fang,1,20,
-158,totodile,9,10,Scratch,1,1,1
-158,totodile,9,37,Thrash,1,36,
-158,totodile,9,43,Leer,1,1,2
-158,totodile,9,44,Bite,1,13,
-158,totodile,9,55,Water Gun,1,6,
-158,totodile,9,56,Hydro Pump,1,48,
-158,totodile,9,99,Rage,1,8,
-158,totodile,9,103,Screech,1,34,
-158,totodile,9,163,Slash,1,29,
-158,totodile,9,175,Flail,1,22,
-158,totodile,9,184,Scary Face,1,15,
-158,totodile,9,242,Crunch,1,27,
-158,totodile,9,276,Superpower,1,43,
-158,totodile,9,401,Aqua Tail,1,41,
-158,totodile,9,423,Ice Fang,1,20,
-158,totodile,10,10,Scratch,1,1,1
-158,totodile,10,37,Thrash,1,36,
-158,totodile,10,43,Leer,1,1,2
-158,totodile,10,44,Bite,1,13,
-158,totodile,10,55,Water Gun,1,6,
-158,totodile,10,56,Hydro Pump,1,48,
-158,totodile,10,99,Rage,1,8,
-158,totodile,10,103,Screech,1,34,
-158,totodile,10,163,Slash,1,29,
-158,totodile,10,175,Flail,1,22,
-158,totodile,10,184,Scary Face,1,15,
-158,totodile,10,242,Crunch,1,27,
-158,totodile,10,276,Superpower,1,43,
-158,totodile,10,401,Aqua Tail,1,41,
-158,totodile,10,423,Ice Fang,1,20,
-158,totodile,11,10,Scratch,1,1,1
-158,totodile,11,37,Thrash,1,41,
-158,totodile,11,43,Leer,1,1,2
-158,totodile,11,44,Bite,1,13,
-158,totodile,11,55,Water Gun,1,6,
-158,totodile,11,56,Hydro Pump,1,50,
-158,totodile,11,99,Rage,1,8,
-158,totodile,11,103,Screech,1,36,
-158,totodile,11,163,Slash,1,34,
-158,totodile,11,175,Flail,1,22,
-158,totodile,11,184,Scary Face,1,15,
-158,totodile,11,242,Crunch,1,27,
-158,totodile,11,276,Superpower,1,48,
-158,totodile,11,401,Aqua Tail,1,43,
-158,totodile,11,423,Ice Fang,1,20,
-158,totodile,11,498,Chip Away,1,29,
-158,totodile,12,10,Scratch,1,1,1
-158,totodile,12,43,Leer,1,1,2
-158,totodile,12,44,Bite,1,20,
-158,totodile,12,55,Water Gun,1,13,
-158,totodile,12,56,Hydro Pump,1,52,
-158,totodile,12,99,Rage,1,7,
-158,totodile,12,103,Screech,1,43,
-158,totodile,12,163,Slash,1,35,
-158,totodile,12,184,Scary Face,1,27,
-158,totodile,13,10,Scratch,1,1,1
-158,totodile,13,43,Leer,1,1,2
-158,totodile,13,44,Bite,1,20,
-158,totodile,13,55,Water Gun,1,13,
-158,totodile,13,56,Hydro Pump,1,52,
-158,totodile,13,99,Rage,1,7,
-158,totodile,13,103,Screech,1,43,
-158,totodile,13,163,Slash,1,35,
-158,totodile,13,184,Scary Face,1,27,
-158,totodile,14,10,Scratch,1,1,1
-158,totodile,14,37,Thrash,1,41,
-158,totodile,14,43,Leer,1,1,2
-158,totodile,14,44,Bite,1,13,
-158,totodile,14,55,Water Gun,1,6,
-158,totodile,14,56,Hydro Pump,1,50,
-158,totodile,14,99,Rage,1,8,
-158,totodile,14,103,Screech,1,36,
-158,totodile,14,163,Slash,1,34,
-158,totodile,14,175,Flail,1,22,
-158,totodile,14,184,Scary Face,1,15,
-158,totodile,14,242,Crunch,1,27,
-158,totodile,14,276,Superpower,1,48,
-158,totodile,14,401,Aqua Tail,1,43,
-158,totodile,14,423,Ice Fang,1,20,
-158,totodile,14,498,Chip Away,1,29,
-158,totodile,15,10,Scratch,1,1,1
-158,totodile,15,37,Thrash,1,41,
-158,totodile,15,43,Leer,1,1,2
-158,totodile,15,44,Bite,1,13,
-158,totodile,15,55,Water Gun,1,6,
-158,totodile,15,56,Hydro Pump,1,50,
-158,totodile,15,99,Rage,1,8,
-158,totodile,15,103,Screech,1,36,
-158,totodile,15,163,Slash,1,34,
-158,totodile,15,175,Flail,1,22,
-158,totodile,15,184,Scary Face,1,15,
-158,totodile,15,242,Crunch,1,27,
-158,totodile,15,276,Superpower,1,48,
-158,totodile,15,401,Aqua Tail,1,43,
-158,totodile,15,423,Ice Fang,1,20,
-158,totodile,15,498,Chip Away,1,29,
-158,totodile,16,10,Scratch,1,1,1
-158,totodile,16,37,Thrash,1,41,1
-158,totodile,16,43,Leer,1,1,2
-158,totodile,16,44,Bite,1,13,1
-158,totodile,16,55,Water Gun,1,6,1
-158,totodile,16,56,Hydro Pump,1,50,1
-158,totodile,16,99,Rage,1,8,1
-158,totodile,16,103,Screech,1,36,1
-158,totodile,16,163,Slash,1,34,1
-158,totodile,16,175,Flail,1,22,1
-158,totodile,16,184,Scary Face,1,15,1
-158,totodile,16,242,Crunch,1,27,1
-158,totodile,16,276,Superpower,1,48,1
-158,totodile,16,401,Aqua Tail,1,43,1
-158,totodile,16,423,Ice Fang,1,20,1
-158,totodile,16,498,Chip Away,1,29,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+158,3,Scratch,1,normal,40,100
+158,3,Leer,1,normal,-,100
+158,4,Scratch,1,normal,40,100
+158,4,Leer,1,normal,-,100
+158,5,Scratch,1,normal,40,100
+158,5,Leer,1,normal,-,100
+158,6,Scratch,1,normal,40,100
+158,6,Leer,1,normal,-,100
+158,7,Scratch,1,normal,40,100
+158,7,Leer,1,normal,-,100
+158,8,Scratch,1,normal,40,100
+158,8,Leer,1,normal,-,100
+158,9,Scratch,1,normal,40,100
+158,9,Leer,1,normal,-,100
+158,10,Scratch,1,normal,40,100
+158,10,Leer,1,normal,-,100
+158,11,Scratch,1,normal,40,100
+158,11,Leer,1,normal,-,100
+158,12,Scratch,1,normal,40,100
+158,12,Leer,1,normal,-,100
+158,13,Scratch,1,normal,40,100
+158,13,Leer,1,normal,-,100
+158,14,Scratch,1,normal,40,100
+158,14,Leer,1,normal,-,100
+158,15,Scratch,1,normal,40,100
+158,15,Leer,1,normal,-,100
+158,16,Scratch,1,normal,40,100
+158,16,Leer,1,normal,-,100
+158,8,Water Gun,6,water,40,100
+158,9,Water Gun,6,water,40,100
+158,10,Water Gun,6,water,40,100
+158,11,Water Gun,6,water,40,100
+158,14,Water Gun,6,water,40,100
+158,15,Water Gun,6,water,40,100
+158,16,Water Gun,6,water,40,100
+158,3,Rage,7,normal,20,100
+158,4,Rage,7,normal,20,100
+158,5,Rage,7,normal,20,100
+158,6,Rage,7,normal,20,100
+158,7,Rage,7,normal,20,100
+158,12,Rage,7,normal,20,100
+158,13,Rage,7,normal,20,100
+158,8,Rage,8,normal,20,100
+158,9,Rage,8,normal,20,100
+158,10,Rage,8,normal,20,100
+158,11,Rage,8,normal,20,100
+158,14,Rage,8,normal,20,100
+158,15,Rage,8,normal,20,100
+158,16,Rage,8,normal,20,100
+158,3,Water Gun,13,water,40,100
+158,4,Water Gun,13,water,40,100
+158,5,Water Gun,13,water,40,100
+158,6,Water Gun,13,water,40,100
+158,7,Water Gun,13,water,40,100
+158,8,Bite,13,dark,60,100
+158,9,Bite,13,dark,60,100
+158,10,Bite,13,dark,60,100
+158,11,Bite,13,dark,60,100
+158,12,Water Gun,13,water,40,100
+158,13,Water Gun,13,water,40,100
+158,14,Bite,13,dark,60,100
+158,15,Bite,13,dark,60,100
+158,16,Bite,13,dark,60,100
+158,8,Scary Face,15,normal,-,100
+158,9,Scary Face,15,normal,-,100
+158,10,Scary Face,15,normal,-,100
+158,11,Scary Face,15,normal,-,100
+158,14,Scary Face,15,normal,-,100
+158,15,Scary Face,15,normal,-,100
+158,16,Scary Face,15,normal,-,100
+158,3,Bite,20,dark,60,100
+158,4,Bite,20,dark,60,100
+158,5,Bite,20,dark,60,100
+158,6,Bite,20,dark,60,100
+158,7,Bite,20,dark,60,100
+158,8,Ice Fang,20,ice,65,95
+158,9,Ice Fang,20,ice,65,95
+158,10,Ice Fang,20,ice,65,95
+158,11,Ice Fang,20,ice,65,95
+158,12,Bite,20,dark,60,100
+158,13,Bite,20,dark,60,100
+158,14,Ice Fang,20,ice,65,95
+158,15,Ice Fang,20,ice,65,95
+158,16,Ice Fang,20,ice,65,95
+158,8,Thrash,22,normal,120,100
+158,9,Flail,22,normal,-,100
+158,10,Flail,22,normal,-,100
+158,11,Flail,22,normal,-,100
+158,14,Flail,22,normal,-,100
+158,15,Flail,22,normal,-,100
+158,16,Flail,22,normal,-,100
+158,3,Scary Face,27,normal,-,100
+158,4,Scary Face,27,normal,-,100
+158,5,Scary Face,27,normal,-,100
+158,6,Scary Face,27,normal,-,100
+158,7,Scary Face,27,normal,-,100
+158,8,Crunch,27,dark,80,100
+158,9,Crunch,27,dark,80,100
+158,10,Crunch,27,dark,80,100
+158,11,Crunch,27,dark,80,100
+158,12,Scary Face,27,normal,-,100
+158,13,Scary Face,27,normal,-,100
+158,14,Crunch,27,dark,80,100
+158,15,Crunch,27,dark,80,100
+158,16,Crunch,27,dark,80,100
+158,8,Slash,29,normal,70,100
+158,9,Slash,29,normal,70,100
+158,10,Slash,29,normal,70,100
+158,11,Chip Away,29,normal,70,100
+158,14,Chip Away,29,normal,70,100
+158,15,Chip Away,29,normal,70,100
+158,16,Chip Away,29,normal,70,100
+158,8,Screech,34,normal,-,85
+158,9,Screech,34,normal,-,85
+158,10,Screech,34,normal,-,85
+158,11,Slash,34,normal,70,100
+158,14,Slash,34,normal,70,100
+158,15,Slash,34,normal,70,100
+158,16,Slash,34,normal,70,100
+158,3,Slash,35,normal,70,100
+158,4,Slash,35,normal,70,100
+158,5,Slash,35,normal,70,100
+158,6,Slash,35,normal,70,100
+158,7,Slash,35,normal,70,100
+158,12,Slash,35,normal,70,100
+158,13,Slash,35,normal,70,100
+158,8,Aqua Tail,36,water,90,90
+158,9,Thrash,36,normal,120,100
+158,10,Thrash,36,normal,120,100
+158,11,Screech,36,normal,-,85
+158,14,Screech,36,normal,-,85
+158,15,Screech,36,normal,-,85
+158,16,Screech,36,normal,-,85
+158,8,Superpower,41,fighting,120,100
+158,9,Aqua Tail,41,water,90,90
+158,10,Aqua Tail,41,water,90,90
+158,11,Thrash,41,normal,120,100
+158,14,Thrash,41,normal,120,100
+158,15,Thrash,41,normal,120,100
+158,16,Thrash,41,normal,120,100
+158,3,Screech,43,normal,-,85
+158,4,Screech,43,normal,-,85
+158,5,Screech,43,normal,-,85
+158,6,Screech,43,normal,-,85
+158,7,Screech,43,normal,-,85
+158,8,Hydro Pump,43,water,110,80
+158,9,Superpower,43,fighting,120,100
+158,10,Superpower,43,fighting,120,100
+158,11,Aqua Tail,43,water,90,90
+158,12,Screech,43,normal,-,85
+158,13,Screech,43,normal,-,85
+158,14,Aqua Tail,43,water,90,90
+158,15,Aqua Tail,43,water,90,90
+158,16,Aqua Tail,43,water,90,90
+158,9,Hydro Pump,48,water,110,80
+158,10,Hydro Pump,48,water,110,80
+158,11,Superpower,48,fighting,120,100
+158,14,Superpower,48,fighting,120,100
+158,15,Superpower,48,fighting,120,100
+158,16,Superpower,48,fighting,120,100
+158,11,Hydro Pump,50,water,110,80
+158,14,Hydro Pump,50,water,110,80
+158,15,Hydro Pump,50,water,110,80
+158,16,Hydro Pump,50,water,110,80
+158,3,Hydro Pump,52,water,110,80
+158,4,Hydro Pump,52,water,110,80
+158,5,Hydro Pump,52,water,110,80
+158,6,Hydro Pump,52,water,110,80
+158,7,Hydro Pump,52,water,110,80
+158,12,Hydro Pump,52,water,110,80
+158,13,Hydro Pump,52,water,110,80

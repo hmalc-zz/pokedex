@@ -1,41 +1,41 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-691,dragalge,15,33,Tackle,1,1,3
-691,dragalge,15,39,Tail Whip,1,9,
-691,dragalge,15,51,Acid,1,15,
-691,dragalge,15,55,Water Gun,1,1,5
-691,dragalge,15,56,Hydro Pump,1,42,
-691,dragalge,15,92,Toxic,1,32,
-691,dragalge,15,104,Double Team,1,28,
-691,dragalge,15,108,Smokescreen,1,1,4
-691,dragalge,15,145,Bubble,1,12,
-691,dragalge,15,185,Feint Attack,1,5,
-691,dragalge,15,188,Sludge Bomb,1,38,
-691,dragalge,15,239,Twister,1,1,2
-691,dragalge,15,239,Twister,1,67,
-691,dragalge,15,293,Camouflage,1,19,
-691,dragalge,15,342,Poison Tail,1,23,
-691,dragalge,15,352,Water Pulse,1,25,
-691,dragalge,15,401,Aqua Tail,1,35,
-691,dragalge,15,406,Dragon Pulse,1,53,
-691,dragalge,15,525,Dragon Tail,1,1,1
-691,dragalge,15,525,Dragon Tail,1,59,
-691,dragalge,16,33,Tackle,1,1,3
-691,dragalge,16,39,Tail Whip,1,9,1
-691,dragalge,16,51,Acid,1,15,1
-691,dragalge,16,55,Water Gun,1,1,5
-691,dragalge,16,56,Hydro Pump,1,42,1
-691,dragalge,16,92,Toxic,1,32,1
-691,dragalge,16,104,Double Team,1,28,1
-691,dragalge,16,108,Smokescreen,1,1,4
-691,dragalge,16,145,Bubble,1,12,1
-691,dragalge,16,185,Feint Attack,1,5,1
-691,dragalge,16,188,Sludge Bomb,1,38,1
-691,dragalge,16,239,Twister,1,1,2
-691,dragalge,16,239,Twister,1,67,1
-691,dragalge,16,293,Camouflage,1,19,1
-691,dragalge,16,342,Poison Tail,1,23,1
-691,dragalge,16,352,Water Pulse,1,25,1
-691,dragalge,16,401,Aqua Tail,1,35,1
-691,dragalge,16,406,Dragon Pulse,1,53,1
-691,dragalge,16,525,Dragon Tail,1,1,1
-691,dragalge,16,525,Dragon Tail,1,59,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+691,15,Tackle,1,normal,50,100
+691,15,Water Gun,1,water,40,100
+691,15,Smokescreen,1,normal,-,100
+691,15,Twister,1,dragon,40,100
+691,15,Dragon Tail,1,dragon,60,90
+691,16,Tackle,1,normal,50,100
+691,16,Water Gun,1,water,40,100
+691,16,Smokescreen,1,normal,-,100
+691,16,Twister,1,dragon,40,100
+691,16,Dragon Tail,1,dragon,60,90
+691,15,Feint Attack,5,dark,60,-
+691,16,Feint Attack,5,dark,60,-
+691,15,Tail Whip,9,normal,-,100
+691,16,Tail Whip,9,normal,-,100
+691,15,Bubble,12,water,40,100
+691,16,Bubble,12,water,40,100
+691,15,Acid,15,poison,40,100
+691,16,Acid,15,poison,40,100
+691,15,Camouflage,19,normal,-,-
+691,16,Camouflage,19,normal,-,-
+691,15,Poison Tail,23,poison,50,100
+691,16,Poison Tail,23,poison,50,100
+691,15,Water Pulse,25,water,60,100
+691,16,Water Pulse,25,water,60,100
+691,15,Double Team,28,normal,-,-
+691,16,Double Team,28,normal,-,-
+691,15,Toxic,32,poison,-,90
+691,16,Toxic,32,poison,-,90
+691,15,Aqua Tail,35,water,90,90
+691,16,Aqua Tail,35,water,90,90
+691,15,Sludge Bomb,38,poison,90,100
+691,16,Sludge Bomb,38,poison,90,100
+691,15,Hydro Pump,42,water,110,80
+691,16,Hydro Pump,42,water,110,80
+691,15,Dragon Pulse,53,dragon,85,100
+691,16,Dragon Pulse,53,dragon,85,100
+691,15,Dragon Tail,59,dragon,60,90
+691,16,Dragon Tail,59,dragon,60,90
+691,15,Twister,67,dragon,40,100
+691,16,Twister,67,dragon,40,100

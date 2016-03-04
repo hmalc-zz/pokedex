@@ -1,182 +1,182 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-259,marshtomp,5,33,Tackle,1,1,1
-259,marshtomp,5,36,Take Down,1,31,
-259,marshtomp,5,45,Growl,1,1,2
-259,marshtomp,5,55,Water Gun,1,1,4
-259,marshtomp,5,55,Water Gun,1,10,
-259,marshtomp,5,89,Earthquake,1,46,
-259,marshtomp,5,117,Bide,1,15,
-259,marshtomp,5,182,Protect,1,42,
-259,marshtomp,5,189,Mud-Slap,1,1,3
-259,marshtomp,5,189,Mud-Slap,1,6,
-259,marshtomp,5,193,Foresight,1,20,
-259,marshtomp,5,283,Endeavor,1,53,
-259,marshtomp,5,300,Mud Sport,1,25,
-259,marshtomp,5,330,Muddy Water,1,37,
-259,marshtomp,5,341,Mud Shot,1,16,
-259,marshtomp,6,33,Tackle,1,1,1
-259,marshtomp,6,36,Take Down,1,31,
-259,marshtomp,6,45,Growl,1,1,2
-259,marshtomp,6,55,Water Gun,1,1,4
-259,marshtomp,6,55,Water Gun,1,10,
-259,marshtomp,6,89,Earthquake,1,46,
-259,marshtomp,6,117,Bide,1,15,
-259,marshtomp,6,182,Protect,1,42,
-259,marshtomp,6,189,Mud-Slap,1,1,3
-259,marshtomp,6,189,Mud-Slap,1,6,
-259,marshtomp,6,193,Foresight,1,20,
-259,marshtomp,6,283,Endeavor,1,53,
-259,marshtomp,6,300,Mud Sport,1,25,
-259,marshtomp,6,330,Muddy Water,1,37,
-259,marshtomp,6,341,Mud Shot,1,16,
-259,marshtomp,7,33,Tackle,1,1,1
-259,marshtomp,7,36,Take Down,1,31,
-259,marshtomp,7,45,Growl,1,1,2
-259,marshtomp,7,55,Water Gun,1,1,4
-259,marshtomp,7,55,Water Gun,1,10,
-259,marshtomp,7,89,Earthquake,1,46,
-259,marshtomp,7,117,Bide,1,15,
-259,marshtomp,7,182,Protect,1,42,
-259,marshtomp,7,189,Mud-Slap,1,1,3
-259,marshtomp,7,189,Mud-Slap,1,6,
-259,marshtomp,7,193,Foresight,1,20,
-259,marshtomp,7,283,Endeavor,1,53,
-259,marshtomp,7,300,Mud Sport,1,25,
-259,marshtomp,7,330,Muddy Water,1,37,
-259,marshtomp,7,341,Mud Shot,1,16,
-259,marshtomp,8,33,Tackle,1,1,1
-259,marshtomp,8,36,Take Down,1,31,
-259,marshtomp,8,45,Growl,1,1,2
-259,marshtomp,8,55,Water Gun,1,1,4
-259,marshtomp,8,55,Water Gun,1,10,
-259,marshtomp,8,89,Earthquake,1,46,
-259,marshtomp,8,117,Bide,1,15,
-259,marshtomp,8,182,Protect,1,42,
-259,marshtomp,8,189,Mud-Slap,1,1,3
-259,marshtomp,8,189,Mud-Slap,1,6,
-259,marshtomp,8,193,Foresight,1,20,
-259,marshtomp,8,283,Endeavor,1,53,
-259,marshtomp,8,330,Muddy Water,1,37,
-259,marshtomp,8,341,Mud Shot,1,16,
-259,marshtomp,8,426,Mud Bomb,1,25,
-259,marshtomp,9,33,Tackle,1,1,1
-259,marshtomp,9,36,Take Down,1,31,
-259,marshtomp,9,45,Growl,1,1,2
-259,marshtomp,9,55,Water Gun,1,1,4
-259,marshtomp,9,55,Water Gun,1,10,
-259,marshtomp,9,89,Earthquake,1,46,
-259,marshtomp,9,117,Bide,1,15,
-259,marshtomp,9,182,Protect,1,42,
-259,marshtomp,9,189,Mud-Slap,1,1,3
-259,marshtomp,9,189,Mud-Slap,1,6,
-259,marshtomp,9,193,Foresight,1,20,
-259,marshtomp,9,283,Endeavor,1,53,
-259,marshtomp,9,330,Muddy Water,1,37,
-259,marshtomp,9,341,Mud Shot,1,16,
-259,marshtomp,9,426,Mud Bomb,1,25,
-259,marshtomp,10,33,Tackle,1,1,1
-259,marshtomp,10,36,Take Down,1,31,
-259,marshtomp,10,45,Growl,1,1,2
-259,marshtomp,10,55,Water Gun,1,1,4
-259,marshtomp,10,55,Water Gun,1,10,
-259,marshtomp,10,89,Earthquake,1,46,
-259,marshtomp,10,117,Bide,1,15,
-259,marshtomp,10,182,Protect,1,42,
-259,marshtomp,10,189,Mud-Slap,1,1,3
-259,marshtomp,10,189,Mud-Slap,1,6,
-259,marshtomp,10,193,Foresight,1,20,
-259,marshtomp,10,283,Endeavor,1,53,
-259,marshtomp,10,330,Muddy Water,1,37,
-259,marshtomp,10,341,Mud Shot,1,16,
-259,marshtomp,10,426,Mud Bomb,1,25,
-259,marshtomp,11,33,Tackle,1,1,1
-259,marshtomp,11,36,Take Down,1,31,
-259,marshtomp,11,45,Growl,1,1,2
-259,marshtomp,11,55,Water Gun,1,1,4
-259,marshtomp,11,55,Water Gun,1,10,
-259,marshtomp,11,89,Earthquake,1,46,
-259,marshtomp,11,117,Bide,1,15,
-259,marshtomp,11,182,Protect,1,42,
-259,marshtomp,11,189,Mud-Slap,1,1,3
-259,marshtomp,11,189,Mud-Slap,1,6,
-259,marshtomp,11,193,Foresight,1,20,
-259,marshtomp,11,283,Endeavor,1,53,
-259,marshtomp,11,330,Muddy Water,1,37,
-259,marshtomp,11,341,Mud Shot,1,16,
-259,marshtomp,11,426,Mud Bomb,1,25,
-259,marshtomp,12,33,Tackle,1,1,1
-259,marshtomp,12,36,Take Down,1,31,
-259,marshtomp,12,45,Growl,1,1,2
-259,marshtomp,12,55,Water Gun,1,1,4
-259,marshtomp,12,55,Water Gun,1,10,
-259,marshtomp,12,89,Earthquake,1,46,
-259,marshtomp,12,117,Bide,1,15,
-259,marshtomp,12,182,Protect,1,42,
-259,marshtomp,12,189,Mud-Slap,1,1,3
-259,marshtomp,12,189,Mud-Slap,1,6,
-259,marshtomp,12,193,Foresight,1,20,
-259,marshtomp,12,283,Endeavor,1,53,
-259,marshtomp,12,300,Mud Sport,1,25,
-259,marshtomp,12,330,Muddy Water,1,37,
-259,marshtomp,12,341,Mud Shot,1,16,
-259,marshtomp,13,33,Tackle,1,1,1
-259,marshtomp,13,36,Take Down,1,31,
-259,marshtomp,13,45,Growl,1,1,2
-259,marshtomp,13,55,Water Gun,1,1,4
-259,marshtomp,13,55,Water Gun,1,10,
-259,marshtomp,13,89,Earthquake,1,46,
-259,marshtomp,13,117,Bide,1,15,
-259,marshtomp,13,182,Protect,1,42,
-259,marshtomp,13,189,Mud-Slap,1,1,3
-259,marshtomp,13,189,Mud-Slap,1,6,
-259,marshtomp,13,193,Foresight,1,20,
-259,marshtomp,13,283,Endeavor,1,53,
-259,marshtomp,13,300,Mud Sport,1,25,
-259,marshtomp,13,330,Muddy Water,1,37,
-259,marshtomp,13,341,Mud Shot,1,16,
-259,marshtomp,14,33,Tackle,1,1,1
-259,marshtomp,14,36,Take Down,1,31,
-259,marshtomp,14,45,Growl,1,1,2
-259,marshtomp,14,55,Water Gun,1,1,4
-259,marshtomp,14,55,Water Gun,1,10,
-259,marshtomp,14,89,Earthquake,1,46,
-259,marshtomp,14,117,Bide,1,15,
-259,marshtomp,14,182,Protect,1,42,
-259,marshtomp,14,189,Mud-Slap,1,1,3
-259,marshtomp,14,189,Mud-Slap,1,6,
-259,marshtomp,14,193,Foresight,1,20,
-259,marshtomp,14,283,Endeavor,1,53,
-259,marshtomp,14,330,Muddy Water,1,37,
-259,marshtomp,14,341,Mud Shot,1,16,
-259,marshtomp,14,426,Mud Bomb,1,25,
-259,marshtomp,15,33,Tackle,1,1,1
-259,marshtomp,15,36,Take Down,1,31,
-259,marshtomp,15,45,Growl,1,1,2
-259,marshtomp,15,55,Water Gun,1,1,4
-259,marshtomp,15,55,Water Gun,1,10,
-259,marshtomp,15,89,Earthquake,1,46,
-259,marshtomp,15,117,Bide,1,15,
-259,marshtomp,15,182,Protect,1,42,
-259,marshtomp,15,189,Mud-Slap,1,1,3
-259,marshtomp,15,189,Mud-Slap,1,6,
-259,marshtomp,15,193,Foresight,1,20,
-259,marshtomp,15,283,Endeavor,1,53,
-259,marshtomp,15,330,Muddy Water,1,37,
-259,marshtomp,15,341,Mud Shot,1,16,
-259,marshtomp,15,426,Mud Bomb,1,25,
-259,marshtomp,16,33,Tackle,1,1,1
-259,marshtomp,16,36,Take Down,1,42,1
-259,marshtomp,16,45,Growl,1,1,2
-259,marshtomp,16,55,Water Gun,1,1,3
-259,marshtomp,16,55,Water Gun,1,4,1
-259,marshtomp,16,89,Earthquake,1,48,1
-259,marshtomp,16,117,Bide,1,18,1
-259,marshtomp,16,157,Rock Slide,1,28,1
-259,marshtomp,16,182,Protect,1,32,1
-259,marshtomp,16,189,Mud-Slap,1,1,4
-259,marshtomp,16,189,Mud-Slap,1,9,1
-259,marshtomp,16,193,Foresight,1,12,1
-259,marshtomp,16,283,Endeavor,1,52,1
-259,marshtomp,16,330,Muddy Water,1,38,1
-259,marshtomp,16,341,Mud Shot,1,16,1
-259,marshtomp,16,426,Mud Bomb,1,22,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+259,5,Tackle,1,normal,50,100
+259,5,Growl,1,normal,-,100
+259,5,Water Gun,1,water,40,100
+259,5,Mud-Slap,1,ground,20,100
+259,6,Tackle,1,normal,50,100
+259,6,Growl,1,normal,-,100
+259,6,Water Gun,1,water,40,100
+259,6,Mud-Slap,1,ground,20,100
+259,7,Tackle,1,normal,50,100
+259,7,Growl,1,normal,-,100
+259,7,Water Gun,1,water,40,100
+259,7,Mud-Slap,1,ground,20,100
+259,8,Tackle,1,normal,50,100
+259,8,Growl,1,normal,-,100
+259,8,Water Gun,1,water,40,100
+259,8,Mud-Slap,1,ground,20,100
+259,9,Tackle,1,normal,50,100
+259,9,Growl,1,normal,-,100
+259,9,Water Gun,1,water,40,100
+259,9,Mud-Slap,1,ground,20,100
+259,10,Tackle,1,normal,50,100
+259,10,Growl,1,normal,-,100
+259,10,Water Gun,1,water,40,100
+259,10,Mud-Slap,1,ground,20,100
+259,11,Tackle,1,normal,50,100
+259,11,Growl,1,normal,-,100
+259,11,Water Gun,1,water,40,100
+259,11,Mud-Slap,1,ground,20,100
+259,12,Tackle,1,normal,50,100
+259,12,Growl,1,normal,-,100
+259,12,Water Gun,1,water,40,100
+259,12,Mud-Slap,1,ground,20,100
+259,13,Tackle,1,normal,50,100
+259,13,Growl,1,normal,-,100
+259,13,Water Gun,1,water,40,100
+259,13,Mud-Slap,1,ground,20,100
+259,14,Tackle,1,normal,50,100
+259,14,Growl,1,normal,-,100
+259,14,Water Gun,1,water,40,100
+259,14,Mud-Slap,1,ground,20,100
+259,15,Tackle,1,normal,50,100
+259,15,Growl,1,normal,-,100
+259,15,Water Gun,1,water,40,100
+259,15,Mud-Slap,1,ground,20,100
+259,16,Tackle,1,normal,50,100
+259,16,Growl,1,normal,-,100
+259,16,Water Gun,1,water,40,100
+259,16,Mud-Slap,1,ground,20,100
+259,16,Water Gun,4,water,40,100
+259,5,Mud-Slap,6,ground,20,100
+259,6,Mud-Slap,6,ground,20,100
+259,7,Mud-Slap,6,ground,20,100
+259,8,Mud-Slap,6,ground,20,100
+259,9,Mud-Slap,6,ground,20,100
+259,10,Mud-Slap,6,ground,20,100
+259,11,Mud-Slap,6,ground,20,100
+259,12,Mud-Slap,6,ground,20,100
+259,13,Mud-Slap,6,ground,20,100
+259,14,Mud-Slap,6,ground,20,100
+259,15,Mud-Slap,6,ground,20,100
+259,16,Mud-Slap,9,ground,20,100
+259,5,Water Gun,10,water,40,100
+259,6,Water Gun,10,water,40,100
+259,7,Water Gun,10,water,40,100
+259,8,Water Gun,10,water,40,100
+259,9,Water Gun,10,water,40,100
+259,10,Water Gun,10,water,40,100
+259,11,Water Gun,10,water,40,100
+259,12,Water Gun,10,water,40,100
+259,13,Water Gun,10,water,40,100
+259,14,Water Gun,10,water,40,100
+259,15,Water Gun,10,water,40,100
+259,16,Foresight,12,normal,-,-
+259,5,Bide,15,normal,-,-
+259,6,Bide,15,normal,-,-
+259,7,Bide,15,normal,-,-
+259,8,Bide,15,normal,-,-
+259,9,Bide,15,normal,-,-
+259,10,Bide,15,normal,-,-
+259,11,Bide,15,normal,-,-
+259,12,Bide,15,normal,-,-
+259,13,Bide,15,normal,-,-
+259,14,Bide,15,normal,-,-
+259,15,Bide,15,normal,-,-
+259,5,Mud Shot,16,ground,55,95
+259,6,Mud Shot,16,ground,55,95
+259,7,Mud Shot,16,ground,55,95
+259,8,Mud Shot,16,ground,55,95
+259,9,Mud Shot,16,ground,55,95
+259,10,Mud Shot,16,ground,55,95
+259,11,Mud Shot,16,ground,55,95
+259,12,Mud Shot,16,ground,55,95
+259,13,Mud Shot,16,ground,55,95
+259,14,Mud Shot,16,ground,55,95
+259,15,Mud Shot,16,ground,55,95
+259,16,Mud Shot,16,ground,55,95
+259,16,Bide,18,normal,-,-
+259,5,Foresight,20,normal,-,-
+259,6,Foresight,20,normal,-,-
+259,7,Foresight,20,normal,-,-
+259,8,Foresight,20,normal,-,-
+259,9,Foresight,20,normal,-,-
+259,10,Foresight,20,normal,-,-
+259,11,Foresight,20,normal,-,-
+259,12,Foresight,20,normal,-,-
+259,13,Foresight,20,normal,-,-
+259,14,Foresight,20,normal,-,-
+259,15,Foresight,20,normal,-,-
+259,16,Mud Bomb,22,ground,65,85
+259,5,Mud Sport,25,ground,-,-
+259,6,Mud Sport,25,ground,-,-
+259,7,Mud Sport,25,ground,-,-
+259,8,Mud Bomb,25,ground,65,85
+259,9,Mud Bomb,25,ground,65,85
+259,10,Mud Bomb,25,ground,65,85
+259,11,Mud Bomb,25,ground,65,85
+259,12,Mud Sport,25,ground,-,-
+259,13,Mud Sport,25,ground,-,-
+259,14,Mud Bomb,25,ground,65,85
+259,15,Mud Bomb,25,ground,65,85
+259,16,Rock Slide,28,rock,75,90
+259,5,Take Down,31,normal,90,85
+259,6,Take Down,31,normal,90,85
+259,7,Take Down,31,normal,90,85
+259,8,Take Down,31,normal,90,85
+259,9,Take Down,31,normal,90,85
+259,10,Take Down,31,normal,90,85
+259,11,Take Down,31,normal,90,85
+259,12,Take Down,31,normal,90,85
+259,13,Take Down,31,normal,90,85
+259,14,Take Down,31,normal,90,85
+259,15,Take Down,31,normal,90,85
+259,16,Protect,32,normal,-,-
+259,5,Muddy Water,37,water,90,85
+259,6,Muddy Water,37,water,90,85
+259,7,Muddy Water,37,water,90,85
+259,8,Muddy Water,37,water,90,85
+259,9,Muddy Water,37,water,90,85
+259,10,Muddy Water,37,water,90,85
+259,11,Muddy Water,37,water,90,85
+259,12,Muddy Water,37,water,90,85
+259,13,Muddy Water,37,water,90,85
+259,14,Muddy Water,37,water,90,85
+259,15,Muddy Water,37,water,90,85
+259,16,Muddy Water,38,water,90,85
+259,5,Protect,42,normal,-,-
+259,6,Protect,42,normal,-,-
+259,7,Protect,42,normal,-,-
+259,8,Protect,42,normal,-,-
+259,9,Protect,42,normal,-,-
+259,10,Protect,42,normal,-,-
+259,11,Protect,42,normal,-,-
+259,12,Protect,42,normal,-,-
+259,13,Protect,42,normal,-,-
+259,14,Protect,42,normal,-,-
+259,15,Protect,42,normal,-,-
+259,16,Take Down,42,normal,90,85
+259,5,Earthquake,46,ground,100,100
+259,6,Earthquake,46,ground,100,100
+259,7,Earthquake,46,ground,100,100
+259,8,Earthquake,46,ground,100,100
+259,9,Earthquake,46,ground,100,100
+259,10,Earthquake,46,ground,100,100
+259,11,Earthquake,46,ground,100,100
+259,12,Earthquake,46,ground,100,100
+259,13,Earthquake,46,ground,100,100
+259,14,Earthquake,46,ground,100,100
+259,15,Earthquake,46,ground,100,100
+259,16,Earthquake,48,ground,100,100
+259,16,Endeavor,52,normal,-,100
+259,5,Endeavor,53,normal,-,100
+259,6,Endeavor,53,normal,-,100
+259,7,Endeavor,53,normal,-,100
+259,8,Endeavor,53,normal,-,100
+259,9,Endeavor,53,normal,-,100
+259,10,Endeavor,53,normal,-,100
+259,11,Endeavor,53,normal,-,100
+259,12,Endeavor,53,normal,-,100
+259,13,Endeavor,53,normal,-,100
+259,14,Endeavor,53,normal,-,100
+259,15,Endeavor,53,normal,-,100

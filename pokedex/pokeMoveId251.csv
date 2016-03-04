@@ -1,162 +1,162 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-251,celebi,3,73,Leech Seed,1,1,1
-251,celebi,3,93,Confusion,1,1,2
-251,celebi,3,105,Recover,1,1,3
-251,celebi,3,195,Perish Song,1,50,
-251,celebi,3,215,Heal Bell,1,1,4
-251,celebi,3,219,Safeguard,1,10,
-251,celebi,3,226,Baton Pass,1,40,
-251,celebi,3,246,Ancient Power,1,20,
-251,celebi,3,248,Future Sight,1,30,
-251,celebi,4,73,Leech Seed,1,1,1
-251,celebi,4,93,Confusion,1,1,2
-251,celebi,4,105,Recover,1,1,3
-251,celebi,4,195,Perish Song,1,50,
-251,celebi,4,215,Heal Bell,1,1,4
-251,celebi,4,219,Safeguard,1,10,
-251,celebi,4,226,Baton Pass,1,40,
-251,celebi,4,246,Ancient Power,1,20,
-251,celebi,4,248,Future Sight,1,30,
-251,celebi,5,73,Leech Seed,1,1,1
-251,celebi,5,93,Confusion,1,1,2
-251,celebi,5,105,Recover,1,1,3
-251,celebi,5,195,Perish Song,1,50,
-251,celebi,5,215,Heal Bell,1,1,4
-251,celebi,5,219,Safeguard,1,10,
-251,celebi,5,226,Baton Pass,1,40,
-251,celebi,5,246,Ancient Power,1,20,
-251,celebi,5,248,Future Sight,1,30,
-251,celebi,6,73,Leech Seed,1,1,1
-251,celebi,6,93,Confusion,1,1,2
-251,celebi,6,105,Recover,1,1,3
-251,celebi,6,195,Perish Song,1,50,
-251,celebi,6,215,Heal Bell,1,1,4
-251,celebi,6,219,Safeguard,1,10,
-251,celebi,6,226,Baton Pass,1,40,
-251,celebi,6,246,Ancient Power,1,20,
-251,celebi,6,248,Future Sight,1,30,
-251,celebi,7,73,Leech Seed,1,1,1
-251,celebi,7,93,Confusion,1,1,2
-251,celebi,7,105,Recover,1,1,3
-251,celebi,7,195,Perish Song,1,50,
-251,celebi,7,215,Heal Bell,1,1,4
-251,celebi,7,219,Safeguard,1,10,
-251,celebi,7,226,Baton Pass,1,40,
-251,celebi,7,246,Ancient Power,1,20,
-251,celebi,7,248,Future Sight,1,30,
-251,celebi,8,73,Leech Seed,1,1,1
-251,celebi,8,93,Confusion,1,1,2
-251,celebi,8,105,Recover,1,1,3
-251,celebi,8,195,Perish Song,1,91,
-251,celebi,8,215,Heal Bell,1,1,4
-251,celebi,8,219,Safeguard,1,10,
-251,celebi,8,226,Baton Pass,1,37,
-251,celebi,8,246,Ancient Power,1,28,
-251,celebi,8,248,Future Sight,1,64,
-251,celebi,8,345,Magical Leaf,1,19,
-251,celebi,8,361,Healing Wish,1,73,
-251,celebi,8,363,Natural Gift,1,46,
-251,celebi,8,377,Heal Block,1,55,
-251,celebi,8,437,Leaf Storm,1,82,
-251,celebi,9,73,Leech Seed,1,1,1
-251,celebi,9,93,Confusion,1,1,2
-251,celebi,9,105,Recover,1,1,3
-251,celebi,9,195,Perish Song,1,91,
-251,celebi,9,215,Heal Bell,1,1,4
-251,celebi,9,219,Safeguard,1,10,
-251,celebi,9,226,Baton Pass,1,37,
-251,celebi,9,246,Ancient Power,1,28,
-251,celebi,9,248,Future Sight,1,64,
-251,celebi,9,345,Magical Leaf,1,19,
-251,celebi,9,361,Healing Wish,1,73,
-251,celebi,9,363,Natural Gift,1,46,
-251,celebi,9,377,Heal Block,1,55,
-251,celebi,9,437,Leaf Storm,1,82,
-251,celebi,10,73,Leech Seed,1,1,1
-251,celebi,10,93,Confusion,1,1,2
-251,celebi,10,105,Recover,1,1,3
-251,celebi,10,195,Perish Song,1,91,
-251,celebi,10,215,Heal Bell,1,1,4
-251,celebi,10,219,Safeguard,1,10,
-251,celebi,10,226,Baton Pass,1,37,
-251,celebi,10,246,Ancient Power,1,28,
-251,celebi,10,248,Future Sight,1,64,
-251,celebi,10,345,Magical Leaf,1,19,
-251,celebi,10,361,Healing Wish,1,73,
-251,celebi,10,363,Natural Gift,1,46,
-251,celebi,10,377,Heal Block,1,55,
-251,celebi,10,437,Leaf Storm,1,82,
-251,celebi,11,73,Leech Seed,1,1,1
-251,celebi,11,93,Confusion,1,1,2
-251,celebi,11,105,Recover,1,1,3
-251,celebi,11,195,Perish Song,1,91,
-251,celebi,11,215,Heal Bell,1,1,4
-251,celebi,11,219,Safeguard,1,10,
-251,celebi,11,226,Baton Pass,1,37,
-251,celebi,11,246,Ancient Power,1,28,
-251,celebi,11,248,Future Sight,1,64,
-251,celebi,11,345,Magical Leaf,1,19,
-251,celebi,11,361,Healing Wish,1,73,
-251,celebi,11,363,Natural Gift,1,46,
-251,celebi,11,377,Heal Block,1,55,
-251,celebi,11,437,Leaf Storm,1,82,
-251,celebi,12,73,Leech Seed,1,1,1
-251,celebi,12,93,Confusion,1,1,2
-251,celebi,12,105,Recover,1,1,3
-251,celebi,12,195,Perish Song,1,50,
-251,celebi,12,215,Heal Bell,1,1,4
-251,celebi,12,219,Safeguard,1,10,
-251,celebi,12,226,Baton Pass,1,40,
-251,celebi,12,246,Ancient Power,1,20,
-251,celebi,12,248,Future Sight,1,30,
-251,celebi,13,73,Leech Seed,1,1,1
-251,celebi,13,93,Confusion,1,1,2
-251,celebi,13,105,Recover,1,1,3
-251,celebi,13,195,Perish Song,1,50,
-251,celebi,13,215,Heal Bell,1,1,4
-251,celebi,13,219,Safeguard,1,10,
-251,celebi,13,226,Baton Pass,1,40,
-251,celebi,13,246,Ancient Power,1,20,
-251,celebi,13,248,Future Sight,1,30,
-251,celebi,14,73,Leech Seed,1,1,1
-251,celebi,14,93,Confusion,1,1,2
-251,celebi,14,105,Recover,1,1,3
-251,celebi,14,195,Perish Song,1,91,
-251,celebi,14,215,Heal Bell,1,1,4
-251,celebi,14,219,Safeguard,1,10,
-251,celebi,14,226,Baton Pass,1,37,
-251,celebi,14,246,Ancient Power,1,28,
-251,celebi,14,248,Future Sight,1,64,
-251,celebi,14,345,Magical Leaf,1,19,
-251,celebi,14,361,Healing Wish,1,73,
-251,celebi,14,363,Natural Gift,1,46,
-251,celebi,14,377,Heal Block,1,55,
-251,celebi,14,437,Leaf Storm,1,82,
-251,celebi,15,73,Leech Seed,1,1,1
-251,celebi,15,93,Confusion,1,1,2
-251,celebi,15,105,Recover,1,1,3
-251,celebi,15,195,Perish Song,1,91,
-251,celebi,15,215,Heal Bell,1,1,4
-251,celebi,15,219,Safeguard,1,10,
-251,celebi,15,226,Baton Pass,1,37,
-251,celebi,15,246,Ancient Power,1,28,
-251,celebi,15,248,Future Sight,1,64,
-251,celebi,15,345,Magical Leaf,1,19,
-251,celebi,15,361,Healing Wish,1,73,
-251,celebi,15,363,Natural Gift,1,46,
-251,celebi,15,377,Heal Block,1,55,
-251,celebi,15,437,Leaf Storm,1,82,
-251,celebi,16,73,Leech Seed,1,1,1
-251,celebi,16,93,Confusion,1,1,2
-251,celebi,16,105,Recover,1,1,3
-251,celebi,16,195,Perish Song,1,91,1
-251,celebi,16,215,Heal Bell,1,1,4
-251,celebi,16,219,Safeguard,1,10,1
-251,celebi,16,226,Baton Pass,1,37,1
-251,celebi,16,246,Ancient Power,1,28,1
-251,celebi,16,248,Future Sight,1,64,1
-251,celebi,16,345,Magical Leaf,1,19,1
-251,celebi,16,361,Healing Wish,1,73,1
-251,celebi,16,363,Natural Gift,1,46,1
-251,celebi,16,377,Heal Block,1,55,1
-251,celebi,16,437,Leaf Storm,1,82,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+251,3,Leech Seed,1,grass,-,90
+251,3,Confusion,1,psychic,50,100
+251,3,Recover,1,normal,-,-
+251,3,Heal Bell,1,normal,-,-
+251,4,Leech Seed,1,grass,-,90
+251,4,Confusion,1,psychic,50,100
+251,4,Recover,1,normal,-,-
+251,4,Heal Bell,1,normal,-,-
+251,5,Leech Seed,1,grass,-,90
+251,5,Confusion,1,psychic,50,100
+251,5,Recover,1,normal,-,-
+251,5,Heal Bell,1,normal,-,-
+251,6,Leech Seed,1,grass,-,90
+251,6,Confusion,1,psychic,50,100
+251,6,Recover,1,normal,-,-
+251,6,Heal Bell,1,normal,-,-
+251,7,Leech Seed,1,grass,-,90
+251,7,Confusion,1,psychic,50,100
+251,7,Recover,1,normal,-,-
+251,7,Heal Bell,1,normal,-,-
+251,8,Leech Seed,1,grass,-,90
+251,8,Confusion,1,psychic,50,100
+251,8,Recover,1,normal,-,-
+251,8,Heal Bell,1,normal,-,-
+251,9,Leech Seed,1,grass,-,90
+251,9,Confusion,1,psychic,50,100
+251,9,Recover,1,normal,-,-
+251,9,Heal Bell,1,normal,-,-
+251,10,Leech Seed,1,grass,-,90
+251,10,Confusion,1,psychic,50,100
+251,10,Recover,1,normal,-,-
+251,10,Heal Bell,1,normal,-,-
+251,11,Leech Seed,1,grass,-,90
+251,11,Confusion,1,psychic,50,100
+251,11,Recover,1,normal,-,-
+251,11,Heal Bell,1,normal,-,-
+251,12,Leech Seed,1,grass,-,90
+251,12,Confusion,1,psychic,50,100
+251,12,Recover,1,normal,-,-
+251,12,Heal Bell,1,normal,-,-
+251,13,Leech Seed,1,grass,-,90
+251,13,Confusion,1,psychic,50,100
+251,13,Recover,1,normal,-,-
+251,13,Heal Bell,1,normal,-,-
+251,14,Leech Seed,1,grass,-,90
+251,14,Confusion,1,psychic,50,100
+251,14,Recover,1,normal,-,-
+251,14,Heal Bell,1,normal,-,-
+251,15,Leech Seed,1,grass,-,90
+251,15,Confusion,1,psychic,50,100
+251,15,Recover,1,normal,-,-
+251,15,Heal Bell,1,normal,-,-
+251,16,Leech Seed,1,grass,-,90
+251,16,Confusion,1,psychic,50,100
+251,16,Recover,1,normal,-,-
+251,16,Heal Bell,1,normal,-,-
+251,3,Safeguard,10,normal,-,-
+251,4,Safeguard,10,normal,-,-
+251,5,Safeguard,10,normal,-,-
+251,6,Safeguard,10,normal,-,-
+251,7,Safeguard,10,normal,-,-
+251,8,Safeguard,10,normal,-,-
+251,9,Safeguard,10,normal,-,-
+251,10,Safeguard,10,normal,-,-
+251,11,Safeguard,10,normal,-,-
+251,12,Safeguard,10,normal,-,-
+251,13,Safeguard,10,normal,-,-
+251,14,Safeguard,10,normal,-,-
+251,15,Safeguard,10,normal,-,-
+251,16,Safeguard,10,normal,-,-
+251,8,Magical Leaf,19,grass,60,-
+251,9,Magical Leaf,19,grass,60,-
+251,10,Magical Leaf,19,grass,60,-
+251,11,Magical Leaf,19,grass,60,-
+251,14,Magical Leaf,19,grass,60,-
+251,15,Magical Leaf,19,grass,60,-
+251,16,Magical Leaf,19,grass,60,-
+251,3,Ancient Power,20,rock,60,100
+251,4,Ancient Power,20,rock,60,100
+251,5,Ancient Power,20,rock,60,100
+251,6,Ancient Power,20,rock,60,100
+251,7,Ancient Power,20,rock,60,100
+251,12,Ancient Power,20,rock,60,100
+251,13,Ancient Power,20,rock,60,100
+251,8,Ancient Power,28,rock,60,100
+251,9,Ancient Power,28,rock,60,100
+251,10,Ancient Power,28,rock,60,100
+251,11,Ancient Power,28,rock,60,100
+251,14,Ancient Power,28,rock,60,100
+251,15,Ancient Power,28,rock,60,100
+251,16,Ancient Power,28,rock,60,100
+251,3,Future Sight,30,psychic,120,100
+251,4,Future Sight,30,psychic,120,100
+251,5,Future Sight,30,psychic,120,100
+251,6,Future Sight,30,psychic,120,100
+251,7,Future Sight,30,psychic,120,100
+251,12,Future Sight,30,psychic,120,100
+251,13,Future Sight,30,psychic,120,100
+251,8,Baton Pass,37,normal,-,-
+251,9,Baton Pass,37,normal,-,-
+251,10,Baton Pass,37,normal,-,-
+251,11,Baton Pass,37,normal,-,-
+251,14,Baton Pass,37,normal,-,-
+251,15,Baton Pass,37,normal,-,-
+251,16,Baton Pass,37,normal,-,-
+251,3,Baton Pass,40,normal,-,-
+251,4,Baton Pass,40,normal,-,-
+251,5,Baton Pass,40,normal,-,-
+251,6,Baton Pass,40,normal,-,-
+251,7,Baton Pass,40,normal,-,-
+251,12,Baton Pass,40,normal,-,-
+251,13,Baton Pass,40,normal,-,-
+251,8,Natural Gift,46,normal,-,100
+251,9,Natural Gift,46,normal,-,100
+251,10,Natural Gift,46,normal,-,100
+251,11,Natural Gift,46,normal,-,100
+251,14,Natural Gift,46,normal,-,100
+251,15,Natural Gift,46,normal,-,100
+251,16,Natural Gift,46,normal,-,100
+251,3,Perish Song,50,normal,-,-
+251,4,Perish Song,50,normal,-,-
+251,5,Perish Song,50,normal,-,-
+251,6,Perish Song,50,normal,-,-
+251,7,Perish Song,50,normal,-,-
+251,12,Perish Song,50,normal,-,-
+251,13,Perish Song,50,normal,-,-
+251,8,Heal Block,55,psychic,-,100
+251,9,Heal Block,55,psychic,-,100
+251,10,Heal Block,55,psychic,-,100
+251,11,Heal Block,55,psychic,-,100
+251,14,Heal Block,55,psychic,-,100
+251,15,Heal Block,55,psychic,-,100
+251,16,Heal Block,55,psychic,-,100
+251,8,Future Sight,64,psychic,120,100
+251,9,Future Sight,64,psychic,120,100
+251,10,Future Sight,64,psychic,120,100
+251,11,Future Sight,64,psychic,120,100
+251,14,Future Sight,64,psychic,120,100
+251,15,Future Sight,64,psychic,120,100
+251,16,Future Sight,64,psychic,120,100
+251,8,Healing Wish,73,psychic,-,-
+251,9,Healing Wish,73,psychic,-,-
+251,10,Healing Wish,73,psychic,-,-
+251,11,Healing Wish,73,psychic,-,-
+251,14,Healing Wish,73,psychic,-,-
+251,15,Healing Wish,73,psychic,-,-
+251,16,Healing Wish,73,psychic,-,-
+251,8,Leaf Storm,82,grass,130,90
+251,9,Leaf Storm,82,grass,130,90
+251,10,Leaf Storm,82,grass,130,90
+251,11,Leaf Storm,82,grass,130,90
+251,14,Leaf Storm,82,grass,130,90
+251,15,Leaf Storm,82,grass,130,90
+251,16,Leaf Storm,82,grass,130,90
+251,8,Perish Song,91,normal,-,-
+251,9,Perish Song,91,normal,-,-
+251,10,Perish Song,91,normal,-,-
+251,11,Perish Song,91,normal,-,-
+251,14,Perish Song,91,normal,-,-
+251,15,Perish Song,91,normal,-,-
+251,16,Perish Song,91,normal,-,-

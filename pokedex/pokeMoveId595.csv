@@ -1,65 +1,65 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-595,joltik,11,81,String Shot,1,1,1
-595,joltik,11,86,Thunder Wave,1,4,
-595,joltik,11,97,Agility,1,37,
-595,joltik,11,103,Screech,1,7,
-595,joltik,11,141,Leech Life,1,1,2
-595,joltik,11,163,Slash,1,26,
-595,joltik,11,169,Spider Web,1,1,3
-595,joltik,11,210,Fury Cutter,1,12,
-595,joltik,11,324,Signal Beam,1,34,
-595,joltik,11,380,Gastro Acid,1,23,
-595,joltik,11,389,Sucker Punch,1,40,
-595,joltik,11,405,Bug Buzz,1,48,
-595,joltik,11,435,Discharge,1,45,
-595,joltik,11,450,Bug Bite,1,18,
-595,joltik,11,486,Electro Ball,1,29,
-595,joltik,11,527,Electroweb,1,15,
-595,joltik,14,81,String Shot,1,1,1
-595,joltik,14,86,Thunder Wave,1,4,
-595,joltik,14,97,Agility,1,37,
-595,joltik,14,103,Screech,1,7,
-595,joltik,14,141,Leech Life,1,1,2
-595,joltik,14,163,Slash,1,26,
-595,joltik,14,169,Spider Web,1,1,3
-595,joltik,14,210,Fury Cutter,1,12,
-595,joltik,14,324,Signal Beam,1,34,
-595,joltik,14,380,Gastro Acid,1,23,
-595,joltik,14,389,Sucker Punch,1,40,
-595,joltik,14,405,Bug Buzz,1,48,
-595,joltik,14,435,Discharge,1,45,
-595,joltik,14,450,Bug Bite,1,18,
-595,joltik,14,486,Electro Ball,1,29,
-595,joltik,14,527,Electroweb,1,15,
-595,joltik,15,81,String Shot,1,1,1
-595,joltik,15,86,Thunder Wave,1,4,
-595,joltik,15,97,Agility,1,37,
-595,joltik,15,103,Screech,1,7,
-595,joltik,15,141,Leech Life,1,1,2
-595,joltik,15,163,Slash,1,26,
-595,joltik,15,169,Spider Web,1,1,3
-595,joltik,15,210,Fury Cutter,1,12,
-595,joltik,15,324,Signal Beam,1,34,
-595,joltik,15,380,Gastro Acid,1,23,
-595,joltik,15,389,Sucker Punch,1,40,
-595,joltik,15,405,Bug Buzz,1,48,
-595,joltik,15,435,Discharge,1,45,
-595,joltik,15,450,Bug Bite,1,18,
-595,joltik,15,486,Electro Ball,1,29,
-595,joltik,15,527,Electroweb,1,15,
-595,joltik,16,81,String Shot,1,1,1
-595,joltik,16,86,Thunder Wave,1,4,1
-595,joltik,16,97,Agility,1,37,1
-595,joltik,16,103,Screech,1,7,1
-595,joltik,16,141,Leech Life,1,1,2
-595,joltik,16,163,Slash,1,26,1
-595,joltik,16,169,Spider Web,1,1,3
-595,joltik,16,210,Fury Cutter,1,12,1
-595,joltik,16,324,Signal Beam,1,34,1
-595,joltik,16,380,Gastro Acid,1,23,1
-595,joltik,16,389,Sucker Punch,1,40,1
-595,joltik,16,405,Bug Buzz,1,48,1
-595,joltik,16,435,Discharge,1,45,1
-595,joltik,16,450,Bug Bite,1,18,1
-595,joltik,16,486,Electro Ball,1,29,1
-595,joltik,16,527,Electroweb,1,15,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+595,11,String Shot,1,bug,-,95
+595,11,Leech Life,1,bug,20,100
+595,11,Spider Web,1,bug,-,-
+595,14,String Shot,1,bug,-,95
+595,14,Leech Life,1,bug,20,100
+595,14,Spider Web,1,bug,-,-
+595,15,String Shot,1,bug,-,95
+595,15,Leech Life,1,bug,20,100
+595,15,Spider Web,1,bug,-,-
+595,16,String Shot,1,bug,-,95
+595,16,Leech Life,1,bug,20,100
+595,16,Spider Web,1,bug,-,-
+595,11,Thunder Wave,4,electric,-,100
+595,14,Thunder Wave,4,electric,-,100
+595,15,Thunder Wave,4,electric,-,100
+595,16,Thunder Wave,4,electric,-,100
+595,11,Screech,7,normal,-,85
+595,14,Screech,7,normal,-,85
+595,15,Screech,7,normal,-,85
+595,16,Screech,7,normal,-,85
+595,11,Fury Cutter,12,bug,40,95
+595,14,Fury Cutter,12,bug,40,95
+595,15,Fury Cutter,12,bug,40,95
+595,16,Fury Cutter,12,bug,40,95
+595,11,Electroweb,15,electric,55,95
+595,14,Electroweb,15,electric,55,95
+595,15,Electroweb,15,electric,55,95
+595,16,Electroweb,15,electric,55,95
+595,11,Bug Bite,18,bug,60,100
+595,14,Bug Bite,18,bug,60,100
+595,15,Bug Bite,18,bug,60,100
+595,16,Bug Bite,18,bug,60,100
+595,11,Gastro Acid,23,poison,-,100
+595,14,Gastro Acid,23,poison,-,100
+595,15,Gastro Acid,23,poison,-,100
+595,16,Gastro Acid,23,poison,-,100
+595,11,Slash,26,normal,70,100
+595,14,Slash,26,normal,70,100
+595,15,Slash,26,normal,70,100
+595,16,Slash,26,normal,70,100
+595,11,Electro Ball,29,electric,-,100
+595,14,Electro Ball,29,electric,-,100
+595,15,Electro Ball,29,electric,-,100
+595,16,Electro Ball,29,electric,-,100
+595,11,Signal Beam,34,bug,75,100
+595,14,Signal Beam,34,bug,75,100
+595,15,Signal Beam,34,bug,75,100
+595,16,Signal Beam,34,bug,75,100
+595,11,Agility,37,psychic,-,-
+595,14,Agility,37,psychic,-,-
+595,15,Agility,37,psychic,-,-
+595,16,Agility,37,psychic,-,-
+595,11,Sucker Punch,40,dark,80,100
+595,14,Sucker Punch,40,dark,80,100
+595,15,Sucker Punch,40,dark,80,100
+595,16,Sucker Punch,40,dark,80,100
+595,11,Discharge,45,electric,80,100
+595,14,Discharge,45,electric,80,100
+595,15,Discharge,45,electric,80,100
+595,16,Discharge,45,electric,80,100
+595,11,Bug Buzz,48,bug,90,100
+595,14,Bug Buzz,48,bug,90,100
+595,15,Bug Buzz,48,bug,90,100
+595,16,Bug Buzz,48,bug,90,100

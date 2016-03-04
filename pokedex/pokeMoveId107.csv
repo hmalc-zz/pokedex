@@ -1,221 +1,221 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-107,hitmonchan,1,4,Comet Punch,1,1,1
-107,hitmonchan,1,5,Mega Punch,1,48,
-107,hitmonchan,1,7,Fire Punch,1,33,
-107,hitmonchan,1,8,Ice Punch,1,38,
-107,hitmonchan,1,9,Thunder Punch,1,43,
-107,hitmonchan,1,68,Counter,1,53,
-107,hitmonchan,1,97,Agility,1,1,2
-107,hitmonchan,2,4,Comet Punch,1,1,1
-107,hitmonchan,2,5,Mega Punch,1,48,
-107,hitmonchan,2,7,Fire Punch,1,33,
-107,hitmonchan,2,8,Ice Punch,1,38,
-107,hitmonchan,2,9,Thunder Punch,1,43,
-107,hitmonchan,2,68,Counter,1,53,
-107,hitmonchan,2,97,Agility,1,1,2
-107,hitmonchan,3,4,Comet Punch,1,1,
-107,hitmonchan,3,5,Mega Punch,1,38,
-107,hitmonchan,3,7,Fire Punch,1,26,3
-107,hitmonchan,3,8,Ice Punch,1,26,2
-107,hitmonchan,3,9,Thunder Punch,1,26,1
-107,hitmonchan,3,68,Counter,1,50,
-107,hitmonchan,3,97,Agility,1,7,
-107,hitmonchan,3,183,Mach Punch,1,32,
-107,hitmonchan,3,197,Detect,1,44,
-107,hitmonchan,3,228,Pursuit,1,13,
-107,hitmonchan,4,4,Comet Punch,1,1,
-107,hitmonchan,4,5,Mega Punch,1,38,
-107,hitmonchan,4,7,Fire Punch,1,26,3
-107,hitmonchan,4,8,Ice Punch,1,26,2
-107,hitmonchan,4,9,Thunder Punch,1,26,1
-107,hitmonchan,4,68,Counter,1,50,
-107,hitmonchan,4,97,Agility,1,7,
-107,hitmonchan,4,183,Mach Punch,1,32,
-107,hitmonchan,4,197,Detect,1,44,
-107,hitmonchan,4,228,Pursuit,1,13,
-107,hitmonchan,5,4,Comet Punch,1,1,2
-107,hitmonchan,5,5,Mega Punch,1,38,
-107,hitmonchan,5,7,Fire Punch,1,26,4
-107,hitmonchan,5,8,Ice Punch,1,26,3
-107,hitmonchan,5,9,Thunder Punch,1,26,
-107,hitmonchan,5,68,Counter,1,50,
-107,hitmonchan,5,97,Agility,1,7,
-107,hitmonchan,5,183,Mach Punch,1,20,
-107,hitmonchan,5,197,Detect,1,44,
-107,hitmonchan,5,228,Pursuit,1,13,
-107,hitmonchan,5,279,Revenge,1,1,1
-107,hitmonchan,5,327,Sky Uppercut,1,32,
-107,hitmonchan,6,4,Comet Punch,1,1,2
-107,hitmonchan,6,5,Mega Punch,1,38,
-107,hitmonchan,6,7,Fire Punch,1,26,4
-107,hitmonchan,6,8,Ice Punch,1,26,3
-107,hitmonchan,6,9,Thunder Punch,1,26,
-107,hitmonchan,6,68,Counter,1,50,
-107,hitmonchan,6,97,Agility,1,7,
-107,hitmonchan,6,183,Mach Punch,1,20,
-107,hitmonchan,6,197,Detect,1,44,
-107,hitmonchan,6,228,Pursuit,1,13,
-107,hitmonchan,6,279,Revenge,1,1,1
-107,hitmonchan,6,327,Sky Uppercut,1,32,
-107,hitmonchan,7,4,Comet Punch,1,1,2
-107,hitmonchan,7,5,Mega Punch,1,38,
-107,hitmonchan,7,7,Fire Punch,1,26,4
-107,hitmonchan,7,8,Ice Punch,1,26,3
-107,hitmonchan,7,9,Thunder Punch,1,26,
-107,hitmonchan,7,68,Counter,1,50,
-107,hitmonchan,7,97,Agility,1,7,
-107,hitmonchan,7,183,Mach Punch,1,20,
-107,hitmonchan,7,197,Detect,1,44,
-107,hitmonchan,7,228,Pursuit,1,13,
-107,hitmonchan,7,279,Revenge,1,1,1
-107,hitmonchan,7,327,Sky Uppercut,1,32,
-107,hitmonchan,8,4,Comet Punch,1,1,2
-107,hitmonchan,8,5,Mega Punch,1,41,
-107,hitmonchan,8,7,Fire Punch,1,31,3
-107,hitmonchan,8,8,Ice Punch,1,31,2
-107,hitmonchan,8,9,Thunder Punch,1,31,1
-107,hitmonchan,8,68,Counter,1,51,
-107,hitmonchan,8,97,Agility,1,6,
-107,hitmonchan,8,183,Mach Punch,1,16,1
-107,hitmonchan,8,197,Detect,1,46,
-107,hitmonchan,8,228,Pursuit,1,11,
-107,hitmonchan,8,279,Revenge,1,1,1
-107,hitmonchan,8,327,Sky Uppercut,1,36,
-107,hitmonchan,8,364,Feint,1,21,
-107,hitmonchan,8,370,Close Combat,1,56,
-107,hitmonchan,8,410,Vacuum Wave,1,26,
-107,hitmonchan,8,418,Bullet Punch,1,16,2
-107,hitmonchan,9,4,Comet Punch,1,1,2
-107,hitmonchan,9,5,Mega Punch,1,41,
-107,hitmonchan,9,7,Fire Punch,1,31,3
-107,hitmonchan,9,8,Ice Punch,1,31,2
-107,hitmonchan,9,9,Thunder Punch,1,31,1
-107,hitmonchan,9,68,Counter,1,51,
-107,hitmonchan,9,97,Agility,1,6,
-107,hitmonchan,9,183,Mach Punch,1,16,1
-107,hitmonchan,9,197,Detect,1,46,
-107,hitmonchan,9,228,Pursuit,1,11,
-107,hitmonchan,9,279,Revenge,1,1,1
-107,hitmonchan,9,327,Sky Uppercut,1,36,
-107,hitmonchan,9,364,Feint,1,21,
-107,hitmonchan,9,370,Close Combat,1,56,
-107,hitmonchan,9,410,Vacuum Wave,1,26,
-107,hitmonchan,9,418,Bullet Punch,1,16,2
-107,hitmonchan,10,4,Comet Punch,1,1,2
-107,hitmonchan,10,5,Mega Punch,1,41,
-107,hitmonchan,10,7,Fire Punch,1,31,3
-107,hitmonchan,10,8,Ice Punch,1,31,2
-107,hitmonchan,10,9,Thunder Punch,1,31,1
-107,hitmonchan,10,68,Counter,1,51,
-107,hitmonchan,10,97,Agility,1,6,
-107,hitmonchan,10,183,Mach Punch,1,16,1
-107,hitmonchan,10,197,Detect,1,46,
-107,hitmonchan,10,228,Pursuit,1,11,
-107,hitmonchan,10,279,Revenge,1,1,1
-107,hitmonchan,10,327,Sky Uppercut,1,36,
-107,hitmonchan,10,364,Feint,1,21,
-107,hitmonchan,10,370,Close Combat,1,56,
-107,hitmonchan,10,410,Vacuum Wave,1,26,
-107,hitmonchan,10,418,Bullet Punch,1,16,2
-107,hitmonchan,11,4,Comet Punch,1,1,2
-107,hitmonchan,11,5,Mega Punch,1,46,
-107,hitmonchan,11,7,Fire Punch,1,36,3
-107,hitmonchan,11,8,Ice Punch,1,36,2
-107,hitmonchan,11,9,Thunder Punch,1,36,1
-107,hitmonchan,11,68,Counter,1,61,
-107,hitmonchan,11,97,Agility,1,6,
-107,hitmonchan,11,183,Mach Punch,1,16,1
-107,hitmonchan,11,197,Detect,1,51,
-107,hitmonchan,11,228,Pursuit,1,11,
-107,hitmonchan,11,264,Focus Punch,1,56,
-107,hitmonchan,11,279,Revenge,1,1,1
-107,hitmonchan,11,327,Sky Uppercut,1,41,
-107,hitmonchan,11,364,Feint,1,21,
-107,hitmonchan,11,370,Close Combat,1,66,
-107,hitmonchan,11,410,Vacuum Wave,1,26,
-107,hitmonchan,11,418,Bullet Punch,1,16,2
-107,hitmonchan,11,501,Quick Guard,1,31,
-107,hitmonchan,12,4,Comet Punch,1,1,2
-107,hitmonchan,12,5,Mega Punch,1,38,
-107,hitmonchan,12,7,Fire Punch,1,26,4
-107,hitmonchan,12,8,Ice Punch,1,26,3
-107,hitmonchan,12,9,Thunder Punch,1,26,
-107,hitmonchan,12,68,Counter,1,50,
-107,hitmonchan,12,97,Agility,1,7,
-107,hitmonchan,12,183,Mach Punch,1,20,
-107,hitmonchan,12,197,Detect,1,44,
-107,hitmonchan,12,228,Pursuit,1,13,
-107,hitmonchan,12,279,Revenge,1,1,1
-107,hitmonchan,12,327,Sky Uppercut,1,32,
-107,hitmonchan,13,4,Comet Punch,1,1,2
-107,hitmonchan,13,5,Mega Punch,1,38,
-107,hitmonchan,13,7,Fire Punch,1,26,4
-107,hitmonchan,13,8,Ice Punch,1,26,3
-107,hitmonchan,13,9,Thunder Punch,1,26,
-107,hitmonchan,13,68,Counter,1,50,
-107,hitmonchan,13,97,Agility,1,7,
-107,hitmonchan,13,183,Mach Punch,1,20,
-107,hitmonchan,13,197,Detect,1,44,
-107,hitmonchan,13,228,Pursuit,1,13,
-107,hitmonchan,13,279,Revenge,1,1,1
-107,hitmonchan,13,327,Sky Uppercut,1,32,
-107,hitmonchan,14,4,Comet Punch,1,1,2
-107,hitmonchan,14,5,Mega Punch,1,46,
-107,hitmonchan,14,7,Fire Punch,1,36,3
-107,hitmonchan,14,8,Ice Punch,1,36,2
-107,hitmonchan,14,9,Thunder Punch,1,36,1
-107,hitmonchan,14,68,Counter,1,61,
-107,hitmonchan,14,97,Agility,1,6,
-107,hitmonchan,14,183,Mach Punch,1,16,1
-107,hitmonchan,14,197,Detect,1,51,
-107,hitmonchan,14,228,Pursuit,1,11,
-107,hitmonchan,14,264,Focus Punch,1,56,
-107,hitmonchan,14,279,Revenge,1,1,1
-107,hitmonchan,14,327,Sky Uppercut,1,41,
-107,hitmonchan,14,364,Feint,1,21,
-107,hitmonchan,14,370,Close Combat,1,66,
-107,hitmonchan,14,410,Vacuum Wave,1,26,
-107,hitmonchan,14,418,Bullet Punch,1,16,2
-107,hitmonchan,14,501,Quick Guard,1,31,
-107,hitmonchan,15,4,Comet Punch,1,1,5
-107,hitmonchan,15,5,Mega Punch,1,46,
-107,hitmonchan,15,7,Fire Punch,1,36,3
-107,hitmonchan,15,8,Ice Punch,1,36,2
-107,hitmonchan,15,9,Thunder Punch,1,36,1
-107,hitmonchan,15,68,Counter,1,1,2
-107,hitmonchan,15,68,Counter,1,61,
-107,hitmonchan,15,97,Agility,1,6,
-107,hitmonchan,15,183,Mach Punch,1,16,1
-107,hitmonchan,15,197,Detect,1,50,
-107,hitmonchan,15,228,Pursuit,1,11,
-107,hitmonchan,15,264,Focus Punch,1,1,3
-107,hitmonchan,15,264,Focus Punch,1,56,
-107,hitmonchan,15,279,Revenge,1,1,4
-107,hitmonchan,15,327,Sky Uppercut,1,41,
-107,hitmonchan,15,364,Feint,1,21,
-107,hitmonchan,15,370,Close Combat,1,1,1
-107,hitmonchan,15,370,Close Combat,1,66,
-107,hitmonchan,15,410,Vacuum Wave,1,26,
-107,hitmonchan,15,418,Bullet Punch,1,16,2
-107,hitmonchan,15,501,Quick Guard,1,31,
-107,hitmonchan,16,4,Comet Punch,1,1,5
-107,hitmonchan,16,5,Mega Punch,1,46,1
-107,hitmonchan,16,7,Fire Punch,1,36,3
-107,hitmonchan,16,8,Ice Punch,1,36,2
-107,hitmonchan,16,9,Thunder Punch,1,36,1
-107,hitmonchan,16,68,Counter,1,1,2
-107,hitmonchan,16,68,Counter,1,61,1
-107,hitmonchan,16,97,Agility,1,6,1
-107,hitmonchan,16,183,Mach Punch,1,16,1
-107,hitmonchan,16,197,Detect,1,50,1
-107,hitmonchan,16,228,Pursuit,1,11,1
-107,hitmonchan,16,264,Focus Punch,1,1,3
-107,hitmonchan,16,264,Focus Punch,1,56,1
-107,hitmonchan,16,279,Revenge,1,1,4
-107,hitmonchan,16,327,Sky Uppercut,1,41,1
-107,hitmonchan,16,364,Feint,1,21,1
-107,hitmonchan,16,370,Close Combat,1,1,1
-107,hitmonchan,16,370,Close Combat,1,66,1
-107,hitmonchan,16,410,Vacuum Wave,1,26,1
-107,hitmonchan,16,418,Bullet Punch,1,16,2
-107,hitmonchan,16,501,Quick Guard,1,31,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+107,1,Comet Punch,1,normal,18,85
+107,1,Agility,1,psychic,-,-
+107,2,Comet Punch,1,normal,18,85
+107,2,Agility,1,psychic,-,-
+107,3,Comet Punch,1,normal,18,85
+107,4,Comet Punch,1,normal,18,85
+107,5,Comet Punch,1,normal,18,85
+107,5,Revenge,1,fighting,60,100
+107,6,Comet Punch,1,normal,18,85
+107,6,Revenge,1,fighting,60,100
+107,7,Comet Punch,1,normal,18,85
+107,7,Revenge,1,fighting,60,100
+107,8,Comet Punch,1,normal,18,85
+107,8,Revenge,1,fighting,60,100
+107,9,Comet Punch,1,normal,18,85
+107,9,Revenge,1,fighting,60,100
+107,10,Comet Punch,1,normal,18,85
+107,10,Revenge,1,fighting,60,100
+107,11,Comet Punch,1,normal,18,85
+107,11,Revenge,1,fighting,60,100
+107,12,Comet Punch,1,normal,18,85
+107,12,Revenge,1,fighting,60,100
+107,13,Comet Punch,1,normal,18,85
+107,13,Revenge,1,fighting,60,100
+107,14,Comet Punch,1,normal,18,85
+107,14,Revenge,1,fighting,60,100
+107,15,Comet Punch,1,normal,18,85
+107,15,Counter,1,fighting,-,100
+107,15,Focus Punch,1,fighting,150,100
+107,15,Revenge,1,fighting,60,100
+107,15,Close Combat,1,fighting,120,100
+107,16,Comet Punch,1,normal,18,85
+107,16,Counter,1,fighting,-,100
+107,16,Focus Punch,1,fighting,150,100
+107,16,Revenge,1,fighting,60,100
+107,16,Close Combat,1,fighting,120,100
+107,8,Agility,6,psychic,-,-
+107,9,Agility,6,psychic,-,-
+107,10,Agility,6,psychic,-,-
+107,11,Agility,6,psychic,-,-
+107,14,Agility,6,psychic,-,-
+107,15,Agility,6,psychic,-,-
+107,16,Agility,6,psychic,-,-
+107,3,Agility,7,psychic,-,-
+107,4,Agility,7,psychic,-,-
+107,5,Agility,7,psychic,-,-
+107,6,Agility,7,psychic,-,-
+107,7,Agility,7,psychic,-,-
+107,12,Agility,7,psychic,-,-
+107,13,Agility,7,psychic,-,-
+107,8,Pursuit,11,dark,40,100
+107,9,Pursuit,11,dark,40,100
+107,10,Pursuit,11,dark,40,100
+107,11,Pursuit,11,dark,40,100
+107,14,Pursuit,11,dark,40,100
+107,15,Pursuit,11,dark,40,100
+107,16,Pursuit,11,dark,40,100
+107,3,Pursuit,13,dark,40,100
+107,4,Pursuit,13,dark,40,100
+107,5,Pursuit,13,dark,40,100
+107,6,Pursuit,13,dark,40,100
+107,7,Pursuit,13,dark,40,100
+107,12,Pursuit,13,dark,40,100
+107,13,Pursuit,13,dark,40,100
+107,8,Mach Punch,16,fighting,40,100
+107,8,Bullet Punch,16,steel,40,100
+107,9,Mach Punch,16,fighting,40,100
+107,9,Bullet Punch,16,steel,40,100
+107,10,Mach Punch,16,fighting,40,100
+107,10,Bullet Punch,16,steel,40,100
+107,11,Mach Punch,16,fighting,40,100
+107,11,Bullet Punch,16,steel,40,100
+107,14,Mach Punch,16,fighting,40,100
+107,14,Bullet Punch,16,steel,40,100
+107,15,Mach Punch,16,fighting,40,100
+107,15,Bullet Punch,16,steel,40,100
+107,16,Mach Punch,16,fighting,40,100
+107,16,Bullet Punch,16,steel,40,100
+107,5,Mach Punch,20,fighting,40,100
+107,6,Mach Punch,20,fighting,40,100
+107,7,Mach Punch,20,fighting,40,100
+107,12,Mach Punch,20,fighting,40,100
+107,13,Mach Punch,20,fighting,40,100
+107,8,Feint,21,normal,30,100
+107,9,Feint,21,normal,30,100
+107,10,Feint,21,normal,30,100
+107,11,Feint,21,normal,30,100
+107,14,Feint,21,normal,30,100
+107,15,Feint,21,normal,30,100
+107,16,Feint,21,normal,30,100
+107,3,Fire Punch,26,fire,75,100
+107,3,Ice Punch,26,ice,75,100
+107,3,Thunder Punch,26,electric,75,100
+107,4,Fire Punch,26,fire,75,100
+107,4,Ice Punch,26,ice,75,100
+107,4,Thunder Punch,26,electric,75,100
+107,5,Fire Punch,26,fire,75,100
+107,5,Ice Punch,26,ice,75,100
+107,5,Thunder Punch,26,electric,75,100
+107,6,Fire Punch,26,fire,75,100
+107,6,Ice Punch,26,ice,75,100
+107,6,Thunder Punch,26,electric,75,100
+107,7,Fire Punch,26,fire,75,100
+107,7,Ice Punch,26,ice,75,100
+107,7,Thunder Punch,26,electric,75,100
+107,8,Vacuum Wave,26,fighting,40,100
+107,9,Vacuum Wave,26,fighting,40,100
+107,10,Vacuum Wave,26,fighting,40,100
+107,11,Vacuum Wave,26,fighting,40,100
+107,12,Fire Punch,26,fire,75,100
+107,12,Ice Punch,26,ice,75,100
+107,12,Thunder Punch,26,electric,75,100
+107,13,Fire Punch,26,fire,75,100
+107,13,Ice Punch,26,ice,75,100
+107,13,Thunder Punch,26,electric,75,100
+107,14,Vacuum Wave,26,fighting,40,100
+107,15,Vacuum Wave,26,fighting,40,100
+107,16,Vacuum Wave,26,fighting,40,100
+107,8,Fire Punch,31,fire,75,100
+107,8,Ice Punch,31,ice,75,100
+107,8,Thunder Punch,31,electric,75,100
+107,9,Fire Punch,31,fire,75,100
+107,9,Ice Punch,31,ice,75,100
+107,9,Thunder Punch,31,electric,75,100
+107,10,Fire Punch,31,fire,75,100
+107,10,Ice Punch,31,ice,75,100
+107,10,Thunder Punch,31,electric,75,100
+107,11,Quick Guard,31,fighting,-,-
+107,14,Quick Guard,31,fighting,-,-
+107,15,Quick Guard,31,fighting,-,-
+107,16,Quick Guard,31,fighting,-,-
+107,3,Mach Punch,32,fighting,40,100
+107,4,Mach Punch,32,fighting,40,100
+107,5,Sky Uppercut,32,fighting,85,90
+107,6,Sky Uppercut,32,fighting,85,90
+107,7,Sky Uppercut,32,fighting,85,90
+107,12,Sky Uppercut,32,fighting,85,90
+107,13,Sky Uppercut,32,fighting,85,90
+107,1,Fire Punch,33,fire,75,100
+107,2,Fire Punch,33,fire,75,100
+107,8,Sky Uppercut,36,fighting,85,90
+107,9,Sky Uppercut,36,fighting,85,90
+107,10,Sky Uppercut,36,fighting,85,90
+107,11,Fire Punch,36,fire,75,100
+107,11,Ice Punch,36,ice,75,100
+107,11,Thunder Punch,36,electric,75,100
+107,14,Fire Punch,36,fire,75,100
+107,14,Ice Punch,36,ice,75,100
+107,14,Thunder Punch,36,electric,75,100
+107,15,Fire Punch,36,fire,75,100
+107,15,Ice Punch,36,ice,75,100
+107,15,Thunder Punch,36,electric,75,100
+107,16,Fire Punch,36,fire,75,100
+107,16,Ice Punch,36,ice,75,100
+107,16,Thunder Punch,36,electric,75,100
+107,1,Ice Punch,38,ice,75,100
+107,2,Ice Punch,38,ice,75,100
+107,3,Mega Punch,38,normal,80,85
+107,4,Mega Punch,38,normal,80,85
+107,5,Mega Punch,38,normal,80,85
+107,6,Mega Punch,38,normal,80,85
+107,7,Mega Punch,38,normal,80,85
+107,12,Mega Punch,38,normal,80,85
+107,13,Mega Punch,38,normal,80,85
+107,8,Mega Punch,41,normal,80,85
+107,9,Mega Punch,41,normal,80,85
+107,10,Mega Punch,41,normal,80,85
+107,11,Sky Uppercut,41,fighting,85,90
+107,14,Sky Uppercut,41,fighting,85,90
+107,15,Sky Uppercut,41,fighting,85,90
+107,16,Sky Uppercut,41,fighting,85,90
+107,1,Thunder Punch,43,electric,75,100
+107,2,Thunder Punch,43,electric,75,100
+107,3,Detect,44,fighting,-,-
+107,4,Detect,44,fighting,-,-
+107,5,Detect,44,fighting,-,-
+107,6,Detect,44,fighting,-,-
+107,7,Detect,44,fighting,-,-
+107,12,Detect,44,fighting,-,-
+107,13,Detect,44,fighting,-,-
+107,8,Detect,46,fighting,-,-
+107,9,Detect,46,fighting,-,-
+107,10,Detect,46,fighting,-,-
+107,11,Mega Punch,46,normal,80,85
+107,14,Mega Punch,46,normal,80,85
+107,15,Mega Punch,46,normal,80,85
+107,16,Mega Punch,46,normal,80,85
+107,1,Mega Punch,48,normal,80,85
+107,2,Mega Punch,48,normal,80,85
+107,3,Counter,50,fighting,-,100
+107,4,Counter,50,fighting,-,100
+107,5,Counter,50,fighting,-,100
+107,6,Counter,50,fighting,-,100
+107,7,Counter,50,fighting,-,100
+107,12,Counter,50,fighting,-,100
+107,13,Counter,50,fighting,-,100
+107,15,Detect,50,fighting,-,-
+107,16,Detect,50,fighting,-,-
+107,8,Counter,51,fighting,-,100
+107,9,Counter,51,fighting,-,100
+107,10,Counter,51,fighting,-,100
+107,11,Detect,51,fighting,-,-
+107,14,Detect,51,fighting,-,-
+107,1,Counter,53,fighting,-,100
+107,2,Counter,53,fighting,-,100
+107,8,Close Combat,56,fighting,120,100
+107,9,Close Combat,56,fighting,120,100
+107,10,Close Combat,56,fighting,120,100
+107,11,Focus Punch,56,fighting,150,100
+107,14,Focus Punch,56,fighting,150,100
+107,15,Focus Punch,56,fighting,150,100
+107,16,Focus Punch,56,fighting,150,100
+107,11,Counter,61,fighting,-,100
+107,14,Counter,61,fighting,-,100
+107,15,Counter,61,fighting,-,100
+107,16,Counter,61,fighting,-,100
+107,11,Close Combat,66,fighting,120,100
+107,14,Close Combat,66,fighting,120,100
+107,15,Close Combat,66,fighting,120,100
+107,16,Close Combat,66,fighting,120,100

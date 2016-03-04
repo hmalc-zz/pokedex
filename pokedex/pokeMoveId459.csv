@@ -1,85 +1,85 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-459,snover,8,43,Leer,1,1,2
-459,snover,8,54,Mist,1,21,
-459,snover,8,59,Blizzard,1,41,
-459,snover,8,75,Razor Leaf,1,5,
-459,snover,8,181,Powder Snow,1,1,1
-459,snover,8,196,Icy Wind,1,9,
-459,snover,8,207,Swagger,1,17,
-459,snover,8,275,Ingrain,1,31,
-459,snover,8,320,Grass Whistle,1,13,
-459,snover,8,329,Sheer Cold,1,46,
-459,snover,8,420,Ice Shard,1,26,
-459,snover,8,452,Wood Hammer,1,36,
-459,snover,9,43,Leer,1,1,2
-459,snover,9,54,Mist,1,21,
-459,snover,9,59,Blizzard,1,41,
-459,snover,9,75,Razor Leaf,1,5,
-459,snover,9,181,Powder Snow,1,1,1
-459,snover,9,196,Icy Wind,1,9,
-459,snover,9,207,Swagger,1,17,
-459,snover,9,275,Ingrain,1,31,
-459,snover,9,320,Grass Whistle,1,13,
-459,snover,9,329,Sheer Cold,1,46,
-459,snover,9,420,Ice Shard,1,26,
-459,snover,9,452,Wood Hammer,1,36,
-459,snover,10,43,Leer,1,1,2
-459,snover,10,54,Mist,1,21,
-459,snover,10,59,Blizzard,1,41,
-459,snover,10,75,Razor Leaf,1,5,
-459,snover,10,181,Powder Snow,1,1,1
-459,snover,10,196,Icy Wind,1,9,
-459,snover,10,207,Swagger,1,17,
-459,snover,10,275,Ingrain,1,31,
-459,snover,10,320,Grass Whistle,1,13,
-459,snover,10,329,Sheer Cold,1,46,
-459,snover,10,420,Ice Shard,1,26,
-459,snover,10,452,Wood Hammer,1,36,
-459,snover,11,43,Leer,1,1,2
-459,snover,11,54,Mist,1,21,
-459,snover,11,59,Blizzard,1,41,
-459,snover,11,75,Razor Leaf,1,5,
-459,snover,11,181,Powder Snow,1,1,1
-459,snover,11,196,Icy Wind,1,9,
-459,snover,11,207,Swagger,1,17,
-459,snover,11,275,Ingrain,1,31,
-459,snover,11,320,Grass Whistle,1,13,
-459,snover,11,329,Sheer Cold,1,46,
-459,snover,11,420,Ice Shard,1,26,
-459,snover,11,452,Wood Hammer,1,36,
-459,snover,14,43,Leer,1,1,2
-459,snover,14,54,Mist,1,21,
-459,snover,14,59,Blizzard,1,41,
-459,snover,14,75,Razor Leaf,1,5,
-459,snover,14,181,Powder Snow,1,1,1
-459,snover,14,196,Icy Wind,1,9,
-459,snover,14,207,Swagger,1,17,
-459,snover,14,275,Ingrain,1,31,
-459,snover,14,320,Grass Whistle,1,13,
-459,snover,14,329,Sheer Cold,1,46,
-459,snover,14,420,Ice Shard,1,26,
-459,snover,14,452,Wood Hammer,1,36,
-459,snover,15,43,Leer,1,1,2
-459,snover,15,54,Mist,1,21,
-459,snover,15,59,Blizzard,1,41,
-459,snover,15,75,Razor Leaf,1,5,
-459,snover,15,181,Powder Snow,1,1,1
-459,snover,15,196,Icy Wind,1,9,
-459,snover,15,207,Swagger,1,17,
-459,snover,15,275,Ingrain,1,31,
-459,snover,15,320,Grass Whistle,1,13,
-459,snover,15,329,Sheer Cold,1,46,
-459,snover,15,420,Ice Shard,1,26,
-459,snover,15,452,Wood Hammer,1,36,
-459,snover,16,43,Leer,1,1,2
-459,snover,16,54,Mist,1,21,1
-459,snover,16,59,Blizzard,1,41,1
-459,snover,16,75,Razor Leaf,1,5,1
-459,snover,16,181,Powder Snow,1,1,1
-459,snover,16,196,Icy Wind,1,9,1
-459,snover,16,207,Swagger,1,17,1
-459,snover,16,275,Ingrain,1,31,1
-459,snover,16,320,Grass Whistle,1,13,1
-459,snover,16,329,Sheer Cold,1,46,1
-459,snover,16,420,Ice Shard,1,26,1
-459,snover,16,452,Wood Hammer,1,36,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+459,8,Leer,1,normal,-,100
+459,8,Powder Snow,1,ice,40,100
+459,9,Leer,1,normal,-,100
+459,9,Powder Snow,1,ice,40,100
+459,10,Leer,1,normal,-,100
+459,10,Powder Snow,1,ice,40,100
+459,11,Leer,1,normal,-,100
+459,11,Powder Snow,1,ice,40,100
+459,14,Leer,1,normal,-,100
+459,14,Powder Snow,1,ice,40,100
+459,15,Leer,1,normal,-,100
+459,15,Powder Snow,1,ice,40,100
+459,16,Leer,1,normal,-,100
+459,16,Powder Snow,1,ice,40,100
+459,8,Razor Leaf,5,grass,55,95
+459,9,Razor Leaf,5,grass,55,95
+459,10,Razor Leaf,5,grass,55,95
+459,11,Razor Leaf,5,grass,55,95
+459,14,Razor Leaf,5,grass,55,95
+459,15,Razor Leaf,5,grass,55,95
+459,16,Razor Leaf,5,grass,55,95
+459,8,Icy Wind,9,ice,55,95
+459,9,Icy Wind,9,ice,55,95
+459,10,Icy Wind,9,ice,55,95
+459,11,Icy Wind,9,ice,55,95
+459,14,Icy Wind,9,ice,55,95
+459,15,Icy Wind,9,ice,55,95
+459,16,Icy Wind,9,ice,55,95
+459,8,Grass Whistle,13,grass,-,55
+459,9,Grass Whistle,13,grass,-,55
+459,10,Grass Whistle,13,grass,-,55
+459,11,Grass Whistle,13,grass,-,55
+459,14,Grass Whistle,13,grass,-,55
+459,15,Grass Whistle,13,grass,-,55
+459,16,Grass Whistle,13,grass,-,55
+459,8,Swagger,17,normal,-,90
+459,9,Swagger,17,normal,-,90
+459,10,Swagger,17,normal,-,90
+459,11,Swagger,17,normal,-,90
+459,14,Swagger,17,normal,-,90
+459,15,Swagger,17,normal,-,90
+459,16,Swagger,17,normal,-,90
+459,8,Mist,21,ice,-,-
+459,9,Mist,21,ice,-,-
+459,10,Mist,21,ice,-,-
+459,11,Mist,21,ice,-,-
+459,14,Mist,21,ice,-,-
+459,15,Mist,21,ice,-,-
+459,16,Mist,21,ice,-,-
+459,8,Ice Shard,26,ice,40,100
+459,9,Ice Shard,26,ice,40,100
+459,10,Ice Shard,26,ice,40,100
+459,11,Ice Shard,26,ice,40,100
+459,14,Ice Shard,26,ice,40,100
+459,15,Ice Shard,26,ice,40,100
+459,16,Ice Shard,26,ice,40,100
+459,8,Ingrain,31,grass,-,-
+459,9,Ingrain,31,grass,-,-
+459,10,Ingrain,31,grass,-,-
+459,11,Ingrain,31,grass,-,-
+459,14,Ingrain,31,grass,-,-
+459,15,Ingrain,31,grass,-,-
+459,16,Ingrain,31,grass,-,-
+459,8,Wood Hammer,36,grass,120,100
+459,9,Wood Hammer,36,grass,120,100
+459,10,Wood Hammer,36,grass,120,100
+459,11,Wood Hammer,36,grass,120,100
+459,14,Wood Hammer,36,grass,120,100
+459,15,Wood Hammer,36,grass,120,100
+459,16,Wood Hammer,36,grass,120,100
+459,8,Blizzard,41,ice,110,70
+459,9,Blizzard,41,ice,110,70
+459,10,Blizzard,41,ice,110,70
+459,11,Blizzard,41,ice,110,70
+459,14,Blizzard,41,ice,110,70
+459,15,Blizzard,41,ice,110,70
+459,16,Blizzard,41,ice,110,70
+459,8,Sheer Cold,46,ice,-,30
+459,9,Sheer Cold,46,ice,-,30
+459,10,Sheer Cold,46,ice,-,30
+459,11,Sheer Cold,46,ice,-,30
+459,14,Sheer Cold,46,ice,-,30
+459,15,Sheer Cold,46,ice,-,30
+459,16,Sheer Cold,46,ice,-,30

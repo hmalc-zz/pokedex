@@ -1,181 +1,181 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-146,moltres,1,43,Leer,1,51,
-146,moltres,1,64,Peck,1,1,1
-146,moltres,1,83,Fire Spin,1,1,2
-146,moltres,1,97,Agility,1,55,
-146,moltres,1,143,Sky Attack,1,60,
-146,moltres,2,43,Leer,1,51,
-146,moltres,2,64,Peck,1,1,1
-146,moltres,2,83,Fire Spin,1,1,2
-146,moltres,2,97,Agility,1,55,
-146,moltres,2,143,Sky Attack,1,60,
-146,moltres,3,17,Wing Attack,1,1,1
-146,moltres,3,52,Ember,1,1,2
-146,moltres,3,53,Flamethrower,1,49,
-146,moltres,3,83,Fire Spin,1,13,
-146,moltres,3,97,Agility,1,25,
-146,moltres,3,143,Sky Attack,1,73,
-146,moltres,3,203,Endure,1,37,
-146,moltres,3,219,Safeguard,1,61,
-146,moltres,4,17,Wing Attack,1,1,1
-146,moltres,4,52,Ember,1,1,2
-146,moltres,4,53,Flamethrower,1,49,
-146,moltres,4,83,Fire Spin,1,13,
-146,moltres,4,97,Agility,1,25,
-146,moltres,4,143,Sky Attack,1,73,
-146,moltres,4,203,Endure,1,37,
-146,moltres,4,219,Safeguard,1,61,
-146,moltres,5,17,Wing Attack,1,1,1
-146,moltres,5,52,Ember,1,1,2
-146,moltres,5,53,Flamethrower,1,49,
-146,moltres,5,83,Fire Spin,1,13,
-146,moltres,5,97,Agility,1,25,
-146,moltres,5,143,Sky Attack,1,85,
-146,moltres,5,203,Endure,1,37,
-146,moltres,5,219,Safeguard,1,61,
-146,moltres,5,257,Heat Wave,1,73,
-146,moltres,6,17,Wing Attack,1,1,1
-146,moltres,6,52,Ember,1,1,2
-146,moltres,6,53,Flamethrower,1,49,
-146,moltres,6,83,Fire Spin,1,13,
-146,moltres,6,97,Agility,1,25,
-146,moltres,6,143,Sky Attack,1,85,
-146,moltres,6,203,Endure,1,37,
-146,moltres,6,219,Safeguard,1,61,
-146,moltres,6,257,Heat Wave,1,73,
-146,moltres,7,17,Wing Attack,1,1,1
-146,moltres,7,52,Ember,1,1,2
-146,moltres,7,53,Flamethrower,1,49,
-146,moltres,7,83,Fire Spin,1,13,
-146,moltres,7,97,Agility,1,25,
-146,moltres,7,143,Sky Attack,1,85,
-146,moltres,7,203,Endure,1,37,
-146,moltres,7,219,Safeguard,1,61,
-146,moltres,7,257,Heat Wave,1,73,
-146,moltres,8,17,Wing Attack,1,1,1
-146,moltres,8,52,Ember,1,1,2
-146,moltres,8,53,Flamethrower,1,36,
-146,moltres,8,76,Solar Beam,1,71,
-146,moltres,8,83,Fire Spin,1,8,
-146,moltres,8,97,Agility,1,15,
-146,moltres,8,143,Sky Attack,1,78,
-146,moltres,8,203,Endure,1,22,
-146,moltres,8,219,Safeguard,1,43,
-146,moltres,8,241,Sunny Day,1,85,
-146,moltres,8,246,Ancient Power,1,29,
-146,moltres,8,257,Heat Wave,1,64,
-146,moltres,8,355,Roost,1,57,
-146,moltres,8,403,Air Slash,1,50,
-146,moltres,9,17,Wing Attack,1,1,1
-146,moltres,9,52,Ember,1,1,2
-146,moltres,9,53,Flamethrower,1,36,
-146,moltres,9,76,Solar Beam,1,71,
-146,moltres,9,83,Fire Spin,1,8,
-146,moltres,9,97,Agility,1,15,
-146,moltres,9,143,Sky Attack,1,78,
-146,moltres,9,203,Endure,1,22,
-146,moltres,9,219,Safeguard,1,43,
-146,moltres,9,241,Sunny Day,1,85,
-146,moltres,9,246,Ancient Power,1,29,
-146,moltres,9,257,Heat Wave,1,64,
-146,moltres,9,355,Roost,1,57,
-146,moltres,9,403,Air Slash,1,50,
-146,moltres,10,17,Wing Attack,1,1,1
-146,moltres,10,52,Ember,1,1,2
-146,moltres,10,53,Flamethrower,1,36,
-146,moltres,10,76,Solar Beam,1,71,
-146,moltres,10,83,Fire Spin,1,8,
-146,moltres,10,97,Agility,1,15,
-146,moltres,10,143,Sky Attack,1,78,
-146,moltres,10,203,Endure,1,22,
-146,moltres,10,219,Safeguard,1,43,
-146,moltres,10,241,Sunny Day,1,85,
-146,moltres,10,246,Ancient Power,1,29,
-146,moltres,10,257,Heat Wave,1,64,
-146,moltres,10,355,Roost,1,57,
-146,moltres,10,403,Air Slash,1,50,
-146,moltres,11,17,Wing Attack,1,1,1
-146,moltres,11,52,Ember,1,1,2
-146,moltres,11,53,Flamethrower,1,36,
-146,moltres,11,76,Solar Beam,1,71,
-146,moltres,11,83,Fire Spin,1,8,
-146,moltres,11,97,Agility,1,15,
-146,moltres,11,143,Sky Attack,1,78,
-146,moltres,11,203,Endure,1,22,
-146,moltres,11,219,Safeguard,1,43,
-146,moltres,11,241,Sunny Day,1,85,
-146,moltres,11,246,Ancient Power,1,29,
-146,moltres,11,257,Heat Wave,1,64,
-146,moltres,11,355,Roost,1,57,
-146,moltres,11,403,Air Slash,1,50,
-146,moltres,12,17,Wing Attack,1,1,1
-146,moltres,12,52,Ember,1,1,2
-146,moltres,12,53,Flamethrower,1,49,
-146,moltres,12,83,Fire Spin,1,13,
-146,moltres,12,97,Agility,1,25,
-146,moltres,12,143,Sky Attack,1,85,
-146,moltres,12,203,Endure,1,37,
-146,moltres,12,219,Safeguard,1,61,
-146,moltres,12,257,Heat Wave,1,73,
-146,moltres,13,17,Wing Attack,1,1,1
-146,moltres,13,52,Ember,1,1,2
-146,moltres,13,53,Flamethrower,1,49,
-146,moltres,13,83,Fire Spin,1,13,
-146,moltres,13,97,Agility,1,25,
-146,moltres,13,143,Sky Attack,1,85,
-146,moltres,13,203,Endure,1,37,
-146,moltres,13,219,Safeguard,1,61,
-146,moltres,13,257,Heat Wave,1,73,
-146,moltres,14,17,Wing Attack,1,1,1
-146,moltres,14,52,Ember,1,1,2
-146,moltres,14,53,Flamethrower,1,36,
-146,moltres,14,76,Solar Beam,1,71,
-146,moltres,14,83,Fire Spin,1,8,
-146,moltres,14,97,Agility,1,15,
-146,moltres,14,143,Sky Attack,1,78,
-146,moltres,14,203,Endure,1,22,
-146,moltres,14,219,Safeguard,1,43,
-146,moltres,14,241,Sunny Day,1,85,
-146,moltres,14,246,Ancient Power,1,29,
-146,moltres,14,257,Heat Wave,1,64,
-146,moltres,14,355,Roost,1,57,
-146,moltres,14,403,Air Slash,1,50,
-146,moltres,14,542,Hurricane,1,92,
-146,moltres,15,17,Wing Attack,1,1,5
-146,moltres,15,52,Ember,1,1,6
-146,moltres,15,53,Flamethrower,1,36,
-146,moltres,15,76,Solar Beam,1,71,
-146,moltres,15,83,Fire Spin,1,8,
-146,moltres,15,97,Agility,1,15,
-146,moltres,15,143,Sky Attack,1,1,3
-146,moltres,15,143,Sky Attack,1,78,
-146,moltres,15,203,Endure,1,22,
-146,moltres,15,219,Safeguard,1,43,
-146,moltres,15,241,Sunny Day,1,57,
-146,moltres,15,246,Ancient Power,1,29,
-146,moltres,15,257,Heat Wave,1,1,4
-146,moltres,15,257,Heat Wave,1,64,
-146,moltres,15,355,Roost,1,1,1
-146,moltres,15,355,Roost,1,85,
-146,moltres,15,403,Air Slash,1,50,
-146,moltres,15,542,Hurricane,1,1,2
-146,moltres,15,542,Hurricane,1,92,
-146,moltres,16,17,Wing Attack,1,1,5
-146,moltres,16,52,Ember,1,1,6
-146,moltres,16,53,Flamethrower,1,36,1
-146,moltres,16,76,Solar Beam,1,71,1
-146,moltres,16,83,Fire Spin,1,8,1
-146,moltres,16,97,Agility,1,15,1
-146,moltres,16,143,Sky Attack,1,1,3
-146,moltres,16,143,Sky Attack,1,78,1
-146,moltres,16,203,Endure,1,22,1
-146,moltres,16,219,Safeguard,1,43,1
-146,moltres,16,241,Sunny Day,1,57,1
-146,moltres,16,246,Ancient Power,1,29,1
-146,moltres,16,257,Heat Wave,1,1,4
-146,moltres,16,257,Heat Wave,1,64,1
-146,moltres,16,355,Roost,1,1,1
-146,moltres,16,355,Roost,1,85,1
-146,moltres,16,403,Air Slash,1,50,1
-146,moltres,16,542,Hurricane,1,1,2
-146,moltres,16,542,Hurricane,1,92,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+146,1,Peck,1,flying,35,100
+146,1,Fire Spin,1,fire,35,85
+146,2,Peck,1,flying,35,100
+146,2,Fire Spin,1,fire,35,85
+146,3,Wing Attack,1,flying,60,100
+146,3,Ember,1,fire,40,100
+146,4,Wing Attack,1,flying,60,100
+146,4,Ember,1,fire,40,100
+146,5,Wing Attack,1,flying,60,100
+146,5,Ember,1,fire,40,100
+146,6,Wing Attack,1,flying,60,100
+146,6,Ember,1,fire,40,100
+146,7,Wing Attack,1,flying,60,100
+146,7,Ember,1,fire,40,100
+146,8,Wing Attack,1,flying,60,100
+146,8,Ember,1,fire,40,100
+146,9,Wing Attack,1,flying,60,100
+146,9,Ember,1,fire,40,100
+146,10,Wing Attack,1,flying,60,100
+146,10,Ember,1,fire,40,100
+146,11,Wing Attack,1,flying,60,100
+146,11,Ember,1,fire,40,100
+146,12,Wing Attack,1,flying,60,100
+146,12,Ember,1,fire,40,100
+146,13,Wing Attack,1,flying,60,100
+146,13,Ember,1,fire,40,100
+146,14,Wing Attack,1,flying,60,100
+146,14,Ember,1,fire,40,100
+146,15,Wing Attack,1,flying,60,100
+146,15,Ember,1,fire,40,100
+146,15,Sky Attack,1,flying,140,90
+146,15,Heat Wave,1,fire,95,90
+146,15,Roost,1,flying,-,-
+146,15,Hurricane,1,flying,110,70
+146,16,Wing Attack,1,flying,60,100
+146,16,Ember,1,fire,40,100
+146,16,Sky Attack,1,flying,140,90
+146,16,Heat Wave,1,fire,95,90
+146,16,Roost,1,flying,-,-
+146,16,Hurricane,1,flying,110,70
+146,8,Fire Spin,8,fire,35,85
+146,9,Fire Spin,8,fire,35,85
+146,10,Fire Spin,8,fire,35,85
+146,11,Fire Spin,8,fire,35,85
+146,14,Fire Spin,8,fire,35,85
+146,15,Fire Spin,8,fire,35,85
+146,16,Fire Spin,8,fire,35,85
+146,3,Fire Spin,13,fire,35,85
+146,4,Fire Spin,13,fire,35,85
+146,5,Fire Spin,13,fire,35,85
+146,6,Fire Spin,13,fire,35,85
+146,7,Fire Spin,13,fire,35,85
+146,12,Fire Spin,13,fire,35,85
+146,13,Fire Spin,13,fire,35,85
+146,8,Agility,15,psychic,-,-
+146,9,Agility,15,psychic,-,-
+146,10,Agility,15,psychic,-,-
+146,11,Agility,15,psychic,-,-
+146,14,Agility,15,psychic,-,-
+146,15,Agility,15,psychic,-,-
+146,16,Agility,15,psychic,-,-
+146,8,Endure,22,normal,-,-
+146,9,Endure,22,normal,-,-
+146,10,Endure,22,normal,-,-
+146,11,Endure,22,normal,-,-
+146,14,Endure,22,normal,-,-
+146,15,Endure,22,normal,-,-
+146,16,Endure,22,normal,-,-
+146,3,Agility,25,psychic,-,-
+146,4,Agility,25,psychic,-,-
+146,5,Agility,25,psychic,-,-
+146,6,Agility,25,psychic,-,-
+146,7,Agility,25,psychic,-,-
+146,12,Agility,25,psychic,-,-
+146,13,Agility,25,psychic,-,-
+146,8,Ancient Power,29,rock,60,100
+146,9,Ancient Power,29,rock,60,100
+146,10,Ancient Power,29,rock,60,100
+146,11,Ancient Power,29,rock,60,100
+146,14,Ancient Power,29,rock,60,100
+146,15,Ancient Power,29,rock,60,100
+146,16,Ancient Power,29,rock,60,100
+146,8,Flamethrower,36,fire,90,100
+146,9,Flamethrower,36,fire,90,100
+146,10,Flamethrower,36,fire,90,100
+146,11,Flamethrower,36,fire,90,100
+146,14,Flamethrower,36,fire,90,100
+146,15,Flamethrower,36,fire,90,100
+146,16,Flamethrower,36,fire,90,100
+146,3,Endure,37,normal,-,-
+146,4,Endure,37,normal,-,-
+146,5,Endure,37,normal,-,-
+146,6,Endure,37,normal,-,-
+146,7,Endure,37,normal,-,-
+146,12,Endure,37,normal,-,-
+146,13,Endure,37,normal,-,-
+146,8,Safeguard,43,normal,-,-
+146,9,Safeguard,43,normal,-,-
+146,10,Safeguard,43,normal,-,-
+146,11,Safeguard,43,normal,-,-
+146,14,Safeguard,43,normal,-,-
+146,15,Safeguard,43,normal,-,-
+146,16,Safeguard,43,normal,-,-
+146,3,Flamethrower,49,fire,90,100
+146,4,Flamethrower,49,fire,90,100
+146,5,Flamethrower,49,fire,90,100
+146,6,Flamethrower,49,fire,90,100
+146,7,Flamethrower,49,fire,90,100
+146,12,Flamethrower,49,fire,90,100
+146,13,Flamethrower,49,fire,90,100
+146,8,Air Slash,50,flying,75,95
+146,9,Air Slash,50,flying,75,95
+146,10,Air Slash,50,flying,75,95
+146,11,Air Slash,50,flying,75,95
+146,14,Air Slash,50,flying,75,95
+146,15,Air Slash,50,flying,75,95
+146,16,Air Slash,50,flying,75,95
+146,1,Leer,51,normal,-,100
+146,2,Leer,51,normal,-,100
+146,1,Agility,55,psychic,-,-
+146,2,Agility,55,psychic,-,-
+146,8,Roost,57,flying,-,-
+146,9,Roost,57,flying,-,-
+146,10,Roost,57,flying,-,-
+146,11,Roost,57,flying,-,-
+146,14,Roost,57,flying,-,-
+146,15,Sunny Day,57,fire,-,-
+146,16,Sunny Day,57,fire,-,-
+146,1,Sky Attack,60,flying,140,90
+146,2,Sky Attack,60,flying,140,90
+146,3,Safeguard,61,normal,-,-
+146,4,Safeguard,61,normal,-,-
+146,5,Safeguard,61,normal,-,-
+146,6,Safeguard,61,normal,-,-
+146,7,Safeguard,61,normal,-,-
+146,12,Safeguard,61,normal,-,-
+146,13,Safeguard,61,normal,-,-
+146,8,Heat Wave,64,fire,95,90
+146,9,Heat Wave,64,fire,95,90
+146,10,Heat Wave,64,fire,95,90
+146,11,Heat Wave,64,fire,95,90
+146,14,Heat Wave,64,fire,95,90
+146,15,Heat Wave,64,fire,95,90
+146,16,Heat Wave,64,fire,95,90
+146,8,Solar Beam,71,grass,120,100
+146,9,Solar Beam,71,grass,120,100
+146,10,Solar Beam,71,grass,120,100
+146,11,Solar Beam,71,grass,120,100
+146,14,Solar Beam,71,grass,120,100
+146,15,Solar Beam,71,grass,120,100
+146,16,Solar Beam,71,grass,120,100
+146,3,Sky Attack,73,flying,140,90
+146,4,Sky Attack,73,flying,140,90
+146,5,Heat Wave,73,fire,95,90
+146,6,Heat Wave,73,fire,95,90
+146,7,Heat Wave,73,fire,95,90
+146,12,Heat Wave,73,fire,95,90
+146,13,Heat Wave,73,fire,95,90
+146,8,Sky Attack,78,flying,140,90
+146,9,Sky Attack,78,flying,140,90
+146,10,Sky Attack,78,flying,140,90
+146,11,Sky Attack,78,flying,140,90
+146,14,Sky Attack,78,flying,140,90
+146,15,Sky Attack,78,flying,140,90
+146,16,Sky Attack,78,flying,140,90
+146,5,Sky Attack,85,flying,140,90
+146,6,Sky Attack,85,flying,140,90
+146,7,Sky Attack,85,flying,140,90
+146,8,Sunny Day,85,fire,-,-
+146,9,Sunny Day,85,fire,-,-
+146,10,Sunny Day,85,fire,-,-
+146,11,Sunny Day,85,fire,-,-
+146,12,Sky Attack,85,flying,140,90
+146,13,Sky Attack,85,flying,140,90
+146,14,Sunny Day,85,fire,-,-
+146,15,Roost,85,flying,-,-
+146,16,Roost,85,flying,-,-
+146,14,Hurricane,92,flying,110,70
+146,15,Hurricane,92,flying,110,70
+146,16,Hurricane,92,flying,110,70

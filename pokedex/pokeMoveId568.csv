@@ -1,67 +1,67 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-568,trubbish,11,1,Pound,1,1,1
-568,trubbish,11,3,Double Slap,1,14,
-568,trubbish,11,36,Take Down,1,25,
-568,trubbish,11,92,Toxic,1,36,
-568,trubbish,11,124,Sludge,1,18,
-568,trubbish,11,133,Amnesia,1,40,
-568,trubbish,11,139,Poison Gas,1,1,2
-568,trubbish,11,153,Explosion,1,47,
-568,trubbish,11,188,Sludge Bomb,1,29,
-568,trubbish,11,254,Stockpile,1,23,1
-568,trubbish,11,256,Swallow,1,23,2
-568,trubbish,11,278,Recycle,1,3,
-568,trubbish,11,390,Toxic Spikes,1,7,
-568,trubbish,11,441,Gunk Shot,1,45,
-568,trubbish,11,491,Acid Spray,1,12,
-568,trubbish,11,499,Clear Smog,1,34,
-568,trubbish,14,1,Pound,1,1,1
-568,trubbish,14,3,Double Slap,1,14,
-568,trubbish,14,36,Take Down,1,25,
-568,trubbish,14,92,Toxic,1,36,
-568,trubbish,14,124,Sludge,1,18,
-568,trubbish,14,133,Amnesia,1,40,
-568,trubbish,14,139,Poison Gas,1,1,2
-568,trubbish,14,153,Explosion,1,47,
-568,trubbish,14,188,Sludge Bomb,1,29,
-568,trubbish,14,254,Stockpile,1,23,1
-568,trubbish,14,256,Swallow,1,23,2
-568,trubbish,14,278,Recycle,1,3,
-568,trubbish,14,390,Toxic Spikes,1,7,
-568,trubbish,14,441,Gunk Shot,1,45,
-568,trubbish,14,491,Acid Spray,1,12,
-568,trubbish,14,499,Clear Smog,1,34,
-568,trubbish,15,1,Pound,1,1,1
-568,trubbish,15,3,Double Slap,1,14,
-568,trubbish,15,36,Take Down,1,25,
-568,trubbish,15,92,Toxic,1,36,
-568,trubbish,15,124,Sludge,1,18,
-568,trubbish,15,133,Amnesia,1,40,
-568,trubbish,15,139,Poison Gas,1,1,2
-568,trubbish,15,153,Explosion,1,47,
-568,trubbish,15,188,Sludge Bomb,1,29,
-568,trubbish,15,254,Stockpile,1,23,1
-568,trubbish,15,256,Swallow,1,23,2
-568,trubbish,15,278,Recycle,1,3,
-568,trubbish,15,390,Toxic Spikes,1,7,
-568,trubbish,15,441,Gunk Shot,1,45,
-568,trubbish,15,491,Acid Spray,1,12,
-568,trubbish,15,499,Clear Smog,1,34,
-568,trubbish,15,562,Belch,1,42,
-568,trubbish,16,1,Pound,1,1,1
-568,trubbish,16,3,Double Slap,1,14,1
-568,trubbish,16,36,Take Down,1,25,1
-568,trubbish,16,92,Toxic,1,36,1
-568,trubbish,16,124,Sludge,1,18,1
-568,trubbish,16,133,Amnesia,1,40,1
-568,trubbish,16,139,Poison Gas,1,1,2
-568,trubbish,16,153,Explosion,1,47,1
-568,trubbish,16,188,Sludge Bomb,1,29,1
-568,trubbish,16,254,Stockpile,1,23,1
-568,trubbish,16,256,Swallow,1,23,2
-568,trubbish,16,278,Recycle,1,3,1
-568,trubbish,16,390,Toxic Spikes,1,7,1
-568,trubbish,16,441,Gunk Shot,1,45,1
-568,trubbish,16,491,Acid Spray,1,12,1
-568,trubbish,16,499,Clear Smog,1,34,1
-568,trubbish,16,562,Belch,1,42,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+568,11,Pound,1,normal,40,100
+568,11,Poison Gas,1,poison,-,90
+568,14,Pound,1,normal,40,100
+568,14,Poison Gas,1,poison,-,90
+568,15,Pound,1,normal,40,100
+568,15,Poison Gas,1,poison,-,90
+568,16,Pound,1,normal,40,100
+568,16,Poison Gas,1,poison,-,90
+568,11,Recycle,3,normal,-,-
+568,14,Recycle,3,normal,-,-
+568,15,Recycle,3,normal,-,-
+568,16,Recycle,3,normal,-,-
+568,11,Toxic Spikes,7,poison,-,-
+568,14,Toxic Spikes,7,poison,-,-
+568,15,Toxic Spikes,7,poison,-,-
+568,16,Toxic Spikes,7,poison,-,-
+568,11,Acid Spray,12,poison,40,100
+568,14,Acid Spray,12,poison,40,100
+568,15,Acid Spray,12,poison,40,100
+568,16,Acid Spray,12,poison,40,100
+568,11,Double Slap,14,normal,15,85
+568,14,Double Slap,14,normal,15,85
+568,15,Double Slap,14,normal,15,85
+568,16,Double Slap,14,normal,15,85
+568,11,Sludge,18,poison,65,100
+568,14,Sludge,18,poison,65,100
+568,15,Sludge,18,poison,65,100
+568,16,Sludge,18,poison,65,100
+568,11,Stockpile,23,normal,-,-
+568,11,Swallow,23,normal,-,-
+568,14,Stockpile,23,normal,-,-
+568,14,Swallow,23,normal,-,-
+568,15,Stockpile,23,normal,-,-
+568,15,Swallow,23,normal,-,-
+568,16,Stockpile,23,normal,-,-
+568,16,Swallow,23,normal,-,-
+568,11,Take Down,25,normal,90,85
+568,14,Take Down,25,normal,90,85
+568,15,Take Down,25,normal,90,85
+568,16,Take Down,25,normal,90,85
+568,11,Sludge Bomb,29,poison,90,100
+568,14,Sludge Bomb,29,poison,90,100
+568,15,Sludge Bomb,29,poison,90,100
+568,16,Sludge Bomb,29,poison,90,100
+568,11,Clear Smog,34,poison,50,-
+568,14,Clear Smog,34,poison,50,-
+568,15,Clear Smog,34,poison,50,-
+568,16,Clear Smog,34,poison,50,-
+568,11,Toxic,36,poison,-,90
+568,14,Toxic,36,poison,-,90
+568,15,Toxic,36,poison,-,90
+568,16,Toxic,36,poison,-,90
+568,11,Amnesia,40,psychic,-,-
+568,14,Amnesia,40,psychic,-,-
+568,15,Amnesia,40,psychic,-,-
+568,16,Amnesia,40,psychic,-,-
+568,15,Belch,42,poison,120,90
+568,16,Belch,42,poison,120,90
+568,11,Gunk Shot,45,poison,120,80
+568,14,Gunk Shot,45,poison,120,80
+568,15,Gunk Shot,45,poison,120,80
+568,16,Gunk Shot,45,poison,120,80
+568,11,Explosion,47,normal,250,100
+568,14,Explosion,47,normal,250,100
+568,15,Explosion,47,normal,250,100
+568,16,Explosion,47,normal,250,100

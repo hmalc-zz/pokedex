@@ -1,5 +1,5 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-665,spewpa,15,106,Harden,1,1,
-665,spewpa,15,182,Protect,1,9,
-665,spewpa,16,106,Harden,1,1,1
-665,spewpa,16,182,Protect,1,9,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+665,15,Harden,1,normal,-,-
+665,16,Harden,1,normal,-,-
+665,15,Protect,9,normal,-,-
+665,16,Protect,9,normal,-,-

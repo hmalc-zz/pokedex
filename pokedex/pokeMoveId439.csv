@@ -1,127 +1,127 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-439,mime-jr,8,3,Double Slap,1,15,
-439,mime-jr,8,60,Psybeam,1,25,
-439,mime-jr,8,93,Confusion,1,1,3
-439,mime-jr,8,94,Psychic,1,39,
-439,mime-jr,8,96,Meditate,1,8,
-439,mime-jr,8,102,Mimic,1,18,
-439,mime-jr,8,112,Barrier,1,1,2
-439,mime-jr,8,113,Light Screen,1,22,1
-439,mime-jr,8,115,Reflect,1,22,2
-439,mime-jr,8,164,Substitute,1,29,
-439,mime-jr,8,219,Safeguard,1,50,
-439,mime-jr,8,226,Baton Pass,1,46,
-439,mime-jr,8,227,Encore,1,11,
-439,mime-jr,8,271,Trick,1,36,
-439,mime-jr,8,272,Role Play,1,43,
-439,mime-jr,8,278,Recycle,1,32,
-439,mime-jr,8,321,Tickle,1,1,1
-439,mime-jr,8,383,Copycat,1,4,
-439,mime-jr,9,3,Double Slap,1,15,
-439,mime-jr,9,60,Psybeam,1,25,
-439,mime-jr,9,93,Confusion,1,1,3
-439,mime-jr,9,94,Psychic,1,39,
-439,mime-jr,9,96,Meditate,1,8,
-439,mime-jr,9,102,Mimic,1,18,
-439,mime-jr,9,112,Barrier,1,1,2
-439,mime-jr,9,113,Light Screen,1,22,1
-439,mime-jr,9,115,Reflect,1,22,2
-439,mime-jr,9,164,Substitute,1,29,
-439,mime-jr,9,219,Safeguard,1,50,
-439,mime-jr,9,226,Baton Pass,1,46,
-439,mime-jr,9,227,Encore,1,11,
-439,mime-jr,9,271,Trick,1,36,
-439,mime-jr,9,272,Role Play,1,43,
-439,mime-jr,9,278,Recycle,1,32,
-439,mime-jr,9,321,Tickle,1,1,1
-439,mime-jr,9,383,Copycat,1,4,
-439,mime-jr,10,3,Double Slap,1,15,
-439,mime-jr,10,60,Psybeam,1,25,
-439,mime-jr,10,93,Confusion,1,1,3
-439,mime-jr,10,94,Psychic,1,39,
-439,mime-jr,10,96,Meditate,1,8,
-439,mime-jr,10,102,Mimic,1,18,
-439,mime-jr,10,112,Barrier,1,1,2
-439,mime-jr,10,113,Light Screen,1,22,1
-439,mime-jr,10,115,Reflect,1,22,2
-439,mime-jr,10,164,Substitute,1,29,
-439,mime-jr,10,219,Safeguard,1,50,
-439,mime-jr,10,226,Baton Pass,1,46,
-439,mime-jr,10,227,Encore,1,11,
-439,mime-jr,10,271,Trick,1,36,
-439,mime-jr,10,272,Role Play,1,43,
-439,mime-jr,10,278,Recycle,1,32,
-439,mime-jr,10,321,Tickle,1,1,1
-439,mime-jr,10,383,Copycat,1,4,
-439,mime-jr,11,3,Double Slap,1,15,
-439,mime-jr,11,60,Psybeam,1,25,
-439,mime-jr,11,93,Confusion,1,1,3
-439,mime-jr,11,94,Psychic,1,39,
-439,mime-jr,11,96,Meditate,1,8,
-439,mime-jr,11,102,Mimic,1,18,
-439,mime-jr,11,112,Barrier,1,1,2
-439,mime-jr,11,113,Light Screen,1,22,1
-439,mime-jr,11,115,Reflect,1,22,2
-439,mime-jr,11,164,Substitute,1,29,
-439,mime-jr,11,219,Safeguard,1,50,
-439,mime-jr,11,226,Baton Pass,1,46,
-439,mime-jr,11,227,Encore,1,11,
-439,mime-jr,11,271,Trick,1,36,
-439,mime-jr,11,272,Role Play,1,43,
-439,mime-jr,11,278,Recycle,1,32,
-439,mime-jr,11,321,Tickle,1,1,1
-439,mime-jr,11,383,Copycat,1,4,
-439,mime-jr,14,3,Double Slap,1,11,
-439,mime-jr,14,60,Psybeam,1,25,
-439,mime-jr,14,93,Confusion,1,1,3
-439,mime-jr,14,94,Psychic,1,39,
-439,mime-jr,14,96,Meditate,1,8,
-439,mime-jr,14,102,Mimic,1,15,
-439,mime-jr,14,112,Barrier,1,1,2
-439,mime-jr,14,113,Light Screen,1,22,1
-439,mime-jr,14,115,Reflect,1,22,2
-439,mime-jr,14,164,Substitute,1,29,
-439,mime-jr,14,219,Safeguard,1,50,
-439,mime-jr,14,226,Baton Pass,1,46,
-439,mime-jr,14,227,Encore,1,18,
-439,mime-jr,14,271,Trick,1,36,
-439,mime-jr,14,272,Role Play,1,43,
-439,mime-jr,14,278,Recycle,1,32,
-439,mime-jr,14,321,Tickle,1,1,1
-439,mime-jr,14,383,Copycat,1,4,
-439,mime-jr,15,3,Double Slap,1,11,
-439,mime-jr,15,60,Psybeam,1,25,
-439,mime-jr,15,93,Confusion,1,1,3
-439,mime-jr,15,94,Psychic,1,39,
-439,mime-jr,15,96,Meditate,1,8,
-439,mime-jr,15,102,Mimic,1,15,
-439,mime-jr,15,112,Barrier,1,1,2
-439,mime-jr,15,113,Light Screen,1,22,1
-439,mime-jr,15,115,Reflect,1,22,2
-439,mime-jr,15,164,Substitute,1,29,
-439,mime-jr,15,219,Safeguard,1,50,
-439,mime-jr,15,226,Baton Pass,1,46,
-439,mime-jr,15,227,Encore,1,18,
-439,mime-jr,15,271,Trick,1,36,
-439,mime-jr,15,272,Role Play,1,43,
-439,mime-jr,15,278,Recycle,1,32,
-439,mime-jr,15,321,Tickle,1,1,1
-439,mime-jr,15,383,Copycat,1,4,
-439,mime-jr,16,3,Double Slap,1,11,1
-439,mime-jr,16,60,Psybeam,1,25,1
-439,mime-jr,16,93,Confusion,1,1,3
-439,mime-jr,16,94,Psychic,1,39,1
-439,mime-jr,16,96,Meditate,1,8,1
-439,mime-jr,16,102,Mimic,1,15,1
-439,mime-jr,16,112,Barrier,1,1,2
-439,mime-jr,16,113,Light Screen,1,22,1
-439,mime-jr,16,115,Reflect,1,22,2
-439,mime-jr,16,164,Substitute,1,29,1
-439,mime-jr,16,219,Safeguard,1,50,1
-439,mime-jr,16,226,Baton Pass,1,46,1
-439,mime-jr,16,227,Encore,1,18,1
-439,mime-jr,16,271,Trick,1,36,1
-439,mime-jr,16,272,Role Play,1,43,1
-439,mime-jr,16,278,Recycle,1,32,1
-439,mime-jr,16,321,Tickle,1,1,1
-439,mime-jr,16,383,Copycat,1,4,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+439,8,Confusion,1,psychic,50,100
+439,8,Barrier,1,psychic,-,-
+439,8,Tickle,1,normal,-,100
+439,9,Confusion,1,psychic,50,100
+439,9,Barrier,1,psychic,-,-
+439,9,Tickle,1,normal,-,100
+439,10,Confusion,1,psychic,50,100
+439,10,Barrier,1,psychic,-,-
+439,10,Tickle,1,normal,-,100
+439,11,Confusion,1,psychic,50,100
+439,11,Barrier,1,psychic,-,-
+439,11,Tickle,1,normal,-,100
+439,14,Confusion,1,psychic,50,100
+439,14,Barrier,1,psychic,-,-
+439,14,Tickle,1,normal,-,100
+439,15,Confusion,1,psychic,50,100
+439,15,Barrier,1,psychic,-,-
+439,15,Tickle,1,normal,-,100
+439,16,Confusion,1,psychic,50,100
+439,16,Barrier,1,psychic,-,-
+439,16,Tickle,1,normal,-,100
+439,8,Copycat,4,normal,-,-
+439,9,Copycat,4,normal,-,-
+439,10,Copycat,4,normal,-,-
+439,11,Copycat,4,normal,-,-
+439,14,Copycat,4,normal,-,-
+439,15,Copycat,4,normal,-,-
+439,16,Copycat,4,normal,-,-
+439,8,Meditate,8,psychic,-,-
+439,9,Meditate,8,psychic,-,-
+439,10,Meditate,8,psychic,-,-
+439,11,Meditate,8,psychic,-,-
+439,14,Meditate,8,psychic,-,-
+439,15,Meditate,8,psychic,-,-
+439,16,Meditate,8,psychic,-,-
+439,8,Encore,11,normal,-,100
+439,9,Encore,11,normal,-,100
+439,10,Encore,11,normal,-,100
+439,11,Encore,11,normal,-,100
+439,14,Double Slap,11,normal,15,85
+439,15,Double Slap,11,normal,15,85
+439,16,Double Slap,11,normal,15,85
+439,8,Double Slap,15,normal,15,85
+439,9,Double Slap,15,normal,15,85
+439,10,Double Slap,15,normal,15,85
+439,11,Double Slap,15,normal,15,85
+439,14,Mimic,15,normal,-,-
+439,15,Mimic,15,normal,-,-
+439,16,Mimic,15,normal,-,-
+439,8,Mimic,18,normal,-,-
+439,9,Mimic,18,normal,-,-
+439,10,Mimic,18,normal,-,-
+439,11,Mimic,18,normal,-,-
+439,14,Encore,18,normal,-,100
+439,15,Encore,18,normal,-,100
+439,16,Encore,18,normal,-,100
+439,8,Light Screen,22,psychic,-,-
+439,8,Reflect,22,psychic,-,-
+439,9,Light Screen,22,psychic,-,-
+439,9,Reflect,22,psychic,-,-
+439,10,Light Screen,22,psychic,-,-
+439,10,Reflect,22,psychic,-,-
+439,11,Light Screen,22,psychic,-,-
+439,11,Reflect,22,psychic,-,-
+439,14,Light Screen,22,psychic,-,-
+439,14,Reflect,22,psychic,-,-
+439,15,Light Screen,22,psychic,-,-
+439,15,Reflect,22,psychic,-,-
+439,16,Light Screen,22,psychic,-,-
+439,16,Reflect,22,psychic,-,-
+439,8,Psybeam,25,psychic,65,100
+439,9,Psybeam,25,psychic,65,100
+439,10,Psybeam,25,psychic,65,100
+439,11,Psybeam,25,psychic,65,100
+439,14,Psybeam,25,psychic,65,100
+439,15,Psybeam,25,psychic,65,100
+439,16,Psybeam,25,psychic,65,100
+439,8,Substitute,29,normal,-,-
+439,9,Substitute,29,normal,-,-
+439,10,Substitute,29,normal,-,-
+439,11,Substitute,29,normal,-,-
+439,14,Substitute,29,normal,-,-
+439,15,Substitute,29,normal,-,-
+439,16,Substitute,29,normal,-,-
+439,8,Recycle,32,normal,-,-
+439,9,Recycle,32,normal,-,-
+439,10,Recycle,32,normal,-,-
+439,11,Recycle,32,normal,-,-
+439,14,Recycle,32,normal,-,-
+439,15,Recycle,32,normal,-,-
+439,16,Recycle,32,normal,-,-
+439,8,Trick,36,psychic,-,100
+439,9,Trick,36,psychic,-,100
+439,10,Trick,36,psychic,-,100
+439,11,Trick,36,psychic,-,100
+439,14,Trick,36,psychic,-,100
+439,15,Trick,36,psychic,-,100
+439,16,Trick,36,psychic,-,100
+439,8,Psychic,39,psychic,90,100
+439,9,Psychic,39,psychic,90,100
+439,10,Psychic,39,psychic,90,100
+439,11,Psychic,39,psychic,90,100
+439,14,Psychic,39,psychic,90,100
+439,15,Psychic,39,psychic,90,100
+439,16,Psychic,39,psychic,90,100
+439,8,Role Play,43,psychic,-,-
+439,9,Role Play,43,psychic,-,-
+439,10,Role Play,43,psychic,-,-
+439,11,Role Play,43,psychic,-,-
+439,14,Role Play,43,psychic,-,-
+439,15,Role Play,43,psychic,-,-
+439,16,Role Play,43,psychic,-,-
+439,8,Baton Pass,46,normal,-,-
+439,9,Baton Pass,46,normal,-,-
+439,10,Baton Pass,46,normal,-,-
+439,11,Baton Pass,46,normal,-,-
+439,14,Baton Pass,46,normal,-,-
+439,15,Baton Pass,46,normal,-,-
+439,16,Baton Pass,46,normal,-,-
+439,8,Safeguard,50,normal,-,-
+439,9,Safeguard,50,normal,-,-
+439,10,Safeguard,50,normal,-,-
+439,11,Safeguard,50,normal,-,-
+439,14,Safeguard,50,normal,-,-
+439,15,Safeguard,50,normal,-,-
+439,16,Safeguard,50,normal,-,-

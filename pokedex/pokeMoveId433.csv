@@ -1,48 +1,48 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-433,chingling,8,35,Wrap,1,1,
-433,chingling,8,45,Growl,1,6,
-433,chingling,8,93,Confusion,1,14,
-433,chingling,8,253,Uproar,1,17,
-433,chingling,8,310,Astonish,1,9,
-433,chingling,8,387,Last Resort,1,22,
-433,chingling,9,35,Wrap,1,1,
-433,chingling,9,45,Growl,1,6,
-433,chingling,9,93,Confusion,1,14,
-433,chingling,9,253,Uproar,1,17,
-433,chingling,9,310,Astonish,1,9,
-433,chingling,9,387,Last Resort,1,22,
-433,chingling,10,35,Wrap,1,1,
-433,chingling,10,45,Growl,1,6,
-433,chingling,10,93,Confusion,1,14,
-433,chingling,10,253,Uproar,1,17,
-433,chingling,10,310,Astonish,1,9,
-433,chingling,10,387,Last Resort,1,22,
-433,chingling,11,35,Wrap,1,1,
-433,chingling,11,45,Growl,1,6,
-433,chingling,11,93,Confusion,1,14,
-433,chingling,11,253,Uproar,1,17,
-433,chingling,11,310,Astonish,1,9,
-433,chingling,11,387,Last Resort,1,22,
-433,chingling,11,494,Entrainment,1,25,
-433,chingling,14,35,Wrap,1,1,
-433,chingling,14,45,Growl,1,6,
-433,chingling,14,93,Confusion,1,14,
-433,chingling,14,253,Uproar,1,17,
-433,chingling,14,310,Astonish,1,9,
-433,chingling,14,387,Last Resort,1,22,
-433,chingling,14,494,Entrainment,1,25,
-433,chingling,15,35,Wrap,1,1,
-433,chingling,15,45,Growl,1,6,
-433,chingling,15,93,Confusion,1,14,
-433,chingling,15,253,Uproar,1,17,
-433,chingling,15,310,Astonish,1,9,
-433,chingling,15,387,Last Resort,1,22,
-433,chingling,15,494,Entrainment,1,25,
-433,chingling,16,35,Wrap,1,1,1
-433,chingling,16,45,Growl,1,4,1
-433,chingling,16,93,Confusion,1,10,1
-433,chingling,16,253,Uproar,1,32,1
-433,chingling,16,281,Yawn,1,13,1
-433,chingling,16,310,Astonish,1,7,1
-433,chingling,16,387,Last Resort,1,16,1
-433,chingling,16,494,Entrainment,1,19,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+433,8,Wrap,1,normal,15,90
+433,9,Wrap,1,normal,15,90
+433,10,Wrap,1,normal,15,90
+433,11,Wrap,1,normal,15,90
+433,14,Wrap,1,normal,15,90
+433,15,Wrap,1,normal,15,90
+433,16,Wrap,1,normal,15,90
+433,16,Growl,4,normal,-,100
+433,8,Growl,6,normal,-,100
+433,9,Growl,6,normal,-,100
+433,10,Growl,6,normal,-,100
+433,11,Growl,6,normal,-,100
+433,14,Growl,6,normal,-,100
+433,15,Growl,6,normal,-,100
+433,16,Astonish,7,ghost,30,100
+433,8,Astonish,9,ghost,30,100
+433,9,Astonish,9,ghost,30,100
+433,10,Astonish,9,ghost,30,100
+433,11,Astonish,9,ghost,30,100
+433,14,Astonish,9,ghost,30,100
+433,15,Astonish,9,ghost,30,100
+433,16,Confusion,10,psychic,50,100
+433,16,Yawn,13,normal,-,-
+433,8,Confusion,14,psychic,50,100
+433,9,Confusion,14,psychic,50,100
+433,10,Confusion,14,psychic,50,100
+433,11,Confusion,14,psychic,50,100
+433,14,Confusion,14,psychic,50,100
+433,15,Confusion,14,psychic,50,100
+433,16,Last Resort,16,normal,140,100
+433,8,Uproar,17,normal,90,100
+433,9,Uproar,17,normal,90,100
+433,10,Uproar,17,normal,90,100
+433,11,Uproar,17,normal,90,100
+433,14,Uproar,17,normal,90,100
+433,15,Uproar,17,normal,90,100
+433,16,Entrainment,19,normal,-,100
+433,8,Last Resort,22,normal,140,100
+433,9,Last Resort,22,normal,140,100
+433,10,Last Resort,22,normal,140,100
+433,11,Last Resort,22,normal,140,100
+433,14,Last Resort,22,normal,140,100
+433,15,Last Resort,22,normal,140,100
+433,11,Entrainment,25,normal,-,100
+433,14,Entrainment,25,normal,-,100
+433,15,Entrainment,25,normal,-,100
+433,16,Uproar,32,normal,90,100

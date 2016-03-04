@@ -1,92 +1,92 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-423,gastrodon,8,34,Body Slam,1,29,
-423,gastrodon,8,105,Recover,1,54,
-423,gastrodon,8,106,Harden,1,1,3
-423,gastrodon,8,106,Harden,1,4,
-423,gastrodon,8,189,Mud-Slap,1,1,1
-423,gastrodon,8,237,Hidden Power,1,16,
-423,gastrodon,8,240,Rain Dance,1,22,
-423,gastrodon,8,300,Mud Sport,1,1,2
-423,gastrodon,8,300,Mud Sport,1,2,
-423,gastrodon,8,330,Muddy Water,1,41,
-423,gastrodon,8,352,Water Pulse,1,1,4
-423,gastrodon,8,352,Water Pulse,1,7,
-423,gastrodon,8,426,Mud Bomb,1,11,
-423,gastrodon,9,34,Body Slam,1,29,
-423,gastrodon,9,105,Recover,1,54,
-423,gastrodon,9,106,Harden,1,1,3
-423,gastrodon,9,106,Harden,1,4,
-423,gastrodon,9,189,Mud-Slap,1,1,1
-423,gastrodon,9,237,Hidden Power,1,16,
-423,gastrodon,9,240,Rain Dance,1,22,
-423,gastrodon,9,300,Mud Sport,1,1,2
-423,gastrodon,9,300,Mud Sport,1,2,
-423,gastrodon,9,330,Muddy Water,1,41,
-423,gastrodon,9,352,Water Pulse,1,1,4
-423,gastrodon,9,352,Water Pulse,1,7,
-423,gastrodon,9,426,Mud Bomb,1,11,
-423,gastrodon,10,34,Body Slam,1,29,
-423,gastrodon,10,105,Recover,1,54,
-423,gastrodon,10,106,Harden,1,1,3
-423,gastrodon,10,106,Harden,1,4,
-423,gastrodon,10,189,Mud-Slap,1,1,1
-423,gastrodon,10,237,Hidden Power,1,16,
-423,gastrodon,10,240,Rain Dance,1,22,
-423,gastrodon,10,300,Mud Sport,1,1,2
-423,gastrodon,10,300,Mud Sport,1,2,
-423,gastrodon,10,330,Muddy Water,1,41,
-423,gastrodon,10,352,Water Pulse,1,1,4
-423,gastrodon,10,352,Water Pulse,1,7,
-423,gastrodon,10,426,Mud Bomb,1,11,
-423,gastrodon,11,34,Body Slam,1,29,
-423,gastrodon,11,105,Recover,1,54,
-423,gastrodon,11,106,Harden,1,1,3
-423,gastrodon,11,106,Harden,1,4,
-423,gastrodon,11,189,Mud-Slap,1,1,1
-423,gastrodon,11,237,Hidden Power,1,16,
-423,gastrodon,11,240,Rain Dance,1,22,
-423,gastrodon,11,300,Mud Sport,1,1,2
-423,gastrodon,11,300,Mud Sport,1,2,
-423,gastrodon,11,330,Muddy Water,1,41,
-423,gastrodon,11,352,Water Pulse,1,1,4
-423,gastrodon,11,352,Water Pulse,1,7,
-423,gastrodon,11,426,Mud Bomb,1,11,
-423,gastrodon,14,34,Body Slam,1,29,
-423,gastrodon,14,105,Recover,1,54,
-423,gastrodon,14,106,Harden,1,1,3
-423,gastrodon,14,106,Harden,1,4,
-423,gastrodon,14,189,Mud-Slap,1,1,1
-423,gastrodon,14,237,Hidden Power,1,16,
-423,gastrodon,14,240,Rain Dance,1,22,
-423,gastrodon,14,300,Mud Sport,1,1,2
-423,gastrodon,14,300,Mud Sport,1,2,
-423,gastrodon,14,330,Muddy Water,1,41,
-423,gastrodon,14,352,Water Pulse,1,1,4
-423,gastrodon,14,352,Water Pulse,1,7,
-423,gastrodon,14,426,Mud Bomb,1,11,
-423,gastrodon,15,34,Body Slam,1,29,
-423,gastrodon,15,105,Recover,1,54,
-423,gastrodon,15,106,Harden,1,1,3
-423,gastrodon,15,106,Harden,1,4,
-423,gastrodon,15,189,Mud-Slap,1,1,1
-423,gastrodon,15,237,Hidden Power,1,16,
-423,gastrodon,15,240,Rain Dance,1,22,
-423,gastrodon,15,300,Mud Sport,1,1,2
-423,gastrodon,15,300,Mud Sport,1,2,
-423,gastrodon,15,330,Muddy Water,1,41,
-423,gastrodon,15,352,Water Pulse,1,1,4
-423,gastrodon,15,352,Water Pulse,1,7,
-423,gastrodon,15,426,Mud Bomb,1,11,
-423,gastrodon,16,34,Body Slam,1,29,1
-423,gastrodon,16,105,Recover,1,54,1
-423,gastrodon,16,106,Harden,1,1,3
-423,gastrodon,16,106,Harden,1,4,1
-423,gastrodon,16,189,Mud-Slap,1,1,1
-423,gastrodon,16,237,Hidden Power,1,16,1
-423,gastrodon,16,240,Rain Dance,1,22,1
-423,gastrodon,16,300,Mud Sport,1,1,2
-423,gastrodon,16,300,Mud Sport,1,2,1
-423,gastrodon,16,330,Muddy Water,1,41,1
-423,gastrodon,16,352,Water Pulse,1,1,4
-423,gastrodon,16,352,Water Pulse,1,7,1
-423,gastrodon,16,426,Mud Bomb,1,11,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+423,8,Harden,1,normal,-,-
+423,8,Mud-Slap,1,ground,20,100
+423,8,Mud Sport,1,ground,-,-
+423,8,Water Pulse,1,water,60,100
+423,9,Harden,1,normal,-,-
+423,9,Mud-Slap,1,ground,20,100
+423,9,Mud Sport,1,ground,-,-
+423,9,Water Pulse,1,water,60,100
+423,10,Harden,1,normal,-,-
+423,10,Mud-Slap,1,ground,20,100
+423,10,Mud Sport,1,ground,-,-
+423,10,Water Pulse,1,water,60,100
+423,11,Harden,1,normal,-,-
+423,11,Mud-Slap,1,ground,20,100
+423,11,Mud Sport,1,ground,-,-
+423,11,Water Pulse,1,water,60,100
+423,14,Harden,1,normal,-,-
+423,14,Mud-Slap,1,ground,20,100
+423,14,Mud Sport,1,ground,-,-
+423,14,Water Pulse,1,water,60,100
+423,15,Harden,1,normal,-,-
+423,15,Mud-Slap,1,ground,20,100
+423,15,Mud Sport,1,ground,-,-
+423,15,Water Pulse,1,water,60,100
+423,16,Harden,1,normal,-,-
+423,16,Mud-Slap,1,ground,20,100
+423,16,Mud Sport,1,ground,-,-
+423,16,Water Pulse,1,water,60,100
+423,8,Mud Sport,2,ground,-,-
+423,9,Mud Sport,2,ground,-,-
+423,10,Mud Sport,2,ground,-,-
+423,11,Mud Sport,2,ground,-,-
+423,14,Mud Sport,2,ground,-,-
+423,15,Mud Sport,2,ground,-,-
+423,16,Mud Sport,2,ground,-,-
+423,8,Harden,4,normal,-,-
+423,9,Harden,4,normal,-,-
+423,10,Harden,4,normal,-,-
+423,11,Harden,4,normal,-,-
+423,14,Harden,4,normal,-,-
+423,15,Harden,4,normal,-,-
+423,16,Harden,4,normal,-,-
+423,8,Water Pulse,7,water,60,100
+423,9,Water Pulse,7,water,60,100
+423,10,Water Pulse,7,water,60,100
+423,11,Water Pulse,7,water,60,100
+423,14,Water Pulse,7,water,60,100
+423,15,Water Pulse,7,water,60,100
+423,16,Water Pulse,7,water,60,100
+423,8,Mud Bomb,11,ground,65,85
+423,9,Mud Bomb,11,ground,65,85
+423,10,Mud Bomb,11,ground,65,85
+423,11,Mud Bomb,11,ground,65,85
+423,14,Mud Bomb,11,ground,65,85
+423,15,Mud Bomb,11,ground,65,85
+423,16,Mud Bomb,11,ground,65,85
+423,8,Hidden Power,16,normal,60,100
+423,9,Hidden Power,16,normal,60,100
+423,10,Hidden Power,16,normal,60,100
+423,11,Hidden Power,16,normal,60,100
+423,14,Hidden Power,16,normal,60,100
+423,15,Hidden Power,16,normal,60,100
+423,16,Hidden Power,16,normal,60,100
+423,8,Rain Dance,22,water,-,-
+423,9,Rain Dance,22,water,-,-
+423,10,Rain Dance,22,water,-,-
+423,11,Rain Dance,22,water,-,-
+423,14,Rain Dance,22,water,-,-
+423,15,Rain Dance,22,water,-,-
+423,16,Rain Dance,22,water,-,-
+423,8,Body Slam,29,normal,85,100
+423,9,Body Slam,29,normal,85,100
+423,10,Body Slam,29,normal,85,100
+423,11,Body Slam,29,normal,85,100
+423,14,Body Slam,29,normal,85,100
+423,15,Body Slam,29,normal,85,100
+423,16,Body Slam,29,normal,85,100
+423,8,Muddy Water,41,water,90,85
+423,9,Muddy Water,41,water,90,85
+423,10,Muddy Water,41,water,90,85
+423,11,Muddy Water,41,water,90,85
+423,14,Muddy Water,41,water,90,85
+423,15,Muddy Water,41,water,90,85
+423,16,Muddy Water,41,water,90,85
+423,8,Recover,54,normal,-,-
+423,9,Recover,54,normal,-,-
+423,10,Recover,54,normal,-,-
+423,11,Recover,54,normal,-,-
+423,14,Recover,54,normal,-,-
+423,15,Recover,54,normal,-,-
+423,16,Recover,54,normal,-,-

@@ -1,204 +1,204 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-65,alakazam,1,50,Disable,1,1,3
-65,alakazam,1,50,Disable,1,20,
-65,alakazam,1,60,Psybeam,1,27,
-65,alakazam,1,93,Confusion,1,1,2
-65,alakazam,1,93,Confusion,1,16,
-65,alakazam,1,94,Psychic,1,38,
-65,alakazam,1,100,Teleport,1,1,1
-65,alakazam,1,105,Recover,1,31,
-65,alakazam,1,115,Reflect,1,42,
-65,alakazam,2,50,Disable,1,20,
-65,alakazam,2,60,Psybeam,1,27,
-65,alakazam,2,93,Confusion,1,16,
-65,alakazam,2,94,Psychic,1,38,
-65,alakazam,2,100,Teleport,1,1,1
-65,alakazam,2,105,Recover,1,31,
-65,alakazam,2,115,Reflect,1,42,
-65,alakazam,2,134,Kinesis,1,1,2
-65,alakazam,3,50,Disable,1,18,
-65,alakazam,3,60,Psybeam,1,21,
-65,alakazam,3,93,Confusion,1,1,3
-65,alakazam,3,93,Confusion,1,16,
-65,alakazam,3,94,Psychic,1,38,
-65,alakazam,3,100,Teleport,1,1,1
-65,alakazam,3,105,Recover,1,26,
-65,alakazam,3,115,Reflect,1,45,
-65,alakazam,3,134,Kinesis,1,1,2
-65,alakazam,3,248,Future Sight,1,31,
-65,alakazam,4,50,Disable,1,18,
-65,alakazam,4,60,Psybeam,1,21,
-65,alakazam,4,93,Confusion,1,1,3
-65,alakazam,4,93,Confusion,1,16,
-65,alakazam,4,94,Psychic,1,38,
-65,alakazam,4,100,Teleport,1,1,1
-65,alakazam,4,105,Recover,1,26,
-65,alakazam,4,115,Reflect,1,45,
-65,alakazam,4,134,Kinesis,1,1,2
-65,alakazam,4,248,Future Sight,1,31,
-65,alakazam,5,50,Disable,1,18,
-65,alakazam,5,60,Psybeam,1,21,
-65,alakazam,5,93,Confusion,1,1,3
-65,alakazam,5,93,Confusion,1,16,
-65,alakazam,5,94,Psychic,1,36,
-65,alakazam,5,100,Teleport,1,1,1
-65,alakazam,5,105,Recover,1,25,
-65,alakazam,5,115,Reflect,1,23,
-65,alakazam,5,134,Kinesis,1,1,2
-65,alakazam,5,248,Future Sight,1,30,
-65,alakazam,5,271,Trick,1,43,
-65,alakazam,5,347,Calm Mind,1,33,
-65,alakazam,6,50,Disable,1,18,
-65,alakazam,6,60,Psybeam,1,21,
-65,alakazam,6,93,Confusion,1,1,3
-65,alakazam,6,93,Confusion,1,16,
-65,alakazam,6,94,Psychic,1,36,
-65,alakazam,6,100,Teleport,1,1,1
-65,alakazam,6,105,Recover,1,25,
-65,alakazam,6,115,Reflect,1,23,
-65,alakazam,6,134,Kinesis,1,1,2
-65,alakazam,6,248,Future Sight,1,30,
-65,alakazam,6,271,Trick,1,43,
-65,alakazam,6,347,Calm Mind,1,33,
-65,alakazam,7,50,Disable,1,18,
-65,alakazam,7,60,Psybeam,1,21,
-65,alakazam,7,93,Confusion,1,1,3
-65,alakazam,7,93,Confusion,1,16,
-65,alakazam,7,94,Psychic,1,36,
-65,alakazam,7,100,Teleport,1,1,1
-65,alakazam,7,105,Recover,1,25,
-65,alakazam,7,115,Reflect,1,23,
-65,alakazam,7,134,Kinesis,1,1,2
-65,alakazam,7,248,Future Sight,1,30,
-65,alakazam,7,271,Trick,1,43,
-65,alakazam,7,347,Calm Mind,1,33,
-65,alakazam,8,50,Disable,1,18,
-65,alakazam,8,60,Psybeam,1,24,
-65,alakazam,8,93,Confusion,1,1,3
-65,alakazam,8,93,Confusion,1,16,
-65,alakazam,8,94,Psychic,1,40,
-65,alakazam,8,100,Teleport,1,1,1
-65,alakazam,8,105,Recover,1,30,
-65,alakazam,8,115,Reflect,1,28,
-65,alakazam,8,134,Kinesis,1,1,2
-65,alakazam,8,248,Future Sight,1,42,
-65,alakazam,8,271,Trick,1,46,
-65,alakazam,8,347,Calm Mind,1,36,
-65,alakazam,8,357,Miracle Eye,1,22,
-65,alakazam,8,427,Psycho Cut,1,34,
-65,alakazam,9,50,Disable,1,18,
-65,alakazam,9,60,Psybeam,1,24,
-65,alakazam,9,93,Confusion,1,1,3
-65,alakazam,9,93,Confusion,1,16,
-65,alakazam,9,94,Psychic,1,40,
-65,alakazam,9,100,Teleport,1,1,1
-65,alakazam,9,105,Recover,1,30,
-65,alakazam,9,115,Reflect,1,28,
-65,alakazam,9,134,Kinesis,1,1,2
-65,alakazam,9,248,Future Sight,1,42,
-65,alakazam,9,271,Trick,1,46,
-65,alakazam,9,347,Calm Mind,1,36,
-65,alakazam,9,357,Miracle Eye,1,22,
-65,alakazam,9,427,Psycho Cut,1,34,
-65,alakazam,10,50,Disable,1,18,
-65,alakazam,10,60,Psybeam,1,24,
-65,alakazam,10,93,Confusion,1,1,3
-65,alakazam,10,93,Confusion,1,16,
-65,alakazam,10,94,Psychic,1,40,
-65,alakazam,10,100,Teleport,1,1,1
-65,alakazam,10,105,Recover,1,30,
-65,alakazam,10,115,Reflect,1,28,
-65,alakazam,10,134,Kinesis,1,1,2
-65,alakazam,10,248,Future Sight,1,42,
-65,alakazam,10,271,Trick,1,46,
-65,alakazam,10,347,Calm Mind,1,36,
-65,alakazam,10,357,Miracle Eye,1,22,
-65,alakazam,10,427,Psycho Cut,1,34,
-65,alakazam,11,50,Disable,1,18,
-65,alakazam,11,60,Psybeam,1,28,
-65,alakazam,11,93,Confusion,1,1,3
-65,alakazam,11,93,Confusion,1,16,
-65,alakazam,11,94,Psychic,1,46,
-65,alakazam,11,100,Teleport,1,1,1
-65,alakazam,11,105,Recover,1,36,
-65,alakazam,11,115,Reflect,1,30,
-65,alakazam,11,134,Kinesis,1,1,2
-65,alakazam,11,248,Future Sight,1,48,
-65,alakazam,11,271,Trick,1,52,
-65,alakazam,11,347,Calm Mind,1,42,
-65,alakazam,11,357,Miracle Eye,1,22,
-65,alakazam,11,427,Psycho Cut,1,40,
-65,alakazam,11,477,Telekinesis,1,34,
-65,alakazam,11,502,Ally Switch,1,24,
-65,alakazam,12,50,Disable,1,18,
-65,alakazam,12,60,Psybeam,1,21,
-65,alakazam,12,93,Confusion,1,1,3
-65,alakazam,12,93,Confusion,1,16,
-65,alakazam,12,94,Psychic,1,36,
-65,alakazam,12,100,Teleport,1,1,1
-65,alakazam,12,105,Recover,1,25,
-65,alakazam,12,115,Reflect,1,23,
-65,alakazam,12,134,Kinesis,1,1,2
-65,alakazam,12,248,Future Sight,1,30,
-65,alakazam,12,271,Trick,1,43,
-65,alakazam,12,347,Calm Mind,1,33,
-65,alakazam,13,50,Disable,1,18,
-65,alakazam,13,60,Psybeam,1,21,
-65,alakazam,13,93,Confusion,1,1,3
-65,alakazam,13,93,Confusion,1,16,
-65,alakazam,13,94,Psychic,1,36,
-65,alakazam,13,100,Teleport,1,1,1
-65,alakazam,13,105,Recover,1,25,
-65,alakazam,13,115,Reflect,1,23,
-65,alakazam,13,134,Kinesis,1,1,2
-65,alakazam,13,248,Future Sight,1,30,
-65,alakazam,13,271,Trick,1,43,
-65,alakazam,13,347,Calm Mind,1,33,
-65,alakazam,14,50,Disable,1,18,
-65,alakazam,14,60,Psybeam,1,28,
-65,alakazam,14,93,Confusion,1,1,3
-65,alakazam,14,93,Confusion,1,16,
-65,alakazam,14,94,Psychic,1,46,
-65,alakazam,14,100,Teleport,1,1,1
-65,alakazam,14,105,Recover,1,36,
-65,alakazam,14,115,Reflect,1,30,
-65,alakazam,14,134,Kinesis,1,1,2
-65,alakazam,14,248,Future Sight,1,48,
-65,alakazam,14,271,Trick,1,52,
-65,alakazam,14,347,Calm Mind,1,42,
-65,alakazam,14,357,Miracle Eye,1,22,
-65,alakazam,14,427,Psycho Cut,1,40,
-65,alakazam,14,477,Telekinesis,1,34,
-65,alakazam,14,502,Ally Switch,1,24,
-65,alakazam,15,50,Disable,1,18,
-65,alakazam,15,60,Psybeam,1,28,
-65,alakazam,15,93,Confusion,1,1,3
-65,alakazam,15,93,Confusion,1,16,
-65,alakazam,15,94,Psychic,1,46,
-65,alakazam,15,100,Teleport,1,1,1
-65,alakazam,15,105,Recover,1,36,
-65,alakazam,15,115,Reflect,1,30,
-65,alakazam,15,134,Kinesis,1,1,2
-65,alakazam,15,248,Future Sight,1,48,
-65,alakazam,15,271,Trick,1,50,
-65,alakazam,15,347,Calm Mind,1,42,
-65,alakazam,15,357,Miracle Eye,1,22,
-65,alakazam,15,427,Psycho Cut,1,40,
-65,alakazam,15,477,Telekinesis,1,34,
-65,alakazam,15,502,Ally Switch,1,24,
-65,alakazam,16,50,Disable,1,18,1
-65,alakazam,16,60,Psybeam,1,21,1
-65,alakazam,16,93,Confusion,1,1,3
-65,alakazam,16,93,Confusion,1,16,1
-65,alakazam,16,94,Psychic,1,38,1
-65,alakazam,16,100,Teleport,1,1,1
-65,alakazam,16,105,Recover,1,31,1
-65,alakazam,16,115,Reflect,1,26,1
-65,alakazam,16,134,Kinesis,1,1,2
-65,alakazam,16,248,Future Sight,1,43,1
-65,alakazam,16,271,Trick,1,46,1
-65,alakazam,16,347,Calm Mind,1,41,1
-65,alakazam,16,357,Miracle Eye,1,23,1
-65,alakazam,16,427,Psycho Cut,1,28,1
-65,alakazam,16,477,Telekinesis,1,33,1
-65,alakazam,16,502,Ally Switch,1,36,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+65,1,Disable,1,normal,-,100
+65,1,Confusion,1,psychic,50,100
+65,1,Teleport,1,psychic,-,-
+65,2,Teleport,1,psychic,-,-
+65,2,Kinesis,1,psychic,-,80
+65,3,Confusion,1,psychic,50,100
+65,3,Teleport,1,psychic,-,-
+65,3,Kinesis,1,psychic,-,80
+65,4,Confusion,1,psychic,50,100
+65,4,Teleport,1,psychic,-,-
+65,4,Kinesis,1,psychic,-,80
+65,5,Confusion,1,psychic,50,100
+65,5,Teleport,1,psychic,-,-
+65,5,Kinesis,1,psychic,-,80
+65,6,Confusion,1,psychic,50,100
+65,6,Teleport,1,psychic,-,-
+65,6,Kinesis,1,psychic,-,80
+65,7,Confusion,1,psychic,50,100
+65,7,Teleport,1,psychic,-,-
+65,7,Kinesis,1,psychic,-,80
+65,8,Confusion,1,psychic,50,100
+65,8,Teleport,1,psychic,-,-
+65,8,Kinesis,1,psychic,-,80
+65,9,Confusion,1,psychic,50,100
+65,9,Teleport,1,psychic,-,-
+65,9,Kinesis,1,psychic,-,80
+65,10,Confusion,1,psychic,50,100
+65,10,Teleport,1,psychic,-,-
+65,10,Kinesis,1,psychic,-,80
+65,11,Confusion,1,psychic,50,100
+65,11,Teleport,1,psychic,-,-
+65,11,Kinesis,1,psychic,-,80
+65,12,Confusion,1,psychic,50,100
+65,12,Teleport,1,psychic,-,-
+65,12,Kinesis,1,psychic,-,80
+65,13,Confusion,1,psychic,50,100
+65,13,Teleport,1,psychic,-,-
+65,13,Kinesis,1,psychic,-,80
+65,14,Confusion,1,psychic,50,100
+65,14,Teleport,1,psychic,-,-
+65,14,Kinesis,1,psychic,-,80
+65,15,Confusion,1,psychic,50,100
+65,15,Teleport,1,psychic,-,-
+65,15,Kinesis,1,psychic,-,80
+65,16,Confusion,1,psychic,50,100
+65,16,Teleport,1,psychic,-,-
+65,16,Kinesis,1,psychic,-,80
+65,1,Confusion,16,psychic,50,100
+65,2,Confusion,16,psychic,50,100
+65,3,Confusion,16,psychic,50,100
+65,4,Confusion,16,psychic,50,100
+65,5,Confusion,16,psychic,50,100
+65,6,Confusion,16,psychic,50,100
+65,7,Confusion,16,psychic,50,100
+65,8,Confusion,16,psychic,50,100
+65,9,Confusion,16,psychic,50,100
+65,10,Confusion,16,psychic,50,100
+65,11,Confusion,16,psychic,50,100
+65,12,Confusion,16,psychic,50,100
+65,13,Confusion,16,psychic,50,100
+65,14,Confusion,16,psychic,50,100
+65,15,Confusion,16,psychic,50,100
+65,16,Confusion,16,psychic,50,100
+65,3,Disable,18,normal,-,100
+65,4,Disable,18,normal,-,100
+65,5,Disable,18,normal,-,100
+65,6,Disable,18,normal,-,100
+65,7,Disable,18,normal,-,100
+65,8,Disable,18,normal,-,100
+65,9,Disable,18,normal,-,100
+65,10,Disable,18,normal,-,100
+65,11,Disable,18,normal,-,100
+65,12,Disable,18,normal,-,100
+65,13,Disable,18,normal,-,100
+65,14,Disable,18,normal,-,100
+65,15,Disable,18,normal,-,100
+65,16,Disable,18,normal,-,100
+65,1,Disable,20,normal,-,100
+65,2,Disable,20,normal,-,100
+65,3,Psybeam,21,psychic,65,100
+65,4,Psybeam,21,psychic,65,100
+65,5,Psybeam,21,psychic,65,100
+65,6,Psybeam,21,psychic,65,100
+65,7,Psybeam,21,psychic,65,100
+65,12,Psybeam,21,psychic,65,100
+65,13,Psybeam,21,psychic,65,100
+65,16,Psybeam,21,psychic,65,100
+65,8,Miracle Eye,22,psychic,-,-
+65,9,Miracle Eye,22,psychic,-,-
+65,10,Miracle Eye,22,psychic,-,-
+65,11,Miracle Eye,22,psychic,-,-
+65,14,Miracle Eye,22,psychic,-,-
+65,15,Miracle Eye,22,psychic,-,-
+65,5,Reflect,23,psychic,-,-
+65,6,Reflect,23,psychic,-,-
+65,7,Reflect,23,psychic,-,-
+65,12,Reflect,23,psychic,-,-
+65,13,Reflect,23,psychic,-,-
+65,16,Miracle Eye,23,psychic,-,-
+65,8,Psybeam,24,psychic,65,100
+65,9,Psybeam,24,psychic,65,100
+65,10,Psybeam,24,psychic,65,100
+65,11,Ally Switch,24,psychic,-,-
+65,14,Ally Switch,24,psychic,-,-
+65,15,Ally Switch,24,psychic,-,-
+65,5,Recover,25,normal,-,-
+65,6,Recover,25,normal,-,-
+65,7,Recover,25,normal,-,-
+65,12,Recover,25,normal,-,-
+65,13,Recover,25,normal,-,-
+65,3,Recover,26,normal,-,-
+65,4,Recover,26,normal,-,-
+65,16,Reflect,26,psychic,-,-
+65,1,Psybeam,27,psychic,65,100
+65,2,Psybeam,27,psychic,65,100
+65,8,Reflect,28,psychic,-,-
+65,9,Reflect,28,psychic,-,-
+65,10,Reflect,28,psychic,-,-
+65,11,Psybeam,28,psychic,65,100
+65,14,Psybeam,28,psychic,65,100
+65,15,Psybeam,28,psychic,65,100
+65,16,Psycho Cut,28,psychic,70,100
+65,5,Future Sight,30,psychic,120,100
+65,6,Future Sight,30,psychic,120,100
+65,7,Future Sight,30,psychic,120,100
+65,8,Recover,30,normal,-,-
+65,9,Recover,30,normal,-,-
+65,10,Recover,30,normal,-,-
+65,11,Reflect,30,psychic,-,-
+65,12,Future Sight,30,psychic,120,100
+65,13,Future Sight,30,psychic,120,100
+65,14,Reflect,30,psychic,-,-
+65,15,Reflect,30,psychic,-,-
+65,1,Recover,31,normal,-,-
+65,2,Recover,31,normal,-,-
+65,3,Future Sight,31,psychic,120,100
+65,4,Future Sight,31,psychic,120,100
+65,16,Recover,31,normal,-,-
+65,5,Calm Mind,33,psychic,-,-
+65,6,Calm Mind,33,psychic,-,-
+65,7,Calm Mind,33,psychic,-,-
+65,12,Calm Mind,33,psychic,-,-
+65,13,Calm Mind,33,psychic,-,-
+65,16,Telekinesis,33,psychic,-,-
+65,8,Psycho Cut,34,psychic,70,100
+65,9,Psycho Cut,34,psychic,70,100
+65,10,Psycho Cut,34,psychic,70,100
+65,11,Telekinesis,34,psychic,-,-
+65,14,Telekinesis,34,psychic,-,-
+65,15,Telekinesis,34,psychic,-,-
+65,5,Psychic,36,psychic,90,100
+65,6,Psychic,36,psychic,90,100
+65,7,Psychic,36,psychic,90,100
+65,8,Calm Mind,36,psychic,-,-
+65,9,Calm Mind,36,psychic,-,-
+65,10,Calm Mind,36,psychic,-,-
+65,11,Recover,36,normal,-,-
+65,12,Psychic,36,psychic,90,100
+65,13,Psychic,36,psychic,90,100
+65,14,Recover,36,normal,-,-
+65,15,Recover,36,normal,-,-
+65,16,Ally Switch,36,psychic,-,-
+65,1,Psychic,38,psychic,90,100
+65,2,Psychic,38,psychic,90,100
+65,3,Psychic,38,psychic,90,100
+65,4,Psychic,38,psychic,90,100
+65,16,Psychic,38,psychic,90,100
+65,8,Psychic,40,psychic,90,100
+65,9,Psychic,40,psychic,90,100
+65,10,Psychic,40,psychic,90,100
+65,11,Psycho Cut,40,psychic,70,100
+65,14,Psycho Cut,40,psychic,70,100
+65,15,Psycho Cut,40,psychic,70,100
+65,16,Calm Mind,41,psychic,-,-
+65,1,Reflect,42,psychic,-,-
+65,2,Reflect,42,psychic,-,-
+65,8,Future Sight,42,psychic,120,100
+65,9,Future Sight,42,psychic,120,100
+65,10,Future Sight,42,psychic,120,100
+65,11,Calm Mind,42,psychic,-,-
+65,14,Calm Mind,42,psychic,-,-
+65,15,Calm Mind,42,psychic,-,-
+65,5,Trick,43,psychic,-,100
+65,6,Trick,43,psychic,-,100
+65,7,Trick,43,psychic,-,100
+65,12,Trick,43,psychic,-,100
+65,13,Trick,43,psychic,-,100
+65,16,Future Sight,43,psychic,120,100
+65,3,Reflect,45,psychic,-,-
+65,4,Reflect,45,psychic,-,-
+65,8,Trick,46,psychic,-,100
+65,9,Trick,46,psychic,-,100
+65,10,Trick,46,psychic,-,100
+65,11,Psychic,46,psychic,90,100
+65,14,Psychic,46,psychic,90,100
+65,15,Psychic,46,psychic,90,100
+65,16,Trick,46,psychic,-,100
+65,11,Future Sight,48,psychic,120,100
+65,14,Future Sight,48,psychic,120,100
+65,15,Future Sight,48,psychic,120,100
+65,15,Trick,50,psychic,-,100
+65,11,Trick,52,psychic,-,100
+65,14,Trick,52,psychic,-,100

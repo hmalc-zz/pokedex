@@ -1,192 +1,192 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-264,linoone,5,28,Sand Attack,1,13,
-264,linoone,5,29,Headbutt,1,1,4
-264,linoone,5,29,Headbutt,1,9,
-264,linoone,5,33,Tackle,1,1,1
-264,linoone,5,39,Tail Whip,1,1,3
-264,linoone,5,39,Tail Whip,1,5,
-264,linoone,5,45,Growl,1,1,2
-264,linoone,5,154,Fury Swipes,1,29,
-264,linoone,5,156,Rest,1,47,
-264,linoone,5,163,Slash,1,41,
-264,linoone,5,187,Belly Drum,1,53,
-264,linoone,5,300,Mud Sport,1,23,
-264,linoone,5,316,Odor Sleuth,1,17,
-264,linoone,5,343,Covet,1,35,
-264,linoone,6,28,Sand Attack,1,13,
-264,linoone,6,29,Headbutt,1,1,4
-264,linoone,6,29,Headbutt,1,9,
-264,linoone,6,33,Tackle,1,1,1
-264,linoone,6,39,Tail Whip,1,1,3
-264,linoone,6,39,Tail Whip,1,5,
-264,linoone,6,45,Growl,1,1,2
-264,linoone,6,154,Fury Swipes,1,29,
-264,linoone,6,156,Rest,1,47,
-264,linoone,6,163,Slash,1,41,
-264,linoone,6,187,Belly Drum,1,53,
-264,linoone,6,300,Mud Sport,1,23,
-264,linoone,6,316,Odor Sleuth,1,17,
-264,linoone,6,343,Covet,1,35,
-264,linoone,7,28,Sand Attack,1,13,
-264,linoone,7,29,Headbutt,1,1,4
-264,linoone,7,29,Headbutt,1,9,
-264,linoone,7,33,Tackle,1,1,1
-264,linoone,7,39,Tail Whip,1,1,3
-264,linoone,7,39,Tail Whip,1,5,
-264,linoone,7,45,Growl,1,1,2
-264,linoone,7,154,Fury Swipes,1,29,
-264,linoone,7,156,Rest,1,47,
-264,linoone,7,163,Slash,1,41,
-264,linoone,7,187,Belly Drum,1,53,
-264,linoone,7,300,Mud Sport,1,23,
-264,linoone,7,316,Odor Sleuth,1,17,
-264,linoone,7,343,Covet,1,35,
-264,linoone,8,28,Sand Attack,1,13,
-264,linoone,8,29,Headbutt,1,1,5
-264,linoone,8,29,Headbutt,1,9,
-264,linoone,8,33,Tackle,1,1,2
-264,linoone,8,39,Tail Whip,1,1,4
-264,linoone,8,39,Tail Whip,1,5,
-264,linoone,8,45,Growl,1,1,3
-264,linoone,8,154,Fury Swipes,1,29,
-264,linoone,8,156,Rest,1,47,
-264,linoone,8,163,Slash,1,41,
-264,linoone,8,187,Belly Drum,1,53,
-264,linoone,8,300,Mud Sport,1,23,
-264,linoone,8,316,Odor Sleuth,1,17,
-264,linoone,8,343,Covet,1,35,
-264,linoone,8,374,Fling,1,59,
-264,linoone,8,415,Switcheroo,1,1,1
-264,linoone,9,28,Sand Attack,1,13,
-264,linoone,9,29,Headbutt,1,1,5
-264,linoone,9,29,Headbutt,1,9,
-264,linoone,9,33,Tackle,1,1,2
-264,linoone,9,39,Tail Whip,1,1,4
-264,linoone,9,39,Tail Whip,1,5,
-264,linoone,9,45,Growl,1,1,3
-264,linoone,9,154,Fury Swipes,1,29,
-264,linoone,9,156,Rest,1,47,
-264,linoone,9,163,Slash,1,41,
-264,linoone,9,187,Belly Drum,1,53,
-264,linoone,9,300,Mud Sport,1,23,
-264,linoone,9,316,Odor Sleuth,1,17,
-264,linoone,9,343,Covet,1,35,
-264,linoone,9,374,Fling,1,59,
-264,linoone,9,415,Switcheroo,1,1,1
-264,linoone,10,28,Sand Attack,1,13,
-264,linoone,10,29,Headbutt,1,1,5
-264,linoone,10,29,Headbutt,1,9,
-264,linoone,10,33,Tackle,1,1,2
-264,linoone,10,39,Tail Whip,1,1,4
-264,linoone,10,39,Tail Whip,1,5,
-264,linoone,10,45,Growl,1,1,3
-264,linoone,10,154,Fury Swipes,1,29,
-264,linoone,10,156,Rest,1,47,
-264,linoone,10,163,Slash,1,41,
-264,linoone,10,187,Belly Drum,1,53,
-264,linoone,10,300,Mud Sport,1,23,
-264,linoone,10,316,Odor Sleuth,1,17,
-264,linoone,10,343,Covet,1,35,
-264,linoone,10,374,Fling,1,59,
-264,linoone,10,415,Switcheroo,1,1,1
-264,linoone,11,28,Sand Attack,1,13,
-264,linoone,11,29,Headbutt,1,1,5
-264,linoone,11,29,Headbutt,1,9,
-264,linoone,11,33,Tackle,1,1,2
-264,linoone,11,39,Tail Whip,1,1,4
-264,linoone,11,39,Tail Whip,1,5,
-264,linoone,11,45,Growl,1,1,3
-264,linoone,11,154,Fury Swipes,1,29,
-264,linoone,11,156,Rest,1,53,
-264,linoone,11,163,Slash,1,47,
-264,linoone,11,187,Belly Drum,1,59,
-264,linoone,11,300,Mud Sport,1,23,
-264,linoone,11,316,Odor Sleuth,1,17,
-264,linoone,11,343,Covet,1,35,
-264,linoone,11,374,Fling,1,65,
-264,linoone,11,415,Switcheroo,1,1,1
-264,linoone,11,516,Bestow,1,41,
-264,linoone,12,28,Sand Attack,1,13,
-264,linoone,12,29,Headbutt,1,1,4
-264,linoone,12,29,Headbutt,1,9,
-264,linoone,12,33,Tackle,1,1,1
-264,linoone,12,39,Tail Whip,1,1,3
-264,linoone,12,39,Tail Whip,1,5,
-264,linoone,12,45,Growl,1,1,2
-264,linoone,12,154,Fury Swipes,1,29,
-264,linoone,12,156,Rest,1,47,
-264,linoone,12,163,Slash,1,41,
-264,linoone,12,187,Belly Drum,1,53,
-264,linoone,12,300,Mud Sport,1,23,
-264,linoone,12,316,Odor Sleuth,1,17,
-264,linoone,12,343,Covet,1,35,
-264,linoone,13,28,Sand Attack,1,13,
-264,linoone,13,29,Headbutt,1,1,4
-264,linoone,13,29,Headbutt,1,9,
-264,linoone,13,33,Tackle,1,1,1
-264,linoone,13,39,Tail Whip,1,1,3
-264,linoone,13,39,Tail Whip,1,5,
-264,linoone,13,45,Growl,1,1,2
-264,linoone,13,154,Fury Swipes,1,29,
-264,linoone,13,156,Rest,1,47,
-264,linoone,13,163,Slash,1,41,
-264,linoone,13,187,Belly Drum,1,53,
-264,linoone,13,300,Mud Sport,1,23,
-264,linoone,13,316,Odor Sleuth,1,17,
-264,linoone,13,343,Covet,1,35,
-264,linoone,14,28,Sand Attack,1,13,
-264,linoone,14,29,Headbutt,1,1,5
-264,linoone,14,29,Headbutt,1,9,
-264,linoone,14,33,Tackle,1,1,2
-264,linoone,14,39,Tail Whip,1,1,4
-264,linoone,14,39,Tail Whip,1,5,
-264,linoone,14,45,Growl,1,1,3
-264,linoone,14,154,Fury Swipes,1,29,
-264,linoone,14,156,Rest,1,53,
-264,linoone,14,163,Slash,1,47,
-264,linoone,14,187,Belly Drum,1,59,
-264,linoone,14,300,Mud Sport,1,23,
-264,linoone,14,316,Odor Sleuth,1,17,
-264,linoone,14,343,Covet,1,35,
-264,linoone,14,374,Fling,1,65,
-264,linoone,14,415,Switcheroo,1,1,1
-264,linoone,14,516,Bestow,1,41,
-264,linoone,15,28,Sand Attack,1,13,
-264,linoone,15,29,Headbutt,1,1,7
-264,linoone,15,29,Headbutt,1,9,
-264,linoone,15,33,Tackle,1,1,4
-264,linoone,15,39,Tail Whip,1,1,6
-264,linoone,15,39,Tail Whip,1,5,
-264,linoone,15,45,Growl,1,1,5
-264,linoone,15,154,Fury Swipes,1,29,
-264,linoone,15,156,Rest,1,53,
-264,linoone,15,163,Slash,1,47,
-264,linoone,15,187,Belly Drum,1,59,
-264,linoone,15,300,Mud Sport,1,23,
-264,linoone,15,316,Odor Sleuth,1,17,
-264,linoone,15,343,Covet,1,35,
-264,linoone,15,374,Fling,1,65,
-264,linoone,15,415,Switcheroo,1,1,3
-264,linoone,15,516,Bestow,1,41,
-264,linoone,15,563,Rototiller,1,1,2
-264,linoone,15,583,Play Rough,1,1,1
-264,linoone,16,28,Sand Attack,1,1,7
-264,linoone,16,28,Sand Attack,1,7,1
-264,linoone,16,29,Headbutt,1,11,1
-264,linoone,16,33,Tackle,1,1,4
-264,linoone,16,38,Double-Edge,1,35,1
-264,linoone,16,39,Tail Whip,1,1,6
-264,linoone,16,39,Tail Whip,1,5,1
-264,linoone,16,45,Growl,1,1,5
-264,linoone,16,154,Fury Swipes,1,19,1
-264,linoone,16,156,Rest,1,40,1
-264,linoone,16,163,Slash,1,32,1
-264,linoone,16,187,Belly Drum,1,43,1
-264,linoone,16,300,Mud Sport,1,17,1
-264,linoone,16,316,Odor Sleuth,1,13,1
-264,linoone,16,343,Covet,1,24,1
-264,linoone,16,374,Fling,1,48,1
-264,linoone,16,415,Switcheroo,1,1,3
-264,linoone,16,516,Bestow,1,27,1
-264,linoone,16,563,Rototiller,1,1,2
-264,linoone,16,583,Play Rough,1,1,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+264,5,Headbutt,1,normal,70,100
+264,5,Tackle,1,normal,50,100
+264,5,Tail Whip,1,normal,-,100
+264,5,Growl,1,normal,-,100
+264,6,Headbutt,1,normal,70,100
+264,6,Tackle,1,normal,50,100
+264,6,Tail Whip,1,normal,-,100
+264,6,Growl,1,normal,-,100
+264,7,Headbutt,1,normal,70,100
+264,7,Tackle,1,normal,50,100
+264,7,Tail Whip,1,normal,-,100
+264,7,Growl,1,normal,-,100
+264,8,Headbutt,1,normal,70,100
+264,8,Tackle,1,normal,50,100
+264,8,Tail Whip,1,normal,-,100
+264,8,Growl,1,normal,-,100
+264,8,Switcheroo,1,dark,-,100
+264,9,Headbutt,1,normal,70,100
+264,9,Tackle,1,normal,50,100
+264,9,Tail Whip,1,normal,-,100
+264,9,Growl,1,normal,-,100
+264,9,Switcheroo,1,dark,-,100
+264,10,Headbutt,1,normal,70,100
+264,10,Tackle,1,normal,50,100
+264,10,Tail Whip,1,normal,-,100
+264,10,Growl,1,normal,-,100
+264,10,Switcheroo,1,dark,-,100
+264,11,Headbutt,1,normal,70,100
+264,11,Tackle,1,normal,50,100
+264,11,Tail Whip,1,normal,-,100
+264,11,Growl,1,normal,-,100
+264,11,Switcheroo,1,dark,-,100
+264,12,Headbutt,1,normal,70,100
+264,12,Tackle,1,normal,50,100
+264,12,Tail Whip,1,normal,-,100
+264,12,Growl,1,normal,-,100
+264,13,Headbutt,1,normal,70,100
+264,13,Tackle,1,normal,50,100
+264,13,Tail Whip,1,normal,-,100
+264,13,Growl,1,normal,-,100
+264,14,Headbutt,1,normal,70,100
+264,14,Tackle,1,normal,50,100
+264,14,Tail Whip,1,normal,-,100
+264,14,Growl,1,normal,-,100
+264,14,Switcheroo,1,dark,-,100
+264,15,Headbutt,1,normal,70,100
+264,15,Tackle,1,normal,50,100
+264,15,Tail Whip,1,normal,-,100
+264,15,Growl,1,normal,-,100
+264,15,Switcheroo,1,dark,-,100
+264,15,Rototiller,1,ground,-,-
+264,15,Play Rough,1,fairy,90,90
+264,16,Sand Attack,1,ground,-,100
+264,16,Tackle,1,normal,50,100
+264,16,Tail Whip,1,normal,-,100
+264,16,Growl,1,normal,-,100
+264,16,Switcheroo,1,dark,-,100
+264,16,Rototiller,1,ground,-,-
+264,16,Play Rough,1,fairy,90,90
+264,5,Tail Whip,5,normal,-,100
+264,6,Tail Whip,5,normal,-,100
+264,7,Tail Whip,5,normal,-,100
+264,8,Tail Whip,5,normal,-,100
+264,9,Tail Whip,5,normal,-,100
+264,10,Tail Whip,5,normal,-,100
+264,11,Tail Whip,5,normal,-,100
+264,12,Tail Whip,5,normal,-,100
+264,13,Tail Whip,5,normal,-,100
+264,14,Tail Whip,5,normal,-,100
+264,15,Tail Whip,5,normal,-,100
+264,16,Tail Whip,5,normal,-,100
+264,16,Sand Attack,7,ground,-,100
+264,5,Headbutt,9,normal,70,100
+264,6,Headbutt,9,normal,70,100
+264,7,Headbutt,9,normal,70,100
+264,8,Headbutt,9,normal,70,100
+264,9,Headbutt,9,normal,70,100
+264,10,Headbutt,9,normal,70,100
+264,11,Headbutt,9,normal,70,100
+264,12,Headbutt,9,normal,70,100
+264,13,Headbutt,9,normal,70,100
+264,14,Headbutt,9,normal,70,100
+264,15,Headbutt,9,normal,70,100
+264,16,Headbutt,11,normal,70,100
+264,5,Sand Attack,13,ground,-,100
+264,6,Sand Attack,13,ground,-,100
+264,7,Sand Attack,13,ground,-,100
+264,8,Sand Attack,13,ground,-,100
+264,9,Sand Attack,13,ground,-,100
+264,10,Sand Attack,13,ground,-,100
+264,11,Sand Attack,13,ground,-,100
+264,12,Sand Attack,13,ground,-,100
+264,13,Sand Attack,13,ground,-,100
+264,14,Sand Attack,13,ground,-,100
+264,15,Sand Attack,13,ground,-,100
+264,16,Odor Sleuth,13,normal,-,-
+264,5,Odor Sleuth,17,normal,-,-
+264,6,Odor Sleuth,17,normal,-,-
+264,7,Odor Sleuth,17,normal,-,-
+264,8,Odor Sleuth,17,normal,-,-
+264,9,Odor Sleuth,17,normal,-,-
+264,10,Odor Sleuth,17,normal,-,-
+264,11,Odor Sleuth,17,normal,-,-
+264,12,Odor Sleuth,17,normal,-,-
+264,13,Odor Sleuth,17,normal,-,-
+264,14,Odor Sleuth,17,normal,-,-
+264,15,Odor Sleuth,17,normal,-,-
+264,16,Mud Sport,17,ground,-,-
+264,16,Fury Swipes,19,normal,18,80
+264,5,Mud Sport,23,ground,-,-
+264,6,Mud Sport,23,ground,-,-
+264,7,Mud Sport,23,ground,-,-
+264,8,Mud Sport,23,ground,-,-
+264,9,Mud Sport,23,ground,-,-
+264,10,Mud Sport,23,ground,-,-
+264,11,Mud Sport,23,ground,-,-
+264,12,Mud Sport,23,ground,-,-
+264,13,Mud Sport,23,ground,-,-
+264,14,Mud Sport,23,ground,-,-
+264,15,Mud Sport,23,ground,-,-
+264,16,Covet,24,normal,60,100
+264,16,Bestow,27,normal,-,-
+264,5,Fury Swipes,29,normal,18,80
+264,6,Fury Swipes,29,normal,18,80
+264,7,Fury Swipes,29,normal,18,80
+264,8,Fury Swipes,29,normal,18,80
+264,9,Fury Swipes,29,normal,18,80
+264,10,Fury Swipes,29,normal,18,80
+264,11,Fury Swipes,29,normal,18,80
+264,12,Fury Swipes,29,normal,18,80
+264,13,Fury Swipes,29,normal,18,80
+264,14,Fury Swipes,29,normal,18,80
+264,15,Fury Swipes,29,normal,18,80
+264,16,Slash,32,normal,70,100
+264,5,Covet,35,normal,60,100
+264,6,Covet,35,normal,60,100
+264,7,Covet,35,normal,60,100
+264,8,Covet,35,normal,60,100
+264,9,Covet,35,normal,60,100
+264,10,Covet,35,normal,60,100
+264,11,Covet,35,normal,60,100
+264,12,Covet,35,normal,60,100
+264,13,Covet,35,normal,60,100
+264,14,Covet,35,normal,60,100
+264,15,Covet,35,normal,60,100
+264,16,Double-Edge,35,normal,120,100
+264,16,Rest,40,psychic,-,-
+264,5,Slash,41,normal,70,100
+264,6,Slash,41,normal,70,100
+264,7,Slash,41,normal,70,100
+264,8,Slash,41,normal,70,100
+264,9,Slash,41,normal,70,100
+264,10,Slash,41,normal,70,100
+264,11,Bestow,41,normal,-,-
+264,12,Slash,41,normal,70,100
+264,13,Slash,41,normal,70,100
+264,14,Bestow,41,normal,-,-
+264,15,Bestow,41,normal,-,-
+264,16,Belly Drum,43,normal,-,-
+264,5,Rest,47,psychic,-,-
+264,6,Rest,47,psychic,-,-
+264,7,Rest,47,psychic,-,-
+264,8,Rest,47,psychic,-,-
+264,9,Rest,47,psychic,-,-
+264,10,Rest,47,psychic,-,-
+264,11,Slash,47,normal,70,100
+264,12,Rest,47,psychic,-,-
+264,13,Rest,47,psychic,-,-
+264,14,Slash,47,normal,70,100
+264,15,Slash,47,normal,70,100
+264,16,Fling,48,dark,-,100
+264,5,Belly Drum,53,normal,-,-
+264,6,Belly Drum,53,normal,-,-
+264,7,Belly Drum,53,normal,-,-
+264,8,Belly Drum,53,normal,-,-
+264,9,Belly Drum,53,normal,-,-
+264,10,Belly Drum,53,normal,-,-
+264,11,Rest,53,psychic,-,-
+264,12,Belly Drum,53,normal,-,-
+264,13,Belly Drum,53,normal,-,-
+264,14,Rest,53,psychic,-,-
+264,15,Rest,53,psychic,-,-
+264,8,Fling,59,dark,-,100
+264,9,Fling,59,dark,-,100
+264,10,Fling,59,dark,-,100
+264,11,Belly Drum,59,normal,-,-
+264,14,Belly Drum,59,normal,-,-
+264,15,Belly Drum,59,normal,-,-
+264,11,Fling,65,dark,-,100
+264,14,Fling,65,dark,-,100
+264,15,Fling,65,dark,-,100

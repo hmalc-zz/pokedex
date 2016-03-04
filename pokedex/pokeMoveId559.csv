@@ -1,65 +1,65 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-559,scraggy,11,28,Sand Attack,1,5,
-559,scraggy,11,29,Headbutt,1,12,
-559,scraggy,11,43,Leer,1,1,1
-559,scraggy,11,67,Low Kick,1,1,2
-559,scraggy,11,136,High Jump Kick,1,31,
-559,scraggy,11,184,Scary Face,1,34,
-559,scraggy,11,185,Feint Attack,1,9,
-559,scraggy,11,207,Swagger,1,16,
-559,scraggy,11,242,Crunch,1,38,
-559,scraggy,11,263,Facade,1,42,
-559,scraggy,11,264,Focus Punch,1,49,
-559,scraggy,11,280,Brick Break,1,20,
-559,scraggy,11,371,Payback,1,23,
-559,scraggy,11,431,Rock Climb,1,45,
-559,scraggy,11,457,Head Smash,1,53,
-559,scraggy,11,498,Chip Away,1,27,
-559,scraggy,14,28,Sand Attack,1,5,
-559,scraggy,14,29,Headbutt,1,12,
-559,scraggy,14,43,Leer,1,1,1
-559,scraggy,14,67,Low Kick,1,1,2
-559,scraggy,14,136,High Jump Kick,1,31,
-559,scraggy,14,184,Scary Face,1,34,
-559,scraggy,14,185,Feint Attack,1,9,
-559,scraggy,14,207,Swagger,1,16,
-559,scraggy,14,242,Crunch,1,38,
-559,scraggy,14,263,Facade,1,42,
-559,scraggy,14,264,Focus Punch,1,49,
-559,scraggy,14,280,Brick Break,1,20,
-559,scraggy,14,371,Payback,1,23,
-559,scraggy,14,431,Rock Climb,1,45,
-559,scraggy,14,457,Head Smash,1,53,
-559,scraggy,14,498,Chip Away,1,27,
-559,scraggy,15,28,Sand Attack,1,5,
-559,scraggy,15,29,Headbutt,1,12,
-559,scraggy,15,43,Leer,1,1,1
-559,scraggy,15,67,Low Kick,1,1,2
-559,scraggy,15,136,High Jump Kick,1,31,
-559,scraggy,15,184,Scary Face,1,34,
-559,scraggy,15,185,Feint Attack,1,9,
-559,scraggy,15,207,Swagger,1,16,
-559,scraggy,15,242,Crunch,1,38,
-559,scraggy,15,263,Facade,1,42,
-559,scraggy,15,264,Focus Punch,1,48,
-559,scraggy,15,280,Brick Break,1,20,
-559,scraggy,15,371,Payback,1,23,
-559,scraggy,15,431,Rock Climb,1,45,
-559,scraggy,15,457,Head Smash,1,50,
-559,scraggy,15,498,Chip Away,1,27,
-559,scraggy,16,28,Sand Attack,1,5,1
-559,scraggy,16,29,Headbutt,1,12,1
-559,scraggy,16,43,Leer,1,1,1
-559,scraggy,16,67,Low Kick,1,1,2
-559,scraggy,16,136,High Jump Kick,1,31,1
-559,scraggy,16,184,Scary Face,1,34,1
-559,scraggy,16,185,Feint Attack,1,9,1
-559,scraggy,16,207,Swagger,1,16,1
-559,scraggy,16,242,Crunch,1,38,1
-559,scraggy,16,263,Facade,1,42,1
-559,scraggy,16,264,Focus Punch,1,48,1
-559,scraggy,16,280,Brick Break,1,20,1
-559,scraggy,16,371,Payback,1,23,1
-559,scraggy,16,431,Rock Climb,1,45,1
-559,scraggy,16,457,Head Smash,1,50,1
-559,scraggy,16,498,Chip Away,1,27,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+559,11,Leer,1,normal,-,100
+559,11,Low Kick,1,fighting,-,100
+559,14,Leer,1,normal,-,100
+559,14,Low Kick,1,fighting,-,100
+559,15,Leer,1,normal,-,100
+559,15,Low Kick,1,fighting,-,100
+559,16,Leer,1,normal,-,100
+559,16,Low Kick,1,fighting,-,100
+559,11,Sand Attack,5,ground,-,100
+559,14,Sand Attack,5,ground,-,100
+559,15,Sand Attack,5,ground,-,100
+559,16,Sand Attack,5,ground,-,100
+559,11,Feint Attack,9,dark,60,-
+559,14,Feint Attack,9,dark,60,-
+559,15,Feint Attack,9,dark,60,-
+559,16,Feint Attack,9,dark,60,-
+559,11,Headbutt,12,normal,70,100
+559,14,Headbutt,12,normal,70,100
+559,15,Headbutt,12,normal,70,100
+559,16,Headbutt,12,normal,70,100
+559,11,Swagger,16,normal,-,90
+559,14,Swagger,16,normal,-,90
+559,15,Swagger,16,normal,-,90
+559,16,Swagger,16,normal,-,90
+559,11,Brick Break,20,fighting,75,100
+559,14,Brick Break,20,fighting,75,100
+559,15,Brick Break,20,fighting,75,100
+559,16,Brick Break,20,fighting,75,100
+559,11,Payback,23,dark,50,100
+559,14,Payback,23,dark,50,100
+559,15,Payback,23,dark,50,100
+559,16,Payback,23,dark,50,100
+559,11,Chip Away,27,normal,70,100
+559,14,Chip Away,27,normal,70,100
+559,15,Chip Away,27,normal,70,100
+559,16,Chip Away,27,normal,70,100
+559,11,High Jump Kick,31,fighting,130,90
+559,14,High Jump Kick,31,fighting,130,90
+559,15,High Jump Kick,31,fighting,130,90
+559,16,High Jump Kick,31,fighting,130,90
+559,11,Scary Face,34,normal,-,100
+559,14,Scary Face,34,normal,-,100
+559,15,Scary Face,34,normal,-,100
+559,16,Scary Face,34,normal,-,100
+559,11,Crunch,38,dark,80,100
+559,14,Crunch,38,dark,80,100
+559,15,Crunch,38,dark,80,100
+559,16,Crunch,38,dark,80,100
+559,11,Facade,42,normal,70,100
+559,14,Facade,42,normal,70,100
+559,15,Facade,42,normal,70,100
+559,16,Facade,42,normal,70,100
+559,11,Rock Climb,45,normal,90,85
+559,14,Rock Climb,45,normal,90,85
+559,15,Rock Climb,45,normal,90,85
+559,16,Rock Climb,45,normal,90,85
+559,15,Focus Punch,48,fighting,150,100
+559,16,Focus Punch,48,fighting,150,100
+559,11,Focus Punch,49,fighting,150,100
+559,14,Focus Punch,49,fighting,150,100
+559,15,Head Smash,50,rock,150,80
+559,16,Head Smash,50,rock,150,80
+559,11,Head Smash,53,rock,150,80
+559,14,Head Smash,53,rock,150,80

@@ -1,57 +1,57 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-527,woobat,11,16,Gust,1,8,
-527,woobat,11,93,Confusion,1,1,
-527,woobat,11,94,Psychic,1,41,
-527,woobat,11,133,Amnesia,1,29,1
-527,woobat,11,213,Attract,1,25,
-527,woobat,11,248,Future Sight,1,36,
-527,woobat,11,283,Endeavor,1,47,
-527,woobat,11,286,Imprison,1,19,
-527,woobat,11,314,Air Cutter,1,21,
-527,woobat,11,316,Odor Sleuth,1,4,
-527,woobat,11,347,Calm Mind,1,29,2
-527,woobat,11,372,Assurance,1,12,
-527,woobat,11,403,Air Slash,1,32,
-527,woobat,11,531,Heart Stamp,1,15,
-527,woobat,14,16,Gust,1,8,
-527,woobat,14,93,Confusion,1,1,
-527,woobat,14,94,Psychic,1,41,
-527,woobat,14,133,Amnesia,1,29,1
-527,woobat,14,213,Attract,1,25,
-527,woobat,14,248,Future Sight,1,36,
-527,woobat,14,283,Endeavor,1,47,
-527,woobat,14,286,Imprison,1,19,
-527,woobat,14,314,Air Cutter,1,21,
-527,woobat,14,316,Odor Sleuth,1,4,
-527,woobat,14,347,Calm Mind,1,29,2
-527,woobat,14,372,Assurance,1,12,
-527,woobat,14,403,Air Slash,1,32,
-527,woobat,14,531,Heart Stamp,1,15,
-527,woobat,15,16,Gust,1,8,
-527,woobat,15,93,Confusion,1,1,
-527,woobat,15,94,Psychic,1,41,
-527,woobat,15,133,Amnesia,1,29,1
-527,woobat,15,213,Attract,1,25,
-527,woobat,15,248,Future Sight,1,36,
-527,woobat,15,283,Endeavor,1,47,
-527,woobat,15,286,Imprison,1,19,
-527,woobat,15,314,Air Cutter,1,21,
-527,woobat,15,316,Odor Sleuth,1,4,
-527,woobat,15,347,Calm Mind,1,29,2
-527,woobat,15,372,Assurance,1,12,
-527,woobat,15,403,Air Slash,1,32,
-527,woobat,15,531,Heart Stamp,1,15,
-527,woobat,16,16,Gust,1,8,1
-527,woobat,16,93,Confusion,1,1,1
-527,woobat,16,94,Psychic,1,41,1
-527,woobat,16,133,Amnesia,1,29,1
-527,woobat,16,213,Attract,1,25,1
-527,woobat,16,248,Future Sight,1,36,1
-527,woobat,16,283,Endeavor,1,47,1
-527,woobat,16,286,Imprison,1,19,1
-527,woobat,16,314,Air Cutter,1,21,1
-527,woobat,16,316,Odor Sleuth,1,4,1
-527,woobat,16,347,Calm Mind,1,29,2
-527,woobat,16,372,Assurance,1,12,1
-527,woobat,16,403,Air Slash,1,32,1
-527,woobat,16,531,Heart Stamp,1,15,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+527,11,Confusion,1,psychic,50,100
+527,14,Confusion,1,psychic,50,100
+527,15,Confusion,1,psychic,50,100
+527,16,Confusion,1,psychic,50,100
+527,11,Odor Sleuth,4,normal,-,-
+527,14,Odor Sleuth,4,normal,-,-
+527,15,Odor Sleuth,4,normal,-,-
+527,16,Odor Sleuth,4,normal,-,-
+527,11,Gust,8,flying,40,100
+527,14,Gust,8,flying,40,100
+527,15,Gust,8,flying,40,100
+527,16,Gust,8,flying,40,100
+527,11,Assurance,12,dark,60,100
+527,14,Assurance,12,dark,60,100
+527,15,Assurance,12,dark,60,100
+527,16,Assurance,12,dark,60,100
+527,11,Heart Stamp,15,psychic,60,100
+527,14,Heart Stamp,15,psychic,60,100
+527,15,Heart Stamp,15,psychic,60,100
+527,16,Heart Stamp,15,psychic,60,100
+527,11,Imprison,19,psychic,-,-
+527,14,Imprison,19,psychic,-,-
+527,15,Imprison,19,psychic,-,-
+527,16,Imprison,19,psychic,-,-
+527,11,Air Cutter,21,flying,60,95
+527,14,Air Cutter,21,flying,60,95
+527,15,Air Cutter,21,flying,60,95
+527,16,Air Cutter,21,flying,60,95
+527,11,Attract,25,normal,-,100
+527,14,Attract,25,normal,-,100
+527,15,Attract,25,normal,-,100
+527,16,Attract,25,normal,-,100
+527,11,Amnesia,29,psychic,-,-
+527,11,Calm Mind,29,psychic,-,-
+527,14,Amnesia,29,psychic,-,-
+527,14,Calm Mind,29,psychic,-,-
+527,15,Amnesia,29,psychic,-,-
+527,15,Calm Mind,29,psychic,-,-
+527,16,Amnesia,29,psychic,-,-
+527,16,Calm Mind,29,psychic,-,-
+527,11,Air Slash,32,flying,75,95
+527,14,Air Slash,32,flying,75,95
+527,15,Air Slash,32,flying,75,95
+527,16,Air Slash,32,flying,75,95
+527,11,Future Sight,36,psychic,120,100
+527,14,Future Sight,36,psychic,120,100
+527,15,Future Sight,36,psychic,120,100
+527,16,Future Sight,36,psychic,120,100
+527,11,Psychic,41,psychic,90,100
+527,14,Psychic,41,psychic,90,100
+527,15,Psychic,41,psychic,90,100
+527,16,Psychic,41,psychic,90,100
+527,11,Endeavor,47,normal,-,100
+527,14,Endeavor,47,normal,-,100
+527,15,Endeavor,47,normal,-,100
+527,16,Endeavor,47,normal,-,100

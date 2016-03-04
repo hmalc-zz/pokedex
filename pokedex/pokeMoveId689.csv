@@ -1,41 +1,41 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-689,barbaracle,15,10,Scratch,1,1,4
-689,barbaracle,15,28,Sand Attack,1,1,5
-689,barbaracle,15,55,Water Gun,1,4,
-689,barbaracle,15,110,Withdraw,1,7,
-689,barbaracle,15,128,Clamp,1,20,
-689,barbaracle,15,130,Skull Bash,1,1,2
-689,barbaracle,15,130,Skull Bash,1,65,
-689,barbaracle,15,154,Fury Swipes,1,10,
-689,barbaracle,15,163,Slash,1,13,
-689,barbaracle,15,189,Mud-Slap,1,18,
-689,barbaracle,15,210,Fury Cutter,1,37,
-689,barbaracle,15,238,Cross Chop,1,55,
-689,barbaracle,15,246,Ancient Power,1,28,
-689,barbaracle,15,397,Rock Polish,1,24,
-689,barbaracle,15,400,Night Slash,1,44,
-689,barbaracle,15,444,Stone Edge,1,1,1
-689,barbaracle,15,444,Stone Edge,1,60,
-689,barbaracle,15,468,Hone Claws,1,32,
-689,barbaracle,15,504,Shell Smash,1,1,3
-689,barbaracle,15,534,Razor Shell,1,48,
-689,barbaracle,16,10,Scratch,1,1,4
-689,barbaracle,16,28,Sand Attack,1,1,5
-689,barbaracle,16,55,Water Gun,1,4,1
-689,barbaracle,16,110,Withdraw,1,7,1
-689,barbaracle,16,128,Clamp,1,20,1
-689,barbaracle,16,130,Skull Bash,1,1,2
-689,barbaracle,16,130,Skull Bash,1,65,1
-689,barbaracle,16,154,Fury Swipes,1,10,1
-689,barbaracle,16,163,Slash,1,13,1
-689,barbaracle,16,189,Mud-Slap,1,18,1
-689,barbaracle,16,210,Fury Cutter,1,37,1
-689,barbaracle,16,238,Cross Chop,1,55,1
-689,barbaracle,16,246,Ancient Power,1,28,1
-689,barbaracle,16,397,Rock Polish,1,24,1
-689,barbaracle,16,400,Night Slash,1,44,1
-689,barbaracle,16,444,Stone Edge,1,1,1
-689,barbaracle,16,444,Stone Edge,1,60,1
-689,barbaracle,16,468,Hone Claws,1,32,1
-689,barbaracle,16,504,Shell Smash,1,1,3
-689,barbaracle,16,534,Razor Shell,1,48,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+689,15,Scratch,1,normal,40,100
+689,15,Sand Attack,1,ground,-,100
+689,15,Skull Bash,1,normal,130,100
+689,15,Stone Edge,1,rock,100,80
+689,15,Shell Smash,1,normal,-,-
+689,16,Scratch,1,normal,40,100
+689,16,Sand Attack,1,ground,-,100
+689,16,Skull Bash,1,normal,130,100
+689,16,Stone Edge,1,rock,100,80
+689,16,Shell Smash,1,normal,-,-
+689,15,Water Gun,4,water,40,100
+689,16,Water Gun,4,water,40,100
+689,15,Withdraw,7,water,-,-
+689,16,Withdraw,7,water,-,-
+689,15,Fury Swipes,10,normal,18,80
+689,16,Fury Swipes,10,normal,18,80
+689,15,Slash,13,normal,70,100
+689,16,Slash,13,normal,70,100
+689,15,Mud-Slap,18,ground,20,100
+689,16,Mud-Slap,18,ground,20,100
+689,15,Clamp,20,water,35,85
+689,16,Clamp,20,water,35,85
+689,15,Rock Polish,24,rock,-,-
+689,16,Rock Polish,24,rock,-,-
+689,15,Ancient Power,28,rock,60,100
+689,16,Ancient Power,28,rock,60,100
+689,15,Hone Claws,32,dark,-,-
+689,16,Hone Claws,32,dark,-,-
+689,15,Fury Cutter,37,bug,40,95
+689,16,Fury Cutter,37,bug,40,95
+689,15,Night Slash,44,dark,70,100
+689,16,Night Slash,44,dark,70,100
+689,15,Razor Shell,48,water,75,95
+689,16,Razor Shell,48,water,75,95
+689,15,Cross Chop,55,fighting,100,80
+689,16,Cross Chop,55,fighting,100,80
+689,15,Stone Edge,60,rock,100,80
+689,16,Stone Edge,60,rock,100,80
+689,15,Skull Bash,65,normal,130,100
+689,16,Skull Bash,65,normal,130,100

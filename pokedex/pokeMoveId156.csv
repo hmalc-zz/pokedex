@@ -1,170 +1,170 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-156,quilava,3,33,Tackle,1,1,1
-156,quilava,3,43,Leer,1,1,2
-156,quilava,3,52,Ember,1,12,
-156,quilava,3,53,Flamethrower,1,54,
-156,quilava,3,98,Quick Attack,1,21,
-156,quilava,3,108,Smokescreen,1,1,3
-156,quilava,3,108,Smokescreen,1,6,
-156,quilava,3,129,Swift,1,42,
-156,quilava,3,172,Flame Wheel,1,31,
-156,quilava,4,33,Tackle,1,1,1
-156,quilava,4,43,Leer,1,1,2
-156,quilava,4,52,Ember,1,12,
-156,quilava,4,53,Flamethrower,1,54,
-156,quilava,4,98,Quick Attack,1,21,
-156,quilava,4,108,Smokescreen,1,1,3
-156,quilava,4,108,Smokescreen,1,6,
-156,quilava,4,129,Swift,1,42,
-156,quilava,4,172,Flame Wheel,1,31,
-156,quilava,5,33,Tackle,1,1,1
-156,quilava,5,43,Leer,1,1,2
-156,quilava,5,52,Ember,1,12,
-156,quilava,5,53,Flamethrower,1,54,
-156,quilava,5,98,Quick Attack,1,21,
-156,quilava,5,108,Smokescreen,1,1,3
-156,quilava,5,108,Smokescreen,1,6,
-156,quilava,5,129,Swift,1,42,
-156,quilava,5,172,Flame Wheel,1,31,
-156,quilava,6,33,Tackle,1,1,1
-156,quilava,6,43,Leer,1,1,2
-156,quilava,6,52,Ember,1,12,
-156,quilava,6,53,Flamethrower,1,54,
-156,quilava,6,98,Quick Attack,1,21,
-156,quilava,6,108,Smokescreen,1,1,3
-156,quilava,6,108,Smokescreen,1,6,
-156,quilava,6,129,Swift,1,42,
-156,quilava,6,172,Flame Wheel,1,31,
-156,quilava,7,33,Tackle,1,1,1
-156,quilava,7,43,Leer,1,1,2
-156,quilava,7,52,Ember,1,12,
-156,quilava,7,53,Flamethrower,1,54,
-156,quilava,7,98,Quick Attack,1,21,
-156,quilava,7,108,Smokescreen,1,1,3
-156,quilava,7,108,Smokescreen,1,6,
-156,quilava,7,129,Swift,1,42,
-156,quilava,7,172,Flame Wheel,1,31,
-156,quilava,8,33,Tackle,1,1,1
-156,quilava,8,38,Double-Edge,1,53,
-156,quilava,8,43,Leer,1,1,2
-156,quilava,8,52,Ember,1,10,
-156,quilava,8,53,Flamethrower,1,42,
-156,quilava,8,98,Quick Attack,1,13,
-156,quilava,8,108,Smokescreen,1,1,3
-156,quilava,8,108,Smokescreen,1,4,
-156,quilava,8,111,Defense Curl,1,24,
-156,quilava,8,129,Swift,1,31,
-156,quilava,8,172,Flame Wheel,1,20,
-156,quilava,8,205,Rollout,1,46,
-156,quilava,8,284,Eruption,1,57,
-156,quilava,8,436,Lava Plume,1,35,
-156,quilava,9,33,Tackle,1,1,1
-156,quilava,9,38,Double-Edge,1,53,
-156,quilava,9,43,Leer,1,1,2
-156,quilava,9,52,Ember,1,10,
-156,quilava,9,53,Flamethrower,1,42,
-156,quilava,9,98,Quick Attack,1,13,
-156,quilava,9,108,Smokescreen,1,1,3
-156,quilava,9,108,Smokescreen,1,4,
-156,quilava,9,111,Defense Curl,1,24,
-156,quilava,9,129,Swift,1,31,
-156,quilava,9,172,Flame Wheel,1,20,
-156,quilava,9,205,Rollout,1,46,
-156,quilava,9,284,Eruption,1,57,
-156,quilava,9,436,Lava Plume,1,35,
-156,quilava,10,33,Tackle,1,1,1
-156,quilava,10,38,Double-Edge,1,53,
-156,quilava,10,43,Leer,1,1,2
-156,quilava,10,52,Ember,1,10,
-156,quilava,10,53,Flamethrower,1,42,
-156,quilava,10,98,Quick Attack,1,13,
-156,quilava,10,108,Smokescreen,1,1,3
-156,quilava,10,108,Smokescreen,1,6,
-156,quilava,10,111,Defense Curl,1,24,
-156,quilava,10,129,Swift,1,31,
-156,quilava,10,172,Flame Wheel,1,20,
-156,quilava,10,205,Rollout,1,46,
-156,quilava,10,284,Eruption,1,57,
-156,quilava,10,436,Lava Plume,1,35,
-156,quilava,11,33,Tackle,1,1,1
-156,quilava,11,38,Double-Edge,1,64,
-156,quilava,11,43,Leer,1,1,2
-156,quilava,11,52,Ember,1,10,
-156,quilava,11,53,Flamethrower,1,46,
-156,quilava,11,98,Quick Attack,1,13,
-156,quilava,11,108,Smokescreen,1,1,3
-156,quilava,11,108,Smokescreen,1,6,
-156,quilava,11,111,Defense Curl,1,24,
-156,quilava,11,129,Swift,1,31,
-156,quilava,11,172,Flame Wheel,1,20,
-156,quilava,11,205,Rollout,1,57,
-156,quilava,11,284,Eruption,1,68,
-156,quilava,11,436,Lava Plume,1,42,
-156,quilava,11,488,Flame Charge,1,35,
-156,quilava,11,517,Inferno,1,53,
-156,quilava,12,33,Tackle,1,1,1
-156,quilava,12,43,Leer,1,1,2
-156,quilava,12,52,Ember,1,12,
-156,quilava,12,53,Flamethrower,1,54,
-156,quilava,12,98,Quick Attack,1,21,
-156,quilava,12,108,Smokescreen,1,1,3
-156,quilava,12,108,Smokescreen,1,6,
-156,quilava,12,129,Swift,1,42,
-156,quilava,12,172,Flame Wheel,1,31,
-156,quilava,13,33,Tackle,1,1,1
-156,quilava,13,43,Leer,1,1,2
-156,quilava,13,52,Ember,1,12,
-156,quilava,13,53,Flamethrower,1,54,
-156,quilava,13,98,Quick Attack,1,21,
-156,quilava,13,108,Smokescreen,1,1,3
-156,quilava,13,108,Smokescreen,1,6,
-156,quilava,13,129,Swift,1,42,
-156,quilava,13,172,Flame Wheel,1,31,
-156,quilava,14,33,Tackle,1,1,1
-156,quilava,14,38,Double-Edge,1,64,
-156,quilava,14,43,Leer,1,1,2
-156,quilava,14,52,Ember,1,10,
-156,quilava,14,53,Flamethrower,1,46,
-156,quilava,14,98,Quick Attack,1,13,
-156,quilava,14,108,Smokescreen,1,1,3
-156,quilava,14,108,Smokescreen,1,6,
-156,quilava,14,111,Defense Curl,1,24,
-156,quilava,14,129,Swift,1,31,
-156,quilava,14,172,Flame Wheel,1,20,
-156,quilava,14,205,Rollout,1,57,
-156,quilava,14,284,Eruption,1,68,
-156,quilava,14,436,Lava Plume,1,42,
-156,quilava,14,488,Flame Charge,1,35,
-156,quilava,14,517,Inferno,1,53,
-156,quilava,15,33,Tackle,1,1,1
-156,quilava,15,38,Double-Edge,1,64,
-156,quilava,15,43,Leer,1,1,2
-156,quilava,15,52,Ember,1,10,
-156,quilava,15,53,Flamethrower,1,46,
-156,quilava,15,98,Quick Attack,1,13,
-156,quilava,15,108,Smokescreen,1,1,3
-156,quilava,15,108,Smokescreen,1,6,
-156,quilava,15,111,Defense Curl,1,24,
-156,quilava,15,129,Swift,1,31,
-156,quilava,15,172,Flame Wheel,1,20,
-156,quilava,15,205,Rollout,1,57,
-156,quilava,15,284,Eruption,1,68,
-156,quilava,15,436,Lava Plume,1,42,
-156,quilava,15,488,Flame Charge,1,35,
-156,quilava,15,517,Inferno,1,53,
-156,quilava,16,33,Tackle,1,1,1
-156,quilava,16,38,Double-Edge,1,64,1
-156,quilava,16,43,Leer,1,1,2
-156,quilava,16,52,Ember,1,10,1
-156,quilava,16,53,Flamethrower,1,46,1
-156,quilava,16,98,Quick Attack,1,13,1
-156,quilava,16,108,Smokescreen,1,1,3
-156,quilava,16,108,Smokescreen,1,6,1
-156,quilava,16,111,Defense Curl,1,24,1
-156,quilava,16,129,Swift,1,31,1
-156,quilava,16,172,Flame Wheel,1,20,1
-156,quilava,16,205,Rollout,1,57,1
-156,quilava,16,284,Eruption,1,68,1
-156,quilava,16,436,Lava Plume,1,42,1
-156,quilava,16,488,Flame Charge,1,35,1
-156,quilava,16,517,Inferno,1,53,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+156,3,Tackle,1,normal,50,100
+156,3,Leer,1,normal,-,100
+156,3,Smokescreen,1,normal,-,100
+156,4,Tackle,1,normal,50,100
+156,4,Leer,1,normal,-,100
+156,4,Smokescreen,1,normal,-,100
+156,5,Tackle,1,normal,50,100
+156,5,Leer,1,normal,-,100
+156,5,Smokescreen,1,normal,-,100
+156,6,Tackle,1,normal,50,100
+156,6,Leer,1,normal,-,100
+156,6,Smokescreen,1,normal,-,100
+156,7,Tackle,1,normal,50,100
+156,7,Leer,1,normal,-,100
+156,7,Smokescreen,1,normal,-,100
+156,8,Tackle,1,normal,50,100
+156,8,Leer,1,normal,-,100
+156,8,Smokescreen,1,normal,-,100
+156,9,Tackle,1,normal,50,100
+156,9,Leer,1,normal,-,100
+156,9,Smokescreen,1,normal,-,100
+156,10,Tackle,1,normal,50,100
+156,10,Leer,1,normal,-,100
+156,10,Smokescreen,1,normal,-,100
+156,11,Tackle,1,normal,50,100
+156,11,Leer,1,normal,-,100
+156,11,Smokescreen,1,normal,-,100
+156,12,Tackle,1,normal,50,100
+156,12,Leer,1,normal,-,100
+156,12,Smokescreen,1,normal,-,100
+156,13,Tackle,1,normal,50,100
+156,13,Leer,1,normal,-,100
+156,13,Smokescreen,1,normal,-,100
+156,14,Tackle,1,normal,50,100
+156,14,Leer,1,normal,-,100
+156,14,Smokescreen,1,normal,-,100
+156,15,Tackle,1,normal,50,100
+156,15,Leer,1,normal,-,100
+156,15,Smokescreen,1,normal,-,100
+156,16,Tackle,1,normal,50,100
+156,16,Leer,1,normal,-,100
+156,16,Smokescreen,1,normal,-,100
+156,8,Smokescreen,4,normal,-,100
+156,9,Smokescreen,4,normal,-,100
+156,3,Smokescreen,6,normal,-,100
+156,4,Smokescreen,6,normal,-,100
+156,5,Smokescreen,6,normal,-,100
+156,6,Smokescreen,6,normal,-,100
+156,7,Smokescreen,6,normal,-,100
+156,10,Smokescreen,6,normal,-,100
+156,11,Smokescreen,6,normal,-,100
+156,12,Smokescreen,6,normal,-,100
+156,13,Smokescreen,6,normal,-,100
+156,14,Smokescreen,6,normal,-,100
+156,15,Smokescreen,6,normal,-,100
+156,16,Smokescreen,6,normal,-,100
+156,8,Ember,10,fire,40,100
+156,9,Ember,10,fire,40,100
+156,10,Ember,10,fire,40,100
+156,11,Ember,10,fire,40,100
+156,14,Ember,10,fire,40,100
+156,15,Ember,10,fire,40,100
+156,16,Ember,10,fire,40,100
+156,3,Ember,12,fire,40,100
+156,4,Ember,12,fire,40,100
+156,5,Ember,12,fire,40,100
+156,6,Ember,12,fire,40,100
+156,7,Ember,12,fire,40,100
+156,12,Ember,12,fire,40,100
+156,13,Ember,12,fire,40,100
+156,8,Quick Attack,13,normal,40,100
+156,9,Quick Attack,13,normal,40,100
+156,10,Quick Attack,13,normal,40,100
+156,11,Quick Attack,13,normal,40,100
+156,14,Quick Attack,13,normal,40,100
+156,15,Quick Attack,13,normal,40,100
+156,16,Quick Attack,13,normal,40,100
+156,8,Flame Wheel,20,fire,60,100
+156,9,Flame Wheel,20,fire,60,100
+156,10,Flame Wheel,20,fire,60,100
+156,11,Flame Wheel,20,fire,60,100
+156,14,Flame Wheel,20,fire,60,100
+156,15,Flame Wheel,20,fire,60,100
+156,16,Flame Wheel,20,fire,60,100
+156,3,Quick Attack,21,normal,40,100
+156,4,Quick Attack,21,normal,40,100
+156,5,Quick Attack,21,normal,40,100
+156,6,Quick Attack,21,normal,40,100
+156,7,Quick Attack,21,normal,40,100
+156,12,Quick Attack,21,normal,40,100
+156,13,Quick Attack,21,normal,40,100
+156,8,Defense Curl,24,normal,-,-
+156,9,Defense Curl,24,normal,-,-
+156,10,Defense Curl,24,normal,-,-
+156,11,Defense Curl,24,normal,-,-
+156,14,Defense Curl,24,normal,-,-
+156,15,Defense Curl,24,normal,-,-
+156,16,Defense Curl,24,normal,-,-
+156,3,Flame Wheel,31,fire,60,100
+156,4,Flame Wheel,31,fire,60,100
+156,5,Flame Wheel,31,fire,60,100
+156,6,Flame Wheel,31,fire,60,100
+156,7,Flame Wheel,31,fire,60,100
+156,8,Swift,31,normal,60,-
+156,9,Swift,31,normal,60,-
+156,10,Swift,31,normal,60,-
+156,11,Swift,31,normal,60,-
+156,12,Flame Wheel,31,fire,60,100
+156,13,Flame Wheel,31,fire,60,100
+156,14,Swift,31,normal,60,-
+156,15,Swift,31,normal,60,-
+156,16,Swift,31,normal,60,-
+156,8,Lava Plume,35,fire,80,100
+156,9,Lava Plume,35,fire,80,100
+156,10,Lava Plume,35,fire,80,100
+156,11,Flame Charge,35,fire,50,100
+156,14,Flame Charge,35,fire,50,100
+156,15,Flame Charge,35,fire,50,100
+156,16,Flame Charge,35,fire,50,100
+156,3,Swift,42,normal,60,-
+156,4,Swift,42,normal,60,-
+156,5,Swift,42,normal,60,-
+156,6,Swift,42,normal,60,-
+156,7,Swift,42,normal,60,-
+156,8,Flamethrower,42,fire,90,100
+156,9,Flamethrower,42,fire,90,100
+156,10,Flamethrower,42,fire,90,100
+156,11,Lava Plume,42,fire,80,100
+156,12,Swift,42,normal,60,-
+156,13,Swift,42,normal,60,-
+156,14,Lava Plume,42,fire,80,100
+156,15,Lava Plume,42,fire,80,100
+156,16,Lava Plume,42,fire,80,100
+156,8,Rollout,46,rock,30,90
+156,9,Rollout,46,rock,30,90
+156,10,Rollout,46,rock,30,90
+156,11,Flamethrower,46,fire,90,100
+156,14,Flamethrower,46,fire,90,100
+156,15,Flamethrower,46,fire,90,100
+156,16,Flamethrower,46,fire,90,100
+156,8,Double-Edge,53,normal,120,100
+156,9,Double-Edge,53,normal,120,100
+156,10,Double-Edge,53,normal,120,100
+156,11,Inferno,53,fire,100,50
+156,14,Inferno,53,fire,100,50
+156,15,Inferno,53,fire,100,50
+156,16,Inferno,53,fire,100,50
+156,3,Flamethrower,54,fire,90,100
+156,4,Flamethrower,54,fire,90,100
+156,5,Flamethrower,54,fire,90,100
+156,6,Flamethrower,54,fire,90,100
+156,7,Flamethrower,54,fire,90,100
+156,12,Flamethrower,54,fire,90,100
+156,13,Flamethrower,54,fire,90,100
+156,8,Eruption,57,fire,150,100
+156,9,Eruption,57,fire,150,100
+156,10,Eruption,57,fire,150,100
+156,11,Rollout,57,rock,30,90
+156,14,Rollout,57,rock,30,90
+156,15,Rollout,57,rock,30,90
+156,16,Rollout,57,rock,30,90
+156,11,Double-Edge,64,normal,120,100
+156,14,Double-Edge,64,normal,120,100
+156,15,Double-Edge,64,normal,120,100
+156,16,Double-Edge,64,normal,120,100
+156,11,Eruption,68,fire,150,100
+156,14,Eruption,68,fire,150,100
+156,15,Eruption,68,fire,150,100
+156,16,Eruption,68,fire,150,100

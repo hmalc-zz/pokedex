@@ -1,31 +1,31 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-710,pumpkaboo-average,15,73,Leech Seed,1,20,
-710,pumpkaboo-average,15,75,Razor Leaf,1,16,
-710,pumpkaboo-average,15,109,Confuse Ray,1,1,3
-710,pumpkaboo-average,15,184,Scary Face,1,4,
-710,pumpkaboo-average,15,220,Pain Split,1,42,
-710,pumpkaboo-average,15,247,Shadow Ball,1,36,
-710,pumpkaboo-average,15,271,Trick,1,1,1
-710,pumpkaboo-average,15,310,Astonish,1,1,2
-710,pumpkaboo-average,15,331,Bullet Seed,1,26,
-710,pumpkaboo-average,15,388,Worry Seed,1,11,
-710,pumpkaboo-average,15,402,Seed Bomb,1,48,
-710,pumpkaboo-average,15,425,Shadow Sneak,1,30,
-710,pumpkaboo-average,15,567,Trick-or-Treat,1,6,
-710,pumpkaboo-average,15,567,Trick-or-Treat,1,23,
-710,pumpkaboo-average,15,567,Trick-or-Treat,1,40,
-710,pumpkaboo-average,16,73,Leech Seed,1,20,1
-710,pumpkaboo-average,16,75,Razor Leaf,1,16,1
-710,pumpkaboo-average,16,109,Confuse Ray,1,1,3
-710,pumpkaboo-average,16,184,Scary Face,1,4,1
-710,pumpkaboo-average,16,220,Pain Split,1,42,1
-710,pumpkaboo-average,16,247,Shadow Ball,1,36,1
-710,pumpkaboo-average,16,271,Trick,1,1,1
-710,pumpkaboo-average,16,310,Astonish,1,1,2
-710,pumpkaboo-average,16,331,Bullet Seed,1,26,1
-710,pumpkaboo-average,16,388,Worry Seed,1,11,1
-710,pumpkaboo-average,16,402,Seed Bomb,1,48,1
-710,pumpkaboo-average,16,425,Shadow Sneak,1,30,1
-710,pumpkaboo-average,16,567,Trick-or-Treat,1,6,1
-710,pumpkaboo-average,16,567,Trick-or-Treat,1,23,1
-710,pumpkaboo-average,16,567,Trick-or-Treat,1,40,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+710,15,Confuse Ray,1,ghost,-,100
+710,15,Trick,1,psychic,-,100
+710,15,Astonish,1,ghost,30,100
+710,16,Confuse Ray,1,ghost,-,100
+710,16,Trick,1,psychic,-,100
+710,16,Astonish,1,ghost,30,100
+710,15,Scary Face,4,normal,-,100
+710,16,Scary Face,4,normal,-,100
+710,15,Trick-or-Treat,6,ghost,-,100
+710,16,Trick-or-Treat,6,ghost,-,100
+710,15,Worry Seed,11,grass,-,100
+710,16,Worry Seed,11,grass,-,100
+710,15,Razor Leaf,16,grass,55,95
+710,16,Razor Leaf,16,grass,55,95
+710,15,Leech Seed,20,grass,-,90
+710,16,Leech Seed,20,grass,-,90
+710,15,Trick-or-Treat,23,ghost,-,100
+710,16,Trick-or-Treat,23,ghost,-,100
+710,15,Bullet Seed,26,grass,25,100
+710,16,Bullet Seed,26,grass,25,100
+710,15,Shadow Sneak,30,ghost,40,100
+710,16,Shadow Sneak,30,ghost,40,100
+710,15,Shadow Ball,36,ghost,80,100
+710,16,Shadow Ball,36,ghost,80,100
+710,15,Trick-or-Treat,40,ghost,-,100
+710,16,Trick-or-Treat,40,ghost,-,100
+710,15,Pain Split,42,normal,-,-
+710,16,Pain Split,42,normal,-,-
+710,15,Seed Bomb,48,grass,80,100
+710,16,Seed Bomb,48,grass,80,100

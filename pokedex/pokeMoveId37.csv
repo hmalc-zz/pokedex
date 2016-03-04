@@ -1,207 +1,207 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-37,vulpix,1,39,Tail Whip,1,1,2
-37,vulpix,1,46,Roar,1,21,
-37,vulpix,1,52,Ember,1,1,1
-37,vulpix,1,53,Flamethrower,1,35,
-37,vulpix,1,83,Fire Spin,1,42,
-37,vulpix,1,98,Quick Attack,1,16,
-37,vulpix,1,109,Confuse Ray,1,28,
-37,vulpix,2,39,Tail Whip,1,1,2
-37,vulpix,2,46,Roar,1,21,
-37,vulpix,2,52,Ember,1,1,1
-37,vulpix,2,53,Flamethrower,1,35,
-37,vulpix,2,83,Fire Spin,1,42,
-37,vulpix,2,98,Quick Attack,1,16,
-37,vulpix,2,109,Confuse Ray,1,28,
-37,vulpix,3,39,Tail Whip,1,1,2
-37,vulpix,3,46,Roar,1,13,
-37,vulpix,3,52,Ember,1,1,1
-37,vulpix,3,53,Flamethrower,1,31,
-37,vulpix,3,83,Fire Spin,1,37,
-37,vulpix,3,98,Quick Attack,1,7,
-37,vulpix,3,109,Confuse Ray,1,19,
-37,vulpix,3,219,Safeguard,1,25,
-37,vulpix,4,39,Tail Whip,1,1,2
-37,vulpix,4,46,Roar,1,13,
-37,vulpix,4,52,Ember,1,1,1
-37,vulpix,4,53,Flamethrower,1,31,
-37,vulpix,4,83,Fire Spin,1,37,
-37,vulpix,4,98,Quick Attack,1,7,
-37,vulpix,4,109,Confuse Ray,1,19,
-37,vulpix,4,219,Safeguard,1,25,
-37,vulpix,5,39,Tail Whip,1,5,
-37,vulpix,5,46,Roar,1,9,
-37,vulpix,5,52,Ember,1,1,
-37,vulpix,5,53,Flamethrower,1,29,
-37,vulpix,5,83,Fire Spin,1,41,
-37,vulpix,5,98,Quick Attack,1,13,
-37,vulpix,5,109,Confuse Ray,1,21,
-37,vulpix,5,219,Safeguard,1,33,
-37,vulpix,5,261,Will-O-Wisp,1,17,
-37,vulpix,5,286,Imprison,1,25,
-37,vulpix,5,288,Grudge,1,37,
-37,vulpix,6,39,Tail Whip,1,5,
-37,vulpix,6,46,Roar,1,9,
-37,vulpix,6,52,Ember,1,1,
-37,vulpix,6,53,Flamethrower,1,29,
-37,vulpix,6,83,Fire Spin,1,41,
-37,vulpix,6,98,Quick Attack,1,13,
-37,vulpix,6,109,Confuse Ray,1,21,
-37,vulpix,6,219,Safeguard,1,33,
-37,vulpix,6,261,Will-O-Wisp,1,17,
-37,vulpix,6,286,Imprison,1,25,
-37,vulpix,6,288,Grudge,1,37,
-37,vulpix,7,39,Tail Whip,1,5,
-37,vulpix,7,46,Roar,1,9,
-37,vulpix,7,52,Ember,1,1,
-37,vulpix,7,53,Flamethrower,1,29,
-37,vulpix,7,83,Fire Spin,1,41,
-37,vulpix,7,98,Quick Attack,1,13,
-37,vulpix,7,109,Confuse Ray,1,21,
-37,vulpix,7,219,Safeguard,1,33,
-37,vulpix,7,261,Will-O-Wisp,1,17,
-37,vulpix,7,286,Imprison,1,25,
-37,vulpix,7,288,Grudge,1,37,
-37,vulpix,8,39,Tail Whip,1,4,
-37,vulpix,8,46,Roar,1,7,
-37,vulpix,8,52,Ember,1,1,
-37,vulpix,8,53,Flamethrower,1,24,
-37,vulpix,8,83,Fire Spin,1,34,
-37,vulpix,8,98,Quick Attack,1,11,
-37,vulpix,8,109,Confuse Ray,1,17,
-37,vulpix,8,126,Fire Blast,1,47,
-37,vulpix,8,219,Safeguard,1,27,
-37,vulpix,8,261,Will-O-Wisp,1,14,
-37,vulpix,8,286,Imprison,1,21,
-37,vulpix,8,288,Grudge,1,41,
-37,vulpix,8,326,Extrasensory,1,44,
-37,vulpix,8,371,Payback,1,31,
-37,vulpix,8,445,Captivate,1,37,
-37,vulpix,9,39,Tail Whip,1,4,
-37,vulpix,9,46,Roar,1,7,
-37,vulpix,9,52,Ember,1,1,
-37,vulpix,9,53,Flamethrower,1,24,
-37,vulpix,9,83,Fire Spin,1,34,
-37,vulpix,9,98,Quick Attack,1,11,
-37,vulpix,9,109,Confuse Ray,1,17,
-37,vulpix,9,126,Fire Blast,1,47,
-37,vulpix,9,219,Safeguard,1,27,
-37,vulpix,9,261,Will-O-Wisp,1,14,
-37,vulpix,9,286,Imprison,1,21,
-37,vulpix,9,288,Grudge,1,41,
-37,vulpix,9,326,Extrasensory,1,44,
-37,vulpix,9,371,Payback,1,31,
-37,vulpix,9,445,Captivate,1,37,
-37,vulpix,10,39,Tail Whip,1,4,
-37,vulpix,10,46,Roar,1,7,
-37,vulpix,10,52,Ember,1,1,
-37,vulpix,10,53,Flamethrower,1,24,
-37,vulpix,10,83,Fire Spin,1,34,
-37,vulpix,10,98,Quick Attack,1,11,
-37,vulpix,10,109,Confuse Ray,1,17,
-37,vulpix,10,126,Fire Blast,1,47,
-37,vulpix,10,219,Safeguard,1,27,
-37,vulpix,10,261,Will-O-Wisp,1,14,
-37,vulpix,10,286,Imprison,1,21,
-37,vulpix,10,288,Grudge,1,41,
-37,vulpix,10,326,Extrasensory,1,44,
-37,vulpix,10,371,Payback,1,31,
-37,vulpix,10,445,Captivate,1,37,
-37,vulpix,11,39,Tail Whip,1,4,
-37,vulpix,11,46,Roar,1,7,
-37,vulpix,11,52,Ember,1,1,
-37,vulpix,11,53,Flamethrower,1,37,
-37,vulpix,11,83,Fire Spin,1,14,
-37,vulpix,11,98,Quick Attack,1,11,
-37,vulpix,11,109,Confuse Ray,1,17,
-37,vulpix,11,126,Fire Blast,1,54,
-37,vulpix,11,219,Safeguard,1,27,
-37,vulpix,11,261,Will-O-Wisp,1,31,
-37,vulpix,11,286,Imprison,1,21,
-37,vulpix,11,288,Grudge,1,47,
-37,vulpix,11,326,Extrasensory,1,51,
-37,vulpix,11,371,Payback,1,34,
-37,vulpix,11,445,Captivate,1,41,
-37,vulpix,11,481,Flame Burst,1,24,
-37,vulpix,11,517,Inferno,1,44,
-37,vulpix,12,39,Tail Whip,1,5,
-37,vulpix,12,46,Roar,1,9,
-37,vulpix,12,52,Ember,1,1,
-37,vulpix,12,53,Flamethrower,1,29,
-37,vulpix,12,83,Fire Spin,1,41,
-37,vulpix,12,98,Quick Attack,1,13,
-37,vulpix,12,109,Confuse Ray,1,21,
-37,vulpix,12,219,Safeguard,1,33,
-37,vulpix,12,261,Will-O-Wisp,1,17,
-37,vulpix,12,286,Imprison,1,25,
-37,vulpix,12,288,Grudge,1,37,
-37,vulpix,13,39,Tail Whip,1,5,
-37,vulpix,13,46,Roar,1,9,
-37,vulpix,13,52,Ember,1,1,
-37,vulpix,13,53,Flamethrower,1,29,
-37,vulpix,13,83,Fire Spin,1,41,
-37,vulpix,13,98,Quick Attack,1,13,
-37,vulpix,13,109,Confuse Ray,1,21,
-37,vulpix,13,219,Safeguard,1,33,
-37,vulpix,13,261,Will-O-Wisp,1,17,
-37,vulpix,13,286,Imprison,1,25,
-37,vulpix,13,288,Grudge,1,37,
-37,vulpix,14,39,Tail Whip,1,4,
-37,vulpix,14,46,Roar,1,7,
-37,vulpix,14,52,Ember,1,1,
-37,vulpix,14,53,Flamethrower,1,34,
-37,vulpix,14,83,Fire Spin,1,12,
-37,vulpix,14,98,Quick Attack,1,10,
-37,vulpix,14,109,Confuse Ray,1,15,
-37,vulpix,14,126,Fire Blast,1,42,
-37,vulpix,14,185,Feint Attack,1,20,
-37,vulpix,14,219,Safeguard,1,36,
-37,vulpix,14,261,Will-O-Wisp,1,26,
-37,vulpix,14,286,Imprison,1,18,
-37,vulpix,14,288,Grudge,1,44,
-37,vulpix,14,326,Extrasensory,1,39,
-37,vulpix,14,371,Payback,1,31,
-37,vulpix,14,445,Captivate,1,47,
-37,vulpix,14,481,Flame Burst,1,23,
-37,vulpix,14,506,Hex,1,28,
-37,vulpix,14,517,Inferno,1,50,
-37,vulpix,15,39,Tail Whip,1,4,
-37,vulpix,15,46,Roar,1,7,
-37,vulpix,15,52,Ember,1,1,
-37,vulpix,15,53,Flamethrower,1,34,
-37,vulpix,15,83,Fire Spin,1,12,
-37,vulpix,15,98,Quick Attack,1,10,
-37,vulpix,15,109,Confuse Ray,1,15,
-37,vulpix,15,126,Fire Blast,1,42,
-37,vulpix,15,185,Feint Attack,1,20,
-37,vulpix,15,219,Safeguard,1,36,
-37,vulpix,15,261,Will-O-Wisp,1,26,
-37,vulpix,15,286,Imprison,1,18,
-37,vulpix,15,288,Grudge,1,44,
-37,vulpix,15,326,Extrasensory,1,39,
-37,vulpix,15,371,Payback,1,31,
-37,vulpix,15,445,Captivate,1,47,
-37,vulpix,15,481,Flame Burst,1,23,
-37,vulpix,15,506,Hex,1,28,
-37,vulpix,15,517,Inferno,1,50,
-37,vulpix,15,608,Baby-Doll Eyes,1,9,
-37,vulpix,16,39,Tail Whip,1,4,1
-37,vulpix,16,46,Roar,1,7,1
-37,vulpix,16,52,Ember,1,1,1
-37,vulpix,16,53,Flamethrower,1,36,1
-37,vulpix,16,83,Fire Spin,1,15,1
-37,vulpix,16,98,Quick Attack,1,10,1
-37,vulpix,16,109,Confuse Ray,1,12,1
-37,vulpix,16,126,Fire Blast,1,42,1
-37,vulpix,16,185,Feint Attack,1,23,1
-37,vulpix,16,219,Safeguard,1,34,1
-37,vulpix,16,261,Will-O-Wisp,1,20,1
-37,vulpix,16,286,Imprison,1,39,1
-37,vulpix,16,288,Grudge,1,44,1
-37,vulpix,16,326,Extrasensory,1,31,1
-37,vulpix,16,371,Payback,1,18,1
-37,vulpix,16,445,Captivate,1,47,1
-37,vulpix,16,481,Flame Burst,1,28,1
-37,vulpix,16,506,Hex,1,26,1
-37,vulpix,16,517,Inferno,1,50,1
-37,vulpix,16,608,Baby-Doll Eyes,1,9,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+37,1,Tail Whip,1,normal,-,100
+37,1,Ember,1,fire,40,100
+37,2,Tail Whip,1,normal,-,100
+37,2,Ember,1,fire,40,100
+37,3,Tail Whip,1,normal,-,100
+37,3,Ember,1,fire,40,100
+37,4,Tail Whip,1,normal,-,100
+37,4,Ember,1,fire,40,100
+37,5,Ember,1,fire,40,100
+37,6,Ember,1,fire,40,100
+37,7,Ember,1,fire,40,100
+37,8,Ember,1,fire,40,100
+37,9,Ember,1,fire,40,100
+37,10,Ember,1,fire,40,100
+37,11,Ember,1,fire,40,100
+37,12,Ember,1,fire,40,100
+37,13,Ember,1,fire,40,100
+37,14,Ember,1,fire,40,100
+37,15,Ember,1,fire,40,100
+37,16,Ember,1,fire,40,100
+37,8,Tail Whip,4,normal,-,100
+37,9,Tail Whip,4,normal,-,100
+37,10,Tail Whip,4,normal,-,100
+37,11,Tail Whip,4,normal,-,100
+37,14,Tail Whip,4,normal,-,100
+37,15,Tail Whip,4,normal,-,100
+37,16,Tail Whip,4,normal,-,100
+37,5,Tail Whip,5,normal,-,100
+37,6,Tail Whip,5,normal,-,100
+37,7,Tail Whip,5,normal,-,100
+37,12,Tail Whip,5,normal,-,100
+37,13,Tail Whip,5,normal,-,100
+37,3,Quick Attack,7,normal,40,100
+37,4,Quick Attack,7,normal,40,100
+37,8,Roar,7,normal,-,-
+37,9,Roar,7,normal,-,-
+37,10,Roar,7,normal,-,-
+37,11,Roar,7,normal,-,-
+37,14,Roar,7,normal,-,-
+37,15,Roar,7,normal,-,-
+37,16,Roar,7,normal,-,-
+37,5,Roar,9,normal,-,-
+37,6,Roar,9,normal,-,-
+37,7,Roar,9,normal,-,-
+37,12,Roar,9,normal,-,-
+37,13,Roar,9,normal,-,-
+37,15,Baby-Doll Eyes,9,fairy,-,100
+37,16,Baby-Doll Eyes,9,fairy,-,100
+37,14,Quick Attack,10,normal,40,100
+37,15,Quick Attack,10,normal,40,100
+37,16,Quick Attack,10,normal,40,100
+37,8,Quick Attack,11,normal,40,100
+37,9,Quick Attack,11,normal,40,100
+37,10,Quick Attack,11,normal,40,100
+37,11,Quick Attack,11,normal,40,100
+37,14,Fire Spin,12,fire,35,85
+37,15,Fire Spin,12,fire,35,85
+37,16,Confuse Ray,12,ghost,-,100
+37,3,Roar,13,normal,-,-
+37,4,Roar,13,normal,-,-
+37,5,Quick Attack,13,normal,40,100
+37,6,Quick Attack,13,normal,40,100
+37,7,Quick Attack,13,normal,40,100
+37,12,Quick Attack,13,normal,40,100
+37,13,Quick Attack,13,normal,40,100
+37,8,Will-O-Wisp,14,fire,-,85
+37,9,Will-O-Wisp,14,fire,-,85
+37,10,Will-O-Wisp,14,fire,-,85
+37,11,Fire Spin,14,fire,35,85
+37,14,Confuse Ray,15,ghost,-,100
+37,15,Confuse Ray,15,ghost,-,100
+37,16,Fire Spin,15,fire,35,85
+37,1,Quick Attack,16,normal,40,100
+37,2,Quick Attack,16,normal,40,100
+37,5,Will-O-Wisp,17,fire,-,85
+37,6,Will-O-Wisp,17,fire,-,85
+37,7,Will-O-Wisp,17,fire,-,85
+37,8,Confuse Ray,17,ghost,-,100
+37,9,Confuse Ray,17,ghost,-,100
+37,10,Confuse Ray,17,ghost,-,100
+37,11,Confuse Ray,17,ghost,-,100
+37,12,Will-O-Wisp,17,fire,-,85
+37,13,Will-O-Wisp,17,fire,-,85
+37,14,Imprison,18,psychic,-,-
+37,15,Imprison,18,psychic,-,-
+37,16,Payback,18,dark,50,100
+37,3,Confuse Ray,19,ghost,-,100
+37,4,Confuse Ray,19,ghost,-,100
+37,14,Feint Attack,20,dark,60,-
+37,15,Feint Attack,20,dark,60,-
+37,16,Will-O-Wisp,20,fire,-,85
+37,1,Roar,21,normal,-,-
+37,2,Roar,21,normal,-,-
+37,5,Confuse Ray,21,ghost,-,100
+37,6,Confuse Ray,21,ghost,-,100
+37,7,Confuse Ray,21,ghost,-,100
+37,8,Imprison,21,psychic,-,-
+37,9,Imprison,21,psychic,-,-
+37,10,Imprison,21,psychic,-,-
+37,11,Imprison,21,psychic,-,-
+37,12,Confuse Ray,21,ghost,-,100
+37,13,Confuse Ray,21,ghost,-,100
+37,14,Flame Burst,23,fire,70,100
+37,15,Flame Burst,23,fire,70,100
+37,16,Feint Attack,23,dark,60,-
+37,8,Flamethrower,24,fire,90,100
+37,9,Flamethrower,24,fire,90,100
+37,10,Flamethrower,24,fire,90,100
+37,11,Flame Burst,24,fire,70,100
+37,3,Safeguard,25,normal,-,-
+37,4,Safeguard,25,normal,-,-
+37,5,Imprison,25,psychic,-,-
+37,6,Imprison,25,psychic,-,-
+37,7,Imprison,25,psychic,-,-
+37,12,Imprison,25,psychic,-,-
+37,13,Imprison,25,psychic,-,-
+37,14,Will-O-Wisp,26,fire,-,85
+37,15,Will-O-Wisp,26,fire,-,85
+37,16,Hex,26,ghost,65,100
+37,8,Safeguard,27,normal,-,-
+37,9,Safeguard,27,normal,-,-
+37,10,Safeguard,27,normal,-,-
+37,11,Safeguard,27,normal,-,-
+37,1,Confuse Ray,28,ghost,-,100
+37,2,Confuse Ray,28,ghost,-,100
+37,14,Hex,28,ghost,65,100
+37,15,Hex,28,ghost,65,100
+37,16,Flame Burst,28,fire,70,100
+37,5,Flamethrower,29,fire,90,100
+37,6,Flamethrower,29,fire,90,100
+37,7,Flamethrower,29,fire,90,100
+37,12,Flamethrower,29,fire,90,100
+37,13,Flamethrower,29,fire,90,100
+37,3,Flamethrower,31,fire,90,100
+37,4,Flamethrower,31,fire,90,100
+37,8,Payback,31,dark,50,100
+37,9,Payback,31,dark,50,100
+37,10,Payback,31,dark,50,100
+37,11,Will-O-Wisp,31,fire,-,85
+37,14,Payback,31,dark,50,100
+37,15,Payback,31,dark,50,100
+37,16,Extrasensory,31,psychic,80,100
+37,5,Safeguard,33,normal,-,-
+37,6,Safeguard,33,normal,-,-
+37,7,Safeguard,33,normal,-,-
+37,12,Safeguard,33,normal,-,-
+37,13,Safeguard,33,normal,-,-
+37,8,Fire Spin,34,fire,35,85
+37,9,Fire Spin,34,fire,35,85
+37,10,Fire Spin,34,fire,35,85
+37,11,Payback,34,dark,50,100
+37,14,Flamethrower,34,fire,90,100
+37,15,Flamethrower,34,fire,90,100
+37,16,Safeguard,34,normal,-,-
+37,1,Flamethrower,35,fire,90,100
+37,2,Flamethrower,35,fire,90,100
+37,14,Safeguard,36,normal,-,-
+37,15,Safeguard,36,normal,-,-
+37,16,Flamethrower,36,fire,90,100
+37,3,Fire Spin,37,fire,35,85
+37,4,Fire Spin,37,fire,35,85
+37,5,Grudge,37,ghost,-,-
+37,6,Grudge,37,ghost,-,-
+37,7,Grudge,37,ghost,-,-
+37,8,Captivate,37,normal,-,100
+37,9,Captivate,37,normal,-,100
+37,10,Captivate,37,normal,-,100
+37,11,Flamethrower,37,fire,90,100
+37,12,Grudge,37,ghost,-,-
+37,13,Grudge,37,ghost,-,-
+37,14,Extrasensory,39,psychic,80,100
+37,15,Extrasensory,39,psychic,80,100
+37,16,Imprison,39,psychic,-,-
+37,5,Fire Spin,41,fire,35,85
+37,6,Fire Spin,41,fire,35,85
+37,7,Fire Spin,41,fire,35,85
+37,8,Grudge,41,ghost,-,-
+37,9,Grudge,41,ghost,-,-
+37,10,Grudge,41,ghost,-,-
+37,11,Captivate,41,normal,-,100
+37,12,Fire Spin,41,fire,35,85
+37,13,Fire Spin,41,fire,35,85
+37,1,Fire Spin,42,fire,35,85
+37,2,Fire Spin,42,fire,35,85
+37,14,Fire Blast,42,fire,110,85
+37,15,Fire Blast,42,fire,110,85
+37,16,Fire Blast,42,fire,110,85
+37,8,Extrasensory,44,psychic,80,100
+37,9,Extrasensory,44,psychic,80,100
+37,10,Extrasensory,44,psychic,80,100
+37,11,Inferno,44,fire,100,50
+37,14,Grudge,44,ghost,-,-
+37,15,Grudge,44,ghost,-,-
+37,16,Grudge,44,ghost,-,-
+37,8,Fire Blast,47,fire,110,85
+37,9,Fire Blast,47,fire,110,85
+37,10,Fire Blast,47,fire,110,85
+37,11,Grudge,47,ghost,-,-
+37,14,Captivate,47,normal,-,100
+37,15,Captivate,47,normal,-,100
+37,16,Captivate,47,normal,-,100
+37,14,Inferno,50,fire,100,50
+37,15,Inferno,50,fire,100,50
+37,16,Inferno,50,fire,100,50
+37,11,Extrasensory,51,psychic,80,100
+37,11,Fire Blast,54,fire,110,85

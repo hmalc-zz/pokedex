@@ -1,143 +1,143 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-318,carvanha,5,36,Take Down,1,31,
-318,carvanha,5,43,Leer,1,1,1
-318,carvanha,5,44,Bite,1,1,2
-318,carvanha,5,97,Agility,1,43,
-318,carvanha,5,99,Rage,1,7,
-318,carvanha,5,103,Screech,1,28,
-318,carvanha,5,116,Focus Energy,1,13,
-318,carvanha,5,184,Scary Face,1,16,
-318,carvanha,5,207,Swagger,1,37,
-318,carvanha,5,242,Crunch,1,22,
-318,carvanha,6,36,Take Down,1,31,
-318,carvanha,6,43,Leer,1,1,1
-318,carvanha,6,44,Bite,1,1,2
-318,carvanha,6,97,Agility,1,43,
-318,carvanha,6,99,Rage,1,7,
-318,carvanha,6,103,Screech,1,28,
-318,carvanha,6,116,Focus Energy,1,13,
-318,carvanha,6,184,Scary Face,1,16,
-318,carvanha,6,207,Swagger,1,37,
-318,carvanha,6,242,Crunch,1,22,
-318,carvanha,7,36,Take Down,1,31,
-318,carvanha,7,43,Leer,1,1,1
-318,carvanha,7,44,Bite,1,1,2
-318,carvanha,7,97,Agility,1,43,
-318,carvanha,7,99,Rage,1,7,
-318,carvanha,7,103,Screech,1,28,
-318,carvanha,7,116,Focus Energy,1,13,
-318,carvanha,7,184,Scary Face,1,16,
-318,carvanha,7,207,Swagger,1,37,
-318,carvanha,7,242,Crunch,1,22,
-318,carvanha,8,36,Take Down,1,38,
-318,carvanha,8,43,Leer,1,1,1
-318,carvanha,8,44,Bite,1,1,2
-318,carvanha,8,97,Agility,1,36,
-318,carvanha,8,99,Rage,1,6,
-318,carvanha,8,103,Screech,1,18,
-318,carvanha,8,116,Focus Energy,1,8,
-318,carvanha,8,184,Scary Face,1,11,
-318,carvanha,8,207,Swagger,1,21,
-318,carvanha,8,242,Crunch,1,28,
-318,carvanha,8,372,Assurance,1,26,
-318,carvanha,8,423,Ice Fang,1,16,
-318,carvanha,8,453,Aqua Jet,1,31,
-318,carvanha,9,36,Take Down,1,38,
-318,carvanha,9,43,Leer,1,1,1
-318,carvanha,9,44,Bite,1,1,2
-318,carvanha,9,97,Agility,1,36,
-318,carvanha,9,99,Rage,1,6,
-318,carvanha,9,103,Screech,1,18,
-318,carvanha,9,116,Focus Energy,1,8,
-318,carvanha,9,184,Scary Face,1,11,
-318,carvanha,9,207,Swagger,1,21,
-318,carvanha,9,242,Crunch,1,28,
-318,carvanha,9,372,Assurance,1,26,
-318,carvanha,9,423,Ice Fang,1,16,
-318,carvanha,9,453,Aqua Jet,1,31,
-318,carvanha,10,36,Take Down,1,38,
-318,carvanha,10,43,Leer,1,1,1
-318,carvanha,10,44,Bite,1,1,2
-318,carvanha,10,97,Agility,1,36,
-318,carvanha,10,99,Rage,1,6,
-318,carvanha,10,103,Screech,1,18,
-318,carvanha,10,116,Focus Energy,1,8,
-318,carvanha,10,184,Scary Face,1,11,
-318,carvanha,10,207,Swagger,1,21,
-318,carvanha,10,242,Crunch,1,28,
-318,carvanha,10,372,Assurance,1,26,
-318,carvanha,10,423,Ice Fang,1,16,
-318,carvanha,10,453,Aqua Jet,1,31,
-318,carvanha,11,36,Take Down,1,38,
-318,carvanha,11,43,Leer,1,1,1
-318,carvanha,11,44,Bite,1,1,2
-318,carvanha,11,97,Agility,1,36,
-318,carvanha,11,99,Rage,1,6,
-318,carvanha,11,103,Screech,1,18,
-318,carvanha,11,116,Focus Energy,1,8,
-318,carvanha,11,184,Scary Face,1,11,
-318,carvanha,11,207,Swagger,1,21,
-318,carvanha,11,242,Crunch,1,28,
-318,carvanha,11,372,Assurance,1,26,
-318,carvanha,11,423,Ice Fang,1,16,
-318,carvanha,11,453,Aqua Jet,1,31,
-318,carvanha,12,36,Take Down,1,31,
-318,carvanha,12,43,Leer,1,1,1
-318,carvanha,12,44,Bite,1,1,2
-318,carvanha,12,97,Agility,1,43,
-318,carvanha,12,99,Rage,1,7,
-318,carvanha,12,103,Screech,1,28,
-318,carvanha,12,116,Focus Energy,1,13,
-318,carvanha,12,184,Scary Face,1,16,
-318,carvanha,12,207,Swagger,1,37,
-318,carvanha,12,242,Crunch,1,22,
-318,carvanha,13,36,Take Down,1,31,
-318,carvanha,13,43,Leer,1,1,1
-318,carvanha,13,44,Bite,1,1,2
-318,carvanha,13,97,Agility,1,43,
-318,carvanha,13,99,Rage,1,7,
-318,carvanha,13,103,Screech,1,28,
-318,carvanha,13,116,Focus Energy,1,13,
-318,carvanha,13,184,Scary Face,1,16,
-318,carvanha,13,207,Swagger,1,37,
-318,carvanha,13,242,Crunch,1,22,
-318,carvanha,14,36,Take Down,1,38,
-318,carvanha,14,43,Leer,1,1,1
-318,carvanha,14,44,Bite,1,1,2
-318,carvanha,14,97,Agility,1,36,
-318,carvanha,14,99,Rage,1,6,
-318,carvanha,14,103,Screech,1,18,
-318,carvanha,14,116,Focus Energy,1,8,
-318,carvanha,14,184,Scary Face,1,11,
-318,carvanha,14,207,Swagger,1,21,
-318,carvanha,14,242,Crunch,1,28,
-318,carvanha,14,372,Assurance,1,26,
-318,carvanha,14,423,Ice Fang,1,16,
-318,carvanha,14,453,Aqua Jet,1,31,
-318,carvanha,15,36,Take Down,1,38,
-318,carvanha,15,43,Leer,1,1,1
-318,carvanha,15,44,Bite,1,1,2
-318,carvanha,15,97,Agility,1,36,
-318,carvanha,15,99,Rage,1,6,
-318,carvanha,15,103,Screech,1,18,
-318,carvanha,15,116,Focus Energy,1,8,
-318,carvanha,15,184,Scary Face,1,11,
-318,carvanha,15,207,Swagger,1,21,
-318,carvanha,15,242,Crunch,1,28,
-318,carvanha,15,372,Assurance,1,26,
-318,carvanha,15,423,Ice Fang,1,16,
-318,carvanha,15,453,Aqua Jet,1,31,
-318,carvanha,16,36,Take Down,1,43,1
-318,carvanha,16,43,Leer,1,1,1
-318,carvanha,16,44,Bite,1,1,2
-318,carvanha,16,97,Agility,1,39,1
-318,carvanha,16,99,Rage,1,4,1
-318,carvanha,16,103,Screech,1,18,1
-318,carvanha,16,116,Focus Energy,1,8,1
-318,carvanha,16,184,Scary Face,1,29,1
-318,carvanha,16,207,Swagger,1,22,1
-318,carvanha,16,242,Crunch,1,36,1
-318,carvanha,16,305,Poison Fang,1,32,1
-318,carvanha,16,372,Assurance,1,15,1
-318,carvanha,16,423,Ice Fang,1,25,1
-318,carvanha,16,453,Aqua Jet,1,11,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+318,5,Leer,1,normal,-,100
+318,5,Bite,1,dark,60,100
+318,6,Leer,1,normal,-,100
+318,6,Bite,1,dark,60,100
+318,7,Leer,1,normal,-,100
+318,7,Bite,1,dark,60,100
+318,8,Leer,1,normal,-,100
+318,8,Bite,1,dark,60,100
+318,9,Leer,1,normal,-,100
+318,9,Bite,1,dark,60,100
+318,10,Leer,1,normal,-,100
+318,10,Bite,1,dark,60,100
+318,11,Leer,1,normal,-,100
+318,11,Bite,1,dark,60,100
+318,12,Leer,1,normal,-,100
+318,12,Bite,1,dark,60,100
+318,13,Leer,1,normal,-,100
+318,13,Bite,1,dark,60,100
+318,14,Leer,1,normal,-,100
+318,14,Bite,1,dark,60,100
+318,15,Leer,1,normal,-,100
+318,15,Bite,1,dark,60,100
+318,16,Leer,1,normal,-,100
+318,16,Bite,1,dark,60,100
+318,16,Rage,4,normal,20,100
+318,8,Rage,6,normal,20,100
+318,9,Rage,6,normal,20,100
+318,10,Rage,6,normal,20,100
+318,11,Rage,6,normal,20,100
+318,14,Rage,6,normal,20,100
+318,15,Rage,6,normal,20,100
+318,5,Rage,7,normal,20,100
+318,6,Rage,7,normal,20,100
+318,7,Rage,7,normal,20,100
+318,12,Rage,7,normal,20,100
+318,13,Rage,7,normal,20,100
+318,8,Focus Energy,8,normal,-,-
+318,9,Focus Energy,8,normal,-,-
+318,10,Focus Energy,8,normal,-,-
+318,11,Focus Energy,8,normal,-,-
+318,14,Focus Energy,8,normal,-,-
+318,15,Focus Energy,8,normal,-,-
+318,16,Focus Energy,8,normal,-,-
+318,8,Scary Face,11,normal,-,100
+318,9,Scary Face,11,normal,-,100
+318,10,Scary Face,11,normal,-,100
+318,11,Scary Face,11,normal,-,100
+318,14,Scary Face,11,normal,-,100
+318,15,Scary Face,11,normal,-,100
+318,16,Aqua Jet,11,water,40,100
+318,5,Focus Energy,13,normal,-,-
+318,6,Focus Energy,13,normal,-,-
+318,7,Focus Energy,13,normal,-,-
+318,12,Focus Energy,13,normal,-,-
+318,13,Focus Energy,13,normal,-,-
+318,16,Assurance,15,dark,60,100
+318,5,Scary Face,16,normal,-,100
+318,6,Scary Face,16,normal,-,100
+318,7,Scary Face,16,normal,-,100
+318,8,Ice Fang,16,ice,65,95
+318,9,Ice Fang,16,ice,65,95
+318,10,Ice Fang,16,ice,65,95
+318,11,Ice Fang,16,ice,65,95
+318,12,Scary Face,16,normal,-,100
+318,13,Scary Face,16,normal,-,100
+318,14,Ice Fang,16,ice,65,95
+318,15,Ice Fang,16,ice,65,95
+318,8,Screech,18,normal,-,85
+318,9,Screech,18,normal,-,85
+318,10,Screech,18,normal,-,85
+318,11,Screech,18,normal,-,85
+318,14,Screech,18,normal,-,85
+318,15,Screech,18,normal,-,85
+318,16,Screech,18,normal,-,85
+318,8,Swagger,21,normal,-,90
+318,9,Swagger,21,normal,-,90
+318,10,Swagger,21,normal,-,90
+318,11,Swagger,21,normal,-,90
+318,14,Swagger,21,normal,-,90
+318,15,Swagger,21,normal,-,90
+318,5,Crunch,22,dark,80,100
+318,6,Crunch,22,dark,80,100
+318,7,Crunch,22,dark,80,100
+318,12,Crunch,22,dark,80,100
+318,13,Crunch,22,dark,80,100
+318,16,Swagger,22,normal,-,90
+318,16,Ice Fang,25,ice,65,95
+318,8,Assurance,26,dark,60,100
+318,9,Assurance,26,dark,60,100
+318,10,Assurance,26,dark,60,100
+318,11,Assurance,26,dark,60,100
+318,14,Assurance,26,dark,60,100
+318,15,Assurance,26,dark,60,100
+318,5,Screech,28,normal,-,85
+318,6,Screech,28,normal,-,85
+318,7,Screech,28,normal,-,85
+318,8,Crunch,28,dark,80,100
+318,9,Crunch,28,dark,80,100
+318,10,Crunch,28,dark,80,100
+318,11,Crunch,28,dark,80,100
+318,12,Screech,28,normal,-,85
+318,13,Screech,28,normal,-,85
+318,14,Crunch,28,dark,80,100
+318,15,Crunch,28,dark,80,100
+318,16,Scary Face,29,normal,-,100
+318,5,Take Down,31,normal,90,85
+318,6,Take Down,31,normal,90,85
+318,7,Take Down,31,normal,90,85
+318,8,Aqua Jet,31,water,40,100
+318,9,Aqua Jet,31,water,40,100
+318,10,Aqua Jet,31,water,40,100
+318,11,Aqua Jet,31,water,40,100
+318,12,Take Down,31,normal,90,85
+318,13,Take Down,31,normal,90,85
+318,14,Aqua Jet,31,water,40,100
+318,15,Aqua Jet,31,water,40,100
+318,16,Poison Fang,32,poison,50,100
+318,8,Agility,36,psychic,-,-
+318,9,Agility,36,psychic,-,-
+318,10,Agility,36,psychic,-,-
+318,11,Agility,36,psychic,-,-
+318,14,Agility,36,psychic,-,-
+318,15,Agility,36,psychic,-,-
+318,16,Crunch,36,dark,80,100
+318,5,Swagger,37,normal,-,90
+318,6,Swagger,37,normal,-,90
+318,7,Swagger,37,normal,-,90
+318,12,Swagger,37,normal,-,90
+318,13,Swagger,37,normal,-,90
+318,8,Take Down,38,normal,90,85
+318,9,Take Down,38,normal,90,85
+318,10,Take Down,38,normal,90,85
+318,11,Take Down,38,normal,90,85
+318,14,Take Down,38,normal,90,85
+318,15,Take Down,38,normal,90,85
+318,16,Agility,39,psychic,-,-
+318,5,Agility,43,psychic,-,-
+318,6,Agility,43,psychic,-,-
+318,7,Agility,43,psychic,-,-
+318,12,Agility,43,psychic,-,-
+318,13,Agility,43,psychic,-,-
+318,16,Take Down,43,normal,90,85

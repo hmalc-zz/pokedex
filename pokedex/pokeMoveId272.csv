@@ -1,49 +1,49 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-272,ludicolo,5,45,Growl,1,1,2
-272,ludicolo,5,71,Absorb,1,1,3
-272,ludicolo,5,267,Nature Power,1,1,4
-272,ludicolo,5,310,Astonish,1,1,1
-272,ludicolo,6,45,Growl,1,1,2
-272,ludicolo,6,71,Absorb,1,1,3
-272,ludicolo,6,267,Nature Power,1,1,4
-272,ludicolo,6,310,Astonish,1,1,1
-272,ludicolo,7,45,Growl,1,1,2
-272,ludicolo,7,71,Absorb,1,1,3
-272,ludicolo,7,267,Nature Power,1,1,4
-272,ludicolo,7,310,Astonish,1,1,1
-272,ludicolo,8,45,Growl,1,1,2
-272,ludicolo,8,72,Mega Drain,1,1,3
-272,ludicolo,8,267,Nature Power,1,1,4
-272,ludicolo,8,310,Astonish,1,1,1
-272,ludicolo,9,45,Growl,1,1,2
-272,ludicolo,9,72,Mega Drain,1,1,3
-272,ludicolo,9,267,Nature Power,1,1,4
-272,ludicolo,9,310,Astonish,1,1,1
-272,ludicolo,10,45,Growl,1,1,2
-272,ludicolo,10,72,Mega Drain,1,1,3
-272,ludicolo,10,267,Nature Power,1,1,4
-272,ludicolo,10,310,Astonish,1,1,1
-272,ludicolo,11,45,Growl,1,1,2
-272,ludicolo,11,72,Mega Drain,1,1,3
-272,ludicolo,11,267,Nature Power,1,1,4
-272,ludicolo,11,310,Astonish,1,1,1
-272,ludicolo,12,45,Growl,1,1,2
-272,ludicolo,12,71,Absorb,1,1,3
-272,ludicolo,12,267,Nature Power,1,1,4
-272,ludicolo,12,310,Astonish,1,1,1
-272,ludicolo,13,45,Growl,1,1,2
-272,ludicolo,13,71,Absorb,1,1,3
-272,ludicolo,13,267,Nature Power,1,1,4
-272,ludicolo,13,310,Astonish,1,1,1
-272,ludicolo,14,45,Growl,1,1,2
-272,ludicolo,14,72,Mega Drain,1,1,3
-272,ludicolo,14,267,Nature Power,1,1,4
-272,ludicolo,14,310,Astonish,1,1,1
-272,ludicolo,15,45,Growl,1,1,2
-272,ludicolo,15,72,Mega Drain,1,1,3
-272,ludicolo,15,267,Nature Power,1,1,4
-272,ludicolo,15,310,Astonish,1,1,1
-272,ludicolo,16,45,Growl,1,1,2
-272,ludicolo,16,72,Mega Drain,1,1,3
-272,ludicolo,16,267,Nature Power,1,1,4
-272,ludicolo,16,310,Astonish,1,1,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+272,5,Growl,1,normal,-,100
+272,5,Absorb,1,grass,20,100
+272,5,Nature Power,1,normal,-,-
+272,5,Astonish,1,ghost,30,100
+272,6,Growl,1,normal,-,100
+272,6,Absorb,1,grass,20,100
+272,6,Nature Power,1,normal,-,-
+272,6,Astonish,1,ghost,30,100
+272,7,Growl,1,normal,-,100
+272,7,Absorb,1,grass,20,100
+272,7,Nature Power,1,normal,-,-
+272,7,Astonish,1,ghost,30,100
+272,8,Growl,1,normal,-,100
+272,8,Mega Drain,1,grass,40,100
+272,8,Nature Power,1,normal,-,-
+272,8,Astonish,1,ghost,30,100
+272,9,Growl,1,normal,-,100
+272,9,Mega Drain,1,grass,40,100
+272,9,Nature Power,1,normal,-,-
+272,9,Astonish,1,ghost,30,100
+272,10,Growl,1,normal,-,100
+272,10,Mega Drain,1,grass,40,100
+272,10,Nature Power,1,normal,-,-
+272,10,Astonish,1,ghost,30,100
+272,11,Growl,1,normal,-,100
+272,11,Mega Drain,1,grass,40,100
+272,11,Nature Power,1,normal,-,-
+272,11,Astonish,1,ghost,30,100
+272,12,Growl,1,normal,-,100
+272,12,Absorb,1,grass,20,100
+272,12,Nature Power,1,normal,-,-
+272,12,Astonish,1,ghost,30,100
+272,13,Growl,1,normal,-,100
+272,13,Absorb,1,grass,20,100
+272,13,Nature Power,1,normal,-,-
+272,13,Astonish,1,ghost,30,100
+272,14,Growl,1,normal,-,100
+272,14,Mega Drain,1,grass,40,100
+272,14,Nature Power,1,normal,-,-
+272,14,Astonish,1,ghost,30,100
+272,15,Growl,1,normal,-,100
+272,15,Mega Drain,1,grass,40,100
+272,15,Nature Power,1,normal,-,-
+272,15,Astonish,1,ghost,30,100
+272,16,Growl,1,normal,-,100
+272,16,Mega Drain,1,grass,40,100
+272,16,Nature Power,1,normal,-,-
+272,16,Astonish,1,ghost,30,100

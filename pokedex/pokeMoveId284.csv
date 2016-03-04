@@ -1,177 +1,177 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-284,masquerain,5,16,Gust,1,26,
-284,masquerain,5,18,Whirlwind,1,53,
-284,masquerain,5,78,Stun Spore,1,40,
-284,masquerain,5,98,Quick Attack,1,1,2
-284,masquerain,5,98,Quick Attack,1,7,
-284,masquerain,5,145,Bubble,1,1,1
-284,masquerain,5,184,Scary Face,1,33,
-284,masquerain,5,230,Sweet Scent,1,1,3
-284,masquerain,5,230,Sweet Scent,1,13,
-284,masquerain,5,318,Silver Wind,1,47,
-284,masquerain,5,346,Water Sport,1,1,4
-284,masquerain,5,346,Water Sport,1,19,
-284,masquerain,6,16,Gust,1,26,
-284,masquerain,6,18,Whirlwind,1,53,
-284,masquerain,6,78,Stun Spore,1,40,
-284,masquerain,6,98,Quick Attack,1,1,2
-284,masquerain,6,98,Quick Attack,1,7,
-284,masquerain,6,145,Bubble,1,1,1
-284,masquerain,6,184,Scary Face,1,33,
-284,masquerain,6,230,Sweet Scent,1,1,3
-284,masquerain,6,230,Sweet Scent,1,13,
-284,masquerain,6,318,Silver Wind,1,47,
-284,masquerain,6,346,Water Sport,1,1,4
-284,masquerain,6,346,Water Sport,1,19,
-284,masquerain,7,16,Gust,1,26,
-284,masquerain,7,18,Whirlwind,1,53,
-284,masquerain,7,78,Stun Spore,1,40,
-284,masquerain,7,98,Quick Attack,1,1,2
-284,masquerain,7,98,Quick Attack,1,7,
-284,masquerain,7,145,Bubble,1,1,1
-284,masquerain,7,184,Scary Face,1,33,
-284,masquerain,7,230,Sweet Scent,1,1,3
-284,masquerain,7,230,Sweet Scent,1,13,
-284,masquerain,7,318,Silver Wind,1,47,
-284,masquerain,7,346,Water Sport,1,1,4
-284,masquerain,7,346,Water Sport,1,19,
-284,masquerain,8,16,Gust,1,22,
-284,masquerain,8,18,Whirlwind,1,54,
-284,masquerain,8,78,Stun Spore,1,33,
-284,masquerain,8,98,Quick Attack,1,1,3
-284,masquerain,8,98,Quick Attack,1,7,
-284,masquerain,8,145,Bubble,1,1,2
-284,masquerain,8,184,Scary Face,1,26,
-284,masquerain,8,230,Sweet Scent,1,1,4
-284,masquerain,8,230,Sweet Scent,1,13,
-284,masquerain,8,318,Silver Wind,1,40,
-284,masquerain,8,346,Water Sport,1,1,5
-284,masquerain,8,346,Water Sport,1,19,
-284,masquerain,8,403,Air Slash,1,47,
-284,masquerain,8,405,Bug Buzz,1,61,
-284,masquerain,8,466,Ominous Wind,1,1,1
-284,masquerain,9,16,Gust,1,22,
-284,masquerain,9,18,Whirlwind,1,54,
-284,masquerain,9,78,Stun Spore,1,33,
-284,masquerain,9,98,Quick Attack,1,1,3
-284,masquerain,9,98,Quick Attack,1,7,
-284,masquerain,9,145,Bubble,1,1,2
-284,masquerain,9,184,Scary Face,1,26,
-284,masquerain,9,230,Sweet Scent,1,1,4
-284,masquerain,9,230,Sweet Scent,1,13,
-284,masquerain,9,318,Silver Wind,1,40,
-284,masquerain,9,346,Water Sport,1,1,5
-284,masquerain,9,346,Water Sport,1,19,
-284,masquerain,9,403,Air Slash,1,47,
-284,masquerain,9,405,Bug Buzz,1,61,
-284,masquerain,9,466,Ominous Wind,1,1,1
-284,masquerain,10,16,Gust,1,22,
-284,masquerain,10,18,Whirlwind,1,54,
-284,masquerain,10,78,Stun Spore,1,33,
-284,masquerain,10,98,Quick Attack,1,1,3
-284,masquerain,10,98,Quick Attack,1,7,
-284,masquerain,10,145,Bubble,1,1,2
-284,masquerain,10,184,Scary Face,1,26,
-284,masquerain,10,230,Sweet Scent,1,1,4
-284,masquerain,10,230,Sweet Scent,1,13,
-284,masquerain,10,318,Silver Wind,1,40,
-284,masquerain,10,346,Water Sport,1,1,5
-284,masquerain,10,346,Water Sport,1,19,
-284,masquerain,10,403,Air Slash,1,47,
-284,masquerain,10,405,Bug Buzz,1,61,
-284,masquerain,10,466,Ominous Wind,1,1,1
-284,masquerain,11,16,Gust,1,22,
-284,masquerain,11,18,Whirlwind,1,54,
-284,masquerain,11,78,Stun Spore,1,33,
-284,masquerain,11,98,Quick Attack,1,1,3
-284,masquerain,11,98,Quick Attack,1,7,
-284,masquerain,11,145,Bubble,1,1,2
-284,masquerain,11,184,Scary Face,1,26,
-284,masquerain,11,230,Sweet Scent,1,1,4
-284,masquerain,11,230,Sweet Scent,1,13,
-284,masquerain,11,318,Silver Wind,1,40,
-284,masquerain,11,346,Water Sport,1,1,5
-284,masquerain,11,346,Water Sport,1,19,
-284,masquerain,11,403,Air Slash,1,47,
-284,masquerain,11,405,Bug Buzz,1,61,
-284,masquerain,11,466,Ominous Wind,1,1,1
-284,masquerain,11,483,Quiver Dance,1,68,
-284,masquerain,12,16,Gust,1,26,
-284,masquerain,12,18,Whirlwind,1,53,
-284,masquerain,12,78,Stun Spore,1,40,
-284,masquerain,12,98,Quick Attack,1,1,2
-284,masquerain,12,98,Quick Attack,1,7,
-284,masquerain,12,145,Bubble,1,1,1
-284,masquerain,12,184,Scary Face,1,33,
-284,masquerain,12,230,Sweet Scent,1,1,3
-284,masquerain,12,230,Sweet Scent,1,13,
-284,masquerain,12,318,Silver Wind,1,47,
-284,masquerain,12,346,Water Sport,1,1,4
-284,masquerain,12,346,Water Sport,1,19,
-284,masquerain,13,16,Gust,1,26,
-284,masquerain,13,18,Whirlwind,1,53,
-284,masquerain,13,78,Stun Spore,1,40,
-284,masquerain,13,98,Quick Attack,1,1,2
-284,masquerain,13,98,Quick Attack,1,7,
-284,masquerain,13,145,Bubble,1,1,1
-284,masquerain,13,184,Scary Face,1,33,
-284,masquerain,13,230,Sweet Scent,1,1,3
-284,masquerain,13,230,Sweet Scent,1,13,
-284,masquerain,13,318,Silver Wind,1,47,
-284,masquerain,13,346,Water Sport,1,1,4
-284,masquerain,13,346,Water Sport,1,19,
-284,masquerain,14,16,Gust,1,22,
-284,masquerain,14,18,Whirlwind,1,54,
-284,masquerain,14,78,Stun Spore,1,33,
-284,masquerain,14,98,Quick Attack,1,1,3
-284,masquerain,14,98,Quick Attack,1,7,
-284,masquerain,14,145,Bubble,1,1,2
-284,masquerain,14,184,Scary Face,1,26,
-284,masquerain,14,230,Sweet Scent,1,1,4
-284,masquerain,14,230,Sweet Scent,1,13,
-284,masquerain,14,318,Silver Wind,1,40,
-284,masquerain,14,346,Water Sport,1,1,5
-284,masquerain,14,346,Water Sport,1,19,
-284,masquerain,14,403,Air Slash,1,47,
-284,masquerain,14,405,Bug Buzz,1,61,
-284,masquerain,14,466,Ominous Wind,1,1,1
-284,masquerain,14,483,Quiver Dance,1,68,
-284,masquerain,15,16,Gust,1,22,
-284,masquerain,15,18,Whirlwind,1,1,3
-284,masquerain,15,18,Whirlwind,1,54,
-284,masquerain,15,78,Stun Spore,1,33,
-284,masquerain,15,98,Quick Attack,1,1,6
-284,masquerain,15,98,Quick Attack,1,7,
-284,masquerain,15,145,Bubble,1,1,5
-284,masquerain,15,184,Scary Face,1,26,
-284,masquerain,15,230,Sweet Scent,1,1,7
-284,masquerain,15,230,Sweet Scent,1,13,
-284,masquerain,15,318,Silver Wind,1,40,
-284,masquerain,15,346,Water Sport,1,1,8
-284,masquerain,15,346,Water Sport,1,19,
-284,masquerain,15,403,Air Slash,1,47,
-284,masquerain,15,405,Bug Buzz,1,1,2
-284,masquerain,15,405,Bug Buzz,1,61,
-284,masquerain,15,466,Ominous Wind,1,1,4
-284,masquerain,15,483,Quiver Dance,1,1,1
-284,masquerain,15,483,Quiver Dance,1,68,
-284,masquerain,16,16,Gust,1,17,1
-284,masquerain,16,18,Whirlwind,1,1,2
-284,masquerain,16,18,Whirlwind,1,48,1
-284,masquerain,16,78,Stun Spore,1,26,1
-284,masquerain,16,98,Quick Attack,1,1,6
-284,masquerain,16,98,Quick Attack,1,6,1
-284,masquerain,16,145,Bubble,1,1,5
-284,masquerain,16,184,Scary Face,1,22,1
-284,masquerain,16,230,Sweet Scent,1,1,7
-284,masquerain,16,230,Sweet Scent,1,9,1
-284,masquerain,16,314,Air Cutter,1,22,2
-284,masquerain,16,318,Silver Wind,1,32,1
-284,masquerain,16,346,Water Sport,1,1,8
-284,masquerain,16,346,Water Sport,1,14,1
-284,masquerain,16,403,Air Slash,1,38,1
-284,masquerain,16,405,Bug Buzz,1,1,3
-284,masquerain,16,405,Bug Buzz,1,42,1
-284,masquerain,16,466,Ominous Wind,1,1,4
-284,masquerain,16,483,Quiver Dance,1,1,1
-284,masquerain,16,483,Quiver Dance,1,52,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+284,5,Quick Attack,1,normal,40,100
+284,5,Bubble,1,water,40,100
+284,5,Sweet Scent,1,normal,-,100
+284,5,Water Sport,1,water,-,-
+284,6,Quick Attack,1,normal,40,100
+284,6,Bubble,1,water,40,100
+284,6,Sweet Scent,1,normal,-,100
+284,6,Water Sport,1,water,-,-
+284,7,Quick Attack,1,normal,40,100
+284,7,Bubble,1,water,40,100
+284,7,Sweet Scent,1,normal,-,100
+284,7,Water Sport,1,water,-,-
+284,8,Quick Attack,1,normal,40,100
+284,8,Bubble,1,water,40,100
+284,8,Sweet Scent,1,normal,-,100
+284,8,Water Sport,1,water,-,-
+284,8,Ominous Wind,1,ghost,60,100
+284,9,Quick Attack,1,normal,40,100
+284,9,Bubble,1,water,40,100
+284,9,Sweet Scent,1,normal,-,100
+284,9,Water Sport,1,water,-,-
+284,9,Ominous Wind,1,ghost,60,100
+284,10,Quick Attack,1,normal,40,100
+284,10,Bubble,1,water,40,100
+284,10,Sweet Scent,1,normal,-,100
+284,10,Water Sport,1,water,-,-
+284,10,Ominous Wind,1,ghost,60,100
+284,11,Quick Attack,1,normal,40,100
+284,11,Bubble,1,water,40,100
+284,11,Sweet Scent,1,normal,-,100
+284,11,Water Sport,1,water,-,-
+284,11,Ominous Wind,1,ghost,60,100
+284,12,Quick Attack,1,normal,40,100
+284,12,Bubble,1,water,40,100
+284,12,Sweet Scent,1,normal,-,100
+284,12,Water Sport,1,water,-,-
+284,13,Quick Attack,1,normal,40,100
+284,13,Bubble,1,water,40,100
+284,13,Sweet Scent,1,normal,-,100
+284,13,Water Sport,1,water,-,-
+284,14,Quick Attack,1,normal,40,100
+284,14,Bubble,1,water,40,100
+284,14,Sweet Scent,1,normal,-,100
+284,14,Water Sport,1,water,-,-
+284,14,Ominous Wind,1,ghost,60,100
+284,15,Whirlwind,1,normal,-,-
+284,15,Quick Attack,1,normal,40,100
+284,15,Bubble,1,water,40,100
+284,15,Sweet Scent,1,normal,-,100
+284,15,Water Sport,1,water,-,-
+284,15,Bug Buzz,1,bug,90,100
+284,15,Ominous Wind,1,ghost,60,100
+284,15,Quiver Dance,1,bug,-,-
+284,16,Whirlwind,1,normal,-,-
+284,16,Quick Attack,1,normal,40,100
+284,16,Bubble,1,water,40,100
+284,16,Sweet Scent,1,normal,-,100
+284,16,Water Sport,1,water,-,-
+284,16,Bug Buzz,1,bug,90,100
+284,16,Ominous Wind,1,ghost,60,100
+284,16,Quiver Dance,1,bug,-,-
+284,16,Quick Attack,6,normal,40,100
+284,5,Quick Attack,7,normal,40,100
+284,6,Quick Attack,7,normal,40,100
+284,7,Quick Attack,7,normal,40,100
+284,8,Quick Attack,7,normal,40,100
+284,9,Quick Attack,7,normal,40,100
+284,10,Quick Attack,7,normal,40,100
+284,11,Quick Attack,7,normal,40,100
+284,12,Quick Attack,7,normal,40,100
+284,13,Quick Attack,7,normal,40,100
+284,14,Quick Attack,7,normal,40,100
+284,15,Quick Attack,7,normal,40,100
+284,16,Sweet Scent,9,normal,-,100
+284,5,Sweet Scent,13,normal,-,100
+284,6,Sweet Scent,13,normal,-,100
+284,7,Sweet Scent,13,normal,-,100
+284,8,Sweet Scent,13,normal,-,100
+284,9,Sweet Scent,13,normal,-,100
+284,10,Sweet Scent,13,normal,-,100
+284,11,Sweet Scent,13,normal,-,100
+284,12,Sweet Scent,13,normal,-,100
+284,13,Sweet Scent,13,normal,-,100
+284,14,Sweet Scent,13,normal,-,100
+284,15,Sweet Scent,13,normal,-,100
+284,16,Water Sport,14,water,-,-
+284,16,Gust,17,flying,40,100
+284,5,Water Sport,19,water,-,-
+284,6,Water Sport,19,water,-,-
+284,7,Water Sport,19,water,-,-
+284,8,Water Sport,19,water,-,-
+284,9,Water Sport,19,water,-,-
+284,10,Water Sport,19,water,-,-
+284,11,Water Sport,19,water,-,-
+284,12,Water Sport,19,water,-,-
+284,13,Water Sport,19,water,-,-
+284,14,Water Sport,19,water,-,-
+284,15,Water Sport,19,water,-,-
+284,8,Gust,22,flying,40,100
+284,9,Gust,22,flying,40,100
+284,10,Gust,22,flying,40,100
+284,11,Gust,22,flying,40,100
+284,14,Gust,22,flying,40,100
+284,15,Gust,22,flying,40,100
+284,16,Scary Face,22,normal,-,100
+284,16,Air Cutter,22,flying,60,95
+284,5,Gust,26,flying,40,100
+284,6,Gust,26,flying,40,100
+284,7,Gust,26,flying,40,100
+284,8,Scary Face,26,normal,-,100
+284,9,Scary Face,26,normal,-,100
+284,10,Scary Face,26,normal,-,100
+284,11,Scary Face,26,normal,-,100
+284,12,Gust,26,flying,40,100
+284,13,Gust,26,flying,40,100
+284,14,Scary Face,26,normal,-,100
+284,15,Scary Face,26,normal,-,100
+284,16,Stun Spore,26,grass,-,75
+284,16,Silver Wind,32,bug,60,100
+284,5,Scary Face,33,normal,-,100
+284,6,Scary Face,33,normal,-,100
+284,7,Scary Face,33,normal,-,100
+284,8,Stun Spore,33,grass,-,75
+284,9,Stun Spore,33,grass,-,75
+284,10,Stun Spore,33,grass,-,75
+284,11,Stun Spore,33,grass,-,75
+284,12,Scary Face,33,normal,-,100
+284,13,Scary Face,33,normal,-,100
+284,14,Stun Spore,33,grass,-,75
+284,15,Stun Spore,33,grass,-,75
+284,16,Air Slash,38,flying,75,95
+284,5,Stun Spore,40,grass,-,75
+284,6,Stun Spore,40,grass,-,75
+284,7,Stun Spore,40,grass,-,75
+284,8,Silver Wind,40,bug,60,100
+284,9,Silver Wind,40,bug,60,100
+284,10,Silver Wind,40,bug,60,100
+284,11,Silver Wind,40,bug,60,100
+284,12,Stun Spore,40,grass,-,75
+284,13,Stun Spore,40,grass,-,75
+284,14,Silver Wind,40,bug,60,100
+284,15,Silver Wind,40,bug,60,100
+284,16,Bug Buzz,42,bug,90,100
+284,5,Silver Wind,47,bug,60,100
+284,6,Silver Wind,47,bug,60,100
+284,7,Silver Wind,47,bug,60,100
+284,8,Air Slash,47,flying,75,95
+284,9,Air Slash,47,flying,75,95
+284,10,Air Slash,47,flying,75,95
+284,11,Air Slash,47,flying,75,95
+284,12,Silver Wind,47,bug,60,100
+284,13,Silver Wind,47,bug,60,100
+284,14,Air Slash,47,flying,75,95
+284,15,Air Slash,47,flying,75,95
+284,16,Whirlwind,48,normal,-,-
+284,16,Quiver Dance,52,bug,-,-
+284,5,Whirlwind,53,normal,-,-
+284,6,Whirlwind,53,normal,-,-
+284,7,Whirlwind,53,normal,-,-
+284,12,Whirlwind,53,normal,-,-
+284,13,Whirlwind,53,normal,-,-
+284,8,Whirlwind,54,normal,-,-
+284,9,Whirlwind,54,normal,-,-
+284,10,Whirlwind,54,normal,-,-
+284,11,Whirlwind,54,normal,-,-
+284,14,Whirlwind,54,normal,-,-
+284,15,Whirlwind,54,normal,-,-
+284,8,Bug Buzz,61,bug,90,100
+284,9,Bug Buzz,61,bug,90,100
+284,10,Bug Buzz,61,bug,90,100
+284,11,Bug Buzz,61,bug,90,100
+284,14,Bug Buzz,61,bug,90,100
+284,15,Bug Buzz,61,bug,90,100
+284,11,Quiver Dance,68,bug,-,-
+284,14,Quiver Dance,68,bug,-,-
+284,15,Quiver Dance,68,bug,-,-

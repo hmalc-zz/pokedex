@@ -1,106 +1,106 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-34,nidoking,1,30,Horn Attack,1,1,2
-34,nidoking,1,30,Horn Attack,1,8,
-34,nidoking,1,33,Tackle,1,1,1
-34,nidoking,1,37,Thrash,1,1,4
-34,nidoking,1,37,Thrash,1,23,
-34,nidoking,1,40,Poison Sting,1,1,3
-34,nidoking,1,40,Poison Sting,1,14,
-34,nidoking,2,24,Double Kick,1,12,
-34,nidoking,2,30,Horn Attack,1,1,2
-34,nidoking,2,30,Horn Attack,1,8,
-34,nidoking,2,33,Tackle,1,1,1
-34,nidoking,2,37,Thrash,1,1,4
-34,nidoking,2,37,Thrash,1,23,
-34,nidoking,2,40,Poison Sting,1,1,3
-34,nidoking,3,24,Double Kick,1,1,3
-34,nidoking,3,30,Horn Attack,1,1,2
-34,nidoking,3,33,Tackle,1,1,1
-34,nidoking,3,37,Thrash,1,23,
-34,nidoking,3,40,Poison Sting,1,1,4
-34,nidoking,4,24,Double Kick,1,1,3
-34,nidoking,4,30,Horn Attack,1,1,2
-34,nidoking,4,33,Tackle,1,1,1
-34,nidoking,4,37,Thrash,1,23,
-34,nidoking,4,40,Poison Sting,1,1,4
-34,nidoking,5,24,Double Kick,1,1,3
-34,nidoking,5,37,Thrash,1,23,
-34,nidoking,5,40,Poison Sting,1,1,4
-34,nidoking,5,64,Peck,1,1,1
-34,nidoking,5,116,Focus Energy,1,1,2
-34,nidoking,6,24,Double Kick,1,1,3
-34,nidoking,6,37,Thrash,1,23,
-34,nidoking,6,40,Poison Sting,1,1,4
-34,nidoking,6,64,Peck,1,1,1
-34,nidoking,6,116,Focus Energy,1,1,2
-34,nidoking,7,24,Double Kick,1,1,3
-34,nidoking,7,37,Thrash,1,22,
-34,nidoking,7,40,Poison Sting,1,1,4
-34,nidoking,7,64,Peck,1,1,1
-34,nidoking,7,116,Focus Energy,1,1,2
-34,nidoking,7,224,Megahorn,1,43,
-34,nidoking,8,24,Double Kick,1,1,3
-34,nidoking,8,37,Thrash,1,23,
-34,nidoking,8,40,Poison Sting,1,1,4
-34,nidoking,8,64,Peck,1,1,1
-34,nidoking,8,116,Focus Energy,1,1,2
-34,nidoking,8,224,Megahorn,1,58,
-34,nidoking,8,414,Earth Power,1,43,
-34,nidoking,9,24,Double Kick,1,1,3
-34,nidoking,9,37,Thrash,1,23,
-34,nidoking,9,40,Poison Sting,1,1,4
-34,nidoking,9,64,Peck,1,1,1
-34,nidoking,9,116,Focus Energy,1,1,2
-34,nidoking,9,224,Megahorn,1,58,
-34,nidoking,9,414,Earth Power,1,43,
-34,nidoking,10,24,Double Kick,1,1,3
-34,nidoking,10,37,Thrash,1,23,
-34,nidoking,10,40,Poison Sting,1,1,4
-34,nidoking,10,64,Peck,1,1,1
-34,nidoking,10,116,Focus Energy,1,1,2
-34,nidoking,10,224,Megahorn,1,58,
-34,nidoking,10,414,Earth Power,1,43,
-34,nidoking,11,24,Double Kick,1,1,3
-34,nidoking,11,37,Thrash,1,35,
-34,nidoking,11,40,Poison Sting,1,1,4
-34,nidoking,11,64,Peck,1,1,1
-34,nidoking,11,116,Focus Energy,1,1,2
-34,nidoking,11,224,Megahorn,1,58,
-34,nidoking,11,414,Earth Power,1,43,
-34,nidoking,11,498,Chip Away,1,23,
-34,nidoking,12,24,Double Kick,1,1,3
-34,nidoking,12,37,Thrash,1,23,
-34,nidoking,12,40,Poison Sting,1,1,4
-34,nidoking,12,64,Peck,1,1,1
-34,nidoking,12,116,Focus Energy,1,1,2
-34,nidoking,13,24,Double Kick,1,1,3
-34,nidoking,13,37,Thrash,1,23,
-34,nidoking,13,40,Poison Sting,1,1,4
-34,nidoking,13,64,Peck,1,1,1
-34,nidoking,13,116,Focus Energy,1,1,2
-34,nidoking,14,24,Double Kick,1,1,3
-34,nidoking,14,37,Thrash,1,35,
-34,nidoking,14,40,Poison Sting,1,1,4
-34,nidoking,14,64,Peck,1,1,1
-34,nidoking,14,116,Focus Energy,1,1,2
-34,nidoking,14,224,Megahorn,1,58,
-34,nidoking,14,414,Earth Power,1,43,
-34,nidoking,14,498,Chip Away,1,23,
-34,nidoking,15,24,Double Kick,1,1,4
-34,nidoking,15,37,Thrash,1,35,
-34,nidoking,15,40,Poison Sting,1,1,5
-34,nidoking,15,64,Peck,1,1,2
-34,nidoking,15,116,Focus Energy,1,1,3
-34,nidoking,15,224,Megahorn,1,1,1
-34,nidoking,15,224,Megahorn,1,58,
-34,nidoking,15,414,Earth Power,1,43,
-34,nidoking,15,498,Chip Away,1,23,
-34,nidoking,16,24,Double Kick,1,1,4
-34,nidoking,16,37,Thrash,1,35,1
-34,nidoking,16,40,Poison Sting,1,1,5
-34,nidoking,16,64,Peck,1,1,2
-34,nidoking,16,116,Focus Energy,1,1,3
-34,nidoking,16,224,Megahorn,1,1,1
-34,nidoking,16,224,Megahorn,1,58,1
-34,nidoking,16,414,Earth Power,1,43,1
-34,nidoking,16,498,Chip Away,1,23,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+34,1,Horn Attack,1,normal,65,100
+34,1,Tackle,1,normal,50,100
+34,1,Thrash,1,normal,120,100
+34,1,Poison Sting,1,poison,15,100
+34,2,Horn Attack,1,normal,65,100
+34,2,Tackle,1,normal,50,100
+34,2,Thrash,1,normal,120,100
+34,2,Poison Sting,1,poison,15,100
+34,3,Double Kick,1,fighting,30,100
+34,3,Horn Attack,1,normal,65,100
+34,3,Tackle,1,normal,50,100
+34,3,Poison Sting,1,poison,15,100
+34,4,Double Kick,1,fighting,30,100
+34,4,Horn Attack,1,normal,65,100
+34,4,Tackle,1,normal,50,100
+34,4,Poison Sting,1,poison,15,100
+34,5,Double Kick,1,fighting,30,100
+34,5,Poison Sting,1,poison,15,100
+34,5,Peck,1,flying,35,100
+34,5,Focus Energy,1,normal,-,-
+34,6,Double Kick,1,fighting,30,100
+34,6,Poison Sting,1,poison,15,100
+34,6,Peck,1,flying,35,100
+34,6,Focus Energy,1,normal,-,-
+34,7,Double Kick,1,fighting,30,100
+34,7,Poison Sting,1,poison,15,100
+34,7,Peck,1,flying,35,100
+34,7,Focus Energy,1,normal,-,-
+34,8,Double Kick,1,fighting,30,100
+34,8,Poison Sting,1,poison,15,100
+34,8,Peck,1,flying,35,100
+34,8,Focus Energy,1,normal,-,-
+34,9,Double Kick,1,fighting,30,100
+34,9,Poison Sting,1,poison,15,100
+34,9,Peck,1,flying,35,100
+34,9,Focus Energy,1,normal,-,-
+34,10,Double Kick,1,fighting,30,100
+34,10,Poison Sting,1,poison,15,100
+34,10,Peck,1,flying,35,100
+34,10,Focus Energy,1,normal,-,-
+34,11,Double Kick,1,fighting,30,100
+34,11,Poison Sting,1,poison,15,100
+34,11,Peck,1,flying,35,100
+34,11,Focus Energy,1,normal,-,-
+34,12,Double Kick,1,fighting,30,100
+34,12,Poison Sting,1,poison,15,100
+34,12,Peck,1,flying,35,100
+34,12,Focus Energy,1,normal,-,-
+34,13,Double Kick,1,fighting,30,100
+34,13,Poison Sting,1,poison,15,100
+34,13,Peck,1,flying,35,100
+34,13,Focus Energy,1,normal,-,-
+34,14,Double Kick,1,fighting,30,100
+34,14,Poison Sting,1,poison,15,100
+34,14,Peck,1,flying,35,100
+34,14,Focus Energy,1,normal,-,-
+34,15,Double Kick,1,fighting,30,100
+34,15,Poison Sting,1,poison,15,100
+34,15,Peck,1,flying,35,100
+34,15,Focus Energy,1,normal,-,-
+34,15,Megahorn,1,bug,120,85
+34,16,Double Kick,1,fighting,30,100
+34,16,Poison Sting,1,poison,15,100
+34,16,Peck,1,flying,35,100
+34,16,Focus Energy,1,normal,-,-
+34,16,Megahorn,1,bug,120,85
+34,1,Horn Attack,8,normal,65,100
+34,2,Horn Attack,8,normal,65,100
+34,2,Double Kick,12,fighting,30,100
+34,1,Poison Sting,14,poison,15,100
+34,7,Thrash,22,normal,120,100
+34,1,Thrash,23,normal,120,100
+34,2,Thrash,23,normal,120,100
+34,3,Thrash,23,normal,120,100
+34,4,Thrash,23,normal,120,100
+34,5,Thrash,23,normal,120,100
+34,6,Thrash,23,normal,120,100
+34,8,Thrash,23,normal,120,100
+34,9,Thrash,23,normal,120,100
+34,10,Thrash,23,normal,120,100
+34,11,Chip Away,23,normal,70,100
+34,12,Thrash,23,normal,120,100
+34,13,Thrash,23,normal,120,100
+34,14,Chip Away,23,normal,70,100
+34,15,Chip Away,23,normal,70,100
+34,16,Chip Away,23,normal,70,100
+34,11,Thrash,35,normal,120,100
+34,14,Thrash,35,normal,120,100
+34,15,Thrash,35,normal,120,100
+34,16,Thrash,35,normal,120,100
+34,7,Megahorn,43,bug,120,85
+34,8,Earth Power,43,ground,90,100
+34,9,Earth Power,43,ground,90,100
+34,10,Earth Power,43,ground,90,100
+34,11,Earth Power,43,ground,90,100
+34,14,Earth Power,43,ground,90,100
+34,15,Earth Power,43,ground,90,100
+34,16,Earth Power,43,ground,90,100
+34,8,Megahorn,58,bug,120,85
+34,9,Megahorn,58,bug,120,85
+34,10,Megahorn,58,bug,120,85
+34,11,Megahorn,58,bug,120,85
+34,14,Megahorn,58,bug,120,85
+34,15,Megahorn,58,bug,120,85
+34,16,Megahorn,58,bug,120,85

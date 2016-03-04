@@ -1,91 +1,91 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-421,cherrim,8,33,Tackle,1,1,1
-421,cherrim,8,36,Take Down,1,35,
-421,cherrim,8,73,Leech Seed,1,10,
-421,cherrim,8,74,Growth,1,1,2
-421,cherrim,8,74,Growth,1,7,
-421,cherrim,8,76,Solar Beam,1,43,
-421,cherrim,8,80,Petal Dance,1,25,
-421,cherrim,8,241,Sunny Day,1,22,
-421,cherrim,8,270,Helping Hand,1,13,
-421,cherrim,8,345,Magical Leaf,1,19,
-421,cherrim,8,381,Lucky Chant,1,48,
-421,cherrim,8,388,Worry Seed,1,30,
-421,cherrim,9,33,Tackle,1,1,1
-421,cherrim,9,36,Take Down,1,35,
-421,cherrim,9,73,Leech Seed,1,10,
-421,cherrim,9,74,Growth,1,1,2
-421,cherrim,9,74,Growth,1,7,
-421,cherrim,9,76,Solar Beam,1,43,
-421,cherrim,9,80,Petal Dance,1,25,
-421,cherrim,9,241,Sunny Day,1,22,
-421,cherrim,9,270,Helping Hand,1,13,
-421,cherrim,9,345,Magical Leaf,1,19,
-421,cherrim,9,381,Lucky Chant,1,48,
-421,cherrim,9,388,Worry Seed,1,30,
-421,cherrim,10,33,Tackle,1,1,1
-421,cherrim,10,36,Take Down,1,35,
-421,cherrim,10,73,Leech Seed,1,10,
-421,cherrim,10,74,Growth,1,1,2
-421,cherrim,10,74,Growth,1,7,
-421,cherrim,10,76,Solar Beam,1,43,
-421,cherrim,10,80,Petal Dance,1,25,
-421,cherrim,10,241,Sunny Day,1,22,
-421,cherrim,10,270,Helping Hand,1,13,
-421,cherrim,10,345,Magical Leaf,1,19,
-421,cherrim,10,381,Lucky Chant,1,48,
-421,cherrim,10,388,Worry Seed,1,30,
-421,cherrim,11,33,Tackle,1,1,2
-421,cherrim,11,36,Take Down,1,35,
-421,cherrim,11,73,Leech Seed,1,10,
-421,cherrim,11,74,Growth,1,1,3
-421,cherrim,11,74,Growth,1,7,
-421,cherrim,11,76,Solar Beam,1,43,
-421,cherrim,11,80,Petal Dance,1,25,
-421,cherrim,11,234,Morning Sun,1,1,1
-421,cherrim,11,241,Sunny Day,1,22,
-421,cherrim,11,270,Helping Hand,1,13,
-421,cherrim,11,345,Magical Leaf,1,19,
-421,cherrim,11,381,Lucky Chant,1,48,
-421,cherrim,11,388,Worry Seed,1,30,
-421,cherrim,14,33,Tackle,1,1,2
-421,cherrim,14,36,Take Down,1,35,
-421,cherrim,14,73,Leech Seed,1,10,
-421,cherrim,14,74,Growth,1,1,3
-421,cherrim,14,74,Growth,1,7,
-421,cherrim,14,76,Solar Beam,1,43,
-421,cherrim,14,80,Petal Dance,1,25,
-421,cherrim,14,234,Morning Sun,1,1,1
-421,cherrim,14,241,Sunny Day,1,22,
-421,cherrim,14,270,Helping Hand,1,13,
-421,cherrim,14,345,Magical Leaf,1,19,
-421,cherrim,14,381,Lucky Chant,1,48,
-421,cherrim,14,388,Worry Seed,1,30,
-421,cherrim,15,33,Tackle,1,1,2
-421,cherrim,15,36,Take Down,1,35,
-421,cherrim,15,73,Leech Seed,1,10,
-421,cherrim,15,74,Growth,1,1,3
-421,cherrim,15,74,Growth,1,7,
-421,cherrim,15,76,Solar Beam,1,43,
-421,cherrim,15,80,Petal Dance,1,25,
-421,cherrim,15,234,Morning Sun,1,1,1
-421,cherrim,15,241,Sunny Day,1,22,
-421,cherrim,15,270,Helping Hand,1,13,
-421,cherrim,15,345,Magical Leaf,1,19,
-421,cherrim,15,381,Lucky Chant,1,48,
-421,cherrim,15,388,Worry Seed,1,30,
-421,cherrim,15,572,Petal Blizzard,1,50,
-421,cherrim,16,33,Tackle,1,1,2
-421,cherrim,16,36,Take Down,1,35,1
-421,cherrim,16,73,Leech Seed,1,10,1
-421,cherrim,16,74,Growth,1,1,3
-421,cherrim,16,74,Growth,1,7,1
-421,cherrim,16,76,Solar Beam,1,43,1
-421,cherrim,16,80,Petal Dance,1,25,1
-421,cherrim,16,234,Morning Sun,1,1,1
-421,cherrim,16,241,Sunny Day,1,22,1
-421,cherrim,16,270,Helping Hand,1,13,1
-421,cherrim,16,345,Magical Leaf,1,19,1
-421,cherrim,16,381,Lucky Chant,1,48,1
-421,cherrim,16,388,Worry Seed,1,30,1
-421,cherrim,16,572,Petal Blizzard,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+421,8,Tackle,1,normal,50,100
+421,8,Growth,1,normal,-,-
+421,9,Tackle,1,normal,50,100
+421,9,Growth,1,normal,-,-
+421,10,Tackle,1,normal,50,100
+421,10,Growth,1,normal,-,-
+421,11,Tackle,1,normal,50,100
+421,11,Growth,1,normal,-,-
+421,11,Morning Sun,1,normal,-,-
+421,14,Tackle,1,normal,50,100
+421,14,Growth,1,normal,-,-
+421,14,Morning Sun,1,normal,-,-
+421,15,Tackle,1,normal,50,100
+421,15,Growth,1,normal,-,-
+421,15,Morning Sun,1,normal,-,-
+421,16,Tackle,1,normal,50,100
+421,16,Growth,1,normal,-,-
+421,16,Morning Sun,1,normal,-,-
+421,8,Growth,7,normal,-,-
+421,9,Growth,7,normal,-,-
+421,10,Growth,7,normal,-,-
+421,11,Growth,7,normal,-,-
+421,14,Growth,7,normal,-,-
+421,15,Growth,7,normal,-,-
+421,16,Growth,7,normal,-,-
+421,8,Leech Seed,10,grass,-,90
+421,9,Leech Seed,10,grass,-,90
+421,10,Leech Seed,10,grass,-,90
+421,11,Leech Seed,10,grass,-,90
+421,14,Leech Seed,10,grass,-,90
+421,15,Leech Seed,10,grass,-,90
+421,16,Leech Seed,10,grass,-,90
+421,8,Helping Hand,13,normal,-,-
+421,9,Helping Hand,13,normal,-,-
+421,10,Helping Hand,13,normal,-,-
+421,11,Helping Hand,13,normal,-,-
+421,14,Helping Hand,13,normal,-,-
+421,15,Helping Hand,13,normal,-,-
+421,16,Helping Hand,13,normal,-,-
+421,8,Magical Leaf,19,grass,60,-
+421,9,Magical Leaf,19,grass,60,-
+421,10,Magical Leaf,19,grass,60,-
+421,11,Magical Leaf,19,grass,60,-
+421,14,Magical Leaf,19,grass,60,-
+421,15,Magical Leaf,19,grass,60,-
+421,16,Magical Leaf,19,grass,60,-
+421,8,Sunny Day,22,fire,-,-
+421,9,Sunny Day,22,fire,-,-
+421,10,Sunny Day,22,fire,-,-
+421,11,Sunny Day,22,fire,-,-
+421,14,Sunny Day,22,fire,-,-
+421,15,Sunny Day,22,fire,-,-
+421,16,Sunny Day,22,fire,-,-
+421,8,Petal Dance,25,grass,120,100
+421,9,Petal Dance,25,grass,120,100
+421,10,Petal Dance,25,grass,120,100
+421,11,Petal Dance,25,grass,120,100
+421,14,Petal Dance,25,grass,120,100
+421,15,Petal Dance,25,grass,120,100
+421,16,Petal Dance,25,grass,120,100
+421,8,Worry Seed,30,grass,-,100
+421,9,Worry Seed,30,grass,-,100
+421,10,Worry Seed,30,grass,-,100
+421,11,Worry Seed,30,grass,-,100
+421,14,Worry Seed,30,grass,-,100
+421,15,Worry Seed,30,grass,-,100
+421,16,Worry Seed,30,grass,-,100
+421,8,Take Down,35,normal,90,85
+421,9,Take Down,35,normal,90,85
+421,10,Take Down,35,normal,90,85
+421,11,Take Down,35,normal,90,85
+421,14,Take Down,35,normal,90,85
+421,15,Take Down,35,normal,90,85
+421,16,Take Down,35,normal,90,85
+421,8,Solar Beam,43,grass,120,100
+421,9,Solar Beam,43,grass,120,100
+421,10,Solar Beam,43,grass,120,100
+421,11,Solar Beam,43,grass,120,100
+421,14,Solar Beam,43,grass,120,100
+421,15,Solar Beam,43,grass,120,100
+421,16,Solar Beam,43,grass,120,100
+421,8,Lucky Chant,48,normal,-,-
+421,9,Lucky Chant,48,normal,-,-
+421,10,Lucky Chant,48,normal,-,-
+421,11,Lucky Chant,48,normal,-,-
+421,14,Lucky Chant,48,normal,-,-
+421,15,Lucky Chant,48,normal,-,-
+421,16,Lucky Chant,48,normal,-,-
+421,15,Petal Blizzard,50,grass,90,100
+421,16,Petal Blizzard,50,grass,90,100

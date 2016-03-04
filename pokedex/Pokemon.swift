@@ -70,6 +70,9 @@ class Pokemon {
     
     private var _moveList: [String]!
     private var _levelList: [Int]!
+    private var _typeList: [String]!
+    private var _powerList: [String]!
+    private var _accuracyList: [String]!
     
     //MARK: Getters
     
@@ -86,6 +89,27 @@ class Pokemon {
             _levelList = []
         }
         return _levelList
+    }
+    
+    var typeList: [String] {
+        if _typeList == nil {
+            _typeList = []
+        }
+        return _typeList
+    }
+    
+    var powerList: [String] {
+        if _powerList == nil {
+            _powerList = []
+        }
+        return _powerList
+    }
+    
+    var accuracyList: [String] {
+        if _accuracyList == nil {
+            _accuracyList = []
+        }
+        return _accuracyList
     }
     
     var name: String {
@@ -183,8 +207,6 @@ class Pokemon {
         }
         return _generationId
     }
-    
-    
     
     var height: String {
         if _height == nil {
@@ -725,9 +747,11 @@ class Pokemon {
     
     func parsePokeMovesCSV(selectedVersionLabel: Int) {
         
-        var moveIndex: [Int:String] = [:]
-        var levelListBuild: [Int] = []
         var moveListBuild: [String] = []
+        var levelListBuild: [Int] = []
+        var typeListBuild: [String] = []
+        var powerListBuild: [String] = []
+        var accuracyListBuild: [String] = []
         
         let path = NSBundle.mainBundle().pathForResource("pokeMoveId\(pokedexId)", ofType: "csv")!
         
@@ -739,9 +763,11 @@ class Pokemon {
                 
                 if selectedVersionLabel == Int(row["version_group_id"]!) {
                     
-                    let key = Int((row["level"])!)
-                    
-                    moveIndex[key!] = row["move_name"]
+                    moveListBuild.append(row["move_name"]!)
+                    levelListBuild.append(Int(row["level"]!)!)
+                    typeListBuild.append(row["type"]!)
+                    powerListBuild.append(row["power"]!)
+                    accuracyListBuild.append(row["accuracy"]!)
                     
                 }
             }
@@ -749,22 +775,13 @@ class Pokemon {
         } catch let err as NSError {
             print(err.debugDescription)
         }
-        
-        let sortedDict = moveIndex.sort { $0.0 < $1.0 }
-        
-        for var i = 0; i < sortedDict.count; i++ {
-            
-            let moveName = String(sortedDict[i].1)
-            let levelName = Int(sortedDict[i].0)
-            
-            levelListBuild.append(levelName)
-            moveListBuild.append(moveName)
-            
-            
-        }
-        
-        self._levelList = levelListBuild
+    
         self._moveList = moveListBuild
+        self._levelList = levelListBuild
+        self._typeList = typeListBuild
+        self._powerList = powerListBuild
+        self._accuracyList = accuracyListBuild
+    
         
     }
     

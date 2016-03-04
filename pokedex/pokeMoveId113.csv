@@ -1,212 +1,212 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-113,chansey,1,1,Pound,1,1,1
-113,chansey,1,3,Double Slap,1,1,2
-113,chansey,1,38,Double-Edge,1,54,
-113,chansey,1,45,Growl,1,30,
-113,chansey,1,47,Sing,1,24,
-113,chansey,1,107,Minimize,1,38,
-113,chansey,1,111,Defense Curl,1,44,
-113,chansey,1,113,Light Screen,1,48,
-113,chansey,2,1,Pound,1,1,1
-113,chansey,2,3,Double Slap,1,12,
-113,chansey,2,38,Double-Edge,1,54,
-113,chansey,2,39,Tail Whip,1,1,2
-113,chansey,2,45,Growl,1,30,
-113,chansey,2,47,Sing,1,24,
-113,chansey,2,107,Minimize,1,38,
-113,chansey,2,111,Defense Curl,1,44,
-113,chansey,2,113,Light Screen,1,48,
-113,chansey,3,1,Pound,1,1,
-113,chansey,3,3,Double Slap,1,17,
-113,chansey,3,38,Double-Edge,1,57,
-113,chansey,3,39,Tail Whip,1,9,
-113,chansey,3,45,Growl,1,5,
-113,chansey,3,47,Sing,1,29,
-113,chansey,3,107,Minimize,1,23,
-113,chansey,3,111,Defense Curl,1,41,
-113,chansey,3,113,Light Screen,1,49,
-113,chansey,3,121,Egg Bomb,1,35,
-113,chansey,3,135,Soft-Boiled,1,13,
-113,chansey,4,1,Pound,1,1,
-113,chansey,4,3,Double Slap,1,17,
-113,chansey,4,38,Double-Edge,1,57,
-113,chansey,4,39,Tail Whip,1,9,
-113,chansey,4,45,Growl,1,5,
-113,chansey,4,47,Sing,1,29,
-113,chansey,4,107,Minimize,1,23,
-113,chansey,4,111,Defense Curl,1,41,
-113,chansey,4,113,Light Screen,1,49,
-113,chansey,4,121,Egg Bomb,1,35,
-113,chansey,4,135,Soft-Boiled,1,13,
-113,chansey,5,1,Pound,1,1,1
-113,chansey,5,3,Double Slap,1,17,
-113,chansey,5,38,Double-Edge,1,57,
-113,chansey,5,39,Tail Whip,1,5,
-113,chansey,5,45,Growl,1,1,2
-113,chansey,5,47,Sing,1,29,
-113,chansey,5,107,Minimize,1,23,
-113,chansey,5,111,Defense Curl,1,41,
-113,chansey,5,113,Light Screen,1,49,
-113,chansey,5,121,Egg Bomb,1,35,
-113,chansey,5,135,Soft-Boiled,1,13,
-113,chansey,5,287,Refresh,1,9,
-113,chansey,6,1,Pound,1,1,1
-113,chansey,6,3,Double Slap,1,17,
-113,chansey,6,38,Double-Edge,1,57,
-113,chansey,6,39,Tail Whip,1,5,
-113,chansey,6,45,Growl,1,1,2
-113,chansey,6,47,Sing,1,29,
-113,chansey,6,107,Minimize,1,23,
-113,chansey,6,111,Defense Curl,1,41,
-113,chansey,6,113,Light Screen,1,49,
-113,chansey,6,121,Egg Bomb,1,35,
-113,chansey,6,135,Soft-Boiled,1,13,
-113,chansey,6,287,Refresh,1,9,
-113,chansey,7,1,Pound,1,1,1
-113,chansey,7,3,Double Slap,1,17,
-113,chansey,7,38,Double-Edge,1,57,
-113,chansey,7,39,Tail Whip,1,5,
-113,chansey,7,45,Growl,1,1,2
-113,chansey,7,47,Sing,1,29,
-113,chansey,7,107,Minimize,1,23,
-113,chansey,7,111,Defense Curl,1,41,
-113,chansey,7,113,Light Screen,1,49,
-113,chansey,7,121,Egg Bomb,1,35,
-113,chansey,7,135,Soft-Boiled,1,13,
-113,chansey,7,287,Refresh,1,9,
-113,chansey,8,1,Pound,1,1,1
-113,chansey,8,3,Double Slap,1,16,
-113,chansey,8,38,Double-Edge,1,46,
-113,chansey,8,39,Tail Whip,1,5,
-113,chansey,8,45,Growl,1,1,2
-113,chansey,8,47,Sing,1,23,
-113,chansey,8,107,Minimize,1,20,
-113,chansey,8,111,Defense Curl,1,31,
-113,chansey,8,113,Light Screen,1,34,
-113,chansey,8,121,Egg Bomb,1,38,
-113,chansey,8,135,Soft-Boiled,1,12,
-113,chansey,8,287,Refresh,1,9,
-113,chansey,8,361,Healing Wish,1,42,
-113,chansey,8,374,Fling,1,27,
-113,chansey,9,1,Pound,1,1,1
-113,chansey,9,3,Double Slap,1,16,
-113,chansey,9,38,Double-Edge,1,46,
-113,chansey,9,39,Tail Whip,1,5,
-113,chansey,9,45,Growl,1,1,2
-113,chansey,9,47,Sing,1,23,
-113,chansey,9,107,Minimize,1,20,
-113,chansey,9,111,Defense Curl,1,31,
-113,chansey,9,113,Light Screen,1,34,
-113,chansey,9,121,Egg Bomb,1,38,
-113,chansey,9,135,Soft-Boiled,1,12,
-113,chansey,9,287,Refresh,1,9,
-113,chansey,9,361,Healing Wish,1,42,
-113,chansey,9,374,Fling,1,27,
-113,chansey,10,1,Pound,1,1,1
-113,chansey,10,3,Double Slap,1,16,
-113,chansey,10,38,Double-Edge,1,46,
-113,chansey,10,39,Tail Whip,1,5,
-113,chansey,10,45,Growl,1,1,2
-113,chansey,10,47,Sing,1,23,
-113,chansey,10,107,Minimize,1,20,
-113,chansey,10,111,Defense Curl,1,31,
-113,chansey,10,113,Light Screen,1,34,
-113,chansey,10,121,Egg Bomb,1,38,
-113,chansey,10,135,Soft-Boiled,1,12,
-113,chansey,10,287,Refresh,1,9,
-113,chansey,10,361,Healing Wish,1,42,
-113,chansey,10,374,Fling,1,27,
-113,chansey,11,1,Pound,1,1,2
-113,chansey,11,3,Double Slap,1,12,
-113,chansey,11,36,Take Down,1,27,
-113,chansey,11,38,Double-Edge,1,54,
-113,chansey,11,39,Tail Whip,1,5,
-113,chansey,11,45,Growl,1,1,3
-113,chansey,11,47,Sing,1,31,
-113,chansey,11,107,Minimize,1,23,
-113,chansey,11,111,Defense Curl,1,1,1
-113,chansey,11,113,Light Screen,1,46,
-113,chansey,11,121,Egg Bomb,1,42,
-113,chansey,11,135,Soft-Boiled,1,16,
-113,chansey,11,287,Refresh,1,9,
-113,chansey,11,361,Healing Wish,1,50,
-113,chansey,11,374,Fling,1,34,
-113,chansey,11,505,Heal Pulse,1,38,
-113,chansey,11,516,Bestow,1,20,
-113,chansey,12,1,Pound,1,1,1
-113,chansey,12,3,Double Slap,1,17,
-113,chansey,12,38,Double-Edge,1,57,
-113,chansey,12,39,Tail Whip,1,5,
-113,chansey,12,45,Growl,1,1,2
-113,chansey,12,47,Sing,1,29,
-113,chansey,12,107,Minimize,1,23,
-113,chansey,12,111,Defense Curl,1,41,
-113,chansey,12,113,Light Screen,1,49,
-113,chansey,12,121,Egg Bomb,1,35,
-113,chansey,12,135,Soft-Boiled,1,13,
-113,chansey,12,287,Refresh,1,9,
-113,chansey,13,1,Pound,1,1,1
-113,chansey,13,3,Double Slap,1,17,
-113,chansey,13,38,Double-Edge,1,57,
-113,chansey,13,39,Tail Whip,1,5,
-113,chansey,13,45,Growl,1,1,2
-113,chansey,13,47,Sing,1,29,
-113,chansey,13,107,Minimize,1,23,
-113,chansey,13,111,Defense Curl,1,41,
-113,chansey,13,113,Light Screen,1,49,
-113,chansey,13,121,Egg Bomb,1,35,
-113,chansey,13,135,Soft-Boiled,1,13,
-113,chansey,13,287,Refresh,1,9,
-113,chansey,14,1,Pound,1,1,2
-113,chansey,14,3,Double Slap,1,12,
-113,chansey,14,36,Take Down,1,27,
-113,chansey,14,38,Double-Edge,1,54,
-113,chansey,14,39,Tail Whip,1,5,
-113,chansey,14,45,Growl,1,1,3
-113,chansey,14,47,Sing,1,31,
-113,chansey,14,107,Minimize,1,23,
-113,chansey,14,111,Defense Curl,1,1,1
-113,chansey,14,113,Light Screen,1,46,
-113,chansey,14,121,Egg Bomb,1,42,
-113,chansey,14,135,Soft-Boiled,1,16,
-113,chansey,14,287,Refresh,1,9,
-113,chansey,14,361,Healing Wish,1,50,
-113,chansey,14,374,Fling,1,34,
-113,chansey,14,505,Heal Pulse,1,38,
-113,chansey,14,516,Bestow,1,20,
-113,chansey,15,1,Pound,1,1,3
-113,chansey,15,3,Double Slap,1,12,
-113,chansey,15,36,Take Down,1,27,
-113,chansey,15,38,Double-Edge,1,1,1
-113,chansey,15,38,Double-Edge,1,54,
-113,chansey,15,39,Tail Whip,1,5,
-113,chansey,15,45,Growl,1,1,4
-113,chansey,15,47,Sing,1,31,
-113,chansey,15,107,Minimize,1,23,
-113,chansey,15,111,Defense Curl,1,1,2
-113,chansey,15,113,Light Screen,1,46,
-113,chansey,15,121,Egg Bomb,1,42,
-113,chansey,15,135,Soft-Boiled,1,16,
-113,chansey,15,287,Refresh,1,9,
-113,chansey,15,361,Healing Wish,1,50,
-113,chansey,15,374,Fling,1,34,
-113,chansey,15,505,Heal Pulse,1,38,
-113,chansey,15,516,Bestow,1,20,
-113,chansey,16,1,Pound,1,1,3
-113,chansey,16,3,Double Slap,1,12,1
-113,chansey,16,36,Take Down,1,27,1
-113,chansey,16,38,Double-Edge,1,1,1
-113,chansey,16,38,Double-Edge,1,54,1
-113,chansey,16,39,Tail Whip,1,5,1
-113,chansey,16,45,Growl,1,1,4
-113,chansey,16,47,Sing,1,31,1
-113,chansey,16,107,Minimize,1,23,1
-113,chansey,16,111,Defense Curl,1,1,2
-113,chansey,16,113,Light Screen,1,46,1
-113,chansey,16,121,Egg Bomb,1,42,1
-113,chansey,16,135,Soft-Boiled,1,16,1
-113,chansey,16,287,Refresh,1,9,1
-113,chansey,16,361,Healing Wish,1,50,1
-113,chansey,16,374,Fling,1,34,1
-113,chansey,16,505,Heal Pulse,1,38,1
-113,chansey,16,516,Bestow,1,20,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+113,1,Pound,1,normal,40,100
+113,1,Double Slap,1,normal,15,85
+113,2,Pound,1,normal,40,100
+113,2,Tail Whip,1,normal,-,100
+113,3,Pound,1,normal,40,100
+113,4,Pound,1,normal,40,100
+113,5,Pound,1,normal,40,100
+113,5,Growl,1,normal,-,100
+113,6,Pound,1,normal,40,100
+113,6,Growl,1,normal,-,100
+113,7,Pound,1,normal,40,100
+113,7,Growl,1,normal,-,100
+113,8,Pound,1,normal,40,100
+113,8,Growl,1,normal,-,100
+113,9,Pound,1,normal,40,100
+113,9,Growl,1,normal,-,100
+113,10,Pound,1,normal,40,100
+113,10,Growl,1,normal,-,100
+113,11,Pound,1,normal,40,100
+113,11,Growl,1,normal,-,100
+113,11,Defense Curl,1,normal,-,-
+113,12,Pound,1,normal,40,100
+113,12,Growl,1,normal,-,100
+113,13,Pound,1,normal,40,100
+113,13,Growl,1,normal,-,100
+113,14,Pound,1,normal,40,100
+113,14,Growl,1,normal,-,100
+113,14,Defense Curl,1,normal,-,-
+113,15,Pound,1,normal,40,100
+113,15,Double-Edge,1,normal,120,100
+113,15,Growl,1,normal,-,100
+113,15,Defense Curl,1,normal,-,-
+113,16,Pound,1,normal,40,100
+113,16,Double-Edge,1,normal,120,100
+113,16,Growl,1,normal,-,100
+113,16,Defense Curl,1,normal,-,-
+113,3,Growl,5,normal,-,100
+113,4,Growl,5,normal,-,100
+113,5,Tail Whip,5,normal,-,100
+113,6,Tail Whip,5,normal,-,100
+113,7,Tail Whip,5,normal,-,100
+113,8,Tail Whip,5,normal,-,100
+113,9,Tail Whip,5,normal,-,100
+113,10,Tail Whip,5,normal,-,100
+113,11,Tail Whip,5,normal,-,100
+113,12,Tail Whip,5,normal,-,100
+113,13,Tail Whip,5,normal,-,100
+113,14,Tail Whip,5,normal,-,100
+113,15,Tail Whip,5,normal,-,100
+113,16,Tail Whip,5,normal,-,100
+113,3,Tail Whip,9,normal,-,100
+113,4,Tail Whip,9,normal,-,100
+113,5,Refresh,9,normal,-,-
+113,6,Refresh,9,normal,-,-
+113,7,Refresh,9,normal,-,-
+113,8,Refresh,9,normal,-,-
+113,9,Refresh,9,normal,-,-
+113,10,Refresh,9,normal,-,-
+113,11,Refresh,9,normal,-,-
+113,12,Refresh,9,normal,-,-
+113,13,Refresh,9,normal,-,-
+113,14,Refresh,9,normal,-,-
+113,15,Refresh,9,normal,-,-
+113,16,Refresh,9,normal,-,-
+113,2,Double Slap,12,normal,15,85
+113,8,Soft-Boiled,12,normal,-,-
+113,9,Soft-Boiled,12,normal,-,-
+113,10,Soft-Boiled,12,normal,-,-
+113,11,Double Slap,12,normal,15,85
+113,14,Double Slap,12,normal,15,85
+113,15,Double Slap,12,normal,15,85
+113,16,Double Slap,12,normal,15,85
+113,3,Soft-Boiled,13,normal,-,-
+113,4,Soft-Boiled,13,normal,-,-
+113,5,Soft-Boiled,13,normal,-,-
+113,6,Soft-Boiled,13,normal,-,-
+113,7,Soft-Boiled,13,normal,-,-
+113,12,Soft-Boiled,13,normal,-,-
+113,13,Soft-Boiled,13,normal,-,-
+113,8,Double Slap,16,normal,15,85
+113,9,Double Slap,16,normal,15,85
+113,10,Double Slap,16,normal,15,85
+113,11,Soft-Boiled,16,normal,-,-
+113,14,Soft-Boiled,16,normal,-,-
+113,15,Soft-Boiled,16,normal,-,-
+113,16,Soft-Boiled,16,normal,-,-
+113,3,Double Slap,17,normal,15,85
+113,4,Double Slap,17,normal,15,85
+113,5,Double Slap,17,normal,15,85
+113,6,Double Slap,17,normal,15,85
+113,7,Double Slap,17,normal,15,85
+113,12,Double Slap,17,normal,15,85
+113,13,Double Slap,17,normal,15,85
+113,8,Minimize,20,normal,-,-
+113,9,Minimize,20,normal,-,-
+113,10,Minimize,20,normal,-,-
+113,11,Bestow,20,normal,-,-
+113,14,Bestow,20,normal,-,-
+113,15,Bestow,20,normal,-,-
+113,16,Bestow,20,normal,-,-
+113,3,Minimize,23,normal,-,-
+113,4,Minimize,23,normal,-,-
+113,5,Minimize,23,normal,-,-
+113,6,Minimize,23,normal,-,-
+113,7,Minimize,23,normal,-,-
+113,8,Sing,23,normal,-,55
+113,9,Sing,23,normal,-,55
+113,10,Sing,23,normal,-,55
+113,11,Minimize,23,normal,-,-
+113,12,Minimize,23,normal,-,-
+113,13,Minimize,23,normal,-,-
+113,14,Minimize,23,normal,-,-
+113,15,Minimize,23,normal,-,-
+113,16,Minimize,23,normal,-,-
+113,1,Sing,24,normal,-,55
+113,2,Sing,24,normal,-,55
+113,8,Fling,27,dark,-,100
+113,9,Fling,27,dark,-,100
+113,10,Fling,27,dark,-,100
+113,11,Take Down,27,normal,90,85
+113,14,Take Down,27,normal,90,85
+113,15,Take Down,27,normal,90,85
+113,16,Take Down,27,normal,90,85
+113,3,Sing,29,normal,-,55
+113,4,Sing,29,normal,-,55
+113,5,Sing,29,normal,-,55
+113,6,Sing,29,normal,-,55
+113,7,Sing,29,normal,-,55
+113,12,Sing,29,normal,-,55
+113,13,Sing,29,normal,-,55
+113,1,Growl,30,normal,-,100
+113,2,Growl,30,normal,-,100
+113,8,Defense Curl,31,normal,-,-
+113,9,Defense Curl,31,normal,-,-
+113,10,Defense Curl,31,normal,-,-
+113,11,Sing,31,normal,-,55
+113,14,Sing,31,normal,-,55
+113,15,Sing,31,normal,-,55
+113,16,Sing,31,normal,-,55
+113,8,Light Screen,34,psychic,-,-
+113,9,Light Screen,34,psychic,-,-
+113,10,Light Screen,34,psychic,-,-
+113,11,Fling,34,dark,-,100
+113,14,Fling,34,dark,-,100
+113,15,Fling,34,dark,-,100
+113,16,Fling,34,dark,-,100
+113,3,Egg Bomb,35,normal,100,75
+113,4,Egg Bomb,35,normal,100,75
+113,5,Egg Bomb,35,normal,100,75
+113,6,Egg Bomb,35,normal,100,75
+113,7,Egg Bomb,35,normal,100,75
+113,12,Egg Bomb,35,normal,100,75
+113,13,Egg Bomb,35,normal,100,75
+113,1,Minimize,38,normal,-,-
+113,2,Minimize,38,normal,-,-
+113,8,Egg Bomb,38,normal,100,75
+113,9,Egg Bomb,38,normal,100,75
+113,10,Egg Bomb,38,normal,100,75
+113,11,Heal Pulse,38,psychic,-,-
+113,14,Heal Pulse,38,psychic,-,-
+113,15,Heal Pulse,38,psychic,-,-
+113,16,Heal Pulse,38,psychic,-,-
+113,3,Defense Curl,41,normal,-,-
+113,4,Defense Curl,41,normal,-,-
+113,5,Defense Curl,41,normal,-,-
+113,6,Defense Curl,41,normal,-,-
+113,7,Defense Curl,41,normal,-,-
+113,12,Defense Curl,41,normal,-,-
+113,13,Defense Curl,41,normal,-,-
+113,8,Healing Wish,42,psychic,-,-
+113,9,Healing Wish,42,psychic,-,-
+113,10,Healing Wish,42,psychic,-,-
+113,11,Egg Bomb,42,normal,100,75
+113,14,Egg Bomb,42,normal,100,75
+113,15,Egg Bomb,42,normal,100,75
+113,16,Egg Bomb,42,normal,100,75
+113,1,Defense Curl,44,normal,-,-
+113,2,Defense Curl,44,normal,-,-
+113,8,Double-Edge,46,normal,120,100
+113,9,Double-Edge,46,normal,120,100
+113,10,Double-Edge,46,normal,120,100
+113,11,Light Screen,46,psychic,-,-
+113,14,Light Screen,46,psychic,-,-
+113,15,Light Screen,46,psychic,-,-
+113,16,Light Screen,46,psychic,-,-
+113,1,Light Screen,48,psychic,-,-
+113,2,Light Screen,48,psychic,-,-
+113,3,Light Screen,49,psychic,-,-
+113,4,Light Screen,49,psychic,-,-
+113,5,Light Screen,49,psychic,-,-
+113,6,Light Screen,49,psychic,-,-
+113,7,Light Screen,49,psychic,-,-
+113,12,Light Screen,49,psychic,-,-
+113,13,Light Screen,49,psychic,-,-
+113,11,Healing Wish,50,psychic,-,-
+113,14,Healing Wish,50,psychic,-,-
+113,15,Healing Wish,50,psychic,-,-
+113,16,Healing Wish,50,psychic,-,-
+113,1,Double-Edge,54,normal,120,100
+113,2,Double-Edge,54,normal,120,100
+113,11,Double-Edge,54,normal,120,100
+113,14,Double-Edge,54,normal,120,100
+113,15,Double-Edge,54,normal,120,100
+113,16,Double-Edge,54,normal,120,100
+113,3,Double-Edge,57,normal,120,100
+113,4,Double-Edge,57,normal,120,100
+113,5,Double-Edge,57,normal,120,100
+113,6,Double-Edge,57,normal,120,100
+113,7,Double-Edge,57,normal,120,100
+113,12,Double-Edge,57,normal,120,100
+113,13,Double-Edge,57,normal,120,100

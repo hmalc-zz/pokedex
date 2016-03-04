@@ -1,31 +1,31 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-604,eelektross,11,29,Headbutt,1,1,2
-604,eelektross,11,51,Acid,1,1,3
-604,eelektross,11,242,Crunch,1,1,5
-604,eelektross,11,306,Crush Claw,1,1,1
-604,eelektross,11,435,Discharge,1,1,4
-604,eelektross,14,29,Headbutt,1,1,2
-604,eelektross,14,51,Acid,1,1,3
-604,eelektross,14,242,Crunch,1,1,5
-604,eelektross,14,306,Crush Claw,1,1,1
-604,eelektross,14,435,Discharge,1,1,4
-604,eelektross,15,29,Headbutt,1,1,7
-604,eelektross,15,37,Thrash,1,1,1
-604,eelektross,15,51,Acid,1,1,8
-604,eelektross,15,192,Zap Cannon,1,1,2
-604,eelektross,15,242,Crunch,1,1,10
-604,eelektross,15,306,Crush Claw,1,1,6
-604,eelektross,15,380,Gastro Acid,1,1,3
-604,eelektross,15,435,Discharge,1,1,9
-604,eelektross,15,489,Coil,1,1,4
-604,eelektross,15,569,Ion Deluge,1,1,5
-604,eelektross,16,29,Headbutt,1,1,7
-604,eelektross,16,37,Thrash,1,1,1
-604,eelektross,16,51,Acid,1,1,8
-604,eelektross,16,192,Zap Cannon,1,1,2
-604,eelektross,16,242,Crunch,1,1,10
-604,eelektross,16,306,Crush Claw,1,1,6
-604,eelektross,16,380,Gastro Acid,1,1,3
-604,eelektross,16,435,Discharge,1,1,9
-604,eelektross,16,489,Coil,1,1,4
-604,eelektross,16,569,Ion Deluge,1,1,5
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+604,11,Headbutt,1,normal,70,100
+604,11,Acid,1,poison,40,100
+604,11,Crunch,1,dark,80,100
+604,11,Crush Claw,1,normal,75,95
+604,11,Discharge,1,electric,80,100
+604,14,Headbutt,1,normal,70,100
+604,14,Acid,1,poison,40,100
+604,14,Crunch,1,dark,80,100
+604,14,Crush Claw,1,normal,75,95
+604,14,Discharge,1,electric,80,100
+604,15,Headbutt,1,normal,70,100
+604,15,Thrash,1,normal,120,100
+604,15,Acid,1,poison,40,100
+604,15,Zap Cannon,1,electric,120,50
+604,15,Crunch,1,dark,80,100
+604,15,Crush Claw,1,normal,75,95
+604,15,Gastro Acid,1,poison,-,100
+604,15,Discharge,1,electric,80,100
+604,15,Coil,1,poison,-,-
+604,15,Ion Deluge,1,electric,-,-
+604,16,Headbutt,1,normal,70,100
+604,16,Thrash,1,normal,120,100
+604,16,Acid,1,poison,40,100
+604,16,Zap Cannon,1,electric,120,50
+604,16,Crunch,1,dark,80,100
+604,16,Crush Claw,1,normal,75,95
+604,16,Gastro Acid,1,poison,-,100
+604,16,Discharge,1,electric,80,100
+604,16,Coil,1,poison,-,-
+604,16,Ion Deluge,1,electric,-,-

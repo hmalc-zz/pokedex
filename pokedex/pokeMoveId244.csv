@@ -1,174 +1,174 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-244,entei,3,23,Stomp,1,41,
-244,entei,3,43,Leer,1,1,2
-244,entei,3,44,Bite,1,1,1
-244,entei,3,46,Roar,1,21,
-244,entei,3,52,Ember,1,11,
-244,entei,3,53,Flamethrower,1,51,
-244,entei,3,83,Fire Spin,1,31,
-244,entei,3,126,Fire Blast,1,71,
-244,entei,3,207,Swagger,1,61,
-244,entei,4,23,Stomp,1,41,
-244,entei,4,43,Leer,1,1,2
-244,entei,4,44,Bite,1,1,1
-244,entei,4,46,Roar,1,21,
-244,entei,4,52,Ember,1,11,
-244,entei,4,53,Flamethrower,1,51,
-244,entei,4,83,Fire Spin,1,31,
-244,entei,4,126,Fire Blast,1,71,
-244,entei,4,207,Swagger,1,61,
-244,entei,5,23,Stomp,1,41,
-244,entei,5,43,Leer,1,1,2
-244,entei,5,44,Bite,1,1,1
-244,entei,5,46,Roar,1,21,
-244,entei,5,52,Ember,1,11,
-244,entei,5,53,Flamethrower,1,51,
-244,entei,5,83,Fire Spin,1,31,
-244,entei,5,126,Fire Blast,1,71,
-244,entei,5,207,Swagger,1,61,
-244,entei,5,347,Calm Mind,1,81,
-244,entei,6,23,Stomp,1,41,
-244,entei,6,43,Leer,1,1,2
-244,entei,6,44,Bite,1,1,1
-244,entei,6,46,Roar,1,21,
-244,entei,6,52,Ember,1,11,
-244,entei,6,53,Flamethrower,1,51,
-244,entei,6,83,Fire Spin,1,31,
-244,entei,6,126,Fire Blast,1,71,
-244,entei,6,207,Swagger,1,61,
-244,entei,6,347,Calm Mind,1,81,
-244,entei,7,23,Stomp,1,41,
-244,entei,7,43,Leer,1,1,2
-244,entei,7,44,Bite,1,1,1
-244,entei,7,46,Roar,1,21,
-244,entei,7,52,Ember,1,11,
-244,entei,7,53,Flamethrower,1,51,
-244,entei,7,83,Fire Spin,1,31,
-244,entei,7,126,Fire Blast,1,71,
-244,entei,7,207,Swagger,1,61,
-244,entei,7,347,Calm Mind,1,81,
-244,entei,8,23,Stomp,1,29,
-244,entei,8,43,Leer,1,1,2
-244,entei,8,44,Bite,1,1,1
-244,entei,8,46,Roar,1,15,
-244,entei,8,52,Ember,1,8,
-244,entei,8,53,Flamethrower,1,36,
-244,entei,8,83,Fire Spin,1,22,
-244,entei,8,126,Fire Blast,1,71,
-244,entei,8,207,Swagger,1,43,
-244,entei,8,326,Extrasensory,1,64,
-244,entei,8,347,Calm Mind,1,78,
-244,entei,8,424,Fire Fang,1,50,
-244,entei,8,436,Lava Plume,1,57,
-244,entei,9,23,Stomp,1,29,
-244,entei,9,43,Leer,1,1,2
-244,entei,9,44,Bite,1,1,1
-244,entei,9,46,Roar,1,15,
-244,entei,9,52,Ember,1,8,
-244,entei,9,53,Flamethrower,1,36,
-244,entei,9,83,Fire Spin,1,22,
-244,entei,9,126,Fire Blast,1,71,
-244,entei,9,207,Swagger,1,43,
-244,entei,9,284,Eruption,1,85,
-244,entei,9,326,Extrasensory,1,64,
-244,entei,9,347,Calm Mind,1,78,
-244,entei,9,424,Fire Fang,1,50,
-244,entei,9,436,Lava Plume,1,57,
-244,entei,10,23,Stomp,1,29,
-244,entei,10,43,Leer,1,1,2
-244,entei,10,44,Bite,1,1,1
-244,entei,10,46,Roar,1,15,
-244,entei,10,52,Ember,1,8,
-244,entei,10,53,Flamethrower,1,36,
-244,entei,10,83,Fire Spin,1,22,
-244,entei,10,126,Fire Blast,1,71,
-244,entei,10,207,Swagger,1,43,
-244,entei,10,284,Eruption,1,85,
-244,entei,10,326,Extrasensory,1,64,
-244,entei,10,347,Calm Mind,1,78,
-244,entei,10,424,Fire Fang,1,50,
-244,entei,10,436,Lava Plume,1,57,
-244,entei,11,23,Stomp,1,29,
-244,entei,11,43,Leer,1,1,2
-244,entei,11,44,Bite,1,1,1
-244,entei,11,46,Roar,1,15,
-244,entei,11,52,Ember,1,8,
-244,entei,11,53,Flamethrower,1,36,
-244,entei,11,83,Fire Spin,1,22,
-244,entei,11,126,Fire Blast,1,71,
-244,entei,11,207,Swagger,1,43,
-244,entei,11,284,Eruption,1,85,
-244,entei,11,326,Extrasensory,1,64,
-244,entei,11,347,Calm Mind,1,78,
-244,entei,11,424,Fire Fang,1,50,
-244,entei,11,436,Lava Plume,1,57,
-244,entei,12,23,Stomp,1,41,
-244,entei,12,43,Leer,1,1,2
-244,entei,12,44,Bite,1,1,1
-244,entei,12,46,Roar,1,21,
-244,entei,12,52,Ember,1,11,
-244,entei,12,53,Flamethrower,1,51,
-244,entei,12,83,Fire Spin,1,31,
-244,entei,12,126,Fire Blast,1,71,
-244,entei,12,207,Swagger,1,61,
-244,entei,12,347,Calm Mind,1,81,
-244,entei,13,23,Stomp,1,41,
-244,entei,13,43,Leer,1,1,2
-244,entei,13,44,Bite,1,1,1
-244,entei,13,46,Roar,1,21,
-244,entei,13,52,Ember,1,11,
-244,entei,13,53,Flamethrower,1,51,
-244,entei,13,83,Fire Spin,1,31,
-244,entei,13,126,Fire Blast,1,71,
-244,entei,13,207,Swagger,1,61,
-244,entei,13,347,Calm Mind,1,81,
-244,entei,14,23,Stomp,1,29,
-244,entei,14,43,Leer,1,1,2
-244,entei,14,44,Bite,1,1,1
-244,entei,14,46,Roar,1,15,
-244,entei,14,52,Ember,1,8,
-244,entei,14,53,Flamethrower,1,36,
-244,entei,14,83,Fire Spin,1,22,
-244,entei,14,126,Fire Blast,1,71,
-244,entei,14,207,Swagger,1,43,
-244,entei,14,284,Eruption,1,85,
-244,entei,14,326,Extrasensory,1,64,
-244,entei,14,347,Calm Mind,1,78,
-244,entei,14,424,Fire Fang,1,50,
-244,entei,14,436,Lava Plume,1,57,
-244,entei,15,23,Stomp,1,29,
-244,entei,15,43,Leer,1,1,6
-244,entei,15,44,Bite,1,1,5
-244,entei,15,46,Roar,1,15,
-244,entei,15,52,Ember,1,8,
-244,entei,15,53,Flamethrower,1,36,
-244,entei,15,83,Fire Spin,1,22,
-244,entei,15,126,Fire Blast,1,71,
-244,entei,15,207,Swagger,1,43,
-244,entei,15,221,Sacred Fire,1,1,1
-244,entei,15,284,Eruption,1,1,2
-244,entei,15,284,Eruption,1,85,
-244,entei,15,326,Extrasensory,1,1,3
-244,entei,15,326,Extrasensory,1,64,
-244,entei,15,347,Calm Mind,1,78,
-244,entei,15,424,Fire Fang,1,50,
-244,entei,15,436,Lava Plume,1,1,4
-244,entei,15,436,Lava Plume,1,57,
-244,entei,16,23,Stomp,1,29,1
-244,entei,16,43,Leer,1,1,6
-244,entei,16,44,Bite,1,1,5
-244,entei,16,46,Roar,1,15,1
-244,entei,16,52,Ember,1,8,1
-244,entei,16,53,Flamethrower,1,36,1
-244,entei,16,83,Fire Spin,1,22,1
-244,entei,16,126,Fire Blast,1,71,1
-244,entei,16,207,Swagger,1,43,1
-244,entei,16,221,Sacred Fire,1,1,1
-244,entei,16,284,Eruption,1,1,2
-244,entei,16,284,Eruption,1,85,1
-244,entei,16,326,Extrasensory,1,1,3
-244,entei,16,326,Extrasensory,1,64,1
-244,entei,16,347,Calm Mind,1,78,1
-244,entei,16,424,Fire Fang,1,50,1
-244,entei,16,436,Lava Plume,1,1,4
-244,entei,16,436,Lava Plume,1,57,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+244,3,Leer,1,normal,-,100
+244,3,Bite,1,dark,60,100
+244,4,Leer,1,normal,-,100
+244,4,Bite,1,dark,60,100
+244,5,Leer,1,normal,-,100
+244,5,Bite,1,dark,60,100
+244,6,Leer,1,normal,-,100
+244,6,Bite,1,dark,60,100
+244,7,Leer,1,normal,-,100
+244,7,Bite,1,dark,60,100
+244,8,Leer,1,normal,-,100
+244,8,Bite,1,dark,60,100
+244,9,Leer,1,normal,-,100
+244,9,Bite,1,dark,60,100
+244,10,Leer,1,normal,-,100
+244,10,Bite,1,dark,60,100
+244,11,Leer,1,normal,-,100
+244,11,Bite,1,dark,60,100
+244,12,Leer,1,normal,-,100
+244,12,Bite,1,dark,60,100
+244,13,Leer,1,normal,-,100
+244,13,Bite,1,dark,60,100
+244,14,Leer,1,normal,-,100
+244,14,Bite,1,dark,60,100
+244,15,Leer,1,normal,-,100
+244,15,Bite,1,dark,60,100
+244,15,Sacred Fire,1,fire,100,95
+244,15,Eruption,1,fire,150,100
+244,15,Extrasensory,1,psychic,80,100
+244,15,Lava Plume,1,fire,80,100
+244,16,Leer,1,normal,-,100
+244,16,Bite,1,dark,60,100
+244,16,Sacred Fire,1,fire,100,95
+244,16,Eruption,1,fire,150,100
+244,16,Extrasensory,1,psychic,80,100
+244,16,Lava Plume,1,fire,80,100
+244,8,Ember,8,fire,40,100
+244,9,Ember,8,fire,40,100
+244,10,Ember,8,fire,40,100
+244,11,Ember,8,fire,40,100
+244,14,Ember,8,fire,40,100
+244,15,Ember,8,fire,40,100
+244,16,Ember,8,fire,40,100
+244,3,Ember,11,fire,40,100
+244,4,Ember,11,fire,40,100
+244,5,Ember,11,fire,40,100
+244,6,Ember,11,fire,40,100
+244,7,Ember,11,fire,40,100
+244,12,Ember,11,fire,40,100
+244,13,Ember,11,fire,40,100
+244,8,Roar,15,normal,-,-
+244,9,Roar,15,normal,-,-
+244,10,Roar,15,normal,-,-
+244,11,Roar,15,normal,-,-
+244,14,Roar,15,normal,-,-
+244,15,Roar,15,normal,-,-
+244,16,Roar,15,normal,-,-
+244,3,Roar,21,normal,-,-
+244,4,Roar,21,normal,-,-
+244,5,Roar,21,normal,-,-
+244,6,Roar,21,normal,-,-
+244,7,Roar,21,normal,-,-
+244,12,Roar,21,normal,-,-
+244,13,Roar,21,normal,-,-
+244,8,Fire Spin,22,fire,35,85
+244,9,Fire Spin,22,fire,35,85
+244,10,Fire Spin,22,fire,35,85
+244,11,Fire Spin,22,fire,35,85
+244,14,Fire Spin,22,fire,35,85
+244,15,Fire Spin,22,fire,35,85
+244,16,Fire Spin,22,fire,35,85
+244,8,Stomp,29,normal,65,100
+244,9,Stomp,29,normal,65,100
+244,10,Stomp,29,normal,65,100
+244,11,Stomp,29,normal,65,100
+244,14,Stomp,29,normal,65,100
+244,15,Stomp,29,normal,65,100
+244,16,Stomp,29,normal,65,100
+244,3,Fire Spin,31,fire,35,85
+244,4,Fire Spin,31,fire,35,85
+244,5,Fire Spin,31,fire,35,85
+244,6,Fire Spin,31,fire,35,85
+244,7,Fire Spin,31,fire,35,85
+244,12,Fire Spin,31,fire,35,85
+244,13,Fire Spin,31,fire,35,85
+244,8,Flamethrower,36,fire,90,100
+244,9,Flamethrower,36,fire,90,100
+244,10,Flamethrower,36,fire,90,100
+244,11,Flamethrower,36,fire,90,100
+244,14,Flamethrower,36,fire,90,100
+244,15,Flamethrower,36,fire,90,100
+244,16,Flamethrower,36,fire,90,100
+244,3,Stomp,41,normal,65,100
+244,4,Stomp,41,normal,65,100
+244,5,Stomp,41,normal,65,100
+244,6,Stomp,41,normal,65,100
+244,7,Stomp,41,normal,65,100
+244,12,Stomp,41,normal,65,100
+244,13,Stomp,41,normal,65,100
+244,8,Swagger,43,normal,-,90
+244,9,Swagger,43,normal,-,90
+244,10,Swagger,43,normal,-,90
+244,11,Swagger,43,normal,-,90
+244,14,Swagger,43,normal,-,90
+244,15,Swagger,43,normal,-,90
+244,16,Swagger,43,normal,-,90
+244,8,Fire Fang,50,fire,65,95
+244,9,Fire Fang,50,fire,65,95
+244,10,Fire Fang,50,fire,65,95
+244,11,Fire Fang,50,fire,65,95
+244,14,Fire Fang,50,fire,65,95
+244,15,Fire Fang,50,fire,65,95
+244,16,Fire Fang,50,fire,65,95
+244,3,Flamethrower,51,fire,90,100
+244,4,Flamethrower,51,fire,90,100
+244,5,Flamethrower,51,fire,90,100
+244,6,Flamethrower,51,fire,90,100
+244,7,Flamethrower,51,fire,90,100
+244,12,Flamethrower,51,fire,90,100
+244,13,Flamethrower,51,fire,90,100
+244,8,Lava Plume,57,fire,80,100
+244,9,Lava Plume,57,fire,80,100
+244,10,Lava Plume,57,fire,80,100
+244,11,Lava Plume,57,fire,80,100
+244,14,Lava Plume,57,fire,80,100
+244,15,Lava Plume,57,fire,80,100
+244,16,Lava Plume,57,fire,80,100
+244,3,Swagger,61,normal,-,90
+244,4,Swagger,61,normal,-,90
+244,5,Swagger,61,normal,-,90
+244,6,Swagger,61,normal,-,90
+244,7,Swagger,61,normal,-,90
+244,12,Swagger,61,normal,-,90
+244,13,Swagger,61,normal,-,90
+244,8,Extrasensory,64,psychic,80,100
+244,9,Extrasensory,64,psychic,80,100
+244,10,Extrasensory,64,psychic,80,100
+244,11,Extrasensory,64,psychic,80,100
+244,14,Extrasensory,64,psychic,80,100
+244,15,Extrasensory,64,psychic,80,100
+244,16,Extrasensory,64,psychic,80,100
+244,3,Fire Blast,71,fire,110,85
+244,4,Fire Blast,71,fire,110,85
+244,5,Fire Blast,71,fire,110,85
+244,6,Fire Blast,71,fire,110,85
+244,7,Fire Blast,71,fire,110,85
+244,8,Fire Blast,71,fire,110,85
+244,9,Fire Blast,71,fire,110,85
+244,10,Fire Blast,71,fire,110,85
+244,11,Fire Blast,71,fire,110,85
+244,12,Fire Blast,71,fire,110,85
+244,13,Fire Blast,71,fire,110,85
+244,14,Fire Blast,71,fire,110,85
+244,15,Fire Blast,71,fire,110,85
+244,16,Fire Blast,71,fire,110,85
+244,8,Calm Mind,78,psychic,-,-
+244,9,Calm Mind,78,psychic,-,-
+244,10,Calm Mind,78,psychic,-,-
+244,11,Calm Mind,78,psychic,-,-
+244,14,Calm Mind,78,psychic,-,-
+244,15,Calm Mind,78,psychic,-,-
+244,16,Calm Mind,78,psychic,-,-
+244,5,Calm Mind,81,psychic,-,-
+244,6,Calm Mind,81,psychic,-,-
+244,7,Calm Mind,81,psychic,-,-
+244,12,Calm Mind,81,psychic,-,-
+244,13,Calm Mind,81,psychic,-,-
+244,9,Eruption,85,fire,150,100
+244,10,Eruption,85,fire,150,100
+244,11,Eruption,85,fire,150,100
+244,14,Eruption,85,fire,150,100
+244,15,Eruption,85,fire,150,100
+244,16,Eruption,85,fire,150,100

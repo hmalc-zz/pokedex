@@ -1,77 +1,77 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-567,archeops,11,17,Wing Attack,1,1,3
-567,archeops,11,37,Thrash,1,61,
-567,archeops,11,43,Leer,1,1,2
-567,archeops,11,88,Rock Throw,1,1,4
-567,archeops,11,88,Rock Throw,1,5,
-567,archeops,11,97,Agility,1,21,
-567,archeops,11,98,Quick Attack,1,1,1
-567,archeops,11,104,Double Team,1,8,
-567,archeops,11,157,Rock Slide,1,51,
-567,archeops,11,184,Scary Face,1,11,
-567,archeops,11,225,Dragon Breath,1,31,
-567,archeops,11,242,Crunch,1,35,
-567,archeops,11,246,Ancient Power,1,18,
-567,archeops,11,283,Endeavor,1,40,
-567,archeops,11,337,Dragon Claw,1,56,
-567,archeops,11,365,Pluck,1,15,
-567,archeops,11,369,U-turn,1,45,
-567,archeops,11,501,Quick Guard,1,25,
-567,archeops,11,512,Acrobatics,1,28,
-567,archeops,14,17,Wing Attack,1,1,3
-567,archeops,14,37,Thrash,1,61,
-567,archeops,14,43,Leer,1,1,2
-567,archeops,14,88,Rock Throw,1,1,4
-567,archeops,14,88,Rock Throw,1,5,
-567,archeops,14,97,Agility,1,21,
-567,archeops,14,98,Quick Attack,1,1,1
-567,archeops,14,104,Double Team,1,8,
-567,archeops,14,157,Rock Slide,1,51,
-567,archeops,14,184,Scary Face,1,11,
-567,archeops,14,225,Dragon Breath,1,31,
-567,archeops,14,242,Crunch,1,35,
-567,archeops,14,246,Ancient Power,1,18,
-567,archeops,14,283,Endeavor,1,40,
-567,archeops,14,337,Dragon Claw,1,56,
-567,archeops,14,365,Pluck,1,15,
-567,archeops,14,369,U-turn,1,45,
-567,archeops,14,501,Quick Guard,1,25,
-567,archeops,14,512,Acrobatics,1,28,
-567,archeops,15,17,Wing Attack,1,1,3
-567,archeops,15,37,Thrash,1,61,
-567,archeops,15,43,Leer,1,1,2
-567,archeops,15,88,Rock Throw,1,1,4
-567,archeops,15,88,Rock Throw,1,5,
-567,archeops,15,97,Agility,1,21,
-567,archeops,15,98,Quick Attack,1,1,1
-567,archeops,15,104,Double Team,1,8,
-567,archeops,15,157,Rock Slide,1,51,
-567,archeops,15,184,Scary Face,1,11,
-567,archeops,15,225,Dragon Breath,1,31,
-567,archeops,15,242,Crunch,1,35,
-567,archeops,15,246,Ancient Power,1,18,
-567,archeops,15,283,Endeavor,1,40,
-567,archeops,15,337,Dragon Claw,1,56,
-567,archeops,15,365,Pluck,1,15,
-567,archeops,15,369,U-turn,1,45,
-567,archeops,15,501,Quick Guard,1,25,
-567,archeops,15,512,Acrobatics,1,28,
-567,archeops,16,17,Wing Attack,1,1,3
-567,archeops,16,37,Thrash,1,61,1
-567,archeops,16,43,Leer,1,1,2
-567,archeops,16,88,Rock Throw,1,1,4
-567,archeops,16,88,Rock Throw,1,5,1
-567,archeops,16,97,Agility,1,21,1
-567,archeops,16,98,Quick Attack,1,1,1
-567,archeops,16,104,Double Team,1,8,1
-567,archeops,16,157,Rock Slide,1,51,1
-567,archeops,16,184,Scary Face,1,11,1
-567,archeops,16,225,Dragon Breath,1,31,1
-567,archeops,16,242,Crunch,1,35,1
-567,archeops,16,246,Ancient Power,1,18,1
-567,archeops,16,283,Endeavor,1,40,1
-567,archeops,16,337,Dragon Claw,1,56,1
-567,archeops,16,365,Pluck,1,15,1
-567,archeops,16,369,U-turn,1,45,1
-567,archeops,16,501,Quick Guard,1,25,1
-567,archeops,16,512,Acrobatics,1,28,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+567,11,Wing Attack,1,flying,60,100
+567,11,Leer,1,normal,-,100
+567,11,Rock Throw,1,rock,50,90
+567,11,Quick Attack,1,normal,40,100
+567,14,Wing Attack,1,flying,60,100
+567,14,Leer,1,normal,-,100
+567,14,Rock Throw,1,rock,50,90
+567,14,Quick Attack,1,normal,40,100
+567,15,Wing Attack,1,flying,60,100
+567,15,Leer,1,normal,-,100
+567,15,Rock Throw,1,rock,50,90
+567,15,Quick Attack,1,normal,40,100
+567,16,Wing Attack,1,flying,60,100
+567,16,Leer,1,normal,-,100
+567,16,Rock Throw,1,rock,50,90
+567,16,Quick Attack,1,normal,40,100
+567,11,Rock Throw,5,rock,50,90
+567,14,Rock Throw,5,rock,50,90
+567,15,Rock Throw,5,rock,50,90
+567,16,Rock Throw,5,rock,50,90
+567,11,Double Team,8,normal,-,-
+567,14,Double Team,8,normal,-,-
+567,15,Double Team,8,normal,-,-
+567,16,Double Team,8,normal,-,-
+567,11,Scary Face,11,normal,-,100
+567,14,Scary Face,11,normal,-,100
+567,15,Scary Face,11,normal,-,100
+567,16,Scary Face,11,normal,-,100
+567,11,Pluck,15,flying,60,100
+567,14,Pluck,15,flying,60,100
+567,15,Pluck,15,flying,60,100
+567,16,Pluck,15,flying,60,100
+567,11,Ancient Power,18,rock,60,100
+567,14,Ancient Power,18,rock,60,100
+567,15,Ancient Power,18,rock,60,100
+567,16,Ancient Power,18,rock,60,100
+567,11,Agility,21,psychic,-,-
+567,14,Agility,21,psychic,-,-
+567,15,Agility,21,psychic,-,-
+567,16,Agility,21,psychic,-,-
+567,11,Quick Guard,25,fighting,-,-
+567,14,Quick Guard,25,fighting,-,-
+567,15,Quick Guard,25,fighting,-,-
+567,16,Quick Guard,25,fighting,-,-
+567,11,Acrobatics,28,flying,55,100
+567,14,Acrobatics,28,flying,55,100
+567,15,Acrobatics,28,flying,55,100
+567,16,Acrobatics,28,flying,55,100
+567,11,Dragon Breath,31,dragon,60,100
+567,14,Dragon Breath,31,dragon,60,100
+567,15,Dragon Breath,31,dragon,60,100
+567,16,Dragon Breath,31,dragon,60,100
+567,11,Crunch,35,dark,80,100
+567,14,Crunch,35,dark,80,100
+567,15,Crunch,35,dark,80,100
+567,16,Crunch,35,dark,80,100
+567,11,Endeavor,40,normal,-,100
+567,14,Endeavor,40,normal,-,100
+567,15,Endeavor,40,normal,-,100
+567,16,Endeavor,40,normal,-,100
+567,11,U-turn,45,bug,70,100
+567,14,U-turn,45,bug,70,100
+567,15,U-turn,45,bug,70,100
+567,16,U-turn,45,bug,70,100
+567,11,Rock Slide,51,rock,75,90
+567,14,Rock Slide,51,rock,75,90
+567,15,Rock Slide,51,rock,75,90
+567,16,Rock Slide,51,rock,75,90
+567,11,Dragon Claw,56,dragon,80,100
+567,14,Dragon Claw,56,dragon,80,100
+567,15,Dragon Claw,56,dragon,80,100
+567,16,Dragon Claw,56,dragon,80,100
+567,11,Thrash,61,normal,120,100
+567,14,Thrash,61,normal,120,100
+567,15,Thrash,61,normal,120,100
+567,16,Thrash,61,normal,120,100

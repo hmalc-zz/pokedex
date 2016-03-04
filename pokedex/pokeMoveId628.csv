@@ -1,85 +1,85 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-628,braviary,11,17,Wing Attack,1,1,4
-628,braviary,11,17,Wing Attack,1,10,
-628,braviary,11,18,Whirlwind,1,57,
-628,braviary,11,31,Fury Attack,1,1,3
-628,braviary,11,31,Fury Attack,1,5,
-628,braviary,11,37,Thrash,1,70,
-628,braviary,11,43,Leer,1,1,2
-628,braviary,11,64,Peck,1,1,1
-628,braviary,11,163,Slash,1,28,
-628,braviary,11,184,Scary Face,1,19,
-628,braviary,11,276,Superpower,1,51,
-628,braviary,11,306,Crush Claw,1,46,
-628,braviary,11,332,Aerial Ace,1,23,
-628,braviary,11,366,Tailwind,1,37,
-628,braviary,11,403,Air Slash,1,41,
-628,braviary,11,413,Brave Bird,1,63,
-628,braviary,11,432,Defog,1,32,
-628,braviary,11,468,Hone Claws,1,14,
-628,braviary,11,507,Sky Drop,1,50,
-628,braviary,14,17,Wing Attack,1,1,4
-628,braviary,14,17,Wing Attack,1,10,
-628,braviary,14,18,Whirlwind,1,57,
-628,braviary,14,31,Fury Attack,1,1,3
-628,braviary,14,31,Fury Attack,1,5,
-628,braviary,14,37,Thrash,1,70,
-628,braviary,14,43,Leer,1,1,2
-628,braviary,14,64,Peck,1,1,1
-628,braviary,14,163,Slash,1,28,
-628,braviary,14,184,Scary Face,1,19,
-628,braviary,14,276,Superpower,1,51,
-628,braviary,14,306,Crush Claw,1,46,
-628,braviary,14,332,Aerial Ace,1,23,
-628,braviary,14,366,Tailwind,1,37,
-628,braviary,14,403,Air Slash,1,41,
-628,braviary,14,413,Brave Bird,1,63,
-628,braviary,14,432,Defog,1,32,
-628,braviary,14,468,Hone Claws,1,14,
-628,braviary,14,507,Sky Drop,1,50,
-628,braviary,15,17,Wing Attack,1,1,8
-628,braviary,15,17,Wing Attack,1,10,
-628,braviary,15,18,Whirlwind,1,1,3
-628,braviary,15,18,Whirlwind,1,57,
-628,braviary,15,31,Fury Attack,1,1,7
-628,braviary,15,31,Fury Attack,1,5,
-628,braviary,15,37,Thrash,1,1,1
-628,braviary,15,37,Thrash,1,70,
-628,braviary,15,43,Leer,1,1,6
-628,braviary,15,64,Peck,1,1,5
-628,braviary,15,163,Slash,1,28,
-628,braviary,15,184,Scary Face,1,19,
-628,braviary,15,276,Superpower,1,1,4
-628,braviary,15,276,Superpower,1,51,
-628,braviary,15,306,Crush Claw,1,46,
-628,braviary,15,332,Aerial Ace,1,23,
-628,braviary,15,366,Tailwind,1,37,
-628,braviary,15,403,Air Slash,1,41,
-628,braviary,15,413,Brave Bird,1,1,2
-628,braviary,15,413,Brave Bird,1,63,
-628,braviary,15,432,Defog,1,32,
-628,braviary,15,468,Hone Claws,1,14,
-628,braviary,15,507,Sky Drop,1,50,
-628,braviary,16,17,Wing Attack,1,1,8
-628,braviary,16,17,Wing Attack,1,10,1
-628,braviary,16,18,Whirlwind,1,1,3
-628,braviary,16,18,Whirlwind,1,57,1
-628,braviary,16,31,Fury Attack,1,1,7
-628,braviary,16,31,Fury Attack,1,5,1
-628,braviary,16,37,Thrash,1,1,1
-628,braviary,16,37,Thrash,1,70,1
-628,braviary,16,43,Leer,1,1,6
-628,braviary,16,64,Peck,1,1,5
-628,braviary,16,163,Slash,1,28,1
-628,braviary,16,184,Scary Face,1,19,1
-628,braviary,16,276,Superpower,1,1,4
-628,braviary,16,276,Superpower,1,51,1
-628,braviary,16,306,Crush Claw,1,46,1
-628,braviary,16,332,Aerial Ace,1,23,1
-628,braviary,16,366,Tailwind,1,37,1
-628,braviary,16,403,Air Slash,1,41,1
-628,braviary,16,413,Brave Bird,1,1,2
-628,braviary,16,413,Brave Bird,1,63,1
-628,braviary,16,432,Defog,1,32,1
-628,braviary,16,468,Hone Claws,1,14,1
-628,braviary,16,507,Sky Drop,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+628,11,Wing Attack,1,flying,60,100
+628,11,Fury Attack,1,normal,15,85
+628,11,Leer,1,normal,-,100
+628,11,Peck,1,flying,35,100
+628,14,Wing Attack,1,flying,60,100
+628,14,Fury Attack,1,normal,15,85
+628,14,Leer,1,normal,-,100
+628,14,Peck,1,flying,35,100
+628,15,Wing Attack,1,flying,60,100
+628,15,Whirlwind,1,normal,-,-
+628,15,Fury Attack,1,normal,15,85
+628,15,Thrash,1,normal,120,100
+628,15,Leer,1,normal,-,100
+628,15,Peck,1,flying,35,100
+628,15,Superpower,1,fighting,120,100
+628,15,Brave Bird,1,flying,120,100
+628,16,Wing Attack,1,flying,60,100
+628,16,Whirlwind,1,normal,-,-
+628,16,Fury Attack,1,normal,15,85
+628,16,Thrash,1,normal,120,100
+628,16,Leer,1,normal,-,100
+628,16,Peck,1,flying,35,100
+628,16,Superpower,1,fighting,120,100
+628,16,Brave Bird,1,flying,120,100
+628,11,Fury Attack,5,normal,15,85
+628,14,Fury Attack,5,normal,15,85
+628,15,Fury Attack,5,normal,15,85
+628,16,Fury Attack,5,normal,15,85
+628,11,Wing Attack,10,flying,60,100
+628,14,Wing Attack,10,flying,60,100
+628,15,Wing Attack,10,flying,60,100
+628,16,Wing Attack,10,flying,60,100
+628,11,Hone Claws,14,dark,-,-
+628,14,Hone Claws,14,dark,-,-
+628,15,Hone Claws,14,dark,-,-
+628,16,Hone Claws,14,dark,-,-
+628,11,Scary Face,19,normal,-,100
+628,14,Scary Face,19,normal,-,100
+628,15,Scary Face,19,normal,-,100
+628,16,Scary Face,19,normal,-,100
+628,11,Aerial Ace,23,flying,60,-
+628,14,Aerial Ace,23,flying,60,-
+628,15,Aerial Ace,23,flying,60,-
+628,16,Aerial Ace,23,flying,60,-
+628,11,Slash,28,normal,70,100
+628,14,Slash,28,normal,70,100
+628,15,Slash,28,normal,70,100
+628,16,Slash,28,normal,70,100
+628,11,Defog,32,flying,-,-
+628,14,Defog,32,flying,-,-
+628,15,Defog,32,flying,-,-
+628,16,Defog,32,flying,-,-
+628,11,Tailwind,37,flying,-,-
+628,14,Tailwind,37,flying,-,-
+628,15,Tailwind,37,flying,-,-
+628,16,Tailwind,37,flying,-,-
+628,11,Air Slash,41,flying,75,95
+628,14,Air Slash,41,flying,75,95
+628,15,Air Slash,41,flying,75,95
+628,16,Air Slash,41,flying,75,95
+628,11,Crush Claw,46,normal,75,95
+628,14,Crush Claw,46,normal,75,95
+628,15,Crush Claw,46,normal,75,95
+628,16,Crush Claw,46,normal,75,95
+628,11,Sky Drop,50,flying,60,100
+628,14,Sky Drop,50,flying,60,100
+628,15,Sky Drop,50,flying,60,100
+628,16,Sky Drop,50,flying,60,100
+628,11,Superpower,51,fighting,120,100
+628,14,Superpower,51,fighting,120,100
+628,15,Superpower,51,fighting,120,100
+628,16,Superpower,51,fighting,120,100
+628,11,Whirlwind,57,normal,-,-
+628,14,Whirlwind,57,normal,-,-
+628,15,Whirlwind,57,normal,-,-
+628,16,Whirlwind,57,normal,-,-
+628,11,Brave Bird,63,flying,120,100
+628,14,Brave Bird,63,flying,120,100
+628,15,Brave Bird,63,flying,120,100
+628,16,Brave Bird,63,flying,120,100
+628,11,Thrash,70,normal,120,100
+628,14,Thrash,70,normal,120,100
+628,15,Thrash,70,normal,120,100
+628,16,Thrash,70,normal,120,100

@@ -1,146 +1,146 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-382,kyogre,5,34,Body Slam,1,20,
-382,kyogre,5,38,Double-Edge,1,65,
-382,kyogre,5,56,Hydro Pump,1,45,
-382,kyogre,5,58,Ice Beam,1,35,
-382,kyogre,5,156,Rest,1,50,
-382,kyogre,5,184,Scary Face,1,5,
-382,kyogre,5,246,Ancient Power,1,15,
-382,kyogre,5,323,Water Spout,1,75,
-382,kyogre,5,329,Sheer Cold,1,60,
-382,kyogre,5,347,Calm Mind,1,30,
-382,kyogre,5,352,Water Pulse,1,1,
-382,kyogre,6,34,Body Slam,1,20,
-382,kyogre,6,38,Double-Edge,1,65,
-382,kyogre,6,56,Hydro Pump,1,45,
-382,kyogre,6,58,Ice Beam,1,35,
-382,kyogre,6,156,Rest,1,50,
-382,kyogre,6,184,Scary Face,1,5,
-382,kyogre,6,246,Ancient Power,1,15,
-382,kyogre,6,323,Water Spout,1,75,
-382,kyogre,6,329,Sheer Cold,1,60,
-382,kyogre,6,347,Calm Mind,1,30,
-382,kyogre,6,352,Water Pulse,1,1,
-382,kyogre,7,34,Body Slam,1,20,
-382,kyogre,7,38,Double-Edge,1,65,
-382,kyogre,7,56,Hydro Pump,1,45,
-382,kyogre,7,58,Ice Beam,1,35,
-382,kyogre,7,156,Rest,1,50,
-382,kyogre,7,184,Scary Face,1,5,
-382,kyogre,7,246,Ancient Power,1,15,
-382,kyogre,7,323,Water Spout,1,75,
-382,kyogre,7,329,Sheer Cold,1,60,
-382,kyogre,7,347,Calm Mind,1,30,
-382,kyogre,7,352,Water Pulse,1,1,
-382,kyogre,8,34,Body Slam,1,20,
-382,kyogre,8,38,Double-Edge,1,65,
-382,kyogre,8,56,Hydro Pump,1,45,
-382,kyogre,8,58,Ice Beam,1,35,
-382,kyogre,8,156,Rest,1,50,
-382,kyogre,8,184,Scary Face,1,5,
-382,kyogre,8,246,Ancient Power,1,15,
-382,kyogre,8,323,Water Spout,1,80,
-382,kyogre,8,329,Sheer Cold,1,60,
-382,kyogre,8,347,Calm Mind,1,30,
-382,kyogre,8,352,Water Pulse,1,1,
-382,kyogre,8,401,Aqua Tail,1,75,
-382,kyogre,9,34,Body Slam,1,20,
-382,kyogre,9,38,Double-Edge,1,65,
-382,kyogre,9,56,Hydro Pump,1,45,
-382,kyogre,9,58,Ice Beam,1,35,
-382,kyogre,9,156,Rest,1,50,
-382,kyogre,9,184,Scary Face,1,5,
-382,kyogre,9,246,Ancient Power,1,15,
-382,kyogre,9,323,Water Spout,1,80,
-382,kyogre,9,329,Sheer Cold,1,60,
-382,kyogre,9,347,Calm Mind,1,30,
-382,kyogre,9,352,Water Pulse,1,1,
-382,kyogre,9,401,Aqua Tail,1,75,
-382,kyogre,10,34,Body Slam,1,15,
-382,kyogre,10,38,Double-Edge,1,80,
-382,kyogre,10,56,Hydro Pump,1,90,
-382,kyogre,10,58,Ice Beam,1,35,
-382,kyogre,10,184,Scary Face,1,5,
-382,kyogre,10,246,Ancient Power,1,45,
-382,kyogre,10,323,Water Spout,1,50,
-382,kyogre,10,329,Sheer Cold,1,75,
-382,kyogre,10,330,Muddy Water,1,20,
-382,kyogre,10,347,Calm Mind,1,60,
-382,kyogre,10,352,Water Pulse,1,1,
-382,kyogre,10,392,Aqua Ring,1,30,
-382,kyogre,10,401,Aqua Tail,1,65,
-382,kyogre,11,34,Body Slam,1,15,
-382,kyogre,11,38,Double-Edge,1,80,
-382,kyogre,11,56,Hydro Pump,1,90,
-382,kyogre,11,58,Ice Beam,1,35,
-382,kyogre,11,184,Scary Face,1,5,
-382,kyogre,11,246,Ancient Power,1,45,
-382,kyogre,11,323,Water Spout,1,50,
-382,kyogre,11,329,Sheer Cold,1,75,
-382,kyogre,11,330,Muddy Water,1,20,
-382,kyogre,11,347,Calm Mind,1,60,
-382,kyogre,11,352,Water Pulse,1,1,
-382,kyogre,11,392,Aqua Ring,1,30,
-382,kyogre,11,401,Aqua Tail,1,65,
-382,kyogre,12,34,Body Slam,1,20,
-382,kyogre,12,38,Double-Edge,1,65,
-382,kyogre,12,56,Hydro Pump,1,45,
-382,kyogre,12,58,Ice Beam,1,35,
-382,kyogre,12,156,Rest,1,50,
-382,kyogre,12,184,Scary Face,1,5,
-382,kyogre,12,246,Ancient Power,1,15,
-382,kyogre,12,323,Water Spout,1,75,
-382,kyogre,12,329,Sheer Cold,1,60,
-382,kyogre,12,347,Calm Mind,1,30,
-382,kyogre,12,352,Water Pulse,1,1,
-382,kyogre,13,34,Body Slam,1,20,
-382,kyogre,13,38,Double-Edge,1,65,
-382,kyogre,13,56,Hydro Pump,1,45,
-382,kyogre,13,58,Ice Beam,1,35,
-382,kyogre,13,156,Rest,1,50,
-382,kyogre,13,184,Scary Face,1,5,
-382,kyogre,13,246,Ancient Power,1,15,
-382,kyogre,13,323,Water Spout,1,75,
-382,kyogre,13,329,Sheer Cold,1,60,
-382,kyogre,13,347,Calm Mind,1,30,
-382,kyogre,13,352,Water Pulse,1,1,
-382,kyogre,14,34,Body Slam,1,15,
-382,kyogre,14,38,Double-Edge,1,80,
-382,kyogre,14,56,Hydro Pump,1,90,
-382,kyogre,14,58,Ice Beam,1,35,
-382,kyogre,14,184,Scary Face,1,5,
-382,kyogre,14,246,Ancient Power,1,45,
-382,kyogre,14,323,Water Spout,1,50,
-382,kyogre,14,329,Sheer Cold,1,75,
-382,kyogre,14,330,Muddy Water,1,20,
-382,kyogre,14,347,Calm Mind,1,60,
-382,kyogre,14,352,Water Pulse,1,1,
-382,kyogre,14,392,Aqua Ring,1,30,
-382,kyogre,14,401,Aqua Tail,1,65,
-382,kyogre,15,34,Body Slam,1,15,
-382,kyogre,15,38,Double-Edge,1,80,
-382,kyogre,15,56,Hydro Pump,1,90,
-382,kyogre,15,58,Ice Beam,1,35,
-382,kyogre,15,184,Scary Face,1,5,
-382,kyogre,15,246,Ancient Power,1,45,
-382,kyogre,15,323,Water Spout,1,50,
-382,kyogre,15,329,Sheer Cold,1,75,
-382,kyogre,15,330,Muddy Water,1,20,
-382,kyogre,15,347,Calm Mind,1,60,
-382,kyogre,15,352,Water Pulse,1,1,
-382,kyogre,15,392,Aqua Ring,1,30,
-382,kyogre,15,401,Aqua Tail,1,65,
-382,kyogre,16,34,Body Slam,1,20,1
-382,kyogre,16,38,Double-Edge,1,80,1
-382,kyogre,16,56,Hydro Pump,1,75,1
-382,kyogre,16,58,Ice Beam,1,35,1
-382,kyogre,16,184,Scary Face,1,5,1
-382,kyogre,16,246,Ancient Power,1,1,1
-382,kyogre,16,323,Water Spout,1,90,1
-382,kyogre,16,329,Sheer Cold,1,65,1
-382,kyogre,16,330,Muddy Water,1,60,1
-382,kyogre,16,347,Calm Mind,1,50,1
-382,kyogre,16,352,Water Pulse,1,1,2
-382,kyogre,16,392,Aqua Ring,1,30,1
-382,kyogre,16,401,Aqua Tail,1,15,1
-382,kyogre,16,618,Origin Pulse,1,45,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+382,5,Water Pulse,1,water,60,100
+382,6,Water Pulse,1,water,60,100
+382,7,Water Pulse,1,water,60,100
+382,8,Water Pulse,1,water,60,100
+382,9,Water Pulse,1,water,60,100
+382,10,Water Pulse,1,water,60,100
+382,11,Water Pulse,1,water,60,100
+382,12,Water Pulse,1,water,60,100
+382,13,Water Pulse,1,water,60,100
+382,14,Water Pulse,1,water,60,100
+382,15,Water Pulse,1,water,60,100
+382,16,Ancient Power,1,rock,60,100
+382,16,Water Pulse,1,water,60,100
+382,5,Scary Face,5,normal,-,100
+382,6,Scary Face,5,normal,-,100
+382,7,Scary Face,5,normal,-,100
+382,8,Scary Face,5,normal,-,100
+382,9,Scary Face,5,normal,-,100
+382,10,Scary Face,5,normal,-,100
+382,11,Scary Face,5,normal,-,100
+382,12,Scary Face,5,normal,-,100
+382,13,Scary Face,5,normal,-,100
+382,14,Scary Face,5,normal,-,100
+382,15,Scary Face,5,normal,-,100
+382,16,Scary Face,5,normal,-,100
+382,5,Ancient Power,15,rock,60,100
+382,6,Ancient Power,15,rock,60,100
+382,7,Ancient Power,15,rock,60,100
+382,8,Ancient Power,15,rock,60,100
+382,9,Ancient Power,15,rock,60,100
+382,10,Body Slam,15,normal,85,100
+382,11,Body Slam,15,normal,85,100
+382,12,Ancient Power,15,rock,60,100
+382,13,Ancient Power,15,rock,60,100
+382,14,Body Slam,15,normal,85,100
+382,15,Body Slam,15,normal,85,100
+382,16,Aqua Tail,15,water,90,90
+382,5,Body Slam,20,normal,85,100
+382,6,Body Slam,20,normal,85,100
+382,7,Body Slam,20,normal,85,100
+382,8,Body Slam,20,normal,85,100
+382,9,Body Slam,20,normal,85,100
+382,10,Muddy Water,20,water,90,85
+382,11,Muddy Water,20,water,90,85
+382,12,Body Slam,20,normal,85,100
+382,13,Body Slam,20,normal,85,100
+382,14,Muddy Water,20,water,90,85
+382,15,Muddy Water,20,water,90,85
+382,16,Body Slam,20,normal,85,100
+382,5,Calm Mind,30,psychic,-,-
+382,6,Calm Mind,30,psychic,-,-
+382,7,Calm Mind,30,psychic,-,-
+382,8,Calm Mind,30,psychic,-,-
+382,9,Calm Mind,30,psychic,-,-
+382,10,Aqua Ring,30,water,-,-
+382,11,Aqua Ring,30,water,-,-
+382,12,Calm Mind,30,psychic,-,-
+382,13,Calm Mind,30,psychic,-,-
+382,14,Aqua Ring,30,water,-,-
+382,15,Aqua Ring,30,water,-,-
+382,16,Aqua Ring,30,water,-,-
+382,5,Ice Beam,35,ice,90,100
+382,6,Ice Beam,35,ice,90,100
+382,7,Ice Beam,35,ice,90,100
+382,8,Ice Beam,35,ice,90,100
+382,9,Ice Beam,35,ice,90,100
+382,10,Ice Beam,35,ice,90,100
+382,11,Ice Beam,35,ice,90,100
+382,12,Ice Beam,35,ice,90,100
+382,13,Ice Beam,35,ice,90,100
+382,14,Ice Beam,35,ice,90,100
+382,15,Ice Beam,35,ice,90,100
+382,16,Ice Beam,35,ice,90,100
+382,5,Hydro Pump,45,water,110,80
+382,6,Hydro Pump,45,water,110,80
+382,7,Hydro Pump,45,water,110,80
+382,8,Hydro Pump,45,water,110,80
+382,9,Hydro Pump,45,water,110,80
+382,10,Ancient Power,45,rock,60,100
+382,11,Ancient Power,45,rock,60,100
+382,12,Hydro Pump,45,water,110,80
+382,13,Hydro Pump,45,water,110,80
+382,14,Ancient Power,45,rock,60,100
+382,15,Ancient Power,45,rock,60,100
+382,16,Origin Pulse,45,water,110,85
+382,5,Rest,50,psychic,-,-
+382,6,Rest,50,psychic,-,-
+382,7,Rest,50,psychic,-,-
+382,8,Rest,50,psychic,-,-
+382,9,Rest,50,psychic,-,-
+382,10,Water Spout,50,water,150,100
+382,11,Water Spout,50,water,150,100
+382,12,Rest,50,psychic,-,-
+382,13,Rest,50,psychic,-,-
+382,14,Water Spout,50,water,150,100
+382,15,Water Spout,50,water,150,100
+382,16,Calm Mind,50,psychic,-,-
+382,5,Sheer Cold,60,ice,-,30
+382,6,Sheer Cold,60,ice,-,30
+382,7,Sheer Cold,60,ice,-,30
+382,8,Sheer Cold,60,ice,-,30
+382,9,Sheer Cold,60,ice,-,30
+382,10,Calm Mind,60,psychic,-,-
+382,11,Calm Mind,60,psychic,-,-
+382,12,Sheer Cold,60,ice,-,30
+382,13,Sheer Cold,60,ice,-,30
+382,14,Calm Mind,60,psychic,-,-
+382,15,Calm Mind,60,psychic,-,-
+382,16,Muddy Water,60,water,90,85
+382,5,Double-Edge,65,normal,120,100
+382,6,Double-Edge,65,normal,120,100
+382,7,Double-Edge,65,normal,120,100
+382,8,Double-Edge,65,normal,120,100
+382,9,Double-Edge,65,normal,120,100
+382,10,Aqua Tail,65,water,90,90
+382,11,Aqua Tail,65,water,90,90
+382,12,Double-Edge,65,normal,120,100
+382,13,Double-Edge,65,normal,120,100
+382,14,Aqua Tail,65,water,90,90
+382,15,Aqua Tail,65,water,90,90
+382,16,Sheer Cold,65,ice,-,30
+382,5,Water Spout,75,water,150,100
+382,6,Water Spout,75,water,150,100
+382,7,Water Spout,75,water,150,100
+382,8,Aqua Tail,75,water,90,90
+382,9,Aqua Tail,75,water,90,90
+382,10,Sheer Cold,75,ice,-,30
+382,11,Sheer Cold,75,ice,-,30
+382,12,Water Spout,75,water,150,100
+382,13,Water Spout,75,water,150,100
+382,14,Sheer Cold,75,ice,-,30
+382,15,Sheer Cold,75,ice,-,30
+382,16,Hydro Pump,75,water,110,80
+382,8,Water Spout,80,water,150,100
+382,9,Water Spout,80,water,150,100
+382,10,Double-Edge,80,normal,120,100
+382,11,Double-Edge,80,normal,120,100
+382,14,Double-Edge,80,normal,120,100
+382,15,Double-Edge,80,normal,120,100
+382,16,Double-Edge,80,normal,120,100
+382,10,Hydro Pump,90,water,110,80
+382,11,Hydro Pump,90,water,110,80
+382,14,Hydro Pump,90,water,110,80
+382,15,Hydro Pump,90,water,110,80
+382,16,Water Spout,90,water,150,100

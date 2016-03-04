@@ -1,73 +1,73 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-534,conkeldurr,11,1,Pound,1,1,1
-534,conkeldurr,11,43,Leer,1,1,2
-534,conkeldurr,11,67,Low Kick,1,12,
-534,conkeldurr,11,88,Rock Throw,1,16,
-534,conkeldurr,11,116,Focus Energy,1,1,3
-534,conkeldurr,11,116,Focus Energy,1,4,
-534,conkeldurr,11,117,Bide,1,1,4
-534,conkeldurr,11,117,Bide,1,8,
-534,conkeldurr,11,157,Rock Slide,1,33,
-534,conkeldurr,11,184,Scary Face,1,41,
-534,conkeldurr,11,223,Dynamic Punch,1,37,
-534,conkeldurr,11,264,Focus Punch,1,53,
-534,conkeldurr,11,276,Superpower,1,57,
-534,conkeldurr,11,339,Bulk Up,1,29,
-534,conkeldurr,11,358,Wake-Up Slap,1,20,
-534,conkeldurr,11,359,Hammer Arm,1,45,
-534,conkeldurr,11,444,Stone Edge,1,49,
-534,conkeldurr,11,498,Chip Away,1,24,
-534,conkeldurr,14,1,Pound,1,1,1
-534,conkeldurr,14,43,Leer,1,1,2
-534,conkeldurr,14,67,Low Kick,1,12,
-534,conkeldurr,14,88,Rock Throw,1,16,
-534,conkeldurr,14,116,Focus Energy,1,1,3
-534,conkeldurr,14,116,Focus Energy,1,4,
-534,conkeldurr,14,117,Bide,1,1,4
-534,conkeldurr,14,117,Bide,1,8,
-534,conkeldurr,14,157,Rock Slide,1,33,
-534,conkeldurr,14,184,Scary Face,1,41,
-534,conkeldurr,14,223,Dynamic Punch,1,37,
-534,conkeldurr,14,264,Focus Punch,1,53,
-534,conkeldurr,14,276,Superpower,1,57,
-534,conkeldurr,14,339,Bulk Up,1,29,
-534,conkeldurr,14,358,Wake-Up Slap,1,20,
-534,conkeldurr,14,359,Hammer Arm,1,45,
-534,conkeldurr,14,444,Stone Edge,1,49,
-534,conkeldurr,14,498,Chip Away,1,24,
-534,conkeldurr,15,1,Pound,1,1,1
-534,conkeldurr,15,43,Leer,1,1,2
-534,conkeldurr,15,67,Low Kick,1,12,
-534,conkeldurr,15,88,Rock Throw,1,16,
-534,conkeldurr,15,116,Focus Energy,1,1,3
-534,conkeldurr,15,116,Focus Energy,1,4,
-534,conkeldurr,15,117,Bide,1,1,4
-534,conkeldurr,15,117,Bide,1,8,
-534,conkeldurr,15,157,Rock Slide,1,33,
-534,conkeldurr,15,184,Scary Face,1,41,
-534,conkeldurr,15,223,Dynamic Punch,1,37,
-534,conkeldurr,15,264,Focus Punch,1,53,
-534,conkeldurr,15,276,Superpower,1,57,
-534,conkeldurr,15,339,Bulk Up,1,29,
-534,conkeldurr,15,358,Wake-Up Slap,1,20,
-534,conkeldurr,15,359,Hammer Arm,1,45,
-534,conkeldurr,15,444,Stone Edge,1,49,
-534,conkeldurr,15,498,Chip Away,1,24,
-534,conkeldurr,16,1,Pound,1,1,1
-534,conkeldurr,16,43,Leer,1,1,2
-534,conkeldurr,16,67,Low Kick,1,12,1
-534,conkeldurr,16,88,Rock Throw,1,16,1
-534,conkeldurr,16,116,Focus Energy,1,1,3
-534,conkeldurr,16,116,Focus Energy,1,4,1
-534,conkeldurr,16,117,Bide,1,1,4
-534,conkeldurr,16,117,Bide,1,8,1
-534,conkeldurr,16,157,Rock Slide,1,33,1
-534,conkeldurr,16,184,Scary Face,1,41,1
-534,conkeldurr,16,223,Dynamic Punch,1,37,1
-534,conkeldurr,16,264,Focus Punch,1,53,1
-534,conkeldurr,16,276,Superpower,1,57,1
-534,conkeldurr,16,339,Bulk Up,1,29,1
-534,conkeldurr,16,358,Wake-Up Slap,1,20,1
-534,conkeldurr,16,359,Hammer Arm,1,45,1
-534,conkeldurr,16,444,Stone Edge,1,49,1
-534,conkeldurr,16,498,Chip Away,1,24,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+534,11,Pound,1,normal,40,100
+534,11,Leer,1,normal,-,100
+534,11,Focus Energy,1,normal,-,-
+534,11,Bide,1,normal,-,-
+534,14,Pound,1,normal,40,100
+534,14,Leer,1,normal,-,100
+534,14,Focus Energy,1,normal,-,-
+534,14,Bide,1,normal,-,-
+534,15,Pound,1,normal,40,100
+534,15,Leer,1,normal,-,100
+534,15,Focus Energy,1,normal,-,-
+534,15,Bide,1,normal,-,-
+534,16,Pound,1,normal,40,100
+534,16,Leer,1,normal,-,100
+534,16,Focus Energy,1,normal,-,-
+534,16,Bide,1,normal,-,-
+534,11,Focus Energy,4,normal,-,-
+534,14,Focus Energy,4,normal,-,-
+534,15,Focus Energy,4,normal,-,-
+534,16,Focus Energy,4,normal,-,-
+534,11,Bide,8,normal,-,-
+534,14,Bide,8,normal,-,-
+534,15,Bide,8,normal,-,-
+534,16,Bide,8,normal,-,-
+534,11,Low Kick,12,fighting,-,100
+534,14,Low Kick,12,fighting,-,100
+534,15,Low Kick,12,fighting,-,100
+534,16,Low Kick,12,fighting,-,100
+534,11,Rock Throw,16,rock,50,90
+534,14,Rock Throw,16,rock,50,90
+534,15,Rock Throw,16,rock,50,90
+534,16,Rock Throw,16,rock,50,90
+534,11,Wake-Up Slap,20,fighting,70,100
+534,14,Wake-Up Slap,20,fighting,70,100
+534,15,Wake-Up Slap,20,fighting,70,100
+534,16,Wake-Up Slap,20,fighting,70,100
+534,11,Chip Away,24,normal,70,100
+534,14,Chip Away,24,normal,70,100
+534,15,Chip Away,24,normal,70,100
+534,16,Chip Away,24,normal,70,100
+534,11,Bulk Up,29,fighting,-,-
+534,14,Bulk Up,29,fighting,-,-
+534,15,Bulk Up,29,fighting,-,-
+534,16,Bulk Up,29,fighting,-,-
+534,11,Rock Slide,33,rock,75,90
+534,14,Rock Slide,33,rock,75,90
+534,15,Rock Slide,33,rock,75,90
+534,16,Rock Slide,33,rock,75,90
+534,11,Dynamic Punch,37,fighting,100,50
+534,14,Dynamic Punch,37,fighting,100,50
+534,15,Dynamic Punch,37,fighting,100,50
+534,16,Dynamic Punch,37,fighting,100,50
+534,11,Scary Face,41,normal,-,100
+534,14,Scary Face,41,normal,-,100
+534,15,Scary Face,41,normal,-,100
+534,16,Scary Face,41,normal,-,100
+534,11,Hammer Arm,45,fighting,100,90
+534,14,Hammer Arm,45,fighting,100,90
+534,15,Hammer Arm,45,fighting,100,90
+534,16,Hammer Arm,45,fighting,100,90
+534,11,Stone Edge,49,rock,100,80
+534,14,Stone Edge,49,rock,100,80
+534,15,Stone Edge,49,rock,100,80
+534,16,Stone Edge,49,rock,100,80
+534,11,Focus Punch,53,fighting,150,100
+534,14,Focus Punch,53,fighting,150,100
+534,15,Focus Punch,53,fighting,150,100
+534,16,Focus Punch,53,fighting,150,100
+534,11,Superpower,57,fighting,120,100
+534,14,Superpower,57,fighting,120,100
+534,15,Superpower,57,fighting,120,100
+534,16,Superpower,57,fighting,120,100

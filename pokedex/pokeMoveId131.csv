@@ -1,204 +1,204 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-131,lapras,1,34,Body Slam,1,25,
-131,lapras,1,45,Growl,1,1,2
-131,lapras,1,47,Sing,1,16,
-131,lapras,1,54,Mist,1,20,
-131,lapras,1,55,Water Gun,1,1,1
-131,lapras,1,56,Hydro Pump,1,46,
-131,lapras,1,58,Ice Beam,1,38,
-131,lapras,1,109,Confuse Ray,1,31,
-131,lapras,2,34,Body Slam,1,25,
-131,lapras,2,45,Growl,1,1,2
-131,lapras,2,47,Sing,1,16,
-131,lapras,2,54,Mist,1,20,
-131,lapras,2,55,Water Gun,1,1,1
-131,lapras,2,56,Hydro Pump,1,46,
-131,lapras,2,58,Ice Beam,1,38,
-131,lapras,2,109,Confuse Ray,1,31,
-131,lapras,3,34,Body Slam,1,15,
-131,lapras,3,45,Growl,1,1,2
-131,lapras,3,47,Sing,1,1,3
-131,lapras,3,54,Mist,1,8,
-131,lapras,3,55,Water Gun,1,1,1
-131,lapras,3,56,Hydro Pump,1,57,
-131,lapras,3,58,Ice Beam,1,36,
-131,lapras,3,109,Confuse Ray,1,22,
-131,lapras,3,195,Perish Song,1,29,
-131,lapras,3,219,Safeguard,1,50,
-131,lapras,3,240,Rain Dance,1,43,
-131,lapras,4,34,Body Slam,1,15,
-131,lapras,4,45,Growl,1,1,2
-131,lapras,4,47,Sing,1,1,3
-131,lapras,4,54,Mist,1,8,
-131,lapras,4,55,Water Gun,1,1,1
-131,lapras,4,56,Hydro Pump,1,57,
-131,lapras,4,58,Ice Beam,1,36,
-131,lapras,4,109,Confuse Ray,1,22,
-131,lapras,4,195,Perish Song,1,29,
-131,lapras,4,219,Safeguard,1,50,
-131,lapras,4,240,Rain Dance,1,43,
-131,lapras,5,34,Body Slam,1,13,
-131,lapras,5,45,Growl,1,1,2
-131,lapras,5,47,Sing,1,1,3
-131,lapras,5,54,Mist,1,7,
-131,lapras,5,55,Water Gun,1,1,1
-131,lapras,5,56,Hydro Pump,1,49,
-131,lapras,5,58,Ice Beam,1,31,
-131,lapras,5,109,Confuse Ray,1,19,
-131,lapras,5,195,Perish Song,1,25,
-131,lapras,5,219,Safeguard,1,43,
-131,lapras,5,240,Rain Dance,1,37,
-131,lapras,5,329,Sheer Cold,1,55,
-131,lapras,6,34,Body Slam,1,13,
-131,lapras,6,45,Growl,1,1,2
-131,lapras,6,47,Sing,1,1,3
-131,lapras,6,54,Mist,1,7,
-131,lapras,6,55,Water Gun,1,1,1
-131,lapras,6,56,Hydro Pump,1,49,
-131,lapras,6,58,Ice Beam,1,31,
-131,lapras,6,109,Confuse Ray,1,19,
-131,lapras,6,195,Perish Song,1,25,
-131,lapras,6,219,Safeguard,1,43,
-131,lapras,6,240,Rain Dance,1,37,
-131,lapras,6,329,Sheer Cold,1,55,
-131,lapras,7,34,Body Slam,1,13,
-131,lapras,7,45,Growl,1,1,2
-131,lapras,7,47,Sing,1,1,3
-131,lapras,7,54,Mist,1,7,
-131,lapras,7,55,Water Gun,1,1,1
-131,lapras,7,56,Hydro Pump,1,49,
-131,lapras,7,58,Ice Beam,1,31,
-131,lapras,7,109,Confuse Ray,1,19,
-131,lapras,7,195,Perish Song,1,25,
-131,lapras,7,219,Safeguard,1,43,
-131,lapras,7,240,Rain Dance,1,37,
-131,lapras,7,329,Sheer Cold,1,55,
-131,lapras,8,34,Body Slam,1,18,
-131,lapras,8,45,Growl,1,1,2
-131,lapras,8,47,Sing,1,1,1
-131,lapras,8,54,Mist,1,4,
-131,lapras,8,55,Water Gun,1,1,3
-131,lapras,8,56,Hydro Pump,1,49,
-131,lapras,8,58,Ice Beam,1,32,
-131,lapras,8,109,Confuse Ray,1,7,
-131,lapras,8,195,Perish Song,1,27,
-131,lapras,8,219,Safeguard,1,43,
-131,lapras,8,240,Rain Dance,1,22,
-131,lapras,8,329,Sheer Cold,1,55,
-131,lapras,8,352,Water Pulse,1,14,
-131,lapras,8,362,Brine,1,37,
-131,lapras,8,420,Ice Shard,1,10,
-131,lapras,9,34,Body Slam,1,18,
-131,lapras,9,45,Growl,1,1,2
-131,lapras,9,47,Sing,1,1,1
-131,lapras,9,54,Mist,1,4,
-131,lapras,9,55,Water Gun,1,1,3
-131,lapras,9,56,Hydro Pump,1,49,
-131,lapras,9,58,Ice Beam,1,32,
-131,lapras,9,109,Confuse Ray,1,7,
-131,lapras,9,195,Perish Song,1,27,
-131,lapras,9,219,Safeguard,1,43,
-131,lapras,9,240,Rain Dance,1,22,
-131,lapras,9,329,Sheer Cold,1,55,
-131,lapras,9,352,Water Pulse,1,14,
-131,lapras,9,362,Brine,1,37,
-131,lapras,9,420,Ice Shard,1,10,
-131,lapras,10,34,Body Slam,1,18,
-131,lapras,10,45,Growl,1,1,2
-131,lapras,10,47,Sing,1,1,1
-131,lapras,10,54,Mist,1,4,
-131,lapras,10,55,Water Gun,1,1,3
-131,lapras,10,56,Hydro Pump,1,49,
-131,lapras,10,58,Ice Beam,1,32,
-131,lapras,10,109,Confuse Ray,1,7,
-131,lapras,10,195,Perish Song,1,27,
-131,lapras,10,219,Safeguard,1,43,
-131,lapras,10,240,Rain Dance,1,22,
-131,lapras,10,329,Sheer Cold,1,55,
-131,lapras,10,352,Water Pulse,1,14,
-131,lapras,10,362,Brine,1,37,
-131,lapras,10,420,Ice Shard,1,10,
-131,lapras,11,34,Body Slam,1,18,
-131,lapras,11,45,Growl,1,1,2
-131,lapras,11,47,Sing,1,1,1
-131,lapras,11,54,Mist,1,4,
-131,lapras,11,55,Water Gun,1,1,3
-131,lapras,11,56,Hydro Pump,1,49,
-131,lapras,11,58,Ice Beam,1,32,
-131,lapras,11,109,Confuse Ray,1,7,
-131,lapras,11,195,Perish Song,1,27,
-131,lapras,11,219,Safeguard,1,43,
-131,lapras,11,240,Rain Dance,1,22,
-131,lapras,11,329,Sheer Cold,1,55,
-131,lapras,11,352,Water Pulse,1,14,
-131,lapras,11,362,Brine,1,37,
-131,lapras,11,420,Ice Shard,1,10,
-131,lapras,12,34,Body Slam,1,13,
-131,lapras,12,45,Growl,1,1,2
-131,lapras,12,47,Sing,1,1,3
-131,lapras,12,54,Mist,1,7,
-131,lapras,12,55,Water Gun,1,1,1
-131,lapras,12,56,Hydro Pump,1,49,
-131,lapras,12,58,Ice Beam,1,31,
-131,lapras,12,109,Confuse Ray,1,19,
-131,lapras,12,195,Perish Song,1,25,
-131,lapras,12,219,Safeguard,1,43,
-131,lapras,12,240,Rain Dance,1,37,
-131,lapras,12,329,Sheer Cold,1,55,
-131,lapras,13,34,Body Slam,1,13,
-131,lapras,13,45,Growl,1,1,2
-131,lapras,13,47,Sing,1,1,3
-131,lapras,13,54,Mist,1,7,
-131,lapras,13,55,Water Gun,1,1,1
-131,lapras,13,56,Hydro Pump,1,49,
-131,lapras,13,58,Ice Beam,1,31,
-131,lapras,13,109,Confuse Ray,1,19,
-131,lapras,13,195,Perish Song,1,25,
-131,lapras,13,219,Safeguard,1,43,
-131,lapras,13,240,Rain Dance,1,37,
-131,lapras,13,329,Sheer Cold,1,55,
-131,lapras,14,34,Body Slam,1,18,
-131,lapras,14,45,Growl,1,1,2
-131,lapras,14,47,Sing,1,1,1
-131,lapras,14,54,Mist,1,4,
-131,lapras,14,55,Water Gun,1,1,3
-131,lapras,14,56,Hydro Pump,1,49,
-131,lapras,14,58,Ice Beam,1,32,
-131,lapras,14,109,Confuse Ray,1,7,
-131,lapras,14,195,Perish Song,1,27,
-131,lapras,14,219,Safeguard,1,43,
-131,lapras,14,240,Rain Dance,1,22,
-131,lapras,14,329,Sheer Cold,1,55,
-131,lapras,14,352,Water Pulse,1,14,
-131,lapras,14,362,Brine,1,37,
-131,lapras,14,420,Ice Shard,1,10,
-131,lapras,15,34,Body Slam,1,18,
-131,lapras,15,45,Growl,1,1,2
-131,lapras,15,47,Sing,1,1,1
-131,lapras,15,54,Mist,1,4,
-131,lapras,15,55,Water Gun,1,1,3
-131,lapras,15,56,Hydro Pump,1,47,
-131,lapras,15,58,Ice Beam,1,32,
-131,lapras,15,109,Confuse Ray,1,7,
-131,lapras,15,195,Perish Song,1,27,
-131,lapras,15,219,Safeguard,1,43,
-131,lapras,15,240,Rain Dance,1,22,
-131,lapras,15,329,Sheer Cold,1,50,
-131,lapras,15,352,Water Pulse,1,14,
-131,lapras,15,362,Brine,1,37,
-131,lapras,15,420,Ice Shard,1,10,
-131,lapras,16,34,Body Slam,1,18,1
-131,lapras,16,45,Growl,1,1,2
-131,lapras,16,47,Sing,1,1,1
-131,lapras,16,54,Mist,1,4,1
-131,lapras,16,55,Water Gun,1,1,3
-131,lapras,16,56,Hydro Pump,1,47,1
-131,lapras,16,58,Ice Beam,1,32,1
-131,lapras,16,109,Confuse Ray,1,7,1
-131,lapras,16,195,Perish Song,1,27,1
-131,lapras,16,219,Safeguard,1,43,1
-131,lapras,16,240,Rain Dance,1,22,1
-131,lapras,16,329,Sheer Cold,1,50,1
-131,lapras,16,352,Water Pulse,1,14,1
-131,lapras,16,362,Brine,1,37,1
-131,lapras,16,420,Ice Shard,1,10,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+131,1,Growl,1,normal,-,100
+131,1,Water Gun,1,water,40,100
+131,2,Growl,1,normal,-,100
+131,2,Water Gun,1,water,40,100
+131,3,Growl,1,normal,-,100
+131,3,Sing,1,normal,-,55
+131,3,Water Gun,1,water,40,100
+131,4,Growl,1,normal,-,100
+131,4,Sing,1,normal,-,55
+131,4,Water Gun,1,water,40,100
+131,5,Growl,1,normal,-,100
+131,5,Sing,1,normal,-,55
+131,5,Water Gun,1,water,40,100
+131,6,Growl,1,normal,-,100
+131,6,Sing,1,normal,-,55
+131,6,Water Gun,1,water,40,100
+131,7,Growl,1,normal,-,100
+131,7,Sing,1,normal,-,55
+131,7,Water Gun,1,water,40,100
+131,8,Growl,1,normal,-,100
+131,8,Sing,1,normal,-,55
+131,8,Water Gun,1,water,40,100
+131,9,Growl,1,normal,-,100
+131,9,Sing,1,normal,-,55
+131,9,Water Gun,1,water,40,100
+131,10,Growl,1,normal,-,100
+131,10,Sing,1,normal,-,55
+131,10,Water Gun,1,water,40,100
+131,11,Growl,1,normal,-,100
+131,11,Sing,1,normal,-,55
+131,11,Water Gun,1,water,40,100
+131,12,Growl,1,normal,-,100
+131,12,Sing,1,normal,-,55
+131,12,Water Gun,1,water,40,100
+131,13,Growl,1,normal,-,100
+131,13,Sing,1,normal,-,55
+131,13,Water Gun,1,water,40,100
+131,14,Growl,1,normal,-,100
+131,14,Sing,1,normal,-,55
+131,14,Water Gun,1,water,40,100
+131,15,Growl,1,normal,-,100
+131,15,Sing,1,normal,-,55
+131,15,Water Gun,1,water,40,100
+131,16,Growl,1,normal,-,100
+131,16,Sing,1,normal,-,55
+131,16,Water Gun,1,water,40,100
+131,8,Mist,4,ice,-,-
+131,9,Mist,4,ice,-,-
+131,10,Mist,4,ice,-,-
+131,11,Mist,4,ice,-,-
+131,14,Mist,4,ice,-,-
+131,15,Mist,4,ice,-,-
+131,16,Mist,4,ice,-,-
+131,5,Mist,7,ice,-,-
+131,6,Mist,7,ice,-,-
+131,7,Mist,7,ice,-,-
+131,8,Confuse Ray,7,ghost,-,100
+131,9,Confuse Ray,7,ghost,-,100
+131,10,Confuse Ray,7,ghost,-,100
+131,11,Confuse Ray,7,ghost,-,100
+131,12,Mist,7,ice,-,-
+131,13,Mist,7,ice,-,-
+131,14,Confuse Ray,7,ghost,-,100
+131,15,Confuse Ray,7,ghost,-,100
+131,16,Confuse Ray,7,ghost,-,100
+131,3,Mist,8,ice,-,-
+131,4,Mist,8,ice,-,-
+131,8,Ice Shard,10,ice,40,100
+131,9,Ice Shard,10,ice,40,100
+131,10,Ice Shard,10,ice,40,100
+131,11,Ice Shard,10,ice,40,100
+131,14,Ice Shard,10,ice,40,100
+131,15,Ice Shard,10,ice,40,100
+131,16,Ice Shard,10,ice,40,100
+131,5,Body Slam,13,normal,85,100
+131,6,Body Slam,13,normal,85,100
+131,7,Body Slam,13,normal,85,100
+131,12,Body Slam,13,normal,85,100
+131,13,Body Slam,13,normal,85,100
+131,8,Water Pulse,14,water,60,100
+131,9,Water Pulse,14,water,60,100
+131,10,Water Pulse,14,water,60,100
+131,11,Water Pulse,14,water,60,100
+131,14,Water Pulse,14,water,60,100
+131,15,Water Pulse,14,water,60,100
+131,16,Water Pulse,14,water,60,100
+131,3,Body Slam,15,normal,85,100
+131,4,Body Slam,15,normal,85,100
+131,1,Sing,16,normal,-,55
+131,2,Sing,16,normal,-,55
+131,8,Body Slam,18,normal,85,100
+131,9,Body Slam,18,normal,85,100
+131,10,Body Slam,18,normal,85,100
+131,11,Body Slam,18,normal,85,100
+131,14,Body Slam,18,normal,85,100
+131,15,Body Slam,18,normal,85,100
+131,16,Body Slam,18,normal,85,100
+131,5,Confuse Ray,19,ghost,-,100
+131,6,Confuse Ray,19,ghost,-,100
+131,7,Confuse Ray,19,ghost,-,100
+131,12,Confuse Ray,19,ghost,-,100
+131,13,Confuse Ray,19,ghost,-,100
+131,1,Mist,20,ice,-,-
+131,2,Mist,20,ice,-,-
+131,3,Confuse Ray,22,ghost,-,100
+131,4,Confuse Ray,22,ghost,-,100
+131,8,Rain Dance,22,water,-,-
+131,9,Rain Dance,22,water,-,-
+131,10,Rain Dance,22,water,-,-
+131,11,Rain Dance,22,water,-,-
+131,14,Rain Dance,22,water,-,-
+131,15,Rain Dance,22,water,-,-
+131,16,Rain Dance,22,water,-,-
+131,1,Body Slam,25,normal,85,100
+131,2,Body Slam,25,normal,85,100
+131,5,Perish Song,25,normal,-,-
+131,6,Perish Song,25,normal,-,-
+131,7,Perish Song,25,normal,-,-
+131,12,Perish Song,25,normal,-,-
+131,13,Perish Song,25,normal,-,-
+131,8,Perish Song,27,normal,-,-
+131,9,Perish Song,27,normal,-,-
+131,10,Perish Song,27,normal,-,-
+131,11,Perish Song,27,normal,-,-
+131,14,Perish Song,27,normal,-,-
+131,15,Perish Song,27,normal,-,-
+131,16,Perish Song,27,normal,-,-
+131,3,Perish Song,29,normal,-,-
+131,4,Perish Song,29,normal,-,-
+131,1,Confuse Ray,31,ghost,-,100
+131,2,Confuse Ray,31,ghost,-,100
+131,5,Ice Beam,31,ice,90,100
+131,6,Ice Beam,31,ice,90,100
+131,7,Ice Beam,31,ice,90,100
+131,12,Ice Beam,31,ice,90,100
+131,13,Ice Beam,31,ice,90,100
+131,8,Ice Beam,32,ice,90,100
+131,9,Ice Beam,32,ice,90,100
+131,10,Ice Beam,32,ice,90,100
+131,11,Ice Beam,32,ice,90,100
+131,14,Ice Beam,32,ice,90,100
+131,15,Ice Beam,32,ice,90,100
+131,16,Ice Beam,32,ice,90,100
+131,3,Ice Beam,36,ice,90,100
+131,4,Ice Beam,36,ice,90,100
+131,5,Rain Dance,37,water,-,-
+131,6,Rain Dance,37,water,-,-
+131,7,Rain Dance,37,water,-,-
+131,8,Brine,37,water,65,100
+131,9,Brine,37,water,65,100
+131,10,Brine,37,water,65,100
+131,11,Brine,37,water,65,100
+131,12,Rain Dance,37,water,-,-
+131,13,Rain Dance,37,water,-,-
+131,14,Brine,37,water,65,100
+131,15,Brine,37,water,65,100
+131,16,Brine,37,water,65,100
+131,1,Ice Beam,38,ice,90,100
+131,2,Ice Beam,38,ice,90,100
+131,3,Rain Dance,43,water,-,-
+131,4,Rain Dance,43,water,-,-
+131,5,Safeguard,43,normal,-,-
+131,6,Safeguard,43,normal,-,-
+131,7,Safeguard,43,normal,-,-
+131,8,Safeguard,43,normal,-,-
+131,9,Safeguard,43,normal,-,-
+131,10,Safeguard,43,normal,-,-
+131,11,Safeguard,43,normal,-,-
+131,12,Safeguard,43,normal,-,-
+131,13,Safeguard,43,normal,-,-
+131,14,Safeguard,43,normal,-,-
+131,15,Safeguard,43,normal,-,-
+131,16,Safeguard,43,normal,-,-
+131,1,Hydro Pump,46,water,110,80
+131,2,Hydro Pump,46,water,110,80
+131,15,Hydro Pump,47,water,110,80
+131,16,Hydro Pump,47,water,110,80
+131,5,Hydro Pump,49,water,110,80
+131,6,Hydro Pump,49,water,110,80
+131,7,Hydro Pump,49,water,110,80
+131,8,Hydro Pump,49,water,110,80
+131,9,Hydro Pump,49,water,110,80
+131,10,Hydro Pump,49,water,110,80
+131,11,Hydro Pump,49,water,110,80
+131,12,Hydro Pump,49,water,110,80
+131,13,Hydro Pump,49,water,110,80
+131,14,Hydro Pump,49,water,110,80
+131,3,Safeguard,50,normal,-,-
+131,4,Safeguard,50,normal,-,-
+131,15,Sheer Cold,50,ice,-,30
+131,16,Sheer Cold,50,ice,-,30
+131,5,Sheer Cold,55,ice,-,30
+131,6,Sheer Cold,55,ice,-,30
+131,7,Sheer Cold,55,ice,-,30
+131,8,Sheer Cold,55,ice,-,30
+131,9,Sheer Cold,55,ice,-,30
+131,10,Sheer Cold,55,ice,-,30
+131,11,Sheer Cold,55,ice,-,30
+131,12,Sheer Cold,55,ice,-,30
+131,13,Sheer Cold,55,ice,-,30
+131,14,Sheer Cold,55,ice,-,30
+131,3,Hydro Pump,57,water,110,80
+131,4,Hydro Pump,57,water,110,80

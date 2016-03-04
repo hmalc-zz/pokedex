@@ -1,178 +1,178 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-92,gastly,1,95,Hypnosis,1,27,
-92,gastly,1,101,Night Shade,1,1,3
-92,gastly,1,109,Confuse Ray,1,1,2
-92,gastly,1,122,Lick,1,1,1
-92,gastly,1,138,Dream Eater,1,35,
-92,gastly,2,95,Hypnosis,1,27,
-92,gastly,2,101,Night Shade,1,1,3
-92,gastly,2,109,Confuse Ray,1,1,2
-92,gastly,2,122,Lick,1,1,1
-92,gastly,2,138,Dream Eater,1,35,
-92,gastly,3,95,Hypnosis,1,1,1
-92,gastly,3,101,Night Shade,1,21,
-92,gastly,3,109,Confuse Ray,1,28,
-92,gastly,3,122,Lick,1,1,2
-92,gastly,3,138,Dream Eater,1,33,
-92,gastly,3,174,Curse,1,16,
-92,gastly,3,180,Spite,1,8,
-92,gastly,3,194,Destiny Bond,1,36,
-92,gastly,3,212,Mean Look,1,13,
-92,gastly,4,95,Hypnosis,1,1,1
-92,gastly,4,101,Night Shade,1,21,
-92,gastly,4,109,Confuse Ray,1,28,
-92,gastly,4,122,Lick,1,1,2
-92,gastly,4,138,Dream Eater,1,33,
-92,gastly,4,174,Curse,1,16,
-92,gastly,4,180,Spite,1,8,
-92,gastly,4,194,Destiny Bond,1,36,
-92,gastly,4,212,Mean Look,1,13,
-92,gastly,5,95,Hypnosis,1,1,1
-92,gastly,5,101,Night Shade,1,21,
-92,gastly,5,109,Confuse Ray,1,28,
-92,gastly,5,122,Lick,1,1,2
-92,gastly,5,138,Dream Eater,1,33,
-92,gastly,5,174,Curse,1,16,
-92,gastly,5,180,Spite,1,8,
-92,gastly,5,194,Destiny Bond,1,36,
-92,gastly,5,212,Mean Look,1,13,
-92,gastly,6,95,Hypnosis,1,1,1
-92,gastly,6,101,Night Shade,1,21,
-92,gastly,6,109,Confuse Ray,1,28,
-92,gastly,6,122,Lick,1,1,2
-92,gastly,6,138,Dream Eater,1,33,
-92,gastly,6,174,Curse,1,16,
-92,gastly,6,180,Spite,1,8,
-92,gastly,6,194,Destiny Bond,1,36,
-92,gastly,6,212,Mean Look,1,13,
-92,gastly,7,95,Hypnosis,1,1,1
-92,gastly,7,101,Night Shade,1,16,
-92,gastly,7,109,Confuse Ray,1,21,
-92,gastly,7,122,Lick,1,1,2
-92,gastly,7,138,Dream Eater,1,28,
-92,gastly,7,171,Nightmare,1,41,
-92,gastly,7,174,Curse,1,13,
-92,gastly,7,180,Spite,1,8,
-92,gastly,7,194,Destiny Bond,1,33,
-92,gastly,7,212,Mean Look,1,48,
-92,gastly,7,247,Shadow Ball,1,36,
-92,gastly,8,95,Hypnosis,1,1,1
-92,gastly,8,101,Night Shade,1,15,
-92,gastly,8,109,Confuse Ray,1,19,
-92,gastly,8,122,Lick,1,1,2
-92,gastly,8,138,Dream Eater,1,33,
-92,gastly,8,171,Nightmare,1,43,
-92,gastly,8,174,Curse,1,12,
-92,gastly,8,180,Spite,1,5,
-92,gastly,8,194,Destiny Bond,1,40,
-92,gastly,8,212,Mean Look,1,8,
-92,gastly,8,247,Shadow Ball,1,29,
-92,gastly,8,371,Payback,1,26,
-92,gastly,8,389,Sucker Punch,1,22,
-92,gastly,8,399,Dark Pulse,1,36,
-92,gastly,9,95,Hypnosis,1,1,1
-92,gastly,9,101,Night Shade,1,15,
-92,gastly,9,109,Confuse Ray,1,19,
-92,gastly,9,122,Lick,1,1,2
-92,gastly,9,138,Dream Eater,1,33,
-92,gastly,9,171,Nightmare,1,43,
-92,gastly,9,174,Curse,1,12,
-92,gastly,9,180,Spite,1,5,
-92,gastly,9,194,Destiny Bond,1,40,
-92,gastly,9,212,Mean Look,1,8,
-92,gastly,9,247,Shadow Ball,1,29,
-92,gastly,9,371,Payback,1,26,
-92,gastly,9,389,Sucker Punch,1,22,
-92,gastly,9,399,Dark Pulse,1,36,
-92,gastly,10,95,Hypnosis,1,1,1
-92,gastly,10,101,Night Shade,1,15,
-92,gastly,10,109,Confuse Ray,1,19,
-92,gastly,10,122,Lick,1,1,2
-92,gastly,10,138,Dream Eater,1,33,
-92,gastly,10,171,Nightmare,1,43,
-92,gastly,10,174,Curse,1,12,
-92,gastly,10,180,Spite,1,5,
-92,gastly,10,194,Destiny Bond,1,40,
-92,gastly,10,212,Mean Look,1,8,
-92,gastly,10,247,Shadow Ball,1,29,
-92,gastly,10,371,Payback,1,26,
-92,gastly,10,389,Sucker Punch,1,22,
-92,gastly,10,399,Dark Pulse,1,36,
-92,gastly,11,95,Hypnosis,1,1,1
-92,gastly,11,101,Night Shade,1,15,
-92,gastly,11,109,Confuse Ray,1,19,
-92,gastly,11,122,Lick,1,1,2
-92,gastly,11,138,Dream Eater,1,33,
-92,gastly,11,171,Nightmare,1,47,
-92,gastly,11,174,Curse,1,12,
-92,gastly,11,180,Spite,1,5,
-92,gastly,11,194,Destiny Bond,1,40,
-92,gastly,11,212,Mean Look,1,8,
-92,gastly,11,247,Shadow Ball,1,29,
-92,gastly,11,371,Payback,1,26,
-92,gastly,11,389,Sucker Punch,1,22,
-92,gastly,11,399,Dark Pulse,1,36,
-92,gastly,11,506,Hex,1,43,
-92,gastly,12,95,Hypnosis,1,1,1
-92,gastly,12,101,Night Shade,1,21,
-92,gastly,12,109,Confuse Ray,1,28,
-92,gastly,12,122,Lick,1,1,2
-92,gastly,12,138,Dream Eater,1,33,
-92,gastly,12,174,Curse,1,16,
-92,gastly,12,180,Spite,1,8,
-92,gastly,12,194,Destiny Bond,1,36,
-92,gastly,12,212,Mean Look,1,13,
-92,gastly,13,95,Hypnosis,1,1,1
-92,gastly,13,101,Night Shade,1,21,
-92,gastly,13,109,Confuse Ray,1,28,
-92,gastly,13,122,Lick,1,1,2
-92,gastly,13,138,Dream Eater,1,33,
-92,gastly,13,174,Curse,1,16,
-92,gastly,13,180,Spite,1,8,
-92,gastly,13,194,Destiny Bond,1,36,
-92,gastly,13,212,Mean Look,1,13,
-92,gastly,14,95,Hypnosis,1,1,1
-92,gastly,14,101,Night Shade,1,15,
-92,gastly,14,109,Confuse Ray,1,19,
-92,gastly,14,122,Lick,1,1,2
-92,gastly,14,138,Dream Eater,1,33,
-92,gastly,14,171,Nightmare,1,47,
-92,gastly,14,174,Curse,1,12,
-92,gastly,14,180,Spite,1,5,
-92,gastly,14,194,Destiny Bond,1,40,
-92,gastly,14,212,Mean Look,1,8,
-92,gastly,14,247,Shadow Ball,1,29,
-92,gastly,14,371,Payback,1,26,
-92,gastly,14,389,Sucker Punch,1,22,
-92,gastly,14,399,Dark Pulse,1,36,
-92,gastly,14,506,Hex,1,43,
-92,gastly,15,95,Hypnosis,1,1,1
-92,gastly,15,101,Night Shade,1,15,
-92,gastly,15,109,Confuse Ray,1,19,
-92,gastly,15,122,Lick,1,1,2
-92,gastly,15,138,Dream Eater,1,33,
-92,gastly,15,171,Nightmare,1,47,
-92,gastly,15,174,Curse,1,12,
-92,gastly,15,180,Spite,1,5,
-92,gastly,15,194,Destiny Bond,1,40,
-92,gastly,15,212,Mean Look,1,8,
-92,gastly,15,247,Shadow Ball,1,29,
-92,gastly,15,371,Payback,1,26,
-92,gastly,15,389,Sucker Punch,1,22,
-92,gastly,15,399,Dark Pulse,1,36,
-92,gastly,15,506,Hex,1,43,
-92,gastly,16,95,Hypnosis,1,1,1
-92,gastly,16,101,Night Shade,1,15,1
-92,gastly,16,109,Confuse Ray,1,19,1
-92,gastly,16,122,Lick,1,1,2
-92,gastly,16,138,Dream Eater,1,33,1
-92,gastly,16,171,Nightmare,1,47,1
-92,gastly,16,174,Curse,1,12,1
-92,gastly,16,180,Spite,1,5,1
-92,gastly,16,194,Destiny Bond,1,40,1
-92,gastly,16,212,Mean Look,1,8,1
-92,gastly,16,247,Shadow Ball,1,29,1
-92,gastly,16,371,Payback,1,26,1
-92,gastly,16,389,Sucker Punch,1,22,1
-92,gastly,16,399,Dark Pulse,1,36,1
-92,gastly,16,506,Hex,1,43,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+92,1,Night Shade,1,ghost,-,100
+92,1,Confuse Ray,1,ghost,-,100
+92,1,Lick,1,ghost,30,100
+92,2,Night Shade,1,ghost,-,100
+92,2,Confuse Ray,1,ghost,-,100
+92,2,Lick,1,ghost,30,100
+92,3,Hypnosis,1,psychic,-,60
+92,3,Lick,1,ghost,30,100
+92,4,Hypnosis,1,psychic,-,60
+92,4,Lick,1,ghost,30,100
+92,5,Hypnosis,1,psychic,-,60
+92,5,Lick,1,ghost,30,100
+92,6,Hypnosis,1,psychic,-,60
+92,6,Lick,1,ghost,30,100
+92,7,Hypnosis,1,psychic,-,60
+92,7,Lick,1,ghost,30,100
+92,8,Hypnosis,1,psychic,-,60
+92,8,Lick,1,ghost,30,100
+92,9,Hypnosis,1,psychic,-,60
+92,9,Lick,1,ghost,30,100
+92,10,Hypnosis,1,psychic,-,60
+92,10,Lick,1,ghost,30,100
+92,11,Hypnosis,1,psychic,-,60
+92,11,Lick,1,ghost,30,100
+92,12,Hypnosis,1,psychic,-,60
+92,12,Lick,1,ghost,30,100
+92,13,Hypnosis,1,psychic,-,60
+92,13,Lick,1,ghost,30,100
+92,14,Hypnosis,1,psychic,-,60
+92,14,Lick,1,ghost,30,100
+92,15,Hypnosis,1,psychic,-,60
+92,15,Lick,1,ghost,30,100
+92,16,Hypnosis,1,psychic,-,60
+92,16,Lick,1,ghost,30,100
+92,8,Spite,5,ghost,-,100
+92,9,Spite,5,ghost,-,100
+92,10,Spite,5,ghost,-,100
+92,11,Spite,5,ghost,-,100
+92,14,Spite,5,ghost,-,100
+92,15,Spite,5,ghost,-,100
+92,16,Spite,5,ghost,-,100
+92,3,Spite,8,ghost,-,100
+92,4,Spite,8,ghost,-,100
+92,5,Spite,8,ghost,-,100
+92,6,Spite,8,ghost,-,100
+92,7,Spite,8,ghost,-,100
+92,8,Mean Look,8,normal,-,-
+92,9,Mean Look,8,normal,-,-
+92,10,Mean Look,8,normal,-,-
+92,11,Mean Look,8,normal,-,-
+92,12,Spite,8,ghost,-,100
+92,13,Spite,8,ghost,-,100
+92,14,Mean Look,8,normal,-,-
+92,15,Mean Look,8,normal,-,-
+92,16,Mean Look,8,normal,-,-
+92,8,Curse,12,ghost,-,-
+92,9,Curse,12,ghost,-,-
+92,10,Curse,12,ghost,-,-
+92,11,Curse,12,ghost,-,-
+92,14,Curse,12,ghost,-,-
+92,15,Curse,12,ghost,-,-
+92,16,Curse,12,ghost,-,-
+92,3,Mean Look,13,normal,-,-
+92,4,Mean Look,13,normal,-,-
+92,5,Mean Look,13,normal,-,-
+92,6,Mean Look,13,normal,-,-
+92,7,Curse,13,ghost,-,-
+92,12,Mean Look,13,normal,-,-
+92,13,Mean Look,13,normal,-,-
+92,8,Night Shade,15,ghost,-,100
+92,9,Night Shade,15,ghost,-,100
+92,10,Night Shade,15,ghost,-,100
+92,11,Night Shade,15,ghost,-,100
+92,14,Night Shade,15,ghost,-,100
+92,15,Night Shade,15,ghost,-,100
+92,16,Night Shade,15,ghost,-,100
+92,3,Curse,16,ghost,-,-
+92,4,Curse,16,ghost,-,-
+92,5,Curse,16,ghost,-,-
+92,6,Curse,16,ghost,-,-
+92,7,Night Shade,16,ghost,-,100
+92,12,Curse,16,ghost,-,-
+92,13,Curse,16,ghost,-,-
+92,8,Confuse Ray,19,ghost,-,100
+92,9,Confuse Ray,19,ghost,-,100
+92,10,Confuse Ray,19,ghost,-,100
+92,11,Confuse Ray,19,ghost,-,100
+92,14,Confuse Ray,19,ghost,-,100
+92,15,Confuse Ray,19,ghost,-,100
+92,16,Confuse Ray,19,ghost,-,100
+92,3,Night Shade,21,ghost,-,100
+92,4,Night Shade,21,ghost,-,100
+92,5,Night Shade,21,ghost,-,100
+92,6,Night Shade,21,ghost,-,100
+92,7,Confuse Ray,21,ghost,-,100
+92,12,Night Shade,21,ghost,-,100
+92,13,Night Shade,21,ghost,-,100
+92,8,Sucker Punch,22,dark,80,100
+92,9,Sucker Punch,22,dark,80,100
+92,10,Sucker Punch,22,dark,80,100
+92,11,Sucker Punch,22,dark,80,100
+92,14,Sucker Punch,22,dark,80,100
+92,15,Sucker Punch,22,dark,80,100
+92,16,Sucker Punch,22,dark,80,100
+92,8,Payback,26,dark,50,100
+92,9,Payback,26,dark,50,100
+92,10,Payback,26,dark,50,100
+92,11,Payback,26,dark,50,100
+92,14,Payback,26,dark,50,100
+92,15,Payback,26,dark,50,100
+92,16,Payback,26,dark,50,100
+92,1,Hypnosis,27,psychic,-,60
+92,2,Hypnosis,27,psychic,-,60
+92,3,Confuse Ray,28,ghost,-,100
+92,4,Confuse Ray,28,ghost,-,100
+92,5,Confuse Ray,28,ghost,-,100
+92,6,Confuse Ray,28,ghost,-,100
+92,7,Dream Eater,28,psychic,100,100
+92,12,Confuse Ray,28,ghost,-,100
+92,13,Confuse Ray,28,ghost,-,100
+92,8,Shadow Ball,29,ghost,80,100
+92,9,Shadow Ball,29,ghost,80,100
+92,10,Shadow Ball,29,ghost,80,100
+92,11,Shadow Ball,29,ghost,80,100
+92,14,Shadow Ball,29,ghost,80,100
+92,15,Shadow Ball,29,ghost,80,100
+92,16,Shadow Ball,29,ghost,80,100
+92,3,Dream Eater,33,psychic,100,100
+92,4,Dream Eater,33,psychic,100,100
+92,5,Dream Eater,33,psychic,100,100
+92,6,Dream Eater,33,psychic,100,100
+92,7,Destiny Bond,33,ghost,-,-
+92,8,Dream Eater,33,psychic,100,100
+92,9,Dream Eater,33,psychic,100,100
+92,10,Dream Eater,33,psychic,100,100
+92,11,Dream Eater,33,psychic,100,100
+92,12,Dream Eater,33,psychic,100,100
+92,13,Dream Eater,33,psychic,100,100
+92,14,Dream Eater,33,psychic,100,100
+92,15,Dream Eater,33,psychic,100,100
+92,16,Dream Eater,33,psychic,100,100
+92,1,Dream Eater,35,psychic,100,100
+92,2,Dream Eater,35,psychic,100,100
+92,3,Destiny Bond,36,ghost,-,-
+92,4,Destiny Bond,36,ghost,-,-
+92,5,Destiny Bond,36,ghost,-,-
+92,6,Destiny Bond,36,ghost,-,-
+92,7,Shadow Ball,36,ghost,80,100
+92,8,Dark Pulse,36,dark,80,100
+92,9,Dark Pulse,36,dark,80,100
+92,10,Dark Pulse,36,dark,80,100
+92,11,Dark Pulse,36,dark,80,100
+92,12,Destiny Bond,36,ghost,-,-
+92,13,Destiny Bond,36,ghost,-,-
+92,14,Dark Pulse,36,dark,80,100
+92,15,Dark Pulse,36,dark,80,100
+92,16,Dark Pulse,36,dark,80,100
+92,8,Destiny Bond,40,ghost,-,-
+92,9,Destiny Bond,40,ghost,-,-
+92,10,Destiny Bond,40,ghost,-,-
+92,11,Destiny Bond,40,ghost,-,-
+92,14,Destiny Bond,40,ghost,-,-
+92,15,Destiny Bond,40,ghost,-,-
+92,16,Destiny Bond,40,ghost,-,-
+92,7,Nightmare,41,ghost,-,100
+92,8,Nightmare,43,ghost,-,100
+92,9,Nightmare,43,ghost,-,100
+92,10,Nightmare,43,ghost,-,100
+92,11,Hex,43,ghost,65,100
+92,14,Hex,43,ghost,65,100
+92,15,Hex,43,ghost,65,100
+92,16,Hex,43,ghost,65,100
+92,11,Nightmare,47,ghost,-,100
+92,14,Nightmare,47,ghost,-,100
+92,15,Nightmare,47,ghost,-,100
+92,16,Nightmare,47,ghost,-,100
+92,7,Mean Look,48,normal,-,-

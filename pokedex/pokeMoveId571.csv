@@ -1,85 +1,85 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-571,zoroark,11,10,Scratch,1,1,2
-571,zoroark,11,43,Leer,1,1,3
-571,zoroark,11,97,Agility,1,39,
-571,zoroark,11,154,Fury Swipes,1,13,
-571,zoroark,11,184,Scary Face,1,21,
-571,zoroark,11,185,Feint Attack,1,17,
-571,zoroark,11,228,Pursuit,1,1,4
-571,zoroark,11,228,Pursuit,1,5,
-571,zoroark,11,259,Torment,1,34,
-571,zoroark,11,269,Taunt,1,25,
-571,zoroark,11,286,Imprison,1,59,
-571,zoroark,11,369,U-turn,1,1,1
-571,zoroark,11,373,Embargo,1,44,
-571,zoroark,11,386,Punishment,1,49,
-571,zoroark,11,400,Night Slash,1,30,
-571,zoroark,11,417,Nasty Plot,1,54,
-571,zoroark,11,468,Hone Claws,1,1,5
-571,zoroark,11,468,Hone Claws,1,9,
-571,zoroark,11,492,Foul Play,1,29,
-571,zoroark,11,539,Night Daze,1,64,
-571,zoroark,14,10,Scratch,1,1,2
-571,zoroark,14,43,Leer,1,1,3
-571,zoroark,14,97,Agility,1,39,
-571,zoroark,14,154,Fury Swipes,1,13,
-571,zoroark,14,184,Scary Face,1,21,
-571,zoroark,14,185,Feint Attack,1,17,
-571,zoroark,14,228,Pursuit,1,1,4
-571,zoroark,14,228,Pursuit,1,5,
-571,zoroark,14,259,Torment,1,34,
-571,zoroark,14,269,Taunt,1,25,
-571,zoroark,14,286,Imprison,1,59,
-571,zoroark,14,369,U-turn,1,1,1
-571,zoroark,14,373,Embargo,1,44,
-571,zoroark,14,386,Punishment,1,49,
-571,zoroark,14,400,Night Slash,1,30,
-571,zoroark,14,417,Nasty Plot,1,54,
-571,zoroark,14,468,Hone Claws,1,1,5
-571,zoroark,14,468,Hone Claws,1,9,
-571,zoroark,14,492,Foul Play,1,29,
-571,zoroark,14,539,Night Daze,1,64,
-571,zoroark,15,10,Scratch,1,1,4
-571,zoroark,15,43,Leer,1,1,5
-571,zoroark,15,97,Agility,1,39,
-571,zoroark,15,154,Fury Swipes,1,13,
-571,zoroark,15,184,Scary Face,1,21,
-571,zoroark,15,185,Feint Attack,1,17,
-571,zoroark,15,228,Pursuit,1,1,6
-571,zoroark,15,228,Pursuit,1,5,
-571,zoroark,15,259,Torment,1,34,
-571,zoroark,15,269,Taunt,1,25,
-571,zoroark,15,286,Imprison,1,1,2
-571,zoroark,15,286,Imprison,1,59,
-571,zoroark,15,369,U-turn,1,1,3
-571,zoroark,15,373,Embargo,1,44,
-571,zoroark,15,386,Punishment,1,49,
-571,zoroark,15,400,Night Slash,1,30,
-571,zoroark,15,417,Nasty Plot,1,54,
-571,zoroark,15,468,Hone Claws,1,1,7
-571,zoroark,15,468,Hone Claws,1,9,
-571,zoroark,15,492,Foul Play,1,29,
-571,zoroark,15,539,Night Daze,1,1,1
-571,zoroark,15,539,Night Daze,1,64,
-571,zoroark,16,10,Scratch,1,1,4
-571,zoroark,16,43,Leer,1,1,5
-571,zoroark,16,97,Agility,1,39,1
-571,zoroark,16,154,Fury Swipes,1,13,1
-571,zoroark,16,184,Scary Face,1,21,1
-571,zoroark,16,185,Feint Attack,1,17,1
-571,zoroark,16,228,Pursuit,1,1,6
-571,zoroark,16,228,Pursuit,1,5,1
-571,zoroark,16,259,Torment,1,34,1
-571,zoroark,16,269,Taunt,1,25,1
-571,zoroark,16,286,Imprison,1,1,2
-571,zoroark,16,286,Imprison,1,59,1
-571,zoroark,16,369,U-turn,1,1,3
-571,zoroark,16,373,Embargo,1,44,1
-571,zoroark,16,386,Punishment,1,49,1
-571,zoroark,16,400,Night Slash,1,30,1
-571,zoroark,16,417,Nasty Plot,1,54,1
-571,zoroark,16,468,Hone Claws,1,1,7
-571,zoroark,16,468,Hone Claws,1,9,1
-571,zoroark,16,492,Foul Play,1,29,1
-571,zoroark,16,539,Night Daze,1,1,1
-571,zoroark,16,539,Night Daze,1,64,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+571,11,Scratch,1,normal,40,100
+571,11,Leer,1,normal,-,100
+571,11,Pursuit,1,dark,40,100
+571,11,U-turn,1,bug,70,100
+571,11,Hone Claws,1,dark,-,-
+571,14,Scratch,1,normal,40,100
+571,14,Leer,1,normal,-,100
+571,14,Pursuit,1,dark,40,100
+571,14,U-turn,1,bug,70,100
+571,14,Hone Claws,1,dark,-,-
+571,15,Scratch,1,normal,40,100
+571,15,Leer,1,normal,-,100
+571,15,Pursuit,1,dark,40,100
+571,15,Imprison,1,psychic,-,-
+571,15,U-turn,1,bug,70,100
+571,15,Hone Claws,1,dark,-,-
+571,15,Night Daze,1,dark,85,95
+571,16,Scratch,1,normal,40,100
+571,16,Leer,1,normal,-,100
+571,16,Pursuit,1,dark,40,100
+571,16,Imprison,1,psychic,-,-
+571,16,U-turn,1,bug,70,100
+571,16,Hone Claws,1,dark,-,-
+571,16,Night Daze,1,dark,85,95
+571,11,Pursuit,5,dark,40,100
+571,14,Pursuit,5,dark,40,100
+571,15,Pursuit,5,dark,40,100
+571,16,Pursuit,5,dark,40,100
+571,11,Hone Claws,9,dark,-,-
+571,14,Hone Claws,9,dark,-,-
+571,15,Hone Claws,9,dark,-,-
+571,16,Hone Claws,9,dark,-,-
+571,11,Fury Swipes,13,normal,18,80
+571,14,Fury Swipes,13,normal,18,80
+571,15,Fury Swipes,13,normal,18,80
+571,16,Fury Swipes,13,normal,18,80
+571,11,Feint Attack,17,dark,60,-
+571,14,Feint Attack,17,dark,60,-
+571,15,Feint Attack,17,dark,60,-
+571,16,Feint Attack,17,dark,60,-
+571,11,Scary Face,21,normal,-,100
+571,14,Scary Face,21,normal,-,100
+571,15,Scary Face,21,normal,-,100
+571,16,Scary Face,21,normal,-,100
+571,11,Taunt,25,dark,-,100
+571,14,Taunt,25,dark,-,100
+571,15,Taunt,25,dark,-,100
+571,16,Taunt,25,dark,-,100
+571,11,Foul Play,29,dark,95,100
+571,14,Foul Play,29,dark,95,100
+571,15,Foul Play,29,dark,95,100
+571,16,Foul Play,29,dark,95,100
+571,11,Night Slash,30,dark,70,100
+571,14,Night Slash,30,dark,70,100
+571,15,Night Slash,30,dark,70,100
+571,16,Night Slash,30,dark,70,100
+571,11,Torment,34,dark,-,100
+571,14,Torment,34,dark,-,100
+571,15,Torment,34,dark,-,100
+571,16,Torment,34,dark,-,100
+571,11,Agility,39,psychic,-,-
+571,14,Agility,39,psychic,-,-
+571,15,Agility,39,psychic,-,-
+571,16,Agility,39,psychic,-,-
+571,11,Embargo,44,dark,-,100
+571,14,Embargo,44,dark,-,100
+571,15,Embargo,44,dark,-,100
+571,16,Embargo,44,dark,-,100
+571,11,Punishment,49,dark,-,100
+571,14,Punishment,49,dark,-,100
+571,15,Punishment,49,dark,-,100
+571,16,Punishment,49,dark,-,100
+571,11,Nasty Plot,54,dark,-,-
+571,14,Nasty Plot,54,dark,-,-
+571,15,Nasty Plot,54,dark,-,-
+571,16,Nasty Plot,54,dark,-,-
+571,11,Imprison,59,psychic,-,-
+571,14,Imprison,59,psychic,-,-
+571,15,Imprison,59,psychic,-,-
+571,16,Imprison,59,psychic,-,-
+571,11,Night Daze,64,dark,85,95
+571,14,Night Daze,64,dark,85,95
+571,15,Night Daze,64,dark,85,95
+571,16,Night Daze,64,dark,85,95

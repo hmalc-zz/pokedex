@@ -1,189 +1,189 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-254,sceptile,5,1,Pound,1,1,1
-254,sceptile,5,21,Slam,1,43,
-254,sceptile,5,43,Leer,1,1,2
-254,sceptile,5,71,Absorb,1,1,3
-254,sceptile,5,71,Absorb,1,6,
-254,sceptile,5,97,Agility,1,35,
-254,sceptile,5,98,Quick Attack,1,1,4
-254,sceptile,5,98,Quick Attack,1,11,
-254,sceptile,5,103,Screech,1,23,
-254,sceptile,5,197,Detect,1,51,
-254,sceptile,5,206,False Swipe,1,59,
-254,sceptile,5,210,Fury Cutter,1,16,
-254,sceptile,5,228,Pursuit,1,17,
-254,sceptile,5,348,Leaf Blade,1,29,
-254,sceptile,6,1,Pound,1,1,1
-254,sceptile,6,21,Slam,1,43,
-254,sceptile,6,43,Leer,1,1,2
-254,sceptile,6,71,Absorb,1,1,3
-254,sceptile,6,71,Absorb,1,6,
-254,sceptile,6,97,Agility,1,35,
-254,sceptile,6,98,Quick Attack,1,1,4
-254,sceptile,6,98,Quick Attack,1,11,
-254,sceptile,6,103,Screech,1,23,
-254,sceptile,6,197,Detect,1,51,
-254,sceptile,6,206,False Swipe,1,59,
-254,sceptile,6,210,Fury Cutter,1,16,
-254,sceptile,6,228,Pursuit,1,17,
-254,sceptile,6,348,Leaf Blade,1,29,
-254,sceptile,7,1,Pound,1,1,1
-254,sceptile,7,21,Slam,1,43,
-254,sceptile,7,43,Leer,1,1,2
-254,sceptile,7,71,Absorb,1,1,3
-254,sceptile,7,71,Absorb,1,6,
-254,sceptile,7,97,Agility,1,35,
-254,sceptile,7,98,Quick Attack,1,1,4
-254,sceptile,7,98,Quick Attack,1,11,
-254,sceptile,7,103,Screech,1,23,
-254,sceptile,7,197,Detect,1,51,
-254,sceptile,7,206,False Swipe,1,59,
-254,sceptile,7,210,Fury Cutter,1,16,
-254,sceptile,7,228,Pursuit,1,17,
-254,sceptile,7,348,Leaf Blade,1,29,
-254,sceptile,8,1,Pound,1,1,2
-254,sceptile,8,21,Slam,1,43,
-254,sceptile,8,43,Leer,1,1,3
-254,sceptile,8,71,Absorb,1,1,4
-254,sceptile,8,71,Absorb,1,6,
-254,sceptile,8,97,Agility,1,35,
-254,sceptile,8,98,Quick Attack,1,1,5
-254,sceptile,8,98,Quick Attack,1,11,
-254,sceptile,8,103,Screech,1,23,
-254,sceptile,8,197,Detect,1,51,
-254,sceptile,8,206,False Swipe,1,59,
-254,sceptile,8,228,Pursuit,1,17,
-254,sceptile,8,348,Leaf Blade,1,29,
-254,sceptile,8,400,Night Slash,1,1,1
-254,sceptile,8,404,X-Scissor,1,16,
-254,sceptile,8,437,Leaf Storm,1,67,
-254,sceptile,9,1,Pound,1,1,2
-254,sceptile,9,21,Slam,1,43,
-254,sceptile,9,43,Leer,1,1,3
-254,sceptile,9,71,Absorb,1,1,4
-254,sceptile,9,71,Absorb,1,6,
-254,sceptile,9,97,Agility,1,35,
-254,sceptile,9,98,Quick Attack,1,1,5
-254,sceptile,9,98,Quick Attack,1,11,
-254,sceptile,9,103,Screech,1,23,
-254,sceptile,9,197,Detect,1,51,
-254,sceptile,9,206,False Swipe,1,59,
-254,sceptile,9,228,Pursuit,1,17,
-254,sceptile,9,348,Leaf Blade,1,29,
-254,sceptile,9,400,Night Slash,1,1,1
-254,sceptile,9,404,X-Scissor,1,16,
-254,sceptile,9,437,Leaf Storm,1,67,
-254,sceptile,10,1,Pound,1,1,2
-254,sceptile,10,21,Slam,1,43,
-254,sceptile,10,43,Leer,1,1,3
-254,sceptile,10,71,Absorb,1,1,4
-254,sceptile,10,71,Absorb,1,6,
-254,sceptile,10,97,Agility,1,35,
-254,sceptile,10,98,Quick Attack,1,1,5
-254,sceptile,10,98,Quick Attack,1,11,
-254,sceptile,10,103,Screech,1,23,
-254,sceptile,10,197,Detect,1,51,
-254,sceptile,10,206,False Swipe,1,59,
-254,sceptile,10,228,Pursuit,1,17,
-254,sceptile,10,348,Leaf Blade,1,29,
-254,sceptile,10,400,Night Slash,1,1,1
-254,sceptile,10,404,X-Scissor,1,16,
-254,sceptile,10,437,Leaf Storm,1,67,
-254,sceptile,11,1,Pound,1,1,2
-254,sceptile,11,21,Slam,1,43,
-254,sceptile,11,43,Leer,1,1,3
-254,sceptile,11,71,Absorb,1,1,4
-254,sceptile,11,71,Absorb,1,6,
-254,sceptile,11,97,Agility,1,35,
-254,sceptile,11,98,Quick Attack,1,1,5
-254,sceptile,11,98,Quick Attack,1,11,
-254,sceptile,11,103,Screech,1,23,
-254,sceptile,11,197,Detect,1,51,
-254,sceptile,11,206,False Swipe,1,59,
-254,sceptile,11,228,Pursuit,1,17,
-254,sceptile,11,348,Leaf Blade,1,29,
-254,sceptile,11,400,Night Slash,1,1,1
-254,sceptile,11,404,X-Scissor,1,16,
-254,sceptile,11,437,Leaf Storm,1,67,
-254,sceptile,12,1,Pound,1,1,1
-254,sceptile,12,21,Slam,1,43,
-254,sceptile,12,43,Leer,1,1,2
-254,sceptile,12,71,Absorb,1,1,3
-254,sceptile,12,71,Absorb,1,6,
-254,sceptile,12,97,Agility,1,35,
-254,sceptile,12,98,Quick Attack,1,1,4
-254,sceptile,12,98,Quick Attack,1,11,
-254,sceptile,12,103,Screech,1,23,
-254,sceptile,12,197,Detect,1,51,
-254,sceptile,12,206,False Swipe,1,59,
-254,sceptile,12,210,Fury Cutter,1,16,
-254,sceptile,12,228,Pursuit,1,17,
-254,sceptile,12,348,Leaf Blade,1,29,
-254,sceptile,13,1,Pound,1,1,1
-254,sceptile,13,21,Slam,1,43,
-254,sceptile,13,43,Leer,1,1,2
-254,sceptile,13,71,Absorb,1,1,3
-254,sceptile,13,71,Absorb,1,6,
-254,sceptile,13,97,Agility,1,35,
-254,sceptile,13,98,Quick Attack,1,1,4
-254,sceptile,13,98,Quick Attack,1,11,
-254,sceptile,13,103,Screech,1,23,
-254,sceptile,13,197,Detect,1,51,
-254,sceptile,13,206,False Swipe,1,59,
-254,sceptile,13,210,Fury Cutter,1,16,
-254,sceptile,13,228,Pursuit,1,17,
-254,sceptile,13,348,Leaf Blade,1,29,
-254,sceptile,14,1,Pound,1,1,2
-254,sceptile,14,21,Slam,1,43,
-254,sceptile,14,43,Leer,1,1,3
-254,sceptile,14,71,Absorb,1,1,4
-254,sceptile,14,71,Absorb,1,6,
-254,sceptile,14,97,Agility,1,35,
-254,sceptile,14,98,Quick Attack,1,1,5
-254,sceptile,14,98,Quick Attack,1,11,
-254,sceptile,14,103,Screech,1,23,
-254,sceptile,14,197,Detect,1,51,
-254,sceptile,14,206,False Swipe,1,59,
-254,sceptile,14,228,Pursuit,1,17,
-254,sceptile,14,348,Leaf Blade,1,29,
-254,sceptile,14,400,Night Slash,1,1,1
-254,sceptile,14,404,X-Scissor,1,16,
-254,sceptile,14,437,Leaf Storm,1,67,
-254,sceptile,15,1,Pound,1,1,3
-254,sceptile,15,21,Slam,1,43,
-254,sceptile,15,43,Leer,1,1,4
-254,sceptile,15,71,Absorb,1,1,5
-254,sceptile,15,71,Absorb,1,6,
-254,sceptile,15,97,Agility,1,35,
-254,sceptile,15,98,Quick Attack,1,1,6
-254,sceptile,15,98,Quick Attack,1,11,
-254,sceptile,15,103,Screech,1,23,
-254,sceptile,15,197,Detect,1,51,
-254,sceptile,15,206,False Swipe,1,59,
-254,sceptile,15,228,Pursuit,1,17,
-254,sceptile,15,348,Leaf Blade,1,29,
-254,sceptile,15,400,Night Slash,1,1,2
-254,sceptile,15,404,X-Scissor,1,16,
-254,sceptile,15,437,Leaf Storm,1,1,1
-254,sceptile,15,437,Leaf Storm,1,67,
-254,sceptile,16,1,Pound,1,1,3
-254,sceptile,16,21,Slam,1,33,1
-254,sceptile,16,43,Leer,1,1,4
-254,sceptile,16,71,Absorb,1,1,5
-254,sceptile,16,71,Absorb,1,5,1
-254,sceptile,16,72,Mega Drain,1,13,1
-254,sceptile,16,97,Agility,1,28,1
-254,sceptile,16,98,Quick Attack,1,1,6
-254,sceptile,16,98,Quick Attack,1,9,1
-254,sceptile,16,103,Screech,1,69,1
-254,sceptile,16,197,Detect,1,39,1
-254,sceptile,16,206,False Swipe,1,51,1
-254,sceptile,16,210,Fury Cutter,1,16,1
-254,sceptile,16,228,Pursuit,1,18,1
-254,sceptile,16,348,Leaf Blade,1,23,1
-254,sceptile,16,400,Night Slash,1,1,2
-254,sceptile,16,404,X-Scissor,1,45,1
-254,sceptile,16,437,Leaf Storm,1,1,1
-254,sceptile,16,437,Leaf Storm,1,63,1
-254,sceptile,16,501,Quick Guard,1,57,1
-254,sceptile,16,530,Dual Chop,1,36,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+254,5,Pound,1,normal,40,100
+254,5,Leer,1,normal,-,100
+254,5,Absorb,1,grass,20,100
+254,5,Quick Attack,1,normal,40,100
+254,6,Pound,1,normal,40,100
+254,6,Leer,1,normal,-,100
+254,6,Absorb,1,grass,20,100
+254,6,Quick Attack,1,normal,40,100
+254,7,Pound,1,normal,40,100
+254,7,Leer,1,normal,-,100
+254,7,Absorb,1,grass,20,100
+254,7,Quick Attack,1,normal,40,100
+254,8,Pound,1,normal,40,100
+254,8,Leer,1,normal,-,100
+254,8,Absorb,1,grass,20,100
+254,8,Quick Attack,1,normal,40,100
+254,8,Night Slash,1,dark,70,100
+254,9,Pound,1,normal,40,100
+254,9,Leer,1,normal,-,100
+254,9,Absorb,1,grass,20,100
+254,9,Quick Attack,1,normal,40,100
+254,9,Night Slash,1,dark,70,100
+254,10,Pound,1,normal,40,100
+254,10,Leer,1,normal,-,100
+254,10,Absorb,1,grass,20,100
+254,10,Quick Attack,1,normal,40,100
+254,10,Night Slash,1,dark,70,100
+254,11,Pound,1,normal,40,100
+254,11,Leer,1,normal,-,100
+254,11,Absorb,1,grass,20,100
+254,11,Quick Attack,1,normal,40,100
+254,11,Night Slash,1,dark,70,100
+254,12,Pound,1,normal,40,100
+254,12,Leer,1,normal,-,100
+254,12,Absorb,1,grass,20,100
+254,12,Quick Attack,1,normal,40,100
+254,13,Pound,1,normal,40,100
+254,13,Leer,1,normal,-,100
+254,13,Absorb,1,grass,20,100
+254,13,Quick Attack,1,normal,40,100
+254,14,Pound,1,normal,40,100
+254,14,Leer,1,normal,-,100
+254,14,Absorb,1,grass,20,100
+254,14,Quick Attack,1,normal,40,100
+254,14,Night Slash,1,dark,70,100
+254,15,Pound,1,normal,40,100
+254,15,Leer,1,normal,-,100
+254,15,Absorb,1,grass,20,100
+254,15,Quick Attack,1,normal,40,100
+254,15,Night Slash,1,dark,70,100
+254,15,Leaf Storm,1,grass,130,90
+254,16,Pound,1,normal,40,100
+254,16,Leer,1,normal,-,100
+254,16,Absorb,1,grass,20,100
+254,16,Quick Attack,1,normal,40,100
+254,16,Night Slash,1,dark,70,100
+254,16,Leaf Storm,1,grass,130,90
+254,16,Absorb,5,grass,20,100
+254,5,Absorb,6,grass,20,100
+254,6,Absorb,6,grass,20,100
+254,7,Absorb,6,grass,20,100
+254,8,Absorb,6,grass,20,100
+254,9,Absorb,6,grass,20,100
+254,10,Absorb,6,grass,20,100
+254,11,Absorb,6,grass,20,100
+254,12,Absorb,6,grass,20,100
+254,13,Absorb,6,grass,20,100
+254,14,Absorb,6,grass,20,100
+254,15,Absorb,6,grass,20,100
+254,16,Quick Attack,9,normal,40,100
+254,5,Quick Attack,11,normal,40,100
+254,6,Quick Attack,11,normal,40,100
+254,7,Quick Attack,11,normal,40,100
+254,8,Quick Attack,11,normal,40,100
+254,9,Quick Attack,11,normal,40,100
+254,10,Quick Attack,11,normal,40,100
+254,11,Quick Attack,11,normal,40,100
+254,12,Quick Attack,11,normal,40,100
+254,13,Quick Attack,11,normal,40,100
+254,14,Quick Attack,11,normal,40,100
+254,15,Quick Attack,11,normal,40,100
+254,16,Mega Drain,13,grass,40,100
+254,5,Fury Cutter,16,bug,40,95
+254,6,Fury Cutter,16,bug,40,95
+254,7,Fury Cutter,16,bug,40,95
+254,8,X-Scissor,16,bug,80,100
+254,9,X-Scissor,16,bug,80,100
+254,10,X-Scissor,16,bug,80,100
+254,11,X-Scissor,16,bug,80,100
+254,12,Fury Cutter,16,bug,40,95
+254,13,Fury Cutter,16,bug,40,95
+254,14,X-Scissor,16,bug,80,100
+254,15,X-Scissor,16,bug,80,100
+254,16,Fury Cutter,16,bug,40,95
+254,5,Pursuit,17,dark,40,100
+254,6,Pursuit,17,dark,40,100
+254,7,Pursuit,17,dark,40,100
+254,8,Pursuit,17,dark,40,100
+254,9,Pursuit,17,dark,40,100
+254,10,Pursuit,17,dark,40,100
+254,11,Pursuit,17,dark,40,100
+254,12,Pursuit,17,dark,40,100
+254,13,Pursuit,17,dark,40,100
+254,14,Pursuit,17,dark,40,100
+254,15,Pursuit,17,dark,40,100
+254,16,Pursuit,18,dark,40,100
+254,5,Screech,23,normal,-,85
+254,6,Screech,23,normal,-,85
+254,7,Screech,23,normal,-,85
+254,8,Screech,23,normal,-,85
+254,9,Screech,23,normal,-,85
+254,10,Screech,23,normal,-,85
+254,11,Screech,23,normal,-,85
+254,12,Screech,23,normal,-,85
+254,13,Screech,23,normal,-,85
+254,14,Screech,23,normal,-,85
+254,15,Screech,23,normal,-,85
+254,16,Leaf Blade,23,grass,90,100
+254,16,Agility,28,psychic,-,-
+254,5,Leaf Blade,29,grass,90,100
+254,6,Leaf Blade,29,grass,90,100
+254,7,Leaf Blade,29,grass,90,100
+254,8,Leaf Blade,29,grass,90,100
+254,9,Leaf Blade,29,grass,90,100
+254,10,Leaf Blade,29,grass,90,100
+254,11,Leaf Blade,29,grass,90,100
+254,12,Leaf Blade,29,grass,90,100
+254,13,Leaf Blade,29,grass,90,100
+254,14,Leaf Blade,29,grass,90,100
+254,15,Leaf Blade,29,grass,90,100
+254,16,Slam,33,normal,80,75
+254,5,Agility,35,psychic,-,-
+254,6,Agility,35,psychic,-,-
+254,7,Agility,35,psychic,-,-
+254,8,Agility,35,psychic,-,-
+254,9,Agility,35,psychic,-,-
+254,10,Agility,35,psychic,-,-
+254,11,Agility,35,psychic,-,-
+254,12,Agility,35,psychic,-,-
+254,13,Agility,35,psychic,-,-
+254,14,Agility,35,psychic,-,-
+254,15,Agility,35,psychic,-,-
+254,16,Dual Chop,36,dragon,40,90
+254,16,Detect,39,fighting,-,-
+254,5,Slam,43,normal,80,75
+254,6,Slam,43,normal,80,75
+254,7,Slam,43,normal,80,75
+254,8,Slam,43,normal,80,75
+254,9,Slam,43,normal,80,75
+254,10,Slam,43,normal,80,75
+254,11,Slam,43,normal,80,75
+254,12,Slam,43,normal,80,75
+254,13,Slam,43,normal,80,75
+254,14,Slam,43,normal,80,75
+254,15,Slam,43,normal,80,75
+254,16,X-Scissor,45,bug,80,100
+254,5,Detect,51,fighting,-,-
+254,6,Detect,51,fighting,-,-
+254,7,Detect,51,fighting,-,-
+254,8,Detect,51,fighting,-,-
+254,9,Detect,51,fighting,-,-
+254,10,Detect,51,fighting,-,-
+254,11,Detect,51,fighting,-,-
+254,12,Detect,51,fighting,-,-
+254,13,Detect,51,fighting,-,-
+254,14,Detect,51,fighting,-,-
+254,15,Detect,51,fighting,-,-
+254,16,False Swipe,51,normal,40,100
+254,16,Quick Guard,57,fighting,-,-
+254,5,False Swipe,59,normal,40,100
+254,6,False Swipe,59,normal,40,100
+254,7,False Swipe,59,normal,40,100
+254,8,False Swipe,59,normal,40,100
+254,9,False Swipe,59,normal,40,100
+254,10,False Swipe,59,normal,40,100
+254,11,False Swipe,59,normal,40,100
+254,12,False Swipe,59,normal,40,100
+254,13,False Swipe,59,normal,40,100
+254,14,False Swipe,59,normal,40,100
+254,15,False Swipe,59,normal,40,100
+254,16,Leaf Storm,63,grass,130,90
+254,8,Leaf Storm,67,grass,130,90
+254,9,Leaf Storm,67,grass,130,90
+254,10,Leaf Storm,67,grass,130,90
+254,11,Leaf Storm,67,grass,130,90
+254,14,Leaf Storm,67,grass,130,90
+254,15,Leaf Storm,67,grass,130,90
+254,16,Screech,69,normal,-,85

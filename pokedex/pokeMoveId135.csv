@@ -1,197 +1,197 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-135,jolteon,1,24,Double Kick,1,42,
-135,jolteon,1,28,Sand Attack,1,1,2
-135,jolteon,1,33,Tackle,1,1,1
-135,jolteon,1,39,Tail Whip,1,37,
-135,jolteon,1,42,Pin Missile,1,48,
-135,jolteon,1,84,Thunder Shock,1,1,4
-135,jolteon,1,84,Thunder Shock,1,31,
-135,jolteon,1,86,Thunder Wave,1,40,
-135,jolteon,1,87,Thunder,1,54,
-135,jolteon,1,97,Agility,1,44,
-135,jolteon,1,98,Quick Attack,1,1,3
-135,jolteon,1,98,Quick Attack,1,27,
-135,jolteon,2,24,Double Kick,1,30,
-135,jolteon,2,28,Sand Attack,1,8,
-135,jolteon,2,33,Tackle,1,1,1
-135,jolteon,2,39,Tail Whip,1,1,2
-135,jolteon,2,42,Pin Missile,1,36,
-135,jolteon,2,84,Thunder Shock,1,1,4
-135,jolteon,2,84,Thunder Shock,1,16,
-135,jolteon,2,86,Thunder Wave,1,42,
-135,jolteon,2,87,Thunder,1,52,
-135,jolteon,2,97,Agility,1,47,
-135,jolteon,2,98,Quick Attack,1,1,3
-135,jolteon,2,98,Quick Attack,1,23,
-135,jolteon,3,24,Double Kick,1,30,
-135,jolteon,3,28,Sand Attack,1,8,
-135,jolteon,3,33,Tackle,1,1,1
-135,jolteon,3,39,Tail Whip,1,1,2
-135,jolteon,3,42,Pin Missile,1,36,
-135,jolteon,3,84,Thunder Shock,1,16,
-135,jolteon,3,86,Thunder Wave,1,42,
-135,jolteon,3,87,Thunder,1,52,
-135,jolteon,3,97,Agility,1,47,
-135,jolteon,3,98,Quick Attack,1,23,
-135,jolteon,4,24,Double Kick,1,30,
-135,jolteon,4,28,Sand Attack,1,8,
-135,jolteon,4,33,Tackle,1,1,1
-135,jolteon,4,39,Tail Whip,1,1,2
-135,jolteon,4,42,Pin Missile,1,36,
-135,jolteon,4,84,Thunder Shock,1,16,
-135,jolteon,4,86,Thunder Wave,1,42,
-135,jolteon,4,87,Thunder,1,52,
-135,jolteon,4,97,Agility,1,47,
-135,jolteon,4,98,Quick Attack,1,23,
-135,jolteon,5,24,Double Kick,1,30,
-135,jolteon,5,28,Sand Attack,1,8,
-135,jolteon,5,33,Tackle,1,1,1
-135,jolteon,5,39,Tail Whip,1,1,2
-135,jolteon,5,42,Pin Missile,1,36,
-135,jolteon,5,84,Thunder Shock,1,16,
-135,jolteon,5,86,Thunder Wave,1,42,
-135,jolteon,5,87,Thunder,1,52,
-135,jolteon,5,97,Agility,1,47,
-135,jolteon,5,98,Quick Attack,1,23,
-135,jolteon,5,270,Helping Hand,1,1,3
-135,jolteon,6,24,Double Kick,1,30,
-135,jolteon,6,28,Sand Attack,1,8,
-135,jolteon,6,33,Tackle,1,1,1
-135,jolteon,6,39,Tail Whip,1,1,2
-135,jolteon,6,42,Pin Missile,1,36,
-135,jolteon,6,84,Thunder Shock,1,16,
-135,jolteon,6,86,Thunder Wave,1,42,
-135,jolteon,6,87,Thunder,1,52,
-135,jolteon,6,97,Agility,1,47,
-135,jolteon,6,98,Quick Attack,1,23,
-135,jolteon,6,270,Helping Hand,1,1,3
-135,jolteon,7,24,Double Kick,1,30,
-135,jolteon,7,28,Sand Attack,1,8,
-135,jolteon,7,33,Tackle,1,1,1
-135,jolteon,7,39,Tail Whip,1,1,2
-135,jolteon,7,42,Pin Missile,1,36,
-135,jolteon,7,84,Thunder Shock,1,16,
-135,jolteon,7,86,Thunder Wave,1,42,
-135,jolteon,7,87,Thunder,1,52,
-135,jolteon,7,97,Agility,1,47,
-135,jolteon,7,98,Quick Attack,1,23,
-135,jolteon,7,270,Helping Hand,1,1,3
-135,jolteon,8,24,Double Kick,1,29,
-135,jolteon,8,28,Sand Attack,1,8,
-135,jolteon,8,33,Tackle,1,1,1
-135,jolteon,8,39,Tail Whip,1,1,2
-135,jolteon,8,42,Pin Missile,1,36,
-135,jolteon,8,84,Thunder Shock,1,15,
-135,jolteon,8,86,Thunder Wave,1,57,
-135,jolteon,8,87,Thunder,1,71,
-135,jolteon,8,97,Agility,1,64,
-135,jolteon,8,98,Quick Attack,1,22,
-135,jolteon,8,270,Helping Hand,1,1,3
-135,jolteon,8,387,Last Resort,1,50,
-135,jolteon,8,422,Thunder Fang,1,43,
-135,jolteon,9,24,Double Kick,1,29,
-135,jolteon,9,28,Sand Attack,1,8,
-135,jolteon,9,33,Tackle,1,1,2
-135,jolteon,9,39,Tail Whip,1,1,1
-135,jolteon,9,42,Pin Missile,1,36,
-135,jolteon,9,84,Thunder Shock,1,15,
-135,jolteon,9,86,Thunder Wave,1,57,
-135,jolteon,9,87,Thunder,1,71,
-135,jolteon,9,97,Agility,1,64,
-135,jolteon,9,98,Quick Attack,1,22,
-135,jolteon,9,270,Helping Hand,1,1,3
-135,jolteon,9,387,Last Resort,1,50,
-135,jolteon,9,422,Thunder Fang,1,43,
-135,jolteon,9,435,Discharge,1,78,
-135,jolteon,10,24,Double Kick,1,29,
-135,jolteon,10,28,Sand Attack,1,8,
-135,jolteon,10,33,Tackle,1,1,2
-135,jolteon,10,39,Tail Whip,1,1,1
-135,jolteon,10,42,Pin Missile,1,36,
-135,jolteon,10,84,Thunder Shock,1,15,
-135,jolteon,10,86,Thunder Wave,1,57,
-135,jolteon,10,87,Thunder,1,71,
-135,jolteon,10,97,Agility,1,64,
-135,jolteon,10,98,Quick Attack,1,22,
-135,jolteon,10,270,Helping Hand,1,1,3
-135,jolteon,10,387,Last Resort,1,50,
-135,jolteon,10,422,Thunder Fang,1,43,
-135,jolteon,10,435,Discharge,1,78,
-135,jolteon,11,24,Double Kick,1,29,
-135,jolteon,11,28,Sand Attack,1,8,
-135,jolteon,11,33,Tackle,1,1,2
-135,jolteon,11,39,Tail Whip,1,1,1
-135,jolteon,11,42,Pin Missile,1,36,
-135,jolteon,11,84,Thunder Shock,1,15,
-135,jolteon,11,86,Thunder Wave,1,57,
-135,jolteon,11,87,Thunder,1,71,
-135,jolteon,11,97,Agility,1,64,
-135,jolteon,11,98,Quick Attack,1,22,
-135,jolteon,11,270,Helping Hand,1,1,3
-135,jolteon,11,387,Last Resort,1,50,
-135,jolteon,11,422,Thunder Fang,1,43,
-135,jolteon,11,435,Discharge,1,78,
-135,jolteon,12,24,Double Kick,1,30,
-135,jolteon,12,28,Sand Attack,1,8,
-135,jolteon,12,33,Tackle,1,1,1
-135,jolteon,12,39,Tail Whip,1,1,2
-135,jolteon,12,42,Pin Missile,1,36,
-135,jolteon,12,84,Thunder Shock,1,16,
-135,jolteon,12,86,Thunder Wave,1,42,
-135,jolteon,12,87,Thunder,1,52,
-135,jolteon,12,97,Agility,1,47,
-135,jolteon,12,98,Quick Attack,1,23,
-135,jolteon,12,270,Helping Hand,1,1,3
-135,jolteon,13,24,Double Kick,1,30,
-135,jolteon,13,28,Sand Attack,1,8,
-135,jolteon,13,33,Tackle,1,1,1
-135,jolteon,13,39,Tail Whip,1,1,2
-135,jolteon,13,42,Pin Missile,1,36,
-135,jolteon,13,84,Thunder Shock,1,16,
-135,jolteon,13,86,Thunder Wave,1,42,
-135,jolteon,13,87,Thunder,1,52,
-135,jolteon,13,97,Agility,1,47,
-135,jolteon,13,98,Quick Attack,1,23,
-135,jolteon,13,270,Helping Hand,1,1,3
-135,jolteon,14,24,Double Kick,1,17,
-135,jolteon,14,28,Sand Attack,1,5,
-135,jolteon,14,33,Tackle,1,1,2
-135,jolteon,14,39,Tail Whip,1,1,3
-135,jolteon,14,42,Pin Missile,1,25,
-135,jolteon,14,84,Thunder Shock,1,9,
-135,jolteon,14,86,Thunder Wave,1,33,
-135,jolteon,14,87,Thunder,1,45,
-135,jolteon,14,97,Agility,1,29,
-135,jolteon,14,98,Quick Attack,1,13,
-135,jolteon,14,270,Helping Hand,1,1,1
-135,jolteon,14,387,Last Resort,1,41,
-135,jolteon,14,422,Thunder Fang,1,21,
-135,jolteon,14,435,Discharge,1,37,
-135,jolteon,15,24,Double Kick,1,17,
-135,jolteon,15,28,Sand Attack,1,5,
-135,jolteon,15,33,Tackle,1,1,2
-135,jolteon,15,39,Tail Whip,1,1,3
-135,jolteon,15,42,Pin Missile,1,25,
-135,jolteon,15,84,Thunder Shock,1,9,
-135,jolteon,15,86,Thunder Wave,1,33,
-135,jolteon,15,87,Thunder,1,45,
-135,jolteon,15,97,Agility,1,29,
-135,jolteon,15,98,Quick Attack,1,13,
-135,jolteon,15,270,Helping Hand,1,1,1
-135,jolteon,15,387,Last Resort,1,41,
-135,jolteon,15,422,Thunder Fang,1,20,
-135,jolteon,15,435,Discharge,1,37,
-135,jolteon,16,24,Double Kick,1,17,1
-135,jolteon,16,28,Sand Attack,1,5,1
-135,jolteon,16,33,Tackle,1,1,2
-135,jolteon,16,39,Tail Whip,1,1,3
-135,jolteon,16,42,Pin Missile,1,25,1
-135,jolteon,16,84,Thunder Shock,1,9,1
-135,jolteon,16,86,Thunder Wave,1,33,1
-135,jolteon,16,87,Thunder,1,45,1
-135,jolteon,16,97,Agility,1,29,1
-135,jolteon,16,98,Quick Attack,1,13,1
-135,jolteon,16,270,Helping Hand,1,1,1
-135,jolteon,16,387,Last Resort,1,41,1
-135,jolteon,16,422,Thunder Fang,1,20,1
-135,jolteon,16,435,Discharge,1,37,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+135,1,Sand Attack,1,ground,-,100
+135,1,Tackle,1,normal,50,100
+135,1,Thunder Shock,1,electric,40,100
+135,1,Quick Attack,1,normal,40,100
+135,2,Tackle,1,normal,50,100
+135,2,Tail Whip,1,normal,-,100
+135,2,Thunder Shock,1,electric,40,100
+135,2,Quick Attack,1,normal,40,100
+135,3,Tackle,1,normal,50,100
+135,3,Tail Whip,1,normal,-,100
+135,4,Tackle,1,normal,50,100
+135,4,Tail Whip,1,normal,-,100
+135,5,Tackle,1,normal,50,100
+135,5,Tail Whip,1,normal,-,100
+135,5,Helping Hand,1,normal,-,-
+135,6,Tackle,1,normal,50,100
+135,6,Tail Whip,1,normal,-,100
+135,6,Helping Hand,1,normal,-,-
+135,7,Tackle,1,normal,50,100
+135,7,Tail Whip,1,normal,-,100
+135,7,Helping Hand,1,normal,-,-
+135,8,Tackle,1,normal,50,100
+135,8,Tail Whip,1,normal,-,100
+135,8,Helping Hand,1,normal,-,-
+135,9,Tackle,1,normal,50,100
+135,9,Tail Whip,1,normal,-,100
+135,9,Helping Hand,1,normal,-,-
+135,10,Tackle,1,normal,50,100
+135,10,Tail Whip,1,normal,-,100
+135,10,Helping Hand,1,normal,-,-
+135,11,Tackle,1,normal,50,100
+135,11,Tail Whip,1,normal,-,100
+135,11,Helping Hand,1,normal,-,-
+135,12,Tackle,1,normal,50,100
+135,12,Tail Whip,1,normal,-,100
+135,12,Helping Hand,1,normal,-,-
+135,13,Tackle,1,normal,50,100
+135,13,Tail Whip,1,normal,-,100
+135,13,Helping Hand,1,normal,-,-
+135,14,Tackle,1,normal,50,100
+135,14,Tail Whip,1,normal,-,100
+135,14,Helping Hand,1,normal,-,-
+135,15,Tackle,1,normal,50,100
+135,15,Tail Whip,1,normal,-,100
+135,15,Helping Hand,1,normal,-,-
+135,16,Tackle,1,normal,50,100
+135,16,Tail Whip,1,normal,-,100
+135,16,Helping Hand,1,normal,-,-
+135,14,Sand Attack,5,ground,-,100
+135,15,Sand Attack,5,ground,-,100
+135,16,Sand Attack,5,ground,-,100
+135,2,Sand Attack,8,ground,-,100
+135,3,Sand Attack,8,ground,-,100
+135,4,Sand Attack,8,ground,-,100
+135,5,Sand Attack,8,ground,-,100
+135,6,Sand Attack,8,ground,-,100
+135,7,Sand Attack,8,ground,-,100
+135,8,Sand Attack,8,ground,-,100
+135,9,Sand Attack,8,ground,-,100
+135,10,Sand Attack,8,ground,-,100
+135,11,Sand Attack,8,ground,-,100
+135,12,Sand Attack,8,ground,-,100
+135,13,Sand Attack,8,ground,-,100
+135,14,Thunder Shock,9,electric,40,100
+135,15,Thunder Shock,9,electric,40,100
+135,16,Thunder Shock,9,electric,40,100
+135,14,Quick Attack,13,normal,40,100
+135,15,Quick Attack,13,normal,40,100
+135,16,Quick Attack,13,normal,40,100
+135,8,Thunder Shock,15,electric,40,100
+135,9,Thunder Shock,15,electric,40,100
+135,10,Thunder Shock,15,electric,40,100
+135,11,Thunder Shock,15,electric,40,100
+135,2,Thunder Shock,16,electric,40,100
+135,3,Thunder Shock,16,electric,40,100
+135,4,Thunder Shock,16,electric,40,100
+135,5,Thunder Shock,16,electric,40,100
+135,6,Thunder Shock,16,electric,40,100
+135,7,Thunder Shock,16,electric,40,100
+135,12,Thunder Shock,16,electric,40,100
+135,13,Thunder Shock,16,electric,40,100
+135,14,Double Kick,17,fighting,30,100
+135,15,Double Kick,17,fighting,30,100
+135,16,Double Kick,17,fighting,30,100
+135,15,Thunder Fang,20,electric,65,95
+135,16,Thunder Fang,20,electric,65,95
+135,14,Thunder Fang,21,electric,65,95
+135,8,Quick Attack,22,normal,40,100
+135,9,Quick Attack,22,normal,40,100
+135,10,Quick Attack,22,normal,40,100
+135,11,Quick Attack,22,normal,40,100
+135,2,Quick Attack,23,normal,40,100
+135,3,Quick Attack,23,normal,40,100
+135,4,Quick Attack,23,normal,40,100
+135,5,Quick Attack,23,normal,40,100
+135,6,Quick Attack,23,normal,40,100
+135,7,Quick Attack,23,normal,40,100
+135,12,Quick Attack,23,normal,40,100
+135,13,Quick Attack,23,normal,40,100
+135,14,Pin Missile,25,bug,25,95
+135,15,Pin Missile,25,bug,25,95
+135,16,Pin Missile,25,bug,25,95
+135,1,Quick Attack,27,normal,40,100
+135,8,Double Kick,29,fighting,30,100
+135,9,Double Kick,29,fighting,30,100
+135,10,Double Kick,29,fighting,30,100
+135,11,Double Kick,29,fighting,30,100
+135,14,Agility,29,psychic,-,-
+135,15,Agility,29,psychic,-,-
+135,16,Agility,29,psychic,-,-
+135,2,Double Kick,30,fighting,30,100
+135,3,Double Kick,30,fighting,30,100
+135,4,Double Kick,30,fighting,30,100
+135,5,Double Kick,30,fighting,30,100
+135,6,Double Kick,30,fighting,30,100
+135,7,Double Kick,30,fighting,30,100
+135,12,Double Kick,30,fighting,30,100
+135,13,Double Kick,30,fighting,30,100
+135,1,Thunder Shock,31,electric,40,100
+135,14,Thunder Wave,33,electric,-,100
+135,15,Thunder Wave,33,electric,-,100
+135,16,Thunder Wave,33,electric,-,100
+135,2,Pin Missile,36,bug,25,95
+135,3,Pin Missile,36,bug,25,95
+135,4,Pin Missile,36,bug,25,95
+135,5,Pin Missile,36,bug,25,95
+135,6,Pin Missile,36,bug,25,95
+135,7,Pin Missile,36,bug,25,95
+135,8,Pin Missile,36,bug,25,95
+135,9,Pin Missile,36,bug,25,95
+135,10,Pin Missile,36,bug,25,95
+135,11,Pin Missile,36,bug,25,95
+135,12,Pin Missile,36,bug,25,95
+135,13,Pin Missile,36,bug,25,95
+135,1,Tail Whip,37,normal,-,100
+135,14,Discharge,37,electric,80,100
+135,15,Discharge,37,electric,80,100
+135,16,Discharge,37,electric,80,100
+135,1,Thunder Wave,40,electric,-,100
+135,14,Last Resort,41,normal,140,100
+135,15,Last Resort,41,normal,140,100
+135,16,Last Resort,41,normal,140,100
+135,1,Double Kick,42,fighting,30,100
+135,2,Thunder Wave,42,electric,-,100
+135,3,Thunder Wave,42,electric,-,100
+135,4,Thunder Wave,42,electric,-,100
+135,5,Thunder Wave,42,electric,-,100
+135,6,Thunder Wave,42,electric,-,100
+135,7,Thunder Wave,42,electric,-,100
+135,12,Thunder Wave,42,electric,-,100
+135,13,Thunder Wave,42,electric,-,100
+135,8,Thunder Fang,43,electric,65,95
+135,9,Thunder Fang,43,electric,65,95
+135,10,Thunder Fang,43,electric,65,95
+135,11,Thunder Fang,43,electric,65,95
+135,1,Agility,44,psychic,-,-
+135,14,Thunder,45,electric,110,70
+135,15,Thunder,45,electric,110,70
+135,16,Thunder,45,electric,110,70
+135,2,Agility,47,psychic,-,-
+135,3,Agility,47,psychic,-,-
+135,4,Agility,47,psychic,-,-
+135,5,Agility,47,psychic,-,-
+135,6,Agility,47,psychic,-,-
+135,7,Agility,47,psychic,-,-
+135,12,Agility,47,psychic,-,-
+135,13,Agility,47,psychic,-,-
+135,1,Pin Missile,48,bug,25,95
+135,8,Last Resort,50,normal,140,100
+135,9,Last Resort,50,normal,140,100
+135,10,Last Resort,50,normal,140,100
+135,11,Last Resort,50,normal,140,100
+135,2,Thunder,52,electric,110,70
+135,3,Thunder,52,electric,110,70
+135,4,Thunder,52,electric,110,70
+135,5,Thunder,52,electric,110,70
+135,6,Thunder,52,electric,110,70
+135,7,Thunder,52,electric,110,70
+135,12,Thunder,52,electric,110,70
+135,13,Thunder,52,electric,110,70
+135,1,Thunder,54,electric,110,70
+135,8,Thunder Wave,57,electric,-,100
+135,9,Thunder Wave,57,electric,-,100
+135,10,Thunder Wave,57,electric,-,100
+135,11,Thunder Wave,57,electric,-,100
+135,8,Agility,64,psychic,-,-
+135,9,Agility,64,psychic,-,-
+135,10,Agility,64,psychic,-,-
+135,11,Agility,64,psychic,-,-
+135,8,Thunder,71,electric,110,70
+135,9,Thunder,71,electric,110,70
+135,10,Thunder,71,electric,110,70
+135,11,Thunder,71,electric,110,70
+135,9,Discharge,78,electric,80,100
+135,10,Discharge,78,electric,80,100
+135,11,Discharge,78,electric,80,100

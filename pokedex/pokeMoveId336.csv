@@ -1,157 +1,157 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-336,seviper,5,35,Wrap,1,1,
-336,seviper,5,44,Bite,1,10,
-336,seviper,5,103,Screech,1,19,
-336,seviper,5,114,Haze,1,43,
-336,seviper,5,122,Lick,1,7,
-336,seviper,5,137,Glare,1,25,
-336,seviper,5,207,Swagger,1,37,
-336,seviper,5,242,Crunch,1,28,
-336,seviper,5,305,Poison Fang,1,34,
-336,seviper,5,342,Poison Tail,1,16,
-336,seviper,6,35,Wrap,1,1,
-336,seviper,6,44,Bite,1,10,
-336,seviper,6,103,Screech,1,19,
-336,seviper,6,114,Haze,1,43,
-336,seviper,6,122,Lick,1,7,
-336,seviper,6,137,Glare,1,25,
-336,seviper,6,207,Swagger,1,37,
-336,seviper,6,242,Crunch,1,28,
-336,seviper,6,305,Poison Fang,1,34,
-336,seviper,6,342,Poison Tail,1,16,
-336,seviper,7,35,Wrap,1,1,
-336,seviper,7,44,Bite,1,10,
-336,seviper,7,103,Screech,1,19,
-336,seviper,7,114,Haze,1,43,
-336,seviper,7,122,Lick,1,7,
-336,seviper,7,137,Glare,1,25,
-336,seviper,7,207,Swagger,1,37,
-336,seviper,7,242,Crunch,1,28,
-336,seviper,7,305,Poison Fang,1,34,
-336,seviper,7,342,Poison Tail,1,16,
-336,seviper,8,35,Wrap,1,1,
-336,seviper,8,44,Bite,1,10,
-336,seviper,8,103,Screech,1,19,
-336,seviper,8,114,Haze,1,43,
-336,seviper,8,122,Lick,1,7,
-336,seviper,8,137,Glare,1,25,
-336,seviper,8,207,Swagger,1,37,
-336,seviper,8,242,Crunch,1,28,
-336,seviper,8,305,Poison Fang,1,34,
-336,seviper,8,342,Poison Tail,1,16,
-336,seviper,8,378,Wring Out,1,55,
-336,seviper,8,398,Poison Jab,1,52,
-336,seviper,8,400,Night Slash,1,46,
-336,seviper,9,35,Wrap,1,1,
-336,seviper,9,44,Bite,1,10,
-336,seviper,9,103,Screech,1,19,
-336,seviper,9,114,Haze,1,43,
-336,seviper,9,122,Lick,1,7,
-336,seviper,9,137,Glare,1,25,
-336,seviper,9,207,Swagger,1,37,
-336,seviper,9,242,Crunch,1,28,
-336,seviper,9,305,Poison Fang,1,34,
-336,seviper,9,342,Poison Tail,1,16,
-336,seviper,9,378,Wring Out,1,55,
-336,seviper,9,398,Poison Jab,1,52,
-336,seviper,9,400,Night Slash,1,46,
-336,seviper,10,35,Wrap,1,1,
-336,seviper,10,44,Bite,1,10,
-336,seviper,10,103,Screech,1,19,
-336,seviper,10,114,Haze,1,43,
-336,seviper,10,122,Lick,1,7,
-336,seviper,10,137,Glare,1,25,
-336,seviper,10,207,Swagger,1,37,
-336,seviper,10,242,Crunch,1,28,
-336,seviper,10,305,Poison Fang,1,34,
-336,seviper,10,342,Poison Tail,1,16,
-336,seviper,10,378,Wring Out,1,55,
-336,seviper,10,398,Poison Jab,1,52,
-336,seviper,10,400,Night Slash,1,46,
-336,seviper,11,35,Wrap,1,1,
-336,seviper,11,44,Bite,1,10,
-336,seviper,11,103,Screech,1,19,
-336,seviper,11,114,Haze,1,43,
-336,seviper,11,122,Lick,1,7,
-336,seviper,11,137,Glare,1,25,
-336,seviper,11,207,Swagger,1,37,
-336,seviper,11,242,Crunch,1,28,
-336,seviper,11,305,Poison Fang,1,34,
-336,seviper,11,342,Poison Tail,1,16,
-336,seviper,11,378,Wring Out,1,61,
-336,seviper,11,398,Poison Jab,1,52,
-336,seviper,11,400,Night Slash,1,46,
-336,seviper,11,474,Venoshock,1,55,
-336,seviper,11,489,Coil,1,64,
-336,seviper,12,35,Wrap,1,1,
-336,seviper,12,44,Bite,1,10,
-336,seviper,12,103,Screech,1,19,
-336,seviper,12,114,Haze,1,43,
-336,seviper,12,122,Lick,1,7,
-336,seviper,12,137,Glare,1,25,
-336,seviper,12,207,Swagger,1,37,
-336,seviper,12,242,Crunch,1,28,
-336,seviper,12,305,Poison Fang,1,34,
-336,seviper,12,342,Poison Tail,1,16,
-336,seviper,13,35,Wrap,1,1,
-336,seviper,13,44,Bite,1,10,
-336,seviper,13,103,Screech,1,19,
-336,seviper,13,114,Haze,1,43,
-336,seviper,13,122,Lick,1,7,
-336,seviper,13,137,Glare,1,25,
-336,seviper,13,207,Swagger,1,37,
-336,seviper,13,242,Crunch,1,28,
-336,seviper,13,305,Poison Fang,1,34,
-336,seviper,13,342,Poison Tail,1,16,
-336,seviper,14,35,Wrap,1,1,1
-336,seviper,14,44,Bite,1,5,
-336,seviper,14,103,Screech,1,16,
-336,seviper,14,114,Haze,1,38,
-336,seviper,14,122,Lick,1,1,2
-336,seviper,14,137,Glare,1,23,
-336,seviper,14,207,Swagger,1,9,
-336,seviper,14,242,Crunch,1,45,
-336,seviper,14,305,Poison Fang,1,27,
-336,seviper,14,342,Poison Tail,1,12,
-336,seviper,14,378,Wring Out,1,53,
-336,seviper,14,380,Gastro Acid,1,34,
-336,seviper,14,398,Poison Jab,1,42,
-336,seviper,14,400,Night Slash,1,31,
-336,seviper,14,474,Venoshock,1,20,
-336,seviper,14,489,Coil,1,49,
-336,seviper,15,35,Wrap,1,1,1
-336,seviper,15,44,Bite,1,5,
-336,seviper,15,103,Screech,1,16,
-336,seviper,15,114,Haze,1,38,
-336,seviper,15,122,Lick,1,9,
-336,seviper,15,137,Glare,1,23,
-336,seviper,15,207,Swagger,1,1,2
-336,seviper,15,242,Crunch,1,45,
-336,seviper,15,305,Poison Fang,1,27,
-336,seviper,15,342,Poison Tail,1,12,
-336,seviper,15,378,Wring Out,1,50,
-336,seviper,15,380,Gastro Acid,1,34,
-336,seviper,15,398,Poison Jab,1,42,
-336,seviper,15,400,Night Slash,1,31,
-336,seviper,15,474,Venoshock,1,20,
-336,seviper,15,489,Coil,1,48,
-336,seviper,15,562,Belch,1,46,
-336,seviper,15,599,Venom Drench,1,28,
-336,seviper,16,35,Wrap,1,1,1
-336,seviper,16,44,Bite,1,4,1
-336,seviper,16,103,Screech,1,13,1
-336,seviper,16,114,Haze,1,37,1
-336,seviper,16,122,Lick,1,7,1
-336,seviper,16,137,Glare,1,19,1
-336,seviper,16,207,Swagger,1,1,2
-336,seviper,16,242,Crunch,1,40,1
-336,seviper,16,305,Poison Fang,1,22,1
-336,seviper,16,342,Poison Tail,1,10,1
-336,seviper,16,378,Wring Out,1,49,1
-336,seviper,16,380,Gastro Acid,1,31,1
-336,seviper,16,398,Poison Jab,1,34,1
-336,seviper,16,400,Night Slash,1,28,1
-336,seviper,16,474,Venoshock,1,16,1
-336,seviper,16,489,Coil,1,46,1
-336,seviper,16,562,Belch,1,43,1
-336,seviper,16,599,Venom Drench,1,25,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+336,5,Wrap,1,normal,15,90
+336,6,Wrap,1,normal,15,90
+336,7,Wrap,1,normal,15,90
+336,8,Wrap,1,normal,15,90
+336,9,Wrap,1,normal,15,90
+336,10,Wrap,1,normal,15,90
+336,11,Wrap,1,normal,15,90
+336,12,Wrap,1,normal,15,90
+336,13,Wrap,1,normal,15,90
+336,14,Wrap,1,normal,15,90
+336,14,Lick,1,ghost,30,100
+336,15,Wrap,1,normal,15,90
+336,15,Swagger,1,normal,-,90
+336,16,Wrap,1,normal,15,90
+336,16,Swagger,1,normal,-,90
+336,16,Bite,4,dark,60,100
+336,14,Bite,5,dark,60,100
+336,15,Bite,5,dark,60,100
+336,5,Lick,7,ghost,30,100
+336,6,Lick,7,ghost,30,100
+336,7,Lick,7,ghost,30,100
+336,8,Lick,7,ghost,30,100
+336,9,Lick,7,ghost,30,100
+336,10,Lick,7,ghost,30,100
+336,11,Lick,7,ghost,30,100
+336,12,Lick,7,ghost,30,100
+336,13,Lick,7,ghost,30,100
+336,16,Lick,7,ghost,30,100
+336,14,Swagger,9,normal,-,90
+336,15,Lick,9,ghost,30,100
+336,5,Bite,10,dark,60,100
+336,6,Bite,10,dark,60,100
+336,7,Bite,10,dark,60,100
+336,8,Bite,10,dark,60,100
+336,9,Bite,10,dark,60,100
+336,10,Bite,10,dark,60,100
+336,11,Bite,10,dark,60,100
+336,12,Bite,10,dark,60,100
+336,13,Bite,10,dark,60,100
+336,16,Poison Tail,10,poison,50,100
+336,14,Poison Tail,12,poison,50,100
+336,15,Poison Tail,12,poison,50,100
+336,16,Screech,13,normal,-,85
+336,5,Poison Tail,16,poison,50,100
+336,6,Poison Tail,16,poison,50,100
+336,7,Poison Tail,16,poison,50,100
+336,8,Poison Tail,16,poison,50,100
+336,9,Poison Tail,16,poison,50,100
+336,10,Poison Tail,16,poison,50,100
+336,11,Poison Tail,16,poison,50,100
+336,12,Poison Tail,16,poison,50,100
+336,13,Poison Tail,16,poison,50,100
+336,14,Screech,16,normal,-,85
+336,15,Screech,16,normal,-,85
+336,16,Venoshock,16,poison,65,100
+336,5,Screech,19,normal,-,85
+336,6,Screech,19,normal,-,85
+336,7,Screech,19,normal,-,85
+336,8,Screech,19,normal,-,85
+336,9,Screech,19,normal,-,85
+336,10,Screech,19,normal,-,85
+336,11,Screech,19,normal,-,85
+336,12,Screech,19,normal,-,85
+336,13,Screech,19,normal,-,85
+336,16,Glare,19,normal,-,100
+336,14,Venoshock,20,poison,65,100
+336,15,Venoshock,20,poison,65,100
+336,16,Poison Fang,22,poison,50,100
+336,14,Glare,23,normal,-,100
+336,15,Glare,23,normal,-,100
+336,5,Glare,25,normal,-,100
+336,6,Glare,25,normal,-,100
+336,7,Glare,25,normal,-,100
+336,8,Glare,25,normal,-,100
+336,9,Glare,25,normal,-,100
+336,10,Glare,25,normal,-,100
+336,11,Glare,25,normal,-,100
+336,12,Glare,25,normal,-,100
+336,13,Glare,25,normal,-,100
+336,16,Venom Drench,25,poison,-,100
+336,14,Poison Fang,27,poison,50,100
+336,15,Poison Fang,27,poison,50,100
+336,5,Crunch,28,dark,80,100
+336,6,Crunch,28,dark,80,100
+336,7,Crunch,28,dark,80,100
+336,8,Crunch,28,dark,80,100
+336,9,Crunch,28,dark,80,100
+336,10,Crunch,28,dark,80,100
+336,11,Crunch,28,dark,80,100
+336,12,Crunch,28,dark,80,100
+336,13,Crunch,28,dark,80,100
+336,15,Venom Drench,28,poison,-,100
+336,16,Night Slash,28,dark,70,100
+336,14,Night Slash,31,dark,70,100
+336,15,Night Slash,31,dark,70,100
+336,16,Gastro Acid,31,poison,-,100
+336,5,Poison Fang,34,poison,50,100
+336,6,Poison Fang,34,poison,50,100
+336,7,Poison Fang,34,poison,50,100
+336,8,Poison Fang,34,poison,50,100
+336,9,Poison Fang,34,poison,50,100
+336,10,Poison Fang,34,poison,50,100
+336,11,Poison Fang,34,poison,50,100
+336,12,Poison Fang,34,poison,50,100
+336,13,Poison Fang,34,poison,50,100
+336,14,Gastro Acid,34,poison,-,100
+336,15,Gastro Acid,34,poison,-,100
+336,16,Poison Jab,34,poison,80,100
+336,5,Swagger,37,normal,-,90
+336,6,Swagger,37,normal,-,90
+336,7,Swagger,37,normal,-,90
+336,8,Swagger,37,normal,-,90
+336,9,Swagger,37,normal,-,90
+336,10,Swagger,37,normal,-,90
+336,11,Swagger,37,normal,-,90
+336,12,Swagger,37,normal,-,90
+336,13,Swagger,37,normal,-,90
+336,16,Haze,37,ice,-,-
+336,14,Haze,38,ice,-,-
+336,15,Haze,38,ice,-,-
+336,16,Crunch,40,dark,80,100
+336,14,Poison Jab,42,poison,80,100
+336,15,Poison Jab,42,poison,80,100
+336,5,Haze,43,ice,-,-
+336,6,Haze,43,ice,-,-
+336,7,Haze,43,ice,-,-
+336,8,Haze,43,ice,-,-
+336,9,Haze,43,ice,-,-
+336,10,Haze,43,ice,-,-
+336,11,Haze,43,ice,-,-
+336,12,Haze,43,ice,-,-
+336,13,Haze,43,ice,-,-
+336,16,Belch,43,poison,120,90
+336,14,Crunch,45,dark,80,100
+336,15,Crunch,45,dark,80,100
+336,8,Night Slash,46,dark,70,100
+336,9,Night Slash,46,dark,70,100
+336,10,Night Slash,46,dark,70,100
+336,11,Night Slash,46,dark,70,100
+336,15,Belch,46,poison,120,90
+336,16,Coil,46,poison,-,-
+336,15,Coil,48,poison,-,-
+336,14,Coil,49,poison,-,-
+336,16,Wring Out,49,normal,-,100
+336,15,Wring Out,50,normal,-,100
+336,8,Poison Jab,52,poison,80,100
+336,9,Poison Jab,52,poison,80,100
+336,10,Poison Jab,52,poison,80,100
+336,11,Poison Jab,52,poison,80,100
+336,14,Wring Out,53,normal,-,100
+336,8,Wring Out,55,normal,-,100
+336,9,Wring Out,55,normal,-,100
+336,10,Wring Out,55,normal,-,100
+336,11,Venoshock,55,poison,65,100
+336,11,Wring Out,61,normal,-,100
+336,11,Coil,64,poison,-,-

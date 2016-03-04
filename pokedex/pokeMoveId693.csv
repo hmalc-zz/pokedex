@@ -1,41 +1,41 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-693,clawitzer,15,11,Vice Grip,1,9,
-693,clawitzer,15,14,Swords Dance,1,25,
-693,clawitzer,15,55,Water Gun,1,1,6
-693,clawitzer,15,61,Bubble Beam,1,20,
-693,clawitzer,15,145,Bubble,1,12,
-693,clawitzer,15,150,Splash,1,1,5
-693,clawitzer,15,152,Crabhammer,1,30,
-693,clawitzer,15,175,Flail,1,16,
-693,clawitzer,15,330,Muddy Water,1,53,
-693,clawitzer,15,346,Water Sport,1,7,
-693,clawitzer,15,352,Water Pulse,1,34,
-693,clawitzer,15,396,Aura Sphere,1,1,4
-693,clawitzer,15,396,Aura Sphere,1,67,
-693,clawitzer,15,399,Dark Pulse,1,1,2
-693,clawitzer,15,399,Dark Pulse,1,57,
-693,clawitzer,15,406,Dragon Pulse,1,1,3
-693,clawitzer,15,406,Dragon Pulse,1,63,
-693,clawitzer,15,453,Aqua Jet,1,47,
-693,clawitzer,15,479,Smack Down,1,42,
-693,clawitzer,15,505,Heal Pulse,1,1,1
-693,clawitzer,16,11,Vice Grip,1,9,1
-693,clawitzer,16,14,Swords Dance,1,25,1
-693,clawitzer,16,55,Water Gun,1,1,6
-693,clawitzer,16,61,Bubble Beam,1,20,1
-693,clawitzer,16,145,Bubble,1,12,1
-693,clawitzer,16,150,Splash,1,1,5
-693,clawitzer,16,152,Crabhammer,1,30,1
-693,clawitzer,16,175,Flail,1,16,1
-693,clawitzer,16,330,Muddy Water,1,53,1
-693,clawitzer,16,346,Water Sport,1,7,1
-693,clawitzer,16,352,Water Pulse,1,34,1
-693,clawitzer,16,396,Aura Sphere,1,1,4
-693,clawitzer,16,396,Aura Sphere,1,67,1
-693,clawitzer,16,399,Dark Pulse,1,1,2
-693,clawitzer,16,399,Dark Pulse,1,57,1
-693,clawitzer,16,406,Dragon Pulse,1,1,3
-693,clawitzer,16,406,Dragon Pulse,1,63,1
-693,clawitzer,16,453,Aqua Jet,1,47,1
-693,clawitzer,16,479,Smack Down,1,42,1
-693,clawitzer,16,505,Heal Pulse,1,1,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+693,15,Water Gun,1,water,40,100
+693,15,Splash,1,normal,-,-
+693,15,Aura Sphere,1,fighting,80,-
+693,15,Dark Pulse,1,dark,80,100
+693,15,Dragon Pulse,1,dragon,85,100
+693,15,Heal Pulse,1,psychic,-,-
+693,16,Water Gun,1,water,40,100
+693,16,Splash,1,normal,-,-
+693,16,Aura Sphere,1,fighting,80,-
+693,16,Dark Pulse,1,dark,80,100
+693,16,Dragon Pulse,1,dragon,85,100
+693,16,Heal Pulse,1,psychic,-,-
+693,15,Water Sport,7,water,-,-
+693,16,Water Sport,7,water,-,-
+693,15,Vice Grip,9,normal,55,100
+693,16,Vice Grip,9,normal,55,100
+693,15,Bubble,12,water,40,100
+693,16,Bubble,12,water,40,100
+693,15,Flail,16,normal,-,100
+693,16,Flail,16,normal,-,100
+693,15,Bubble Beam,20,water,65,100
+693,16,Bubble Beam,20,water,65,100
+693,15,Swords Dance,25,normal,-,-
+693,16,Swords Dance,25,normal,-,-
+693,15,Crabhammer,30,water,100,90
+693,16,Crabhammer,30,water,100,90
+693,15,Water Pulse,34,water,60,100
+693,16,Water Pulse,34,water,60,100
+693,15,Smack Down,42,rock,50,100
+693,16,Smack Down,42,rock,50,100
+693,15,Aqua Jet,47,water,40,100
+693,16,Aqua Jet,47,water,40,100
+693,15,Muddy Water,53,water,90,85
+693,16,Muddy Water,53,water,90,85
+693,15,Dark Pulse,57,dark,80,100
+693,16,Dark Pulse,57,dark,80,100
+693,15,Dragon Pulse,63,dragon,85,100
+693,16,Dragon Pulse,63,dragon,85,100
+693,15,Aura Sphere,67,fighting,80,-
+693,16,Aura Sphere,67,fighting,80,-

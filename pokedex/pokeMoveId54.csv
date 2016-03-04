@@ -1,176 +1,176 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-54,psyduck,1,10,Scratch,1,1,
-54,psyduck,1,39,Tail Whip,1,28,
-54,psyduck,1,50,Disable,1,31,
-54,psyduck,1,56,Hydro Pump,1,52,
-54,psyduck,1,93,Confusion,1,36,
-54,psyduck,1,154,Fury Swipes,1,43,
-54,psyduck,2,10,Scratch,1,1,
-54,psyduck,2,39,Tail Whip,1,28,
-54,psyduck,2,50,Disable,1,31,
-54,psyduck,2,56,Hydro Pump,1,52,
-54,psyduck,2,93,Confusion,1,36,
-54,psyduck,2,154,Fury Swipes,1,43,
-54,psyduck,3,10,Scratch,1,1,
-54,psyduck,3,39,Tail Whip,1,5,
-54,psyduck,3,50,Disable,1,10,
-54,psyduck,3,56,Hydro Pump,1,50,
-54,psyduck,3,93,Confusion,1,16,
-54,psyduck,3,103,Screech,1,23,
-54,psyduck,3,154,Fury Swipes,1,40,
-54,psyduck,3,244,Psych Up,1,31,
-54,psyduck,4,10,Scratch,1,1,
-54,psyduck,4,39,Tail Whip,1,5,
-54,psyduck,4,50,Disable,1,10,
-54,psyduck,4,56,Hydro Pump,1,50,
-54,psyduck,4,93,Confusion,1,16,
-54,psyduck,4,103,Screech,1,23,
-54,psyduck,4,154,Fury Swipes,1,40,
-54,psyduck,4,244,Psych Up,1,31,
-54,psyduck,5,10,Scratch,1,1,2
-54,psyduck,5,39,Tail Whip,1,5,
-54,psyduck,5,50,Disable,1,10,
-54,psyduck,5,56,Hydro Pump,1,50,
-54,psyduck,5,93,Confusion,1,16,
-54,psyduck,5,103,Screech,1,23,
-54,psyduck,5,154,Fury Swipes,1,40,
-54,psyduck,5,244,Psych Up,1,31,
-54,psyduck,5,346,Water Sport,1,1,1
-54,psyduck,6,10,Scratch,1,1,2
-54,psyduck,6,39,Tail Whip,1,5,
-54,psyduck,6,50,Disable,1,10,
-54,psyduck,6,56,Hydro Pump,1,50,
-54,psyduck,6,93,Confusion,1,16,
-54,psyduck,6,103,Screech,1,23,
-54,psyduck,6,154,Fury Swipes,1,40,
-54,psyduck,6,244,Psych Up,1,31,
-54,psyduck,6,346,Water Sport,1,1,1
-54,psyduck,7,10,Scratch,1,1,2
-54,psyduck,7,39,Tail Whip,1,5,
-54,psyduck,7,50,Disable,1,10,
-54,psyduck,7,56,Hydro Pump,1,50,
-54,psyduck,7,93,Confusion,1,16,
-54,psyduck,7,103,Screech,1,23,
-54,psyduck,7,154,Fury Swipes,1,40,
-54,psyduck,7,244,Psych Up,1,31,
-54,psyduck,7,346,Water Sport,1,1,1
-54,psyduck,8,10,Scratch,1,1,2
-54,psyduck,8,39,Tail Whip,1,5,
-54,psyduck,8,50,Disable,1,14,
-54,psyduck,8,55,Water Gun,1,9,
-54,psyduck,8,56,Hydro Pump,1,48,
-54,psyduck,8,93,Confusion,1,18,
-54,psyduck,8,103,Screech,1,31,
-54,psyduck,8,133,Amnesia,1,44,
-54,psyduck,8,154,Fury Swipes,1,27,
-54,psyduck,8,244,Psych Up,1,35,
-54,psyduck,8,346,Water Sport,1,1,1
-54,psyduck,8,352,Water Pulse,1,22,
-54,psyduck,8,428,Zen Headbutt,1,40,
-54,psyduck,9,10,Scratch,1,1,2
-54,psyduck,9,39,Tail Whip,1,5,
-54,psyduck,9,50,Disable,1,14,
-54,psyduck,9,55,Water Gun,1,9,
-54,psyduck,9,56,Hydro Pump,1,48,
-54,psyduck,9,93,Confusion,1,18,
-54,psyduck,9,103,Screech,1,31,
-54,psyduck,9,133,Amnesia,1,44,
-54,psyduck,9,154,Fury Swipes,1,27,
-54,psyduck,9,244,Psych Up,1,35,
-54,psyduck,9,346,Water Sport,1,1,1
-54,psyduck,9,352,Water Pulse,1,22,
-54,psyduck,9,428,Zen Headbutt,1,40,
-54,psyduck,10,10,Scratch,1,1,2
-54,psyduck,10,39,Tail Whip,1,5,
-54,psyduck,10,50,Disable,1,14,
-54,psyduck,10,55,Water Gun,1,9,
-54,psyduck,10,56,Hydro Pump,1,48,
-54,psyduck,10,93,Confusion,1,18,
-54,psyduck,10,103,Screech,1,31,
-54,psyduck,10,133,Amnesia,1,44,
-54,psyduck,10,154,Fury Swipes,1,27,
-54,psyduck,10,244,Psych Up,1,35,
-54,psyduck,10,346,Water Sport,1,1,1
-54,psyduck,10,352,Water Pulse,1,22,
-54,psyduck,10,428,Zen Headbutt,1,40,
-54,psyduck,11,10,Scratch,1,1,2
-54,psyduck,11,39,Tail Whip,1,5,
-54,psyduck,11,50,Disable,1,14,
-54,psyduck,11,55,Water Gun,1,9,
-54,psyduck,11,56,Hydro Pump,1,53,
-54,psyduck,11,93,Confusion,1,18,
-54,psyduck,11,103,Screech,1,31,
-54,psyduck,11,133,Amnesia,1,48,
-54,psyduck,11,154,Fury Swipes,1,27,
-54,psyduck,11,244,Psych Up,1,40,
-54,psyduck,11,346,Water Sport,1,1,1
-54,psyduck,11,352,Water Pulse,1,22,
-54,psyduck,11,428,Zen Headbutt,1,44,
-54,psyduck,11,472,Wonder Room,1,57,
-54,psyduck,11,487,Soak,1,35,
-54,psyduck,12,10,Scratch,1,1,2
-54,psyduck,12,39,Tail Whip,1,5,
-54,psyduck,12,50,Disable,1,10,
-54,psyduck,12,56,Hydro Pump,1,50,
-54,psyduck,12,93,Confusion,1,16,
-54,psyduck,12,103,Screech,1,23,
-54,psyduck,12,154,Fury Swipes,1,40,
-54,psyduck,12,244,Psych Up,1,31,
-54,psyduck,12,346,Water Sport,1,1,1
-54,psyduck,13,10,Scratch,1,1,2
-54,psyduck,13,39,Tail Whip,1,5,
-54,psyduck,13,50,Disable,1,10,
-54,psyduck,13,56,Hydro Pump,1,50,
-54,psyduck,13,93,Confusion,1,16,
-54,psyduck,13,103,Screech,1,23,
-54,psyduck,13,154,Fury Swipes,1,40,
-54,psyduck,13,244,Psych Up,1,31,
-54,psyduck,13,346,Water Sport,1,1,1
-54,psyduck,14,10,Scratch,1,1,2
-54,psyduck,14,39,Tail Whip,1,4,
-54,psyduck,14,50,Disable,1,11,
-54,psyduck,14,55,Water Gun,1,8,
-54,psyduck,14,56,Hydro Pump,1,46,
-54,psyduck,14,93,Confusion,1,15,
-54,psyduck,14,103,Screech,1,25,
-54,psyduck,14,133,Amnesia,1,43,
-54,psyduck,14,154,Fury Swipes,1,22,
-54,psyduck,14,244,Psych Up,1,39,
-54,psyduck,14,346,Water Sport,1,1,1
-54,psyduck,14,352,Water Pulse,1,18,
-54,psyduck,14,401,Aqua Tail,1,32,
-54,psyduck,14,428,Zen Headbutt,1,29,
-54,psyduck,14,472,Wonder Room,1,50,
-54,psyduck,14,487,Soak,1,36,
-54,psyduck,15,10,Scratch,1,1,2
-54,psyduck,15,39,Tail Whip,1,4,
-54,psyduck,15,50,Disable,1,11,
-54,psyduck,15,55,Water Gun,1,8,
-54,psyduck,15,56,Hydro Pump,1,46,
-54,psyduck,15,93,Confusion,1,15,
-54,psyduck,15,103,Screech,1,25,
-54,psyduck,15,133,Amnesia,1,43,
-54,psyduck,15,154,Fury Swipes,1,22,
-54,psyduck,15,244,Psych Up,1,39,
-54,psyduck,15,346,Water Sport,1,1,1
-54,psyduck,15,352,Water Pulse,1,18,
-54,psyduck,15,401,Aqua Tail,1,32,
-54,psyduck,15,428,Zen Headbutt,1,29,
-54,psyduck,15,472,Wonder Room,1,50,
-54,psyduck,15,487,Soak,1,36,
-54,psyduck,16,10,Scratch,1,1,2
-54,psyduck,16,39,Tail Whip,1,4,1
-54,psyduck,16,50,Disable,1,22,1
-54,psyduck,16,55,Water Gun,1,8,1
-54,psyduck,16,56,Hydro Pump,1,46,1
-54,psyduck,16,93,Confusion,1,11,1
-54,psyduck,16,103,Screech,1,25,1
-54,psyduck,16,133,Amnesia,1,43,1
-54,psyduck,16,154,Fury Swipes,1,15,1
-54,psyduck,16,244,Psych Up,1,39,1
-54,psyduck,16,346,Water Sport,1,1,1
-54,psyduck,16,352,Water Pulse,1,18,1
-54,psyduck,16,401,Aqua Tail,1,29,1
-54,psyduck,16,428,Zen Headbutt,1,32,1
-54,psyduck,16,472,Wonder Room,1,50,1
-54,psyduck,16,487,Soak,1,36,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+54,1,Scratch,1,normal,40,100
+54,2,Scratch,1,normal,40,100
+54,3,Scratch,1,normal,40,100
+54,4,Scratch,1,normal,40,100
+54,5,Scratch,1,normal,40,100
+54,5,Water Sport,1,water,-,-
+54,6,Scratch,1,normal,40,100
+54,6,Water Sport,1,water,-,-
+54,7,Scratch,1,normal,40,100
+54,7,Water Sport,1,water,-,-
+54,8,Scratch,1,normal,40,100
+54,8,Water Sport,1,water,-,-
+54,9,Scratch,1,normal,40,100
+54,9,Water Sport,1,water,-,-
+54,10,Scratch,1,normal,40,100
+54,10,Water Sport,1,water,-,-
+54,11,Scratch,1,normal,40,100
+54,11,Water Sport,1,water,-,-
+54,12,Scratch,1,normal,40,100
+54,12,Water Sport,1,water,-,-
+54,13,Scratch,1,normal,40,100
+54,13,Water Sport,1,water,-,-
+54,14,Scratch,1,normal,40,100
+54,14,Water Sport,1,water,-,-
+54,15,Scratch,1,normal,40,100
+54,15,Water Sport,1,water,-,-
+54,16,Scratch,1,normal,40,100
+54,16,Water Sport,1,water,-,-
+54,14,Tail Whip,4,normal,-,100
+54,15,Tail Whip,4,normal,-,100
+54,16,Tail Whip,4,normal,-,100
+54,3,Tail Whip,5,normal,-,100
+54,4,Tail Whip,5,normal,-,100
+54,5,Tail Whip,5,normal,-,100
+54,6,Tail Whip,5,normal,-,100
+54,7,Tail Whip,5,normal,-,100
+54,8,Tail Whip,5,normal,-,100
+54,9,Tail Whip,5,normal,-,100
+54,10,Tail Whip,5,normal,-,100
+54,11,Tail Whip,5,normal,-,100
+54,12,Tail Whip,5,normal,-,100
+54,13,Tail Whip,5,normal,-,100
+54,14,Water Gun,8,water,40,100
+54,15,Water Gun,8,water,40,100
+54,16,Water Gun,8,water,40,100
+54,8,Water Gun,9,water,40,100
+54,9,Water Gun,9,water,40,100
+54,10,Water Gun,9,water,40,100
+54,11,Water Gun,9,water,40,100
+54,3,Disable,10,normal,-,100
+54,4,Disable,10,normal,-,100
+54,5,Disable,10,normal,-,100
+54,6,Disable,10,normal,-,100
+54,7,Disable,10,normal,-,100
+54,12,Disable,10,normal,-,100
+54,13,Disable,10,normal,-,100
+54,14,Disable,11,normal,-,100
+54,15,Disable,11,normal,-,100
+54,16,Confusion,11,psychic,50,100
+54,8,Disable,14,normal,-,100
+54,9,Disable,14,normal,-,100
+54,10,Disable,14,normal,-,100
+54,11,Disable,14,normal,-,100
+54,14,Confusion,15,psychic,50,100
+54,15,Confusion,15,psychic,50,100
+54,16,Fury Swipes,15,normal,18,80
+54,3,Confusion,16,psychic,50,100
+54,4,Confusion,16,psychic,50,100
+54,5,Confusion,16,psychic,50,100
+54,6,Confusion,16,psychic,50,100
+54,7,Confusion,16,psychic,50,100
+54,12,Confusion,16,psychic,50,100
+54,13,Confusion,16,psychic,50,100
+54,8,Confusion,18,psychic,50,100
+54,9,Confusion,18,psychic,50,100
+54,10,Confusion,18,psychic,50,100
+54,11,Confusion,18,psychic,50,100
+54,14,Water Pulse,18,water,60,100
+54,15,Water Pulse,18,water,60,100
+54,16,Water Pulse,18,water,60,100
+54,8,Water Pulse,22,water,60,100
+54,9,Water Pulse,22,water,60,100
+54,10,Water Pulse,22,water,60,100
+54,11,Water Pulse,22,water,60,100
+54,14,Fury Swipes,22,normal,18,80
+54,15,Fury Swipes,22,normal,18,80
+54,16,Disable,22,normal,-,100
+54,3,Screech,23,normal,-,85
+54,4,Screech,23,normal,-,85
+54,5,Screech,23,normal,-,85
+54,6,Screech,23,normal,-,85
+54,7,Screech,23,normal,-,85
+54,12,Screech,23,normal,-,85
+54,13,Screech,23,normal,-,85
+54,14,Screech,25,normal,-,85
+54,15,Screech,25,normal,-,85
+54,16,Screech,25,normal,-,85
+54,8,Fury Swipes,27,normal,18,80
+54,9,Fury Swipes,27,normal,18,80
+54,10,Fury Swipes,27,normal,18,80
+54,11,Fury Swipes,27,normal,18,80
+54,1,Tail Whip,28,normal,-,100
+54,2,Tail Whip,28,normal,-,100
+54,14,Zen Headbutt,29,psychic,80,90
+54,15,Zen Headbutt,29,psychic,80,90
+54,16,Aqua Tail,29,water,90,90
+54,1,Disable,31,normal,-,100
+54,2,Disable,31,normal,-,100
+54,3,Psych Up,31,normal,-,-
+54,4,Psych Up,31,normal,-,-
+54,5,Psych Up,31,normal,-,-
+54,6,Psych Up,31,normal,-,-
+54,7,Psych Up,31,normal,-,-
+54,8,Screech,31,normal,-,85
+54,9,Screech,31,normal,-,85
+54,10,Screech,31,normal,-,85
+54,11,Screech,31,normal,-,85
+54,12,Psych Up,31,normal,-,-
+54,13,Psych Up,31,normal,-,-
+54,14,Aqua Tail,32,water,90,90
+54,15,Aqua Tail,32,water,90,90
+54,16,Zen Headbutt,32,psychic,80,90
+54,8,Psych Up,35,normal,-,-
+54,9,Psych Up,35,normal,-,-
+54,10,Psych Up,35,normal,-,-
+54,11,Soak,35,water,-,100
+54,1,Confusion,36,psychic,50,100
+54,2,Confusion,36,psychic,50,100
+54,14,Soak,36,water,-,100
+54,15,Soak,36,water,-,100
+54,16,Soak,36,water,-,100
+54,14,Psych Up,39,normal,-,-
+54,15,Psych Up,39,normal,-,-
+54,16,Psych Up,39,normal,-,-
+54,3,Fury Swipes,40,normal,18,80
+54,4,Fury Swipes,40,normal,18,80
+54,5,Fury Swipes,40,normal,18,80
+54,6,Fury Swipes,40,normal,18,80
+54,7,Fury Swipes,40,normal,18,80
+54,8,Zen Headbutt,40,psychic,80,90
+54,9,Zen Headbutt,40,psychic,80,90
+54,10,Zen Headbutt,40,psychic,80,90
+54,11,Psych Up,40,normal,-,-
+54,12,Fury Swipes,40,normal,18,80
+54,13,Fury Swipes,40,normal,18,80
+54,1,Fury Swipes,43,normal,18,80
+54,2,Fury Swipes,43,normal,18,80
+54,14,Amnesia,43,psychic,-,-
+54,15,Amnesia,43,psychic,-,-
+54,16,Amnesia,43,psychic,-,-
+54,8,Amnesia,44,psychic,-,-
+54,9,Amnesia,44,psychic,-,-
+54,10,Amnesia,44,psychic,-,-
+54,11,Zen Headbutt,44,psychic,80,90
+54,14,Hydro Pump,46,water,110,80
+54,15,Hydro Pump,46,water,110,80
+54,16,Hydro Pump,46,water,110,80
+54,8,Hydro Pump,48,water,110,80
+54,9,Hydro Pump,48,water,110,80
+54,10,Hydro Pump,48,water,110,80
+54,11,Amnesia,48,psychic,-,-
+54,3,Hydro Pump,50,water,110,80
+54,4,Hydro Pump,50,water,110,80
+54,5,Hydro Pump,50,water,110,80
+54,6,Hydro Pump,50,water,110,80
+54,7,Hydro Pump,50,water,110,80
+54,12,Hydro Pump,50,water,110,80
+54,13,Hydro Pump,50,water,110,80
+54,14,Wonder Room,50,psychic,-,-
+54,15,Wonder Room,50,psychic,-,-
+54,16,Wonder Room,50,psychic,-,-
+54,1,Hydro Pump,52,water,110,80
+54,2,Hydro Pump,52,water,110,80
+54,11,Hydro Pump,53,water,110,80
+54,11,Wonder Room,57,psychic,-,-

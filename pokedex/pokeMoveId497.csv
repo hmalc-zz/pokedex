@@ -1,73 +1,73 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-497,serperior,11,21,Slam,1,28,
-497,serperior,11,22,Vine Whip,1,1,3
-497,serperior,11,22,Vine Whip,1,7,
-497,serperior,11,33,Tackle,1,1,1
-497,serperior,11,35,Wrap,1,1,4
-497,serperior,11,35,Wrap,1,10,
-497,serperior,11,43,Leer,1,1,2
-497,serperior,11,43,Leer,1,4,
-497,serperior,11,72,Mega Drain,1,24,
-497,serperior,11,73,Leech Seed,1,20,
-497,serperior,11,74,Growth,1,13,
-497,serperior,11,202,Giga Drain,1,44,
-497,serperior,11,348,Leaf Blade,1,32,
-497,serperior,11,378,Wring Out,1,50,
-497,serperior,11,380,Gastro Acid,1,56,
-497,serperior,11,437,Leaf Storm,1,62,
-497,serperior,11,489,Coil,1,38,
-497,serperior,11,536,Leaf Tornado,1,16,
-497,serperior,14,21,Slam,1,28,
-497,serperior,14,22,Vine Whip,1,1,3
-497,serperior,14,22,Vine Whip,1,7,
-497,serperior,14,33,Tackle,1,1,1
-497,serperior,14,35,Wrap,1,1,4
-497,serperior,14,35,Wrap,1,10,
-497,serperior,14,43,Leer,1,1,2
-497,serperior,14,43,Leer,1,4,
-497,serperior,14,72,Mega Drain,1,24,
-497,serperior,14,73,Leech Seed,1,20,
-497,serperior,14,74,Growth,1,13,
-497,serperior,14,202,Giga Drain,1,44,
-497,serperior,14,348,Leaf Blade,1,32,
-497,serperior,14,378,Wring Out,1,50,
-497,serperior,14,380,Gastro Acid,1,56,
-497,serperior,14,437,Leaf Storm,1,62,
-497,serperior,14,489,Coil,1,38,
-497,serperior,14,536,Leaf Tornado,1,16,
-497,serperior,15,21,Slam,1,28,
-497,serperior,15,22,Vine Whip,1,1,3
-497,serperior,15,22,Vine Whip,1,7,
-497,serperior,15,33,Tackle,1,1,1
-497,serperior,15,35,Wrap,1,1,4
-497,serperior,15,35,Wrap,1,10,
-497,serperior,15,43,Leer,1,1,2
-497,serperior,15,43,Leer,1,4,
-497,serperior,15,72,Mega Drain,1,24,
-497,serperior,15,73,Leech Seed,1,20,
-497,serperior,15,74,Growth,1,13,
-497,serperior,15,202,Giga Drain,1,44,
-497,serperior,15,348,Leaf Blade,1,32,
-497,serperior,15,378,Wring Out,1,50,
-497,serperior,15,380,Gastro Acid,1,56,
-497,serperior,15,437,Leaf Storm,1,62,
-497,serperior,15,489,Coil,1,38,
-497,serperior,15,536,Leaf Tornado,1,16,
-497,serperior,16,21,Slam,1,28,1
-497,serperior,16,22,Vine Whip,1,1,3
-497,serperior,16,22,Vine Whip,1,7,1
-497,serperior,16,33,Tackle,1,1,1
-497,serperior,16,35,Wrap,1,1,4
-497,serperior,16,35,Wrap,1,10,1
-497,serperior,16,43,Leer,1,1,2
-497,serperior,16,43,Leer,1,4,1
-497,serperior,16,72,Mega Drain,1,24,1
-497,serperior,16,73,Leech Seed,1,20,1
-497,serperior,16,74,Growth,1,13,1
-497,serperior,16,202,Giga Drain,1,44,1
-497,serperior,16,348,Leaf Blade,1,32,1
-497,serperior,16,378,Wring Out,1,50,1
-497,serperior,16,380,Gastro Acid,1,56,1
-497,serperior,16,437,Leaf Storm,1,62,1
-497,serperior,16,489,Coil,1,38,1
-497,serperior,16,536,Leaf Tornado,1,16,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+497,11,Vine Whip,1,grass,45,100
+497,11,Tackle,1,normal,50,100
+497,11,Wrap,1,normal,15,90
+497,11,Leer,1,normal,-,100
+497,14,Vine Whip,1,grass,45,100
+497,14,Tackle,1,normal,50,100
+497,14,Wrap,1,normal,15,90
+497,14,Leer,1,normal,-,100
+497,15,Vine Whip,1,grass,45,100
+497,15,Tackle,1,normal,50,100
+497,15,Wrap,1,normal,15,90
+497,15,Leer,1,normal,-,100
+497,16,Vine Whip,1,grass,45,100
+497,16,Tackle,1,normal,50,100
+497,16,Wrap,1,normal,15,90
+497,16,Leer,1,normal,-,100
+497,11,Leer,4,normal,-,100
+497,14,Leer,4,normal,-,100
+497,15,Leer,4,normal,-,100
+497,16,Leer,4,normal,-,100
+497,11,Vine Whip,7,grass,45,100
+497,14,Vine Whip,7,grass,45,100
+497,15,Vine Whip,7,grass,45,100
+497,16,Vine Whip,7,grass,45,100
+497,11,Wrap,10,normal,15,90
+497,14,Wrap,10,normal,15,90
+497,15,Wrap,10,normal,15,90
+497,16,Wrap,10,normal,15,90
+497,11,Growth,13,normal,-,-
+497,14,Growth,13,normal,-,-
+497,15,Growth,13,normal,-,-
+497,16,Growth,13,normal,-,-
+497,11,Leaf Tornado,16,grass,65,90
+497,14,Leaf Tornado,16,grass,65,90
+497,15,Leaf Tornado,16,grass,65,90
+497,16,Leaf Tornado,16,grass,65,90
+497,11,Leech Seed,20,grass,-,90
+497,14,Leech Seed,20,grass,-,90
+497,15,Leech Seed,20,grass,-,90
+497,16,Leech Seed,20,grass,-,90
+497,11,Mega Drain,24,grass,40,100
+497,14,Mega Drain,24,grass,40,100
+497,15,Mega Drain,24,grass,40,100
+497,16,Mega Drain,24,grass,40,100
+497,11,Slam,28,normal,80,75
+497,14,Slam,28,normal,80,75
+497,15,Slam,28,normal,80,75
+497,16,Slam,28,normal,80,75
+497,11,Leaf Blade,32,grass,90,100
+497,14,Leaf Blade,32,grass,90,100
+497,15,Leaf Blade,32,grass,90,100
+497,16,Leaf Blade,32,grass,90,100
+497,11,Coil,38,poison,-,-
+497,14,Coil,38,poison,-,-
+497,15,Coil,38,poison,-,-
+497,16,Coil,38,poison,-,-
+497,11,Giga Drain,44,grass,75,100
+497,14,Giga Drain,44,grass,75,100
+497,15,Giga Drain,44,grass,75,100
+497,16,Giga Drain,44,grass,75,100
+497,11,Wring Out,50,normal,-,100
+497,14,Wring Out,50,normal,-,100
+497,15,Wring Out,50,normal,-,100
+497,16,Wring Out,50,normal,-,100
+497,11,Gastro Acid,56,poison,-,100
+497,14,Gastro Acid,56,poison,-,100
+497,15,Gastro Acid,56,poison,-,100
+497,16,Gastro Acid,56,poison,-,100
+497,11,Leaf Storm,62,grass,130,90
+497,14,Leaf Storm,62,grass,130,90
+497,15,Leaf Storm,62,grass,130,90
+497,16,Leaf Storm,62,grass,130,90

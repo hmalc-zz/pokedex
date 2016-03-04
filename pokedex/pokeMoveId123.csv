@@ -1,215 +1,215 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-123,scyther,1,14,Swords Dance,1,35,
-123,scyther,1,43,Leer,1,17,
-123,scyther,1,97,Agility,1,42,
-123,scyther,1,98,Quick Attack,1,1,
-123,scyther,1,104,Double Team,1,24,
-123,scyther,1,116,Focus Energy,1,20,
-123,scyther,1,163,Slash,1,29,
-123,scyther,2,14,Swords Dance,1,35,
-123,scyther,2,17,Wing Attack,1,50,
-123,scyther,2,43,Leer,1,17,
-123,scyther,2,97,Agility,1,42,
-123,scyther,2,98,Quick Attack,1,1,
-123,scyther,2,104,Double Team,1,24,
-123,scyther,2,116,Focus Energy,1,20,
-123,scyther,2,163,Slash,1,29,
-123,scyther,3,14,Swords Dance,1,42,
-123,scyther,3,17,Wing Attack,1,30,
-123,scyther,3,43,Leer,1,1,2
-123,scyther,3,97,Agility,1,24,
-123,scyther,3,98,Quick Attack,1,1,1
-123,scyther,3,104,Double Team,1,48,
-123,scyther,3,116,Focus Energy,1,6,
-123,scyther,3,163,Slash,1,36,
-123,scyther,3,206,False Swipe,1,18,
-123,scyther,3,228,Pursuit,1,12,
-123,scyther,4,14,Swords Dance,1,42,
-123,scyther,4,17,Wing Attack,1,30,
-123,scyther,4,43,Leer,1,1,2
-123,scyther,4,97,Agility,1,24,
-123,scyther,4,98,Quick Attack,1,1,1
-123,scyther,4,104,Double Team,1,48,
-123,scyther,4,116,Focus Energy,1,6,
-123,scyther,4,163,Slash,1,36,
-123,scyther,4,206,False Swipe,1,18,
-123,scyther,4,228,Pursuit,1,12,
-123,scyther,5,14,Swords Dance,1,36,
-123,scyther,5,17,Wing Attack,1,26,
-123,scyther,5,43,Leer,1,1,2
-123,scyther,5,97,Agility,1,21,
-123,scyther,5,98,Quick Attack,1,1,1
-123,scyther,5,104,Double Team,1,41,
-123,scyther,5,116,Focus Energy,1,6,
-123,scyther,5,163,Slash,1,31,
-123,scyther,5,206,False Swipe,1,16,
-123,scyther,5,210,Fury Cutter,1,46,
-123,scyther,5,228,Pursuit,1,11,
-123,scyther,6,14,Swords Dance,1,36,
-123,scyther,6,17,Wing Attack,1,26,
-123,scyther,6,43,Leer,1,1,2
-123,scyther,6,97,Agility,1,21,
-123,scyther,6,98,Quick Attack,1,1,1
-123,scyther,6,104,Double Team,1,41,
-123,scyther,6,116,Focus Energy,1,6,
-123,scyther,6,163,Slash,1,31,
-123,scyther,6,206,False Swipe,1,16,
-123,scyther,6,210,Fury Cutter,1,46,
-123,scyther,6,228,Pursuit,1,11,
-123,scyther,7,14,Swords Dance,1,36,
-123,scyther,7,17,Wing Attack,1,26,
-123,scyther,7,43,Leer,1,1,2
-123,scyther,7,97,Agility,1,21,
-123,scyther,7,98,Quick Attack,1,1,1
-123,scyther,7,104,Double Team,1,41,
-123,scyther,7,116,Focus Energy,1,6,
-123,scyther,7,163,Slash,1,31,
-123,scyther,7,206,False Swipe,1,16,
-123,scyther,7,210,Fury Cutter,1,46,
-123,scyther,7,228,Pursuit,1,11,
-123,scyther,8,13,Razor Wind,1,33,
-123,scyther,8,14,Swords Dance,1,57,
-123,scyther,8,17,Wing Attack,1,21,
-123,scyther,8,43,Leer,1,1,2
-123,scyther,8,97,Agility,1,17,
-123,scyther,8,98,Quick Attack,1,1,1
-123,scyther,8,104,Double Team,1,37,
-123,scyther,8,116,Focus Energy,1,5,
-123,scyther,8,163,Slash,1,29,
-123,scyther,8,206,False Swipe,1,13,
-123,scyther,8,210,Fury Cutter,1,25,
-123,scyther,8,228,Pursuit,1,9,
-123,scyther,8,400,Night Slash,1,45,
-123,scyther,8,403,Air Slash,1,53,
-123,scyther,8,404,X-Scissor,1,41,
-123,scyther,8,458,Double Hit,1,49,
-123,scyther,9,13,Razor Wind,1,33,
-123,scyther,9,14,Swords Dance,1,57,
-123,scyther,9,17,Wing Attack,1,21,
-123,scyther,9,43,Leer,1,1,3
-123,scyther,9,97,Agility,1,17,
-123,scyther,9,98,Quick Attack,1,1,2
-123,scyther,9,104,Double Team,1,37,
-123,scyther,9,116,Focus Energy,1,5,
-123,scyther,9,163,Slash,1,29,
-123,scyther,9,206,False Swipe,1,13,
-123,scyther,9,210,Fury Cutter,1,25,
-123,scyther,9,228,Pursuit,1,9,
-123,scyther,9,364,Feint,1,61,
-123,scyther,9,400,Night Slash,1,45,
-123,scyther,9,403,Air Slash,1,53,
-123,scyther,9,404,X-Scissor,1,41,
-123,scyther,9,410,Vacuum Wave,1,1,1
-123,scyther,9,458,Double Hit,1,49,
-123,scyther,10,13,Razor Wind,1,33,
-123,scyther,10,14,Swords Dance,1,57,
-123,scyther,10,17,Wing Attack,1,21,
-123,scyther,10,43,Leer,1,1,3
-123,scyther,10,97,Agility,1,17,
-123,scyther,10,98,Quick Attack,1,1,2
-123,scyther,10,104,Double Team,1,37,
-123,scyther,10,116,Focus Energy,1,5,
-123,scyther,10,163,Slash,1,29,
-123,scyther,10,206,False Swipe,1,13,
-123,scyther,10,210,Fury Cutter,1,25,
-123,scyther,10,228,Pursuit,1,9,
-123,scyther,10,364,Feint,1,61,
-123,scyther,10,400,Night Slash,1,45,
-123,scyther,10,403,Air Slash,1,53,
-123,scyther,10,404,X-Scissor,1,41,
-123,scyther,10,410,Vacuum Wave,1,1,1
-123,scyther,10,458,Double Hit,1,49,
-123,scyther,11,13,Razor Wind,1,33,
-123,scyther,11,14,Swords Dance,1,57,
-123,scyther,11,17,Wing Attack,1,21,
-123,scyther,11,43,Leer,1,1,3
-123,scyther,11,97,Agility,1,17,
-123,scyther,11,98,Quick Attack,1,1,2
-123,scyther,11,104,Double Team,1,37,
-123,scyther,11,116,Focus Energy,1,5,
-123,scyther,11,163,Slash,1,29,
-123,scyther,11,206,False Swipe,1,13,
-123,scyther,11,210,Fury Cutter,1,25,
-123,scyther,11,228,Pursuit,1,9,
-123,scyther,11,364,Feint,1,61,
-123,scyther,11,400,Night Slash,1,45,
-123,scyther,11,403,Air Slash,1,53,
-123,scyther,11,404,X-Scissor,1,41,
-123,scyther,11,410,Vacuum Wave,1,1,1
-123,scyther,11,458,Double Hit,1,49,
-123,scyther,12,14,Swords Dance,1,36,
-123,scyther,12,17,Wing Attack,1,26,
-123,scyther,12,43,Leer,1,1,2
-123,scyther,12,97,Agility,1,21,
-123,scyther,12,98,Quick Attack,1,1,1
-123,scyther,12,104,Double Team,1,41,
-123,scyther,12,116,Focus Energy,1,6,
-123,scyther,12,163,Slash,1,31,
-123,scyther,12,206,False Swipe,1,16,
-123,scyther,12,210,Fury Cutter,1,46,
-123,scyther,12,228,Pursuit,1,11,
-123,scyther,13,14,Swords Dance,1,36,
-123,scyther,13,17,Wing Attack,1,26,
-123,scyther,13,43,Leer,1,1,2
-123,scyther,13,97,Agility,1,21,
-123,scyther,13,98,Quick Attack,1,1,1
-123,scyther,13,104,Double Team,1,41,
-123,scyther,13,116,Focus Energy,1,6,
-123,scyther,13,163,Slash,1,31,
-123,scyther,13,206,False Swipe,1,16,
-123,scyther,13,210,Fury Cutter,1,46,
-123,scyther,13,228,Pursuit,1,11,
-123,scyther,14,13,Razor Wind,1,33,
-123,scyther,14,14,Swords Dance,1,57,
-123,scyther,14,17,Wing Attack,1,21,
-123,scyther,14,43,Leer,1,1,3
-123,scyther,14,97,Agility,1,17,
-123,scyther,14,98,Quick Attack,1,1,2
-123,scyther,14,104,Double Team,1,37,
-123,scyther,14,116,Focus Energy,1,5,
-123,scyther,14,163,Slash,1,29,
-123,scyther,14,206,False Swipe,1,13,
-123,scyther,14,210,Fury Cutter,1,25,
-123,scyther,14,228,Pursuit,1,9,
-123,scyther,14,364,Feint,1,61,
-123,scyther,14,400,Night Slash,1,45,
-123,scyther,14,403,Air Slash,1,53,
-123,scyther,14,404,X-Scissor,1,41,
-123,scyther,14,410,Vacuum Wave,1,1,1
-123,scyther,14,458,Double Hit,1,49,
-123,scyther,15,13,Razor Wind,1,33,
-123,scyther,15,14,Swords Dance,1,57,
-123,scyther,15,17,Wing Attack,1,21,
-123,scyther,15,43,Leer,1,1,3
-123,scyther,15,97,Agility,1,17,
-123,scyther,15,98,Quick Attack,1,1,2
-123,scyther,15,104,Double Team,1,37,
-123,scyther,15,116,Focus Energy,1,5,
-123,scyther,15,163,Slash,1,29,
-123,scyther,15,206,False Swipe,1,13,
-123,scyther,15,210,Fury Cutter,1,25,
-123,scyther,15,228,Pursuit,1,9,
-123,scyther,15,364,Feint,1,61,
-123,scyther,15,400,Night Slash,1,45,
-123,scyther,15,403,Air Slash,1,50,
-123,scyther,15,404,X-Scissor,1,41,
-123,scyther,15,410,Vacuum Wave,1,1,1
-123,scyther,15,458,Double Hit,1,49,
-123,scyther,16,13,Razor Wind,1,33,1
-123,scyther,16,14,Swords Dance,1,57,1
-123,scyther,16,17,Wing Attack,1,21,1
-123,scyther,16,43,Leer,1,1,3
-123,scyther,16,97,Agility,1,17,1
-123,scyther,16,98,Quick Attack,1,1,2
-123,scyther,16,104,Double Team,1,37,1
-123,scyther,16,116,Focus Energy,1,5,1
-123,scyther,16,163,Slash,1,29,1
-123,scyther,16,206,False Swipe,1,13,1
-123,scyther,16,210,Fury Cutter,1,25,1
-123,scyther,16,228,Pursuit,1,9,1
-123,scyther,16,364,Feint,1,61,1
-123,scyther,16,400,Night Slash,1,45,1
-123,scyther,16,403,Air Slash,1,50,1
-123,scyther,16,404,X-Scissor,1,41,1
-123,scyther,16,410,Vacuum Wave,1,1,1
-123,scyther,16,458,Double Hit,1,49,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+123,1,Quick Attack,1,normal,40,100
+123,2,Quick Attack,1,normal,40,100
+123,3,Leer,1,normal,-,100
+123,3,Quick Attack,1,normal,40,100
+123,4,Leer,1,normal,-,100
+123,4,Quick Attack,1,normal,40,100
+123,5,Leer,1,normal,-,100
+123,5,Quick Attack,1,normal,40,100
+123,6,Leer,1,normal,-,100
+123,6,Quick Attack,1,normal,40,100
+123,7,Leer,1,normal,-,100
+123,7,Quick Attack,1,normal,40,100
+123,8,Leer,1,normal,-,100
+123,8,Quick Attack,1,normal,40,100
+123,9,Leer,1,normal,-,100
+123,9,Quick Attack,1,normal,40,100
+123,9,Vacuum Wave,1,fighting,40,100
+123,10,Leer,1,normal,-,100
+123,10,Quick Attack,1,normal,40,100
+123,10,Vacuum Wave,1,fighting,40,100
+123,11,Leer,1,normal,-,100
+123,11,Quick Attack,1,normal,40,100
+123,11,Vacuum Wave,1,fighting,40,100
+123,12,Leer,1,normal,-,100
+123,12,Quick Attack,1,normal,40,100
+123,13,Leer,1,normal,-,100
+123,13,Quick Attack,1,normal,40,100
+123,14,Leer,1,normal,-,100
+123,14,Quick Attack,1,normal,40,100
+123,14,Vacuum Wave,1,fighting,40,100
+123,15,Leer,1,normal,-,100
+123,15,Quick Attack,1,normal,40,100
+123,15,Vacuum Wave,1,fighting,40,100
+123,16,Leer,1,normal,-,100
+123,16,Quick Attack,1,normal,40,100
+123,16,Vacuum Wave,1,fighting,40,100
+123,8,Focus Energy,5,normal,-,-
+123,9,Focus Energy,5,normal,-,-
+123,10,Focus Energy,5,normal,-,-
+123,11,Focus Energy,5,normal,-,-
+123,14,Focus Energy,5,normal,-,-
+123,15,Focus Energy,5,normal,-,-
+123,16,Focus Energy,5,normal,-,-
+123,3,Focus Energy,6,normal,-,-
+123,4,Focus Energy,6,normal,-,-
+123,5,Focus Energy,6,normal,-,-
+123,6,Focus Energy,6,normal,-,-
+123,7,Focus Energy,6,normal,-,-
+123,12,Focus Energy,6,normal,-,-
+123,13,Focus Energy,6,normal,-,-
+123,8,Pursuit,9,dark,40,100
+123,9,Pursuit,9,dark,40,100
+123,10,Pursuit,9,dark,40,100
+123,11,Pursuit,9,dark,40,100
+123,14,Pursuit,9,dark,40,100
+123,15,Pursuit,9,dark,40,100
+123,16,Pursuit,9,dark,40,100
+123,5,Pursuit,11,dark,40,100
+123,6,Pursuit,11,dark,40,100
+123,7,Pursuit,11,dark,40,100
+123,12,Pursuit,11,dark,40,100
+123,13,Pursuit,11,dark,40,100
+123,3,Pursuit,12,dark,40,100
+123,4,Pursuit,12,dark,40,100
+123,8,False Swipe,13,normal,40,100
+123,9,False Swipe,13,normal,40,100
+123,10,False Swipe,13,normal,40,100
+123,11,False Swipe,13,normal,40,100
+123,14,False Swipe,13,normal,40,100
+123,15,False Swipe,13,normal,40,100
+123,16,False Swipe,13,normal,40,100
+123,5,False Swipe,16,normal,40,100
+123,6,False Swipe,16,normal,40,100
+123,7,False Swipe,16,normal,40,100
+123,12,False Swipe,16,normal,40,100
+123,13,False Swipe,16,normal,40,100
+123,1,Leer,17,normal,-,100
+123,2,Leer,17,normal,-,100
+123,8,Agility,17,psychic,-,-
+123,9,Agility,17,psychic,-,-
+123,10,Agility,17,psychic,-,-
+123,11,Agility,17,psychic,-,-
+123,14,Agility,17,psychic,-,-
+123,15,Agility,17,psychic,-,-
+123,16,Agility,17,psychic,-,-
+123,3,False Swipe,18,normal,40,100
+123,4,False Swipe,18,normal,40,100
+123,1,Focus Energy,20,normal,-,-
+123,2,Focus Energy,20,normal,-,-
+123,5,Agility,21,psychic,-,-
+123,6,Agility,21,psychic,-,-
+123,7,Agility,21,psychic,-,-
+123,8,Wing Attack,21,flying,60,100
+123,9,Wing Attack,21,flying,60,100
+123,10,Wing Attack,21,flying,60,100
+123,11,Wing Attack,21,flying,60,100
+123,12,Agility,21,psychic,-,-
+123,13,Agility,21,psychic,-,-
+123,14,Wing Attack,21,flying,60,100
+123,15,Wing Attack,21,flying,60,100
+123,16,Wing Attack,21,flying,60,100
+123,1,Double Team,24,normal,-,-
+123,2,Double Team,24,normal,-,-
+123,3,Agility,24,psychic,-,-
+123,4,Agility,24,psychic,-,-
+123,8,Fury Cutter,25,bug,40,95
+123,9,Fury Cutter,25,bug,40,95
+123,10,Fury Cutter,25,bug,40,95
+123,11,Fury Cutter,25,bug,40,95
+123,14,Fury Cutter,25,bug,40,95
+123,15,Fury Cutter,25,bug,40,95
+123,16,Fury Cutter,25,bug,40,95
+123,5,Wing Attack,26,flying,60,100
+123,6,Wing Attack,26,flying,60,100
+123,7,Wing Attack,26,flying,60,100
+123,12,Wing Attack,26,flying,60,100
+123,13,Wing Attack,26,flying,60,100
+123,1,Slash,29,normal,70,100
+123,2,Slash,29,normal,70,100
+123,8,Slash,29,normal,70,100
+123,9,Slash,29,normal,70,100
+123,10,Slash,29,normal,70,100
+123,11,Slash,29,normal,70,100
+123,14,Slash,29,normal,70,100
+123,15,Slash,29,normal,70,100
+123,16,Slash,29,normal,70,100
+123,3,Wing Attack,30,flying,60,100
+123,4,Wing Attack,30,flying,60,100
+123,5,Slash,31,normal,70,100
+123,6,Slash,31,normal,70,100
+123,7,Slash,31,normal,70,100
+123,12,Slash,31,normal,70,100
+123,13,Slash,31,normal,70,100
+123,8,Razor Wind,33,normal,80,100
+123,9,Razor Wind,33,normal,80,100
+123,10,Razor Wind,33,normal,80,100
+123,11,Razor Wind,33,normal,80,100
+123,14,Razor Wind,33,normal,80,100
+123,15,Razor Wind,33,normal,80,100
+123,16,Razor Wind,33,normal,80,100
+123,1,Swords Dance,35,normal,-,-
+123,2,Swords Dance,35,normal,-,-
+123,3,Slash,36,normal,70,100
+123,4,Slash,36,normal,70,100
+123,5,Swords Dance,36,normal,-,-
+123,6,Swords Dance,36,normal,-,-
+123,7,Swords Dance,36,normal,-,-
+123,12,Swords Dance,36,normal,-,-
+123,13,Swords Dance,36,normal,-,-
+123,8,Double Team,37,normal,-,-
+123,9,Double Team,37,normal,-,-
+123,10,Double Team,37,normal,-,-
+123,11,Double Team,37,normal,-,-
+123,14,Double Team,37,normal,-,-
+123,15,Double Team,37,normal,-,-
+123,16,Double Team,37,normal,-,-
+123,5,Double Team,41,normal,-,-
+123,6,Double Team,41,normal,-,-
+123,7,Double Team,41,normal,-,-
+123,8,X-Scissor,41,bug,80,100
+123,9,X-Scissor,41,bug,80,100
+123,10,X-Scissor,41,bug,80,100
+123,11,X-Scissor,41,bug,80,100
+123,12,Double Team,41,normal,-,-
+123,13,Double Team,41,normal,-,-
+123,14,X-Scissor,41,bug,80,100
+123,15,X-Scissor,41,bug,80,100
+123,16,X-Scissor,41,bug,80,100
+123,1,Agility,42,psychic,-,-
+123,2,Agility,42,psychic,-,-
+123,3,Swords Dance,42,normal,-,-
+123,4,Swords Dance,42,normal,-,-
+123,8,Night Slash,45,dark,70,100
+123,9,Night Slash,45,dark,70,100
+123,10,Night Slash,45,dark,70,100
+123,11,Night Slash,45,dark,70,100
+123,14,Night Slash,45,dark,70,100
+123,15,Night Slash,45,dark,70,100
+123,16,Night Slash,45,dark,70,100
+123,5,Fury Cutter,46,bug,40,95
+123,6,Fury Cutter,46,bug,40,95
+123,7,Fury Cutter,46,bug,40,95
+123,12,Fury Cutter,46,bug,40,95
+123,13,Fury Cutter,46,bug,40,95
+123,3,Double Team,48,normal,-,-
+123,4,Double Team,48,normal,-,-
+123,8,Double Hit,49,normal,35,90
+123,9,Double Hit,49,normal,35,90
+123,10,Double Hit,49,normal,35,90
+123,11,Double Hit,49,normal,35,90
+123,14,Double Hit,49,normal,35,90
+123,15,Double Hit,49,normal,35,90
+123,16,Double Hit,49,normal,35,90
+123,2,Wing Attack,50,flying,60,100
+123,15,Air Slash,50,flying,75,95
+123,16,Air Slash,50,flying,75,95
+123,8,Air Slash,53,flying,75,95
+123,9,Air Slash,53,flying,75,95
+123,10,Air Slash,53,flying,75,95
+123,11,Air Slash,53,flying,75,95
+123,14,Air Slash,53,flying,75,95
+123,8,Swords Dance,57,normal,-,-
+123,9,Swords Dance,57,normal,-,-
+123,10,Swords Dance,57,normal,-,-
+123,11,Swords Dance,57,normal,-,-
+123,14,Swords Dance,57,normal,-,-
+123,15,Swords Dance,57,normal,-,-
+123,16,Swords Dance,57,normal,-,-
+123,9,Feint,61,normal,30,100
+123,10,Feint,61,normal,30,100
+123,11,Feint,61,normal,30,100
+123,14,Feint,61,normal,30,100
+123,15,Feint,61,normal,30,100
+123,16,Feint,61,normal,30,100

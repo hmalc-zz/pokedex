@@ -1,91 +1,91 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-413,wormadam-plant,8,33,Tackle,1,1,
-413,wormadam-plant,8,60,Psybeam,1,32,
-413,wormadam-plant,8,74,Growth,1,29,
-413,wormadam-plant,8,75,Razor Leaf,1,26,
-413,wormadam-plant,8,93,Confusion,1,23,
-413,wormadam-plant,8,94,Psychic,1,44,
-413,wormadam-plant,8,175,Flail,1,38,
-413,wormadam-plant,8,182,Protect,1,10,
-413,wormadam-plant,8,213,Attract,1,41,
-413,wormadam-plant,8,237,Hidden Power,1,20,
-413,wormadam-plant,8,437,Leaf Storm,1,47,
-413,wormadam-plant,8,445,Captivate,1,35,
-413,wormadam-plant,9,33,Tackle,1,1,
-413,wormadam-plant,9,60,Psybeam,1,32,
-413,wormadam-plant,9,74,Growth,1,29,
-413,wormadam-plant,9,75,Razor Leaf,1,26,
-413,wormadam-plant,9,93,Confusion,1,23,
-413,wormadam-plant,9,94,Psychic,1,44,
-413,wormadam-plant,9,175,Flail,1,38,
-413,wormadam-plant,9,182,Protect,1,10,
-413,wormadam-plant,9,213,Attract,1,41,
-413,wormadam-plant,9,237,Hidden Power,1,20,
-413,wormadam-plant,9,437,Leaf Storm,1,47,
-413,wormadam-plant,9,445,Captivate,1,35,
-413,wormadam-plant,9,450,Bug Bite,1,15,
-413,wormadam-plant,10,33,Tackle,1,1,
-413,wormadam-plant,10,60,Psybeam,1,32,
-413,wormadam-plant,10,74,Growth,1,29,
-413,wormadam-plant,10,75,Razor Leaf,1,26,
-413,wormadam-plant,10,93,Confusion,1,23,
-413,wormadam-plant,10,94,Psychic,1,44,
-413,wormadam-plant,10,175,Flail,1,38,
-413,wormadam-plant,10,182,Protect,1,10,
-413,wormadam-plant,10,213,Attract,1,41,
-413,wormadam-plant,10,237,Hidden Power,1,20,
-413,wormadam-plant,10,437,Leaf Storm,1,47,
-413,wormadam-plant,10,445,Captivate,1,35,
-413,wormadam-plant,10,450,Bug Bite,1,15,
-413,wormadam-plant,11,33,Tackle,1,1,
-413,wormadam-plant,11,60,Psybeam,1,32,
-413,wormadam-plant,11,74,Growth,1,29,
-413,wormadam-plant,11,75,Razor Leaf,1,26,
-413,wormadam-plant,11,93,Confusion,1,23,
-413,wormadam-plant,11,94,Psychic,1,44,
-413,wormadam-plant,11,175,Flail,1,38,
-413,wormadam-plant,11,182,Protect,1,10,
-413,wormadam-plant,11,213,Attract,1,41,
-413,wormadam-plant,11,237,Hidden Power,1,20,
-413,wormadam-plant,11,437,Leaf Storm,1,47,
-413,wormadam-plant,11,445,Captivate,1,35,
-413,wormadam-plant,11,450,Bug Bite,1,15,
-413,wormadam-plant,14,33,Tackle,1,1,
-413,wormadam-plant,14,60,Psybeam,1,32,
-413,wormadam-plant,14,74,Growth,1,29,
-413,wormadam-plant,14,75,Razor Leaf,1,26,
-413,wormadam-plant,14,93,Confusion,1,23,
-413,wormadam-plant,14,94,Psychic,1,44,
-413,wormadam-plant,14,175,Flail,1,38,
-413,wormadam-plant,14,182,Protect,1,10,
-413,wormadam-plant,14,213,Attract,1,41,
-413,wormadam-plant,14,237,Hidden Power,1,20,
-413,wormadam-plant,14,437,Leaf Storm,1,47,
-413,wormadam-plant,14,445,Captivate,1,35,
-413,wormadam-plant,14,450,Bug Bite,1,15,
-413,wormadam-plant,15,33,Tackle,1,1,
-413,wormadam-plant,15,60,Psybeam,1,32,
-413,wormadam-plant,15,74,Growth,1,29,
-413,wormadam-plant,15,75,Razor Leaf,1,26,
-413,wormadam-plant,15,93,Confusion,1,23,
-413,wormadam-plant,15,94,Psychic,1,44,
-413,wormadam-plant,15,175,Flail,1,38,
-413,wormadam-plant,15,182,Protect,1,10,
-413,wormadam-plant,15,213,Attract,1,41,
-413,wormadam-plant,15,237,Hidden Power,1,20,
-413,wormadam-plant,15,437,Leaf Storm,1,47,
-413,wormadam-plant,15,445,Captivate,1,35,
-413,wormadam-plant,15,450,Bug Bite,1,15,
-413,wormadam-plant,16,33,Tackle,1,1,1
-413,wormadam-plant,16,60,Psybeam,1,32,1
-413,wormadam-plant,16,74,Growth,1,29,1
-413,wormadam-plant,16,75,Razor Leaf,1,26,1
-413,wormadam-plant,16,93,Confusion,1,23,1
-413,wormadam-plant,16,94,Psychic,1,44,1
-413,wormadam-plant,16,175,Flail,1,38,1
-413,wormadam-plant,16,182,Protect,1,10,1
-413,wormadam-plant,16,213,Attract,1,41,1
-413,wormadam-plant,16,237,Hidden Power,1,20,1
-413,wormadam-plant,16,437,Leaf Storm,1,47,1
-413,wormadam-plant,16,445,Captivate,1,35,1
-413,wormadam-plant,16,450,Bug Bite,1,15,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+413,8,Tackle,1,normal,50,100
+413,9,Tackle,1,normal,50,100
+413,10,Tackle,1,normal,50,100
+413,11,Tackle,1,normal,50,100
+413,14,Tackle,1,normal,50,100
+413,15,Tackle,1,normal,50,100
+413,16,Tackle,1,normal,50,100
+413,8,Protect,10,normal,-,-
+413,9,Protect,10,normal,-,-
+413,10,Protect,10,normal,-,-
+413,11,Protect,10,normal,-,-
+413,14,Protect,10,normal,-,-
+413,15,Protect,10,normal,-,-
+413,16,Protect,10,normal,-,-
+413,9,Bug Bite,15,bug,60,100
+413,10,Bug Bite,15,bug,60,100
+413,11,Bug Bite,15,bug,60,100
+413,14,Bug Bite,15,bug,60,100
+413,15,Bug Bite,15,bug,60,100
+413,16,Bug Bite,15,bug,60,100
+413,8,Hidden Power,20,normal,60,100
+413,9,Hidden Power,20,normal,60,100
+413,10,Hidden Power,20,normal,60,100
+413,11,Hidden Power,20,normal,60,100
+413,14,Hidden Power,20,normal,60,100
+413,15,Hidden Power,20,normal,60,100
+413,16,Hidden Power,20,normal,60,100
+413,8,Confusion,23,psychic,50,100
+413,9,Confusion,23,psychic,50,100
+413,10,Confusion,23,psychic,50,100
+413,11,Confusion,23,psychic,50,100
+413,14,Confusion,23,psychic,50,100
+413,15,Confusion,23,psychic,50,100
+413,16,Confusion,23,psychic,50,100
+413,8,Razor Leaf,26,grass,55,95
+413,9,Razor Leaf,26,grass,55,95
+413,10,Razor Leaf,26,grass,55,95
+413,11,Razor Leaf,26,grass,55,95
+413,14,Razor Leaf,26,grass,55,95
+413,15,Razor Leaf,26,grass,55,95
+413,16,Razor Leaf,26,grass,55,95
+413,8,Growth,29,normal,-,-
+413,9,Growth,29,normal,-,-
+413,10,Growth,29,normal,-,-
+413,11,Growth,29,normal,-,-
+413,14,Growth,29,normal,-,-
+413,15,Growth,29,normal,-,-
+413,16,Growth,29,normal,-,-
+413,8,Psybeam,32,psychic,65,100
+413,9,Psybeam,32,psychic,65,100
+413,10,Psybeam,32,psychic,65,100
+413,11,Psybeam,32,psychic,65,100
+413,14,Psybeam,32,psychic,65,100
+413,15,Psybeam,32,psychic,65,100
+413,16,Psybeam,32,psychic,65,100
+413,8,Captivate,35,normal,-,100
+413,9,Captivate,35,normal,-,100
+413,10,Captivate,35,normal,-,100
+413,11,Captivate,35,normal,-,100
+413,14,Captivate,35,normal,-,100
+413,15,Captivate,35,normal,-,100
+413,16,Captivate,35,normal,-,100
+413,8,Flail,38,normal,-,100
+413,9,Flail,38,normal,-,100
+413,10,Flail,38,normal,-,100
+413,11,Flail,38,normal,-,100
+413,14,Flail,38,normal,-,100
+413,15,Flail,38,normal,-,100
+413,16,Flail,38,normal,-,100
+413,8,Attract,41,normal,-,100
+413,9,Attract,41,normal,-,100
+413,10,Attract,41,normal,-,100
+413,11,Attract,41,normal,-,100
+413,14,Attract,41,normal,-,100
+413,15,Attract,41,normal,-,100
+413,16,Attract,41,normal,-,100
+413,8,Psychic,44,psychic,90,100
+413,9,Psychic,44,psychic,90,100
+413,10,Psychic,44,psychic,90,100
+413,11,Psychic,44,psychic,90,100
+413,14,Psychic,44,psychic,90,100
+413,15,Psychic,44,psychic,90,100
+413,16,Psychic,44,psychic,90,100
+413,8,Leaf Storm,47,grass,130,90
+413,9,Leaf Storm,47,grass,130,90
+413,10,Leaf Storm,47,grass,130,90
+413,11,Leaf Storm,47,grass,130,90
+413,14,Leaf Storm,47,grass,130,90
+413,15,Leaf Storm,47,grass,130,90
+413,16,Leaf Storm,47,grass,130,90

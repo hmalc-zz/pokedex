@@ -1,63 +1,63 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-26,raichu,1,45,Growl,1,1,2
-26,raichu,1,84,Thunder Shock,1,1,1
-26,raichu,1,86,Thunder Wave,1,1,3
-26,raichu,2,45,Growl,1,1,2
-26,raichu,2,84,Thunder Shock,1,1,1
-26,raichu,2,86,Thunder Wave,1,1,3
-26,raichu,3,39,Tail Whip,1,1,2
-26,raichu,3,84,Thunder Shock,1,1,1
-26,raichu,3,85,Thunderbolt,1,1,4
-26,raichu,3,98,Quick Attack,1,1,3
-26,raichu,4,39,Tail Whip,1,1,2
-26,raichu,4,84,Thunder Shock,1,1,1
-26,raichu,4,85,Thunderbolt,1,1,4
-26,raichu,4,98,Quick Attack,1,1,3
-26,raichu,5,39,Tail Whip,1,1,2
-26,raichu,5,84,Thunder Shock,1,1,1
-26,raichu,5,85,Thunderbolt,1,1,4
-26,raichu,5,98,Quick Attack,1,1,3
-26,raichu,6,39,Tail Whip,1,1,2
-26,raichu,6,84,Thunder Shock,1,1,1
-26,raichu,6,85,Thunderbolt,1,1,4
-26,raichu,6,98,Quick Attack,1,1,3
-26,raichu,7,39,Tail Whip,1,1,2
-26,raichu,7,84,Thunder Shock,1,1,1
-26,raichu,7,85,Thunderbolt,1,1,4
-26,raichu,7,98,Quick Attack,1,1,3
-26,raichu,8,39,Tail Whip,1,1,2
-26,raichu,8,84,Thunder Shock,1,1,1
-26,raichu,8,85,Thunderbolt,1,1,4
-26,raichu,8,98,Quick Attack,1,1,3
-26,raichu,9,39,Tail Whip,1,1,2
-26,raichu,9,84,Thunder Shock,1,1,1
-26,raichu,9,85,Thunderbolt,1,1,4
-26,raichu,9,98,Quick Attack,1,1,3
-26,raichu,10,39,Tail Whip,1,1,2
-26,raichu,10,84,Thunder Shock,1,1,1
-26,raichu,10,85,Thunderbolt,1,1,4
-26,raichu,10,98,Quick Attack,1,1,3
-26,raichu,11,39,Tail Whip,1,1,2
-26,raichu,11,84,Thunder Shock,1,1,1
-26,raichu,11,85,Thunderbolt,1,1,4
-26,raichu,11,98,Quick Attack,1,1,3
-26,raichu,12,39,Tail Whip,1,1,2
-26,raichu,12,84,Thunder Shock,1,1,1
-26,raichu,12,85,Thunderbolt,1,1,4
-26,raichu,12,98,Quick Attack,1,1,3
-26,raichu,13,39,Tail Whip,1,1,2
-26,raichu,13,84,Thunder Shock,1,1,1
-26,raichu,13,85,Thunderbolt,1,1,4
-26,raichu,13,98,Quick Attack,1,1,3
-26,raichu,14,39,Tail Whip,1,1,2
-26,raichu,14,84,Thunder Shock,1,1,1
-26,raichu,14,85,Thunderbolt,1,1,4
-26,raichu,14,98,Quick Attack,1,1,3
-26,raichu,15,39,Tail Whip,1,1,2
-26,raichu,15,84,Thunder Shock,1,1,1
-26,raichu,15,85,Thunderbolt,1,1,4
-26,raichu,15,98,Quick Attack,1,1,3
-26,raichu,16,39,Tail Whip,1,1,2
-26,raichu,16,84,Thunder Shock,1,1,1
-26,raichu,16,85,Thunderbolt,1,1,4
-26,raichu,16,98,Quick Attack,1,1,3
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+26,1,Growl,1,normal,-,100
+26,1,Thunder Shock,1,electric,40,100
+26,1,Thunder Wave,1,electric,-,100
+26,2,Growl,1,normal,-,100
+26,2,Thunder Shock,1,electric,40,100
+26,2,Thunder Wave,1,electric,-,100
+26,3,Tail Whip,1,normal,-,100
+26,3,Thunder Shock,1,electric,40,100
+26,3,Thunderbolt,1,electric,90,100
+26,3,Quick Attack,1,normal,40,100
+26,4,Tail Whip,1,normal,-,100
+26,4,Thunder Shock,1,electric,40,100
+26,4,Thunderbolt,1,electric,90,100
+26,4,Quick Attack,1,normal,40,100
+26,5,Tail Whip,1,normal,-,100
+26,5,Thunder Shock,1,electric,40,100
+26,5,Thunderbolt,1,electric,90,100
+26,5,Quick Attack,1,normal,40,100
+26,6,Tail Whip,1,normal,-,100
+26,6,Thunder Shock,1,electric,40,100
+26,6,Thunderbolt,1,electric,90,100
+26,6,Quick Attack,1,normal,40,100
+26,7,Tail Whip,1,normal,-,100
+26,7,Thunder Shock,1,electric,40,100
+26,7,Thunderbolt,1,electric,90,100
+26,7,Quick Attack,1,normal,40,100
+26,8,Tail Whip,1,normal,-,100
+26,8,Thunder Shock,1,electric,40,100
+26,8,Thunderbolt,1,electric,90,100
+26,8,Quick Attack,1,normal,40,100
+26,9,Tail Whip,1,normal,-,100
+26,9,Thunder Shock,1,electric,40,100
+26,9,Thunderbolt,1,electric,90,100
+26,9,Quick Attack,1,normal,40,100
+26,10,Tail Whip,1,normal,-,100
+26,10,Thunder Shock,1,electric,40,100
+26,10,Thunderbolt,1,electric,90,100
+26,10,Quick Attack,1,normal,40,100
+26,11,Tail Whip,1,normal,-,100
+26,11,Thunder Shock,1,electric,40,100
+26,11,Thunderbolt,1,electric,90,100
+26,11,Quick Attack,1,normal,40,100
+26,12,Tail Whip,1,normal,-,100
+26,12,Thunder Shock,1,electric,40,100
+26,12,Thunderbolt,1,electric,90,100
+26,12,Quick Attack,1,normal,40,100
+26,13,Tail Whip,1,normal,-,100
+26,13,Thunder Shock,1,electric,40,100
+26,13,Thunderbolt,1,electric,90,100
+26,13,Quick Attack,1,normal,40,100
+26,14,Tail Whip,1,normal,-,100
+26,14,Thunder Shock,1,electric,40,100
+26,14,Thunderbolt,1,electric,90,100
+26,14,Quick Attack,1,normal,40,100
+26,15,Tail Whip,1,normal,-,100
+26,15,Thunder Shock,1,electric,40,100
+26,15,Thunderbolt,1,electric,90,100
+26,15,Quick Attack,1,normal,40,100
+26,16,Tail Whip,1,normal,-,100
+26,16,Thunder Shock,1,electric,40,100
+26,16,Thunderbolt,1,electric,90,100
+26,16,Quick Attack,1,normal,40,100

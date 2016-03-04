@@ -1,61 +1,61 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-648,meloetta-aria,11,47,Sing,1,16,
-648,meloetta-aria,11,60,Psybeam,1,31,
-648,meloetta-aria,11,93,Confusion,1,11,
-648,meloetta-aria,11,94,Psychic,1,57,
-648,meloetta-aria,11,98,Quick Attack,1,6,
-648,meloetta-aria,11,195,Perish Song,1,85,
-648,meloetta-aria,11,272,Role Play,1,71,
-648,meloetta-aria,11,298,Teeter Dance,1,21,
-648,meloetta-aria,11,304,Hyper Voice,1,64,
-648,meloetta-aria,11,358,Wake-Up Slap,1,50,
-648,meloetta-aria,11,369,U-turn,1,43,
-648,meloetta-aria,11,370,Close Combat,1,78,
-648,meloetta-aria,11,496,Round,1,1,
-648,meloetta-aria,11,497,Echoed Voice,1,36,
-648,meloetta-aria,11,512,Acrobatics,1,26,
-648,meloetta-aria,14,47,Sing,1,16,
-648,meloetta-aria,14,60,Psybeam,1,31,
-648,meloetta-aria,14,93,Confusion,1,11,
-648,meloetta-aria,14,94,Psychic,1,57,
-648,meloetta-aria,14,98,Quick Attack,1,6,
-648,meloetta-aria,14,195,Perish Song,1,85,
-648,meloetta-aria,14,272,Role Play,1,71,
-648,meloetta-aria,14,298,Teeter Dance,1,21,
-648,meloetta-aria,14,304,Hyper Voice,1,64,
-648,meloetta-aria,14,358,Wake-Up Slap,1,50,
-648,meloetta-aria,14,369,U-turn,1,43,
-648,meloetta-aria,14,370,Close Combat,1,78,
-648,meloetta-aria,14,496,Round,1,1,
-648,meloetta-aria,14,497,Echoed Voice,1,36,
-648,meloetta-aria,14,512,Acrobatics,1,26,
-648,meloetta-aria,15,47,Sing,1,16,
-648,meloetta-aria,15,60,Psybeam,1,31,
-648,meloetta-aria,15,93,Confusion,1,11,
-648,meloetta-aria,15,94,Psychic,1,57,
-648,meloetta-aria,15,98,Quick Attack,1,6,
-648,meloetta-aria,15,195,Perish Song,1,85,
-648,meloetta-aria,15,272,Role Play,1,71,
-648,meloetta-aria,15,298,Teeter Dance,1,21,
-648,meloetta-aria,15,304,Hyper Voice,1,64,
-648,meloetta-aria,15,358,Wake-Up Slap,1,50,
-648,meloetta-aria,15,369,U-turn,1,43,
-648,meloetta-aria,15,370,Close Combat,1,78,
-648,meloetta-aria,15,496,Round,1,1,
-648,meloetta-aria,15,497,Echoed Voice,1,36,
-648,meloetta-aria,15,512,Acrobatics,1,26,
-648,meloetta-aria,16,47,Sing,1,16,1
-648,meloetta-aria,16,60,Psybeam,1,31,1
-648,meloetta-aria,16,93,Confusion,1,11,1
-648,meloetta-aria,16,94,Psychic,1,57,1
-648,meloetta-aria,16,98,Quick Attack,1,6,1
-648,meloetta-aria,16,195,Perish Song,1,85,1
-648,meloetta-aria,16,272,Role Play,1,71,1
-648,meloetta-aria,16,298,Teeter Dance,1,21,1
-648,meloetta-aria,16,304,Hyper Voice,1,64,1
-648,meloetta-aria,16,358,Wake-Up Slap,1,50,1
-648,meloetta-aria,16,369,U-turn,1,43,1
-648,meloetta-aria,16,370,Close Combat,1,78,1
-648,meloetta-aria,16,496,Round,1,1,1
-648,meloetta-aria,16,497,Echoed Voice,1,36,1
-648,meloetta-aria,16,512,Acrobatics,1,26,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+648,11,Round,1,normal,60,100
+648,14,Round,1,normal,60,100
+648,15,Round,1,normal,60,100
+648,16,Round,1,normal,60,100
+648,11,Quick Attack,6,normal,40,100
+648,14,Quick Attack,6,normal,40,100
+648,15,Quick Attack,6,normal,40,100
+648,16,Quick Attack,6,normal,40,100
+648,11,Confusion,11,psychic,50,100
+648,14,Confusion,11,psychic,50,100
+648,15,Confusion,11,psychic,50,100
+648,16,Confusion,11,psychic,50,100
+648,11,Sing,16,normal,-,55
+648,14,Sing,16,normal,-,55
+648,15,Sing,16,normal,-,55
+648,16,Sing,16,normal,-,55
+648,11,Teeter Dance,21,normal,-,100
+648,14,Teeter Dance,21,normal,-,100
+648,15,Teeter Dance,21,normal,-,100
+648,16,Teeter Dance,21,normal,-,100
+648,11,Acrobatics,26,flying,55,100
+648,14,Acrobatics,26,flying,55,100
+648,15,Acrobatics,26,flying,55,100
+648,16,Acrobatics,26,flying,55,100
+648,11,Psybeam,31,psychic,65,100
+648,14,Psybeam,31,psychic,65,100
+648,15,Psybeam,31,psychic,65,100
+648,16,Psybeam,31,psychic,65,100
+648,11,Echoed Voice,36,normal,40,100
+648,14,Echoed Voice,36,normal,40,100
+648,15,Echoed Voice,36,normal,40,100
+648,16,Echoed Voice,36,normal,40,100
+648,11,U-turn,43,bug,70,100
+648,14,U-turn,43,bug,70,100
+648,15,U-turn,43,bug,70,100
+648,16,U-turn,43,bug,70,100
+648,11,Wake-Up Slap,50,fighting,70,100
+648,14,Wake-Up Slap,50,fighting,70,100
+648,15,Wake-Up Slap,50,fighting,70,100
+648,16,Wake-Up Slap,50,fighting,70,100
+648,11,Psychic,57,psychic,90,100
+648,14,Psychic,57,psychic,90,100
+648,15,Psychic,57,psychic,90,100
+648,16,Psychic,57,psychic,90,100
+648,11,Hyper Voice,64,normal,90,100
+648,14,Hyper Voice,64,normal,90,100
+648,15,Hyper Voice,64,normal,90,100
+648,16,Hyper Voice,64,normal,90,100
+648,11,Role Play,71,psychic,-,-
+648,14,Role Play,71,psychic,-,-
+648,15,Role Play,71,psychic,-,-
+648,16,Role Play,71,psychic,-,-
+648,11,Close Combat,78,fighting,120,100
+648,14,Close Combat,78,fighting,120,100
+648,15,Close Combat,78,fighting,120,100
+648,16,Close Combat,78,fighting,120,100
+648,11,Perish Song,85,normal,-,-
+648,14,Perish Song,85,normal,-,-
+648,15,Perish Song,85,normal,-,-
+648,16,Perish Song,85,normal,-,-

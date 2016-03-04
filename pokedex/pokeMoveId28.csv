@@ -1,214 +1,214 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-28,sandslash,1,10,Scratch,1,1,1
-28,sandslash,1,28,Sand Attack,1,1,2
-28,sandslash,1,28,Sand Attack,1,10,
-28,sandslash,1,40,Poison Sting,1,27,
-28,sandslash,1,129,Swift,1,36,
-28,sandslash,1,154,Fury Swipes,1,47,
-28,sandslash,1,163,Slash,1,17,
-28,sandslash,2,10,Scratch,1,1,1
-28,sandslash,2,28,Sand Attack,1,1,2
-28,sandslash,2,28,Sand Attack,1,10,
-28,sandslash,2,40,Poison Sting,1,27,
-28,sandslash,2,129,Swift,1,36,
-28,sandslash,2,154,Fury Swipes,1,47,
-28,sandslash,2,163,Slash,1,17,
-28,sandslash,3,10,Scratch,1,1,1
-28,sandslash,3,28,Sand Attack,1,1,3
-28,sandslash,3,28,Sand Attack,1,11,
-28,sandslash,3,40,Poison Sting,1,17,
-28,sandslash,3,111,Defense Curl,1,1,2
-28,sandslash,3,111,Defense Curl,1,6,
-28,sandslash,3,129,Swift,1,33,
-28,sandslash,3,154,Fury Swipes,1,42,
-28,sandslash,3,163,Slash,1,24,
-28,sandslash,3,201,Sandstorm,1,52,
-28,sandslash,4,10,Scratch,1,1,1
-28,sandslash,4,28,Sand Attack,1,1,3
-28,sandslash,4,28,Sand Attack,1,11,
-28,sandslash,4,40,Poison Sting,1,17,
-28,sandslash,4,111,Defense Curl,1,1,2
-28,sandslash,4,111,Defense Curl,1,6,
-28,sandslash,4,129,Swift,1,33,
-28,sandslash,4,154,Fury Swipes,1,42,
-28,sandslash,4,163,Slash,1,24,
-28,sandslash,4,201,Sandstorm,1,52,
-28,sandslash,5,10,Scratch,1,1,1
-28,sandslash,5,28,Sand Attack,1,1,3
-28,sandslash,5,28,Sand Attack,1,11,
-28,sandslash,5,40,Poison Sting,1,17,
-28,sandslash,5,111,Defense Curl,1,1,2
-28,sandslash,5,111,Defense Curl,1,6,
-28,sandslash,5,129,Swift,1,33,
-28,sandslash,5,154,Fury Swipes,1,42,
-28,sandslash,5,163,Slash,1,24,
-28,sandslash,5,201,Sandstorm,1,62,
-28,sandslash,5,328,Sand Tomb,1,52,
-28,sandslash,6,10,Scratch,1,1,1
-28,sandslash,6,28,Sand Attack,1,1,3
-28,sandslash,6,28,Sand Attack,1,11,
-28,sandslash,6,40,Poison Sting,1,17,
-28,sandslash,6,111,Defense Curl,1,1,2
-28,sandslash,6,111,Defense Curl,1,6,
-28,sandslash,6,129,Swift,1,33,
-28,sandslash,6,154,Fury Swipes,1,42,
-28,sandslash,6,163,Slash,1,24,
-28,sandslash,6,201,Sandstorm,1,62,
-28,sandslash,6,328,Sand Tomb,1,52,
-28,sandslash,7,10,Scratch,1,1,1
-28,sandslash,7,28,Sand Attack,1,1,3
-28,sandslash,7,28,Sand Attack,1,11,
-28,sandslash,7,40,Poison Sting,1,17,
-28,sandslash,7,111,Defense Curl,1,1,2
-28,sandslash,7,111,Defense Curl,1,6,
-28,sandslash,7,129,Swift,1,33,
-28,sandslash,7,154,Fury Swipes,1,42,
-28,sandslash,7,163,Slash,1,24,
-28,sandslash,7,201,Sandstorm,1,62,
-28,sandslash,7,328,Sand Tomb,1,52,
-28,sandslash,8,10,Scratch,1,1,1
-28,sandslash,8,28,Sand Attack,1,1,3
-28,sandslash,8,28,Sand Attack,1,7,
-28,sandslash,8,40,Poison Sting,1,9,
-28,sandslash,8,111,Defense Curl,1,1,2
-28,sandslash,8,111,Defense Curl,1,3,
-28,sandslash,8,129,Swift,1,15,
-28,sandslash,8,154,Fury Swipes,1,19,
-28,sandslash,8,163,Slash,1,40,
-28,sandslash,8,201,Sandstorm,1,52,
-28,sandslash,8,205,Rollout,1,21,
-28,sandslash,8,210,Fury Cutter,1,28,
-28,sandslash,8,229,Rapid Spin,1,13,
-28,sandslash,8,306,Crush Claw,1,22,
-28,sandslash,8,328,Sand Tomb,1,33,
-28,sandslash,8,360,Gyro Ball,1,45,
-28,sandslash,9,10,Scratch,1,1,1
-28,sandslash,9,28,Sand Attack,1,1,3
-28,sandslash,9,28,Sand Attack,1,7,
-28,sandslash,9,40,Poison Sting,1,9,
-28,sandslash,9,111,Defense Curl,1,1,2
-28,sandslash,9,111,Defense Curl,1,3,
-28,sandslash,9,129,Swift,1,15,
-28,sandslash,9,154,Fury Swipes,1,19,
-28,sandslash,9,163,Slash,1,40,
-28,sandslash,9,201,Sandstorm,1,52,
-28,sandslash,9,205,Rollout,1,21,
-28,sandslash,9,210,Fury Cutter,1,28,
-28,sandslash,9,229,Rapid Spin,1,13,
-28,sandslash,9,306,Crush Claw,1,22,
-28,sandslash,9,328,Sand Tomb,1,33,
-28,sandslash,9,360,Gyro Ball,1,45,
-28,sandslash,10,10,Scratch,1,1,1
-28,sandslash,10,28,Sand Attack,1,1,3
-28,sandslash,10,28,Sand Attack,1,7,
-28,sandslash,10,40,Poison Sting,1,9,
-28,sandslash,10,111,Defense Curl,1,1,2
-28,sandslash,10,111,Defense Curl,1,3,
-28,sandslash,10,129,Swift,1,15,
-28,sandslash,10,154,Fury Swipes,1,19,
-28,sandslash,10,163,Slash,1,40,
-28,sandslash,10,201,Sandstorm,1,52,
-28,sandslash,10,205,Rollout,1,21,
-28,sandslash,10,210,Fury Cutter,1,28,
-28,sandslash,10,229,Rapid Spin,1,13,
-28,sandslash,10,306,Crush Claw,1,22,
-28,sandslash,10,328,Sand Tomb,1,33,
-28,sandslash,10,360,Gyro Ball,1,45,
-28,sandslash,11,10,Scratch,1,1,1
-28,sandslash,11,28,Sand Attack,1,1,3
-28,sandslash,11,28,Sand Attack,1,7,
-28,sandslash,11,40,Poison Sting,1,9,
-28,sandslash,11,111,Defense Curl,1,1,2
-28,sandslash,11,111,Defense Curl,1,3,
-28,sandslash,11,129,Swift,1,15,
-28,sandslash,11,154,Fury Swipes,1,19,
-28,sandslash,11,163,Slash,1,40,
-28,sandslash,11,201,Sandstorm,1,52,
-28,sandslash,11,205,Rollout,1,21,
-28,sandslash,11,210,Fury Cutter,1,28,
-28,sandslash,11,229,Rapid Spin,1,13,
-28,sandslash,11,306,Crush Claw,1,22,
-28,sandslash,11,328,Sand Tomb,1,33,
-28,sandslash,11,360,Gyro Ball,1,45,
-28,sandslash,12,10,Scratch,1,1,1
-28,sandslash,12,28,Sand Attack,1,1,3
-28,sandslash,12,28,Sand Attack,1,11,
-28,sandslash,12,40,Poison Sting,1,17,
-28,sandslash,12,111,Defense Curl,1,1,2
-28,sandslash,12,111,Defense Curl,1,6,
-28,sandslash,12,129,Swift,1,33,
-28,sandslash,12,154,Fury Swipes,1,42,
-28,sandslash,12,163,Slash,1,24,
-28,sandslash,12,201,Sandstorm,1,62,
-28,sandslash,12,328,Sand Tomb,1,52,
-28,sandslash,13,10,Scratch,1,1,1
-28,sandslash,13,28,Sand Attack,1,1,3
-28,sandslash,13,28,Sand Attack,1,11,
-28,sandslash,13,40,Poison Sting,1,17,
-28,sandslash,13,111,Defense Curl,1,1,2
-28,sandslash,13,111,Defense Curl,1,6,
-28,sandslash,13,129,Swift,1,33,
-28,sandslash,13,154,Fury Swipes,1,42,
-28,sandslash,13,163,Slash,1,24,
-28,sandslash,13,201,Sandstorm,1,62,
-28,sandslash,13,328,Sand Tomb,1,52,
-28,sandslash,14,10,Scratch,1,1,1
-28,sandslash,14,14,Swords Dance,1,38,
-28,sandslash,14,28,Sand Attack,1,1,3
-28,sandslash,14,28,Sand Attack,1,3,
-28,sandslash,14,40,Poison Sting,1,1,4
-28,sandslash,14,40,Poison Sting,1,5,
-28,sandslash,14,89,Earthquake,1,46,
-28,sandslash,14,91,Dig,1,30,
-28,sandslash,14,111,Defense Curl,1,1,2
-28,sandslash,14,129,Swift,1,11,
-28,sandslash,14,154,Fury Swipes,1,20,
-28,sandslash,14,163,Slash,1,26,
-28,sandslash,14,201,Sandstorm,1,42,
-28,sandslash,14,205,Rollout,1,7,
-28,sandslash,14,210,Fury Cutter,1,14,
-28,sandslash,14,222,Magnitude,1,17,
-28,sandslash,14,229,Rapid Spin,1,9,
-28,sandslash,14,306,Crush Claw,1,22,
-28,sandslash,14,328,Sand Tomb,1,23,
-28,sandslash,14,360,Gyro Ball,1,34,
-28,sandslash,15,10,Scratch,1,1,1
-28,sandslash,15,14,Swords Dance,1,38,
-28,sandslash,15,28,Sand Attack,1,1,3
-28,sandslash,15,28,Sand Attack,1,3,
-28,sandslash,15,40,Poison Sting,1,1,4
-28,sandslash,15,40,Poison Sting,1,5,
-28,sandslash,15,89,Earthquake,1,46,
-28,sandslash,15,91,Dig,1,30,
-28,sandslash,15,111,Defense Curl,1,1,2
-28,sandslash,15,129,Swift,1,11,
-28,sandslash,15,154,Fury Swipes,1,20,
-28,sandslash,15,163,Slash,1,26,
-28,sandslash,15,201,Sandstorm,1,42,
-28,sandslash,15,205,Rollout,1,7,
-28,sandslash,15,210,Fury Cutter,1,14,
-28,sandslash,15,222,Magnitude,1,17,
-28,sandslash,15,229,Rapid Spin,1,9,
-28,sandslash,15,306,Crush Claw,1,22,
-28,sandslash,15,328,Sand Tomb,1,23,
-28,sandslash,15,360,Gyro Ball,1,34,
-28,sandslash,16,10,Scratch,1,1,1
-28,sandslash,16,14,Swords Dance,1,43,1
-28,sandslash,16,28,Sand Attack,1,1,3
-28,sandslash,16,28,Sand Attack,1,3,1
-28,sandslash,16,40,Poison Sting,1,1,4
-28,sandslash,16,40,Poison Sting,1,5,1
-28,sandslash,16,89,Earthquake,1,53,1
-28,sandslash,16,91,Dig,1,33,1
-28,sandslash,16,111,Defense Curl,1,1,2
-28,sandslash,16,129,Swift,1,17,1
-28,sandslash,16,154,Fury Swipes,1,20,1
-28,sandslash,16,163,Slash,1,28,1
-28,sandslash,16,201,Sandstorm,1,48,1
-28,sandslash,16,205,Rollout,1,7,1
-28,sandslash,16,210,Fury Cutter,1,11,1
-28,sandslash,16,222,Magnitude,1,14,1
-28,sandslash,16,229,Rapid Spin,1,9,1
-28,sandslash,16,306,Crush Claw,1,22,1
-28,sandslash,16,328,Sand Tomb,1,24,1
-28,sandslash,16,360,Gyro Ball,1,38,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+28,1,Scratch,1,normal,40,100
+28,1,Sand Attack,1,ground,-,100
+28,2,Scratch,1,normal,40,100
+28,2,Sand Attack,1,ground,-,100
+28,3,Scratch,1,normal,40,100
+28,3,Sand Attack,1,ground,-,100
+28,3,Defense Curl,1,normal,-,-
+28,4,Scratch,1,normal,40,100
+28,4,Sand Attack,1,ground,-,100
+28,4,Defense Curl,1,normal,-,-
+28,5,Scratch,1,normal,40,100
+28,5,Sand Attack,1,ground,-,100
+28,5,Defense Curl,1,normal,-,-
+28,6,Scratch,1,normal,40,100
+28,6,Sand Attack,1,ground,-,100
+28,6,Defense Curl,1,normal,-,-
+28,7,Scratch,1,normal,40,100
+28,7,Sand Attack,1,ground,-,100
+28,7,Defense Curl,1,normal,-,-
+28,8,Scratch,1,normal,40,100
+28,8,Sand Attack,1,ground,-,100
+28,8,Defense Curl,1,normal,-,-
+28,9,Scratch,1,normal,40,100
+28,9,Sand Attack,1,ground,-,100
+28,9,Defense Curl,1,normal,-,-
+28,10,Scratch,1,normal,40,100
+28,10,Sand Attack,1,ground,-,100
+28,10,Defense Curl,1,normal,-,-
+28,11,Scratch,1,normal,40,100
+28,11,Sand Attack,1,ground,-,100
+28,11,Defense Curl,1,normal,-,-
+28,12,Scratch,1,normal,40,100
+28,12,Sand Attack,1,ground,-,100
+28,12,Defense Curl,1,normal,-,-
+28,13,Scratch,1,normal,40,100
+28,13,Sand Attack,1,ground,-,100
+28,13,Defense Curl,1,normal,-,-
+28,14,Scratch,1,normal,40,100
+28,14,Sand Attack,1,ground,-,100
+28,14,Poison Sting,1,poison,15,100
+28,14,Defense Curl,1,normal,-,-
+28,15,Scratch,1,normal,40,100
+28,15,Sand Attack,1,ground,-,100
+28,15,Poison Sting,1,poison,15,100
+28,15,Defense Curl,1,normal,-,-
+28,16,Scratch,1,normal,40,100
+28,16,Sand Attack,1,ground,-,100
+28,16,Poison Sting,1,poison,15,100
+28,16,Defense Curl,1,normal,-,-
+28,8,Defense Curl,3,normal,-,-
+28,9,Defense Curl,3,normal,-,-
+28,10,Defense Curl,3,normal,-,-
+28,11,Defense Curl,3,normal,-,-
+28,14,Sand Attack,3,ground,-,100
+28,15,Sand Attack,3,ground,-,100
+28,16,Sand Attack,3,ground,-,100
+28,14,Poison Sting,5,poison,15,100
+28,15,Poison Sting,5,poison,15,100
+28,16,Poison Sting,5,poison,15,100
+28,3,Defense Curl,6,normal,-,-
+28,4,Defense Curl,6,normal,-,-
+28,5,Defense Curl,6,normal,-,-
+28,6,Defense Curl,6,normal,-,-
+28,7,Defense Curl,6,normal,-,-
+28,12,Defense Curl,6,normal,-,-
+28,13,Defense Curl,6,normal,-,-
+28,8,Sand Attack,7,ground,-,100
+28,9,Sand Attack,7,ground,-,100
+28,10,Sand Attack,7,ground,-,100
+28,11,Sand Attack,7,ground,-,100
+28,14,Rollout,7,rock,30,90
+28,15,Rollout,7,rock,30,90
+28,16,Rollout,7,rock,30,90
+28,8,Poison Sting,9,poison,15,100
+28,9,Poison Sting,9,poison,15,100
+28,10,Poison Sting,9,poison,15,100
+28,11,Poison Sting,9,poison,15,100
+28,14,Rapid Spin,9,normal,20,100
+28,15,Rapid Spin,9,normal,20,100
+28,16,Rapid Spin,9,normal,20,100
+28,1,Sand Attack,10,ground,-,100
+28,2,Sand Attack,10,ground,-,100
+28,3,Sand Attack,11,ground,-,100
+28,4,Sand Attack,11,ground,-,100
+28,5,Sand Attack,11,ground,-,100
+28,6,Sand Attack,11,ground,-,100
+28,7,Sand Attack,11,ground,-,100
+28,12,Sand Attack,11,ground,-,100
+28,13,Sand Attack,11,ground,-,100
+28,14,Swift,11,normal,60,-
+28,15,Swift,11,normal,60,-
+28,16,Fury Cutter,11,bug,40,95
+28,8,Rapid Spin,13,normal,20,100
+28,9,Rapid Spin,13,normal,20,100
+28,10,Rapid Spin,13,normal,20,100
+28,11,Rapid Spin,13,normal,20,100
+28,14,Fury Cutter,14,bug,40,95
+28,15,Fury Cutter,14,bug,40,95
+28,16,Magnitude,14,ground,-,100
+28,8,Swift,15,normal,60,-
+28,9,Swift,15,normal,60,-
+28,10,Swift,15,normal,60,-
+28,11,Swift,15,normal,60,-
+28,1,Slash,17,normal,70,100
+28,2,Slash,17,normal,70,100
+28,3,Poison Sting,17,poison,15,100
+28,4,Poison Sting,17,poison,15,100
+28,5,Poison Sting,17,poison,15,100
+28,6,Poison Sting,17,poison,15,100
+28,7,Poison Sting,17,poison,15,100
+28,12,Poison Sting,17,poison,15,100
+28,13,Poison Sting,17,poison,15,100
+28,14,Magnitude,17,ground,-,100
+28,15,Magnitude,17,ground,-,100
+28,16,Swift,17,normal,60,-
+28,8,Fury Swipes,19,normal,18,80
+28,9,Fury Swipes,19,normal,18,80
+28,10,Fury Swipes,19,normal,18,80
+28,11,Fury Swipes,19,normal,18,80
+28,14,Fury Swipes,20,normal,18,80
+28,15,Fury Swipes,20,normal,18,80
+28,16,Fury Swipes,20,normal,18,80
+28,8,Rollout,21,rock,30,90
+28,9,Rollout,21,rock,30,90
+28,10,Rollout,21,rock,30,90
+28,11,Rollout,21,rock,30,90
+28,8,Crush Claw,22,normal,75,95
+28,9,Crush Claw,22,normal,75,95
+28,10,Crush Claw,22,normal,75,95
+28,11,Crush Claw,22,normal,75,95
+28,14,Crush Claw,22,normal,75,95
+28,15,Crush Claw,22,normal,75,95
+28,16,Crush Claw,22,normal,75,95
+28,14,Sand Tomb,23,ground,35,85
+28,15,Sand Tomb,23,ground,35,85
+28,3,Slash,24,normal,70,100
+28,4,Slash,24,normal,70,100
+28,5,Slash,24,normal,70,100
+28,6,Slash,24,normal,70,100
+28,7,Slash,24,normal,70,100
+28,12,Slash,24,normal,70,100
+28,13,Slash,24,normal,70,100
+28,16,Sand Tomb,24,ground,35,85
+28,14,Slash,26,normal,70,100
+28,15,Slash,26,normal,70,100
+28,1,Poison Sting,27,poison,15,100
+28,2,Poison Sting,27,poison,15,100
+28,8,Fury Cutter,28,bug,40,95
+28,9,Fury Cutter,28,bug,40,95
+28,10,Fury Cutter,28,bug,40,95
+28,11,Fury Cutter,28,bug,40,95
+28,16,Slash,28,normal,70,100
+28,14,Dig,30,ground,80,100
+28,15,Dig,30,ground,80,100
+28,3,Swift,33,normal,60,-
+28,4,Swift,33,normal,60,-
+28,5,Swift,33,normal,60,-
+28,6,Swift,33,normal,60,-
+28,7,Swift,33,normal,60,-
+28,8,Sand Tomb,33,ground,35,85
+28,9,Sand Tomb,33,ground,35,85
+28,10,Sand Tomb,33,ground,35,85
+28,11,Sand Tomb,33,ground,35,85
+28,12,Swift,33,normal,60,-
+28,13,Swift,33,normal,60,-
+28,16,Dig,33,ground,80,100
+28,14,Gyro Ball,34,steel,-,100
+28,15,Gyro Ball,34,steel,-,100
+28,1,Swift,36,normal,60,-
+28,2,Swift,36,normal,60,-
+28,14,Swords Dance,38,normal,-,-
+28,15,Swords Dance,38,normal,-,-
+28,16,Gyro Ball,38,steel,-,100
+28,8,Slash,40,normal,70,100
+28,9,Slash,40,normal,70,100
+28,10,Slash,40,normal,70,100
+28,11,Slash,40,normal,70,100
+28,3,Fury Swipes,42,normal,18,80
+28,4,Fury Swipes,42,normal,18,80
+28,5,Fury Swipes,42,normal,18,80
+28,6,Fury Swipes,42,normal,18,80
+28,7,Fury Swipes,42,normal,18,80
+28,12,Fury Swipes,42,normal,18,80
+28,13,Fury Swipes,42,normal,18,80
+28,14,Sandstorm,42,rock,-,-
+28,15,Sandstorm,42,rock,-,-
+28,16,Swords Dance,43,normal,-,-
+28,8,Gyro Ball,45,steel,-,100
+28,9,Gyro Ball,45,steel,-,100
+28,10,Gyro Ball,45,steel,-,100
+28,11,Gyro Ball,45,steel,-,100
+28,14,Earthquake,46,ground,100,100
+28,15,Earthquake,46,ground,100,100
+28,1,Fury Swipes,47,normal,18,80
+28,2,Fury Swipes,47,normal,18,80
+28,16,Sandstorm,48,rock,-,-
+28,3,Sandstorm,52,rock,-,-
+28,4,Sandstorm,52,rock,-,-
+28,5,Sand Tomb,52,ground,35,85
+28,6,Sand Tomb,52,ground,35,85
+28,7,Sand Tomb,52,ground,35,85
+28,8,Sandstorm,52,rock,-,-
+28,9,Sandstorm,52,rock,-,-
+28,10,Sandstorm,52,rock,-,-
+28,11,Sandstorm,52,rock,-,-
+28,12,Sand Tomb,52,ground,35,85
+28,13,Sand Tomb,52,ground,35,85
+28,16,Earthquake,53,ground,100,100
+28,5,Sandstorm,62,rock,-,-
+28,6,Sandstorm,62,rock,-,-
+28,7,Sandstorm,62,rock,-,-
+28,12,Sandstorm,62,rock,-,-
+28,13,Sandstorm,62,rock,-,-

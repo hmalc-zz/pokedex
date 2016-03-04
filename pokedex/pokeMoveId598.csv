@@ -1,77 +1,77 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-598,ferrothorn,11,33,Tackle,1,1,2
-598,ferrothorn,11,42,Pin Missile,1,18,
-598,ferrothorn,11,106,Harden,1,1,3
-598,ferrothorn,11,120,Self-Destruct,1,38,
-598,ferrothorn,11,153,Explosion,1,67,
-598,ferrothorn,11,174,Curse,1,1,5
-598,ferrothorn,11,174,Curse,1,9,
-598,ferrothorn,11,205,Rollout,1,1,4
-598,ferrothorn,11,205,Rollout,1,6,
-598,ferrothorn,11,232,Metal Claw,1,14,
-598,ferrothorn,11,275,Ingrain,1,35,
-598,ferrothorn,11,334,Iron Defense,1,26,
-598,ferrothorn,11,360,Gyro Ball,1,21,
-598,ferrothorn,11,371,Payback,1,53,
-598,ferrothorn,11,429,Mirror Shot,1,30,
-598,ferrothorn,11,430,Flash Cannon,1,61,
-598,ferrothorn,11,431,Rock Climb,1,1,1
-598,ferrothorn,11,438,Power Whip,1,40,
-598,ferrothorn,11,442,Iron Head,1,46,
-598,ferrothorn,14,33,Tackle,1,1,2
-598,ferrothorn,14,42,Pin Missile,1,18,
-598,ferrothorn,14,106,Harden,1,1,3
-598,ferrothorn,14,120,Self-Destruct,1,38,
-598,ferrothorn,14,153,Explosion,1,67,
-598,ferrothorn,14,174,Curse,1,1,5
-598,ferrothorn,14,174,Curse,1,9,
-598,ferrothorn,14,205,Rollout,1,1,4
-598,ferrothorn,14,205,Rollout,1,6,
-598,ferrothorn,14,232,Metal Claw,1,14,
-598,ferrothorn,14,275,Ingrain,1,35,
-598,ferrothorn,14,334,Iron Defense,1,26,
-598,ferrothorn,14,360,Gyro Ball,1,21,
-598,ferrothorn,14,371,Payback,1,53,
-598,ferrothorn,14,429,Mirror Shot,1,30,
-598,ferrothorn,14,430,Flash Cannon,1,61,
-598,ferrothorn,14,431,Rock Climb,1,1,1
-598,ferrothorn,14,438,Power Whip,1,40,
-598,ferrothorn,14,442,Iron Head,1,46,
-598,ferrothorn,15,33,Tackle,1,1,2
-598,ferrothorn,15,42,Pin Missile,1,18,
-598,ferrothorn,15,106,Harden,1,1,3
-598,ferrothorn,15,120,Self-Destruct,1,38,
-598,ferrothorn,15,153,Explosion,1,67,
-598,ferrothorn,15,174,Curse,1,1,5
-598,ferrothorn,15,174,Curse,1,9,
-598,ferrothorn,15,205,Rollout,1,1,4
-598,ferrothorn,15,205,Rollout,1,6,
-598,ferrothorn,15,232,Metal Claw,1,14,
-598,ferrothorn,15,275,Ingrain,1,35,
-598,ferrothorn,15,334,Iron Defense,1,26,
-598,ferrothorn,15,360,Gyro Ball,1,21,
-598,ferrothorn,15,371,Payback,1,53,
-598,ferrothorn,15,429,Mirror Shot,1,30,
-598,ferrothorn,15,430,Flash Cannon,1,61,
-598,ferrothorn,15,431,Rock Climb,1,1,1
-598,ferrothorn,15,438,Power Whip,1,40,
-598,ferrothorn,15,442,Iron Head,1,46,
-598,ferrothorn,16,33,Tackle,1,1,2
-598,ferrothorn,16,42,Pin Missile,1,18,1
-598,ferrothorn,16,106,Harden,1,1,3
-598,ferrothorn,16,120,Self-Destruct,1,38,1
-598,ferrothorn,16,153,Explosion,1,67,1
-598,ferrothorn,16,174,Curse,1,1,5
-598,ferrothorn,16,174,Curse,1,9,1
-598,ferrothorn,16,205,Rollout,1,1,4
-598,ferrothorn,16,205,Rollout,1,6,1
-598,ferrothorn,16,232,Metal Claw,1,14,1
-598,ferrothorn,16,275,Ingrain,1,35,1
-598,ferrothorn,16,334,Iron Defense,1,26,1
-598,ferrothorn,16,360,Gyro Ball,1,21,1
-598,ferrothorn,16,371,Payback,1,53,1
-598,ferrothorn,16,429,Mirror Shot,1,30,1
-598,ferrothorn,16,430,Flash Cannon,1,61,1
-598,ferrothorn,16,431,Rock Climb,1,1,1
-598,ferrothorn,16,438,Power Whip,1,40,1
-598,ferrothorn,16,442,Iron Head,1,46,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+598,11,Tackle,1,normal,50,100
+598,11,Harden,1,normal,-,-
+598,11,Curse,1,ghost,-,-
+598,11,Rollout,1,rock,30,90
+598,11,Rock Climb,1,normal,90,85
+598,14,Tackle,1,normal,50,100
+598,14,Harden,1,normal,-,-
+598,14,Curse,1,ghost,-,-
+598,14,Rollout,1,rock,30,90
+598,14,Rock Climb,1,normal,90,85
+598,15,Tackle,1,normal,50,100
+598,15,Harden,1,normal,-,-
+598,15,Curse,1,ghost,-,-
+598,15,Rollout,1,rock,30,90
+598,15,Rock Climb,1,normal,90,85
+598,16,Tackle,1,normal,50,100
+598,16,Harden,1,normal,-,-
+598,16,Curse,1,ghost,-,-
+598,16,Rollout,1,rock,30,90
+598,16,Rock Climb,1,normal,90,85
+598,11,Rollout,6,rock,30,90
+598,14,Rollout,6,rock,30,90
+598,15,Rollout,6,rock,30,90
+598,16,Rollout,6,rock,30,90
+598,11,Curse,9,ghost,-,-
+598,14,Curse,9,ghost,-,-
+598,15,Curse,9,ghost,-,-
+598,16,Curse,9,ghost,-,-
+598,11,Metal Claw,14,steel,50,95
+598,14,Metal Claw,14,steel,50,95
+598,15,Metal Claw,14,steel,50,95
+598,16,Metal Claw,14,steel,50,95
+598,11,Pin Missile,18,bug,25,95
+598,14,Pin Missile,18,bug,25,95
+598,15,Pin Missile,18,bug,25,95
+598,16,Pin Missile,18,bug,25,95
+598,11,Gyro Ball,21,steel,-,100
+598,14,Gyro Ball,21,steel,-,100
+598,15,Gyro Ball,21,steel,-,100
+598,16,Gyro Ball,21,steel,-,100
+598,11,Iron Defense,26,steel,-,-
+598,14,Iron Defense,26,steel,-,-
+598,15,Iron Defense,26,steel,-,-
+598,16,Iron Defense,26,steel,-,-
+598,11,Mirror Shot,30,steel,65,85
+598,14,Mirror Shot,30,steel,65,85
+598,15,Mirror Shot,30,steel,65,85
+598,16,Mirror Shot,30,steel,65,85
+598,11,Ingrain,35,grass,-,-
+598,14,Ingrain,35,grass,-,-
+598,15,Ingrain,35,grass,-,-
+598,16,Ingrain,35,grass,-,-
+598,11,Self-Destruct,38,normal,200,100
+598,14,Self-Destruct,38,normal,200,100
+598,15,Self-Destruct,38,normal,200,100
+598,16,Self-Destruct,38,normal,200,100
+598,11,Power Whip,40,grass,120,85
+598,14,Power Whip,40,grass,120,85
+598,15,Power Whip,40,grass,120,85
+598,16,Power Whip,40,grass,120,85
+598,11,Iron Head,46,steel,80,100
+598,14,Iron Head,46,steel,80,100
+598,15,Iron Head,46,steel,80,100
+598,16,Iron Head,46,steel,80,100
+598,11,Payback,53,dark,50,100
+598,14,Payback,53,dark,50,100
+598,15,Payback,53,dark,50,100
+598,16,Payback,53,dark,50,100
+598,11,Flash Cannon,61,steel,80,100
+598,14,Flash Cannon,61,steel,80,100
+598,15,Flash Cannon,61,steel,80,100
+598,16,Flash Cannon,61,steel,80,100
+598,11,Explosion,67,normal,250,100
+598,14,Explosion,67,normal,250,100
+598,15,Explosion,67,normal,250,100
+598,16,Explosion,67,normal,250,100

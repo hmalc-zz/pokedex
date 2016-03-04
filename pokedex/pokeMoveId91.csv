@@ -1,109 +1,109 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-91,cloyster,1,48,Supersonic,1,1,2
-91,cloyster,1,62,Aurora Beam,1,1,4
-91,cloyster,1,110,Withdraw,1,1,1
-91,cloyster,1,128,Clamp,1,1,3
-91,cloyster,1,131,Spike Cannon,1,50,
-91,cloyster,2,48,Supersonic,1,1,2
-91,cloyster,2,62,Aurora Beam,1,1,4
-91,cloyster,2,110,Withdraw,1,1,1
-91,cloyster,2,128,Clamp,1,1,3
-91,cloyster,2,131,Spike Cannon,1,50,
-91,cloyster,3,48,Supersonic,1,1,2
-91,cloyster,3,62,Aurora Beam,1,1,3
-91,cloyster,3,110,Withdraw,1,1,1
-91,cloyster,3,131,Spike Cannon,1,41,
-91,cloyster,3,182,Protect,1,1,4
-91,cloyster,4,48,Supersonic,1,1,2
-91,cloyster,4,62,Aurora Beam,1,1,3
-91,cloyster,4,110,Withdraw,1,1,1
-91,cloyster,4,131,Spike Cannon,1,41,
-91,cloyster,4,182,Protect,1,1,4
-91,cloyster,4,191,Spikes,1,33,
-91,cloyster,5,48,Supersonic,1,1,2
-91,cloyster,5,62,Aurora Beam,1,1,3
-91,cloyster,5,110,Withdraw,1,1,1
-91,cloyster,5,131,Spike Cannon,1,41,
-91,cloyster,5,182,Protect,1,1,4
-91,cloyster,5,191,Spikes,1,33,
-91,cloyster,6,48,Supersonic,1,1,2
-91,cloyster,6,62,Aurora Beam,1,1,3
-91,cloyster,6,110,Withdraw,1,1,1
-91,cloyster,6,131,Spike Cannon,1,41,
-91,cloyster,6,182,Protect,1,1,4
-91,cloyster,6,191,Spikes,1,33,
-91,cloyster,7,48,Supersonic,1,1,2
-91,cloyster,7,62,Aurora Beam,1,1,3
-91,cloyster,7,110,Withdraw,1,1,1
-91,cloyster,7,131,Spike Cannon,1,43,
-91,cloyster,7,182,Protect,1,1,4
-91,cloyster,7,191,Spikes,1,36,
-91,cloyster,8,48,Supersonic,1,1,3
-91,cloyster,8,62,Aurora Beam,1,1,4
-91,cloyster,8,110,Withdraw,1,1,2
-91,cloyster,8,131,Spike Cannon,1,40,
-91,cloyster,8,182,Protect,1,1,5
-91,cloyster,8,191,Spikes,1,28,
-91,cloyster,8,390,Toxic Spikes,1,1,1
-91,cloyster,9,48,Supersonic,1,1,3
-91,cloyster,9,62,Aurora Beam,1,1,4
-91,cloyster,9,110,Withdraw,1,1,2
-91,cloyster,9,131,Spike Cannon,1,40,
-91,cloyster,9,182,Protect,1,1,5
-91,cloyster,9,191,Spikes,1,28,
-91,cloyster,9,390,Toxic Spikes,1,1,1
-91,cloyster,10,48,Supersonic,1,1,3
-91,cloyster,10,62,Aurora Beam,1,1,4
-91,cloyster,10,110,Withdraw,1,1,2
-91,cloyster,10,131,Spike Cannon,1,40,
-91,cloyster,10,182,Protect,1,1,5
-91,cloyster,10,191,Spikes,1,28,
-91,cloyster,10,390,Toxic Spikes,1,1,1
-91,cloyster,11,48,Supersonic,1,1,3
-91,cloyster,11,62,Aurora Beam,1,1,5
-91,cloyster,11,110,Withdraw,1,1,2
-91,cloyster,11,131,Spike Cannon,1,13,
-91,cloyster,11,182,Protect,1,1,4
-91,cloyster,11,191,Spikes,1,28,
-91,cloyster,11,390,Toxic Spikes,1,1,1
-91,cloyster,11,556,Icicle Crash,1,52,
-91,cloyster,12,48,Supersonic,1,1,2
-91,cloyster,12,62,Aurora Beam,1,1,3
-91,cloyster,12,110,Withdraw,1,1,1
-91,cloyster,12,131,Spike Cannon,1,41,
-91,cloyster,12,182,Protect,1,1,4
-91,cloyster,12,191,Spikes,1,33,
-91,cloyster,13,48,Supersonic,1,1,2
-91,cloyster,13,62,Aurora Beam,1,1,3
-91,cloyster,13,110,Withdraw,1,1,1
-91,cloyster,13,131,Spike Cannon,1,41,
-91,cloyster,13,182,Protect,1,1,4
-91,cloyster,13,191,Spikes,1,33,
-91,cloyster,14,48,Supersonic,1,1,3
-91,cloyster,14,62,Aurora Beam,1,1,5
-91,cloyster,14,110,Withdraw,1,1,2
-91,cloyster,14,131,Spike Cannon,1,13,
-91,cloyster,14,182,Protect,1,1,4
-91,cloyster,14,191,Spikes,1,28,
-91,cloyster,14,390,Toxic Spikes,1,1,1
-91,cloyster,14,556,Icicle Crash,1,52,
-91,cloyster,15,48,Supersonic,1,1,5
-91,cloyster,15,56,Hydro Pump,1,1,1
-91,cloyster,15,62,Aurora Beam,1,1,7
-91,cloyster,15,110,Withdraw,1,1,4
-91,cloyster,15,131,Spike Cannon,1,13,
-91,cloyster,15,182,Protect,1,1,6
-91,cloyster,15,191,Spikes,1,28,
-91,cloyster,15,390,Toxic Spikes,1,1,3
-91,cloyster,15,504,Shell Smash,1,1,2
-91,cloyster,15,556,Icicle Crash,1,50,
-91,cloyster,16,48,Supersonic,1,1,5
-91,cloyster,16,56,Hydro Pump,1,1,1
-91,cloyster,16,62,Aurora Beam,1,1,7
-91,cloyster,16,110,Withdraw,1,1,4
-91,cloyster,16,131,Spike Cannon,1,13,1
-91,cloyster,16,182,Protect,1,1,6
-91,cloyster,16,191,Spikes,1,28,1
-91,cloyster,16,390,Toxic Spikes,1,1,3
-91,cloyster,16,504,Shell Smash,1,1,2
-91,cloyster,16,556,Icicle Crash,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+91,1,Supersonic,1,normal,-,55
+91,1,Aurora Beam,1,ice,65,100
+91,1,Withdraw,1,water,-,-
+91,1,Clamp,1,water,35,85
+91,2,Supersonic,1,normal,-,55
+91,2,Aurora Beam,1,ice,65,100
+91,2,Withdraw,1,water,-,-
+91,2,Clamp,1,water,35,85
+91,3,Supersonic,1,normal,-,55
+91,3,Aurora Beam,1,ice,65,100
+91,3,Withdraw,1,water,-,-
+91,3,Protect,1,normal,-,-
+91,4,Supersonic,1,normal,-,55
+91,4,Aurora Beam,1,ice,65,100
+91,4,Withdraw,1,water,-,-
+91,4,Protect,1,normal,-,-
+91,5,Supersonic,1,normal,-,55
+91,5,Aurora Beam,1,ice,65,100
+91,5,Withdraw,1,water,-,-
+91,5,Protect,1,normal,-,-
+91,6,Supersonic,1,normal,-,55
+91,6,Aurora Beam,1,ice,65,100
+91,6,Withdraw,1,water,-,-
+91,6,Protect,1,normal,-,-
+91,7,Supersonic,1,normal,-,55
+91,7,Aurora Beam,1,ice,65,100
+91,7,Withdraw,1,water,-,-
+91,7,Protect,1,normal,-,-
+91,8,Supersonic,1,normal,-,55
+91,8,Aurora Beam,1,ice,65,100
+91,8,Withdraw,1,water,-,-
+91,8,Protect,1,normal,-,-
+91,8,Toxic Spikes,1,poison,-,-
+91,9,Supersonic,1,normal,-,55
+91,9,Aurora Beam,1,ice,65,100
+91,9,Withdraw,1,water,-,-
+91,9,Protect,1,normal,-,-
+91,9,Toxic Spikes,1,poison,-,-
+91,10,Supersonic,1,normal,-,55
+91,10,Aurora Beam,1,ice,65,100
+91,10,Withdraw,1,water,-,-
+91,10,Protect,1,normal,-,-
+91,10,Toxic Spikes,1,poison,-,-
+91,11,Supersonic,1,normal,-,55
+91,11,Aurora Beam,1,ice,65,100
+91,11,Withdraw,1,water,-,-
+91,11,Protect,1,normal,-,-
+91,11,Toxic Spikes,1,poison,-,-
+91,12,Supersonic,1,normal,-,55
+91,12,Aurora Beam,1,ice,65,100
+91,12,Withdraw,1,water,-,-
+91,12,Protect,1,normal,-,-
+91,13,Supersonic,1,normal,-,55
+91,13,Aurora Beam,1,ice,65,100
+91,13,Withdraw,1,water,-,-
+91,13,Protect,1,normal,-,-
+91,14,Supersonic,1,normal,-,55
+91,14,Aurora Beam,1,ice,65,100
+91,14,Withdraw,1,water,-,-
+91,14,Protect,1,normal,-,-
+91,14,Toxic Spikes,1,poison,-,-
+91,15,Supersonic,1,normal,-,55
+91,15,Hydro Pump,1,water,110,80
+91,15,Aurora Beam,1,ice,65,100
+91,15,Withdraw,1,water,-,-
+91,15,Protect,1,normal,-,-
+91,15,Toxic Spikes,1,poison,-,-
+91,15,Shell Smash,1,normal,-,-
+91,16,Supersonic,1,normal,-,55
+91,16,Hydro Pump,1,water,110,80
+91,16,Aurora Beam,1,ice,65,100
+91,16,Withdraw,1,water,-,-
+91,16,Protect,1,normal,-,-
+91,16,Toxic Spikes,1,poison,-,-
+91,16,Shell Smash,1,normal,-,-
+91,11,Spike Cannon,13,normal,20,100
+91,14,Spike Cannon,13,normal,20,100
+91,15,Spike Cannon,13,normal,20,100
+91,16,Spike Cannon,13,normal,20,100
+91,8,Spikes,28,ground,-,-
+91,9,Spikes,28,ground,-,-
+91,10,Spikes,28,ground,-,-
+91,11,Spikes,28,ground,-,-
+91,14,Spikes,28,ground,-,-
+91,15,Spikes,28,ground,-,-
+91,16,Spikes,28,ground,-,-
+91,4,Spikes,33,ground,-,-
+91,5,Spikes,33,ground,-,-
+91,6,Spikes,33,ground,-,-
+91,12,Spikes,33,ground,-,-
+91,13,Spikes,33,ground,-,-
+91,7,Spikes,36,ground,-,-
+91,8,Spike Cannon,40,normal,20,100
+91,9,Spike Cannon,40,normal,20,100
+91,10,Spike Cannon,40,normal,20,100
+91,3,Spike Cannon,41,normal,20,100
+91,4,Spike Cannon,41,normal,20,100
+91,5,Spike Cannon,41,normal,20,100
+91,6,Spike Cannon,41,normal,20,100
+91,12,Spike Cannon,41,normal,20,100
+91,13,Spike Cannon,41,normal,20,100
+91,7,Spike Cannon,43,normal,20,100
+91,1,Spike Cannon,50,normal,20,100
+91,2,Spike Cannon,50,normal,20,100
+91,15,Icicle Crash,50,ice,85,90
+91,16,Icicle Crash,50,ice,85,90
+91,11,Icicle Crash,52,ice,85,90
+91,14,Icicle Crash,52,ice,85,90

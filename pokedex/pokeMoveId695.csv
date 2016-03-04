@@ -1,15 +1,15 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-695,heliolisk,15,13,Razor Wind,1,1,3
-695,heliolisk,15,87,Thunder,1,1,5
-695,heliolisk,15,98,Quick Attack,1,1,4
-695,heliolisk,15,268,Charge,1,1,6
-695,heliolisk,15,570,Parabolic Charge,1,1,7
-695,heliolisk,15,582,Electrify,1,1,2
-695,heliolisk,15,598,Eerie Impulse,1,1,1
-695,heliolisk,16,13,Razor Wind,1,1,3
-695,heliolisk,16,87,Thunder,1,1,5
-695,heliolisk,16,98,Quick Attack,1,1,4
-695,heliolisk,16,268,Charge,1,1,6
-695,heliolisk,16,570,Parabolic Charge,1,1,7
-695,heliolisk,16,582,Electrify,1,1,2
-695,heliolisk,16,598,Eerie Impulse,1,1,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+695,15,Razor Wind,1,normal,80,100
+695,15,Thunder,1,electric,110,70
+695,15,Quick Attack,1,normal,40,100
+695,15,Charge,1,electric,-,-
+695,15,Parabolic Charge,1,electric,50,100
+695,15,Electrify,1,electric,-,-
+695,15,Eerie Impulse,1,electric,-,100
+695,16,Razor Wind,1,normal,80,100
+695,16,Thunder,1,electric,110,70
+695,16,Quick Attack,1,normal,40,100
+695,16,Charge,1,electric,-,-
+695,16,Parabolic Charge,1,electric,50,100
+695,16,Electrify,1,electric,-,-
+695,16,Eerie Impulse,1,electric,-,100

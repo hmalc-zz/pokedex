@@ -1,152 +1,152 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-46,paras,1,10,Scratch,1,1,
-46,paras,1,74,Growth,1,41,
-46,paras,1,78,Stun Spore,1,13,
-46,paras,1,141,Leech Life,1,20,
-46,paras,1,147,Spore,1,27,
-46,paras,1,163,Slash,1,34,
-46,paras,2,10,Scratch,1,1,
-46,paras,2,74,Growth,1,41,
-46,paras,2,78,Stun Spore,1,13,
-46,paras,2,141,Leech Life,1,20,
-46,paras,2,147,Spore,1,27,
-46,paras,2,163,Slash,1,34,
-46,paras,3,10,Scratch,1,1,
-46,paras,3,74,Growth,1,37,
-46,paras,3,77,Poison Powder,1,13,
-46,paras,3,78,Stun Spore,1,7,
-46,paras,3,141,Leech Life,1,19,
-46,paras,3,147,Spore,1,25,
-46,paras,3,163,Slash,1,31,
-46,paras,3,202,Giga Drain,1,43,
-46,paras,4,10,Scratch,1,1,
-46,paras,4,74,Growth,1,37,
-46,paras,4,77,Poison Powder,1,13,
-46,paras,4,78,Stun Spore,1,7,
-46,paras,4,141,Leech Life,1,19,
-46,paras,4,147,Spore,1,25,
-46,paras,4,163,Slash,1,31,
-46,paras,4,202,Giga Drain,1,43,
-46,paras,5,10,Scratch,1,1,
-46,paras,5,74,Growth,1,37,
-46,paras,5,77,Poison Powder,1,13,
-46,paras,5,78,Stun Spore,1,7,
-46,paras,5,141,Leech Life,1,19,
-46,paras,5,147,Spore,1,25,
-46,paras,5,163,Slash,1,31,
-46,paras,5,202,Giga Drain,1,43,
-46,paras,5,312,Aromatherapy,1,49,
-46,paras,6,10,Scratch,1,1,
-46,paras,6,74,Growth,1,37,
-46,paras,6,77,Poison Powder,1,13,
-46,paras,6,78,Stun Spore,1,7,
-46,paras,6,141,Leech Life,1,19,
-46,paras,6,147,Spore,1,25,
-46,paras,6,163,Slash,1,31,
-46,paras,6,202,Giga Drain,1,43,
-46,paras,6,312,Aromatherapy,1,49,
-46,paras,7,10,Scratch,1,1,
-46,paras,7,74,Growth,1,37,
-46,paras,7,77,Poison Powder,1,13,
-46,paras,7,78,Stun Spore,1,7,
-46,paras,7,141,Leech Life,1,19,
-46,paras,7,147,Spore,1,25,
-46,paras,7,163,Slash,1,31,
-46,paras,7,202,Giga Drain,1,43,
-46,paras,7,312,Aromatherapy,1,49,
-46,paras,8,10,Scratch,1,1,
-46,paras,8,74,Growth,1,27,
-46,paras,8,77,Poison Powder,1,6,2
-46,paras,8,78,Stun Spore,1,6,1
-46,paras,8,141,Leech Life,1,11,
-46,paras,8,147,Spore,1,17,
-46,paras,8,163,Slash,1,22,
-46,paras,8,202,Giga Drain,1,33,
-46,paras,8,312,Aromatherapy,1,38,
-46,paras,8,404,X-Scissor,1,43,
-46,paras,9,10,Scratch,1,1,
-46,paras,9,74,Growth,1,27,
-46,paras,9,77,Poison Powder,1,6,2
-46,paras,9,78,Stun Spore,1,6,1
-46,paras,9,141,Leech Life,1,11,
-46,paras,9,147,Spore,1,17,
-46,paras,9,163,Slash,1,22,
-46,paras,9,202,Giga Drain,1,33,
-46,paras,9,312,Aromatherapy,1,38,
-46,paras,9,404,X-Scissor,1,43,
-46,paras,10,10,Scratch,1,1,
-46,paras,10,74,Growth,1,27,
-46,paras,10,77,Poison Powder,1,6,2
-46,paras,10,78,Stun Spore,1,6,1
-46,paras,10,141,Leech Life,1,11,
-46,paras,10,147,Spore,1,17,
-46,paras,10,163,Slash,1,22,
-46,paras,10,202,Giga Drain,1,33,
-46,paras,10,312,Aromatherapy,1,38,
-46,paras,10,404,X-Scissor,1,43,
-46,paras,11,10,Scratch,1,1,
-46,paras,11,74,Growth,1,33,
-46,paras,11,77,Poison Powder,1,6,2
-46,paras,11,78,Stun Spore,1,6,1
-46,paras,11,141,Leech Life,1,11,
-46,paras,11,147,Spore,1,22,
-46,paras,11,163,Slash,1,27,
-46,paras,11,202,Giga Drain,1,38,
-46,paras,11,210,Fury Cutter,1,17,
-46,paras,11,312,Aromatherapy,1,43,
-46,paras,11,404,X-Scissor,1,54,
-46,paras,11,476,Rage Powder,1,49,
-46,paras,12,10,Scratch,1,1,
-46,paras,12,74,Growth,1,37,
-46,paras,12,77,Poison Powder,1,13,
-46,paras,12,78,Stun Spore,1,7,
-46,paras,12,141,Leech Life,1,19,
-46,paras,12,147,Spore,1,25,
-46,paras,12,163,Slash,1,31,
-46,paras,12,202,Giga Drain,1,43,
-46,paras,12,312,Aromatherapy,1,49,
-46,paras,13,10,Scratch,1,1,
-46,paras,13,74,Growth,1,37,
-46,paras,13,77,Poison Powder,1,13,
-46,paras,13,78,Stun Spore,1,7,
-46,paras,13,141,Leech Life,1,19,
-46,paras,13,147,Spore,1,25,
-46,paras,13,163,Slash,1,31,
-46,paras,13,202,Giga Drain,1,43,
-46,paras,13,312,Aromatherapy,1,49,
-46,paras,14,10,Scratch,1,1,
-46,paras,14,74,Growth,1,33,
-46,paras,14,77,Poison Powder,1,6,2
-46,paras,14,78,Stun Spore,1,6,1
-46,paras,14,141,Leech Life,1,11,
-46,paras,14,147,Spore,1,22,
-46,paras,14,163,Slash,1,27,
-46,paras,14,202,Giga Drain,1,38,
-46,paras,14,210,Fury Cutter,1,17,
-46,paras,14,312,Aromatherapy,1,43,
-46,paras,14,404,X-Scissor,1,54,
-46,paras,14,476,Rage Powder,1,49,
-46,paras,15,10,Scratch,1,1,
-46,paras,15,74,Growth,1,33,
-46,paras,15,77,Poison Powder,1,6,2
-46,paras,15,78,Stun Spore,1,6,1
-46,paras,15,141,Leech Life,1,11,
-46,paras,15,147,Spore,1,22,
-46,paras,15,163,Slash,1,27,
-46,paras,15,202,Giga Drain,1,38,
-46,paras,15,210,Fury Cutter,1,17,
-46,paras,15,312,Aromatherapy,1,43,
-46,paras,15,404,X-Scissor,1,54,
-46,paras,15,476,Rage Powder,1,49,
-46,paras,16,10,Scratch,1,1,1
-46,paras,16,74,Growth,1,33,1
-46,paras,16,77,Poison Powder,1,6,2
-46,paras,16,78,Stun Spore,1,6,1
-46,paras,16,141,Leech Life,1,11,1
-46,paras,16,147,Spore,1,22,1
-46,paras,16,163,Slash,1,27,1
-46,paras,16,202,Giga Drain,1,38,1
-46,paras,16,210,Fury Cutter,1,17,1
-46,paras,16,312,Aromatherapy,1,43,1
-46,paras,16,404,X-Scissor,1,54,1
-46,paras,16,476,Rage Powder,1,49,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+46,1,Scratch,1,normal,40,100
+46,2,Scratch,1,normal,40,100
+46,3,Scratch,1,normal,40,100
+46,4,Scratch,1,normal,40,100
+46,5,Scratch,1,normal,40,100
+46,6,Scratch,1,normal,40,100
+46,7,Scratch,1,normal,40,100
+46,8,Scratch,1,normal,40,100
+46,9,Scratch,1,normal,40,100
+46,10,Scratch,1,normal,40,100
+46,11,Scratch,1,normal,40,100
+46,12,Scratch,1,normal,40,100
+46,13,Scratch,1,normal,40,100
+46,14,Scratch,1,normal,40,100
+46,15,Scratch,1,normal,40,100
+46,16,Scratch,1,normal,40,100
+46,8,Poison Powder,6,poison,-,75
+46,8,Stun Spore,6,grass,-,75
+46,9,Poison Powder,6,poison,-,75
+46,9,Stun Spore,6,grass,-,75
+46,10,Poison Powder,6,poison,-,75
+46,10,Stun Spore,6,grass,-,75
+46,11,Poison Powder,6,poison,-,75
+46,11,Stun Spore,6,grass,-,75
+46,14,Poison Powder,6,poison,-,75
+46,14,Stun Spore,6,grass,-,75
+46,15,Poison Powder,6,poison,-,75
+46,15,Stun Spore,6,grass,-,75
+46,16,Poison Powder,6,poison,-,75
+46,16,Stun Spore,6,grass,-,75
+46,3,Stun Spore,7,grass,-,75
+46,4,Stun Spore,7,grass,-,75
+46,5,Stun Spore,7,grass,-,75
+46,6,Stun Spore,7,grass,-,75
+46,7,Stun Spore,7,grass,-,75
+46,12,Stun Spore,7,grass,-,75
+46,13,Stun Spore,7,grass,-,75
+46,8,Leech Life,11,bug,20,100
+46,9,Leech Life,11,bug,20,100
+46,10,Leech Life,11,bug,20,100
+46,11,Leech Life,11,bug,20,100
+46,14,Leech Life,11,bug,20,100
+46,15,Leech Life,11,bug,20,100
+46,16,Leech Life,11,bug,20,100
+46,1,Stun Spore,13,grass,-,75
+46,2,Stun Spore,13,grass,-,75
+46,3,Poison Powder,13,poison,-,75
+46,4,Poison Powder,13,poison,-,75
+46,5,Poison Powder,13,poison,-,75
+46,6,Poison Powder,13,poison,-,75
+46,7,Poison Powder,13,poison,-,75
+46,12,Poison Powder,13,poison,-,75
+46,13,Poison Powder,13,poison,-,75
+46,8,Spore,17,grass,-,100
+46,9,Spore,17,grass,-,100
+46,10,Spore,17,grass,-,100
+46,11,Fury Cutter,17,bug,40,95
+46,14,Fury Cutter,17,bug,40,95
+46,15,Fury Cutter,17,bug,40,95
+46,16,Fury Cutter,17,bug,40,95
+46,3,Leech Life,19,bug,20,100
+46,4,Leech Life,19,bug,20,100
+46,5,Leech Life,19,bug,20,100
+46,6,Leech Life,19,bug,20,100
+46,7,Leech Life,19,bug,20,100
+46,12,Leech Life,19,bug,20,100
+46,13,Leech Life,19,bug,20,100
+46,1,Leech Life,20,bug,20,100
+46,2,Leech Life,20,bug,20,100
+46,8,Slash,22,normal,70,100
+46,9,Slash,22,normal,70,100
+46,10,Slash,22,normal,70,100
+46,11,Spore,22,grass,-,100
+46,14,Spore,22,grass,-,100
+46,15,Spore,22,grass,-,100
+46,16,Spore,22,grass,-,100
+46,3,Spore,25,grass,-,100
+46,4,Spore,25,grass,-,100
+46,5,Spore,25,grass,-,100
+46,6,Spore,25,grass,-,100
+46,7,Spore,25,grass,-,100
+46,12,Spore,25,grass,-,100
+46,13,Spore,25,grass,-,100
+46,1,Spore,27,grass,-,100
+46,2,Spore,27,grass,-,100
+46,8,Growth,27,normal,-,-
+46,9,Growth,27,normal,-,-
+46,10,Growth,27,normal,-,-
+46,11,Slash,27,normal,70,100
+46,14,Slash,27,normal,70,100
+46,15,Slash,27,normal,70,100
+46,16,Slash,27,normal,70,100
+46,3,Slash,31,normal,70,100
+46,4,Slash,31,normal,70,100
+46,5,Slash,31,normal,70,100
+46,6,Slash,31,normal,70,100
+46,7,Slash,31,normal,70,100
+46,12,Slash,31,normal,70,100
+46,13,Slash,31,normal,70,100
+46,8,Giga Drain,33,grass,75,100
+46,9,Giga Drain,33,grass,75,100
+46,10,Giga Drain,33,grass,75,100
+46,11,Growth,33,normal,-,-
+46,14,Growth,33,normal,-,-
+46,15,Growth,33,normal,-,-
+46,16,Growth,33,normal,-,-
+46,1,Slash,34,normal,70,100
+46,2,Slash,34,normal,70,100
+46,3,Growth,37,normal,-,-
+46,4,Growth,37,normal,-,-
+46,5,Growth,37,normal,-,-
+46,6,Growth,37,normal,-,-
+46,7,Growth,37,normal,-,-
+46,12,Growth,37,normal,-,-
+46,13,Growth,37,normal,-,-
+46,8,Aromatherapy,38,grass,-,-
+46,9,Aromatherapy,38,grass,-,-
+46,10,Aromatherapy,38,grass,-,-
+46,11,Giga Drain,38,grass,75,100
+46,14,Giga Drain,38,grass,75,100
+46,15,Giga Drain,38,grass,75,100
+46,16,Giga Drain,38,grass,75,100
+46,1,Growth,41,normal,-,-
+46,2,Growth,41,normal,-,-
+46,3,Giga Drain,43,grass,75,100
+46,4,Giga Drain,43,grass,75,100
+46,5,Giga Drain,43,grass,75,100
+46,6,Giga Drain,43,grass,75,100
+46,7,Giga Drain,43,grass,75,100
+46,8,X-Scissor,43,bug,80,100
+46,9,X-Scissor,43,bug,80,100
+46,10,X-Scissor,43,bug,80,100
+46,11,Aromatherapy,43,grass,-,-
+46,12,Giga Drain,43,grass,75,100
+46,13,Giga Drain,43,grass,75,100
+46,14,Aromatherapy,43,grass,-,-
+46,15,Aromatherapy,43,grass,-,-
+46,16,Aromatherapy,43,grass,-,-
+46,5,Aromatherapy,49,grass,-,-
+46,6,Aromatherapy,49,grass,-,-
+46,7,Aromatherapy,49,grass,-,-
+46,11,Rage Powder,49,bug,-,-
+46,12,Aromatherapy,49,grass,-,-
+46,13,Aromatherapy,49,grass,-,-
+46,14,Rage Powder,49,bug,-,-
+46,15,Rage Powder,49,bug,-,-
+46,16,Rage Powder,49,bug,-,-
+46,11,X-Scissor,54,bug,80,100
+46,14,X-Scissor,54,bug,80,100
+46,15,X-Scissor,54,bug,80,100
+46,16,X-Scissor,54,bug,80,100

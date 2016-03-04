@@ -1,184 +1,184 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-127,pinsir,1,11,Vice Grip,1,1,
-127,pinsir,1,12,Guillotine,1,30,
-127,pinsir,1,14,Swords Dance,1,54,
-127,pinsir,1,69,Seismic Toss,1,25,
-127,pinsir,1,106,Harden,1,43,
-127,pinsir,1,116,Focus Energy,1,36,
-127,pinsir,1,163,Slash,1,49,
-127,pinsir,2,11,Vice Grip,1,1,
-127,pinsir,2,12,Guillotine,1,30,
-127,pinsir,2,14,Swords Dance,1,54,
-127,pinsir,2,20,Bind,1,21,
-127,pinsir,2,69,Seismic Toss,1,25,
-127,pinsir,2,106,Harden,1,43,
-127,pinsir,2,116,Focus Energy,1,36,
-127,pinsir,2,163,Slash,1,49,
-127,pinsir,3,11,Vice Grip,1,1,
-127,pinsir,3,12,Guillotine,1,31,
-127,pinsir,3,14,Swords Dance,1,43,
-127,pinsir,3,20,Bind,1,13,
-127,pinsir,3,66,Submission,1,37,
-127,pinsir,3,69,Seismic Toss,1,19,
-127,pinsir,3,106,Harden,1,25,
-127,pinsir,3,116,Focus Energy,1,7,
-127,pinsir,4,11,Vice Grip,1,1,
-127,pinsir,4,12,Guillotine,1,31,
-127,pinsir,4,14,Swords Dance,1,43,
-127,pinsir,4,20,Bind,1,13,
-127,pinsir,4,66,Submission,1,37,
-127,pinsir,4,69,Seismic Toss,1,19,
-127,pinsir,4,106,Harden,1,25,
-127,pinsir,4,116,Focus Energy,1,7,
-127,pinsir,5,11,Vice Grip,1,1,1
-127,pinsir,5,12,Guillotine,1,37,
-127,pinsir,5,14,Swords Dance,1,49,
-127,pinsir,5,20,Bind,1,7,
-127,pinsir,5,66,Submission,1,43,
-127,pinsir,5,69,Seismic Toss,1,13,
-127,pinsir,5,106,Harden,1,19,
-127,pinsir,5,116,Focus Energy,1,1,2
-127,pinsir,5,279,Revenge,1,25,
-127,pinsir,5,280,Brick Break,1,31,
-127,pinsir,6,11,Vice Grip,1,1,1
-127,pinsir,6,12,Guillotine,1,37,
-127,pinsir,6,14,Swords Dance,1,49,
-127,pinsir,6,20,Bind,1,7,
-127,pinsir,6,66,Submission,1,43,
-127,pinsir,6,69,Seismic Toss,1,13,
-127,pinsir,6,106,Harden,1,19,
-127,pinsir,6,116,Focus Energy,1,1,2
-127,pinsir,6,279,Revenge,1,25,
-127,pinsir,6,280,Brick Break,1,31,
-127,pinsir,7,11,Vice Grip,1,1,1
-127,pinsir,7,12,Guillotine,1,37,
-127,pinsir,7,14,Swords Dance,1,49,
-127,pinsir,7,20,Bind,1,7,
-127,pinsir,7,66,Submission,1,43,
-127,pinsir,7,69,Seismic Toss,1,13,
-127,pinsir,7,106,Harden,1,19,
-127,pinsir,7,116,Focus Energy,1,1,2
-127,pinsir,7,279,Revenge,1,25,
-127,pinsir,7,280,Brick Break,1,31,
-127,pinsir,8,11,Vice Grip,1,1,1
-127,pinsir,8,12,Guillotine,1,47,
-127,pinsir,8,14,Swords Dance,1,38,
-127,pinsir,8,20,Bind,1,4,
-127,pinsir,8,37,Thrash,1,35,
-127,pinsir,8,66,Submission,1,42,
-127,pinsir,8,69,Seismic Toss,1,8,
-127,pinsir,8,106,Harden,1,13,
-127,pinsir,8,116,Focus Energy,1,1,2
-127,pinsir,8,233,Vital Throw,1,25,
-127,pinsir,8,276,Superpower,1,52,
-127,pinsir,8,279,Revenge,1,18,
-127,pinsir,8,280,Brick Break,1,21,
-127,pinsir,8,404,X-Scissor,1,30,
-127,pinsir,9,11,Vice Grip,1,1,1
-127,pinsir,9,12,Guillotine,1,47,
-127,pinsir,9,14,Swords Dance,1,38,
-127,pinsir,9,20,Bind,1,4,
-127,pinsir,9,37,Thrash,1,35,
-127,pinsir,9,66,Submission,1,42,
-127,pinsir,9,69,Seismic Toss,1,8,
-127,pinsir,9,106,Harden,1,13,
-127,pinsir,9,116,Focus Energy,1,1,2
-127,pinsir,9,233,Vital Throw,1,25,
-127,pinsir,9,276,Superpower,1,52,
-127,pinsir,9,279,Revenge,1,18,
-127,pinsir,9,280,Brick Break,1,21,
-127,pinsir,9,404,X-Scissor,1,30,
-127,pinsir,10,11,Vice Grip,1,1,1
-127,pinsir,10,12,Guillotine,1,47,
-127,pinsir,10,14,Swords Dance,1,38,
-127,pinsir,10,20,Bind,1,4,
-127,pinsir,10,37,Thrash,1,35,
-127,pinsir,10,66,Submission,1,42,
-127,pinsir,10,69,Seismic Toss,1,8,
-127,pinsir,10,106,Harden,1,13,
-127,pinsir,10,116,Focus Energy,1,1,2
-127,pinsir,10,233,Vital Throw,1,25,
-127,pinsir,10,276,Superpower,1,52,
-127,pinsir,10,279,Revenge,1,18,
-127,pinsir,10,280,Brick Break,1,21,
-127,pinsir,10,404,X-Scissor,1,30,
-127,pinsir,11,11,Vice Grip,1,1,1
-127,pinsir,11,12,Guillotine,1,47,
-127,pinsir,11,14,Swords Dance,1,38,
-127,pinsir,11,20,Bind,1,4,
-127,pinsir,11,37,Thrash,1,35,
-127,pinsir,11,66,Submission,1,42,
-127,pinsir,11,69,Seismic Toss,1,8,
-127,pinsir,11,106,Harden,1,13,
-127,pinsir,11,116,Focus Energy,1,1,2
-127,pinsir,11,233,Vital Throw,1,25,
-127,pinsir,11,276,Superpower,1,52,
-127,pinsir,11,279,Revenge,1,18,
-127,pinsir,11,280,Brick Break,1,21,
-127,pinsir,11,404,X-Scissor,1,30,
-127,pinsir,12,11,Vice Grip,1,1,1
-127,pinsir,12,12,Guillotine,1,37,
-127,pinsir,12,14,Swords Dance,1,49,
-127,pinsir,12,20,Bind,1,7,
-127,pinsir,12,66,Submission,1,43,
-127,pinsir,12,69,Seismic Toss,1,13,
-127,pinsir,12,106,Harden,1,19,
-127,pinsir,12,116,Focus Energy,1,1,2
-127,pinsir,12,279,Revenge,1,25,
-127,pinsir,12,280,Brick Break,1,31,
-127,pinsir,13,11,Vice Grip,1,1,1
-127,pinsir,13,12,Guillotine,1,37,
-127,pinsir,13,14,Swords Dance,1,49,
-127,pinsir,13,20,Bind,1,7,
-127,pinsir,13,66,Submission,1,43,
-127,pinsir,13,69,Seismic Toss,1,13,
-127,pinsir,13,106,Harden,1,19,
-127,pinsir,13,116,Focus Energy,1,1,2
-127,pinsir,13,279,Revenge,1,25,
-127,pinsir,13,280,Brick Break,1,31,
-127,pinsir,14,11,Vice Grip,1,1,1
-127,pinsir,14,12,Guillotine,1,47,
-127,pinsir,14,14,Swords Dance,1,40,
-127,pinsir,14,20,Bind,1,4,
-127,pinsir,14,37,Thrash,1,36,
-127,pinsir,14,66,Submission,1,26,
-127,pinsir,14,69,Seismic Toss,1,8,
-127,pinsir,14,106,Harden,1,11,
-127,pinsir,14,116,Focus Energy,1,1,2
-127,pinsir,14,233,Vital Throw,1,22,
-127,pinsir,14,276,Superpower,1,43,
-127,pinsir,14,279,Revenge,1,15,
-127,pinsir,14,280,Brick Break,1,18,
-127,pinsir,14,404,X-Scissor,1,29,
-127,pinsir,14,480,Storm Throw,1,33,
-127,pinsir,15,11,Vice Grip,1,1,1
-127,pinsir,15,12,Guillotine,1,47,
-127,pinsir,15,14,Swords Dance,1,40,
-127,pinsir,15,20,Bind,1,4,
-127,pinsir,15,37,Thrash,1,36,
-127,pinsir,15,66,Submission,1,26,
-127,pinsir,15,69,Seismic Toss,1,8,
-127,pinsir,15,106,Harden,1,11,
-127,pinsir,15,116,Focus Energy,1,1,2
-127,pinsir,15,233,Vital Throw,1,22,
-127,pinsir,15,276,Superpower,1,43,
-127,pinsir,15,279,Revenge,1,15,
-127,pinsir,15,280,Brick Break,1,18,
-127,pinsir,15,404,X-Scissor,1,29,
-127,pinsir,15,480,Storm Throw,1,33,
-127,pinsir,16,11,Vice Grip,1,1,1
-127,pinsir,16,12,Guillotine,1,50,1
-127,pinsir,16,14,Swords Dance,1,40,1
-127,pinsir,16,20,Bind,1,4,1
-127,pinsir,16,37,Thrash,1,43,1
-127,pinsir,16,66,Submission,1,29,1
-127,pinsir,16,69,Seismic Toss,1,8,1
-127,pinsir,16,106,Harden,1,11,1
-127,pinsir,16,116,Focus Energy,1,1,2
-127,pinsir,16,233,Vital Throw,1,18,1
-127,pinsir,16,276,Superpower,1,47,1
-127,pinsir,16,279,Revenge,1,15,1
-127,pinsir,16,280,Brick Break,1,26,1
-127,pinsir,16,404,X-Scissor,1,33,1
-127,pinsir,16,458,Double Hit,1,22,1
-127,pinsir,16,480,Storm Throw,1,36,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+127,1,Vice Grip,1,normal,55,100
+127,2,Vice Grip,1,normal,55,100
+127,3,Vice Grip,1,normal,55,100
+127,4,Vice Grip,1,normal,55,100
+127,5,Vice Grip,1,normal,55,100
+127,5,Focus Energy,1,normal,-,-
+127,6,Vice Grip,1,normal,55,100
+127,6,Focus Energy,1,normal,-,-
+127,7,Vice Grip,1,normal,55,100
+127,7,Focus Energy,1,normal,-,-
+127,8,Vice Grip,1,normal,55,100
+127,8,Focus Energy,1,normal,-,-
+127,9,Vice Grip,1,normal,55,100
+127,9,Focus Energy,1,normal,-,-
+127,10,Vice Grip,1,normal,55,100
+127,10,Focus Energy,1,normal,-,-
+127,11,Vice Grip,1,normal,55,100
+127,11,Focus Energy,1,normal,-,-
+127,12,Vice Grip,1,normal,55,100
+127,12,Focus Energy,1,normal,-,-
+127,13,Vice Grip,1,normal,55,100
+127,13,Focus Energy,1,normal,-,-
+127,14,Vice Grip,1,normal,55,100
+127,14,Focus Energy,1,normal,-,-
+127,15,Vice Grip,1,normal,55,100
+127,15,Focus Energy,1,normal,-,-
+127,16,Vice Grip,1,normal,55,100
+127,16,Focus Energy,1,normal,-,-
+127,8,Bind,4,normal,15,85
+127,9,Bind,4,normal,15,85
+127,10,Bind,4,normal,15,85
+127,11,Bind,4,normal,15,85
+127,14,Bind,4,normal,15,85
+127,15,Bind,4,normal,15,85
+127,16,Bind,4,normal,15,85
+127,3,Focus Energy,7,normal,-,-
+127,4,Focus Energy,7,normal,-,-
+127,5,Bind,7,normal,15,85
+127,6,Bind,7,normal,15,85
+127,7,Bind,7,normal,15,85
+127,12,Bind,7,normal,15,85
+127,13,Bind,7,normal,15,85
+127,8,Seismic Toss,8,fighting,-,100
+127,9,Seismic Toss,8,fighting,-,100
+127,10,Seismic Toss,8,fighting,-,100
+127,11,Seismic Toss,8,fighting,-,100
+127,14,Seismic Toss,8,fighting,-,100
+127,15,Seismic Toss,8,fighting,-,100
+127,16,Seismic Toss,8,fighting,-,100
+127,14,Harden,11,normal,-,-
+127,15,Harden,11,normal,-,-
+127,16,Harden,11,normal,-,-
+127,3,Bind,13,normal,15,85
+127,4,Bind,13,normal,15,85
+127,5,Seismic Toss,13,fighting,-,100
+127,6,Seismic Toss,13,fighting,-,100
+127,7,Seismic Toss,13,fighting,-,100
+127,8,Harden,13,normal,-,-
+127,9,Harden,13,normal,-,-
+127,10,Harden,13,normal,-,-
+127,11,Harden,13,normal,-,-
+127,12,Seismic Toss,13,fighting,-,100
+127,13,Seismic Toss,13,fighting,-,100
+127,14,Revenge,15,fighting,60,100
+127,15,Revenge,15,fighting,60,100
+127,16,Revenge,15,fighting,60,100
+127,8,Revenge,18,fighting,60,100
+127,9,Revenge,18,fighting,60,100
+127,10,Revenge,18,fighting,60,100
+127,11,Revenge,18,fighting,60,100
+127,14,Brick Break,18,fighting,75,100
+127,15,Brick Break,18,fighting,75,100
+127,16,Vital Throw,18,fighting,70,-
+127,3,Seismic Toss,19,fighting,-,100
+127,4,Seismic Toss,19,fighting,-,100
+127,5,Harden,19,normal,-,-
+127,6,Harden,19,normal,-,-
+127,7,Harden,19,normal,-,-
+127,12,Harden,19,normal,-,-
+127,13,Harden,19,normal,-,-
+127,2,Bind,21,normal,15,85
+127,8,Brick Break,21,fighting,75,100
+127,9,Brick Break,21,fighting,75,100
+127,10,Brick Break,21,fighting,75,100
+127,11,Brick Break,21,fighting,75,100
+127,14,Vital Throw,22,fighting,70,-
+127,15,Vital Throw,22,fighting,70,-
+127,16,Double Hit,22,normal,35,90
+127,1,Seismic Toss,25,fighting,-,100
+127,2,Seismic Toss,25,fighting,-,100
+127,3,Harden,25,normal,-,-
+127,4,Harden,25,normal,-,-
+127,5,Revenge,25,fighting,60,100
+127,6,Revenge,25,fighting,60,100
+127,7,Revenge,25,fighting,60,100
+127,8,Vital Throw,25,fighting,70,-
+127,9,Vital Throw,25,fighting,70,-
+127,10,Vital Throw,25,fighting,70,-
+127,11,Vital Throw,25,fighting,70,-
+127,12,Revenge,25,fighting,60,100
+127,13,Revenge,25,fighting,60,100
+127,14,Submission,26,fighting,80,80
+127,15,Submission,26,fighting,80,80
+127,16,Brick Break,26,fighting,75,100
+127,14,X-Scissor,29,bug,80,100
+127,15,X-Scissor,29,bug,80,100
+127,16,Submission,29,fighting,80,80
+127,1,Guillotine,30,normal,-,30
+127,2,Guillotine,30,normal,-,30
+127,8,X-Scissor,30,bug,80,100
+127,9,X-Scissor,30,bug,80,100
+127,10,X-Scissor,30,bug,80,100
+127,11,X-Scissor,30,bug,80,100
+127,3,Guillotine,31,normal,-,30
+127,4,Guillotine,31,normal,-,30
+127,5,Brick Break,31,fighting,75,100
+127,6,Brick Break,31,fighting,75,100
+127,7,Brick Break,31,fighting,75,100
+127,12,Brick Break,31,fighting,75,100
+127,13,Brick Break,31,fighting,75,100
+127,14,Storm Throw,33,fighting,60,100
+127,15,Storm Throw,33,fighting,60,100
+127,16,X-Scissor,33,bug,80,100
+127,8,Thrash,35,normal,120,100
+127,9,Thrash,35,normal,120,100
+127,10,Thrash,35,normal,120,100
+127,11,Thrash,35,normal,120,100
+127,1,Focus Energy,36,normal,-,-
+127,2,Focus Energy,36,normal,-,-
+127,14,Thrash,36,normal,120,100
+127,15,Thrash,36,normal,120,100
+127,16,Storm Throw,36,fighting,60,100
+127,3,Submission,37,fighting,80,80
+127,4,Submission,37,fighting,80,80
+127,5,Guillotine,37,normal,-,30
+127,6,Guillotine,37,normal,-,30
+127,7,Guillotine,37,normal,-,30
+127,12,Guillotine,37,normal,-,30
+127,13,Guillotine,37,normal,-,30
+127,8,Swords Dance,38,normal,-,-
+127,9,Swords Dance,38,normal,-,-
+127,10,Swords Dance,38,normal,-,-
+127,11,Swords Dance,38,normal,-,-
+127,14,Swords Dance,40,normal,-,-
+127,15,Swords Dance,40,normal,-,-
+127,16,Swords Dance,40,normal,-,-
+127,8,Submission,42,fighting,80,80
+127,9,Submission,42,fighting,80,80
+127,10,Submission,42,fighting,80,80
+127,11,Submission,42,fighting,80,80
+127,1,Harden,43,normal,-,-
+127,2,Harden,43,normal,-,-
+127,3,Swords Dance,43,normal,-,-
+127,4,Swords Dance,43,normal,-,-
+127,5,Submission,43,fighting,80,80
+127,6,Submission,43,fighting,80,80
+127,7,Submission,43,fighting,80,80
+127,12,Submission,43,fighting,80,80
+127,13,Submission,43,fighting,80,80
+127,14,Superpower,43,fighting,120,100
+127,15,Superpower,43,fighting,120,100
+127,16,Thrash,43,normal,120,100
+127,8,Guillotine,47,normal,-,30
+127,9,Guillotine,47,normal,-,30
+127,10,Guillotine,47,normal,-,30
+127,11,Guillotine,47,normal,-,30
+127,14,Guillotine,47,normal,-,30
+127,15,Guillotine,47,normal,-,30
+127,16,Superpower,47,fighting,120,100
+127,1,Slash,49,normal,70,100
+127,2,Slash,49,normal,70,100
+127,5,Swords Dance,49,normal,-,-
+127,6,Swords Dance,49,normal,-,-
+127,7,Swords Dance,49,normal,-,-
+127,12,Swords Dance,49,normal,-,-
+127,13,Swords Dance,49,normal,-,-
+127,16,Guillotine,50,normal,-,30
+127,8,Superpower,52,fighting,120,100
+127,9,Superpower,52,fighting,120,100
+127,10,Superpower,52,fighting,120,100
+127,11,Superpower,52,fighting,120,100
+127,1,Swords Dance,54,normal,-,-
+127,2,Swords Dance,54,normal,-,-

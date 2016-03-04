@@ -1,29 +1,29 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-657,frogadier,15,1,Pound,1,1,1
-657,frogadier,15,45,Growl,1,1,2
-657,frogadier,15,56,Hydro Pump,1,55,
-657,frogadier,15,98,Quick Attack,1,8,
-657,frogadier,15,104,Double Team,1,48,
-657,frogadier,15,108,Smokescreen,1,20,
-657,frogadier,15,122,Lick,1,10,
-657,frogadier,15,145,Bubble,1,5,
-657,frogadier,15,164,Substitute,1,38,
-657,frogadier,15,340,Bounce,1,44,
-657,frogadier,15,352,Water Pulse,1,14,
-657,frogadier,15,374,Fling,1,28,
-657,frogadier,15,479,Smack Down,1,33,
-657,frogadier,15,496,Round,1,23,
-657,frogadier,16,1,Pound,1,1,1
-657,frogadier,16,45,Growl,1,1,2
-657,frogadier,16,56,Hydro Pump,1,55,1
-657,frogadier,16,98,Quick Attack,1,8,1
-657,frogadier,16,104,Double Team,1,48,1
-657,frogadier,16,108,Smokescreen,1,20,1
-657,frogadier,16,122,Lick,1,10,1
-657,frogadier,16,145,Bubble,1,5,1
-657,frogadier,16,164,Substitute,1,38,1
-657,frogadier,16,340,Bounce,1,44,1
-657,frogadier,16,352,Water Pulse,1,14,1
-657,frogadier,16,374,Fling,1,28,1
-657,frogadier,16,479,Smack Down,1,33,1
-657,frogadier,16,496,Round,1,23,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+657,15,Pound,1,normal,40,100
+657,15,Growl,1,normal,-,100
+657,16,Pound,1,normal,40,100
+657,16,Growl,1,normal,-,100
+657,15,Bubble,5,water,40,100
+657,16,Bubble,5,water,40,100
+657,15,Quick Attack,8,normal,40,100
+657,16,Quick Attack,8,normal,40,100
+657,15,Lick,10,ghost,30,100
+657,16,Lick,10,ghost,30,100
+657,15,Water Pulse,14,water,60,100
+657,16,Water Pulse,14,water,60,100
+657,15,Smokescreen,20,normal,-,100
+657,16,Smokescreen,20,normal,-,100
+657,15,Round,23,normal,60,100
+657,16,Round,23,normal,60,100
+657,15,Fling,28,dark,-,100
+657,16,Fling,28,dark,-,100
+657,15,Smack Down,33,rock,50,100
+657,16,Smack Down,33,rock,50,100
+657,15,Substitute,38,normal,-,-
+657,16,Substitute,38,normal,-,-
+657,15,Bounce,44,flying,85,85
+657,16,Bounce,44,flying,85,85
+657,15,Double Team,48,normal,-,-
+657,16,Double Team,48,normal,-,-
+657,15,Hydro Pump,55,water,110,80
+657,16,Hydro Pump,55,water,110,80

@@ -1,181 +1,181 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-215,sneasel,3,10,Scratch,1,1,1
-215,sneasel,3,43,Leer,1,1,2
-215,sneasel,3,97,Agility,1,41,
-215,sneasel,3,98,Quick Attack,1,9,
-215,sneasel,3,103,Screech,1,17,
-215,sneasel,3,154,Fury Swipes,1,33,
-215,sneasel,3,163,Slash,1,49,
-215,sneasel,3,185,Feint Attack,1,25,
-215,sneasel,3,251,Beat Up,1,57,
-215,sneasel,4,10,Scratch,1,1,1
-215,sneasel,4,43,Leer,1,1,2
-215,sneasel,4,97,Agility,1,41,
-215,sneasel,4,98,Quick Attack,1,9,
-215,sneasel,4,103,Screech,1,17,
-215,sneasel,4,154,Fury Swipes,1,33,
-215,sneasel,4,163,Slash,1,49,
-215,sneasel,4,185,Feint Attack,1,25,
-215,sneasel,4,232,Metal Claw,1,65,
-215,sneasel,4,251,Beat Up,1,57,
-215,sneasel,5,10,Scratch,1,1,1
-215,sneasel,5,43,Leer,1,1,2
-215,sneasel,5,97,Agility,1,36,
-215,sneasel,5,98,Quick Attack,1,8,
-215,sneasel,5,103,Screech,1,15,
-215,sneasel,5,154,Fury Swipes,1,29,
-215,sneasel,5,163,Slash,1,50,
-215,sneasel,5,185,Feint Attack,1,22,
-215,sneasel,5,196,Icy Wind,1,43,
-215,sneasel,5,232,Metal Claw,1,64,
-215,sneasel,5,251,Beat Up,1,57,
-215,sneasel,5,269,Taunt,1,1,3
-215,sneasel,6,10,Scratch,1,1,1
-215,sneasel,6,43,Leer,1,1,2
-215,sneasel,6,97,Agility,1,36,
-215,sneasel,6,98,Quick Attack,1,8,
-215,sneasel,6,103,Screech,1,15,
-215,sneasel,6,154,Fury Swipes,1,29,
-215,sneasel,6,163,Slash,1,50,
-215,sneasel,6,185,Feint Attack,1,22,
-215,sneasel,6,196,Icy Wind,1,43,
-215,sneasel,6,232,Metal Claw,1,64,
-215,sneasel,6,251,Beat Up,1,57,
-215,sneasel,6,269,Taunt,1,1,3
-215,sneasel,7,10,Scratch,1,1,1
-215,sneasel,7,43,Leer,1,1,2
-215,sneasel,7,97,Agility,1,36,
-215,sneasel,7,98,Quick Attack,1,8,
-215,sneasel,7,103,Screech,1,15,
-215,sneasel,7,154,Fury Swipes,1,29,
-215,sneasel,7,163,Slash,1,50,
-215,sneasel,7,185,Feint Attack,1,22,
-215,sneasel,7,196,Icy Wind,1,43,
-215,sneasel,7,232,Metal Claw,1,64,
-215,sneasel,7,251,Beat Up,1,57,
-215,sneasel,7,269,Taunt,1,1,3
-215,sneasel,8,10,Scratch,1,1,1
-215,sneasel,8,43,Leer,1,1,2
-215,sneasel,8,97,Agility,1,24,
-215,sneasel,8,98,Quick Attack,1,8,
-215,sneasel,8,103,Screech,1,10,
-215,sneasel,8,154,Fury Swipes,1,21,
-215,sneasel,8,163,Slash,1,35,
-215,sneasel,8,185,Feint Attack,1,14,
-215,sneasel,8,196,Icy Wind,1,28,
-215,sneasel,8,232,Metal Claw,1,42,
-215,sneasel,8,251,Beat Up,1,38,
-215,sneasel,8,269,Taunt,1,1,3
-215,sneasel,8,420,Ice Shard,1,49,
-215,sneasel,9,10,Scratch,1,1,1
-215,sneasel,9,43,Leer,1,1,2
-215,sneasel,9,97,Agility,1,24,
-215,sneasel,9,98,Quick Attack,1,8,
-215,sneasel,9,103,Screech,1,10,
-215,sneasel,9,154,Fury Swipes,1,21,
-215,sneasel,9,163,Slash,1,35,
-215,sneasel,9,185,Feint Attack,1,14,
-215,sneasel,9,196,Icy Wind,1,28,
-215,sneasel,9,232,Metal Claw,1,42,
-215,sneasel,9,251,Beat Up,1,38,
-215,sneasel,9,269,Taunt,1,1,3
-215,sneasel,9,420,Ice Shard,1,49,
-215,sneasel,10,10,Scratch,1,1,1
-215,sneasel,10,43,Leer,1,1,2
-215,sneasel,10,97,Agility,1,24,
-215,sneasel,10,98,Quick Attack,1,8,
-215,sneasel,10,103,Screech,1,10,
-215,sneasel,10,154,Fury Swipes,1,21,
-215,sneasel,10,163,Slash,1,35,
-215,sneasel,10,185,Feint Attack,1,14,
-215,sneasel,10,196,Icy Wind,1,28,
-215,sneasel,10,232,Metal Claw,1,42,
-215,sneasel,10,251,Beat Up,1,38,
-215,sneasel,10,269,Taunt,1,1,3
-215,sneasel,10,420,Ice Shard,1,49,
-215,sneasel,11,10,Scratch,1,1,1
-215,sneasel,11,43,Leer,1,1,2
-215,sneasel,11,97,Agility,1,24,
-215,sneasel,11,98,Quick Attack,1,8,
-215,sneasel,11,103,Screech,1,10,
-215,sneasel,11,154,Fury Swipes,1,21,
-215,sneasel,11,163,Slash,1,38,
-215,sneasel,11,185,Feint Attack,1,14,
-215,sneasel,11,196,Icy Wind,1,28,
-215,sneasel,11,232,Metal Claw,1,49,
-215,sneasel,11,251,Beat Up,1,42,
-215,sneasel,11,269,Taunt,1,1,3
-215,sneasel,11,420,Ice Shard,1,51,
-215,sneasel,11,468,Hone Claws,1,35,
-215,sneasel,12,10,Scratch,1,1,1
-215,sneasel,12,43,Leer,1,1,2
-215,sneasel,12,97,Agility,1,36,
-215,sneasel,12,98,Quick Attack,1,8,
-215,sneasel,12,103,Screech,1,15,
-215,sneasel,12,154,Fury Swipes,1,29,
-215,sneasel,12,163,Slash,1,50,
-215,sneasel,12,185,Feint Attack,1,22,
-215,sneasel,12,196,Icy Wind,1,43,
-215,sneasel,12,232,Metal Claw,1,64,
-215,sneasel,12,251,Beat Up,1,57,
-215,sneasel,12,269,Taunt,1,1,3
-215,sneasel,13,10,Scratch,1,1,1
-215,sneasel,13,43,Leer,1,1,2
-215,sneasel,13,97,Agility,1,36,
-215,sneasel,13,98,Quick Attack,1,8,
-215,sneasel,13,103,Screech,1,15,
-215,sneasel,13,154,Fury Swipes,1,29,
-215,sneasel,13,163,Slash,1,50,
-215,sneasel,13,185,Feint Attack,1,22,
-215,sneasel,13,196,Icy Wind,1,43,
-215,sneasel,13,232,Metal Claw,1,64,
-215,sneasel,13,251,Beat Up,1,57,
-215,sneasel,13,269,Taunt,1,1,3
-215,sneasel,14,10,Scratch,1,1,1
-215,sneasel,14,43,Leer,1,1,2
-215,sneasel,14,97,Agility,1,20,
-215,sneasel,14,98,Quick Attack,1,8,
-215,sneasel,14,103,Screech,1,32,
-215,sneasel,14,154,Fury Swipes,1,16,
-215,sneasel,14,163,Slash,1,35,
-215,sneasel,14,185,Feint Attack,1,10,
-215,sneasel,14,196,Icy Wind,1,14,
-215,sneasel,14,232,Metal Claw,1,22,
-215,sneasel,14,251,Beat Up,1,28,
-215,sneasel,14,269,Taunt,1,1,3
-215,sneasel,14,289,Snatch,1,40,
-215,sneasel,14,386,Punishment,1,44,
-215,sneasel,14,420,Ice Shard,1,47,
-215,sneasel,14,468,Hone Claws,1,25,
-215,sneasel,15,10,Scratch,1,1,1
-215,sneasel,15,43,Leer,1,1,2
-215,sneasel,15,97,Agility,1,20,
-215,sneasel,15,98,Quick Attack,1,8,
-215,sneasel,15,103,Screech,1,32,
-215,sneasel,15,154,Fury Swipes,1,16,
-215,sneasel,15,163,Slash,1,35,
-215,sneasel,15,185,Feint Attack,1,10,
-215,sneasel,15,196,Icy Wind,1,14,
-215,sneasel,15,232,Metal Claw,1,22,
-215,sneasel,15,251,Beat Up,1,28,
-215,sneasel,15,269,Taunt,1,1,3
-215,sneasel,15,289,Snatch,1,40,
-215,sneasel,15,386,Punishment,1,44,
-215,sneasel,15,420,Ice Shard,1,47,
-215,sneasel,15,468,Hone Claws,1,25,
-215,sneasel,16,10,Scratch,1,1,1
-215,sneasel,16,43,Leer,1,1,2
-215,sneasel,16,97,Agility,1,20,1
-215,sneasel,16,98,Quick Attack,1,8,1
-215,sneasel,16,103,Screech,1,32,1
-215,sneasel,16,154,Fury Swipes,1,16,1
-215,sneasel,16,163,Slash,1,35,1
-215,sneasel,16,185,Feint Attack,1,10,1
-215,sneasel,16,196,Icy Wind,1,14,1
-215,sneasel,16,232,Metal Claw,1,22,1
-215,sneasel,16,251,Beat Up,1,28,1
-215,sneasel,16,269,Taunt,1,1,3
-215,sneasel,16,289,Snatch,1,40,1
-215,sneasel,16,386,Punishment,1,44,1
-215,sneasel,16,420,Ice Shard,1,47,1
-215,sneasel,16,468,Hone Claws,1,25,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+215,3,Scratch,1,normal,40,100
+215,3,Leer,1,normal,-,100
+215,4,Scratch,1,normal,40,100
+215,4,Leer,1,normal,-,100
+215,5,Scratch,1,normal,40,100
+215,5,Leer,1,normal,-,100
+215,5,Taunt,1,dark,-,100
+215,6,Scratch,1,normal,40,100
+215,6,Leer,1,normal,-,100
+215,6,Taunt,1,dark,-,100
+215,7,Scratch,1,normal,40,100
+215,7,Leer,1,normal,-,100
+215,7,Taunt,1,dark,-,100
+215,8,Scratch,1,normal,40,100
+215,8,Leer,1,normal,-,100
+215,8,Taunt,1,dark,-,100
+215,9,Scratch,1,normal,40,100
+215,9,Leer,1,normal,-,100
+215,9,Taunt,1,dark,-,100
+215,10,Scratch,1,normal,40,100
+215,10,Leer,1,normal,-,100
+215,10,Taunt,1,dark,-,100
+215,11,Scratch,1,normal,40,100
+215,11,Leer,1,normal,-,100
+215,11,Taunt,1,dark,-,100
+215,12,Scratch,1,normal,40,100
+215,12,Leer,1,normal,-,100
+215,12,Taunt,1,dark,-,100
+215,13,Scratch,1,normal,40,100
+215,13,Leer,1,normal,-,100
+215,13,Taunt,1,dark,-,100
+215,14,Scratch,1,normal,40,100
+215,14,Leer,1,normal,-,100
+215,14,Taunt,1,dark,-,100
+215,15,Scratch,1,normal,40,100
+215,15,Leer,1,normal,-,100
+215,15,Taunt,1,dark,-,100
+215,16,Scratch,1,normal,40,100
+215,16,Leer,1,normal,-,100
+215,16,Taunt,1,dark,-,100
+215,5,Quick Attack,8,normal,40,100
+215,6,Quick Attack,8,normal,40,100
+215,7,Quick Attack,8,normal,40,100
+215,8,Quick Attack,8,normal,40,100
+215,9,Quick Attack,8,normal,40,100
+215,10,Quick Attack,8,normal,40,100
+215,11,Quick Attack,8,normal,40,100
+215,12,Quick Attack,8,normal,40,100
+215,13,Quick Attack,8,normal,40,100
+215,14,Quick Attack,8,normal,40,100
+215,15,Quick Attack,8,normal,40,100
+215,16,Quick Attack,8,normal,40,100
+215,3,Quick Attack,9,normal,40,100
+215,4,Quick Attack,9,normal,40,100
+215,8,Screech,10,normal,-,85
+215,9,Screech,10,normal,-,85
+215,10,Screech,10,normal,-,85
+215,11,Screech,10,normal,-,85
+215,14,Feint Attack,10,dark,60,-
+215,15,Feint Attack,10,dark,60,-
+215,16,Feint Attack,10,dark,60,-
+215,8,Feint Attack,14,dark,60,-
+215,9,Feint Attack,14,dark,60,-
+215,10,Feint Attack,14,dark,60,-
+215,11,Feint Attack,14,dark,60,-
+215,14,Icy Wind,14,ice,55,95
+215,15,Icy Wind,14,ice,55,95
+215,16,Icy Wind,14,ice,55,95
+215,5,Screech,15,normal,-,85
+215,6,Screech,15,normal,-,85
+215,7,Screech,15,normal,-,85
+215,12,Screech,15,normal,-,85
+215,13,Screech,15,normal,-,85
+215,14,Fury Swipes,16,normal,18,80
+215,15,Fury Swipes,16,normal,18,80
+215,16,Fury Swipes,16,normal,18,80
+215,3,Screech,17,normal,-,85
+215,4,Screech,17,normal,-,85
+215,14,Agility,20,psychic,-,-
+215,15,Agility,20,psychic,-,-
+215,16,Agility,20,psychic,-,-
+215,8,Fury Swipes,21,normal,18,80
+215,9,Fury Swipes,21,normal,18,80
+215,10,Fury Swipes,21,normal,18,80
+215,11,Fury Swipes,21,normal,18,80
+215,5,Feint Attack,22,dark,60,-
+215,6,Feint Attack,22,dark,60,-
+215,7,Feint Attack,22,dark,60,-
+215,12,Feint Attack,22,dark,60,-
+215,13,Feint Attack,22,dark,60,-
+215,14,Metal Claw,22,steel,50,95
+215,15,Metal Claw,22,steel,50,95
+215,16,Metal Claw,22,steel,50,95
+215,8,Agility,24,psychic,-,-
+215,9,Agility,24,psychic,-,-
+215,10,Agility,24,psychic,-,-
+215,11,Agility,24,psychic,-,-
+215,3,Feint Attack,25,dark,60,-
+215,4,Feint Attack,25,dark,60,-
+215,14,Hone Claws,25,dark,-,-
+215,15,Hone Claws,25,dark,-,-
+215,16,Hone Claws,25,dark,-,-
+215,8,Icy Wind,28,ice,55,95
+215,9,Icy Wind,28,ice,55,95
+215,10,Icy Wind,28,ice,55,95
+215,11,Icy Wind,28,ice,55,95
+215,14,Beat Up,28,dark,-,100
+215,15,Beat Up,28,dark,-,100
+215,16,Beat Up,28,dark,-,100
+215,5,Fury Swipes,29,normal,18,80
+215,6,Fury Swipes,29,normal,18,80
+215,7,Fury Swipes,29,normal,18,80
+215,12,Fury Swipes,29,normal,18,80
+215,13,Fury Swipes,29,normal,18,80
+215,14,Screech,32,normal,-,85
+215,15,Screech,32,normal,-,85
+215,16,Screech,32,normal,-,85
+215,3,Fury Swipes,33,normal,18,80
+215,4,Fury Swipes,33,normal,18,80
+215,8,Slash,35,normal,70,100
+215,9,Slash,35,normal,70,100
+215,10,Slash,35,normal,70,100
+215,11,Hone Claws,35,dark,-,-
+215,14,Slash,35,normal,70,100
+215,15,Slash,35,normal,70,100
+215,16,Slash,35,normal,70,100
+215,5,Agility,36,psychic,-,-
+215,6,Agility,36,psychic,-,-
+215,7,Agility,36,psychic,-,-
+215,12,Agility,36,psychic,-,-
+215,13,Agility,36,psychic,-,-
+215,8,Beat Up,38,dark,-,100
+215,9,Beat Up,38,dark,-,100
+215,10,Beat Up,38,dark,-,100
+215,11,Slash,38,normal,70,100
+215,14,Snatch,40,dark,-,-
+215,15,Snatch,40,dark,-,-
+215,16,Snatch,40,dark,-,-
+215,3,Agility,41,psychic,-,-
+215,4,Agility,41,psychic,-,-
+215,8,Metal Claw,42,steel,50,95
+215,9,Metal Claw,42,steel,50,95
+215,10,Metal Claw,42,steel,50,95
+215,11,Beat Up,42,dark,-,100
+215,5,Icy Wind,43,ice,55,95
+215,6,Icy Wind,43,ice,55,95
+215,7,Icy Wind,43,ice,55,95
+215,12,Icy Wind,43,ice,55,95
+215,13,Icy Wind,43,ice,55,95
+215,14,Punishment,44,dark,-,100
+215,15,Punishment,44,dark,-,100
+215,16,Punishment,44,dark,-,100
+215,14,Ice Shard,47,ice,40,100
+215,15,Ice Shard,47,ice,40,100
+215,16,Ice Shard,47,ice,40,100
+215,3,Slash,49,normal,70,100
+215,4,Slash,49,normal,70,100
+215,8,Ice Shard,49,ice,40,100
+215,9,Ice Shard,49,ice,40,100
+215,10,Ice Shard,49,ice,40,100
+215,11,Metal Claw,49,steel,50,95
+215,5,Slash,50,normal,70,100
+215,6,Slash,50,normal,70,100
+215,7,Slash,50,normal,70,100
+215,12,Slash,50,normal,70,100
+215,13,Slash,50,normal,70,100
+215,11,Ice Shard,51,ice,40,100
+215,3,Beat Up,57,dark,-,100
+215,4,Beat Up,57,dark,-,100
+215,5,Beat Up,57,dark,-,100
+215,6,Beat Up,57,dark,-,100
+215,7,Beat Up,57,dark,-,100
+215,12,Beat Up,57,dark,-,100
+215,13,Beat Up,57,dark,-,100
+215,5,Metal Claw,64,steel,50,95
+215,6,Metal Claw,64,steel,50,95
+215,7,Metal Claw,64,steel,50,95
+215,12,Metal Claw,64,steel,50,95
+215,13,Metal Claw,64,steel,50,95
+215,4,Metal Claw,65,steel,50,95

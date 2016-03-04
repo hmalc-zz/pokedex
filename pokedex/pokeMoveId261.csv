@@ -1,159 +1,159 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-261,poochyena,5,28,Sand Attack,1,9,
-261,poochyena,5,33,Tackle,1,1,
-261,poochyena,5,36,Take Down,1,33,
-261,poochyena,5,44,Bite,1,13,
-261,poochyena,5,46,Roar,1,21,
-261,poochyena,5,168,Thief,1,45,
-261,poochyena,5,184,Scary Face,1,29,
-261,poochyena,5,207,Swagger,1,25,
-261,poochyena,5,242,Crunch,1,41,
-261,poochyena,5,269,Taunt,1,37,
-261,poochyena,5,316,Odor Sleuth,1,17,
-261,poochyena,5,336,Howl,1,5,
-261,poochyena,6,28,Sand Attack,1,9,
-261,poochyena,6,33,Tackle,1,1,
-261,poochyena,6,36,Take Down,1,33,
-261,poochyena,6,44,Bite,1,13,
-261,poochyena,6,46,Roar,1,21,
-261,poochyena,6,168,Thief,1,45,
-261,poochyena,6,184,Scary Face,1,29,
-261,poochyena,6,207,Swagger,1,25,
-261,poochyena,6,242,Crunch,1,41,
-261,poochyena,6,269,Taunt,1,37,
-261,poochyena,6,316,Odor Sleuth,1,17,
-261,poochyena,6,336,Howl,1,5,
-261,poochyena,7,28,Sand Attack,1,9,
-261,poochyena,7,33,Tackle,1,1,
-261,poochyena,7,36,Take Down,1,33,
-261,poochyena,7,44,Bite,1,13,
-261,poochyena,7,46,Roar,1,21,
-261,poochyena,7,168,Thief,1,45,
-261,poochyena,7,184,Scary Face,1,29,
-261,poochyena,7,207,Swagger,1,25,
-261,poochyena,7,242,Crunch,1,41,
-261,poochyena,7,269,Taunt,1,37,
-261,poochyena,7,316,Odor Sleuth,1,17,
-261,poochyena,7,336,Howl,1,5,
-261,poochyena,8,28,Sand Attack,1,9,
-261,poochyena,8,33,Tackle,1,1,
-261,poochyena,8,36,Take Down,1,45,
-261,poochyena,8,44,Bite,1,13,
-261,poochyena,8,46,Roar,1,21,
-261,poochyena,8,184,Scary Face,1,33,
-261,poochyena,8,207,Swagger,1,25,
-261,poochyena,8,242,Crunch,1,53,
-261,poochyena,8,269,Taunt,1,37,
-261,poochyena,8,316,Odor Sleuth,1,17,
-261,poochyena,8,336,Howl,1,5,
-261,poochyena,8,372,Assurance,1,29,
-261,poochyena,8,373,Embargo,1,41,
-261,poochyena,8,389,Sucker Punch,1,49,
-261,poochyena,9,28,Sand Attack,1,9,
-261,poochyena,9,33,Tackle,1,1,
-261,poochyena,9,36,Take Down,1,45,
-261,poochyena,9,44,Bite,1,13,
-261,poochyena,9,46,Roar,1,21,
-261,poochyena,9,184,Scary Face,1,33,
-261,poochyena,9,207,Swagger,1,25,
-261,poochyena,9,242,Crunch,1,53,
-261,poochyena,9,269,Taunt,1,37,
-261,poochyena,9,316,Odor Sleuth,1,17,
-261,poochyena,9,336,Howl,1,5,
-261,poochyena,9,372,Assurance,1,29,
-261,poochyena,9,373,Embargo,1,41,
-261,poochyena,9,389,Sucker Punch,1,49,
-261,poochyena,10,28,Sand Attack,1,9,
-261,poochyena,10,33,Tackle,1,1,
-261,poochyena,10,36,Take Down,1,45,
-261,poochyena,10,44,Bite,1,13,
-261,poochyena,10,46,Roar,1,21,
-261,poochyena,10,184,Scary Face,1,33,
-261,poochyena,10,207,Swagger,1,25,
-261,poochyena,10,242,Crunch,1,53,
-261,poochyena,10,269,Taunt,1,37,
-261,poochyena,10,316,Odor Sleuth,1,17,
-261,poochyena,10,336,Howl,1,5,
-261,poochyena,10,372,Assurance,1,29,
-261,poochyena,10,373,Embargo,1,41,
-261,poochyena,10,389,Sucker Punch,1,49,
-261,poochyena,11,28,Sand Attack,1,9,
-261,poochyena,11,33,Tackle,1,1,
-261,poochyena,11,36,Take Down,1,45,
-261,poochyena,11,44,Bite,1,13,
-261,poochyena,11,46,Roar,1,21,
-261,poochyena,11,184,Scary Face,1,33,
-261,poochyena,11,207,Swagger,1,25,
-261,poochyena,11,242,Crunch,1,53,
-261,poochyena,11,269,Taunt,1,37,
-261,poochyena,11,316,Odor Sleuth,1,17,
-261,poochyena,11,336,Howl,1,5,
-261,poochyena,11,372,Assurance,1,29,
-261,poochyena,11,373,Embargo,1,41,
-261,poochyena,11,389,Sucker Punch,1,49,
-261,poochyena,12,28,Sand Attack,1,9,
-261,poochyena,12,33,Tackle,1,1,
-261,poochyena,12,36,Take Down,1,33,
-261,poochyena,12,44,Bite,1,13,
-261,poochyena,12,46,Roar,1,21,
-261,poochyena,12,168,Thief,1,45,
-261,poochyena,12,184,Scary Face,1,29,
-261,poochyena,12,207,Swagger,1,25,
-261,poochyena,12,242,Crunch,1,41,
-261,poochyena,12,269,Taunt,1,37,
-261,poochyena,12,316,Odor Sleuth,1,17,
-261,poochyena,12,336,Howl,1,5,
-261,poochyena,13,28,Sand Attack,1,9,
-261,poochyena,13,33,Tackle,1,1,
-261,poochyena,13,36,Take Down,1,33,
-261,poochyena,13,44,Bite,1,13,
-261,poochyena,13,46,Roar,1,21,
-261,poochyena,13,168,Thief,1,45,
-261,poochyena,13,184,Scary Face,1,29,
-261,poochyena,13,207,Swagger,1,25,
-261,poochyena,13,242,Crunch,1,41,
-261,poochyena,13,269,Taunt,1,37,
-261,poochyena,13,316,Odor Sleuth,1,17,
-261,poochyena,13,336,Howl,1,5,
-261,poochyena,14,28,Sand Attack,1,9,
-261,poochyena,14,33,Tackle,1,1,
-261,poochyena,14,36,Take Down,1,45,
-261,poochyena,14,44,Bite,1,13,
-261,poochyena,14,46,Roar,1,21,
-261,poochyena,14,184,Scary Face,1,33,
-261,poochyena,14,207,Swagger,1,25,
-261,poochyena,14,242,Crunch,1,53,
-261,poochyena,14,269,Taunt,1,37,
-261,poochyena,14,316,Odor Sleuth,1,17,
-261,poochyena,14,336,Howl,1,5,
-261,poochyena,14,372,Assurance,1,29,
-261,poochyena,14,373,Embargo,1,41,
-261,poochyena,14,389,Sucker Punch,1,49,
-261,poochyena,15,28,Sand Attack,1,9,
-261,poochyena,15,33,Tackle,1,1,
-261,poochyena,15,36,Take Down,1,45,
-261,poochyena,15,44,Bite,1,13,
-261,poochyena,15,46,Roar,1,21,
-261,poochyena,15,184,Scary Face,1,33,
-261,poochyena,15,207,Swagger,1,25,
-261,poochyena,15,242,Crunch,1,53,
-261,poochyena,15,269,Taunt,1,37,
-261,poochyena,15,316,Odor Sleuth,1,17,
-261,poochyena,15,336,Howl,1,5,
-261,poochyena,15,372,Assurance,1,29,
-261,poochyena,15,373,Embargo,1,41,
-261,poochyena,15,389,Sucker Punch,1,49,
-261,poochyena,16,28,Sand Attack,1,7,1
-261,poochyena,16,33,Tackle,1,1,1
-261,poochyena,16,36,Take Down,1,34,1
-261,poochyena,16,44,Bite,1,10,1
-261,poochyena,16,46,Roar,1,16,1
-261,poochyena,16,184,Scary Face,1,25,1
-261,poochyena,16,207,Swagger,1,19,1
-261,poochyena,16,242,Crunch,1,37,1
-261,poochyena,16,269,Taunt,1,31,1
-261,poochyena,16,316,Odor Sleuth,1,13,1
-261,poochyena,16,336,Howl,1,4,1
-261,poochyena,16,372,Assurance,1,22,1
-261,poochyena,16,373,Embargo,1,28,1
-261,poochyena,16,389,Sucker Punch,1,40,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+261,5,Tackle,1,normal,50,100
+261,6,Tackle,1,normal,50,100
+261,7,Tackle,1,normal,50,100
+261,8,Tackle,1,normal,50,100
+261,9,Tackle,1,normal,50,100
+261,10,Tackle,1,normal,50,100
+261,11,Tackle,1,normal,50,100
+261,12,Tackle,1,normal,50,100
+261,13,Tackle,1,normal,50,100
+261,14,Tackle,1,normal,50,100
+261,15,Tackle,1,normal,50,100
+261,16,Tackle,1,normal,50,100
+261,16,Howl,4,normal,-,-
+261,5,Howl,5,normal,-,-
+261,6,Howl,5,normal,-,-
+261,7,Howl,5,normal,-,-
+261,8,Howl,5,normal,-,-
+261,9,Howl,5,normal,-,-
+261,10,Howl,5,normal,-,-
+261,11,Howl,5,normal,-,-
+261,12,Howl,5,normal,-,-
+261,13,Howl,5,normal,-,-
+261,14,Howl,5,normal,-,-
+261,15,Howl,5,normal,-,-
+261,16,Sand Attack,7,ground,-,100
+261,5,Sand Attack,9,ground,-,100
+261,6,Sand Attack,9,ground,-,100
+261,7,Sand Attack,9,ground,-,100
+261,8,Sand Attack,9,ground,-,100
+261,9,Sand Attack,9,ground,-,100
+261,10,Sand Attack,9,ground,-,100
+261,11,Sand Attack,9,ground,-,100
+261,12,Sand Attack,9,ground,-,100
+261,13,Sand Attack,9,ground,-,100
+261,14,Sand Attack,9,ground,-,100
+261,15,Sand Attack,9,ground,-,100
+261,16,Bite,10,dark,60,100
+261,5,Bite,13,dark,60,100
+261,6,Bite,13,dark,60,100
+261,7,Bite,13,dark,60,100
+261,8,Bite,13,dark,60,100
+261,9,Bite,13,dark,60,100
+261,10,Bite,13,dark,60,100
+261,11,Bite,13,dark,60,100
+261,12,Bite,13,dark,60,100
+261,13,Bite,13,dark,60,100
+261,14,Bite,13,dark,60,100
+261,15,Bite,13,dark,60,100
+261,16,Odor Sleuth,13,normal,-,-
+261,16,Roar,16,normal,-,-
+261,5,Odor Sleuth,17,normal,-,-
+261,6,Odor Sleuth,17,normal,-,-
+261,7,Odor Sleuth,17,normal,-,-
+261,8,Odor Sleuth,17,normal,-,-
+261,9,Odor Sleuth,17,normal,-,-
+261,10,Odor Sleuth,17,normal,-,-
+261,11,Odor Sleuth,17,normal,-,-
+261,12,Odor Sleuth,17,normal,-,-
+261,13,Odor Sleuth,17,normal,-,-
+261,14,Odor Sleuth,17,normal,-,-
+261,15,Odor Sleuth,17,normal,-,-
+261,16,Swagger,19,normal,-,90
+261,5,Roar,21,normal,-,-
+261,6,Roar,21,normal,-,-
+261,7,Roar,21,normal,-,-
+261,8,Roar,21,normal,-,-
+261,9,Roar,21,normal,-,-
+261,10,Roar,21,normal,-,-
+261,11,Roar,21,normal,-,-
+261,12,Roar,21,normal,-,-
+261,13,Roar,21,normal,-,-
+261,14,Roar,21,normal,-,-
+261,15,Roar,21,normal,-,-
+261,16,Assurance,22,dark,60,100
+261,5,Swagger,25,normal,-,90
+261,6,Swagger,25,normal,-,90
+261,7,Swagger,25,normal,-,90
+261,8,Swagger,25,normal,-,90
+261,9,Swagger,25,normal,-,90
+261,10,Swagger,25,normal,-,90
+261,11,Swagger,25,normal,-,90
+261,12,Swagger,25,normal,-,90
+261,13,Swagger,25,normal,-,90
+261,14,Swagger,25,normal,-,90
+261,15,Swagger,25,normal,-,90
+261,16,Scary Face,25,normal,-,100
+261,16,Embargo,28,dark,-,100
+261,5,Scary Face,29,normal,-,100
+261,6,Scary Face,29,normal,-,100
+261,7,Scary Face,29,normal,-,100
+261,8,Assurance,29,dark,60,100
+261,9,Assurance,29,dark,60,100
+261,10,Assurance,29,dark,60,100
+261,11,Assurance,29,dark,60,100
+261,12,Scary Face,29,normal,-,100
+261,13,Scary Face,29,normal,-,100
+261,14,Assurance,29,dark,60,100
+261,15,Assurance,29,dark,60,100
+261,16,Taunt,31,dark,-,100
+261,5,Take Down,33,normal,90,85
+261,6,Take Down,33,normal,90,85
+261,7,Take Down,33,normal,90,85
+261,8,Scary Face,33,normal,-,100
+261,9,Scary Face,33,normal,-,100
+261,10,Scary Face,33,normal,-,100
+261,11,Scary Face,33,normal,-,100
+261,12,Take Down,33,normal,90,85
+261,13,Take Down,33,normal,90,85
+261,14,Scary Face,33,normal,-,100
+261,15,Scary Face,33,normal,-,100
+261,16,Take Down,34,normal,90,85
+261,5,Taunt,37,dark,-,100
+261,6,Taunt,37,dark,-,100
+261,7,Taunt,37,dark,-,100
+261,8,Taunt,37,dark,-,100
+261,9,Taunt,37,dark,-,100
+261,10,Taunt,37,dark,-,100
+261,11,Taunt,37,dark,-,100
+261,12,Taunt,37,dark,-,100
+261,13,Taunt,37,dark,-,100
+261,14,Taunt,37,dark,-,100
+261,15,Taunt,37,dark,-,100
+261,16,Crunch,37,dark,80,100
+261,16,Sucker Punch,40,dark,80,100
+261,5,Crunch,41,dark,80,100
+261,6,Crunch,41,dark,80,100
+261,7,Crunch,41,dark,80,100
+261,8,Embargo,41,dark,-,100
+261,9,Embargo,41,dark,-,100
+261,10,Embargo,41,dark,-,100
+261,11,Embargo,41,dark,-,100
+261,12,Crunch,41,dark,80,100
+261,13,Crunch,41,dark,80,100
+261,14,Embargo,41,dark,-,100
+261,15,Embargo,41,dark,-,100
+261,5,Thief,45,dark,60,100
+261,6,Thief,45,dark,60,100
+261,7,Thief,45,dark,60,100
+261,8,Take Down,45,normal,90,85
+261,9,Take Down,45,normal,90,85
+261,10,Take Down,45,normal,90,85
+261,11,Take Down,45,normal,90,85
+261,12,Thief,45,dark,60,100
+261,13,Thief,45,dark,60,100
+261,14,Take Down,45,normal,90,85
+261,15,Take Down,45,normal,90,85
+261,8,Sucker Punch,49,dark,80,100
+261,9,Sucker Punch,49,dark,80,100
+261,10,Sucker Punch,49,dark,80,100
+261,11,Sucker Punch,49,dark,80,100
+261,14,Sucker Punch,49,dark,80,100
+261,15,Sucker Punch,49,dark,80,100
+261,8,Crunch,53,dark,80,100
+261,9,Crunch,53,dark,80,100
+261,10,Crunch,53,dark,80,100
+261,11,Crunch,53,dark,80,100
+261,14,Crunch,53,dark,80,100
+261,15,Crunch,53,dark,80,100

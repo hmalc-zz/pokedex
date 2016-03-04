@@ -1,92 +1,92 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-438,bonsly,8,21,Slam,1,38,
-438,bonsly,8,38,Double-Edge,1,46,
-438,bonsly,8,67,Low Kick,1,9,
-438,bonsly,8,88,Rock Throw,1,14,
-438,bonsly,8,102,Mimic,1,17,
-438,bonsly,8,157,Rock Slide,1,33,
-438,bonsly,8,175,Flail,1,6,
-438,bonsly,8,185,Feint Attack,1,25,
-438,bonsly,8,313,Fake Tears,1,1,1
-438,bonsly,8,317,Rock Tomb,1,30,
-438,bonsly,8,335,Block,1,22,
-438,bonsly,8,383,Copycat,1,1,2
-438,bonsly,8,389,Sucker Punch,1,41,
-438,bonsly,9,21,Slam,1,38,
-438,bonsly,9,38,Double-Edge,1,46,
-438,bonsly,9,67,Low Kick,1,9,
-438,bonsly,9,88,Rock Throw,1,14,
-438,bonsly,9,102,Mimic,1,17,
-438,bonsly,9,157,Rock Slide,1,33,
-438,bonsly,9,175,Flail,1,6,
-438,bonsly,9,185,Feint Attack,1,25,
-438,bonsly,9,313,Fake Tears,1,1,1
-438,bonsly,9,317,Rock Tomb,1,30,
-438,bonsly,9,335,Block,1,22,
-438,bonsly,9,383,Copycat,1,1,2
-438,bonsly,9,389,Sucker Punch,1,41,
-438,bonsly,10,21,Slam,1,38,
-438,bonsly,10,38,Double-Edge,1,46,
-438,bonsly,10,67,Low Kick,1,9,
-438,bonsly,10,88,Rock Throw,1,14,
-438,bonsly,10,102,Mimic,1,17,
-438,bonsly,10,157,Rock Slide,1,33,
-438,bonsly,10,175,Flail,1,6,
-438,bonsly,10,185,Feint Attack,1,25,
-438,bonsly,10,313,Fake Tears,1,1,1
-438,bonsly,10,317,Rock Tomb,1,30,
-438,bonsly,10,335,Block,1,22,
-438,bonsly,10,383,Copycat,1,1,2
-438,bonsly,10,389,Sucker Punch,1,41,
-438,bonsly,11,21,Slam,1,38,
-438,bonsly,11,38,Double-Edge,1,46,
-438,bonsly,11,67,Low Kick,1,9,
-438,bonsly,11,88,Rock Throw,1,14,
-438,bonsly,11,102,Mimic,1,17,
-438,bonsly,11,157,Rock Slide,1,33,
-438,bonsly,11,175,Flail,1,6,
-438,bonsly,11,185,Feint Attack,1,25,
-438,bonsly,11,313,Fake Tears,1,1,1
-438,bonsly,11,317,Rock Tomb,1,30,
-438,bonsly,11,335,Block,1,22,
-438,bonsly,11,383,Copycat,1,1,2
-438,bonsly,11,389,Sucker Punch,1,41,
-438,bonsly,14,21,Slam,1,15,
-438,bonsly,14,38,Double-Edge,1,40,
-438,bonsly,14,67,Low Kick,1,8,
-438,bonsly,14,88,Rock Throw,1,12,
-438,bonsly,14,102,Mimic,1,33,
-438,bonsly,14,157,Rock Slide,1,29,
-438,bonsly,14,175,Flail,1,5,
-438,bonsly,14,185,Feint Attack,1,19,
-438,bonsly,14,313,Fake Tears,1,1,1
-438,bonsly,14,317,Rock Tomb,1,22,
-438,bonsly,14,335,Block,1,26,
-438,bonsly,14,383,Copycat,1,1,2
-438,bonsly,14,389,Sucker Punch,1,36,
-438,bonsly,15,38,Double-Edge,1,40,
-438,bonsly,15,67,Low Kick,1,8,
-438,bonsly,15,68,Counter,1,33,
-438,bonsly,15,88,Rock Throw,1,12,
-438,bonsly,15,102,Mimic,1,15,
-438,bonsly,15,157,Rock Slide,1,29,
-438,bonsly,15,175,Flail,1,5,
-438,bonsly,15,185,Feint Attack,1,19,
-438,bonsly,15,313,Fake Tears,1,1,1
-438,bonsly,15,317,Rock Tomb,1,22,
-438,bonsly,15,335,Block,1,26,
-438,bonsly,15,383,Copycat,1,1,2
-438,bonsly,15,389,Sucker Punch,1,36,
-438,bonsly,16,38,Double-Edge,1,40,1
-438,bonsly,16,67,Low Kick,1,8,1
-438,bonsly,16,68,Counter,1,33,1
-438,bonsly,16,88,Rock Throw,1,12,1
-438,bonsly,16,102,Mimic,1,15,1
-438,bonsly,16,157,Rock Slide,1,29,1
-438,bonsly,16,175,Flail,1,5,1
-438,bonsly,16,185,Feint Attack,1,19,1
-438,bonsly,16,313,Fake Tears,1,1,1
-438,bonsly,16,317,Rock Tomb,1,22,1
-438,bonsly,16,335,Block,1,26,1
-438,bonsly,16,383,Copycat,1,1,2
-438,bonsly,16,389,Sucker Punch,1,36,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+438,8,Fake Tears,1,dark,-,100
+438,8,Copycat,1,normal,-,-
+438,9,Fake Tears,1,dark,-,100
+438,9,Copycat,1,normal,-,-
+438,10,Fake Tears,1,dark,-,100
+438,10,Copycat,1,normal,-,-
+438,11,Fake Tears,1,dark,-,100
+438,11,Copycat,1,normal,-,-
+438,14,Fake Tears,1,dark,-,100
+438,14,Copycat,1,normal,-,-
+438,15,Fake Tears,1,dark,-,100
+438,15,Copycat,1,normal,-,-
+438,16,Fake Tears,1,dark,-,100
+438,16,Copycat,1,normal,-,-
+438,14,Flail,5,normal,-,100
+438,15,Flail,5,normal,-,100
+438,16,Flail,5,normal,-,100
+438,8,Flail,6,normal,-,100
+438,9,Flail,6,normal,-,100
+438,10,Flail,6,normal,-,100
+438,11,Flail,6,normal,-,100
+438,14,Low Kick,8,fighting,-,100
+438,15,Low Kick,8,fighting,-,100
+438,16,Low Kick,8,fighting,-,100
+438,8,Low Kick,9,fighting,-,100
+438,9,Low Kick,9,fighting,-,100
+438,10,Low Kick,9,fighting,-,100
+438,11,Low Kick,9,fighting,-,100
+438,14,Rock Throw,12,rock,50,90
+438,15,Rock Throw,12,rock,50,90
+438,16,Rock Throw,12,rock,50,90
+438,8,Rock Throw,14,rock,50,90
+438,9,Rock Throw,14,rock,50,90
+438,10,Rock Throw,14,rock,50,90
+438,11,Rock Throw,14,rock,50,90
+438,14,Slam,15,normal,80,75
+438,15,Mimic,15,normal,-,-
+438,16,Mimic,15,normal,-,-
+438,8,Mimic,17,normal,-,-
+438,9,Mimic,17,normal,-,-
+438,10,Mimic,17,normal,-,-
+438,11,Mimic,17,normal,-,-
+438,14,Feint Attack,19,dark,60,-
+438,15,Feint Attack,19,dark,60,-
+438,16,Feint Attack,19,dark,60,-
+438,8,Block,22,normal,-,-
+438,9,Block,22,normal,-,-
+438,10,Block,22,normal,-,-
+438,11,Block,22,normal,-,-
+438,14,Rock Tomb,22,rock,60,95
+438,15,Rock Tomb,22,rock,60,95
+438,16,Rock Tomb,22,rock,60,95
+438,8,Feint Attack,25,dark,60,-
+438,9,Feint Attack,25,dark,60,-
+438,10,Feint Attack,25,dark,60,-
+438,11,Feint Attack,25,dark,60,-
+438,14,Block,26,normal,-,-
+438,15,Block,26,normal,-,-
+438,16,Block,26,normal,-,-
+438,14,Rock Slide,29,rock,75,90
+438,15,Rock Slide,29,rock,75,90
+438,16,Rock Slide,29,rock,75,90
+438,8,Rock Tomb,30,rock,60,95
+438,9,Rock Tomb,30,rock,60,95
+438,10,Rock Tomb,30,rock,60,95
+438,11,Rock Tomb,30,rock,60,95
+438,8,Rock Slide,33,rock,75,90
+438,9,Rock Slide,33,rock,75,90
+438,10,Rock Slide,33,rock,75,90
+438,11,Rock Slide,33,rock,75,90
+438,14,Mimic,33,normal,-,-
+438,15,Counter,33,fighting,-,100
+438,16,Counter,33,fighting,-,100
+438,14,Sucker Punch,36,dark,80,100
+438,15,Sucker Punch,36,dark,80,100
+438,16,Sucker Punch,36,dark,80,100
+438,8,Slam,38,normal,80,75
+438,9,Slam,38,normal,80,75
+438,10,Slam,38,normal,80,75
+438,11,Slam,38,normal,80,75
+438,14,Double-Edge,40,normal,120,100
+438,15,Double-Edge,40,normal,120,100
+438,16,Double-Edge,40,normal,120,100
+438,8,Sucker Punch,41,dark,80,100
+438,9,Sucker Punch,41,dark,80,100
+438,10,Sucker Punch,41,dark,80,100
+438,11,Sucker Punch,41,dark,80,100
+438,8,Double-Edge,46,normal,120,100
+438,9,Double-Edge,46,normal,120,100
+438,10,Double-Edge,46,normal,120,100
+438,11,Double-Edge,46,normal,120,100

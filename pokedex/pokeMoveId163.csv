@@ -1,176 +1,176 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-163,hoothoot,3,33,Tackle,1,1,1
-163,hoothoot,3,36,Take Down,1,28,
-163,hoothoot,3,45,Growl,1,1,2
-163,hoothoot,3,64,Peck,1,11,
-163,hoothoot,3,93,Confusion,1,34,
-163,hoothoot,3,95,Hypnosis,1,16,
-163,hoothoot,3,115,Reflect,1,22,
-163,hoothoot,3,138,Dream Eater,1,48,
-163,hoothoot,3,193,Foresight,1,6,
-163,hoothoot,4,33,Tackle,1,1,1
-163,hoothoot,4,36,Take Down,1,28,
-163,hoothoot,4,45,Growl,1,1,2
-163,hoothoot,4,64,Peck,1,11,
-163,hoothoot,4,93,Confusion,1,34,
-163,hoothoot,4,95,Hypnosis,1,16,
-163,hoothoot,4,115,Reflect,1,22,
-163,hoothoot,4,138,Dream Eater,1,48,
-163,hoothoot,4,193,Foresight,1,6,
-163,hoothoot,5,33,Tackle,1,1,1
-163,hoothoot,5,36,Take Down,1,28,
-163,hoothoot,5,45,Growl,1,1,2
-163,hoothoot,5,64,Peck,1,11,
-163,hoothoot,5,93,Confusion,1,34,
-163,hoothoot,5,95,Hypnosis,1,16,
-163,hoothoot,5,115,Reflect,1,22,
-163,hoothoot,5,138,Dream Eater,1,48,
-163,hoothoot,5,193,Foresight,1,6,
-163,hoothoot,6,33,Tackle,1,1,1
-163,hoothoot,6,36,Take Down,1,28,
-163,hoothoot,6,45,Growl,1,1,2
-163,hoothoot,6,64,Peck,1,11,
-163,hoothoot,6,93,Confusion,1,34,
-163,hoothoot,6,95,Hypnosis,1,16,
-163,hoothoot,6,115,Reflect,1,22,
-163,hoothoot,6,138,Dream Eater,1,48,
-163,hoothoot,6,193,Foresight,1,6,
-163,hoothoot,7,33,Tackle,1,1,1
-163,hoothoot,7,36,Take Down,1,28,
-163,hoothoot,7,45,Growl,1,1,2
-163,hoothoot,7,64,Peck,1,11,
-163,hoothoot,7,93,Confusion,1,34,
-163,hoothoot,7,95,Hypnosis,1,16,
-163,hoothoot,7,115,Reflect,1,22,
-163,hoothoot,7,138,Dream Eater,1,48,
-163,hoothoot,7,193,Foresight,1,6,
-163,hoothoot,8,33,Tackle,1,1,1
-163,hoothoot,8,36,Take Down,1,25,
-163,hoothoot,8,45,Growl,1,1,2
-163,hoothoot,8,64,Peck,1,13,
-163,hoothoot,8,93,Confusion,1,21,
-163,hoothoot,8,95,Hypnosis,1,9,
-163,hoothoot,8,115,Reflect,1,17,
-163,hoothoot,8,138,Dream Eater,1,49,
-163,hoothoot,8,193,Foresight,1,5,
-163,hoothoot,8,326,Extrasensory,1,37,
-163,hoothoot,8,355,Roost,1,45,
-163,hoothoot,8,375,Psycho Shift,1,41,
-163,hoothoot,8,403,Air Slash,1,29,
-163,hoothoot,8,428,Zen Headbutt,1,33,
-163,hoothoot,9,33,Tackle,1,1,1
-163,hoothoot,9,36,Take Down,1,25,
-163,hoothoot,9,45,Growl,1,1,2
-163,hoothoot,9,64,Peck,1,9,
-163,hoothoot,9,93,Confusion,1,21,
-163,hoothoot,9,95,Hypnosis,1,5,
-163,hoothoot,9,115,Reflect,1,17,
-163,hoothoot,9,138,Dream Eater,1,49,
-163,hoothoot,9,193,Foresight,1,1,3
-163,hoothoot,9,253,Uproar,1,13,
-163,hoothoot,9,326,Extrasensory,1,37,
-163,hoothoot,9,355,Roost,1,45,
-163,hoothoot,9,375,Psycho Shift,1,41,
-163,hoothoot,9,403,Air Slash,1,29,
-163,hoothoot,9,428,Zen Headbutt,1,33,
-163,hoothoot,10,33,Tackle,1,1,1
-163,hoothoot,10,36,Take Down,1,25,
-163,hoothoot,10,45,Growl,1,1,2
-163,hoothoot,10,64,Peck,1,9,
-163,hoothoot,10,93,Confusion,1,21,
-163,hoothoot,10,95,Hypnosis,1,5,
-163,hoothoot,10,115,Reflect,1,17,
-163,hoothoot,10,138,Dream Eater,1,49,
-163,hoothoot,10,193,Foresight,1,1,3
-163,hoothoot,10,253,Uproar,1,13,
-163,hoothoot,10,326,Extrasensory,1,37,
-163,hoothoot,10,355,Roost,1,45,
-163,hoothoot,10,375,Psycho Shift,1,41,
-163,hoothoot,10,403,Air Slash,1,29,
-163,hoothoot,10,428,Zen Headbutt,1,33,
-163,hoothoot,11,33,Tackle,1,1,1
-163,hoothoot,11,36,Take Down,1,29,
-163,hoothoot,11,45,Growl,1,1,2
-163,hoothoot,11,64,Peck,1,9,
-163,hoothoot,11,93,Confusion,1,21,
-163,hoothoot,11,95,Hypnosis,1,5,
-163,hoothoot,11,115,Reflect,1,17,
-163,hoothoot,11,138,Dream Eater,1,57,
-163,hoothoot,11,193,Foresight,1,1,3
-163,hoothoot,11,253,Uproar,1,13,
-163,hoothoot,11,326,Extrasensory,1,45,
-163,hoothoot,11,355,Roost,1,53,
-163,hoothoot,11,375,Psycho Shift,1,49,
-163,hoothoot,11,403,Air Slash,1,33,
-163,hoothoot,11,428,Zen Headbutt,1,37,
-163,hoothoot,11,485,Synchronoise,1,41,
-163,hoothoot,11,497,Echoed Voice,1,25,
-163,hoothoot,12,33,Tackle,1,1,1
-163,hoothoot,12,36,Take Down,1,28,
-163,hoothoot,12,45,Growl,1,1,2
-163,hoothoot,12,64,Peck,1,11,
-163,hoothoot,12,93,Confusion,1,34,
-163,hoothoot,12,95,Hypnosis,1,16,
-163,hoothoot,12,115,Reflect,1,22,
-163,hoothoot,12,138,Dream Eater,1,48,
-163,hoothoot,12,193,Foresight,1,6,
-163,hoothoot,13,33,Tackle,1,1,1
-163,hoothoot,13,36,Take Down,1,28,
-163,hoothoot,13,45,Growl,1,1,2
-163,hoothoot,13,64,Peck,1,11,
-163,hoothoot,13,93,Confusion,1,34,
-163,hoothoot,13,95,Hypnosis,1,16,
-163,hoothoot,13,115,Reflect,1,22,
-163,hoothoot,13,138,Dream Eater,1,48,
-163,hoothoot,13,193,Foresight,1,6,
-163,hoothoot,14,33,Tackle,1,1,1
-163,hoothoot,14,36,Take Down,1,29,
-163,hoothoot,14,45,Growl,1,1,2
-163,hoothoot,14,64,Peck,1,9,
-163,hoothoot,14,93,Confusion,1,21,
-163,hoothoot,14,95,Hypnosis,1,5,
-163,hoothoot,14,115,Reflect,1,17,
-163,hoothoot,14,138,Dream Eater,1,57,
-163,hoothoot,14,193,Foresight,1,1,3
-163,hoothoot,14,253,Uproar,1,13,
-163,hoothoot,14,326,Extrasensory,1,45,
-163,hoothoot,14,355,Roost,1,53,
-163,hoothoot,14,375,Psycho Shift,1,49,
-163,hoothoot,14,403,Air Slash,1,33,
-163,hoothoot,14,428,Zen Headbutt,1,37,
-163,hoothoot,14,485,Synchronoise,1,41,
-163,hoothoot,14,497,Echoed Voice,1,25,
-163,hoothoot,15,33,Tackle,1,1,1
-163,hoothoot,15,36,Take Down,1,29,
-163,hoothoot,15,45,Growl,1,1,2
-163,hoothoot,15,64,Peck,1,9,
-163,hoothoot,15,93,Confusion,1,21,
-163,hoothoot,15,95,Hypnosis,1,5,
-163,hoothoot,15,115,Reflect,1,17,
-163,hoothoot,15,138,Dream Eater,1,57,
-163,hoothoot,15,193,Foresight,1,1,3
-163,hoothoot,15,253,Uproar,1,13,
-163,hoothoot,15,326,Extrasensory,1,45,
-163,hoothoot,15,355,Roost,1,53,
-163,hoothoot,15,375,Psycho Shift,1,49,
-163,hoothoot,15,403,Air Slash,1,33,
-163,hoothoot,15,428,Zen Headbutt,1,37,
-163,hoothoot,15,485,Synchronoise,1,41,
-163,hoothoot,15,497,Echoed Voice,1,25,
-163,hoothoot,16,33,Tackle,1,1,1
-163,hoothoot,16,36,Take Down,1,29,1
-163,hoothoot,16,45,Growl,1,1,2
-163,hoothoot,16,64,Peck,1,9,1
-163,hoothoot,16,93,Confusion,1,21,1
-163,hoothoot,16,95,Hypnosis,1,5,1
-163,hoothoot,16,115,Reflect,1,17,1
-163,hoothoot,16,138,Dream Eater,1,57,1
-163,hoothoot,16,193,Foresight,1,1,3
-163,hoothoot,16,253,Uproar,1,13,1
-163,hoothoot,16,326,Extrasensory,1,45,1
-163,hoothoot,16,355,Roost,1,53,1
-163,hoothoot,16,375,Psycho Shift,1,49,1
-163,hoothoot,16,403,Air Slash,1,33,1
-163,hoothoot,16,428,Zen Headbutt,1,37,1
-163,hoothoot,16,485,Synchronoise,1,41,1
-163,hoothoot,16,497,Echoed Voice,1,25,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+163,3,Tackle,1,normal,50,100
+163,3,Growl,1,normal,-,100
+163,4,Tackle,1,normal,50,100
+163,4,Growl,1,normal,-,100
+163,5,Tackle,1,normal,50,100
+163,5,Growl,1,normal,-,100
+163,6,Tackle,1,normal,50,100
+163,6,Growl,1,normal,-,100
+163,7,Tackle,1,normal,50,100
+163,7,Growl,1,normal,-,100
+163,8,Tackle,1,normal,50,100
+163,8,Growl,1,normal,-,100
+163,9,Tackle,1,normal,50,100
+163,9,Growl,1,normal,-,100
+163,9,Foresight,1,normal,-,-
+163,10,Tackle,1,normal,50,100
+163,10,Growl,1,normal,-,100
+163,10,Foresight,1,normal,-,-
+163,11,Tackle,1,normal,50,100
+163,11,Growl,1,normal,-,100
+163,11,Foresight,1,normal,-,-
+163,12,Tackle,1,normal,50,100
+163,12,Growl,1,normal,-,100
+163,13,Tackle,1,normal,50,100
+163,13,Growl,1,normal,-,100
+163,14,Tackle,1,normal,50,100
+163,14,Growl,1,normal,-,100
+163,14,Foresight,1,normal,-,-
+163,15,Tackle,1,normal,50,100
+163,15,Growl,1,normal,-,100
+163,15,Foresight,1,normal,-,-
+163,16,Tackle,1,normal,50,100
+163,16,Growl,1,normal,-,100
+163,16,Foresight,1,normal,-,-
+163,8,Foresight,5,normal,-,-
+163,9,Hypnosis,5,psychic,-,60
+163,10,Hypnosis,5,psychic,-,60
+163,11,Hypnosis,5,psychic,-,60
+163,14,Hypnosis,5,psychic,-,60
+163,15,Hypnosis,5,psychic,-,60
+163,16,Hypnosis,5,psychic,-,60
+163,3,Foresight,6,normal,-,-
+163,4,Foresight,6,normal,-,-
+163,5,Foresight,6,normal,-,-
+163,6,Foresight,6,normal,-,-
+163,7,Foresight,6,normal,-,-
+163,12,Foresight,6,normal,-,-
+163,13,Foresight,6,normal,-,-
+163,8,Hypnosis,9,psychic,-,60
+163,9,Peck,9,flying,35,100
+163,10,Peck,9,flying,35,100
+163,11,Peck,9,flying,35,100
+163,14,Peck,9,flying,35,100
+163,15,Peck,9,flying,35,100
+163,16,Peck,9,flying,35,100
+163,3,Peck,11,flying,35,100
+163,4,Peck,11,flying,35,100
+163,5,Peck,11,flying,35,100
+163,6,Peck,11,flying,35,100
+163,7,Peck,11,flying,35,100
+163,12,Peck,11,flying,35,100
+163,13,Peck,11,flying,35,100
+163,8,Peck,13,flying,35,100
+163,9,Uproar,13,normal,90,100
+163,10,Uproar,13,normal,90,100
+163,11,Uproar,13,normal,90,100
+163,14,Uproar,13,normal,90,100
+163,15,Uproar,13,normal,90,100
+163,16,Uproar,13,normal,90,100
+163,3,Hypnosis,16,psychic,-,60
+163,4,Hypnosis,16,psychic,-,60
+163,5,Hypnosis,16,psychic,-,60
+163,6,Hypnosis,16,psychic,-,60
+163,7,Hypnosis,16,psychic,-,60
+163,12,Hypnosis,16,psychic,-,60
+163,13,Hypnosis,16,psychic,-,60
+163,8,Reflect,17,psychic,-,-
+163,9,Reflect,17,psychic,-,-
+163,10,Reflect,17,psychic,-,-
+163,11,Reflect,17,psychic,-,-
+163,14,Reflect,17,psychic,-,-
+163,15,Reflect,17,psychic,-,-
+163,16,Reflect,17,psychic,-,-
+163,8,Confusion,21,psychic,50,100
+163,9,Confusion,21,psychic,50,100
+163,10,Confusion,21,psychic,50,100
+163,11,Confusion,21,psychic,50,100
+163,14,Confusion,21,psychic,50,100
+163,15,Confusion,21,psychic,50,100
+163,16,Confusion,21,psychic,50,100
+163,3,Reflect,22,psychic,-,-
+163,4,Reflect,22,psychic,-,-
+163,5,Reflect,22,psychic,-,-
+163,6,Reflect,22,psychic,-,-
+163,7,Reflect,22,psychic,-,-
+163,12,Reflect,22,psychic,-,-
+163,13,Reflect,22,psychic,-,-
+163,8,Take Down,25,normal,90,85
+163,9,Take Down,25,normal,90,85
+163,10,Take Down,25,normal,90,85
+163,11,Echoed Voice,25,normal,40,100
+163,14,Echoed Voice,25,normal,40,100
+163,15,Echoed Voice,25,normal,40,100
+163,16,Echoed Voice,25,normal,40,100
+163,3,Take Down,28,normal,90,85
+163,4,Take Down,28,normal,90,85
+163,5,Take Down,28,normal,90,85
+163,6,Take Down,28,normal,90,85
+163,7,Take Down,28,normal,90,85
+163,12,Take Down,28,normal,90,85
+163,13,Take Down,28,normal,90,85
+163,8,Air Slash,29,flying,75,95
+163,9,Air Slash,29,flying,75,95
+163,10,Air Slash,29,flying,75,95
+163,11,Take Down,29,normal,90,85
+163,14,Take Down,29,normal,90,85
+163,15,Take Down,29,normal,90,85
+163,16,Take Down,29,normal,90,85
+163,8,Zen Headbutt,33,psychic,80,90
+163,9,Zen Headbutt,33,psychic,80,90
+163,10,Zen Headbutt,33,psychic,80,90
+163,11,Air Slash,33,flying,75,95
+163,14,Air Slash,33,flying,75,95
+163,15,Air Slash,33,flying,75,95
+163,16,Air Slash,33,flying,75,95
+163,3,Confusion,34,psychic,50,100
+163,4,Confusion,34,psychic,50,100
+163,5,Confusion,34,psychic,50,100
+163,6,Confusion,34,psychic,50,100
+163,7,Confusion,34,psychic,50,100
+163,12,Confusion,34,psychic,50,100
+163,13,Confusion,34,psychic,50,100
+163,8,Extrasensory,37,psychic,80,100
+163,9,Extrasensory,37,psychic,80,100
+163,10,Extrasensory,37,psychic,80,100
+163,11,Zen Headbutt,37,psychic,80,90
+163,14,Zen Headbutt,37,psychic,80,90
+163,15,Zen Headbutt,37,psychic,80,90
+163,16,Zen Headbutt,37,psychic,80,90
+163,8,Psycho Shift,41,psychic,-,100
+163,9,Psycho Shift,41,psychic,-,100
+163,10,Psycho Shift,41,psychic,-,100
+163,11,Synchronoise,41,psychic,120,100
+163,14,Synchronoise,41,psychic,120,100
+163,15,Synchronoise,41,psychic,120,100
+163,16,Synchronoise,41,psychic,120,100
+163,8,Roost,45,flying,-,-
+163,9,Roost,45,flying,-,-
+163,10,Roost,45,flying,-,-
+163,11,Extrasensory,45,psychic,80,100
+163,14,Extrasensory,45,psychic,80,100
+163,15,Extrasensory,45,psychic,80,100
+163,16,Extrasensory,45,psychic,80,100
+163,3,Dream Eater,48,psychic,100,100
+163,4,Dream Eater,48,psychic,100,100
+163,5,Dream Eater,48,psychic,100,100
+163,6,Dream Eater,48,psychic,100,100
+163,7,Dream Eater,48,psychic,100,100
+163,12,Dream Eater,48,psychic,100,100
+163,13,Dream Eater,48,psychic,100,100
+163,8,Dream Eater,49,psychic,100,100
+163,9,Dream Eater,49,psychic,100,100
+163,10,Dream Eater,49,psychic,100,100
+163,11,Psycho Shift,49,psychic,-,100
+163,14,Psycho Shift,49,psychic,-,100
+163,15,Psycho Shift,49,psychic,-,100
+163,16,Psycho Shift,49,psychic,-,100
+163,11,Roost,53,flying,-,-
+163,14,Roost,53,flying,-,-
+163,15,Roost,53,flying,-,-
+163,16,Roost,53,flying,-,-
+163,11,Dream Eater,57,psychic,100,100
+163,14,Dream Eater,57,psychic,100,100
+163,15,Dream Eater,57,psychic,100,100
+163,16,Dream Eater,57,psychic,100,100

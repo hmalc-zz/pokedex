@@ -1,151 +1,151 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-213,shuckle,3,35,Wrap,1,9,
-213,shuckle,3,110,Withdraw,1,1,2
-213,shuckle,3,117,Bide,1,28,
-213,shuckle,3,132,Constrict,1,1,1
-213,shuckle,3,156,Rest,1,37,
-213,shuckle,3,219,Safeguard,1,23,
-213,shuckle,3,227,Encore,1,14,
-213,shuckle,4,35,Wrap,1,9,
-213,shuckle,4,110,Withdraw,1,1,2
-213,shuckle,4,117,Bide,1,28,
-213,shuckle,4,132,Constrict,1,1,1
-213,shuckle,4,156,Rest,1,37,
-213,shuckle,4,219,Safeguard,1,23,
-213,shuckle,4,227,Encore,1,14,
-213,shuckle,5,35,Wrap,1,9,
-213,shuckle,5,110,Withdraw,1,1,2
-213,shuckle,5,117,Bide,1,28,
-213,shuckle,5,132,Constrict,1,1,1
-213,shuckle,5,156,Rest,1,37,
-213,shuckle,5,219,Safeguard,1,23,
-213,shuckle,5,227,Encore,1,14,
-213,shuckle,6,35,Wrap,1,9,
-213,shuckle,6,110,Withdraw,1,1,2
-213,shuckle,6,117,Bide,1,28,
-213,shuckle,6,132,Constrict,1,1,1
-213,shuckle,6,156,Rest,1,37,
-213,shuckle,6,219,Safeguard,1,23,
-213,shuckle,6,227,Encore,1,14,
-213,shuckle,7,35,Wrap,1,9,
-213,shuckle,7,110,Withdraw,1,1,2
-213,shuckle,7,117,Bide,1,28,
-213,shuckle,7,132,Constrict,1,1,1
-213,shuckle,7,156,Rest,1,37,
-213,shuckle,7,219,Safeguard,1,23,
-213,shuckle,7,227,Encore,1,14,
-213,shuckle,8,35,Wrap,1,27,
-213,shuckle,8,110,Withdraw,1,1,1
-213,shuckle,8,117,Bide,1,9,
-213,shuckle,8,132,Constrict,1,1,2
-213,shuckle,8,156,Rest,1,35,
-213,shuckle,8,219,Safeguard,1,22,
-213,shuckle,8,227,Encore,1,14,
-213,shuckle,8,379,Power Trick,1,48,
-213,shuckle,8,380,Gastro Acid,1,40,
-213,shuckle,9,35,Wrap,1,22,
-213,shuckle,9,110,Withdraw,1,1,1
-213,shuckle,9,117,Bide,1,1,3
-213,shuckle,9,132,Constrict,1,1,2
-213,shuckle,9,156,Rest,1,27,
-213,shuckle,9,219,Safeguard,1,14,
-213,shuckle,9,227,Encore,1,9,
-213,shuckle,9,379,Power Trick,1,48,
-213,shuckle,9,380,Gastro Acid,1,35,
-213,shuckle,9,450,Bug Bite,1,40,
-213,shuckle,10,35,Wrap,1,22,
-213,shuckle,10,110,Withdraw,1,1,1
-213,shuckle,10,117,Bide,1,1,3
-213,shuckle,10,132,Constrict,1,1,2
-213,shuckle,10,156,Rest,1,27,
-213,shuckle,10,219,Safeguard,1,14,
-213,shuckle,10,227,Encore,1,9,
-213,shuckle,10,379,Power Trick,1,48,
-213,shuckle,10,380,Gastro Acid,1,35,
-213,shuckle,10,450,Bug Bite,1,40,
-213,shuckle,11,35,Wrap,1,13,
-213,shuckle,11,110,Withdraw,1,1,1
-213,shuckle,11,117,Bide,1,1,3
-213,shuckle,11,132,Constrict,1,1,2
-213,shuckle,11,156,Rest,1,25,
-213,shuckle,11,205,Rollout,1,37,
-213,shuckle,11,219,Safeguard,1,19,
-213,shuckle,11,227,Encore,1,7,
-213,shuckle,11,379,Power Trick,1,43,
-213,shuckle,11,380,Gastro Acid,1,31,
-213,shuckle,11,450,Bug Bite,1,49,
-213,shuckle,11,470,Guard Split,1,55,2
-213,shuckle,11,471,Power Split,1,55,1
-213,shuckle,11,522,Struggle Bug,1,1,4
-213,shuckle,12,35,Wrap,1,9,
-213,shuckle,12,110,Withdraw,1,1,2
-213,shuckle,12,117,Bide,1,28,
-213,shuckle,12,132,Constrict,1,1,1
-213,shuckle,12,156,Rest,1,37,
-213,shuckle,12,219,Safeguard,1,23,
-213,shuckle,12,227,Encore,1,14,
-213,shuckle,13,35,Wrap,1,9,
-213,shuckle,13,110,Withdraw,1,1,2
-213,shuckle,13,117,Bide,1,28,
-213,shuckle,13,132,Constrict,1,1,1
-213,shuckle,13,156,Rest,1,37,
-213,shuckle,13,219,Safeguard,1,23,
-213,shuckle,13,227,Encore,1,14,
-213,shuckle,14,35,Wrap,1,9,
-213,shuckle,14,88,Rock Throw,1,23,
-213,shuckle,14,110,Withdraw,1,1,1
-213,shuckle,14,117,Bide,1,1,3
-213,shuckle,14,132,Constrict,1,1,2
-213,shuckle,14,156,Rest,1,20,
-213,shuckle,14,157,Rock Slide,1,38,
-213,shuckle,14,205,Rollout,1,1,4
-213,shuckle,14,219,Safeguard,1,16,
-213,shuckle,14,227,Encore,1,5,
-213,shuckle,14,379,Power Trick,1,31,
-213,shuckle,14,380,Gastro Acid,1,27,
-213,shuckle,14,444,Stone Edge,1,49,
-213,shuckle,14,450,Bug Bite,1,42,
-213,shuckle,14,470,Guard Split,1,45,2
-213,shuckle,14,471,Power Split,1,45,1
-213,shuckle,14,504,Shell Smash,1,34,
-213,shuckle,14,522,Struggle Bug,1,12,
-213,shuckle,15,35,Wrap,1,9,
-213,shuckle,15,88,Rock Throw,1,23,
-213,shuckle,15,110,Withdraw,1,1,2
-213,shuckle,15,117,Bide,1,1,4
-213,shuckle,15,132,Constrict,1,1,3
-213,shuckle,15,156,Rest,1,20,
-213,shuckle,15,157,Rock Slide,1,38,
-213,shuckle,15,205,Rollout,1,1,5
-213,shuckle,15,219,Safeguard,1,16,
-213,shuckle,15,227,Encore,1,5,
-213,shuckle,15,379,Power Trick,1,31,
-213,shuckle,15,380,Gastro Acid,1,27,
-213,shuckle,15,444,Stone Edge,1,49,
-213,shuckle,15,450,Bug Bite,1,42,
-213,shuckle,15,470,Guard Split,1,45,2
-213,shuckle,15,471,Power Split,1,45,1
-213,shuckle,15,504,Shell Smash,1,34,
-213,shuckle,15,522,Struggle Bug,1,12,
-213,shuckle,15,564,Sticky Web,1,1,1
-213,shuckle,15,564,Sticky Web,1,53,
-213,shuckle,16,35,Wrap,1,9,1
-213,shuckle,16,88,Rock Throw,1,23,1
-213,shuckle,16,110,Withdraw,1,1,2
-213,shuckle,16,117,Bide,1,1,4
-213,shuckle,16,132,Constrict,1,1,3
-213,shuckle,16,156,Rest,1,20,1
-213,shuckle,16,157,Rock Slide,1,38,1
-213,shuckle,16,205,Rollout,1,1,5
-213,shuckle,16,219,Safeguard,1,16,1
-213,shuckle,16,227,Encore,1,5,1
-213,shuckle,16,379,Power Trick,1,31,1
-213,shuckle,16,380,Gastro Acid,1,27,1
-213,shuckle,16,444,Stone Edge,1,49,1
-213,shuckle,16,450,Bug Bite,1,42,1
-213,shuckle,16,470,Guard Split,1,45,2
-213,shuckle,16,471,Power Split,1,45,1
-213,shuckle,16,504,Shell Smash,1,34,1
-213,shuckle,16,522,Struggle Bug,1,12,1
-213,shuckle,16,564,Sticky Web,1,1,1
-213,shuckle,16,564,Sticky Web,1,53,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+213,3,Withdraw,1,water,-,-
+213,3,Constrict,1,normal,10,100
+213,4,Withdraw,1,water,-,-
+213,4,Constrict,1,normal,10,100
+213,5,Withdraw,1,water,-,-
+213,5,Constrict,1,normal,10,100
+213,6,Withdraw,1,water,-,-
+213,6,Constrict,1,normal,10,100
+213,7,Withdraw,1,water,-,-
+213,7,Constrict,1,normal,10,100
+213,8,Withdraw,1,water,-,-
+213,8,Constrict,1,normal,10,100
+213,9,Withdraw,1,water,-,-
+213,9,Bide,1,normal,-,-
+213,9,Constrict,1,normal,10,100
+213,10,Withdraw,1,water,-,-
+213,10,Bide,1,normal,-,-
+213,10,Constrict,1,normal,10,100
+213,11,Withdraw,1,water,-,-
+213,11,Bide,1,normal,-,-
+213,11,Constrict,1,normal,10,100
+213,11,Struggle Bug,1,bug,50,100
+213,12,Withdraw,1,water,-,-
+213,12,Constrict,1,normal,10,100
+213,13,Withdraw,1,water,-,-
+213,13,Constrict,1,normal,10,100
+213,14,Withdraw,1,water,-,-
+213,14,Bide,1,normal,-,-
+213,14,Constrict,1,normal,10,100
+213,14,Rollout,1,rock,30,90
+213,15,Withdraw,1,water,-,-
+213,15,Bide,1,normal,-,-
+213,15,Constrict,1,normal,10,100
+213,15,Rollout,1,rock,30,90
+213,15,Sticky Web,1,bug,-,-
+213,16,Withdraw,1,water,-,-
+213,16,Bide,1,normal,-,-
+213,16,Constrict,1,normal,10,100
+213,16,Rollout,1,rock,30,90
+213,16,Sticky Web,1,bug,-,-
+213,14,Encore,5,normal,-,100
+213,15,Encore,5,normal,-,100
+213,16,Encore,5,normal,-,100
+213,11,Encore,7,normal,-,100
+213,3,Wrap,9,normal,15,90
+213,4,Wrap,9,normal,15,90
+213,5,Wrap,9,normal,15,90
+213,6,Wrap,9,normal,15,90
+213,7,Wrap,9,normal,15,90
+213,8,Bide,9,normal,-,-
+213,9,Encore,9,normal,-,100
+213,10,Encore,9,normal,-,100
+213,12,Wrap,9,normal,15,90
+213,13,Wrap,9,normal,15,90
+213,14,Wrap,9,normal,15,90
+213,15,Wrap,9,normal,15,90
+213,16,Wrap,9,normal,15,90
+213,14,Struggle Bug,12,bug,50,100
+213,15,Struggle Bug,12,bug,50,100
+213,16,Struggle Bug,12,bug,50,100
+213,11,Wrap,13,normal,15,90
+213,3,Encore,14,normal,-,100
+213,4,Encore,14,normal,-,100
+213,5,Encore,14,normal,-,100
+213,6,Encore,14,normal,-,100
+213,7,Encore,14,normal,-,100
+213,8,Encore,14,normal,-,100
+213,9,Safeguard,14,normal,-,-
+213,10,Safeguard,14,normal,-,-
+213,12,Encore,14,normal,-,100
+213,13,Encore,14,normal,-,100
+213,14,Safeguard,16,normal,-,-
+213,15,Safeguard,16,normal,-,-
+213,16,Safeguard,16,normal,-,-
+213,11,Safeguard,19,normal,-,-
+213,14,Rest,20,psychic,-,-
+213,15,Rest,20,psychic,-,-
+213,16,Rest,20,psychic,-,-
+213,8,Safeguard,22,normal,-,-
+213,9,Wrap,22,normal,15,90
+213,10,Wrap,22,normal,15,90
+213,3,Safeguard,23,normal,-,-
+213,4,Safeguard,23,normal,-,-
+213,5,Safeguard,23,normal,-,-
+213,6,Safeguard,23,normal,-,-
+213,7,Safeguard,23,normal,-,-
+213,12,Safeguard,23,normal,-,-
+213,13,Safeguard,23,normal,-,-
+213,14,Rock Throw,23,rock,50,90
+213,15,Rock Throw,23,rock,50,90
+213,16,Rock Throw,23,rock,50,90
+213,11,Rest,25,psychic,-,-
+213,8,Wrap,27,normal,15,90
+213,9,Rest,27,psychic,-,-
+213,10,Rest,27,psychic,-,-
+213,14,Gastro Acid,27,poison,-,100
+213,15,Gastro Acid,27,poison,-,100
+213,16,Gastro Acid,27,poison,-,100
+213,3,Bide,28,normal,-,-
+213,4,Bide,28,normal,-,-
+213,5,Bide,28,normal,-,-
+213,6,Bide,28,normal,-,-
+213,7,Bide,28,normal,-,-
+213,12,Bide,28,normal,-,-
+213,13,Bide,28,normal,-,-
+213,11,Gastro Acid,31,poison,-,100
+213,14,Power Trick,31,psychic,-,-
+213,15,Power Trick,31,psychic,-,-
+213,16,Power Trick,31,psychic,-,-
+213,14,Shell Smash,34,normal,-,-
+213,15,Shell Smash,34,normal,-,-
+213,16,Shell Smash,34,normal,-,-
+213,8,Rest,35,psychic,-,-
+213,9,Gastro Acid,35,poison,-,100
+213,10,Gastro Acid,35,poison,-,100
+213,3,Rest,37,psychic,-,-
+213,4,Rest,37,psychic,-,-
+213,5,Rest,37,psychic,-,-
+213,6,Rest,37,psychic,-,-
+213,7,Rest,37,psychic,-,-
+213,11,Rollout,37,rock,30,90
+213,12,Rest,37,psychic,-,-
+213,13,Rest,37,psychic,-,-
+213,14,Rock Slide,38,rock,75,90
+213,15,Rock Slide,38,rock,75,90
+213,16,Rock Slide,38,rock,75,90
+213,8,Gastro Acid,40,poison,-,100
+213,9,Bug Bite,40,bug,60,100
+213,10,Bug Bite,40,bug,60,100
+213,14,Bug Bite,42,bug,60,100
+213,15,Bug Bite,42,bug,60,100
+213,16,Bug Bite,42,bug,60,100
+213,11,Power Trick,43,psychic,-,-
+213,14,Guard Split,45,psychic,-,-
+213,14,Power Split,45,psychic,-,-
+213,15,Guard Split,45,psychic,-,-
+213,15,Power Split,45,psychic,-,-
+213,16,Guard Split,45,psychic,-,-
+213,16,Power Split,45,psychic,-,-
+213,8,Power Trick,48,psychic,-,-
+213,9,Power Trick,48,psychic,-,-
+213,10,Power Trick,48,psychic,-,-
+213,11,Bug Bite,49,bug,60,100
+213,14,Stone Edge,49,rock,100,80
+213,15,Stone Edge,49,rock,100,80
+213,16,Stone Edge,49,rock,100,80
+213,15,Sticky Web,53,bug,-,-
+213,16,Sticky Web,53,bug,-,-
+213,11,Guard Split,55,psychic,-,-
+213,11,Power Split,55,psychic,-,-

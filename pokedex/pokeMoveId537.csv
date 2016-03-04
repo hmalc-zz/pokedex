@@ -1,73 +1,73 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-537,seismitoad,11,45,Growl,1,1,2
-537,seismitoad,11,48,Supersonic,1,1,3
-537,seismitoad,11,48,Supersonic,1,5,
-537,seismitoad,11,51,Acid,1,36,
-537,seismitoad,11,56,Hydro Pump,1,53,
-537,seismitoad,11,61,Bubble Beam,1,12,
-537,seismitoad,11,145,Bubble,1,1,1
-537,seismitoad,11,175,Flail,1,39,
-537,seismitoad,11,240,Rain Dance,1,33,
-537,seismitoad,11,253,Uproar,1,23,
-537,seismitoad,11,304,Hyper Voice,1,59,
-537,seismitoad,11,330,Muddy Water,1,28,
-537,seismitoad,11,341,Mud Shot,1,16,
-537,seismitoad,11,392,Aqua Ring,1,20,
-537,seismitoad,11,409,Drain Punch,1,44,
-537,seismitoad,11,496,Round,1,1,4
-537,seismitoad,11,496,Round,1,9,
-537,seismitoad,11,497,Echoed Voice,1,49,
-537,seismitoad,14,45,Growl,1,1,2
-537,seismitoad,14,48,Supersonic,1,1,3
-537,seismitoad,14,48,Supersonic,1,5,
-537,seismitoad,14,51,Acid,1,36,
-537,seismitoad,14,56,Hydro Pump,1,53,
-537,seismitoad,14,61,Bubble Beam,1,12,
-537,seismitoad,14,145,Bubble,1,1,1
-537,seismitoad,14,175,Flail,1,39,
-537,seismitoad,14,240,Rain Dance,1,33,
-537,seismitoad,14,253,Uproar,1,23,
-537,seismitoad,14,304,Hyper Voice,1,59,
-537,seismitoad,14,330,Muddy Water,1,28,
-537,seismitoad,14,341,Mud Shot,1,16,
-537,seismitoad,14,392,Aqua Ring,1,20,
-537,seismitoad,14,409,Drain Punch,1,44,
-537,seismitoad,14,496,Round,1,1,4
-537,seismitoad,14,496,Round,1,9,
-537,seismitoad,14,497,Echoed Voice,1,49,
-537,seismitoad,15,45,Growl,1,1,2
-537,seismitoad,15,48,Supersonic,1,1,3
-537,seismitoad,15,48,Supersonic,1,5,
-537,seismitoad,15,51,Acid,1,36,
-537,seismitoad,15,56,Hydro Pump,1,53,
-537,seismitoad,15,61,Bubble Beam,1,12,
-537,seismitoad,15,145,Bubble,1,1,1
-537,seismitoad,15,175,Flail,1,39,
-537,seismitoad,15,240,Rain Dance,1,33,
-537,seismitoad,15,253,Uproar,1,23,
-537,seismitoad,15,304,Hyper Voice,1,59,
-537,seismitoad,15,330,Muddy Water,1,28,
-537,seismitoad,15,341,Mud Shot,1,16,
-537,seismitoad,15,392,Aqua Ring,1,20,
-537,seismitoad,15,409,Drain Punch,1,44,
-537,seismitoad,15,496,Round,1,1,4
-537,seismitoad,15,496,Round,1,9,
-537,seismitoad,15,497,Echoed Voice,1,49,
-537,seismitoad,16,45,Growl,1,1,2
-537,seismitoad,16,48,Supersonic,1,1,3
-537,seismitoad,16,48,Supersonic,1,5,1
-537,seismitoad,16,51,Acid,1,36,1
-537,seismitoad,16,56,Hydro Pump,1,53,1
-537,seismitoad,16,61,Bubble Beam,1,12,1
-537,seismitoad,16,145,Bubble,1,1,1
-537,seismitoad,16,175,Flail,1,39,1
-537,seismitoad,16,240,Rain Dance,1,33,1
-537,seismitoad,16,253,Uproar,1,23,1
-537,seismitoad,16,304,Hyper Voice,1,59,1
-537,seismitoad,16,330,Muddy Water,1,28,1
-537,seismitoad,16,341,Mud Shot,1,16,1
-537,seismitoad,16,392,Aqua Ring,1,20,1
-537,seismitoad,16,409,Drain Punch,1,44,1
-537,seismitoad,16,496,Round,1,1,4
-537,seismitoad,16,496,Round,1,9,1
-537,seismitoad,16,497,Echoed Voice,1,49,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+537,11,Growl,1,normal,-,100
+537,11,Supersonic,1,normal,-,55
+537,11,Bubble,1,water,40,100
+537,11,Round,1,normal,60,100
+537,14,Growl,1,normal,-,100
+537,14,Supersonic,1,normal,-,55
+537,14,Bubble,1,water,40,100
+537,14,Round,1,normal,60,100
+537,15,Growl,1,normal,-,100
+537,15,Supersonic,1,normal,-,55
+537,15,Bubble,1,water,40,100
+537,15,Round,1,normal,60,100
+537,16,Growl,1,normal,-,100
+537,16,Supersonic,1,normal,-,55
+537,16,Bubble,1,water,40,100
+537,16,Round,1,normal,60,100
+537,11,Supersonic,5,normal,-,55
+537,14,Supersonic,5,normal,-,55
+537,15,Supersonic,5,normal,-,55
+537,16,Supersonic,5,normal,-,55
+537,11,Round,9,normal,60,100
+537,14,Round,9,normal,60,100
+537,15,Round,9,normal,60,100
+537,16,Round,9,normal,60,100
+537,11,Bubble Beam,12,water,65,100
+537,14,Bubble Beam,12,water,65,100
+537,15,Bubble Beam,12,water,65,100
+537,16,Bubble Beam,12,water,65,100
+537,11,Mud Shot,16,ground,55,95
+537,14,Mud Shot,16,ground,55,95
+537,15,Mud Shot,16,ground,55,95
+537,16,Mud Shot,16,ground,55,95
+537,11,Aqua Ring,20,water,-,-
+537,14,Aqua Ring,20,water,-,-
+537,15,Aqua Ring,20,water,-,-
+537,16,Aqua Ring,20,water,-,-
+537,11,Uproar,23,normal,90,100
+537,14,Uproar,23,normal,90,100
+537,15,Uproar,23,normal,90,100
+537,16,Uproar,23,normal,90,100
+537,11,Muddy Water,28,water,90,85
+537,14,Muddy Water,28,water,90,85
+537,15,Muddy Water,28,water,90,85
+537,16,Muddy Water,28,water,90,85
+537,11,Rain Dance,33,water,-,-
+537,14,Rain Dance,33,water,-,-
+537,15,Rain Dance,33,water,-,-
+537,16,Rain Dance,33,water,-,-
+537,11,Acid,36,poison,40,100
+537,14,Acid,36,poison,40,100
+537,15,Acid,36,poison,40,100
+537,16,Acid,36,poison,40,100
+537,11,Flail,39,normal,-,100
+537,14,Flail,39,normal,-,100
+537,15,Flail,39,normal,-,100
+537,16,Flail,39,normal,-,100
+537,11,Drain Punch,44,fighting,75,100
+537,14,Drain Punch,44,fighting,75,100
+537,15,Drain Punch,44,fighting,75,100
+537,16,Drain Punch,44,fighting,75,100
+537,11,Echoed Voice,49,normal,40,100
+537,14,Echoed Voice,49,normal,40,100
+537,15,Echoed Voice,49,normal,40,100
+537,16,Echoed Voice,49,normal,40,100
+537,11,Hydro Pump,53,water,110,80
+537,14,Hydro Pump,53,water,110,80
+537,15,Hydro Pump,53,water,110,80
+537,16,Hydro Pump,53,water,110,80
+537,11,Hyper Voice,59,normal,90,100
+537,14,Hyper Voice,59,normal,90,100
+537,15,Hyper Voice,59,normal,90,100
+537,16,Hyper Voice,59,normal,90,100

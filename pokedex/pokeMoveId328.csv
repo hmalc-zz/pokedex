@@ -1,143 +1,143 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-328,trapinch,5,28,Sand Attack,1,9,
-328,trapinch,5,44,Bite,1,1,
-328,trapinch,5,63,Hyper Beam,1,57,
-328,trapinch,5,91,Dig,1,41,
-328,trapinch,5,185,Feint Attack,1,17,
-328,trapinch,5,201,Sandstorm,1,49,
-328,trapinch,5,242,Crunch,1,33,
-328,trapinch,5,328,Sand Tomb,1,25,
-328,trapinch,6,28,Sand Attack,1,9,
-328,trapinch,6,44,Bite,1,1,
-328,trapinch,6,63,Hyper Beam,1,57,
-328,trapinch,6,91,Dig,1,41,
-328,trapinch,6,185,Feint Attack,1,17,
-328,trapinch,6,201,Sandstorm,1,49,
-328,trapinch,6,242,Crunch,1,33,
-328,trapinch,6,328,Sand Tomb,1,25,
-328,trapinch,7,28,Sand Attack,1,9,
-328,trapinch,7,44,Bite,1,1,
-328,trapinch,7,63,Hyper Beam,1,57,
-328,trapinch,7,91,Dig,1,41,
-328,trapinch,7,185,Feint Attack,1,17,
-328,trapinch,7,201,Sandstorm,1,49,
-328,trapinch,7,242,Crunch,1,33,
-328,trapinch,7,328,Sand Tomb,1,25,
-328,trapinch,8,28,Sand Attack,1,9,
-328,trapinch,8,44,Bite,1,1,
-328,trapinch,8,63,Hyper Beam,1,57,
-328,trapinch,8,89,Earthquake,1,73,
-328,trapinch,8,90,Fissure,1,89,
-328,trapinch,8,91,Dig,1,41,
-328,trapinch,8,185,Feint Attack,1,17,
-328,trapinch,8,201,Sandstorm,1,49,
-328,trapinch,8,242,Crunch,1,33,
-328,trapinch,8,328,Sand Tomb,1,25,
-328,trapinch,8,364,Feint,1,81,
-328,trapinch,8,414,Earth Power,1,65,
-328,trapinch,9,28,Sand Attack,1,9,
-328,trapinch,9,44,Bite,1,1,
-328,trapinch,9,63,Hyper Beam,1,57,
-328,trapinch,9,89,Earthquake,1,73,
-328,trapinch,9,90,Fissure,1,89,
-328,trapinch,9,91,Dig,1,41,
-328,trapinch,9,185,Feint Attack,1,17,
-328,trapinch,9,201,Sandstorm,1,49,
-328,trapinch,9,242,Crunch,1,33,
-328,trapinch,9,328,Sand Tomb,1,25,
-328,trapinch,9,364,Feint,1,81,
-328,trapinch,9,414,Earth Power,1,65,
-328,trapinch,10,28,Sand Attack,1,9,
-328,trapinch,10,44,Bite,1,1,
-328,trapinch,10,63,Hyper Beam,1,57,
-328,trapinch,10,89,Earthquake,1,73,
-328,trapinch,10,90,Fissure,1,89,
-328,trapinch,10,91,Dig,1,41,
-328,trapinch,10,185,Feint Attack,1,17,
-328,trapinch,10,201,Sandstorm,1,49,
-328,trapinch,10,242,Crunch,1,33,
-328,trapinch,10,328,Sand Tomb,1,25,
-328,trapinch,10,364,Feint,1,81,
-328,trapinch,10,414,Earth Power,1,65,
-328,trapinch,11,28,Sand Attack,1,9,
-328,trapinch,11,44,Bite,1,1,
-328,trapinch,11,63,Hyper Beam,1,57,
-328,trapinch,11,89,Earthquake,1,73,
-328,trapinch,11,90,Fissure,1,89,
-328,trapinch,11,91,Dig,1,41,
-328,trapinch,11,185,Feint Attack,1,17,
-328,trapinch,11,201,Sandstorm,1,49,
-328,trapinch,11,242,Crunch,1,33,
-328,trapinch,11,328,Sand Tomb,1,25,
-328,trapinch,11,364,Feint,1,81,
-328,trapinch,11,414,Earth Power,1,65,
-328,trapinch,12,28,Sand Attack,1,9,
-328,trapinch,12,44,Bite,1,1,
-328,trapinch,12,63,Hyper Beam,1,57,
-328,trapinch,12,91,Dig,1,41,
-328,trapinch,12,185,Feint Attack,1,17,
-328,trapinch,12,201,Sandstorm,1,49,
-328,trapinch,12,242,Crunch,1,33,
-328,trapinch,12,328,Sand Tomb,1,25,
-328,trapinch,13,28,Sand Attack,1,9,
-328,trapinch,13,44,Bite,1,1,
-328,trapinch,13,63,Hyper Beam,1,57,
-328,trapinch,13,91,Dig,1,41,
-328,trapinch,13,185,Feint Attack,1,17,
-328,trapinch,13,201,Sandstorm,1,49,
-328,trapinch,13,242,Crunch,1,33,
-328,trapinch,13,328,Sand Tomb,1,25,
-328,trapinch,14,28,Sand Attack,1,4,
-328,trapinch,14,44,Bite,1,1,
-328,trapinch,14,63,Hyper Beam,1,49,
-328,trapinch,14,89,Earthquake,1,55,
-328,trapinch,14,90,Fissure,1,73,
-328,trapinch,14,91,Dig,1,29,
-328,trapinch,14,117,Bide,1,17,
-328,trapinch,14,157,Rock Slide,1,25,
-328,trapinch,14,185,Feint Attack,1,7,
-328,trapinch,14,189,Mud-Slap,1,13,
-328,trapinch,14,201,Sandstorm,1,44,
-328,trapinch,14,242,Crunch,1,34,
-328,trapinch,14,276,Superpower,1,67,
-328,trapinch,14,328,Sand Tomb,1,10,
-328,trapinch,14,364,Feint,1,61,
-328,trapinch,14,414,Earth Power,1,39,
-328,trapinch,14,523,Bulldoze,1,21,
-328,trapinch,15,28,Sand Attack,1,4,
-328,trapinch,15,44,Bite,1,1,4
-328,trapinch,15,63,Hyper Beam,1,49,
-328,trapinch,15,89,Earthquake,1,55,
-328,trapinch,15,90,Fissure,1,1,1
-328,trapinch,15,90,Fissure,1,73,
-328,trapinch,15,91,Dig,1,29,
-328,trapinch,15,117,Bide,1,17,
-328,trapinch,15,157,Rock Slide,1,25,
-328,trapinch,15,185,Feint Attack,1,7,
-328,trapinch,15,189,Mud-Slap,1,13,
-328,trapinch,15,201,Sandstorm,1,44,
-328,trapinch,15,242,Crunch,1,34,
-328,trapinch,15,276,Superpower,1,1,2
-328,trapinch,15,276,Superpower,1,67,
-328,trapinch,15,328,Sand Tomb,1,10,
-328,trapinch,15,364,Feint,1,1,3
-328,trapinch,15,364,Feint,1,61,
-328,trapinch,15,414,Earth Power,1,39,
-328,trapinch,15,523,Bulldoze,1,21,
-328,trapinch,16,28,Sand Attack,1,1,1
-328,trapinch,16,44,Bite,1,1,2
-328,trapinch,16,63,Hyper Beam,1,43,1
-328,trapinch,16,89,Earthquake,1,33,1
-328,trapinch,16,90,Fissure,1,47,1
-328,trapinch,16,91,Dig,1,19,1
-328,trapinch,16,117,Bide,1,1,4
-328,trapinch,16,157,Rock Slide,1,15,1
-328,trapinch,16,185,Feint Attack,1,1,3
-328,trapinch,16,189,Mud-Slap,1,5,1
-328,trapinch,16,201,Sandstorm,1,36,1
-328,trapinch,16,242,Crunch,1,22,1
-328,trapinch,16,276,Superpower,1,40,1
-328,trapinch,16,328,Sand Tomb,1,12,1
-328,trapinch,16,364,Feint,1,29,1
-328,trapinch,16,414,Earth Power,1,26,1
-328,trapinch,16,523,Bulldoze,1,8,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+328,5,Bite,1,dark,60,100
+328,6,Bite,1,dark,60,100
+328,7,Bite,1,dark,60,100
+328,8,Bite,1,dark,60,100
+328,9,Bite,1,dark,60,100
+328,10,Bite,1,dark,60,100
+328,11,Bite,1,dark,60,100
+328,12,Bite,1,dark,60,100
+328,13,Bite,1,dark,60,100
+328,14,Bite,1,dark,60,100
+328,15,Bite,1,dark,60,100
+328,15,Fissure,1,ground,-,30
+328,15,Superpower,1,fighting,120,100
+328,15,Feint,1,normal,30,100
+328,16,Sand Attack,1,ground,-,100
+328,16,Bite,1,dark,60,100
+328,16,Bide,1,normal,-,-
+328,16,Feint Attack,1,dark,60,-
+328,14,Sand Attack,4,ground,-,100
+328,15,Sand Attack,4,ground,-,100
+328,16,Mud-Slap,5,ground,20,100
+328,14,Feint Attack,7,dark,60,-
+328,15,Feint Attack,7,dark,60,-
+328,16,Bulldoze,8,ground,60,100
+328,5,Sand Attack,9,ground,-,100
+328,6,Sand Attack,9,ground,-,100
+328,7,Sand Attack,9,ground,-,100
+328,8,Sand Attack,9,ground,-,100
+328,9,Sand Attack,9,ground,-,100
+328,10,Sand Attack,9,ground,-,100
+328,11,Sand Attack,9,ground,-,100
+328,12,Sand Attack,9,ground,-,100
+328,13,Sand Attack,9,ground,-,100
+328,14,Sand Tomb,10,ground,35,85
+328,15,Sand Tomb,10,ground,35,85
+328,16,Sand Tomb,12,ground,35,85
+328,14,Mud-Slap,13,ground,20,100
+328,15,Mud-Slap,13,ground,20,100
+328,16,Rock Slide,15,rock,75,90
+328,5,Feint Attack,17,dark,60,-
+328,6,Feint Attack,17,dark,60,-
+328,7,Feint Attack,17,dark,60,-
+328,8,Feint Attack,17,dark,60,-
+328,9,Feint Attack,17,dark,60,-
+328,10,Feint Attack,17,dark,60,-
+328,11,Feint Attack,17,dark,60,-
+328,12,Feint Attack,17,dark,60,-
+328,13,Feint Attack,17,dark,60,-
+328,14,Bide,17,normal,-,-
+328,15,Bide,17,normal,-,-
+328,16,Dig,19,ground,80,100
+328,14,Bulldoze,21,ground,60,100
+328,15,Bulldoze,21,ground,60,100
+328,16,Crunch,22,dark,80,100
+328,5,Sand Tomb,25,ground,35,85
+328,6,Sand Tomb,25,ground,35,85
+328,7,Sand Tomb,25,ground,35,85
+328,8,Sand Tomb,25,ground,35,85
+328,9,Sand Tomb,25,ground,35,85
+328,10,Sand Tomb,25,ground,35,85
+328,11,Sand Tomb,25,ground,35,85
+328,12,Sand Tomb,25,ground,35,85
+328,13,Sand Tomb,25,ground,35,85
+328,14,Rock Slide,25,rock,75,90
+328,15,Rock Slide,25,rock,75,90
+328,16,Earth Power,26,ground,90,100
+328,14,Dig,29,ground,80,100
+328,15,Dig,29,ground,80,100
+328,16,Feint,29,normal,30,100
+328,5,Crunch,33,dark,80,100
+328,6,Crunch,33,dark,80,100
+328,7,Crunch,33,dark,80,100
+328,8,Crunch,33,dark,80,100
+328,9,Crunch,33,dark,80,100
+328,10,Crunch,33,dark,80,100
+328,11,Crunch,33,dark,80,100
+328,12,Crunch,33,dark,80,100
+328,13,Crunch,33,dark,80,100
+328,16,Earthquake,33,ground,100,100
+328,14,Crunch,34,dark,80,100
+328,15,Crunch,34,dark,80,100
+328,16,Sandstorm,36,rock,-,-
+328,14,Earth Power,39,ground,90,100
+328,15,Earth Power,39,ground,90,100
+328,16,Superpower,40,fighting,120,100
+328,5,Dig,41,ground,80,100
+328,6,Dig,41,ground,80,100
+328,7,Dig,41,ground,80,100
+328,8,Dig,41,ground,80,100
+328,9,Dig,41,ground,80,100
+328,10,Dig,41,ground,80,100
+328,11,Dig,41,ground,80,100
+328,12,Dig,41,ground,80,100
+328,13,Dig,41,ground,80,100
+328,16,Hyper Beam,43,normal,150,90
+328,14,Sandstorm,44,rock,-,-
+328,15,Sandstorm,44,rock,-,-
+328,16,Fissure,47,ground,-,30
+328,5,Sandstorm,49,rock,-,-
+328,6,Sandstorm,49,rock,-,-
+328,7,Sandstorm,49,rock,-,-
+328,8,Sandstorm,49,rock,-,-
+328,9,Sandstorm,49,rock,-,-
+328,10,Sandstorm,49,rock,-,-
+328,11,Sandstorm,49,rock,-,-
+328,12,Sandstorm,49,rock,-,-
+328,13,Sandstorm,49,rock,-,-
+328,14,Hyper Beam,49,normal,150,90
+328,15,Hyper Beam,49,normal,150,90
+328,14,Earthquake,55,ground,100,100
+328,15,Earthquake,55,ground,100,100
+328,5,Hyper Beam,57,normal,150,90
+328,6,Hyper Beam,57,normal,150,90
+328,7,Hyper Beam,57,normal,150,90
+328,8,Hyper Beam,57,normal,150,90
+328,9,Hyper Beam,57,normal,150,90
+328,10,Hyper Beam,57,normal,150,90
+328,11,Hyper Beam,57,normal,150,90
+328,12,Hyper Beam,57,normal,150,90
+328,13,Hyper Beam,57,normal,150,90
+328,14,Feint,61,normal,30,100
+328,15,Feint,61,normal,30,100
+328,8,Earth Power,65,ground,90,100
+328,9,Earth Power,65,ground,90,100
+328,10,Earth Power,65,ground,90,100
+328,11,Earth Power,65,ground,90,100
+328,14,Superpower,67,fighting,120,100
+328,15,Superpower,67,fighting,120,100
+328,8,Earthquake,73,ground,100,100
+328,9,Earthquake,73,ground,100,100
+328,10,Earthquake,73,ground,100,100
+328,11,Earthquake,73,ground,100,100
+328,14,Fissure,73,ground,-,30
+328,15,Fissure,73,ground,-,30
+328,8,Feint,81,normal,30,100
+328,9,Feint,81,normal,30,100
+328,10,Feint,81,normal,30,100
+328,11,Feint,81,normal,30,100
+328,8,Fissure,89,ground,-,30
+328,9,Fissure,89,ground,-,30
+328,10,Fissure,89,ground,-,30
+328,11,Fissure,89,ground,-,30

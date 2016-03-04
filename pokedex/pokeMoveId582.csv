@@ -1,61 +1,61 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-582,vanillite,11,54,Mist,1,16,
-582,vanillite,11,58,Ice Beam,1,35,
-582,vanillite,11,59,Blizzard,1,49,
-582,vanillite,11,106,Harden,1,4,
-582,vanillite,11,151,Acid Armor,1,31,
-582,vanillite,11,196,Icy Wind,1,13,
-582,vanillite,11,243,Mirror Coat,1,44,
-582,vanillite,11,253,Uproar,1,10,
-582,vanillite,11,258,Hail,1,40,
-582,vanillite,11,269,Taunt,1,22,
-582,vanillite,11,310,Astonish,1,7,
-582,vanillite,11,329,Sheer Cold,1,53,
-582,vanillite,11,333,Icicle Spear,1,1,
-582,vanillite,11,419,Avalanche,1,19,
-582,vanillite,11,429,Mirror Shot,1,26,
-582,vanillite,14,54,Mist,1,16,
-582,vanillite,14,58,Ice Beam,1,35,
-582,vanillite,14,59,Blizzard,1,49,
-582,vanillite,14,106,Harden,1,4,
-582,vanillite,14,151,Acid Armor,1,31,
-582,vanillite,14,196,Icy Wind,1,13,
-582,vanillite,14,243,Mirror Coat,1,44,
-582,vanillite,14,253,Uproar,1,10,
-582,vanillite,14,258,Hail,1,40,
-582,vanillite,14,269,Taunt,1,22,
-582,vanillite,14,310,Astonish,1,7,
-582,vanillite,14,329,Sheer Cold,1,53,
-582,vanillite,14,333,Icicle Spear,1,1,
-582,vanillite,14,419,Avalanche,1,19,
-582,vanillite,14,429,Mirror Shot,1,26,
-582,vanillite,15,54,Mist,1,16,
-582,vanillite,15,58,Ice Beam,1,35,
-582,vanillite,15,59,Blizzard,1,49,
-582,vanillite,15,106,Harden,1,4,
-582,vanillite,15,151,Acid Armor,1,31,
-582,vanillite,15,196,Icy Wind,1,13,
-582,vanillite,15,243,Mirror Coat,1,44,
-582,vanillite,15,253,Uproar,1,10,
-582,vanillite,15,258,Hail,1,40,
-582,vanillite,15,269,Taunt,1,22,
-582,vanillite,15,310,Astonish,1,7,
-582,vanillite,15,329,Sheer Cold,1,53,
-582,vanillite,15,333,Icicle Spear,1,1,
-582,vanillite,15,419,Avalanche,1,19,
-582,vanillite,15,429,Mirror Shot,1,26,
-582,vanillite,16,54,Mist,1,16,1
-582,vanillite,16,58,Ice Beam,1,35,1
-582,vanillite,16,59,Blizzard,1,49,1
-582,vanillite,16,106,Harden,1,4,1
-582,vanillite,16,151,Acid Armor,1,31,1
-582,vanillite,16,196,Icy Wind,1,13,1
-582,vanillite,16,243,Mirror Coat,1,44,1
-582,vanillite,16,253,Uproar,1,10,1
-582,vanillite,16,258,Hail,1,40,1
-582,vanillite,16,269,Taunt,1,22,1
-582,vanillite,16,310,Astonish,1,7,1
-582,vanillite,16,329,Sheer Cold,1,53,1
-582,vanillite,16,333,Icicle Spear,1,1,1
-582,vanillite,16,419,Avalanche,1,19,1
-582,vanillite,16,429,Mirror Shot,1,26,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+582,11,Icicle Spear,1,ice,25,100
+582,14,Icicle Spear,1,ice,25,100
+582,15,Icicle Spear,1,ice,25,100
+582,16,Icicle Spear,1,ice,25,100
+582,11,Harden,4,normal,-,-
+582,14,Harden,4,normal,-,-
+582,15,Harden,4,normal,-,-
+582,16,Harden,4,normal,-,-
+582,11,Astonish,7,ghost,30,100
+582,14,Astonish,7,ghost,30,100
+582,15,Astonish,7,ghost,30,100
+582,16,Astonish,7,ghost,30,100
+582,11,Uproar,10,normal,90,100
+582,14,Uproar,10,normal,90,100
+582,15,Uproar,10,normal,90,100
+582,16,Uproar,10,normal,90,100
+582,11,Icy Wind,13,ice,55,95
+582,14,Icy Wind,13,ice,55,95
+582,15,Icy Wind,13,ice,55,95
+582,16,Icy Wind,13,ice,55,95
+582,11,Mist,16,ice,-,-
+582,14,Mist,16,ice,-,-
+582,15,Mist,16,ice,-,-
+582,16,Mist,16,ice,-,-
+582,11,Avalanche,19,ice,60,100
+582,14,Avalanche,19,ice,60,100
+582,15,Avalanche,19,ice,60,100
+582,16,Avalanche,19,ice,60,100
+582,11,Taunt,22,dark,-,100
+582,14,Taunt,22,dark,-,100
+582,15,Taunt,22,dark,-,100
+582,16,Taunt,22,dark,-,100
+582,11,Mirror Shot,26,steel,65,85
+582,14,Mirror Shot,26,steel,65,85
+582,15,Mirror Shot,26,steel,65,85
+582,16,Mirror Shot,26,steel,65,85
+582,11,Acid Armor,31,poison,-,-
+582,14,Acid Armor,31,poison,-,-
+582,15,Acid Armor,31,poison,-,-
+582,16,Acid Armor,31,poison,-,-
+582,11,Ice Beam,35,ice,90,100
+582,14,Ice Beam,35,ice,90,100
+582,15,Ice Beam,35,ice,90,100
+582,16,Ice Beam,35,ice,90,100
+582,11,Hail,40,ice,-,-
+582,14,Hail,40,ice,-,-
+582,15,Hail,40,ice,-,-
+582,16,Hail,40,ice,-,-
+582,11,Mirror Coat,44,psychic,-,100
+582,14,Mirror Coat,44,psychic,-,100
+582,15,Mirror Coat,44,psychic,-,100
+582,16,Mirror Coat,44,psychic,-,100
+582,11,Blizzard,49,ice,110,70
+582,14,Blizzard,49,ice,110,70
+582,15,Blizzard,49,ice,110,70
+582,16,Blizzard,49,ice,110,70
+582,11,Sheer Cold,53,ice,-,30
+582,14,Sheer Cold,53,ice,-,30
+582,15,Sheer Cold,53,ice,-,30
+582,16,Sheer Cold,53,ice,-,30

@@ -1,61 +1,61 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-562,yamask,11,50,Disable,1,5,
-562,yamask,11,101,Night Shade,1,13,
-562,yamask,11,114,Haze,1,9,
-562,yamask,11,174,Curse,1,29,
-562,yamask,11,182,Protect,1,1,2
-562,yamask,11,194,Destiny Bond,1,49,
-562,yamask,11,212,Mean Look,1,45,
-562,yamask,11,247,Shadow Ball,1,37,
-562,yamask,11,261,Will-O-Wisp,1,21,
-562,yamask,11,288,Grudge,1,41,
-562,yamask,11,310,Astonish,1,1,1
-562,yamask,11,466,Ominous Wind,1,25,
-562,yamask,11,470,Guard Split,1,33,2
-562,yamask,11,471,Power Split,1,33,1
-562,yamask,11,506,Hex,1,17,
-562,yamask,14,50,Disable,1,5,
-562,yamask,14,101,Night Shade,1,13,
-562,yamask,14,114,Haze,1,9,
-562,yamask,14,174,Curse,1,29,
-562,yamask,14,182,Protect,1,1,2
-562,yamask,14,194,Destiny Bond,1,49,
-562,yamask,14,212,Mean Look,1,45,
-562,yamask,14,247,Shadow Ball,1,37,
-562,yamask,14,261,Will-O-Wisp,1,21,
-562,yamask,14,288,Grudge,1,41,
-562,yamask,14,310,Astonish,1,1,1
-562,yamask,14,466,Ominous Wind,1,25,
-562,yamask,14,470,Guard Split,1,33,2
-562,yamask,14,471,Power Split,1,33,1
-562,yamask,14,506,Hex,1,17,
-562,yamask,15,50,Disable,1,5,
-562,yamask,15,101,Night Shade,1,13,
-562,yamask,15,114,Haze,1,9,
-562,yamask,15,174,Curse,1,29,
-562,yamask,15,182,Protect,1,1,2
-562,yamask,15,194,Destiny Bond,1,49,
-562,yamask,15,212,Mean Look,1,45,
-562,yamask,15,247,Shadow Ball,1,37,
-562,yamask,15,261,Will-O-Wisp,1,21,
-562,yamask,15,288,Grudge,1,41,
-562,yamask,15,310,Astonish,1,1,1
-562,yamask,15,466,Ominous Wind,1,25,
-562,yamask,15,470,Guard Split,1,33,2
-562,yamask,15,471,Power Split,1,33,1
-562,yamask,15,506,Hex,1,17,
-562,yamask,16,50,Disable,1,5,1
-562,yamask,16,101,Night Shade,1,13,1
-562,yamask,16,114,Haze,1,9,1
-562,yamask,16,174,Curse,1,29,1
-562,yamask,16,182,Protect,1,1,2
-562,yamask,16,194,Destiny Bond,1,49,1
-562,yamask,16,212,Mean Look,1,45,1
-562,yamask,16,247,Shadow Ball,1,37,1
-562,yamask,16,261,Will-O-Wisp,1,21,1
-562,yamask,16,288,Grudge,1,41,1
-562,yamask,16,310,Astonish,1,1,1
-562,yamask,16,466,Ominous Wind,1,25,1
-562,yamask,16,470,Guard Split,1,33,2
-562,yamask,16,471,Power Split,1,33,1
-562,yamask,16,506,Hex,1,17,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+562,11,Protect,1,normal,-,-
+562,11,Astonish,1,ghost,30,100
+562,14,Protect,1,normal,-,-
+562,14,Astonish,1,ghost,30,100
+562,15,Protect,1,normal,-,-
+562,15,Astonish,1,ghost,30,100
+562,16,Protect,1,normal,-,-
+562,16,Astonish,1,ghost,30,100
+562,11,Disable,5,normal,-,100
+562,14,Disable,5,normal,-,100
+562,15,Disable,5,normal,-,100
+562,16,Disable,5,normal,-,100
+562,11,Haze,9,ice,-,-
+562,14,Haze,9,ice,-,-
+562,15,Haze,9,ice,-,-
+562,16,Haze,9,ice,-,-
+562,11,Night Shade,13,ghost,-,100
+562,14,Night Shade,13,ghost,-,100
+562,15,Night Shade,13,ghost,-,100
+562,16,Night Shade,13,ghost,-,100
+562,11,Hex,17,ghost,65,100
+562,14,Hex,17,ghost,65,100
+562,15,Hex,17,ghost,65,100
+562,16,Hex,17,ghost,65,100
+562,11,Will-O-Wisp,21,fire,-,85
+562,14,Will-O-Wisp,21,fire,-,85
+562,15,Will-O-Wisp,21,fire,-,85
+562,16,Will-O-Wisp,21,fire,-,85
+562,11,Ominous Wind,25,ghost,60,100
+562,14,Ominous Wind,25,ghost,60,100
+562,15,Ominous Wind,25,ghost,60,100
+562,16,Ominous Wind,25,ghost,60,100
+562,11,Curse,29,ghost,-,-
+562,14,Curse,29,ghost,-,-
+562,15,Curse,29,ghost,-,-
+562,16,Curse,29,ghost,-,-
+562,11,Guard Split,33,psychic,-,-
+562,11,Power Split,33,psychic,-,-
+562,14,Guard Split,33,psychic,-,-
+562,14,Power Split,33,psychic,-,-
+562,15,Guard Split,33,psychic,-,-
+562,15,Power Split,33,psychic,-,-
+562,16,Guard Split,33,psychic,-,-
+562,16,Power Split,33,psychic,-,-
+562,11,Shadow Ball,37,ghost,80,100
+562,14,Shadow Ball,37,ghost,80,100
+562,15,Shadow Ball,37,ghost,80,100
+562,16,Shadow Ball,37,ghost,80,100
+562,11,Grudge,41,ghost,-,-
+562,14,Grudge,41,ghost,-,-
+562,15,Grudge,41,ghost,-,-
+562,16,Grudge,41,ghost,-,-
+562,11,Mean Look,45,normal,-,-
+562,14,Mean Look,45,normal,-,-
+562,15,Mean Look,45,normal,-,-
+562,16,Mean Look,45,normal,-,-
+562,11,Destiny Bond,49,ghost,-,-
+562,14,Destiny Bond,49,ghost,-,-
+562,15,Destiny Bond,49,ghost,-,-
+562,16,Destiny Bond,49,ghost,-,-

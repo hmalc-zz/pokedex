@@ -1,129 +1,129 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-274,nuzleaf,5,1,Pound,1,1,
-274,nuzleaf,5,13,Razor Wind,1,37,
-274,nuzleaf,5,74,Growth,1,7,
-274,nuzleaf,5,106,Harden,1,3,
-274,nuzleaf,5,185,Feint Attack,1,31,
-274,nuzleaf,5,207,Swagger,1,43,
-274,nuzleaf,5,252,Fake Out,1,19,
-274,nuzleaf,5,259,Torment,1,25,
-274,nuzleaf,5,267,Nature Power,1,13,
-274,nuzleaf,5,326,Extrasensory,1,49,
-274,nuzleaf,6,1,Pound,1,1,
-274,nuzleaf,6,13,Razor Wind,1,37,
-274,nuzleaf,6,74,Growth,1,7,
-274,nuzleaf,6,106,Harden,1,3,
-274,nuzleaf,6,185,Feint Attack,1,31,
-274,nuzleaf,6,207,Swagger,1,43,
-274,nuzleaf,6,252,Fake Out,1,19,
-274,nuzleaf,6,259,Torment,1,25,
-274,nuzleaf,6,267,Nature Power,1,13,
-274,nuzleaf,6,326,Extrasensory,1,49,
-274,nuzleaf,7,1,Pound,1,1,
-274,nuzleaf,7,13,Razor Wind,1,37,
-274,nuzleaf,7,74,Growth,1,7,
-274,nuzleaf,7,106,Harden,1,3,
-274,nuzleaf,7,185,Feint Attack,1,31,
-274,nuzleaf,7,207,Swagger,1,43,
-274,nuzleaf,7,252,Fake Out,1,19,
-274,nuzleaf,7,259,Torment,1,25,
-274,nuzleaf,7,267,Nature Power,1,13,
-274,nuzleaf,7,326,Extrasensory,1,49,
-274,nuzleaf,8,1,Pound,1,1,2
-274,nuzleaf,8,13,Razor Wind,1,37,
-274,nuzleaf,8,74,Growth,1,7,
-274,nuzleaf,8,75,Razor Leaf,1,1,1
-274,nuzleaf,8,106,Harden,1,3,
-274,nuzleaf,8,185,Feint Attack,1,31,
-274,nuzleaf,8,207,Swagger,1,43,
-274,nuzleaf,8,252,Fake Out,1,19,
-274,nuzleaf,8,259,Torment,1,25,
-274,nuzleaf,8,267,Nature Power,1,13,
-274,nuzleaf,8,326,Extrasensory,1,49,
-274,nuzleaf,9,1,Pound,1,1,2
-274,nuzleaf,9,13,Razor Wind,1,37,
-274,nuzleaf,9,74,Growth,1,7,
-274,nuzleaf,9,75,Razor Leaf,1,1,1
-274,nuzleaf,9,106,Harden,1,3,
-274,nuzleaf,9,185,Feint Attack,1,31,
-274,nuzleaf,9,207,Swagger,1,43,
-274,nuzleaf,9,252,Fake Out,1,19,
-274,nuzleaf,9,259,Torment,1,25,
-274,nuzleaf,9,267,Nature Power,1,13,
-274,nuzleaf,9,326,Extrasensory,1,49,
-274,nuzleaf,10,1,Pound,1,1,2
-274,nuzleaf,10,13,Razor Wind,1,37,
-274,nuzleaf,10,74,Growth,1,7,
-274,nuzleaf,10,75,Razor Leaf,1,1,1
-274,nuzleaf,10,106,Harden,1,3,
-274,nuzleaf,10,185,Feint Attack,1,31,
-274,nuzleaf,10,207,Swagger,1,43,
-274,nuzleaf,10,252,Fake Out,1,19,
-274,nuzleaf,10,259,Torment,1,25,
-274,nuzleaf,10,267,Nature Power,1,13,
-274,nuzleaf,10,326,Extrasensory,1,49,
-274,nuzleaf,11,1,Pound,1,1,2
-274,nuzleaf,11,13,Razor Wind,1,37,
-274,nuzleaf,11,74,Growth,1,7,
-274,nuzleaf,11,75,Razor Leaf,1,1,1
-274,nuzleaf,11,106,Harden,1,3,
-274,nuzleaf,11,185,Feint Attack,1,31,
-274,nuzleaf,11,207,Swagger,1,43,
-274,nuzleaf,11,252,Fake Out,1,19,
-274,nuzleaf,11,259,Torment,1,25,
-274,nuzleaf,11,267,Nature Power,1,13,
-274,nuzleaf,11,326,Extrasensory,1,49,
-274,nuzleaf,12,1,Pound,1,1,
-274,nuzleaf,12,13,Razor Wind,1,37,
-274,nuzleaf,12,74,Growth,1,7,
-274,nuzleaf,12,106,Harden,1,3,
-274,nuzleaf,12,185,Feint Attack,1,31,
-274,nuzleaf,12,207,Swagger,1,43,
-274,nuzleaf,12,252,Fake Out,1,19,
-274,nuzleaf,12,259,Torment,1,25,
-274,nuzleaf,12,267,Nature Power,1,13,
-274,nuzleaf,12,326,Extrasensory,1,49,
-274,nuzleaf,13,1,Pound,1,1,
-274,nuzleaf,13,13,Razor Wind,1,37,
-274,nuzleaf,13,74,Growth,1,7,
-274,nuzleaf,13,106,Harden,1,3,
-274,nuzleaf,13,185,Feint Attack,1,31,
-274,nuzleaf,13,207,Swagger,1,43,
-274,nuzleaf,13,252,Fake Out,1,19,
-274,nuzleaf,13,259,Torment,1,25,
-274,nuzleaf,13,267,Nature Power,1,13,
-274,nuzleaf,13,326,Extrasensory,1,49,
-274,nuzleaf,14,1,Pound,1,1,2
-274,nuzleaf,14,13,Razor Wind,1,37,
-274,nuzleaf,14,74,Growth,1,7,
-274,nuzleaf,14,75,Razor Leaf,1,1,1
-274,nuzleaf,14,106,Harden,1,3,
-274,nuzleaf,14,185,Feint Attack,1,31,
-274,nuzleaf,14,207,Swagger,1,43,
-274,nuzleaf,14,252,Fake Out,1,19,
-274,nuzleaf,14,259,Torment,1,25,
-274,nuzleaf,14,267,Nature Power,1,13,
-274,nuzleaf,14,326,Extrasensory,1,49,
-274,nuzleaf,15,1,Pound,1,1,2
-274,nuzleaf,15,13,Razor Wind,1,37,
-274,nuzleaf,15,74,Growth,1,7,
-274,nuzleaf,15,75,Razor Leaf,1,1,1
-274,nuzleaf,15,106,Harden,1,3,
-274,nuzleaf,15,185,Feint Attack,1,31,
-274,nuzleaf,15,207,Swagger,1,43,
-274,nuzleaf,15,252,Fake Out,1,19,
-274,nuzleaf,15,259,Torment,1,25,
-274,nuzleaf,15,267,Nature Power,1,13,
-274,nuzleaf,15,326,Extrasensory,1,49,
-274,nuzleaf,16,1,Pound,1,1,1
-274,nuzleaf,16,13,Razor Wind,1,20,1
-274,nuzleaf,16,74,Growth,1,6,1
-274,nuzleaf,16,75,Razor Leaf,1,14,1
-274,nuzleaf,16,106,Harden,1,3,1
-274,nuzleaf,16,185,Feint Attack,1,24,1
-274,nuzleaf,16,207,Swagger,1,32,1
-274,nuzleaf,16,252,Fake Out,1,12,1
-274,nuzleaf,16,259,Torment,1,16,1
-274,nuzleaf,16,267,Nature Power,1,9,1
-274,nuzleaf,16,326,Extrasensory,1,36,1
-274,nuzleaf,16,348,Leaf Blade,1,28,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+274,5,Pound,1,normal,40,100
+274,6,Pound,1,normal,40,100
+274,7,Pound,1,normal,40,100
+274,8,Pound,1,normal,40,100
+274,8,Razor Leaf,1,grass,55,95
+274,9,Pound,1,normal,40,100
+274,9,Razor Leaf,1,grass,55,95
+274,10,Pound,1,normal,40,100
+274,10,Razor Leaf,1,grass,55,95
+274,11,Pound,1,normal,40,100
+274,11,Razor Leaf,1,grass,55,95
+274,12,Pound,1,normal,40,100
+274,13,Pound,1,normal,40,100
+274,14,Pound,1,normal,40,100
+274,14,Razor Leaf,1,grass,55,95
+274,15,Pound,1,normal,40,100
+274,15,Razor Leaf,1,grass,55,95
+274,16,Pound,1,normal,40,100
+274,5,Harden,3,normal,-,-
+274,6,Harden,3,normal,-,-
+274,7,Harden,3,normal,-,-
+274,8,Harden,3,normal,-,-
+274,9,Harden,3,normal,-,-
+274,10,Harden,3,normal,-,-
+274,11,Harden,3,normal,-,-
+274,12,Harden,3,normal,-,-
+274,13,Harden,3,normal,-,-
+274,14,Harden,3,normal,-,-
+274,15,Harden,3,normal,-,-
+274,16,Harden,3,normal,-,-
+274,16,Growth,6,normal,-,-
+274,5,Growth,7,normal,-,-
+274,6,Growth,7,normal,-,-
+274,7,Growth,7,normal,-,-
+274,8,Growth,7,normal,-,-
+274,9,Growth,7,normal,-,-
+274,10,Growth,7,normal,-,-
+274,11,Growth,7,normal,-,-
+274,12,Growth,7,normal,-,-
+274,13,Growth,7,normal,-,-
+274,14,Growth,7,normal,-,-
+274,15,Growth,7,normal,-,-
+274,16,Nature Power,9,normal,-,-
+274,16,Fake Out,12,normal,40,100
+274,5,Nature Power,13,normal,-,-
+274,6,Nature Power,13,normal,-,-
+274,7,Nature Power,13,normal,-,-
+274,8,Nature Power,13,normal,-,-
+274,9,Nature Power,13,normal,-,-
+274,10,Nature Power,13,normal,-,-
+274,11,Nature Power,13,normal,-,-
+274,12,Nature Power,13,normal,-,-
+274,13,Nature Power,13,normal,-,-
+274,14,Nature Power,13,normal,-,-
+274,15,Nature Power,13,normal,-,-
+274,16,Razor Leaf,14,grass,55,95
+274,16,Torment,16,dark,-,100
+274,5,Fake Out,19,normal,40,100
+274,6,Fake Out,19,normal,40,100
+274,7,Fake Out,19,normal,40,100
+274,8,Fake Out,19,normal,40,100
+274,9,Fake Out,19,normal,40,100
+274,10,Fake Out,19,normal,40,100
+274,11,Fake Out,19,normal,40,100
+274,12,Fake Out,19,normal,40,100
+274,13,Fake Out,19,normal,40,100
+274,14,Fake Out,19,normal,40,100
+274,15,Fake Out,19,normal,40,100
+274,16,Razor Wind,20,normal,80,100
+274,16,Feint Attack,24,dark,60,-
+274,5,Torment,25,dark,-,100
+274,6,Torment,25,dark,-,100
+274,7,Torment,25,dark,-,100
+274,8,Torment,25,dark,-,100
+274,9,Torment,25,dark,-,100
+274,10,Torment,25,dark,-,100
+274,11,Torment,25,dark,-,100
+274,12,Torment,25,dark,-,100
+274,13,Torment,25,dark,-,100
+274,14,Torment,25,dark,-,100
+274,15,Torment,25,dark,-,100
+274,16,Leaf Blade,28,grass,90,100
+274,5,Feint Attack,31,dark,60,-
+274,6,Feint Attack,31,dark,60,-
+274,7,Feint Attack,31,dark,60,-
+274,8,Feint Attack,31,dark,60,-
+274,9,Feint Attack,31,dark,60,-
+274,10,Feint Attack,31,dark,60,-
+274,11,Feint Attack,31,dark,60,-
+274,12,Feint Attack,31,dark,60,-
+274,13,Feint Attack,31,dark,60,-
+274,14,Feint Attack,31,dark,60,-
+274,15,Feint Attack,31,dark,60,-
+274,16,Swagger,32,normal,-,90
+274,16,Extrasensory,36,psychic,80,100
+274,5,Razor Wind,37,normal,80,100
+274,6,Razor Wind,37,normal,80,100
+274,7,Razor Wind,37,normal,80,100
+274,8,Razor Wind,37,normal,80,100
+274,9,Razor Wind,37,normal,80,100
+274,10,Razor Wind,37,normal,80,100
+274,11,Razor Wind,37,normal,80,100
+274,12,Razor Wind,37,normal,80,100
+274,13,Razor Wind,37,normal,80,100
+274,14,Razor Wind,37,normal,80,100
+274,15,Razor Wind,37,normal,80,100
+274,5,Swagger,43,normal,-,90
+274,6,Swagger,43,normal,-,90
+274,7,Swagger,43,normal,-,90
+274,8,Swagger,43,normal,-,90
+274,9,Swagger,43,normal,-,90
+274,10,Swagger,43,normal,-,90
+274,11,Swagger,43,normal,-,90
+274,12,Swagger,43,normal,-,90
+274,13,Swagger,43,normal,-,90
+274,14,Swagger,43,normal,-,90
+274,15,Swagger,43,normal,-,90
+274,5,Extrasensory,49,psychic,80,100
+274,6,Extrasensory,49,psychic,80,100
+274,7,Extrasensory,49,psychic,80,100
+274,8,Extrasensory,49,psychic,80,100
+274,9,Extrasensory,49,psychic,80,100
+274,10,Extrasensory,49,psychic,80,100
+274,11,Extrasensory,49,psychic,80,100
+274,12,Extrasensory,49,psychic,80,100
+274,13,Extrasensory,49,psychic,80,100
+274,14,Extrasensory,49,psychic,80,100
+274,15,Extrasensory,49,psychic,80,100

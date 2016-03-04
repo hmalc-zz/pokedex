@@ -1,158 +1,158 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-335,zangoose,5,10,Scratch,1,1,
-335,zangoose,5,14,Swords Dance,1,10,
-335,zangoose,5,43,Leer,1,4,
-335,zangoose,5,98,Quick Attack,1,7,
-335,zangoose,5,163,Slash,1,19,
-335,zangoose,5,197,Detect,1,46,
-335,zangoose,5,206,False Swipe,1,55,
-335,zangoose,5,210,Fury Cutter,1,13,
-335,zangoose,5,228,Pursuit,1,25,
-335,zangoose,5,269,Taunt,1,37,
-335,zangoose,5,306,Crush Claw,1,31,
-335,zangoose,6,10,Scratch,1,1,
-335,zangoose,6,14,Swords Dance,1,10,
-335,zangoose,6,43,Leer,1,4,
-335,zangoose,6,98,Quick Attack,1,7,
-335,zangoose,6,163,Slash,1,19,
-335,zangoose,6,197,Detect,1,46,
-335,zangoose,6,206,False Swipe,1,55,
-335,zangoose,6,210,Fury Cutter,1,13,
-335,zangoose,6,228,Pursuit,1,25,
-335,zangoose,6,269,Taunt,1,37,
-335,zangoose,6,306,Crush Claw,1,31,
-335,zangoose,7,10,Scratch,1,1,
-335,zangoose,7,14,Swords Dance,1,10,
-335,zangoose,7,43,Leer,1,4,
-335,zangoose,7,98,Quick Attack,1,7,
-335,zangoose,7,163,Slash,1,19,
-335,zangoose,7,197,Detect,1,46,
-335,zangoose,7,206,False Swipe,1,55,
-335,zangoose,7,210,Fury Cutter,1,13,
-335,zangoose,7,228,Pursuit,1,25,
-335,zangoose,7,269,Taunt,1,37,
-335,zangoose,7,306,Crush Claw,1,31,
-335,zangoose,8,10,Scratch,1,1,1
-335,zangoose,8,14,Swords Dance,1,9,
-335,zangoose,8,43,Leer,1,1,2
-335,zangoose,8,98,Quick Attack,1,5,
-335,zangoose,8,163,Slash,1,18,
-335,zangoose,8,197,Detect,1,40,
-335,zangoose,8,206,False Swipe,1,44,
-335,zangoose,8,210,Fury Cutter,1,14,
-335,zangoose,8,228,Pursuit,1,22,
-335,zangoose,8,269,Taunt,1,35,
-335,zangoose,8,306,Crush Claw,1,31,
-335,zangoose,8,370,Close Combat,1,53,
-335,zangoose,8,373,Embargo,1,27,
-335,zangoose,8,404,X-Scissor,1,48,
-335,zangoose,9,10,Scratch,1,1,1
-335,zangoose,9,14,Swords Dance,1,9,
-335,zangoose,9,43,Leer,1,1,2
-335,zangoose,9,98,Quick Attack,1,5,
-335,zangoose,9,163,Slash,1,18,
-335,zangoose,9,197,Detect,1,40,
-335,zangoose,9,206,False Swipe,1,44,
-335,zangoose,9,210,Fury Cutter,1,14,
-335,zangoose,9,228,Pursuit,1,22,
-335,zangoose,9,269,Taunt,1,35,
-335,zangoose,9,306,Crush Claw,1,31,
-335,zangoose,9,370,Close Combat,1,53,
-335,zangoose,9,373,Embargo,1,27,
-335,zangoose,9,404,X-Scissor,1,48,
-335,zangoose,10,10,Scratch,1,1,1
-335,zangoose,10,14,Swords Dance,1,9,
-335,zangoose,10,43,Leer,1,1,2
-335,zangoose,10,98,Quick Attack,1,5,
-335,zangoose,10,163,Slash,1,18,
-335,zangoose,10,197,Detect,1,40,
-335,zangoose,10,206,False Swipe,1,44,
-335,zangoose,10,210,Fury Cutter,1,14,
-335,zangoose,10,228,Pursuit,1,22,
-335,zangoose,10,269,Taunt,1,35,
-335,zangoose,10,306,Crush Claw,1,31,
-335,zangoose,10,370,Close Combat,1,53,
-335,zangoose,10,373,Embargo,1,27,
-335,zangoose,10,404,X-Scissor,1,48,
-335,zangoose,11,10,Scratch,1,1,1
-335,zangoose,11,14,Swords Dance,1,9,
-335,zangoose,11,43,Leer,1,1,2
-335,zangoose,11,98,Quick Attack,1,5,
-335,zangoose,11,163,Slash,1,18,
-335,zangoose,11,197,Detect,1,40,
-335,zangoose,11,206,False Swipe,1,44,
-335,zangoose,11,210,Fury Cutter,1,14,
-335,zangoose,11,228,Pursuit,1,22,
-335,zangoose,11,269,Taunt,1,35,
-335,zangoose,11,306,Crush Claw,1,31,
-335,zangoose,11,370,Close Combat,1,53,
-335,zangoose,11,373,Embargo,1,27,
-335,zangoose,11,404,X-Scissor,1,48,
-335,zangoose,12,10,Scratch,1,1,
-335,zangoose,12,14,Swords Dance,1,10,
-335,zangoose,12,43,Leer,1,4,
-335,zangoose,12,98,Quick Attack,1,7,
-335,zangoose,12,163,Slash,1,19,
-335,zangoose,12,197,Detect,1,46,
-335,zangoose,12,206,False Swipe,1,55,
-335,zangoose,12,210,Fury Cutter,1,13,
-335,zangoose,12,228,Pursuit,1,25,
-335,zangoose,12,269,Taunt,1,37,
-335,zangoose,12,306,Crush Claw,1,31,
-335,zangoose,13,10,Scratch,1,1,
-335,zangoose,13,14,Swords Dance,1,10,
-335,zangoose,13,43,Leer,1,4,
-335,zangoose,13,98,Quick Attack,1,7,
-335,zangoose,13,163,Slash,1,19,
-335,zangoose,13,197,Detect,1,46,
-335,zangoose,13,206,False Swipe,1,55,
-335,zangoose,13,210,Fury Cutter,1,13,
-335,zangoose,13,228,Pursuit,1,25,
-335,zangoose,13,269,Taunt,1,37,
-335,zangoose,13,306,Crush Claw,1,31,
-335,zangoose,14,10,Scratch,1,1,1
-335,zangoose,14,14,Swords Dance,1,43,
-335,zangoose,14,43,Leer,1,1,2
-335,zangoose,14,98,Quick Attack,1,5,
-335,zangoose,14,163,Slash,1,15,
-335,zangoose,14,197,Detect,1,33,
-335,zangoose,14,206,False Swipe,1,29,
-335,zangoose,14,210,Fury Cutter,1,8,
-335,zangoose,14,228,Pursuit,1,12,
-335,zangoose,14,269,Taunt,1,40,
-335,zangoose,14,279,Revenge,1,26,
-335,zangoose,14,306,Crush Claw,1,22,
-335,zangoose,14,370,Close Combat,1,47,
-335,zangoose,14,373,Embargo,1,19,
-335,zangoose,14,404,X-Scissor,1,36,
-335,zangoose,15,10,Scratch,1,1,1
-335,zangoose,15,14,Swords Dance,1,43,
-335,zangoose,15,43,Leer,1,1,2
-335,zangoose,15,98,Quick Attack,1,5,
-335,zangoose,15,163,Slash,1,15,
-335,zangoose,15,197,Detect,1,33,
-335,zangoose,15,206,False Swipe,1,29,
-335,zangoose,15,210,Fury Cutter,1,8,
-335,zangoose,15,228,Pursuit,1,12,
-335,zangoose,15,269,Taunt,1,40,
-335,zangoose,15,279,Revenge,1,26,
-335,zangoose,15,306,Crush Claw,1,22,
-335,zangoose,15,370,Close Combat,1,47,
-335,zangoose,15,373,Embargo,1,19,
-335,zangoose,15,404,X-Scissor,1,36,
-335,zangoose,16,10,Scratch,1,1,1
-335,zangoose,16,14,Swords Dance,1,47,1
-335,zangoose,16,43,Leer,1,1,2
-335,zangoose,16,98,Quick Attack,1,5,1
-335,zangoose,16,163,Slash,1,19,1
-335,zangoose,16,197,Detect,1,36,1
-335,zangoose,16,206,False Swipe,1,29,1
-335,zangoose,16,210,Fury Cutter,1,8,1
-335,zangoose,16,228,Pursuit,1,12,1
-335,zangoose,16,269,Taunt,1,43,1
-335,zangoose,16,279,Revenge,1,22,1
-335,zangoose,16,306,Crush Claw,1,26,1
-335,zangoose,16,370,Close Combat,1,50,1
-335,zangoose,16,373,Embargo,1,33,1
-335,zangoose,16,404,X-Scissor,1,40,1
-335,zangoose,16,468,Hone Claws,1,15,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+335,5,Scratch,1,normal,40,100
+335,6,Scratch,1,normal,40,100
+335,7,Scratch,1,normal,40,100
+335,8,Scratch,1,normal,40,100
+335,8,Leer,1,normal,-,100
+335,9,Scratch,1,normal,40,100
+335,9,Leer,1,normal,-,100
+335,10,Scratch,1,normal,40,100
+335,10,Leer,1,normal,-,100
+335,11,Scratch,1,normal,40,100
+335,11,Leer,1,normal,-,100
+335,12,Scratch,1,normal,40,100
+335,13,Scratch,1,normal,40,100
+335,14,Scratch,1,normal,40,100
+335,14,Leer,1,normal,-,100
+335,15,Scratch,1,normal,40,100
+335,15,Leer,1,normal,-,100
+335,16,Scratch,1,normal,40,100
+335,16,Leer,1,normal,-,100
+335,5,Leer,4,normal,-,100
+335,6,Leer,4,normal,-,100
+335,7,Leer,4,normal,-,100
+335,12,Leer,4,normal,-,100
+335,13,Leer,4,normal,-,100
+335,8,Quick Attack,5,normal,40,100
+335,9,Quick Attack,5,normal,40,100
+335,10,Quick Attack,5,normal,40,100
+335,11,Quick Attack,5,normal,40,100
+335,14,Quick Attack,5,normal,40,100
+335,15,Quick Attack,5,normal,40,100
+335,16,Quick Attack,5,normal,40,100
+335,5,Quick Attack,7,normal,40,100
+335,6,Quick Attack,7,normal,40,100
+335,7,Quick Attack,7,normal,40,100
+335,12,Quick Attack,7,normal,40,100
+335,13,Quick Attack,7,normal,40,100
+335,14,Fury Cutter,8,bug,40,95
+335,15,Fury Cutter,8,bug,40,95
+335,16,Fury Cutter,8,bug,40,95
+335,8,Swords Dance,9,normal,-,-
+335,9,Swords Dance,9,normal,-,-
+335,10,Swords Dance,9,normal,-,-
+335,11,Swords Dance,9,normal,-,-
+335,5,Swords Dance,10,normal,-,-
+335,6,Swords Dance,10,normal,-,-
+335,7,Swords Dance,10,normal,-,-
+335,12,Swords Dance,10,normal,-,-
+335,13,Swords Dance,10,normal,-,-
+335,14,Pursuit,12,dark,40,100
+335,15,Pursuit,12,dark,40,100
+335,16,Pursuit,12,dark,40,100
+335,5,Fury Cutter,13,bug,40,95
+335,6,Fury Cutter,13,bug,40,95
+335,7,Fury Cutter,13,bug,40,95
+335,12,Fury Cutter,13,bug,40,95
+335,13,Fury Cutter,13,bug,40,95
+335,8,Fury Cutter,14,bug,40,95
+335,9,Fury Cutter,14,bug,40,95
+335,10,Fury Cutter,14,bug,40,95
+335,11,Fury Cutter,14,bug,40,95
+335,14,Slash,15,normal,70,100
+335,15,Slash,15,normal,70,100
+335,16,Hone Claws,15,dark,-,-
+335,8,Slash,18,normal,70,100
+335,9,Slash,18,normal,70,100
+335,10,Slash,18,normal,70,100
+335,11,Slash,18,normal,70,100
+335,5,Slash,19,normal,70,100
+335,6,Slash,19,normal,70,100
+335,7,Slash,19,normal,70,100
+335,12,Slash,19,normal,70,100
+335,13,Slash,19,normal,70,100
+335,14,Embargo,19,dark,-,100
+335,15,Embargo,19,dark,-,100
+335,16,Slash,19,normal,70,100
+335,8,Pursuit,22,dark,40,100
+335,9,Pursuit,22,dark,40,100
+335,10,Pursuit,22,dark,40,100
+335,11,Pursuit,22,dark,40,100
+335,14,Crush Claw,22,normal,75,95
+335,15,Crush Claw,22,normal,75,95
+335,16,Revenge,22,fighting,60,100
+335,5,Pursuit,25,dark,40,100
+335,6,Pursuit,25,dark,40,100
+335,7,Pursuit,25,dark,40,100
+335,12,Pursuit,25,dark,40,100
+335,13,Pursuit,25,dark,40,100
+335,14,Revenge,26,fighting,60,100
+335,15,Revenge,26,fighting,60,100
+335,16,Crush Claw,26,normal,75,95
+335,8,Embargo,27,dark,-,100
+335,9,Embargo,27,dark,-,100
+335,10,Embargo,27,dark,-,100
+335,11,Embargo,27,dark,-,100
+335,14,False Swipe,29,normal,40,100
+335,15,False Swipe,29,normal,40,100
+335,16,False Swipe,29,normal,40,100
+335,5,Crush Claw,31,normal,75,95
+335,6,Crush Claw,31,normal,75,95
+335,7,Crush Claw,31,normal,75,95
+335,8,Crush Claw,31,normal,75,95
+335,9,Crush Claw,31,normal,75,95
+335,10,Crush Claw,31,normal,75,95
+335,11,Crush Claw,31,normal,75,95
+335,12,Crush Claw,31,normal,75,95
+335,13,Crush Claw,31,normal,75,95
+335,14,Detect,33,fighting,-,-
+335,15,Detect,33,fighting,-,-
+335,16,Embargo,33,dark,-,100
+335,8,Taunt,35,dark,-,100
+335,9,Taunt,35,dark,-,100
+335,10,Taunt,35,dark,-,100
+335,11,Taunt,35,dark,-,100
+335,14,X-Scissor,36,bug,80,100
+335,15,X-Scissor,36,bug,80,100
+335,16,Detect,36,fighting,-,-
+335,5,Taunt,37,dark,-,100
+335,6,Taunt,37,dark,-,100
+335,7,Taunt,37,dark,-,100
+335,12,Taunt,37,dark,-,100
+335,13,Taunt,37,dark,-,100
+335,8,Detect,40,fighting,-,-
+335,9,Detect,40,fighting,-,-
+335,10,Detect,40,fighting,-,-
+335,11,Detect,40,fighting,-,-
+335,14,Taunt,40,dark,-,100
+335,15,Taunt,40,dark,-,100
+335,16,X-Scissor,40,bug,80,100
+335,14,Swords Dance,43,normal,-,-
+335,15,Swords Dance,43,normal,-,-
+335,16,Taunt,43,dark,-,100
+335,8,False Swipe,44,normal,40,100
+335,9,False Swipe,44,normal,40,100
+335,10,False Swipe,44,normal,40,100
+335,11,False Swipe,44,normal,40,100
+335,5,Detect,46,fighting,-,-
+335,6,Detect,46,fighting,-,-
+335,7,Detect,46,fighting,-,-
+335,12,Detect,46,fighting,-,-
+335,13,Detect,46,fighting,-,-
+335,14,Close Combat,47,fighting,120,100
+335,15,Close Combat,47,fighting,120,100
+335,16,Swords Dance,47,normal,-,-
+335,8,X-Scissor,48,bug,80,100
+335,9,X-Scissor,48,bug,80,100
+335,10,X-Scissor,48,bug,80,100
+335,11,X-Scissor,48,bug,80,100
+335,16,Close Combat,50,fighting,120,100
+335,8,Close Combat,53,fighting,120,100
+335,9,Close Combat,53,fighting,120,100
+335,10,Close Combat,53,fighting,120,100
+335,11,Close Combat,53,fighting,120,100
+335,5,False Swipe,55,normal,40,100
+335,6,False Swipe,55,normal,40,100
+335,7,False Swipe,55,normal,40,100
+335,12,False Swipe,55,normal,40,100
+335,13,False Swipe,55,normal,40,100

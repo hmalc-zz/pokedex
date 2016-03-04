@@ -1,192 +1,192 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-44,gloom,1,51,Acid,1,28,
-44,gloom,1,71,Absorb,1,1,1
-44,gloom,1,76,Solar Beam,1,52,
-44,gloom,1,77,Poison Powder,1,1,2
-44,gloom,1,77,Poison Powder,1,15,
-44,gloom,1,78,Stun Spore,1,1,3
-44,gloom,1,78,Stun Spore,1,17,
-44,gloom,1,79,Sleep Powder,1,19,
-44,gloom,1,80,Petal Dance,1,38,
-44,gloom,2,51,Acid,1,28,
-44,gloom,2,71,Absorb,1,1,1
-44,gloom,2,76,Solar Beam,1,52,
-44,gloom,2,77,Poison Powder,1,1,2
-44,gloom,2,77,Poison Powder,1,15,
-44,gloom,2,78,Stun Spore,1,1,3
-44,gloom,2,78,Stun Spore,1,17,
-44,gloom,2,79,Sleep Powder,1,19,
-44,gloom,2,80,Petal Dance,1,38,
-44,gloom,3,51,Acid,1,24,
-44,gloom,3,71,Absorb,1,1,1
-44,gloom,3,77,Poison Powder,1,1,3
-44,gloom,3,77,Poison Powder,1,14,
-44,gloom,3,78,Stun Spore,1,16,
-44,gloom,3,79,Sleep Powder,1,18,
-44,gloom,3,80,Petal Dance,1,44,
-44,gloom,3,230,Sweet Scent,1,1,2
-44,gloom,3,230,Sweet Scent,1,7,
-44,gloom,3,236,Moonlight,1,35,
-44,gloom,4,51,Acid,1,24,
-44,gloom,4,71,Absorb,1,1,1
-44,gloom,4,77,Poison Powder,1,1,3
-44,gloom,4,77,Poison Powder,1,14,
-44,gloom,4,78,Stun Spore,1,16,
-44,gloom,4,79,Sleep Powder,1,18,
-44,gloom,4,80,Petal Dance,1,44,
-44,gloom,4,230,Sweet Scent,1,1,2
-44,gloom,4,230,Sweet Scent,1,7,
-44,gloom,4,236,Moonlight,1,35,
-44,gloom,5,51,Acid,1,24,
-44,gloom,5,71,Absorb,1,1,1
-44,gloom,5,77,Poison Powder,1,1,3
-44,gloom,5,77,Poison Powder,1,14,
-44,gloom,5,78,Stun Spore,1,16,
-44,gloom,5,79,Sleep Powder,1,18,
-44,gloom,5,80,Petal Dance,1,44,
-44,gloom,5,230,Sweet Scent,1,1,2
-44,gloom,5,230,Sweet Scent,1,7,
-44,gloom,5,236,Moonlight,1,35,
-44,gloom,6,51,Acid,1,24,
-44,gloom,6,71,Absorb,1,1,1
-44,gloom,6,77,Poison Powder,1,1,3
-44,gloom,6,77,Poison Powder,1,14,
-44,gloom,6,78,Stun Spore,1,16,
-44,gloom,6,79,Sleep Powder,1,18,
-44,gloom,6,80,Petal Dance,1,44,
-44,gloom,6,230,Sweet Scent,1,1,2
-44,gloom,6,230,Sweet Scent,1,7,
-44,gloom,6,236,Moonlight,1,35,
-44,gloom,7,51,Acid,1,24,
-44,gloom,7,71,Absorb,1,1,1
-44,gloom,7,77,Poison Powder,1,1,3
-44,gloom,7,77,Poison Powder,1,14,
-44,gloom,7,78,Stun Spore,1,16,
-44,gloom,7,79,Sleep Powder,1,18,
-44,gloom,7,80,Petal Dance,1,44,
-44,gloom,7,230,Sweet Scent,1,1,2
-44,gloom,7,230,Sweet Scent,1,7,
-44,gloom,7,236,Moonlight,1,35,
-44,gloom,8,51,Acid,1,1,3
-44,gloom,8,51,Acid,1,9,
-44,gloom,8,71,Absorb,1,1,1
-44,gloom,8,72,Mega Drain,1,23,
-44,gloom,8,77,Poison Powder,1,13,
-44,gloom,8,78,Stun Spore,1,15,
-44,gloom,8,79,Sleep Powder,1,17,
-44,gloom,8,80,Petal Dance,1,53,
-44,gloom,8,202,Giga Drain,1,47,
-44,gloom,8,230,Sweet Scent,1,1,2
-44,gloom,8,230,Sweet Scent,1,5,
-44,gloom,8,236,Moonlight,1,41,
-44,gloom,8,363,Natural Gift,1,35,
-44,gloom,8,381,Lucky Chant,1,29,
-44,gloom,9,51,Acid,1,1,3
-44,gloom,9,51,Acid,1,9,
-44,gloom,9,71,Absorb,1,1,1
-44,gloom,9,72,Mega Drain,1,23,
-44,gloom,9,77,Poison Powder,1,13,
-44,gloom,9,78,Stun Spore,1,15,
-44,gloom,9,79,Sleep Powder,1,17,
-44,gloom,9,80,Petal Dance,1,53,
-44,gloom,9,202,Giga Drain,1,47,
-44,gloom,9,230,Sweet Scent,1,1,2
-44,gloom,9,230,Sweet Scent,1,5,
-44,gloom,9,236,Moonlight,1,41,
-44,gloom,9,363,Natural Gift,1,35,
-44,gloom,9,381,Lucky Chant,1,29,
-44,gloom,10,51,Acid,1,1,3
-44,gloom,10,51,Acid,1,9,
-44,gloom,10,71,Absorb,1,1,1
-44,gloom,10,72,Mega Drain,1,23,
-44,gloom,10,77,Poison Powder,1,13,
-44,gloom,10,78,Stun Spore,1,15,
-44,gloom,10,79,Sleep Powder,1,17,
-44,gloom,10,80,Petal Dance,1,53,
-44,gloom,10,202,Giga Drain,1,47,
-44,gloom,10,230,Sweet Scent,1,1,2
-44,gloom,10,230,Sweet Scent,1,5,
-44,gloom,10,236,Moonlight,1,41,
-44,gloom,10,363,Natural Gift,1,35,
-44,gloom,10,381,Lucky Chant,1,29,
-44,gloom,11,51,Acid,1,1,3
-44,gloom,11,51,Acid,1,9,
-44,gloom,11,71,Absorb,1,1,1
-44,gloom,11,72,Mega Drain,1,23,
-44,gloom,11,77,Poison Powder,1,13,
-44,gloom,11,78,Stun Spore,1,15,
-44,gloom,11,79,Sleep Powder,1,17,
-44,gloom,11,80,Petal Dance,1,53,
-44,gloom,11,202,Giga Drain,1,47,
-44,gloom,11,230,Sweet Scent,1,1,2
-44,gloom,11,230,Sweet Scent,1,5,
-44,gloom,11,236,Moonlight,1,41,
-44,gloom,11,363,Natural Gift,1,35,
-44,gloom,11,381,Lucky Chant,1,29,
-44,gloom,12,51,Acid,1,24,
-44,gloom,12,71,Absorb,1,1,1
-44,gloom,12,77,Poison Powder,1,1,3
-44,gloom,12,77,Poison Powder,1,14,
-44,gloom,12,78,Stun Spore,1,16,
-44,gloom,12,79,Sleep Powder,1,18,
-44,gloom,12,80,Petal Dance,1,44,
-44,gloom,12,230,Sweet Scent,1,1,2
-44,gloom,12,230,Sweet Scent,1,7,
-44,gloom,12,236,Moonlight,1,35,
-44,gloom,13,51,Acid,1,24,
-44,gloom,13,71,Absorb,1,1,1
-44,gloom,13,77,Poison Powder,1,1,3
-44,gloom,13,77,Poison Powder,1,14,
-44,gloom,13,78,Stun Spore,1,16,
-44,gloom,13,79,Sleep Powder,1,18,
-44,gloom,13,80,Petal Dance,1,44,
-44,gloom,13,230,Sweet Scent,1,1,2
-44,gloom,13,230,Sweet Scent,1,7,
-44,gloom,13,236,Moonlight,1,35,
-44,gloom,14,51,Acid,1,1,3
-44,gloom,14,51,Acid,1,9,
-44,gloom,14,71,Absorb,1,1,1
-44,gloom,14,72,Mega Drain,1,23,
-44,gloom,14,77,Poison Powder,1,13,
-44,gloom,14,78,Stun Spore,1,15,
-44,gloom,14,79,Sleep Powder,1,17,
-44,gloom,14,80,Petal Dance,1,53,
-44,gloom,14,202,Giga Drain,1,47,
-44,gloom,14,230,Sweet Scent,1,1,2
-44,gloom,14,230,Sweet Scent,1,5,
-44,gloom,14,236,Moonlight,1,41,
-44,gloom,14,363,Natural Gift,1,35,
-44,gloom,14,381,Lucky Chant,1,29,
-44,gloom,15,51,Acid,1,1,3
-44,gloom,15,51,Acid,1,9,
-44,gloom,15,71,Absorb,1,1,1
-44,gloom,15,72,Mega Drain,1,23,
-44,gloom,15,77,Poison Powder,1,13,
-44,gloom,15,78,Stun Spore,1,15,
-44,gloom,15,79,Sleep Powder,1,17,
-44,gloom,15,80,Petal Dance,1,53,
-44,gloom,15,202,Giga Drain,1,47,
-44,gloom,15,230,Sweet Scent,1,1,2
-44,gloom,15,230,Sweet Scent,1,5,
-44,gloom,15,236,Moonlight,1,41,
-44,gloom,15,363,Natural Gift,1,35,
-44,gloom,15,381,Lucky Chant,1,29,
-44,gloom,15,572,Petal Blizzard,1,50,
-44,gloom,15,580,Grassy Terrain,1,56,
-44,gloom,16,51,Acid,1,1,3
-44,gloom,16,51,Acid,1,9,1
-44,gloom,16,71,Absorb,1,1,1
-44,gloom,16,72,Mega Drain,1,19,1
-44,gloom,16,77,Poison Powder,1,13,1
-44,gloom,16,78,Stun Spore,1,14,1
-44,gloom,16,79,Sleep Powder,1,15,1
-44,gloom,16,80,Petal Dance,1,59,1
-44,gloom,16,92,Toxic,1,39,1
-44,gloom,16,202,Giga Drain,1,34,1
-44,gloom,16,230,Sweet Scent,1,1,2
-44,gloom,16,230,Sweet Scent,1,5,1
-44,gloom,16,236,Moonlight,1,29,1
-44,gloom,16,363,Natural Gift,1,44,1
-44,gloom,16,381,Lucky Chant,1,24,1
-44,gloom,16,572,Petal Blizzard,1,49,1
-44,gloom,16,580,Grassy Terrain,1,54,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+44,1,Absorb,1,grass,20,100
+44,1,Poison Powder,1,poison,-,75
+44,1,Stun Spore,1,grass,-,75
+44,2,Absorb,1,grass,20,100
+44,2,Poison Powder,1,poison,-,75
+44,2,Stun Spore,1,grass,-,75
+44,3,Absorb,1,grass,20,100
+44,3,Poison Powder,1,poison,-,75
+44,3,Sweet Scent,1,normal,-,100
+44,4,Absorb,1,grass,20,100
+44,4,Poison Powder,1,poison,-,75
+44,4,Sweet Scent,1,normal,-,100
+44,5,Absorb,1,grass,20,100
+44,5,Poison Powder,1,poison,-,75
+44,5,Sweet Scent,1,normal,-,100
+44,6,Absorb,1,grass,20,100
+44,6,Poison Powder,1,poison,-,75
+44,6,Sweet Scent,1,normal,-,100
+44,7,Absorb,1,grass,20,100
+44,7,Poison Powder,1,poison,-,75
+44,7,Sweet Scent,1,normal,-,100
+44,8,Acid,1,poison,40,100
+44,8,Absorb,1,grass,20,100
+44,8,Sweet Scent,1,normal,-,100
+44,9,Acid,1,poison,40,100
+44,9,Absorb,1,grass,20,100
+44,9,Sweet Scent,1,normal,-,100
+44,10,Acid,1,poison,40,100
+44,10,Absorb,1,grass,20,100
+44,10,Sweet Scent,1,normal,-,100
+44,11,Acid,1,poison,40,100
+44,11,Absorb,1,grass,20,100
+44,11,Sweet Scent,1,normal,-,100
+44,12,Absorb,1,grass,20,100
+44,12,Poison Powder,1,poison,-,75
+44,12,Sweet Scent,1,normal,-,100
+44,13,Absorb,1,grass,20,100
+44,13,Poison Powder,1,poison,-,75
+44,13,Sweet Scent,1,normal,-,100
+44,14,Acid,1,poison,40,100
+44,14,Absorb,1,grass,20,100
+44,14,Sweet Scent,1,normal,-,100
+44,15,Acid,1,poison,40,100
+44,15,Absorb,1,grass,20,100
+44,15,Sweet Scent,1,normal,-,100
+44,16,Acid,1,poison,40,100
+44,16,Absorb,1,grass,20,100
+44,16,Sweet Scent,1,normal,-,100
+44,8,Sweet Scent,5,normal,-,100
+44,9,Sweet Scent,5,normal,-,100
+44,10,Sweet Scent,5,normal,-,100
+44,11,Sweet Scent,5,normal,-,100
+44,14,Sweet Scent,5,normal,-,100
+44,15,Sweet Scent,5,normal,-,100
+44,16,Sweet Scent,5,normal,-,100
+44,3,Sweet Scent,7,normal,-,100
+44,4,Sweet Scent,7,normal,-,100
+44,5,Sweet Scent,7,normal,-,100
+44,6,Sweet Scent,7,normal,-,100
+44,7,Sweet Scent,7,normal,-,100
+44,12,Sweet Scent,7,normal,-,100
+44,13,Sweet Scent,7,normal,-,100
+44,8,Acid,9,poison,40,100
+44,9,Acid,9,poison,40,100
+44,10,Acid,9,poison,40,100
+44,11,Acid,9,poison,40,100
+44,14,Acid,9,poison,40,100
+44,15,Acid,9,poison,40,100
+44,16,Acid,9,poison,40,100
+44,8,Poison Powder,13,poison,-,75
+44,9,Poison Powder,13,poison,-,75
+44,10,Poison Powder,13,poison,-,75
+44,11,Poison Powder,13,poison,-,75
+44,14,Poison Powder,13,poison,-,75
+44,15,Poison Powder,13,poison,-,75
+44,16,Poison Powder,13,poison,-,75
+44,3,Poison Powder,14,poison,-,75
+44,4,Poison Powder,14,poison,-,75
+44,5,Poison Powder,14,poison,-,75
+44,6,Poison Powder,14,poison,-,75
+44,7,Poison Powder,14,poison,-,75
+44,12,Poison Powder,14,poison,-,75
+44,13,Poison Powder,14,poison,-,75
+44,16,Stun Spore,14,grass,-,75
+44,1,Poison Powder,15,poison,-,75
+44,2,Poison Powder,15,poison,-,75
+44,8,Stun Spore,15,grass,-,75
+44,9,Stun Spore,15,grass,-,75
+44,10,Stun Spore,15,grass,-,75
+44,11,Stun Spore,15,grass,-,75
+44,14,Stun Spore,15,grass,-,75
+44,15,Stun Spore,15,grass,-,75
+44,16,Sleep Powder,15,grass,-,75
+44,3,Stun Spore,16,grass,-,75
+44,4,Stun Spore,16,grass,-,75
+44,5,Stun Spore,16,grass,-,75
+44,6,Stun Spore,16,grass,-,75
+44,7,Stun Spore,16,grass,-,75
+44,12,Stun Spore,16,grass,-,75
+44,13,Stun Spore,16,grass,-,75
+44,1,Stun Spore,17,grass,-,75
+44,2,Stun Spore,17,grass,-,75
+44,8,Sleep Powder,17,grass,-,75
+44,9,Sleep Powder,17,grass,-,75
+44,10,Sleep Powder,17,grass,-,75
+44,11,Sleep Powder,17,grass,-,75
+44,14,Sleep Powder,17,grass,-,75
+44,15,Sleep Powder,17,grass,-,75
+44,3,Sleep Powder,18,grass,-,75
+44,4,Sleep Powder,18,grass,-,75
+44,5,Sleep Powder,18,grass,-,75
+44,6,Sleep Powder,18,grass,-,75
+44,7,Sleep Powder,18,grass,-,75
+44,12,Sleep Powder,18,grass,-,75
+44,13,Sleep Powder,18,grass,-,75
+44,1,Sleep Powder,19,grass,-,75
+44,2,Sleep Powder,19,grass,-,75
+44,16,Mega Drain,19,grass,40,100
+44,8,Mega Drain,23,grass,40,100
+44,9,Mega Drain,23,grass,40,100
+44,10,Mega Drain,23,grass,40,100
+44,11,Mega Drain,23,grass,40,100
+44,14,Mega Drain,23,grass,40,100
+44,15,Mega Drain,23,grass,40,100
+44,3,Acid,24,poison,40,100
+44,4,Acid,24,poison,40,100
+44,5,Acid,24,poison,40,100
+44,6,Acid,24,poison,40,100
+44,7,Acid,24,poison,40,100
+44,12,Acid,24,poison,40,100
+44,13,Acid,24,poison,40,100
+44,16,Lucky Chant,24,normal,-,-
+44,1,Acid,28,poison,40,100
+44,2,Acid,28,poison,40,100
+44,8,Lucky Chant,29,normal,-,-
+44,9,Lucky Chant,29,normal,-,-
+44,10,Lucky Chant,29,normal,-,-
+44,11,Lucky Chant,29,normal,-,-
+44,14,Lucky Chant,29,normal,-,-
+44,15,Lucky Chant,29,normal,-,-
+44,16,Moonlight,29,fairy,-,-
+44,16,Giga Drain,34,grass,75,100
+44,3,Moonlight,35,fairy,-,-
+44,4,Moonlight,35,fairy,-,-
+44,5,Moonlight,35,fairy,-,-
+44,6,Moonlight,35,fairy,-,-
+44,7,Moonlight,35,fairy,-,-
+44,8,Natural Gift,35,normal,-,100
+44,9,Natural Gift,35,normal,-,100
+44,10,Natural Gift,35,normal,-,100
+44,11,Natural Gift,35,normal,-,100
+44,12,Moonlight,35,fairy,-,-
+44,13,Moonlight,35,fairy,-,-
+44,14,Natural Gift,35,normal,-,100
+44,15,Natural Gift,35,normal,-,100
+44,1,Petal Dance,38,grass,120,100
+44,2,Petal Dance,38,grass,120,100
+44,16,Toxic,39,poison,-,90
+44,8,Moonlight,41,fairy,-,-
+44,9,Moonlight,41,fairy,-,-
+44,10,Moonlight,41,fairy,-,-
+44,11,Moonlight,41,fairy,-,-
+44,14,Moonlight,41,fairy,-,-
+44,15,Moonlight,41,fairy,-,-
+44,3,Petal Dance,44,grass,120,100
+44,4,Petal Dance,44,grass,120,100
+44,5,Petal Dance,44,grass,120,100
+44,6,Petal Dance,44,grass,120,100
+44,7,Petal Dance,44,grass,120,100
+44,12,Petal Dance,44,grass,120,100
+44,13,Petal Dance,44,grass,120,100
+44,16,Natural Gift,44,normal,-,100
+44,8,Giga Drain,47,grass,75,100
+44,9,Giga Drain,47,grass,75,100
+44,10,Giga Drain,47,grass,75,100
+44,11,Giga Drain,47,grass,75,100
+44,14,Giga Drain,47,grass,75,100
+44,15,Giga Drain,47,grass,75,100
+44,16,Petal Blizzard,49,grass,90,100
+44,15,Petal Blizzard,50,grass,90,100
+44,1,Solar Beam,52,grass,120,100
+44,2,Solar Beam,52,grass,120,100
+44,8,Petal Dance,53,grass,120,100
+44,9,Petal Dance,53,grass,120,100
+44,10,Petal Dance,53,grass,120,100
+44,11,Petal Dance,53,grass,120,100
+44,14,Petal Dance,53,grass,120,100
+44,15,Petal Dance,53,grass,120,100
+44,16,Grassy Terrain,54,grass,-,-
+44,15,Grassy Terrain,56,grass,-,-
+44,16,Petal Dance,59,grass,120,100

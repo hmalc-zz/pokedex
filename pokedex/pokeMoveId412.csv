@@ -1,28 +1,28 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-412,burmy,8,33,Tackle,1,10,
-412,burmy,8,182,Protect,1,1,
-412,burmy,8,237,Hidden Power,1,20,
-412,burmy,9,33,Tackle,1,10,
-412,burmy,9,182,Protect,1,1,
-412,burmy,9,237,Hidden Power,1,20,
-412,burmy,9,450,Bug Bite,1,15,
-412,burmy,10,33,Tackle,1,10,
-412,burmy,10,182,Protect,1,1,
-412,burmy,10,237,Hidden Power,1,20,
-412,burmy,10,450,Bug Bite,1,15,
-412,burmy,11,33,Tackle,1,10,
-412,burmy,11,182,Protect,1,1,
-412,burmy,11,237,Hidden Power,1,20,
-412,burmy,11,450,Bug Bite,1,15,
-412,burmy,14,33,Tackle,1,10,
-412,burmy,14,182,Protect,1,1,
-412,burmy,14,237,Hidden Power,1,20,
-412,burmy,14,450,Bug Bite,1,15,
-412,burmy,15,33,Tackle,1,10,
-412,burmy,15,182,Protect,1,1,
-412,burmy,15,237,Hidden Power,1,20,
-412,burmy,15,450,Bug Bite,1,15,
-412,burmy,16,33,Tackle,1,10,1
-412,burmy,16,182,Protect,1,1,1
-412,burmy,16,237,Hidden Power,1,20,1
-412,burmy,16,450,Bug Bite,1,15,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+412,8,Protect,1,normal,-,-
+412,9,Protect,1,normal,-,-
+412,10,Protect,1,normal,-,-
+412,11,Protect,1,normal,-,-
+412,14,Protect,1,normal,-,-
+412,15,Protect,1,normal,-,-
+412,16,Protect,1,normal,-,-
+412,8,Tackle,10,normal,50,100
+412,9,Tackle,10,normal,50,100
+412,10,Tackle,10,normal,50,100
+412,11,Tackle,10,normal,50,100
+412,14,Tackle,10,normal,50,100
+412,15,Tackle,10,normal,50,100
+412,16,Tackle,10,normal,50,100
+412,9,Bug Bite,15,bug,60,100
+412,10,Bug Bite,15,bug,60,100
+412,11,Bug Bite,15,bug,60,100
+412,14,Bug Bite,15,bug,60,100
+412,15,Bug Bite,15,bug,60,100
+412,16,Bug Bite,15,bug,60,100
+412,8,Hidden Power,20,normal,60,100
+412,9,Hidden Power,20,normal,60,100
+412,10,Hidden Power,20,normal,60,100
+412,11,Hidden Power,20,normal,60,100
+412,14,Hidden Power,20,normal,60,100
+412,15,Hidden Power,20,normal,60,100
+412,16,Hidden Power,20,normal,60,100

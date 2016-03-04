@@ -1,95 +1,95 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-488,cresselia,8,54,Mist,1,20,
-488,cresselia,8,62,Aurora Beam,1,29,
-488,cresselia,8,93,Confusion,1,1,1
-488,cresselia,8,94,Psychic,1,93,
-488,cresselia,8,104,Double Team,1,1,2
-488,cresselia,8,163,Slash,1,47,
-488,cresselia,8,219,Safeguard,1,11,
-488,cresselia,8,236,Moonlight,1,57,
-488,cresselia,8,248,Future Sight,1,38,
-488,cresselia,8,375,Psycho Shift,1,75,
-488,cresselia,8,427,Psycho Cut,1,66,
-488,cresselia,8,461,Lunar Dance,1,84,
-488,cresselia,9,54,Mist,1,20,
-488,cresselia,9,62,Aurora Beam,1,29,
-488,cresselia,9,93,Confusion,1,1,1
-488,cresselia,9,94,Psychic,1,93,
-488,cresselia,9,104,Double Team,1,1,2
-488,cresselia,9,163,Slash,1,47,
-488,cresselia,9,219,Safeguard,1,11,
-488,cresselia,9,236,Moonlight,1,57,
-488,cresselia,9,248,Future Sight,1,38,
-488,cresselia,9,375,Psycho Shift,1,75,
-488,cresselia,9,427,Psycho Cut,1,66,
-488,cresselia,9,461,Lunar Dance,1,84,
-488,cresselia,10,54,Mist,1,20,
-488,cresselia,10,62,Aurora Beam,1,29,
-488,cresselia,10,93,Confusion,1,1,1
-488,cresselia,10,94,Psychic,1,93,
-488,cresselia,10,104,Double Team,1,1,2
-488,cresselia,10,163,Slash,1,47,
-488,cresselia,10,219,Safeguard,1,11,
-488,cresselia,10,236,Moonlight,1,57,
-488,cresselia,10,248,Future Sight,1,38,
-488,cresselia,10,375,Psycho Shift,1,75,
-488,cresselia,10,427,Psycho Cut,1,66,
-488,cresselia,10,461,Lunar Dance,1,84,
-488,cresselia,11,54,Mist,1,20,
-488,cresselia,11,62,Aurora Beam,1,29,
-488,cresselia,11,93,Confusion,1,1,1
-488,cresselia,11,94,Psychic,1,93,
-488,cresselia,11,104,Double Team,1,1,2
-488,cresselia,11,163,Slash,1,47,
-488,cresselia,11,219,Safeguard,1,11,
-488,cresselia,11,236,Moonlight,1,57,
-488,cresselia,11,248,Future Sight,1,38,
-488,cresselia,11,375,Psycho Shift,1,75,
-488,cresselia,11,427,Psycho Cut,1,66,
-488,cresselia,11,461,Lunar Dance,1,84,
-488,cresselia,14,54,Mist,1,20,
-488,cresselia,14,62,Aurora Beam,1,29,
-488,cresselia,14,93,Confusion,1,1,1
-488,cresselia,14,94,Psychic,1,93,
-488,cresselia,14,104,Double Team,1,1,2
-488,cresselia,14,163,Slash,1,47,
-488,cresselia,14,219,Safeguard,1,11,
-488,cresselia,14,236,Moonlight,1,57,
-488,cresselia,14,248,Future Sight,1,38,
-488,cresselia,14,375,Psycho Shift,1,75,
-488,cresselia,14,427,Psycho Cut,1,66,
-488,cresselia,14,461,Lunar Dance,1,84,
-488,cresselia,15,54,Mist,1,20,
-488,cresselia,15,62,Aurora Beam,1,29,
-488,cresselia,15,93,Confusion,1,1,5
-488,cresselia,15,94,Psychic,1,93,
-488,cresselia,15,104,Double Team,1,1,6
-488,cresselia,15,163,Slash,1,47,
-488,cresselia,15,219,Safeguard,1,11,
-488,cresselia,15,236,Moonlight,1,1,4
-488,cresselia,15,236,Moonlight,1,57,
-488,cresselia,15,248,Future Sight,1,38,
-488,cresselia,15,375,Psycho Shift,1,1,2
-488,cresselia,15,375,Psycho Shift,1,75,
-488,cresselia,15,427,Psycho Cut,1,1,3
-488,cresselia,15,427,Psycho Cut,1,66,
-488,cresselia,15,461,Lunar Dance,1,1,1
-488,cresselia,15,461,Lunar Dance,1,84,
-488,cresselia,15,585,Moonblast,1,99,
-488,cresselia,16,54,Mist,1,20,1
-488,cresselia,16,62,Aurora Beam,1,29,1
-488,cresselia,16,93,Confusion,1,1,5
-488,cresselia,16,94,Psychic,1,93,1
-488,cresselia,16,104,Double Team,1,1,6
-488,cresselia,16,163,Slash,1,47,1
-488,cresselia,16,219,Safeguard,1,11,1
-488,cresselia,16,236,Moonlight,1,1,4
-488,cresselia,16,236,Moonlight,1,57,1
-488,cresselia,16,248,Future Sight,1,38,1
-488,cresselia,16,375,Psycho Shift,1,1,2
-488,cresselia,16,375,Psycho Shift,1,75,1
-488,cresselia,16,427,Psycho Cut,1,1,3
-488,cresselia,16,427,Psycho Cut,1,66,1
-488,cresselia,16,461,Lunar Dance,1,1,1
-488,cresselia,16,461,Lunar Dance,1,84,1
-488,cresselia,16,585,Moonblast,1,99,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+488,8,Confusion,1,psychic,50,100
+488,8,Double Team,1,normal,-,-
+488,9,Confusion,1,psychic,50,100
+488,9,Double Team,1,normal,-,-
+488,10,Confusion,1,psychic,50,100
+488,10,Double Team,1,normal,-,-
+488,11,Confusion,1,psychic,50,100
+488,11,Double Team,1,normal,-,-
+488,14,Confusion,1,psychic,50,100
+488,14,Double Team,1,normal,-,-
+488,15,Confusion,1,psychic,50,100
+488,15,Double Team,1,normal,-,-
+488,15,Moonlight,1,fairy,-,-
+488,15,Psycho Shift,1,psychic,-,100
+488,15,Psycho Cut,1,psychic,70,100
+488,15,Lunar Dance,1,psychic,-,-
+488,16,Confusion,1,psychic,50,100
+488,16,Double Team,1,normal,-,-
+488,16,Moonlight,1,fairy,-,-
+488,16,Psycho Shift,1,psychic,-,100
+488,16,Psycho Cut,1,psychic,70,100
+488,16,Lunar Dance,1,psychic,-,-
+488,8,Safeguard,11,normal,-,-
+488,9,Safeguard,11,normal,-,-
+488,10,Safeguard,11,normal,-,-
+488,11,Safeguard,11,normal,-,-
+488,14,Safeguard,11,normal,-,-
+488,15,Safeguard,11,normal,-,-
+488,16,Safeguard,11,normal,-,-
+488,8,Mist,20,ice,-,-
+488,9,Mist,20,ice,-,-
+488,10,Mist,20,ice,-,-
+488,11,Mist,20,ice,-,-
+488,14,Mist,20,ice,-,-
+488,15,Mist,20,ice,-,-
+488,16,Mist,20,ice,-,-
+488,8,Aurora Beam,29,ice,65,100
+488,9,Aurora Beam,29,ice,65,100
+488,10,Aurora Beam,29,ice,65,100
+488,11,Aurora Beam,29,ice,65,100
+488,14,Aurora Beam,29,ice,65,100
+488,15,Aurora Beam,29,ice,65,100
+488,16,Aurora Beam,29,ice,65,100
+488,8,Future Sight,38,psychic,120,100
+488,9,Future Sight,38,psychic,120,100
+488,10,Future Sight,38,psychic,120,100
+488,11,Future Sight,38,psychic,120,100
+488,14,Future Sight,38,psychic,120,100
+488,15,Future Sight,38,psychic,120,100
+488,16,Future Sight,38,psychic,120,100
+488,8,Slash,47,normal,70,100
+488,9,Slash,47,normal,70,100
+488,10,Slash,47,normal,70,100
+488,11,Slash,47,normal,70,100
+488,14,Slash,47,normal,70,100
+488,15,Slash,47,normal,70,100
+488,16,Slash,47,normal,70,100
+488,8,Moonlight,57,fairy,-,-
+488,9,Moonlight,57,fairy,-,-
+488,10,Moonlight,57,fairy,-,-
+488,11,Moonlight,57,fairy,-,-
+488,14,Moonlight,57,fairy,-,-
+488,15,Moonlight,57,fairy,-,-
+488,16,Moonlight,57,fairy,-,-
+488,8,Psycho Cut,66,psychic,70,100
+488,9,Psycho Cut,66,psychic,70,100
+488,10,Psycho Cut,66,psychic,70,100
+488,11,Psycho Cut,66,psychic,70,100
+488,14,Psycho Cut,66,psychic,70,100
+488,15,Psycho Cut,66,psychic,70,100
+488,16,Psycho Cut,66,psychic,70,100
+488,8,Psycho Shift,75,psychic,-,100
+488,9,Psycho Shift,75,psychic,-,100
+488,10,Psycho Shift,75,psychic,-,100
+488,11,Psycho Shift,75,psychic,-,100
+488,14,Psycho Shift,75,psychic,-,100
+488,15,Psycho Shift,75,psychic,-,100
+488,16,Psycho Shift,75,psychic,-,100
+488,8,Lunar Dance,84,psychic,-,-
+488,9,Lunar Dance,84,psychic,-,-
+488,10,Lunar Dance,84,psychic,-,-
+488,11,Lunar Dance,84,psychic,-,-
+488,14,Lunar Dance,84,psychic,-,-
+488,15,Lunar Dance,84,psychic,-,-
+488,16,Lunar Dance,84,psychic,-,-
+488,8,Psychic,93,psychic,90,100
+488,9,Psychic,93,psychic,90,100
+488,10,Psychic,93,psychic,90,100
+488,11,Psychic,93,psychic,90,100
+488,14,Psychic,93,psychic,90,100
+488,15,Psychic,93,psychic,90,100
+488,16,Psychic,93,psychic,90,100
+488,15,Moonblast,99,fairy,95,100
+488,16,Moonblast,99,fairy,95,100

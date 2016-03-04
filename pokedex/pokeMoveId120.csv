@@ -1,205 +1,205 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-120,staryu,1,33,Tackle,1,1,
-120,staryu,1,55,Water Gun,1,17,
-120,staryu,1,56,Hydro Pump,1,47,
-120,staryu,1,105,Recover,1,27,
-120,staryu,1,106,Harden,1,22,
-120,staryu,1,107,Minimize,1,37,
-120,staryu,1,113,Light Screen,1,42,
-120,staryu,1,129,Swift,1,32,
-120,staryu,2,33,Tackle,1,1,
-120,staryu,2,55,Water Gun,1,17,
-120,staryu,2,56,Hydro Pump,1,47,
-120,staryu,2,105,Recover,1,27,
-120,staryu,2,106,Harden,1,22,
-120,staryu,2,107,Minimize,1,37,
-120,staryu,2,113,Light Screen,1,42,
-120,staryu,2,129,Swift,1,32,
-120,staryu,3,33,Tackle,1,1,1
-120,staryu,3,55,Water Gun,1,7,
-120,staryu,3,56,Hydro Pump,1,50,
-120,staryu,3,61,Bubble Beam,1,31,
-120,staryu,3,105,Recover,1,19,
-120,staryu,3,106,Harden,1,1,2
-120,staryu,3,107,Minimize,1,37,
-120,staryu,3,113,Light Screen,1,43,
-120,staryu,3,129,Swift,1,25,
-120,staryu,3,229,Rapid Spin,1,13,
-120,staryu,4,33,Tackle,1,1,1
-120,staryu,4,55,Water Gun,1,7,
-120,staryu,4,56,Hydro Pump,1,50,
-120,staryu,4,61,Bubble Beam,1,31,
-120,staryu,4,105,Recover,1,19,
-120,staryu,4,106,Harden,1,1,2
-120,staryu,4,107,Minimize,1,37,
-120,staryu,4,113,Light Screen,1,43,
-120,staryu,4,129,Swift,1,25,
-120,staryu,4,229,Rapid Spin,1,13,
-120,staryu,5,33,Tackle,1,1,1
-120,staryu,5,55,Water Gun,1,6,
-120,staryu,5,56,Hydro Pump,1,46,
-120,staryu,5,61,Bubble Beam,1,28,
-120,staryu,5,105,Recover,1,15,
-120,staryu,5,106,Harden,1,1,2
-120,staryu,5,107,Minimize,1,33,
-120,staryu,5,113,Light Screen,1,37,
-120,staryu,5,129,Swift,1,24,
-120,staryu,5,229,Rapid Spin,1,10,
-120,staryu,5,293,Camouflage,1,19,
-120,staryu,5,322,Cosmic Power,1,42,
-120,staryu,6,33,Tackle,1,1,1
-120,staryu,6,55,Water Gun,1,6,
-120,staryu,6,56,Hydro Pump,1,46,
-120,staryu,6,61,Bubble Beam,1,28,
-120,staryu,6,105,Recover,1,15,
-120,staryu,6,106,Harden,1,1,2
-120,staryu,6,107,Minimize,1,33,
-120,staryu,6,113,Light Screen,1,37,
-120,staryu,6,129,Swift,1,24,
-120,staryu,6,229,Rapid Spin,1,10,
-120,staryu,6,293,Camouflage,1,19,
-120,staryu,6,322,Cosmic Power,1,42,
-120,staryu,7,33,Tackle,1,1,1
-120,staryu,7,55,Water Gun,1,6,
-120,staryu,7,56,Hydro Pump,1,46,
-120,staryu,7,61,Bubble Beam,1,28,
-120,staryu,7,105,Recover,1,15,
-120,staryu,7,106,Harden,1,1,2
-120,staryu,7,107,Minimize,1,33,
-120,staryu,7,113,Light Screen,1,37,
-120,staryu,7,129,Swift,1,24,
-120,staryu,7,229,Rapid Spin,1,10,
-120,staryu,7,293,Camouflage,1,19,
-120,staryu,7,322,Cosmic Power,1,42,
-120,staryu,8,33,Tackle,1,1,1
-120,staryu,8,55,Water Gun,1,6,
-120,staryu,8,56,Hydro Pump,1,55,
-120,staryu,8,61,Bubble Beam,1,28,
-120,staryu,8,105,Recover,1,15,
-120,staryu,8,106,Harden,1,1,2
-120,staryu,8,107,Minimize,1,33,
-120,staryu,8,113,Light Screen,1,42,
-120,staryu,8,129,Swift,1,24,
-120,staryu,8,229,Rapid Spin,1,10,
-120,staryu,8,293,Camouflage,1,19,
-120,staryu,8,322,Cosmic Power,1,51,
-120,staryu,8,360,Gyro Ball,1,37,
-120,staryu,8,408,Power Gem,1,46,
-120,staryu,9,33,Tackle,1,1,1
-120,staryu,9,55,Water Gun,1,6,
-120,staryu,9,56,Hydro Pump,1,55,
-120,staryu,9,61,Bubble Beam,1,28,
-120,staryu,9,105,Recover,1,15,
-120,staryu,9,106,Harden,1,1,2
-120,staryu,9,107,Minimize,1,33,
-120,staryu,9,113,Light Screen,1,42,
-120,staryu,9,129,Swift,1,24,
-120,staryu,9,229,Rapid Spin,1,10,
-120,staryu,9,293,Camouflage,1,19,
-120,staryu,9,322,Cosmic Power,1,51,
-120,staryu,9,360,Gyro Ball,1,37,
-120,staryu,9,408,Power Gem,1,46,
-120,staryu,10,33,Tackle,1,1,1
-120,staryu,10,55,Water Gun,1,6,
-120,staryu,10,56,Hydro Pump,1,55,
-120,staryu,10,61,Bubble Beam,1,28,
-120,staryu,10,105,Recover,1,15,
-120,staryu,10,106,Harden,1,1,2
-120,staryu,10,107,Minimize,1,33,
-120,staryu,10,113,Light Screen,1,42,
-120,staryu,10,129,Swift,1,24,
-120,staryu,10,229,Rapid Spin,1,10,
-120,staryu,10,293,Camouflage,1,19,
-120,staryu,10,322,Cosmic Power,1,51,
-120,staryu,10,360,Gyro Ball,1,37,
-120,staryu,10,408,Power Gem,1,46,
-120,staryu,11,33,Tackle,1,1,1
-120,staryu,11,55,Water Gun,1,6,
-120,staryu,11,56,Hydro Pump,1,60,
-120,staryu,11,61,Bubble Beam,1,28,
-120,staryu,11,105,Recover,1,15,
-120,staryu,11,106,Harden,1,1,2
-120,staryu,11,107,Minimize,1,33,
-120,staryu,11,113,Light Screen,1,42,
-120,staryu,11,129,Swift,1,24,
-120,staryu,11,229,Rapid Spin,1,10,
-120,staryu,11,293,Camouflage,1,19,
-120,staryu,11,322,Cosmic Power,1,55,
-120,staryu,11,360,Gyro Ball,1,37,
-120,staryu,11,408,Power Gem,1,51,
-120,staryu,11,513,Reflect Type,1,46,
-120,staryu,12,33,Tackle,1,1,1
-120,staryu,12,55,Water Gun,1,6,
-120,staryu,12,56,Hydro Pump,1,46,
-120,staryu,12,61,Bubble Beam,1,28,
-120,staryu,12,105,Recover,1,15,
-120,staryu,12,106,Harden,1,1,2
-120,staryu,12,107,Minimize,1,33,
-120,staryu,12,113,Light Screen,1,37,
-120,staryu,12,129,Swift,1,24,
-120,staryu,12,229,Rapid Spin,1,10,
-120,staryu,12,293,Camouflage,1,19,
-120,staryu,12,322,Cosmic Power,1,42,
-120,staryu,13,33,Tackle,1,1,1
-120,staryu,13,55,Water Gun,1,6,
-120,staryu,13,56,Hydro Pump,1,46,
-120,staryu,13,61,Bubble Beam,1,28,
-120,staryu,13,105,Recover,1,15,
-120,staryu,13,106,Harden,1,1,2
-120,staryu,13,107,Minimize,1,33,
-120,staryu,13,113,Light Screen,1,37,
-120,staryu,13,129,Swift,1,24,
-120,staryu,13,229,Rapid Spin,1,10,
-120,staryu,13,293,Camouflage,1,19,
-120,staryu,13,322,Cosmic Power,1,42,
-120,staryu,14,33,Tackle,1,1,1
-120,staryu,14,55,Water Gun,1,6,
-120,staryu,14,56,Hydro Pump,1,52,
-120,staryu,14,61,Bubble Beam,1,22,
-120,staryu,14,105,Recover,1,12,
-120,staryu,14,106,Harden,1,1,2
-120,staryu,14,107,Minimize,1,25,
-120,staryu,14,113,Light Screen,1,33,
-120,staryu,14,129,Swift,1,18,
-120,staryu,14,229,Rapid Spin,1,10,
-120,staryu,14,293,Camouflage,1,15,
-120,staryu,14,322,Cosmic Power,1,48,
-120,staryu,14,360,Gyro Ball,1,30,
-120,staryu,14,362,Brine,1,36,
-120,staryu,14,408,Power Gem,1,43,
-120,staryu,14,513,Reflect Type,1,40,
-120,staryu,15,33,Tackle,1,1,1
-120,staryu,15,55,Water Gun,1,6,
-120,staryu,15,56,Hydro Pump,1,52,
-120,staryu,15,61,Bubble Beam,1,22,
-120,staryu,15,105,Recover,1,12,
-120,staryu,15,106,Harden,1,1,2
-120,staryu,15,107,Minimize,1,25,
-120,staryu,15,113,Light Screen,1,33,
-120,staryu,15,129,Swift,1,18,
-120,staryu,15,229,Rapid Spin,1,10,
-120,staryu,15,293,Camouflage,1,15,
-120,staryu,15,322,Cosmic Power,1,48,
-120,staryu,15,360,Gyro Ball,1,30,
-120,staryu,15,362,Brine,1,36,
-120,staryu,15,408,Power Gem,1,43,
-120,staryu,15,513,Reflect Type,1,40,
-120,staryu,16,33,Tackle,1,1,1
-120,staryu,16,55,Water Gun,1,4,1
-120,staryu,16,56,Hydro Pump,1,53,1
-120,staryu,16,61,Bubble Beam,1,18,1
-120,staryu,16,94,Psychic,1,42,1
-120,staryu,16,105,Recover,1,10,1
-120,staryu,16,106,Harden,1,1,2
-120,staryu,16,107,Minimize,1,31,1
-120,staryu,16,109,Confuse Ray,1,40,1
-120,staryu,16,113,Light Screen,1,46,1
-120,staryu,16,129,Swift,1,16,1
-120,staryu,16,149,Psywave,1,13,1
-120,staryu,16,229,Rapid Spin,1,7,1
-120,staryu,16,293,Camouflage,1,22,1
-120,staryu,16,322,Cosmic Power,1,49,1
-120,staryu,16,360,Gyro Ball,1,24,1
-120,staryu,16,362,Brine,1,28,1
-120,staryu,16,408,Power Gem,1,37,1
-120,staryu,16,513,Reflect Type,1,35,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+120,1,Tackle,1,normal,50,100
+120,2,Tackle,1,normal,50,100
+120,3,Tackle,1,normal,50,100
+120,3,Harden,1,normal,-,-
+120,4,Tackle,1,normal,50,100
+120,4,Harden,1,normal,-,-
+120,5,Tackle,1,normal,50,100
+120,5,Harden,1,normal,-,-
+120,6,Tackle,1,normal,50,100
+120,6,Harden,1,normal,-,-
+120,7,Tackle,1,normal,50,100
+120,7,Harden,1,normal,-,-
+120,8,Tackle,1,normal,50,100
+120,8,Harden,1,normal,-,-
+120,9,Tackle,1,normal,50,100
+120,9,Harden,1,normal,-,-
+120,10,Tackle,1,normal,50,100
+120,10,Harden,1,normal,-,-
+120,11,Tackle,1,normal,50,100
+120,11,Harden,1,normal,-,-
+120,12,Tackle,1,normal,50,100
+120,12,Harden,1,normal,-,-
+120,13,Tackle,1,normal,50,100
+120,13,Harden,1,normal,-,-
+120,14,Tackle,1,normal,50,100
+120,14,Harden,1,normal,-,-
+120,15,Tackle,1,normal,50,100
+120,15,Harden,1,normal,-,-
+120,16,Tackle,1,normal,50,100
+120,16,Harden,1,normal,-,-
+120,16,Water Gun,4,water,40,100
+120,5,Water Gun,6,water,40,100
+120,6,Water Gun,6,water,40,100
+120,7,Water Gun,6,water,40,100
+120,8,Water Gun,6,water,40,100
+120,9,Water Gun,6,water,40,100
+120,10,Water Gun,6,water,40,100
+120,11,Water Gun,6,water,40,100
+120,12,Water Gun,6,water,40,100
+120,13,Water Gun,6,water,40,100
+120,14,Water Gun,6,water,40,100
+120,15,Water Gun,6,water,40,100
+120,3,Water Gun,7,water,40,100
+120,4,Water Gun,7,water,40,100
+120,16,Rapid Spin,7,normal,20,100
+120,5,Rapid Spin,10,normal,20,100
+120,6,Rapid Spin,10,normal,20,100
+120,7,Rapid Spin,10,normal,20,100
+120,8,Rapid Spin,10,normal,20,100
+120,9,Rapid Spin,10,normal,20,100
+120,10,Rapid Spin,10,normal,20,100
+120,11,Rapid Spin,10,normal,20,100
+120,12,Rapid Spin,10,normal,20,100
+120,13,Rapid Spin,10,normal,20,100
+120,14,Rapid Spin,10,normal,20,100
+120,15,Rapid Spin,10,normal,20,100
+120,16,Recover,10,normal,-,-
+120,14,Recover,12,normal,-,-
+120,15,Recover,12,normal,-,-
+120,3,Rapid Spin,13,normal,20,100
+120,4,Rapid Spin,13,normal,20,100
+120,16,Psywave,13,psychic,-,100
+120,5,Recover,15,normal,-,-
+120,6,Recover,15,normal,-,-
+120,7,Recover,15,normal,-,-
+120,8,Recover,15,normal,-,-
+120,9,Recover,15,normal,-,-
+120,10,Recover,15,normal,-,-
+120,11,Recover,15,normal,-,-
+120,12,Recover,15,normal,-,-
+120,13,Recover,15,normal,-,-
+120,14,Camouflage,15,normal,-,-
+120,15,Camouflage,15,normal,-,-
+120,16,Swift,16,normal,60,-
+120,1,Water Gun,17,water,40,100
+120,2,Water Gun,17,water,40,100
+120,14,Swift,18,normal,60,-
+120,15,Swift,18,normal,60,-
+120,16,Bubble Beam,18,water,65,100
+120,3,Recover,19,normal,-,-
+120,4,Recover,19,normal,-,-
+120,5,Camouflage,19,normal,-,-
+120,6,Camouflage,19,normal,-,-
+120,7,Camouflage,19,normal,-,-
+120,8,Camouflage,19,normal,-,-
+120,9,Camouflage,19,normal,-,-
+120,10,Camouflage,19,normal,-,-
+120,11,Camouflage,19,normal,-,-
+120,12,Camouflage,19,normal,-,-
+120,13,Camouflage,19,normal,-,-
+120,1,Harden,22,normal,-,-
+120,2,Harden,22,normal,-,-
+120,14,Bubble Beam,22,water,65,100
+120,15,Bubble Beam,22,water,65,100
+120,16,Camouflage,22,normal,-,-
+120,5,Swift,24,normal,60,-
+120,6,Swift,24,normal,60,-
+120,7,Swift,24,normal,60,-
+120,8,Swift,24,normal,60,-
+120,9,Swift,24,normal,60,-
+120,10,Swift,24,normal,60,-
+120,11,Swift,24,normal,60,-
+120,12,Swift,24,normal,60,-
+120,13,Swift,24,normal,60,-
+120,16,Gyro Ball,24,steel,-,100
+120,3,Swift,25,normal,60,-
+120,4,Swift,25,normal,60,-
+120,14,Minimize,25,normal,-,-
+120,15,Minimize,25,normal,-,-
+120,1,Recover,27,normal,-,-
+120,2,Recover,27,normal,-,-
+120,5,Bubble Beam,28,water,65,100
+120,6,Bubble Beam,28,water,65,100
+120,7,Bubble Beam,28,water,65,100
+120,8,Bubble Beam,28,water,65,100
+120,9,Bubble Beam,28,water,65,100
+120,10,Bubble Beam,28,water,65,100
+120,11,Bubble Beam,28,water,65,100
+120,12,Bubble Beam,28,water,65,100
+120,13,Bubble Beam,28,water,65,100
+120,16,Brine,28,water,65,100
+120,14,Gyro Ball,30,steel,-,100
+120,15,Gyro Ball,30,steel,-,100
+120,3,Bubble Beam,31,water,65,100
+120,4,Bubble Beam,31,water,65,100
+120,16,Minimize,31,normal,-,-
+120,1,Swift,32,normal,60,-
+120,2,Swift,32,normal,60,-
+120,5,Minimize,33,normal,-,-
+120,6,Minimize,33,normal,-,-
+120,7,Minimize,33,normal,-,-
+120,8,Minimize,33,normal,-,-
+120,9,Minimize,33,normal,-,-
+120,10,Minimize,33,normal,-,-
+120,11,Minimize,33,normal,-,-
+120,12,Minimize,33,normal,-,-
+120,13,Minimize,33,normal,-,-
+120,14,Light Screen,33,psychic,-,-
+120,15,Light Screen,33,psychic,-,-
+120,16,Reflect Type,35,normal,-,-
+120,14,Brine,36,water,65,100
+120,15,Brine,36,water,65,100
+120,1,Minimize,37,normal,-,-
+120,2,Minimize,37,normal,-,-
+120,3,Minimize,37,normal,-,-
+120,4,Minimize,37,normal,-,-
+120,5,Light Screen,37,psychic,-,-
+120,6,Light Screen,37,psychic,-,-
+120,7,Light Screen,37,psychic,-,-
+120,8,Gyro Ball,37,steel,-,100
+120,9,Gyro Ball,37,steel,-,100
+120,10,Gyro Ball,37,steel,-,100
+120,11,Gyro Ball,37,steel,-,100
+120,12,Light Screen,37,psychic,-,-
+120,13,Light Screen,37,psychic,-,-
+120,16,Power Gem,37,rock,80,100
+120,14,Reflect Type,40,normal,-,-
+120,15,Reflect Type,40,normal,-,-
+120,16,Confuse Ray,40,ghost,-,100
+120,1,Light Screen,42,psychic,-,-
+120,2,Light Screen,42,psychic,-,-
+120,5,Cosmic Power,42,psychic,-,-
+120,6,Cosmic Power,42,psychic,-,-
+120,7,Cosmic Power,42,psychic,-,-
+120,8,Light Screen,42,psychic,-,-
+120,9,Light Screen,42,psychic,-,-
+120,10,Light Screen,42,psychic,-,-
+120,11,Light Screen,42,psychic,-,-
+120,12,Cosmic Power,42,psychic,-,-
+120,13,Cosmic Power,42,psychic,-,-
+120,16,Psychic,42,psychic,90,100
+120,3,Light Screen,43,psychic,-,-
+120,4,Light Screen,43,psychic,-,-
+120,14,Power Gem,43,rock,80,100
+120,15,Power Gem,43,rock,80,100
+120,5,Hydro Pump,46,water,110,80
+120,6,Hydro Pump,46,water,110,80
+120,7,Hydro Pump,46,water,110,80
+120,8,Power Gem,46,rock,80,100
+120,9,Power Gem,46,rock,80,100
+120,10,Power Gem,46,rock,80,100
+120,11,Reflect Type,46,normal,-,-
+120,12,Hydro Pump,46,water,110,80
+120,13,Hydro Pump,46,water,110,80
+120,16,Light Screen,46,psychic,-,-
+120,1,Hydro Pump,47,water,110,80
+120,2,Hydro Pump,47,water,110,80
+120,14,Cosmic Power,48,psychic,-,-
+120,15,Cosmic Power,48,psychic,-,-
+120,16,Cosmic Power,49,psychic,-,-
+120,3,Hydro Pump,50,water,110,80
+120,4,Hydro Pump,50,water,110,80
+120,8,Cosmic Power,51,psychic,-,-
+120,9,Cosmic Power,51,psychic,-,-
+120,10,Cosmic Power,51,psychic,-,-
+120,11,Power Gem,51,rock,80,100
+120,14,Hydro Pump,52,water,110,80
+120,15,Hydro Pump,52,water,110,80
+120,16,Hydro Pump,53,water,110,80
+120,8,Hydro Pump,55,water,110,80
+120,9,Hydro Pump,55,water,110,80
+120,10,Hydro Pump,55,water,110,80
+120,11,Cosmic Power,55,psychic,-,-
+120,11,Hydro Pump,60,water,110,80

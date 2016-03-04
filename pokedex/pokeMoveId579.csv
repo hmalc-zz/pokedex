@@ -1,81 +1,81 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-579,reuniclus,11,94,Psychic,1,39,
-579,reuniclus,11,105,Recover,1,24,
-579,reuniclus,11,113,Light Screen,1,16,
-579,reuniclus,11,115,Reflect,1,1,2
-579,reuniclus,11,115,Reflect,1,3,
-579,reuniclus,11,146,Dizzy Punch,1,41,
-579,reuniclus,11,149,Psywave,1,1,1
-579,reuniclus,11,204,Charm,1,19,
-579,reuniclus,11,205,Rollout,1,1,3
-579,reuniclus,11,205,Rollout,1,7,
-579,reuniclus,11,220,Pain Split,1,34,
-579,reuniclus,11,237,Hidden Power,1,14,
-579,reuniclus,11,248,Future Sight,1,31,
-579,reuniclus,11,283,Endeavor,1,28,
-579,reuniclus,11,285,Skill Swap,1,45,
-579,reuniclus,11,289,Snatch,1,1,4
-579,reuniclus,11,289,Snatch,1,10,
-579,reuniclus,11,377,Heal Block,1,54,
-579,reuniclus,11,472,Wonder Room,1,59,
-579,reuniclus,11,473,Psyshock,1,25,
-579,reuniclus,14,94,Psychic,1,39,
-579,reuniclus,14,105,Recover,1,24,
-579,reuniclus,14,113,Light Screen,1,16,
-579,reuniclus,14,115,Reflect,1,1,2
-579,reuniclus,14,115,Reflect,1,3,
-579,reuniclus,14,146,Dizzy Punch,1,41,
-579,reuniclus,14,149,Psywave,1,1,1
-579,reuniclus,14,204,Charm,1,19,
-579,reuniclus,14,205,Rollout,1,1,3
-579,reuniclus,14,205,Rollout,1,7,
-579,reuniclus,14,220,Pain Split,1,34,
-579,reuniclus,14,237,Hidden Power,1,14,
-579,reuniclus,14,248,Future Sight,1,31,
-579,reuniclus,14,283,Endeavor,1,28,
-579,reuniclus,14,285,Skill Swap,1,45,
-579,reuniclus,14,289,Snatch,1,1,4
-579,reuniclus,14,289,Snatch,1,10,
-579,reuniclus,14,377,Heal Block,1,54,
-579,reuniclus,14,472,Wonder Room,1,59,
-579,reuniclus,14,473,Psyshock,1,25,
-579,reuniclus,15,94,Psychic,1,39,
-579,reuniclus,15,105,Recover,1,24,
-579,reuniclus,15,113,Light Screen,1,16,
-579,reuniclus,15,115,Reflect,1,1,2
-579,reuniclus,15,115,Reflect,1,3,
-579,reuniclus,15,146,Dizzy Punch,1,41,
-579,reuniclus,15,149,Psywave,1,1,1
-579,reuniclus,15,204,Charm,1,19,
-579,reuniclus,15,205,Rollout,1,1,3
-579,reuniclus,15,205,Rollout,1,7,
-579,reuniclus,15,220,Pain Split,1,34,
-579,reuniclus,15,237,Hidden Power,1,14,
-579,reuniclus,15,248,Future Sight,1,31,
-579,reuniclus,15,283,Endeavor,1,28,
-579,reuniclus,15,285,Skill Swap,1,45,
-579,reuniclus,15,289,Snatch,1,1,4
-579,reuniclus,15,289,Snatch,1,10,
-579,reuniclus,15,377,Heal Block,1,54,
-579,reuniclus,15,472,Wonder Room,1,59,
-579,reuniclus,15,473,Psyshock,1,25,
-579,reuniclus,16,94,Psychic,1,39,1
-579,reuniclus,16,105,Recover,1,24,1
-579,reuniclus,16,113,Light Screen,1,16,1
-579,reuniclus,16,115,Reflect,1,1,2
-579,reuniclus,16,115,Reflect,1,3,1
-579,reuniclus,16,146,Dizzy Punch,1,41,1
-579,reuniclus,16,149,Psywave,1,1,1
-579,reuniclus,16,204,Charm,1,19,1
-579,reuniclus,16,205,Rollout,1,1,3
-579,reuniclus,16,205,Rollout,1,7,1
-579,reuniclus,16,220,Pain Split,1,34,1
-579,reuniclus,16,237,Hidden Power,1,14,1
-579,reuniclus,16,248,Future Sight,1,31,1
-579,reuniclus,16,283,Endeavor,1,28,1
-579,reuniclus,16,285,Skill Swap,1,45,1
-579,reuniclus,16,289,Snatch,1,1,4
-579,reuniclus,16,289,Snatch,1,10,1
-579,reuniclus,16,377,Heal Block,1,54,1
-579,reuniclus,16,472,Wonder Room,1,59,1
-579,reuniclus,16,473,Psyshock,1,25,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+579,11,Reflect,1,psychic,-,-
+579,11,Psywave,1,psychic,-,100
+579,11,Rollout,1,rock,30,90
+579,11,Snatch,1,dark,-,-
+579,14,Reflect,1,psychic,-,-
+579,14,Psywave,1,psychic,-,100
+579,14,Rollout,1,rock,30,90
+579,14,Snatch,1,dark,-,-
+579,15,Reflect,1,psychic,-,-
+579,15,Psywave,1,psychic,-,100
+579,15,Rollout,1,rock,30,90
+579,15,Snatch,1,dark,-,-
+579,16,Reflect,1,psychic,-,-
+579,16,Psywave,1,psychic,-,100
+579,16,Rollout,1,rock,30,90
+579,16,Snatch,1,dark,-,-
+579,11,Reflect,3,psychic,-,-
+579,14,Reflect,3,psychic,-,-
+579,15,Reflect,3,psychic,-,-
+579,16,Reflect,3,psychic,-,-
+579,11,Rollout,7,rock,30,90
+579,14,Rollout,7,rock,30,90
+579,15,Rollout,7,rock,30,90
+579,16,Rollout,7,rock,30,90
+579,11,Snatch,10,dark,-,-
+579,14,Snatch,10,dark,-,-
+579,15,Snatch,10,dark,-,-
+579,16,Snatch,10,dark,-,-
+579,11,Hidden Power,14,normal,60,100
+579,14,Hidden Power,14,normal,60,100
+579,15,Hidden Power,14,normal,60,100
+579,16,Hidden Power,14,normal,60,100
+579,11,Light Screen,16,psychic,-,-
+579,14,Light Screen,16,psychic,-,-
+579,15,Light Screen,16,psychic,-,-
+579,16,Light Screen,16,psychic,-,-
+579,11,Charm,19,fairy,-,100
+579,14,Charm,19,fairy,-,100
+579,15,Charm,19,fairy,-,100
+579,16,Charm,19,fairy,-,100
+579,11,Recover,24,normal,-,-
+579,14,Recover,24,normal,-,-
+579,15,Recover,24,normal,-,-
+579,16,Recover,24,normal,-,-
+579,11,Psyshock,25,psychic,80,100
+579,14,Psyshock,25,psychic,80,100
+579,15,Psyshock,25,psychic,80,100
+579,16,Psyshock,25,psychic,80,100
+579,11,Endeavor,28,normal,-,100
+579,14,Endeavor,28,normal,-,100
+579,15,Endeavor,28,normal,-,100
+579,16,Endeavor,28,normal,-,100
+579,11,Future Sight,31,psychic,120,100
+579,14,Future Sight,31,psychic,120,100
+579,15,Future Sight,31,psychic,120,100
+579,16,Future Sight,31,psychic,120,100
+579,11,Pain Split,34,normal,-,-
+579,14,Pain Split,34,normal,-,-
+579,15,Pain Split,34,normal,-,-
+579,16,Pain Split,34,normal,-,-
+579,11,Psychic,39,psychic,90,100
+579,14,Psychic,39,psychic,90,100
+579,15,Psychic,39,psychic,90,100
+579,16,Psychic,39,psychic,90,100
+579,11,Dizzy Punch,41,normal,70,100
+579,14,Dizzy Punch,41,normal,70,100
+579,15,Dizzy Punch,41,normal,70,100
+579,16,Dizzy Punch,41,normal,70,100
+579,11,Skill Swap,45,psychic,-,-
+579,14,Skill Swap,45,psychic,-,-
+579,15,Skill Swap,45,psychic,-,-
+579,16,Skill Swap,45,psychic,-,-
+579,11,Heal Block,54,psychic,-,100
+579,14,Heal Block,54,psychic,-,100
+579,15,Heal Block,54,psychic,-,100
+579,16,Heal Block,54,psychic,-,100
+579,11,Wonder Room,59,psychic,-,-
+579,14,Wonder Room,59,psychic,-,-
+579,15,Wonder Room,59,psychic,-,-
+579,16,Wonder Room,59,psychic,-,-

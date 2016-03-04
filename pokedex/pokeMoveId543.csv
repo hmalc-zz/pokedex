@@ -1,59 +1,59 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-543,venipede,11,38,Double-Edge,1,43,
-543,venipede,11,40,Poison Sting,1,5,
-543,venipede,11,92,Toxic,1,36,
-543,venipede,11,97,Agility,1,29,
-543,venipede,11,103,Screech,1,8,
-543,venipede,11,111,Defense Curl,1,1,1
-543,venipede,11,182,Protect,1,15,
-543,venipede,11,205,Rollout,1,1,2
-543,venipede,11,228,Pursuit,1,12,
-543,venipede,11,342,Poison Tail,1,19,
-543,venipede,11,431,Rock Climb,1,40,
-543,venipede,11,450,Bug Bite,1,22,
-543,venipede,11,474,Venoshock,1,26,
-543,venipede,11,537,Steamroller,1,33,
-543,venipede,14,38,Double-Edge,1,43,
-543,venipede,14,40,Poison Sting,1,5,
-543,venipede,14,92,Toxic,1,36,
-543,venipede,14,97,Agility,1,29,
-543,venipede,14,103,Screech,1,8,
-543,venipede,14,111,Defense Curl,1,1,1
-543,venipede,14,182,Protect,1,15,
-543,venipede,14,205,Rollout,1,1,2
-543,venipede,14,228,Pursuit,1,12,
-543,venipede,14,342,Poison Tail,1,19,
-543,venipede,14,431,Rock Climb,1,40,
-543,venipede,14,450,Bug Bite,1,22,
-543,venipede,14,474,Venoshock,1,26,
-543,venipede,14,537,Steamroller,1,33,
-543,venipede,15,38,Double-Edge,1,43,
-543,venipede,15,40,Poison Sting,1,5,
-543,venipede,15,92,Toxic,1,36,
-543,venipede,15,97,Agility,1,29,
-543,venipede,15,103,Screech,1,8,
-543,venipede,15,111,Defense Curl,1,1,1
-543,venipede,15,182,Protect,1,15,
-543,venipede,15,205,Rollout,1,1,2
-543,venipede,15,228,Pursuit,1,12,
-543,venipede,15,342,Poison Tail,1,19,
-543,venipede,15,431,Rock Climb,1,40,
-543,venipede,15,450,Bug Bite,1,22,
-543,venipede,15,474,Venoshock,1,26,
-543,venipede,15,474,Venoshock,1,38,
-543,venipede,15,537,Steamroller,1,33,
-543,venipede,16,38,Double-Edge,1,43,1
-543,venipede,16,40,Poison Sting,1,5,1
-543,venipede,16,92,Toxic,1,36,1
-543,venipede,16,97,Agility,1,29,1
-543,venipede,16,103,Screech,1,8,1
-543,venipede,16,111,Defense Curl,1,1,1
-543,venipede,16,182,Protect,1,15,1
-543,venipede,16,205,Rollout,1,1,2
-543,venipede,16,228,Pursuit,1,12,1
-543,venipede,16,342,Poison Tail,1,19,1
-543,venipede,16,431,Rock Climb,1,40,1
-543,venipede,16,450,Bug Bite,1,22,1
-543,venipede,16,474,Venoshock,1,26,1
-543,venipede,16,474,Venoshock,1,38,1
-543,venipede,16,537,Steamroller,1,33,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+543,11,Defense Curl,1,normal,-,-
+543,11,Rollout,1,rock,30,90
+543,14,Defense Curl,1,normal,-,-
+543,14,Rollout,1,rock,30,90
+543,15,Defense Curl,1,normal,-,-
+543,15,Rollout,1,rock,30,90
+543,16,Defense Curl,1,normal,-,-
+543,16,Rollout,1,rock,30,90
+543,11,Poison Sting,5,poison,15,100
+543,14,Poison Sting,5,poison,15,100
+543,15,Poison Sting,5,poison,15,100
+543,16,Poison Sting,5,poison,15,100
+543,11,Screech,8,normal,-,85
+543,14,Screech,8,normal,-,85
+543,15,Screech,8,normal,-,85
+543,16,Screech,8,normal,-,85
+543,11,Pursuit,12,dark,40,100
+543,14,Pursuit,12,dark,40,100
+543,15,Pursuit,12,dark,40,100
+543,16,Pursuit,12,dark,40,100
+543,11,Protect,15,normal,-,-
+543,14,Protect,15,normal,-,-
+543,15,Protect,15,normal,-,-
+543,16,Protect,15,normal,-,-
+543,11,Poison Tail,19,poison,50,100
+543,14,Poison Tail,19,poison,50,100
+543,15,Poison Tail,19,poison,50,100
+543,16,Poison Tail,19,poison,50,100
+543,11,Bug Bite,22,bug,60,100
+543,14,Bug Bite,22,bug,60,100
+543,15,Bug Bite,22,bug,60,100
+543,16,Bug Bite,22,bug,60,100
+543,11,Venoshock,26,poison,65,100
+543,14,Venoshock,26,poison,65,100
+543,15,Venoshock,26,poison,65,100
+543,16,Venoshock,26,poison,65,100
+543,11,Agility,29,psychic,-,-
+543,14,Agility,29,psychic,-,-
+543,15,Agility,29,psychic,-,-
+543,16,Agility,29,psychic,-,-
+543,11,Steamroller,33,bug,65,100
+543,14,Steamroller,33,bug,65,100
+543,15,Steamroller,33,bug,65,100
+543,16,Steamroller,33,bug,65,100
+543,11,Toxic,36,poison,-,90
+543,14,Toxic,36,poison,-,90
+543,15,Toxic,36,poison,-,90
+543,16,Toxic,36,poison,-,90
+543,15,Venoshock,38,poison,65,100
+543,16,Venoshock,38,poison,65,100
+543,11,Rock Climb,40,normal,90,85
+543,14,Rock Climb,40,normal,90,85
+543,15,Rock Climb,40,normal,90,85
+543,16,Rock Climb,40,normal,90,85
+543,11,Double-Edge,43,normal,120,100
+543,14,Double-Edge,43,normal,120,100
+543,15,Double-Edge,43,normal,120,100
+543,16,Double-Edge,43,normal,120,100

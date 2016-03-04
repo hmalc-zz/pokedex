@@ -1,73 +1,73 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-605,elgyem,11,29,Headbutt,1,18,
-605,elgyem,11,45,Growl,1,4,
-605,elgyem,11,60,Psybeam,1,15,
-605,elgyem,11,93,Confusion,1,1,
-605,elgyem,11,94,Psychic,1,39,
-605,elgyem,11,105,Recover,1,46,
-605,elgyem,11,237,Hidden Power,1,22,
-605,elgyem,11,244,Psych Up,1,36,
-605,elgyem,11,286,Imprison,1,25,
-605,elgyem,11,347,Calm Mind,1,43,
-605,elgyem,11,357,Miracle Eye,1,11,
-605,elgyem,11,377,Heal Block,1,8,
-605,elgyem,11,428,Zen Headbutt,1,32,
-605,elgyem,11,470,Guard Split,1,50,1
-605,elgyem,11,471,Power Split,1,50,2
-605,elgyem,11,472,Wonder Room,1,56,
-605,elgyem,11,485,Synchronoise,1,53,
-605,elgyem,11,493,Simple Beam,1,29,
-605,elgyem,14,29,Headbutt,1,18,
-605,elgyem,14,45,Growl,1,4,
-605,elgyem,14,60,Psybeam,1,15,
-605,elgyem,14,93,Confusion,1,1,
-605,elgyem,14,94,Psychic,1,39,
-605,elgyem,14,105,Recover,1,46,
-605,elgyem,14,237,Hidden Power,1,22,
-605,elgyem,14,244,Psych Up,1,36,
-605,elgyem,14,286,Imprison,1,25,
-605,elgyem,14,347,Calm Mind,1,43,
-605,elgyem,14,357,Miracle Eye,1,11,
-605,elgyem,14,377,Heal Block,1,8,
-605,elgyem,14,428,Zen Headbutt,1,32,
-605,elgyem,14,470,Guard Split,1,50,1
-605,elgyem,14,471,Power Split,1,50,2
-605,elgyem,14,472,Wonder Room,1,56,
-605,elgyem,14,485,Synchronoise,1,53,
-605,elgyem,14,493,Simple Beam,1,29,
-605,elgyem,15,29,Headbutt,1,18,
-605,elgyem,15,45,Growl,1,4,
-605,elgyem,15,60,Psybeam,1,15,
-605,elgyem,15,93,Confusion,1,1,
-605,elgyem,15,94,Psychic,1,39,
-605,elgyem,15,105,Recover,1,46,
-605,elgyem,15,237,Hidden Power,1,22,
-605,elgyem,15,244,Psych Up,1,36,
-605,elgyem,15,286,Imprison,1,25,
-605,elgyem,15,347,Calm Mind,1,43,
-605,elgyem,15,357,Miracle Eye,1,11,
-605,elgyem,15,377,Heal Block,1,8,
-605,elgyem,15,428,Zen Headbutt,1,32,
-605,elgyem,15,470,Guard Split,1,50,1
-605,elgyem,15,471,Power Split,1,50,2
-605,elgyem,15,472,Wonder Room,1,56,
-605,elgyem,15,485,Synchronoise,1,53,
-605,elgyem,15,493,Simple Beam,1,29,
-605,elgyem,16,29,Headbutt,1,18,1
-605,elgyem,16,45,Growl,1,4,1
-605,elgyem,16,60,Psybeam,1,15,1
-605,elgyem,16,93,Confusion,1,1,1
-605,elgyem,16,94,Psychic,1,39,1
-605,elgyem,16,105,Recover,1,46,1
-605,elgyem,16,237,Hidden Power,1,22,1
-605,elgyem,16,244,Psych Up,1,36,1
-605,elgyem,16,286,Imprison,1,25,1
-605,elgyem,16,347,Calm Mind,1,43,1
-605,elgyem,16,357,Miracle Eye,1,11,1
-605,elgyem,16,377,Heal Block,1,8,1
-605,elgyem,16,428,Zen Headbutt,1,32,1
-605,elgyem,16,470,Guard Split,1,50,1
-605,elgyem,16,471,Power Split,1,50,2
-605,elgyem,16,472,Wonder Room,1,56,1
-605,elgyem,16,485,Synchronoise,1,53,1
-605,elgyem,16,493,Simple Beam,1,29,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+605,11,Confusion,1,psychic,50,100
+605,14,Confusion,1,psychic,50,100
+605,15,Confusion,1,psychic,50,100
+605,16,Confusion,1,psychic,50,100
+605,11,Growl,4,normal,-,100
+605,14,Growl,4,normal,-,100
+605,15,Growl,4,normal,-,100
+605,16,Growl,4,normal,-,100
+605,11,Heal Block,8,psychic,-,100
+605,14,Heal Block,8,psychic,-,100
+605,15,Heal Block,8,psychic,-,100
+605,16,Heal Block,8,psychic,-,100
+605,11,Miracle Eye,11,psychic,-,-
+605,14,Miracle Eye,11,psychic,-,-
+605,15,Miracle Eye,11,psychic,-,-
+605,16,Miracle Eye,11,psychic,-,-
+605,11,Psybeam,15,psychic,65,100
+605,14,Psybeam,15,psychic,65,100
+605,15,Psybeam,15,psychic,65,100
+605,16,Psybeam,15,psychic,65,100
+605,11,Headbutt,18,normal,70,100
+605,14,Headbutt,18,normal,70,100
+605,15,Headbutt,18,normal,70,100
+605,16,Headbutt,18,normal,70,100
+605,11,Hidden Power,22,normal,60,100
+605,14,Hidden Power,22,normal,60,100
+605,15,Hidden Power,22,normal,60,100
+605,16,Hidden Power,22,normal,60,100
+605,11,Imprison,25,psychic,-,-
+605,14,Imprison,25,psychic,-,-
+605,15,Imprison,25,psychic,-,-
+605,16,Imprison,25,psychic,-,-
+605,11,Simple Beam,29,normal,-,100
+605,14,Simple Beam,29,normal,-,100
+605,15,Simple Beam,29,normal,-,100
+605,16,Simple Beam,29,normal,-,100
+605,11,Zen Headbutt,32,psychic,80,90
+605,14,Zen Headbutt,32,psychic,80,90
+605,15,Zen Headbutt,32,psychic,80,90
+605,16,Zen Headbutt,32,psychic,80,90
+605,11,Psych Up,36,normal,-,-
+605,14,Psych Up,36,normal,-,-
+605,15,Psych Up,36,normal,-,-
+605,16,Psych Up,36,normal,-,-
+605,11,Psychic,39,psychic,90,100
+605,14,Psychic,39,psychic,90,100
+605,15,Psychic,39,psychic,90,100
+605,16,Psychic,39,psychic,90,100
+605,11,Calm Mind,43,psychic,-,-
+605,14,Calm Mind,43,psychic,-,-
+605,15,Calm Mind,43,psychic,-,-
+605,16,Calm Mind,43,psychic,-,-
+605,11,Recover,46,normal,-,-
+605,14,Recover,46,normal,-,-
+605,15,Recover,46,normal,-,-
+605,16,Recover,46,normal,-,-
+605,11,Guard Split,50,psychic,-,-
+605,11,Power Split,50,psychic,-,-
+605,14,Guard Split,50,psychic,-,-
+605,14,Power Split,50,psychic,-,-
+605,15,Guard Split,50,psychic,-,-
+605,15,Power Split,50,psychic,-,-
+605,16,Guard Split,50,psychic,-,-
+605,16,Power Split,50,psychic,-,-
+605,11,Synchronoise,53,psychic,120,100
+605,14,Synchronoise,53,psychic,120,100
+605,15,Synchronoise,53,psychic,120,100
+605,16,Synchronoise,53,psychic,120,100
+605,11,Wonder Room,56,psychic,-,-
+605,14,Wonder Room,56,psychic,-,-
+605,15,Wonder Room,56,psychic,-,-
+605,16,Wonder Room,56,psychic,-,-

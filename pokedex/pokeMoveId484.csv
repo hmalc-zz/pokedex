@@ -1,87 +1,87 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-484,palkia,8,163,Slash,1,70,
-484,palkia,8,184,Scary Face,1,1,2
-484,palkia,8,225,Dragon Breath,1,1,1
-484,palkia,8,246,Ancient Power,1,20,
-484,palkia,8,337,Dragon Claw,1,30,
-484,palkia,8,352,Water Pulse,1,10,
-484,palkia,8,377,Heal Block,1,50,
-484,palkia,8,396,Aura Sphere,1,90,
-484,palkia,8,401,Aqua Tail,1,80,
-484,palkia,8,414,Earth Power,1,60,
-484,palkia,8,460,Spacial Rend,1,40,
-484,palkia,9,163,Slash,1,70,
-484,palkia,9,184,Scary Face,1,1,2
-484,palkia,9,225,Dragon Breath,1,1,1
-484,palkia,9,246,Ancient Power,1,20,
-484,palkia,9,337,Dragon Claw,1,30,
-484,palkia,9,352,Water Pulse,1,10,
-484,palkia,9,377,Heal Block,1,50,
-484,palkia,9,396,Aura Sphere,1,90,
-484,palkia,9,401,Aqua Tail,1,80,
-484,palkia,9,414,Earth Power,1,60,
-484,palkia,9,460,Spacial Rend,1,40,
-484,palkia,10,56,Hydro Pump,1,42,
-484,palkia,10,163,Slash,1,15,
-484,palkia,10,184,Scary Face,1,1,2
-484,palkia,10,225,Dragon Breath,1,1,1
-484,palkia,10,246,Ancient Power,1,10,
-484,palkia,10,337,Dragon Claw,1,28,
-484,palkia,10,352,Water Pulse,1,6,
-484,palkia,10,396,Aura Sphere,1,37,
-484,palkia,10,401,Aqua Tail,1,24,
-484,palkia,10,408,Power Gem,1,19,
-484,palkia,10,414,Earth Power,1,33,
-484,palkia,10,460,Spacial Rend,1,46,
-484,palkia,11,56,Hydro Pump,1,50,
-484,palkia,11,163,Slash,1,15,
-484,palkia,11,184,Scary Face,1,1,2
-484,palkia,11,225,Dragon Breath,1,1,1
-484,palkia,11,246,Ancient Power,1,10,
-484,palkia,11,337,Dragon Claw,1,28,
-484,palkia,11,352,Water Pulse,1,6,
-484,palkia,11,396,Aura Sphere,1,37,
-484,palkia,11,401,Aqua Tail,1,24,
-484,palkia,11,401,Aqua Tail,1,42,
-484,palkia,11,408,Power Gem,1,19,
-484,palkia,11,414,Earth Power,1,33,
-484,palkia,11,460,Spacial Rend,1,46,
-484,palkia,14,56,Hydro Pump,1,50,
-484,palkia,14,163,Slash,1,15,
-484,palkia,14,184,Scary Face,1,1,2
-484,palkia,14,225,Dragon Breath,1,1,1
-484,palkia,14,246,Ancient Power,1,10,
-484,palkia,14,337,Dragon Claw,1,28,
-484,palkia,14,352,Water Pulse,1,6,
-484,palkia,14,396,Aura Sphere,1,37,
-484,palkia,14,401,Aqua Tail,1,24,
-484,palkia,14,401,Aqua Tail,1,42,
-484,palkia,14,408,Power Gem,1,19,
-484,palkia,14,414,Earth Power,1,33,
-484,palkia,14,460,Spacial Rend,1,46,
-484,palkia,15,56,Hydro Pump,1,50,
-484,palkia,15,163,Slash,1,15,
-484,palkia,15,184,Scary Face,1,1,2
-484,palkia,15,225,Dragon Breath,1,1,1
-484,palkia,15,246,Ancient Power,1,10,
-484,palkia,15,337,Dragon Claw,1,28,
-484,palkia,15,352,Water Pulse,1,6,
-484,palkia,15,396,Aura Sphere,1,37,
-484,palkia,15,401,Aqua Tail,1,24,
-484,palkia,15,401,Aqua Tail,1,42,
-484,palkia,15,408,Power Gem,1,19,
-484,palkia,15,414,Earth Power,1,33,
-484,palkia,15,460,Spacial Rend,1,46,
-484,palkia,16,56,Hydro Pump,1,50,1
-484,palkia,16,163,Slash,1,15,1
-484,palkia,16,184,Scary Face,1,1,2
-484,palkia,16,225,Dragon Breath,1,1,1
-484,palkia,16,246,Ancient Power,1,10,1
-484,palkia,16,337,Dragon Claw,1,28,1
-484,palkia,16,352,Water Pulse,1,6,1
-484,palkia,16,396,Aura Sphere,1,37,1
-484,palkia,16,401,Aqua Tail,1,24,1
-484,palkia,16,401,Aqua Tail,1,42,1
-484,palkia,16,408,Power Gem,1,19,1
-484,palkia,16,414,Earth Power,1,33,1
-484,palkia,16,460,Spacial Rend,1,46,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+484,8,Scary Face,1,normal,-,100
+484,8,Dragon Breath,1,dragon,60,100
+484,9,Scary Face,1,normal,-,100
+484,9,Dragon Breath,1,dragon,60,100
+484,10,Scary Face,1,normal,-,100
+484,10,Dragon Breath,1,dragon,60,100
+484,11,Scary Face,1,normal,-,100
+484,11,Dragon Breath,1,dragon,60,100
+484,14,Scary Face,1,normal,-,100
+484,14,Dragon Breath,1,dragon,60,100
+484,15,Scary Face,1,normal,-,100
+484,15,Dragon Breath,1,dragon,60,100
+484,16,Scary Face,1,normal,-,100
+484,16,Dragon Breath,1,dragon,60,100
+484,10,Water Pulse,6,water,60,100
+484,11,Water Pulse,6,water,60,100
+484,14,Water Pulse,6,water,60,100
+484,15,Water Pulse,6,water,60,100
+484,16,Water Pulse,6,water,60,100
+484,8,Water Pulse,10,water,60,100
+484,9,Water Pulse,10,water,60,100
+484,10,Ancient Power,10,rock,60,100
+484,11,Ancient Power,10,rock,60,100
+484,14,Ancient Power,10,rock,60,100
+484,15,Ancient Power,10,rock,60,100
+484,16,Ancient Power,10,rock,60,100
+484,10,Slash,15,normal,70,100
+484,11,Slash,15,normal,70,100
+484,14,Slash,15,normal,70,100
+484,15,Slash,15,normal,70,100
+484,16,Slash,15,normal,70,100
+484,10,Power Gem,19,rock,80,100
+484,11,Power Gem,19,rock,80,100
+484,14,Power Gem,19,rock,80,100
+484,15,Power Gem,19,rock,80,100
+484,16,Power Gem,19,rock,80,100
+484,8,Ancient Power,20,rock,60,100
+484,9,Ancient Power,20,rock,60,100
+484,10,Aqua Tail,24,water,90,90
+484,11,Aqua Tail,24,water,90,90
+484,14,Aqua Tail,24,water,90,90
+484,15,Aqua Tail,24,water,90,90
+484,16,Aqua Tail,24,water,90,90
+484,10,Dragon Claw,28,dragon,80,100
+484,11,Dragon Claw,28,dragon,80,100
+484,14,Dragon Claw,28,dragon,80,100
+484,15,Dragon Claw,28,dragon,80,100
+484,16,Dragon Claw,28,dragon,80,100
+484,8,Dragon Claw,30,dragon,80,100
+484,9,Dragon Claw,30,dragon,80,100
+484,10,Earth Power,33,ground,90,100
+484,11,Earth Power,33,ground,90,100
+484,14,Earth Power,33,ground,90,100
+484,15,Earth Power,33,ground,90,100
+484,16,Earth Power,33,ground,90,100
+484,10,Aura Sphere,37,fighting,80,-
+484,11,Aura Sphere,37,fighting,80,-
+484,14,Aura Sphere,37,fighting,80,-
+484,15,Aura Sphere,37,fighting,80,-
+484,16,Aura Sphere,37,fighting,80,-
+484,8,Spacial Rend,40,dragon,100,95
+484,9,Spacial Rend,40,dragon,100,95
+484,10,Hydro Pump,42,water,110,80
+484,11,Aqua Tail,42,water,90,90
+484,14,Aqua Tail,42,water,90,90
+484,15,Aqua Tail,42,water,90,90
+484,16,Aqua Tail,42,water,90,90
+484,10,Spacial Rend,46,dragon,100,95
+484,11,Spacial Rend,46,dragon,100,95
+484,14,Spacial Rend,46,dragon,100,95
+484,15,Spacial Rend,46,dragon,100,95
+484,16,Spacial Rend,46,dragon,100,95
+484,8,Heal Block,50,psychic,-,100
+484,9,Heal Block,50,psychic,-,100
+484,11,Hydro Pump,50,water,110,80
+484,14,Hydro Pump,50,water,110,80
+484,15,Hydro Pump,50,water,110,80
+484,16,Hydro Pump,50,water,110,80
+484,8,Earth Power,60,ground,90,100
+484,9,Earth Power,60,ground,90,100
+484,8,Slash,70,normal,70,100
+484,9,Slash,70,normal,70,100
+484,8,Aqua Tail,80,water,90,90
+484,9,Aqua Tail,80,water,90,90
+484,8,Aura Sphere,90,fighting,80,-
+484,9,Aura Sphere,90,fighting,80,-

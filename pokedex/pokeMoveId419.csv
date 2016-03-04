@@ -1,115 +1,115 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-419,floatzel,8,13,Razor Wind,1,50,
-419,floatzel,8,45,Growl,1,1,3
-419,floatzel,8,49,Sonic Boom,1,1,2
-419,floatzel,8,55,Water Gun,1,6,
-419,floatzel,8,97,Agility,1,29,
-419,floatzel,8,98,Quick Attack,1,1,5
-419,floatzel,8,98,Quick Attack,1,3,
-419,floatzel,8,129,Swift,1,15,
-419,floatzel,8,228,Pursuit,1,10,
-419,floatzel,8,242,Crunch,1,26,
-419,floatzel,8,250,Whirlpool,1,39,
-419,floatzel,8,346,Water Sport,1,1,4
-419,floatzel,8,423,Ice Fang,1,1,1
-419,floatzel,8,453,Aqua Jet,1,21,
-419,floatzel,9,13,Razor Wind,1,50,
-419,floatzel,9,45,Growl,1,1,3
-419,floatzel,9,49,Sonic Boom,1,1,2
-419,floatzel,9,55,Water Gun,1,6,
-419,floatzel,9,97,Agility,1,29,
-419,floatzel,9,98,Quick Attack,1,1,5
-419,floatzel,9,98,Quick Attack,1,3,
-419,floatzel,9,129,Swift,1,15,
-419,floatzel,9,228,Pursuit,1,10,
-419,floatzel,9,242,Crunch,1,26,
-419,floatzel,9,250,Whirlpool,1,39,
-419,floatzel,9,346,Water Sport,1,1,4
-419,floatzel,9,423,Ice Fang,1,1,1
-419,floatzel,9,453,Aqua Jet,1,21,
-419,floatzel,10,13,Razor Wind,1,50,
-419,floatzel,10,45,Growl,1,1,3
-419,floatzel,10,49,Sonic Boom,1,1,2
-419,floatzel,10,55,Water Gun,1,6,
-419,floatzel,10,97,Agility,1,29,
-419,floatzel,10,98,Quick Attack,1,1,5
-419,floatzel,10,98,Quick Attack,1,3,
-419,floatzel,10,129,Swift,1,15,
-419,floatzel,10,228,Pursuit,1,10,
-419,floatzel,10,242,Crunch,1,26,
-419,floatzel,10,250,Whirlpool,1,39,
-419,floatzel,10,346,Water Sport,1,1,4
-419,floatzel,10,423,Ice Fang,1,1,1
-419,floatzel,10,453,Aqua Jet,1,21,
-419,floatzel,11,13,Razor Wind,1,50,
-419,floatzel,11,45,Growl,1,1,3
-419,floatzel,11,49,Sonic Boom,1,1,2
-419,floatzel,11,55,Water Gun,1,6,
-419,floatzel,11,97,Agility,1,29,
-419,floatzel,11,98,Quick Attack,1,1,5
-419,floatzel,11,98,Quick Attack,1,3,
-419,floatzel,11,129,Swift,1,15,
-419,floatzel,11,228,Pursuit,1,10,
-419,floatzel,11,242,Crunch,1,26,
-419,floatzel,11,250,Whirlpool,1,39,
-419,floatzel,11,346,Water Sport,1,1,4
-419,floatzel,11,401,Aqua Tail,1,62,
-419,floatzel,11,423,Ice Fang,1,1,1
-419,floatzel,11,453,Aqua Jet,1,21,
-419,floatzel,14,13,Razor Wind,1,41,
-419,floatzel,14,45,Growl,1,1,4
-419,floatzel,14,45,Growl,1,4,
-419,floatzel,14,49,Sonic Boom,1,1,3
-419,floatzel,14,55,Water Gun,1,15,
-419,floatzel,14,56,Hydro Pump,1,57,
-419,floatzel,14,97,Agility,1,51,
-419,floatzel,14,98,Quick Attack,1,1,6
-419,floatzel,14,98,Quick Attack,1,11,
-419,floatzel,14,129,Swift,1,21,
-419,floatzel,14,228,Pursuit,1,18,
-419,floatzel,14,242,Crunch,1,1,2
-419,floatzel,14,250,Whirlpool,1,35,
-419,floatzel,14,346,Water Sport,1,1,5
-419,floatzel,14,346,Water Sport,1,7,
-419,floatzel,14,401,Aqua Tail,1,46,
-419,floatzel,14,423,Ice Fang,1,1,1
-419,floatzel,14,453,Aqua Jet,1,24,
-419,floatzel,14,458,Double Hit,1,29,
-419,floatzel,15,13,Razor Wind,1,41,
-419,floatzel,15,45,Growl,1,1,4
-419,floatzel,15,45,Growl,1,4,
-419,floatzel,15,49,Sonic Boom,1,1,3
-419,floatzel,15,55,Water Gun,1,15,
-419,floatzel,15,56,Hydro Pump,1,57,
-419,floatzel,15,97,Agility,1,51,
-419,floatzel,15,98,Quick Attack,1,1,6
-419,floatzel,15,98,Quick Attack,1,11,
-419,floatzel,15,129,Swift,1,21,
-419,floatzel,15,228,Pursuit,1,18,
-419,floatzel,15,242,Crunch,1,1,2
-419,floatzel,15,250,Whirlpool,1,35,
-419,floatzel,15,346,Water Sport,1,1,5
-419,floatzel,15,346,Water Sport,1,7,
-419,floatzel,15,401,Aqua Tail,1,46,
-419,floatzel,15,423,Ice Fang,1,1,1
-419,floatzel,15,453,Aqua Jet,1,24,
-419,floatzel,15,458,Double Hit,1,29,
-419,floatzel,16,13,Razor Wind,1,41,1
-419,floatzel,16,45,Growl,1,1,4
-419,floatzel,16,45,Growl,1,4,1
-419,floatzel,16,49,Sonic Boom,1,1,3
-419,floatzel,16,55,Water Gun,1,15,1
-419,floatzel,16,56,Hydro Pump,1,57,1
-419,floatzel,16,97,Agility,1,51,1
-419,floatzel,16,98,Quick Attack,1,1,6
-419,floatzel,16,98,Quick Attack,1,11,1
-419,floatzel,16,129,Swift,1,21,1
-419,floatzel,16,228,Pursuit,1,18,1
-419,floatzel,16,242,Crunch,1,1,2
-419,floatzel,16,250,Whirlpool,1,35,1
-419,floatzel,16,346,Water Sport,1,1,5
-419,floatzel,16,346,Water Sport,1,7,1
-419,floatzel,16,401,Aqua Tail,1,46,1
-419,floatzel,16,423,Ice Fang,1,1,1
-419,floatzel,16,453,Aqua Jet,1,24,1
-419,floatzel,16,458,Double Hit,1,29,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+419,8,Growl,1,normal,-,100
+419,8,Sonic Boom,1,normal,-,90
+419,8,Quick Attack,1,normal,40,100
+419,8,Water Sport,1,water,-,-
+419,8,Ice Fang,1,ice,65,95
+419,9,Growl,1,normal,-,100
+419,9,Sonic Boom,1,normal,-,90
+419,9,Quick Attack,1,normal,40,100
+419,9,Water Sport,1,water,-,-
+419,9,Ice Fang,1,ice,65,95
+419,10,Growl,1,normal,-,100
+419,10,Sonic Boom,1,normal,-,90
+419,10,Quick Attack,1,normal,40,100
+419,10,Water Sport,1,water,-,-
+419,10,Ice Fang,1,ice,65,95
+419,11,Growl,1,normal,-,100
+419,11,Sonic Boom,1,normal,-,90
+419,11,Quick Attack,1,normal,40,100
+419,11,Water Sport,1,water,-,-
+419,11,Ice Fang,1,ice,65,95
+419,14,Growl,1,normal,-,100
+419,14,Sonic Boom,1,normal,-,90
+419,14,Quick Attack,1,normal,40,100
+419,14,Crunch,1,dark,80,100
+419,14,Water Sport,1,water,-,-
+419,14,Ice Fang,1,ice,65,95
+419,15,Growl,1,normal,-,100
+419,15,Sonic Boom,1,normal,-,90
+419,15,Quick Attack,1,normal,40,100
+419,15,Crunch,1,dark,80,100
+419,15,Water Sport,1,water,-,-
+419,15,Ice Fang,1,ice,65,95
+419,16,Growl,1,normal,-,100
+419,16,Sonic Boom,1,normal,-,90
+419,16,Quick Attack,1,normal,40,100
+419,16,Crunch,1,dark,80,100
+419,16,Water Sport,1,water,-,-
+419,16,Ice Fang,1,ice,65,95
+419,8,Quick Attack,3,normal,40,100
+419,9,Quick Attack,3,normal,40,100
+419,10,Quick Attack,3,normal,40,100
+419,11,Quick Attack,3,normal,40,100
+419,14,Growl,4,normal,-,100
+419,15,Growl,4,normal,-,100
+419,16,Growl,4,normal,-,100
+419,8,Water Gun,6,water,40,100
+419,9,Water Gun,6,water,40,100
+419,10,Water Gun,6,water,40,100
+419,11,Water Gun,6,water,40,100
+419,14,Water Sport,7,water,-,-
+419,15,Water Sport,7,water,-,-
+419,16,Water Sport,7,water,-,-
+419,8,Pursuit,10,dark,40,100
+419,9,Pursuit,10,dark,40,100
+419,10,Pursuit,10,dark,40,100
+419,11,Pursuit,10,dark,40,100
+419,14,Quick Attack,11,normal,40,100
+419,15,Quick Attack,11,normal,40,100
+419,16,Quick Attack,11,normal,40,100
+419,8,Swift,15,normal,60,-
+419,9,Swift,15,normal,60,-
+419,10,Swift,15,normal,60,-
+419,11,Swift,15,normal,60,-
+419,14,Water Gun,15,water,40,100
+419,15,Water Gun,15,water,40,100
+419,16,Water Gun,15,water,40,100
+419,14,Pursuit,18,dark,40,100
+419,15,Pursuit,18,dark,40,100
+419,16,Pursuit,18,dark,40,100
+419,8,Aqua Jet,21,water,40,100
+419,9,Aqua Jet,21,water,40,100
+419,10,Aqua Jet,21,water,40,100
+419,11,Aqua Jet,21,water,40,100
+419,14,Swift,21,normal,60,-
+419,15,Swift,21,normal,60,-
+419,16,Swift,21,normal,60,-
+419,14,Aqua Jet,24,water,40,100
+419,15,Aqua Jet,24,water,40,100
+419,16,Aqua Jet,24,water,40,100
+419,8,Crunch,26,dark,80,100
+419,9,Crunch,26,dark,80,100
+419,10,Crunch,26,dark,80,100
+419,11,Crunch,26,dark,80,100
+419,8,Agility,29,psychic,-,-
+419,9,Agility,29,psychic,-,-
+419,10,Agility,29,psychic,-,-
+419,11,Agility,29,psychic,-,-
+419,14,Double Hit,29,normal,35,90
+419,15,Double Hit,29,normal,35,90
+419,16,Double Hit,29,normal,35,90
+419,14,Whirlpool,35,water,35,85
+419,15,Whirlpool,35,water,35,85
+419,16,Whirlpool,35,water,35,85
+419,8,Whirlpool,39,water,35,85
+419,9,Whirlpool,39,water,35,85
+419,10,Whirlpool,39,water,35,85
+419,11,Whirlpool,39,water,35,85
+419,14,Razor Wind,41,normal,80,100
+419,15,Razor Wind,41,normal,80,100
+419,16,Razor Wind,41,normal,80,100
+419,14,Aqua Tail,46,water,90,90
+419,15,Aqua Tail,46,water,90,90
+419,16,Aqua Tail,46,water,90,90
+419,8,Razor Wind,50,normal,80,100
+419,9,Razor Wind,50,normal,80,100
+419,10,Razor Wind,50,normal,80,100
+419,11,Razor Wind,50,normal,80,100
+419,14,Agility,51,psychic,-,-
+419,15,Agility,51,psychic,-,-
+419,16,Agility,51,psychic,-,-
+419,14,Hydro Pump,57,water,110,80
+419,15,Hydro Pump,57,water,110,80
+419,16,Hydro Pump,57,water,110,80
+419,11,Aqua Tail,62,water,90,90

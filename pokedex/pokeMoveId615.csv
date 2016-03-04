@@ -1,85 +1,85 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-615,cryogonal,11,20,Bind,1,1,
-615,cryogonal,11,54,Mist,1,21,1
-615,cryogonal,11,58,Ice Beam,1,33,
-615,cryogonal,11,62,Aurora Beam,1,25,
-615,cryogonal,11,76,Solar Beam,1,53,
-615,cryogonal,11,105,Recover,1,49,
-615,cryogonal,11,109,Confuse Ray,1,45,
-615,cryogonal,11,113,Light Screen,1,37,1
-615,cryogonal,11,114,Haze,1,21,2
-615,cryogonal,11,115,Reflect,1,37,2
-615,cryogonal,11,151,Acid Armor,1,29,
-615,cryogonal,11,159,Sharpen,1,9,
-615,cryogonal,11,163,Slash,1,41,
-615,cryogonal,11,196,Icy Wind,1,17,
-615,cryogonal,11,229,Rapid Spin,1,13,
-615,cryogonal,11,329,Sheer Cold,1,61,
-615,cryogonal,11,400,Night Slash,1,57,
-615,cryogonal,11,420,Ice Shard,1,5,
-615,cryogonal,14,20,Bind,1,1,
-615,cryogonal,14,54,Mist,1,21,1
-615,cryogonal,14,58,Ice Beam,1,33,
-615,cryogonal,14,62,Aurora Beam,1,25,
-615,cryogonal,14,76,Solar Beam,1,53,
-615,cryogonal,14,105,Recover,1,49,
-615,cryogonal,14,109,Confuse Ray,1,45,
-615,cryogonal,14,113,Light Screen,1,37,1
-615,cryogonal,14,114,Haze,1,21,2
-615,cryogonal,14,115,Reflect,1,37,2
-615,cryogonal,14,151,Acid Armor,1,29,
-615,cryogonal,14,159,Sharpen,1,9,
-615,cryogonal,14,163,Slash,1,41,
-615,cryogonal,14,196,Icy Wind,1,17,
-615,cryogonal,14,229,Rapid Spin,1,13,
-615,cryogonal,14,329,Sheer Cold,1,61,
-615,cryogonal,14,400,Night Slash,1,57,
-615,cryogonal,14,420,Ice Shard,1,5,
-615,cryogonal,15,20,Bind,1,1,6
-615,cryogonal,15,54,Mist,1,1,4
-615,cryogonal,15,54,Mist,1,21,1
-615,cryogonal,15,58,Ice Beam,1,33,
-615,cryogonal,15,62,Aurora Beam,1,25,
-615,cryogonal,15,76,Solar Beam,1,53,
-615,cryogonal,15,105,Recover,1,49,
-615,cryogonal,15,109,Confuse Ray,1,45,
-615,cryogonal,15,113,Light Screen,1,37,1
-615,cryogonal,15,114,Haze,1,1,5
-615,cryogonal,15,114,Haze,1,21,2
-615,cryogonal,15,115,Reflect,1,37,2
-615,cryogonal,15,151,Acid Armor,1,29,
-615,cryogonal,15,159,Sharpen,1,9,
-615,cryogonal,15,163,Slash,1,41,
-615,cryogonal,15,196,Icy Wind,1,17,
-615,cryogonal,15,229,Rapid Spin,1,13,
-615,cryogonal,15,329,Sheer Cold,1,1,1
-615,cryogonal,15,329,Sheer Cold,1,61,
-615,cryogonal,15,400,Night Slash,1,1,2
-615,cryogonal,15,400,Night Slash,1,57,
-615,cryogonal,15,420,Ice Shard,1,1,3
-615,cryogonal,15,420,Ice Shard,1,5,
-615,cryogonal,15,573,Freeze-Dry,1,50,
-615,cryogonal,16,20,Bind,1,1,6
-615,cryogonal,16,54,Mist,1,1,4
-615,cryogonal,16,54,Mist,1,21,1
-615,cryogonal,16,58,Ice Beam,1,33,1
-615,cryogonal,16,62,Aurora Beam,1,25,1
-615,cryogonal,16,76,Solar Beam,1,53,1
-615,cryogonal,16,105,Recover,1,49,1
-615,cryogonal,16,109,Confuse Ray,1,45,1
-615,cryogonal,16,113,Light Screen,1,37,1
-615,cryogonal,16,114,Haze,1,1,5
-615,cryogonal,16,114,Haze,1,21,2
-615,cryogonal,16,115,Reflect,1,37,2
-615,cryogonal,16,151,Acid Armor,1,29,1
-615,cryogonal,16,159,Sharpen,1,9,1
-615,cryogonal,16,163,Slash,1,41,1
-615,cryogonal,16,196,Icy Wind,1,17,1
-615,cryogonal,16,229,Rapid Spin,1,13,1
-615,cryogonal,16,329,Sheer Cold,1,1,1
-615,cryogonal,16,329,Sheer Cold,1,61,1
-615,cryogonal,16,400,Night Slash,1,1,2
-615,cryogonal,16,400,Night Slash,1,57,1
-615,cryogonal,16,420,Ice Shard,1,1,3
-615,cryogonal,16,420,Ice Shard,1,5,1
-615,cryogonal,16,573,Freeze-Dry,1,50,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+615,11,Bind,1,normal,15,85
+615,14,Bind,1,normal,15,85
+615,15,Bind,1,normal,15,85
+615,15,Mist,1,ice,-,-
+615,15,Haze,1,ice,-,-
+615,15,Sheer Cold,1,ice,-,30
+615,15,Night Slash,1,dark,70,100
+615,15,Ice Shard,1,ice,40,100
+615,16,Bind,1,normal,15,85
+615,16,Mist,1,ice,-,-
+615,16,Haze,1,ice,-,-
+615,16,Sheer Cold,1,ice,-,30
+615,16,Night Slash,1,dark,70,100
+615,16,Ice Shard,1,ice,40,100
+615,11,Ice Shard,5,ice,40,100
+615,14,Ice Shard,5,ice,40,100
+615,15,Ice Shard,5,ice,40,100
+615,16,Ice Shard,5,ice,40,100
+615,11,Sharpen,9,normal,-,-
+615,14,Sharpen,9,normal,-,-
+615,15,Sharpen,9,normal,-,-
+615,16,Sharpen,9,normal,-,-
+615,11,Rapid Spin,13,normal,20,100
+615,14,Rapid Spin,13,normal,20,100
+615,15,Rapid Spin,13,normal,20,100
+615,16,Rapid Spin,13,normal,20,100
+615,11,Icy Wind,17,ice,55,95
+615,14,Icy Wind,17,ice,55,95
+615,15,Icy Wind,17,ice,55,95
+615,16,Icy Wind,17,ice,55,95
+615,11,Mist,21,ice,-,-
+615,11,Haze,21,ice,-,-
+615,14,Mist,21,ice,-,-
+615,14,Haze,21,ice,-,-
+615,15,Mist,21,ice,-,-
+615,15,Haze,21,ice,-,-
+615,16,Mist,21,ice,-,-
+615,16,Haze,21,ice,-,-
+615,11,Aurora Beam,25,ice,65,100
+615,14,Aurora Beam,25,ice,65,100
+615,15,Aurora Beam,25,ice,65,100
+615,16,Aurora Beam,25,ice,65,100
+615,11,Acid Armor,29,poison,-,-
+615,14,Acid Armor,29,poison,-,-
+615,15,Acid Armor,29,poison,-,-
+615,16,Acid Armor,29,poison,-,-
+615,11,Ice Beam,33,ice,90,100
+615,14,Ice Beam,33,ice,90,100
+615,15,Ice Beam,33,ice,90,100
+615,16,Ice Beam,33,ice,90,100
+615,11,Light Screen,37,psychic,-,-
+615,11,Reflect,37,psychic,-,-
+615,14,Light Screen,37,psychic,-,-
+615,14,Reflect,37,psychic,-,-
+615,15,Light Screen,37,psychic,-,-
+615,15,Reflect,37,psychic,-,-
+615,16,Light Screen,37,psychic,-,-
+615,16,Reflect,37,psychic,-,-
+615,11,Slash,41,normal,70,100
+615,14,Slash,41,normal,70,100
+615,15,Slash,41,normal,70,100
+615,16,Slash,41,normal,70,100
+615,11,Confuse Ray,45,ghost,-,100
+615,14,Confuse Ray,45,ghost,-,100
+615,15,Confuse Ray,45,ghost,-,100
+615,16,Confuse Ray,45,ghost,-,100
+615,11,Recover,49,normal,-,-
+615,14,Recover,49,normal,-,-
+615,15,Recover,49,normal,-,-
+615,16,Recover,49,normal,-,-
+615,15,Freeze-Dry,50,ice,70,100
+615,16,Freeze-Dry,50,ice,70,100
+615,11,Solar Beam,53,grass,120,100
+615,14,Solar Beam,53,grass,120,100
+615,15,Solar Beam,53,grass,120,100
+615,16,Solar Beam,53,grass,120,100
+615,11,Night Slash,57,dark,70,100
+615,14,Night Slash,57,dark,70,100
+615,15,Night Slash,57,dark,70,100
+615,16,Night Slash,57,dark,70,100
+615,11,Sheer Cold,61,ice,-,30
+615,14,Sheer Cold,61,ice,-,30
+615,15,Sheer Cold,61,ice,-,30
+615,16,Sheer Cold,61,ice,-,30

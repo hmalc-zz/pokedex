@@ -1,207 +1,207 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-321,wailord,5,45,Growl,1,1,2
-321,wailord,5,45,Growl,1,5,
-321,wailord,5,54,Mist,1,32,
-321,wailord,5,55,Water Gun,1,1,3
-321,wailord,5,55,Water Gun,1,10,
-321,wailord,5,56,Hydro Pump,1,59,
-321,wailord,5,133,Amnesia,1,52,
-321,wailord,5,150,Splash,1,1,1
-321,wailord,5,156,Rest,1,37,
-321,wailord,5,205,Rollout,1,1,4
-321,wailord,5,205,Rollout,1,14,
-321,wailord,5,250,Whirlpool,1,19,
-321,wailord,5,310,Astonish,1,23,
-321,wailord,5,323,Water Spout,1,44,
-321,wailord,5,352,Water Pulse,1,28,
-321,wailord,6,45,Growl,1,1,2
-321,wailord,6,45,Growl,1,5,
-321,wailord,6,54,Mist,1,32,
-321,wailord,6,55,Water Gun,1,1,3
-321,wailord,6,55,Water Gun,1,10,
-321,wailord,6,56,Hydro Pump,1,59,
-321,wailord,6,133,Amnesia,1,52,
-321,wailord,6,150,Splash,1,1,1
-321,wailord,6,156,Rest,1,37,
-321,wailord,6,205,Rollout,1,1,4
-321,wailord,6,205,Rollout,1,14,
-321,wailord,6,250,Whirlpool,1,19,
-321,wailord,6,310,Astonish,1,23,
-321,wailord,6,323,Water Spout,1,44,
-321,wailord,6,352,Water Pulse,1,28,
-321,wailord,7,45,Growl,1,1,2
-321,wailord,7,45,Growl,1,5,
-321,wailord,7,54,Mist,1,32,
-321,wailord,7,55,Water Gun,1,1,3
-321,wailord,7,55,Water Gun,1,10,
-321,wailord,7,56,Hydro Pump,1,59,
-321,wailord,7,133,Amnesia,1,52,
-321,wailord,7,150,Splash,1,1,1
-321,wailord,7,156,Rest,1,37,
-321,wailord,7,205,Rollout,1,1,4
-321,wailord,7,205,Rollout,1,14,
-321,wailord,7,250,Whirlpool,1,19,
-321,wailord,7,310,Astonish,1,23,
-321,wailord,7,323,Water Spout,1,44,
-321,wailord,7,352,Water Pulse,1,28,
-321,wailord,8,45,Growl,1,1,2
-321,wailord,8,45,Growl,1,4,
-321,wailord,8,54,Mist,1,24,
-321,wailord,8,55,Water Gun,1,1,3
-321,wailord,8,55,Water Gun,1,7,
-321,wailord,8,56,Hydro Pump,1,62,
-321,wailord,8,133,Amnesia,1,37,
-321,wailord,8,150,Splash,1,1,1
-321,wailord,8,156,Rest,1,27,
-321,wailord,8,205,Rollout,1,1,4
-321,wailord,8,205,Rollout,1,11,
-321,wailord,8,250,Whirlpool,1,14,
-321,wailord,8,291,Dive,1,46,
-321,wailord,8,310,Astonish,1,17,
-321,wailord,8,323,Water Spout,1,34,
-321,wailord,8,340,Bounce,1,54,
-321,wailord,8,352,Water Pulse,1,21,
-321,wailord,8,362,Brine,1,31,
-321,wailord,9,45,Growl,1,1,2
-321,wailord,9,45,Growl,1,4,
-321,wailord,9,54,Mist,1,24,
-321,wailord,9,55,Water Gun,1,1,3
-321,wailord,9,55,Water Gun,1,7,
-321,wailord,9,56,Hydro Pump,1,62,
-321,wailord,9,133,Amnesia,1,37,
-321,wailord,9,150,Splash,1,1,1
-321,wailord,9,156,Rest,1,27,
-321,wailord,9,205,Rollout,1,1,4
-321,wailord,9,205,Rollout,1,11,
-321,wailord,9,250,Whirlpool,1,14,
-321,wailord,9,291,Dive,1,46,
-321,wailord,9,310,Astonish,1,17,
-321,wailord,9,323,Water Spout,1,34,
-321,wailord,9,340,Bounce,1,54,
-321,wailord,9,352,Water Pulse,1,21,
-321,wailord,9,362,Brine,1,31,
-321,wailord,10,45,Growl,1,1,2
-321,wailord,10,45,Growl,1,4,
-321,wailord,10,54,Mist,1,24,
-321,wailord,10,55,Water Gun,1,1,3
-321,wailord,10,55,Water Gun,1,7,
-321,wailord,10,56,Hydro Pump,1,62,
-321,wailord,10,133,Amnesia,1,37,
-321,wailord,10,150,Splash,1,1,1
-321,wailord,10,156,Rest,1,27,
-321,wailord,10,205,Rollout,1,1,4
-321,wailord,10,205,Rollout,1,11,
-321,wailord,10,250,Whirlpool,1,14,
-321,wailord,10,291,Dive,1,46,
-321,wailord,10,310,Astonish,1,17,
-321,wailord,10,323,Water Spout,1,34,
-321,wailord,10,340,Bounce,1,54,
-321,wailord,10,352,Water Pulse,1,21,
-321,wailord,10,362,Brine,1,31,
-321,wailord,11,45,Growl,1,1,2
-321,wailord,11,45,Growl,1,4,
-321,wailord,11,54,Mist,1,24,
-321,wailord,11,55,Water Gun,1,1,3
-321,wailord,11,55,Water Gun,1,7,
-321,wailord,11,56,Hydro Pump,1,62,
-321,wailord,11,133,Amnesia,1,37,
-321,wailord,11,150,Splash,1,1,1
-321,wailord,11,156,Rest,1,27,
-321,wailord,11,205,Rollout,1,1,4
-321,wailord,11,205,Rollout,1,11,
-321,wailord,11,250,Whirlpool,1,14,
-321,wailord,11,291,Dive,1,46,
-321,wailord,11,310,Astonish,1,17,
-321,wailord,11,323,Water Spout,1,34,
-321,wailord,11,340,Bounce,1,54,
-321,wailord,11,352,Water Pulse,1,21,
-321,wailord,11,362,Brine,1,31,
-321,wailord,11,484,Heavy Slam,1,70,
-321,wailord,12,45,Growl,1,1,2
-321,wailord,12,45,Growl,1,5,
-321,wailord,12,54,Mist,1,32,
-321,wailord,12,55,Water Gun,1,1,3
-321,wailord,12,55,Water Gun,1,10,
-321,wailord,12,56,Hydro Pump,1,59,
-321,wailord,12,133,Amnesia,1,52,
-321,wailord,12,150,Splash,1,1,1
-321,wailord,12,156,Rest,1,37,
-321,wailord,12,205,Rollout,1,1,4
-321,wailord,12,205,Rollout,1,14,
-321,wailord,12,250,Whirlpool,1,19,
-321,wailord,12,310,Astonish,1,23,
-321,wailord,12,323,Water Spout,1,44,
-321,wailord,12,352,Water Pulse,1,28,
-321,wailord,13,45,Growl,1,1,2
-321,wailord,13,45,Growl,1,5,
-321,wailord,13,54,Mist,1,32,
-321,wailord,13,55,Water Gun,1,1,3
-321,wailord,13,55,Water Gun,1,10,
-321,wailord,13,56,Hydro Pump,1,59,
-321,wailord,13,133,Amnesia,1,52,
-321,wailord,13,150,Splash,1,1,1
-321,wailord,13,156,Rest,1,37,
-321,wailord,13,205,Rollout,1,1,4
-321,wailord,13,205,Rollout,1,14,
-321,wailord,13,250,Whirlpool,1,19,
-321,wailord,13,310,Astonish,1,23,
-321,wailord,13,323,Water Spout,1,44,
-321,wailord,13,352,Water Pulse,1,28,
-321,wailord,14,45,Growl,1,1,2
-321,wailord,14,45,Growl,1,4,
-321,wailord,14,54,Mist,1,24,
-321,wailord,14,55,Water Gun,1,1,3
-321,wailord,14,55,Water Gun,1,7,
-321,wailord,14,56,Hydro Pump,1,62,
-321,wailord,14,133,Amnesia,1,37,
-321,wailord,14,150,Splash,1,1,1
-321,wailord,14,156,Rest,1,27,
-321,wailord,14,205,Rollout,1,1,4
-321,wailord,14,205,Rollout,1,11,
-321,wailord,14,250,Whirlpool,1,14,
-321,wailord,14,291,Dive,1,46,
-321,wailord,14,310,Astonish,1,17,
-321,wailord,14,323,Water Spout,1,34,
-321,wailord,14,340,Bounce,1,54,
-321,wailord,14,352,Water Pulse,1,21,
-321,wailord,14,362,Brine,1,31,
-321,wailord,14,484,Heavy Slam,1,70,
-321,wailord,15,45,Growl,1,1,2
-321,wailord,15,45,Growl,1,4,
-321,wailord,15,54,Mist,1,24,
-321,wailord,15,55,Water Gun,1,1,3
-321,wailord,15,55,Water Gun,1,7,
-321,wailord,15,56,Hydro Pump,1,62,
-321,wailord,15,133,Amnesia,1,37,
-321,wailord,15,150,Splash,1,1,1
-321,wailord,15,156,Rest,1,27,
-321,wailord,15,205,Rollout,1,1,4
-321,wailord,15,205,Rollout,1,11,
-321,wailord,15,250,Whirlpool,1,14,
-321,wailord,15,291,Dive,1,46,
-321,wailord,15,310,Astonish,1,17,
-321,wailord,15,323,Water Spout,1,34,
-321,wailord,15,340,Bounce,1,54,
-321,wailord,15,352,Water Pulse,1,21,
-321,wailord,15,362,Brine,1,31,
-321,wailord,15,484,Heavy Slam,1,70,
-321,wailord,16,45,Growl,1,1,3
-321,wailord,16,45,Growl,1,4,1
-321,wailord,16,54,Mist,1,22,1
-321,wailord,16,55,Water Gun,1,1,4
-321,wailord,16,55,Water Gun,1,7,1
-321,wailord,16,56,Hydro Pump,1,58,1
-321,wailord,16,133,Amnesia,1,37,1
-321,wailord,16,150,Splash,1,1,2
-321,wailord,16,156,Rest,1,25,1
-321,wailord,16,205,Rollout,1,1,5
-321,wailord,16,205,Rollout,1,10,1
-321,wailord,16,250,Whirlpool,1,13,1
-321,wailord,16,291,Dive,1,44,1
-321,wailord,16,310,Astonish,1,16,1
-321,wailord,16,323,Water Spout,1,33,1
-321,wailord,16,340,Bounce,1,51,1
-321,wailord,16,352,Water Pulse,1,19,1
-321,wailord,16,362,Brine,1,29,1
-321,wailord,16,484,Heavy Slam,1,1,1
-321,wailord,16,484,Heavy Slam,1,65,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+321,5,Growl,1,normal,-,100
+321,5,Water Gun,1,water,40,100
+321,5,Splash,1,normal,-,-
+321,5,Rollout,1,rock,30,90
+321,6,Growl,1,normal,-,100
+321,6,Water Gun,1,water,40,100
+321,6,Splash,1,normal,-,-
+321,6,Rollout,1,rock,30,90
+321,7,Growl,1,normal,-,100
+321,7,Water Gun,1,water,40,100
+321,7,Splash,1,normal,-,-
+321,7,Rollout,1,rock,30,90
+321,8,Growl,1,normal,-,100
+321,8,Water Gun,1,water,40,100
+321,8,Splash,1,normal,-,-
+321,8,Rollout,1,rock,30,90
+321,9,Growl,1,normal,-,100
+321,9,Water Gun,1,water,40,100
+321,9,Splash,1,normal,-,-
+321,9,Rollout,1,rock,30,90
+321,10,Growl,1,normal,-,100
+321,10,Water Gun,1,water,40,100
+321,10,Splash,1,normal,-,-
+321,10,Rollout,1,rock,30,90
+321,11,Growl,1,normal,-,100
+321,11,Water Gun,1,water,40,100
+321,11,Splash,1,normal,-,-
+321,11,Rollout,1,rock,30,90
+321,12,Growl,1,normal,-,100
+321,12,Water Gun,1,water,40,100
+321,12,Splash,1,normal,-,-
+321,12,Rollout,1,rock,30,90
+321,13,Growl,1,normal,-,100
+321,13,Water Gun,1,water,40,100
+321,13,Splash,1,normal,-,-
+321,13,Rollout,1,rock,30,90
+321,14,Growl,1,normal,-,100
+321,14,Water Gun,1,water,40,100
+321,14,Splash,1,normal,-,-
+321,14,Rollout,1,rock,30,90
+321,15,Growl,1,normal,-,100
+321,15,Water Gun,1,water,40,100
+321,15,Splash,1,normal,-,-
+321,15,Rollout,1,rock,30,90
+321,16,Growl,1,normal,-,100
+321,16,Water Gun,1,water,40,100
+321,16,Splash,1,normal,-,-
+321,16,Rollout,1,rock,30,90
+321,16,Heavy Slam,1,steel,-,100
+321,8,Growl,4,normal,-,100
+321,9,Growl,4,normal,-,100
+321,10,Growl,4,normal,-,100
+321,11,Growl,4,normal,-,100
+321,14,Growl,4,normal,-,100
+321,15,Growl,4,normal,-,100
+321,16,Growl,4,normal,-,100
+321,5,Growl,5,normal,-,100
+321,6,Growl,5,normal,-,100
+321,7,Growl,5,normal,-,100
+321,12,Growl,5,normal,-,100
+321,13,Growl,5,normal,-,100
+321,8,Water Gun,7,water,40,100
+321,9,Water Gun,7,water,40,100
+321,10,Water Gun,7,water,40,100
+321,11,Water Gun,7,water,40,100
+321,14,Water Gun,7,water,40,100
+321,15,Water Gun,7,water,40,100
+321,16,Water Gun,7,water,40,100
+321,5,Water Gun,10,water,40,100
+321,6,Water Gun,10,water,40,100
+321,7,Water Gun,10,water,40,100
+321,12,Water Gun,10,water,40,100
+321,13,Water Gun,10,water,40,100
+321,16,Rollout,10,rock,30,90
+321,8,Rollout,11,rock,30,90
+321,9,Rollout,11,rock,30,90
+321,10,Rollout,11,rock,30,90
+321,11,Rollout,11,rock,30,90
+321,14,Rollout,11,rock,30,90
+321,15,Rollout,11,rock,30,90
+321,16,Whirlpool,13,water,35,85
+321,5,Rollout,14,rock,30,90
+321,6,Rollout,14,rock,30,90
+321,7,Rollout,14,rock,30,90
+321,8,Whirlpool,14,water,35,85
+321,9,Whirlpool,14,water,35,85
+321,10,Whirlpool,14,water,35,85
+321,11,Whirlpool,14,water,35,85
+321,12,Rollout,14,rock,30,90
+321,13,Rollout,14,rock,30,90
+321,14,Whirlpool,14,water,35,85
+321,15,Whirlpool,14,water,35,85
+321,16,Astonish,16,ghost,30,100
+321,8,Astonish,17,ghost,30,100
+321,9,Astonish,17,ghost,30,100
+321,10,Astonish,17,ghost,30,100
+321,11,Astonish,17,ghost,30,100
+321,14,Astonish,17,ghost,30,100
+321,15,Astonish,17,ghost,30,100
+321,5,Whirlpool,19,water,35,85
+321,6,Whirlpool,19,water,35,85
+321,7,Whirlpool,19,water,35,85
+321,12,Whirlpool,19,water,35,85
+321,13,Whirlpool,19,water,35,85
+321,16,Water Pulse,19,water,60,100
+321,8,Water Pulse,21,water,60,100
+321,9,Water Pulse,21,water,60,100
+321,10,Water Pulse,21,water,60,100
+321,11,Water Pulse,21,water,60,100
+321,14,Water Pulse,21,water,60,100
+321,15,Water Pulse,21,water,60,100
+321,16,Mist,22,ice,-,-
+321,5,Astonish,23,ghost,30,100
+321,6,Astonish,23,ghost,30,100
+321,7,Astonish,23,ghost,30,100
+321,12,Astonish,23,ghost,30,100
+321,13,Astonish,23,ghost,30,100
+321,8,Mist,24,ice,-,-
+321,9,Mist,24,ice,-,-
+321,10,Mist,24,ice,-,-
+321,11,Mist,24,ice,-,-
+321,14,Mist,24,ice,-,-
+321,15,Mist,24,ice,-,-
+321,16,Rest,25,psychic,-,-
+321,8,Rest,27,psychic,-,-
+321,9,Rest,27,psychic,-,-
+321,10,Rest,27,psychic,-,-
+321,11,Rest,27,psychic,-,-
+321,14,Rest,27,psychic,-,-
+321,15,Rest,27,psychic,-,-
+321,5,Water Pulse,28,water,60,100
+321,6,Water Pulse,28,water,60,100
+321,7,Water Pulse,28,water,60,100
+321,12,Water Pulse,28,water,60,100
+321,13,Water Pulse,28,water,60,100
+321,16,Brine,29,water,65,100
+321,8,Brine,31,water,65,100
+321,9,Brine,31,water,65,100
+321,10,Brine,31,water,65,100
+321,11,Brine,31,water,65,100
+321,14,Brine,31,water,65,100
+321,15,Brine,31,water,65,100
+321,5,Mist,32,ice,-,-
+321,6,Mist,32,ice,-,-
+321,7,Mist,32,ice,-,-
+321,12,Mist,32,ice,-,-
+321,13,Mist,32,ice,-,-
+321,16,Water Spout,33,water,150,100
+321,8,Water Spout,34,water,150,100
+321,9,Water Spout,34,water,150,100
+321,10,Water Spout,34,water,150,100
+321,11,Water Spout,34,water,150,100
+321,14,Water Spout,34,water,150,100
+321,15,Water Spout,34,water,150,100
+321,5,Rest,37,psychic,-,-
+321,6,Rest,37,psychic,-,-
+321,7,Rest,37,psychic,-,-
+321,8,Amnesia,37,psychic,-,-
+321,9,Amnesia,37,psychic,-,-
+321,10,Amnesia,37,psychic,-,-
+321,11,Amnesia,37,psychic,-,-
+321,12,Rest,37,psychic,-,-
+321,13,Rest,37,psychic,-,-
+321,14,Amnesia,37,psychic,-,-
+321,15,Amnesia,37,psychic,-,-
+321,16,Amnesia,37,psychic,-,-
+321,5,Water Spout,44,water,150,100
+321,6,Water Spout,44,water,150,100
+321,7,Water Spout,44,water,150,100
+321,12,Water Spout,44,water,150,100
+321,13,Water Spout,44,water,150,100
+321,16,Dive,44,water,80,100
+321,8,Dive,46,water,80,100
+321,9,Dive,46,water,80,100
+321,10,Dive,46,water,80,100
+321,11,Dive,46,water,80,100
+321,14,Dive,46,water,80,100
+321,15,Dive,46,water,80,100
+321,16,Bounce,51,flying,85,85
+321,5,Amnesia,52,psychic,-,-
+321,6,Amnesia,52,psychic,-,-
+321,7,Amnesia,52,psychic,-,-
+321,12,Amnesia,52,psychic,-,-
+321,13,Amnesia,52,psychic,-,-
+321,8,Bounce,54,flying,85,85
+321,9,Bounce,54,flying,85,85
+321,10,Bounce,54,flying,85,85
+321,11,Bounce,54,flying,85,85
+321,14,Bounce,54,flying,85,85
+321,15,Bounce,54,flying,85,85
+321,16,Hydro Pump,58,water,110,80
+321,5,Hydro Pump,59,water,110,80
+321,6,Hydro Pump,59,water,110,80
+321,7,Hydro Pump,59,water,110,80
+321,12,Hydro Pump,59,water,110,80
+321,13,Hydro Pump,59,water,110,80
+321,8,Hydro Pump,62,water,110,80
+321,9,Hydro Pump,62,water,110,80
+321,10,Hydro Pump,62,water,110,80
+321,11,Hydro Pump,62,water,110,80
+321,14,Hydro Pump,62,water,110,80
+321,15,Hydro Pump,62,water,110,80
+321,16,Heavy Slam,65,steel,-,100
+321,11,Heavy Slam,70,steel,-,100
+321,14,Heavy Slam,70,steel,-,100
+321,15,Heavy Slam,70,steel,-,100

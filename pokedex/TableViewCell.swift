@@ -12,9 +12,10 @@ class TableViewCell: UITableViewCell {
     
     @IBOutlet weak var LevelLbl: UILabel!
     @IBOutlet weak var moveName: UILabel!
-    //@IBOutlet weak var specialPhysical: UILabel!
-    //@IBOutlet weak var PPlbl: UILabel!
-    //@IBOutlet weak var PowerLbl: UILabel!
+    @IBOutlet weak var accuracyLabel: UILabel!
+    @IBOutlet weak var powerLabel: UILabel!
+    @IBOutlet weak var typeLabel: UILabel!
+
     
     var pokemon: Pokemon!
     
@@ -29,10 +30,13 @@ class TableViewCell: UITableViewCell {
         // Configure the view for the selected state
     }
     
-    func configureMoves(moveTitle: String, atLevel: Int) {
+    func configureMoves(moveTitle: String,Level: Int,typeName: String, powerLevel: String, accuracyLevel: String) {
         
         moveName.text = moveTitle
-        LevelLbl.text = "\(atLevel)"
+        LevelLbl.text = "\(Level)"
+        typeLabel.text = typeName
+        powerLabel.text = powerLevel
+        accuracyLabel.text = "\(accuracyLevel)%"
         
     }
 

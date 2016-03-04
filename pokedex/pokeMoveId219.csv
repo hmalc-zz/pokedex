@@ -1,193 +1,193 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-219,magcargo,3,34,Body Slam,1,60,
-219,magcargo,3,52,Ember,1,1,2
-219,magcargo,3,52,Ember,1,8,
-219,magcargo,3,53,Flamethrower,1,36,
-219,magcargo,3,88,Rock Throw,1,1,3
-219,magcargo,3,88,Rock Throw,1,15,
-219,magcargo,3,106,Harden,1,22,
-219,magcargo,3,123,Smog,1,1,1
-219,magcargo,3,133,Amnesia,1,29,
-219,magcargo,3,157,Rock Slide,1,48,
-219,magcargo,4,34,Body Slam,1,60,
-219,magcargo,4,52,Ember,1,1,2
-219,magcargo,4,52,Ember,1,8,
-219,magcargo,4,53,Flamethrower,1,36,
-219,magcargo,4,88,Rock Throw,1,1,3
-219,magcargo,4,88,Rock Throw,1,15,
-219,magcargo,4,106,Harden,1,22,
-219,magcargo,4,123,Smog,1,1,1
-219,magcargo,4,133,Amnesia,1,29,
-219,magcargo,4,157,Rock Slide,1,48,
-219,magcargo,5,34,Body Slam,1,60,
-219,magcargo,5,52,Ember,1,1,3
-219,magcargo,5,52,Ember,1,8,
-219,magcargo,5,53,Flamethrower,1,36,
-219,magcargo,5,88,Rock Throw,1,1,4
-219,magcargo,5,88,Rock Throw,1,15,
-219,magcargo,5,106,Harden,1,22,
-219,magcargo,5,123,Smog,1,1,2
-219,magcargo,5,133,Amnesia,1,29,
-219,magcargo,5,157,Rock Slide,1,48,
-219,magcargo,5,281,Yawn,1,1,1
-219,magcargo,6,34,Body Slam,1,60,
-219,magcargo,6,52,Ember,1,1,3
-219,magcargo,6,52,Ember,1,8,
-219,magcargo,6,53,Flamethrower,1,36,
-219,magcargo,6,88,Rock Throw,1,1,4
-219,magcargo,6,88,Rock Throw,1,15,
-219,magcargo,6,106,Harden,1,22,
-219,magcargo,6,123,Smog,1,1,2
-219,magcargo,6,133,Amnesia,1,29,
-219,magcargo,6,157,Rock Slide,1,48,
-219,magcargo,6,281,Yawn,1,1,1
-219,magcargo,7,34,Body Slam,1,60,
-219,magcargo,7,52,Ember,1,1,3
-219,magcargo,7,52,Ember,1,8,
-219,magcargo,7,53,Flamethrower,1,36,
-219,magcargo,7,88,Rock Throw,1,1,4
-219,magcargo,7,88,Rock Throw,1,15,
-219,magcargo,7,106,Harden,1,22,
-219,magcargo,7,123,Smog,1,1,2
-219,magcargo,7,133,Amnesia,1,29,
-219,magcargo,7,157,Rock Slide,1,48,
-219,magcargo,7,281,Yawn,1,1,1
-219,magcargo,8,34,Body Slam,1,52,
-219,magcargo,8,52,Ember,1,1,3
-219,magcargo,8,52,Ember,1,8,
-219,magcargo,8,53,Flamethrower,1,61,
-219,magcargo,8,88,Rock Throw,1,1,4
-219,magcargo,8,88,Rock Throw,1,11,
-219,magcargo,8,105,Recover,1,23,
-219,magcargo,8,106,Harden,1,16,
-219,magcargo,8,123,Smog,1,1,2
-219,magcargo,8,133,Amnesia,1,31,
-219,magcargo,8,157,Rock Slide,1,45,
-219,magcargo,8,246,Ancient Power,1,26,
-219,magcargo,8,281,Yawn,1,1,1
-219,magcargo,8,414,Earth Power,1,66,
-219,magcargo,8,436,Lava Plume,1,40,
-219,magcargo,9,34,Body Slam,1,52,
-219,magcargo,9,52,Ember,1,1,3
-219,magcargo,9,52,Ember,1,8,
-219,magcargo,9,53,Flamethrower,1,61,
-219,magcargo,9,88,Rock Throw,1,1,4
-219,magcargo,9,88,Rock Throw,1,11,
-219,magcargo,9,105,Recover,1,23,
-219,magcargo,9,106,Harden,1,16,
-219,magcargo,9,123,Smog,1,1,2
-219,magcargo,9,133,Amnesia,1,31,
-219,magcargo,9,157,Rock Slide,1,45,
-219,magcargo,9,246,Ancient Power,1,26,
-219,magcargo,9,281,Yawn,1,1,1
-219,magcargo,9,414,Earth Power,1,66,
-219,magcargo,9,436,Lava Plume,1,40,
-219,magcargo,10,34,Body Slam,1,52,
-219,magcargo,10,52,Ember,1,1,3
-219,magcargo,10,52,Ember,1,8,
-219,magcargo,10,53,Flamethrower,1,61,
-219,magcargo,10,88,Rock Throw,1,1,4
-219,magcargo,10,88,Rock Throw,1,11,
-219,magcargo,10,105,Recover,1,23,
-219,magcargo,10,106,Harden,1,16,
-219,magcargo,10,123,Smog,1,1,2
-219,magcargo,10,133,Amnesia,1,31,
-219,magcargo,10,157,Rock Slide,1,45,
-219,magcargo,10,246,Ancient Power,1,26,
-219,magcargo,10,281,Yawn,1,1,1
-219,magcargo,10,414,Earth Power,1,66,
-219,magcargo,10,436,Lava Plume,1,40,
-219,magcargo,11,34,Body Slam,1,52,
-219,magcargo,11,52,Ember,1,1,3
-219,magcargo,11,52,Ember,1,5,
-219,magcargo,11,53,Flamethrower,1,59,
-219,magcargo,11,88,Rock Throw,1,1,4
-219,magcargo,11,88,Rock Throw,1,10,
-219,magcargo,11,105,Recover,1,19,
-219,magcargo,11,106,Harden,1,14,
-219,magcargo,11,123,Smog,1,1,2
-219,magcargo,11,133,Amnesia,1,32,
-219,magcargo,11,157,Rock Slide,1,44,
-219,magcargo,11,246,Ancient Power,1,28,
-219,magcargo,11,281,Yawn,1,1,1
-219,magcargo,11,414,Earth Power,1,67,
-219,magcargo,11,436,Lava Plume,1,37,
-219,magcargo,11,481,Flame Burst,1,23,
-219,magcargo,11,504,Shell Smash,1,38,
-219,magcargo,12,34,Body Slam,1,60,
-219,magcargo,12,52,Ember,1,1,3
-219,magcargo,12,52,Ember,1,8,
-219,magcargo,12,53,Flamethrower,1,36,
-219,magcargo,12,88,Rock Throw,1,1,4
-219,magcargo,12,88,Rock Throw,1,15,
-219,magcargo,12,106,Harden,1,22,
-219,magcargo,12,123,Smog,1,1,2
-219,magcargo,12,133,Amnesia,1,29,
-219,magcargo,12,157,Rock Slide,1,48,
-219,magcargo,12,281,Yawn,1,1,1
-219,magcargo,13,34,Body Slam,1,60,
-219,magcargo,13,52,Ember,1,1,3
-219,magcargo,13,52,Ember,1,8,
-219,magcargo,13,53,Flamethrower,1,36,
-219,magcargo,13,88,Rock Throw,1,1,4
-219,magcargo,13,88,Rock Throw,1,15,
-219,magcargo,13,106,Harden,1,22,
-219,magcargo,13,123,Smog,1,1,2
-219,magcargo,13,133,Amnesia,1,29,
-219,magcargo,13,157,Rock Slide,1,48,
-219,magcargo,13,281,Yawn,1,1,1
-219,magcargo,14,34,Body Slam,1,52,
-219,magcargo,14,52,Ember,1,1,3
-219,magcargo,14,52,Ember,1,5,
-219,magcargo,14,53,Flamethrower,1,59,
-219,magcargo,14,88,Rock Throw,1,1,4
-219,magcargo,14,88,Rock Throw,1,10,
-219,magcargo,14,105,Recover,1,19,
-219,magcargo,14,106,Harden,1,14,
-219,magcargo,14,123,Smog,1,1,2
-219,magcargo,14,133,Amnesia,1,32,
-219,magcargo,14,157,Rock Slide,1,44,
-219,magcargo,14,246,Ancient Power,1,28,
-219,magcargo,14,281,Yawn,1,1,1
-219,magcargo,14,414,Earth Power,1,67,
-219,magcargo,14,436,Lava Plume,1,37,
-219,magcargo,14,481,Flame Burst,1,23,
-219,magcargo,14,504,Shell Smash,1,38,
-219,magcargo,15,34,Body Slam,1,52,
-219,magcargo,15,52,Ember,1,1,4
-219,magcargo,15,52,Ember,1,5,
-219,magcargo,15,53,Flamethrower,1,59,
-219,magcargo,15,88,Rock Throw,1,1,5
-219,magcargo,15,88,Rock Throw,1,10,
-219,magcargo,15,105,Recover,1,19,
-219,magcargo,15,106,Harden,1,14,
-219,magcargo,15,123,Smog,1,1,3
-219,magcargo,15,133,Amnesia,1,32,
-219,magcargo,15,157,Rock Slide,1,44,
-219,magcargo,15,246,Ancient Power,1,28,
-219,magcargo,15,281,Yawn,1,1,2
-219,magcargo,15,414,Earth Power,1,1,1
-219,magcargo,15,414,Earth Power,1,67,
-219,magcargo,15,436,Lava Plume,1,37,
-219,magcargo,15,481,Flame Burst,1,23,
-219,magcargo,15,504,Shell Smash,1,38,
-219,magcargo,16,34,Body Slam,1,43,1
-219,magcargo,16,52,Ember,1,1,4
-219,magcargo,16,52,Ember,1,6,1
-219,magcargo,16,53,Flamethrower,1,54,1
-219,magcargo,16,88,Rock Throw,1,1,5
-219,magcargo,16,88,Rock Throw,1,8,1
-219,magcargo,16,105,Recover,1,47,1
-219,magcargo,16,106,Harden,1,13,1
-219,magcargo,16,123,Smog,1,1,3
-219,magcargo,16,133,Amnesia,1,36,1
-219,magcargo,16,157,Rock Slide,1,29,1
-219,magcargo,16,246,Ancient Power,1,22,1
-219,magcargo,16,281,Yawn,1,1,2
-219,magcargo,16,414,Earth Power,1,1,1
-219,magcargo,16,414,Earth Power,1,58,1
-219,magcargo,16,436,Lava Plume,1,34,1
-219,magcargo,16,481,Flame Burst,1,27,1
-219,magcargo,16,499,Clear Smog,1,20,1
-219,magcargo,16,504,Shell Smash,1,38,1
-219,magcargo,16,510,Incinerate,1,15,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+219,3,Ember,1,fire,40,100
+219,3,Rock Throw,1,rock,50,90
+219,3,Smog,1,poison,30,70
+219,4,Ember,1,fire,40,100
+219,4,Rock Throw,1,rock,50,90
+219,4,Smog,1,poison,30,70
+219,5,Ember,1,fire,40,100
+219,5,Rock Throw,1,rock,50,90
+219,5,Smog,1,poison,30,70
+219,5,Yawn,1,normal,-,-
+219,6,Ember,1,fire,40,100
+219,6,Rock Throw,1,rock,50,90
+219,6,Smog,1,poison,30,70
+219,6,Yawn,1,normal,-,-
+219,7,Ember,1,fire,40,100
+219,7,Rock Throw,1,rock,50,90
+219,7,Smog,1,poison,30,70
+219,7,Yawn,1,normal,-,-
+219,8,Ember,1,fire,40,100
+219,8,Rock Throw,1,rock,50,90
+219,8,Smog,1,poison,30,70
+219,8,Yawn,1,normal,-,-
+219,9,Ember,1,fire,40,100
+219,9,Rock Throw,1,rock,50,90
+219,9,Smog,1,poison,30,70
+219,9,Yawn,1,normal,-,-
+219,10,Ember,1,fire,40,100
+219,10,Rock Throw,1,rock,50,90
+219,10,Smog,1,poison,30,70
+219,10,Yawn,1,normal,-,-
+219,11,Ember,1,fire,40,100
+219,11,Rock Throw,1,rock,50,90
+219,11,Smog,1,poison,30,70
+219,11,Yawn,1,normal,-,-
+219,12,Ember,1,fire,40,100
+219,12,Rock Throw,1,rock,50,90
+219,12,Smog,1,poison,30,70
+219,12,Yawn,1,normal,-,-
+219,13,Ember,1,fire,40,100
+219,13,Rock Throw,1,rock,50,90
+219,13,Smog,1,poison,30,70
+219,13,Yawn,1,normal,-,-
+219,14,Ember,1,fire,40,100
+219,14,Rock Throw,1,rock,50,90
+219,14,Smog,1,poison,30,70
+219,14,Yawn,1,normal,-,-
+219,15,Ember,1,fire,40,100
+219,15,Rock Throw,1,rock,50,90
+219,15,Smog,1,poison,30,70
+219,15,Yawn,1,normal,-,-
+219,15,Earth Power,1,ground,90,100
+219,16,Ember,1,fire,40,100
+219,16,Rock Throw,1,rock,50,90
+219,16,Smog,1,poison,30,70
+219,16,Yawn,1,normal,-,-
+219,16,Earth Power,1,ground,90,100
+219,11,Ember,5,fire,40,100
+219,14,Ember,5,fire,40,100
+219,15,Ember,5,fire,40,100
+219,16,Ember,6,fire,40,100
+219,3,Ember,8,fire,40,100
+219,4,Ember,8,fire,40,100
+219,5,Ember,8,fire,40,100
+219,6,Ember,8,fire,40,100
+219,7,Ember,8,fire,40,100
+219,8,Ember,8,fire,40,100
+219,9,Ember,8,fire,40,100
+219,10,Ember,8,fire,40,100
+219,12,Ember,8,fire,40,100
+219,13,Ember,8,fire,40,100
+219,16,Rock Throw,8,rock,50,90
+219,11,Rock Throw,10,rock,50,90
+219,14,Rock Throw,10,rock,50,90
+219,15,Rock Throw,10,rock,50,90
+219,8,Rock Throw,11,rock,50,90
+219,9,Rock Throw,11,rock,50,90
+219,10,Rock Throw,11,rock,50,90
+219,16,Harden,13,normal,-,-
+219,11,Harden,14,normal,-,-
+219,14,Harden,14,normal,-,-
+219,15,Harden,14,normal,-,-
+219,3,Rock Throw,15,rock,50,90
+219,4,Rock Throw,15,rock,50,90
+219,5,Rock Throw,15,rock,50,90
+219,6,Rock Throw,15,rock,50,90
+219,7,Rock Throw,15,rock,50,90
+219,12,Rock Throw,15,rock,50,90
+219,13,Rock Throw,15,rock,50,90
+219,16,Incinerate,15,fire,60,100
+219,8,Harden,16,normal,-,-
+219,9,Harden,16,normal,-,-
+219,10,Harden,16,normal,-,-
+219,11,Recover,19,normal,-,-
+219,14,Recover,19,normal,-,-
+219,15,Recover,19,normal,-,-
+219,16,Clear Smog,20,poison,50,-
+219,3,Harden,22,normal,-,-
+219,4,Harden,22,normal,-,-
+219,5,Harden,22,normal,-,-
+219,6,Harden,22,normal,-,-
+219,7,Harden,22,normal,-,-
+219,12,Harden,22,normal,-,-
+219,13,Harden,22,normal,-,-
+219,16,Ancient Power,22,rock,60,100
+219,8,Recover,23,normal,-,-
+219,9,Recover,23,normal,-,-
+219,10,Recover,23,normal,-,-
+219,11,Flame Burst,23,fire,70,100
+219,14,Flame Burst,23,fire,70,100
+219,15,Flame Burst,23,fire,70,100
+219,8,Ancient Power,26,rock,60,100
+219,9,Ancient Power,26,rock,60,100
+219,10,Ancient Power,26,rock,60,100
+219,16,Flame Burst,27,fire,70,100
+219,11,Ancient Power,28,rock,60,100
+219,14,Ancient Power,28,rock,60,100
+219,15,Ancient Power,28,rock,60,100
+219,3,Amnesia,29,psychic,-,-
+219,4,Amnesia,29,psychic,-,-
+219,5,Amnesia,29,psychic,-,-
+219,6,Amnesia,29,psychic,-,-
+219,7,Amnesia,29,psychic,-,-
+219,12,Amnesia,29,psychic,-,-
+219,13,Amnesia,29,psychic,-,-
+219,16,Rock Slide,29,rock,75,90
+219,8,Amnesia,31,psychic,-,-
+219,9,Amnesia,31,psychic,-,-
+219,10,Amnesia,31,psychic,-,-
+219,11,Amnesia,32,psychic,-,-
+219,14,Amnesia,32,psychic,-,-
+219,15,Amnesia,32,psychic,-,-
+219,16,Lava Plume,34,fire,80,100
+219,3,Flamethrower,36,fire,90,100
+219,4,Flamethrower,36,fire,90,100
+219,5,Flamethrower,36,fire,90,100
+219,6,Flamethrower,36,fire,90,100
+219,7,Flamethrower,36,fire,90,100
+219,12,Flamethrower,36,fire,90,100
+219,13,Flamethrower,36,fire,90,100
+219,16,Amnesia,36,psychic,-,-
+219,11,Lava Plume,37,fire,80,100
+219,14,Lava Plume,37,fire,80,100
+219,15,Lava Plume,37,fire,80,100
+219,11,Shell Smash,38,normal,-,-
+219,14,Shell Smash,38,normal,-,-
+219,15,Shell Smash,38,normal,-,-
+219,16,Shell Smash,38,normal,-,-
+219,8,Lava Plume,40,fire,80,100
+219,9,Lava Plume,40,fire,80,100
+219,10,Lava Plume,40,fire,80,100
+219,16,Body Slam,43,normal,85,100
+219,11,Rock Slide,44,rock,75,90
+219,14,Rock Slide,44,rock,75,90
+219,15,Rock Slide,44,rock,75,90
+219,8,Rock Slide,45,rock,75,90
+219,9,Rock Slide,45,rock,75,90
+219,10,Rock Slide,45,rock,75,90
+219,16,Recover,47,normal,-,-
+219,3,Rock Slide,48,rock,75,90
+219,4,Rock Slide,48,rock,75,90
+219,5,Rock Slide,48,rock,75,90
+219,6,Rock Slide,48,rock,75,90
+219,7,Rock Slide,48,rock,75,90
+219,12,Rock Slide,48,rock,75,90
+219,13,Rock Slide,48,rock,75,90
+219,8,Body Slam,52,normal,85,100
+219,9,Body Slam,52,normal,85,100
+219,10,Body Slam,52,normal,85,100
+219,11,Body Slam,52,normal,85,100
+219,14,Body Slam,52,normal,85,100
+219,15,Body Slam,52,normal,85,100
+219,16,Flamethrower,54,fire,90,100
+219,16,Earth Power,58,ground,90,100
+219,11,Flamethrower,59,fire,90,100
+219,14,Flamethrower,59,fire,90,100
+219,15,Flamethrower,59,fire,90,100
+219,3,Body Slam,60,normal,85,100
+219,4,Body Slam,60,normal,85,100
+219,5,Body Slam,60,normal,85,100
+219,6,Body Slam,60,normal,85,100
+219,7,Body Slam,60,normal,85,100
+219,12,Body Slam,60,normal,85,100
+219,13,Body Slam,60,normal,85,100
+219,8,Flamethrower,61,fire,90,100
+219,9,Flamethrower,61,fire,90,100
+219,10,Flamethrower,61,fire,90,100
+219,8,Earth Power,66,ground,90,100
+219,9,Earth Power,66,ground,90,100
+219,10,Earth Power,66,ground,90,100
+219,11,Earth Power,67,ground,90,100
+219,14,Earth Power,67,ground,90,100
+219,15,Earth Power,67,ground,90,100

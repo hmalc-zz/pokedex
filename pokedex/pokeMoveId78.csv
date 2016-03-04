@@ -1,244 +1,244 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-78,rapidash,1,23,Stomp,1,1,3
-78,rapidash,1,23,Stomp,1,32,
-78,rapidash,1,36,Take Down,1,47,
-78,rapidash,1,39,Tail Whip,1,1,2
-78,rapidash,1,39,Tail Whip,1,30,
-78,rapidash,1,45,Growl,1,1,4
-78,rapidash,1,45,Growl,1,35,
-78,rapidash,1,52,Ember,1,1,1
-78,rapidash,1,83,Fire Spin,1,39,
-78,rapidash,1,97,Agility,1,55,
-78,rapidash,2,23,Stomp,1,1,3
-78,rapidash,2,23,Stomp,1,32,
-78,rapidash,2,36,Take Down,1,47,
-78,rapidash,2,39,Tail Whip,1,1,2
-78,rapidash,2,39,Tail Whip,1,30,
-78,rapidash,2,45,Growl,1,1,4
-78,rapidash,2,45,Growl,1,35,
-78,rapidash,2,52,Ember,1,1,1
-78,rapidash,2,83,Fire Spin,1,39,
-78,rapidash,2,97,Agility,1,55,
-78,rapidash,3,23,Stomp,1,19,
-78,rapidash,3,31,Fury Attack,1,40,
-78,rapidash,3,33,Tackle,1,1,1
-78,rapidash,3,36,Take Down,1,34,
-78,rapidash,3,39,Tail Whip,1,1,3
-78,rapidash,3,39,Tail Whip,1,8,
-78,rapidash,3,45,Growl,1,1,2
-78,rapidash,3,45,Growl,1,4,
-78,rapidash,3,52,Ember,1,1,4
-78,rapidash,3,52,Ember,1,13,
-78,rapidash,3,83,Fire Spin,1,26,
-78,rapidash,3,97,Agility,1,47,
-78,rapidash,3,126,Fire Blast,1,61,
-78,rapidash,4,23,Stomp,1,19,
-78,rapidash,4,31,Fury Attack,1,40,
-78,rapidash,4,33,Tackle,1,1,1
-78,rapidash,4,36,Take Down,1,34,
-78,rapidash,4,39,Tail Whip,1,1,3
-78,rapidash,4,39,Tail Whip,1,8,
-78,rapidash,4,45,Growl,1,1,2
-78,rapidash,4,45,Growl,1,4,
-78,rapidash,4,52,Ember,1,1,4
-78,rapidash,4,52,Ember,1,13,
-78,rapidash,4,83,Fire Spin,1,26,
-78,rapidash,4,97,Agility,1,47,
-78,rapidash,4,126,Fire Blast,1,61,
-78,rapidash,5,23,Stomp,1,19,
-78,rapidash,5,31,Fury Attack,1,40,
-78,rapidash,5,33,Tackle,1,1,1
-78,rapidash,5,36,Take Down,1,31,
-78,rapidash,5,39,Tail Whip,1,1,3
-78,rapidash,5,39,Tail Whip,1,9,
-78,rapidash,5,45,Growl,1,1,2
-78,rapidash,5,45,Growl,1,5,
-78,rapidash,5,52,Ember,1,1,4
-78,rapidash,5,52,Ember,1,14,
-78,rapidash,5,83,Fire Spin,1,25,
-78,rapidash,5,97,Agility,1,38,
-78,rapidash,5,126,Fire Blast,1,63,
-78,rapidash,5,340,Bounce,1,50,
-78,rapidash,6,23,Stomp,1,19,
-78,rapidash,6,31,Fury Attack,1,40,
-78,rapidash,6,33,Tackle,1,1,1
-78,rapidash,6,36,Take Down,1,31,
-78,rapidash,6,39,Tail Whip,1,1,3
-78,rapidash,6,39,Tail Whip,1,9,
-78,rapidash,6,45,Growl,1,1,2
-78,rapidash,6,45,Growl,1,5,
-78,rapidash,6,52,Ember,1,1,4
-78,rapidash,6,52,Ember,1,14,
-78,rapidash,6,83,Fire Spin,1,25,
-78,rapidash,6,97,Agility,1,38,
-78,rapidash,6,126,Fire Blast,1,63,
-78,rapidash,6,340,Bounce,1,50,
-78,rapidash,7,23,Stomp,1,19,
-78,rapidash,7,31,Fury Attack,1,40,
-78,rapidash,7,36,Take Down,1,31,
-78,rapidash,7,39,Tail Whip,1,1,3
-78,rapidash,7,39,Tail Whip,1,9,
-78,rapidash,7,45,Growl,1,1,2
-78,rapidash,7,45,Growl,1,5,
-78,rapidash,7,52,Ember,1,1,4
-78,rapidash,7,52,Ember,1,14,
-78,rapidash,7,83,Fire Spin,1,25,
-78,rapidash,7,97,Agility,1,38,
-78,rapidash,7,98,Quick Attack,1,1,1
-78,rapidash,7,126,Fire Blast,1,63,
-78,rapidash,7,340,Bounce,1,50,
-78,rapidash,8,23,Stomp,1,19,
-78,rapidash,8,31,Fury Attack,1,40,
-78,rapidash,8,36,Take Down,1,28,
-78,rapidash,8,39,Tail Whip,1,1,5
-78,rapidash,8,39,Tail Whip,1,10,
-78,rapidash,8,45,Growl,1,1,4
-78,rapidash,8,45,Growl,1,7,
-78,rapidash,8,52,Ember,1,1,6
-78,rapidash,8,52,Ember,1,16,
-78,rapidash,8,83,Fire Spin,1,25,
-78,rapidash,8,97,Agility,1,34,
-78,rapidash,8,98,Quick Attack,1,1,3
-78,rapidash,8,126,Fire Blast,1,38,
-78,rapidash,8,224,Megahorn,1,1,2
-78,rapidash,8,340,Bounce,1,49,
-78,rapidash,8,394,Flare Blitz,1,58,
-78,rapidash,8,398,Poison Jab,1,1,1
-78,rapidash,9,23,Stomp,1,19,
-78,rapidash,9,31,Fury Attack,1,40,
-78,rapidash,9,36,Take Down,1,28,
-78,rapidash,9,39,Tail Whip,1,1,5
-78,rapidash,9,39,Tail Whip,1,6,
-78,rapidash,9,45,Growl,1,1,3
-78,rapidash,9,52,Ember,1,1,6
-78,rapidash,9,52,Ember,1,10,
-78,rapidash,9,83,Fire Spin,1,24,
-78,rapidash,9,97,Agility,1,33,
-78,rapidash,9,98,Quick Attack,1,1,4
-78,rapidash,9,126,Fire Blast,1,37,
-78,rapidash,9,172,Flame Wheel,1,15,
-78,rapidash,9,224,Megahorn,1,1,2
-78,rapidash,9,340,Bounce,1,47,
-78,rapidash,9,394,Flare Blitz,1,56,
-78,rapidash,9,398,Poison Jab,1,1,1
-78,rapidash,10,23,Stomp,1,19,
-78,rapidash,10,31,Fury Attack,1,40,
-78,rapidash,10,36,Take Down,1,28,
-78,rapidash,10,39,Tail Whip,1,1,5
-78,rapidash,10,39,Tail Whip,1,6,
-78,rapidash,10,45,Growl,1,1,3
-78,rapidash,10,52,Ember,1,1,6
-78,rapidash,10,52,Ember,1,10,
-78,rapidash,10,83,Fire Spin,1,24,
-78,rapidash,10,97,Agility,1,33,
-78,rapidash,10,98,Quick Attack,1,1,4
-78,rapidash,10,126,Fire Blast,1,37,
-78,rapidash,10,172,Flame Wheel,1,15,
-78,rapidash,10,224,Megahorn,1,1,2
-78,rapidash,10,340,Bounce,1,47,
-78,rapidash,10,394,Flare Blitz,1,56,
-78,rapidash,10,398,Poison Jab,1,1,1
-78,rapidash,11,23,Stomp,1,17,
-78,rapidash,11,31,Fury Attack,1,40,
-78,rapidash,11,36,Take Down,1,29,
-78,rapidash,11,39,Tail Whip,1,1,5
-78,rapidash,11,39,Tail Whip,1,4,
-78,rapidash,11,45,Growl,1,1,3
-78,rapidash,11,52,Ember,1,1,6
-78,rapidash,11,52,Ember,1,9,
-78,rapidash,11,83,Fire Spin,1,25,
-78,rapidash,11,97,Agility,1,37,
-78,rapidash,11,98,Quick Attack,1,1,4
-78,rapidash,11,126,Fire Blast,1,41,
-78,rapidash,11,172,Flame Wheel,1,13,
-78,rapidash,11,224,Megahorn,1,1,2
-78,rapidash,11,340,Bounce,1,45,
-78,rapidash,11,394,Flare Blitz,1,49,
-78,rapidash,11,398,Poison Jab,1,1,1
-78,rapidash,11,488,Flame Charge,1,21,
-78,rapidash,11,517,Inferno,1,33,
-78,rapidash,12,23,Stomp,1,19,
-78,rapidash,12,31,Fury Attack,1,40,
-78,rapidash,12,33,Tackle,1,1,1
-78,rapidash,12,36,Take Down,1,31,
-78,rapidash,12,39,Tail Whip,1,1,3
-78,rapidash,12,39,Tail Whip,1,9,
-78,rapidash,12,45,Growl,1,1,2
-78,rapidash,12,45,Growl,1,5,
-78,rapidash,12,52,Ember,1,1,4
-78,rapidash,12,52,Ember,1,14,
-78,rapidash,12,83,Fire Spin,1,25,
-78,rapidash,12,97,Agility,1,38,
-78,rapidash,12,126,Fire Blast,1,63,
-78,rapidash,12,340,Bounce,1,50,
-78,rapidash,13,23,Stomp,1,19,
-78,rapidash,13,31,Fury Attack,1,40,
-78,rapidash,13,33,Tackle,1,1,1
-78,rapidash,13,36,Take Down,1,31,
-78,rapidash,13,39,Tail Whip,1,1,3
-78,rapidash,13,39,Tail Whip,1,9,
-78,rapidash,13,45,Growl,1,1,2
-78,rapidash,13,45,Growl,1,5,
-78,rapidash,13,52,Ember,1,1,4
-78,rapidash,13,52,Ember,1,14,
-78,rapidash,13,83,Fire Spin,1,25,
-78,rapidash,13,97,Agility,1,38,
-78,rapidash,13,126,Fire Blast,1,63,
-78,rapidash,13,340,Bounce,1,50,
-78,rapidash,14,23,Stomp,1,17,
-78,rapidash,14,31,Fury Attack,1,40,
-78,rapidash,14,36,Take Down,1,29,
-78,rapidash,14,39,Tail Whip,1,1,5
-78,rapidash,14,39,Tail Whip,1,4,
-78,rapidash,14,45,Growl,1,1,3
-78,rapidash,14,52,Ember,1,1,6
-78,rapidash,14,52,Ember,1,9,
-78,rapidash,14,83,Fire Spin,1,25,
-78,rapidash,14,97,Agility,1,37,
-78,rapidash,14,98,Quick Attack,1,1,4
-78,rapidash,14,126,Fire Blast,1,41,
-78,rapidash,14,172,Flame Wheel,1,13,
-78,rapidash,14,224,Megahorn,1,1,2
-78,rapidash,14,340,Bounce,1,45,
-78,rapidash,14,394,Flare Blitz,1,49,
-78,rapidash,14,398,Poison Jab,1,1,1
-78,rapidash,14,488,Flame Charge,1,21,
-78,rapidash,14,517,Inferno,1,33,
-78,rapidash,15,23,Stomp,1,17,
-78,rapidash,15,31,Fury Attack,1,40,
-78,rapidash,15,36,Take Down,1,29,
-78,rapidash,15,39,Tail Whip,1,1,5
-78,rapidash,15,39,Tail Whip,1,4,
-78,rapidash,15,45,Growl,1,1,3
-78,rapidash,15,52,Ember,1,1,6
-78,rapidash,15,52,Ember,1,9,
-78,rapidash,15,83,Fire Spin,1,25,
-78,rapidash,15,97,Agility,1,37,
-78,rapidash,15,98,Quick Attack,1,1,4
-78,rapidash,15,126,Fire Blast,1,41,
-78,rapidash,15,172,Flame Wheel,1,13,
-78,rapidash,15,224,Megahorn,1,1,2
-78,rapidash,15,340,Bounce,1,45,
-78,rapidash,15,394,Flare Blitz,1,49,
-78,rapidash,15,398,Poison Jab,1,1,1
-78,rapidash,15,488,Flame Charge,1,21,
-78,rapidash,15,517,Inferno,1,33,
-78,rapidash,16,23,Stomp,1,17,1
-78,rapidash,16,31,Fury Attack,1,40,1
-78,rapidash,16,36,Take Down,1,29,1
-78,rapidash,16,39,Tail Whip,1,1,5
-78,rapidash,16,39,Tail Whip,1,4,1
-78,rapidash,16,45,Growl,1,1,3
-78,rapidash,16,52,Ember,1,1,6
-78,rapidash,16,52,Ember,1,9,1
-78,rapidash,16,83,Fire Spin,1,25,1
-78,rapidash,16,97,Agility,1,37,1
-78,rapidash,16,98,Quick Attack,1,1,4
-78,rapidash,16,126,Fire Blast,1,41,1
-78,rapidash,16,172,Flame Wheel,1,13,1
-78,rapidash,16,224,Megahorn,1,1,2
-78,rapidash,16,340,Bounce,1,45,1
-78,rapidash,16,394,Flare Blitz,1,49,1
-78,rapidash,16,398,Poison Jab,1,1,1
-78,rapidash,16,488,Flame Charge,1,21,1
-78,rapidash,16,517,Inferno,1,33,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+78,1,Stomp,1,normal,65,100
+78,1,Tail Whip,1,normal,-,100
+78,1,Growl,1,normal,-,100
+78,1,Ember,1,fire,40,100
+78,2,Stomp,1,normal,65,100
+78,2,Tail Whip,1,normal,-,100
+78,2,Growl,1,normal,-,100
+78,2,Ember,1,fire,40,100
+78,3,Tackle,1,normal,50,100
+78,3,Tail Whip,1,normal,-,100
+78,3,Growl,1,normal,-,100
+78,3,Ember,1,fire,40,100
+78,4,Tackle,1,normal,50,100
+78,4,Tail Whip,1,normal,-,100
+78,4,Growl,1,normal,-,100
+78,4,Ember,1,fire,40,100
+78,5,Tackle,1,normal,50,100
+78,5,Tail Whip,1,normal,-,100
+78,5,Growl,1,normal,-,100
+78,5,Ember,1,fire,40,100
+78,6,Tackle,1,normal,50,100
+78,6,Tail Whip,1,normal,-,100
+78,6,Growl,1,normal,-,100
+78,6,Ember,1,fire,40,100
+78,7,Tail Whip,1,normal,-,100
+78,7,Growl,1,normal,-,100
+78,7,Ember,1,fire,40,100
+78,7,Quick Attack,1,normal,40,100
+78,8,Tail Whip,1,normal,-,100
+78,8,Growl,1,normal,-,100
+78,8,Ember,1,fire,40,100
+78,8,Quick Attack,1,normal,40,100
+78,8,Megahorn,1,bug,120,85
+78,8,Poison Jab,1,poison,80,100
+78,9,Tail Whip,1,normal,-,100
+78,9,Growl,1,normal,-,100
+78,9,Ember,1,fire,40,100
+78,9,Quick Attack,1,normal,40,100
+78,9,Megahorn,1,bug,120,85
+78,9,Poison Jab,1,poison,80,100
+78,10,Tail Whip,1,normal,-,100
+78,10,Growl,1,normal,-,100
+78,10,Ember,1,fire,40,100
+78,10,Quick Attack,1,normal,40,100
+78,10,Megahorn,1,bug,120,85
+78,10,Poison Jab,1,poison,80,100
+78,11,Tail Whip,1,normal,-,100
+78,11,Growl,1,normal,-,100
+78,11,Ember,1,fire,40,100
+78,11,Quick Attack,1,normal,40,100
+78,11,Megahorn,1,bug,120,85
+78,11,Poison Jab,1,poison,80,100
+78,12,Tackle,1,normal,50,100
+78,12,Tail Whip,1,normal,-,100
+78,12,Growl,1,normal,-,100
+78,12,Ember,1,fire,40,100
+78,13,Tackle,1,normal,50,100
+78,13,Tail Whip,1,normal,-,100
+78,13,Growl,1,normal,-,100
+78,13,Ember,1,fire,40,100
+78,14,Tail Whip,1,normal,-,100
+78,14,Growl,1,normal,-,100
+78,14,Ember,1,fire,40,100
+78,14,Quick Attack,1,normal,40,100
+78,14,Megahorn,1,bug,120,85
+78,14,Poison Jab,1,poison,80,100
+78,15,Tail Whip,1,normal,-,100
+78,15,Growl,1,normal,-,100
+78,15,Ember,1,fire,40,100
+78,15,Quick Attack,1,normal,40,100
+78,15,Megahorn,1,bug,120,85
+78,15,Poison Jab,1,poison,80,100
+78,16,Tail Whip,1,normal,-,100
+78,16,Growl,1,normal,-,100
+78,16,Ember,1,fire,40,100
+78,16,Quick Attack,1,normal,40,100
+78,16,Megahorn,1,bug,120,85
+78,16,Poison Jab,1,poison,80,100
+78,3,Growl,4,normal,-,100
+78,4,Growl,4,normal,-,100
+78,11,Tail Whip,4,normal,-,100
+78,14,Tail Whip,4,normal,-,100
+78,15,Tail Whip,4,normal,-,100
+78,16,Tail Whip,4,normal,-,100
+78,5,Growl,5,normal,-,100
+78,6,Growl,5,normal,-,100
+78,7,Growl,5,normal,-,100
+78,12,Growl,5,normal,-,100
+78,13,Growl,5,normal,-,100
+78,9,Tail Whip,6,normal,-,100
+78,10,Tail Whip,6,normal,-,100
+78,8,Growl,7,normal,-,100
+78,3,Tail Whip,8,normal,-,100
+78,4,Tail Whip,8,normal,-,100
+78,5,Tail Whip,9,normal,-,100
+78,6,Tail Whip,9,normal,-,100
+78,7,Tail Whip,9,normal,-,100
+78,11,Ember,9,fire,40,100
+78,12,Tail Whip,9,normal,-,100
+78,13,Tail Whip,9,normal,-,100
+78,14,Ember,9,fire,40,100
+78,15,Ember,9,fire,40,100
+78,16,Ember,9,fire,40,100
+78,8,Tail Whip,10,normal,-,100
+78,9,Ember,10,fire,40,100
+78,10,Ember,10,fire,40,100
+78,3,Ember,13,fire,40,100
+78,4,Ember,13,fire,40,100
+78,11,Flame Wheel,13,fire,60,100
+78,14,Flame Wheel,13,fire,60,100
+78,15,Flame Wheel,13,fire,60,100
+78,16,Flame Wheel,13,fire,60,100
+78,5,Ember,14,fire,40,100
+78,6,Ember,14,fire,40,100
+78,7,Ember,14,fire,40,100
+78,12,Ember,14,fire,40,100
+78,13,Ember,14,fire,40,100
+78,9,Flame Wheel,15,fire,60,100
+78,10,Flame Wheel,15,fire,60,100
+78,8,Ember,16,fire,40,100
+78,11,Stomp,17,normal,65,100
+78,14,Stomp,17,normal,65,100
+78,15,Stomp,17,normal,65,100
+78,16,Stomp,17,normal,65,100
+78,3,Stomp,19,normal,65,100
+78,4,Stomp,19,normal,65,100
+78,5,Stomp,19,normal,65,100
+78,6,Stomp,19,normal,65,100
+78,7,Stomp,19,normal,65,100
+78,8,Stomp,19,normal,65,100
+78,9,Stomp,19,normal,65,100
+78,10,Stomp,19,normal,65,100
+78,12,Stomp,19,normal,65,100
+78,13,Stomp,19,normal,65,100
+78,11,Flame Charge,21,fire,50,100
+78,14,Flame Charge,21,fire,50,100
+78,15,Flame Charge,21,fire,50,100
+78,16,Flame Charge,21,fire,50,100
+78,9,Fire Spin,24,fire,35,85
+78,10,Fire Spin,24,fire,35,85
+78,5,Fire Spin,25,fire,35,85
+78,6,Fire Spin,25,fire,35,85
+78,7,Fire Spin,25,fire,35,85
+78,8,Fire Spin,25,fire,35,85
+78,11,Fire Spin,25,fire,35,85
+78,12,Fire Spin,25,fire,35,85
+78,13,Fire Spin,25,fire,35,85
+78,14,Fire Spin,25,fire,35,85
+78,15,Fire Spin,25,fire,35,85
+78,16,Fire Spin,25,fire,35,85
+78,3,Fire Spin,26,fire,35,85
+78,4,Fire Spin,26,fire,35,85
+78,8,Take Down,28,normal,90,85
+78,9,Take Down,28,normal,90,85
+78,10,Take Down,28,normal,90,85
+78,11,Take Down,29,normal,90,85
+78,14,Take Down,29,normal,90,85
+78,15,Take Down,29,normal,90,85
+78,16,Take Down,29,normal,90,85
+78,1,Tail Whip,30,normal,-,100
+78,2,Tail Whip,30,normal,-,100
+78,5,Take Down,31,normal,90,85
+78,6,Take Down,31,normal,90,85
+78,7,Take Down,31,normal,90,85
+78,12,Take Down,31,normal,90,85
+78,13,Take Down,31,normal,90,85
+78,1,Stomp,32,normal,65,100
+78,2,Stomp,32,normal,65,100
+78,9,Agility,33,psychic,-,-
+78,10,Agility,33,psychic,-,-
+78,11,Inferno,33,fire,100,50
+78,14,Inferno,33,fire,100,50
+78,15,Inferno,33,fire,100,50
+78,16,Inferno,33,fire,100,50
+78,3,Take Down,34,normal,90,85
+78,4,Take Down,34,normal,90,85
+78,8,Agility,34,psychic,-,-
+78,1,Growl,35,normal,-,100
+78,2,Growl,35,normal,-,100
+78,9,Fire Blast,37,fire,110,85
+78,10,Fire Blast,37,fire,110,85
+78,11,Agility,37,psychic,-,-
+78,14,Agility,37,psychic,-,-
+78,15,Agility,37,psychic,-,-
+78,16,Agility,37,psychic,-,-
+78,5,Agility,38,psychic,-,-
+78,6,Agility,38,psychic,-,-
+78,7,Agility,38,psychic,-,-
+78,8,Fire Blast,38,fire,110,85
+78,12,Agility,38,psychic,-,-
+78,13,Agility,38,psychic,-,-
+78,1,Fire Spin,39,fire,35,85
+78,2,Fire Spin,39,fire,35,85
+78,3,Fury Attack,40,normal,15,85
+78,4,Fury Attack,40,normal,15,85
+78,5,Fury Attack,40,normal,15,85
+78,6,Fury Attack,40,normal,15,85
+78,7,Fury Attack,40,normal,15,85
+78,8,Fury Attack,40,normal,15,85
+78,9,Fury Attack,40,normal,15,85
+78,10,Fury Attack,40,normal,15,85
+78,11,Fury Attack,40,normal,15,85
+78,12,Fury Attack,40,normal,15,85
+78,13,Fury Attack,40,normal,15,85
+78,14,Fury Attack,40,normal,15,85
+78,15,Fury Attack,40,normal,15,85
+78,16,Fury Attack,40,normal,15,85
+78,11,Fire Blast,41,fire,110,85
+78,14,Fire Blast,41,fire,110,85
+78,15,Fire Blast,41,fire,110,85
+78,16,Fire Blast,41,fire,110,85
+78,11,Bounce,45,flying,85,85
+78,14,Bounce,45,flying,85,85
+78,15,Bounce,45,flying,85,85
+78,16,Bounce,45,flying,85,85
+78,1,Take Down,47,normal,90,85
+78,2,Take Down,47,normal,90,85
+78,3,Agility,47,psychic,-,-
+78,4,Agility,47,psychic,-,-
+78,9,Bounce,47,flying,85,85
+78,10,Bounce,47,flying,85,85
+78,8,Bounce,49,flying,85,85
+78,11,Flare Blitz,49,fire,120,100
+78,14,Flare Blitz,49,fire,120,100
+78,15,Flare Blitz,49,fire,120,100
+78,16,Flare Blitz,49,fire,120,100
+78,5,Bounce,50,flying,85,85
+78,6,Bounce,50,flying,85,85
+78,7,Bounce,50,flying,85,85
+78,12,Bounce,50,flying,85,85
+78,13,Bounce,50,flying,85,85
+78,1,Agility,55,psychic,-,-
+78,2,Agility,55,psychic,-,-
+78,9,Flare Blitz,56,fire,120,100
+78,10,Flare Blitz,56,fire,120,100
+78,8,Flare Blitz,58,fire,120,100
+78,3,Fire Blast,61,fire,110,85
+78,4,Fire Blast,61,fire,110,85
+78,5,Fire Blast,63,fire,110,85
+78,6,Fire Blast,63,fire,110,85
+78,7,Fire Blast,63,fire,110,85
+78,12,Fire Blast,63,fire,110,85
+78,13,Fire Blast,63,fire,110,85

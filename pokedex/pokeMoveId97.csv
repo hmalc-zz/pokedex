@@ -1,252 +1,252 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-97,hypno,1,1,Pound,1,1,1
-97,hypno,1,29,Headbutt,1,24,
-97,hypno,1,50,Disable,1,1,3
-97,hypno,1,50,Disable,1,12,
-97,hypno,1,93,Confusion,1,1,4
-97,hypno,1,93,Confusion,1,17,
-97,hypno,1,94,Psychic,1,37,
-97,hypno,1,95,Hypnosis,1,1,2
-97,hypno,1,96,Meditate,1,43,
-97,hypno,1,139,Poison Gas,1,33,
-97,hypno,2,1,Pound,1,1,1
-97,hypno,2,29,Headbutt,1,24,
-97,hypno,2,50,Disable,1,1,3
-97,hypno,2,50,Disable,1,12,
-97,hypno,2,93,Confusion,1,1,4
-97,hypno,2,93,Confusion,1,17,
-97,hypno,2,94,Psychic,1,37,
-97,hypno,2,95,Hypnosis,1,1,2
-97,hypno,2,96,Meditate,1,43,
-97,hypno,2,139,Poison Gas,1,33,
-97,hypno,3,1,Pound,1,1,1
-97,hypno,3,29,Headbutt,1,25,
-97,hypno,3,50,Disable,1,1,3
-97,hypno,3,50,Disable,1,10,
-97,hypno,3,93,Confusion,1,1,4
-97,hypno,3,93,Confusion,1,18,
-97,hypno,3,94,Psychic,1,49,
-97,hypno,3,95,Hypnosis,1,1,2
-97,hypno,3,96,Meditate,1,40,
-97,hypno,3,139,Poison Gas,1,33,
-97,hypno,3,244,Psych Up,1,55,
-97,hypno,3,248,Future Sight,1,60,
-97,hypno,4,1,Pound,1,1,1
-97,hypno,4,29,Headbutt,1,25,
-97,hypno,4,50,Disable,1,1,3
-97,hypno,4,50,Disable,1,10,
-97,hypno,4,93,Confusion,1,1,4
-97,hypno,4,93,Confusion,1,18,
-97,hypno,4,94,Psychic,1,49,
-97,hypno,4,95,Hypnosis,1,1,2
-97,hypno,4,96,Meditate,1,40,
-97,hypno,4,139,Poison Gas,1,33,
-97,hypno,4,244,Psych Up,1,55,
-97,hypno,4,248,Future Sight,1,60,
-97,hypno,5,1,Pound,1,1,1
-97,hypno,5,29,Headbutt,1,25,
-97,hypno,5,50,Disable,1,1,3
-97,hypno,5,50,Disable,1,10,
-97,hypno,5,93,Confusion,1,1,4
-97,hypno,5,93,Confusion,1,18,
-97,hypno,5,94,Psychic,1,49,
-97,hypno,5,95,Hypnosis,1,1,2
-97,hypno,5,96,Meditate,1,40,
-97,hypno,5,139,Poison Gas,1,33,
-97,hypno,5,244,Psych Up,1,55,
-97,hypno,5,248,Future Sight,1,60,
-97,hypno,6,1,Pound,1,1,1
-97,hypno,6,29,Headbutt,1,25,
-97,hypno,6,50,Disable,1,1,3
-97,hypno,6,50,Disable,1,10,
-97,hypno,6,93,Confusion,1,1,4
-97,hypno,6,93,Confusion,1,18,
-97,hypno,6,94,Psychic,1,49,
-97,hypno,6,95,Hypnosis,1,1,2
-97,hypno,6,96,Meditate,1,40,
-97,hypno,6,139,Poison Gas,1,33,
-97,hypno,6,244,Psych Up,1,55,
-97,hypno,6,248,Future Sight,1,60,
-97,hypno,7,1,Pound,1,1,2
-97,hypno,7,29,Headbutt,1,17,
-97,hypno,7,50,Disable,1,1,4
-97,hypno,7,50,Disable,1,7,
-97,hypno,7,93,Confusion,1,1,5
-97,hypno,7,93,Confusion,1,11,
-97,hypno,7,94,Psychic,1,35,
-97,hypno,7,95,Hypnosis,1,1,3
-97,hypno,7,96,Meditate,1,29,
-97,hypno,7,139,Poison Gas,1,21,
-97,hypno,7,171,Nightmare,1,1,1
-97,hypno,7,207,Swagger,1,49,
-97,hypno,7,244,Psych Up,1,43,
-97,hypno,7,248,Future Sight,1,57,
-97,hypno,8,1,Pound,1,1,3
-97,hypno,8,29,Headbutt,1,15,
-97,hypno,8,29,Headbutt,1,38,
-97,hypno,8,50,Disable,1,1,5
-97,hypno,8,50,Disable,1,7,
-97,hypno,8,60,Psybeam,1,28,
-97,hypno,8,93,Confusion,1,1,6
-97,hypno,8,93,Confusion,1,9,
-97,hypno,8,94,Psychic,1,50,
-97,hypno,8,95,Hypnosis,1,1,4
-97,hypno,8,96,Meditate,1,21,
-97,hypno,8,139,Poison Gas,1,18,
-97,hypno,8,171,Nightmare,1,1,1
-97,hypno,8,207,Swagger,1,45,
-97,hypno,8,244,Psych Up,1,33,
-97,hypno,8,248,Future Sight,1,69,
-97,hypno,8,415,Switcheroo,1,1,2
-97,hypno,8,417,Nasty Plot,1,55,
-97,hypno,8,428,Zen Headbutt,1,64,
-97,hypno,9,1,Pound,1,1,3
-97,hypno,9,29,Headbutt,1,15,
-97,hypno,9,29,Headbutt,1,38,
-97,hypno,9,50,Disable,1,1,5
-97,hypno,9,50,Disable,1,7,
-97,hypno,9,60,Psybeam,1,28,
-97,hypno,9,93,Confusion,1,1,6
-97,hypno,9,93,Confusion,1,9,
-97,hypno,9,94,Psychic,1,50,
-97,hypno,9,95,Hypnosis,1,1,4
-97,hypno,9,96,Meditate,1,21,
-97,hypno,9,139,Poison Gas,1,18,
-97,hypno,9,171,Nightmare,1,1,1
-97,hypno,9,207,Swagger,1,45,
-97,hypno,9,244,Psych Up,1,33,
-97,hypno,9,248,Future Sight,1,69,
-97,hypno,9,415,Switcheroo,1,1,2
-97,hypno,9,417,Nasty Plot,1,55,
-97,hypno,9,428,Zen Headbutt,1,64,
-97,hypno,10,1,Pound,1,1,3
-97,hypno,10,29,Headbutt,1,15,
-97,hypno,10,29,Headbutt,1,38,
-97,hypno,10,50,Disable,1,1,5
-97,hypno,10,50,Disable,1,7,
-97,hypno,10,60,Psybeam,1,28,
-97,hypno,10,93,Confusion,1,1,6
-97,hypno,10,93,Confusion,1,9,
-97,hypno,10,94,Psychic,1,50,
-97,hypno,10,95,Hypnosis,1,1,4
-97,hypno,10,96,Meditate,1,21,
-97,hypno,10,139,Poison Gas,1,18,
-97,hypno,10,171,Nightmare,1,1,1
-97,hypno,10,207,Swagger,1,45,
-97,hypno,10,244,Psych Up,1,33,
-97,hypno,10,248,Future Sight,1,69,
-97,hypno,10,415,Switcheroo,1,1,2
-97,hypno,10,417,Nasty Plot,1,55,
-97,hypno,10,428,Zen Headbutt,1,64,
-97,hypno,11,1,Pound,1,1,3
-97,hypno,11,29,Headbutt,1,13,
-97,hypno,11,29,Headbutt,1,29,
-97,hypno,11,50,Disable,1,1,5
-97,hypno,11,50,Disable,1,5,
-97,hypno,11,60,Psybeam,1,25,
-97,hypno,11,93,Confusion,1,1,6
-97,hypno,11,93,Confusion,1,9,
-97,hypno,11,94,Psychic,1,49,
-97,hypno,11,95,Hypnosis,1,1,4
-97,hypno,11,96,Meditate,1,21,
-97,hypno,11,139,Poison Gas,1,17,
-97,hypno,11,171,Nightmare,1,1,1
-97,hypno,11,207,Swagger,1,45,
-97,hypno,11,244,Psych Up,1,33,
-97,hypno,11,248,Future Sight,1,61,
-97,hypno,11,415,Switcheroo,1,1,2
-97,hypno,11,417,Nasty Plot,1,53,
-97,hypno,11,428,Zen Headbutt,1,41,
-97,hypno,11,473,Psyshock,1,57,
-97,hypno,11,485,Synchronoise,1,37,
-97,hypno,12,1,Pound,1,1,1
-97,hypno,12,29,Headbutt,1,25,
-97,hypno,12,50,Disable,1,1,3
-97,hypno,12,50,Disable,1,10,
-97,hypno,12,93,Confusion,1,1,4
-97,hypno,12,93,Confusion,1,18,
-97,hypno,12,94,Psychic,1,49,
-97,hypno,12,95,Hypnosis,1,1,2
-97,hypno,12,96,Meditate,1,40,
-97,hypno,12,139,Poison Gas,1,33,
-97,hypno,12,244,Psych Up,1,55,
-97,hypno,12,248,Future Sight,1,60,
-97,hypno,13,1,Pound,1,1,1
-97,hypno,13,29,Headbutt,1,25,
-97,hypno,13,50,Disable,1,1,3
-97,hypno,13,50,Disable,1,10,
-97,hypno,13,93,Confusion,1,1,4
-97,hypno,13,93,Confusion,1,18,
-97,hypno,13,94,Psychic,1,49,
-97,hypno,13,95,Hypnosis,1,1,2
-97,hypno,13,96,Meditate,1,40,
-97,hypno,13,139,Poison Gas,1,33,
-97,hypno,13,244,Psych Up,1,55,
-97,hypno,13,248,Future Sight,1,60,
-97,hypno,14,1,Pound,1,1,3
-97,hypno,14,29,Headbutt,1,13,
-97,hypno,14,29,Headbutt,1,29,
-97,hypno,14,50,Disable,1,1,5
-97,hypno,14,50,Disable,1,5,
-97,hypno,14,60,Psybeam,1,25,
-97,hypno,14,93,Confusion,1,1,6
-97,hypno,14,93,Confusion,1,9,
-97,hypno,14,94,Psychic,1,49,
-97,hypno,14,95,Hypnosis,1,1,4
-97,hypno,14,96,Meditate,1,21,
-97,hypno,14,139,Poison Gas,1,17,
-97,hypno,14,171,Nightmare,1,1,1
-97,hypno,14,207,Swagger,1,45,
-97,hypno,14,244,Psych Up,1,33,
-97,hypno,14,248,Future Sight,1,61,
-97,hypno,14,415,Switcheroo,1,1,2
-97,hypno,14,417,Nasty Plot,1,53,
-97,hypno,14,428,Zen Headbutt,1,41,
-97,hypno,14,473,Psyshock,1,57,
-97,hypno,14,485,Synchronoise,1,37,
-97,hypno,15,1,Pound,1,1,5
-97,hypno,15,29,Headbutt,1,13,
-97,hypno,15,29,Headbutt,1,29,
-97,hypno,15,50,Disable,1,1,7
-97,hypno,15,50,Disable,1,5,
-97,hypno,15,60,Psybeam,1,25,
-97,hypno,15,93,Confusion,1,1,8
-97,hypno,15,93,Confusion,1,9,
-97,hypno,15,94,Psychic,1,49,
-97,hypno,15,95,Hypnosis,1,1,6
-97,hypno,15,96,Meditate,1,21,
-97,hypno,15,139,Poison Gas,1,17,
-97,hypno,15,171,Nightmare,1,1,3
-97,hypno,15,207,Swagger,1,45,
-97,hypno,15,244,Psych Up,1,33,
-97,hypno,15,248,Future Sight,1,1,1
-97,hypno,15,248,Future Sight,1,61,
-97,hypno,15,415,Switcheroo,1,1,4
-97,hypno,15,417,Nasty Plot,1,1,2
-97,hypno,15,417,Nasty Plot,1,53,
-97,hypno,15,428,Zen Headbutt,1,41,
-97,hypno,15,473,Psyshock,1,57,
-97,hypno,15,485,Synchronoise,1,37,
-97,hypno,16,1,Pound,1,1,5
-97,hypno,16,29,Headbutt,1,13,1
-97,hypno,16,29,Headbutt,1,29,1
-97,hypno,16,50,Disable,1,1,7
-97,hypno,16,50,Disable,1,5,1
-97,hypno,16,60,Psybeam,1,25,1
-97,hypno,16,93,Confusion,1,1,8
-97,hypno,16,93,Confusion,1,9,1
-97,hypno,16,94,Psychic,1,49,1
-97,hypno,16,95,Hypnosis,1,1,6
-97,hypno,16,96,Meditate,1,21,1
-97,hypno,16,139,Poison Gas,1,17,1
-97,hypno,16,171,Nightmare,1,1,3
-97,hypno,16,207,Swagger,1,45,1
-97,hypno,16,244,Psych Up,1,33,1
-97,hypno,16,248,Future Sight,1,1,1
-97,hypno,16,248,Future Sight,1,61,1
-97,hypno,16,415,Switcheroo,1,1,4
-97,hypno,16,417,Nasty Plot,1,1,2
-97,hypno,16,417,Nasty Plot,1,53,1
-97,hypno,16,428,Zen Headbutt,1,41,1
-97,hypno,16,473,Psyshock,1,57,1
-97,hypno,16,485,Synchronoise,1,37,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+97,1,Pound,1,normal,40,100
+97,1,Disable,1,normal,-,100
+97,1,Confusion,1,psychic,50,100
+97,1,Hypnosis,1,psychic,-,60
+97,2,Pound,1,normal,40,100
+97,2,Disable,1,normal,-,100
+97,2,Confusion,1,psychic,50,100
+97,2,Hypnosis,1,psychic,-,60
+97,3,Pound,1,normal,40,100
+97,3,Disable,1,normal,-,100
+97,3,Confusion,1,psychic,50,100
+97,3,Hypnosis,1,psychic,-,60
+97,4,Pound,1,normal,40,100
+97,4,Disable,1,normal,-,100
+97,4,Confusion,1,psychic,50,100
+97,4,Hypnosis,1,psychic,-,60
+97,5,Pound,1,normal,40,100
+97,5,Disable,1,normal,-,100
+97,5,Confusion,1,psychic,50,100
+97,5,Hypnosis,1,psychic,-,60
+97,6,Pound,1,normal,40,100
+97,6,Disable,1,normal,-,100
+97,6,Confusion,1,psychic,50,100
+97,6,Hypnosis,1,psychic,-,60
+97,7,Pound,1,normal,40,100
+97,7,Disable,1,normal,-,100
+97,7,Confusion,1,psychic,50,100
+97,7,Hypnosis,1,psychic,-,60
+97,7,Nightmare,1,ghost,-,100
+97,8,Pound,1,normal,40,100
+97,8,Disable,1,normal,-,100
+97,8,Confusion,1,psychic,50,100
+97,8,Hypnosis,1,psychic,-,60
+97,8,Nightmare,1,ghost,-,100
+97,8,Switcheroo,1,dark,-,100
+97,9,Pound,1,normal,40,100
+97,9,Disable,1,normal,-,100
+97,9,Confusion,1,psychic,50,100
+97,9,Hypnosis,1,psychic,-,60
+97,9,Nightmare,1,ghost,-,100
+97,9,Switcheroo,1,dark,-,100
+97,10,Pound,1,normal,40,100
+97,10,Disable,1,normal,-,100
+97,10,Confusion,1,psychic,50,100
+97,10,Hypnosis,1,psychic,-,60
+97,10,Nightmare,1,ghost,-,100
+97,10,Switcheroo,1,dark,-,100
+97,11,Pound,1,normal,40,100
+97,11,Disable,1,normal,-,100
+97,11,Confusion,1,psychic,50,100
+97,11,Hypnosis,1,psychic,-,60
+97,11,Nightmare,1,ghost,-,100
+97,11,Switcheroo,1,dark,-,100
+97,12,Pound,1,normal,40,100
+97,12,Disable,1,normal,-,100
+97,12,Confusion,1,psychic,50,100
+97,12,Hypnosis,1,psychic,-,60
+97,13,Pound,1,normal,40,100
+97,13,Disable,1,normal,-,100
+97,13,Confusion,1,psychic,50,100
+97,13,Hypnosis,1,psychic,-,60
+97,14,Pound,1,normal,40,100
+97,14,Disable,1,normal,-,100
+97,14,Confusion,1,psychic,50,100
+97,14,Hypnosis,1,psychic,-,60
+97,14,Nightmare,1,ghost,-,100
+97,14,Switcheroo,1,dark,-,100
+97,15,Pound,1,normal,40,100
+97,15,Disable,1,normal,-,100
+97,15,Confusion,1,psychic,50,100
+97,15,Hypnosis,1,psychic,-,60
+97,15,Nightmare,1,ghost,-,100
+97,15,Future Sight,1,psychic,120,100
+97,15,Switcheroo,1,dark,-,100
+97,15,Nasty Plot,1,dark,-,-
+97,16,Pound,1,normal,40,100
+97,16,Disable,1,normal,-,100
+97,16,Confusion,1,psychic,50,100
+97,16,Hypnosis,1,psychic,-,60
+97,16,Nightmare,1,ghost,-,100
+97,16,Future Sight,1,psychic,120,100
+97,16,Switcheroo,1,dark,-,100
+97,16,Nasty Plot,1,dark,-,-
+97,11,Disable,5,normal,-,100
+97,14,Disable,5,normal,-,100
+97,15,Disable,5,normal,-,100
+97,16,Disable,5,normal,-,100
+97,7,Disable,7,normal,-,100
+97,8,Disable,7,normal,-,100
+97,9,Disable,7,normal,-,100
+97,10,Disable,7,normal,-,100
+97,8,Confusion,9,psychic,50,100
+97,9,Confusion,9,psychic,50,100
+97,10,Confusion,9,psychic,50,100
+97,11,Confusion,9,psychic,50,100
+97,14,Confusion,9,psychic,50,100
+97,15,Confusion,9,psychic,50,100
+97,16,Confusion,9,psychic,50,100
+97,3,Disable,10,normal,-,100
+97,4,Disable,10,normal,-,100
+97,5,Disable,10,normal,-,100
+97,6,Disable,10,normal,-,100
+97,12,Disable,10,normal,-,100
+97,13,Disable,10,normal,-,100
+97,7,Confusion,11,psychic,50,100
+97,1,Disable,12,normal,-,100
+97,2,Disable,12,normal,-,100
+97,11,Headbutt,13,normal,70,100
+97,14,Headbutt,13,normal,70,100
+97,15,Headbutt,13,normal,70,100
+97,16,Headbutt,13,normal,70,100
+97,8,Headbutt,15,normal,70,100
+97,9,Headbutt,15,normal,70,100
+97,10,Headbutt,15,normal,70,100
+97,1,Confusion,17,psychic,50,100
+97,2,Confusion,17,psychic,50,100
+97,7,Headbutt,17,normal,70,100
+97,11,Poison Gas,17,poison,-,90
+97,14,Poison Gas,17,poison,-,90
+97,15,Poison Gas,17,poison,-,90
+97,16,Poison Gas,17,poison,-,90
+97,3,Confusion,18,psychic,50,100
+97,4,Confusion,18,psychic,50,100
+97,5,Confusion,18,psychic,50,100
+97,6,Confusion,18,psychic,50,100
+97,8,Poison Gas,18,poison,-,90
+97,9,Poison Gas,18,poison,-,90
+97,10,Poison Gas,18,poison,-,90
+97,12,Confusion,18,psychic,50,100
+97,13,Confusion,18,psychic,50,100
+97,7,Poison Gas,21,poison,-,90
+97,8,Meditate,21,psychic,-,-
+97,9,Meditate,21,psychic,-,-
+97,10,Meditate,21,psychic,-,-
+97,11,Meditate,21,psychic,-,-
+97,14,Meditate,21,psychic,-,-
+97,15,Meditate,21,psychic,-,-
+97,16,Meditate,21,psychic,-,-
+97,1,Headbutt,24,normal,70,100
+97,2,Headbutt,24,normal,70,100
+97,3,Headbutt,25,normal,70,100
+97,4,Headbutt,25,normal,70,100
+97,5,Headbutt,25,normal,70,100
+97,6,Headbutt,25,normal,70,100
+97,11,Psybeam,25,psychic,65,100
+97,12,Headbutt,25,normal,70,100
+97,13,Headbutt,25,normal,70,100
+97,14,Psybeam,25,psychic,65,100
+97,15,Psybeam,25,psychic,65,100
+97,16,Psybeam,25,psychic,65,100
+97,8,Psybeam,28,psychic,65,100
+97,9,Psybeam,28,psychic,65,100
+97,10,Psybeam,28,psychic,65,100
+97,7,Meditate,29,psychic,-,-
+97,11,Headbutt,29,normal,70,100
+97,14,Headbutt,29,normal,70,100
+97,15,Headbutt,29,normal,70,100
+97,16,Headbutt,29,normal,70,100
+97,1,Poison Gas,33,poison,-,90
+97,2,Poison Gas,33,poison,-,90
+97,3,Poison Gas,33,poison,-,90
+97,4,Poison Gas,33,poison,-,90
+97,5,Poison Gas,33,poison,-,90
+97,6,Poison Gas,33,poison,-,90
+97,8,Psych Up,33,normal,-,-
+97,9,Psych Up,33,normal,-,-
+97,10,Psych Up,33,normal,-,-
+97,11,Psych Up,33,normal,-,-
+97,12,Poison Gas,33,poison,-,90
+97,13,Poison Gas,33,poison,-,90
+97,14,Psych Up,33,normal,-,-
+97,15,Psych Up,33,normal,-,-
+97,16,Psych Up,33,normal,-,-
+97,7,Psychic,35,psychic,90,100
+97,1,Psychic,37,psychic,90,100
+97,2,Psychic,37,psychic,90,100
+97,11,Synchronoise,37,psychic,120,100
+97,14,Synchronoise,37,psychic,120,100
+97,15,Synchronoise,37,psychic,120,100
+97,16,Synchronoise,37,psychic,120,100
+97,8,Headbutt,38,normal,70,100
+97,9,Headbutt,38,normal,70,100
+97,10,Headbutt,38,normal,70,100
+97,3,Meditate,40,psychic,-,-
+97,4,Meditate,40,psychic,-,-
+97,5,Meditate,40,psychic,-,-
+97,6,Meditate,40,psychic,-,-
+97,12,Meditate,40,psychic,-,-
+97,13,Meditate,40,psychic,-,-
+97,11,Zen Headbutt,41,psychic,80,90
+97,14,Zen Headbutt,41,psychic,80,90
+97,15,Zen Headbutt,41,psychic,80,90
+97,16,Zen Headbutt,41,psychic,80,90
+97,1,Meditate,43,psychic,-,-
+97,2,Meditate,43,psychic,-,-
+97,7,Psych Up,43,normal,-,-
+97,8,Swagger,45,normal,-,90
+97,9,Swagger,45,normal,-,90
+97,10,Swagger,45,normal,-,90
+97,11,Swagger,45,normal,-,90
+97,14,Swagger,45,normal,-,90
+97,15,Swagger,45,normal,-,90
+97,16,Swagger,45,normal,-,90
+97,3,Psychic,49,psychic,90,100
+97,4,Psychic,49,psychic,90,100
+97,5,Psychic,49,psychic,90,100
+97,6,Psychic,49,psychic,90,100
+97,7,Swagger,49,normal,-,90
+97,11,Psychic,49,psychic,90,100
+97,12,Psychic,49,psychic,90,100
+97,13,Psychic,49,psychic,90,100
+97,14,Psychic,49,psychic,90,100
+97,15,Psychic,49,psychic,90,100
+97,16,Psychic,49,psychic,90,100
+97,8,Psychic,50,psychic,90,100
+97,9,Psychic,50,psychic,90,100
+97,10,Psychic,50,psychic,90,100
+97,11,Nasty Plot,53,dark,-,-
+97,14,Nasty Plot,53,dark,-,-
+97,15,Nasty Plot,53,dark,-,-
+97,16,Nasty Plot,53,dark,-,-
+97,3,Psych Up,55,normal,-,-
+97,4,Psych Up,55,normal,-,-
+97,5,Psych Up,55,normal,-,-
+97,6,Psych Up,55,normal,-,-
+97,8,Nasty Plot,55,dark,-,-
+97,9,Nasty Plot,55,dark,-,-
+97,10,Nasty Plot,55,dark,-,-
+97,12,Psych Up,55,normal,-,-
+97,13,Psych Up,55,normal,-,-
+97,7,Future Sight,57,psychic,120,100
+97,11,Psyshock,57,psychic,80,100
+97,14,Psyshock,57,psychic,80,100
+97,15,Psyshock,57,psychic,80,100
+97,16,Psyshock,57,psychic,80,100
+97,3,Future Sight,60,psychic,120,100
+97,4,Future Sight,60,psychic,120,100
+97,5,Future Sight,60,psychic,120,100
+97,6,Future Sight,60,psychic,120,100
+97,12,Future Sight,60,psychic,120,100
+97,13,Future Sight,60,psychic,120,100
+97,11,Future Sight,61,psychic,120,100
+97,14,Future Sight,61,psychic,120,100
+97,15,Future Sight,61,psychic,120,100
+97,16,Future Sight,61,psychic,120,100
+97,8,Zen Headbutt,64,psychic,80,90
+97,9,Zen Headbutt,64,psychic,80,90
+97,10,Zen Headbutt,64,psychic,80,90
+97,8,Future Sight,69,psychic,120,100
+97,9,Future Sight,69,psychic,120,100
+97,10,Future Sight,69,psychic,120,100

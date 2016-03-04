@@ -1,183 +1,183 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-144,articuno,1,54,Mist,1,60,
-144,articuno,1,58,Ice Beam,1,1,2
-144,articuno,1,59,Blizzard,1,51,
-144,articuno,1,64,Peck,1,1,1
-144,articuno,1,97,Agility,1,55,
-144,articuno,2,54,Mist,1,60,
-144,articuno,2,58,Ice Beam,1,1,2
-144,articuno,2,59,Blizzard,1,51,
-144,articuno,2,64,Peck,1,1,1
-144,articuno,2,97,Agility,1,55,
-144,articuno,3,16,Gust,1,1,1
-144,articuno,3,54,Mist,1,13,
-144,articuno,3,58,Ice Beam,1,49,
-144,articuno,3,59,Blizzard,1,73,
-144,articuno,3,97,Agility,1,25,
-144,articuno,3,115,Reflect,1,61,
-144,articuno,3,170,Mind Reader,1,37,
-144,articuno,3,181,Powder Snow,1,1,2
-144,articuno,4,16,Gust,1,1,1
-144,articuno,4,54,Mist,1,13,
-144,articuno,4,58,Ice Beam,1,49,
-144,articuno,4,59,Blizzard,1,73,
-144,articuno,4,97,Agility,1,25,
-144,articuno,4,115,Reflect,1,61,
-144,articuno,4,170,Mind Reader,1,37,
-144,articuno,4,181,Powder Snow,1,1,2
-144,articuno,5,16,Gust,1,1,1
-144,articuno,5,54,Mist,1,13,
-144,articuno,5,58,Ice Beam,1,49,
-144,articuno,5,59,Blizzard,1,73,
-144,articuno,5,97,Agility,1,25,
-144,articuno,5,115,Reflect,1,61,
-144,articuno,5,170,Mind Reader,1,37,
-144,articuno,5,181,Powder Snow,1,1,2
-144,articuno,5,329,Sheer Cold,1,85,
-144,articuno,6,16,Gust,1,1,1
-144,articuno,6,54,Mist,1,13,
-144,articuno,6,58,Ice Beam,1,49,
-144,articuno,6,59,Blizzard,1,73,
-144,articuno,6,97,Agility,1,25,
-144,articuno,6,115,Reflect,1,61,
-144,articuno,6,170,Mind Reader,1,37,
-144,articuno,6,181,Powder Snow,1,1,2
-144,articuno,6,329,Sheer Cold,1,85,
-144,articuno,7,16,Gust,1,1,1
-144,articuno,7,54,Mist,1,13,
-144,articuno,7,58,Ice Beam,1,49,
-144,articuno,7,59,Blizzard,1,73,
-144,articuno,7,97,Agility,1,25,
-144,articuno,7,115,Reflect,1,61,
-144,articuno,7,170,Mind Reader,1,37,
-144,articuno,7,181,Powder Snow,1,1,2
-144,articuno,7,329,Sheer Cold,1,85,
-144,articuno,8,16,Gust,1,1,1
-144,articuno,8,54,Mist,1,8,
-144,articuno,8,58,Ice Beam,1,43,
-144,articuno,8,59,Blizzard,1,71,
-144,articuno,8,97,Agility,1,36,
-144,articuno,8,115,Reflect,1,50,
-144,articuno,8,170,Mind Reader,1,22,
-144,articuno,8,181,Powder Snow,1,1,2
-144,articuno,8,246,Ancient Power,1,29,
-144,articuno,8,258,Hail,1,85,
-144,articuno,8,329,Sheer Cold,1,78,
-144,articuno,8,355,Roost,1,57,
-144,articuno,8,366,Tailwind,1,64,
-144,articuno,8,420,Ice Shard,1,15,
-144,articuno,9,16,Gust,1,1,1
-144,articuno,9,54,Mist,1,8,
-144,articuno,9,58,Ice Beam,1,43,
-144,articuno,9,59,Blizzard,1,71,
-144,articuno,9,97,Agility,1,36,
-144,articuno,9,115,Reflect,1,50,
-144,articuno,9,170,Mind Reader,1,22,
-144,articuno,9,181,Powder Snow,1,1,2
-144,articuno,9,246,Ancient Power,1,29,
-144,articuno,9,258,Hail,1,85,
-144,articuno,9,329,Sheer Cold,1,78,
-144,articuno,9,355,Roost,1,57,
-144,articuno,9,366,Tailwind,1,64,
-144,articuno,9,420,Ice Shard,1,15,
-144,articuno,10,16,Gust,1,1,1
-144,articuno,10,54,Mist,1,8,
-144,articuno,10,58,Ice Beam,1,43,
-144,articuno,10,59,Blizzard,1,71,
-144,articuno,10,97,Agility,1,36,
-144,articuno,10,115,Reflect,1,50,
-144,articuno,10,170,Mind Reader,1,22,
-144,articuno,10,181,Powder Snow,1,1,2
-144,articuno,10,246,Ancient Power,1,29,
-144,articuno,10,258,Hail,1,85,
-144,articuno,10,329,Sheer Cold,1,78,
-144,articuno,10,355,Roost,1,57,
-144,articuno,10,366,Tailwind,1,64,
-144,articuno,10,420,Ice Shard,1,15,
-144,articuno,11,16,Gust,1,1,1
-144,articuno,11,54,Mist,1,8,
-144,articuno,11,58,Ice Beam,1,43,
-144,articuno,11,59,Blizzard,1,71,
-144,articuno,11,97,Agility,1,36,
-144,articuno,11,115,Reflect,1,50,
-144,articuno,11,170,Mind Reader,1,22,
-144,articuno,11,181,Powder Snow,1,1,2
-144,articuno,11,246,Ancient Power,1,29,
-144,articuno,11,258,Hail,1,85,
-144,articuno,11,329,Sheer Cold,1,78,
-144,articuno,11,355,Roost,1,57,
-144,articuno,11,366,Tailwind,1,64,
-144,articuno,11,420,Ice Shard,1,15,
-144,articuno,12,16,Gust,1,1,1
-144,articuno,12,54,Mist,1,13,
-144,articuno,12,58,Ice Beam,1,49,
-144,articuno,12,59,Blizzard,1,73,
-144,articuno,12,97,Agility,1,25,
-144,articuno,12,115,Reflect,1,61,
-144,articuno,12,170,Mind Reader,1,37,
-144,articuno,12,181,Powder Snow,1,1,2
-144,articuno,12,329,Sheer Cold,1,85,
-144,articuno,13,16,Gust,1,1,1
-144,articuno,13,54,Mist,1,13,
-144,articuno,13,58,Ice Beam,1,49,
-144,articuno,13,59,Blizzard,1,73,
-144,articuno,13,97,Agility,1,25,
-144,articuno,13,115,Reflect,1,61,
-144,articuno,13,170,Mind Reader,1,37,
-144,articuno,13,181,Powder Snow,1,1,2
-144,articuno,13,329,Sheer Cold,1,85,
-144,articuno,14,16,Gust,1,1,1
-144,articuno,14,54,Mist,1,8,
-144,articuno,14,58,Ice Beam,1,43,
-144,articuno,14,59,Blizzard,1,71,
-144,articuno,14,97,Agility,1,36,
-144,articuno,14,115,Reflect,1,50,
-144,articuno,14,170,Mind Reader,1,22,
-144,articuno,14,181,Powder Snow,1,1,2
-144,articuno,14,246,Ancient Power,1,29,
-144,articuno,14,258,Hail,1,85,
-144,articuno,14,329,Sheer Cold,1,78,
-144,articuno,14,355,Roost,1,57,
-144,articuno,14,366,Tailwind,1,64,
-144,articuno,14,420,Ice Shard,1,15,
-144,articuno,14,542,Hurricane,1,92,
-144,articuno,15,16,Gust,1,1,6
-144,articuno,15,54,Mist,1,8,
-144,articuno,15,58,Ice Beam,1,43,
-144,articuno,15,59,Blizzard,1,71,
-144,articuno,15,97,Agility,1,36,
-144,articuno,15,115,Reflect,1,50,
-144,articuno,15,170,Mind Reader,1,22,
-144,articuno,15,181,Powder Snow,1,1,7
-144,articuno,15,246,Ancient Power,1,29,
-144,articuno,15,258,Hail,1,57,
-144,articuno,15,329,Sheer Cold,1,1,5
-144,articuno,15,329,Sheer Cold,1,78,
-144,articuno,15,355,Roost,1,1,1
-144,articuno,15,355,Roost,1,85,
-144,articuno,15,366,Tailwind,1,1,4
-144,articuno,15,366,Tailwind,1,64,
-144,articuno,15,420,Ice Shard,1,15,
-144,articuno,15,542,Hurricane,1,1,2
-144,articuno,15,542,Hurricane,1,92,
-144,articuno,15,573,Freeze-Dry,1,1,3
-144,articuno,16,16,Gust,1,1,6
-144,articuno,16,54,Mist,1,8,1
-144,articuno,16,58,Ice Beam,1,43,1
-144,articuno,16,59,Blizzard,1,71,1
-144,articuno,16,97,Agility,1,36,1
-144,articuno,16,115,Reflect,1,50,1
-144,articuno,16,170,Mind Reader,1,22,1
-144,articuno,16,181,Powder Snow,1,1,7
-144,articuno,16,246,Ancient Power,1,29,1
-144,articuno,16,258,Hail,1,57,1
-144,articuno,16,329,Sheer Cold,1,1,5
-144,articuno,16,329,Sheer Cold,1,78,1
-144,articuno,16,355,Roost,1,1,1
-144,articuno,16,355,Roost,1,85,1
-144,articuno,16,366,Tailwind,1,1,4
-144,articuno,16,366,Tailwind,1,64,1
-144,articuno,16,420,Ice Shard,1,15,1
-144,articuno,16,542,Hurricane,1,1,2
-144,articuno,16,542,Hurricane,1,92,1
-144,articuno,16,573,Freeze-Dry,1,1,3
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+144,1,Ice Beam,1,ice,90,100
+144,1,Peck,1,flying,35,100
+144,2,Ice Beam,1,ice,90,100
+144,2,Peck,1,flying,35,100
+144,3,Gust,1,flying,40,100
+144,3,Powder Snow,1,ice,40,100
+144,4,Gust,1,flying,40,100
+144,4,Powder Snow,1,ice,40,100
+144,5,Gust,1,flying,40,100
+144,5,Powder Snow,1,ice,40,100
+144,6,Gust,1,flying,40,100
+144,6,Powder Snow,1,ice,40,100
+144,7,Gust,1,flying,40,100
+144,7,Powder Snow,1,ice,40,100
+144,8,Gust,1,flying,40,100
+144,8,Powder Snow,1,ice,40,100
+144,9,Gust,1,flying,40,100
+144,9,Powder Snow,1,ice,40,100
+144,10,Gust,1,flying,40,100
+144,10,Powder Snow,1,ice,40,100
+144,11,Gust,1,flying,40,100
+144,11,Powder Snow,1,ice,40,100
+144,12,Gust,1,flying,40,100
+144,12,Powder Snow,1,ice,40,100
+144,13,Gust,1,flying,40,100
+144,13,Powder Snow,1,ice,40,100
+144,14,Gust,1,flying,40,100
+144,14,Powder Snow,1,ice,40,100
+144,15,Gust,1,flying,40,100
+144,15,Powder Snow,1,ice,40,100
+144,15,Sheer Cold,1,ice,-,30
+144,15,Roost,1,flying,-,-
+144,15,Tailwind,1,flying,-,-
+144,15,Hurricane,1,flying,110,70
+144,15,Freeze-Dry,1,ice,70,100
+144,16,Gust,1,flying,40,100
+144,16,Powder Snow,1,ice,40,100
+144,16,Sheer Cold,1,ice,-,30
+144,16,Roost,1,flying,-,-
+144,16,Tailwind,1,flying,-,-
+144,16,Hurricane,1,flying,110,70
+144,16,Freeze-Dry,1,ice,70,100
+144,8,Mist,8,ice,-,-
+144,9,Mist,8,ice,-,-
+144,10,Mist,8,ice,-,-
+144,11,Mist,8,ice,-,-
+144,14,Mist,8,ice,-,-
+144,15,Mist,8,ice,-,-
+144,16,Mist,8,ice,-,-
+144,3,Mist,13,ice,-,-
+144,4,Mist,13,ice,-,-
+144,5,Mist,13,ice,-,-
+144,6,Mist,13,ice,-,-
+144,7,Mist,13,ice,-,-
+144,12,Mist,13,ice,-,-
+144,13,Mist,13,ice,-,-
+144,8,Ice Shard,15,ice,40,100
+144,9,Ice Shard,15,ice,40,100
+144,10,Ice Shard,15,ice,40,100
+144,11,Ice Shard,15,ice,40,100
+144,14,Ice Shard,15,ice,40,100
+144,15,Ice Shard,15,ice,40,100
+144,16,Ice Shard,15,ice,40,100
+144,8,Mind Reader,22,normal,-,-
+144,9,Mind Reader,22,normal,-,-
+144,10,Mind Reader,22,normal,-,-
+144,11,Mind Reader,22,normal,-,-
+144,14,Mind Reader,22,normal,-,-
+144,15,Mind Reader,22,normal,-,-
+144,16,Mind Reader,22,normal,-,-
+144,3,Agility,25,psychic,-,-
+144,4,Agility,25,psychic,-,-
+144,5,Agility,25,psychic,-,-
+144,6,Agility,25,psychic,-,-
+144,7,Agility,25,psychic,-,-
+144,12,Agility,25,psychic,-,-
+144,13,Agility,25,psychic,-,-
+144,8,Ancient Power,29,rock,60,100
+144,9,Ancient Power,29,rock,60,100
+144,10,Ancient Power,29,rock,60,100
+144,11,Ancient Power,29,rock,60,100
+144,14,Ancient Power,29,rock,60,100
+144,15,Ancient Power,29,rock,60,100
+144,16,Ancient Power,29,rock,60,100
+144,8,Agility,36,psychic,-,-
+144,9,Agility,36,psychic,-,-
+144,10,Agility,36,psychic,-,-
+144,11,Agility,36,psychic,-,-
+144,14,Agility,36,psychic,-,-
+144,15,Agility,36,psychic,-,-
+144,16,Agility,36,psychic,-,-
+144,3,Mind Reader,37,normal,-,-
+144,4,Mind Reader,37,normal,-,-
+144,5,Mind Reader,37,normal,-,-
+144,6,Mind Reader,37,normal,-,-
+144,7,Mind Reader,37,normal,-,-
+144,12,Mind Reader,37,normal,-,-
+144,13,Mind Reader,37,normal,-,-
+144,8,Ice Beam,43,ice,90,100
+144,9,Ice Beam,43,ice,90,100
+144,10,Ice Beam,43,ice,90,100
+144,11,Ice Beam,43,ice,90,100
+144,14,Ice Beam,43,ice,90,100
+144,15,Ice Beam,43,ice,90,100
+144,16,Ice Beam,43,ice,90,100
+144,3,Ice Beam,49,ice,90,100
+144,4,Ice Beam,49,ice,90,100
+144,5,Ice Beam,49,ice,90,100
+144,6,Ice Beam,49,ice,90,100
+144,7,Ice Beam,49,ice,90,100
+144,12,Ice Beam,49,ice,90,100
+144,13,Ice Beam,49,ice,90,100
+144,8,Reflect,50,psychic,-,-
+144,9,Reflect,50,psychic,-,-
+144,10,Reflect,50,psychic,-,-
+144,11,Reflect,50,psychic,-,-
+144,14,Reflect,50,psychic,-,-
+144,15,Reflect,50,psychic,-,-
+144,16,Reflect,50,psychic,-,-
+144,1,Blizzard,51,ice,110,70
+144,2,Blizzard,51,ice,110,70
+144,1,Agility,55,psychic,-,-
+144,2,Agility,55,psychic,-,-
+144,8,Roost,57,flying,-,-
+144,9,Roost,57,flying,-,-
+144,10,Roost,57,flying,-,-
+144,11,Roost,57,flying,-,-
+144,14,Roost,57,flying,-,-
+144,15,Hail,57,ice,-,-
+144,16,Hail,57,ice,-,-
+144,1,Mist,60,ice,-,-
+144,2,Mist,60,ice,-,-
+144,3,Reflect,61,psychic,-,-
+144,4,Reflect,61,psychic,-,-
+144,5,Reflect,61,psychic,-,-
+144,6,Reflect,61,psychic,-,-
+144,7,Reflect,61,psychic,-,-
+144,12,Reflect,61,psychic,-,-
+144,13,Reflect,61,psychic,-,-
+144,8,Tailwind,64,flying,-,-
+144,9,Tailwind,64,flying,-,-
+144,10,Tailwind,64,flying,-,-
+144,11,Tailwind,64,flying,-,-
+144,14,Tailwind,64,flying,-,-
+144,15,Tailwind,64,flying,-,-
+144,16,Tailwind,64,flying,-,-
+144,8,Blizzard,71,ice,110,70
+144,9,Blizzard,71,ice,110,70
+144,10,Blizzard,71,ice,110,70
+144,11,Blizzard,71,ice,110,70
+144,14,Blizzard,71,ice,110,70
+144,15,Blizzard,71,ice,110,70
+144,16,Blizzard,71,ice,110,70
+144,3,Blizzard,73,ice,110,70
+144,4,Blizzard,73,ice,110,70
+144,5,Blizzard,73,ice,110,70
+144,6,Blizzard,73,ice,110,70
+144,7,Blizzard,73,ice,110,70
+144,12,Blizzard,73,ice,110,70
+144,13,Blizzard,73,ice,110,70
+144,8,Sheer Cold,78,ice,-,30
+144,9,Sheer Cold,78,ice,-,30
+144,10,Sheer Cold,78,ice,-,30
+144,11,Sheer Cold,78,ice,-,30
+144,14,Sheer Cold,78,ice,-,30
+144,15,Sheer Cold,78,ice,-,30
+144,16,Sheer Cold,78,ice,-,30
+144,5,Sheer Cold,85,ice,-,30
+144,6,Sheer Cold,85,ice,-,30
+144,7,Sheer Cold,85,ice,-,30
+144,8,Hail,85,ice,-,-
+144,9,Hail,85,ice,-,-
+144,10,Hail,85,ice,-,-
+144,11,Hail,85,ice,-,-
+144,12,Sheer Cold,85,ice,-,30
+144,13,Sheer Cold,85,ice,-,30
+144,14,Hail,85,ice,-,-
+144,15,Roost,85,flying,-,-
+144,16,Roost,85,flying,-,-
+144,14,Hurricane,92,flying,110,70
+144,15,Hurricane,92,flying,110,70
+144,16,Hurricane,92,flying,110,70

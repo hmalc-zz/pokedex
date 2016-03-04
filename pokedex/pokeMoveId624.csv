@@ -1,65 +1,65 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-624,pawniard,11,10,Scratch,1,1,
-624,pawniard,11,12,Guillotine,1,62,
-624,pawniard,11,14,Swords Dance,1,57,
-624,pawniard,11,43,Leer,1,6,
-624,pawniard,11,163,Slash,1,30,
-624,pawniard,11,184,Scary Face,1,22,
-624,pawniard,11,185,Feint Attack,1,17,
-624,pawniard,11,210,Fury Cutter,1,9,
-624,pawniard,11,232,Metal Claw,1,25,
-624,pawniard,11,259,Torment,1,14,
-624,pawniard,11,319,Metal Sound,1,38,
-624,pawniard,11,334,Iron Defense,1,46,
-624,pawniard,11,372,Assurance,1,33,
-624,pawniard,11,373,Embargo,1,41,
-624,pawniard,11,400,Night Slash,1,49,
-624,pawniard,11,442,Iron Head,1,54,
-624,pawniard,14,10,Scratch,1,1,
-624,pawniard,14,12,Guillotine,1,62,
-624,pawniard,14,14,Swords Dance,1,57,
-624,pawniard,14,43,Leer,1,6,
-624,pawniard,14,163,Slash,1,30,
-624,pawniard,14,184,Scary Face,1,22,
-624,pawniard,14,185,Feint Attack,1,17,
-624,pawniard,14,210,Fury Cutter,1,9,
-624,pawniard,14,232,Metal Claw,1,25,
-624,pawniard,14,259,Torment,1,14,
-624,pawniard,14,319,Metal Sound,1,38,
-624,pawniard,14,334,Iron Defense,1,46,
-624,pawniard,14,372,Assurance,1,33,
-624,pawniard,14,373,Embargo,1,41,
-624,pawniard,14,400,Night Slash,1,49,
-624,pawniard,14,442,Iron Head,1,54,
-624,pawniard,15,10,Scratch,1,1,
-624,pawniard,15,12,Guillotine,1,62,
-624,pawniard,15,14,Swords Dance,1,57,
-624,pawniard,15,43,Leer,1,6,
-624,pawniard,15,163,Slash,1,30,
-624,pawniard,15,184,Scary Face,1,22,
-624,pawniard,15,185,Feint Attack,1,17,
-624,pawniard,15,210,Fury Cutter,1,9,
-624,pawniard,15,232,Metal Claw,1,25,
-624,pawniard,15,259,Torment,1,14,
-624,pawniard,15,319,Metal Sound,1,38,
-624,pawniard,15,334,Iron Defense,1,46,
-624,pawniard,15,372,Assurance,1,33,
-624,pawniard,15,373,Embargo,1,41,
-624,pawniard,15,400,Night Slash,1,49,
-624,pawniard,15,442,Iron Head,1,54,
-624,pawniard,16,10,Scratch,1,1,1
-624,pawniard,16,12,Guillotine,1,62,1
-624,pawniard,16,14,Swords Dance,1,57,1
-624,pawniard,16,43,Leer,1,6,1
-624,pawniard,16,163,Slash,1,30,1
-624,pawniard,16,184,Scary Face,1,22,1
-624,pawniard,16,185,Feint Attack,1,17,1
-624,pawniard,16,210,Fury Cutter,1,9,1
-624,pawniard,16,232,Metal Claw,1,25,1
-624,pawniard,16,259,Torment,1,14,1
-624,pawniard,16,319,Metal Sound,1,38,1
-624,pawniard,16,334,Iron Defense,1,46,1
-624,pawniard,16,372,Assurance,1,33,1
-624,pawniard,16,373,Embargo,1,41,1
-624,pawniard,16,400,Night Slash,1,49,1
-624,pawniard,16,442,Iron Head,1,54,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+624,11,Scratch,1,normal,40,100
+624,14,Scratch,1,normal,40,100
+624,15,Scratch,1,normal,40,100
+624,16,Scratch,1,normal,40,100
+624,11,Leer,6,normal,-,100
+624,14,Leer,6,normal,-,100
+624,15,Leer,6,normal,-,100
+624,16,Leer,6,normal,-,100
+624,11,Fury Cutter,9,bug,40,95
+624,14,Fury Cutter,9,bug,40,95
+624,15,Fury Cutter,9,bug,40,95
+624,16,Fury Cutter,9,bug,40,95
+624,11,Torment,14,dark,-,100
+624,14,Torment,14,dark,-,100
+624,15,Torment,14,dark,-,100
+624,16,Torment,14,dark,-,100
+624,11,Feint Attack,17,dark,60,-
+624,14,Feint Attack,17,dark,60,-
+624,15,Feint Attack,17,dark,60,-
+624,16,Feint Attack,17,dark,60,-
+624,11,Scary Face,22,normal,-,100
+624,14,Scary Face,22,normal,-,100
+624,15,Scary Face,22,normal,-,100
+624,16,Scary Face,22,normal,-,100
+624,11,Metal Claw,25,steel,50,95
+624,14,Metal Claw,25,steel,50,95
+624,15,Metal Claw,25,steel,50,95
+624,16,Metal Claw,25,steel,50,95
+624,11,Slash,30,normal,70,100
+624,14,Slash,30,normal,70,100
+624,15,Slash,30,normal,70,100
+624,16,Slash,30,normal,70,100
+624,11,Assurance,33,dark,60,100
+624,14,Assurance,33,dark,60,100
+624,15,Assurance,33,dark,60,100
+624,16,Assurance,33,dark,60,100
+624,11,Metal Sound,38,steel,-,85
+624,14,Metal Sound,38,steel,-,85
+624,15,Metal Sound,38,steel,-,85
+624,16,Metal Sound,38,steel,-,85
+624,11,Embargo,41,dark,-,100
+624,14,Embargo,41,dark,-,100
+624,15,Embargo,41,dark,-,100
+624,16,Embargo,41,dark,-,100
+624,11,Iron Defense,46,steel,-,-
+624,14,Iron Defense,46,steel,-,-
+624,15,Iron Defense,46,steel,-,-
+624,16,Iron Defense,46,steel,-,-
+624,11,Night Slash,49,dark,70,100
+624,14,Night Slash,49,dark,70,100
+624,15,Night Slash,49,dark,70,100
+624,16,Night Slash,49,dark,70,100
+624,11,Iron Head,54,steel,80,100
+624,14,Iron Head,54,steel,80,100
+624,15,Iron Head,54,steel,80,100
+624,16,Iron Head,54,steel,80,100
+624,11,Swords Dance,57,normal,-,-
+624,14,Swords Dance,57,normal,-,-
+624,15,Swords Dance,57,normal,-,-
+624,16,Swords Dance,57,normal,-,-
+624,11,Guillotine,62,normal,-,30
+624,14,Guillotine,62,normal,-,30
+624,15,Guillotine,62,normal,-,30
+624,16,Guillotine,62,normal,-,30

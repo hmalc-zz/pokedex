@@ -1,183 +1,183 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-286,breloom,5,29,Headbutt,1,22,
-286,breloom,5,33,Tackle,1,1,2
-286,breloom,5,33,Tackle,1,4,
-286,breloom,5,68,Counter,1,28,
-286,breloom,5,71,Absorb,1,1,1
-286,breloom,5,72,Mega Drain,1,16,
-286,breloom,5,73,Leech Seed,1,1,4
-286,breloom,5,73,Leech Seed,1,10,
-286,breloom,5,78,Stun Spore,1,1,3
-286,breloom,5,78,Stun Spore,1,7,
-286,breloom,5,170,Mind Reader,1,45,
-286,breloom,5,183,Mach Punch,1,23,
-286,breloom,5,223,Dynamic Punch,1,54,
-286,breloom,5,327,Sky Uppercut,1,36,
-286,breloom,6,29,Headbutt,1,22,
-286,breloom,6,33,Tackle,1,1,2
-286,breloom,6,33,Tackle,1,4,
-286,breloom,6,68,Counter,1,28,
-286,breloom,6,71,Absorb,1,1,1
-286,breloom,6,72,Mega Drain,1,16,
-286,breloom,6,73,Leech Seed,1,1,4
-286,breloom,6,73,Leech Seed,1,10,
-286,breloom,6,78,Stun Spore,1,1,3
-286,breloom,6,78,Stun Spore,1,7,
-286,breloom,6,170,Mind Reader,1,45,
-286,breloom,6,183,Mach Punch,1,23,
-286,breloom,6,223,Dynamic Punch,1,54,
-286,breloom,6,327,Sky Uppercut,1,36,
-286,breloom,7,29,Headbutt,1,22,
-286,breloom,7,33,Tackle,1,1,2
-286,breloom,7,33,Tackle,1,4,
-286,breloom,7,68,Counter,1,28,
-286,breloom,7,71,Absorb,1,1,1
-286,breloom,7,72,Mega Drain,1,16,
-286,breloom,7,73,Leech Seed,1,1,4
-286,breloom,7,73,Leech Seed,1,10,
-286,breloom,7,78,Stun Spore,1,1,3
-286,breloom,7,78,Stun Spore,1,7,
-286,breloom,7,170,Mind Reader,1,45,
-286,breloom,7,183,Mach Punch,1,23,
-286,breloom,7,223,Dynamic Punch,1,54,
-286,breloom,7,327,Sky Uppercut,1,36,
-286,breloom,8,29,Headbutt,1,21,
-286,breloom,8,33,Tackle,1,1,2
-286,breloom,8,33,Tackle,1,5,
-286,breloom,8,68,Counter,1,25,
-286,breloom,8,71,Absorb,1,1,1
-286,breloom,8,72,Mega Drain,1,17,
-286,breloom,8,73,Leech Seed,1,1,4
-286,breloom,8,73,Leech Seed,1,13,
-286,breloom,8,78,Stun Spore,1,1,3
-286,breloom,8,78,Stun Spore,1,9,
-286,breloom,8,170,Mind Reader,1,37,
-286,breloom,8,183,Mach Punch,1,23,
-286,breloom,8,223,Dynamic Punch,1,45,
-286,breloom,8,327,Sky Uppercut,1,33,
-286,breloom,8,395,Force Palm,1,29,
-286,breloom,8,402,Seed Bomb,1,41,
-286,breloom,9,29,Headbutt,1,21,
-286,breloom,9,33,Tackle,1,1,2
-286,breloom,9,33,Tackle,1,5,
-286,breloom,9,68,Counter,1,25,
-286,breloom,9,71,Absorb,1,1,1
-286,breloom,9,72,Mega Drain,1,17,
-286,breloom,9,73,Leech Seed,1,1,4
-286,breloom,9,73,Leech Seed,1,13,
-286,breloom,9,78,Stun Spore,1,1,3
-286,breloom,9,78,Stun Spore,1,9,
-286,breloom,9,170,Mind Reader,1,37,
-286,breloom,9,183,Mach Punch,1,23,
-286,breloom,9,223,Dynamic Punch,1,45,
-286,breloom,9,327,Sky Uppercut,1,33,
-286,breloom,9,395,Force Palm,1,29,
-286,breloom,9,402,Seed Bomb,1,41,
-286,breloom,10,29,Headbutt,1,21,
-286,breloom,10,33,Tackle,1,1,2
-286,breloom,10,33,Tackle,1,5,
-286,breloom,10,68,Counter,1,25,
-286,breloom,10,71,Absorb,1,1,1
-286,breloom,10,72,Mega Drain,1,17,
-286,breloom,10,73,Leech Seed,1,1,4
-286,breloom,10,73,Leech Seed,1,13,
-286,breloom,10,78,Stun Spore,1,1,3
-286,breloom,10,78,Stun Spore,1,9,
-286,breloom,10,170,Mind Reader,1,37,
-286,breloom,10,183,Mach Punch,1,23,
-286,breloom,10,223,Dynamic Punch,1,45,
-286,breloom,10,327,Sky Uppercut,1,33,
-286,breloom,10,395,Force Palm,1,29,
-286,breloom,10,402,Seed Bomb,1,41,
-286,breloom,11,29,Headbutt,1,21,
-286,breloom,11,33,Tackle,1,1,2
-286,breloom,11,33,Tackle,1,5,
-286,breloom,11,68,Counter,1,25,
-286,breloom,11,71,Absorb,1,1,1
-286,breloom,11,72,Mega Drain,1,17,
-286,breloom,11,73,Leech Seed,1,1,4
-286,breloom,11,73,Leech Seed,1,13,
-286,breloom,11,78,Stun Spore,1,1,3
-286,breloom,11,78,Stun Spore,1,9,
-286,breloom,11,170,Mind Reader,1,37,
-286,breloom,11,183,Mach Punch,1,23,
-286,breloom,11,223,Dynamic Punch,1,45,
-286,breloom,11,327,Sky Uppercut,1,33,
-286,breloom,11,395,Force Palm,1,29,
-286,breloom,11,402,Seed Bomb,1,41,
-286,breloom,12,29,Headbutt,1,22,
-286,breloom,12,33,Tackle,1,1,2
-286,breloom,12,33,Tackle,1,4,
-286,breloom,12,68,Counter,1,28,
-286,breloom,12,71,Absorb,1,1,1
-286,breloom,12,72,Mega Drain,1,16,
-286,breloom,12,73,Leech Seed,1,1,4
-286,breloom,12,73,Leech Seed,1,10,
-286,breloom,12,78,Stun Spore,1,1,3
-286,breloom,12,78,Stun Spore,1,7,
-286,breloom,12,170,Mind Reader,1,45,
-286,breloom,12,183,Mach Punch,1,23,
-286,breloom,12,223,Dynamic Punch,1,54,
-286,breloom,12,327,Sky Uppercut,1,36,
-286,breloom,13,29,Headbutt,1,22,
-286,breloom,13,33,Tackle,1,1,2
-286,breloom,13,33,Tackle,1,4,
-286,breloom,13,68,Counter,1,28,
-286,breloom,13,71,Absorb,1,1,1
-286,breloom,13,72,Mega Drain,1,16,
-286,breloom,13,73,Leech Seed,1,1,4
-286,breloom,13,73,Leech Seed,1,10,
-286,breloom,13,78,Stun Spore,1,1,3
-286,breloom,13,78,Stun Spore,1,7,
-286,breloom,13,170,Mind Reader,1,45,
-286,breloom,13,183,Mach Punch,1,23,
-286,breloom,13,223,Dynamic Punch,1,54,
-286,breloom,13,327,Sky Uppercut,1,36,
-286,breloom,14,29,Headbutt,1,21,
-286,breloom,14,33,Tackle,1,1,2
-286,breloom,14,33,Tackle,1,5,
-286,breloom,14,68,Counter,1,25,
-286,breloom,14,71,Absorb,1,1,1
-286,breloom,14,72,Mega Drain,1,17,
-286,breloom,14,73,Leech Seed,1,1,4
-286,breloom,14,73,Leech Seed,1,13,
-286,breloom,14,78,Stun Spore,1,1,3
-286,breloom,14,78,Stun Spore,1,9,
-286,breloom,14,170,Mind Reader,1,37,
-286,breloom,14,183,Mach Punch,1,23,
-286,breloom,14,223,Dynamic Punch,1,45,
-286,breloom,14,327,Sky Uppercut,1,33,
-286,breloom,14,395,Force Palm,1,29,
-286,breloom,14,402,Seed Bomb,1,41,
-286,breloom,15,29,Headbutt,1,21,
-286,breloom,15,33,Tackle,1,1,2
-286,breloom,15,33,Tackle,1,5,
-286,breloom,15,68,Counter,1,25,
-286,breloom,15,71,Absorb,1,1,1
-286,breloom,15,72,Mega Drain,1,17,
-286,breloom,15,73,Leech Seed,1,1,4
-286,breloom,15,73,Leech Seed,1,13,
-286,breloom,15,78,Stun Spore,1,1,3
-286,breloom,15,78,Stun Spore,1,9,
-286,breloom,15,170,Mind Reader,1,37,
-286,breloom,15,183,Mach Punch,1,23,
-286,breloom,15,223,Dynamic Punch,1,45,
-286,breloom,15,327,Sky Uppercut,1,33,
-286,breloom,15,395,Force Palm,1,29,
-286,breloom,15,402,Seed Bomb,1,41,
-286,breloom,16,29,Headbutt,1,15,1
-286,breloom,16,33,Tackle,1,1,2
-286,breloom,16,68,Counter,1,22,1
-286,breloom,16,71,Absorb,1,1,1
-286,breloom,16,72,Mega Drain,1,12,1
-286,breloom,16,73,Leech Seed,1,1,4
-286,breloom,16,73,Leech Seed,1,8,1
-286,breloom,16,78,Stun Spore,1,1,3
-286,breloom,16,78,Stun Spore,1,5,1
-286,breloom,16,170,Mind Reader,1,33,1
-286,breloom,16,183,Mach Punch,1,23,1
-286,breloom,16,223,Dynamic Punch,1,50,1
-286,breloom,16,327,Sky Uppercut,1,39,1
-286,breloom,16,364,Feint,1,19,1
-286,breloom,16,395,Force Palm,1,28,1
-286,breloom,16,402,Seed Bomb,1,44,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+286,5,Tackle,1,normal,50,100
+286,5,Absorb,1,grass,20,100
+286,5,Leech Seed,1,grass,-,90
+286,5,Stun Spore,1,grass,-,75
+286,6,Tackle,1,normal,50,100
+286,6,Absorb,1,grass,20,100
+286,6,Leech Seed,1,grass,-,90
+286,6,Stun Spore,1,grass,-,75
+286,7,Tackle,1,normal,50,100
+286,7,Absorb,1,grass,20,100
+286,7,Leech Seed,1,grass,-,90
+286,7,Stun Spore,1,grass,-,75
+286,8,Tackle,1,normal,50,100
+286,8,Absorb,1,grass,20,100
+286,8,Leech Seed,1,grass,-,90
+286,8,Stun Spore,1,grass,-,75
+286,9,Tackle,1,normal,50,100
+286,9,Absorb,1,grass,20,100
+286,9,Leech Seed,1,grass,-,90
+286,9,Stun Spore,1,grass,-,75
+286,10,Tackle,1,normal,50,100
+286,10,Absorb,1,grass,20,100
+286,10,Leech Seed,1,grass,-,90
+286,10,Stun Spore,1,grass,-,75
+286,11,Tackle,1,normal,50,100
+286,11,Absorb,1,grass,20,100
+286,11,Leech Seed,1,grass,-,90
+286,11,Stun Spore,1,grass,-,75
+286,12,Tackle,1,normal,50,100
+286,12,Absorb,1,grass,20,100
+286,12,Leech Seed,1,grass,-,90
+286,12,Stun Spore,1,grass,-,75
+286,13,Tackle,1,normal,50,100
+286,13,Absorb,1,grass,20,100
+286,13,Leech Seed,1,grass,-,90
+286,13,Stun Spore,1,grass,-,75
+286,14,Tackle,1,normal,50,100
+286,14,Absorb,1,grass,20,100
+286,14,Leech Seed,1,grass,-,90
+286,14,Stun Spore,1,grass,-,75
+286,15,Tackle,1,normal,50,100
+286,15,Absorb,1,grass,20,100
+286,15,Leech Seed,1,grass,-,90
+286,15,Stun Spore,1,grass,-,75
+286,16,Tackle,1,normal,50,100
+286,16,Absorb,1,grass,20,100
+286,16,Leech Seed,1,grass,-,90
+286,16,Stun Spore,1,grass,-,75
+286,5,Tackle,4,normal,50,100
+286,6,Tackle,4,normal,50,100
+286,7,Tackle,4,normal,50,100
+286,12,Tackle,4,normal,50,100
+286,13,Tackle,4,normal,50,100
+286,8,Tackle,5,normal,50,100
+286,9,Tackle,5,normal,50,100
+286,10,Tackle,5,normal,50,100
+286,11,Tackle,5,normal,50,100
+286,14,Tackle,5,normal,50,100
+286,15,Tackle,5,normal,50,100
+286,16,Stun Spore,5,grass,-,75
+286,5,Stun Spore,7,grass,-,75
+286,6,Stun Spore,7,grass,-,75
+286,7,Stun Spore,7,grass,-,75
+286,12,Stun Spore,7,grass,-,75
+286,13,Stun Spore,7,grass,-,75
+286,16,Leech Seed,8,grass,-,90
+286,8,Stun Spore,9,grass,-,75
+286,9,Stun Spore,9,grass,-,75
+286,10,Stun Spore,9,grass,-,75
+286,11,Stun Spore,9,grass,-,75
+286,14,Stun Spore,9,grass,-,75
+286,15,Stun Spore,9,grass,-,75
+286,5,Leech Seed,10,grass,-,90
+286,6,Leech Seed,10,grass,-,90
+286,7,Leech Seed,10,grass,-,90
+286,12,Leech Seed,10,grass,-,90
+286,13,Leech Seed,10,grass,-,90
+286,16,Mega Drain,12,grass,40,100
+286,8,Leech Seed,13,grass,-,90
+286,9,Leech Seed,13,grass,-,90
+286,10,Leech Seed,13,grass,-,90
+286,11,Leech Seed,13,grass,-,90
+286,14,Leech Seed,13,grass,-,90
+286,15,Leech Seed,13,grass,-,90
+286,16,Headbutt,15,normal,70,100
+286,5,Mega Drain,16,grass,40,100
+286,6,Mega Drain,16,grass,40,100
+286,7,Mega Drain,16,grass,40,100
+286,12,Mega Drain,16,grass,40,100
+286,13,Mega Drain,16,grass,40,100
+286,8,Mega Drain,17,grass,40,100
+286,9,Mega Drain,17,grass,40,100
+286,10,Mega Drain,17,grass,40,100
+286,11,Mega Drain,17,grass,40,100
+286,14,Mega Drain,17,grass,40,100
+286,15,Mega Drain,17,grass,40,100
+286,16,Feint,19,normal,30,100
+286,8,Headbutt,21,normal,70,100
+286,9,Headbutt,21,normal,70,100
+286,10,Headbutt,21,normal,70,100
+286,11,Headbutt,21,normal,70,100
+286,14,Headbutt,21,normal,70,100
+286,15,Headbutt,21,normal,70,100
+286,5,Headbutt,22,normal,70,100
+286,6,Headbutt,22,normal,70,100
+286,7,Headbutt,22,normal,70,100
+286,12,Headbutt,22,normal,70,100
+286,13,Headbutt,22,normal,70,100
+286,16,Counter,22,fighting,-,100
+286,5,Mach Punch,23,fighting,40,100
+286,6,Mach Punch,23,fighting,40,100
+286,7,Mach Punch,23,fighting,40,100
+286,8,Mach Punch,23,fighting,40,100
+286,9,Mach Punch,23,fighting,40,100
+286,10,Mach Punch,23,fighting,40,100
+286,11,Mach Punch,23,fighting,40,100
+286,12,Mach Punch,23,fighting,40,100
+286,13,Mach Punch,23,fighting,40,100
+286,14,Mach Punch,23,fighting,40,100
+286,15,Mach Punch,23,fighting,40,100
+286,16,Mach Punch,23,fighting,40,100
+286,8,Counter,25,fighting,-,100
+286,9,Counter,25,fighting,-,100
+286,10,Counter,25,fighting,-,100
+286,11,Counter,25,fighting,-,100
+286,14,Counter,25,fighting,-,100
+286,15,Counter,25,fighting,-,100
+286,5,Counter,28,fighting,-,100
+286,6,Counter,28,fighting,-,100
+286,7,Counter,28,fighting,-,100
+286,12,Counter,28,fighting,-,100
+286,13,Counter,28,fighting,-,100
+286,16,Force Palm,28,fighting,60,100
+286,8,Force Palm,29,fighting,60,100
+286,9,Force Palm,29,fighting,60,100
+286,10,Force Palm,29,fighting,60,100
+286,11,Force Palm,29,fighting,60,100
+286,14,Force Palm,29,fighting,60,100
+286,15,Force Palm,29,fighting,60,100
+286,8,Sky Uppercut,33,fighting,85,90
+286,9,Sky Uppercut,33,fighting,85,90
+286,10,Sky Uppercut,33,fighting,85,90
+286,11,Sky Uppercut,33,fighting,85,90
+286,14,Sky Uppercut,33,fighting,85,90
+286,15,Sky Uppercut,33,fighting,85,90
+286,16,Mind Reader,33,normal,-,-
+286,5,Sky Uppercut,36,fighting,85,90
+286,6,Sky Uppercut,36,fighting,85,90
+286,7,Sky Uppercut,36,fighting,85,90
+286,12,Sky Uppercut,36,fighting,85,90
+286,13,Sky Uppercut,36,fighting,85,90
+286,8,Mind Reader,37,normal,-,-
+286,9,Mind Reader,37,normal,-,-
+286,10,Mind Reader,37,normal,-,-
+286,11,Mind Reader,37,normal,-,-
+286,14,Mind Reader,37,normal,-,-
+286,15,Mind Reader,37,normal,-,-
+286,16,Sky Uppercut,39,fighting,85,90
+286,8,Seed Bomb,41,grass,80,100
+286,9,Seed Bomb,41,grass,80,100
+286,10,Seed Bomb,41,grass,80,100
+286,11,Seed Bomb,41,grass,80,100
+286,14,Seed Bomb,41,grass,80,100
+286,15,Seed Bomb,41,grass,80,100
+286,16,Seed Bomb,44,grass,80,100
+286,5,Mind Reader,45,normal,-,-
+286,6,Mind Reader,45,normal,-,-
+286,7,Mind Reader,45,normal,-,-
+286,8,Dynamic Punch,45,fighting,100,50
+286,9,Dynamic Punch,45,fighting,100,50
+286,10,Dynamic Punch,45,fighting,100,50
+286,11,Dynamic Punch,45,fighting,100,50
+286,12,Mind Reader,45,normal,-,-
+286,13,Mind Reader,45,normal,-,-
+286,14,Dynamic Punch,45,fighting,100,50
+286,15,Dynamic Punch,45,fighting,100,50
+286,16,Dynamic Punch,50,fighting,100,50
+286,5,Dynamic Punch,54,fighting,100,50
+286,6,Dynamic Punch,54,fighting,100,50
+286,7,Dynamic Punch,54,fighting,100,50
+286,12,Dynamic Punch,54,fighting,100,50
+286,13,Dynamic Punch,54,fighting,100,50

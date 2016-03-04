@@ -1,27 +1,27 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-694,helioptile,15,1,Pound,1,1,1
-694,helioptile,15,13,Razor Wind,1,22,
-694,helioptile,15,39,Tail Whip,1,1,2
-694,helioptile,15,84,Thunder Shock,1,6,
-694,helioptile,15,85,Thunderbolt,1,49,
-694,helioptile,15,86,Thunder Wave,1,31,
-694,helioptile,15,98,Quick Attack,1,17,
-694,helioptile,15,189,Mud-Slap,1,13,
-694,helioptile,15,268,Charge,1,11,
-694,helioptile,15,521,Volt Switch,1,40,
-694,helioptile,15,523,Bulldoze,1,35,
-694,helioptile,15,570,Parabolic Charge,1,25,
-694,helioptile,15,582,Electrify,1,45,
-694,helioptile,16,1,Pound,1,1,1
-694,helioptile,16,13,Razor Wind,1,22,1
-694,helioptile,16,39,Tail Whip,1,1,2
-694,helioptile,16,84,Thunder Shock,1,6,1
-694,helioptile,16,85,Thunderbolt,1,49,1
-694,helioptile,16,86,Thunder Wave,1,31,1
-694,helioptile,16,98,Quick Attack,1,17,1
-694,helioptile,16,189,Mud-Slap,1,13,1
-694,helioptile,16,268,Charge,1,11,1
-694,helioptile,16,521,Volt Switch,1,40,1
-694,helioptile,16,523,Bulldoze,1,35,1
-694,helioptile,16,570,Parabolic Charge,1,25,1
-694,helioptile,16,582,Electrify,1,45,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+694,15,Pound,1,normal,40,100
+694,15,Tail Whip,1,normal,-,100
+694,16,Pound,1,normal,40,100
+694,16,Tail Whip,1,normal,-,100
+694,15,Thunder Shock,6,electric,40,100
+694,16,Thunder Shock,6,electric,40,100
+694,15,Charge,11,electric,-,-
+694,16,Charge,11,electric,-,-
+694,15,Mud-Slap,13,ground,20,100
+694,16,Mud-Slap,13,ground,20,100
+694,15,Quick Attack,17,normal,40,100
+694,16,Quick Attack,17,normal,40,100
+694,15,Razor Wind,22,normal,80,100
+694,16,Razor Wind,22,normal,80,100
+694,15,Parabolic Charge,25,electric,50,100
+694,16,Parabolic Charge,25,electric,50,100
+694,15,Thunder Wave,31,electric,-,100
+694,16,Thunder Wave,31,electric,-,100
+694,15,Bulldoze,35,ground,60,100
+694,16,Bulldoze,35,ground,60,100
+694,15,Volt Switch,40,electric,70,100
+694,16,Volt Switch,40,electric,70,100
+694,15,Electrify,45,electric,-,-
+694,16,Electrify,45,electric,-,-
+694,15,Thunderbolt,49,electric,90,100
+694,16,Thunderbolt,49,electric,90,100

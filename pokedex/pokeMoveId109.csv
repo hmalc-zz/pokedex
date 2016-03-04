@@ -1,180 +1,180 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-109,koffing,1,33,Tackle,1,1,1
-109,koffing,1,108,Smokescreen,1,37,
-109,koffing,1,114,Haze,1,45,
-109,koffing,1,120,Self-Destruct,1,40,
-109,koffing,1,123,Smog,1,1,2
-109,koffing,1,124,Sludge,1,32,
-109,koffing,1,153,Explosion,1,48,
-109,koffing,2,33,Tackle,1,1,1
-109,koffing,2,108,Smokescreen,1,37,
-109,koffing,2,114,Haze,1,45,
-109,koffing,2,120,Self-Destruct,1,40,
-109,koffing,2,123,Smog,1,1,2
-109,koffing,2,124,Sludge,1,32,
-109,koffing,2,153,Explosion,1,48,
-109,koffing,3,33,Tackle,1,1,2
-109,koffing,3,108,Smokescreen,1,25,
-109,koffing,3,114,Haze,1,33,
-109,koffing,3,120,Self-Destruct,1,17,
-109,koffing,3,123,Smog,1,9,
-109,koffing,3,124,Sludge,1,21,
-109,koffing,3,139,Poison Gas,1,1,1
-109,koffing,3,153,Explosion,1,41,
-109,koffing,3,194,Destiny Bond,1,45,
-109,koffing,4,33,Tackle,1,1,2
-109,koffing,4,108,Smokescreen,1,25,
-109,koffing,4,114,Haze,1,33,
-109,koffing,4,120,Self-Destruct,1,17,
-109,koffing,4,123,Smog,1,9,
-109,koffing,4,124,Sludge,1,21,
-109,koffing,4,139,Poison Gas,1,1,1
-109,koffing,4,153,Explosion,1,41,
-109,koffing,4,194,Destiny Bond,1,45,
-109,koffing,5,33,Tackle,1,1,2
-109,koffing,5,108,Smokescreen,1,25,
-109,koffing,5,114,Haze,1,33,
-109,koffing,5,120,Self-Destruct,1,17,
-109,koffing,5,123,Smog,1,9,
-109,koffing,5,124,Sludge,1,21,
-109,koffing,5,139,Poison Gas,1,1,1
-109,koffing,5,153,Explosion,1,41,
-109,koffing,5,194,Destiny Bond,1,45,
-109,koffing,5,262,Memento,1,49,
-109,koffing,6,33,Tackle,1,1,2
-109,koffing,6,108,Smokescreen,1,25,
-109,koffing,6,114,Haze,1,33,
-109,koffing,6,120,Self-Destruct,1,17,
-109,koffing,6,123,Smog,1,9,
-109,koffing,6,124,Sludge,1,21,
-109,koffing,6,139,Poison Gas,1,1,1
-109,koffing,6,153,Explosion,1,41,
-109,koffing,6,194,Destiny Bond,1,45,
-109,koffing,6,262,Memento,1,49,
-109,koffing,7,33,Tackle,1,1,2
-109,koffing,7,108,Smokescreen,1,25,
-109,koffing,7,114,Haze,1,33,
-109,koffing,7,120,Self-Destruct,1,17,
-109,koffing,7,123,Smog,1,9,
-109,koffing,7,124,Sludge,1,21,
-109,koffing,7,139,Poison Gas,1,1,1
-109,koffing,7,153,Explosion,1,41,
-109,koffing,7,194,Destiny Bond,1,45,
-109,koffing,7,262,Memento,1,49,
-109,koffing,8,33,Tackle,1,1,2
-109,koffing,8,108,Smokescreen,1,10,
-109,koffing,8,114,Haze,1,28,
-109,koffing,8,120,Self-Destruct,1,19,
-109,koffing,8,123,Smog,1,6,
-109,koffing,8,124,Sludge,1,24,
-109,koffing,8,139,Poison Gas,1,1,1
-109,koffing,8,153,Explosion,1,37,
-109,koffing,8,188,Sludge Bomb,1,42,
-109,koffing,8,194,Destiny Bond,1,46,
-109,koffing,8,262,Memento,1,51,
-109,koffing,8,360,Gyro Ball,1,33,
-109,koffing,8,372,Assurance,1,15,
-109,koffing,9,33,Tackle,1,1,2
-109,koffing,9,108,Smokescreen,1,10,
-109,koffing,9,114,Haze,1,28,
-109,koffing,9,120,Self-Destruct,1,19,
-109,koffing,9,123,Smog,1,6,
-109,koffing,9,124,Sludge,1,24,
-109,koffing,9,139,Poison Gas,1,1,1
-109,koffing,9,153,Explosion,1,37,
-109,koffing,9,188,Sludge Bomb,1,42,
-109,koffing,9,194,Destiny Bond,1,46,
-109,koffing,9,262,Memento,1,51,
-109,koffing,9,360,Gyro Ball,1,33,
-109,koffing,9,372,Assurance,1,15,
-109,koffing,10,33,Tackle,1,1,2
-109,koffing,10,108,Smokescreen,1,10,
-109,koffing,10,114,Haze,1,28,
-109,koffing,10,120,Self-Destruct,1,19,
-109,koffing,10,123,Smog,1,6,
-109,koffing,10,124,Sludge,1,24,
-109,koffing,10,139,Poison Gas,1,1,1
-109,koffing,10,153,Explosion,1,37,
-109,koffing,10,188,Sludge Bomb,1,42,
-109,koffing,10,194,Destiny Bond,1,46,
-109,koffing,10,262,Memento,1,51,
-109,koffing,10,360,Gyro Ball,1,33,
-109,koffing,10,372,Assurance,1,15,
-109,koffing,11,33,Tackle,1,1,2
-109,koffing,11,108,Smokescreen,1,10,
-109,koffing,11,114,Haze,1,33,
-109,koffing,11,120,Self-Destruct,1,24,
-109,koffing,11,123,Smog,1,6,
-109,koffing,11,124,Sludge,1,28,
-109,koffing,11,139,Poison Gas,1,1,1
-109,koffing,11,153,Explosion,1,42,
-109,koffing,11,188,Sludge Bomb,1,46,
-109,koffing,11,194,Destiny Bond,1,51,
-109,koffing,11,262,Memento,1,55,
-109,koffing,11,360,Gyro Ball,1,37,
-109,koffing,11,372,Assurance,1,15,
-109,koffing,11,499,Clear Smog,1,19,
-109,koffing,12,33,Tackle,1,1,2
-109,koffing,12,108,Smokescreen,1,25,
-109,koffing,12,114,Haze,1,33,
-109,koffing,12,120,Self-Destruct,1,17,
-109,koffing,12,123,Smog,1,9,
-109,koffing,12,124,Sludge,1,21,
-109,koffing,12,139,Poison Gas,1,1,1
-109,koffing,12,153,Explosion,1,41,
-109,koffing,12,194,Destiny Bond,1,45,
-109,koffing,12,262,Memento,1,49,
-109,koffing,13,33,Tackle,1,1,2
-109,koffing,13,108,Smokescreen,1,25,
-109,koffing,13,114,Haze,1,33,
-109,koffing,13,120,Self-Destruct,1,17,
-109,koffing,13,123,Smog,1,9,
-109,koffing,13,124,Sludge,1,21,
-109,koffing,13,139,Poison Gas,1,1,1
-109,koffing,13,153,Explosion,1,41,
-109,koffing,13,194,Destiny Bond,1,45,
-109,koffing,13,262,Memento,1,49,
-109,koffing,14,33,Tackle,1,1,2
-109,koffing,14,108,Smokescreen,1,7,
-109,koffing,14,114,Haze,1,26,
-109,koffing,14,120,Self-Destruct,1,23,
-109,koffing,14,123,Smog,1,4,
-109,koffing,14,124,Sludge,1,18,
-109,koffing,14,139,Poison Gas,1,1,1
-109,koffing,14,153,Explosion,1,37,
-109,koffing,14,188,Sludge Bomb,1,34,
-109,koffing,14,194,Destiny Bond,1,40,
-109,koffing,14,262,Memento,1,45,
-109,koffing,14,360,Gyro Ball,1,29,
-109,koffing,14,372,Assurance,1,12,
-109,koffing,14,499,Clear Smog,1,15,
-109,koffing,15,33,Tackle,1,1,2
-109,koffing,15,108,Smokescreen,1,7,
-109,koffing,15,114,Haze,1,26,
-109,koffing,15,120,Self-Destruct,1,23,
-109,koffing,15,123,Smog,1,4,
-109,koffing,15,124,Sludge,1,18,
-109,koffing,15,139,Poison Gas,1,1,1
-109,koffing,15,153,Explosion,1,37,
-109,koffing,15,188,Sludge Bomb,1,34,
-109,koffing,15,194,Destiny Bond,1,40,
-109,koffing,15,262,Memento,1,45,
-109,koffing,15,360,Gyro Ball,1,29,
-109,koffing,15,372,Assurance,1,12,
-109,koffing,15,499,Clear Smog,1,15,
-109,koffing,15,562,Belch,1,42,
-109,koffing,16,33,Tackle,1,1,2
-109,koffing,16,108,Smokescreen,1,7,1
-109,koffing,16,114,Haze,1,26,1
-109,koffing,16,120,Self-Destruct,1,23,1
-109,koffing,16,123,Smog,1,4,1
-109,koffing,16,124,Sludge,1,18,1
-109,koffing,16,139,Poison Gas,1,1,1
-109,koffing,16,153,Explosion,1,37,1
-109,koffing,16,188,Sludge Bomb,1,34,1
-109,koffing,16,194,Destiny Bond,1,40,1
-109,koffing,16,262,Memento,1,45,1
-109,koffing,16,360,Gyro Ball,1,29,1
-109,koffing,16,372,Assurance,1,12,1
-109,koffing,16,499,Clear Smog,1,15,1
-109,koffing,16,562,Belch,1,42,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+109,1,Tackle,1,normal,50,100
+109,1,Smog,1,poison,30,70
+109,2,Tackle,1,normal,50,100
+109,2,Smog,1,poison,30,70
+109,3,Tackle,1,normal,50,100
+109,3,Poison Gas,1,poison,-,90
+109,4,Tackle,1,normal,50,100
+109,4,Poison Gas,1,poison,-,90
+109,5,Tackle,1,normal,50,100
+109,5,Poison Gas,1,poison,-,90
+109,6,Tackle,1,normal,50,100
+109,6,Poison Gas,1,poison,-,90
+109,7,Tackle,1,normal,50,100
+109,7,Poison Gas,1,poison,-,90
+109,8,Tackle,1,normal,50,100
+109,8,Poison Gas,1,poison,-,90
+109,9,Tackle,1,normal,50,100
+109,9,Poison Gas,1,poison,-,90
+109,10,Tackle,1,normal,50,100
+109,10,Poison Gas,1,poison,-,90
+109,11,Tackle,1,normal,50,100
+109,11,Poison Gas,1,poison,-,90
+109,12,Tackle,1,normal,50,100
+109,12,Poison Gas,1,poison,-,90
+109,13,Tackle,1,normal,50,100
+109,13,Poison Gas,1,poison,-,90
+109,14,Tackle,1,normal,50,100
+109,14,Poison Gas,1,poison,-,90
+109,15,Tackle,1,normal,50,100
+109,15,Poison Gas,1,poison,-,90
+109,16,Tackle,1,normal,50,100
+109,16,Poison Gas,1,poison,-,90
+109,14,Smog,4,poison,30,70
+109,15,Smog,4,poison,30,70
+109,16,Smog,4,poison,30,70
+109,8,Smog,6,poison,30,70
+109,9,Smog,6,poison,30,70
+109,10,Smog,6,poison,30,70
+109,11,Smog,6,poison,30,70
+109,14,Smokescreen,7,normal,-,100
+109,15,Smokescreen,7,normal,-,100
+109,16,Smokescreen,7,normal,-,100
+109,3,Smog,9,poison,30,70
+109,4,Smog,9,poison,30,70
+109,5,Smog,9,poison,30,70
+109,6,Smog,9,poison,30,70
+109,7,Smog,9,poison,30,70
+109,12,Smog,9,poison,30,70
+109,13,Smog,9,poison,30,70
+109,8,Smokescreen,10,normal,-,100
+109,9,Smokescreen,10,normal,-,100
+109,10,Smokescreen,10,normal,-,100
+109,11,Smokescreen,10,normal,-,100
+109,14,Assurance,12,dark,60,100
+109,15,Assurance,12,dark,60,100
+109,16,Assurance,12,dark,60,100
+109,8,Assurance,15,dark,60,100
+109,9,Assurance,15,dark,60,100
+109,10,Assurance,15,dark,60,100
+109,11,Assurance,15,dark,60,100
+109,14,Clear Smog,15,poison,50,-
+109,15,Clear Smog,15,poison,50,-
+109,16,Clear Smog,15,poison,50,-
+109,3,Self-Destruct,17,normal,200,100
+109,4,Self-Destruct,17,normal,200,100
+109,5,Self-Destruct,17,normal,200,100
+109,6,Self-Destruct,17,normal,200,100
+109,7,Self-Destruct,17,normal,200,100
+109,12,Self-Destruct,17,normal,200,100
+109,13,Self-Destruct,17,normal,200,100
+109,14,Sludge,18,poison,65,100
+109,15,Sludge,18,poison,65,100
+109,16,Sludge,18,poison,65,100
+109,8,Self-Destruct,19,normal,200,100
+109,9,Self-Destruct,19,normal,200,100
+109,10,Self-Destruct,19,normal,200,100
+109,11,Clear Smog,19,poison,50,-
+109,3,Sludge,21,poison,65,100
+109,4,Sludge,21,poison,65,100
+109,5,Sludge,21,poison,65,100
+109,6,Sludge,21,poison,65,100
+109,7,Sludge,21,poison,65,100
+109,12,Sludge,21,poison,65,100
+109,13,Sludge,21,poison,65,100
+109,14,Self-Destruct,23,normal,200,100
+109,15,Self-Destruct,23,normal,200,100
+109,16,Self-Destruct,23,normal,200,100
+109,8,Sludge,24,poison,65,100
+109,9,Sludge,24,poison,65,100
+109,10,Sludge,24,poison,65,100
+109,11,Self-Destruct,24,normal,200,100
+109,3,Smokescreen,25,normal,-,100
+109,4,Smokescreen,25,normal,-,100
+109,5,Smokescreen,25,normal,-,100
+109,6,Smokescreen,25,normal,-,100
+109,7,Smokescreen,25,normal,-,100
+109,12,Smokescreen,25,normal,-,100
+109,13,Smokescreen,25,normal,-,100
+109,14,Haze,26,ice,-,-
+109,15,Haze,26,ice,-,-
+109,16,Haze,26,ice,-,-
+109,8,Haze,28,ice,-,-
+109,9,Haze,28,ice,-,-
+109,10,Haze,28,ice,-,-
+109,11,Sludge,28,poison,65,100
+109,14,Gyro Ball,29,steel,-,100
+109,15,Gyro Ball,29,steel,-,100
+109,16,Gyro Ball,29,steel,-,100
+109,1,Sludge,32,poison,65,100
+109,2,Sludge,32,poison,65,100
+109,3,Haze,33,ice,-,-
+109,4,Haze,33,ice,-,-
+109,5,Haze,33,ice,-,-
+109,6,Haze,33,ice,-,-
+109,7,Haze,33,ice,-,-
+109,8,Gyro Ball,33,steel,-,100
+109,9,Gyro Ball,33,steel,-,100
+109,10,Gyro Ball,33,steel,-,100
+109,11,Haze,33,ice,-,-
+109,12,Haze,33,ice,-,-
+109,13,Haze,33,ice,-,-
+109,14,Sludge Bomb,34,poison,90,100
+109,15,Sludge Bomb,34,poison,90,100
+109,16,Sludge Bomb,34,poison,90,100
+109,1,Smokescreen,37,normal,-,100
+109,2,Smokescreen,37,normal,-,100
+109,8,Explosion,37,normal,250,100
+109,9,Explosion,37,normal,250,100
+109,10,Explosion,37,normal,250,100
+109,11,Gyro Ball,37,steel,-,100
+109,14,Explosion,37,normal,250,100
+109,15,Explosion,37,normal,250,100
+109,16,Explosion,37,normal,250,100
+109,1,Self-Destruct,40,normal,200,100
+109,2,Self-Destruct,40,normal,200,100
+109,14,Destiny Bond,40,ghost,-,-
+109,15,Destiny Bond,40,ghost,-,-
+109,16,Destiny Bond,40,ghost,-,-
+109,3,Explosion,41,normal,250,100
+109,4,Explosion,41,normal,250,100
+109,5,Explosion,41,normal,250,100
+109,6,Explosion,41,normal,250,100
+109,7,Explosion,41,normal,250,100
+109,12,Explosion,41,normal,250,100
+109,13,Explosion,41,normal,250,100
+109,8,Sludge Bomb,42,poison,90,100
+109,9,Sludge Bomb,42,poison,90,100
+109,10,Sludge Bomb,42,poison,90,100
+109,11,Explosion,42,normal,250,100
+109,15,Belch,42,poison,120,90
+109,16,Belch,42,poison,120,90
+109,1,Haze,45,ice,-,-
+109,2,Haze,45,ice,-,-
+109,3,Destiny Bond,45,ghost,-,-
+109,4,Destiny Bond,45,ghost,-,-
+109,5,Destiny Bond,45,ghost,-,-
+109,6,Destiny Bond,45,ghost,-,-
+109,7,Destiny Bond,45,ghost,-,-
+109,12,Destiny Bond,45,ghost,-,-
+109,13,Destiny Bond,45,ghost,-,-
+109,14,Memento,45,dark,-,100
+109,15,Memento,45,dark,-,100
+109,16,Memento,45,dark,-,100
+109,8,Destiny Bond,46,ghost,-,-
+109,9,Destiny Bond,46,ghost,-,-
+109,10,Destiny Bond,46,ghost,-,-
+109,11,Sludge Bomb,46,poison,90,100
+109,1,Explosion,48,normal,250,100
+109,2,Explosion,48,normal,250,100
+109,5,Memento,49,dark,-,100
+109,6,Memento,49,dark,-,100
+109,7,Memento,49,dark,-,100
+109,12,Memento,49,dark,-,100
+109,13,Memento,49,dark,-,100
+109,8,Memento,51,dark,-,100
+109,9,Memento,51,dark,-,100
+109,10,Memento,51,dark,-,100
+109,11,Destiny Bond,51,ghost,-,-
+109,11,Memento,55,dark,-,100

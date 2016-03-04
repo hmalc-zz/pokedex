@@ -1,69 +1,69 @@
-pokemon_id,identifier,version_group_id,move_id,move_name,pokemon_move_method_id,level,order
-494,victini,11,29,Headbutt,1,17,
-494,victini,11,38,Double-Edge,1,65,
-494,victini,11,93,Confusion,1,1,3
-494,victini,11,98,Quick Attack,1,1,5
-494,victini,11,116,Focus Energy,1,1,2
-494,victini,11,179,Reversal,1,33,
-494,victini,11,203,Endure,1,9,
-494,victini,11,315,Overheat,1,97,
-494,victini,11,394,Flare Blitz,1,73,
-494,victini,11,428,Zen Headbutt,1,49,
-494,victini,11,481,Flame Burst,1,41,
-494,victini,11,488,Flame Charge,1,25,
-494,victini,11,500,Stored Power,1,89,
-494,victini,11,510,Incinerate,1,1,4
-494,victini,11,515,Final Gambit,1,81,
-494,victini,11,517,Inferno,1,57,
-494,victini,11,545,Searing Shot,1,1,1
-494,victini,14,29,Headbutt,1,17,
-494,victini,14,38,Double-Edge,1,65,
-494,victini,14,93,Confusion,1,1,3
-494,victini,14,98,Quick Attack,1,1,5
-494,victini,14,116,Focus Energy,1,1,2
-494,victini,14,179,Reversal,1,33,
-494,victini,14,203,Endure,1,9,
-494,victini,14,315,Overheat,1,97,
-494,victini,14,394,Flare Blitz,1,73,
-494,victini,14,428,Zen Headbutt,1,49,
-494,victini,14,481,Flame Burst,1,41,
-494,victini,14,488,Flame Charge,1,25,
-494,victini,14,500,Stored Power,1,89,
-494,victini,14,510,Incinerate,1,1,4
-494,victini,14,515,Final Gambit,1,81,
-494,victini,14,517,Inferno,1,57,
-494,victini,14,545,Searing Shot,1,1,1
-494,victini,15,29,Headbutt,1,17,
-494,victini,15,38,Double-Edge,1,65,
-494,victini,15,93,Confusion,1,1,3
-494,victini,15,98,Quick Attack,1,1,5
-494,victini,15,116,Focus Energy,1,1,2
-494,victini,15,179,Reversal,1,33,
-494,victini,15,203,Endure,1,9,
-494,victini,15,315,Overheat,1,97,
-494,victini,15,394,Flare Blitz,1,73,
-494,victini,15,428,Zen Headbutt,1,49,
-494,victini,15,481,Flame Burst,1,41,
-494,victini,15,488,Flame Charge,1,25,
-494,victini,15,500,Stored Power,1,89,
-494,victini,15,510,Incinerate,1,1,4
-494,victini,15,515,Final Gambit,1,81,
-494,victini,15,517,Inferno,1,57,
-494,victini,15,545,Searing Shot,1,1,1
-494,victini,16,29,Headbutt,1,17,1
-494,victini,16,38,Double-Edge,1,65,1
-494,victini,16,93,Confusion,1,1,3
-494,victini,16,98,Quick Attack,1,1,5
-494,victini,16,116,Focus Energy,1,1,2
-494,victini,16,179,Reversal,1,33,1
-494,victini,16,203,Endure,1,9,1
-494,victini,16,315,Overheat,1,97,1
-494,victini,16,394,Flare Blitz,1,73,1
-494,victini,16,428,Zen Headbutt,1,49,1
-494,victini,16,481,Flame Burst,1,41,1
-494,victini,16,488,Flame Charge,1,25,1
-494,victini,16,500,Stored Power,1,89,1
-494,victini,16,510,Incinerate,1,1,4
-494,victini,16,515,Final Gambit,1,81,1
-494,victini,16,517,Inferno,1,57,1
-494,victini,16,545,Searing Shot,1,1,1
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+494,11,Confusion,1,psychic,50,100
+494,11,Quick Attack,1,normal,40,100
+494,11,Focus Energy,1,normal,-,-
+494,11,Incinerate,1,fire,60,100
+494,11,Searing Shot,1,fire,100,100
+494,14,Confusion,1,psychic,50,100
+494,14,Quick Attack,1,normal,40,100
+494,14,Focus Energy,1,normal,-,-
+494,14,Incinerate,1,fire,60,100
+494,14,Searing Shot,1,fire,100,100
+494,15,Confusion,1,psychic,50,100
+494,15,Quick Attack,1,normal,40,100
+494,15,Focus Energy,1,normal,-,-
+494,15,Incinerate,1,fire,60,100
+494,15,Searing Shot,1,fire,100,100
+494,16,Confusion,1,psychic,50,100
+494,16,Quick Attack,1,normal,40,100
+494,16,Focus Energy,1,normal,-,-
+494,16,Incinerate,1,fire,60,100
+494,16,Searing Shot,1,fire,100,100
+494,11,Endure,9,normal,-,-
+494,14,Endure,9,normal,-,-
+494,15,Endure,9,normal,-,-
+494,16,Endure,9,normal,-,-
+494,11,Headbutt,17,normal,70,100
+494,14,Headbutt,17,normal,70,100
+494,15,Headbutt,17,normal,70,100
+494,16,Headbutt,17,normal,70,100
+494,11,Flame Charge,25,fire,50,100
+494,14,Flame Charge,25,fire,50,100
+494,15,Flame Charge,25,fire,50,100
+494,16,Flame Charge,25,fire,50,100
+494,11,Reversal,33,fighting,-,100
+494,14,Reversal,33,fighting,-,100
+494,15,Reversal,33,fighting,-,100
+494,16,Reversal,33,fighting,-,100
+494,11,Flame Burst,41,fire,70,100
+494,14,Flame Burst,41,fire,70,100
+494,15,Flame Burst,41,fire,70,100
+494,16,Flame Burst,41,fire,70,100
+494,11,Zen Headbutt,49,psychic,80,90
+494,14,Zen Headbutt,49,psychic,80,90
+494,15,Zen Headbutt,49,psychic,80,90
+494,16,Zen Headbutt,49,psychic,80,90
+494,11,Inferno,57,fire,100,50
+494,14,Inferno,57,fire,100,50
+494,15,Inferno,57,fire,100,50
+494,16,Inferno,57,fire,100,50
+494,11,Double-Edge,65,normal,120,100
+494,14,Double-Edge,65,normal,120,100
+494,15,Double-Edge,65,normal,120,100
+494,16,Double-Edge,65,normal,120,100
+494,11,Flare Blitz,73,fire,120,100
+494,14,Flare Blitz,73,fire,120,100
+494,15,Flare Blitz,73,fire,120,100
+494,16,Flare Blitz,73,fire,120,100
+494,11,Final Gambit,81,fighting,-,100
+494,14,Final Gambit,81,fighting,-,100
+494,15,Final Gambit,81,fighting,-,100
+494,16,Final Gambit,81,fighting,-,100
+494,11,Stored Power,89,psychic,20,100
+494,14,Stored Power,89,psychic,20,100
+494,15,Stored Power,89,psychic,20,100
+494,16,Stored Power,89,psychic,20,100
+494,11,Overheat,97,fire,130,90
+494,14,Overheat,97,fire,130,90
+494,15,Overheat,97,fire,130,90
+494,16,Overheat,97,fire,130,90
