@@ -179,6 +179,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     // MARK: View Did Load
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
