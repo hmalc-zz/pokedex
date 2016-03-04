@@ -389,14 +389,21 @@ class Pokemon {
 
     //MARK: Initialisers
     
-    init(name: String, pokedexId: Int, type1: String, type2: String, gen: String) {
+    init(name: String, pokedexId: Int, type1: String, type2: String, gen: String, heightStat: String, weightStat: String, hpStat: String, attStat: String, defStat: String, spAttStat: String, spDefStat: String, spdStat: String, baseStat: String) {
         self._name = name
         self._pokedexId = pokedexId
         self._type1 = type1
         self._type2 = type2
         self._generationId = gen
-        
-        _pokemonUrl = "\(URL_BASE)\(URL_POKEMON)\(self._pokedexId)/"
+        self._height = heightStat
+        self._weight = weightStat
+        self._hp = hpStat
+        self._attack = attStat
+        self._defense = defStat
+        self._specialAttack = spAttStat
+        self._specialDefense = spDefStat
+        self._speed = spdStat
+        self._baseStats = baseStat
     
     }
     
@@ -549,7 +556,7 @@ class Pokemon {
                 
                 // Changes form indicator
                 
-                if let numberForms = row["no_forms"] {
+                if let numberForms = row["changes_form"] {
                     self._numberForms = numberForms
                 }
                 

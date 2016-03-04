@@ -136,8 +136,6 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         didSet {
             if currentPokeID != oldValue {
                 pokemon = Pokemon(pokedexId: currentPokeID+1)
-                newPokemonSetup()
-                initCries(0)
                 if pokemon.pokedexId == 1 {
                     scrollBack.alpha = 0.0
                 } else {
@@ -148,6 +146,9 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
                 } else {
                     scrollForward.alpha = 1.0
                 }
+                newPokemonSetup()
+                initCries(0)
+                self.view.layoutIfNeeded()
             }
         }
     }
@@ -161,11 +162,15 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     }
     
     override func viewDidAppear(animated: Bool) {
-        super.viewDidAppear(animated)
-        
-        UIView.animateWithDuration(0.4, animations: {
-        self.setupGraphsForNewPokemon()
-        })
+        UIView.animateWithDuration(0.5,
+            delay: 0.0,
+            usingSpringWithDamping: 0.6,
+            initialSpringVelocity: 0.5,
+            options: .CurveEaseInOut,
+            animations: {
+                self.setupGraphsForNewPokemon()
+            },
+            completion: nil)
     }
     
     override func viewWillAppear(animated: Bool) {
@@ -186,13 +191,13 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         self.collectionView.delegate = self
         self.collectionView.dataSource = self
         timer = NSTimer.scheduledTimerWithTimeInterval(5.0, target: self, selector: "update", userInfo: nil, repeats: true)
-        newPokemonSetup()
         if pokemon.pokedexId == 1 {
+            
             initCries(0)
             scrollBack.alpha = 0
         }
-
         
+        newPokemonSetup()
     }
     
     // MARK: New Pokemon Setup
@@ -205,16 +210,26 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         while pokemon.description == "" {
             pokemon.parsePokedexEntryCSV(Int(arc4random_uniform(26) + 1))
         }
-        handlePokemonForms()
-        setupGraphsForNewPokemon()
-        updateUI()
+        
 
+        updateUI()
+        handlePokemonForms()
         self.tableHeight.constant = CGFloat(pokemon.moveList.count) * 44
         tableView.reloadData()
-        self.view.layoutIfNeeded()
+
         
+        UIView.animateWithDuration(0.5,
+            delay: 0.0,
+            usingSpringWithDamping: 0.6,
+            initialSpringVelocity: 0.5,
+            options: .CurveEaseInOut,
+            animations: {
+                self.setupGraphsForNewPokemon()
+            },
+            completion: nil)
+        self.view.layoutIfNeeded()
     }
-    
+
     // MARK: Graph Setup
     
     func setUpGraphs(barRef: UIView, PokeStat: String) {
@@ -612,8 +627,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             
             formsTitle.text = "Forms"
             lineSeparator.hidden = false
-            hideFormsView.constant = 140
-            
+            hideFormsView.constant = 120
             
             for var i=1; i<=Int(pokemon.numberForms)!; i++ {
                 if i == 1 {
@@ -653,6 +667,8 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             lineSeparator.hidden = true
             hideFormsView.constant = 0
         }
+        
+        self.view.layoutIfNeeded()
     }
     
     // MARK: Table View Delegate Functions
@@ -790,7 +806,17 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     func newFormSetup() {
         handlePokemonForms()
-        setupGraphsForNewPokemon()
+        
+        UIView.animateWithDuration(0.5,
+            delay: 0.0,
+            usingSpringWithDamping: 0.6,
+            initialSpringVelocity: 0.5,
+            options: .CurveEaseInOut,
+            animations: {
+                self.setupGraphsForNewPokemon()
+            },
+            completion: nil)
+
         updateUI()
     }
     
