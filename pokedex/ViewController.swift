@@ -30,23 +30,6 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     var statId: Int = 0
     var rotatePosition: CGFloat = 0
     
-    override func viewWillAppear(animated: Bool) {
-            rotateOnce()
-            }
-    
-    func rotateOnce() {
-        
-        UIView.animateWithDuration(0.5,
-            delay: 0.0,
-            usingSpringWithDamping: 0.6,
-            initialSpringVelocity: 0.5,
-            options: .CurveEaseInOut,
-            animations: {
-                self.pokeballHeader.transform = CGAffineTransformRotate(self.pokeballHeader.transform, CGFloat(1 * M_PI))
-            },
-            completion: nil)
-    }
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -152,20 +135,14 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         
         // iPhone 4S etc
         
-        if width < 350 {
-            return CGSizeMake(85, 85)
+        let WIDTH_FACTOR: CGFloat = 3.6
+        let dim = width/WIDTH_FACTOR
+        
+        if (UIDevice.currentDevice().model.rangeOfString("iPad") != nil) {
+            return CGSizeMake(148, 148)
+        } else {
+            return CGSizeMake(dim, dim)
         }
-        
-        // iPads
-        
-        if width > 750 {
-            return CGSizeMake(165, 165)
-        }
-        
-        // iPhone 6
-        
-        return CGSizeMake(107, 107)
-        
     }
     
     func searchBarSearchButtonClicked(searchBar: UISearchBar) {
