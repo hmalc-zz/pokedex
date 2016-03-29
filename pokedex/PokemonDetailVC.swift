@@ -233,7 +233,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         
         // Trigger timer to update Pokedex entries every 5 seconds
         
-        timer = NSTimer.scheduledTimerWithTimeInterval(5.0, target: self, selector: "update", userInfo: nil, repeats: true)
+        timer = NSTimer.scheduledTimerWithTimeInterval(5.0, target: self, selector: #selector(PokemonDetailVC.update), userInfo: nil, repeats: true)
         
         // Special handle for Pokedex No.1 since activating it won't trigger DidSet method
         
@@ -614,7 +614,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     }
     
     func changeDexEntryUp() {
-        selectedVersionLabel++
+        selectedVersionLabel += 1
         
         if selectedVersionLabel > 26 {
             selectedVersionLabel = 1
@@ -623,7 +623,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         
         while pokemon.description ==  "" {
             
-            selectedVersionLabel++
+            selectedVersionLabel += 1
             pokemon.parsePokedexEntryCSV(selectedVersionLabel)
             
             if selectedVersionLabel >= 26 {
@@ -661,7 +661,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             lineSeparator.hidden = false
             hideFormsView.constant = 120
             
-            for var i=1; i<=Int(pokemon.numberForms)!; i++ {
+            for var i=1; i<=Int(pokemon.numberForms)!; i += 1 {
                 if i == 1 {
                     form1.hidden = false
                     form1Label.hidden = false
@@ -795,12 +795,12 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             while pokemon.moveList.count == 0 {
                 
                 if gameGenRef != 16 {
-                    gameGenRef++
+                    gameGenRef += 1
                     pokemon.parsePokeMovesCSV(gameGenRef)
                 } else {
                     gameGenRef = gameVersionGen[returnMinGameGen(Int(pokemon.generationId)!)]
                     pokemon.parsePokeMovesCSV(gameGenRef)
-                    breaker++
+                    breaker += 1
                     if breaker == 2 {
                         break
                     }
@@ -808,7 +808,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             }
         }
         if gameGenRef != 16 {
-            gameGenRef++
+            gameGenRef += 1
             pokemon.parsePokeMovesCSV(gameGenRef)
             cycleThrough()
         } else {

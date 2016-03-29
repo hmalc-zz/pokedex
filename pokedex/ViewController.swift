@@ -1,4 +1,4 @@
-//
+ //
 //  ViewController.swift
 //  pokedex
 //
@@ -22,6 +22,10 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     @IBOutlet weak var triangleDown: UIImageView!
     @IBOutlet weak var pokeballHeader: UIImageView!
     
+    @IBOutlet weak var scrollBtnContainerHeight: NSLayoutConstraint!
+    @IBOutlet weak var sortBtnView: UIView!
+    @IBOutlet weak var horizontalScrollView: UIScrollView!
+    
   
     var pokemon = [Pokemon]()
     var filteredPokemon = [Pokemon]()
@@ -29,6 +33,8 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     var AscendingSort = true
     var statId: Int = 0
     var rotatePosition: CGFloat = 0
+    var sortMode = false
+    var sortAnimationRun = false
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -37,10 +43,8 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         collection.dataSource = self
         searchBar.delegate = self
         searchBar.returnKeyType = UIReturnKeyType.Done
-        
-        statLabel.text = statsList[statId]
-        
         parsePokemonCSV()
+        
     }
     
     func parsePokemonCSV() {
@@ -79,12 +83,10 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         
     }
     
-    
     func collectionView(collectionView: UICollectionView, cellForItemAtIndexPath indexPath: NSIndexPath) -> UICollectionViewCell {
         
         if let cell = collectionView.dequeueReusableCellWithReuseIdentifier("PokeCell", forIndexPath: indexPath) as? PokeCellCollectionViewCell {
 
-            
             let poke: Pokemon!
             
             if inSearchMode{
@@ -383,9 +385,70 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         appropriateSort()
     }
     
+    func createButtons(label: String, tag: Int) -> UIButton {
+        let btn = UIButton()
+        let dim: CGFloat = 44
+        btn.frame = CGRectMake(0,0,dim,dim)
+        btn.layer.cornerRadius = dim/4
+        btn.layer.backgroundColor = UIColor(red: 0.9333, green: 0.0039, blue: 0.3176, alpha: 1.0).CGColor
+        btn.setTitle(label, forState: .Normal)
+        btn.tag = tag
+        btn.titleLabel!.font = UIFont(name: "Gill Sans", size: 12)
+        btn.addTarget(self, action: #selector(ViewController.buttonAction(_:)), forControlEvents: UIControlEvents.TouchUpInside)
+
+        return btn
+    }
+    
+    func buttonAction(sender:UIButton!) {
+        statId = sender.tag
+        labelSetter(statId)
+        appropriateSort()
+    }
+    
+    @IBAction func sortBtn(sender: UIButton) {
+        
+        if sortMode == false {
+        
+            sortBtnView.hidden = false
+            horizontalScrollView.contentSize = CGSizeMake(50 * CGFloat(statsListAbbrev.count) + 40, 60)
+            
+            UIView.animateWithDuration(0.5, delay: 0.0, usingSpringWithDamping: 0.6, initialSpringVelocity: 0.5,  options: .CurveEaseInOut, animations: {
+            self.scrollBtnContainerHeight.constant = 60
+                self.view.layoutIfNeeded()
+                }, completion: nil)
+            
+            
+            self.sortMode = true
+            if !self.sortAnimationRun == true {
+                
+                for i in 0...statsListAbbrev.count-1 {
+                let sortBtn = self.createButtons(statsListAbbrev[i], tag: i)
+                sortBtn.frame = CGRectMake(-44, 8, 44, 44)
+                self.horizontalScrollView.addSubview(sortBtn)
+        
+                UIView.animateWithDuration(0.8, delay: 0.35, usingSpringWithDamping: 0.6, initialSpringVelocity: 0.5,  options: .CurveEaseInOut, animations: {
+                sortBtn.frame = CGRectMake(20 + CGFloat(50*i), 8, 44, 44)
+                    }, completion: {finished in
+                self.sortAnimationRun = true
+                    })
+                }
+            }
+        
+        } else {
+            UIView.animateWithDuration(0.5, delay: 0.0, usingSpringWithDamping: 0.6, initialSpringVelocity: 0.5,  options: .CurveEaseInOut, animations: {
+                self.scrollBtnContainerHeight.constant = 0
+                self.view.layoutIfNeeded()
+                }, completion: {finished in
+                    self.sortMode = false
+            })
+        }
+    }
+    
+
+    
     @IBAction func previousStat(sender: UIButton) {
         
-        statId--
+        statId -= 1
         if statId < 0 {
             statId = 10
         }
@@ -394,7 +457,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     }
     
     @IBAction func nextStat(sender: UIButton) {
-        statId++
+        statId += 1
         if statId > 10 {
             statId = 0
         }

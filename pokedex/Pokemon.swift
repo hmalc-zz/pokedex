@@ -431,7 +431,6 @@ class Pokemon {
     
     init(pokedexId: Int) {
         self._pokedexId = pokedexId
-        
     }
     
     
@@ -453,7 +452,6 @@ class Pokemon {
                 if let name = row["identifier"] {
                     self._name = name
                 }
-                
                 
                 // Height + Weight
                 
