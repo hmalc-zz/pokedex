@@ -33,7 +33,7 @@
                                         <constraints>
                                             <constraint firstAttribute="height" constant="40" id="Efy-cj-pbd"/>
                                         </constraints>
-                                        <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="15"/>
+                                        <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="17"/>
                                         <state key="normal" title="Send Feedback">
                                             <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
@@ -52,7 +52,7 @@
                                         <constraints>
                                             <constraint firstAttribute="height" constant="40" id="S2A-PE-7V9"/>
                                         </constraints>
-                                        <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="15"/>
+                                        <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="17"/>
                                         <state key="normal" title="Developer Site">
                                             <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
@@ -67,9 +67,9 @@
                                     </button>
                                 </subviews>
                             </stackView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="About" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fDX-CH-jDe">
-                                <rect key="frame" x="25" y="95" width="48.5" height="20.5"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="About" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fDX-CH-jDe">
+                                <rect key="frame" x="25" y="95" width="47" height="20.5"/>
+                                <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="20"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -84,10 +84,10 @@
                                     <action selector="dismissLegal:" destination="6d2-w5-Lhe" eventType="touchUpInside" id="OsA-Ro-6zp"/>
                                 </connections>
                             </button>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1sf-WK-swL">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1sf-WK-swL">
                                 <rect key="frame" x="20" y="131.5" width="560" height="328.5"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                <string key="text">This app uses data and images derived from the Pokemon series of video games. Terminology from the game franchise is used as is necessary within the software itself. This constitutes the intellectual property of Nintendo Co., Ltd., Creatures, Inc and GAME FREAK, Inc as is protected by various copyrights and trademarks. I believe that the use of this intellectual property for a fan reference is covered by fair use and that the software is significantly impaired without aforementioned properties included.
+                                <mutableString key="text">This app uses data and images derived from the Pokemon series of video games. Terminology from the game franchise is used as is necessary within the software itself. This constitutes the intellectual property of Nintendo Co., Ltd., Creatures, Inc and GAME FREAK, Inc as is protected by various copyrights and trademarks. I believe that the use of this intellectual property for a fan reference is covered by fair use and that the software is significantly impaired without aforementioned properties included.
 
 Dexly began as a concept from Mark Price's Udemy course "iOS9 and Swift 2": www.devslopes.com
 
@@ -95,14 +95,14 @@ A majority of data used within Dexly is sourced from Veekun's Pokemon database: 
 
 The Dexly logo uses the font 'Pacifico' by Vernon Adams: http://www.fontsquirrel.com/fonts/pacifico
 
-dexly is in 1.0 but will only be getting better from here. Expect addition of all new 7th Gen Pokemon with the release of Sun and Moon holiday 2016.
+Expect addition of all new 7th Gen Pokemon with the release of Sun and Moon holiday 2016.
 
 Thank you for downloading dexly! I hope you enjoy it. Please send me any issues you have and ideas about how to make it better.
 
 - Hayden
 
-</string>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="13"/>
+</mutableString>
+                                <fontDescription key="fontDescription" name="GillSans-Light" family="Gill Sans" pointSize="16"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                 <dataDetectorType key="dataDetectorTypes" link="YES"/>
                             </textView>
@@ -173,62 +173,11 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                 <offsetWrapper key="searchTextPositionAdjustment" horizontal="0.0" vertical="0.0"/>
                                 <textInputTraits key="textInputTraits" autocorrectionType="no" spellCheckingType="no" keyboardAppearance="light" returnKeyType="go"/>
                             </searchBar>
-                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="tjR-SZ-ePd">
-                                <rect key="frame" x="20" y="172" width="560" height="384"/>
-                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="aPx-jW-Ohg">
-                                    <size key="itemSize" width="140" height="140"/>
-                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
-                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
-                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
-                                </collectionViewFlowLayout>
-                                <cells>
-                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="PokeCell" id="D10-zG-qJ4" customClass="PokeCellCollectionViewCell" customModule="dexly" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="0.0" width="140" height="140"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
-                                            <rect key="frame" x="0.0" y="0.0" width="140" height="140"/>
-                                            <autoresizingMask key="autoresizingMask"/>
-                                            <subviews>
-                                                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" semanticContentAttribute="spatial" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="76" translatesAutoresizingMaskIntoConstraints="NO" id="Hgv-da-FyS">
-                                                    <rect key="frame" x="0.0" y="0.0" width="140" height="120"/>
-                                                </imageView>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="s9Z-5B-2K1">
-                                                    <rect key="frame" x="0.0" y="120" width="140" height="20"/>
-                                                    <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                                    <color key="tintColor" red="1" green="0.45882352939999999" blue="0.48627450979999998" alpha="1" colorSpace="calibratedRGB"/>
-                                                    <constraints>
-                                                        <constraint firstAttribute="height" constant="20" id="Yx2-rS-xe9"/>
-                                                    </constraints>
-                                                    <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="12"/>
-                                                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                                    <nil key="highlightedColor"/>
-                                                </label>
-                                            </subviews>
-                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                        </view>
-                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                        <constraints>
-                                            <constraint firstItem="Hgv-da-FyS" firstAttribute="top" secondItem="D10-zG-qJ4" secondAttribute="top" id="Cr6-wK-n5K"/>
-                                            <constraint firstAttribute="trailing" secondItem="Hgv-da-FyS" secondAttribute="trailing" id="Lwz-pe-FLN"/>
-                                            <constraint firstItem="s9Z-5B-2K1" firstAttribute="leading" secondItem="D10-zG-qJ4" secondAttribute="leading" id="NYk-QF-Pe6"/>
-                                            <constraint firstAttribute="trailing" secondItem="s9Z-5B-2K1" secondAttribute="trailing" id="OfF-1d-Lhl"/>
-                                            <constraint firstItem="Hgv-da-FyS" firstAttribute="leading" secondItem="D10-zG-qJ4" secondAttribute="leading" id="iry-oI-QTD"/>
-                                            <constraint firstAttribute="bottom" secondItem="s9Z-5B-2K1" secondAttribute="bottom" id="wCw-zI-gn7"/>
-                                            <constraint firstItem="s9Z-5B-2K1" firstAttribute="top" secondItem="Hgv-da-FyS" secondAttribute="bottom" id="xbu-sd-2ed"/>
-                                        </constraints>
-                                        <connections>
-                                            <outlet property="nameLbl" destination="s9Z-5B-2K1" id="b9Q-kc-QCf"/>
-                                            <outlet property="thumbImg" destination="Hgv-da-FyS" id="1C6-NH-hk4"/>
-                                        </connections>
-                                    </collectionViewCell>
-                                </cells>
-                            </collectionView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="l2G-YG-bzH">
                                 <rect key="frame" x="0.0" y="108" width="600" height="44"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9Fx-AA-8v2">
-                                        <rect key="frame" x="535" y="-1" width="45" height="45"/>
+                                        <rect key="frame" x="535" y="-7" width="45" height="45"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="45" id="Jbz-ra-qw6"/>
                                             <constraint firstAttribute="width" constant="45" id="g48-Nq-DIU"/>
@@ -243,17 +192,17 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                         </connections>
                                     </button>
                                     <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="triangleUp" translatesAutoresizingMaskIntoConstraints="NO" id="Hhc-Sy-e3o">
-                                        <rect key="frame" x="548" y="13" width="18" height="18"/>
+                                        <rect key="frame" x="548" y="10" width="18" height="18"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="18" id="lXy-1S-kTY"/>
                                             <constraint firstAttribute="width" constant="18" id="z2M-fg-rh2"/>
                                         </constraints>
                                     </imageView>
                                     <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5cm-hn-cxv">
-                                        <rect key="frame" x="8" y="4" width="105" height="30"/>
+                                        <rect key="frame" x="7.5" y="4" width="120" height="30"/>
                                         <color key="backgroundColor" red="0.8661930229306487" green="0.0039215686274509803" blue="0.31764705882352939" alpha="1" colorSpace="calibratedRGB"/>
                                         <constraints>
-                                            <constraint firstAttribute="width" constant="105" id="fVU-FG-AIj"/>
+                                            <constraint firstAttribute="width" constant="120" id="fVU-FG-AIj"/>
                                             <constraint firstAttribute="height" constant="30" id="ybt-yX-Q4U"/>
                                         </constraints>
                                         <userDefinedRuntimeAttributes>
@@ -266,11 +215,11 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                         </connections>
                                     </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sort" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="md8-ti-2HX">
-                                        <rect key="frame" x="8" y="11" width="105" height="16"/>
+                                        <rect key="frame" x="8" y="10.5" width="120" height="17"/>
                                         <constraints>
-                                            <constraint firstAttribute="width" constant="105" id="WCH-ID-rvs"/>
+                                            <constraint firstAttribute="width" constant="120" id="WCH-ID-rvs"/>
                                         </constraints>
-                                        <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="13"/>
+                                        <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="14"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <nil key="highlightedColor"/>
                                     </label>
@@ -280,8 +229,8 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                     <constraint firstItem="md8-ti-2HX" firstAttribute="centerY" secondItem="5cm-hn-cxv" secondAttribute="centerY" id="8VU-CU-Bmm"/>
                                     <constraint firstItem="md8-ti-2HX" firstAttribute="centerY" secondItem="l2G-YG-bzH" secondAttribute="centerY" constant="-3" id="DLW-iD-g1y"/>
                                     <constraint firstItem="Hhc-Sy-e3o" firstAttribute="centerX" secondItem="9Fx-AA-8v2" secondAttribute="centerX" id="HHd-rh-nXX"/>
-                                    <constraint firstItem="Hhc-Sy-e3o" firstAttribute="centerY" secondItem="l2G-YG-bzH" secondAttribute="centerY" id="MJA-Kk-F2x"/>
-                                    <constraint firstItem="Hhc-Sy-e3o" firstAttribute="centerY" secondItem="9Fx-AA-8v2" secondAttribute="centerY" id="U3d-Na-32z"/>
+                                    <constraint firstItem="Hhc-Sy-e3o" firstAttribute="centerY" secondItem="l2G-YG-bzH" secondAttribute="centerY" constant="-3" id="MJA-Kk-F2x"/>
+                                    <constraint firstItem="Hhc-Sy-e3o" firstAttribute="centerY" secondItem="9Fx-AA-8v2" secondAttribute="centerY" constant="3" id="U3d-Na-32z"/>
                                     <constraint firstItem="md8-ti-2HX" firstAttribute="centerX" secondItem="5cm-hn-cxv" secondAttribute="centerX" id="Wmr-xa-xqu"/>
                                     <constraint firstItem="md8-ti-2HX" firstAttribute="leading" secondItem="l2G-YG-bzH" secondAttribute="leading" constant="8" id="XbS-ZO-8a4"/>
                                     <constraint firstAttribute="height" constant="44" id="aho-07-8dy"/>
@@ -319,6 +268,57 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                     </mask>
                                 </variation>
                             </view>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="tjR-SZ-ePd">
+                                <rect key="frame" x="20" y="172" width="560" height="384"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="aPx-jW-Ohg">
+                                    <size key="itemSize" width="140" height="140"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells>
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="PokeCell" id="D10-zG-qJ4" customClass="PokeCellCollectionViewCell" customModule="dexly" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="140" height="140"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                                            <rect key="frame" x="0.0" y="0.0" width="140" height="140"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" semanticContentAttribute="spatial" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="76" translatesAutoresizingMaskIntoConstraints="NO" id="Hgv-da-FyS">
+                                                    <rect key="frame" x="0.0" y="0.0" width="140" height="120"/>
+                                                </imageView>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="s9Z-5B-2K1">
+                                                    <rect key="frame" x="0.0" y="120" width="140" height="20"/>
+                                                    <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="tintColor" red="1" green="0.45882352939999999" blue="0.48627450979999998" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="height" constant="20" id="Yx2-rS-xe9"/>
+                                                    </constraints>
+                                                    <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="14"/>
+                                                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                        </view>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <constraints>
+                                            <constraint firstItem="Hgv-da-FyS" firstAttribute="top" secondItem="D10-zG-qJ4" secondAttribute="top" id="Cr6-wK-n5K"/>
+                                            <constraint firstAttribute="trailing" secondItem="Hgv-da-FyS" secondAttribute="trailing" id="Lwz-pe-FLN"/>
+                                            <constraint firstItem="s9Z-5B-2K1" firstAttribute="leading" secondItem="D10-zG-qJ4" secondAttribute="leading" id="NYk-QF-Pe6"/>
+                                            <constraint firstAttribute="trailing" secondItem="s9Z-5B-2K1" secondAttribute="trailing" id="OfF-1d-Lhl"/>
+                                            <constraint firstItem="Hgv-da-FyS" firstAttribute="leading" secondItem="D10-zG-qJ4" secondAttribute="leading" id="iry-oI-QTD"/>
+                                            <constraint firstAttribute="bottom" secondItem="s9Z-5B-2K1" secondAttribute="bottom" id="wCw-zI-gn7"/>
+                                            <constraint firstItem="s9Z-5B-2K1" firstAttribute="top" secondItem="Hgv-da-FyS" secondAttribute="bottom" id="xbu-sd-2ed"/>
+                                        </constraints>
+                                        <connections>
+                                            <outlet property="nameLbl" destination="s9Z-5B-2K1" id="b9Q-kc-QCf"/>
+                                            <outlet property="thumbImg" destination="Hgv-da-FyS" id="1C6-NH-hk4"/>
+                                        </connections>
+                                    </collectionViewCell>
+                                </cells>
+                            </collectionView>
                         </subviews>
                         <color key="backgroundColor" red="0.96862745098039216" green="0.96862745098039216" blue="0.96862745098039216" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
@@ -355,6 +355,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
                         <outlet property="collection" destination="tjR-SZ-ePd" id="MB6-EB-53a"/>
+                        <outlet property="containerSpacing" destination="5YO-Wi-n5h" id="V0T-Jq-jeA"/>
                         <outlet property="horizontalScrollView" destination="POZ-Lu-CFw" id="Ohw-0M-4sq"/>
                         <outlet property="pokeballHeader" destination="ICN-g0-j6E" id="atZ-Rf-anS"/>
                         <outlet property="scrollBtnContainerHeight" destination="2wK-2o-D3i" id="9uV-x3-uiZ"/>
@@ -444,7 +445,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="125" id="o1B-Le-LrS"/>
                                                         </constraints>
-                                                        <fontDescription key="fontDescription" name="GillSans-Light" family="Gill Sans" pointSize="12"/>
+                                                        <fontDescription key="fontDescription" name="GillSans-Light" family="Gill Sans" pointSize="15"/>
                                                         <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                                         <nil key="highlightedColor"/>
                                                         <variation key="default">
@@ -459,7 +460,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                             <constraint firstAttribute="width" constant="110" id="Det-1m-bAR"/>
                                                             <constraint firstAttribute="width" constant="135" id="TpC-sQ-pgF"/>
                                                         </constraints>
-                                                        <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="14"/>
+                                                        <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="14"/>
                                                         <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                         <nil key="highlightedColor"/>
                                                         <variation key="default">
@@ -479,7 +480,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                     </label>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KPg-4O-Bdw">
                                                         <rect key="frame" x="445" y="62" width="135" height="30.5"/>
-                                                        <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="15"/>
+                                                        <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="13"/>
                                                         <connections>
                                                             <action selector="changeDexEntry:" destination="HOP-Jb-BQg" eventType="touchUpInside" id="ms1-c2-4A1"/>
                                                         </connections>
@@ -1104,73 +1105,6 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                     </collectionViewCell>
                                                 </cells>
                                             </collectionView>
-                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hNV-G0-HMe">
-                                                <rect key="frame" x="0.0" y="1135" width="600" height="62"/>
-                                                <subviews>
-                                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="AAM-9e-cAC" userLabel="ColourBar2">
-                                                        <rect key="frame" x="8" y="50" width="584" height="2"/>
-                                                        <color key="backgroundColor" red="1" green="0.0" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
-                                                        <constraints>
-                                                            <constraint firstAttribute="height" constant="2" id="ZFw-lY-NiA"/>
-                                                        </constraints>
-                                                    </view>
-                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Moves" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6cv-Oi-anw">
-                                                        <rect key="frame" x="20" y="10" width="44.5" height="30"/>
-                                                        <constraints>
-                                                            <constraint firstAttribute="height" constant="30" id="FDN-it-dys"/>
-                                                        </constraints>
-                                                        <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="17"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                                        <nil key="highlightedColor"/>
-                                                    </label>
-                                                    <button opaque="NO" alpha="0.10000000000000001" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3rs-aW-7d1">
-                                                        <rect key="frame" x="380" y="8" width="200" height="34"/>
-                                                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.59999999999999998" colorSpace="calibratedRGB"/>
-                                                        <constraints>
-                                                            <constraint firstAttribute="width" constant="200" id="HeC-rQ-oKo"/>
-                                                        </constraints>
-                                                        <userDefinedRuntimeAttributes>
-                                                            <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
-                                                                <integer key="value" value="10"/>
-                                                            </userDefinedRuntimeAttribute>
-                                                            <userDefinedRuntimeAttribute type="number" keyPath="layer.borderWidth">
-                                                                <integer key="value" value="1"/>
-                                                            </userDefinedRuntimeAttribute>
-                                                        </userDefinedRuntimeAttributes>
-                                                        <connections>
-                                                            <action selector="changeGameRef:" destination="HOP-Jb-BQg" eventType="touchUpInside" id="Ghh-lr-6td"/>
-                                                        </connections>
-                                                    </button>
-                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZX8-kc-jI7">
-                                                        <rect key="frame" x="380" y="8" width="200" height="34"/>
-                                                        <string key="text">Gen 6: AlphaSapphire/OmegaRuby
-</string>
-                                                        <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="12"/>
-                                                        <nil key="highlightedColor"/>
-                                                    </label>
-                                                </subviews>
-                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                                <constraints>
-                                                    <constraint firstItem="3rs-aW-7d1" firstAttribute="trailing" secondItem="ZX8-kc-jI7" secondAttribute="trailing" id="9LQ-xn-MQX"/>
-                                                    <constraint firstAttribute="bottom" secondItem="AAM-9e-cAC" secondAttribute="bottom" constant="10" id="E6M-oX-otN"/>
-                                                    <constraint firstAttribute="trailing" secondItem="ZX8-kc-jI7" secondAttribute="trailing" constant="20" id="OVl-Xh-Mj7"/>
-                                                    <constraint firstAttribute="bottom" secondItem="6cv-Oi-anw" secondAttribute="bottom" constant="10" id="Rtm-XV-Xzz"/>
-                                                    <constraint firstAttribute="height" constant="62" id="SZu-ZA-jpI"/>
-                                                    <constraint firstItem="3rs-aW-7d1" firstAttribute="top" secondItem="ZX8-kc-jI7" secondAttribute="top" id="TFT-e6-8jY"/>
-                                                    <constraint firstItem="3rs-aW-7d1" firstAttribute="bottom" secondItem="ZX8-kc-jI7" secondAttribute="bottom" id="eZ8-XV-ZDI"/>
-                                                    <constraint firstItem="6cv-Oi-anw" firstAttribute="top" secondItem="hNV-G0-HMe" secondAttribute="top" constant="10" id="fkZ-vT-eVd"/>
-                                                    <constraint firstItem="AAM-9e-cAC" firstAttribute="leading" secondItem="hNV-G0-HMe" secondAttribute="leading" constant="8" id="gzY-oI-wT4"/>
-                                                    <constraint firstItem="ZX8-kc-jI7" firstAttribute="centerY" secondItem="6cv-Oi-anw" secondAttribute="centerY" id="jBx-t6-hXC"/>
-                                                    <constraint firstItem="6cv-Oi-anw" firstAttribute="leading" secondItem="hNV-G0-HMe" secondAttribute="leading" constant="20" id="mLz-IZ-t2f"/>
-                                                    <constraint firstItem="3rs-aW-7d1" firstAttribute="leading" secondItem="ZX8-kc-jI7" secondAttribute="leading" id="p0y-Sx-L5H"/>
-                                                    <constraint firstAttribute="trailing" secondItem="AAM-9e-cAC" secondAttribute="trailing" constant="8" id="pE6-l3-NFY"/>
-                                                </constraints>
-                                                <variation key="default">
-                                                    <mask key="constraints">
-                                                        <exclude reference="Rtm-XV-Xzz"/>
-                                                    </mask>
-                                                </variation>
-                                            </view>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rHH-gT-pwb">
                                                 <rect key="frame" x="0.0" y="415" width="600" height="120"/>
                                                 <subviews>
@@ -1414,6 +1348,73 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                     <constraint firstItem="DT5-Fv-a6E" firstAttribute="bottom" secondItem="pko-ro-BTA" secondAttribute="bottom" id="zmR-In-akr"/>
                                                 </constraints>
                                             </view>
+                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hNV-G0-HMe">
+                                                <rect key="frame" x="0.0" y="1135" width="600" height="62"/>
+                                                <subviews>
+                                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="AAM-9e-cAC" userLabel="ColourBar2">
+                                                        <rect key="frame" x="8" y="50" width="584" height="2"/>
+                                                        <color key="backgroundColor" red="1" green="0.0" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <constraints>
+                                                            <constraint firstAttribute="height" constant="2" id="ZFw-lY-NiA"/>
+                                                        </constraints>
+                                                    </view>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Moves" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6cv-Oi-anw">
+                                                        <rect key="frame" x="20" y="10" width="44.5" height="30"/>
+                                                        <constraints>
+                                                            <constraint firstAttribute="height" constant="30" id="FDN-it-dys"/>
+                                                        </constraints>
+                                                        <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="17"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <button opaque="NO" alpha="0.10000000000000001" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3rs-aW-7d1">
+                                                        <rect key="frame" x="380" y="8" width="200" height="34"/>
+                                                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.59999999999999998" colorSpace="calibratedRGB"/>
+                                                        <constraints>
+                                                            <constraint firstAttribute="width" constant="200" id="HeC-rQ-oKo"/>
+                                                        </constraints>
+                                                        <userDefinedRuntimeAttributes>
+                                                            <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                                                <integer key="value" value="10"/>
+                                                            </userDefinedRuntimeAttribute>
+                                                            <userDefinedRuntimeAttribute type="number" keyPath="layer.borderWidth">
+                                                                <integer key="value" value="1"/>
+                                                            </userDefinedRuntimeAttribute>
+                                                        </userDefinedRuntimeAttributes>
+                                                        <connections>
+                                                            <action selector="changeGameRef:" destination="HOP-Jb-BQg" eventType="touchUpInside" id="Ghh-lr-6td"/>
+                                                        </connections>
+                                                    </button>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZX8-kc-jI7">
+                                                        <rect key="frame" x="380" y="8" width="200" height="34"/>
+                                                        <string key="text">Gen 6: AlphaSapphire/OmegaRuby
+</string>
+                                                        <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="12"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                </subviews>
+                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                <constraints>
+                                                    <constraint firstItem="3rs-aW-7d1" firstAttribute="trailing" secondItem="ZX8-kc-jI7" secondAttribute="trailing" id="9LQ-xn-MQX"/>
+                                                    <constraint firstAttribute="bottom" secondItem="AAM-9e-cAC" secondAttribute="bottom" constant="10" id="E6M-oX-otN"/>
+                                                    <constraint firstAttribute="trailing" secondItem="ZX8-kc-jI7" secondAttribute="trailing" constant="20" id="OVl-Xh-Mj7"/>
+                                                    <constraint firstAttribute="bottom" secondItem="6cv-Oi-anw" secondAttribute="bottom" constant="10" id="Rtm-XV-Xzz"/>
+                                                    <constraint firstAttribute="height" constant="62" id="SZu-ZA-jpI"/>
+                                                    <constraint firstItem="3rs-aW-7d1" firstAttribute="top" secondItem="ZX8-kc-jI7" secondAttribute="top" id="TFT-e6-8jY"/>
+                                                    <constraint firstItem="3rs-aW-7d1" firstAttribute="bottom" secondItem="ZX8-kc-jI7" secondAttribute="bottom" id="eZ8-XV-ZDI"/>
+                                                    <constraint firstItem="6cv-Oi-anw" firstAttribute="top" secondItem="hNV-G0-HMe" secondAttribute="top" constant="10" id="fkZ-vT-eVd"/>
+                                                    <constraint firstItem="AAM-9e-cAC" firstAttribute="leading" secondItem="hNV-G0-HMe" secondAttribute="leading" constant="8" id="gzY-oI-wT4"/>
+                                                    <constraint firstItem="ZX8-kc-jI7" firstAttribute="centerY" secondItem="6cv-Oi-anw" secondAttribute="centerY" id="jBx-t6-hXC"/>
+                                                    <constraint firstItem="6cv-Oi-anw" firstAttribute="leading" secondItem="hNV-G0-HMe" secondAttribute="leading" constant="20" id="mLz-IZ-t2f"/>
+                                                    <constraint firstItem="3rs-aW-7d1" firstAttribute="leading" secondItem="ZX8-kc-jI7" secondAttribute="leading" id="p0y-Sx-L5H"/>
+                                                    <constraint firstAttribute="trailing" secondItem="AAM-9e-cAC" secondAttribute="trailing" constant="8" id="pE6-l3-NFY"/>
+                                                </constraints>
+                                                <variation key="default">
+                                                    <mask key="constraints">
+                                                        <exclude reference="Rtm-XV-Xzz"/>
+                                                    </mask>
+                                                </variation>
+                                            </view>
                                         </subviews>
                                         <color key="backgroundColor" red="0.97950721159999998" green="0.97950721159999998" blue="0.97950721159999998" alpha="1" colorSpace="calibratedRGB"/>
                                         <constraints>
@@ -1555,7 +1556,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                             <constraint firstAttribute="height" constant="39" id="MsA-bq-aif"/>
                                             <constraint firstAttribute="width" constant="231" id="ySS-Y9-CRb"/>
                                         </constraints>
-                                        <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="20"/>
+                                        <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="22"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <nil key="highlightedColor"/>
                                     </label>

@@ -661,7 +661,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             lineSeparator.hidden = false
             hideFormsView.constant = 120
             
-            for var i=1; i<=Int(pokemon.numberForms)!; i += 1 {
+            for i in 1...Int(pokemon.numberForms)! {
                 if i == 1 {
                     form1.hidden = false
                     form1Label.hidden = false

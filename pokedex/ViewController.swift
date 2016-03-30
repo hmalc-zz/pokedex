@@ -23,6 +23,8 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     @IBOutlet weak var pokeballHeader: UIImageView!
     
     @IBOutlet weak var scrollBtnContainerHeight: NSLayoutConstraint!
+    
+    @IBOutlet weak var containerSpacing: NSLayoutConstraint!
     @IBOutlet weak var sortBtnView: UIView!
     @IBOutlet weak var horizontalScrollView: UIScrollView!
     
@@ -389,7 +391,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         let btn = UIButton()
         let dim: CGFloat = 44
         btn.frame = CGRectMake(0,0,dim,dim)
-        btn.layer.cornerRadius = dim/4
+        btn.layer.cornerRadius = dim/2
         btn.layer.backgroundColor = UIColor(red: 0.9333, green: 0.0039, blue: 0.3176, alpha: 1.0).CGColor
         btn.setTitle(label, forState: .Normal)
         btn.tag = tag
@@ -414,6 +416,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
             
             UIView.animateWithDuration(0.5, delay: 0.0, usingSpringWithDamping: 0.6, initialSpringVelocity: 0.5,  options: .CurveEaseInOut, animations: {
             self.scrollBtnContainerHeight.constant = 60
+                self.containerSpacing.constant = 0
                 self.view.layoutIfNeeded()
                 }, completion: nil)
             
@@ -437,32 +440,11 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         } else {
             UIView.animateWithDuration(0.5, delay: 0.0, usingSpringWithDamping: 0.6, initialSpringVelocity: 0.5,  options: .CurveEaseInOut, animations: {
                 self.scrollBtnContainerHeight.constant = 0
+                self.containerSpacing.constant = 20
                 self.view.layoutIfNeeded()
                 }, completion: {finished in
                     self.sortMode = false
             })
         }
     }
-    
-
-    
-    @IBAction func previousStat(sender: UIButton) {
-        
-        statId -= 1
-        if statId < 0 {
-            statId = 10
-        }
-        labelSetter(statId)
-        appropriateSort()
-    }
-    
-    @IBAction func nextStat(sender: UIButton) {
-        statId += 1
-        if statId > 10 {
-            statId = 0
-        }
-        labelSetter(statId)
-        appropriateSort()
-    }
-}
-
+ }
