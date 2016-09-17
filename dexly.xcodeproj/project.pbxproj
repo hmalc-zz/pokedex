@@ -3859,7 +3859,6 @@
 		B4FE76011C63B635003BC527 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FE76001C63B635003BC527 /* Pokemon.swift */; };
 		B4FE76041C63DD20003BC527 /* PokeCellCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FE76031C63DD20003BC527 /* PokeCellCollectionViewCell.swift */; };
 		B4FE76061C63E757003BC527 /* csv.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FE76051C63E757003BC527 /* csv.swift */; };
-		B4FE760B1C63F8EC003BC527 /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4FE760A1C63F8EC003BC527 /* music.mp3 */; };
 		B4FE760D1C640AD4003BC527 /* PokemonDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FE760C1C640AD4003BC527 /* PokemonDetailVC.swift */; };
 /* End PBXBuildFile section */
 
@@ -7718,7 +7717,6 @@
 		B4FE76001C63B635003BC527 /* Pokemon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
 		B4FE76031C63DD20003BC527 /* PokeCellCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokeCellCollectionViewCell.swift; sourceTree = "<group>"; };
 		B4FE76051C63E757003BC527 /* csv.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = csv.swift; sourceTree = "<group>"; };
-		B4FE760A1C63F8EC003BC527 /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
 		B4FE760C1C640AD4003BC527 /* PokemonDetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonDetailVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -11694,7 +11692,6 @@
 				B404CB501C79224B00FB0C35 /* Attibutes */,
 				B404CB4F1C7921D000FB0C35 /* Moves */,
 				B421758F1C88FCC00072EEFD /* pokeinit.csv */,
-				B4FE760A1C63F8EC003BC527 /* music.mp3 */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -11972,7 +11969,6 @@
 				B42A37D11D8DC9B50067003E /* 92.mp3 in Resources */,
 				B42A26B11D8DC9460067003E /* pokeMoveId475.csv in Resources */,
 				B42A31451D8DC9930067003E /* 146-hi.png in Resources */,
-				B4FE760B1C63F8EC003BC527 /* music.mp3 in Resources */,
 				B42A39771D8DC9B50067003E /* 489.mp3 in Resources */,
 				B42A33E91D8DC9930067003E /* 711hiform3.png in Resources */,
 				B42A38461D8DC9B50067003E /* 201.mp3 in Resources */,
