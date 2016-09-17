@@ -1,0 +1,183 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+311,5,Growl,1,normal,-,100
+311,6,Growl,1,normal,-,100
+311,7,Growl,1,normal,-,100
+311,8,Growl,1,normal,-,100
+311,9,Growl,1,normal,-,100
+311,10,Growl,1,normal,-,100
+311,11,Growl,1,normal,-,100
+311,12,Growl,1,normal,-,100
+311,13,Growl,1,normal,-,100
+311,14,Growl,1,normal,-,100
+311,15,Growl,1,normal,-,100
+311,15,Nasty Plot,1,dark,-,-
+311,15,Entrainment,1,normal,-,100
+311,15,Play Nice,1,normal,-,-
+311,15,Nuzzle,1,electric,20,100
+311,16,Growl,1,normal,-,100
+311,16,Thunder Wave,1,electric,-,100
+311,16,Quick Attack,1,normal,40,100
+311,16,Play Nice,1,normal,-,-
+311,16,Nuzzle,1,electric,20,100
+311,8,Thunder Wave,3,electric,-,100
+311,9,Thunder Wave,3,electric,-,100
+311,10,Thunder Wave,3,electric,-,100
+311,11,Thunder Wave,3,electric,-,100
+311,14,Thunder Wave,3,electric,-,100
+311,15,Thunder Wave,3,electric,-,100
+311,5,Thunder Wave,4,electric,-,100
+311,6,Thunder Wave,4,electric,-,100
+311,7,Thunder Wave,4,electric,-,100
+311,12,Thunder Wave,4,electric,-,100
+311,13,Thunder Wave,4,electric,-,100
+311,16,Helping Hand,4,normal,-,-
+311,8,Quick Attack,7,normal,40,100
+311,9,Quick Attack,7,normal,40,100
+311,10,Quick Attack,7,normal,40,100
+311,11,Quick Attack,7,normal,40,100
+311,14,Quick Attack,7,normal,40,100
+311,15,Quick Attack,7,normal,40,100
+311,16,Spark,7,electric,65,100
+311,5,Quick Attack,10,normal,40,100
+311,6,Quick Attack,10,normal,40,100
+311,7,Quick Attack,10,normal,40,100
+311,8,Helping Hand,10,normal,-,-
+311,9,Helping Hand,10,normal,-,-
+311,10,Helping Hand,10,normal,-,-
+311,11,Helping Hand,10,normal,-,-
+311,12,Quick Attack,10,normal,40,100
+311,13,Quick Attack,10,normal,40,100
+311,14,Helping Hand,10,normal,-,-
+311,15,Helping Hand,10,normal,-,-
+311,16,Encore,10,normal,-,100
+311,5,Helping Hand,13,normal,-,-
+311,6,Helping Hand,13,normal,-,-
+311,7,Helping Hand,13,normal,-,-
+311,12,Helping Hand,13,normal,-,-
+311,13,Helping Hand,13,normal,-,-
+311,16,Bestow,13,normal,-,-
+311,8,Spark,15,electric,65,100
+311,9,Spark,15,electric,65,100
+311,10,Spark,15,electric,65,100
+311,11,Spark,15,electric,65,100
+311,14,Spark,15,electric,65,100
+311,15,Spark,15,electric,65,100
+311,16,Swift,16,normal,60,-
+311,8,Encore,17,normal,-,100
+311,9,Encore,17,normal,-,100
+311,10,Encore,17,normal,-,100
+311,11,Encore,17,normal,-,100
+311,14,Encore,17,normal,-,100
+311,15,Encore,17,normal,-,100
+311,5,Spark,19,electric,65,100
+311,6,Spark,19,electric,65,100
+311,7,Spark,19,electric,65,100
+311,12,Spark,19,electric,65,100
+311,13,Spark,19,electric,65,100
+311,16,Electro Ball,19,electric,-,100
+311,8,Fake Tears,21,dark,-,100
+311,9,Fake Tears,21,dark,-,100
+311,10,Fake Tears,21,dark,-,100
+311,11,Fake Tears,21,dark,-,100
+311,14,Fake Tears,21,dark,-,100
+311,15,Play Nice,21,normal,-,-
+311,5,Encore,22,normal,-,100
+311,6,Encore,22,normal,-,100
+311,7,Encore,22,normal,-,100
+311,12,Encore,22,normal,-,100
+311,13,Encore,22,normal,-,100
+311,16,Copycat,22,normal,-,-
+311,8,Copycat,24,normal,-,-
+311,9,Copycat,24,normal,-,-
+311,10,Copycat,24,normal,-,-
+311,11,Copycat,24,normal,-,-
+311,14,Copycat,24,normal,-,-
+311,15,Copycat,24,normal,-,-
+311,16,Charm,25,fairy,-,100
+311,5,Fake Tears,28,dark,-,100
+311,6,Fake Tears,28,dark,-,100
+311,7,Fake Tears,28,dark,-,100
+311,12,Fake Tears,28,dark,-,100
+311,13,Fake Tears,28,dark,-,100
+311,16,Charge,28,electric,-,-
+311,8,Swift,29,normal,60,-
+311,9,Swift,29,normal,60,-
+311,10,Swift,29,normal,60,-
+311,11,Electro Ball,29,electric,-,100
+311,14,Electro Ball,29,electric,-,100
+311,15,Electro Ball,29,electric,-,100
+311,5,Charge,31,electric,-,-
+311,6,Charge,31,electric,-,-
+311,7,Charge,31,electric,-,-
+311,8,Fake Tears,31,dark,-,100
+311,9,Fake Tears,31,dark,-,100
+311,10,Fake Tears,31,dark,-,100
+311,11,Swift,31,normal,60,-
+311,12,Charge,31,electric,-,-
+311,13,Charge,31,electric,-,-
+311,14,Swift,31,normal,60,-
+311,15,Swift,31,normal,60,-
+311,16,Discharge,31,electric,80,100
+311,16,Baton Pass,34,normal,-,-
+311,8,Charge,35,electric,-,-
+311,9,Charge,35,electric,-,-
+311,10,Charge,35,electric,-,-
+311,11,Fake Tears,35,dark,-,100
+311,14,Fake Tears,35,dark,-,100
+311,15,Fake Tears,35,dark,-,100
+311,5,Thunder,37,electric,110,70
+311,6,Thunder,37,electric,110,70
+311,7,Thunder,37,electric,110,70
+311,12,Thunder,37,electric,110,70
+311,13,Thunder,37,electric,110,70
+311,16,Agility,37,psychic,-,-
+311,8,Thunder,38,electric,110,70
+311,9,Thunder,38,electric,110,70
+311,10,Thunder,38,electric,110,70
+311,11,Charge,38,electric,-,-
+311,14,Charge,38,electric,-,-
+311,15,Charge,38,electric,-,-
+311,5,Baton Pass,40,normal,-,-
+311,6,Baton Pass,40,normal,-,-
+311,7,Baton Pass,40,normal,-,-
+311,12,Baton Pass,40,normal,-,-
+311,13,Baton Pass,40,normal,-,-
+311,16,Last Resort,40,normal,140,100
+311,8,Baton Pass,42,normal,-,-
+311,9,Baton Pass,42,normal,-,-
+311,10,Baton Pass,42,normal,-,-
+311,11,Thunder,42,electric,110,70
+311,14,Thunder,42,electric,110,70
+311,15,Thunder,42,electric,110,70
+311,16,Thunder,43,electric,110,70
+311,8,Agility,44,psychic,-,-
+311,9,Agility,44,psychic,-,-
+311,10,Agility,44,psychic,-,-
+311,11,Baton Pass,44,normal,-,-
+311,14,Baton Pass,44,normal,-,-
+311,15,Baton Pass,44,normal,-,-
+311,16,Nasty Plot,46,dark,-,-
+311,5,Agility,47,psychic,-,-
+311,6,Agility,47,psychic,-,-
+311,7,Agility,47,psychic,-,-
+311,12,Agility,47,psychic,-,-
+311,13,Agility,47,psychic,-,-
+311,8,Last Resort,48,normal,140,100
+311,9,Last Resort,48,normal,140,100
+311,10,Last Resort,48,normal,140,100
+311,11,Agility,48,psychic,-,-
+311,14,Agility,48,psychic,-,-
+311,15,Agility,48,psychic,-,-
+311,16,Entrainment,49,normal,-,100
+311,15,Last Resort,50,normal,140,100
+311,8,Nasty Plot,51,dark,-,-
+311,9,Nasty Plot,51,dark,-,-
+311,10,Nasty Plot,51,dark,-,-
+311,11,Last Resort,51,normal,140,100
+311,14,Last Resort,51,normal,140,100
+311,11,Nasty Plot,56,dark,-,-
+311,14,Nasty Plot,56,dark,-,-
+311,15,Nasty Plot,56,dark,-,-
+311,11,Entrainment,63,normal,-,100
+311,14,Entrainment,63,normal,-,100
+311,15,Entrainment,63,normal,-,100

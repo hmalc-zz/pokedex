@@ -1,0 +1,73 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+537,11,Growl,1,normal,-,100
+537,11,Supersonic,1,normal,-,55
+537,11,Bubble,1,water,40,100
+537,11,Round,1,normal,60,100
+537,14,Growl,1,normal,-,100
+537,14,Supersonic,1,normal,-,55
+537,14,Bubble,1,water,40,100
+537,14,Round,1,normal,60,100
+537,15,Growl,1,normal,-,100
+537,15,Supersonic,1,normal,-,55
+537,15,Bubble,1,water,40,100
+537,15,Round,1,normal,60,100
+537,16,Growl,1,normal,-,100
+537,16,Supersonic,1,normal,-,55
+537,16,Bubble,1,water,40,100
+537,16,Round,1,normal,60,100
+537,11,Supersonic,5,normal,-,55
+537,14,Supersonic,5,normal,-,55
+537,15,Supersonic,5,normal,-,55
+537,16,Supersonic,5,normal,-,55
+537,11,Round,9,normal,60,100
+537,14,Round,9,normal,60,100
+537,15,Round,9,normal,60,100
+537,16,Round,9,normal,60,100
+537,11,Bubble Beam,12,water,65,100
+537,14,Bubble Beam,12,water,65,100
+537,15,Bubble Beam,12,water,65,100
+537,16,Bubble Beam,12,water,65,100
+537,11,Mud Shot,16,ground,55,95
+537,14,Mud Shot,16,ground,55,95
+537,15,Mud Shot,16,ground,55,95
+537,16,Mud Shot,16,ground,55,95
+537,11,Aqua Ring,20,water,-,-
+537,14,Aqua Ring,20,water,-,-
+537,15,Aqua Ring,20,water,-,-
+537,16,Aqua Ring,20,water,-,-
+537,11,Uproar,23,normal,90,100
+537,14,Uproar,23,normal,90,100
+537,15,Uproar,23,normal,90,100
+537,16,Uproar,23,normal,90,100
+537,11,Muddy Water,28,water,90,85
+537,14,Muddy Water,28,water,90,85
+537,15,Muddy Water,28,water,90,85
+537,16,Muddy Water,28,water,90,85
+537,11,Rain Dance,33,water,-,-
+537,14,Rain Dance,33,water,-,-
+537,15,Rain Dance,33,water,-,-
+537,16,Rain Dance,33,water,-,-
+537,11,Acid,36,poison,40,100
+537,14,Acid,36,poison,40,100
+537,15,Acid,36,poison,40,100
+537,16,Acid,36,poison,40,100
+537,11,Flail,39,normal,-,100
+537,14,Flail,39,normal,-,100
+537,15,Flail,39,normal,-,100
+537,16,Flail,39,normal,-,100
+537,11,Drain Punch,44,fighting,75,100
+537,14,Drain Punch,44,fighting,75,100
+537,15,Drain Punch,44,fighting,75,100
+537,16,Drain Punch,44,fighting,75,100
+537,11,Echoed Voice,49,normal,40,100
+537,14,Echoed Voice,49,normal,40,100
+537,15,Echoed Voice,49,normal,40,100
+537,16,Echoed Voice,49,normal,40,100
+537,11,Hydro Pump,53,water,110,80
+537,14,Hydro Pump,53,water,110,80
+537,15,Hydro Pump,53,water,110,80
+537,16,Hydro Pump,53,water,110,80
+537,11,Hyper Voice,59,normal,90,100
+537,14,Hyper Voice,59,normal,90,100
+537,15,Hyper Voice,59,normal,90,100
+537,16,Hyper Voice,59,normal,90,100

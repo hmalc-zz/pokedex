@@ -1,0 +1,134 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+255,5,Scratch,1,normal,40,100
+255,5,Growl,1,normal,-,100
+255,6,Scratch,1,normal,40,100
+255,6,Growl,1,normal,-,100
+255,7,Scratch,1,normal,40,100
+255,7,Growl,1,normal,-,100
+255,8,Scratch,1,normal,40,100
+255,8,Growl,1,normal,-,100
+255,9,Scratch,1,normal,40,100
+255,9,Growl,1,normal,-,100
+255,10,Scratch,1,normal,40,100
+255,10,Growl,1,normal,-,100
+255,11,Scratch,1,normal,40,100
+255,11,Growl,1,normal,-,100
+255,12,Scratch,1,normal,40,100
+255,12,Growl,1,normal,-,100
+255,13,Scratch,1,normal,40,100
+255,13,Growl,1,normal,-,100
+255,14,Scratch,1,normal,40,100
+255,14,Growl,1,normal,-,100
+255,15,Scratch,1,normal,40,100
+255,15,Growl,1,normal,-,100
+255,16,Scratch,1,normal,40,100
+255,16,Growl,1,normal,-,100
+255,16,Ember,5,fire,40,100
+255,5,Focus Energy,7,normal,-,-
+255,6,Focus Energy,7,normal,-,-
+255,7,Focus Energy,7,normal,-,-
+255,8,Focus Energy,7,normal,-,-
+255,9,Focus Energy,7,normal,-,-
+255,10,Focus Energy,7,normal,-,-
+255,11,Focus Energy,7,normal,-,-
+255,12,Focus Energy,7,normal,-,-
+255,13,Focus Energy,7,normal,-,-
+255,14,Focus Energy,7,normal,-,-
+255,15,Focus Energy,7,normal,-,-
+255,5,Ember,10,fire,40,100
+255,6,Ember,10,fire,40,100
+255,7,Ember,10,fire,40,100
+255,8,Ember,10,fire,40,100
+255,9,Ember,10,fire,40,100
+255,10,Ember,10,fire,40,100
+255,11,Ember,10,fire,40,100
+255,12,Ember,10,fire,40,100
+255,13,Ember,10,fire,40,100
+255,14,Ember,10,fire,40,100
+255,15,Ember,10,fire,40,100
+255,16,Sand Attack,10,ground,-,100
+255,16,Peck,14,flying,35,100
+255,5,Peck,16,flying,35,100
+255,6,Peck,16,flying,35,100
+255,7,Peck,16,flying,35,100
+255,8,Peck,16,flying,35,100
+255,9,Peck,16,flying,35,100
+255,10,Peck,16,flying,35,100
+255,11,Peck,16,flying,35,100
+255,12,Peck,16,flying,35,100
+255,13,Peck,16,flying,35,100
+255,14,Peck,16,flying,35,100
+255,15,Peck,16,flying,35,100
+255,5,Sand Attack,19,ground,-,100
+255,6,Sand Attack,19,ground,-,100
+255,7,Sand Attack,19,ground,-,100
+255,8,Sand Attack,19,ground,-,100
+255,9,Sand Attack,19,ground,-,100
+255,10,Sand Attack,19,ground,-,100
+255,11,Sand Attack,19,ground,-,100
+255,12,Sand Attack,19,ground,-,100
+255,13,Sand Attack,19,ground,-,100
+255,14,Sand Attack,19,ground,-,100
+255,15,Sand Attack,19,ground,-,100
+255,16,Fire Spin,19,fire,35,85
+255,16,Quick Attack,23,normal,40,100
+255,5,Fire Spin,25,fire,35,85
+255,6,Fire Spin,25,fire,35,85
+255,7,Fire Spin,25,fire,35,85
+255,8,Fire Spin,25,fire,35,85
+255,9,Fire Spin,25,fire,35,85
+255,10,Fire Spin,25,fire,35,85
+255,11,Fire Spin,25,fire,35,85
+255,12,Fire Spin,25,fire,35,85
+255,13,Fire Spin,25,fire,35,85
+255,14,Fire Spin,25,fire,35,85
+255,15,Fire Spin,25,fire,35,85
+255,5,Quick Attack,28,normal,40,100
+255,6,Quick Attack,28,normal,40,100
+255,7,Quick Attack,28,normal,40,100
+255,8,Quick Attack,28,normal,40,100
+255,9,Quick Attack,28,normal,40,100
+255,10,Quick Attack,28,normal,40,100
+255,11,Quick Attack,28,normal,40,100
+255,12,Quick Attack,28,normal,40,100
+255,13,Quick Attack,28,normal,40,100
+255,14,Quick Attack,28,normal,40,100
+255,15,Quick Attack,28,normal,40,100
+255,16,Flame Burst,28,fire,70,100
+255,16,Focus Energy,32,normal,-,-
+255,5,Slash,34,normal,70,100
+255,6,Slash,34,normal,70,100
+255,7,Slash,34,normal,70,100
+255,8,Slash,34,normal,70,100
+255,9,Slash,34,normal,70,100
+255,10,Slash,34,normal,70,100
+255,11,Slash,34,normal,70,100
+255,12,Slash,34,normal,70,100
+255,13,Slash,34,normal,70,100
+255,14,Slash,34,normal,70,100
+255,15,Slash,34,normal,70,100
+255,5,Mirror Move,37,flying,-,-
+255,6,Mirror Move,37,flying,-,-
+255,7,Mirror Move,37,flying,-,-
+255,8,Mirror Move,37,flying,-,-
+255,9,Mirror Move,37,flying,-,-
+255,10,Mirror Move,37,flying,-,-
+255,11,Mirror Move,37,flying,-,-
+255,12,Mirror Move,37,flying,-,-
+255,13,Mirror Move,37,flying,-,-
+255,14,Mirror Move,37,flying,-,-
+255,15,Mirror Move,37,flying,-,-
+255,16,Slash,37,normal,70,100
+255,16,Mirror Move,41,flying,-,-
+255,5,Flamethrower,43,fire,90,100
+255,6,Flamethrower,43,fire,90,100
+255,7,Flamethrower,43,fire,90,100
+255,8,Flamethrower,43,fire,90,100
+255,9,Flamethrower,43,fire,90,100
+255,10,Flamethrower,43,fire,90,100
+255,11,Flamethrower,43,fire,90,100
+255,12,Flamethrower,43,fire,90,100
+255,13,Flamethrower,43,fire,90,100
+255,14,Flamethrower,43,fire,90,100
+255,15,Flamethrower,43,fire,90,100
+255,16,Flamethrower,46,fire,90,100

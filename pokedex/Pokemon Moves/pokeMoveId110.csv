@@ -1,0 +1,210 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+110,1,Tackle,1,normal,50,100
+110,1,Smog,1,poison,30,70
+110,1,Sludge,1,poison,65,100
+110,2,Tackle,1,normal,50,100
+110,2,Smog,1,poison,30,70
+110,2,Sludge,1,poison,65,100
+110,3,Tackle,1,normal,50,100
+110,3,Self-Destruct,1,normal,200,100
+110,3,Smog,1,poison,30,70
+110,3,Poison Gas,1,poison,-,90
+110,4,Tackle,1,normal,50,100
+110,4,Self-Destruct,1,normal,200,100
+110,4,Smog,1,poison,30,70
+110,4,Poison Gas,1,poison,-,90
+110,5,Tackle,1,normal,50,100
+110,5,Self-Destruct,1,normal,200,100
+110,5,Smog,1,poison,30,70
+110,5,Poison Gas,1,poison,-,90
+110,6,Tackle,1,normal,50,100
+110,6,Self-Destruct,1,normal,200,100
+110,6,Smog,1,poison,30,70
+110,6,Poison Gas,1,poison,-,90
+110,7,Tackle,1,normal,50,100
+110,7,Self-Destruct,1,normal,200,100
+110,7,Smog,1,poison,30,70
+110,7,Poison Gas,1,poison,-,90
+110,8,Tackle,1,normal,50,100
+110,8,Smokescreen,1,normal,-,100
+110,8,Smog,1,poison,30,70
+110,8,Poison Gas,1,poison,-,90
+110,9,Tackle,1,normal,50,100
+110,9,Smokescreen,1,normal,-,100
+110,9,Smog,1,poison,30,70
+110,9,Poison Gas,1,poison,-,90
+110,10,Tackle,1,normal,50,100
+110,10,Smokescreen,1,normal,-,100
+110,10,Smog,1,poison,30,70
+110,10,Poison Gas,1,poison,-,90
+110,11,Tackle,1,normal,50,100
+110,11,Smokescreen,1,normal,-,100
+110,11,Smog,1,poison,30,70
+110,11,Poison Gas,1,poison,-,90
+110,12,Tackle,1,normal,50,100
+110,12,Self-Destruct,1,normal,200,100
+110,12,Smog,1,poison,30,70
+110,12,Poison Gas,1,poison,-,90
+110,13,Tackle,1,normal,50,100
+110,13,Self-Destruct,1,normal,200,100
+110,13,Smog,1,poison,30,70
+110,13,Poison Gas,1,poison,-,90
+110,14,Tackle,1,normal,50,100
+110,14,Smokescreen,1,normal,-,100
+110,14,Smog,1,poison,30,70
+110,14,Poison Gas,1,poison,-,90
+110,15,Tackle,1,normal,50,100
+110,15,Smokescreen,1,normal,-,100
+110,15,Smog,1,poison,30,70
+110,15,Poison Gas,1,poison,-,90
+110,16,Tackle,1,normal,50,100
+110,16,Smokescreen,1,normal,-,100
+110,16,Smog,1,poison,30,70
+110,16,Poison Gas,1,poison,-,90
+110,14,Smog,4,poison,30,70
+110,15,Smog,4,poison,30,70
+110,16,Smog,4,poison,30,70
+110,8,Smog,6,poison,30,70
+110,9,Smog,6,poison,30,70
+110,10,Smog,6,poison,30,70
+110,11,Smog,6,poison,30,70
+110,14,Smokescreen,7,normal,-,100
+110,15,Smokescreen,7,normal,-,100
+110,16,Smokescreen,7,normal,-,100
+110,3,Smog,9,poison,30,70
+110,4,Smog,9,poison,30,70
+110,5,Smog,9,poison,30,70
+110,6,Smog,9,poison,30,70
+110,7,Smog,9,poison,30,70
+110,12,Smog,9,poison,30,70
+110,13,Smog,9,poison,30,70
+110,8,Smokescreen,10,normal,-,100
+110,9,Smokescreen,10,normal,-,100
+110,10,Smokescreen,10,normal,-,100
+110,11,Smokescreen,10,normal,-,100
+110,14,Assurance,12,dark,60,100
+110,15,Assurance,12,dark,60,100
+110,16,Assurance,12,dark,60,100
+110,8,Assurance,15,dark,60,100
+110,9,Assurance,15,dark,60,100
+110,10,Assurance,15,dark,60,100
+110,11,Assurance,15,dark,60,100
+110,14,Clear Smog,15,poison,50,-
+110,15,Clear Smog,15,poison,50,-
+110,16,Clear Smog,15,poison,50,-
+110,3,Self-Destruct,17,normal,200,100
+110,4,Self-Destruct,17,normal,200,100
+110,5,Self-Destruct,17,normal,200,100
+110,6,Self-Destruct,17,normal,200,100
+110,7,Self-Destruct,17,normal,200,100
+110,12,Self-Destruct,17,normal,200,100
+110,13,Self-Destruct,17,normal,200,100
+110,14,Sludge,18,poison,65,100
+110,15,Sludge,18,poison,65,100
+110,16,Sludge,18,poison,65,100
+110,8,Self-Destruct,19,normal,200,100
+110,9,Self-Destruct,19,normal,200,100
+110,10,Self-Destruct,19,normal,200,100
+110,11,Clear Smog,19,poison,50,-
+110,3,Sludge,21,poison,65,100
+110,4,Sludge,21,poison,65,100
+110,5,Sludge,21,poison,65,100
+110,6,Sludge,21,poison,65,100
+110,7,Sludge,21,poison,65,100
+110,12,Sludge,21,poison,65,100
+110,13,Sludge,21,poison,65,100
+110,14,Self-Destruct,23,normal,200,100
+110,15,Self-Destruct,23,normal,200,100
+110,16,Self-Destruct,23,normal,200,100
+110,8,Sludge,24,poison,65,100
+110,9,Sludge,24,poison,65,100
+110,10,Sludge,24,poison,65,100
+110,11,Self-Destruct,24,normal,200,100
+110,3,Smokescreen,25,normal,-,100
+110,4,Smokescreen,25,normal,-,100
+110,5,Smokescreen,25,normal,-,100
+110,6,Smokescreen,25,normal,-,100
+110,7,Smokescreen,25,normal,-,100
+110,12,Smokescreen,25,normal,-,100
+110,13,Smokescreen,25,normal,-,100
+110,14,Haze,26,ice,-,-
+110,15,Haze,26,ice,-,-
+110,16,Haze,26,ice,-,-
+110,8,Haze,28,ice,-,-
+110,9,Haze,28,ice,-,-
+110,10,Haze,28,ice,-,-
+110,11,Sludge,28,poison,65,100
+110,14,Double Hit,29,normal,35,90
+110,15,Double Hit,29,normal,35,90
+110,16,Double Hit,29,normal,35,90
+110,1,Sludge,32,poison,65,100
+110,2,Sludge,32,poison,65,100
+110,3,Haze,33,ice,-,-
+110,4,Haze,33,ice,-,-
+110,5,Haze,33,ice,-,-
+110,6,Haze,33,ice,-,-
+110,7,Haze,33,ice,-,-
+110,8,Double Hit,33,normal,35,90
+110,9,Double Hit,33,normal,35,90
+110,10,Double Hit,33,normal,35,90
+110,11,Haze,33,ice,-,-
+110,12,Haze,33,ice,-,-
+110,13,Haze,33,ice,-,-
+110,14,Sludge Bomb,34,poison,90,100
+110,15,Sludge Bomb,34,poison,90,100
+110,16,Sludge Bomb,34,poison,90,100
+110,1,Smokescreen,39,normal,-,100
+110,2,Smokescreen,39,normal,-,100
+110,11,Double Hit,39,normal,35,90
+110,8,Explosion,40,normal,250,100
+110,9,Explosion,40,normal,250,100
+110,10,Explosion,40,normal,250,100
+110,14,Explosion,40,normal,250,100
+110,15,Explosion,40,normal,250,100
+110,16,Explosion,40,normal,250,100
+110,1,Self-Destruct,43,normal,200,100
+110,2,Self-Destruct,43,normal,200,100
+110,3,Explosion,44,normal,250,100
+110,4,Explosion,44,normal,250,100
+110,5,Explosion,44,normal,250,100
+110,6,Explosion,44,normal,250,100
+110,7,Explosion,44,normal,250,100
+110,12,Explosion,44,normal,250,100
+110,13,Explosion,44,normal,250,100
+110,11,Explosion,46,normal,250,100
+110,14,Destiny Bond,46,ghost,-,-
+110,15,Destiny Bond,46,ghost,-,-
+110,16,Destiny Bond,46,ghost,-,-
+110,8,Sludge Bomb,48,poison,90,100
+110,9,Sludge Bomb,48,poison,90,100
+110,10,Sludge Bomb,48,poison,90,100
+110,1,Haze,49,ice,-,-
+110,2,Haze,49,ice,-,-
+110,15,Belch,50,poison,120,90
+110,3,Destiny Bond,51,ghost,-,-
+110,4,Destiny Bond,51,ghost,-,-
+110,5,Destiny Bond,51,ghost,-,-
+110,6,Destiny Bond,51,ghost,-,-
+110,7,Destiny Bond,51,ghost,-,-
+110,12,Destiny Bond,51,ghost,-,-
+110,13,Destiny Bond,51,ghost,-,-
+110,16,Belch,51,poison,120,90
+110,11,Sludge Bomb,52,poison,90,100
+110,1,Explosion,53,normal,250,100
+110,2,Explosion,53,normal,250,100
+110,14,Memento,54,dark,-,100
+110,15,Memento,54,dark,-,100
+110,8,Destiny Bond,55,ghost,-,-
+110,9,Destiny Bond,55,ghost,-,-
+110,10,Destiny Bond,55,ghost,-,-
+110,16,Memento,57,dark,-,100
+110,5,Memento,58,dark,-,100
+110,6,Memento,58,dark,-,100
+110,7,Memento,58,dark,-,100
+110,12,Memento,58,dark,-,100
+110,13,Memento,58,dark,-,100
+110,11,Destiny Bond,59,ghost,-,-
+110,8,Memento,63,dark,-,100
+110,9,Memento,63,dark,-,100
+110,10,Memento,63,dark,-,100
+110,11,Memento,65,dark,-,100

@@ -1,0 +1,184 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+237,3,Rolling Kick,1,fighting,60,85
+237,4,Rolling Kick,1,fighting,60,85
+237,5,Rolling Kick,1,fighting,60,85
+237,5,Revenge,1,fighting,60,100
+237,6,Rolling Kick,1,fighting,60,85
+237,6,Revenge,1,fighting,60,100
+237,7,Rolling Kick,1,fighting,60,85
+237,7,Revenge,1,fighting,60,100
+237,8,Rolling Kick,1,fighting,60,85
+237,8,Revenge,1,fighting,60,100
+237,9,Rolling Kick,1,fighting,60,85
+237,9,Revenge,1,fighting,60,100
+237,10,Rolling Kick,1,fighting,60,85
+237,10,Revenge,1,fighting,60,100
+237,11,Rolling Kick,1,fighting,60,85
+237,11,Revenge,1,fighting,60,100
+237,12,Rolling Kick,1,fighting,60,85
+237,12,Revenge,1,fighting,60,100
+237,13,Rolling Kick,1,fighting,60,85
+237,13,Revenge,1,fighting,60,100
+237,14,Rolling Kick,1,fighting,60,85
+237,14,Revenge,1,fighting,60,100
+237,15,Rolling Kick,1,fighting,60,85
+237,15,Revenge,1,fighting,60,100
+237,15,Endeavor,1,normal,-,100
+237,15,Close Combat,1,fighting,120,100
+237,16,Rolling Kick,1,fighting,60,85
+237,16,Revenge,1,fighting,60,100
+237,16,Endeavor,1,normal,-,100
+237,16,Close Combat,1,fighting,120,100
+237,8,Focus Energy,6,normal,-,-
+237,9,Focus Energy,6,normal,-,-
+237,10,Focus Energy,6,normal,-,-
+237,11,Focus Energy,6,normal,-,-
+237,14,Focus Energy,6,normal,-,-
+237,15,Focus Energy,6,normal,-,-
+237,16,Focus Energy,6,normal,-,-
+237,3,Focus Energy,7,normal,-,-
+237,4,Focus Energy,7,normal,-,-
+237,5,Focus Energy,7,normal,-,-
+237,6,Focus Energy,7,normal,-,-
+237,7,Focus Energy,7,normal,-,-
+237,12,Focus Energy,7,normal,-,-
+237,13,Focus Energy,7,normal,-,-
+237,8,Pursuit,10,dark,40,100
+237,9,Pursuit,10,dark,40,100
+237,10,Pursuit,10,dark,40,100
+237,11,Pursuit,10,dark,40,100
+237,14,Pursuit,10,dark,40,100
+237,15,Pursuit,10,dark,40,100
+237,16,Pursuit,10,dark,40,100
+237,3,Pursuit,13,dark,40,100
+237,4,Pursuit,13,dark,40,100
+237,5,Pursuit,13,dark,40,100
+237,6,Pursuit,13,dark,40,100
+237,7,Pursuit,13,dark,40,100
+237,12,Pursuit,13,dark,40,100
+237,13,Pursuit,13,dark,40,100
+237,8,Quick Attack,15,normal,40,100
+237,9,Quick Attack,15,normal,40,100
+237,10,Quick Attack,15,normal,40,100
+237,11,Quick Attack,15,normal,40,100
+237,14,Quick Attack,15,normal,40,100
+237,15,Quick Attack,15,normal,40,100
+237,16,Quick Attack,15,normal,40,100
+237,3,Quick Attack,19,normal,40,100
+237,4,Quick Attack,19,normal,40,100
+237,5,Quick Attack,19,normal,40,100
+237,6,Quick Attack,19,normal,40,100
+237,7,Quick Attack,19,normal,40,100
+237,8,Triple Kick,19,fighting,10,90
+237,9,Triple Kick,19,fighting,10,90
+237,10,Triple Kick,19,fighting,10,90
+237,11,Triple Kick,19,fighting,10,90
+237,12,Quick Attack,19,normal,40,100
+237,13,Quick Attack,19,normal,40,100
+237,14,Triple Kick,19,fighting,10,90
+237,15,Triple Kick,19,fighting,10,90
+237,16,Triple Kick,19,fighting,10,90
+237,5,Triple Kick,20,fighting,10,90
+237,6,Triple Kick,20,fighting,10,90
+237,7,Triple Kick,20,fighting,10,90
+237,12,Triple Kick,20,fighting,10,90
+237,13,Triple Kick,20,fighting,10,90
+237,8,Rapid Spin,24,normal,20,100
+237,9,Rapid Spin,24,normal,20,100
+237,10,Rapid Spin,24,normal,20,100
+237,11,Rapid Spin,24,normal,20,100
+237,14,Rapid Spin,24,normal,20,100
+237,15,Rapid Spin,24,normal,20,100
+237,16,Rapid Spin,24,normal,20,100
+237,3,Rapid Spin,25,normal,20,100
+237,4,Rapid Spin,25,normal,20,100
+237,5,Rapid Spin,25,normal,20,100
+237,6,Rapid Spin,25,normal,20,100
+237,7,Rapid Spin,25,normal,20,100
+237,12,Rapid Spin,25,normal,20,100
+237,13,Rapid Spin,25,normal,20,100
+237,8,Counter,28,fighting,-,100
+237,9,Counter,28,fighting,-,100
+237,10,Counter,28,fighting,-,100
+237,11,Counter,28,fighting,-,100
+237,14,Counter,28,fighting,-,100
+237,15,Counter,28,fighting,-,100
+237,16,Counter,28,fighting,-,100
+237,3,Counter,31,fighting,-,100
+237,4,Counter,31,fighting,-,100
+237,5,Counter,31,fighting,-,100
+237,6,Counter,31,fighting,-,100
+237,7,Counter,31,fighting,-,100
+237,12,Counter,31,fighting,-,100
+237,13,Counter,31,fighting,-,100
+237,8,Feint,33,normal,30,100
+237,9,Feint,33,normal,30,100
+237,10,Feint,33,normal,30,100
+237,11,Feint,33,normal,30,100
+237,14,Feint,33,normal,30,100
+237,15,Feint,33,normal,30,100
+237,16,Feint,33,normal,30,100
+237,3,Agility,37,psychic,-,-
+237,4,Agility,37,psychic,-,-
+237,5,Agility,37,psychic,-,-
+237,6,Agility,37,psychic,-,-
+237,7,Agility,37,psychic,-,-
+237,8,Agility,37,psychic,-,-
+237,9,Agility,37,psychic,-,-
+237,10,Agility,37,psychic,-,-
+237,11,Agility,37,psychic,-,-
+237,12,Agility,37,psychic,-,-
+237,13,Agility,37,psychic,-,-
+237,14,Agility,37,psychic,-,-
+237,15,Agility,37,psychic,-,-
+237,16,Agility,37,psychic,-,-
+237,8,Gyro Ball,42,steel,-,100
+237,9,Gyro Ball,42,steel,-,100
+237,10,Gyro Ball,42,steel,-,100
+237,11,Gyro Ball,42,steel,-,100
+237,14,Gyro Ball,42,steel,-,100
+237,15,Gyro Ball,42,steel,-,100
+237,16,Gyro Ball,42,steel,-,100
+237,3,Detect,43,fighting,-,-
+237,4,Detect,43,fighting,-,-
+237,5,Detect,43,fighting,-,-
+237,6,Detect,43,fighting,-,-
+237,7,Detect,43,fighting,-,-
+237,12,Detect,43,fighting,-,-
+237,13,Detect,43,fighting,-,-
+237,8,Detect,46,fighting,-,-
+237,9,Detect,46,fighting,-,-
+237,10,Detect,46,fighting,-,-
+237,11,Wide Guard,46,rock,-,-
+237,11,Quick Guard,46,fighting,-,-
+237,14,Wide Guard,46,rock,-,-
+237,14,Quick Guard,46,fighting,-,-
+237,15,Wide Guard,46,rock,-,-
+237,15,Quick Guard,46,fighting,-,-
+237,16,Wide Guard,46,rock,-,-
+237,16,Quick Guard,46,fighting,-,-
+237,3,Triple Kick,49,fighting,10,90
+237,4,Triple Kick,49,fighting,10,90
+237,5,Endeavor,49,normal,-,100
+237,6,Endeavor,49,normal,-,100
+237,7,Endeavor,49,normal,-,100
+237,12,Endeavor,49,normal,-,100
+237,13,Endeavor,49,normal,-,100
+237,15,Detect,50,fighting,-,-
+237,16,Detect,50,fighting,-,-
+237,8,Close Combat,51,fighting,120,100
+237,9,Close Combat,51,fighting,120,100
+237,10,Close Combat,51,fighting,120,100
+237,11,Detect,51,fighting,-,-
+237,14,Detect,51,fighting,-,-
+237,8,Endeavor,55,normal,-,100
+237,9,Endeavor,55,normal,-,100
+237,10,Endeavor,55,normal,-,100
+237,11,Close Combat,55,fighting,120,100
+237,14,Close Combat,55,fighting,120,100
+237,15,Close Combat,55,fighting,120,100
+237,16,Close Combat,55,fighting,120,100
+237,11,Endeavor,60,normal,-,100
+237,14,Endeavor,60,normal,-,100
+237,15,Endeavor,60,normal,-,100
+237,16,Endeavor,60,normal,-,100

@@ -1,0 +1,185 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+185,3,Rock Throw,1,rock,50,90
+185,3,Mimic,1,normal,-,-
+185,4,Rock Throw,1,rock,50,90
+185,4,Mimic,1,normal,-,-
+185,5,Rock Throw,1,rock,50,90
+185,5,Mimic,1,normal,-,-
+185,6,Rock Throw,1,rock,50,90
+185,6,Mimic,1,normal,-,-
+185,7,Rock Throw,1,rock,50,90
+185,7,Mimic,1,normal,-,-
+185,8,Low Kick,1,fighting,-,100
+185,8,Rock Throw,1,rock,50,90
+185,8,Flail,1,normal,-,100
+185,8,Copycat,1,normal,-,-
+185,8,Wood Hammer,1,grass,120,100
+185,9,Low Kick,1,fighting,-,100
+185,9,Rock Throw,1,rock,50,90
+185,9,Flail,1,normal,-,100
+185,9,Copycat,1,normal,-,-
+185,9,Wood Hammer,1,grass,120,100
+185,10,Low Kick,1,fighting,-,100
+185,10,Rock Throw,1,rock,50,90
+185,10,Flail,1,normal,-,100
+185,10,Copycat,1,normal,-,-
+185,10,Wood Hammer,1,grass,120,100
+185,11,Low Kick,1,fighting,-,100
+185,11,Rock Throw,1,rock,50,90
+185,11,Flail,1,normal,-,100
+185,11,Copycat,1,normal,-,-
+185,11,Wood Hammer,1,grass,120,100
+185,12,Rock Throw,1,rock,50,90
+185,12,Mimic,1,normal,-,-
+185,13,Rock Throw,1,rock,50,90
+185,13,Mimic,1,normal,-,-
+185,14,Low Kick,1,fighting,-,100
+185,14,Rock Throw,1,rock,50,90
+185,14,Flail,1,normal,-,100
+185,14,Copycat,1,normal,-,-
+185,14,Wood Hammer,1,grass,120,100
+185,15,Low Kick,1,fighting,-,100
+185,15,Rock Throw,1,rock,50,90
+185,15,Flail,1,normal,-,100
+185,15,Copycat,1,normal,-,-
+185,15,Wood Hammer,1,grass,120,100
+185,16,Low Kick,1,fighting,-,100
+185,16,Rock Throw,1,rock,50,90
+185,16,Flail,1,normal,-,100
+185,16,Copycat,1,normal,-,-
+185,16,Wood Hammer,1,grass,120,100
+185,14,Flail,5,normal,-,100
+185,15,Flail,5,normal,-,100
+185,16,Flail,5,normal,-,100
+185,8,Flail,6,normal,-,100
+185,9,Flail,6,normal,-,100
+185,10,Flail,6,normal,-,100
+185,11,Flail,6,normal,-,100
+185,14,Low Kick,8,fighting,-,100
+185,15,Low Kick,8,fighting,-,100
+185,16,Low Kick,8,fighting,-,100
+185,5,Flail,9,normal,-,100
+185,6,Flail,9,normal,-,100
+185,7,Flail,9,normal,-,100
+185,8,Low Kick,9,fighting,-,100
+185,9,Low Kick,9,fighting,-,100
+185,10,Low Kick,9,fighting,-,100
+185,11,Low Kick,9,fighting,-,100
+185,12,Flail,9,normal,-,100
+185,13,Flail,9,normal,-,100
+185,3,Flail,10,normal,-,100
+185,4,Flail,10,normal,-,100
+185,14,Rock Throw,12,rock,50,90
+185,15,Rock Throw,12,rock,50,90
+185,16,Rock Throw,12,rock,50,90
+185,8,Rock Throw,14,rock,50,90
+185,9,Rock Throw,14,rock,50,90
+185,10,Rock Throw,14,rock,50,90
+185,11,Rock Throw,14,rock,50,90
+185,14,Slam,15,normal,80,75
+185,14,Mimic,15,normal,-,-
+185,15,Slam,15,normal,80,75
+185,15,Mimic,15,normal,-,-
+185,16,Slam,15,normal,80,75
+185,16,Mimic,15,normal,-,-
+185,5,Low Kick,17,fighting,-,100
+185,6,Low Kick,17,fighting,-,100
+185,7,Low Kick,17,fighting,-,100
+185,8,Mimic,17,normal,-,-
+185,9,Mimic,17,normal,-,-
+185,10,Mimic,17,normal,-,-
+185,11,Mimic,17,normal,-,-
+185,12,Low Kick,17,fighting,-,100
+185,13,Low Kick,17,fighting,-,100
+185,3,Low Kick,19,fighting,-,100
+185,4,Low Kick,19,fighting,-,100
+185,14,Feint Attack,19,dark,60,-
+185,15,Feint Attack,19,dark,60,-
+185,16,Feint Attack,19,dark,60,-
+185,8,Block,22,normal,-,-
+185,9,Block,22,normal,-,-
+185,10,Block,22,normal,-,-
+185,11,Block,22,normal,-,-
+185,14,Rock Tomb,22,rock,60,95
+185,15,Rock Tomb,22,rock,60,95
+185,16,Rock Tomb,22,rock,60,95
+185,5,Rock Slide,25,rock,75,90
+185,6,Rock Slide,25,rock,75,90
+185,7,Rock Slide,25,rock,75,90
+185,8,Feint Attack,25,dark,60,-
+185,9,Feint Attack,25,dark,60,-
+185,10,Feint Attack,25,dark,60,-
+185,11,Feint Attack,25,dark,60,-
+185,12,Rock Slide,25,rock,75,90
+185,13,Rock Slide,25,rock,75,90
+185,14,Block,26,normal,-,-
+185,15,Block,26,normal,-,-
+185,16,Block,26,normal,-,-
+185,3,Rock Slide,28,rock,75,90
+185,4,Rock Slide,28,rock,75,90
+185,14,Rock Slide,29,rock,75,90
+185,15,Rock Slide,29,rock,75,90
+185,16,Rock Slide,29,rock,75,90
+185,8,Rock Tomb,30,rock,60,95
+185,9,Rock Tomb,30,rock,60,95
+185,10,Rock Tomb,30,rock,60,95
+185,11,Rock Tomb,30,rock,60,95
+185,5,Block,33,normal,-,-
+185,6,Block,33,normal,-,-
+185,7,Block,33,normal,-,-
+185,8,Rock Slide,33,rock,75,90
+185,9,Rock Slide,33,rock,75,90
+185,10,Rock Slide,33,rock,75,90
+185,11,Rock Slide,33,rock,75,90
+185,12,Block,33,normal,-,-
+185,13,Block,33,normal,-,-
+185,14,Counter,33,fighting,-,100
+185,15,Counter,33,fighting,-,100
+185,16,Counter,33,fighting,-,100
+185,14,Sucker Punch,36,dark,80,100
+185,15,Sucker Punch,36,dark,80,100
+185,16,Sucker Punch,36,dark,80,100
+185,3,Feint Attack,37,dark,60,-
+185,4,Feint Attack,37,dark,60,-
+185,8,Slam,38,normal,80,75
+185,9,Slam,38,normal,80,75
+185,10,Slam,38,normal,80,75
+185,11,Slam,38,normal,80,75
+185,14,Double-Edge,40,normal,120,100
+185,15,Double-Edge,40,normal,120,100
+185,16,Double-Edge,40,normal,120,100
+185,5,Feint Attack,41,dark,60,-
+185,6,Feint Attack,41,dark,60,-
+185,7,Feint Attack,41,dark,60,-
+185,8,Sucker Punch,41,dark,80,100
+185,9,Sucker Punch,41,dark,80,100
+185,10,Sucker Punch,41,dark,80,100
+185,11,Sucker Punch,41,dark,80,100
+185,12,Feint Attack,41,dark,60,-
+185,13,Feint Attack,41,dark,60,-
+185,14,Stone Edge,43,rock,100,80
+185,15,Stone Edge,43,rock,100,80
+185,16,Stone Edge,43,rock,100,80
+185,3,Slam,46,normal,80,75
+185,4,Slam,46,normal,80,75
+185,8,Double-Edge,46,normal,120,100
+185,9,Double-Edge,46,normal,120,100
+185,10,Double-Edge,46,normal,120,100
+185,11,Double-Edge,46,normal,120,100
+185,14,Hammer Arm,47,fighting,100,90
+185,15,Hammer Arm,47,fighting,100,90
+185,16,Hammer Arm,47,fighting,100,90
+185,5,Slam,49,normal,80,75
+185,6,Slam,49,normal,80,75
+185,7,Slam,49,normal,80,75
+185,8,Hammer Arm,49,fighting,100,90
+185,9,Hammer Arm,49,fighting,100,90
+185,10,Hammer Arm,49,fighting,100,90
+185,11,Hammer Arm,49,fighting,100,90
+185,12,Slam,49,normal,80,75
+185,13,Slam,49,normal,80,75
+185,5,Double-Edge,57,normal,120,100
+185,6,Double-Edge,57,normal,120,100
+185,7,Double-Edge,57,normal,120,100
+185,12,Double-Edge,57,normal,120,100
+185,13,Double-Edge,57,normal,120,100

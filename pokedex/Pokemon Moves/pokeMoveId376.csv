@@ -1,0 +1,181 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+376,5,Take Down,1,normal,90,85
+376,5,Confusion,1,psychic,50,100
+376,5,Scary Face,1,normal,-,100
+376,5,Metal Claw,1,steel,50,95
+376,6,Take Down,1,normal,90,85
+376,6,Confusion,1,psychic,50,100
+376,6,Scary Face,1,normal,-,100
+376,6,Metal Claw,1,steel,50,95
+376,7,Take Down,1,normal,90,85
+376,7,Confusion,1,psychic,50,100
+376,7,Scary Face,1,normal,-,100
+376,7,Metal Claw,1,steel,50,95
+376,8,Take Down,1,normal,90,85
+376,8,Confusion,1,psychic,50,100
+376,8,Metal Claw,1,steel,50,95
+376,8,Magnet Rise,1,electric,-,-
+376,9,Take Down,1,normal,90,85
+376,9,Confusion,1,psychic,50,100
+376,9,Metal Claw,1,steel,50,95
+376,9,Magnet Rise,1,electric,-,-
+376,10,Take Down,1,normal,90,85
+376,10,Confusion,1,psychic,50,100
+376,10,Metal Claw,1,steel,50,95
+376,10,Magnet Rise,1,electric,-,-
+376,11,Take Down,1,normal,90,85
+376,11,Confusion,1,psychic,50,100
+376,11,Metal Claw,1,steel,50,95
+376,11,Magnet Rise,1,electric,-,-
+376,12,Take Down,1,normal,90,85
+376,12,Confusion,1,psychic,50,100
+376,12,Scary Face,1,normal,-,100
+376,12,Metal Claw,1,steel,50,95
+376,13,Take Down,1,normal,90,85
+376,13,Confusion,1,psychic,50,100
+376,13,Scary Face,1,normal,-,100
+376,13,Metal Claw,1,steel,50,95
+376,14,Take Down,1,normal,90,85
+376,14,Confusion,1,psychic,50,100
+376,14,Metal Claw,1,steel,50,95
+376,14,Magnet Rise,1,electric,-,-
+376,15,Take Down,1,normal,90,85
+376,15,Confusion,1,psychic,50,100
+376,15,Metal Claw,1,steel,50,95
+376,15,Magnet Rise,1,electric,-,-
+376,16,Take Down,1,normal,90,85
+376,16,Confusion,1,psychic,50,100
+376,16,Metal Claw,1,steel,50,95
+376,16,Magnet Rise,1,electric,-,-
+376,5,Confusion,20,psychic,50,100
+376,5,Metal Claw,20,steel,50,95
+376,6,Confusion,20,psychic,50,100
+376,6,Metal Claw,20,steel,50,95
+376,7,Confusion,20,psychic,50,100
+376,7,Metal Claw,20,steel,50,95
+376,8,Confusion,20,psychic,50,100
+376,8,Metal Claw,20,steel,50,95
+376,9,Confusion,20,psychic,50,100
+376,9,Metal Claw,20,steel,50,95
+376,10,Confusion,20,psychic,50,100
+376,10,Metal Claw,20,steel,50,95
+376,11,Confusion,20,psychic,50,100
+376,11,Metal Claw,20,steel,50,95
+376,12,Confusion,20,psychic,50,100
+376,12,Metal Claw,20,steel,50,95
+376,13,Confusion,20,psychic,50,100
+376,13,Metal Claw,20,steel,50,95
+376,14,Confusion,20,psychic,50,100
+376,14,Metal Claw,20,steel,50,95
+376,15,Confusion,20,psychic,50,100
+376,15,Metal Claw,20,steel,50,95
+376,16,Confusion,20,psychic,50,100
+376,16,Metal Claw,20,steel,50,95
+376,14,Pursuit,23,dark,40,100
+376,15,Pursuit,23,dark,40,100
+376,16,Pursuit,23,dark,40,100
+376,8,Scary Face,24,normal,-,100
+376,9,Scary Face,24,normal,-,100
+376,10,Scary Face,24,normal,-,100
+376,11,Scary Face,24,normal,-,100
+376,5,Scary Face,26,normal,-,100
+376,6,Scary Face,26,normal,-,100
+376,7,Scary Face,26,normal,-,100
+376,12,Scary Face,26,normal,-,100
+376,13,Scary Face,26,normal,-,100
+376,14,Miracle Eye,26,psychic,-,-
+376,15,Miracle Eye,26,psychic,-,-
+376,16,Bullet Punch,26,steel,40,100
+376,8,Pursuit,28,dark,40,100
+376,9,Pursuit,28,dark,40,100
+376,10,Pursuit,28,dark,40,100
+376,11,Pursuit,28,dark,40,100
+376,14,Zen Headbutt,29,psychic,80,90
+376,15,Zen Headbutt,29,psychic,80,90
+376,16,Miracle Eye,29,psychic,-,-
+376,5,Pursuit,32,dark,40,100
+376,6,Pursuit,32,dark,40,100
+376,7,Pursuit,32,dark,40,100
+376,8,Bullet Punch,32,steel,40,100
+376,9,Bullet Punch,32,steel,40,100
+376,10,Bullet Punch,32,steel,40,100
+376,11,Bullet Punch,32,steel,40,100
+376,12,Pursuit,32,dark,40,100
+376,13,Pursuit,32,dark,40,100
+376,14,Bullet Punch,32,steel,40,100
+376,15,Bullet Punch,32,steel,40,100
+376,16,Zen Headbutt,32,psychic,80,90
+376,14,Scary Face,35,normal,-,100
+376,15,Scary Face,35,normal,-,100
+376,16,Scary Face,35,normal,-,100
+376,8,Psychic,36,psychic,90,100
+376,9,Psychic,36,psychic,90,100
+376,10,Psychic,36,psychic,90,100
+376,11,Psychic,36,psychic,90,100
+376,5,Psychic,38,psychic,90,100
+376,6,Psychic,38,psychic,90,100
+376,7,Psychic,38,psychic,90,100
+376,12,Psychic,38,psychic,90,100
+376,13,Psychic,38,psychic,90,100
+376,14,Agility,38,psychic,-,-
+376,15,Agility,38,psychic,-,-
+376,16,Psychic,38,psychic,90,100
+376,8,Iron Defense,40,steel,-,-
+376,9,Iron Defense,40,steel,-,-
+376,10,Iron Defense,40,steel,-,-
+376,11,Iron Defense,40,steel,-,-
+376,14,Psychic,41,psychic,90,100
+376,15,Psychic,41,psychic,90,100
+376,16,Agility,41,psychic,-,-
+376,5,Iron Defense,44,steel,-,-
+376,6,Iron Defense,44,steel,-,-
+376,7,Iron Defense,44,steel,-,-
+376,8,Agility,44,psychic,-,-
+376,9,Agility,44,psychic,-,-
+376,10,Agility,44,psychic,-,-
+376,11,Agility,44,psychic,-,-
+376,12,Iron Defense,44,steel,-,-
+376,13,Iron Defense,44,steel,-,-
+376,14,Meteor Mash,44,steel,90,90
+376,15,Meteor Mash,44,steel,90,90
+376,16,Meteor Mash,44,steel,90,90
+376,8,Hammer Arm,45,fighting,100,90
+376,9,Hammer Arm,45,fighting,100,90
+376,10,Hammer Arm,45,fighting,100,90
+376,11,Hammer Arm,45,fighting,100,90
+376,14,Hammer Arm,45,fighting,100,90
+376,15,Hammer Arm,45,fighting,100,90
+376,16,Hammer Arm,45,fighting,100,90
+376,16,Iron Defense,52,steel,-,-
+376,8,Meteor Mash,53,steel,90,90
+376,9,Meteor Mash,53,steel,90,90
+376,10,Meteor Mash,53,steel,90,90
+376,11,Meteor Mash,53,steel,90,90
+376,14,Iron Defense,53,steel,-,-
+376,15,Iron Defense,53,steel,-,-
+376,5,Meteor Mash,55,steel,90,90
+376,6,Meteor Mash,55,steel,90,90
+376,7,Meteor Mash,55,steel,90,90
+376,12,Meteor Mash,55,steel,90,90
+376,13,Meteor Mash,55,steel,90,90
+376,16,Hyper Beam,60,normal,150,90
+376,8,Zen Headbutt,62,psychic,80,90
+376,9,Zen Headbutt,62,psychic,80,90
+376,10,Zen Headbutt,62,psychic,80,90
+376,11,Zen Headbutt,62,psychic,80,90
+376,14,Hyper Beam,62,normal,150,90
+376,15,Hyper Beam,62,normal,150,90
+376,5,Agility,66,psychic,-,-
+376,6,Agility,66,psychic,-,-
+376,7,Agility,66,psychic,-,-
+376,12,Agility,66,psychic,-,-
+376,13,Agility,66,psychic,-,-
+376,8,Hyper Beam,71,normal,150,90
+376,9,Hyper Beam,71,normal,150,90
+376,10,Hyper Beam,71,normal,150,90
+376,11,Hyper Beam,71,normal,150,90
+376,5,Hyper Beam,77,normal,150,90
+376,6,Hyper Beam,77,normal,150,90
+376,7,Hyper Beam,77,normal,150,90
+376,12,Hyper Beam,77,normal,150,90
+376,13,Hyper Beam,77,normal,150,90

@@ -1,0 +1,207 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+139,1,Horn Attack,1,normal,65,100
+139,1,Water Gun,1,water,40,100
+139,1,Withdraw,1,water,-,-
+139,2,Horn Attack,1,normal,65,100
+139,2,Water Gun,1,water,40,100
+139,2,Withdraw,1,water,-,-
+139,3,Bite,1,dark,60,100
+139,3,Withdraw,1,water,-,-
+139,3,Constrict,1,normal,10,100
+139,4,Bite,1,dark,60,100
+139,4,Withdraw,1,water,-,-
+139,4,Constrict,1,normal,10,100
+139,5,Bite,1,dark,60,100
+139,5,Withdraw,1,water,-,-
+139,5,Constrict,1,normal,10,100
+139,6,Bite,1,dark,60,100
+139,6,Withdraw,1,water,-,-
+139,6,Constrict,1,normal,10,100
+139,7,Bite,1,dark,60,100
+139,7,Water Gun,1,water,40,100
+139,7,Withdraw,1,water,-,-
+139,7,Constrict,1,normal,10,100
+139,8,Bite,1,dark,60,100
+139,8,Withdraw,1,water,-,-
+139,8,Constrict,1,normal,10,100
+139,9,Bite,1,dark,60,100
+139,9,Withdraw,1,water,-,-
+139,9,Constrict,1,normal,10,100
+139,10,Bite,1,dark,60,100
+139,10,Withdraw,1,water,-,-
+139,10,Constrict,1,normal,10,100
+139,11,Bite,1,dark,60,100
+139,11,Withdraw,1,water,-,-
+139,11,Constrict,1,normal,10,100
+139,12,Bite,1,dark,60,100
+139,12,Withdraw,1,water,-,-
+139,12,Constrict,1,normal,10,100
+139,13,Bite,1,dark,60,100
+139,13,Withdraw,1,water,-,-
+139,13,Constrict,1,normal,10,100
+139,14,Bite,1,dark,60,100
+139,14,Withdraw,1,water,-,-
+139,14,Constrict,1,normal,10,100
+139,15,Bite,1,dark,60,100
+139,15,Hydro Pump,1,water,110,80
+139,15,Withdraw,1,water,-,-
+139,15,Constrict,1,normal,10,100
+139,16,Bite,1,dark,60,100
+139,16,Hydro Pump,1,water,110,80
+139,16,Withdraw,1,water,-,-
+139,16,Constrict,1,normal,10,100
+139,8,Bite,7,dark,60,100
+139,9,Bite,7,dark,60,100
+139,10,Bite,7,dark,60,100
+139,11,Bite,7,dark,60,100
+139,14,Bite,7,dark,60,100
+139,15,Bite,7,dark,60,100
+139,16,Bite,7,dark,60,100
+139,8,Water Gun,10,water,40,100
+139,9,Water Gun,10,water,40,100
+139,10,Water Gun,10,water,40,100
+139,11,Water Gun,10,water,40,100
+139,14,Water Gun,10,water,40,100
+139,15,Water Gun,10,water,40,100
+139,16,Water Gun,10,water,40,100
+139,3,Bite,13,dark,60,100
+139,4,Bite,13,dark,60,100
+139,5,Bite,13,dark,60,100
+139,6,Bite,13,dark,60,100
+139,7,Bite,13,dark,60,100
+139,12,Bite,13,dark,60,100
+139,13,Bite,13,dark,60,100
+139,8,Rollout,16,rock,30,90
+139,9,Rollout,16,rock,30,90
+139,10,Rollout,16,rock,30,90
+139,11,Rollout,16,rock,30,90
+139,14,Rollout,16,rock,30,90
+139,15,Rollout,16,rock,30,90
+139,16,Rollout,16,rock,30,90
+139,3,Water Gun,19,water,40,100
+139,4,Water Gun,19,water,40,100
+139,5,Water Gun,19,water,40,100
+139,6,Water Gun,19,water,40,100
+139,7,Water Gun,19,water,40,100
+139,8,Leer,19,normal,-,100
+139,9,Leer,19,normal,-,100
+139,10,Leer,19,normal,-,100
+139,11,Leer,19,normal,-,100
+139,12,Water Gun,19,water,40,100
+139,13,Water Gun,19,water,40,100
+139,14,Leer,19,normal,-,100
+139,15,Leer,19,normal,-,100
+139,16,Leer,19,normal,-,100
+139,5,Mud Shot,25,ground,55,95
+139,6,Mud Shot,25,ground,55,95
+139,7,Mud Shot,25,ground,55,95
+139,8,Mud Shot,25,ground,55,95
+139,9,Mud Shot,25,ground,55,95
+139,10,Mud Shot,25,ground,55,95
+139,11,Mud Shot,25,ground,55,95
+139,12,Mud Shot,25,ground,55,95
+139,13,Mud Shot,25,ground,55,95
+139,14,Mud Shot,25,ground,55,95
+139,15,Mud Shot,25,ground,55,95
+139,16,Mud Shot,25,ground,55,95
+139,8,Brine,28,water,65,100
+139,9,Brine,28,water,65,100
+139,10,Brine,28,water,65,100
+139,11,Brine,28,water,65,100
+139,14,Brine,28,water,65,100
+139,15,Brine,28,water,65,100
+139,16,Brine,28,water,65,100
+139,3,Leer,31,normal,-,100
+139,4,Leer,31,normal,-,100
+139,5,Leer,31,normal,-,100
+139,6,Leer,31,normal,-,100
+139,7,Leer,31,normal,-,100
+139,12,Leer,31,normal,-,100
+139,13,Leer,31,normal,-,100
+139,1,Horn Attack,34,normal,65,100
+139,2,Horn Attack,34,normal,65,100
+139,8,Protect,34,normal,-,-
+139,9,Protect,34,normal,-,-
+139,10,Protect,34,normal,-,-
+139,11,Protect,34,normal,-,-
+139,14,Protect,34,normal,-,-
+139,15,Protect,34,normal,-,-
+139,16,Protect,34,normal,-,-
+139,3,Protect,37,normal,-,-
+139,4,Protect,37,normal,-,-
+139,5,Protect,37,normal,-,-
+139,6,Protect,37,normal,-,-
+139,7,Protect,37,normal,-,-
+139,8,Ancient Power,37,rock,60,100
+139,9,Ancient Power,37,rock,60,100
+139,10,Ancient Power,37,rock,60,100
+139,11,Ancient Power,37,rock,60,100
+139,12,Protect,37,normal,-,-
+139,13,Protect,37,normal,-,-
+139,14,Ancient Power,37,rock,60,100
+139,15,Ancient Power,37,rock,60,100
+139,16,Ancient Power,37,rock,60,100
+139,1,Leer,39,normal,-,100
+139,2,Leer,39,normal,-,100
+139,3,Spike Cannon,40,normal,20,100
+139,4,Spike Cannon,40,normal,20,100
+139,5,Spike Cannon,40,normal,20,100
+139,6,Spike Cannon,40,normal,20,100
+139,7,Spike Cannon,40,normal,20,100
+139,8,Spike Cannon,40,normal,20,100
+139,9,Spike Cannon,40,normal,20,100
+139,10,Spike Cannon,40,normal,20,100
+139,11,Spike Cannon,40,normal,20,100
+139,12,Spike Cannon,40,normal,20,100
+139,13,Spike Cannon,40,normal,20,100
+139,14,Spike Cannon,40,normal,20,100
+139,15,Spike Cannon,40,normal,20,100
+139,16,Spike Cannon,40,normal,20,100
+139,1,Spike Cannon,44,normal,20,100
+139,2,Spike Cannon,44,normal,20,100
+139,5,Tickle,46,normal,-,100
+139,6,Tickle,46,normal,-,100
+139,7,Tickle,46,normal,-,100
+139,12,Tickle,46,normal,-,100
+139,13,Tickle,46,normal,-,100
+139,8,Tickle,48,normal,-,100
+139,9,Tickle,48,normal,-,100
+139,10,Tickle,48,normal,-,100
+139,11,Tickle,48,normal,-,100
+139,14,Tickle,48,normal,-,100
+139,15,Tickle,48,normal,-,100
+139,16,Tickle,48,normal,-,100
+139,1,Hydro Pump,49,water,110,80
+139,2,Hydro Pump,49,water,110,80
+139,3,Ancient Power,54,rock,60,100
+139,4,Ancient Power,54,rock,60,100
+139,5,Ancient Power,55,rock,60,100
+139,6,Ancient Power,55,rock,60,100
+139,7,Ancient Power,55,rock,60,100
+139,12,Ancient Power,55,rock,60,100
+139,13,Ancient Power,55,rock,60,100
+139,8,Rock Blast,56,rock,25,90
+139,9,Rock Blast,56,rock,25,90
+139,10,Rock Blast,56,rock,25,90
+139,11,Rock Blast,56,rock,25,90
+139,14,Rock Blast,56,rock,25,90
+139,15,Rock Blast,56,rock,25,90
+139,16,Rock Blast,56,rock,25,90
+139,3,Hydro Pump,65,water,110,80
+139,4,Hydro Pump,65,water,110,80
+139,5,Hydro Pump,65,water,110,80
+139,6,Hydro Pump,65,water,110,80
+139,7,Hydro Pump,65,water,110,80
+139,12,Hydro Pump,65,water,110,80
+139,13,Hydro Pump,65,water,110,80
+139,8,Hydro Pump,67,water,110,80
+139,9,Hydro Pump,67,water,110,80
+139,10,Hydro Pump,67,water,110,80
+139,11,Shell Smash,67,normal,-,-
+139,14,Shell Smash,67,normal,-,-
+139,15,Shell Smash,67,normal,-,-
+139,16,Shell Smash,67,normal,-,-
+139,11,Hydro Pump,75,water,110,80
+139,14,Hydro Pump,75,water,110,80
+139,15,Hydro Pump,75,water,110,80
+139,16,Hydro Pump,75,water,110,80

@@ -1,0 +1,183 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+166,3,Tackle,1,normal,50,100
+166,3,Supersonic,1,normal,-,55
+166,4,Tackle,1,normal,50,100
+166,4,Supersonic,1,normal,-,55
+166,5,Tackle,1,normal,50,100
+166,5,Supersonic,1,normal,-,55
+166,6,Tackle,1,normal,50,100
+166,6,Supersonic,1,normal,-,55
+166,7,Tackle,1,normal,50,100
+166,7,Supersonic,1,normal,-,55
+166,8,Comet Punch,1,normal,18,85
+166,8,Tackle,1,normal,50,100
+166,8,Supersonic,1,normal,-,55
+166,9,Comet Punch,1,normal,18,85
+166,9,Tackle,1,normal,50,100
+166,9,Supersonic,1,normal,-,55
+166,10,Comet Punch,1,normal,18,85
+166,10,Tackle,1,normal,50,100
+166,10,Supersonic,1,normal,-,55
+166,11,Comet Punch,1,normal,18,85
+166,11,Tackle,1,normal,50,100
+166,11,Supersonic,1,normal,-,55
+166,12,Tackle,1,normal,50,100
+166,12,Supersonic,1,normal,-,55
+166,13,Tackle,1,normal,50,100
+166,13,Supersonic,1,normal,-,55
+166,14,Comet Punch,1,normal,18,85
+166,14,Tackle,1,normal,50,100
+166,14,Supersonic,1,normal,-,55
+166,15,Comet Punch,1,normal,18,85
+166,15,Tackle,1,normal,50,100
+166,15,Supersonic,1,normal,-,55
+166,16,Comet Punch,1,normal,18,85
+166,16,Tackle,1,normal,50,100
+166,16,Supersonic,1,normal,-,55
+166,8,Supersonic,6,normal,-,55
+166,9,Supersonic,6,normal,-,55
+166,10,Supersonic,6,normal,-,55
+166,11,Supersonic,6,normal,-,55
+166,14,Supersonic,6,normal,-,55
+166,15,Supersonic,6,normal,-,55
+166,16,Supersonic,6,normal,-,55
+166,3,Supersonic,8,normal,-,55
+166,4,Supersonic,8,normal,-,55
+166,5,Supersonic,8,normal,-,55
+166,6,Supersonic,8,normal,-,55
+166,7,Supersonic,8,normal,-,55
+166,12,Supersonic,8,normal,-,55
+166,13,Supersonic,8,normal,-,55
+166,8,Comet Punch,9,normal,18,85
+166,9,Comet Punch,9,normal,18,85
+166,10,Comet Punch,9,normal,18,85
+166,11,Comet Punch,9,normal,18,85
+166,14,Comet Punch,9,normal,18,85
+166,15,Comet Punch,9,normal,18,85
+166,16,Comet Punch,9,normal,18,85
+166,8,Light Screen,14,psychic,-,-
+166,8,Reflect,14,psychic,-,-
+166,8,Safeguard,14,normal,-,-
+166,9,Light Screen,14,psychic,-,-
+166,9,Reflect,14,psychic,-,-
+166,9,Safeguard,14,normal,-,-
+166,10,Light Screen,14,psychic,-,-
+166,10,Reflect,14,psychic,-,-
+166,10,Safeguard,14,normal,-,-
+166,11,Light Screen,14,psychic,-,-
+166,11,Reflect,14,psychic,-,-
+166,11,Safeguard,14,normal,-,-
+166,14,Light Screen,14,psychic,-,-
+166,14,Reflect,14,psychic,-,-
+166,14,Safeguard,14,normal,-,-
+166,15,Light Screen,14,psychic,-,-
+166,15,Reflect,14,psychic,-,-
+166,15,Safeguard,14,normal,-,-
+166,16,Light Screen,14,psychic,-,-
+166,16,Reflect,14,psychic,-,-
+166,16,Safeguard,14,normal,-,-
+166,3,Comet Punch,15,normal,18,85
+166,4,Comet Punch,15,normal,18,85
+166,5,Comet Punch,15,normal,18,85
+166,6,Comet Punch,15,normal,18,85
+166,7,Comet Punch,15,normal,18,85
+166,12,Comet Punch,15,normal,18,85
+166,13,Comet Punch,15,normal,18,85
+166,8,Mach Punch,17,fighting,40,100
+166,9,Mach Punch,17,fighting,40,100
+166,10,Mach Punch,17,fighting,40,100
+166,11,Mach Punch,17,fighting,40,100
+166,14,Mach Punch,17,fighting,40,100
+166,15,Mach Punch,17,fighting,40,100
+166,16,Mach Punch,17,fighting,40,100
+166,3,Light Screen,24,psychic,-,-
+166,3,Reflect,24,psychic,-,-
+166,3,Safeguard,24,normal,-,-
+166,4,Light Screen,24,psychic,-,-
+166,4,Reflect,24,psychic,-,-
+166,4,Safeguard,24,normal,-,-
+166,5,Light Screen,24,psychic,-,-
+166,5,Reflect,24,psychic,-,-
+166,5,Safeguard,24,normal,-,-
+166,6,Light Screen,24,psychic,-,-
+166,6,Reflect,24,psychic,-,-
+166,6,Safeguard,24,normal,-,-
+166,7,Light Screen,24,psychic,-,-
+166,7,Reflect,24,psychic,-,-
+166,7,Safeguard,24,normal,-,-
+166,8,Baton Pass,24,normal,-,-
+166,9,Baton Pass,24,normal,-,-
+166,10,Baton Pass,24,normal,-,-
+166,11,Baton Pass,24,normal,-,-
+166,12,Light Screen,24,psychic,-,-
+166,12,Reflect,24,psychic,-,-
+166,12,Safeguard,24,normal,-,-
+166,13,Light Screen,24,psychic,-,-
+166,13,Reflect,24,psychic,-,-
+166,13,Safeguard,24,normal,-,-
+166,14,Baton Pass,24,normal,-,-
+166,15,Baton Pass,24,normal,-,-
+166,16,Baton Pass,24,normal,-,-
+166,8,Silver Wind,29,bug,60,100
+166,9,Silver Wind,29,bug,60,100
+166,10,Silver Wind,29,bug,60,100
+166,11,Silver Wind,29,bug,60,100
+166,14,Silver Wind,29,bug,60,100
+166,15,Silver Wind,29,bug,60,100
+166,16,Silver Wind,29,bug,60,100
+166,3,Baton Pass,33,normal,-,-
+166,4,Baton Pass,33,normal,-,-
+166,5,Baton Pass,33,normal,-,-
+166,6,Baton Pass,33,normal,-,-
+166,7,Baton Pass,33,normal,-,-
+166,12,Baton Pass,33,normal,-,-
+166,13,Baton Pass,33,normal,-,-
+166,8,Agility,36,psychic,-,-
+166,9,Agility,36,psychic,-,-
+166,10,Agility,36,psychic,-,-
+166,11,Agility,36,psychic,-,-
+166,14,Agility,36,psychic,-,-
+166,15,Agility,36,psychic,-,-
+166,16,Agility,36,psychic,-,-
+166,8,Swift,41,normal,60,-
+166,9,Swift,41,normal,60,-
+166,10,Swift,41,normal,60,-
+166,11,Swift,41,normal,60,-
+166,14,Swift,41,normal,60,-
+166,15,Swift,41,normal,60,-
+166,16,Swift,41,normal,60,-
+166,3,Swift,42,normal,60,-
+166,4,Swift,42,normal,60,-
+166,5,Swift,42,normal,60,-
+166,6,Swift,42,normal,60,-
+166,7,Swift,42,normal,60,-
+166,12,Swift,42,normal,60,-
+166,13,Swift,42,normal,60,-
+166,8,Double-Edge,48,normal,120,100
+166,9,Double-Edge,48,normal,120,100
+166,10,Double-Edge,48,normal,120,100
+166,11,Double-Edge,48,normal,120,100
+166,14,Double-Edge,48,normal,120,100
+166,15,Double-Edge,48,normal,120,100
+166,16,Double-Edge,48,normal,120,100
+166,3,Agility,51,psychic,-,-
+166,4,Agility,51,psychic,-,-
+166,5,Agility,51,psychic,-,-
+166,6,Agility,51,psychic,-,-
+166,7,Agility,51,psychic,-,-
+166,12,Agility,51,psychic,-,-
+166,13,Agility,51,psychic,-,-
+166,8,Bug Buzz,53,bug,90,100
+166,9,Bug Buzz,53,bug,90,100
+166,10,Bug Buzz,53,bug,90,100
+166,11,Bug Buzz,53,bug,90,100
+166,14,Bug Buzz,53,bug,90,100
+166,15,Bug Buzz,53,bug,90,100
+166,16,Bug Buzz,53,bug,90,100
+166,3,Double-Edge,60,normal,120,100
+166,4,Double-Edge,60,normal,120,100
+166,5,Double-Edge,60,normal,120,100
+166,6,Double-Edge,60,normal,120,100
+166,7,Double-Edge,60,normal,120,100
+166,12,Double-Edge,60,normal,120,100
+166,13,Double-Edge,60,normal,120,100

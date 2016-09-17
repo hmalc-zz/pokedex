@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+640,11,Leer,1,normal,-,100
+640,11,Quick Attack,1,normal,40,100
+640,14,Leer,1,normal,-,100
+640,14,Quick Attack,1,normal,40,100
+640,15,Leer,1,normal,-,100
+640,15,Quick Attack,1,normal,40,100
+640,15,Leaf Blade,1,grass,90,100
+640,15,Close Combat,1,fighting,120,100
+640,15,Quick Guard,1,fighting,-,-
+640,15,Work Up,1,normal,-,-
+640,16,Leer,1,normal,-,100
+640,16,Quick Attack,1,normal,40,100
+640,16,Leaf Blade,1,grass,90,100
+640,16,Close Combat,1,fighting,120,100
+640,16,Quick Guard,1,fighting,-,-
+640,16,Work Up,1,normal,-,-
+640,11,Double Kick,7,fighting,30,100
+640,14,Double Kick,7,fighting,30,100
+640,15,Double Kick,7,fighting,30,100
+640,16,Double Kick,7,fighting,30,100
+640,11,Magical Leaf,13,grass,60,-
+640,14,Magical Leaf,13,grass,60,-
+640,15,Magical Leaf,13,grass,60,-
+640,16,Magical Leaf,13,grass,60,-
+640,11,Take Down,19,normal,90,85
+640,14,Take Down,19,normal,90,85
+640,15,Take Down,19,normal,90,85
+640,16,Take Down,19,normal,90,85
+640,11,Helping Hand,25,normal,-,-
+640,14,Helping Hand,25,normal,-,-
+640,15,Helping Hand,25,normal,-,-
+640,16,Helping Hand,25,normal,-,-
+640,11,Retaliate,31,normal,70,100
+640,14,Retaliate,31,normal,70,100
+640,15,Retaliate,31,normal,70,100
+640,16,Retaliate,31,normal,70,100
+640,11,Giga Drain,37,grass,75,100
+640,14,Giga Drain,37,grass,75,100
+640,15,Giga Drain,37,grass,75,100
+640,16,Giga Drain,37,grass,75,100
+640,11,Sacred Sword,42,fighting,90,100
+640,14,Sacred Sword,42,fighting,90,100
+640,15,Sacred Sword,42,fighting,90,100
+640,16,Sacred Sword,42,fighting,90,100
+640,11,Swords Dance,49,normal,-,-
+640,14,Swords Dance,49,normal,-,-
+640,15,Swords Dance,49,normal,-,-
+640,16,Swords Dance,49,normal,-,-
+640,11,Quick Guard,55,fighting,-,-
+640,14,Quick Guard,55,fighting,-,-
+640,15,Quick Guard,55,fighting,-,-
+640,16,Quick Guard,55,fighting,-,-
+640,11,Work Up,61,normal,-,-
+640,14,Work Up,61,normal,-,-
+640,15,Work Up,61,normal,-,-
+640,16,Work Up,61,normal,-,-
+640,11,Leaf Blade,67,grass,90,100
+640,14,Leaf Blade,67,grass,90,100
+640,15,Leaf Blade,67,grass,90,100
+640,16,Leaf Blade,67,grass,90,100
+640,11,Close Combat,73,fighting,120,100
+640,14,Close Combat,73,fighting,120,100
+640,15,Close Combat,73,fighting,120,100
+640,16,Close Combat,73,fighting,120,100

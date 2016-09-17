@@ -147,11 +147,30 @@ Dexly was the first app I built and it literally launched my career as a develop
                                             <segue destination="6d2-w5-Lhe" kind="show" id="gj2-2A-r1C"/>
                                         </connections>
                                     </button>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="musicNote" translatesAutoresizingMaskIntoConstraints="NO" id="7Oc-zW-ZQa">
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="25" id="XIq-TE-t9V"/>
+                                            <constraint firstAttribute="height" constant="25" id="hyi-F9-ox7"/>
+                                        </constraints>
+                                    </imageView>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vPL-7P-JZd">
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="54" id="aZh-2P-FLt"/>
+                                            <constraint firstAttribute="width" constant="50" id="eHx-Ga-0rZ"/>
+                                        </constraints>
+                                        <connections>
+                                            <action selector="ToggleMusicAllowed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="rto-lI-k3N"/>
+                                        </connections>
+                                    </button>
                                 </subviews>
                                 <color key="backgroundColor" red="0.93333333333333335" green="0.0039215686274509803" blue="0.31764705882352939" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstItem="mKm-Xg-SiJ" firstAttribute="leading" secondItem="cZJ-2l-Kp4" secondAttribute="leading" constant="20" id="7Rk-ey-nuF"/>
+                                    <constraint firstItem="7Oc-zW-ZQa" firstAttribute="centerY" secondItem="mKm-Xg-SiJ" secondAttribute="centerY" id="FnS-c9-O6a"/>
                                     <constraint firstAttribute="height" constant="65" id="LNc-vf-JNO"/>
+                                    <constraint firstAttribute="trailing" secondItem="vPL-7P-JZd" secondAttribute="trailing" constant="8" id="RnK-vf-Mjl"/>
+                                    <constraint firstItem="vPL-7P-JZd" firstAttribute="centerX" secondItem="7Oc-zW-ZQa" secondAttribute="centerX" id="XOL-g7-wkJ"/>
+                                    <constraint firstItem="vPL-7P-JZd" firstAttribute="top" secondItem="cZJ-2l-Kp4" secondAttribute="top" constant="8" id="r3S-h0-6cl"/>
                                 </constraints>
                             </view>
                             <searchBar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="redraw" text="" placeholder="Filter by Name, Type or Gen No." backgroundImage="darkerpink" translatesAutoresizingMaskIntoConstraints="NO" id="vMT-dB-Xdp">
@@ -330,6 +349,7 @@ Dexly was the first app I built and it literally launched my career as a develop
                         <outlet property="collection" destination="tjR-SZ-ePd" id="MB6-EB-53a"/>
                         <outlet property="containerSpacing" destination="5YO-Wi-n5h" id="V0T-Jq-jeA"/>
                         <outlet property="horizontalScrollView" destination="POZ-Lu-CFw" id="Ohw-0M-4sq"/>
+                        <outlet property="musicButtonImage" destination="7Oc-zW-ZQa" id="sHD-M3-qwH"/>
                         <outlet property="pokeballHeader" destination="ICN-g0-j6E" id="atZ-Rf-anS"/>
                         <outlet property="scrollBtnContainerHeight" destination="2wK-2o-D3i" id="9uV-x3-uiZ"/>
                         <outlet property="searchBar" destination="vMT-dB-Xdp" id="NfW-Ge-LYN"/>
@@ -341,7 +361,7 @@ Dexly was the first app I built and it literally launched my career as a develop
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1194" y="100"/>
+            <point key="canvasLocation" x="-1194.4000000000001" y="99.400299850074973"/>
         </scene>
         <!--Pokemon DetailVC-->
         <scene sceneID="ip5-dK-FaS">
@@ -1550,6 +1570,7 @@ Dexly was the first app I built and it literally launched my career as a develop
         <image name="downColour" width="411" height="191"/>
         <image name="left" width="512" height="512"/>
         <image name="logoColoured" width="293" height="177"/>
+        <image name="musicNote" width="64" height="64"/>
         <image name="red" width="48" height="38"/>
         <image name="right" width="512" height="512"/>
         <image name="triangleUp" width="128" height="128"/>

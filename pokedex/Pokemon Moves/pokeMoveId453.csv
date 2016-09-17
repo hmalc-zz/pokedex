@@ -1,0 +1,105 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+453,8,Astonish,1,ghost,30,100
+453,9,Astonish,1,ghost,30,100
+453,10,Astonish,1,ghost,30,100
+453,11,Astonish,1,ghost,30,100
+453,14,Astonish,1,ghost,30,100
+453,15,Astonish,1,ghost,30,100
+453,16,Astonish,1,ghost,30,100
+453,8,Mud-Slap,3,ground,20,100
+453,9,Mud-Slap,3,ground,20,100
+453,10,Mud-Slap,3,ground,20,100
+453,11,Mud-Slap,3,ground,20,100
+453,14,Mud-Slap,3,ground,20,100
+453,15,Mud-Slap,3,ground,20,100
+453,16,Mud-Slap,3,ground,20,100
+453,8,Poison Sting,8,poison,15,100
+453,9,Poison Sting,8,poison,15,100
+453,10,Poison Sting,8,poison,15,100
+453,11,Poison Sting,8,poison,15,100
+453,14,Poison Sting,8,poison,15,100
+453,15,Poison Sting,8,poison,15,100
+453,16,Poison Sting,8,poison,15,100
+453,8,Taunt,10,dark,-,100
+453,9,Taunt,10,dark,-,100
+453,10,Taunt,10,dark,-,100
+453,11,Taunt,10,dark,-,100
+453,14,Taunt,10,dark,-,100
+453,15,Taunt,10,dark,-,100
+453,16,Taunt,10,dark,-,100
+453,8,Pursuit,15,dark,40,100
+453,9,Pursuit,15,dark,40,100
+453,10,Pursuit,15,dark,40,100
+453,11,Pursuit,15,dark,40,100
+453,14,Pursuit,15,dark,40,100
+453,15,Pursuit,15,dark,40,100
+453,16,Pursuit,15,dark,40,100
+453,8,Feint Attack,17,dark,60,-
+453,9,Feint Attack,17,dark,60,-
+453,10,Feint Attack,17,dark,60,-
+453,11,Feint Attack,17,dark,60,-
+453,14,Feint Attack,17,dark,60,-
+453,15,Feint Attack,17,dark,60,-
+453,16,Feint Attack,17,dark,60,-
+453,8,Revenge,22,fighting,60,100
+453,9,Revenge,22,fighting,60,100
+453,10,Revenge,22,fighting,60,100
+453,11,Revenge,22,fighting,60,100
+453,14,Revenge,22,fighting,60,100
+453,15,Revenge,22,fighting,60,100
+453,16,Revenge,22,fighting,60,100
+453,8,Swagger,24,normal,-,90
+453,9,Swagger,24,normal,-,90
+453,10,Swagger,24,normal,-,90
+453,11,Swagger,24,normal,-,90
+453,14,Swagger,24,normal,-,90
+453,15,Swagger,24,normal,-,90
+453,16,Swagger,24,normal,-,90
+453,8,Mud Bomb,29,ground,65,85
+453,9,Mud Bomb,29,ground,65,85
+453,10,Mud Bomb,29,ground,65,85
+453,11,Mud Bomb,29,ground,65,85
+453,14,Mud Bomb,29,ground,65,85
+453,15,Mud Bomb,29,ground,65,85
+453,16,Mud Bomb,29,ground,65,85
+453,8,Sucker Punch,31,dark,80,100
+453,9,Sucker Punch,31,dark,80,100
+453,10,Sucker Punch,31,dark,80,100
+453,11,Sucker Punch,31,dark,80,100
+453,14,Sucker Punch,31,dark,80,100
+453,15,Sucker Punch,31,dark,80,100
+453,16,Sucker Punch,31,dark,80,100
+453,8,Nasty Plot,36,dark,-,-
+453,9,Nasty Plot,36,dark,-,-
+453,10,Nasty Plot,36,dark,-,-
+453,11,Venoshock,36,poison,65,100
+453,14,Venoshock,36,poison,65,100
+453,15,Venoshock,36,poison,65,100
+453,16,Venoshock,36,poison,65,100
+453,8,Poison Jab,38,poison,80,100
+453,9,Poison Jab,38,poison,80,100
+453,10,Poison Jab,38,poison,80,100
+453,11,Nasty Plot,38,dark,-,-
+453,14,Nasty Plot,38,dark,-,-
+453,15,Nasty Plot,38,dark,-,-
+453,16,Nasty Plot,38,dark,-,-
+453,8,Sludge Bomb,43,poison,90,100
+453,9,Sludge Bomb,43,poison,90,100
+453,10,Sludge Bomb,43,poison,90,100
+453,11,Poison Jab,43,poison,80,100
+453,14,Poison Jab,43,poison,80,100
+453,15,Poison Jab,43,poison,80,100
+453,16,Poison Jab,43,poison,80,100
+453,8,Flatter,45,dark,-,100
+453,9,Flatter,45,dark,-,100
+453,10,Flatter,45,dark,-,100
+453,11,Sludge Bomb,45,poison,90,100
+453,14,Sludge Bomb,45,poison,90,100
+453,15,Sludge Bomb,45,poison,90,100
+453,16,Sludge Bomb,45,poison,90,100
+453,15,Belch,47,poison,120,90
+453,16,Belch,47,poison,120,90
+453,11,Flatter,50,dark,-,100
+453,14,Flatter,50,dark,-,100
+453,15,Flatter,50,dark,-,100
+453,16,Flatter,50,dark,-,100

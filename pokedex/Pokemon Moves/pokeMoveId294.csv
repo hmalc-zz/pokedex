@@ -1,0 +1,181 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+294,5,Pound,1,normal,40,100
+294,5,Uproar,1,normal,90,100
+294,5,Astonish,1,ghost,30,100
+294,5,Howl,1,normal,-,-
+294,6,Pound,1,normal,40,100
+294,6,Uproar,1,normal,90,100
+294,6,Astonish,1,ghost,30,100
+294,6,Howl,1,normal,-,-
+294,7,Pound,1,normal,40,100
+294,7,Uproar,1,normal,90,100
+294,7,Astonish,1,ghost,30,100
+294,7,Howl,1,normal,-,-
+294,8,Pound,1,normal,40,100
+294,8,Uproar,1,normal,90,100
+294,8,Astonish,1,ghost,30,100
+294,8,Howl,1,normal,-,-
+294,9,Pound,1,normal,40,100
+294,9,Uproar,1,normal,90,100
+294,9,Astonish,1,ghost,30,100
+294,9,Howl,1,normal,-,-
+294,10,Pound,1,normal,40,100
+294,10,Uproar,1,normal,90,100
+294,10,Astonish,1,ghost,30,100
+294,10,Howl,1,normal,-,-
+294,11,Pound,1,normal,40,100
+294,11,Uproar,1,normal,90,100
+294,11,Astonish,1,ghost,30,100
+294,11,Howl,1,normal,-,-
+294,12,Pound,1,normal,40,100
+294,12,Uproar,1,normal,90,100
+294,12,Astonish,1,ghost,30,100
+294,12,Howl,1,normal,-,-
+294,13,Pound,1,normal,40,100
+294,13,Uproar,1,normal,90,100
+294,13,Astonish,1,ghost,30,100
+294,13,Howl,1,normal,-,-
+294,14,Pound,1,normal,40,100
+294,14,Uproar,1,normal,90,100
+294,14,Astonish,1,ghost,30,100
+294,14,Howl,1,normal,-,-
+294,15,Pound,1,normal,40,100
+294,15,Uproar,1,normal,90,100
+294,15,Astonish,1,ghost,30,100
+294,15,Howl,1,normal,-,-
+294,16,Pound,1,normal,40,100
+294,16,Astonish,1,ghost,30,100
+294,16,Howl,1,normal,-,-
+294,16,Echoed Voice,1,normal,40,100
+294,16,Echoed Voice,4,normal,40,100
+294,5,Uproar,5,normal,90,100
+294,6,Uproar,5,normal,90,100
+294,7,Uproar,5,normal,90,100
+294,8,Uproar,5,normal,90,100
+294,9,Uproar,5,normal,90,100
+294,10,Uproar,5,normal,90,100
+294,11,Uproar,5,normal,90,100
+294,12,Uproar,5,normal,90,100
+294,13,Uproar,5,normal,90,100
+294,14,Uproar,5,normal,90,100
+294,15,Uproar,5,normal,90,100
+294,16,Astonish,9,ghost,30,100
+294,5,Astonish,11,ghost,30,100
+294,6,Astonish,11,ghost,30,100
+294,7,Astonish,11,ghost,30,100
+294,8,Astonish,11,ghost,30,100
+294,9,Astonish,11,ghost,30,100
+294,10,Astonish,11,ghost,30,100
+294,11,Astonish,11,ghost,30,100
+294,12,Astonish,11,ghost,30,100
+294,13,Astonish,11,ghost,30,100
+294,14,Astonish,11,ghost,30,100
+294,15,Astonish,11,ghost,30,100
+294,16,Howl,11,normal,-,-
+294,5,Howl,15,normal,-,-
+294,6,Howl,15,normal,-,-
+294,7,Howl,15,normal,-,-
+294,8,Howl,15,normal,-,-
+294,9,Howl,15,normal,-,-
+294,10,Howl,15,normal,-,-
+294,11,Howl,15,normal,-,-
+294,12,Howl,15,normal,-,-
+294,13,Howl,15,normal,-,-
+294,14,Howl,15,normal,-,-
+294,15,Howl,15,normal,-,-
+294,16,Screech,15,normal,-,85
+294,16,Supersonic,18,normal,-,55
+294,8,Bite,20,dark,60,100
+294,9,Bite,20,dark,60,100
+294,10,Bite,20,dark,60,100
+294,11,Bite,20,dark,60,100
+294,14,Bite,20,dark,60,100
+294,15,Bite,20,dark,60,100
+294,16,Bite,20,dark,60,100
+294,5,Supersonic,23,normal,-,55
+294,6,Supersonic,23,normal,-,55
+294,7,Supersonic,23,normal,-,55
+294,8,Supersonic,23,normal,-,55
+294,9,Supersonic,23,normal,-,55
+294,10,Supersonic,23,normal,-,55
+294,11,Supersonic,23,normal,-,55
+294,12,Supersonic,23,normal,-,55
+294,13,Supersonic,23,normal,-,55
+294,14,Supersonic,23,normal,-,55
+294,15,Supersonic,23,normal,-,55
+294,16,Stomp,23,normal,65,100
+294,16,Uproar,27,normal,90,100
+294,5,Stomp,29,normal,65,100
+294,6,Stomp,29,normal,65,100
+294,7,Stomp,29,normal,65,100
+294,8,Stomp,29,normal,65,100
+294,9,Stomp,29,normal,65,100
+294,10,Stomp,29,normal,65,100
+294,11,Stomp,29,normal,65,100
+294,12,Stomp,29,normal,65,100
+294,13,Stomp,29,normal,65,100
+294,14,Stomp,29,normal,65,100
+294,15,Stomp,29,normal,65,100
+294,16,Roar,32,normal,-,-
+294,16,Rest,36,psychic,-,-
+294,5,Screech,37,normal,-,85
+294,6,Screech,37,normal,-,85
+294,7,Screech,37,normal,-,85
+294,8,Screech,37,normal,-,85
+294,9,Screech,37,normal,-,85
+294,10,Screech,37,normal,-,85
+294,11,Screech,37,normal,-,85
+294,12,Screech,37,normal,-,85
+294,13,Screech,37,normal,-,85
+294,14,Screech,37,normal,-,85
+294,15,Screech,37,normal,-,85
+294,16,Sleep Talk,41,normal,-,-
+294,5,Roar,43,normal,-,-
+294,6,Roar,43,normal,-,-
+294,7,Roar,43,normal,-,-
+294,8,Roar,43,normal,-,-
+294,9,Roar,43,normal,-,-
+294,10,Roar,43,normal,-,-
+294,11,Roar,43,normal,-,-
+294,12,Roar,43,normal,-,-
+294,13,Roar,43,normal,-,-
+294,14,Roar,43,normal,-,-
+294,15,Roar,43,normal,-,-
+294,16,Hyper Voice,45,normal,90,100
+294,16,Synchronoise,50,psychic,120,100
+294,5,Rest,51,psychic,-,-
+294,5,Sleep Talk,51,normal,-,-
+294,6,Rest,51,psychic,-,-
+294,6,Sleep Talk,51,normal,-,-
+294,7,Rest,51,psychic,-,-
+294,7,Sleep Talk,51,normal,-,-
+294,8,Rest,51,psychic,-,-
+294,8,Sleep Talk,51,normal,-,-
+294,9,Rest,51,psychic,-,-
+294,9,Sleep Talk,51,normal,-,-
+294,10,Rest,51,psychic,-,-
+294,10,Sleep Talk,51,normal,-,-
+294,11,Synchronoise,51,psychic,120,100
+294,12,Rest,51,psychic,-,-
+294,12,Sleep Talk,51,normal,-,-
+294,13,Rest,51,psychic,-,-
+294,13,Sleep Talk,51,normal,-,-
+294,14,Synchronoise,51,psychic,120,100
+294,15,Synchronoise,51,psychic,120,100
+294,5,Hyper Voice,57,normal,90,100
+294,6,Hyper Voice,57,normal,90,100
+294,7,Hyper Voice,57,normal,90,100
+294,8,Hyper Voice,57,normal,90,100
+294,9,Hyper Voice,57,normal,90,100
+294,10,Hyper Voice,57,normal,90,100
+294,11,Rest,57,psychic,-,-
+294,11,Sleep Talk,57,normal,-,-
+294,12,Hyper Voice,57,normal,90,100
+294,13,Hyper Voice,57,normal,90,100
+294,14,Rest,57,psychic,-,-
+294,14,Sleep Talk,57,normal,-,-
+294,15,Rest,57,psychic,-,-
+294,15,Sleep Talk,57,normal,-,-
+294,11,Hyper Voice,65,normal,90,100
+294,14,Hyper Voice,65,normal,90,100
+294,15,Hyper Voice,65,normal,90,100

@@ -1,0 +1,85 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+387,8,Tackle,1,normal,50,100
+387,9,Tackle,1,normal,50,100
+387,10,Tackle,1,normal,50,100
+387,11,Tackle,1,normal,50,100
+387,14,Tackle,1,normal,50,100
+387,15,Tackle,1,normal,50,100
+387,16,Tackle,1,normal,50,100
+387,8,Withdraw,5,water,-,-
+387,9,Withdraw,5,water,-,-
+387,10,Withdraw,5,water,-,-
+387,11,Withdraw,5,water,-,-
+387,14,Withdraw,5,water,-,-
+387,15,Withdraw,5,water,-,-
+387,16,Withdraw,5,water,-,-
+387,8,Absorb,9,grass,20,100
+387,9,Absorb,9,grass,20,100
+387,10,Absorb,9,grass,20,100
+387,11,Absorb,9,grass,20,100
+387,14,Absorb,9,grass,20,100
+387,15,Absorb,9,grass,20,100
+387,16,Absorb,9,grass,20,100
+387,8,Razor Leaf,13,grass,55,95
+387,9,Razor Leaf,13,grass,55,95
+387,10,Razor Leaf,13,grass,55,95
+387,11,Razor Leaf,13,grass,55,95
+387,14,Razor Leaf,13,grass,55,95
+387,15,Razor Leaf,13,grass,55,95
+387,16,Razor Leaf,13,grass,55,95
+387,8,Curse,17,ghost,-,-
+387,9,Curse,17,ghost,-,-
+387,10,Curse,17,ghost,-,-
+387,11,Curse,17,ghost,-,-
+387,14,Curse,17,ghost,-,-
+387,15,Curse,17,ghost,-,-
+387,16,Curse,17,ghost,-,-
+387,8,Bite,21,dark,60,100
+387,9,Bite,21,dark,60,100
+387,10,Bite,21,dark,60,100
+387,11,Bite,21,dark,60,100
+387,14,Bite,21,dark,60,100
+387,15,Bite,21,dark,60,100
+387,16,Bite,21,dark,60,100
+387,8,Mega Drain,25,grass,40,100
+387,9,Mega Drain,25,grass,40,100
+387,10,Mega Drain,25,grass,40,100
+387,11,Mega Drain,25,grass,40,100
+387,14,Mega Drain,25,grass,40,100
+387,15,Mega Drain,25,grass,40,100
+387,16,Mega Drain,25,grass,40,100
+387,8,Leech Seed,29,grass,-,90
+387,9,Leech Seed,29,grass,-,90
+387,10,Leech Seed,29,grass,-,90
+387,11,Leech Seed,29,grass,-,90
+387,14,Leech Seed,29,grass,-,90
+387,15,Leech Seed,29,grass,-,90
+387,16,Leech Seed,29,grass,-,90
+387,8,Synthesis,33,grass,-,-
+387,9,Synthesis,33,grass,-,-
+387,10,Synthesis,33,grass,-,-
+387,11,Synthesis,33,grass,-,-
+387,14,Synthesis,33,grass,-,-
+387,15,Synthesis,33,grass,-,-
+387,16,Synthesis,33,grass,-,-
+387,8,Crunch,37,dark,80,100
+387,9,Crunch,37,dark,80,100
+387,10,Crunch,37,dark,80,100
+387,11,Crunch,37,dark,80,100
+387,14,Crunch,37,dark,80,100
+387,15,Crunch,37,dark,80,100
+387,16,Crunch,37,dark,80,100
+387,8,Giga Drain,41,grass,75,100
+387,9,Giga Drain,41,grass,75,100
+387,10,Giga Drain,41,grass,75,100
+387,11,Giga Drain,41,grass,75,100
+387,14,Giga Drain,41,grass,75,100
+387,15,Giga Drain,41,grass,75,100
+387,16,Giga Drain,41,grass,75,100
+387,8,Leaf Storm,45,grass,130,90
+387,9,Leaf Storm,45,grass,130,90
+387,10,Leaf Storm,45,grass,130,90
+387,11,Leaf Storm,45,grass,130,90
+387,14,Leaf Storm,45,grass,130,90
+387,15,Leaf Storm,45,grass,130,90
+387,16,Leaf Storm,45,grass,130,90

@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+498,11,Tackle,1,normal,50,100
+498,14,Tackle,1,normal,50,100
+498,15,Tackle,1,normal,50,100
+498,16,Tackle,1,normal,50,100
+498,11,Tail Whip,3,normal,-,100
+498,14,Tail Whip,3,normal,-,100
+498,15,Tail Whip,3,normal,-,100
+498,16,Tail Whip,3,normal,-,100
+498,11,Ember,7,fire,40,100
+498,14,Ember,7,fire,40,100
+498,15,Ember,7,fire,40,100
+498,16,Ember,7,fire,40,100
+498,11,Odor Sleuth,9,normal,-,-
+498,14,Odor Sleuth,9,normal,-,-
+498,15,Odor Sleuth,9,normal,-,-
+498,16,Odor Sleuth,9,normal,-,-
+498,11,Defense Curl,13,normal,-,-
+498,14,Defense Curl,13,normal,-,-
+498,15,Defense Curl,13,normal,-,-
+498,16,Defense Curl,13,normal,-,-
+498,11,Flame Charge,15,fire,50,100
+498,14,Flame Charge,15,fire,50,100
+498,15,Flame Charge,15,fire,50,100
+498,16,Flame Charge,15,fire,50,100
+498,11,Smog,19,poison,30,70
+498,14,Smog,19,poison,30,70
+498,15,Smog,19,poison,30,70
+498,16,Smog,19,poison,30,70
+498,11,Rollout,21,rock,30,90
+498,14,Rollout,21,rock,30,90
+498,15,Rollout,21,rock,30,90
+498,16,Rollout,21,rock,30,90
+498,11,Take Down,25,normal,90,85
+498,14,Take Down,25,normal,90,85
+498,15,Take Down,25,normal,90,85
+498,16,Take Down,25,normal,90,85
+498,11,Heat Crash,27,fire,-,100
+498,14,Heat Crash,27,fire,-,100
+498,15,Heat Crash,27,fire,-,100
+498,16,Heat Crash,27,fire,-,100
+498,11,Assurance,31,dark,60,100
+498,14,Assurance,31,dark,60,100
+498,15,Assurance,31,dark,60,100
+498,16,Assurance,31,dark,60,100
+498,11,Flamethrower,33,fire,90,100
+498,14,Flamethrower,33,fire,90,100
+498,15,Flamethrower,33,fire,90,100
+498,16,Flamethrower,33,fire,90,100
+498,11,Head Smash,37,rock,150,80
+498,14,Head Smash,37,rock,150,80
+498,15,Head Smash,37,rock,150,80
+498,16,Head Smash,37,rock,150,80
+498,11,Roar,39,normal,-,-
+498,14,Roar,39,normal,-,-
+498,15,Roar,39,normal,-,-
+498,16,Roar,39,normal,-,-
+498,11,Flare Blitz,43,fire,120,100
+498,14,Flare Blitz,43,fire,120,100
+498,15,Flare Blitz,43,fire,120,100
+498,16,Flare Blitz,43,fire,120,100

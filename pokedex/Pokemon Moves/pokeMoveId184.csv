@@ -1,0 +1,192 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+184,3,Tackle,1,normal,50,100
+184,3,Tail Whip,1,normal,-,100
+184,3,Water Gun,1,water,40,100
+184,3,Defense Curl,1,normal,-,-
+184,4,Tackle,1,normal,50,100
+184,4,Tail Whip,1,normal,-,100
+184,4,Water Gun,1,water,40,100
+184,4,Defense Curl,1,normal,-,-
+184,5,Tackle,1,normal,50,100
+184,5,Tail Whip,1,normal,-,100
+184,5,Water Gun,1,water,40,100
+184,5,Defense Curl,1,normal,-,-
+184,6,Tackle,1,normal,50,100
+184,6,Tail Whip,1,normal,-,100
+184,6,Water Gun,1,water,40,100
+184,6,Defense Curl,1,normal,-,-
+184,7,Tackle,1,normal,50,100
+184,7,Tail Whip,1,normal,-,100
+184,7,Water Gun,1,water,40,100
+184,7,Defense Curl,1,normal,-,-
+184,8,Tackle,1,normal,50,100
+184,8,Tail Whip,1,normal,-,100
+184,8,Water Gun,1,water,40,100
+184,8,Defense Curl,1,normal,-,-
+184,9,Tackle,1,normal,50,100
+184,9,Tail Whip,1,normal,-,100
+184,9,Water Gun,1,water,40,100
+184,9,Defense Curl,1,normal,-,-
+184,10,Tackle,1,normal,50,100
+184,10,Tail Whip,1,normal,-,100
+184,10,Water Gun,1,water,40,100
+184,10,Defense Curl,1,normal,-,-
+184,11,Tackle,1,normal,50,100
+184,11,Tail Whip,1,normal,-,100
+184,11,Water Gun,1,water,40,100
+184,11,Defense Curl,1,normal,-,-
+184,12,Tackle,1,normal,50,100
+184,12,Tail Whip,1,normal,-,100
+184,12,Water Gun,1,water,40,100
+184,12,Defense Curl,1,normal,-,-
+184,13,Tackle,1,normal,50,100
+184,13,Tail Whip,1,normal,-,100
+184,13,Water Gun,1,water,40,100
+184,13,Defense Curl,1,normal,-,-
+184,14,Tackle,1,normal,50,100
+184,14,Tail Whip,1,normal,-,100
+184,14,Bubble,1,water,40,100
+184,14,Water Sport,1,water,-,-
+184,15,Tackle,1,normal,50,100
+184,15,Tail Whip,1,normal,-,100
+184,15,Water Gun,1,water,40,100
+184,15,Water Sport,1,water,-,-
+184,16,Tackle,1,normal,50,100
+184,16,Tail Whip,1,normal,-,100
+184,16,Water Gun,1,water,40,100
+184,16,Water Sport,1,water,-,-
+184,8,Defense Curl,2,normal,-,-
+184,9,Defense Curl,2,normal,-,-
+184,10,Defense Curl,2,normal,-,-
+184,11,Defense Curl,2,normal,-,-
+184,14,Tail Whip,2,normal,-,100
+184,15,Tail Whip,2,normal,-,100
+184,16,Tail Whip,2,normal,-,100
+184,3,Defense Curl,3,normal,-,-
+184,4,Defense Curl,3,normal,-,-
+184,5,Defense Curl,3,normal,-,-
+184,6,Defense Curl,3,normal,-,-
+184,7,Defense Curl,3,normal,-,-
+184,12,Defense Curl,3,normal,-,-
+184,13,Defense Curl,3,normal,-,-
+184,14,Water Sport,5,water,-,-
+184,15,Water Sport,5,water,-,-
+184,16,Water Sport,5,water,-,-
+184,3,Tail Whip,6,normal,-,100
+184,4,Tail Whip,6,normal,-,100
+184,5,Tail Whip,6,normal,-,100
+184,6,Tail Whip,6,normal,-,100
+184,7,Tail Whip,6,normal,-,100
+184,12,Tail Whip,6,normal,-,100
+184,13,Tail Whip,6,normal,-,100
+184,8,Tail Whip,7,normal,-,100
+184,9,Tail Whip,7,normal,-,100
+184,10,Tail Whip,7,normal,-,100
+184,11,Tail Whip,7,normal,-,100
+184,14,Water Gun,7,water,40,100
+184,15,Bubble,7,water,40,100
+184,16,Bubble,7,water,40,100
+184,3,Water Gun,10,water,40,100
+184,4,Water Gun,10,water,40,100
+184,5,Water Gun,10,water,40,100
+184,6,Water Gun,10,water,40,100
+184,7,Water Gun,10,water,40,100
+184,8,Water Gun,10,water,40,100
+184,9,Water Gun,10,water,40,100
+184,10,Water Gun,10,water,40,100
+184,11,Water Gun,10,water,40,100
+184,12,Water Gun,10,water,40,100
+184,13,Water Gun,10,water,40,100
+184,14,Defense Curl,10,normal,-,-
+184,14,Rollout,10,rock,30,90
+184,15,Defense Curl,10,normal,-,-
+184,15,Rollout,10,rock,30,90
+184,16,Defense Curl,10,normal,-,-
+184,16,Rollout,10,rock,30,90
+184,14,Bubble Beam,13,water,65,100
+184,15,Bubble Beam,13,water,65,100
+184,16,Bubble Beam,13,water,65,100
+184,3,Rollout,15,rock,30,90
+184,4,Rollout,15,rock,30,90
+184,5,Rollout,15,rock,30,90
+184,6,Rollout,15,rock,30,90
+184,7,Rollout,15,rock,30,90
+184,8,Rollout,15,rock,30,90
+184,9,Rollout,15,rock,30,90
+184,10,Rollout,15,rock,30,90
+184,11,Rollout,15,rock,30,90
+184,12,Rollout,15,rock,30,90
+184,13,Rollout,15,rock,30,90
+184,14,Helping Hand,16,normal,-,-
+184,15,Helping Hand,16,normal,-,-
+184,16,Helping Hand,16,normal,-,-
+184,8,Bubble Beam,20,water,65,100
+184,9,Bubble Beam,20,water,65,100
+184,10,Bubble Beam,20,water,65,100
+184,11,Bubble Beam,20,water,65,100
+184,14,Aqua Tail,21,water,90,90
+184,15,Aqua Tail,21,water,90,90
+184,16,Aqua Tail,21,water,90,90
+184,5,Bubble Beam,24,water,65,100
+184,6,Bubble Beam,24,water,65,100
+184,7,Bubble Beam,24,water,65,100
+184,12,Bubble Beam,24,water,65,100
+184,13,Bubble Beam,24,water,65,100
+184,3,Bubble Beam,25,water,65,100
+184,4,Bubble Beam,25,water,65,100
+184,14,Double-Edge,25,normal,120,100
+184,15,Double-Edge,25,normal,120,100
+184,16,Play Rough,25,fairy,90,90
+184,8,Aqua Ring,27,water,-,-
+184,9,Aqua Ring,27,water,-,-
+184,10,Aqua Ring,27,water,-,-
+184,11,Aqua Ring,27,water,-,-
+184,14,Aqua Ring,31,water,-,-
+184,15,Aqua Ring,31,water,-,-
+184,16,Aqua Ring,31,water,-,-
+184,8,Double-Edge,33,normal,120,100
+184,9,Double-Edge,33,normal,120,100
+184,10,Double-Edge,33,normal,120,100
+184,11,Double-Edge,33,normal,120,100
+184,5,Double-Edge,34,normal,120,100
+184,6,Double-Edge,34,normal,120,100
+184,7,Double-Edge,34,normal,120,100
+184,12,Double-Edge,34,normal,120,100
+184,13,Double-Edge,34,normal,120,100
+184,14,Rain Dance,35,water,-,-
+184,15,Rain Dance,35,water,-,-
+184,16,Rain Dance,35,water,-,-
+184,3,Double-Edge,36,normal,120,100
+184,4,Double-Edge,36,normal,120,100
+184,8,Rain Dance,40,water,-,-
+184,9,Rain Dance,40,water,-,-
+184,10,Rain Dance,40,water,-,-
+184,11,Rain Dance,40,water,-,-
+184,14,Superpower,42,fighting,120,100
+184,15,Superpower,42,fighting,120,100
+184,16,Double-Edge,42,normal,120,100
+184,5,Rain Dance,45,water,-,-
+184,6,Rain Dance,45,water,-,-
+184,7,Rain Dance,45,water,-,-
+184,12,Rain Dance,45,water,-,-
+184,13,Rain Dance,45,water,-,-
+184,14,Hydro Pump,46,water,110,80
+184,15,Hydro Pump,46,water,110,80
+184,16,Superpower,46,fighting,120,100
+184,8,Aqua Tail,47,water,90,90
+184,9,Aqua Tail,47,water,90,90
+184,10,Aqua Tail,47,water,90,90
+184,11,Aqua Tail,47,water,90,90
+184,3,Rain Dance,48,water,-,-
+184,4,Rain Dance,48,water,-,-
+184,15,Play Rough,50,fairy,90,90
+184,8,Hydro Pump,54,water,110,80
+184,9,Hydro Pump,54,water,110,80
+184,10,Hydro Pump,54,water,110,80
+184,11,Hydro Pump,54,water,110,80
+184,16,Hydro Pump,55,water,110,80
+184,5,Hydro Pump,57,water,110,80
+184,6,Hydro Pump,57,water,110,80
+184,7,Hydro Pump,57,water,110,80
+184,12,Hydro Pump,57,water,110,80
+184,13,Hydro Pump,57,water,110,80

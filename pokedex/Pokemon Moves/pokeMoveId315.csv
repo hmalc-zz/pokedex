@@ -1,0 +1,190 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+315,5,Absorb,1,grass,20,100
+315,6,Absorb,1,grass,20,100
+315,7,Absorb,1,grass,20,100
+315,8,Absorb,1,grass,20,100
+315,9,Absorb,1,grass,20,100
+315,10,Absorb,1,grass,20,100
+315,11,Absorb,1,grass,20,100
+315,12,Absorb,1,grass,20,100
+315,13,Absorb,1,grass,20,100
+315,14,Absorb,1,grass,20,100
+315,15,Absorb,1,grass,20,100
+315,16,Absorb,1,grass,20,100
+315,8,Growth,4,normal,-,-
+315,9,Growth,4,normal,-,-
+315,10,Growth,4,normal,-,-
+315,11,Growth,4,normal,-,-
+315,14,Growth,4,normal,-,-
+315,15,Growth,4,normal,-,-
+315,16,Growth,4,normal,-,-
+315,5,Growth,5,normal,-,-
+315,6,Growth,5,normal,-,-
+315,7,Growth,5,normal,-,-
+315,12,Growth,5,normal,-,-
+315,13,Growth,5,normal,-,-
+315,8,Poison Sting,7,poison,15,100
+315,9,Poison Sting,7,poison,15,100
+315,10,Poison Sting,7,poison,15,100
+315,11,Poison Sting,7,poison,15,100
+315,14,Poison Sting,7,poison,15,100
+315,15,Poison Sting,7,poison,15,100
+315,16,Poison Sting,7,poison,15,100
+315,5,Poison Sting,9,poison,15,100
+315,6,Poison Sting,9,poison,15,100
+315,7,Poison Sting,9,poison,15,100
+315,12,Poison Sting,9,poison,15,100
+315,13,Poison Sting,9,poison,15,100
+315,8,Stun Spore,10,grass,-,75
+315,9,Stun Spore,10,grass,-,75
+315,10,Stun Spore,10,grass,-,75
+315,11,Stun Spore,10,grass,-,75
+315,14,Stun Spore,10,grass,-,75
+315,15,Stun Spore,10,grass,-,75
+315,16,Stun Spore,10,grass,-,75
+315,5,Stun Spore,13,grass,-,75
+315,6,Stun Spore,13,grass,-,75
+315,7,Stun Spore,13,grass,-,75
+315,8,Mega Drain,13,grass,40,100
+315,9,Mega Drain,13,grass,40,100
+315,10,Mega Drain,13,grass,40,100
+315,11,Mega Drain,13,grass,40,100
+315,12,Stun Spore,13,grass,-,75
+315,13,Stun Spore,13,grass,-,75
+315,14,Mega Drain,13,grass,40,100
+315,15,Mega Drain,13,grass,40,100
+315,16,Mega Drain,13,grass,40,100
+315,8,Leech Seed,16,grass,-,90
+315,9,Leech Seed,16,grass,-,90
+315,10,Leech Seed,16,grass,-,90
+315,11,Leech Seed,16,grass,-,90
+315,14,Leech Seed,16,grass,-,90
+315,15,Leech Seed,16,grass,-,90
+315,16,Leech Seed,16,grass,-,90
+315,5,Mega Drain,17,grass,40,100
+315,6,Mega Drain,17,grass,40,100
+315,7,Mega Drain,17,grass,40,100
+315,12,Mega Drain,17,grass,40,100
+315,13,Mega Drain,17,grass,40,100
+315,8,Magical Leaf,19,grass,60,-
+315,9,Magical Leaf,19,grass,60,-
+315,10,Magical Leaf,19,grass,60,-
+315,11,Magical Leaf,19,grass,60,-
+315,14,Magical Leaf,19,grass,60,-
+315,15,Magical Leaf,19,grass,60,-
+315,16,Magical Leaf,19,grass,60,-
+315,5,Leech Seed,21,grass,-,90
+315,6,Leech Seed,21,grass,-,90
+315,7,Leech Seed,21,grass,-,90
+315,12,Leech Seed,21,grass,-,90
+315,13,Leech Seed,21,grass,-,90
+315,8,Grass Whistle,22,grass,-,55
+315,9,Grass Whistle,22,grass,-,55
+315,10,Grass Whistle,22,grass,-,55
+315,11,Grass Whistle,22,grass,-,55
+315,14,Grass Whistle,22,grass,-,55
+315,15,Grass Whistle,22,grass,-,55
+315,16,Grass Whistle,22,grass,-,55
+315,5,Magical Leaf,25,grass,60,-
+315,6,Magical Leaf,25,grass,60,-
+315,7,Magical Leaf,25,grass,60,-
+315,8,Giga Drain,25,grass,75,100
+315,9,Giga Drain,25,grass,75,100
+315,10,Giga Drain,25,grass,75,100
+315,11,Giga Drain,25,grass,75,100
+315,12,Magical Leaf,25,grass,60,-
+315,13,Magical Leaf,25,grass,60,-
+315,14,Giga Drain,25,grass,75,100
+315,15,Giga Drain,25,grass,75,100
+315,16,Giga Drain,25,grass,75,100
+315,8,Toxic Spikes,28,poison,-,-
+315,9,Toxic Spikes,28,poison,-,-
+315,10,Toxic Spikes,28,poison,-,-
+315,11,Toxic Spikes,28,poison,-,-
+315,14,Toxic Spikes,28,poison,-,-
+315,15,Toxic Spikes,28,poison,-,-
+315,16,Toxic Spikes,28,poison,-,-
+315,5,Grass Whistle,29,grass,-,55
+315,6,Grass Whistle,29,grass,-,55
+315,7,Grass Whistle,29,grass,-,55
+315,12,Grass Whistle,29,grass,-,55
+315,13,Grass Whistle,29,grass,-,55
+315,8,Sweet Scent,31,normal,-,100
+315,9,Sweet Scent,31,normal,-,100
+315,10,Sweet Scent,31,normal,-,100
+315,11,Sweet Scent,31,normal,-,100
+315,14,Sweet Scent,31,normal,-,100
+315,15,Sweet Scent,31,normal,-,100
+315,16,Sweet Scent,31,normal,-,100
+315,5,Giga Drain,33,grass,75,100
+315,6,Giga Drain,33,grass,75,100
+315,7,Giga Drain,33,grass,75,100
+315,12,Giga Drain,33,grass,75,100
+315,13,Giga Drain,33,grass,75,100
+315,8,Ingrain,34,grass,-,-
+315,9,Ingrain,34,grass,-,-
+315,10,Ingrain,34,grass,-,-
+315,11,Ingrain,34,grass,-,-
+315,14,Ingrain,34,grass,-,-
+315,15,Ingrain,34,grass,-,-
+315,16,Ingrain,34,grass,-,-
+315,5,Sweet Scent,37,normal,-,100
+315,6,Sweet Scent,37,normal,-,100
+315,7,Sweet Scent,37,normal,-,100
+315,8,Toxic,37,poison,-,90
+315,9,Toxic,37,poison,-,90
+315,10,Toxic,37,poison,-,90
+315,11,Toxic,37,poison,-,90
+315,12,Sweet Scent,37,normal,-,100
+315,13,Sweet Scent,37,normal,-,100
+315,14,Petal Dance,37,grass,120,100
+315,15,Petal Dance,37,grass,120,100
+315,16,Petal Blizzard,37,grass,90,100
+315,8,Petal Dance,40,grass,120,100
+315,9,Petal Dance,40,grass,120,100
+315,10,Petal Dance,40,grass,120,100
+315,11,Petal Dance,40,grass,120,100
+315,14,Toxic,40,poison,-,90
+315,15,Toxic,40,poison,-,90
+315,16,Toxic,40,poison,-,90
+315,5,Ingrain,41,grass,-,-
+315,6,Ingrain,41,grass,-,-
+315,7,Ingrain,41,grass,-,-
+315,12,Ingrain,41,grass,-,-
+315,13,Ingrain,41,grass,-,-
+315,8,Aromatherapy,43,grass,-,-
+315,9,Aromatherapy,43,grass,-,-
+315,10,Aromatherapy,43,grass,-,-
+315,11,Aromatherapy,43,grass,-,-
+315,14,Aromatherapy,43,grass,-,-
+315,15,Aromatherapy,43,grass,-,-
+315,16,Aromatherapy,43,grass,-,-
+315,5,Toxic,45,poison,-,90
+315,6,Toxic,45,poison,-,90
+315,7,Toxic,45,poison,-,90
+315,12,Toxic,45,poison,-,90
+315,13,Toxic,45,poison,-,90
+315,8,Synthesis,46,grass,-,-
+315,9,Synthesis,46,grass,-,-
+315,10,Synthesis,46,grass,-,-
+315,11,Synthesis,46,grass,-,-
+315,14,Synthesis,46,grass,-,-
+315,15,Synthesis,46,grass,-,-
+315,16,Synthesis,46,grass,-,-
+315,5,Petal Dance,49,grass,120,100
+315,6,Petal Dance,49,grass,120,100
+315,7,Petal Dance,49,grass,120,100
+315,12,Petal Dance,49,grass,120,100
+315,13,Petal Dance,49,grass,120,100
+315,15,Petal Blizzard,50,grass,90,100
+315,16,Petal Dance,50,grass,120,100
+315,5,Aromatherapy,53,grass,-,-
+315,6,Aromatherapy,53,grass,-,-
+315,7,Aromatherapy,53,grass,-,-
+315,12,Aromatherapy,53,grass,-,-
+315,13,Aromatherapy,53,grass,-,-
+315,5,Synthesis,57,grass,-,-
+315,6,Synthesis,57,grass,-,-
+315,7,Synthesis,57,grass,-,-
+315,12,Synthesis,57,grass,-,-
+315,13,Synthesis,57,grass,-,-

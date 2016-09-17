@@ -1,0 +1,73 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+496,11,Vine Whip,1,grass,45,100
+496,11,Tackle,1,normal,50,100
+496,11,Wrap,1,normal,15,90
+496,11,Leer,1,normal,-,100
+496,14,Vine Whip,1,grass,45,100
+496,14,Tackle,1,normal,50,100
+496,14,Wrap,1,normal,15,90
+496,14,Leer,1,normal,-,100
+496,15,Vine Whip,1,grass,45,100
+496,15,Tackle,1,normal,50,100
+496,15,Wrap,1,normal,15,90
+496,15,Leer,1,normal,-,100
+496,16,Vine Whip,1,grass,45,100
+496,16,Tackle,1,normal,50,100
+496,16,Wrap,1,normal,15,90
+496,16,Leer,1,normal,-,100
+496,11,Leer,4,normal,-,100
+496,14,Leer,4,normal,-,100
+496,15,Leer,4,normal,-,100
+496,16,Leer,4,normal,-,100
+496,11,Vine Whip,7,grass,45,100
+496,14,Vine Whip,7,grass,45,100
+496,15,Vine Whip,7,grass,45,100
+496,16,Vine Whip,7,grass,45,100
+496,11,Wrap,10,normal,15,90
+496,14,Wrap,10,normal,15,90
+496,15,Wrap,10,normal,15,90
+496,16,Wrap,10,normal,15,90
+496,11,Growth,13,normal,-,-
+496,14,Growth,13,normal,-,-
+496,15,Growth,13,normal,-,-
+496,16,Growth,13,normal,-,-
+496,11,Leaf Tornado,16,grass,65,90
+496,14,Leaf Tornado,16,grass,65,90
+496,15,Leaf Tornado,16,grass,65,90
+496,16,Leaf Tornado,16,grass,65,90
+496,11,Leech Seed,20,grass,-,90
+496,14,Leech Seed,20,grass,-,90
+496,15,Leech Seed,20,grass,-,90
+496,16,Leech Seed,20,grass,-,90
+496,11,Mega Drain,24,grass,40,100
+496,14,Mega Drain,24,grass,40,100
+496,15,Mega Drain,24,grass,40,100
+496,16,Mega Drain,24,grass,40,100
+496,11,Slam,28,normal,80,75
+496,14,Slam,28,normal,80,75
+496,15,Slam,28,normal,80,75
+496,16,Slam,28,normal,80,75
+496,11,Leaf Blade,32,grass,90,100
+496,14,Leaf Blade,32,grass,90,100
+496,15,Leaf Blade,32,grass,90,100
+496,16,Leaf Blade,32,grass,90,100
+496,11,Coil,36,poison,-,-
+496,14,Coil,36,poison,-,-
+496,15,Coil,36,poison,-,-
+496,16,Coil,36,poison,-,-
+496,11,Giga Drain,40,grass,75,100
+496,14,Giga Drain,40,grass,75,100
+496,15,Giga Drain,40,grass,75,100
+496,16,Giga Drain,40,grass,75,100
+496,11,Wring Out,44,normal,-,100
+496,14,Wring Out,44,normal,-,100
+496,15,Wring Out,44,normal,-,100
+496,16,Wring Out,44,normal,-,100
+496,11,Gastro Acid,48,poison,-,100
+496,14,Gastro Acid,48,poison,-,100
+496,15,Gastro Acid,48,poison,-,100
+496,16,Gastro Acid,48,poison,-,100
+496,11,Leaf Storm,52,grass,130,90
+496,14,Leaf Storm,52,grass,130,90
+496,15,Leaf Storm,52,grass,130,90
+496,16,Leaf Storm,52,grass,130,90

@@ -1,0 +1,128 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+428,8,Pound,1,normal,40,100
+428,8,Defense Curl,1,normal,-,-
+428,8,Splash,1,normal,-,-
+428,8,Foresight,1,normal,-,-
+428,8,Mirror Coat,1,psychic,-,100
+428,8,Magic Coat,1,psychic,-,-
+428,9,Pound,1,normal,40,100
+428,9,Defense Curl,1,normal,-,-
+428,9,Splash,1,normal,-,-
+428,9,Foresight,1,normal,-,-
+428,9,Mirror Coat,1,psychic,-,100
+428,9,Magic Coat,1,psychic,-,-
+428,10,Pound,1,normal,40,100
+428,10,Defense Curl,1,normal,-,-
+428,10,Splash,1,normal,-,-
+428,10,Foresight,1,normal,-,-
+428,10,Mirror Coat,1,psychic,-,100
+428,10,Magic Coat,1,psychic,-,-
+428,11,Pound,1,normal,40,100
+428,11,Defense Curl,1,normal,-,-
+428,11,Splash,1,normal,-,-
+428,11,Foresight,1,normal,-,-
+428,11,Mirror Coat,1,psychic,-,100
+428,11,Magic Coat,1,psychic,-,-
+428,14,Pound,1,normal,40,100
+428,14,Defense Curl,1,normal,-,-
+428,14,Splash,1,normal,-,-
+428,14,Foresight,1,normal,-,-
+428,14,Mirror Coat,1,psychic,-,100
+428,14,Magic Coat,1,psychic,-,-
+428,15,Pound,1,normal,40,100
+428,15,Defense Curl,1,normal,-,-
+428,15,Splash,1,normal,-,-
+428,15,Foresight,1,normal,-,-
+428,15,Mirror Coat,1,psychic,-,100
+428,15,Magic Coat,1,psychic,-,-
+428,15,Bounce,1,flying,85,85
+428,15,Healing Wish,1,psychic,-,-
+428,15,Rototiller,1,ground,-,-
+428,16,Pound,1,normal,40,100
+428,16,Defense Curl,1,normal,-,-
+428,16,Splash,1,normal,-,-
+428,16,Foresight,1,normal,-,-
+428,16,Mirror Coat,1,psychic,-,100
+428,16,Magic Coat,1,psychic,-,-
+428,16,Bounce,1,flying,85,85
+428,16,Healing Wish,1,psychic,-,-
+428,16,Rototiller,1,ground,-,-
+428,8,Endure,6,normal,-,-
+428,9,Endure,6,normal,-,-
+428,10,Endure,6,normal,-,-
+428,11,Endure,6,normal,-,-
+428,14,Endure,6,normal,-,-
+428,15,Endure,6,normal,-,-
+428,16,Endure,6,normal,-,-
+428,8,Return,13,normal,-,100
+428,9,Return,13,normal,-,100
+428,10,Return,13,normal,-,100
+428,11,Return,13,normal,-,100
+428,14,Return,13,normal,-,100
+428,15,Return,13,normal,-,100
+428,16,Return,13,normal,-,100
+428,8,Quick Attack,16,normal,40,100
+428,9,Quick Attack,16,normal,40,100
+428,10,Quick Attack,16,normal,40,100
+428,11,Quick Attack,16,normal,40,100
+428,14,Quick Attack,16,normal,40,100
+428,15,Quick Attack,16,normal,40,100
+428,16,Quick Attack,16,normal,40,100
+428,8,Jump Kick,23,fighting,100,95
+428,9,Jump Kick,23,fighting,100,95
+428,10,Jump Kick,23,fighting,100,95
+428,11,Jump Kick,23,fighting,100,95
+428,14,Jump Kick,23,fighting,100,95
+428,15,Jump Kick,23,fighting,100,95
+428,16,Jump Kick,23,fighting,100,95
+428,8,Baton Pass,26,normal,-,-
+428,9,Baton Pass,26,normal,-,-
+428,10,Baton Pass,26,normal,-,-
+428,11,Baton Pass,26,normal,-,-
+428,14,Baton Pass,26,normal,-,-
+428,15,Baton Pass,26,normal,-,-
+428,16,Baton Pass,26,normal,-,-
+428,8,Agility,33,psychic,-,-
+428,9,Agility,33,psychic,-,-
+428,10,Agility,33,psychic,-,-
+428,11,Agility,33,psychic,-,-
+428,14,Agility,33,psychic,-,-
+428,15,Agility,33,psychic,-,-
+428,16,Agility,33,psychic,-,-
+428,8,Dizzy Punch,36,normal,70,100
+428,9,Dizzy Punch,36,normal,70,100
+428,10,Dizzy Punch,36,normal,70,100
+428,11,Dizzy Punch,36,normal,70,100
+428,14,Dizzy Punch,36,normal,70,100
+428,15,Dizzy Punch,36,normal,70,100
+428,16,Dizzy Punch,36,normal,70,100
+428,8,Charm,43,fairy,-,100
+428,9,Charm,43,fairy,-,100
+428,10,Charm,43,fairy,-,100
+428,11,After You,43,normal,-,-
+428,14,After You,43,normal,-,-
+428,15,After You,43,normal,-,-
+428,16,After You,43,normal,-,-
+428,8,Bounce,46,flying,85,85
+428,9,Bounce,46,flying,85,85
+428,10,Bounce,46,flying,85,85
+428,11,Charm,46,fairy,-,100
+428,14,Charm,46,fairy,-,100
+428,15,Charm,46,fairy,-,100
+428,16,Charm,46,fairy,-,100
+428,8,Healing Wish,53,psychic,-,-
+428,9,Healing Wish,53,psychic,-,-
+428,10,Healing Wish,53,psychic,-,-
+428,11,Entrainment,53,normal,-,100
+428,14,Entrainment,53,normal,-,100
+428,15,Entrainment,53,normal,-,100
+428,16,Entrainment,53,normal,-,100
+428,11,Bounce,56,flying,85,85
+428,14,Bounce,56,flying,85,85
+428,15,Bounce,56,flying,85,85
+428,16,Bounce,56,flying,85,85
+428,11,Healing Wish,63,psychic,-,-
+428,14,Healing Wish,63,psychic,-,-
+428,15,Healing Wish,63,psychic,-,-
+428,16,Healing Wish,63,psychic,-,-
+428,16,High Jump Kick,66,fighting,130,90

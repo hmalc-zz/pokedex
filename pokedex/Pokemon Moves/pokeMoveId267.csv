@@ -1,0 +1,134 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+267,5,Absorb,1,grass,20,100
+267,6,Absorb,1,grass,20,100
+267,7,Absorb,1,grass,20,100
+267,8,Absorb,1,grass,20,100
+267,9,Absorb,1,grass,20,100
+267,10,Absorb,1,grass,20,100
+267,11,Absorb,1,grass,20,100
+267,12,Absorb,1,grass,20,100
+267,13,Absorb,1,grass,20,100
+267,14,Absorb,1,grass,20,100
+267,15,Absorb,1,grass,20,100
+267,16,Gust,1,flying,40,100
+267,5,Absorb,10,grass,20,100
+267,6,Absorb,10,grass,20,100
+267,7,Absorb,10,grass,20,100
+267,8,Absorb,10,grass,20,100
+267,9,Absorb,10,grass,20,100
+267,10,Absorb,10,grass,20,100
+267,11,Absorb,10,grass,20,100
+267,12,Absorb,10,grass,20,100
+267,13,Absorb,10,grass,20,100
+267,14,Absorb,10,grass,20,100
+267,15,Absorb,10,grass,20,100
+267,16,Gust,10,flying,40,100
+267,16,Absorb,12,grass,20,100
+267,5,Gust,13,flying,40,100
+267,6,Gust,13,flying,40,100
+267,7,Gust,13,flying,40,100
+267,8,Gust,13,flying,40,100
+267,9,Gust,13,flying,40,100
+267,10,Gust,13,flying,40,100
+267,11,Gust,13,flying,40,100
+267,12,Gust,13,flying,40,100
+267,13,Gust,13,flying,40,100
+267,14,Gust,13,flying,40,100
+267,15,Gust,13,flying,40,100
+267,16,Stun Spore,15,grass,-,75
+267,5,Stun Spore,17,grass,-,75
+267,6,Stun Spore,17,grass,-,75
+267,7,Stun Spore,17,grass,-,75
+267,8,Stun Spore,17,grass,-,75
+267,9,Stun Spore,17,grass,-,75
+267,10,Stun Spore,17,grass,-,75
+267,11,Stun Spore,17,grass,-,75
+267,12,Stun Spore,17,grass,-,75
+267,13,Stun Spore,17,grass,-,75
+267,14,Stun Spore,17,grass,-,75
+267,15,Stun Spore,17,grass,-,75
+267,16,Morning Sun,17,normal,-,-
+267,5,Morning Sun,20,normal,-,-
+267,6,Morning Sun,20,normal,-,-
+267,7,Morning Sun,20,normal,-,-
+267,8,Morning Sun,20,normal,-,-
+267,9,Morning Sun,20,normal,-,-
+267,10,Morning Sun,20,normal,-,-
+267,11,Morning Sun,20,normal,-,-
+267,12,Morning Sun,20,normal,-,-
+267,13,Morning Sun,20,normal,-,-
+267,14,Morning Sun,20,normal,-,-
+267,15,Morning Sun,20,normal,-,-
+267,16,Air Cutter,20,flying,60,95
+267,16,Mega Drain,22,grass,40,100
+267,5,Mega Drain,24,grass,40,100
+267,6,Mega Drain,24,grass,40,100
+267,7,Mega Drain,24,grass,40,100
+267,8,Mega Drain,24,grass,40,100
+267,9,Mega Drain,24,grass,40,100
+267,10,Mega Drain,24,grass,40,100
+267,11,Mega Drain,24,grass,40,100
+267,12,Mega Drain,24,grass,40,100
+267,13,Mega Drain,24,grass,40,100
+267,14,Mega Drain,24,grass,40,100
+267,15,Mega Drain,24,grass,40,100
+267,16,Silver Wind,25,bug,60,100
+267,5,Whirlwind,27,normal,-,-
+267,6,Whirlwind,27,normal,-,-
+267,7,Whirlwind,27,normal,-,-
+267,8,Whirlwind,27,normal,-,-
+267,9,Whirlwind,27,normal,-,-
+267,10,Whirlwind,27,normal,-,-
+267,11,Whirlwind,27,normal,-,-
+267,12,Whirlwind,27,normal,-,-
+267,13,Whirlwind,27,normal,-,-
+267,14,Whirlwind,27,normal,-,-
+267,15,Whirlwind,27,normal,-,-
+267,16,Attract,27,normal,-,100
+267,16,Whirlwind,30,normal,-,-
+267,5,Attract,31,normal,-,100
+267,6,Attract,31,normal,-,100
+267,7,Attract,31,normal,-,100
+267,8,Attract,31,normal,-,100
+267,9,Attract,31,normal,-,100
+267,10,Attract,31,normal,-,100
+267,11,Attract,31,normal,-,100
+267,12,Attract,31,normal,-,100
+267,13,Attract,31,normal,-,100
+267,14,Attract,31,normal,-,100
+267,15,Attract,31,normal,-,100
+267,16,Giga Drain,32,grass,75,100
+267,5,Silver Wind,34,bug,60,100
+267,6,Silver Wind,34,bug,60,100
+267,7,Silver Wind,34,bug,60,100
+267,8,Silver Wind,34,bug,60,100
+267,9,Silver Wind,34,bug,60,100
+267,10,Silver Wind,34,bug,60,100
+267,11,Silver Wind,34,bug,60,100
+267,12,Silver Wind,34,bug,60,100
+267,13,Silver Wind,34,bug,60,100
+267,14,Silver Wind,34,bug,60,100
+267,15,Silver Wind,34,bug,60,100
+267,16,Bug Buzz,35,bug,90,100
+267,16,Rage,37,normal,20,100
+267,5,Giga Drain,38,grass,75,100
+267,6,Giga Drain,38,grass,75,100
+267,7,Giga Drain,38,grass,75,100
+267,8,Giga Drain,38,grass,75,100
+267,9,Giga Drain,38,grass,75,100
+267,10,Giga Drain,38,grass,75,100
+267,11,Giga Drain,38,grass,75,100
+267,12,Giga Drain,38,grass,75,100
+267,13,Giga Drain,38,grass,75,100
+267,14,Giga Drain,38,grass,75,100
+267,15,Giga Drain,38,grass,75,100
+267,16,Quiver Dance,40,bug,-,-
+267,8,Bug Buzz,41,bug,90,100
+267,9,Bug Buzz,41,bug,90,100
+267,10,Bug Buzz,41,bug,90,100
+267,11,Bug Buzz,41,bug,90,100
+267,14,Bug Buzz,41,bug,90,100
+267,15,Bug Buzz,41,bug,90,100
+267,11,Quiver Dance,45,bug,-,-
+267,14,Quiver Dance,45,bug,-,-
+267,15,Quiver Dance,45,bug,-,-

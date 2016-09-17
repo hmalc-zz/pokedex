@@ -1,0 +1,2 @@
+species_id,form_number,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega,ability_1,ability_1_name,ability_1_desc,ability_2,ability_2_name,ability_2_desc,hidden_ability,hidden_ability_name,hidden_ability_desc
+302,1,10066,sableye-mega,Dark,Ghost,1.7,354.9,50,85,125,85,115,20,480,mega,1,53,Pickup,Picks up other Pokemon's used and Flungfling held items.  May also pick up an item after battle.,,,,,,

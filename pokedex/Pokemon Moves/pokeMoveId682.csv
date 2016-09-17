@@ -1,0 +1,33 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+682,15,Sweet Scent,1,normal,-,100
+682,15,Fairy Wind,1,fairy,40,100
+682,16,Sweet Scent,1,normal,-,100
+682,16,Fairy Wind,1,fairy,40,100
+682,15,Sweet Kiss,6,fairy,-,75
+682,16,Sweet Kiss,6,fairy,-,75
+682,15,Odor Sleuth,8,normal,-,-
+682,16,Odor Sleuth,8,normal,-,-
+682,15,Echoed Voice,13,normal,40,100
+682,16,Echoed Voice,13,normal,40,100
+682,15,Calm Mind,17,psychic,-,-
+682,16,Calm Mind,17,psychic,-,-
+682,15,Draining Kiss,21,fairy,50,100
+682,16,Draining Kiss,21,fairy,50,100
+682,15,Aromatherapy,25,grass,-,-
+682,16,Aromatherapy,25,grass,-,-
+682,15,Attract,29,normal,-,100
+682,16,Attract,29,normal,-,100
+682,15,Moonblast,31,fairy,95,100
+682,16,Moonblast,31,fairy,95,100
+682,15,Charm,35,fairy,-,100
+682,16,Charm,35,fairy,-,100
+682,15,Flail,38,normal,-,100
+682,16,Flail,38,normal,-,100
+682,15,Misty Terrain,42,fairy,-,-
+682,16,Misty Terrain,42,fairy,-,-
+682,15,Skill Swap,44,psychic,-,-
+682,16,Skill Swap,44,psychic,-,-
+682,15,Psychic,48,psychic,90,100
+682,16,Psychic,48,psychic,90,100
+682,15,Disarming Voice,50,fairy,40,-
+682,16,Disarming Voice,50,fairy,40,-

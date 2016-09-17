@@ -1,0 +1,92 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+417,8,Growl,1,normal,-,100
+417,8,Bide,1,normal,-,-
+417,9,Growl,1,normal,-,100
+417,9,Bide,1,normal,-,-
+417,10,Growl,1,normal,-,100
+417,10,Bide,1,normal,-,-
+417,11,Growl,1,normal,-,100
+417,11,Bide,1,normal,-,-
+417,14,Growl,1,normal,-,100
+417,14,Bide,1,normal,-,-
+417,15,Growl,1,normal,-,100
+417,15,Bide,1,normal,-,-
+417,16,Growl,1,normal,-,100
+417,16,Bide,1,normal,-,-
+417,8,Quick Attack,5,normal,40,100
+417,9,Quick Attack,5,normal,40,100
+417,10,Quick Attack,5,normal,40,100
+417,11,Quick Attack,5,normal,40,100
+417,14,Quick Attack,5,normal,40,100
+417,15,Quick Attack,5,normal,40,100
+417,16,Quick Attack,5,normal,40,100
+417,8,Charm,9,fairy,-,100
+417,9,Charm,9,fairy,-,100
+417,10,Charm,9,fairy,-,100
+417,11,Charm,9,fairy,-,100
+417,14,Charm,9,fairy,-,100
+417,15,Charm,9,fairy,-,100
+417,16,Charm,9,fairy,-,100
+417,8,Spark,13,electric,65,100
+417,9,Spark,13,electric,65,100
+417,10,Spark,13,electric,65,100
+417,11,Spark,13,electric,65,100
+417,14,Spark,13,electric,65,100
+417,15,Spark,13,electric,65,100
+417,16,Spark,13,electric,65,100
+417,8,Endure,17,normal,-,-
+417,9,Endure,17,normal,-,-
+417,10,Endure,17,normal,-,-
+417,11,Endure,17,normal,-,-
+417,14,Endure,17,normal,-,-
+417,15,Endure,17,normal,-,-
+417,16,Endure,17,normal,-,-
+417,15,Nuzzle,19,electric,20,100
+417,16,Nuzzle,19,electric,20,100
+417,8,Swift,21,normal,60,-
+417,9,Swift,21,normal,60,-
+417,10,Swift,21,normal,60,-
+417,11,Swift,21,normal,60,-
+417,14,Swift,21,normal,60,-
+417,15,Swift,21,normal,60,-
+417,16,Swift,21,normal,60,-
+417,8,Sweet Kiss,25,fairy,-,75
+417,9,Sweet Kiss,25,fairy,-,75
+417,10,Sweet Kiss,25,fairy,-,75
+417,11,Electro Ball,25,electric,-,100
+417,14,Electro Ball,25,electric,-,100
+417,15,Electro Ball,25,electric,-,100
+417,16,Electro Ball,25,electric,-,100
+417,8,Discharge,29,electric,80,100
+417,9,Discharge,29,electric,80,100
+417,10,Discharge,29,electric,80,100
+417,11,Sweet Kiss,29,fairy,-,75
+417,14,Sweet Kiss,29,fairy,-,75
+417,15,Sweet Kiss,29,fairy,-,75
+417,16,Sweet Kiss,29,fairy,-,75
+417,8,Super Fang,33,normal,-,90
+417,9,Super Fang,33,normal,-,90
+417,10,Super Fang,33,normal,-,90
+417,11,Thunder Wave,33,electric,-,100
+417,14,Thunder Wave,33,electric,-,100
+417,15,Thunder Wave,33,electric,-,100
+417,16,Thunder Wave,33,electric,-,100
+417,8,Last Resort,37,normal,140,100
+417,9,Last Resort,37,normal,140,100
+417,10,Last Resort,37,normal,140,100
+417,11,Super Fang,37,normal,-,90
+417,14,Super Fang,37,normal,-,90
+417,15,Super Fang,37,normal,-,90
+417,16,Super Fang,37,normal,-,90
+417,11,Discharge,41,electric,80,100
+417,14,Discharge,41,electric,80,100
+417,15,Discharge,41,electric,80,100
+417,16,Discharge,41,electric,80,100
+417,11,Last Resort,45,normal,140,100
+417,14,Last Resort,45,normal,140,100
+417,15,Last Resort,45,normal,140,100
+417,16,Last Resort,45,normal,140,100
+417,11,Hyper Fang,49,normal,80,90
+417,14,Hyper Fang,49,normal,80,90
+417,15,Hyper Fang,49,normal,80,90
+417,16,Hyper Fang,49,normal,80,90

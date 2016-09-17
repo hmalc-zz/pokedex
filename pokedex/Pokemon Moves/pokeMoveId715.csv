@@ -1,0 +1,45 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+715,15,Tackle,1,normal,50,100
+715,15,Supersonic,1,normal,-,55
+715,15,Screech,1,normal,-,85
+715,15,Moonlight,1,fairy,-,-
+715,15,Dragon Pulse,1,dragon,85,100
+715,15,Hurricane,1,flying,110,70
+715,15,Boomburst,1,normal,140,100
+715,16,Tackle,1,normal,50,100
+715,16,Supersonic,1,normal,-,55
+715,16,Screech,1,normal,-,85
+715,16,Moonlight,1,fairy,-,-
+715,16,Dragon Pulse,1,dragon,85,100
+715,16,Hurricane,1,flying,110,70
+715,16,Boomburst,1,normal,140,100
+715,15,Leech Life,5,bug,20,100
+715,16,Leech Life,5,bug,20,100
+715,15,Gust,11,flying,40,100
+715,16,Gust,11,flying,40,100
+715,15,Bite,13,dark,60,100
+715,16,Bite,13,dark,60,100
+715,15,Wing Attack,16,flying,60,100
+715,16,Wing Attack,16,flying,60,100
+715,15,Agility,18,psychic,-,-
+715,16,Agility,18,psychic,-,-
+715,15,Air Cutter,23,flying,60,95
+715,16,Air Cutter,23,flying,60,95
+715,15,Roost,27,flying,-,-
+715,16,Roost,27,flying,-,-
+715,15,Razor Wind,31,normal,80,100
+715,16,Razor Wind,31,normal,80,100
+715,15,Tailwind,35,flying,-,-
+715,16,Tailwind,35,flying,-,-
+715,15,Whirlwind,40,normal,-,-
+715,16,Whirlwind,40,normal,-,-
+715,15,Super Fang,43,normal,-,90
+715,16,Super Fang,43,normal,-,90
+715,15,Air Slash,53,flying,75,95
+715,16,Air Slash,53,flying,75,95
+715,15,Hurricane,62,flying,110,70
+715,16,Hurricane,62,flying,110,70
+715,15,Dragon Pulse,70,dragon,85,100
+715,16,Dragon Pulse,70,dragon,85,100
+715,15,Boomburst,75,normal,140,100
+715,16,Boomburst,75,normal,140,100

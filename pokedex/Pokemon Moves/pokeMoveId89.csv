@@ -1,0 +1,213 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+89,1,Pound,1,normal,40,100
+89,1,Disable,1,normal,-,100
+89,1,Poison Gas,1,poison,-,90
+89,2,Pound,1,normal,40,100
+89,2,Disable,1,normal,-,100
+89,2,Poison Gas,1,poison,-,90
+89,3,Pound,1,normal,40,100
+89,3,Harden,1,normal,-,-
+89,3,Poison Gas,1,poison,-,90
+89,4,Pound,1,normal,40,100
+89,4,Harden,1,normal,-,-
+89,4,Poison Gas,1,poison,-,90
+89,5,Pound,1,normal,40,100
+89,5,Harden,1,normal,-,-
+89,5,Poison Gas,1,poison,-,90
+89,6,Pound,1,normal,40,100
+89,6,Harden,1,normal,-,-
+89,6,Poison Gas,1,poison,-,90
+89,7,Pound,1,normal,40,100
+89,7,Harden,1,normal,-,-
+89,7,Poison Gas,1,poison,-,90
+89,8,Pound,1,normal,40,100
+89,8,Harden,1,normal,-,-
+89,8,Poison Gas,1,poison,-,90
+89,8,Mud-Slap,1,ground,20,100
+89,9,Pound,1,normal,40,100
+89,9,Harden,1,normal,-,-
+89,9,Poison Gas,1,poison,-,90
+89,9,Mud-Slap,1,ground,20,100
+89,10,Pound,1,normal,40,100
+89,10,Harden,1,normal,-,-
+89,10,Poison Gas,1,poison,-,90
+89,10,Mud-Slap,1,ground,20,100
+89,11,Pound,1,normal,40,100
+89,11,Harden,1,normal,-,-
+89,11,Poison Gas,1,poison,-,90
+89,11,Mud-Slap,1,ground,20,100
+89,12,Pound,1,normal,40,100
+89,12,Harden,1,normal,-,-
+89,12,Poison Gas,1,poison,-,90
+89,13,Pound,1,normal,40,100
+89,13,Harden,1,normal,-,-
+89,13,Poison Gas,1,poison,-,90
+89,14,Pound,1,normal,40,100
+89,14,Harden,1,normal,-,-
+89,14,Poison Gas,1,poison,-,90
+89,14,Mud-Slap,1,ground,20,100
+89,15,Pound,1,normal,40,100
+89,15,Harden,1,normal,-,-
+89,15,Poison Gas,1,poison,-,90
+89,15,Mud-Slap,1,ground,20,100
+89,16,Pound,1,normal,40,100
+89,16,Harden,1,normal,-,-
+89,16,Poison Gas,1,poison,-,90
+89,16,Mud-Slap,1,ground,20,100
+89,5,Harden,4,normal,-,-
+89,6,Harden,4,normal,-,-
+89,7,Harden,4,normal,-,-
+89,8,Harden,4,normal,-,-
+89,9,Harden,4,normal,-,-
+89,10,Harden,4,normal,-,-
+89,11,Harden,4,normal,-,-
+89,12,Harden,4,normal,-,-
+89,13,Harden,4,normal,-,-
+89,14,Harden,4,normal,-,-
+89,15,Harden,4,normal,-,-
+89,16,Harden,4,normal,-,-
+89,8,Mud-Slap,7,ground,20,100
+89,9,Mud-Slap,7,ground,20,100
+89,10,Mud-Slap,7,ground,20,100
+89,11,Mud-Slap,7,ground,20,100
+89,14,Mud-Slap,7,ground,20,100
+89,15,Mud-Slap,7,ground,20,100
+89,16,Mud-Slap,7,ground,20,100
+89,5,Disable,8,normal,-,100
+89,6,Disable,8,normal,-,100
+89,7,Disable,8,normal,-,100
+89,12,Disable,8,normal,-,100
+89,13,Disable,8,normal,-,100
+89,8,Disable,12,normal,-,100
+89,9,Disable,12,normal,-,100
+89,10,Disable,12,normal,-,100
+89,11,Disable,12,normal,-,100
+89,14,Disable,12,normal,-,100
+89,15,Disable,12,normal,-,100
+89,16,Disable,12,normal,-,100
+89,5,Sludge,13,poison,65,100
+89,6,Sludge,13,poison,65,100
+89,7,Sludge,13,poison,65,100
+89,12,Sludge,13,poison,65,100
+89,13,Sludge,13,poison,65,100
+89,14,Sludge,15,poison,65,100
+89,15,Sludge,15,poison,65,100
+89,16,Sludge,15,poison,65,100
+89,8,Minimize,17,normal,-,-
+89,9,Minimize,17,normal,-,-
+89,10,Minimize,17,normal,-,-
+89,11,Minimize,17,normal,-,-
+89,14,Minimize,18,normal,-,-
+89,15,Minimize,18,normal,-,-
+89,16,Mud Bomb,18,ground,65,85
+89,5,Minimize,19,normal,-,-
+89,6,Minimize,19,normal,-,-
+89,7,Minimize,19,normal,-,-
+89,12,Minimize,19,normal,-,-
+89,13,Minimize,19,normal,-,-
+89,8,Sludge,20,poison,65,100
+89,9,Sludge,20,poison,65,100
+89,10,Sludge,20,poison,65,100
+89,11,Sludge,20,poison,65,100
+89,14,Mud Bomb,21,ground,65,85
+89,15,Mud Bomb,21,ground,65,85
+89,16,Minimize,21,normal,-,-
+89,3,Minimize,23,normal,-,-
+89,4,Minimize,23,normal,-,-
+89,8,Mud Bomb,23,ground,65,85
+89,9,Mud Bomb,23,ground,65,85
+89,10,Mud Bomb,23,ground,65,85
+89,11,Mud Bomb,23,ground,65,85
+89,5,Screech,26,normal,-,85
+89,6,Screech,26,normal,-,85
+89,7,Screech,26,normal,-,85
+89,12,Screech,26,normal,-,85
+89,13,Screech,26,normal,-,85
+89,14,Sludge Bomb,26,poison,90,100
+89,15,Sludge Bomb,26,poison,90,100
+89,16,Fling,26,dark,-,100
+89,8,Fling,28,dark,-,100
+89,9,Fling,28,dark,-,100
+89,10,Fling,28,dark,-,100
+89,11,Fling,28,dark,-,100
+89,14,Fling,29,dark,-,100
+89,15,Fling,29,dark,-,100
+89,16,Sludge Bomb,29,poison,90,100
+89,1,Poison Gas,30,poison,-,90
+89,2,Poison Gas,30,poison,-,90
+89,3,Screech,31,normal,-,85
+89,4,Screech,31,normal,-,85
+89,14,Screech,32,normal,-,85
+89,15,Screech,32,normal,-,85
+89,16,Sludge Wave,32,poison,95,100
+89,1,Minimize,33,normal,-,-
+89,2,Minimize,33,normal,-,-
+89,3,Harden,33,normal,-,-
+89,4,Harden,33,normal,-,-
+89,8,Screech,33,normal,-,85
+89,9,Screech,33,normal,-,85
+89,10,Screech,33,normal,-,85
+89,11,Screech,33,normal,-,85
+89,5,Acid Armor,34,poison,-,-
+89,6,Acid Armor,34,poison,-,-
+89,7,Acid Armor,34,poison,-,-
+89,12,Acid Armor,34,poison,-,-
+89,13,Acid Armor,34,poison,-,-
+89,8,Sludge Bomb,36,poison,90,100
+89,9,Sludge Bomb,36,poison,90,100
+89,10,Sludge Bomb,36,poison,90,100
+89,11,Sludge Bomb,36,poison,90,100
+89,1,Sludge,37,poison,65,100
+89,2,Sludge,37,poison,65,100
+89,3,Disable,37,normal,-,100
+89,4,Disable,37,normal,-,100
+89,14,Sludge Wave,37,poison,95,100
+89,15,Sludge Wave,37,poison,95,100
+89,16,Screech,37,normal,-,85
+89,16,Venom Drench,38,poison,-,100
+89,16,Gunk Shot,40,poison,120,80
+89,11,Acid Armor,42,poison,-,-
+89,14,Acid Armor,43,poison,-,-
+89,15,Acid Armor,43,poison,-,-
+89,8,Acid Armor,44,poison,-,-
+89,9,Acid Armor,44,poison,-,-
+89,10,Acid Armor,44,poison,-,-
+89,1,Harden,45,normal,-,-
+89,2,Harden,45,normal,-,-
+89,3,Sludge,45,poison,65,100
+89,3,Acid Armor,45,poison,-,-
+89,4,Sludge,45,poison,65,100
+89,4,Acid Armor,45,poison,-,-
+89,16,Acid Armor,46,poison,-,-
+89,5,Sludge Bomb,47,poison,90,100
+89,6,Sludge Bomb,47,poison,90,100
+89,7,Sludge Bomb,47,poison,90,100
+89,12,Sludge Bomb,47,poison,90,100
+89,13,Sludge Bomb,47,poison,90,100
+89,14,Gunk Shot,49,poison,120,80
+89,15,Gunk Shot,49,poison,120,80
+89,11,Sludge Wave,50,poison,95,100
+89,16,Belch,52,poison,120,90
+89,1,Screech,53,normal,-,85
+89,2,Screech,53,normal,-,85
+89,15,Belch,53,poison,120,90
+89,8,Gunk Shot,54,poison,120,80
+89,9,Gunk Shot,54,poison,120,80
+89,10,Gunk Shot,54,poison,120,80
+89,14,Memento,57,dark,-,100
+89,15,Memento,57,dark,-,100
+89,16,Memento,57,dark,-,100
+89,11,Gunk Shot,58,poison,120,80
+89,1,Acid Armor,60,poison,-,-
+89,2,Acid Armor,60,poison,-,-
+89,3,Sludge Bomb,60,poison,90,100
+89,4,Sludge Bomb,60,poison,90,100
+89,5,Memento,61,dark,-,100
+89,6,Memento,61,dark,-,100
+89,7,Memento,61,dark,-,100
+89,12,Memento,61,dark,-,100
+89,13,Memento,61,dark,-,100
+89,11,Memento,64,dark,-,100
+89,8,Memento,65,dark,-,100
+89,9,Memento,65,dark,-,100
+89,10,Memento,65,dark,-,100

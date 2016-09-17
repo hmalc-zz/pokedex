@@ -1,0 +1,167 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+358,5,Wrap,1,normal,15,90
+358,6,Wrap,1,normal,15,90
+358,7,Wrap,1,normal,15,90
+358,8,Wrap,1,normal,15,90
+358,9,Wrap,1,normal,15,90
+358,10,Wrap,1,normal,15,90
+358,11,Wrap,1,normal,15,90
+358,12,Wrap,1,normal,15,90
+358,13,Wrap,1,normal,15,90
+358,14,Wrap,1,normal,15,90
+358,15,Wrap,1,normal,15,90
+358,15,Healing Wish,1,psychic,-,-
+358,15,Synchronoise,1,psychic,120,100
+358,16,Wrap,1,normal,15,90
+358,16,Growl,1,normal,-,100
+358,16,Confusion,1,psychic,50,100
+358,16,Astonish,1,ghost,30,100
+358,16,Healing Wish,1,psychic,-,-
+358,16,Synchronoise,1,psychic,120,100
+358,16,Growl,4,normal,-,100
+358,5,Growl,6,normal,-,100
+358,6,Growl,6,normal,-,100
+358,7,Growl,6,normal,-,100
+358,8,Growl,6,normal,-,100
+358,9,Growl,6,normal,-,100
+358,10,Growl,6,normal,-,100
+358,11,Growl,6,normal,-,100
+358,12,Growl,6,normal,-,100
+358,13,Growl,6,normal,-,100
+358,14,Growl,6,normal,-,100
+358,15,Growl,6,normal,-,100
+358,16,Astonish,7,ghost,30,100
+358,5,Astonish,9,ghost,30,100
+358,6,Astonish,9,ghost,30,100
+358,7,Astonish,9,ghost,30,100
+358,8,Astonish,9,ghost,30,100
+358,9,Astonish,9,ghost,30,100
+358,10,Astonish,9,ghost,30,100
+358,11,Astonish,9,ghost,30,100
+358,12,Astonish,9,ghost,30,100
+358,13,Astonish,9,ghost,30,100
+358,14,Astonish,9,ghost,30,100
+358,15,Astonish,9,ghost,30,100
+358,16,Confusion,10,psychic,50,100
+358,16,Yawn,13,normal,-,-
+358,5,Confusion,14,psychic,50,100
+358,6,Confusion,14,psychic,50,100
+358,7,Confusion,14,psychic,50,100
+358,8,Confusion,14,psychic,50,100
+358,9,Confusion,14,psychic,50,100
+358,10,Confusion,14,psychic,50,100
+358,11,Confusion,14,psychic,50,100
+358,12,Confusion,14,psychic,50,100
+358,13,Confusion,14,psychic,50,100
+358,14,Confusion,14,psychic,50,100
+358,15,Confusion,14,psychic,50,100
+358,16,Psywave,16,psychic,-,100
+358,5,Take Down,17,normal,90,85
+358,6,Take Down,17,normal,90,85
+358,7,Take Down,17,normal,90,85
+358,8,Uproar,17,normal,90,100
+358,9,Uproar,17,normal,90,100
+358,10,Uproar,17,normal,90,100
+358,11,Uproar,17,normal,90,100
+358,12,Take Down,17,normal,90,85
+358,13,Take Down,17,normal,90,85
+358,14,Uproar,17,normal,90,100
+358,15,Uproar,17,normal,90,100
+358,16,Take Down,19,normal,90,85
+358,5,Uproar,22,normal,90,100
+358,6,Uproar,22,normal,90,100
+358,7,Uproar,22,normal,90,100
+358,8,Take Down,22,normal,90,85
+358,9,Take Down,22,normal,90,85
+358,10,Take Down,22,normal,90,85
+358,11,Take Down,22,normal,90,85
+358,12,Uproar,22,normal,90,100
+358,13,Uproar,22,normal,90,100
+358,14,Take Down,22,normal,90,85
+358,15,Take Down,22,normal,90,85
+358,16,Extrasensory,22,psychic,80,100
+358,5,Yawn,25,normal,-,-
+358,6,Yawn,25,normal,-,-
+358,7,Yawn,25,normal,-,-
+358,8,Yawn,25,normal,-,-
+358,9,Yawn,25,normal,-,-
+358,10,Yawn,25,normal,-,-
+358,11,Yawn,25,normal,-,-
+358,12,Yawn,25,normal,-,-
+358,13,Yawn,25,normal,-,-
+358,14,Yawn,25,normal,-,-
+358,15,Yawn,25,normal,-,-
+358,16,Heal Bell,27,normal,-,-
+358,5,Psywave,30,psychic,-,100
+358,6,Psywave,30,psychic,-,100
+358,7,Psywave,30,psychic,-,100
+358,8,Psywave,30,psychic,-,100
+358,9,Psywave,30,psychic,-,100
+358,10,Psywave,30,psychic,-,100
+358,11,Psywave,30,psychic,-,100
+358,12,Psywave,30,psychic,-,100
+358,13,Psywave,30,psychic,-,100
+358,14,Psywave,30,psychic,-,100
+358,15,Psywave,30,psychic,-,100
+358,16,Uproar,32,normal,90,100
+358,5,Double-Edge,33,normal,120,100
+358,6,Double-Edge,33,normal,120,100
+358,7,Double-Edge,33,normal,120,100
+358,8,Double-Edge,33,normal,120,100
+358,9,Double-Edge,33,normal,120,100
+358,10,Double-Edge,33,normal,120,100
+358,11,Double-Edge,33,normal,120,100
+358,12,Double-Edge,33,normal,120,100
+358,13,Double-Edge,33,normal,120,100
+358,14,Double-Edge,33,normal,120,100
+358,15,Double-Edge,33,normal,120,100
+358,16,Safeguard,37,normal,-,-
+358,5,Heal Bell,38,normal,-,-
+358,6,Heal Bell,38,normal,-,-
+358,7,Heal Bell,38,normal,-,-
+358,8,Heal Bell,38,normal,-,-
+358,9,Heal Bell,38,normal,-,-
+358,10,Heal Bell,38,normal,-,-
+358,11,Heal Bell,38,normal,-,-
+358,12,Heal Bell,38,normal,-,-
+358,13,Heal Bell,38,normal,-,-
+358,14,Heal Bell,38,normal,-,-
+358,15,Heal Bell,38,normal,-,-
+358,5,Safeguard,41,normal,-,-
+358,6,Safeguard,41,normal,-,-
+358,7,Safeguard,41,normal,-,-
+358,8,Safeguard,41,normal,-,-
+358,9,Safeguard,41,normal,-,-
+358,10,Safeguard,41,normal,-,-
+358,11,Safeguard,41,normal,-,-
+358,12,Safeguard,41,normal,-,-
+358,13,Safeguard,41,normal,-,-
+358,14,Safeguard,41,normal,-,-
+358,15,Safeguard,41,normal,-,-
+358,16,Double-Edge,42,normal,120,100
+358,5,Psychic,46,psychic,90,100
+358,6,Psychic,46,psychic,90,100
+358,7,Psychic,46,psychic,90,100
+358,8,Extrasensory,46,psychic,80,100
+358,9,Extrasensory,46,psychic,80,100
+358,10,Extrasensory,46,psychic,80,100
+358,11,Extrasensory,46,psychic,80,100
+358,12,Psychic,46,psychic,90,100
+358,13,Psychic,46,psychic,90,100
+358,14,Extrasensory,46,psychic,80,100
+358,15,Extrasensory,46,psychic,80,100
+358,16,Heal Pulse,47,psychic,-,-
+358,8,Healing Wish,49,psychic,-,-
+358,9,Healing Wish,49,psychic,-,-
+358,10,Healing Wish,49,psychic,-,-
+358,11,Heal Pulse,49,psychic,-,-
+358,14,Heal Pulse,49,psychic,-,-
+358,15,Heal Pulse,49,psychic,-,-
+358,16,Synchronoise,52,psychic,120,100
+358,11,Synchronoise,54,psychic,120,100
+358,14,Synchronoise,54,psychic,120,100
+358,15,Synchronoise,54,psychic,120,100
+358,11,Healing Wish,57,psychic,-,-
+358,14,Healing Wish,57,psychic,-,-
+358,15,Healing Wish,57,psychic,-,-
+358,16,Healing Wish,57,psychic,-,-

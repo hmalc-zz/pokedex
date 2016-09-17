@@ -1,0 +1,75 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+645,11,Rock Tomb,1,rock,60,95
+645,11,Block,1,normal,-,-
+645,11,Mud Shot,1,ground,55,95
+645,14,Rock Tomb,1,rock,60,95
+645,14,Block,1,normal,-,-
+645,14,Mud Shot,1,ground,55,95
+645,15,Fissure,1,ground,-,30
+645,15,Outrage,1,dragon,120,100
+645,15,Rock Tomb,1,rock,60,95
+645,15,Block,1,normal,-,-
+645,15,Mud Shot,1,ground,55,95
+645,15,Hammer Arm,1,fighting,100,90
+645,16,Fissure,1,ground,-,30
+645,16,Outrage,1,dragon,120,100
+645,16,Rock Tomb,1,rock,60,95
+645,16,Block,1,normal,-,-
+645,16,Mud Shot,1,ground,55,95
+645,16,Hammer Arm,1,fighting,100,90
+645,11,Imprison,7,psychic,-,-
+645,14,Imprison,7,psychic,-,-
+645,15,Imprison,7,psychic,-,-
+645,16,Imprison,7,psychic,-,-
+645,11,Punishment,13,dark,-,100
+645,14,Punishment,13,dark,-,100
+645,15,Punishment,13,dark,-,100
+645,16,Punishment,13,dark,-,100
+645,11,Bulldoze,19,ground,60,100
+645,14,Bulldoze,19,ground,60,100
+645,15,Bulldoze,19,ground,60,100
+645,16,Bulldoze,19,ground,60,100
+645,11,Rock Throw,25,rock,50,90
+645,14,Rock Throw,25,rock,50,90
+645,15,Rock Throw,25,rock,50,90
+645,16,Rock Throw,25,rock,50,90
+645,11,Extrasensory,31,psychic,80,100
+645,14,Extrasensory,31,psychic,80,100
+645,15,Extrasensory,31,psychic,80,100
+645,16,Extrasensory,31,psychic,80,100
+645,11,Swords Dance,37,normal,-,-
+645,14,Swords Dance,37,normal,-,-
+645,15,Swords Dance,37,normal,-,-
+645,16,Swords Dance,37,normal,-,-
+645,11,Earth Power,43,ground,90,100
+645,14,Earth Power,43,ground,90,100
+645,15,Earth Power,43,ground,90,100
+645,16,Earth Power,43,ground,90,100
+645,11,Rock Slide,49,rock,75,90
+645,14,Rock Slide,49,rock,75,90
+645,15,Rock Slide,49,rock,75,90
+645,16,Rock Slide,49,rock,75,90
+645,11,Earthquake,55,ground,100,100
+645,14,Earthquake,55,ground,100,100
+645,15,Earthquake,55,ground,100,100
+645,16,Earthquake,55,ground,100,100
+645,11,Sandstorm,61,rock,-,-
+645,14,Sandstorm,61,rock,-,-
+645,15,Sandstorm,61,rock,-,-
+645,16,Sandstorm,61,rock,-,-
+645,11,Fissure,67,ground,-,30
+645,14,Fissure,67,ground,-,30
+645,15,Fissure,67,ground,-,30
+645,16,Fissure,67,ground,-,30
+645,11,Stone Edge,73,rock,100,80
+645,14,Stone Edge,73,rock,100,80
+645,15,Stone Edge,73,rock,100,80
+645,16,Stone Edge,73,rock,100,80
+645,11,Hammer Arm,79,fighting,100,90
+645,14,Hammer Arm,79,fighting,100,90
+645,15,Hammer Arm,79,fighting,100,90
+645,16,Hammer Arm,79,fighting,100,90
+645,11,Outrage,85,dragon,120,100
+645,14,Outrage,85,dragon,120,100
+645,15,Outrage,85,dragon,120,100
+645,16,Outrage,85,dragon,120,100

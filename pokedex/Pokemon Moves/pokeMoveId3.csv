@@ -1,0 +1,249 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+3,1,Vine Whip,1,grass,45,100
+3,1,Tackle,1,normal,50,100
+3,1,Growl,1,normal,-,100
+3,1,Leech Seed,1,grass,-,90
+3,2,Vine Whip,1,grass,45,100
+3,2,Tackle,1,normal,50,100
+3,2,Growl,1,normal,-,100
+3,2,Leech Seed,1,grass,-,90
+3,3,Vine Whip,1,grass,45,100
+3,3,Tackle,1,normal,50,100
+3,3,Growl,1,normal,-,100
+3,3,Leech Seed,1,grass,-,90
+3,4,Vine Whip,1,grass,45,100
+3,4,Tackle,1,normal,50,100
+3,4,Growl,1,normal,-,100
+3,4,Leech Seed,1,grass,-,90
+3,5,Vine Whip,1,grass,45,100
+3,5,Tackle,1,normal,50,100
+3,5,Growl,1,normal,-,100
+3,5,Leech Seed,1,grass,-,90
+3,6,Vine Whip,1,grass,45,100
+3,6,Tackle,1,normal,50,100
+3,6,Growl,1,normal,-,100
+3,6,Leech Seed,1,grass,-,90
+3,7,Vine Whip,1,grass,45,100
+3,7,Tackle,1,normal,50,100
+3,7,Growl,1,normal,-,100
+3,7,Leech Seed,1,grass,-,90
+3,8,Vine Whip,1,grass,45,100
+3,8,Tackle,1,normal,50,100
+3,8,Growl,1,normal,-,100
+3,8,Leech Seed,1,grass,-,90
+3,9,Vine Whip,1,grass,45,100
+3,9,Tackle,1,normal,50,100
+3,9,Growl,1,normal,-,100
+3,9,Leech Seed,1,grass,-,90
+3,10,Vine Whip,1,grass,45,100
+3,10,Tackle,1,normal,50,100
+3,10,Growl,1,normal,-,100
+3,10,Leech Seed,1,grass,-,90
+3,11,Vine Whip,1,grass,45,100
+3,11,Tackle,1,normal,50,100
+3,11,Growl,1,normal,-,100
+3,11,Leech Seed,1,grass,-,90
+3,12,Vine Whip,1,grass,45,100
+3,12,Tackle,1,normal,50,100
+3,12,Growl,1,normal,-,100
+3,12,Leech Seed,1,grass,-,90
+3,13,Vine Whip,1,grass,45,100
+3,13,Tackle,1,normal,50,100
+3,13,Growl,1,normal,-,100
+3,13,Leech Seed,1,grass,-,90
+3,14,Vine Whip,1,grass,45,100
+3,14,Tackle,1,normal,50,100
+3,14,Growl,1,normal,-,100
+3,14,Leech Seed,1,grass,-,90
+3,15,Vine Whip,1,grass,45,100
+3,15,Tackle,1,normal,50,100
+3,15,Growl,1,normal,-,100
+3,15,Leech Seed,1,grass,-,90
+3,16,Vine Whip,1,grass,45,100
+3,16,Tackle,1,normal,50,100
+3,16,Growl,1,normal,-,100
+3,16,Leech Seed,1,grass,-,90
+3,8,Growl,3,normal,-,100
+3,9,Growl,3,normal,-,100
+3,10,Growl,3,normal,-,100
+3,11,Growl,3,normal,-,100
+3,14,Growl,3,normal,-,100
+3,15,Growl,3,normal,-,100
+3,16,Growl,3,normal,-,100
+3,3,Growl,4,normal,-,100
+3,4,Growl,4,normal,-,100
+3,5,Growl,4,normal,-,100
+3,6,Growl,4,normal,-,100
+3,7,Growl,4,normal,-,100
+3,12,Growl,4,normal,-,100
+3,13,Growl,4,normal,-,100
+3,1,Leech Seed,7,grass,-,90
+3,2,Leech Seed,7,grass,-,90
+3,3,Leech Seed,7,grass,-,90
+3,4,Leech Seed,7,grass,-,90
+3,5,Leech Seed,7,grass,-,90
+3,6,Leech Seed,7,grass,-,90
+3,7,Leech Seed,7,grass,-,90
+3,8,Leech Seed,7,grass,-,90
+3,9,Leech Seed,7,grass,-,90
+3,10,Leech Seed,7,grass,-,90
+3,11,Leech Seed,7,grass,-,90
+3,12,Leech Seed,7,grass,-,90
+3,13,Leech Seed,7,grass,-,90
+3,14,Leech Seed,7,grass,-,90
+3,15,Leech Seed,7,grass,-,90
+3,16,Leech Seed,7,grass,-,90
+3,8,Vine Whip,9,grass,45,100
+3,9,Vine Whip,9,grass,45,100
+3,10,Vine Whip,9,grass,45,100
+3,11,Vine Whip,9,grass,45,100
+3,14,Vine Whip,9,grass,45,100
+3,15,Vine Whip,9,grass,45,100
+3,16,Vine Whip,9,grass,45,100
+3,3,Vine Whip,10,grass,45,100
+3,4,Vine Whip,10,grass,45,100
+3,5,Vine Whip,10,grass,45,100
+3,6,Vine Whip,10,grass,45,100
+3,7,Vine Whip,10,grass,45,100
+3,12,Vine Whip,10,grass,45,100
+3,13,Vine Whip,10,grass,45,100
+3,1,Vine Whip,13,grass,45,100
+3,2,Vine Whip,13,grass,45,100
+3,8,Poison Powder,13,poison,-,75
+3,8,Sleep Powder,13,grass,-,75
+3,9,Poison Powder,13,poison,-,75
+3,9,Sleep Powder,13,grass,-,75
+3,10,Poison Powder,13,poison,-,75
+3,10,Sleep Powder,13,grass,-,75
+3,11,Poison Powder,13,poison,-,75
+3,11,Sleep Powder,13,grass,-,75
+3,14,Poison Powder,13,poison,-,75
+3,14,Sleep Powder,13,grass,-,75
+3,15,Poison Powder,13,poison,-,75
+3,15,Sleep Powder,13,grass,-,75
+3,16,Poison Powder,13,poison,-,75
+3,16,Sleep Powder,13,grass,-,75
+3,3,Poison Powder,15,poison,-,75
+3,3,Sleep Powder,15,grass,-,75
+3,4,Poison Powder,15,poison,-,75
+3,4,Sleep Powder,15,grass,-,75
+3,5,Poison Powder,15,poison,-,75
+3,5,Sleep Powder,15,grass,-,75
+3,6,Poison Powder,15,poison,-,75
+3,6,Sleep Powder,15,grass,-,75
+3,7,Poison Powder,15,poison,-,75
+3,7,Sleep Powder,15,grass,-,75
+3,8,Take Down,15,normal,90,85
+3,9,Take Down,15,normal,90,85
+3,10,Take Down,15,normal,90,85
+3,11,Take Down,15,normal,90,85
+3,12,Poison Powder,15,poison,-,75
+3,12,Sleep Powder,15,grass,-,75
+3,13,Poison Powder,15,poison,-,75
+3,13,Sleep Powder,15,grass,-,75
+3,14,Take Down,15,normal,90,85
+3,15,Take Down,15,normal,90,85
+3,16,Take Down,15,normal,90,85
+3,8,Razor Leaf,20,grass,55,95
+3,9,Razor Leaf,20,grass,55,95
+3,10,Razor Leaf,20,grass,55,95
+3,11,Razor Leaf,20,grass,55,95
+3,14,Razor Leaf,20,grass,55,95
+3,15,Razor Leaf,20,grass,55,95
+3,16,Razor Leaf,20,grass,55,95
+3,1,Poison Powder,22,poison,-,75
+3,2,Poison Powder,22,poison,-,75
+3,3,Razor Leaf,22,grass,55,95
+3,4,Razor Leaf,22,grass,55,95
+3,5,Razor Leaf,22,grass,55,95
+3,6,Razor Leaf,22,grass,55,95
+3,7,Razor Leaf,22,grass,55,95
+3,12,Razor Leaf,22,grass,55,95
+3,13,Razor Leaf,22,grass,55,95
+3,8,Sweet Scent,23,normal,-,100
+3,9,Sweet Scent,23,normal,-,100
+3,10,Sweet Scent,23,normal,-,100
+3,11,Sweet Scent,23,normal,-,100
+3,14,Sweet Scent,23,normal,-,100
+3,15,Sweet Scent,23,normal,-,100
+3,16,Sweet Scent,23,normal,-,100
+3,8,Growth,28,normal,-,-
+3,9,Growth,28,normal,-,-
+3,10,Growth,28,normal,-,-
+3,11,Growth,28,normal,-,-
+3,14,Growth,28,normal,-,-
+3,15,Growth,28,normal,-,-
+3,16,Growth,28,normal,-,-
+3,3,Sweet Scent,29,normal,-,100
+3,4,Sweet Scent,29,normal,-,100
+3,5,Sweet Scent,29,normal,-,100
+3,6,Sweet Scent,29,normal,-,100
+3,7,Sweet Scent,29,normal,-,100
+3,12,Sweet Scent,29,normal,-,100
+3,13,Sweet Scent,29,normal,-,100
+3,1,Razor Leaf,30,grass,55,95
+3,2,Razor Leaf,30,grass,55,95
+3,8,Double-Edge,31,normal,120,100
+3,9,Double-Edge,31,normal,120,100
+3,10,Double-Edge,31,normal,120,100
+3,11,Double-Edge,31,normal,120,100
+3,14,Double-Edge,31,normal,120,100
+3,15,Double-Edge,31,normal,120,100
+3,16,Double-Edge,31,normal,120,100
+3,8,Petal Dance,32,grass,120,100
+3,9,Petal Dance,32,grass,120,100
+3,10,Petal Dance,32,grass,120,100
+3,11,Petal Dance,32,grass,120,100
+3,14,Petal Dance,32,grass,120,100
+3,15,Petal Dance,32,grass,120,100
+3,16,Petal Dance,32,grass,120,100
+3,8,Worry Seed,39,grass,-,100
+3,9,Worry Seed,39,grass,-,100
+3,10,Worry Seed,39,grass,-,100
+3,11,Worry Seed,39,grass,-,100
+3,14,Worry Seed,39,grass,-,100
+3,15,Worry Seed,39,grass,-,100
+3,16,Worry Seed,39,grass,-,100
+3,3,Growth,41,normal,-,-
+3,4,Growth,41,normal,-,-
+3,5,Growth,41,normal,-,-
+3,6,Growth,41,normal,-,-
+3,7,Growth,41,normal,-,-
+3,12,Growth,41,normal,-,-
+3,13,Growth,41,normal,-,-
+3,1,Growth,43,normal,-,-
+3,2,Growth,43,normal,-,-
+3,8,Synthesis,45,grass,-,-
+3,9,Synthesis,45,grass,-,-
+3,10,Synthesis,45,grass,-,-
+3,11,Synthesis,45,grass,-,-
+3,14,Synthesis,45,grass,-,-
+3,15,Synthesis,45,grass,-,-
+3,16,Synthesis,45,grass,-,-
+3,15,Petal Blizzard,50,grass,90,100
+3,16,Petal Blizzard,50,grass,90,100
+3,3,Synthesis,53,grass,-,-
+3,4,Synthesis,53,grass,-,-
+3,5,Synthesis,53,grass,-,-
+3,6,Synthesis,53,grass,-,-
+3,7,Synthesis,53,grass,-,-
+3,8,Solar Beam,53,grass,120,100
+3,9,Solar Beam,53,grass,120,100
+3,10,Solar Beam,53,grass,120,100
+3,11,Solar Beam,53,grass,120,100
+3,12,Synthesis,53,grass,-,-
+3,13,Synthesis,53,grass,-,-
+3,14,Solar Beam,53,grass,120,100
+3,15,Solar Beam,53,grass,120,100
+3,16,Solar Beam,53,grass,120,100
+3,1,Sleep Powder,55,grass,-,75
+3,2,Sleep Powder,55,grass,-,75
+3,1,Solar Beam,65,grass,120,100
+3,2,Solar Beam,65,grass,120,100
+3,3,Solar Beam,65,grass,120,100
+3,4,Solar Beam,65,grass,120,100
+3,5,Solar Beam,65,grass,120,100
+3,6,Solar Beam,65,grass,120,100
+3,7,Solar Beam,65,grass,120,100
+3,12,Solar Beam,65,grass,120,100
+3,13,Solar Beam,65,grass,120,100

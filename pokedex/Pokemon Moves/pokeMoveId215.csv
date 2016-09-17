@@ -1,0 +1,181 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+215,3,Scratch,1,normal,40,100
+215,3,Leer,1,normal,-,100
+215,4,Scratch,1,normal,40,100
+215,4,Leer,1,normal,-,100
+215,5,Scratch,1,normal,40,100
+215,5,Leer,1,normal,-,100
+215,5,Taunt,1,dark,-,100
+215,6,Scratch,1,normal,40,100
+215,6,Leer,1,normal,-,100
+215,6,Taunt,1,dark,-,100
+215,7,Scratch,1,normal,40,100
+215,7,Leer,1,normal,-,100
+215,7,Taunt,1,dark,-,100
+215,8,Scratch,1,normal,40,100
+215,8,Leer,1,normal,-,100
+215,8,Taunt,1,dark,-,100
+215,9,Scratch,1,normal,40,100
+215,9,Leer,1,normal,-,100
+215,9,Taunt,1,dark,-,100
+215,10,Scratch,1,normal,40,100
+215,10,Leer,1,normal,-,100
+215,10,Taunt,1,dark,-,100
+215,11,Scratch,1,normal,40,100
+215,11,Leer,1,normal,-,100
+215,11,Taunt,1,dark,-,100
+215,12,Scratch,1,normal,40,100
+215,12,Leer,1,normal,-,100
+215,12,Taunt,1,dark,-,100
+215,13,Scratch,1,normal,40,100
+215,13,Leer,1,normal,-,100
+215,13,Taunt,1,dark,-,100
+215,14,Scratch,1,normal,40,100
+215,14,Leer,1,normal,-,100
+215,14,Taunt,1,dark,-,100
+215,15,Scratch,1,normal,40,100
+215,15,Leer,1,normal,-,100
+215,15,Taunt,1,dark,-,100
+215,16,Scratch,1,normal,40,100
+215,16,Leer,1,normal,-,100
+215,16,Taunt,1,dark,-,100
+215,5,Quick Attack,8,normal,40,100
+215,6,Quick Attack,8,normal,40,100
+215,7,Quick Attack,8,normal,40,100
+215,8,Quick Attack,8,normal,40,100
+215,9,Quick Attack,8,normal,40,100
+215,10,Quick Attack,8,normal,40,100
+215,11,Quick Attack,8,normal,40,100
+215,12,Quick Attack,8,normal,40,100
+215,13,Quick Attack,8,normal,40,100
+215,14,Quick Attack,8,normal,40,100
+215,15,Quick Attack,8,normal,40,100
+215,16,Quick Attack,8,normal,40,100
+215,3,Quick Attack,9,normal,40,100
+215,4,Quick Attack,9,normal,40,100
+215,8,Screech,10,normal,-,85
+215,9,Screech,10,normal,-,85
+215,10,Screech,10,normal,-,85
+215,11,Screech,10,normal,-,85
+215,14,Feint Attack,10,dark,60,-
+215,15,Feint Attack,10,dark,60,-
+215,16,Feint Attack,10,dark,60,-
+215,8,Feint Attack,14,dark,60,-
+215,9,Feint Attack,14,dark,60,-
+215,10,Feint Attack,14,dark,60,-
+215,11,Feint Attack,14,dark,60,-
+215,14,Icy Wind,14,ice,55,95
+215,15,Icy Wind,14,ice,55,95
+215,16,Icy Wind,14,ice,55,95
+215,5,Screech,15,normal,-,85
+215,6,Screech,15,normal,-,85
+215,7,Screech,15,normal,-,85
+215,12,Screech,15,normal,-,85
+215,13,Screech,15,normal,-,85
+215,14,Fury Swipes,16,normal,18,80
+215,15,Fury Swipes,16,normal,18,80
+215,16,Fury Swipes,16,normal,18,80
+215,3,Screech,17,normal,-,85
+215,4,Screech,17,normal,-,85
+215,14,Agility,20,psychic,-,-
+215,15,Agility,20,psychic,-,-
+215,16,Agility,20,psychic,-,-
+215,8,Fury Swipes,21,normal,18,80
+215,9,Fury Swipes,21,normal,18,80
+215,10,Fury Swipes,21,normal,18,80
+215,11,Fury Swipes,21,normal,18,80
+215,5,Feint Attack,22,dark,60,-
+215,6,Feint Attack,22,dark,60,-
+215,7,Feint Attack,22,dark,60,-
+215,12,Feint Attack,22,dark,60,-
+215,13,Feint Attack,22,dark,60,-
+215,14,Metal Claw,22,steel,50,95
+215,15,Metal Claw,22,steel,50,95
+215,16,Metal Claw,22,steel,50,95
+215,8,Agility,24,psychic,-,-
+215,9,Agility,24,psychic,-,-
+215,10,Agility,24,psychic,-,-
+215,11,Agility,24,psychic,-,-
+215,3,Feint Attack,25,dark,60,-
+215,4,Feint Attack,25,dark,60,-
+215,14,Hone Claws,25,dark,-,-
+215,15,Hone Claws,25,dark,-,-
+215,16,Hone Claws,25,dark,-,-
+215,8,Icy Wind,28,ice,55,95
+215,9,Icy Wind,28,ice,55,95
+215,10,Icy Wind,28,ice,55,95
+215,11,Icy Wind,28,ice,55,95
+215,14,Beat Up,28,dark,-,100
+215,15,Beat Up,28,dark,-,100
+215,16,Beat Up,28,dark,-,100
+215,5,Fury Swipes,29,normal,18,80
+215,6,Fury Swipes,29,normal,18,80
+215,7,Fury Swipes,29,normal,18,80
+215,12,Fury Swipes,29,normal,18,80
+215,13,Fury Swipes,29,normal,18,80
+215,14,Screech,32,normal,-,85
+215,15,Screech,32,normal,-,85
+215,16,Screech,32,normal,-,85
+215,3,Fury Swipes,33,normal,18,80
+215,4,Fury Swipes,33,normal,18,80
+215,8,Slash,35,normal,70,100
+215,9,Slash,35,normal,70,100
+215,10,Slash,35,normal,70,100
+215,11,Hone Claws,35,dark,-,-
+215,14,Slash,35,normal,70,100
+215,15,Slash,35,normal,70,100
+215,16,Slash,35,normal,70,100
+215,5,Agility,36,psychic,-,-
+215,6,Agility,36,psychic,-,-
+215,7,Agility,36,psychic,-,-
+215,12,Agility,36,psychic,-,-
+215,13,Agility,36,psychic,-,-
+215,8,Beat Up,38,dark,-,100
+215,9,Beat Up,38,dark,-,100
+215,10,Beat Up,38,dark,-,100
+215,11,Slash,38,normal,70,100
+215,14,Snatch,40,dark,-,-
+215,15,Snatch,40,dark,-,-
+215,16,Snatch,40,dark,-,-
+215,3,Agility,41,psychic,-,-
+215,4,Agility,41,psychic,-,-
+215,8,Metal Claw,42,steel,50,95
+215,9,Metal Claw,42,steel,50,95
+215,10,Metal Claw,42,steel,50,95
+215,11,Beat Up,42,dark,-,100
+215,5,Icy Wind,43,ice,55,95
+215,6,Icy Wind,43,ice,55,95
+215,7,Icy Wind,43,ice,55,95
+215,12,Icy Wind,43,ice,55,95
+215,13,Icy Wind,43,ice,55,95
+215,14,Punishment,44,dark,-,100
+215,15,Punishment,44,dark,-,100
+215,16,Punishment,44,dark,-,100
+215,14,Ice Shard,47,ice,40,100
+215,15,Ice Shard,47,ice,40,100
+215,16,Ice Shard,47,ice,40,100
+215,3,Slash,49,normal,70,100
+215,4,Slash,49,normal,70,100
+215,8,Ice Shard,49,ice,40,100
+215,9,Ice Shard,49,ice,40,100
+215,10,Ice Shard,49,ice,40,100
+215,11,Metal Claw,49,steel,50,95
+215,5,Slash,50,normal,70,100
+215,6,Slash,50,normal,70,100
+215,7,Slash,50,normal,70,100
+215,12,Slash,50,normal,70,100
+215,13,Slash,50,normal,70,100
+215,11,Ice Shard,51,ice,40,100
+215,3,Beat Up,57,dark,-,100
+215,4,Beat Up,57,dark,-,100
+215,5,Beat Up,57,dark,-,100
+215,6,Beat Up,57,dark,-,100
+215,7,Beat Up,57,dark,-,100
+215,12,Beat Up,57,dark,-,100
+215,13,Beat Up,57,dark,-,100
+215,5,Metal Claw,64,steel,50,95
+215,6,Metal Claw,64,steel,50,95
+215,7,Metal Claw,64,steel,50,95
+215,12,Metal Claw,64,steel,50,95
+215,13,Metal Claw,64,steel,50,95
+215,4,Metal Claw,65,steel,50,95

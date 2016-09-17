@@ -1,0 +1,27 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+676,15,Tackle,1,normal,50,100
+676,15,Growl,1,normal,-,100
+676,16,Tackle,1,normal,50,100
+676,16,Growl,1,normal,-,100
+676,15,Sand Attack,5,ground,-,100
+676,16,Sand Attack,5,ground,-,100
+676,15,Baby-Doll Eyes,9,fairy,-,100
+676,16,Baby-Doll Eyes,9,fairy,-,100
+676,15,Headbutt,12,normal,70,100
+676,16,Headbutt,12,normal,70,100
+676,15,Tail Whip,15,normal,-,100
+676,16,Tail Whip,15,normal,-,100
+676,15,Bite,22,dark,60,100
+676,16,Bite,22,dark,60,100
+676,15,Odor Sleuth,27,normal,-,-
+676,16,Odor Sleuth,27,normal,-,-
+676,15,Retaliate,33,normal,70,100
+676,16,Retaliate,33,normal,70,100
+676,15,Take Down,35,normal,90,85
+676,16,Take Down,35,normal,90,85
+676,15,Charm,38,fairy,-,100
+676,16,Charm,38,fairy,-,100
+676,15,Sucker Punch,42,dark,80,100
+676,16,Sucker Punch,42,dark,80,100
+676,15,Cotton Guard,48,grass,-,-
+676,16,Cotton Guard,48,grass,-,-

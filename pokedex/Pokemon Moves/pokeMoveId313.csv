@@ -1,0 +1,144 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+313,5,Tackle,1,normal,50,100
+313,6,Tackle,1,normal,50,100
+313,7,Tackle,1,normal,50,100
+313,8,Tackle,1,normal,50,100
+313,8,Flash,1,normal,-,100
+313,9,Tackle,1,normal,50,100
+313,9,Flash,1,normal,-,100
+313,10,Tackle,1,normal,50,100
+313,10,Flash,1,normal,-,100
+313,11,Tackle,1,normal,50,100
+313,11,Flash,1,normal,-,100
+313,12,Tackle,1,normal,50,100
+313,13,Tackle,1,normal,50,100
+313,14,Tackle,1,normal,50,100
+313,14,Flash,1,normal,-,100
+313,15,Tackle,1,normal,50,100
+313,15,Flash,1,normal,-,100
+313,16,Tackle,1,normal,50,100
+313,16,Flash,1,normal,-,100
+313,5,Confuse Ray,5,ghost,-,100
+313,6,Confuse Ray,5,ghost,-,100
+313,7,Confuse Ray,5,ghost,-,100
+313,8,Double Team,5,normal,-,-
+313,9,Double Team,5,normal,-,-
+313,10,Double Team,5,normal,-,-
+313,11,Double Team,5,normal,-,-
+313,12,Confuse Ray,5,ghost,-,100
+313,13,Confuse Ray,5,ghost,-,100
+313,14,Double Team,5,normal,-,-
+313,15,Double Team,5,normal,-,-
+313,16,Double Team,5,normal,-,-
+313,16,Confuse Ray,8,ghost,-,100
+313,5,Double Team,9,normal,-,-
+313,6,Double Team,9,normal,-,-
+313,7,Double Team,9,normal,-,-
+313,8,Confuse Ray,9,ghost,-,100
+313,9,Confuse Ray,9,ghost,-,100
+313,10,Confuse Ray,9,ghost,-,100
+313,11,Confuse Ray,9,ghost,-,100
+313,12,Double Team,9,normal,-,-
+313,13,Double Team,9,normal,-,-
+313,14,Confuse Ray,9,ghost,-,100
+313,15,Confuse Ray,9,ghost,-,100
+313,16,Quick Attack,12,normal,40,100
+313,5,Moonlight,13,fairy,-,-
+313,6,Moonlight,13,fairy,-,-
+313,7,Moonlight,13,fairy,-,-
+313,8,Moonlight,13,fairy,-,-
+313,9,Moonlight,13,fairy,-,-
+313,10,Moonlight,13,fairy,-,-
+313,11,Moonlight,13,fairy,-,-
+313,12,Moonlight,13,fairy,-,-
+313,13,Moonlight,13,fairy,-,-
+313,14,Moonlight,13,fairy,-,-
+313,15,Moonlight,13,fairy,-,-
+313,16,Struggle Bug,15,bug,50,100
+313,5,Quick Attack,17,normal,40,100
+313,6,Quick Attack,17,normal,40,100
+313,7,Quick Attack,17,normal,40,100
+313,8,Quick Attack,17,normal,40,100
+313,9,Quick Attack,17,normal,40,100
+313,10,Quick Attack,17,normal,40,100
+313,11,Quick Attack,17,normal,40,100
+313,12,Quick Attack,17,normal,40,100
+313,13,Quick Attack,17,normal,40,100
+313,14,Quick Attack,17,normal,40,100
+313,15,Quick Attack,17,normal,40,100
+313,16,Moonlight,19,fairy,-,-
+313,5,Tail Glow,21,bug,-,-
+313,6,Tail Glow,21,bug,-,-
+313,7,Tail Glow,21,bug,-,-
+313,8,Tail Glow,21,bug,-,-
+313,9,Tail Glow,21,bug,-,-
+313,10,Tail Glow,21,bug,-,-
+313,11,Tail Glow,21,bug,-,-
+313,12,Tail Glow,21,bug,-,-
+313,13,Tail Glow,21,bug,-,-
+313,14,Tail Glow,21,bug,-,-
+313,15,Tail Glow,21,bug,-,-
+313,16,Tail Glow,22,bug,-,-
+313,5,Signal Beam,25,bug,75,100
+313,6,Signal Beam,25,bug,75,100
+313,7,Signal Beam,25,bug,75,100
+313,8,Signal Beam,25,bug,75,100
+313,9,Signal Beam,25,bug,75,100
+313,10,Signal Beam,25,bug,75,100
+313,11,Signal Beam,25,bug,75,100
+313,12,Signal Beam,25,bug,75,100
+313,13,Signal Beam,25,bug,75,100
+313,14,Signal Beam,25,bug,75,100
+313,15,Signal Beam,25,bug,75,100
+313,16,Signal Beam,26,bug,75,100
+313,5,Protect,29,normal,-,-
+313,6,Protect,29,normal,-,-
+313,7,Protect,29,normal,-,-
+313,8,Protect,29,normal,-,-
+313,9,Protect,29,normal,-,-
+313,10,Protect,29,normal,-,-
+313,11,Protect,29,normal,-,-
+313,12,Protect,29,normal,-,-
+313,13,Protect,29,normal,-,-
+313,14,Protect,29,normal,-,-
+313,15,Protect,29,normal,-,-
+313,16,Protect,29,normal,-,-
+313,5,Helping Hand,33,normal,-,-
+313,6,Helping Hand,33,normal,-,-
+313,7,Helping Hand,33,normal,-,-
+313,8,Helping Hand,33,normal,-,-
+313,9,Helping Hand,33,normal,-,-
+313,10,Helping Hand,33,normal,-,-
+313,11,Helping Hand,33,normal,-,-
+313,12,Helping Hand,33,normal,-,-
+313,13,Helping Hand,33,normal,-,-
+313,14,Helping Hand,33,normal,-,-
+313,15,Helping Hand,33,normal,-,-
+313,16,Zen Headbutt,33,psychic,80,90
+313,16,Helping Hand,36,normal,-,-
+313,5,Double-Edge,37,normal,120,100
+313,6,Double-Edge,37,normal,120,100
+313,7,Double-Edge,37,normal,120,100
+313,8,Zen Headbutt,37,psychic,80,90
+313,9,Zen Headbutt,37,psychic,80,90
+313,10,Zen Headbutt,37,psychic,80,90
+313,11,Zen Headbutt,37,psychic,80,90
+313,12,Double-Edge,37,normal,120,100
+313,13,Double-Edge,37,normal,120,100
+313,14,Zen Headbutt,37,psychic,80,90
+313,15,Zen Headbutt,37,psychic,80,90
+313,16,Bug Buzz,40,bug,90,100
+313,8,Bug Buzz,41,bug,90,100
+313,9,Bug Buzz,41,bug,90,100
+313,10,Bug Buzz,41,bug,90,100
+313,11,Bug Buzz,41,bug,90,100
+313,14,Bug Buzz,41,bug,90,100
+313,15,Bug Buzz,41,bug,90,100
+313,16,Play Rough,43,fairy,90,90
+313,8,Double-Edge,45,normal,120,100
+313,9,Double-Edge,45,normal,120,100
+313,10,Double-Edge,45,normal,120,100
+313,11,Double-Edge,45,normal,120,100
+313,14,Double-Edge,45,normal,120,100
+313,15,Double-Edge,45,normal,120,100
+313,16,Double-Edge,47,normal,120,100

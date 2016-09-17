@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+501,11,Tackle,1,normal,50,100
+501,14,Tackle,1,normal,50,100
+501,15,Tackle,1,normal,50,100
+501,16,Tackle,1,normal,50,100
+501,11,Tail Whip,5,normal,-,100
+501,14,Tail Whip,5,normal,-,100
+501,15,Tail Whip,5,normal,-,100
+501,16,Tail Whip,5,normal,-,100
+501,11,Water Gun,7,water,40,100
+501,14,Water Gun,7,water,40,100
+501,15,Water Gun,7,water,40,100
+501,16,Water Gun,7,water,40,100
+501,11,Water Sport,11,water,-,-
+501,14,Water Sport,11,water,-,-
+501,15,Water Sport,11,water,-,-
+501,16,Water Sport,11,water,-,-
+501,11,Focus Energy,13,normal,-,-
+501,14,Focus Energy,13,normal,-,-
+501,15,Focus Energy,13,normal,-,-
+501,16,Focus Energy,13,normal,-,-
+501,11,Razor Shell,17,water,75,95
+501,14,Razor Shell,17,water,75,95
+501,15,Razor Shell,17,water,75,95
+501,16,Razor Shell,17,water,75,95
+501,11,Fury Cutter,19,bug,40,95
+501,14,Fury Cutter,19,bug,40,95
+501,15,Fury Cutter,19,bug,40,95
+501,16,Fury Cutter,19,bug,40,95
+501,11,Water Pulse,23,water,60,100
+501,14,Water Pulse,23,water,60,100
+501,15,Water Pulse,23,water,60,100
+501,16,Water Pulse,23,water,60,100
+501,11,Revenge,25,fighting,60,100
+501,14,Revenge,25,fighting,60,100
+501,15,Revenge,25,fighting,60,100
+501,16,Revenge,25,fighting,60,100
+501,11,Aqua Jet,29,water,40,100
+501,14,Aqua Jet,29,water,40,100
+501,15,Aqua Jet,29,water,40,100
+501,16,Aqua Jet,29,water,40,100
+501,11,Encore,31,normal,-,100
+501,14,Encore,31,normal,-,100
+501,15,Encore,31,normal,-,100
+501,16,Encore,31,normal,-,100
+501,11,Aqua Tail,35,water,90,90
+501,14,Aqua Tail,35,water,90,90
+501,15,Aqua Tail,35,water,90,90
+501,16,Aqua Tail,35,water,90,90
+501,11,Retaliate,37,normal,70,100
+501,14,Retaliate,37,normal,70,100
+501,15,Retaliate,37,normal,70,100
+501,16,Retaliate,37,normal,70,100
+501,11,Swords Dance,41,normal,-,-
+501,14,Swords Dance,41,normal,-,-
+501,15,Swords Dance,41,normal,-,-
+501,16,Swords Dance,41,normal,-,-
+501,11,Hydro Pump,43,water,110,80
+501,14,Hydro Pump,43,water,110,80
+501,15,Hydro Pump,43,water,110,80
+501,16,Hydro Pump,43,water,110,80

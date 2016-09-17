@@ -1,0 +1,180 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+210,3,Tackle,1,normal,50,100
+210,3,Scary Face,1,normal,-,100
+210,4,Tackle,1,normal,50,100
+210,4,Scary Face,1,normal,-,100
+210,5,Tackle,1,normal,50,100
+210,5,Scary Face,1,normal,-,100
+210,6,Tackle,1,normal,50,100
+210,6,Scary Face,1,normal,-,100
+210,7,Tackle,1,normal,50,100
+210,7,Scary Face,1,normal,-,100
+210,8,Tackle,1,normal,50,100
+210,8,Tail Whip,1,normal,-,100
+210,8,Scary Face,1,normal,-,100
+210,8,Charm,1,fairy,-,100
+210,8,Thunder Fang,1,electric,65,95
+210,8,Ice Fang,1,ice,65,95
+210,8,Fire Fang,1,fire,65,95
+210,9,Tackle,1,normal,50,100
+210,9,Tail Whip,1,normal,-,100
+210,9,Scary Face,1,normal,-,100
+210,9,Charm,1,fairy,-,100
+210,9,Thunder Fang,1,electric,65,95
+210,9,Ice Fang,1,ice,65,95
+210,9,Fire Fang,1,fire,65,95
+210,10,Tackle,1,normal,50,100
+210,10,Tail Whip,1,normal,-,100
+210,10,Scary Face,1,normal,-,100
+210,10,Charm,1,fairy,-,100
+210,10,Thunder Fang,1,electric,65,95
+210,10,Ice Fang,1,ice,65,95
+210,10,Fire Fang,1,fire,65,95
+210,11,Tackle,1,normal,50,100
+210,11,Tail Whip,1,normal,-,100
+210,11,Scary Face,1,normal,-,100
+210,11,Charm,1,fairy,-,100
+210,11,Thunder Fang,1,electric,65,95
+210,11,Ice Fang,1,ice,65,95
+210,11,Fire Fang,1,fire,65,95
+210,12,Tackle,1,normal,50,100
+210,12,Scary Face,1,normal,-,100
+210,13,Tackle,1,normal,50,100
+210,13,Scary Face,1,normal,-,100
+210,14,Tackle,1,normal,50,100
+210,14,Tail Whip,1,normal,-,100
+210,14,Scary Face,1,normal,-,100
+210,14,Charm,1,fairy,-,100
+210,14,Thunder Fang,1,electric,65,95
+210,14,Ice Fang,1,ice,65,95
+210,14,Fire Fang,1,fire,65,95
+210,15,Tackle,1,normal,50,100
+210,15,Tail Whip,1,normal,-,100
+210,15,Scary Face,1,normal,-,100
+210,15,Outrage,1,dragon,120,100
+210,15,Charm,1,fairy,-,100
+210,15,Thunder Fang,1,electric,65,95
+210,15,Ice Fang,1,ice,65,95
+210,15,Fire Fang,1,fire,65,95
+210,16,Tackle,1,normal,50,100
+210,16,Tail Whip,1,normal,-,100
+210,16,Scary Face,1,normal,-,100
+210,16,Outrage,1,dragon,120,100
+210,16,Charm,1,fairy,-,100
+210,16,Thunder Fang,1,electric,65,95
+210,16,Ice Fang,1,ice,65,95
+210,16,Fire Fang,1,fire,65,95
+210,3,Tail Whip,4,normal,-,100
+210,4,Tail Whip,4,normal,-,100
+210,5,Tail Whip,4,normal,-,100
+210,6,Tail Whip,4,normal,-,100
+210,7,Tail Whip,4,normal,-,100
+210,12,Tail Whip,4,normal,-,100
+210,13,Tail Whip,4,normal,-,100
+210,8,Bite,7,dark,60,100
+210,9,Bite,7,dark,60,100
+210,10,Bite,7,dark,60,100
+210,11,Bite,7,dark,60,100
+210,14,Bite,7,dark,60,100
+210,15,Bite,7,dark,60,100
+210,16,Bite,7,dark,60,100
+210,3,Charm,8,fairy,-,100
+210,4,Charm,8,fairy,-,100
+210,5,Charm,8,fairy,-,100
+210,6,Charm,8,fairy,-,100
+210,7,Charm,8,fairy,-,100
+210,12,Charm,8,fairy,-,100
+210,13,Charm,8,fairy,-,100
+210,3,Bite,13,dark,60,100
+210,4,Bite,13,dark,60,100
+210,5,Bite,13,dark,60,100
+210,6,Bite,13,dark,60,100
+210,7,Bite,13,dark,60,100
+210,8,Lick,13,ghost,30,100
+210,9,Lick,13,ghost,30,100
+210,10,Lick,13,ghost,30,100
+210,11,Lick,13,ghost,30,100
+210,12,Bite,13,dark,60,100
+210,13,Bite,13,dark,60,100
+210,14,Lick,13,ghost,30,100
+210,15,Lick,13,ghost,30,100
+210,16,Lick,13,ghost,30,100
+210,3,Lick,19,ghost,30,100
+210,4,Lick,19,ghost,30,100
+210,5,Lick,19,ghost,30,100
+210,6,Lick,19,ghost,30,100
+210,7,Lick,19,ghost,30,100
+210,8,Headbutt,19,normal,70,100
+210,9,Headbutt,19,normal,70,100
+210,10,Headbutt,19,normal,70,100
+210,11,Headbutt,19,normal,70,100
+210,12,Lick,19,ghost,30,100
+210,13,Lick,19,ghost,30,100
+210,14,Headbutt,19,normal,70,100
+210,15,Headbutt,19,normal,70,100
+210,16,Headbutt,19,normal,70,100
+210,8,Roar,27,normal,-,-
+210,9,Roar,27,normal,-,-
+210,10,Roar,27,normal,-,-
+210,11,Roar,27,normal,-,-
+210,14,Roar,27,normal,-,-
+210,15,Roar,27,normal,-,-
+210,16,Roar,27,normal,-,-
+210,3,Roar,28,normal,-,-
+210,4,Roar,28,normal,-,-
+210,5,Roar,28,normal,-,-
+210,6,Roar,28,normal,-,-
+210,7,Roar,28,normal,-,-
+210,12,Roar,28,normal,-,-
+210,13,Roar,28,normal,-,-
+210,8,Rage,35,normal,20,100
+210,9,Rage,35,normal,20,100
+210,10,Rage,35,normal,20,100
+210,11,Rage,35,normal,20,100
+210,14,Rage,35,normal,20,100
+210,15,Rage,35,normal,20,100
+210,16,Rage,35,normal,20,100
+210,3,Rage,38,normal,20,100
+210,4,Rage,38,normal,20,100
+210,5,Rage,38,normal,20,100
+210,6,Rage,38,normal,20,100
+210,7,Rage,38,normal,20,100
+210,12,Rage,38,normal,20,100
+210,13,Rage,38,normal,20,100
+210,8,Take Down,43,normal,90,85
+210,9,Take Down,43,normal,90,85
+210,10,Take Down,43,normal,90,85
+210,11,Take Down,43,normal,90,85
+210,14,Take Down,43,normal,90,85
+210,15,Play Rough,43,fairy,90,90
+210,16,Play Rough,43,fairy,90,90
+210,5,Take Down,49,normal,90,85
+210,6,Take Down,49,normal,90,85
+210,7,Take Down,49,normal,90,85
+210,12,Take Down,49,normal,90,85
+210,13,Take Down,49,normal,90,85
+210,3,Take Down,51,normal,90,85
+210,4,Take Down,51,normal,90,85
+210,8,Payback,51,dark,50,100
+210,9,Payback,51,dark,50,100
+210,10,Payback,51,dark,50,100
+210,11,Payback,51,dark,50,100
+210,14,Payback,51,dark,50,100
+210,15,Payback,51,dark,50,100
+210,16,Payback,51,dark,50,100
+210,8,Crunch,59,dark,80,100
+210,9,Crunch,59,dark,80,100
+210,10,Crunch,59,dark,80,100
+210,11,Crunch,59,dark,80,100
+210,14,Crunch,59,dark,80,100
+210,15,Crunch,59,dark,80,100
+210,16,Crunch,59,dark,80,100
+210,5,Crunch,61,dark,80,100
+210,6,Crunch,61,dark,80,100
+210,7,Crunch,61,dark,80,100
+210,12,Crunch,61,dark,80,100
+210,13,Crunch,61,dark,80,100
+210,11,Outrage,67,dragon,120,100
+210,14,Outrage,67,dragon,120,100
+210,15,Outrage,67,dragon,120,100
+210,16,Outrage,67,dragon,120,100

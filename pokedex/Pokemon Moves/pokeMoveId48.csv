@@ -1,0 +1,194 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+48,1,Tackle,1,normal,50,100
+48,1,Disable,1,normal,-,100
+48,2,Tackle,1,normal,50,100
+48,2,Disable,1,normal,-,100
+48,3,Tackle,1,normal,50,100
+48,3,Disable,1,normal,-,100
+48,3,Foresight,1,normal,-,-
+48,4,Tackle,1,normal,50,100
+48,4,Disable,1,normal,-,100
+48,4,Foresight,1,normal,-,-
+48,5,Tackle,1,normal,50,100
+48,5,Disable,1,normal,-,100
+48,5,Foresight,1,normal,-,-
+48,6,Tackle,1,normal,50,100
+48,6,Disable,1,normal,-,100
+48,6,Foresight,1,normal,-,-
+48,7,Tackle,1,normal,50,100
+48,7,Disable,1,normal,-,100
+48,7,Foresight,1,normal,-,-
+48,8,Tackle,1,normal,50,100
+48,8,Disable,1,normal,-,100
+48,8,Foresight,1,normal,-,-
+48,9,Tackle,1,normal,50,100
+48,9,Disable,1,normal,-,100
+48,9,Foresight,1,normal,-,-
+48,10,Tackle,1,normal,50,100
+48,10,Disable,1,normal,-,100
+48,10,Foresight,1,normal,-,-
+48,11,Tackle,1,normal,50,100
+48,11,Disable,1,normal,-,100
+48,11,Foresight,1,normal,-,-
+48,12,Tackle,1,normal,50,100
+48,12,Disable,1,normal,-,100
+48,12,Foresight,1,normal,-,-
+48,13,Tackle,1,normal,50,100
+48,13,Disable,1,normal,-,100
+48,13,Foresight,1,normal,-,-
+48,14,Tackle,1,normal,50,100
+48,14,Disable,1,normal,-,100
+48,14,Foresight,1,normal,-,-
+48,15,Tackle,1,normal,50,100
+48,15,Disable,1,normal,-,100
+48,15,Foresight,1,normal,-,-
+48,16,Tackle,1,normal,50,100
+48,16,Disable,1,normal,-,100
+48,16,Foresight,1,normal,-,-
+48,8,Supersonic,5,normal,-,55
+48,9,Supersonic,5,normal,-,55
+48,10,Supersonic,5,normal,-,55
+48,11,Supersonic,5,normal,-,55
+48,14,Supersonic,5,normal,-,55
+48,15,Supersonic,5,normal,-,55
+48,16,Supersonic,5,normal,-,55
+48,3,Supersonic,9,normal,-,55
+48,4,Supersonic,9,normal,-,55
+48,5,Supersonic,9,normal,-,55
+48,6,Supersonic,9,normal,-,55
+48,7,Supersonic,9,normal,-,55
+48,12,Supersonic,9,normal,-,55
+48,13,Supersonic,9,normal,-,55
+48,2,Supersonic,11,normal,-,55
+48,8,Confusion,11,psychic,50,100
+48,9,Confusion,11,psychic,50,100
+48,10,Confusion,11,psychic,50,100
+48,11,Confusion,11,psychic,50,100
+48,14,Confusion,11,psychic,50,100
+48,15,Confusion,11,psychic,50,100
+48,16,Confusion,11,psychic,50,100
+48,8,Poison Powder,13,poison,-,75
+48,9,Poison Powder,13,poison,-,75
+48,10,Poison Powder,13,poison,-,75
+48,11,Poison Powder,13,poison,-,75
+48,14,Poison Powder,13,poison,-,75
+48,15,Poison Powder,13,poison,-,75
+48,16,Poison Powder,13,poison,-,75
+48,3,Confusion,17,psychic,50,100
+48,4,Confusion,17,psychic,50,100
+48,5,Confusion,17,psychic,50,100
+48,6,Confusion,17,psychic,50,100
+48,7,Confusion,17,psychic,50,100
+48,8,Leech Life,17,bug,20,100
+48,9,Leech Life,17,bug,20,100
+48,10,Leech Life,17,bug,20,100
+48,11,Leech Life,17,bug,20,100
+48,12,Confusion,17,psychic,50,100
+48,13,Confusion,17,psychic,50,100
+48,14,Leech Life,17,bug,20,100
+48,15,Leech Life,17,bug,20,100
+48,16,Leech Life,17,bug,20,100
+48,2,Confusion,19,psychic,50,100
+48,3,Poison Powder,20,poison,-,75
+48,4,Poison Powder,20,poison,-,75
+48,5,Poison Powder,20,poison,-,75
+48,6,Poison Powder,20,poison,-,75
+48,7,Poison Powder,20,poison,-,75
+48,12,Poison Powder,20,poison,-,75
+48,13,Poison Powder,20,poison,-,75
+48,2,Poison Powder,22,poison,-,75
+48,8,Stun Spore,23,grass,-,75
+48,9,Stun Spore,23,grass,-,75
+48,10,Stun Spore,23,grass,-,75
+48,11,Stun Spore,23,grass,-,75
+48,14,Stun Spore,23,grass,-,75
+48,15,Stun Spore,23,grass,-,75
+48,16,Stun Spore,23,grass,-,75
+48,1,Poison Powder,24,poison,-,75
+48,3,Leech Life,25,bug,20,100
+48,4,Leech Life,25,bug,20,100
+48,5,Leech Life,25,bug,20,100
+48,6,Leech Life,25,bug,20,100
+48,7,Leech Life,25,bug,20,100
+48,8,Psybeam,25,psychic,65,100
+48,9,Psybeam,25,psychic,65,100
+48,10,Psybeam,25,psychic,65,100
+48,11,Psybeam,25,psychic,65,100
+48,12,Leech Life,25,bug,20,100
+48,13,Leech Life,25,bug,20,100
+48,14,Psybeam,25,psychic,65,100
+48,15,Psybeam,25,psychic,65,100
+48,16,Psybeam,25,psychic,65,100
+48,1,Leech Life,27,bug,20,100
+48,2,Leech Life,27,bug,20,100
+48,3,Stun Spore,28,grass,-,75
+48,4,Stun Spore,28,grass,-,75
+48,5,Stun Spore,28,grass,-,75
+48,6,Stun Spore,28,grass,-,75
+48,7,Stun Spore,28,grass,-,75
+48,12,Stun Spore,28,grass,-,75
+48,13,Stun Spore,28,grass,-,75
+48,8,Sleep Powder,29,grass,-,75
+48,9,Sleep Powder,29,grass,-,75
+48,10,Sleep Powder,29,grass,-,75
+48,11,Sleep Powder,29,grass,-,75
+48,14,Sleep Powder,29,grass,-,75
+48,15,Sleep Powder,29,grass,-,75
+48,16,Sleep Powder,29,grass,-,75
+48,1,Stun Spore,30,grass,-,75
+48,2,Stun Spore,30,grass,-,75
+48,3,Psybeam,33,psychic,65,100
+48,4,Psybeam,33,psychic,65,100
+48,5,Psybeam,33,psychic,65,100
+48,6,Psybeam,33,psychic,65,100
+48,7,Psybeam,33,psychic,65,100
+48,12,Psybeam,33,psychic,65,100
+48,13,Psybeam,33,psychic,65,100
+48,1,Psybeam,35,psychic,65,100
+48,2,Psybeam,35,psychic,65,100
+48,8,Signal Beam,35,bug,75,100
+48,9,Signal Beam,35,bug,75,100
+48,10,Signal Beam,35,bug,75,100
+48,11,Signal Beam,35,bug,75,100
+48,14,Signal Beam,35,bug,75,100
+48,15,Signal Beam,35,bug,75,100
+48,16,Signal Beam,35,bug,75,100
+48,3,Sleep Powder,36,grass,-,75
+48,4,Sleep Powder,36,grass,-,75
+48,5,Sleep Powder,36,grass,-,75
+48,6,Sleep Powder,36,grass,-,75
+48,7,Sleep Powder,36,grass,-,75
+48,12,Sleep Powder,36,grass,-,75
+48,13,Sleep Powder,36,grass,-,75
+48,8,Zen Headbutt,37,psychic,80,90
+48,9,Zen Headbutt,37,psychic,80,90
+48,10,Zen Headbutt,37,psychic,80,90
+48,11,Zen Headbutt,37,psychic,80,90
+48,14,Zen Headbutt,37,psychic,80,90
+48,15,Zen Headbutt,37,psychic,80,90
+48,16,Zen Headbutt,37,psychic,80,90
+48,1,Sleep Powder,38,grass,-,75
+48,2,Sleep Powder,38,grass,-,75
+48,3,Psychic,41,psychic,90,100
+48,4,Psychic,41,psychic,90,100
+48,5,Psychic,41,psychic,90,100
+48,6,Psychic,41,psychic,90,100
+48,7,Psychic,41,psychic,90,100
+48,8,Poison Fang,41,poison,50,100
+48,9,Poison Fang,41,poison,50,100
+48,10,Poison Fang,41,poison,50,100
+48,11,Poison Fang,41,poison,50,100
+48,12,Psychic,41,psychic,90,100
+48,13,Psychic,41,psychic,90,100
+48,14,Poison Fang,41,poison,50,100
+48,15,Poison Fang,41,poison,50,100
+48,16,Poison Fang,41,poison,50,100
+48,1,Psychic,43,psychic,90,100
+48,2,Psychic,43,psychic,90,100
+48,8,Psychic,47,psychic,90,100
+48,9,Psychic,47,psychic,90,100
+48,10,Psychic,47,psychic,90,100
+48,11,Psychic,47,psychic,90,100
+48,14,Psychic,47,psychic,90,100
+48,15,Psychic,47,psychic,90,100
+48,16,Psychic,47,psychic,90,100

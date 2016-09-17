@@ -1,0 +1,141 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+475,8,Leer,1,normal,-,100
+475,8,Confusion,1,psychic,50,100
+475,8,Teleport,1,psychic,-,-
+475,8,Double Team,1,normal,-,-
+475,8,Leaf Blade,1,grass,90,100
+475,8,Night Slash,1,dark,70,100
+475,9,Leer,1,normal,-,100
+475,9,Confusion,1,psychic,50,100
+475,9,Teleport,1,psychic,-,-
+475,9,Double Team,1,normal,-,-
+475,9,Leaf Blade,1,grass,90,100
+475,9,Night Slash,1,dark,70,100
+475,10,Leer,1,normal,-,100
+475,10,Confusion,1,psychic,50,100
+475,10,Teleport,1,psychic,-,-
+475,10,Double Team,1,normal,-,-
+475,10,Leaf Blade,1,grass,90,100
+475,10,Night Slash,1,dark,70,100
+475,11,Leer,1,normal,-,100
+475,11,Confusion,1,psychic,50,100
+475,11,Teleport,1,psychic,-,-
+475,11,Double Team,1,normal,-,-
+475,11,Leaf Blade,1,grass,90,100
+475,11,Night Slash,1,dark,70,100
+475,14,Leer,1,normal,-,100
+475,14,Confusion,1,psychic,50,100
+475,14,Teleport,1,psychic,-,-
+475,14,Double Team,1,normal,-,-
+475,14,Leaf Blade,1,grass,90,100
+475,14,Night Slash,1,dark,70,100
+475,15,Leer,1,normal,-,100
+475,15,Confusion,1,psychic,50,100
+475,15,Teleport,1,psychic,-,-
+475,15,Double Team,1,normal,-,-
+475,15,Leaf Blade,1,grass,90,100
+475,15,Close Combat,1,fighting,120,100
+475,15,Night Slash,1,dark,70,100
+475,15,Stored Power,1,psychic,20,100
+475,16,Leer,1,normal,-,100
+475,16,Confusion,1,psychic,50,100
+475,16,Teleport,1,psychic,-,-
+475,16,Double Team,1,normal,-,-
+475,16,Leaf Blade,1,grass,90,100
+475,16,Close Combat,1,fighting,120,100
+475,16,Night Slash,1,dark,70,100
+475,16,Stored Power,1,psychic,20,100
+475,16,Confusion,4,psychic,50,100
+475,8,Confusion,6,psychic,50,100
+475,9,Confusion,6,psychic,50,100
+475,10,Confusion,6,psychic,50,100
+475,11,Confusion,6,psychic,50,100
+475,14,Confusion,6,psychic,50,100
+475,15,Confusion,6,psychic,50,100
+475,16,Double Team,6,normal,-,-
+475,16,Teleport,9,psychic,-,-
+475,8,Double Team,10,normal,-,-
+475,9,Double Team,10,normal,-,-
+475,10,Double Team,10,normal,-,-
+475,11,Double Team,10,normal,-,-
+475,14,Double Team,10,normal,-,-
+475,15,Double Team,10,normal,-,-
+475,16,Quick Guard,11,fighting,-,-
+475,8,Teleport,12,psychic,-,-
+475,9,Teleport,12,psychic,-,-
+475,10,Teleport,12,psychic,-,-
+475,11,Teleport,12,psychic,-,-
+475,14,Teleport,12,psychic,-,-
+475,15,Teleport,12,psychic,-,-
+475,16,Fury Cutter,14,bug,40,95
+475,8,Fury Cutter,17,bug,40,95
+475,9,Fury Cutter,17,bug,40,95
+475,10,Fury Cutter,17,bug,40,95
+475,11,Fury Cutter,17,bug,40,95
+475,14,Fury Cutter,17,bug,40,95
+475,15,Fury Cutter,17,bug,40,95
+475,16,Slash,17,normal,70,100
+475,16,Heal Pulse,19,psychic,-,-
+475,8,Slash,22,normal,70,100
+475,9,Slash,22,normal,70,100
+475,10,Slash,22,normal,70,100
+475,11,Slash,22,normal,70,100
+475,14,Slash,22,normal,70,100
+475,15,Slash,22,normal,70,100
+475,16,Wide Guard,23,rock,-,-
+475,8,Swords Dance,25,normal,-,-
+475,9,Swords Dance,25,normal,-,-
+475,10,Swords Dance,25,normal,-,-
+475,11,Heal Pulse,25,psychic,-,-
+475,14,Heal Pulse,25,psychic,-,-
+475,15,Heal Pulse,25,psychic,-,-
+475,16,Swords Dance,26,normal,-,-
+475,8,Psycho Cut,31,psychic,70,100
+475,9,Psycho Cut,31,psychic,70,100
+475,10,Psycho Cut,31,psychic,70,100
+475,11,Swords Dance,31,normal,-,-
+475,14,Swords Dance,31,normal,-,-
+475,15,Swords Dance,31,normal,-,-
+475,16,Psycho Cut,31,psychic,70,100
+475,16,Helping Hand,35,normal,-,-
+475,8,Helping Hand,36,normal,-,-
+475,9,Helping Hand,36,normal,-,-
+475,10,Helping Hand,36,normal,-,-
+475,11,Psycho Cut,36,psychic,70,100
+475,14,Psycho Cut,36,psychic,70,100
+475,15,Psycho Cut,36,psychic,70,100
+475,8,Feint,39,normal,30,100
+475,9,Feint,39,normal,30,100
+475,10,Feint,39,normal,30,100
+475,11,Helping Hand,39,normal,-,-
+475,14,Helping Hand,39,normal,-,-
+475,15,Helping Hand,39,normal,-,-
+475,16,Feint,40,normal,30,100
+475,16,False Swipe,44,normal,40,100
+475,8,False Swipe,45,normal,40,100
+475,9,False Swipe,45,normal,40,100
+475,10,False Swipe,45,normal,40,100
+475,11,Feint,45,normal,30,100
+475,14,Feint,45,normal,30,100
+475,15,Feint,45,normal,30,100
+475,16,Protect,49,normal,-,-
+475,8,Protect,50,normal,-,-
+475,9,Protect,50,normal,-,-
+475,10,Protect,50,normal,-,-
+475,11,False Swipe,50,normal,40,100
+475,14,False Swipe,50,normal,40,100
+475,15,False Swipe,50,normal,40,100
+475,8,Close Combat,53,fighting,120,100
+475,9,Close Combat,53,fighting,120,100
+475,10,Close Combat,53,fighting,120,100
+475,11,Protect,53,normal,-,-
+475,14,Protect,53,normal,-,-
+475,15,Protect,53,normal,-,-
+475,16,Close Combat,53,fighting,120,100
+475,16,Stored Power,58,psychic,20,100
+475,11,Close Combat,59,fighting,120,100
+475,14,Close Combat,59,fighting,120,100
+475,15,Close Combat,59,fighting,120,100
+475,11,Stored Power,64,psychic,20,100
+475,14,Stored Power,64,psychic,20,100
+475,15,Stored Power,64,psychic,20,100

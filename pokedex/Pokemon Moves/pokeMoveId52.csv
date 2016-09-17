@@ -1,0 +1,181 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+52,1,Scratch,1,normal,40,100
+52,1,Growl,1,normal,-,100
+52,2,Scratch,1,normal,40,100
+52,2,Growl,1,normal,-,100
+52,3,Scratch,1,normal,40,100
+52,3,Growl,1,normal,-,100
+52,4,Scratch,1,normal,40,100
+52,4,Growl,1,normal,-,100
+52,5,Scratch,1,normal,40,100
+52,5,Growl,1,normal,-,100
+52,6,Scratch,1,normal,40,100
+52,6,Growl,1,normal,-,100
+52,7,Scratch,1,normal,40,100
+52,7,Growl,1,normal,-,100
+52,8,Scratch,1,normal,40,100
+52,8,Growl,1,normal,-,100
+52,9,Scratch,1,normal,40,100
+52,9,Growl,1,normal,-,100
+52,10,Scratch,1,normal,40,100
+52,10,Growl,1,normal,-,100
+52,11,Scratch,1,normal,40,100
+52,11,Growl,1,normal,-,100
+52,12,Scratch,1,normal,40,100
+52,12,Growl,1,normal,-,100
+52,13,Scratch,1,normal,40,100
+52,13,Growl,1,normal,-,100
+52,14,Scratch,1,normal,40,100
+52,14,Growl,1,normal,-,100
+52,15,Scratch,1,normal,40,100
+52,15,Growl,1,normal,-,100
+52,16,Scratch,1,normal,40,100
+52,16,Growl,1,normal,-,100
+52,8,Bite,6,dark,60,100
+52,9,Bite,6,dark,60,100
+52,10,Bite,6,dark,60,100
+52,11,Bite,6,dark,60,100
+52,14,Bite,6,dark,60,100
+52,15,Bite,6,dark,60,100
+52,16,Bite,6,dark,60,100
+52,8,Fake Out,9,normal,40,100
+52,9,Fake Out,9,normal,40,100
+52,10,Fake Out,9,normal,40,100
+52,11,Fake Out,9,normal,40,100
+52,14,Fake Out,9,normal,40,100
+52,15,Fake Out,9,normal,40,100
+52,16,Fake Out,9,normal,40,100
+52,7,Bite,10,dark,60,100
+52,3,Bite,11,dark,60,100
+52,4,Bite,11,dark,60,100
+52,5,Bite,11,dark,60,100
+52,6,Bite,11,dark,60,100
+52,12,Bite,11,dark,60,100
+52,13,Bite,11,dark,60,100
+52,1,Bite,12,dark,60,100
+52,2,Bite,12,dark,60,100
+52,8,Fury Swipes,14,normal,18,80
+52,9,Fury Swipes,14,normal,18,80
+52,10,Fury Swipes,14,normal,18,80
+52,11,Fury Swipes,14,normal,18,80
+52,14,Fury Swipes,14,normal,18,80
+52,15,Fury Swipes,14,normal,18,80
+52,16,Fury Swipes,14,normal,18,80
+52,1,Pay Day,17,normal,40,100
+52,2,Pay Day,17,normal,40,100
+52,8,Screech,17,normal,-,85
+52,9,Screech,17,normal,-,85
+52,10,Screech,17,normal,-,85
+52,11,Screech,17,normal,-,85
+52,14,Screech,17,normal,-,85
+52,15,Screech,17,normal,-,85
+52,16,Screech,17,normal,-,85
+52,7,Pay Day,18,normal,40,100
+52,3,Pay Day,20,normal,40,100
+52,4,Pay Day,20,normal,40,100
+52,5,Pay Day,20,normal,40,100
+52,6,Pay Day,20,normal,40,100
+52,12,Pay Day,20,normal,40,100
+52,13,Pay Day,20,normal,40,100
+52,8,Feint Attack,22,dark,60,-
+52,9,Feint Attack,22,dark,60,-
+52,10,Feint Attack,22,dark,60,-
+52,11,Feint Attack,22,dark,60,-
+52,14,Feint Attack,22,dark,60,-
+52,15,Feint Attack,22,dark,60,-
+52,16,Feint Attack,22,dark,60,-
+52,1,Screech,24,normal,-,85
+52,2,Screech,24,normal,-,85
+52,7,Feint Attack,25,dark,60,-
+52,8,Taunt,25,dark,-,100
+52,9,Taunt,25,dark,-,100
+52,10,Taunt,25,dark,-,100
+52,11,Taunt,25,dark,-,100
+52,14,Taunt,25,dark,-,100
+52,15,Taunt,25,dark,-,100
+52,16,Taunt,25,dark,-,100
+52,3,Feint Attack,28,dark,60,-
+52,4,Feint Attack,28,dark,60,-
+52,5,Feint Attack,28,dark,60,-
+52,6,Feint Attack,28,dark,60,-
+52,12,Feint Attack,28,dark,60,-
+52,13,Feint Attack,28,dark,60,-
+52,8,Pay Day,30,normal,40,100
+52,9,Pay Day,30,normal,40,100
+52,10,Pay Day,30,normal,40,100
+52,11,Pay Day,30,normal,40,100
+52,14,Pay Day,30,normal,40,100
+52,15,Pay Day,30,normal,40,100
+52,16,Pay Day,30,normal,40,100
+52,7,Screech,31,normal,-,85
+52,1,Fury Swipes,33,normal,18,80
+52,2,Fury Swipes,33,normal,18,80
+52,8,Slash,33,normal,70,100
+52,9,Slash,33,normal,70,100
+52,10,Slash,33,normal,70,100
+52,11,Slash,33,normal,70,100
+52,14,Slash,33,normal,70,100
+52,15,Slash,33,normal,70,100
+52,16,Slash,33,normal,70,100
+52,3,Screech,35,normal,-,85
+52,4,Screech,35,normal,-,85
+52,5,Screech,35,normal,-,85
+52,6,Screech,35,normal,-,85
+52,12,Screech,35,normal,-,85
+52,13,Screech,35,normal,-,85
+52,7,Fury Swipes,36,normal,18,80
+52,8,Nasty Plot,38,dark,-,-
+52,9,Nasty Plot,38,dark,-,-
+52,10,Nasty Plot,38,dark,-,-
+52,11,Nasty Plot,38,dark,-,-
+52,14,Nasty Plot,38,dark,-,-
+52,15,Nasty Plot,38,dark,-,-
+52,16,Nasty Plot,38,dark,-,-
+52,7,Slash,40,normal,70,100
+52,3,Fury Swipes,41,normal,18,80
+52,4,Fury Swipes,41,normal,18,80
+52,5,Fury Swipes,41,normal,18,80
+52,6,Fury Swipes,41,normal,18,80
+52,8,Assurance,41,dark,60,100
+52,9,Assurance,41,dark,60,100
+52,10,Assurance,41,dark,60,100
+52,11,Assurance,41,dark,60,100
+52,12,Fury Swipes,41,normal,18,80
+52,13,Fury Swipes,41,normal,18,80
+52,14,Assurance,41,dark,60,100
+52,15,Assurance,41,dark,60,100
+52,16,Assurance,41,dark,60,100
+52,7,Fake Out,43,normal,40,100
+52,1,Slash,44,normal,70,100
+52,2,Slash,44,normal,70,100
+52,7,Swagger,45,normal,-,90
+52,3,Slash,46,normal,70,100
+52,4,Slash,46,normal,70,100
+52,5,Slash,46,normal,70,100
+52,6,Slash,46,normal,70,100
+52,8,Captivate,46,normal,-,100
+52,9,Captivate,46,normal,-,100
+52,10,Captivate,46,normal,-,100
+52,11,Captivate,46,normal,-,100
+52,12,Slash,46,normal,70,100
+52,13,Slash,46,normal,70,100
+52,14,Captivate,46,normal,-,100
+52,15,Captivate,46,normal,-,100
+52,16,Captivate,46,normal,-,100
+52,8,Night Slash,49,dark,70,100
+52,9,Night Slash,49,dark,70,100
+52,10,Night Slash,49,dark,70,100
+52,11,Night Slash,49,dark,70,100
+52,14,Night Slash,49,dark,70,100
+52,15,Night Slash,49,dark,70,100
+52,16,Night Slash,49,dark,70,100
+52,5,Fake Out,50,normal,40,100
+52,6,Fake Out,50,normal,40,100
+52,12,Fake Out,50,normal,40,100
+52,13,Fake Out,50,normal,40,100
+52,15,Feint,50,normal,30,100
+52,16,Feint,50,normal,30,100
+52,9,Feint,54,normal,30,100
+52,10,Feint,54,normal,30,100
+52,11,Feint,54,normal,30,100
+52,14,Feint,54,normal,30,100

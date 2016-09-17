@@ -1,0 +1,210 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+148,1,Wrap,1,normal,15,90
+148,1,Leer,1,normal,-,100
+148,1,Thunder Wave,1,electric,-,100
+148,2,Wrap,1,normal,15,90
+148,2,Leer,1,normal,-,100
+148,2,Thunder Wave,1,electric,-,100
+148,3,Wrap,1,normal,15,90
+148,3,Leer,1,normal,-,100
+148,3,Thunder Wave,1,electric,-,100
+148,3,Twister,1,dragon,40,100
+148,4,Wrap,1,normal,15,90
+148,4,Leer,1,normal,-,100
+148,4,Thunder Wave,1,electric,-,100
+148,4,Twister,1,dragon,40,100
+148,5,Wrap,1,normal,15,90
+148,5,Leer,1,normal,-,100
+148,5,Thunder Wave,1,electric,-,100
+148,5,Twister,1,dragon,40,100
+148,6,Wrap,1,normal,15,90
+148,6,Leer,1,normal,-,100
+148,6,Thunder Wave,1,electric,-,100
+148,6,Twister,1,dragon,40,100
+148,7,Wrap,1,normal,15,90
+148,7,Leer,1,normal,-,100
+148,7,Thunder Wave,1,electric,-,100
+148,7,Twister,1,dragon,40,100
+148,8,Wrap,1,normal,15,90
+148,8,Leer,1,normal,-,100
+148,8,Thunder Wave,1,electric,-,100
+148,8,Twister,1,dragon,40,100
+148,9,Wrap,1,normal,15,90
+148,9,Leer,1,normal,-,100
+148,9,Thunder Wave,1,electric,-,100
+148,9,Twister,1,dragon,40,100
+148,10,Wrap,1,normal,15,90
+148,10,Leer,1,normal,-,100
+148,10,Thunder Wave,1,electric,-,100
+148,10,Twister,1,dragon,40,100
+148,11,Wrap,1,normal,15,90
+148,11,Leer,1,normal,-,100
+148,11,Thunder Wave,1,electric,-,100
+148,11,Twister,1,dragon,40,100
+148,12,Wrap,1,normal,15,90
+148,12,Leer,1,normal,-,100
+148,12,Thunder Wave,1,electric,-,100
+148,12,Twister,1,dragon,40,100
+148,13,Wrap,1,normal,15,90
+148,13,Leer,1,normal,-,100
+148,13,Thunder Wave,1,electric,-,100
+148,13,Twister,1,dragon,40,100
+148,14,Wrap,1,normal,15,90
+148,14,Leer,1,normal,-,100
+148,14,Thunder Wave,1,electric,-,100
+148,14,Twister,1,dragon,40,100
+148,15,Wrap,1,normal,15,90
+148,15,Leer,1,normal,-,100
+148,15,Thunder Wave,1,electric,-,100
+148,15,Twister,1,dragon,40,100
+148,16,Wrap,1,normal,15,90
+148,16,Leer,1,normal,-,100
+148,16,Thunder Wave,1,electric,-,100
+148,16,Twister,1,dragon,40,100
+148,8,Thunder Wave,5,electric,-,100
+148,9,Thunder Wave,5,electric,-,100
+148,10,Thunder Wave,5,electric,-,100
+148,11,Thunder Wave,5,electric,-,100
+148,14,Thunder Wave,5,electric,-,100
+148,15,Thunder Wave,5,electric,-,100
+148,16,Thunder Wave,5,electric,-,100
+148,3,Thunder Wave,8,electric,-,100
+148,4,Thunder Wave,8,electric,-,100
+148,5,Thunder Wave,8,electric,-,100
+148,6,Thunder Wave,8,electric,-,100
+148,7,Thunder Wave,8,electric,-,100
+148,12,Thunder Wave,8,electric,-,100
+148,13,Thunder Wave,8,electric,-,100
+148,1,Thunder Wave,10,electric,-,100
+148,2,Thunder Wave,10,electric,-,100
+148,8,Twister,11,dragon,40,100
+148,9,Twister,11,dragon,40,100
+148,10,Twister,11,dragon,40,100
+148,11,Twister,11,dragon,40,100
+148,14,Twister,11,dragon,40,100
+148,15,Twister,11,dragon,40,100
+148,16,Twister,11,dragon,40,100
+148,3,Twister,15,dragon,40,100
+148,4,Twister,15,dragon,40,100
+148,5,Twister,15,dragon,40,100
+148,6,Twister,15,dragon,40,100
+148,7,Twister,15,dragon,40,100
+148,8,Dragon Rage,15,dragon,-,100
+148,9,Dragon Rage,15,dragon,-,100
+148,10,Dragon Rage,15,dragon,-,100
+148,11,Dragon Rage,15,dragon,-,100
+148,12,Twister,15,dragon,40,100
+148,13,Twister,15,dragon,40,100
+148,14,Dragon Rage,15,dragon,-,100
+148,15,Dragon Rage,15,dragon,-,100
+148,16,Dragon Rage,15,dragon,-,100
+148,1,Agility,20,psychic,-,-
+148,2,Agility,20,psychic,-,-
+148,8,Slam,21,normal,80,75
+148,9,Slam,21,normal,80,75
+148,10,Slam,21,normal,80,75
+148,11,Slam,21,normal,80,75
+148,14,Slam,21,normal,80,75
+148,15,Slam,21,normal,80,75
+148,16,Slam,21,normal,80,75
+148,3,Dragon Rage,22,dragon,-,100
+148,4,Dragon Rage,22,dragon,-,100
+148,5,Dragon Rage,22,dragon,-,100
+148,6,Dragon Rage,22,dragon,-,100
+148,7,Dragon Rage,22,dragon,-,100
+148,12,Dragon Rage,22,dragon,-,100
+148,13,Dragon Rage,22,dragon,-,100
+148,8,Agility,25,psychic,-,-
+148,9,Agility,25,psychic,-,-
+148,10,Agility,25,psychic,-,-
+148,11,Agility,25,psychic,-,-
+148,14,Agility,25,psychic,-,-
+148,15,Agility,25,psychic,-,-
+148,16,Agility,25,psychic,-,-
+148,3,Slam,29,normal,80,75
+148,4,Slam,29,normal,80,75
+148,5,Slam,29,normal,80,75
+148,6,Slam,29,normal,80,75
+148,7,Slam,29,normal,80,75
+148,12,Slam,29,normal,80,75
+148,13,Slam,29,normal,80,75
+148,8,Aqua Tail,33,water,90,90
+148,9,Aqua Tail,33,water,90,90
+148,10,Aqua Tail,33,water,90,90
+148,11,Dragon Tail,33,dragon,60,90
+148,14,Dragon Tail,33,dragon,60,90
+148,15,Dragon Tail,33,dragon,60,90
+148,16,Dragon Tail,33,dragon,60,90
+148,1,Slam,35,normal,80,75
+148,2,Slam,35,normal,80,75
+148,3,Agility,38,psychic,-,-
+148,4,Agility,38,psychic,-,-
+148,5,Agility,38,psychic,-,-
+148,6,Agility,38,psychic,-,-
+148,7,Agility,38,psychic,-,-
+148,12,Agility,38,psychic,-,-
+148,13,Agility,38,psychic,-,-
+148,8,Dragon Rush,39,dragon,100,75
+148,9,Dragon Rush,39,dragon,100,75
+148,10,Dragon Rush,39,dragon,100,75
+148,11,Aqua Tail,39,water,90,90
+148,14,Aqua Tail,39,water,90,90
+148,15,Aqua Tail,39,water,90,90
+148,16,Aqua Tail,39,water,90,90
+148,1,Dragon Rage,45,dragon,-,100
+148,2,Dragon Rage,45,dragon,-,100
+148,3,Safeguard,47,normal,-,-
+148,4,Safeguard,47,normal,-,-
+148,5,Safeguard,47,normal,-,-
+148,6,Safeguard,47,normal,-,-
+148,7,Safeguard,47,normal,-,-
+148,8,Safeguard,47,normal,-,-
+148,9,Safeguard,47,normal,-,-
+148,10,Safeguard,47,normal,-,-
+148,11,Dragon Rush,47,dragon,100,75
+148,12,Safeguard,47,normal,-,-
+148,13,Safeguard,47,normal,-,-
+148,14,Dragon Rush,47,dragon,100,75
+148,15,Dragon Rush,47,dragon,100,75
+148,16,Dragon Rush,47,dragon,100,75
+148,8,Dragon Dance,53,dragon,-,-
+148,9,Dragon Dance,53,dragon,-,-
+148,10,Dragon Dance,53,dragon,-,-
+148,11,Safeguard,53,normal,-,-
+148,14,Safeguard,53,normal,-,-
+148,15,Safeguard,53,normal,-,-
+148,16,Safeguard,53,normal,-,-
+148,1,Hyper Beam,55,normal,150,90
+148,2,Hyper Beam,55,normal,150,90
+148,3,Outrage,56,dragon,120,100
+148,4,Outrage,56,dragon,120,100
+148,5,Outrage,56,dragon,120,100
+148,6,Outrage,56,dragon,120,100
+148,7,Outrage,56,dragon,120,100
+148,12,Outrage,56,dragon,120,100
+148,13,Outrage,56,dragon,120,100
+148,8,Outrage,61,dragon,120,100
+148,9,Outrage,61,dragon,120,100
+148,10,Outrage,61,dragon,120,100
+148,11,Dragon Dance,61,dragon,-,-
+148,14,Dragon Dance,61,dragon,-,-
+148,15,Dragon Dance,61,dragon,-,-
+148,16,Dragon Dance,61,dragon,-,-
+148,3,Hyper Beam,65,normal,150,90
+148,4,Hyper Beam,65,normal,150,90
+148,5,Hyper Beam,65,normal,150,90
+148,6,Hyper Beam,65,normal,150,90
+148,7,Hyper Beam,65,normal,150,90
+148,12,Hyper Beam,65,normal,150,90
+148,13,Hyper Beam,65,normal,150,90
+148,8,Hyper Beam,67,normal,150,90
+148,9,Hyper Beam,67,normal,150,90
+148,10,Hyper Beam,67,normal,150,90
+148,11,Outrage,67,dragon,120,100
+148,14,Outrage,67,dragon,120,100
+148,15,Outrage,67,dragon,120,100
+148,16,Outrage,67,dragon,120,100
+148,11,Hyper Beam,75,normal,150,90
+148,14,Hyper Beam,75,normal,150,90
+148,15,Hyper Beam,75,normal,150,90
+148,16,Hyper Beam,75,normal,150,90

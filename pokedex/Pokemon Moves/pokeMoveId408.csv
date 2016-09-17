@@ -1,0 +1,82 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+408,8,Headbutt,1,normal,70,100
+408,8,Leer,1,normal,-,100
+408,9,Headbutt,1,normal,70,100
+408,9,Leer,1,normal,-,100
+408,10,Headbutt,1,normal,70,100
+408,10,Leer,1,normal,-,100
+408,11,Headbutt,1,normal,70,100
+408,11,Leer,1,normal,-,100
+408,14,Headbutt,1,normal,70,100
+408,14,Leer,1,normal,-,100
+408,15,Headbutt,1,normal,70,100
+408,15,Leer,1,normal,-,100
+408,16,Headbutt,1,normal,70,100
+408,16,Leer,1,normal,-,100
+408,8,Focus Energy,6,normal,-,-
+408,9,Focus Energy,6,normal,-,-
+408,10,Focus Energy,6,normal,-,-
+408,11,Focus Energy,6,normal,-,-
+408,14,Focus Energy,6,normal,-,-
+408,15,Focus Energy,6,normal,-,-
+408,16,Focus Energy,6,normal,-,-
+408,8,Pursuit,10,dark,40,100
+408,9,Pursuit,10,dark,40,100
+408,10,Pursuit,10,dark,40,100
+408,11,Pursuit,10,dark,40,100
+408,14,Pursuit,10,dark,40,100
+408,15,Pursuit,10,dark,40,100
+408,16,Pursuit,10,dark,40,100
+408,8,Take Down,15,normal,90,85
+408,9,Take Down,15,normal,90,85
+408,10,Take Down,15,normal,90,85
+408,11,Take Down,15,normal,90,85
+408,14,Take Down,15,normal,90,85
+408,15,Take Down,15,normal,90,85
+408,16,Take Down,15,normal,90,85
+408,8,Scary Face,19,normal,-,100
+408,9,Scary Face,19,normal,-,100
+408,10,Scary Face,19,normal,-,100
+408,11,Scary Face,19,normal,-,100
+408,14,Scary Face,19,normal,-,100
+408,15,Scary Face,19,normal,-,100
+408,16,Scary Face,19,normal,-,100
+408,8,Assurance,24,dark,60,100
+408,9,Assurance,24,dark,60,100
+408,10,Assurance,24,dark,60,100
+408,11,Assurance,24,dark,60,100
+408,14,Assurance,24,dark,60,100
+408,15,Assurance,24,dark,60,100
+408,16,Assurance,24,dark,60,100
+408,8,Ancient Power,28,rock,60,100
+408,9,Ancient Power,28,rock,60,100
+408,10,Ancient Power,28,rock,60,100
+408,11,Chip Away,28,normal,70,100
+408,14,Chip Away,28,normal,70,100
+408,15,Chip Away,28,normal,70,100
+408,16,Chip Away,28,normal,70,100
+408,8,Zen Headbutt,33,psychic,80,90
+408,9,Zen Headbutt,33,psychic,80,90
+408,10,Zen Headbutt,33,psychic,80,90
+408,11,Ancient Power,33,rock,60,100
+408,14,Ancient Power,33,rock,60,100
+408,15,Ancient Power,33,rock,60,100
+408,16,Ancient Power,33,rock,60,100
+408,8,Screech,37,normal,-,85
+408,9,Screech,37,normal,-,85
+408,10,Screech,37,normal,-,85
+408,11,Zen Headbutt,37,psychic,80,90
+408,14,Zen Headbutt,37,psychic,80,90
+408,15,Zen Headbutt,37,psychic,80,90
+408,16,Zen Headbutt,37,psychic,80,90
+408,11,Screech,42,normal,-,85
+408,14,Screech,42,normal,-,85
+408,15,Screech,42,normal,-,85
+408,16,Screech,42,normal,-,85
+408,8,Head Smash,43,rock,150,80
+408,9,Head Smash,43,rock,150,80
+408,10,Head Smash,43,rock,150,80
+408,11,Head Smash,46,rock,150,80
+408,14,Head Smash,46,rock,150,80
+408,15,Head Smash,46,rock,150,80
+408,16,Head Smash,46,rock,150,80

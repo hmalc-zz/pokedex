@@ -1,0 +1,156 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+337,5,Tackle,1,normal,50,100
+337,5,Harden,1,normal,-,-
+337,6,Tackle,1,normal,50,100
+337,6,Harden,1,normal,-,-
+337,7,Tackle,1,normal,50,100
+337,7,Harden,1,normal,-,-
+337,8,Tackle,1,normal,50,100
+337,8,Confusion,1,psychic,50,100
+337,8,Harden,1,normal,-,-
+337,9,Tackle,1,normal,50,100
+337,9,Confusion,1,psychic,50,100
+337,9,Harden,1,normal,-,-
+337,10,Tackle,1,normal,50,100
+337,10,Confusion,1,psychic,50,100
+337,10,Harden,1,normal,-,-
+337,11,Tackle,1,normal,50,100
+337,11,Confusion,1,psychic,50,100
+337,11,Harden,1,normal,-,-
+337,12,Tackle,1,normal,50,100
+337,12,Harden,1,normal,-,-
+337,13,Tackle,1,normal,50,100
+337,13,Harden,1,normal,-,-
+337,14,Tackle,1,normal,50,100
+337,14,Confusion,1,psychic,50,100
+337,14,Harden,1,normal,-,-
+337,15,Tackle,1,normal,50,100
+337,15,Rock Throw,1,rock,50,90
+337,15,Confusion,1,psychic,50,100
+337,15,Harden,1,normal,-,-
+337,15,Magic Room,1,psychic,-,-
+337,16,Tackle,1,normal,50,100
+337,16,Rock Throw,1,rock,50,90
+337,16,Confusion,1,psychic,50,100
+337,16,Harden,1,normal,-,-
+337,16,Moonblast,1,fairy,95,100
+337,14,Rock Throw,5,rock,50,90
+337,15,Rock Throw,5,rock,50,90
+337,16,Hypnosis,5,psychic,-,60
+337,5,Confusion,7,psychic,50,100
+337,6,Confusion,7,psychic,50,100
+337,7,Confusion,7,psychic,50,100
+337,12,Confusion,7,psychic,50,100
+337,13,Confusion,7,psychic,50,100
+337,8,Rock Throw,9,rock,50,90
+337,9,Rock Throw,9,rock,50,90
+337,10,Rock Throw,9,rock,50,90
+337,11,Rock Throw,9,rock,50,90
+337,14,Hypnosis,9,psychic,-,60
+337,15,Hypnosis,9,psychic,-,60
+337,16,Rock Polish,9,rock,-,-
+337,8,Hypnosis,12,psychic,-,60
+337,9,Hypnosis,12,psychic,-,60
+337,10,Hypnosis,12,psychic,-,60
+337,11,Hypnosis,12,psychic,-,60
+337,5,Rock Throw,13,rock,50,90
+337,6,Rock Throw,13,rock,50,90
+337,7,Rock Throw,13,rock,50,90
+337,12,Rock Throw,13,rock,50,90
+337,13,Rock Throw,13,rock,50,90
+337,14,Rock Polish,13,rock,-,-
+337,15,Rock Polish,13,rock,-,-
+337,16,Psywave,13,psychic,-,100
+337,14,Psywave,17,psychic,-,100
+337,15,Psywave,17,psychic,-,100
+337,16,Embargo,17,dark,-,100
+337,5,Hypnosis,19,psychic,-,60
+337,6,Hypnosis,19,psychic,-,60
+337,7,Hypnosis,19,psychic,-,60
+337,12,Hypnosis,19,psychic,-,60
+337,13,Hypnosis,19,psychic,-,60
+337,8,Rock Polish,20,rock,-,-
+337,9,Rock Polish,20,rock,-,-
+337,10,Rock Polish,20,rock,-,-
+337,11,Rock Polish,20,rock,-,-
+337,14,Embargo,21,dark,-,100
+337,15,Embargo,21,dark,-,100
+337,16,Rock Slide,21,rock,75,90
+337,8,Psywave,23,psychic,-,100
+337,9,Psywave,23,psychic,-,100
+337,10,Psywave,23,psychic,-,100
+337,11,Psywave,23,psychic,-,100
+337,5,Psywave,25,psychic,-,100
+337,6,Psywave,25,psychic,-,100
+337,7,Psywave,25,psychic,-,100
+337,12,Psywave,25,psychic,-,100
+337,13,Psywave,25,psychic,-,100
+337,14,Rock Slide,25,rock,75,90
+337,15,Rock Slide,25,rock,75,90
+337,16,Cosmic Power,25,psychic,-,-
+337,14,Cosmic Power,29,psychic,-,-
+337,15,Cosmic Power,29,psychic,-,-
+337,16,Psychic,29,psychic,90,100
+337,5,Cosmic Power,31,psychic,-,-
+337,6,Cosmic Power,31,psychic,-,-
+337,7,Cosmic Power,31,psychic,-,-
+337,8,Embargo,31,dark,-,100
+337,9,Embargo,31,dark,-,100
+337,10,Embargo,31,dark,-,100
+337,11,Embargo,31,dark,-,100
+337,12,Cosmic Power,31,psychic,-,-
+337,13,Cosmic Power,31,psychic,-,-
+337,14,Psychic,33,psychic,90,100
+337,15,Psychic,33,psychic,90,100
+337,16,Heal Block,33,psychic,-,100
+337,8,Cosmic Power,34,psychic,-,-
+337,9,Cosmic Power,34,psychic,-,-
+337,10,Cosmic Power,34,psychic,-,-
+337,11,Cosmic Power,34,psychic,-,-
+337,5,Psychic,37,psychic,90,100
+337,6,Psychic,37,psychic,90,100
+337,7,Psychic,37,psychic,90,100
+337,12,Psychic,37,psychic,90,100
+337,13,Psychic,37,psychic,90,100
+337,14,Heal Block,37,psychic,-,100
+337,15,Heal Block,37,psychic,-,100
+337,16,Stone Edge,37,rock,100,80
+337,14,Stone Edge,41,rock,100,80
+337,15,Stone Edge,41,rock,100,80
+337,16,Future Sight,41,psychic,120,100
+337,8,Heal Block,42,psychic,-,100
+337,9,Heal Block,42,psychic,-,100
+337,10,Heal Block,42,psychic,-,100
+337,11,Heal Block,42,psychic,-,100
+337,5,Future Sight,43,psychic,120,100
+337,6,Future Sight,43,psychic,120,100
+337,7,Future Sight,43,psychic,120,100
+337,12,Future Sight,43,psychic,120,100
+337,13,Future Sight,43,psychic,120,100
+337,8,Psychic,45,psychic,90,100
+337,9,Psychic,45,psychic,90,100
+337,10,Psychic,45,psychic,90,100
+337,11,Psychic,45,psychic,90,100
+337,14,Future Sight,45,psychic,120,100
+337,15,Future Sight,45,psychic,120,100
+337,16,Explosion,45,normal,250,100
+337,5,Explosion,49,normal,250,100
+337,6,Explosion,49,normal,250,100
+337,7,Explosion,49,normal,250,100
+337,12,Explosion,49,normal,250,100
+337,13,Explosion,49,normal,250,100
+337,14,Explosion,49,normal,250,100
+337,15,Explosion,49,normal,250,100
+337,16,Magic Room,49,psychic,-,-
+337,15,Moonblast,50,fairy,95,100
+337,8,Future Sight,53,psychic,120,100
+337,9,Future Sight,53,psychic,120,100
+337,10,Future Sight,53,psychic,120,100
+337,11,Future Sight,53,psychic,120,100
+337,14,Magic Room,53,psychic,-,-
+337,15,Magic Room,53,psychic,-,-
+337,8,Explosion,56,normal,250,100
+337,9,Explosion,56,normal,250,100
+337,10,Explosion,56,normal,250,100
+337,11,Explosion,56,normal,250,100
+337,11,Magic Room,64,psychic,-,-

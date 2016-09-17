@@ -1,0 +1,33 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+685,15,Tackle,1,normal,50,100
+685,15,Sweet Scent,1,normal,-,100
+685,16,Tackle,1,normal,50,100
+685,16,Sweet Scent,1,normal,-,100
+685,15,Fairy Wind,5,fairy,40,100
+685,16,Fairy Wind,5,fairy,40,100
+685,15,Play Nice,8,normal,-,-
+685,16,Play Nice,8,normal,-,-
+685,15,Fake Tears,10,dark,-,100
+685,16,Fake Tears,10,dark,-,100
+685,15,Round,13,normal,60,100
+685,16,Round,13,normal,60,100
+685,15,Cotton Spore,17,grass,-,100
+685,16,Cotton Spore,17,grass,-,100
+685,15,Endeavor,21,normal,-,100
+685,16,Endeavor,21,normal,-,100
+685,15,Aromatherapy,26,grass,-,-
+685,16,Aromatherapy,26,grass,-,-
+685,15,Draining Kiss,31,fairy,50,100
+685,16,Draining Kiss,31,fairy,50,100
+685,15,Energy Ball,36,grass,90,100
+685,16,Energy Ball,36,grass,90,100
+685,15,Cotton Guard,41,grass,-,-
+685,16,Cotton Guard,41,grass,-,-
+685,15,Wish,45,normal,-,-
+685,16,Wish,45,normal,-,-
+685,15,Play Rough,49,fairy,90,90
+685,16,Play Rough,49,fairy,90,90
+685,15,Light Screen,58,psychic,-,-
+685,16,Light Screen,58,psychic,-,-
+685,15,Safeguard,67,normal,-,-
+685,16,Safeguard,67,normal,-,-

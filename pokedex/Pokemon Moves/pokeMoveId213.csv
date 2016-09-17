@@ -1,0 +1,151 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+213,3,Withdraw,1,water,-,-
+213,3,Constrict,1,normal,10,100
+213,4,Withdraw,1,water,-,-
+213,4,Constrict,1,normal,10,100
+213,5,Withdraw,1,water,-,-
+213,5,Constrict,1,normal,10,100
+213,6,Withdraw,1,water,-,-
+213,6,Constrict,1,normal,10,100
+213,7,Withdraw,1,water,-,-
+213,7,Constrict,1,normal,10,100
+213,8,Withdraw,1,water,-,-
+213,8,Constrict,1,normal,10,100
+213,9,Withdraw,1,water,-,-
+213,9,Bide,1,normal,-,-
+213,9,Constrict,1,normal,10,100
+213,10,Withdraw,1,water,-,-
+213,10,Bide,1,normal,-,-
+213,10,Constrict,1,normal,10,100
+213,11,Withdraw,1,water,-,-
+213,11,Bide,1,normal,-,-
+213,11,Constrict,1,normal,10,100
+213,11,Struggle Bug,1,bug,50,100
+213,12,Withdraw,1,water,-,-
+213,12,Constrict,1,normal,10,100
+213,13,Withdraw,1,water,-,-
+213,13,Constrict,1,normal,10,100
+213,14,Withdraw,1,water,-,-
+213,14,Bide,1,normal,-,-
+213,14,Constrict,1,normal,10,100
+213,14,Rollout,1,rock,30,90
+213,15,Withdraw,1,water,-,-
+213,15,Bide,1,normal,-,-
+213,15,Constrict,1,normal,10,100
+213,15,Rollout,1,rock,30,90
+213,15,Sticky Web,1,bug,-,-
+213,16,Withdraw,1,water,-,-
+213,16,Bide,1,normal,-,-
+213,16,Constrict,1,normal,10,100
+213,16,Rollout,1,rock,30,90
+213,16,Sticky Web,1,bug,-,-
+213,14,Encore,5,normal,-,100
+213,15,Encore,5,normal,-,100
+213,16,Encore,5,normal,-,100
+213,11,Encore,7,normal,-,100
+213,3,Wrap,9,normal,15,90
+213,4,Wrap,9,normal,15,90
+213,5,Wrap,9,normal,15,90
+213,6,Wrap,9,normal,15,90
+213,7,Wrap,9,normal,15,90
+213,8,Bide,9,normal,-,-
+213,9,Encore,9,normal,-,100
+213,10,Encore,9,normal,-,100
+213,12,Wrap,9,normal,15,90
+213,13,Wrap,9,normal,15,90
+213,14,Wrap,9,normal,15,90
+213,15,Wrap,9,normal,15,90
+213,16,Wrap,9,normal,15,90
+213,14,Struggle Bug,12,bug,50,100
+213,15,Struggle Bug,12,bug,50,100
+213,16,Struggle Bug,12,bug,50,100
+213,11,Wrap,13,normal,15,90
+213,3,Encore,14,normal,-,100
+213,4,Encore,14,normal,-,100
+213,5,Encore,14,normal,-,100
+213,6,Encore,14,normal,-,100
+213,7,Encore,14,normal,-,100
+213,8,Encore,14,normal,-,100
+213,9,Safeguard,14,normal,-,-
+213,10,Safeguard,14,normal,-,-
+213,12,Encore,14,normal,-,100
+213,13,Encore,14,normal,-,100
+213,14,Safeguard,16,normal,-,-
+213,15,Safeguard,16,normal,-,-
+213,16,Safeguard,16,normal,-,-
+213,11,Safeguard,19,normal,-,-
+213,14,Rest,20,psychic,-,-
+213,15,Rest,20,psychic,-,-
+213,16,Rest,20,psychic,-,-
+213,8,Safeguard,22,normal,-,-
+213,9,Wrap,22,normal,15,90
+213,10,Wrap,22,normal,15,90
+213,3,Safeguard,23,normal,-,-
+213,4,Safeguard,23,normal,-,-
+213,5,Safeguard,23,normal,-,-
+213,6,Safeguard,23,normal,-,-
+213,7,Safeguard,23,normal,-,-
+213,12,Safeguard,23,normal,-,-
+213,13,Safeguard,23,normal,-,-
+213,14,Rock Throw,23,rock,50,90
+213,15,Rock Throw,23,rock,50,90
+213,16,Rock Throw,23,rock,50,90
+213,11,Rest,25,psychic,-,-
+213,8,Wrap,27,normal,15,90
+213,9,Rest,27,psychic,-,-
+213,10,Rest,27,psychic,-,-
+213,14,Gastro Acid,27,poison,-,100
+213,15,Gastro Acid,27,poison,-,100
+213,16,Gastro Acid,27,poison,-,100
+213,3,Bide,28,normal,-,-
+213,4,Bide,28,normal,-,-
+213,5,Bide,28,normal,-,-
+213,6,Bide,28,normal,-,-
+213,7,Bide,28,normal,-,-
+213,12,Bide,28,normal,-,-
+213,13,Bide,28,normal,-,-
+213,11,Gastro Acid,31,poison,-,100
+213,14,Power Trick,31,psychic,-,-
+213,15,Power Trick,31,psychic,-,-
+213,16,Power Trick,31,psychic,-,-
+213,14,Shell Smash,34,normal,-,-
+213,15,Shell Smash,34,normal,-,-
+213,16,Shell Smash,34,normal,-,-
+213,8,Rest,35,psychic,-,-
+213,9,Gastro Acid,35,poison,-,100
+213,10,Gastro Acid,35,poison,-,100
+213,3,Rest,37,psychic,-,-
+213,4,Rest,37,psychic,-,-
+213,5,Rest,37,psychic,-,-
+213,6,Rest,37,psychic,-,-
+213,7,Rest,37,psychic,-,-
+213,11,Rollout,37,rock,30,90
+213,12,Rest,37,psychic,-,-
+213,13,Rest,37,psychic,-,-
+213,14,Rock Slide,38,rock,75,90
+213,15,Rock Slide,38,rock,75,90
+213,16,Rock Slide,38,rock,75,90
+213,8,Gastro Acid,40,poison,-,100
+213,9,Bug Bite,40,bug,60,100
+213,10,Bug Bite,40,bug,60,100
+213,14,Bug Bite,42,bug,60,100
+213,15,Bug Bite,42,bug,60,100
+213,16,Bug Bite,42,bug,60,100
+213,11,Power Trick,43,psychic,-,-
+213,14,Guard Split,45,psychic,-,-
+213,14,Power Split,45,psychic,-,-
+213,15,Guard Split,45,psychic,-,-
+213,15,Power Split,45,psychic,-,-
+213,16,Guard Split,45,psychic,-,-
+213,16,Power Split,45,psychic,-,-
+213,8,Power Trick,48,psychic,-,-
+213,9,Power Trick,48,psychic,-,-
+213,10,Power Trick,48,psychic,-,-
+213,11,Bug Bite,49,bug,60,100
+213,14,Stone Edge,49,rock,100,80
+213,15,Stone Edge,49,rock,100,80
+213,16,Stone Edge,49,rock,100,80
+213,15,Sticky Web,53,bug,-,-
+213,16,Sticky Web,53,bug,-,-
+213,11,Guard Split,55,psychic,-,-
+213,11,Power Split,55,psychic,-,-

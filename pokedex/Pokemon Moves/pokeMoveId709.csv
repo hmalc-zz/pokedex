@@ -1,0 +1,33 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+709,15,Tackle,1,normal,50,100
+709,15,Confuse Ray,1,ghost,-,100
+709,15,Horn Leech,1,grass,75,100
+709,16,Tackle,1,normal,50,100
+709,16,Confuse Ray,1,ghost,-,100
+709,16,Horn Leech,1,grass,75,100
+709,15,Astonish,5,ghost,30,100
+709,16,Astonish,5,ghost,30,100
+709,15,Growth,8,normal,-,-
+709,16,Growth,8,normal,-,-
+709,15,Ingrain,13,grass,-,-
+709,16,Ingrain,13,grass,-,-
+709,15,Feint Attack,19,dark,60,-
+709,16,Feint Attack,19,dark,60,-
+709,15,Leech Seed,23,grass,-,90
+709,16,Leech Seed,23,grass,-,90
+709,15,Curse,28,ghost,-,-
+709,16,Curse,28,ghost,-,-
+709,15,Will-O-Wisp,31,fire,-,85
+709,16,Will-O-Wisp,31,fire,-,85
+709,15,Forest's Curse,35,grass,-,100
+709,16,Forest's Curse,35,grass,-,100
+709,15,Destiny Bond,39,ghost,-,-
+709,16,Destiny Bond,39,ghost,-,-
+709,15,Phantom Force,45,ghost,90,100
+709,16,Phantom Force,45,ghost,90,100
+709,15,Wood Hammer,49,grass,120,100
+709,16,Wood Hammer,49,grass,120,100
+709,15,Shadow Claw,55,ghost,70,100
+709,16,Shadow Claw,55,ghost,70,100
+709,15,Horn Leech,62,grass,75,100
+709,16,Horn Leech,62,grass,75,100

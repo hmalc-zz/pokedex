@@ -1,0 +1,81 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+579,11,Reflect,1,psychic,-,-
+579,11,Psywave,1,psychic,-,100
+579,11,Rollout,1,rock,30,90
+579,11,Snatch,1,dark,-,-
+579,14,Reflect,1,psychic,-,-
+579,14,Psywave,1,psychic,-,100
+579,14,Rollout,1,rock,30,90
+579,14,Snatch,1,dark,-,-
+579,15,Reflect,1,psychic,-,-
+579,15,Psywave,1,psychic,-,100
+579,15,Rollout,1,rock,30,90
+579,15,Snatch,1,dark,-,-
+579,16,Reflect,1,psychic,-,-
+579,16,Psywave,1,psychic,-,100
+579,16,Rollout,1,rock,30,90
+579,16,Snatch,1,dark,-,-
+579,11,Reflect,3,psychic,-,-
+579,14,Reflect,3,psychic,-,-
+579,15,Reflect,3,psychic,-,-
+579,16,Reflect,3,psychic,-,-
+579,11,Rollout,7,rock,30,90
+579,14,Rollout,7,rock,30,90
+579,15,Rollout,7,rock,30,90
+579,16,Rollout,7,rock,30,90
+579,11,Snatch,10,dark,-,-
+579,14,Snatch,10,dark,-,-
+579,15,Snatch,10,dark,-,-
+579,16,Snatch,10,dark,-,-
+579,11,Hidden Power,14,normal,60,100
+579,14,Hidden Power,14,normal,60,100
+579,15,Hidden Power,14,normal,60,100
+579,16,Hidden Power,14,normal,60,100
+579,11,Light Screen,16,psychic,-,-
+579,14,Light Screen,16,psychic,-,-
+579,15,Light Screen,16,psychic,-,-
+579,16,Light Screen,16,psychic,-,-
+579,11,Charm,19,fairy,-,100
+579,14,Charm,19,fairy,-,100
+579,15,Charm,19,fairy,-,100
+579,16,Charm,19,fairy,-,100
+579,11,Recover,24,normal,-,-
+579,14,Recover,24,normal,-,-
+579,15,Recover,24,normal,-,-
+579,16,Recover,24,normal,-,-
+579,11,Psyshock,25,psychic,80,100
+579,14,Psyshock,25,psychic,80,100
+579,15,Psyshock,25,psychic,80,100
+579,16,Psyshock,25,psychic,80,100
+579,11,Endeavor,28,normal,-,100
+579,14,Endeavor,28,normal,-,100
+579,15,Endeavor,28,normal,-,100
+579,16,Endeavor,28,normal,-,100
+579,11,Future Sight,31,psychic,120,100
+579,14,Future Sight,31,psychic,120,100
+579,15,Future Sight,31,psychic,120,100
+579,16,Future Sight,31,psychic,120,100
+579,11,Pain Split,34,normal,-,-
+579,14,Pain Split,34,normal,-,-
+579,15,Pain Split,34,normal,-,-
+579,16,Pain Split,34,normal,-,-
+579,11,Psychic,39,psychic,90,100
+579,14,Psychic,39,psychic,90,100
+579,15,Psychic,39,psychic,90,100
+579,16,Psychic,39,psychic,90,100
+579,11,Dizzy Punch,41,normal,70,100
+579,14,Dizzy Punch,41,normal,70,100
+579,15,Dizzy Punch,41,normal,70,100
+579,16,Dizzy Punch,41,normal,70,100
+579,11,Skill Swap,45,psychic,-,-
+579,14,Skill Swap,45,psychic,-,-
+579,15,Skill Swap,45,psychic,-,-
+579,16,Skill Swap,45,psychic,-,-
+579,11,Heal Block,54,psychic,-,100
+579,14,Heal Block,54,psychic,-,100
+579,15,Heal Block,54,psychic,-,100
+579,16,Heal Block,54,psychic,-,100
+579,11,Wonder Room,59,psychic,-,-
+579,14,Wonder Room,59,psychic,-,-
+579,15,Wonder Room,59,psychic,-,-
+579,16,Wonder Room,59,psychic,-,-

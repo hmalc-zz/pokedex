@@ -1,0 +1,75 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+508,11,Tackle,1,normal,50,100
+508,11,Leer,1,normal,-,100
+508,11,Bite,1,dark,60,100
+508,11,Odor Sleuth,1,normal,-,-
+508,11,Thunder Fang,1,electric,65,95
+508,11,Ice Fang,1,ice,65,95
+508,11,Fire Fang,1,fire,65,95
+508,14,Tackle,1,normal,50,100
+508,14,Leer,1,normal,-,100
+508,14,Bite,1,dark,60,100
+508,14,Odor Sleuth,1,normal,-,-
+508,14,Thunder Fang,1,electric,65,95
+508,14,Ice Fang,1,ice,65,95
+508,14,Fire Fang,1,fire,65,95
+508,15,Tackle,1,normal,50,100
+508,15,Leer,1,normal,-,100
+508,15,Bite,1,dark,60,100
+508,15,Odor Sleuth,1,normal,-,-
+508,15,Thunder Fang,1,electric,65,95
+508,15,Ice Fang,1,ice,65,95
+508,15,Fire Fang,1,fire,65,95
+508,16,Tackle,1,normal,50,100
+508,16,Leer,1,normal,-,100
+508,16,Bite,1,dark,60,100
+508,16,Odor Sleuth,1,normal,-,-
+508,16,Thunder Fang,1,electric,65,95
+508,16,Ice Fang,1,ice,65,95
+508,16,Fire Fang,1,fire,65,95
+508,11,Odor Sleuth,5,normal,-,-
+508,14,Odor Sleuth,5,normal,-,-
+508,15,Odor Sleuth,5,normal,-,-
+508,16,Odor Sleuth,5,normal,-,-
+508,11,Bite,8,dark,60,100
+508,14,Bite,8,dark,60,100
+508,15,Bite,8,dark,60,100
+508,16,Bite,8,dark,60,100
+508,11,Helping Hand,12,normal,-,-
+508,14,Helping Hand,12,normal,-,-
+508,15,Helping Hand,12,normal,-,-
+508,16,Helping Hand,12,normal,-,-
+508,11,Take Down,15,normal,90,85
+508,14,Take Down,15,normal,90,85
+508,15,Take Down,15,normal,90,85
+508,16,Take Down,15,normal,90,85
+508,11,Work Up,20,normal,-,-
+508,14,Work Up,20,normal,-,-
+508,15,Work Up,20,normal,-,-
+508,16,Work Up,20,normal,-,-
+508,11,Crunch,24,dark,80,100
+508,14,Crunch,24,dark,80,100
+508,15,Crunch,24,dark,80,100
+508,16,Crunch,24,dark,80,100
+508,11,Roar,29,normal,-,-
+508,14,Roar,29,normal,-,-
+508,15,Roar,29,normal,-,-
+508,16,Roar,29,normal,-,-
+508,11,Retaliate,36,normal,70,100
+508,14,Retaliate,36,normal,70,100
+508,15,Retaliate,36,normal,70,100
+508,16,Retaliate,36,normal,70,100
+508,11,Reversal,42,fighting,-,100
+508,14,Reversal,42,fighting,-,100
+508,15,Reversal,42,fighting,-,100
+508,16,Reversal,42,fighting,-,100
+508,11,Last Resort,51,normal,140,100
+508,14,Last Resort,51,normal,140,100
+508,15,Last Resort,51,normal,140,100
+508,16,Last Resort,51,normal,140,100
+508,11,Giga Impact,59,normal,150,90
+508,14,Giga Impact,59,normal,150,90
+508,15,Giga Impact,59,normal,150,90
+508,16,Giga Impact,59,normal,150,90
+508,15,Play Rough,63,fairy,90,90
+508,16,Play Rough,63,fairy,90,90

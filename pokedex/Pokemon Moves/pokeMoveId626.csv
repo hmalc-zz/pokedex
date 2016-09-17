@@ -1,0 +1,57 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+626,11,Leer,1,normal,-,100
+626,11,Pursuit,1,dark,40,100
+626,14,Leer,1,normal,-,100
+626,14,Pursuit,1,dark,40,100
+626,15,Leer,1,normal,-,100
+626,15,Pursuit,1,dark,40,100
+626,16,Leer,1,normal,-,100
+626,16,Pursuit,1,dark,40,100
+626,11,Rage,6,normal,20,100
+626,14,Rage,6,normal,20,100
+626,15,Rage,6,normal,20,100
+626,16,Rage,6,normal,20,100
+626,11,Fury Attack,11,normal,15,85
+626,14,Fury Attack,11,normal,15,85
+626,15,Fury Attack,11,normal,15,85
+626,16,Fury Attack,11,normal,15,85
+626,11,Horn Attack,16,normal,65,100
+626,14,Horn Attack,16,normal,65,100
+626,15,Horn Attack,16,normal,65,100
+626,16,Horn Attack,16,normal,65,100
+626,11,Scary Face,21,normal,-,100
+626,14,Scary Face,21,normal,-,100
+626,15,Scary Face,21,normal,-,100
+626,16,Scary Face,21,normal,-,100
+626,11,Revenge,26,fighting,60,100
+626,14,Revenge,26,fighting,60,100
+626,15,Revenge,26,fighting,60,100
+626,16,Revenge,26,fighting,60,100
+626,11,Head Charge,31,normal,120,100
+626,14,Head Charge,31,normal,120,100
+626,15,Head Charge,31,normal,120,100
+626,16,Head Charge,31,normal,120,100
+626,11,Focus Energy,36,normal,-,-
+626,14,Focus Energy,36,normal,-,-
+626,15,Focus Energy,36,normal,-,-
+626,16,Focus Energy,36,normal,-,-
+626,11,Megahorn,41,bug,120,85
+626,14,Megahorn,41,bug,120,85
+626,15,Megahorn,41,bug,120,85
+626,16,Megahorn,41,bug,120,85
+626,11,Reversal,46,fighting,-,100
+626,14,Reversal,46,fighting,-,100
+626,15,Reversal,46,fighting,-,100
+626,16,Reversal,46,fighting,-,100
+626,15,Thrash,50,normal,120,100
+626,16,Thrash,50,normal,120,100
+626,11,Thrash,51,normal,120,100
+626,14,Thrash,51,normal,120,100
+626,11,Swords Dance,56,normal,-,-
+626,14,Swords Dance,56,normal,-,-
+626,15,Swords Dance,56,normal,-,-
+626,16,Swords Dance,56,normal,-,-
+626,11,Giga Impact,61,normal,150,90
+626,14,Giga Impact,61,normal,150,90
+626,15,Giga Impact,61,normal,150,90
+626,16,Giga Impact,61,normal,150,90

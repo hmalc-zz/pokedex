@@ -1,0 +1,69 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+593,11,Absorb,1,grass,20,100
+593,11,Night Shade,1,ghost,-,100
+593,11,Bubble,1,water,40,100
+593,11,Water Sport,1,water,-,-
+593,14,Absorb,1,grass,20,100
+593,14,Night Shade,1,ghost,-,100
+593,14,Bubble,1,water,40,100
+593,14,Water Sport,1,water,-,-
+593,15,Absorb,1,grass,20,100
+593,15,Night Shade,1,ghost,-,100
+593,15,Bubble,1,water,40,100
+593,15,Water Spout,1,water,150,100
+593,15,Water Sport,1,water,-,-
+593,15,Wring Out,1,normal,-,100
+593,16,Absorb,1,grass,20,100
+593,16,Night Shade,1,ghost,-,100
+593,16,Bubble,1,water,40,100
+593,16,Water Spout,1,water,150,100
+593,16,Water Sport,1,water,-,-
+593,16,Wring Out,1,normal,-,100
+593,11,Absorb,5,grass,20,100
+593,14,Absorb,5,grass,20,100
+593,15,Absorb,5,grass,20,100
+593,16,Absorb,5,grass,20,100
+593,11,Night Shade,9,ghost,-,100
+593,14,Night Shade,9,ghost,-,100
+593,15,Night Shade,9,ghost,-,100
+593,16,Night Shade,9,ghost,-,100
+593,11,Bubble Beam,13,water,65,100
+593,14,Bubble Beam,13,water,65,100
+593,15,Bubble Beam,13,water,65,100
+593,16,Bubble Beam,13,water,65,100
+593,11,Recover,17,normal,-,-
+593,14,Recover,17,normal,-,-
+593,15,Recover,17,normal,-,-
+593,16,Recover,17,normal,-,-
+593,11,Water Pulse,22,water,60,100
+593,14,Water Pulse,22,water,60,100
+593,15,Water Pulse,22,water,60,100
+593,16,Water Pulse,22,water,60,100
+593,11,Ominous Wind,27,ghost,60,100
+593,14,Ominous Wind,27,ghost,60,100
+593,15,Ominous Wind,27,ghost,60,100
+593,16,Ominous Wind,27,ghost,60,100
+593,11,Brine,32,water,65,100
+593,14,Brine,32,water,65,100
+593,15,Brine,32,water,65,100
+593,16,Brine,32,water,65,100
+593,11,Rain Dance,37,water,-,-
+593,14,Rain Dance,37,water,-,-
+593,15,Rain Dance,37,water,-,-
+593,16,Rain Dance,37,water,-,-
+593,11,Hex,45,ghost,65,100
+593,14,Hex,45,ghost,65,100
+593,15,Hex,45,ghost,65,100
+593,16,Hex,45,ghost,65,100
+593,11,Hydro Pump,53,water,110,80
+593,14,Hydro Pump,53,water,110,80
+593,15,Hydro Pump,53,water,110,80
+593,16,Hydro Pump,53,water,110,80
+593,11,Wring Out,61,normal,-,100
+593,14,Wring Out,61,normal,-,100
+593,15,Wring Out,61,normal,-,100
+593,16,Wring Out,61,normal,-,100
+593,11,Water Spout,69,water,150,100
+593,14,Water Spout,69,water,150,100
+593,15,Water Spout,69,water,150,100
+593,16,Water Spout,69,water,150,100

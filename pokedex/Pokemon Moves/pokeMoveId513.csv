@@ -1,0 +1,63 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+513,11,Scratch,1,normal,40,100
+513,14,Scratch,1,normal,40,100
+513,15,Scratch,1,normal,40,100
+513,15,Play Nice,1,normal,-,-
+513,16,Scratch,1,normal,40,100
+513,16,Play Nice,1,normal,-,-
+513,11,Leer,4,normal,-,100
+513,14,Leer,4,normal,-,100
+513,15,Leer,4,normal,-,100
+513,16,Leer,4,normal,-,100
+513,11,Lick,7,ghost,30,100
+513,14,Lick,7,ghost,30,100
+513,15,Lick,7,ghost,30,100
+513,16,Lick,7,ghost,30,100
+513,11,Incinerate,10,fire,60,100
+513,14,Incinerate,10,fire,60,100
+513,15,Incinerate,10,fire,60,100
+513,16,Incinerate,10,fire,60,100
+513,11,Fury Swipes,13,normal,18,80
+513,14,Fury Swipes,13,normal,18,80
+513,15,Fury Swipes,13,normal,18,80
+513,16,Fury Swipes,13,normal,18,80
+513,11,Yawn,16,normal,-,-
+513,14,Yawn,16,normal,-,-
+513,15,Yawn,16,normal,-,-
+513,16,Yawn,16,normal,-,-
+513,11,Bite,19,dark,60,100
+513,14,Bite,19,dark,60,100
+513,15,Bite,19,dark,60,100
+513,16,Bite,19,dark,60,100
+513,11,Flame Burst,22,fire,70,100
+513,14,Flame Burst,22,fire,70,100
+513,15,Flame Burst,22,fire,70,100
+513,16,Flame Burst,22,fire,70,100
+513,11,Amnesia,25,psychic,-,-
+513,14,Amnesia,25,psychic,-,-
+513,15,Amnesia,25,psychic,-,-
+513,16,Amnesia,25,psychic,-,-
+513,11,Fling,28,dark,-,100
+513,14,Fling,28,dark,-,100
+513,15,Fling,28,dark,-,100
+513,16,Fling,28,dark,-,100
+513,11,Acrobatics,31,flying,55,100
+513,14,Acrobatics,31,flying,55,100
+513,15,Acrobatics,31,flying,55,100
+513,16,Acrobatics,31,flying,55,100
+513,11,Fire Blast,34,fire,110,85
+513,14,Fire Blast,34,fire,110,85
+513,15,Fire Blast,34,fire,110,85
+513,16,Fire Blast,34,fire,110,85
+513,11,Recycle,37,normal,-,-
+513,14,Recycle,37,normal,-,-
+513,15,Recycle,37,normal,-,-
+513,16,Recycle,37,normal,-,-
+513,11,Natural Gift,40,normal,-,100
+513,14,Natural Gift,40,normal,-,100
+513,15,Natural Gift,40,normal,-,100
+513,16,Natural Gift,40,normal,-,100
+513,11,Crunch,43,dark,80,100
+513,14,Crunch,43,dark,80,100
+513,15,Crunch,43,dark,80,100
+513,16,Crunch,43,dark,80,100

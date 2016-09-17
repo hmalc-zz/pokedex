@@ -1,0 +1,19 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+609,11,Confuse Ray,1,ghost,-,100
+609,11,Smog,1,poison,30,70
+609,11,Flame Burst,1,fire,70,100
+609,11,Hex,1,ghost,65,100
+609,14,Confuse Ray,1,ghost,-,100
+609,14,Smog,1,poison,30,70
+609,14,Flame Burst,1,fire,70,100
+609,14,Hex,1,ghost,65,100
+609,15,Confuse Ray,1,ghost,-,100
+609,15,Smog,1,poison,30,70
+609,15,Pain Split,1,normal,-,-
+609,15,Flame Burst,1,fire,70,100
+609,15,Hex,1,ghost,65,100
+609,16,Confuse Ray,1,ghost,-,100
+609,16,Smog,1,poison,30,70
+609,16,Pain Split,1,normal,-,-
+609,16,Flame Burst,1,fire,70,100
+609,16,Hex,1,ghost,65,100

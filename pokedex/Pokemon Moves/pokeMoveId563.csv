@@ -1,0 +1,73 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+563,11,Disable,1,normal,-,100
+563,11,Haze,1,ice,-,-
+563,11,Protect,1,normal,-,-
+563,11,Astonish,1,ghost,30,100
+563,14,Disable,1,normal,-,100
+563,14,Haze,1,ice,-,-
+563,14,Protect,1,normal,-,-
+563,14,Astonish,1,ghost,30,100
+563,15,Disable,1,normal,-,100
+563,15,Haze,1,ice,-,-
+563,15,Protect,1,normal,-,-
+563,15,Astonish,1,ghost,30,100
+563,16,Disable,1,normal,-,100
+563,16,Haze,1,ice,-,-
+563,16,Protect,1,normal,-,-
+563,16,Astonish,1,ghost,30,100
+563,11,Disable,5,normal,-,100
+563,14,Disable,5,normal,-,100
+563,15,Disable,5,normal,-,100
+563,16,Disable,5,normal,-,100
+563,11,Haze,9,ice,-,-
+563,14,Haze,9,ice,-,-
+563,15,Haze,9,ice,-,-
+563,16,Haze,9,ice,-,-
+563,11,Night Shade,13,ghost,-,100
+563,14,Night Shade,13,ghost,-,100
+563,15,Night Shade,13,ghost,-,100
+563,16,Night Shade,13,ghost,-,100
+563,11,Hex,17,ghost,65,100
+563,14,Hex,17,ghost,65,100
+563,15,Hex,17,ghost,65,100
+563,16,Hex,17,ghost,65,100
+563,11,Will-O-Wisp,21,fire,-,85
+563,14,Will-O-Wisp,21,fire,-,85
+563,15,Will-O-Wisp,21,fire,-,85
+563,16,Will-O-Wisp,21,fire,-,85
+563,11,Ominous Wind,25,ghost,60,100
+563,14,Ominous Wind,25,ghost,60,100
+563,15,Ominous Wind,25,ghost,60,100
+563,16,Ominous Wind,25,ghost,60,100
+563,11,Curse,29,ghost,-,-
+563,14,Curse,29,ghost,-,-
+563,15,Curse,29,ghost,-,-
+563,16,Curse,29,ghost,-,-
+563,11,Guard Split,33,psychic,-,-
+563,11,Power Split,33,psychic,-,-
+563,14,Guard Split,33,psychic,-,-
+563,14,Power Split,33,psychic,-,-
+563,15,Guard Split,33,psychic,-,-
+563,15,Power Split,33,psychic,-,-
+563,16,Guard Split,33,psychic,-,-
+563,16,Power Split,33,psychic,-,-
+563,11,Scary Face,34,normal,-,100
+563,14,Scary Face,34,normal,-,100
+563,15,Scary Face,34,normal,-,100
+563,16,Scary Face,34,normal,-,100
+563,11,Shadow Ball,39,ghost,80,100
+563,14,Shadow Ball,39,ghost,80,100
+563,15,Shadow Ball,39,ghost,80,100
+563,16,Shadow Ball,39,ghost,80,100
+563,11,Grudge,45,ghost,-,-
+563,14,Grudge,45,ghost,-,-
+563,15,Grudge,45,ghost,-,-
+563,16,Grudge,45,ghost,-,-
+563,11,Mean Look,51,normal,-,-
+563,14,Mean Look,51,normal,-,-
+563,15,Mean Look,51,normal,-,-
+563,16,Mean Look,51,normal,-,-
+563,11,Destiny Bond,57,ghost,-,-
+563,14,Destiny Bond,57,ghost,-,-
+563,15,Destiny Bond,57,ghost,-,-
+563,16,Destiny Bond,57,ghost,-,-

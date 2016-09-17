@@ -1,0 +1,77 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+567,11,Wing Attack,1,flying,60,100
+567,11,Leer,1,normal,-,100
+567,11,Rock Throw,1,rock,50,90
+567,11,Quick Attack,1,normal,40,100
+567,14,Wing Attack,1,flying,60,100
+567,14,Leer,1,normal,-,100
+567,14,Rock Throw,1,rock,50,90
+567,14,Quick Attack,1,normal,40,100
+567,15,Wing Attack,1,flying,60,100
+567,15,Leer,1,normal,-,100
+567,15,Rock Throw,1,rock,50,90
+567,15,Quick Attack,1,normal,40,100
+567,16,Wing Attack,1,flying,60,100
+567,16,Leer,1,normal,-,100
+567,16,Rock Throw,1,rock,50,90
+567,16,Quick Attack,1,normal,40,100
+567,11,Rock Throw,5,rock,50,90
+567,14,Rock Throw,5,rock,50,90
+567,15,Rock Throw,5,rock,50,90
+567,16,Rock Throw,5,rock,50,90
+567,11,Double Team,8,normal,-,-
+567,14,Double Team,8,normal,-,-
+567,15,Double Team,8,normal,-,-
+567,16,Double Team,8,normal,-,-
+567,11,Scary Face,11,normal,-,100
+567,14,Scary Face,11,normal,-,100
+567,15,Scary Face,11,normal,-,100
+567,16,Scary Face,11,normal,-,100
+567,11,Pluck,15,flying,60,100
+567,14,Pluck,15,flying,60,100
+567,15,Pluck,15,flying,60,100
+567,16,Pluck,15,flying,60,100
+567,11,Ancient Power,18,rock,60,100
+567,14,Ancient Power,18,rock,60,100
+567,15,Ancient Power,18,rock,60,100
+567,16,Ancient Power,18,rock,60,100
+567,11,Agility,21,psychic,-,-
+567,14,Agility,21,psychic,-,-
+567,15,Agility,21,psychic,-,-
+567,16,Agility,21,psychic,-,-
+567,11,Quick Guard,25,fighting,-,-
+567,14,Quick Guard,25,fighting,-,-
+567,15,Quick Guard,25,fighting,-,-
+567,16,Quick Guard,25,fighting,-,-
+567,11,Acrobatics,28,flying,55,100
+567,14,Acrobatics,28,flying,55,100
+567,15,Acrobatics,28,flying,55,100
+567,16,Acrobatics,28,flying,55,100
+567,11,Dragon Breath,31,dragon,60,100
+567,14,Dragon Breath,31,dragon,60,100
+567,15,Dragon Breath,31,dragon,60,100
+567,16,Dragon Breath,31,dragon,60,100
+567,11,Crunch,35,dark,80,100
+567,14,Crunch,35,dark,80,100
+567,15,Crunch,35,dark,80,100
+567,16,Crunch,35,dark,80,100
+567,11,Endeavor,40,normal,-,100
+567,14,Endeavor,40,normal,-,100
+567,15,Endeavor,40,normal,-,100
+567,16,Endeavor,40,normal,-,100
+567,11,U-turn,45,bug,70,100
+567,14,U-turn,45,bug,70,100
+567,15,U-turn,45,bug,70,100
+567,16,U-turn,45,bug,70,100
+567,11,Rock Slide,51,rock,75,90
+567,14,Rock Slide,51,rock,75,90
+567,15,Rock Slide,51,rock,75,90
+567,16,Rock Slide,51,rock,75,90
+567,11,Dragon Claw,56,dragon,80,100
+567,14,Dragon Claw,56,dragon,80,100
+567,15,Dragon Claw,56,dragon,80,100
+567,16,Dragon Claw,56,dragon,80,100
+567,11,Thrash,61,normal,120,100
+567,14,Thrash,61,normal,120,100
+567,15,Thrash,61,normal,120,100
+567,16,Thrash,61,normal,120,100

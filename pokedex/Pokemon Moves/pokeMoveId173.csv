@@ -1,0 +1,86 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+173,3,Pound,1,normal,40,100
+173,3,Charm,1,fairy,-,100
+173,4,Pound,1,normal,40,100
+173,4,Charm,1,fairy,-,100
+173,5,Pound,1,normal,40,100
+173,5,Charm,1,fairy,-,100
+173,6,Pound,1,normal,40,100
+173,6,Charm,1,fairy,-,100
+173,7,Pound,1,normal,40,100
+173,7,Charm,1,fairy,-,100
+173,8,Pound,1,normal,40,100
+173,8,Charm,1,fairy,-,100
+173,9,Pound,1,normal,40,100
+173,9,Charm,1,fairy,-,100
+173,10,Pound,1,normal,40,100
+173,10,Charm,1,fairy,-,100
+173,11,Pound,1,normal,40,100
+173,11,Charm,1,fairy,-,100
+173,12,Pound,1,normal,40,100
+173,12,Charm,1,fairy,-,100
+173,13,Pound,1,normal,40,100
+173,13,Charm,1,fairy,-,100
+173,14,Pound,1,normal,40,100
+173,14,Charm,1,fairy,-,100
+173,15,Pound,1,normal,40,100
+173,15,Charm,1,fairy,-,100
+173,16,Pound,1,normal,40,100
+173,16,Charm,1,fairy,-,100
+173,3,Encore,4,normal,-,100
+173,4,Encore,4,normal,-,100
+173,5,Encore,4,normal,-,100
+173,6,Encore,4,normal,-,100
+173,7,Encore,4,normal,-,100
+173,8,Encore,4,normal,-,100
+173,9,Encore,4,normal,-,100
+173,10,Encore,4,normal,-,100
+173,11,Encore,4,normal,-,100
+173,12,Encore,4,normal,-,100
+173,13,Encore,4,normal,-,100
+173,14,Encore,4,normal,-,100
+173,15,Encore,4,normal,-,100
+173,16,Encore,4,normal,-,100
+173,8,Sing,7,normal,-,55
+173,9,Sing,7,normal,-,55
+173,10,Sing,7,normal,-,55
+173,11,Sing,7,normal,-,55
+173,14,Sing,7,normal,-,55
+173,15,Sing,7,normal,-,55
+173,16,Sing,7,normal,-,55
+173,3,Sing,8,normal,-,55
+173,4,Sing,8,normal,-,55
+173,5,Sing,8,normal,-,55
+173,6,Sing,8,normal,-,55
+173,7,Sing,8,normal,-,55
+173,12,Sing,8,normal,-,55
+173,13,Sing,8,normal,-,55
+173,8,Sweet Kiss,10,fairy,-,75
+173,9,Sweet Kiss,10,fairy,-,75
+173,10,Sweet Kiss,10,fairy,-,75
+173,11,Sweet Kiss,10,fairy,-,75
+173,14,Sweet Kiss,10,fairy,-,75
+173,15,Sweet Kiss,10,fairy,-,75
+173,16,Sweet Kiss,10,fairy,-,75
+173,3,Sweet Kiss,13,fairy,-,75
+173,4,Sweet Kiss,13,fairy,-,75
+173,5,Sweet Kiss,13,fairy,-,75
+173,6,Sweet Kiss,13,fairy,-,75
+173,7,Sweet Kiss,13,fairy,-,75
+173,8,Copycat,13,normal,-,-
+173,9,Copycat,13,normal,-,-
+173,10,Copycat,13,normal,-,-
+173,11,Copycat,13,normal,-,-
+173,12,Sweet Kiss,13,fairy,-,75
+173,13,Sweet Kiss,13,fairy,-,75
+173,14,Copycat,13,normal,-,-
+173,15,Copycat,13,normal,-,-
+173,16,Copycat,13,normal,-,-
+173,8,Magical Leaf,16,grass,60,-
+173,9,Magical Leaf,16,grass,60,-
+173,10,Magical Leaf,16,grass,60,-
+173,11,Magical Leaf,16,grass,60,-
+173,14,Magical Leaf,16,grass,60,-
+173,15,Magical Leaf,16,grass,60,-
+173,16,Magical Leaf,16,grass,60,-
+173,7,Magical Leaf,17,grass,60,-

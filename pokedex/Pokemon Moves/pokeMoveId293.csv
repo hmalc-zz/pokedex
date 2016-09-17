@@ -1,0 +1,138 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+293,5,Pound,1,normal,40,100
+293,6,Pound,1,normal,40,100
+293,7,Pound,1,normal,40,100
+293,8,Pound,1,normal,40,100
+293,9,Pound,1,normal,40,100
+293,10,Pound,1,normal,40,100
+293,11,Pound,1,normal,40,100
+293,12,Pound,1,normal,40,100
+293,13,Pound,1,normal,40,100
+293,14,Pound,1,normal,40,100
+293,15,Pound,1,normal,40,100
+293,16,Pound,1,normal,40,100
+293,16,Echoed Voice,4,normal,40,100
+293,5,Uproar,5,normal,90,100
+293,6,Uproar,5,normal,90,100
+293,7,Uproar,5,normal,90,100
+293,8,Uproar,5,normal,90,100
+293,9,Uproar,5,normal,90,100
+293,10,Uproar,5,normal,90,100
+293,11,Uproar,5,normal,90,100
+293,12,Uproar,5,normal,90,100
+293,13,Uproar,5,normal,90,100
+293,14,Uproar,5,normal,90,100
+293,15,Uproar,5,normal,90,100
+293,16,Astonish,8,ghost,30,100
+293,5,Astonish,11,ghost,30,100
+293,6,Astonish,11,ghost,30,100
+293,7,Astonish,11,ghost,30,100
+293,8,Astonish,11,ghost,30,100
+293,9,Astonish,11,ghost,30,100
+293,10,Astonish,11,ghost,30,100
+293,11,Astonish,11,ghost,30,100
+293,12,Astonish,11,ghost,30,100
+293,13,Astonish,11,ghost,30,100
+293,14,Astonish,11,ghost,30,100
+293,15,Astonish,11,ghost,30,100
+293,16,Howl,11,normal,-,-
+293,5,Howl,15,normal,-,-
+293,6,Howl,15,normal,-,-
+293,7,Howl,15,normal,-,-
+293,8,Howl,15,normal,-,-
+293,9,Howl,15,normal,-,-
+293,10,Howl,15,normal,-,-
+293,11,Howl,15,normal,-,-
+293,12,Howl,15,normal,-,-
+293,13,Howl,15,normal,-,-
+293,14,Howl,15,normal,-,-
+293,15,Howl,15,normal,-,-
+293,16,Screech,15,normal,-,85
+293,16,Supersonic,18,normal,-,55
+293,5,Supersonic,21,normal,-,55
+293,6,Supersonic,21,normal,-,55
+293,7,Supersonic,21,normal,-,55
+293,8,Supersonic,21,normal,-,55
+293,9,Supersonic,21,normal,-,55
+293,10,Supersonic,21,normal,-,55
+293,11,Supersonic,21,normal,-,55
+293,12,Supersonic,21,normal,-,55
+293,13,Supersonic,21,normal,-,55
+293,14,Supersonic,21,normal,-,55
+293,15,Supersonic,21,normal,-,55
+293,16,Stomp,22,normal,65,100
+293,5,Stomp,25,normal,65,100
+293,6,Stomp,25,normal,65,100
+293,7,Stomp,25,normal,65,100
+293,8,Stomp,25,normal,65,100
+293,9,Stomp,25,normal,65,100
+293,10,Stomp,25,normal,65,100
+293,11,Stomp,25,normal,65,100
+293,12,Stomp,25,normal,65,100
+293,13,Stomp,25,normal,65,100
+293,14,Stomp,25,normal,65,100
+293,15,Stomp,25,normal,65,100
+293,16,Uproar,25,normal,90,100
+293,16,Roar,29,normal,-,-
+293,5,Screech,31,normal,-,85
+293,6,Screech,31,normal,-,85
+293,7,Screech,31,normal,-,85
+293,8,Screech,31,normal,-,85
+293,9,Screech,31,normal,-,85
+293,10,Screech,31,normal,-,85
+293,11,Screech,31,normal,-,85
+293,12,Screech,31,normal,-,85
+293,13,Screech,31,normal,-,85
+293,14,Screech,31,normal,-,85
+293,15,Screech,31,normal,-,85
+293,16,Rest,32,psychic,-,-
+293,5,Roar,35,normal,-,-
+293,6,Roar,35,normal,-,-
+293,7,Roar,35,normal,-,-
+293,8,Roar,35,normal,-,-
+293,9,Roar,35,normal,-,-
+293,10,Roar,35,normal,-,-
+293,11,Roar,35,normal,-,-
+293,12,Roar,35,normal,-,-
+293,13,Roar,35,normal,-,-
+293,14,Roar,35,normal,-,-
+293,15,Roar,35,normal,-,-
+293,16,Sleep Talk,36,normal,-,-
+293,16,Hyper Voice,39,normal,90,100
+293,5,Rest,41,psychic,-,-
+293,5,Sleep Talk,41,normal,-,-
+293,6,Rest,41,psychic,-,-
+293,6,Sleep Talk,41,normal,-,-
+293,7,Rest,41,psychic,-,-
+293,7,Sleep Talk,41,normal,-,-
+293,8,Rest,41,psychic,-,-
+293,8,Sleep Talk,41,normal,-,-
+293,9,Rest,41,psychic,-,-
+293,9,Sleep Talk,41,normal,-,-
+293,10,Rest,41,psychic,-,-
+293,10,Sleep Talk,41,normal,-,-
+293,11,Synchronoise,41,psychic,120,100
+293,12,Rest,41,psychic,-,-
+293,12,Sleep Talk,41,normal,-,-
+293,13,Rest,41,psychic,-,-
+293,13,Sleep Talk,41,normal,-,-
+293,14,Synchronoise,41,psychic,120,100
+293,15,Synchronoise,41,psychic,120,100
+293,16,Synchronoise,43,psychic,120,100
+293,5,Hyper Voice,45,normal,90,100
+293,6,Hyper Voice,45,normal,90,100
+293,7,Hyper Voice,45,normal,90,100
+293,8,Hyper Voice,45,normal,90,100
+293,9,Hyper Voice,45,normal,90,100
+293,10,Hyper Voice,45,normal,90,100
+293,11,Rest,45,psychic,-,-
+293,11,Sleep Talk,45,normal,-,-
+293,12,Hyper Voice,45,normal,90,100
+293,13,Hyper Voice,45,normal,90,100
+293,14,Rest,45,psychic,-,-
+293,14,Sleep Talk,45,normal,-,-
+293,15,Rest,45,psychic,-,-
+293,15,Sleep Talk,45,normal,-,-
+293,15,Hyper Voice,50,normal,90,100
+293,11,Hyper Voice,51,normal,90,100
+293,14,Hyper Voice,51,normal,90,100

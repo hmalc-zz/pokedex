@@ -1,0 +1,217 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+68,1,Karate Chop,1,fighting,50,100
+68,1,Leer,1,normal,-,100
+68,1,Low Kick,1,fighting,-,100
+68,2,Karate Chop,1,fighting,50,100
+68,2,Leer,1,normal,-,100
+68,2,Low Kick,1,fighting,-,100
+68,3,Leer,1,normal,-,100
+68,3,Low Kick,1,fighting,-,100
+68,3,Focus Energy,1,normal,-,-
+68,4,Leer,1,normal,-,100
+68,4,Low Kick,1,fighting,-,100
+68,4,Focus Energy,1,normal,-,-
+68,5,Leer,1,normal,-,100
+68,5,Low Kick,1,fighting,-,100
+68,5,Focus Energy,1,normal,-,-
+68,6,Leer,1,normal,-,100
+68,6,Low Kick,1,fighting,-,100
+68,6,Focus Energy,1,normal,-,-
+68,7,Leer,1,normal,-,100
+68,7,Low Kick,1,fighting,-,100
+68,7,Focus Energy,1,normal,-,-
+68,8,Leer,1,normal,-,100
+68,8,Low Kick,1,fighting,-,100
+68,8,Focus Energy,1,normal,-,-
+68,9,Leer,1,normal,-,100
+68,9,Low Kick,1,fighting,-,100
+68,9,Focus Energy,1,normal,-,-
+68,10,Leer,1,normal,-,100
+68,10,Low Kick,1,fighting,-,100
+68,10,Focus Energy,1,normal,-,-
+68,11,Karate Chop,1,fighting,50,100
+68,11,Leer,1,normal,-,100
+68,11,Low Kick,1,fighting,-,100
+68,11,Focus Energy,1,normal,-,-
+68,11,Wide Guard,1,rock,-,-
+68,12,Leer,1,normal,-,100
+68,12,Low Kick,1,fighting,-,100
+68,12,Focus Energy,1,normal,-,-
+68,13,Leer,1,normal,-,100
+68,13,Low Kick,1,fighting,-,100
+68,13,Focus Energy,1,normal,-,-
+68,14,Karate Chop,1,fighting,50,100
+68,14,Leer,1,normal,-,100
+68,14,Low Kick,1,fighting,-,100
+68,14,Focus Energy,1,normal,-,-
+68,14,Wide Guard,1,rock,-,-
+68,15,Karate Chop,1,fighting,50,100
+68,15,Leer,1,normal,-,100
+68,15,Low Kick,1,fighting,-,100
+68,15,Focus Energy,1,normal,-,-
+68,15,Wide Guard,1,rock,-,-
+68,16,Karate Chop,1,fighting,50,100
+68,16,Leer,1,normal,-,100
+68,16,Low Kick,1,fighting,-,100
+68,16,Focus Energy,1,normal,-,-
+68,16,Wide Guard,1,rock,-,-
+68,16,Focus Energy,3,normal,-,-
+68,5,Focus Energy,7,normal,-,-
+68,6,Focus Energy,7,normal,-,-
+68,7,Focus Energy,7,normal,-,-
+68,8,Focus Energy,7,normal,-,-
+68,9,Focus Energy,7,normal,-,-
+68,10,Focus Energy,7,normal,-,-
+68,11,Focus Energy,7,normal,-,-
+68,12,Focus Energy,7,normal,-,-
+68,13,Focus Energy,7,normal,-,-
+68,14,Focus Energy,7,normal,-,-
+68,15,Focus Energy,7,normal,-,-
+68,16,Karate Chop,7,fighting,50,100
+68,3,Focus Energy,8,normal,-,-
+68,4,Focus Energy,8,normal,-,-
+68,16,Foresight,9,normal,-,-
+68,8,Karate Chop,10,fighting,50,100
+68,9,Karate Chop,10,fighting,50,100
+68,10,Karate Chop,10,fighting,50,100
+68,11,Karate Chop,10,fighting,50,100
+68,14,Karate Chop,10,fighting,50,100
+68,15,Karate Chop,10,fighting,50,100
+68,5,Karate Chop,13,fighting,50,100
+68,6,Karate Chop,13,fighting,50,100
+68,7,Karate Chop,13,fighting,50,100
+68,8,Foresight,13,normal,-,-
+68,9,Foresight,13,normal,-,-
+68,10,Foresight,13,normal,-,-
+68,11,Low Sweep,13,fighting,65,100
+68,12,Karate Chop,13,fighting,50,100
+68,13,Karate Chop,13,fighting,50,100
+68,14,Low Sweep,13,fighting,65,100
+68,15,Low Sweep,13,fighting,65,100
+68,16,Low Sweep,13,fighting,65,100
+68,3,Karate Chop,15,fighting,50,100
+68,4,Karate Chop,15,fighting,50,100
+68,16,Seismic Toss,15,fighting,-,100
+68,3,Seismic Toss,19,fighting,-,100
+68,4,Seismic Toss,19,fighting,-,100
+68,5,Seismic Toss,19,fighting,-,100
+68,6,Seismic Toss,19,fighting,-,100
+68,7,Seismic Toss,19,fighting,-,100
+68,8,Seismic Toss,19,fighting,-,100
+68,9,Seismic Toss,19,fighting,-,100
+68,10,Seismic Toss,19,fighting,-,100
+68,11,Foresight,19,normal,-,-
+68,12,Seismic Toss,19,fighting,-,100
+68,13,Seismic Toss,19,fighting,-,100
+68,14,Foresight,19,normal,-,-
+68,15,Foresight,19,normal,-,-
+68,16,Revenge,19,fighting,60,100
+68,1,Low Kick,20,fighting,-,100
+68,2,Low Kick,20,fighting,-,100
+68,16,Knock Off,21,dark,65,100
+68,5,Foresight,22,normal,-,-
+68,6,Foresight,22,normal,-,-
+68,7,Foresight,22,normal,-,-
+68,8,Revenge,22,fighting,60,100
+68,9,Revenge,22,fighting,60,100
+68,10,Revenge,22,fighting,60,100
+68,11,Seismic Toss,22,fighting,-,100
+68,12,Foresight,22,normal,-,-
+68,13,Foresight,22,normal,-,-
+68,14,Seismic Toss,22,fighting,-,100
+68,15,Seismic Toss,22,fighting,-,100
+68,1,Leer,25,normal,-,100
+68,2,Leer,25,normal,-,100
+68,3,Foresight,25,normal,-,-
+68,4,Foresight,25,normal,-,-
+68,5,Revenge,25,fighting,60,100
+68,6,Revenge,25,fighting,60,100
+68,7,Revenge,25,fighting,60,100
+68,8,Vital Throw,25,fighting,70,-
+68,9,Vital Throw,25,fighting,70,-
+68,10,Vital Throw,25,fighting,70,-
+68,11,Revenge,25,fighting,60,100
+68,12,Revenge,25,fighting,60,100
+68,13,Revenge,25,fighting,60,100
+68,14,Revenge,25,fighting,60,100
+68,15,Revenge,25,fighting,60,100
+68,16,Vital Throw,25,fighting,70,-
+68,16,Wake-Up Slap,27,fighting,70,100
+68,8,Submission,32,fighting,80,80
+68,9,Submission,32,fighting,80,80
+68,10,Submission,32,fighting,80,80
+68,11,Vital Throw,32,fighting,70,-
+68,14,Vital Throw,32,fighting,70,-
+68,15,Vital Throw,32,fighting,70,-
+68,5,Vital Throw,33,fighting,70,-
+68,6,Vital Throw,33,fighting,70,-
+68,7,Vital Throw,33,fighting,70,-
+68,12,Vital Throw,33,fighting,70,-
+68,13,Vital Throw,33,fighting,70,-
+68,16,Dual Chop,33,dragon,40,90
+68,3,Vital Throw,34,fighting,70,-
+68,4,Vital Throw,34,fighting,70,-
+68,1,Focus Energy,36,normal,-,-
+68,2,Focus Energy,36,normal,-,-
+68,8,Wake-Up Slap,36,fighting,70,100
+68,9,Wake-Up Slap,36,fighting,70,100
+68,10,Wake-Up Slap,36,fighting,70,100
+68,11,Submission,36,fighting,80,80
+68,14,Submission,36,fighting,80,80
+68,15,Submission,36,fighting,80,80
+68,16,Submission,37,fighting,80,80
+68,8,Cross Chop,40,fighting,100,80
+68,9,Cross Chop,40,fighting,100,80
+68,10,Cross Chop,40,fighting,100,80
+68,11,Wake-Up Slap,40,fighting,70,100
+68,14,Wake-Up Slap,40,fighting,70,100
+68,15,Wake-Up Slap,40,fighting,70,100
+68,5,Submission,41,fighting,80,80
+68,6,Submission,41,fighting,80,80
+68,7,Submission,41,fighting,80,80
+68,12,Submission,41,fighting,80,80
+68,13,Submission,41,fighting,80,80
+68,3,Cross Chop,43,fighting,100,80
+68,4,Cross Chop,43,fighting,100,80
+68,16,Bulk Up,43,fighting,-,-
+68,1,Seismic Toss,44,fighting,-,100
+68,2,Seismic Toss,44,fighting,-,100
+68,8,Scary Face,44,normal,-,100
+68,9,Scary Face,44,normal,-,100
+68,10,Scary Face,44,normal,-,100
+68,11,Cross Chop,44,fighting,100,80
+68,14,Cross Chop,44,fighting,100,80
+68,15,Cross Chop,44,fighting,100,80
+68,5,Cross Chop,46,fighting,100,80
+68,6,Cross Chop,46,fighting,100,80
+68,7,Cross Chop,46,fighting,100,80
+68,12,Cross Chop,46,fighting,100,80
+68,13,Cross Chop,46,fighting,100,80
+68,16,Cross Chop,47,fighting,100,80
+68,5,Scary Face,51,normal,-,100
+68,6,Scary Face,51,normal,-,100
+68,7,Scary Face,51,normal,-,100
+68,8,Dynamic Punch,51,fighting,100,50
+68,9,Dynamic Punch,51,fighting,100,50
+68,10,Dynamic Punch,51,fighting,100,50
+68,11,Scary Face,51,normal,-,100
+68,12,Scary Face,51,normal,-,100
+68,13,Scary Face,51,normal,-,100
+68,14,Scary Face,51,normal,-,100
+68,15,Scary Face,51,normal,-,100
+68,1,Submission,52,fighting,80,80
+68,2,Submission,52,fighting,80,80
+68,3,Scary Face,52,normal,-,100
+68,4,Scary Face,52,normal,-,100
+68,16,Scary Face,53,normal,-,100
+68,11,Dynamic Punch,55,fighting,100,50
+68,14,Dynamic Punch,55,fighting,100,50
+68,15,Dynamic Punch,55,fighting,100,50
+68,16,Dynamic Punch,57,fighting,100,50
+68,5,Dynamic Punch,59,fighting,100,50
+68,6,Dynamic Punch,59,fighting,100,50
+68,7,Dynamic Punch,59,fighting,100,50
+68,12,Dynamic Punch,59,fighting,100,50
+68,13,Dynamic Punch,59,fighting,100,50
+68,3,Submission,61,fighting,80,80
+68,4,Submission,61,fighting,80,80

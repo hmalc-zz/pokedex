@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+570,11,Scratch,1,normal,40,100
+570,11,Leer,1,normal,-,100
+570,14,Scratch,1,normal,40,100
+570,14,Leer,1,normal,-,100
+570,15,Scratch,1,normal,40,100
+570,15,Leer,1,normal,-,100
+570,16,Scratch,1,normal,40,100
+570,16,Leer,1,normal,-,100
+570,11,Pursuit,5,dark,40,100
+570,14,Pursuit,5,dark,40,100
+570,15,Pursuit,5,dark,40,100
+570,16,Pursuit,5,dark,40,100
+570,11,Fake Tears,9,dark,-,100
+570,14,Fake Tears,9,dark,-,100
+570,15,Fake Tears,9,dark,-,100
+570,16,Fake Tears,9,dark,-,100
+570,11,Fury Swipes,13,normal,18,80
+570,14,Fury Swipes,13,normal,18,80
+570,15,Fury Swipes,13,normal,18,80
+570,16,Fury Swipes,13,normal,18,80
+570,11,Feint Attack,17,dark,60,-
+570,14,Feint Attack,17,dark,60,-
+570,15,Feint Attack,17,dark,60,-
+570,16,Feint Attack,17,dark,60,-
+570,11,Scary Face,21,normal,-,100
+570,14,Scary Face,21,normal,-,100
+570,15,Scary Face,21,normal,-,100
+570,16,Scary Face,21,normal,-,100
+570,11,Taunt,25,dark,-,100
+570,14,Taunt,25,dark,-,100
+570,15,Taunt,25,dark,-,100
+570,16,Taunt,25,dark,-,100
+570,11,Foul Play,29,dark,95,100
+570,14,Foul Play,29,dark,95,100
+570,15,Foul Play,29,dark,95,100
+570,16,Foul Play,29,dark,95,100
+570,11,Torment,33,dark,-,100
+570,14,Torment,33,dark,-,100
+570,15,Torment,33,dark,-,100
+570,16,Torment,33,dark,-,100
+570,11,Agility,37,psychic,-,-
+570,14,Agility,37,psychic,-,-
+570,15,Agility,37,psychic,-,-
+570,16,Agility,37,psychic,-,-
+570,11,Embargo,41,dark,-,100
+570,14,Embargo,41,dark,-,100
+570,15,Embargo,41,dark,-,100
+570,16,Embargo,41,dark,-,100
+570,11,Punishment,45,dark,-,100
+570,14,Punishment,45,dark,-,100
+570,15,Punishment,45,dark,-,100
+570,16,Punishment,45,dark,-,100
+570,11,Nasty Plot,49,dark,-,-
+570,14,Nasty Plot,49,dark,-,-
+570,15,Nasty Plot,49,dark,-,-
+570,16,Nasty Plot,49,dark,-,-
+570,11,Imprison,53,psychic,-,-
+570,14,Imprison,53,psychic,-,-
+570,15,Imprison,53,psychic,-,-
+570,16,Imprison,53,psychic,-,-
+570,11,Night Daze,57,dark,85,95
+570,14,Night Daze,57,dark,85,95
+570,15,Night Daze,57,dark,85,95
+570,16,Night Daze,57,dark,85,95

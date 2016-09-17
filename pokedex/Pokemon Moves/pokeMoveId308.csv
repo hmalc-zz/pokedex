@@ -1,0 +1,235 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+308,5,Fire Punch,1,fire,75,100
+308,5,Ice Punch,1,ice,75,100
+308,5,Thunder Punch,1,electric,75,100
+308,5,Confusion,1,psychic,50,100
+308,5,Meditate,1,psychic,-,-
+308,5,Bide,1,normal,-,-
+308,5,Detect,1,fighting,-,-
+308,6,Fire Punch,1,fire,75,100
+308,6,Ice Punch,1,ice,75,100
+308,6,Thunder Punch,1,electric,75,100
+308,6,Confusion,1,psychic,50,100
+308,6,Meditate,1,psychic,-,-
+308,6,Bide,1,normal,-,-
+308,6,Detect,1,fighting,-,-
+308,7,Fire Punch,1,fire,75,100
+308,7,Ice Punch,1,ice,75,100
+308,7,Thunder Punch,1,electric,75,100
+308,7,Confusion,1,psychic,50,100
+308,7,Meditate,1,psychic,-,-
+308,7,Bide,1,normal,-,-
+308,7,Detect,1,fighting,-,-
+308,8,Fire Punch,1,fire,75,100
+308,8,Ice Punch,1,ice,75,100
+308,8,Thunder Punch,1,electric,75,100
+308,8,Confusion,1,psychic,50,100
+308,8,Meditate,1,psychic,-,-
+308,8,Bide,1,normal,-,-
+308,8,Detect,1,fighting,-,-
+308,9,Fire Punch,1,fire,75,100
+308,9,Ice Punch,1,ice,75,100
+308,9,Thunder Punch,1,electric,75,100
+308,9,Confusion,1,psychic,50,100
+308,9,Meditate,1,psychic,-,-
+308,9,Bide,1,normal,-,-
+308,9,Detect,1,fighting,-,-
+308,10,Fire Punch,1,fire,75,100
+308,10,Ice Punch,1,ice,75,100
+308,10,Thunder Punch,1,electric,75,100
+308,10,Confusion,1,psychic,50,100
+308,10,Meditate,1,psychic,-,-
+308,10,Bide,1,normal,-,-
+308,10,Detect,1,fighting,-,-
+308,11,Fire Punch,1,fire,75,100
+308,11,Ice Punch,1,ice,75,100
+308,11,Thunder Punch,1,electric,75,100
+308,11,Confusion,1,psychic,50,100
+308,11,Meditate,1,psychic,-,-
+308,11,Bide,1,normal,-,-
+308,11,Detect,1,fighting,-,-
+308,12,Fire Punch,1,fire,75,100
+308,12,Ice Punch,1,ice,75,100
+308,12,Thunder Punch,1,electric,75,100
+308,12,Confusion,1,psychic,50,100
+308,12,Meditate,1,psychic,-,-
+308,12,Bide,1,normal,-,-
+308,12,Detect,1,fighting,-,-
+308,13,Fire Punch,1,fire,75,100
+308,13,Ice Punch,1,ice,75,100
+308,13,Thunder Punch,1,electric,75,100
+308,13,Confusion,1,psychic,50,100
+308,13,Meditate,1,psychic,-,-
+308,13,Bide,1,normal,-,-
+308,13,Detect,1,fighting,-,-
+308,14,Fire Punch,1,fire,75,100
+308,14,Ice Punch,1,ice,75,100
+308,14,Thunder Punch,1,electric,75,100
+308,14,Confusion,1,psychic,50,100
+308,14,Meditate,1,psychic,-,-
+308,14,Bide,1,normal,-,-
+308,14,Detect,1,fighting,-,-
+308,15,Fire Punch,1,fire,75,100
+308,15,Ice Punch,1,ice,75,100
+308,15,Thunder Punch,1,electric,75,100
+308,15,Confusion,1,psychic,50,100
+308,15,Meditate,1,psychic,-,-
+308,15,Bide,1,normal,-,-
+308,15,Detect,1,fighting,-,-
+308,15,Zen Headbutt,1,psychic,80,90
+308,16,Fire Punch,1,fire,75,100
+308,16,Ice Punch,1,ice,75,100
+308,16,Thunder Punch,1,electric,75,100
+308,16,Confusion,1,psychic,50,100
+308,16,Meditate,1,psychic,-,-
+308,16,Bide,1,normal,-,-
+308,16,Detect,1,fighting,-,-
+308,16,Zen Headbutt,1,psychic,80,90
+308,5,Meditate,4,psychic,-,-
+308,6,Meditate,4,psychic,-,-
+308,7,Meditate,4,psychic,-,-
+308,8,Meditate,4,psychic,-,-
+308,9,Meditate,4,psychic,-,-
+308,10,Meditate,4,psychic,-,-
+308,11,Meditate,4,psychic,-,-
+308,12,Meditate,4,psychic,-,-
+308,13,Meditate,4,psychic,-,-
+308,14,Meditate,4,psychic,-,-
+308,15,Meditate,4,psychic,-,-
+308,16,Meditate,4,psychic,-,-
+308,16,Confusion,7,psychic,50,100
+308,8,Confusion,8,psychic,50,100
+308,9,Confusion,8,psychic,50,100
+308,10,Confusion,8,psychic,50,100
+308,11,Confusion,8,psychic,50,100
+308,14,Confusion,8,psychic,50,100
+308,15,Confusion,8,psychic,50,100
+308,5,Confusion,9,psychic,50,100
+308,6,Confusion,9,psychic,50,100
+308,7,Confusion,9,psychic,50,100
+308,12,Confusion,9,psychic,50,100
+308,13,Confusion,9,psychic,50,100
+308,16,Detect,9,fighting,-,-
+308,8,Detect,11,fighting,-,-
+308,9,Detect,11,fighting,-,-
+308,10,Detect,11,fighting,-,-
+308,11,Detect,11,fighting,-,-
+308,14,Detect,11,fighting,-,-
+308,15,Detect,11,fighting,-,-
+308,5,Detect,12,fighting,-,-
+308,6,Detect,12,fighting,-,-
+308,7,Detect,12,fighting,-,-
+308,12,Detect,12,fighting,-,-
+308,13,Detect,12,fighting,-,-
+308,16,Endure,12,normal,-,-
+308,8,Hidden Power,15,normal,60,100
+308,9,Hidden Power,15,normal,60,100
+308,10,Hidden Power,15,normal,60,100
+308,11,Hidden Power,15,normal,60,100
+308,14,Hidden Power,15,normal,60,100
+308,15,Hidden Power,15,normal,60,100
+308,16,Feint,15,normal,30,100
+308,7,Hidden Power,17,normal,60,100
+308,16,Force Palm,17,fighting,60,100
+308,5,Hidden Power,18,normal,60,100
+308,6,Hidden Power,18,normal,60,100
+308,8,Mind Reader,18,normal,-,-
+308,9,Mind Reader,18,normal,-,-
+308,10,Mind Reader,18,normal,-,-
+308,11,Mind Reader,18,normal,-,-
+308,12,Hidden Power,18,normal,60,100
+308,13,Hidden Power,18,normal,60,100
+308,14,Mind Reader,18,normal,-,-
+308,15,Mind Reader,18,normal,-,-
+308,7,Swagger,20,normal,-,90
+308,16,Hidden Power,20,normal,60,100
+308,5,Mind Reader,22,normal,-,-
+308,6,Mind Reader,22,normal,-,-
+308,8,Feint,22,normal,30,100
+308,9,Feint,22,normal,30,100
+308,10,Feint,22,normal,30,100
+308,11,Feint,22,normal,30,100
+308,12,Mind Reader,22,normal,-,-
+308,13,Mind Reader,22,normal,-,-
+308,14,Feint,22,normal,30,100
+308,15,Feint,22,normal,30,100
+308,16,Calm Mind,23,psychic,-,-
+308,7,Mind Reader,25,normal,-,-
+308,8,Calm Mind,25,psychic,-,-
+308,9,Calm Mind,25,psychic,-,-
+308,10,Calm Mind,25,psychic,-,-
+308,11,Calm Mind,25,psychic,-,-
+308,14,Calm Mind,25,psychic,-,-
+308,15,Calm Mind,25,psychic,-,-
+308,16,Mind Reader,25,normal,-,-
+308,5,Calm Mind,28,psychic,-,-
+308,6,Calm Mind,28,psychic,-,-
+308,7,Calm Mind,28,psychic,-,-
+308,12,Calm Mind,28,psychic,-,-
+308,13,Calm Mind,28,psychic,-,-
+308,16,High Jump Kick,28,fighting,130,90
+308,8,Force Palm,29,fighting,60,100
+308,9,Force Palm,29,fighting,60,100
+308,10,Force Palm,29,fighting,60,100
+308,11,Force Palm,29,fighting,60,100
+308,14,Force Palm,29,fighting,60,100
+308,15,Force Palm,29,fighting,60,100
+308,16,Psych Up,31,normal,-,-
+308,5,High Jump Kick,32,fighting,130,90
+308,6,High Jump Kick,32,fighting,130,90
+308,8,High Jump Kick,32,fighting,130,90
+308,9,High Jump Kick,32,fighting,130,90
+308,10,High Jump Kick,32,fighting,130,90
+308,11,High Jump Kick,32,fighting,130,90
+308,12,High Jump Kick,32,fighting,130,90
+308,13,High Jump Kick,32,fighting,130,90
+308,14,High Jump Kick,32,fighting,130,90
+308,15,High Jump Kick,32,fighting,130,90
+308,7,High Jump Kick,33,fighting,130,90
+308,16,Acupressure,33,normal,-,-
+308,7,Psych Up,36,normal,-,-
+308,8,Psych Up,36,normal,-,-
+308,9,Psych Up,36,normal,-,-
+308,10,Psych Up,36,normal,-,-
+308,11,Psych Up,36,normal,-,-
+308,14,Psych Up,36,normal,-,-
+308,15,Psych Up,36,normal,-,-
+308,16,Power Trick,36,psychic,-,-
+308,5,Psych Up,40,normal,-,-
+308,6,Psych Up,40,normal,-,-
+308,12,Psych Up,40,normal,-,-
+308,13,Psych Up,40,normal,-,-
+308,8,Power Trick,42,psychic,-,-
+308,9,Power Trick,42,psychic,-,-
+308,10,Power Trick,42,psychic,-,-
+308,11,Acupressure,42,normal,-,-
+308,14,Acupressure,42,normal,-,-
+308,15,Acupressure,42,normal,-,-
+308,16,Reversal,42,fighting,-,100
+308,5,Reversal,46,fighting,-,100
+308,6,Reversal,46,fighting,-,100
+308,12,Reversal,46,fighting,-,100
+308,13,Reversal,46,fighting,-,100
+308,7,Reversal,47,fighting,-,100
+308,16,Recover,47,normal,-,-
+308,8,Reversal,49,fighting,-,100
+308,9,Reversal,49,fighting,-,100
+308,10,Reversal,49,fighting,-,100
+308,11,Power Trick,49,psychic,-,-
+308,14,Power Trick,49,psychic,-,-
+308,15,Power Trick,49,psychic,-,-
+308,16,Counter,53,fighting,-,100
+308,5,Recover,54,normal,-,-
+308,6,Recover,54,normal,-,-
+308,12,Recover,54,normal,-,-
+308,13,Recover,54,normal,-,-
+308,8,Recover,55,normal,-,-
+308,9,Recover,55,normal,-,-
+308,10,Recover,55,normal,-,-
+308,11,Reversal,55,fighting,-,100
+308,14,Reversal,55,fighting,-,100
+308,15,Reversal,55,fighting,-,100
+308,7,Recover,56,normal,-,-
+308,11,Recover,62,normal,-,-
+308,14,Recover,62,normal,-,-
+308,15,Recover,62,normal,-,-

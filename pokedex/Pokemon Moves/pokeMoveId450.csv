@@ -1,0 +1,111 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+450,8,Sand Attack,1,ground,-,100
+450,8,Tackle,1,normal,50,100
+450,8,Bite,1,dark,60,100
+450,8,Yawn,1,normal,-,-
+450,8,Thunder Fang,1,electric,65,95
+450,8,Ice Fang,1,ice,65,95
+450,8,Fire Fang,1,fire,65,95
+450,9,Sand Attack,1,ground,-,100
+450,9,Tackle,1,normal,50,100
+450,9,Bite,1,dark,60,100
+450,9,Yawn,1,normal,-,-
+450,9,Thunder Fang,1,electric,65,95
+450,9,Ice Fang,1,ice,65,95
+450,9,Fire Fang,1,fire,65,95
+450,10,Sand Attack,1,ground,-,100
+450,10,Tackle,1,normal,50,100
+450,10,Bite,1,dark,60,100
+450,10,Yawn,1,normal,-,-
+450,10,Thunder Fang,1,electric,65,95
+450,10,Ice Fang,1,ice,65,95
+450,10,Fire Fang,1,fire,65,95
+450,11,Sand Attack,1,ground,-,100
+450,11,Tackle,1,normal,50,100
+450,11,Bite,1,dark,60,100
+450,11,Yawn,1,normal,-,-
+450,11,Thunder Fang,1,electric,65,95
+450,11,Ice Fang,1,ice,65,95
+450,11,Fire Fang,1,fire,65,95
+450,14,Sand Attack,1,ground,-,100
+450,14,Tackle,1,normal,50,100
+450,14,Bite,1,dark,60,100
+450,14,Yawn,1,normal,-,-
+450,14,Thunder Fang,1,electric,65,95
+450,14,Ice Fang,1,ice,65,95
+450,14,Fire Fang,1,fire,65,95
+450,15,Sand Attack,1,ground,-,100
+450,15,Tackle,1,normal,50,100
+450,15,Bite,1,dark,60,100
+450,15,Yawn,1,normal,-,-
+450,15,Thunder Fang,1,electric,65,95
+450,15,Ice Fang,1,ice,65,95
+450,15,Fire Fang,1,fire,65,95
+450,16,Sand Attack,1,ground,-,100
+450,16,Tackle,1,normal,50,100
+450,16,Bite,1,dark,60,100
+450,16,Yawn,1,normal,-,-
+450,16,Thunder Fang,1,electric,65,95
+450,16,Ice Fang,1,ice,65,95
+450,16,Fire Fang,1,fire,65,95
+450,8,Bite,7,dark,60,100
+450,9,Bite,7,dark,60,100
+450,10,Bite,7,dark,60,100
+450,11,Bite,7,dark,60,100
+450,14,Bite,7,dark,60,100
+450,15,Bite,7,dark,60,100
+450,16,Bite,7,dark,60,100
+450,8,Yawn,13,normal,-,-
+450,9,Yawn,13,normal,-,-
+450,10,Yawn,13,normal,-,-
+450,11,Yawn,13,normal,-,-
+450,14,Yawn,13,normal,-,-
+450,15,Yawn,13,normal,-,-
+450,16,Yawn,13,normal,-,-
+450,8,Take Down,19,normal,90,85
+450,9,Take Down,19,normal,90,85
+450,10,Take Down,19,normal,90,85
+450,10,Dig,19,ground,80,100
+450,11,Take Down,19,normal,90,85
+450,11,Dig,19,ground,80,100
+450,14,Take Down,19,normal,90,85
+450,14,Dig,19,ground,80,100
+450,15,Take Down,19,normal,90,85
+450,15,Dig,19,ground,80,100
+450,16,Take Down,19,normal,90,85
+450,16,Dig,19,ground,80,100
+450,8,Sand Tomb,25,ground,35,85
+450,9,Sand Tomb,25,ground,35,85
+450,10,Sand Tomb,25,ground,35,85
+450,11,Sand Tomb,25,ground,35,85
+450,14,Sand Tomb,25,ground,35,85
+450,15,Sand Tomb,25,ground,35,85
+450,16,Sand Tomb,25,ground,35,85
+450,8,Crunch,31,dark,80,100
+450,9,Crunch,31,dark,80,100
+450,10,Crunch,31,dark,80,100
+450,11,Crunch,31,dark,80,100
+450,14,Crunch,31,dark,80,100
+450,15,Crunch,31,dark,80,100
+450,16,Crunch,31,dark,80,100
+450,8,Earthquake,40,ground,100,100
+450,9,Earthquake,40,ground,100,100
+450,10,Earthquake,40,ground,100,100
+450,11,Earthquake,40,ground,100,100
+450,14,Earthquake,40,ground,100,100
+450,15,Earthquake,40,ground,100,100
+450,16,Earthquake,40,ground,100,100
+450,8,Double-Edge,50,normal,120,100
+450,9,Double-Edge,50,normal,120,100
+450,10,Double-Edge,50,normal,120,100
+450,11,Double-Edge,50,normal,120,100
+450,14,Double-Edge,50,normal,120,100
+450,15,Double-Edge,50,normal,120,100
+450,16,Double-Edge,50,normal,120,100
+450,8,Fissure,60,ground,-,30
+450,9,Fissure,60,ground,-,30
+450,10,Fissure,60,ground,-,30
+450,11,Fissure,60,ground,-,30
+450,14,Fissure,60,ground,-,30
+450,15,Fissure,60,ground,-,30
+450,16,Fissure,60,ground,-,30

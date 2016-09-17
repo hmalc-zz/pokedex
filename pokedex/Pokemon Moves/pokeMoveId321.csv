@@ -1,0 +1,207 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+321,5,Growl,1,normal,-,100
+321,5,Water Gun,1,water,40,100
+321,5,Splash,1,normal,-,-
+321,5,Rollout,1,rock,30,90
+321,6,Growl,1,normal,-,100
+321,6,Water Gun,1,water,40,100
+321,6,Splash,1,normal,-,-
+321,6,Rollout,1,rock,30,90
+321,7,Growl,1,normal,-,100
+321,7,Water Gun,1,water,40,100
+321,7,Splash,1,normal,-,-
+321,7,Rollout,1,rock,30,90
+321,8,Growl,1,normal,-,100
+321,8,Water Gun,1,water,40,100
+321,8,Splash,1,normal,-,-
+321,8,Rollout,1,rock,30,90
+321,9,Growl,1,normal,-,100
+321,9,Water Gun,1,water,40,100
+321,9,Splash,1,normal,-,-
+321,9,Rollout,1,rock,30,90
+321,10,Growl,1,normal,-,100
+321,10,Water Gun,1,water,40,100
+321,10,Splash,1,normal,-,-
+321,10,Rollout,1,rock,30,90
+321,11,Growl,1,normal,-,100
+321,11,Water Gun,1,water,40,100
+321,11,Splash,1,normal,-,-
+321,11,Rollout,1,rock,30,90
+321,12,Growl,1,normal,-,100
+321,12,Water Gun,1,water,40,100
+321,12,Splash,1,normal,-,-
+321,12,Rollout,1,rock,30,90
+321,13,Growl,1,normal,-,100
+321,13,Water Gun,1,water,40,100
+321,13,Splash,1,normal,-,-
+321,13,Rollout,1,rock,30,90
+321,14,Growl,1,normal,-,100
+321,14,Water Gun,1,water,40,100
+321,14,Splash,1,normal,-,-
+321,14,Rollout,1,rock,30,90
+321,15,Growl,1,normal,-,100
+321,15,Water Gun,1,water,40,100
+321,15,Splash,1,normal,-,-
+321,15,Rollout,1,rock,30,90
+321,16,Growl,1,normal,-,100
+321,16,Water Gun,1,water,40,100
+321,16,Splash,1,normal,-,-
+321,16,Rollout,1,rock,30,90
+321,16,Heavy Slam,1,steel,-,100
+321,8,Growl,4,normal,-,100
+321,9,Growl,4,normal,-,100
+321,10,Growl,4,normal,-,100
+321,11,Growl,4,normal,-,100
+321,14,Growl,4,normal,-,100
+321,15,Growl,4,normal,-,100
+321,16,Growl,4,normal,-,100
+321,5,Growl,5,normal,-,100
+321,6,Growl,5,normal,-,100
+321,7,Growl,5,normal,-,100
+321,12,Growl,5,normal,-,100
+321,13,Growl,5,normal,-,100
+321,8,Water Gun,7,water,40,100
+321,9,Water Gun,7,water,40,100
+321,10,Water Gun,7,water,40,100
+321,11,Water Gun,7,water,40,100
+321,14,Water Gun,7,water,40,100
+321,15,Water Gun,7,water,40,100
+321,16,Water Gun,7,water,40,100
+321,5,Water Gun,10,water,40,100
+321,6,Water Gun,10,water,40,100
+321,7,Water Gun,10,water,40,100
+321,12,Water Gun,10,water,40,100
+321,13,Water Gun,10,water,40,100
+321,16,Rollout,10,rock,30,90
+321,8,Rollout,11,rock,30,90
+321,9,Rollout,11,rock,30,90
+321,10,Rollout,11,rock,30,90
+321,11,Rollout,11,rock,30,90
+321,14,Rollout,11,rock,30,90
+321,15,Rollout,11,rock,30,90
+321,16,Whirlpool,13,water,35,85
+321,5,Rollout,14,rock,30,90
+321,6,Rollout,14,rock,30,90
+321,7,Rollout,14,rock,30,90
+321,8,Whirlpool,14,water,35,85
+321,9,Whirlpool,14,water,35,85
+321,10,Whirlpool,14,water,35,85
+321,11,Whirlpool,14,water,35,85
+321,12,Rollout,14,rock,30,90
+321,13,Rollout,14,rock,30,90
+321,14,Whirlpool,14,water,35,85
+321,15,Whirlpool,14,water,35,85
+321,16,Astonish,16,ghost,30,100
+321,8,Astonish,17,ghost,30,100
+321,9,Astonish,17,ghost,30,100
+321,10,Astonish,17,ghost,30,100
+321,11,Astonish,17,ghost,30,100
+321,14,Astonish,17,ghost,30,100
+321,15,Astonish,17,ghost,30,100
+321,5,Whirlpool,19,water,35,85
+321,6,Whirlpool,19,water,35,85
+321,7,Whirlpool,19,water,35,85
+321,12,Whirlpool,19,water,35,85
+321,13,Whirlpool,19,water,35,85
+321,16,Water Pulse,19,water,60,100
+321,8,Water Pulse,21,water,60,100
+321,9,Water Pulse,21,water,60,100
+321,10,Water Pulse,21,water,60,100
+321,11,Water Pulse,21,water,60,100
+321,14,Water Pulse,21,water,60,100
+321,15,Water Pulse,21,water,60,100
+321,16,Mist,22,ice,-,-
+321,5,Astonish,23,ghost,30,100
+321,6,Astonish,23,ghost,30,100
+321,7,Astonish,23,ghost,30,100
+321,12,Astonish,23,ghost,30,100
+321,13,Astonish,23,ghost,30,100
+321,8,Mist,24,ice,-,-
+321,9,Mist,24,ice,-,-
+321,10,Mist,24,ice,-,-
+321,11,Mist,24,ice,-,-
+321,14,Mist,24,ice,-,-
+321,15,Mist,24,ice,-,-
+321,16,Rest,25,psychic,-,-
+321,8,Rest,27,psychic,-,-
+321,9,Rest,27,psychic,-,-
+321,10,Rest,27,psychic,-,-
+321,11,Rest,27,psychic,-,-
+321,14,Rest,27,psychic,-,-
+321,15,Rest,27,psychic,-,-
+321,5,Water Pulse,28,water,60,100
+321,6,Water Pulse,28,water,60,100
+321,7,Water Pulse,28,water,60,100
+321,12,Water Pulse,28,water,60,100
+321,13,Water Pulse,28,water,60,100
+321,16,Brine,29,water,65,100
+321,8,Brine,31,water,65,100
+321,9,Brine,31,water,65,100
+321,10,Brine,31,water,65,100
+321,11,Brine,31,water,65,100
+321,14,Brine,31,water,65,100
+321,15,Brine,31,water,65,100
+321,5,Mist,32,ice,-,-
+321,6,Mist,32,ice,-,-
+321,7,Mist,32,ice,-,-
+321,12,Mist,32,ice,-,-
+321,13,Mist,32,ice,-,-
+321,16,Water Spout,33,water,150,100
+321,8,Water Spout,34,water,150,100
+321,9,Water Spout,34,water,150,100
+321,10,Water Spout,34,water,150,100
+321,11,Water Spout,34,water,150,100
+321,14,Water Spout,34,water,150,100
+321,15,Water Spout,34,water,150,100
+321,5,Rest,37,psychic,-,-
+321,6,Rest,37,psychic,-,-
+321,7,Rest,37,psychic,-,-
+321,8,Amnesia,37,psychic,-,-
+321,9,Amnesia,37,psychic,-,-
+321,10,Amnesia,37,psychic,-,-
+321,11,Amnesia,37,psychic,-,-
+321,12,Rest,37,psychic,-,-
+321,13,Rest,37,psychic,-,-
+321,14,Amnesia,37,psychic,-,-
+321,15,Amnesia,37,psychic,-,-
+321,16,Amnesia,37,psychic,-,-
+321,5,Water Spout,44,water,150,100
+321,6,Water Spout,44,water,150,100
+321,7,Water Spout,44,water,150,100
+321,12,Water Spout,44,water,150,100
+321,13,Water Spout,44,water,150,100
+321,16,Dive,44,water,80,100
+321,8,Dive,46,water,80,100
+321,9,Dive,46,water,80,100
+321,10,Dive,46,water,80,100
+321,11,Dive,46,water,80,100
+321,14,Dive,46,water,80,100
+321,15,Dive,46,water,80,100
+321,16,Bounce,51,flying,85,85
+321,5,Amnesia,52,psychic,-,-
+321,6,Amnesia,52,psychic,-,-
+321,7,Amnesia,52,psychic,-,-
+321,12,Amnesia,52,psychic,-,-
+321,13,Amnesia,52,psychic,-,-
+321,8,Bounce,54,flying,85,85
+321,9,Bounce,54,flying,85,85
+321,10,Bounce,54,flying,85,85
+321,11,Bounce,54,flying,85,85
+321,14,Bounce,54,flying,85,85
+321,15,Bounce,54,flying,85,85
+321,16,Hydro Pump,58,water,110,80
+321,5,Hydro Pump,59,water,110,80
+321,6,Hydro Pump,59,water,110,80
+321,7,Hydro Pump,59,water,110,80
+321,12,Hydro Pump,59,water,110,80
+321,13,Hydro Pump,59,water,110,80
+321,8,Hydro Pump,62,water,110,80
+321,9,Hydro Pump,62,water,110,80
+321,10,Hydro Pump,62,water,110,80
+321,11,Hydro Pump,62,water,110,80
+321,14,Hydro Pump,62,water,110,80
+321,15,Hydro Pump,62,water,110,80
+321,16,Heavy Slam,65,steel,-,100
+321,11,Heavy Slam,70,steel,-,100
+321,14,Heavy Slam,70,steel,-,100
+321,15,Heavy Slam,70,steel,-,100

@@ -1,0 +1,187 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+102,1,Hypnosis,1,psychic,-,60
+102,1,Barrage,1,normal,15,85
+102,2,Hypnosis,1,psychic,-,60
+102,2,Barrage,1,normal,15,85
+102,3,Hypnosis,1,psychic,-,60
+102,3,Barrage,1,normal,15,85
+102,4,Hypnosis,1,psychic,-,60
+102,4,Barrage,1,normal,15,85
+102,5,Hypnosis,1,psychic,-,60
+102,5,Barrage,1,normal,15,85
+102,5,Uproar,1,normal,90,100
+102,6,Hypnosis,1,psychic,-,60
+102,6,Barrage,1,normal,15,85
+102,6,Uproar,1,normal,90,100
+102,7,Hypnosis,1,psychic,-,60
+102,7,Barrage,1,normal,15,85
+102,7,Uproar,1,normal,90,100
+102,8,Hypnosis,1,psychic,-,60
+102,8,Barrage,1,normal,15,85
+102,8,Uproar,1,normal,90,100
+102,9,Hypnosis,1,psychic,-,60
+102,9,Barrage,1,normal,15,85
+102,9,Uproar,1,normal,90,100
+102,10,Hypnosis,1,psychic,-,60
+102,10,Barrage,1,normal,15,85
+102,10,Uproar,1,normal,90,100
+102,11,Hypnosis,1,psychic,-,60
+102,11,Barrage,1,normal,15,85
+102,11,Uproar,1,normal,90,100
+102,12,Hypnosis,1,psychic,-,60
+102,12,Barrage,1,normal,15,85
+102,12,Uproar,1,normal,90,100
+102,13,Hypnosis,1,psychic,-,60
+102,13,Barrage,1,normal,15,85
+102,13,Uproar,1,normal,90,100
+102,14,Hypnosis,1,psychic,-,60
+102,14,Barrage,1,normal,15,85
+102,14,Uproar,1,normal,90,100
+102,15,Hypnosis,1,psychic,-,60
+102,15,Barrage,1,normal,15,85
+102,15,Uproar,1,normal,90,100
+102,16,Hypnosis,1,psychic,-,60
+102,16,Barrage,1,normal,15,85
+102,16,Uproar,1,normal,90,100
+102,3,Reflect,7,psychic,-,-
+102,4,Reflect,7,psychic,-,-
+102,5,Reflect,7,psychic,-,-
+102,6,Reflect,7,psychic,-,-
+102,7,Reflect,7,psychic,-,-
+102,8,Reflect,7,psychic,-,-
+102,9,Reflect,7,psychic,-,-
+102,10,Reflect,7,psychic,-,-
+102,11,Reflect,7,psychic,-,-
+102,12,Reflect,7,psychic,-,-
+102,13,Reflect,7,psychic,-,-
+102,14,Reflect,7,psychic,-,-
+102,15,Reflect,7,psychic,-,-
+102,16,Reflect,7,psychic,-,-
+102,8,Leech Seed,11,grass,-,90
+102,9,Leech Seed,11,grass,-,90
+102,10,Leech Seed,11,grass,-,90
+102,11,Leech Seed,11,grass,-,90
+102,14,Leech Seed,11,grass,-,90
+102,15,Leech Seed,11,grass,-,90
+102,16,Leech Seed,11,grass,-,90
+102,3,Leech Seed,13,grass,-,90
+102,4,Leech Seed,13,grass,-,90
+102,5,Leech Seed,13,grass,-,90
+102,6,Leech Seed,13,grass,-,90
+102,7,Leech Seed,13,grass,-,90
+102,12,Leech Seed,13,grass,-,90
+102,13,Leech Seed,13,grass,-,90
+102,8,Bullet Seed,17,grass,25,100
+102,9,Bullet Seed,17,grass,25,100
+102,10,Bullet Seed,17,grass,25,100
+102,11,Bullet Seed,17,grass,25,100
+102,14,Bullet Seed,17,grass,25,100
+102,15,Bullet Seed,17,grass,25,100
+102,16,Bullet Seed,17,grass,25,100
+102,3,Confusion,19,psychic,50,100
+102,4,Confusion,19,psychic,50,100
+102,5,Confusion,19,psychic,50,100
+102,6,Confusion,19,psychic,50,100
+102,7,Confusion,19,psychic,50,100
+102,8,Stun Spore,19,grass,-,75
+102,9,Stun Spore,19,grass,-,75
+102,10,Stun Spore,19,grass,-,75
+102,11,Stun Spore,19,grass,-,75
+102,12,Confusion,19,psychic,50,100
+102,13,Confusion,19,psychic,50,100
+102,14,Stun Spore,19,grass,-,75
+102,15,Stun Spore,19,grass,-,75
+102,16,Stun Spore,19,grass,-,75
+102,8,Poison Powder,21,poison,-,75
+102,9,Poison Powder,21,poison,-,75
+102,10,Poison Powder,21,poison,-,75
+102,11,Poison Powder,21,poison,-,75
+102,14,Poison Powder,21,poison,-,75
+102,15,Poison Powder,21,poison,-,75
+102,16,Poison Powder,21,poison,-,75
+102,8,Sleep Powder,23,grass,-,75
+102,9,Sleep Powder,23,grass,-,75
+102,10,Sleep Powder,23,grass,-,75
+102,11,Sleep Powder,23,grass,-,75
+102,14,Sleep Powder,23,grass,-,75
+102,15,Sleep Powder,23,grass,-,75
+102,16,Sleep Powder,23,grass,-,75
+102,1,Reflect,25,psychic,-,-
+102,2,Reflect,25,psychic,-,-
+102,3,Stun Spore,25,grass,-,75
+102,4,Stun Spore,25,grass,-,75
+102,5,Stun Spore,25,grass,-,75
+102,6,Stun Spore,25,grass,-,75
+102,7,Stun Spore,25,grass,-,75
+102,12,Stun Spore,25,grass,-,75
+102,13,Stun Spore,25,grass,-,75
+102,8,Confusion,27,psychic,50,100
+102,9,Confusion,27,psychic,50,100
+102,10,Confusion,27,psychic,50,100
+102,11,Confusion,27,psychic,50,100
+102,14,Confusion,27,psychic,50,100
+102,15,Confusion,27,psychic,50,100
+102,16,Confusion,27,psychic,50,100
+102,1,Leech Seed,28,grass,-,90
+102,2,Leech Seed,28,grass,-,90
+102,3,Poison Powder,31,poison,-,75
+102,4,Poison Powder,31,poison,-,75
+102,5,Poison Powder,31,poison,-,75
+102,6,Poison Powder,31,poison,-,75
+102,7,Poison Powder,31,poison,-,75
+102,12,Poison Powder,31,poison,-,75
+102,13,Poison Powder,31,poison,-,75
+102,1,Stun Spore,32,grass,-,75
+102,2,Stun Spore,32,grass,-,75
+102,8,Worry Seed,33,grass,-,100
+102,9,Worry Seed,33,grass,-,100
+102,10,Worry Seed,33,grass,-,100
+102,11,Worry Seed,33,grass,-,100
+102,14,Worry Seed,33,grass,-,100
+102,15,Worry Seed,33,grass,-,100
+102,16,Worry Seed,33,grass,-,100
+102,1,Poison Powder,37,poison,-,75
+102,2,Poison Powder,37,poison,-,75
+102,3,Sleep Powder,37,grass,-,75
+102,4,Sleep Powder,37,grass,-,75
+102,5,Sleep Powder,37,grass,-,75
+102,6,Sleep Powder,37,grass,-,75
+102,7,Sleep Powder,37,grass,-,75
+102,8,Natural Gift,37,normal,-,100
+102,9,Natural Gift,37,normal,-,100
+102,10,Natural Gift,37,normal,-,100
+102,11,Natural Gift,37,normal,-,100
+102,12,Sleep Powder,37,grass,-,75
+102,13,Sleep Powder,37,grass,-,75
+102,14,Natural Gift,37,normal,-,100
+102,15,Natural Gift,37,normal,-,100
+102,16,Natural Gift,37,normal,-,100
+102,1,Solar Beam,42,grass,120,100
+102,2,Solar Beam,42,grass,120,100
+102,3,Solar Beam,43,grass,120,100
+102,4,Solar Beam,43,grass,120,100
+102,5,Solar Beam,43,grass,120,100
+102,6,Solar Beam,43,grass,120,100
+102,7,Solar Beam,43,grass,120,100
+102,8,Solar Beam,43,grass,120,100
+102,9,Solar Beam,43,grass,120,100
+102,10,Solar Beam,43,grass,120,100
+102,11,Solar Beam,43,grass,120,100
+102,12,Solar Beam,43,grass,120,100
+102,13,Solar Beam,43,grass,120,100
+102,14,Solar Beam,43,grass,120,100
+102,15,Solar Beam,43,grass,120,100
+102,16,Solar Beam,43,grass,120,100
+102,8,Psychic,47,psychic,90,100
+102,9,Psychic,47,psychic,90,100
+102,10,Psychic,47,psychic,90,100
+102,11,Psychic,47,psychic,90,100
+102,14,Extrasensory,47,psychic,80,100
+102,15,Extrasensory,47,psychic,80,100
+102,16,Extrasensory,47,psychic,80,100
+102,1,Sleep Powder,48,grass,-,75
+102,2,Sleep Powder,48,grass,-,75
+102,15,Bestow,50,normal,-,-
+102,16,Bestow,50,normal,-,-
+102,11,Bestow,53,normal,-,-
+102,14,Bestow,53,normal,-,-

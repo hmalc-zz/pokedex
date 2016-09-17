@@ -1,0 +1,100 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+400,8,Tackle,1,normal,50,100
+400,8,Growl,1,normal,-,100
+400,9,Tackle,1,normal,50,100
+400,9,Growl,1,normal,-,100
+400,10,Tackle,1,normal,50,100
+400,10,Growl,1,normal,-,100
+400,11,Tackle,1,normal,50,100
+400,11,Growl,1,normal,-,100
+400,14,Tackle,1,normal,50,100
+400,14,Growl,1,normal,-,100
+400,15,Tackle,1,normal,50,100
+400,15,Growl,1,normal,-,100
+400,15,Rototiller,1,ground,-,-
+400,16,Tackle,1,normal,50,100
+400,16,Growl,1,normal,-,100
+400,16,Rototiller,1,ground,-,-
+400,8,Growl,5,normal,-,100
+400,9,Growl,5,normal,-,100
+400,10,Growl,5,normal,-,100
+400,11,Growl,5,normal,-,100
+400,14,Growl,5,normal,-,100
+400,15,Growl,5,normal,-,100
+400,16,Growl,5,normal,-,100
+400,8,Defense Curl,9,normal,-,-
+400,9,Defense Curl,9,normal,-,-
+400,10,Defense Curl,9,normal,-,-
+400,11,Defense Curl,9,normal,-,-
+400,14,Defense Curl,9,normal,-,-
+400,15,Defense Curl,9,normal,-,-
+400,16,Defense Curl,9,normal,-,-
+400,8,Rollout,13,rock,30,90
+400,9,Rollout,13,rock,30,90
+400,10,Rollout,13,rock,30,90
+400,11,Rollout,13,rock,30,90
+400,14,Rollout,13,rock,30,90
+400,15,Rollout,13,rock,30,90
+400,16,Rollout,13,rock,30,90
+400,8,Water Gun,15,water,40,100
+400,9,Water Gun,15,water,40,100
+400,10,Water Gun,15,water,40,100
+400,11,Water Gun,15,water,40,100
+400,14,Water Gun,15,water,40,100
+400,15,Water Gun,15,water,40,100
+400,16,Water Gun,15,water,40,100
+400,8,Headbutt,18,normal,70,100
+400,9,Headbutt,18,normal,70,100
+400,10,Headbutt,18,normal,70,100
+400,11,Headbutt,18,normal,70,100
+400,14,Headbutt,18,normal,70,100
+400,15,Headbutt,18,normal,70,100
+400,16,Headbutt,18,normal,70,100
+400,8,Hyper Fang,23,normal,80,90
+400,9,Hyper Fang,23,normal,80,90
+400,10,Hyper Fang,23,normal,80,90
+400,11,Hyper Fang,23,normal,80,90
+400,14,Hyper Fang,23,normal,80,90
+400,15,Hyper Fang,23,normal,80,90
+400,16,Hyper Fang,23,normal,80,90
+400,8,Yawn,28,normal,-,-
+400,9,Yawn,28,normal,-,-
+400,10,Yawn,28,normal,-,-
+400,11,Yawn,28,normal,-,-
+400,14,Yawn,28,normal,-,-
+400,15,Yawn,28,normal,-,-
+400,16,Yawn,28,normal,-,-
+400,8,Amnesia,33,psychic,-,-
+400,9,Amnesia,33,psychic,-,-
+400,10,Amnesia,33,psychic,-,-
+400,11,Amnesia,33,psychic,-,-
+400,14,Amnesia,33,psychic,-,-
+400,15,Amnesia,33,psychic,-,-
+400,16,Amnesia,33,psychic,-,-
+400,8,Take Down,38,normal,90,85
+400,9,Take Down,38,normal,90,85
+400,10,Take Down,38,normal,90,85
+400,11,Take Down,38,normal,90,85
+400,14,Take Down,38,normal,90,85
+400,15,Take Down,38,normal,90,85
+400,16,Take Down,38,normal,90,85
+400,8,Super Fang,43,normal,-,90
+400,9,Super Fang,43,normal,-,90
+400,10,Super Fang,43,normal,-,90
+400,11,Super Fang,43,normal,-,90
+400,14,Super Fang,43,normal,-,90
+400,15,Super Fang,43,normal,-,90
+400,16,Super Fang,43,normal,-,90
+400,8,Superpower,48,fighting,120,100
+400,9,Superpower,48,fighting,120,100
+400,10,Superpower,48,fighting,120,100
+400,11,Superpower,48,fighting,120,100
+400,14,Superpower,48,fighting,120,100
+400,15,Superpower,48,fighting,120,100
+400,16,Superpower,48,fighting,120,100
+400,9,Curse,53,ghost,-,-
+400,10,Curse,53,ghost,-,-
+400,11,Curse,53,ghost,-,-
+400,14,Curse,53,ghost,-,-
+400,15,Curse,53,ghost,-,-
+400,16,Curse,53,ghost,-,-

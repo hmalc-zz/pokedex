@@ -1,0 +1,79 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+612,11,Scratch,1,normal,40,100
+612,11,Leer,1,normal,-,100
+612,11,Dragon Rage,1,dragon,-,100
+612,11,Assurance,1,dark,60,100
+612,14,Scratch,1,normal,40,100
+612,14,Leer,1,normal,-,100
+612,14,Dragon Rage,1,dragon,-,100
+612,14,Assurance,1,dark,60,100
+612,15,Scratch,1,normal,40,100
+612,15,Leer,1,normal,-,100
+612,15,Dragon Rage,1,dragon,-,100
+612,15,Outrage,1,dragon,120,100
+612,15,Assurance,1,dark,60,100
+612,16,Scratch,1,normal,40,100
+612,16,Leer,1,normal,-,100
+612,16,Dragon Rage,1,dragon,-,100
+612,16,Outrage,1,dragon,120,100
+612,16,Assurance,1,dark,60,100
+612,11,Leer,4,normal,-,100
+612,14,Leer,4,normal,-,100
+612,15,Leer,4,normal,-,100
+612,16,Leer,4,normal,-,100
+612,11,Assurance,7,dark,60,100
+612,14,Assurance,7,dark,60,100
+612,15,Assurance,7,dark,60,100
+612,16,Assurance,7,dark,60,100
+612,11,Dragon Rage,10,dragon,-,100
+612,14,Dragon Rage,10,dragon,-,100
+612,15,Dragon Rage,10,dragon,-,100
+612,16,Dragon Rage,10,dragon,-,100
+612,11,Dual Chop,13,dragon,40,90
+612,14,Dual Chop,13,dragon,40,90
+612,15,Dual Chop,13,dragon,40,90
+612,16,Dual Chop,13,dragon,40,90
+612,11,Scary Face,16,normal,-,100
+612,14,Scary Face,16,normal,-,100
+612,15,Scary Face,16,normal,-,100
+612,16,Scary Face,16,normal,-,100
+612,11,Slash,20,normal,70,100
+612,14,Slash,20,normal,70,100
+612,15,Slash,20,normal,70,100
+612,16,Slash,20,normal,70,100
+612,11,False Swipe,24,normal,40,100
+612,14,False Swipe,24,normal,40,100
+612,15,False Swipe,24,normal,40,100
+612,16,False Swipe,24,normal,40,100
+612,11,Dragon Claw,28,dragon,80,100
+612,14,Dragon Claw,28,dragon,80,100
+612,15,Dragon Claw,28,dragon,80,100
+612,16,Dragon Claw,28,dragon,80,100
+612,11,Dragon Dance,32,dragon,-,-
+612,14,Dragon Dance,32,dragon,-,-
+612,15,Dragon Dance,32,dragon,-,-
+612,16,Dragon Dance,32,dragon,-,-
+612,11,Taunt,36,dark,-,100
+612,14,Taunt,36,dark,-,100
+612,15,Taunt,36,dark,-,100
+612,16,Taunt,36,dark,-,100
+612,11,Dragon Pulse,42,dragon,85,100
+612,14,Dragon Pulse,42,dragon,85,100
+612,15,Dragon Pulse,42,dragon,85,100
+612,16,Dragon Pulse,42,dragon,85,100
+612,11,Swords Dance,50,normal,-,-
+612,14,Swords Dance,50,normal,-,-
+612,15,Swords Dance,50,normal,-,-
+612,16,Swords Dance,50,normal,-,-
+612,11,Guillotine,58,normal,-,30
+612,14,Guillotine,58,normal,-,30
+612,15,Guillotine,58,normal,-,30
+612,16,Guillotine,58,normal,-,30
+612,11,Outrage,66,dragon,120,100
+612,14,Outrage,66,dragon,120,100
+612,15,Outrage,66,dragon,120,100
+612,16,Outrage,66,dragon,120,100
+612,11,Giga Impact,74,normal,150,90
+612,14,Giga Impact,74,normal,150,90
+612,15,Giga Impact,74,normal,150,90
+612,16,Giga Impact,74,normal,150,90

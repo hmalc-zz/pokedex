@@ -1,0 +1,92 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+438,8,Fake Tears,1,dark,-,100
+438,8,Copycat,1,normal,-,-
+438,9,Fake Tears,1,dark,-,100
+438,9,Copycat,1,normal,-,-
+438,10,Fake Tears,1,dark,-,100
+438,10,Copycat,1,normal,-,-
+438,11,Fake Tears,1,dark,-,100
+438,11,Copycat,1,normal,-,-
+438,14,Fake Tears,1,dark,-,100
+438,14,Copycat,1,normal,-,-
+438,15,Fake Tears,1,dark,-,100
+438,15,Copycat,1,normal,-,-
+438,16,Fake Tears,1,dark,-,100
+438,16,Copycat,1,normal,-,-
+438,14,Flail,5,normal,-,100
+438,15,Flail,5,normal,-,100
+438,16,Flail,5,normal,-,100
+438,8,Flail,6,normal,-,100
+438,9,Flail,6,normal,-,100
+438,10,Flail,6,normal,-,100
+438,11,Flail,6,normal,-,100
+438,14,Low Kick,8,fighting,-,100
+438,15,Low Kick,8,fighting,-,100
+438,16,Low Kick,8,fighting,-,100
+438,8,Low Kick,9,fighting,-,100
+438,9,Low Kick,9,fighting,-,100
+438,10,Low Kick,9,fighting,-,100
+438,11,Low Kick,9,fighting,-,100
+438,14,Rock Throw,12,rock,50,90
+438,15,Rock Throw,12,rock,50,90
+438,16,Rock Throw,12,rock,50,90
+438,8,Rock Throw,14,rock,50,90
+438,9,Rock Throw,14,rock,50,90
+438,10,Rock Throw,14,rock,50,90
+438,11,Rock Throw,14,rock,50,90
+438,14,Slam,15,normal,80,75
+438,15,Mimic,15,normal,-,-
+438,16,Mimic,15,normal,-,-
+438,8,Mimic,17,normal,-,-
+438,9,Mimic,17,normal,-,-
+438,10,Mimic,17,normal,-,-
+438,11,Mimic,17,normal,-,-
+438,14,Feint Attack,19,dark,60,-
+438,15,Feint Attack,19,dark,60,-
+438,16,Feint Attack,19,dark,60,-
+438,8,Block,22,normal,-,-
+438,9,Block,22,normal,-,-
+438,10,Block,22,normal,-,-
+438,11,Block,22,normal,-,-
+438,14,Rock Tomb,22,rock,60,95
+438,15,Rock Tomb,22,rock,60,95
+438,16,Rock Tomb,22,rock,60,95
+438,8,Feint Attack,25,dark,60,-
+438,9,Feint Attack,25,dark,60,-
+438,10,Feint Attack,25,dark,60,-
+438,11,Feint Attack,25,dark,60,-
+438,14,Block,26,normal,-,-
+438,15,Block,26,normal,-,-
+438,16,Block,26,normal,-,-
+438,14,Rock Slide,29,rock,75,90
+438,15,Rock Slide,29,rock,75,90
+438,16,Rock Slide,29,rock,75,90
+438,8,Rock Tomb,30,rock,60,95
+438,9,Rock Tomb,30,rock,60,95
+438,10,Rock Tomb,30,rock,60,95
+438,11,Rock Tomb,30,rock,60,95
+438,8,Rock Slide,33,rock,75,90
+438,9,Rock Slide,33,rock,75,90
+438,10,Rock Slide,33,rock,75,90
+438,11,Rock Slide,33,rock,75,90
+438,14,Mimic,33,normal,-,-
+438,15,Counter,33,fighting,-,100
+438,16,Counter,33,fighting,-,100
+438,14,Sucker Punch,36,dark,80,100
+438,15,Sucker Punch,36,dark,80,100
+438,16,Sucker Punch,36,dark,80,100
+438,8,Slam,38,normal,80,75
+438,9,Slam,38,normal,80,75
+438,10,Slam,38,normal,80,75
+438,11,Slam,38,normal,80,75
+438,14,Double-Edge,40,normal,120,100
+438,15,Double-Edge,40,normal,120,100
+438,16,Double-Edge,40,normal,120,100
+438,8,Sucker Punch,41,dark,80,100
+438,9,Sucker Punch,41,dark,80,100
+438,10,Sucker Punch,41,dark,80,100
+438,11,Sucker Punch,41,dark,80,100
+438,8,Double-Edge,46,normal,120,100
+438,9,Double-Edge,46,normal,120,100
+438,10,Double-Edge,46,normal,120,100
+438,11,Double-Edge,46,normal,120,100

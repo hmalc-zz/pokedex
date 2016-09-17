@@ -47,7 +47,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     @IBOutlet weak var containerSpacing: NSLayoutConstraint!
     @IBOutlet weak var sortBtnView: UIView!
     @IBOutlet weak var horizontalScrollView: UIScrollView!
-    
+    @IBOutlet weak var musicButtonImage: UIImageView!
   
     var pokemon = [Pokemon]()
     var filteredPokemon = [Pokemon]()
@@ -60,13 +60,21 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
         collection.delegate = self
         collection.dataSource = self
         searchBar.delegate = self
         searchBar.returnKeyType = UIReturnKeyType.done
+        setMusicButtonImage()
         parsePokemonCSV()
-        
+    }
+    
+    func setMusicButtonImage(){
+        let soundsEnabled = UserDefaults.standard.bool(forKey: "AreSoundsEnabled")
+        if soundsEnabled == false {
+            musicButtonImage.alpha = 0.7
+        } else {
+            musicButtonImage.alpha = 1
+        }
     }
     
     func parsePokemonCSV() {
@@ -467,4 +475,16 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
             })
         }
     }
+    
+    @IBAction func ToggleMusicAllowed(_ sender: UIButton) {
+        let musicToggle = UserDefaults.standard.bool(forKey: "AreSoundsEnabled")
+        if musicToggle == true {
+            UserDefaults.standard.set(false, forKey: "AreSoundsEnabled")
+        } else {
+            UserDefaults.standard.set(true, forKey: "AreSoundsEnabled")
+        }
+        setMusicButtonImage()
+    }
+    
+    
  }

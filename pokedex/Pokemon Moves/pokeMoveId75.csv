@@ -1,0 +1,221 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+75,1,Tackle,1,normal,50,100
+75,1,Defense Curl,1,normal,-,-
+75,2,Tackle,1,normal,50,100
+75,2,Defense Curl,1,normal,-,-
+75,3,Tackle,1,normal,50,100
+75,3,Rock Throw,1,rock,50,90
+75,3,Defense Curl,1,normal,-,-
+75,4,Tackle,1,normal,50,100
+75,4,Rock Throw,1,rock,50,90
+75,4,Defense Curl,1,normal,-,-
+75,5,Tackle,1,normal,50,100
+75,5,Rock Throw,1,rock,50,90
+75,5,Defense Curl,1,normal,-,-
+75,5,Mud Sport,1,ground,-,-
+75,6,Tackle,1,normal,50,100
+75,6,Rock Throw,1,rock,50,90
+75,6,Defense Curl,1,normal,-,-
+75,6,Mud Sport,1,ground,-,-
+75,7,Tackle,1,normal,50,100
+75,7,Rock Throw,1,rock,50,90
+75,7,Defense Curl,1,normal,-,-
+75,7,Mud Sport,1,ground,-,-
+75,8,Tackle,1,normal,50,100
+75,8,Defense Curl,1,normal,-,-
+75,8,Mud Sport,1,ground,-,-
+75,8,Rock Polish,1,rock,-,-
+75,9,Tackle,1,normal,50,100
+75,9,Defense Curl,1,normal,-,-
+75,9,Mud Sport,1,ground,-,-
+75,9,Rock Polish,1,rock,-,-
+75,10,Tackle,1,normal,50,100
+75,10,Defense Curl,1,normal,-,-
+75,10,Mud Sport,1,ground,-,-
+75,10,Rock Polish,1,rock,-,-
+75,11,Tackle,1,normal,50,100
+75,11,Defense Curl,1,normal,-,-
+75,11,Mud Sport,1,ground,-,-
+75,11,Rock Polish,1,rock,-,-
+75,12,Tackle,1,normal,50,100
+75,12,Rock Throw,1,rock,50,90
+75,12,Defense Curl,1,normal,-,-
+75,12,Mud Sport,1,ground,-,-
+75,13,Tackle,1,normal,50,100
+75,13,Rock Throw,1,rock,50,90
+75,13,Defense Curl,1,normal,-,-
+75,13,Mud Sport,1,ground,-,-
+75,14,Tackle,1,normal,50,100
+75,14,Defense Curl,1,normal,-,-
+75,14,Mud Sport,1,ground,-,-
+75,14,Rock Polish,1,rock,-,-
+75,15,Tackle,1,normal,50,100
+75,15,Defense Curl,1,normal,-,-
+75,15,Mud Sport,1,ground,-,-
+75,15,Rock Polish,1,rock,-,-
+75,16,Tackle,1,normal,50,100
+75,16,Defense Curl,1,normal,-,-
+75,16,Mud Sport,1,ground,-,-
+75,16,Rock Polish,1,rock,-,-
+75,8,Mud Sport,4,ground,-,-
+75,9,Mud Sport,4,ground,-,-
+75,10,Mud Sport,4,ground,-,-
+75,11,Mud Sport,4,ground,-,-
+75,14,Mud Sport,4,ground,-,-
+75,15,Mud Sport,4,ground,-,-
+75,16,Mud Sport,4,ground,-,-
+75,3,Defense Curl,6,normal,-,-
+75,4,Defense Curl,6,normal,-,-
+75,5,Mud Sport,6,ground,-,-
+75,6,Mud Sport,6,ground,-,-
+75,7,Mud Sport,6,ground,-,-
+75,12,Mud Sport,6,ground,-,-
+75,13,Mud Sport,6,ground,-,-
+75,16,Rock Polish,6,rock,-,-
+75,8,Rock Polish,8,rock,-,-
+75,9,Rock Polish,8,rock,-,-
+75,10,Rock Polish,8,rock,-,-
+75,11,Rock Polish,8,rock,-,-
+75,14,Rock Polish,8,rock,-,-
+75,15,Rock Polish,8,rock,-,-
+75,16,Rollout,10,rock,30,90
+75,1,Defense Curl,11,normal,-,-
+75,2,Defense Curl,11,normal,-,-
+75,3,Rock Throw,11,rock,50,90
+75,4,Rock Throw,11,rock,50,90
+75,5,Rock Throw,11,rock,50,90
+75,6,Rock Throw,11,rock,50,90
+75,7,Rock Throw,11,rock,50,90
+75,8,Rock Throw,11,rock,50,90
+75,9,Rock Throw,11,rock,50,90
+75,10,Rock Throw,11,rock,50,90
+75,11,Rock Throw,11,rock,50,90
+75,12,Rock Throw,11,rock,50,90
+75,13,Rock Throw,11,rock,50,90
+75,14,Rock Throw,11,rock,50,90
+75,15,Rollout,11,rock,30,90
+75,16,Magnitude,12,ground,-,100
+75,8,Magnitude,15,ground,-,100
+75,9,Magnitude,15,ground,-,100
+75,10,Magnitude,15,ground,-,100
+75,11,Magnitude,15,ground,-,100
+75,14,Magnitude,15,ground,-,100
+75,15,Magnitude,15,ground,-,100
+75,1,Rock Throw,16,rock,50,90
+75,2,Rock Throw,16,rock,50,90
+75,3,Magnitude,16,ground,-,100
+75,4,Magnitude,16,ground,-,100
+75,5,Magnitude,16,ground,-,100
+75,6,Magnitude,16,ground,-,100
+75,7,Magnitude,16,ground,-,100
+75,12,Magnitude,16,ground,-,100
+75,13,Magnitude,16,ground,-,100
+75,16,Rock Throw,16,rock,50,90
+75,8,Self-Destruct,18,normal,200,100
+75,9,Self-Destruct,18,normal,200,100
+75,10,Self-Destruct,18,normal,200,100
+75,11,Rollout,18,rock,30,90
+75,14,Rollout,18,rock,30,90
+75,15,Rock Throw,18,rock,50,90
+75,16,Smack Down,18,rock,50,100
+75,1,Self-Destruct,21,normal,200,100
+75,2,Self-Destruct,21,normal,200,100
+75,3,Self-Destruct,21,normal,200,100
+75,4,Self-Destruct,21,normal,200,100
+75,5,Self-Destruct,21,normal,200,100
+75,6,Self-Destruct,21,normal,200,100
+75,7,Self-Destruct,21,normal,200,100
+75,12,Self-Destruct,21,normal,200,100
+75,13,Self-Destruct,21,normal,200,100
+75,8,Rollout,22,rock,30,90
+75,9,Rollout,22,rock,30,90
+75,10,Rollout,22,rock,30,90
+75,11,Rock Blast,22,rock,25,90
+75,14,Rock Blast,22,rock,25,90
+75,15,Rock Blast,22,rock,25,90
+75,16,Bulldoze,22,ground,60,100
+75,16,Self-Destruct,24,normal,200,100
+75,3,Harden,27,normal,-,-
+75,4,Harden,27,normal,-,-
+75,8,Rock Blast,27,rock,25,90
+75,9,Rock Blast,27,rock,25,90
+75,10,Rock Blast,27,rock,25,90
+75,11,Smack Down,27,rock,50,100
+75,14,Smack Down,27,rock,50,100
+75,15,Smack Down,27,rock,50,100
+75,1,Harden,29,normal,-,-
+75,2,Harden,29,normal,-,-
+75,5,Rollout,29,rock,30,90
+75,6,Rollout,29,rock,30,90
+75,7,Rollout,29,rock,30,90
+75,12,Rollout,29,rock,30,90
+75,13,Rollout,29,rock,30,90
+75,16,Stealth Rock,30,rock,-,-
+75,11,Self-Destruct,31,normal,200,100
+75,14,Self-Destruct,31,normal,200,100
+75,15,Self-Destruct,31,normal,200,100
+75,8,Earthquake,33,ground,100,100
+75,9,Earthquake,33,ground,100,100
+75,10,Earthquake,33,ground,100,100
+75,3,Rollout,34,rock,30,90
+75,4,Rollout,34,rock,30,90
+75,16,Rock Blast,34,rock,25,90
+75,1,Earthquake,36,ground,100,100
+75,2,Earthquake,36,ground,100,100
+75,11,Bulldoze,36,ground,60,100
+75,14,Bulldoze,36,ground,60,100
+75,15,Bulldoze,36,ground,60,100
+75,5,Rock Blast,37,rock,25,90
+75,6,Rock Blast,37,rock,25,90
+75,7,Rock Blast,37,rock,25,90
+75,12,Rock Blast,37,rock,25,90
+75,13,Rock Blast,37,rock,25,90
+75,8,Explosion,38,normal,250,100
+75,9,Explosion,38,normal,250,100
+75,10,Explosion,38,normal,250,100
+75,16,Earthquake,40,ground,100,100
+75,3,Earthquake,41,ground,100,100
+75,4,Earthquake,41,ground,100,100
+75,11,Stealth Rock,42,rock,-,-
+75,14,Stealth Rock,42,rock,-,-
+75,15,Stealth Rock,42,rock,-,-
+75,1,Explosion,43,normal,250,100
+75,2,Explosion,43,normal,250,100
+75,8,Double-Edge,44,normal,120,100
+75,9,Double-Edge,44,normal,120,100
+75,10,Double-Edge,44,normal,120,100
+75,16,Explosion,44,normal,250,100
+75,5,Earthquake,45,ground,100,100
+75,6,Earthquake,45,ground,100,100
+75,7,Earthquake,45,ground,100,100
+75,12,Earthquake,45,ground,100,100
+75,13,Earthquake,45,ground,100,100
+75,11,Earthquake,47,ground,100,100
+75,14,Earthquake,47,ground,100,100
+75,15,Earthquake,47,ground,100,100
+75,3,Explosion,48,normal,250,100
+75,4,Explosion,48,normal,250,100
+75,8,Stone Edge,49,rock,100,80
+75,9,Stone Edge,49,rock,100,80
+75,10,Stone Edge,49,rock,100,80
+75,16,Double-Edge,50,normal,120,100
+75,5,Explosion,53,normal,250,100
+75,6,Explosion,53,normal,250,100
+75,7,Explosion,53,normal,250,100
+75,11,Explosion,53,normal,250,100
+75,12,Explosion,53,normal,250,100
+75,13,Explosion,53,normal,250,100
+75,14,Explosion,53,normal,250,100
+75,15,Explosion,53,normal,250,100
+75,16,Stone Edge,54,rock,100,80
+75,11,Double-Edge,58,normal,120,100
+75,14,Double-Edge,58,normal,120,100
+75,15,Double-Edge,58,normal,120,100
+75,5,Double-Edge,62,normal,120,100
+75,6,Double-Edge,62,normal,120,100
+75,7,Double-Edge,62,normal,120,100
+75,12,Double-Edge,62,normal,120,100
+75,13,Double-Edge,62,normal,120,100
+75,11,Stone Edge,64,rock,100,80
+75,14,Stone Edge,64,rock,100,80
+75,15,Stone Edge,64,rock,100,80

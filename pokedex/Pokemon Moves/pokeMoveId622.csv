@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+622,11,Pound,1,normal,40,100
+622,11,Defense Curl,1,normal,-,-
+622,11,Astonish,1,ghost,30,100
+622,14,Pound,1,normal,40,100
+622,14,Defense Curl,1,normal,-,-
+622,14,Astonish,1,ghost,30,100
+622,15,Pound,1,normal,40,100
+622,15,Defense Curl,1,normal,-,-
+622,15,Astonish,1,ghost,30,100
+622,16,Pound,1,normal,40,100
+622,16,Defense Curl,1,normal,-,-
+622,16,Astonish,1,ghost,30,100
+622,11,Mud-Slap,5,ground,20,100
+622,14,Mud-Slap,5,ground,20,100
+622,15,Mud-Slap,5,ground,20,100
+622,16,Mud-Slap,5,ground,20,100
+622,11,Rollout,9,rock,30,90
+622,14,Rollout,9,rock,30,90
+622,15,Rollout,9,rock,30,90
+622,16,Rollout,9,rock,30,90
+622,11,Shadow Punch,13,ghost,60,-
+622,14,Shadow Punch,13,ghost,60,-
+622,15,Shadow Punch,13,ghost,60,-
+622,16,Shadow Punch,13,ghost,60,-
+622,11,Iron Defense,17,steel,-,-
+622,14,Iron Defense,17,steel,-,-
+622,15,Iron Defense,17,steel,-,-
+622,16,Iron Defense,17,steel,-,-
+622,11,Mega Punch,21,normal,80,85
+622,14,Mega Punch,21,normal,80,85
+622,15,Mega Punch,21,normal,80,85
+622,16,Mega Punch,21,normal,80,85
+622,11,Magnitude,25,ground,-,100
+622,14,Magnitude,25,ground,-,100
+622,15,Magnitude,25,ground,-,100
+622,16,Magnitude,25,ground,-,100
+622,11,Dynamic Punch,30,fighting,100,50
+622,14,Dynamic Punch,30,fighting,100,50
+622,15,Dynamic Punch,30,fighting,100,50
+622,16,Dynamic Punch,30,fighting,100,50
+622,11,Night Shade,35,ghost,-,100
+622,14,Night Shade,35,ghost,-,100
+622,15,Night Shade,35,ghost,-,100
+622,16,Night Shade,35,ghost,-,100
+622,11,Curse,40,ghost,-,-
+622,14,Curse,40,ghost,-,-
+622,15,Curse,40,ghost,-,-
+622,16,Curse,40,ghost,-,-
+622,11,Earthquake,45,ground,100,100
+622,14,Earthquake,45,ground,100,100
+622,15,Earthquake,45,ground,100,100
+622,16,Earthquake,45,ground,100,100
+622,11,Hammer Arm,50,fighting,100,90
+622,14,Hammer Arm,50,fighting,100,90
+622,15,Hammer Arm,50,fighting,100,90
+622,16,Hammer Arm,50,fighting,100,90
+622,11,Focus Punch,55,fighting,150,100
+622,14,Focus Punch,55,fighting,150,100
+622,15,Focus Punch,55,fighting,150,100
+622,16,Focus Punch,55,fighting,150,100

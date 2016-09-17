@@ -1,0 +1,193 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+187,3,Splash,1,normal,-,-
+187,3,Synthesis,1,grass,-,-
+187,4,Splash,1,normal,-,-
+187,5,Splash,1,normal,-,-
+187,6,Splash,1,normal,-,-
+187,7,Splash,1,normal,-,-
+187,8,Splash,1,normal,-,-
+187,9,Splash,1,normal,-,-
+187,10,Splash,1,normal,-,-
+187,11,Splash,1,normal,-,-
+187,12,Splash,1,normal,-,-
+187,13,Splash,1,normal,-,-
+187,14,Splash,1,normal,-,-
+187,15,Splash,1,normal,-,-
+187,16,Splash,1,normal,-,-
+187,8,Synthesis,4,grass,-,-
+187,9,Synthesis,4,grass,-,-
+187,10,Synthesis,4,grass,-,-
+187,11,Synthesis,4,grass,-,-
+187,14,Synthesis,4,grass,-,-
+187,15,Synthesis,4,grass,-,-
+187,16,Synthesis,4,grass,-,-
+187,3,Tail Whip,5,normal,-,100
+187,4,Tail Whip,5,normal,-,100
+187,4,Synthesis,5,grass,-,-
+187,5,Tail Whip,5,normal,-,100
+187,5,Synthesis,5,grass,-,-
+187,6,Tail Whip,5,normal,-,100
+187,6,Synthesis,5,grass,-,-
+187,7,Tail Whip,5,normal,-,100
+187,7,Synthesis,5,grass,-,-
+187,12,Tail Whip,5,normal,-,100
+187,12,Synthesis,5,grass,-,-
+187,13,Tail Whip,5,normal,-,100
+187,13,Synthesis,5,grass,-,-
+187,15,Tail Whip,6,normal,-,100
+187,16,Tail Whip,6,normal,-,100
+187,8,Tail Whip,7,normal,-,100
+187,9,Tail Whip,7,normal,-,100
+187,10,Tail Whip,7,normal,-,100
+187,11,Tail Whip,7,normal,-,100
+187,14,Tail Whip,7,normal,-,100
+187,15,Tackle,8,normal,50,100
+187,16,Tackle,8,normal,50,100
+187,3,Tackle,10,normal,50,100
+187,4,Tackle,10,normal,50,100
+187,5,Tackle,10,normal,50,100
+187,6,Tackle,10,normal,50,100
+187,7,Tackle,10,normal,50,100
+187,8,Tackle,10,normal,50,100
+187,9,Tackle,10,normal,50,100
+187,10,Tackle,10,normal,50,100
+187,11,Tackle,10,normal,50,100
+187,12,Tackle,10,normal,50,100
+187,13,Tackle,10,normal,50,100
+187,14,Tackle,10,normal,50,100
+187,15,Fairy Wind,10,fairy,40,100
+187,16,Fairy Wind,10,fairy,40,100
+187,8,Poison Powder,12,poison,-,75
+187,9,Poison Powder,12,poison,-,75
+187,10,Poison Powder,12,poison,-,75
+187,11,Poison Powder,12,poison,-,75
+187,14,Poison Powder,12,poison,-,75
+187,15,Poison Powder,12,poison,-,75
+187,16,Poison Powder,12,poison,-,75
+187,3,Poison Powder,13,poison,-,75
+187,4,Poison Powder,13,poison,-,75
+187,5,Poison Powder,13,poison,-,75
+187,6,Poison Powder,13,poison,-,75
+187,7,Poison Powder,13,poison,-,75
+187,12,Poison Powder,13,poison,-,75
+187,13,Poison Powder,13,poison,-,75
+187,8,Stun Spore,14,grass,-,75
+187,9,Stun Spore,14,grass,-,75
+187,10,Stun Spore,14,grass,-,75
+187,11,Stun Spore,14,grass,-,75
+187,14,Stun Spore,14,grass,-,75
+187,15,Stun Spore,14,grass,-,75
+187,16,Stun Spore,14,grass,-,75
+187,3,Stun Spore,15,grass,-,75
+187,4,Stun Spore,15,grass,-,75
+187,5,Stun Spore,15,grass,-,75
+187,6,Stun Spore,15,grass,-,75
+187,7,Stun Spore,15,grass,-,75
+187,12,Stun Spore,15,grass,-,75
+187,13,Stun Spore,15,grass,-,75
+187,8,Sleep Powder,16,grass,-,75
+187,9,Sleep Powder,16,grass,-,75
+187,10,Sleep Powder,16,grass,-,75
+187,11,Sleep Powder,16,grass,-,75
+187,14,Sleep Powder,16,grass,-,75
+187,15,Sleep Powder,16,grass,-,75
+187,16,Sleep Powder,16,grass,-,75
+187,3,Sleep Powder,17,grass,-,75
+187,4,Sleep Powder,17,grass,-,75
+187,5,Sleep Powder,17,grass,-,75
+187,6,Sleep Powder,17,grass,-,75
+187,7,Sleep Powder,17,grass,-,75
+187,12,Sleep Powder,17,grass,-,75
+187,13,Sleep Powder,17,grass,-,75
+187,8,Bullet Seed,19,grass,25,100
+187,9,Bullet Seed,19,grass,25,100
+187,10,Bullet Seed,19,grass,25,100
+187,11,Bullet Seed,19,grass,25,100
+187,14,Bullet Seed,19,grass,25,100
+187,15,Bullet Seed,19,grass,25,100
+187,16,Bullet Seed,19,grass,25,100
+187,3,Leech Seed,20,grass,-,90
+187,4,Leech Seed,20,grass,-,90
+187,5,Leech Seed,20,grass,-,90
+187,6,Leech Seed,20,grass,-,90
+187,7,Leech Seed,20,grass,-,90
+187,12,Leech Seed,20,grass,-,90
+187,13,Leech Seed,20,grass,-,90
+187,8,Leech Seed,22,grass,-,90
+187,9,Leech Seed,22,grass,-,90
+187,10,Leech Seed,22,grass,-,90
+187,11,Leech Seed,22,grass,-,90
+187,14,Leech Seed,22,grass,-,90
+187,15,Leech Seed,22,grass,-,90
+187,16,Leech Seed,22,grass,-,90
+187,3,Cotton Spore,25,grass,-,100
+187,4,Cotton Spore,25,grass,-,100
+187,5,Cotton Spore,25,grass,-,100
+187,6,Cotton Spore,25,grass,-,100
+187,7,Cotton Spore,25,grass,-,100
+187,8,Mega Drain,25,grass,40,100
+187,9,Mega Drain,25,grass,40,100
+187,10,Mega Drain,25,grass,40,100
+187,11,Mega Drain,25,grass,40,100
+187,12,Cotton Spore,25,grass,-,100
+187,13,Cotton Spore,25,grass,-,100
+187,14,Mega Drain,25,grass,40,100
+187,15,Mega Drain,25,grass,40,100
+187,16,Mega Drain,25,grass,40,100
+187,8,Cotton Spore,28,grass,-,100
+187,9,Cotton Spore,28,grass,-,100
+187,10,Cotton Spore,28,grass,-,100
+187,11,Acrobatics,28,flying,55,100
+187,14,Acrobatics,28,flying,55,100
+187,15,Acrobatics,28,flying,55,100
+187,16,Acrobatics,28,flying,55,100
+187,3,Mega Drain,30,grass,40,100
+187,4,Mega Drain,30,grass,40,100
+187,5,Mega Drain,30,grass,40,100
+187,6,Mega Drain,30,grass,40,100
+187,7,Mega Drain,30,grass,40,100
+187,12,Mega Drain,30,grass,40,100
+187,13,Mega Drain,30,grass,40,100
+187,8,U-turn,31,bug,70,100
+187,9,U-turn,31,bug,70,100
+187,10,U-turn,31,bug,70,100
+187,11,Rage Powder,31,bug,-,-
+187,14,Rage Powder,31,bug,-,-
+187,15,Rage Powder,31,bug,-,-
+187,16,Rage Powder,31,bug,-,-
+187,8,Worry Seed,34,grass,-,100
+187,9,Worry Seed,34,grass,-,100
+187,10,Worry Seed,34,grass,-,100
+187,11,Cotton Spore,34,grass,-,100
+187,14,Cotton Spore,34,grass,-,100
+187,15,Cotton Spore,34,grass,-,100
+187,16,Cotton Spore,34,grass,-,100
+187,8,Giga Drain,37,grass,75,100
+187,9,Giga Drain,37,grass,75,100
+187,10,Giga Drain,37,grass,75,100
+187,11,U-turn,37,bug,70,100
+187,14,U-turn,37,bug,70,100
+187,15,U-turn,37,bug,70,100
+187,16,U-turn,37,bug,70,100
+187,8,Bounce,40,flying,85,85
+187,9,Bounce,40,flying,85,85
+187,10,Bounce,40,flying,85,85
+187,11,Worry Seed,40,grass,-,100
+187,14,Worry Seed,40,grass,-,100
+187,15,Worry Seed,40,grass,-,100
+187,16,Worry Seed,40,grass,-,100
+187,8,Memento,43,dark,-,100
+187,9,Memento,43,dark,-,100
+187,10,Memento,43,dark,-,100
+187,11,Giga Drain,43,grass,75,100
+187,14,Giga Drain,43,grass,75,100
+187,15,Giga Drain,43,grass,75,100
+187,16,Giga Drain,43,grass,75,100
+187,11,Bounce,46,flying,85,85
+187,14,Bounce,46,flying,85,85
+187,15,Bounce,46,flying,85,85
+187,16,Bounce,46,flying,85,85
+187,11,Memento,49,dark,-,100
+187,14,Memento,49,dark,-,100
+187,15,Memento,49,dark,-,100
+187,16,Memento,49,dark,-,100

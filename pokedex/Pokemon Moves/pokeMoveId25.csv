@@ -1,0 +1,197 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+25,1,Growl,1,normal,-,100
+25,1,Thunder Shock,1,electric,40,100
+25,2,Growl,1,normal,-,100
+25,2,Thunder Shock,1,electric,40,100
+25,3,Growl,1,normal,-,100
+25,3,Thunder Shock,1,electric,40,100
+25,4,Growl,1,normal,-,100
+25,4,Thunder Shock,1,electric,40,100
+25,5,Growl,1,normal,-,100
+25,5,Thunder Shock,1,electric,40,100
+25,6,Growl,1,normal,-,100
+25,6,Thunder Shock,1,electric,40,100
+25,7,Growl,1,normal,-,100
+25,7,Thunder Shock,1,electric,40,100
+25,8,Growl,1,normal,-,100
+25,8,Thunder Shock,1,electric,40,100
+25,9,Growl,1,normal,-,100
+25,9,Thunder Shock,1,electric,40,100
+25,10,Growl,1,normal,-,100
+25,10,Thunder Shock,1,electric,40,100
+25,11,Growl,1,normal,-,100
+25,11,Thunder Shock,1,electric,40,100
+25,12,Growl,1,normal,-,100
+25,12,Thunder Shock,1,electric,40,100
+25,13,Growl,1,normal,-,100
+25,13,Thunder Shock,1,electric,40,100
+25,14,Growl,1,normal,-,100
+25,14,Thunder Shock,1,electric,40,100
+25,15,Tail Whip,1,normal,-,100
+25,15,Thunder Shock,1,electric,40,100
+25,16,Tail Whip,1,normal,-,100
+25,16,Thunder Shock,1,electric,40,100
+25,8,Tail Whip,5,normal,-,100
+25,9,Tail Whip,5,normal,-,100
+25,10,Tail Whip,5,normal,-,100
+25,11,Tail Whip,5,normal,-,100
+25,14,Tail Whip,5,normal,-,100
+25,15,Growl,5,normal,-,100
+25,16,Growl,5,normal,-,100
+25,2,Tail Whip,6,normal,-,100
+25,3,Tail Whip,6,normal,-,100
+25,4,Tail Whip,6,normal,-,100
+25,5,Tail Whip,6,normal,-,100
+25,6,Tail Whip,6,normal,-,100
+25,7,Tail Whip,6,normal,-,100
+25,12,Tail Whip,6,normal,-,100
+25,13,Tail Whip,6,normal,-,100
+25,15,Play Nice,7,normal,-,-
+25,16,Play Nice,7,normal,-,-
+25,2,Thunder Wave,8,electric,-,100
+25,3,Thunder Wave,8,electric,-,100
+25,4,Thunder Wave,8,electric,-,100
+25,5,Thunder Wave,8,electric,-,100
+25,6,Thunder Wave,8,electric,-,100
+25,7,Thunder Wave,8,electric,-,100
+25,12,Thunder Wave,8,electric,-,100
+25,13,Thunder Wave,8,electric,-,100
+25,1,Thunder Wave,9,electric,-,100
+25,8,Thunder Wave,10,electric,-,100
+25,9,Thunder Wave,10,electric,-,100
+25,10,Thunder Wave,10,electric,-,100
+25,11,Thunder Wave,10,electric,-,100
+25,14,Thunder Wave,10,electric,-,100
+25,15,Quick Attack,10,normal,40,100
+25,16,Quick Attack,10,normal,40,100
+25,2,Quick Attack,11,normal,40,100
+25,3,Quick Attack,11,normal,40,100
+25,4,Quick Attack,11,normal,40,100
+25,5,Quick Attack,11,normal,40,100
+25,6,Quick Attack,11,normal,40,100
+25,7,Quick Attack,11,normal,40,100
+25,12,Quick Attack,11,normal,40,100
+25,13,Quick Attack,11,normal,40,100
+25,8,Quick Attack,13,normal,40,100
+25,9,Quick Attack,13,normal,40,100
+25,10,Quick Attack,13,normal,40,100
+25,11,Quick Attack,13,normal,40,100
+25,14,Quick Attack,13,normal,40,100
+25,15,Thunder Wave,13,electric,-,100
+25,16,Electro Ball,13,electric,-,100
+25,2,Double Team,15,normal,-,-
+25,3,Double Team,15,normal,-,-
+25,4,Double Team,15,normal,-,-
+25,5,Double Team,15,normal,-,-
+25,6,Double Team,15,normal,-,-
+25,7,Double Team,15,normal,-,-
+25,12,Double Team,15,normal,-,-
+25,13,Double Team,15,normal,-,-
+25,1,Quick Attack,16,normal,40,100
+25,8,Double Team,18,normal,-,-
+25,9,Double Team,18,normal,-,-
+25,10,Double Team,18,normal,-,-
+25,11,Electro Ball,18,electric,-,100
+25,14,Electro Ball,18,electric,-,100
+25,15,Electro Ball,18,electric,-,100
+25,16,Thunder Wave,18,electric,-,100
+25,2,Slam,20,normal,80,75
+25,3,Slam,20,normal,80,75
+25,4,Slam,20,normal,80,75
+25,5,Slam,20,normal,80,75
+25,6,Slam,20,normal,80,75
+25,7,Slam,20,normal,80,75
+25,12,Slam,20,normal,80,75
+25,13,Slam,20,normal,80,75
+25,8,Slam,21,normal,80,75
+25,9,Slam,21,normal,80,75
+25,10,Slam,21,normal,80,75
+25,11,Double Team,21,normal,-,-
+25,14,Double Team,21,normal,-,-
+25,15,Double Team,21,normal,-,-
+25,16,Feint,21,normal,30,100
+25,15,Nuzzle,23,electric,20,100
+25,16,Double Team,23,normal,-,-
+25,1,Swift,26,normal,60,-
+25,2,Thunderbolt,26,electric,90,100
+25,3,Thunderbolt,26,electric,90,100
+25,4,Thunderbolt,26,electric,90,100
+25,5,Thunderbolt,26,electric,90,100
+25,6,Thunderbolt,26,electric,90,100
+25,7,Thunderbolt,26,electric,90,100
+25,8,Thunderbolt,26,electric,90,100
+25,9,Thunderbolt,26,electric,90,100
+25,10,Thunderbolt,26,electric,90,100
+25,11,Slam,26,normal,80,75
+25,12,Thunderbolt,26,electric,90,100
+25,13,Thunderbolt,26,electric,90,100
+25,14,Slam,26,normal,80,75
+25,15,Slam,26,normal,80,75
+25,16,Spark,26,electric,65,100
+25,8,Feint,29,normal,30,100
+25,9,Feint,29,normal,30,100
+25,10,Feint,29,normal,30,100
+25,11,Thunderbolt,29,electric,90,100
+25,14,Thunderbolt,29,electric,90,100
+25,15,Thunderbolt,29,electric,90,100
+25,16,Nuzzle,29,electric,20,100
+25,1,Agility,33,psychic,-,-
+25,2,Agility,33,psychic,-,-
+25,3,Agility,33,psychic,-,-
+25,4,Agility,33,psychic,-,-
+25,5,Agility,33,psychic,-,-
+25,6,Agility,33,psychic,-,-
+25,7,Agility,33,psychic,-,-
+25,12,Agility,33,psychic,-,-
+25,13,Agility,33,psychic,-,-
+25,8,Agility,34,psychic,-,-
+25,9,Agility,34,psychic,-,-
+25,10,Agility,34,psychic,-,-
+25,11,Feint,34,normal,30,100
+25,14,Feint,34,normal,30,100
+25,15,Feint,34,normal,30,100
+25,16,Discharge,34,electric,80,100
+25,8,Discharge,37,electric,80,100
+25,9,Discharge,37,electric,80,100
+25,10,Discharge,37,electric,80,100
+25,11,Agility,37,psychic,-,-
+25,14,Agility,37,psychic,-,-
+25,15,Agility,37,psychic,-,-
+25,16,Slam,37,normal,80,75
+25,2,Thunder,41,electric,110,70
+25,3,Thunder,41,electric,110,70
+25,4,Thunder,41,electric,110,70
+25,5,Thunder,41,electric,110,70
+25,6,Thunder,41,electric,110,70
+25,7,Thunder,41,electric,110,70
+25,12,Thunder,41,electric,110,70
+25,13,Thunder,41,electric,110,70
+25,8,Light Screen,42,psychic,-,-
+25,9,Light Screen,42,psychic,-,-
+25,10,Light Screen,42,psychic,-,-
+25,11,Discharge,42,electric,80,100
+25,14,Discharge,42,electric,80,100
+25,15,Discharge,42,electric,80,100
+25,16,Thunderbolt,42,electric,90,100
+25,1,Thunder,43,electric,110,70
+25,8,Thunder,45,electric,110,70
+25,9,Thunder,45,electric,110,70
+25,10,Thunder,45,electric,110,70
+25,11,Light Screen,45,psychic,-,-
+25,14,Light Screen,45,psychic,-,-
+25,15,Light Screen,45,psychic,-,-
+25,16,Agility,45,psychic,-,-
+25,2,Light Screen,50,psychic,-,-
+25,3,Light Screen,50,psychic,-,-
+25,4,Light Screen,50,psychic,-,-
+25,5,Light Screen,50,psychic,-,-
+25,6,Light Screen,50,psychic,-,-
+25,7,Light Screen,50,psychic,-,-
+25,11,Thunder,50,electric,110,70
+25,12,Light Screen,50,psychic,-,-
+25,13,Light Screen,50,psychic,-,-
+25,14,Thunder,50,electric,110,70
+25,15,Thunder,50,electric,110,70
+25,16,Wild Charge,50,electric,90,100
+25,16,Light Screen,53,psychic,-,-
+25,16,Thunder,58,electric,110,70

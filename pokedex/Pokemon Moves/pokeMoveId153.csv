@@ -1,0 +1,197 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+153,3,Tackle,1,normal,50,100
+153,3,Growl,1,normal,-,100
+153,3,Razor Leaf,1,grass,55,95
+153,3,Reflect,1,psychic,-,-
+153,4,Tackle,1,normal,50,100
+153,4,Growl,1,normal,-,100
+153,4,Razor Leaf,1,grass,55,95
+153,4,Reflect,1,psychic,-,-
+153,5,Tackle,1,normal,50,100
+153,5,Growl,1,normal,-,100
+153,5,Razor Leaf,1,grass,55,95
+153,5,Reflect,1,psychic,-,-
+153,6,Tackle,1,normal,50,100
+153,6,Growl,1,normal,-,100
+153,6,Razor Leaf,1,grass,55,95
+153,6,Reflect,1,psychic,-,-
+153,7,Tackle,1,normal,50,100
+153,7,Growl,1,normal,-,100
+153,7,Razor Leaf,1,grass,55,95
+153,7,Reflect,1,psychic,-,-
+153,8,Tackle,1,normal,50,100
+153,8,Growl,1,normal,-,100
+153,8,Razor Leaf,1,grass,55,95
+153,8,Poison Powder,1,poison,-,75
+153,9,Tackle,1,normal,50,100
+153,9,Growl,1,normal,-,100
+153,9,Razor Leaf,1,grass,55,95
+153,9,Poison Powder,1,poison,-,75
+153,10,Tackle,1,normal,50,100
+153,10,Growl,1,normal,-,100
+153,10,Razor Leaf,1,grass,55,95
+153,10,Poison Powder,1,poison,-,75
+153,11,Tackle,1,normal,50,100
+153,11,Growl,1,normal,-,100
+153,11,Razor Leaf,1,grass,55,95
+153,11,Poison Powder,1,poison,-,75
+153,12,Tackle,1,normal,50,100
+153,12,Growl,1,normal,-,100
+153,12,Razor Leaf,1,grass,55,95
+153,12,Reflect,1,psychic,-,-
+153,13,Tackle,1,normal,50,100
+153,13,Growl,1,normal,-,100
+153,13,Razor Leaf,1,grass,55,95
+153,13,Reflect,1,psychic,-,-
+153,14,Tackle,1,normal,50,100
+153,14,Growl,1,normal,-,100
+153,14,Razor Leaf,1,grass,55,95
+153,14,Poison Powder,1,poison,-,75
+153,15,Tackle,1,normal,50,100
+153,15,Growl,1,normal,-,100
+153,15,Razor Leaf,1,grass,55,95
+153,15,Poison Powder,1,poison,-,75
+153,16,Tackle,1,normal,50,100
+153,16,Growl,1,normal,-,100
+153,16,Razor Leaf,1,grass,55,95
+153,16,Poison Powder,1,poison,-,75
+153,8,Razor Leaf,6,grass,55,95
+153,9,Razor Leaf,6,grass,55,95
+153,10,Razor Leaf,6,grass,55,95
+153,11,Razor Leaf,6,grass,55,95
+153,14,Razor Leaf,6,grass,55,95
+153,15,Razor Leaf,6,grass,55,95
+153,16,Razor Leaf,6,grass,55,95
+153,3,Razor Leaf,8,grass,55,95
+153,4,Razor Leaf,8,grass,55,95
+153,5,Razor Leaf,8,grass,55,95
+153,6,Razor Leaf,8,grass,55,95
+153,7,Razor Leaf,8,grass,55,95
+153,12,Razor Leaf,8,grass,55,95
+153,13,Razor Leaf,8,grass,55,95
+153,8,Poison Powder,9,poison,-,75
+153,9,Poison Powder,9,poison,-,75
+153,10,Poison Powder,9,poison,-,75
+153,11,Poison Powder,9,poison,-,75
+153,14,Poison Powder,9,poison,-,75
+153,15,Poison Powder,9,poison,-,75
+153,16,Poison Powder,9,poison,-,75
+153,3,Reflect,12,psychic,-,-
+153,4,Reflect,12,psychic,-,-
+153,5,Reflect,12,psychic,-,-
+153,6,Reflect,12,psychic,-,-
+153,7,Reflect,12,psychic,-,-
+153,8,Synthesis,12,grass,-,-
+153,9,Synthesis,12,grass,-,-
+153,10,Synthesis,12,grass,-,-
+153,11,Synthesis,12,grass,-,-
+153,12,Reflect,12,psychic,-,-
+153,13,Reflect,12,psychic,-,-
+153,14,Synthesis,12,grass,-,-
+153,15,Synthesis,12,grass,-,-
+153,16,Synthesis,12,grass,-,-
+153,3,Poison Powder,15,poison,-,75
+153,4,Poison Powder,15,poison,-,75
+153,5,Poison Powder,15,poison,-,75
+153,6,Poison Powder,15,poison,-,75
+153,7,Poison Powder,15,poison,-,75
+153,12,Poison Powder,15,poison,-,75
+153,13,Poison Powder,15,poison,-,75
+153,8,Reflect,18,psychic,-,-
+153,9,Reflect,18,psychic,-,-
+153,10,Reflect,18,psychic,-,-
+153,11,Reflect,18,psychic,-,-
+153,14,Reflect,18,psychic,-,-
+153,15,Reflect,18,psychic,-,-
+153,16,Reflect,18,psychic,-,-
+153,8,Magical Leaf,22,grass,60,-
+153,9,Magical Leaf,22,grass,60,-
+153,10,Magical Leaf,22,grass,60,-
+153,11,Magical Leaf,22,grass,60,-
+153,14,Magical Leaf,22,grass,60,-
+153,15,Magical Leaf,22,grass,60,-
+153,16,Magical Leaf,22,grass,60,-
+153,3,Synthesis,23,grass,-,-
+153,4,Synthesis,23,grass,-,-
+153,5,Synthesis,23,grass,-,-
+153,6,Synthesis,23,grass,-,-
+153,7,Synthesis,23,grass,-,-
+153,12,Synthesis,23,grass,-,-
+153,13,Synthesis,23,grass,-,-
+153,8,Natural Gift,26,normal,-,100
+153,9,Natural Gift,26,normal,-,100
+153,10,Natural Gift,26,normal,-,100
+153,11,Natural Gift,26,normal,-,100
+153,14,Natural Gift,26,normal,-,100
+153,15,Natural Gift,26,normal,-,100
+153,16,Natural Gift,26,normal,-,100
+153,3,Body Slam,31,normal,85,100
+153,4,Body Slam,31,normal,85,100
+153,5,Body Slam,31,normal,85,100
+153,6,Body Slam,31,normal,85,100
+153,7,Body Slam,31,normal,85,100
+153,12,Body Slam,31,normal,85,100
+153,13,Body Slam,31,normal,85,100
+153,8,Sweet Scent,32,normal,-,100
+153,9,Sweet Scent,32,normal,-,100
+153,10,Sweet Scent,32,normal,-,100
+153,11,Sweet Scent,32,normal,-,100
+153,14,Sweet Scent,32,normal,-,100
+153,15,Sweet Scent,32,normal,-,100
+153,16,Sweet Scent,32,normal,-,100
+153,8,Light Screen,36,psychic,-,-
+153,9,Light Screen,36,psychic,-,-
+153,10,Light Screen,36,psychic,-,-
+153,11,Light Screen,36,psychic,-,-
+153,14,Light Screen,36,psychic,-,-
+153,15,Light Screen,36,psychic,-,-
+153,16,Light Screen,36,psychic,-,-
+153,3,Light Screen,39,psychic,-,-
+153,4,Light Screen,39,psychic,-,-
+153,5,Light Screen,39,psychic,-,-
+153,6,Light Screen,39,psychic,-,-
+153,7,Light Screen,39,psychic,-,-
+153,12,Light Screen,39,psychic,-,-
+153,13,Light Screen,39,psychic,-,-
+153,8,Body Slam,40,normal,85,100
+153,9,Body Slam,40,normal,85,100
+153,10,Body Slam,40,normal,85,100
+153,11,Body Slam,40,normal,85,100
+153,14,Body Slam,40,normal,85,100
+153,15,Body Slam,40,normal,85,100
+153,16,Body Slam,40,normal,85,100
+153,8,Safeguard,46,normal,-,-
+153,9,Safeguard,46,normal,-,-
+153,10,Safeguard,46,normal,-,-
+153,11,Safeguard,46,normal,-,-
+153,14,Safeguard,46,normal,-,-
+153,15,Safeguard,46,normal,-,-
+153,16,Safeguard,46,normal,-,-
+153,3,Safeguard,47,normal,-,-
+153,4,Safeguard,47,normal,-,-
+153,5,Safeguard,47,normal,-,-
+153,6,Safeguard,47,normal,-,-
+153,7,Safeguard,47,normal,-,-
+153,12,Safeguard,47,normal,-,-
+153,13,Safeguard,47,normal,-,-
+153,8,Aromatherapy,50,grass,-,-
+153,9,Aromatherapy,50,grass,-,-
+153,10,Aromatherapy,50,grass,-,-
+153,11,Aromatherapy,50,grass,-,-
+153,14,Aromatherapy,50,grass,-,-
+153,15,Aromatherapy,50,grass,-,-
+153,16,Aromatherapy,50,grass,-,-
+153,8,Solar Beam,54,grass,120,100
+153,9,Solar Beam,54,grass,120,100
+153,10,Solar Beam,54,grass,120,100
+153,11,Solar Beam,54,grass,120,100
+153,14,Solar Beam,54,grass,120,100
+153,15,Solar Beam,54,grass,120,100
+153,16,Solar Beam,54,grass,120,100
+153,3,Solar Beam,55,grass,120,100
+153,4,Solar Beam,55,grass,120,100
+153,5,Solar Beam,55,grass,120,100
+153,6,Solar Beam,55,grass,120,100
+153,7,Solar Beam,55,grass,120,100
+153,12,Solar Beam,55,grass,120,100
+153,13,Solar Beam,55,grass,120,100

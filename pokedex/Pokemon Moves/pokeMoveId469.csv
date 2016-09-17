@@ -1,0 +1,144 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+469,8,Tackle,1,normal,50,100
+469,8,Quick Attack,1,normal,40,100
+469,8,Double Team,1,normal,-,-
+469,8,Foresight,1,normal,-,-
+469,8,Night Slash,1,dark,70,100
+469,8,Bug Bite,1,bug,60,100
+469,9,Tackle,1,normal,50,100
+469,9,Quick Attack,1,normal,40,100
+469,9,Double Team,1,normal,-,-
+469,9,Foresight,1,normal,-,-
+469,9,Night Slash,1,dark,70,100
+469,9,Bug Bite,1,bug,60,100
+469,10,Tackle,1,normal,50,100
+469,10,Quick Attack,1,normal,40,100
+469,10,Double Team,1,normal,-,-
+469,10,Foresight,1,normal,-,-
+469,10,Night Slash,1,dark,70,100
+469,10,Bug Bite,1,bug,60,100
+469,11,Tackle,1,normal,50,100
+469,11,Quick Attack,1,normal,40,100
+469,11,Double Team,1,normal,-,-
+469,11,Foresight,1,normal,-,-
+469,11,Night Slash,1,dark,70,100
+469,11,Bug Bite,1,bug,60,100
+469,14,Tackle,1,normal,50,100
+469,14,Quick Attack,1,normal,40,100
+469,14,Double Team,1,normal,-,-
+469,14,Foresight,1,normal,-,-
+469,14,Night Slash,1,dark,70,100
+469,14,Bug Bite,1,bug,60,100
+469,15,Tackle,1,normal,50,100
+469,15,Quick Attack,1,normal,40,100
+469,15,Double Team,1,normal,-,-
+469,15,Foresight,1,normal,-,-
+469,15,Night Slash,1,dark,70,100
+469,15,Air Slash,1,flying,75,95
+469,15,Bug Buzz,1,bug,90,100
+469,15,Bug Bite,1,bug,60,100
+469,16,Tackle,1,normal,50,100
+469,16,Quick Attack,1,normal,40,100
+469,16,Double Team,1,normal,-,-
+469,16,Foresight,1,normal,-,-
+469,16,Night Slash,1,dark,70,100
+469,16,Air Slash,1,flying,75,95
+469,16,Bug Buzz,1,bug,90,100
+469,16,Bug Bite,1,bug,60,100
+469,8,Quick Attack,6,normal,40,100
+469,9,Quick Attack,6,normal,40,100
+469,10,Quick Attack,6,normal,40,100
+469,11,Quick Attack,6,normal,40,100
+469,14,Quick Attack,6,normal,40,100
+469,15,Quick Attack,6,normal,40,100
+469,16,Quick Attack,6,normal,40,100
+469,8,Double Team,11,normal,-,-
+469,9,Double Team,11,normal,-,-
+469,10,Double Team,11,normal,-,-
+469,11,Double Team,11,normal,-,-
+469,14,Double Team,11,normal,-,-
+469,15,Double Team,11,normal,-,-
+469,16,Double Team,11,normal,-,-
+469,8,Sonic Boom,14,normal,-,90
+469,9,Sonic Boom,14,normal,-,90
+469,10,Sonic Boom,14,normal,-,90
+469,11,Sonic Boom,14,normal,-,90
+469,14,Sonic Boom,14,normal,-,90
+469,15,Sonic Boom,14,normal,-,90
+469,16,Sonic Boom,14,normal,-,90
+469,8,Detect,17,fighting,-,-
+469,9,Detect,17,fighting,-,-
+469,10,Detect,17,fighting,-,-
+469,11,Detect,17,fighting,-,-
+469,14,Detect,17,fighting,-,-
+469,15,Detect,17,fighting,-,-
+469,16,Detect,17,fighting,-,-
+469,8,Supersonic,22,normal,-,55
+469,9,Supersonic,22,normal,-,55
+469,10,Supersonic,22,normal,-,55
+469,11,Supersonic,22,normal,-,55
+469,14,Supersonic,22,normal,-,55
+469,15,Supersonic,22,normal,-,55
+469,16,Supersonic,22,normal,-,55
+469,8,Uproar,27,normal,90,100
+469,9,Uproar,27,normal,90,100
+469,10,Uproar,27,normal,90,100
+469,11,Uproar,27,normal,90,100
+469,14,Uproar,27,normal,90,100
+469,15,Uproar,27,normal,90,100
+469,16,Uproar,27,normal,90,100
+469,8,Pursuit,30,dark,40,100
+469,9,Pursuit,30,dark,40,100
+469,10,Pursuit,30,dark,40,100
+469,11,Pursuit,30,dark,40,100
+469,14,Pursuit,30,dark,40,100
+469,15,Pursuit,30,dark,40,100
+469,16,Pursuit,30,dark,40,100
+469,8,Ancient Power,33,rock,60,100
+469,9,Ancient Power,33,rock,60,100
+469,10,Ancient Power,33,rock,60,100
+469,11,Ancient Power,33,rock,60,100
+469,14,Ancient Power,33,rock,60,100
+469,15,Ancient Power,33,rock,60,100
+469,16,Ancient Power,33,rock,60,100
+469,8,Slash,38,normal,70,100
+469,9,Feint,38,normal,30,100
+469,10,Feint,38,normal,30,100
+469,11,Feint,38,normal,30,100
+469,14,Feint,38,normal,30,100
+469,15,Feint,38,normal,30,100
+469,16,Feint,38,normal,30,100
+469,8,Screech,43,normal,-,85
+469,9,Slash,43,normal,70,100
+469,10,Slash,43,normal,70,100
+469,11,Slash,43,normal,70,100
+469,14,Slash,43,normal,70,100
+469,15,Slash,43,normal,70,100
+469,16,Slash,43,normal,70,100
+469,8,U-turn,46,bug,70,100
+469,9,Screech,46,normal,-,85
+469,10,Screech,46,normal,-,85
+469,11,Screech,46,normal,-,85
+469,14,Screech,46,normal,-,85
+469,15,Screech,46,normal,-,85
+469,16,Screech,46,normal,-,85
+469,8,Air Slash,49,flying,75,95
+469,9,U-turn,49,bug,70,100
+469,10,U-turn,49,bug,70,100
+469,11,U-turn,49,bug,70,100
+469,14,U-turn,49,bug,70,100
+469,15,U-turn,49,bug,70,100
+469,16,U-turn,49,bug,70,100
+469,8,Bug Buzz,54,bug,90,100
+469,9,Air Slash,54,flying,75,95
+469,10,Air Slash,54,flying,75,95
+469,11,Air Slash,54,flying,75,95
+469,14,Air Slash,54,flying,75,95
+469,15,Air Slash,54,flying,75,95
+469,16,Air Slash,54,flying,75,95
+469,9,Bug Buzz,57,bug,90,100
+469,10,Bug Buzz,57,bug,90,100
+469,11,Bug Buzz,57,bug,90,100
+469,14,Bug Buzz,57,bug,90,100
+469,15,Bug Buzz,57,bug,90,100
+469,16,Bug Buzz,57,bug,90,100

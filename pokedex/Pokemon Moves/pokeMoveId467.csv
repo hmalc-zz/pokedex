@@ -1,0 +1,120 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+467,8,Thunder Punch,1,electric,75,100
+467,8,Leer,1,normal,-,100
+467,8,Ember,1,fire,40,100
+467,8,Smokescreen,1,normal,-,100
+467,8,Smog,1,poison,30,70
+467,9,Thunder Punch,1,electric,75,100
+467,9,Leer,1,normal,-,100
+467,9,Ember,1,fire,40,100
+467,9,Smokescreen,1,normal,-,100
+467,9,Smog,1,poison,30,70
+467,10,Thunder Punch,1,electric,75,100
+467,10,Leer,1,normal,-,100
+467,10,Ember,1,fire,40,100
+467,10,Smokescreen,1,normal,-,100
+467,10,Smog,1,poison,30,70
+467,11,Thunder Punch,1,electric,75,100
+467,11,Leer,1,normal,-,100
+467,11,Ember,1,fire,40,100
+467,11,Smokescreen,1,normal,-,100
+467,11,Smog,1,poison,30,70
+467,14,Thunder Punch,1,electric,75,100
+467,14,Leer,1,normal,-,100
+467,14,Ember,1,fire,40,100
+467,14,Smokescreen,1,normal,-,100
+467,14,Smog,1,poison,30,70
+467,15,Thunder Punch,1,electric,75,100
+467,15,Leer,1,normal,-,100
+467,15,Ember,1,fire,40,100
+467,15,Smokescreen,1,normal,-,100
+467,15,Smog,1,poison,30,70
+467,16,Thunder Punch,1,electric,75,100
+467,16,Leer,1,normal,-,100
+467,16,Ember,1,fire,40,100
+467,16,Smokescreen,1,normal,-,100
+467,16,Smog,1,poison,30,70
+467,14,Ember,5,fire,40,100
+467,15,Ember,5,fire,40,100
+467,16,Ember,5,fire,40,100
+467,11,Ember,6,fire,40,100
+467,8,Ember,7,fire,40,100
+467,9,Ember,7,fire,40,100
+467,10,Ember,7,fire,40,100
+467,14,Smokescreen,8,normal,-,100
+467,15,Smokescreen,8,normal,-,100
+467,16,Smokescreen,8,normal,-,100
+467,8,Smokescreen,10,normal,-,100
+467,9,Smokescreen,10,normal,-,100
+467,10,Smokescreen,10,normal,-,100
+467,11,Smokescreen,11,normal,-,100
+467,14,Feint Attack,12,dark,60,-
+467,15,Feint Attack,12,dark,60,-
+467,16,Feint Attack,12,dark,60,-
+467,14,Fire Spin,15,fire,35,85
+467,15,Fire Spin,15,fire,35,85
+467,16,Fire Spin,15,fire,35,85
+467,8,Feint Attack,16,dark,60,-
+467,9,Feint Attack,16,dark,60,-
+467,10,Feint Attack,16,dark,60,-
+467,11,Feint Attack,16,dark,60,-
+467,8,Fire Spin,19,fire,35,85
+467,9,Fire Spin,19,fire,35,85
+467,10,Fire Spin,19,fire,35,85
+467,14,Clear Smog,19,poison,50,-
+467,15,Clear Smog,19,poison,50,-
+467,16,Clear Smog,19,poison,50,-
+467,11,Fire Spin,21,fire,35,85
+467,14,Flame Burst,22,fire,70,100
+467,15,Flame Burst,22,fire,70,100
+467,16,Flame Burst,22,fire,70,100
+467,8,Confuse Ray,25,ghost,-,100
+467,9,Confuse Ray,25,ghost,-,100
+467,10,Confuse Ray,25,ghost,-,100
+467,11,Confuse Ray,26,ghost,-,100
+467,14,Confuse Ray,26,ghost,-,100
+467,15,Confuse Ray,26,ghost,-,100
+467,16,Confuse Ray,26,ghost,-,100
+467,8,Fire Punch,28,fire,75,100
+467,9,Fire Punch,28,fire,75,100
+467,10,Fire Punch,28,fire,75,100
+467,14,Fire Punch,29,fire,75,100
+467,15,Fire Punch,29,fire,75,100
+467,16,Fire Punch,29,fire,75,100
+467,11,Flame Burst,32,fire,70,100
+467,14,Lava Plume,36,fire,80,100
+467,15,Lava Plume,36,fire,80,100
+467,16,Lava Plume,36,fire,80,100
+467,8,Lava Plume,37,fire,80,100
+467,9,Lava Plume,37,fire,80,100
+467,10,Lava Plume,37,fire,80,100
+467,11,Fire Punch,38,fire,75,100
+467,14,Sunny Day,42,fire,-,-
+467,15,Sunny Day,42,fire,-,-
+467,16,Sunny Day,42,fire,-,-
+467,8,Flamethrower,43,fire,90,100
+467,9,Flamethrower,43,fire,90,100
+467,10,Flamethrower,43,fire,90,100
+467,11,Lava Plume,44,fire,80,100
+467,14,Flamethrower,49,fire,90,100
+467,15,Flamethrower,49,fire,90,100
+467,16,Flamethrower,49,fire,90,100
+467,11,Flamethrower,50,fire,90,100
+467,8,Sunny Day,52,fire,-,-
+467,9,Sunny Day,52,fire,-,-
+467,10,Sunny Day,52,fire,-,-
+467,14,Fire Blast,55,fire,110,85
+467,15,Fire Blast,55,fire,110,85
+467,16,Fire Blast,55,fire,110,85
+467,11,Sunny Day,56,fire,-,-
+467,8,Fire Blast,58,fire,110,85
+467,9,Fire Blast,58,fire,110,85
+467,10,Fire Blast,58,fire,110,85
+467,11,Fire Blast,62,fire,110,85
+467,14,Hyper Beam,62,normal,150,90
+467,15,Hyper Beam,62,normal,150,90
+467,16,Hyper Beam,62,normal,150,90
+467,8,Hyper Beam,67,normal,150,90
+467,9,Hyper Beam,67,normal,150,90
+467,10,Hyper Beam,67,normal,150,90
+467,11,Hyper Beam,68,normal,150,90

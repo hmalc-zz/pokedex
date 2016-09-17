@@ -1,0 +1,37 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+717,15,Razor Wind,1,normal,80,100
+717,15,Taunt,1,dark,-,100
+717,15,Roost,1,flying,-,-
+717,15,Hurricane,1,flying,110,70
+717,16,Razor Wind,1,normal,80,100
+717,16,Taunt,1,dark,-,100
+717,16,Roost,1,flying,-,-
+717,16,Hurricane,1,flying,110,70
+717,15,Double Team,5,normal,-,-
+717,16,Double Team,5,normal,-,-
+717,15,Air Slash,10,flying,75,95
+717,16,Air Slash,10,flying,75,95
+717,15,Snarl,18,dark,55,95
+717,16,Snarl,18,dark,55,95
+717,15,Oblivion Wing,26,flying,80,100
+717,16,Oblivion Wing,26,flying,80,100
+717,15,Disable,35,normal,-,100
+717,16,Disable,35,normal,-,100
+717,15,Dark Pulse,44,dark,80,100
+717,16,Dark Pulse,44,dark,80,100
+717,15,Foul Play,51,dark,95,100
+717,16,Foul Play,51,dark,95,100
+717,15,Phantom Force,55,ghost,90,100
+717,16,Phantom Force,55,ghost,90,100
+717,15,Psychic,59,psychic,90,100
+717,16,Psychic,59,psychic,90,100
+717,15,Dragon Rush,63,dragon,100,75
+717,16,Dragon Rush,63,dragon,100,75
+717,15,Focus Blast,72,fighting,120,70
+717,16,Focus Blast,72,fighting,120,70
+717,15,Sucker Punch,80,dark,80,100
+717,16,Sucker Punch,80,dark,80,100
+717,15,Hyper Beam,88,normal,150,90
+717,16,Hyper Beam,88,normal,150,90
+717,15,Sky Attack,93,flying,140,90
+717,16,Sky Attack,93,flying,140,90

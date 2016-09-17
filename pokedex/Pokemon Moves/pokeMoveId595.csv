@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+595,11,String Shot,1,bug,-,95
+595,11,Leech Life,1,bug,20,100
+595,11,Spider Web,1,bug,-,-
+595,14,String Shot,1,bug,-,95
+595,14,Leech Life,1,bug,20,100
+595,14,Spider Web,1,bug,-,-
+595,15,String Shot,1,bug,-,95
+595,15,Leech Life,1,bug,20,100
+595,15,Spider Web,1,bug,-,-
+595,16,String Shot,1,bug,-,95
+595,16,Leech Life,1,bug,20,100
+595,16,Spider Web,1,bug,-,-
+595,11,Thunder Wave,4,electric,-,100
+595,14,Thunder Wave,4,electric,-,100
+595,15,Thunder Wave,4,electric,-,100
+595,16,Thunder Wave,4,electric,-,100
+595,11,Screech,7,normal,-,85
+595,14,Screech,7,normal,-,85
+595,15,Screech,7,normal,-,85
+595,16,Screech,7,normal,-,85
+595,11,Fury Cutter,12,bug,40,95
+595,14,Fury Cutter,12,bug,40,95
+595,15,Fury Cutter,12,bug,40,95
+595,16,Fury Cutter,12,bug,40,95
+595,11,Electroweb,15,electric,55,95
+595,14,Electroweb,15,electric,55,95
+595,15,Electroweb,15,electric,55,95
+595,16,Electroweb,15,electric,55,95
+595,11,Bug Bite,18,bug,60,100
+595,14,Bug Bite,18,bug,60,100
+595,15,Bug Bite,18,bug,60,100
+595,16,Bug Bite,18,bug,60,100
+595,11,Gastro Acid,23,poison,-,100
+595,14,Gastro Acid,23,poison,-,100
+595,15,Gastro Acid,23,poison,-,100
+595,16,Gastro Acid,23,poison,-,100
+595,11,Slash,26,normal,70,100
+595,14,Slash,26,normal,70,100
+595,15,Slash,26,normal,70,100
+595,16,Slash,26,normal,70,100
+595,11,Electro Ball,29,electric,-,100
+595,14,Electro Ball,29,electric,-,100
+595,15,Electro Ball,29,electric,-,100
+595,16,Electro Ball,29,electric,-,100
+595,11,Signal Beam,34,bug,75,100
+595,14,Signal Beam,34,bug,75,100
+595,15,Signal Beam,34,bug,75,100
+595,16,Signal Beam,34,bug,75,100
+595,11,Agility,37,psychic,-,-
+595,14,Agility,37,psychic,-,-
+595,15,Agility,37,psychic,-,-
+595,16,Agility,37,psychic,-,-
+595,11,Sucker Punch,40,dark,80,100
+595,14,Sucker Punch,40,dark,80,100
+595,15,Sucker Punch,40,dark,80,100
+595,16,Sucker Punch,40,dark,80,100
+595,11,Discharge,45,electric,80,100
+595,14,Discharge,45,electric,80,100
+595,15,Discharge,45,electric,80,100
+595,16,Discharge,45,electric,80,100
+595,11,Bug Buzz,48,bug,90,100
+595,14,Bug Buzz,48,bug,90,100
+595,15,Bug Buzz,48,bug,90,100
+595,16,Bug Buzz,48,bug,90,100

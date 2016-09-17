@@ -1,0 +1,190 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+224,3,Water Gun,1,water,40,100
+224,4,Water Gun,1,water,40,100
+224,5,Water Gun,1,water,40,100
+224,6,Water Gun,1,water,40,100
+224,7,Water Gun,1,water,40,100
+224,8,Water Gun,1,water,40,100
+224,8,Psybeam,1,psychic,65,100
+224,8,Aurora Beam,1,ice,65,100
+224,8,Constrict,1,normal,10,100
+224,8,Rock Blast,1,rock,25,90
+224,8,Gunk Shot,1,poison,120,80
+224,9,Water Gun,1,water,40,100
+224,9,Psybeam,1,psychic,65,100
+224,9,Aurora Beam,1,ice,65,100
+224,9,Constrict,1,normal,10,100
+224,9,Rock Blast,1,rock,25,90
+224,9,Gunk Shot,1,poison,120,80
+224,10,Water Gun,1,water,40,100
+224,10,Psybeam,1,psychic,65,100
+224,10,Aurora Beam,1,ice,65,100
+224,10,Constrict,1,normal,10,100
+224,10,Rock Blast,1,rock,25,90
+224,10,Gunk Shot,1,poison,120,80
+224,11,Water Gun,1,water,40,100
+224,11,Psybeam,1,psychic,65,100
+224,11,Aurora Beam,1,ice,65,100
+224,11,Constrict,1,normal,10,100
+224,11,Rock Blast,1,rock,25,90
+224,11,Gunk Shot,1,poison,120,80
+224,12,Water Gun,1,water,40,100
+224,13,Water Gun,1,water,40,100
+224,14,Water Gun,1,water,40,100
+224,14,Psybeam,1,psychic,65,100
+224,14,Aurora Beam,1,ice,65,100
+224,14,Constrict,1,normal,10,100
+224,14,Rock Blast,1,rock,25,90
+224,14,Gunk Shot,1,poison,120,80
+224,15,Water Gun,1,water,40,100
+224,15,Psybeam,1,psychic,65,100
+224,15,Aurora Beam,1,ice,65,100
+224,15,Constrict,1,normal,10,100
+224,15,Rock Blast,1,rock,25,90
+224,15,Gunk Shot,1,poison,120,80
+224,16,Water Gun,1,water,40,100
+224,16,Psybeam,1,psychic,65,100
+224,16,Aurora Beam,1,ice,65,100
+224,16,Constrict,1,normal,10,100
+224,16,Rock Blast,1,rock,25,90
+224,16,Gunk Shot,1,poison,120,80
+224,8,Constrict,6,normal,10,100
+224,9,Constrict,6,normal,10,100
+224,10,Constrict,6,normal,10,100
+224,11,Constrict,6,normal,10,100
+224,14,Constrict,6,normal,10,100
+224,15,Constrict,6,normal,10,100
+224,16,Constrict,6,normal,10,100
+224,8,Psybeam,10,psychic,65,100
+224,9,Psybeam,10,psychic,65,100
+224,10,Psybeam,10,psychic,65,100
+224,11,Psybeam,10,psychic,65,100
+224,14,Psybeam,10,psychic,65,100
+224,15,Psybeam,10,psychic,65,100
+224,16,Psybeam,10,psychic,65,100
+224,3,Constrict,11,normal,10,100
+224,4,Constrict,11,normal,10,100
+224,5,Constrict,11,normal,10,100
+224,6,Constrict,11,normal,10,100
+224,7,Constrict,11,normal,10,100
+224,12,Constrict,11,normal,10,100
+224,13,Constrict,11,normal,10,100
+224,8,Aurora Beam,14,ice,65,100
+224,9,Aurora Beam,14,ice,65,100
+224,10,Aurora Beam,14,ice,65,100
+224,11,Aurora Beam,14,ice,65,100
+224,14,Aurora Beam,14,ice,65,100
+224,15,Aurora Beam,14,ice,65,100
+224,16,Aurora Beam,14,ice,65,100
+224,14,Bubble Beam,18,water,65,100
+224,15,Bubble Beam,18,water,65,100
+224,16,Bubble Beam,18,water,65,100
+224,8,Bubble Beam,19,water,65,100
+224,9,Bubble Beam,19,water,65,100
+224,10,Bubble Beam,19,water,65,100
+224,11,Bubble Beam,19,water,65,100
+224,3,Psybeam,22,psychic,65,100
+224,3,Bubble Beam,22,water,65,100
+224,3,Aurora Beam,22,ice,65,100
+224,4,Psybeam,22,psychic,65,100
+224,4,Bubble Beam,22,water,65,100
+224,4,Aurora Beam,22,ice,65,100
+224,5,Psybeam,22,psychic,65,100
+224,5,Bubble Beam,22,water,65,100
+224,5,Aurora Beam,22,ice,65,100
+224,6,Psybeam,22,psychic,65,100
+224,6,Bubble Beam,22,water,65,100
+224,6,Aurora Beam,22,ice,65,100
+224,7,Psybeam,22,psychic,65,100
+224,7,Bubble Beam,22,water,65,100
+224,7,Aurora Beam,22,ice,65,100
+224,12,Psybeam,22,psychic,65,100
+224,12,Bubble Beam,22,water,65,100
+224,12,Aurora Beam,22,ice,65,100
+224,13,Psybeam,22,psychic,65,100
+224,13,Bubble Beam,22,water,65,100
+224,13,Aurora Beam,22,ice,65,100
+224,14,Focus Energy,22,normal,-,-
+224,15,Focus Energy,22,normal,-,-
+224,16,Focus Energy,22,normal,-,-
+224,8,Focus Energy,23,normal,-,-
+224,9,Focus Energy,23,normal,-,-
+224,10,Focus Energy,23,normal,-,-
+224,11,Focus Energy,23,normal,-,-
+224,3,Octazooka,25,water,65,85
+224,4,Octazooka,25,water,65,85
+224,5,Octazooka,25,water,65,85
+224,6,Octazooka,25,water,65,85
+224,7,Octazooka,25,water,65,85
+224,8,Octazooka,25,water,65,85
+224,9,Octazooka,25,water,65,85
+224,10,Octazooka,25,water,65,85
+224,11,Octazooka,25,water,65,85
+224,12,Octazooka,25,water,65,85
+224,13,Octazooka,25,water,65,85
+224,14,Octazooka,25,water,65,85
+224,15,Octazooka,25,water,65,85
+224,16,Octazooka,25,water,65,85
+224,14,Wring Out,28,normal,-,100
+224,15,Wring Out,28,normal,-,100
+224,16,Wring Out,28,normal,-,100
+224,8,Bullet Seed,29,grass,25,100
+224,9,Bullet Seed,29,grass,25,100
+224,10,Bullet Seed,29,grass,25,100
+224,11,Bullet Seed,29,grass,25,100
+224,14,Signal Beam,34,bug,75,100
+224,15,Signal Beam,34,bug,75,100
+224,16,Signal Beam,34,bug,75,100
+224,8,Wring Out,36,normal,-,100
+224,9,Wring Out,36,normal,-,100
+224,10,Wring Out,36,normal,-,100
+224,11,Wring Out,36,normal,-,100
+224,3,Focus Energy,38,normal,-,-
+224,4,Focus Energy,38,normal,-,-
+224,5,Focus Energy,38,normal,-,-
+224,6,Focus Energy,38,normal,-,-
+224,7,Focus Energy,38,normal,-,-
+224,12,Focus Energy,38,normal,-,-
+224,13,Focus Energy,38,normal,-,-
+224,14,Ice Beam,40,ice,90,100
+224,15,Ice Beam,40,ice,90,100
+224,16,Ice Beam,40,ice,90,100
+224,8,Signal Beam,42,bug,75,100
+224,9,Signal Beam,42,bug,75,100
+224,10,Signal Beam,42,bug,75,100
+224,11,Signal Beam,42,bug,75,100
+224,14,Bullet Seed,46,grass,25,100
+224,15,Bullet Seed,46,grass,25,100
+224,16,Bullet Seed,46,grass,25,100
+224,8,Ice Beam,48,ice,90,100
+224,9,Ice Beam,48,ice,90,100
+224,10,Ice Beam,48,ice,90,100
+224,11,Ice Beam,48,ice,90,100
+224,14,Hydro Pump,52,water,110,80
+224,15,Hydro Pump,52,water,110,80
+224,16,Hydro Pump,52,water,110,80
+224,3,Ice Beam,54,ice,90,100
+224,4,Ice Beam,54,ice,90,100
+224,5,Ice Beam,54,ice,90,100
+224,6,Ice Beam,54,ice,90,100
+224,7,Ice Beam,54,ice,90,100
+224,12,Ice Beam,54,ice,90,100
+224,13,Ice Beam,54,ice,90,100
+224,8,Hyper Beam,55,normal,150,90
+224,9,Hyper Beam,55,normal,150,90
+224,10,Hyper Beam,55,normal,150,90
+224,11,Hyper Beam,55,normal,150,90
+224,14,Hyper Beam,58,normal,150,90
+224,15,Hyper Beam,58,normal,150,90
+224,16,Hyper Beam,58,normal,150,90
+224,11,Soak,61,water,-,100
+224,14,Soak,64,water,-,100
+224,15,Soak,64,water,-,100
+224,16,Soak,64,water,-,100
+224,3,Hyper Beam,70,normal,150,90
+224,4,Hyper Beam,70,normal,150,90
+224,5,Hyper Beam,70,normal,150,90
+224,6,Hyper Beam,70,normal,150,90
+224,7,Hyper Beam,70,normal,150,90
+224,12,Hyper Beam,70,normal,150,90
+224,13,Hyper Beam,70,normal,150,90

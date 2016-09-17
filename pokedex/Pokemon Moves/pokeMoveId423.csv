@@ -1,0 +1,92 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+423,8,Harden,1,normal,-,-
+423,8,Mud-Slap,1,ground,20,100
+423,8,Mud Sport,1,ground,-,-
+423,8,Water Pulse,1,water,60,100
+423,9,Harden,1,normal,-,-
+423,9,Mud-Slap,1,ground,20,100
+423,9,Mud Sport,1,ground,-,-
+423,9,Water Pulse,1,water,60,100
+423,10,Harden,1,normal,-,-
+423,10,Mud-Slap,1,ground,20,100
+423,10,Mud Sport,1,ground,-,-
+423,10,Water Pulse,1,water,60,100
+423,11,Harden,1,normal,-,-
+423,11,Mud-Slap,1,ground,20,100
+423,11,Mud Sport,1,ground,-,-
+423,11,Water Pulse,1,water,60,100
+423,14,Harden,1,normal,-,-
+423,14,Mud-Slap,1,ground,20,100
+423,14,Mud Sport,1,ground,-,-
+423,14,Water Pulse,1,water,60,100
+423,15,Harden,1,normal,-,-
+423,15,Mud-Slap,1,ground,20,100
+423,15,Mud Sport,1,ground,-,-
+423,15,Water Pulse,1,water,60,100
+423,16,Harden,1,normal,-,-
+423,16,Mud-Slap,1,ground,20,100
+423,16,Mud Sport,1,ground,-,-
+423,16,Water Pulse,1,water,60,100
+423,8,Mud Sport,2,ground,-,-
+423,9,Mud Sport,2,ground,-,-
+423,10,Mud Sport,2,ground,-,-
+423,11,Mud Sport,2,ground,-,-
+423,14,Mud Sport,2,ground,-,-
+423,15,Mud Sport,2,ground,-,-
+423,16,Mud Sport,2,ground,-,-
+423,8,Harden,4,normal,-,-
+423,9,Harden,4,normal,-,-
+423,10,Harden,4,normal,-,-
+423,11,Harden,4,normal,-,-
+423,14,Harden,4,normal,-,-
+423,15,Harden,4,normal,-,-
+423,16,Harden,4,normal,-,-
+423,8,Water Pulse,7,water,60,100
+423,9,Water Pulse,7,water,60,100
+423,10,Water Pulse,7,water,60,100
+423,11,Water Pulse,7,water,60,100
+423,14,Water Pulse,7,water,60,100
+423,15,Water Pulse,7,water,60,100
+423,16,Water Pulse,7,water,60,100
+423,8,Mud Bomb,11,ground,65,85
+423,9,Mud Bomb,11,ground,65,85
+423,10,Mud Bomb,11,ground,65,85
+423,11,Mud Bomb,11,ground,65,85
+423,14,Mud Bomb,11,ground,65,85
+423,15,Mud Bomb,11,ground,65,85
+423,16,Mud Bomb,11,ground,65,85
+423,8,Hidden Power,16,normal,60,100
+423,9,Hidden Power,16,normal,60,100
+423,10,Hidden Power,16,normal,60,100
+423,11,Hidden Power,16,normal,60,100
+423,14,Hidden Power,16,normal,60,100
+423,15,Hidden Power,16,normal,60,100
+423,16,Hidden Power,16,normal,60,100
+423,8,Rain Dance,22,water,-,-
+423,9,Rain Dance,22,water,-,-
+423,10,Rain Dance,22,water,-,-
+423,11,Rain Dance,22,water,-,-
+423,14,Rain Dance,22,water,-,-
+423,15,Rain Dance,22,water,-,-
+423,16,Rain Dance,22,water,-,-
+423,8,Body Slam,29,normal,85,100
+423,9,Body Slam,29,normal,85,100
+423,10,Body Slam,29,normal,85,100
+423,11,Body Slam,29,normal,85,100
+423,14,Body Slam,29,normal,85,100
+423,15,Body Slam,29,normal,85,100
+423,16,Body Slam,29,normal,85,100
+423,8,Muddy Water,41,water,90,85
+423,9,Muddy Water,41,water,90,85
+423,10,Muddy Water,41,water,90,85
+423,11,Muddy Water,41,water,90,85
+423,14,Muddy Water,41,water,90,85
+423,15,Muddy Water,41,water,90,85
+423,16,Muddy Water,41,water,90,85
+423,8,Recover,54,normal,-,-
+423,9,Recover,54,normal,-,-
+423,10,Recover,54,normal,-,-
+423,11,Recover,54,normal,-,-
+423,14,Recover,54,normal,-,-
+423,15,Recover,54,normal,-,-
+423,16,Recover,54,normal,-,-

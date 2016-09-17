@@ -1,0 +1,194 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+61,1,Water Gun,1,water,40,100
+61,1,Hypnosis,1,psychic,-,60
+61,1,Bubble,1,water,40,100
+61,2,Water Gun,1,water,40,100
+61,2,Hypnosis,1,psychic,-,60
+61,2,Bubble,1,water,40,100
+61,3,Water Gun,1,water,40,100
+61,3,Hypnosis,1,psychic,-,60
+61,3,Bubble,1,water,40,100
+61,4,Water Gun,1,water,40,100
+61,4,Hypnosis,1,psychic,-,60
+61,4,Bubble,1,water,40,100
+61,5,Water Gun,1,water,40,100
+61,5,Hypnosis,1,psychic,-,60
+61,5,Bubble,1,water,40,100
+61,6,Water Gun,1,water,40,100
+61,6,Hypnosis,1,psychic,-,60
+61,6,Bubble,1,water,40,100
+61,7,Water Gun,1,water,40,100
+61,7,Hypnosis,1,psychic,-,60
+61,7,Bubble,1,water,40,100
+61,8,Hypnosis,1,psychic,-,60
+61,8,Bubble,1,water,40,100
+61,8,Water Sport,1,water,-,-
+61,9,Hypnosis,1,psychic,-,60
+61,9,Bubble,1,water,40,100
+61,9,Water Sport,1,water,-,-
+61,10,Hypnosis,1,psychic,-,60
+61,10,Bubble,1,water,40,100
+61,10,Water Sport,1,water,-,-
+61,11,Hypnosis,1,psychic,-,60
+61,11,Bubble,1,water,40,100
+61,11,Water Sport,1,water,-,-
+61,12,Water Gun,1,water,40,100
+61,12,Hypnosis,1,psychic,-,60
+61,12,Bubble,1,water,40,100
+61,13,Water Gun,1,water,40,100
+61,13,Hypnosis,1,psychic,-,60
+61,13,Bubble,1,water,40,100
+61,14,Hypnosis,1,psychic,-,60
+61,14,Bubble,1,water,40,100
+61,14,Water Sport,1,water,-,-
+61,15,Water Gun,1,water,40,100
+61,15,Hypnosis,1,psychic,-,60
+61,15,Water Sport,1,water,-,-
+61,16,Water Gun,1,water,40,100
+61,16,Hypnosis,1,psychic,-,60
+61,16,Water Sport,1,water,-,-
+61,8,Bubble,5,water,40,100
+61,9,Bubble,5,water,40,100
+61,10,Bubble,5,water,40,100
+61,11,Bubble,5,water,40,100
+61,14,Bubble,5,water,40,100
+61,15,Water Gun,5,water,40,100
+61,16,Water Gun,5,water,40,100
+61,3,Hypnosis,7,psychic,-,60
+61,4,Hypnosis,7,psychic,-,60
+61,5,Hypnosis,7,psychic,-,60
+61,6,Hypnosis,7,psychic,-,60
+61,7,Hypnosis,7,psychic,-,60
+61,12,Hypnosis,7,psychic,-,60
+61,13,Hypnosis,7,psychic,-,60
+61,8,Hypnosis,8,psychic,-,60
+61,9,Hypnosis,8,psychic,-,60
+61,10,Hypnosis,8,psychic,-,60
+61,11,Hypnosis,8,psychic,-,60
+61,14,Hypnosis,8,psychic,-,60
+61,15,Hypnosis,8,psychic,-,60
+61,16,Hypnosis,8,psychic,-,60
+61,8,Water Gun,11,water,40,100
+61,9,Water Gun,11,water,40,100
+61,10,Water Gun,11,water,40,100
+61,11,Water Gun,11,water,40,100
+61,14,Water Gun,11,water,40,100
+61,15,Bubble,11,water,40,100
+61,16,Bubble,11,water,40,100
+61,3,Water Gun,13,water,40,100
+61,4,Water Gun,13,water,40,100
+61,5,Water Gun,13,water,40,100
+61,6,Water Gun,13,water,40,100
+61,7,Water Gun,13,water,40,100
+61,12,Water Gun,13,water,40,100
+61,13,Water Gun,13,water,40,100
+61,8,Double Slap,15,normal,15,85
+61,9,Double Slap,15,normal,15,85
+61,10,Double Slap,15,normal,15,85
+61,11,Double Slap,15,normal,15,85
+61,14,Double Slap,15,normal,15,85
+61,15,Double Slap,15,normal,15,85
+61,16,Double Slap,15,normal,15,85
+61,1,Hypnosis,16,psychic,-,60
+61,2,Hypnosis,16,psychic,-,60
+61,8,Rain Dance,18,water,-,-
+61,9,Rain Dance,18,water,-,-
+61,10,Rain Dance,18,water,-,-
+61,11,Rain Dance,18,water,-,-
+61,14,Rain Dance,18,water,-,-
+61,15,Rain Dance,18,water,-,-
+61,16,Rain Dance,18,water,-,-
+61,1,Water Gun,19,water,40,100
+61,2,Water Gun,19,water,40,100
+61,3,Double Slap,19,normal,15,85
+61,4,Double Slap,19,normal,15,85
+61,5,Double Slap,19,normal,15,85
+61,6,Double Slap,19,normal,15,85
+61,7,Double Slap,19,normal,15,85
+61,12,Double Slap,19,normal,15,85
+61,13,Double Slap,19,normal,15,85
+61,8,Body Slam,21,normal,85,100
+61,9,Body Slam,21,normal,85,100
+61,10,Body Slam,21,normal,85,100
+61,11,Body Slam,21,normal,85,100
+61,14,Body Slam,21,normal,85,100
+61,15,Body Slam,21,normal,85,100
+61,16,Body Slam,21,normal,85,100
+61,1,Double Slap,26,normal,15,85
+61,2,Double Slap,26,normal,15,85
+61,3,Rain Dance,27,water,-,-
+61,4,Rain Dance,27,water,-,-
+61,5,Rain Dance,27,water,-,-
+61,6,Rain Dance,27,water,-,-
+61,7,Rain Dance,27,water,-,-
+61,8,Bubble Beam,27,water,65,100
+61,9,Bubble Beam,27,water,65,100
+61,10,Bubble Beam,27,water,65,100
+61,11,Bubble Beam,27,water,65,100
+61,12,Rain Dance,27,water,-,-
+61,13,Rain Dance,27,water,-,-
+61,14,Bubble Beam,27,water,65,100
+61,15,Bubble Beam,27,water,65,100
+61,16,Bubble Beam,27,water,65,100
+61,8,Mud Shot,32,ground,55,95
+61,9,Mud Shot,32,ground,55,95
+61,10,Mud Shot,32,ground,55,95
+61,11,Mud Shot,32,ground,55,95
+61,14,Mud Shot,32,ground,55,95
+61,15,Mud Shot,32,ground,55,95
+61,16,Mud Shot,32,ground,55,95
+61,1,Body Slam,33,normal,85,100
+61,2,Body Slam,33,normal,85,100
+61,3,Body Slam,35,normal,85,100
+61,4,Body Slam,35,normal,85,100
+61,5,Body Slam,35,normal,85,100
+61,6,Body Slam,35,normal,85,100
+61,7,Body Slam,35,normal,85,100
+61,12,Body Slam,35,normal,85,100
+61,13,Body Slam,35,normal,85,100
+61,8,Belly Drum,37,normal,-,-
+61,9,Belly Drum,37,normal,-,-
+61,10,Belly Drum,37,normal,-,-
+61,11,Belly Drum,37,normal,-,-
+61,14,Belly Drum,37,normal,-,-
+61,15,Belly Drum,37,normal,-,-
+61,16,Belly Drum,37,normal,-,-
+61,1,Amnesia,41,psychic,-,-
+61,2,Amnesia,41,psychic,-,-
+61,3,Belly Drum,43,normal,-,-
+61,4,Belly Drum,43,normal,-,-
+61,5,Belly Drum,43,normal,-,-
+61,6,Belly Drum,43,normal,-,-
+61,7,Belly Drum,43,normal,-,-
+61,8,Wake-Up Slap,43,fighting,70,100
+61,9,Wake-Up Slap,43,fighting,70,100
+61,10,Wake-Up Slap,43,fighting,70,100
+61,11,Wake-Up Slap,43,fighting,70,100
+61,12,Belly Drum,43,normal,-,-
+61,13,Belly Drum,43,normal,-,-
+61,14,Wake-Up Slap,43,fighting,70,100
+61,15,Wake-Up Slap,43,fighting,70,100
+61,16,Wake-Up Slap,43,fighting,70,100
+61,8,Hydro Pump,48,water,110,80
+61,9,Hydro Pump,48,water,110,80
+61,10,Hydro Pump,48,water,110,80
+61,11,Hydro Pump,48,water,110,80
+61,14,Hydro Pump,48,water,110,80
+61,15,Hydro Pump,48,water,110,80
+61,16,Hydro Pump,48,water,110,80
+61,1,Hydro Pump,49,water,110,80
+61,2,Hydro Pump,49,water,110,80
+61,3,Hydro Pump,51,water,110,80
+61,4,Hydro Pump,51,water,110,80
+61,5,Hydro Pump,51,water,110,80
+61,6,Hydro Pump,51,water,110,80
+61,7,Hydro Pump,51,water,110,80
+61,12,Hydro Pump,51,water,110,80
+61,13,Hydro Pump,51,water,110,80
+61,8,Mud Bomb,53,ground,65,85
+61,9,Mud Bomb,53,ground,65,85
+61,10,Mud Bomb,53,ground,65,85
+61,11,Mud Bomb,53,ground,65,85
+61,14,Mud Bomb,53,ground,65,85
+61,15,Mud Bomb,53,ground,65,85
+61,16,Mud Bomb,53,ground,65,85

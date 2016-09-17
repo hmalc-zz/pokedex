@@ -1,0 +1,161 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+200,3,Growl,1,normal,-,100
+200,3,Psywave,1,psychic,-,100
+200,4,Growl,1,normal,-,100
+200,4,Psywave,1,psychic,-,100
+200,5,Growl,1,normal,-,100
+200,5,Psywave,1,psychic,-,100
+200,6,Growl,1,normal,-,100
+200,6,Psywave,1,psychic,-,100
+200,7,Growl,1,normal,-,100
+200,7,Psywave,1,psychic,-,100
+200,8,Growl,1,normal,-,100
+200,8,Psywave,1,psychic,-,100
+200,9,Growl,1,normal,-,100
+200,9,Psywave,1,psychic,-,100
+200,10,Growl,1,normal,-,100
+200,10,Psywave,1,psychic,-,100
+200,11,Growl,1,normal,-,100
+200,11,Psywave,1,psychic,-,100
+200,12,Growl,1,normal,-,100
+200,12,Psywave,1,psychic,-,100
+200,13,Growl,1,normal,-,100
+200,13,Psywave,1,psychic,-,100
+200,14,Growl,1,normal,-,100
+200,14,Psywave,1,psychic,-,100
+200,15,Growl,1,normal,-,100
+200,15,Psywave,1,psychic,-,100
+200,16,Growl,1,normal,-,100
+200,16,Psywave,1,psychic,-,100
+200,8,Spite,5,ghost,-,100
+200,9,Spite,5,ghost,-,100
+200,10,Spite,5,ghost,-,100
+200,11,Spite,5,ghost,-,100
+200,14,Spite,5,ghost,-,100
+200,15,Spite,5,ghost,-,100
+200,16,Spite,5,ghost,-,100
+200,3,Spite,6,ghost,-,100
+200,4,Spite,6,ghost,-,100
+200,5,Spite,6,ghost,-,100
+200,6,Spite,6,ghost,-,100
+200,7,Spite,6,ghost,-,100
+200,12,Spite,6,ghost,-,100
+200,13,Spite,6,ghost,-,100
+200,8,Astonish,10,ghost,30,100
+200,9,Astonish,10,ghost,30,100
+200,10,Astonish,10,ghost,30,100
+200,11,Astonish,10,ghost,30,100
+200,14,Astonish,10,ghost,30,100
+200,15,Astonish,10,ghost,30,100
+200,16,Astonish,10,ghost,30,100
+200,5,Astonish,11,ghost,30,100
+200,6,Astonish,11,ghost,30,100
+200,7,Astonish,11,ghost,30,100
+200,12,Astonish,11,ghost,30,100
+200,13,Astonish,11,ghost,30,100
+200,3,Confuse Ray,12,ghost,-,100
+200,4,Confuse Ray,12,ghost,-,100
+200,8,Confuse Ray,14,ghost,-,100
+200,9,Confuse Ray,14,ghost,-,100
+200,10,Confuse Ray,14,ghost,-,100
+200,11,Confuse Ray,14,ghost,-,100
+200,14,Confuse Ray,14,ghost,-,100
+200,15,Confuse Ray,14,ghost,-,100
+200,16,Confuse Ray,14,ghost,-,100
+200,5,Confuse Ray,17,ghost,-,100
+200,6,Confuse Ray,17,ghost,-,100
+200,7,Confuse Ray,17,ghost,-,100
+200,12,Confuse Ray,17,ghost,-,100
+200,13,Confuse Ray,17,ghost,-,100
+200,3,Mean Look,19,normal,-,-
+200,4,Mean Look,19,normal,-,-
+200,8,Mean Look,19,normal,-,-
+200,9,Mean Look,19,normal,-,-
+200,10,Mean Look,19,normal,-,-
+200,11,Mean Look,19,normal,-,-
+200,14,Mean Look,19,normal,-,-
+200,15,Mean Look,19,normal,-,-
+200,16,Mean Look,19,normal,-,-
+200,5,Mean Look,23,normal,-,-
+200,6,Mean Look,23,normal,-,-
+200,7,Mean Look,23,normal,-,-
+200,8,Psybeam,23,psychic,65,100
+200,9,Psybeam,23,psychic,65,100
+200,10,Psybeam,23,psychic,65,100
+200,11,Hex,23,ghost,65,100
+200,12,Mean Look,23,normal,-,-
+200,13,Mean Look,23,normal,-,-
+200,14,Hex,23,ghost,65,100
+200,15,Hex,23,ghost,65,100
+200,16,Hex,23,ghost,65,100
+200,3,Psybeam,27,psychic,65,100
+200,4,Psybeam,27,psychic,65,100
+200,8,Pain Split,28,normal,-,-
+200,9,Pain Split,28,normal,-,-
+200,10,Pain Split,28,normal,-,-
+200,11,Psybeam,28,psychic,65,100
+200,14,Psybeam,28,psychic,65,100
+200,15,Psybeam,28,psychic,65,100
+200,16,Psybeam,28,psychic,65,100
+200,5,Psybeam,30,psychic,65,100
+200,6,Psybeam,30,psychic,65,100
+200,7,Psybeam,30,psychic,65,100
+200,12,Psybeam,30,psychic,65,100
+200,13,Psybeam,30,psychic,65,100
+200,8,Payback,32,dark,50,100
+200,9,Payback,32,dark,50,100
+200,10,Payback,32,dark,50,100
+200,11,Pain Split,32,normal,-,-
+200,14,Pain Split,32,normal,-,-
+200,15,Pain Split,32,normal,-,-
+200,16,Pain Split,32,normal,-,-
+200,3,Pain Split,36,normal,-,-
+200,4,Pain Split,36,normal,-,-
+200,5,Pain Split,37,normal,-,-
+200,6,Pain Split,37,normal,-,-
+200,7,Pain Split,37,normal,-,-
+200,8,Shadow Ball,37,ghost,80,100
+200,9,Shadow Ball,37,ghost,80,100
+200,10,Shadow Ball,37,ghost,80,100
+200,11,Payback,37,dark,50,100
+200,12,Pain Split,37,normal,-,-
+200,13,Pain Split,37,normal,-,-
+200,14,Payback,37,dark,50,100
+200,15,Payback,37,dark,50,100
+200,16,Payback,37,dark,50,100
+200,8,Perish Song,41,normal,-,-
+200,9,Perish Song,41,normal,-,-
+200,10,Perish Song,41,normal,-,-
+200,11,Shadow Ball,41,ghost,80,100
+200,14,Shadow Ball,41,ghost,80,100
+200,15,Shadow Ball,41,ghost,80,100
+200,16,Shadow Ball,41,ghost,80,100
+200,5,Perish Song,45,normal,-,-
+200,6,Perish Song,45,normal,-,-
+200,7,Perish Song,45,normal,-,-
+200,12,Perish Song,45,normal,-,-
+200,13,Perish Song,45,normal,-,-
+200,3,Perish Song,46,normal,-,-
+200,4,Perish Song,46,normal,-,-
+200,8,Grudge,46,ghost,-,-
+200,9,Grudge,46,ghost,-,-
+200,10,Grudge,46,ghost,-,-
+200,11,Perish Song,46,normal,-,-
+200,14,Perish Song,46,normal,-,-
+200,15,Perish Song,46,normal,-,-
+200,16,Perish Song,46,normal,-,-
+200,9,Power Gem,50,rock,80,100
+200,10,Power Gem,50,rock,80,100
+200,11,Grudge,50,ghost,-,-
+200,14,Grudge,50,ghost,-,-
+200,15,Grudge,50,ghost,-,-
+200,16,Grudge,50,ghost,-,-
+200,5,Grudge,53,ghost,-,-
+200,6,Grudge,53,ghost,-,-
+200,7,Grudge,53,ghost,-,-
+200,12,Grudge,53,ghost,-,-
+200,13,Grudge,53,ghost,-,-
+200,11,Power Gem,55,rock,80,100
+200,14,Power Gem,55,rock,80,100
+200,15,Power Gem,55,rock,80,100
+200,16,Power Gem,55,rock,80,100

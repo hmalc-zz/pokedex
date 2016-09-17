@@ -1,0 +1,96 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+455,8,Bind,1,normal,15,85
+455,8,Growth,1,normal,-,-
+455,9,Bind,1,normal,15,85
+455,9,Growth,1,normal,-,-
+455,10,Bind,1,normal,15,85
+455,10,Growth,1,normal,-,-
+455,11,Bind,1,normal,15,85
+455,11,Growth,1,normal,-,-
+455,14,Bind,1,normal,15,85
+455,14,Growth,1,normal,-,-
+455,15,Bind,1,normal,15,85
+455,15,Growth,1,normal,-,-
+455,16,Bind,1,normal,15,85
+455,16,Growth,1,normal,-,-
+455,8,Bite,7,dark,60,100
+455,9,Bite,7,dark,60,100
+455,10,Bite,7,dark,60,100
+455,11,Bite,7,dark,60,100
+455,14,Bite,7,dark,60,100
+455,15,Bite,7,dark,60,100
+455,16,Bite,7,dark,60,100
+455,8,Vine Whip,11,grass,45,100
+455,9,Vine Whip,11,grass,45,100
+455,10,Vine Whip,11,grass,45,100
+455,11,Vine Whip,11,grass,45,100
+455,14,Vine Whip,11,grass,45,100
+455,15,Vine Whip,11,grass,45,100
+455,16,Vine Whip,11,grass,45,100
+455,8,Sweet Scent,17,normal,-,100
+455,9,Sweet Scent,17,normal,-,100
+455,10,Sweet Scent,17,normal,-,100
+455,11,Sweet Scent,17,normal,-,100
+455,14,Sweet Scent,17,normal,-,100
+455,15,Sweet Scent,17,normal,-,100
+455,16,Sweet Scent,17,normal,-,100
+455,8,Ingrain,21,grass,-,-
+455,9,Ingrain,21,grass,-,-
+455,10,Ingrain,21,grass,-,-
+455,11,Ingrain,21,grass,-,-
+455,14,Ingrain,21,grass,-,-
+455,15,Ingrain,21,grass,-,-
+455,16,Ingrain,21,grass,-,-
+455,8,Feint Attack,27,dark,60,-
+455,9,Feint Attack,27,dark,60,-
+455,10,Feint Attack,27,dark,60,-
+455,11,Feint Attack,27,dark,60,-
+455,14,Feint Attack,27,dark,60,-
+455,15,Feint Attack,27,dark,60,-
+455,16,Feint Attack,27,dark,60,-
+455,8,Stockpile,31,normal,-,-
+455,8,Spit Up,31,normal,-,100
+455,8,Swallow,31,normal,-,-
+455,9,Stockpile,31,normal,-,-
+455,9,Spit Up,31,normal,-,100
+455,9,Swallow,31,normal,-,-
+455,10,Stockpile,31,normal,-,-
+455,10,Spit Up,31,normal,-,100
+455,10,Swallow,31,normal,-,-
+455,11,Leaf Tornado,31,grass,65,90
+455,14,Leaf Tornado,31,grass,65,90
+455,15,Leaf Tornado,31,grass,65,90
+455,16,Leaf Tornado,31,grass,65,90
+455,8,Crunch,37,dark,80,100
+455,9,Crunch,37,dark,80,100
+455,10,Crunch,37,dark,80,100
+455,11,Stockpile,37,normal,-,-
+455,11,Spit Up,37,normal,-,100
+455,11,Swallow,37,normal,-,-
+455,14,Stockpile,37,normal,-,-
+455,14,Spit Up,37,normal,-,100
+455,14,Swallow,37,normal,-,-
+455,15,Stockpile,37,normal,-,-
+455,15,Spit Up,37,normal,-,100
+455,15,Swallow,37,normal,-,-
+455,16,Stockpile,37,normal,-,-
+455,16,Spit Up,37,normal,-,100
+455,16,Swallow,37,normal,-,-
+455,8,Wring Out,41,normal,-,100
+455,9,Wring Out,41,normal,-,100
+455,10,Wring Out,41,normal,-,100
+455,11,Crunch,41,dark,80,100
+455,14,Crunch,41,dark,80,100
+455,15,Crunch,41,dark,80,100
+455,16,Crunch,41,dark,80,100
+455,8,Power Whip,47,grass,120,85
+455,9,Power Whip,47,grass,120,85
+455,10,Power Whip,47,grass,120,85
+455,11,Wring Out,47,normal,-,100
+455,14,Wring Out,47,normal,-,100
+455,15,Wring Out,47,normal,-,100
+455,16,Wring Out,47,normal,-,100
+455,15,Power Whip,50,grass,120,85
+455,16,Power Whip,50,grass,120,85
+455,11,Power Whip,51,grass,120,85
+455,14,Power Whip,51,grass,120,85

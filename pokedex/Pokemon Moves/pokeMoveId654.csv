@@ -1,0 +1,33 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+654,15,Scratch,1,normal,40,100
+654,15,Tail Whip,1,normal,-,100
+654,16,Scratch,1,normal,40,100
+654,16,Tail Whip,1,normal,-,100
+654,15,Ember,5,fire,40,100
+654,16,Ember,5,fire,40,100
+654,15,Howl,11,normal,-,-
+654,16,Howl,11,normal,-,-
+654,15,Flame Charge,14,fire,50,100
+654,16,Flame Charge,14,fire,50,100
+654,15,Psybeam,18,psychic,65,100
+654,16,Psybeam,18,psychic,65,100
+654,15,Fire Spin,22,fire,35,85
+654,16,Fire Spin,22,fire,35,85
+654,15,Lucky Chant,27,normal,-,-
+654,16,Lucky Chant,27,normal,-,-
+654,15,Light Screen,30,psychic,-,-
+654,16,Light Screen,30,psychic,-,-
+654,15,Psyshock,34,psychic,80,100
+654,16,Psyshock,34,psychic,80,100
+654,15,Flamethrower,41,fire,90,100
+654,16,Flamethrower,41,fire,90,100
+654,15,Will-O-Wisp,45,fire,-,85
+654,16,Will-O-Wisp,45,fire,-,85
+654,15,Psychic,48,psychic,90,100
+654,16,Psychic,48,psychic,90,100
+654,15,Sunny Day,51,fire,-,-
+654,16,Sunny Day,51,fire,-,-
+654,15,Magic Room,53,psychic,-,-
+654,16,Magic Room,53,psychic,-,-
+654,15,Fire Blast,55,fire,110,85
+654,16,Fire Blast,55,fire,110,85

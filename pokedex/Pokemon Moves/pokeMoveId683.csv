@@ -1,0 +1,41 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+683,15,Sweet Scent,1,normal,-,100
+683,15,Heal Pulse,1,psychic,-,-
+683,15,Fairy Wind,1,fairy,40,100
+683,15,Aromatic Mist,1,fairy,-,-
+683,16,Sweet Scent,1,normal,-,100
+683,16,Heal Pulse,1,psychic,-,-
+683,16,Fairy Wind,1,fairy,40,100
+683,16,Aromatic Mist,1,fairy,-,-
+683,15,Sweet Kiss,6,fairy,-,75
+683,16,Sweet Kiss,6,fairy,-,75
+683,15,Odor Sleuth,8,normal,-,-
+683,16,Odor Sleuth,8,normal,-,-
+683,15,Echoed Voice,13,normal,40,100
+683,16,Echoed Voice,13,normal,40,100
+683,15,Calm Mind,17,psychic,-,-
+683,16,Calm Mind,17,psychic,-,-
+683,15,Draining Kiss,21,fairy,50,100
+683,16,Draining Kiss,21,fairy,50,100
+683,15,Aromatherapy,25,grass,-,-
+683,16,Aromatherapy,25,grass,-,-
+683,15,Attract,29,normal,-,100
+683,16,Attract,29,normal,-,100
+683,15,Moonblast,31,fairy,95,100
+683,16,Moonblast,31,fairy,95,100
+683,15,Charm,35,fairy,-,100
+683,16,Charm,35,fairy,-,100
+683,15,Flail,38,normal,-,100
+683,16,Flail,38,normal,-,100
+683,15,Misty Terrain,42,fairy,-,-
+683,16,Misty Terrain,42,fairy,-,-
+683,15,Skill Swap,44,psychic,-,-
+683,16,Skill Swap,44,psychic,-,-
+683,15,Psychic,48,psychic,90,100
+683,16,Psychic,48,psychic,90,100
+683,15,Disarming Voice,53,fairy,40,-
+683,16,Disarming Voice,53,fairy,40,-
+683,15,Reflect,57,psychic,-,-
+683,16,Reflect,57,psychic,-,-
+683,15,Psych Up,64,normal,-,-
+683,16,Psych Up,64,normal,-,-

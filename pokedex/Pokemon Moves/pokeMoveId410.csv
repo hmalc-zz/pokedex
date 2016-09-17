@@ -1,0 +1,82 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+410,8,Tackle,1,normal,50,100
+410,8,Protect,1,normal,-,-
+410,9,Tackle,1,normal,50,100
+410,9,Protect,1,normal,-,-
+410,10,Tackle,1,normal,50,100
+410,10,Protect,1,normal,-,-
+410,11,Tackle,1,normal,50,100
+410,11,Protect,1,normal,-,-
+410,14,Tackle,1,normal,50,100
+410,14,Protect,1,normal,-,-
+410,15,Tackle,1,normal,50,100
+410,15,Protect,1,normal,-,-
+410,16,Tackle,1,normal,50,100
+410,16,Protect,1,normal,-,-
+410,8,Taunt,6,dark,-,100
+410,9,Taunt,6,dark,-,100
+410,10,Taunt,6,dark,-,100
+410,11,Taunt,6,dark,-,100
+410,14,Taunt,6,dark,-,100
+410,15,Taunt,6,dark,-,100
+410,16,Taunt,6,dark,-,100
+410,8,Metal Sound,10,steel,-,85
+410,9,Metal Sound,10,steel,-,85
+410,10,Metal Sound,10,steel,-,85
+410,11,Metal Sound,10,steel,-,85
+410,14,Metal Sound,10,steel,-,85
+410,15,Metal Sound,10,steel,-,85
+410,16,Metal Sound,10,steel,-,85
+410,8,Take Down,15,normal,90,85
+410,9,Take Down,15,normal,90,85
+410,10,Take Down,15,normal,90,85
+410,11,Take Down,15,normal,90,85
+410,14,Take Down,15,normal,90,85
+410,15,Take Down,15,normal,90,85
+410,16,Take Down,15,normal,90,85
+410,8,Iron Defense,19,steel,-,-
+410,9,Iron Defense,19,steel,-,-
+410,10,Iron Defense,19,steel,-,-
+410,11,Iron Defense,19,steel,-,-
+410,14,Iron Defense,19,steel,-,-
+410,15,Iron Defense,19,steel,-,-
+410,16,Iron Defense,19,steel,-,-
+410,8,Swagger,24,normal,-,90
+410,9,Swagger,24,normal,-,90
+410,10,Swagger,24,normal,-,90
+410,11,Swagger,24,normal,-,90
+410,14,Swagger,24,normal,-,90
+410,15,Swagger,24,normal,-,90
+410,16,Swagger,24,normal,-,90
+410,8,Ancient Power,28,rock,60,100
+410,9,Ancient Power,28,rock,60,100
+410,10,Ancient Power,28,rock,60,100
+410,11,Ancient Power,28,rock,60,100
+410,14,Ancient Power,28,rock,60,100
+410,15,Ancient Power,28,rock,60,100
+410,16,Ancient Power,28,rock,60,100
+410,8,Endure,33,normal,-,-
+410,9,Endure,33,normal,-,-
+410,10,Endure,33,normal,-,-
+410,11,Endure,33,normal,-,-
+410,14,Endure,33,normal,-,-
+410,15,Endure,33,normal,-,-
+410,16,Endure,33,normal,-,-
+410,8,Metal Burst,37,steel,-,100
+410,9,Metal Burst,37,steel,-,100
+410,10,Metal Burst,37,steel,-,100
+410,11,Metal Burst,37,steel,-,100
+410,14,Metal Burst,37,steel,-,100
+410,15,Metal Burst,37,steel,-,100
+410,16,Metal Burst,37,steel,-,100
+410,11,Iron Head,42,steel,80,100
+410,14,Iron Head,42,steel,80,100
+410,15,Iron Head,42,steel,80,100
+410,16,Iron Head,42,steel,80,100
+410,8,Iron Head,43,steel,80,100
+410,9,Iron Head,43,steel,80,100
+410,10,Iron Head,43,steel,80,100
+410,11,Heavy Slam,46,steel,-,100
+410,14,Heavy Slam,46,steel,-,100
+410,15,Heavy Slam,46,steel,-,100
+410,16,Heavy Slam,46,steel,-,100

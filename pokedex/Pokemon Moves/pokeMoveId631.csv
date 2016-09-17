@@ -1,0 +1,71 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+631,11,Lick,1,ghost,30,100
+631,11,Incinerate,1,fire,60,100
+631,14,Lick,1,ghost,30,100
+631,14,Incinerate,1,fire,60,100
+631,15,Tackle,1,normal,50,100
+631,15,Lick,1,ghost,30,100
+631,15,Hone Claws,1,dark,-,-
+631,15,Incinerate,1,fire,60,100
+631,15,Inferno,1,fire,100,50
+631,16,Tackle,1,normal,50,100
+631,16,Lick,1,ghost,30,100
+631,16,Hone Claws,1,dark,-,-
+631,16,Incinerate,1,fire,60,100
+631,16,Inferno,1,fire,100,50
+631,11,Odor Sleuth,6,normal,-,-
+631,14,Odor Sleuth,6,normal,-,-
+631,15,Odor Sleuth,6,normal,-,-
+631,16,Odor Sleuth,6,normal,-,-
+631,11,Bind,11,normal,15,85
+631,14,Bind,11,normal,15,85
+631,15,Bind,11,normal,15,85
+631,16,Bind,11,normal,15,85
+631,11,Fire Spin,16,fire,35,85
+631,14,Fire Spin,16,fire,35,85
+631,15,Fire Spin,16,fire,35,85
+631,16,Fire Spin,16,fire,35,85
+631,11,Fury Swipes,21,normal,18,80
+631,14,Fury Swipes,21,normal,18,80
+631,15,Fury Swipes,21,normal,18,80
+631,16,Fury Swipes,21,normal,18,80
+631,11,Snatch,26,dark,-,-
+631,14,Snatch,26,dark,-,-
+631,15,Snatch,26,dark,-,-
+631,16,Snatch,26,dark,-,-
+631,11,Flame Burst,31,fire,70,100
+631,14,Flame Burst,31,fire,70,100
+631,15,Flame Burst,31,fire,70,100
+631,16,Flame Burst,31,fire,70,100
+631,11,Bug Bite,36,bug,60,100
+631,14,Bug Bite,36,bug,60,100
+631,15,Bug Bite,36,bug,60,100
+631,16,Bug Bite,36,bug,60,100
+631,11,Slash,41,normal,70,100
+631,14,Slash,41,normal,70,100
+631,15,Slash,41,normal,70,100
+631,16,Slash,41,normal,70,100
+631,15,Amnesia,44,psychic,-,-
+631,16,Amnesia,44,psychic,-,-
+631,11,Amnesia,46,psychic,-,-
+631,14,Amnesia,46,psychic,-,-
+631,15,Flamethrower,47,fire,90,100
+631,16,Flamethrower,47,fire,90,100
+631,15,Stockpile,50,normal,-,-
+631,15,Spit Up,50,normal,-,100
+631,15,Swallow,50,normal,-,-
+631,16,Stockpile,50,normal,-,-
+631,16,Spit Up,50,normal,-,100
+631,16,Swallow,50,normal,-,-
+631,11,Flamethrower,51,fire,90,100
+631,14,Flamethrower,51,fire,90,100
+631,11,Stockpile,56,normal,-,-
+631,11,Spit Up,56,normal,-,100
+631,11,Swallow,56,normal,-,-
+631,14,Stockpile,56,normal,-,-
+631,14,Spit Up,56,normal,-,100
+631,14,Swallow,56,normal,-,-
+631,11,Inferno,61,fire,100,50
+631,14,Inferno,61,fire,100,50
+631,15,Inferno,61,fire,100,50
+631,16,Inferno,61,fire,100,50

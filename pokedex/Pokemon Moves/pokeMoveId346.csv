@@ -1,0 +1,178 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+346,5,Acid,1,poison,40,100
+346,5,Constrict,1,normal,10,100
+346,5,Ingrain,1,grass,-,-
+346,5,Astonish,1,ghost,30,100
+346,6,Acid,1,poison,40,100
+346,6,Constrict,1,normal,10,100
+346,6,Ingrain,1,grass,-,-
+346,6,Astonish,1,ghost,30,100
+346,7,Acid,1,poison,40,100
+346,7,Constrict,1,normal,10,100
+346,7,Ingrain,1,grass,-,-
+346,7,Astonish,1,ghost,30,100
+346,8,Acid,1,poison,40,100
+346,8,Constrict,1,normal,10,100
+346,8,Ingrain,1,grass,-,-
+346,8,Astonish,1,ghost,30,100
+346,9,Acid,1,poison,40,100
+346,9,Constrict,1,normal,10,100
+346,9,Ingrain,1,grass,-,-
+346,9,Astonish,1,ghost,30,100
+346,10,Acid,1,poison,40,100
+346,10,Constrict,1,normal,10,100
+346,10,Ingrain,1,grass,-,-
+346,10,Astonish,1,ghost,30,100
+346,11,Acid,1,poison,40,100
+346,11,Constrict,1,normal,10,100
+346,11,Ingrain,1,grass,-,-
+346,11,Astonish,1,ghost,30,100
+346,12,Acid,1,poison,40,100
+346,12,Constrict,1,normal,10,100
+346,12,Ingrain,1,grass,-,-
+346,12,Astonish,1,ghost,30,100
+346,13,Acid,1,poison,40,100
+346,13,Constrict,1,normal,10,100
+346,13,Ingrain,1,grass,-,-
+346,13,Astonish,1,ghost,30,100
+346,14,Acid,1,poison,40,100
+346,14,Constrict,1,normal,10,100
+346,14,Ingrain,1,grass,-,-
+346,14,Astonish,1,ghost,30,100
+346,15,Acid,1,poison,40,100
+346,15,Constrict,1,normal,10,100
+346,15,Stockpile,1,normal,-,-
+346,15,Spit Up,1,normal,-,100
+346,15,Swallow,1,normal,-,-
+346,15,Ingrain,1,grass,-,-
+346,15,Astonish,1,ghost,30,100
+346,15,Wring Out,1,normal,-,100
+346,16,Acid,1,poison,40,100
+346,16,Constrict,1,normal,10,100
+346,16,Ingrain,1,grass,-,-
+346,16,Astonish,1,ghost,30,100
+346,16,Wring Out,1,normal,-,100
+346,16,Acid,5,poison,40,100
+346,5,Constrict,8,normal,10,100
+346,6,Constrict,8,normal,10,100
+346,7,Constrict,8,normal,10,100
+346,8,Acid,8,poison,40,100
+346,9,Acid,8,poison,40,100
+346,10,Acid,8,poison,40,100
+346,11,Acid,8,poison,40,100
+346,12,Constrict,8,normal,10,100
+346,13,Constrict,8,normal,10,100
+346,14,Acid,8,poison,40,100
+346,15,Acid,8,poison,40,100
+346,16,Ingrain,9,grass,-,-
+346,16,Confuse Ray,13,ghost,-,100
+346,5,Acid,15,poison,40,100
+346,6,Acid,15,poison,40,100
+346,7,Acid,15,poison,40,100
+346,8,Ingrain,15,grass,-,-
+346,9,Ingrain,15,grass,-,-
+346,10,Ingrain,15,grass,-,-
+346,11,Ingrain,15,grass,-,-
+346,12,Acid,15,poison,40,100
+346,13,Acid,15,poison,40,100
+346,14,Ingrain,15,grass,-,-
+346,15,Ingrain,15,grass,-,-
+346,16,Ancient Power,17,rock,60,100
+346,16,Brine,21,water,65,100
+346,5,Ingrain,22,grass,-,-
+346,6,Ingrain,22,grass,-,-
+346,7,Ingrain,22,grass,-,-
+346,8,Confuse Ray,22,ghost,-,100
+346,9,Confuse Ray,22,ghost,-,100
+346,10,Confuse Ray,22,ghost,-,100
+346,11,Confuse Ray,22,ghost,-,100
+346,12,Ingrain,22,grass,-,-
+346,13,Ingrain,22,grass,-,-
+346,14,Confuse Ray,22,ghost,-,100
+346,15,Confuse Ray,22,ghost,-,100
+346,16,Giga Drain,26,grass,75,100
+346,5,Confuse Ray,29,ghost,-,100
+346,6,Confuse Ray,29,ghost,-,100
+346,7,Confuse Ray,29,ghost,-,100
+346,8,Amnesia,29,psychic,-,-
+346,9,Amnesia,29,psychic,-,-
+346,10,Amnesia,29,psychic,-,-
+346,11,Amnesia,29,psychic,-,-
+346,12,Confuse Ray,29,ghost,-,100
+346,13,Confuse Ray,29,ghost,-,100
+346,14,Amnesia,29,psychic,-,-
+346,15,Amnesia,29,psychic,-,-
+346,16,Gastro Acid,31,poison,-,100
+346,5,Amnesia,36,psychic,-,-
+346,6,Amnesia,36,psychic,-,-
+346,7,Amnesia,36,psychic,-,-
+346,8,Ancient Power,36,rock,60,100
+346,9,Ancient Power,36,rock,60,100
+346,10,Ancient Power,36,rock,60,100
+346,11,Ancient Power,36,rock,60,100
+346,12,Amnesia,36,psychic,-,-
+346,13,Amnesia,36,psychic,-,-
+346,14,Ancient Power,36,rock,60,100
+346,15,Ancient Power,36,rock,60,100
+346,16,Amnesia,36,psychic,-,-
+346,16,Energy Ball,44,grass,90,100
+346,8,Gastro Acid,46,poison,-,100
+346,9,Gastro Acid,46,poison,-,100
+346,10,Gastro Acid,46,poison,-,100
+346,11,Gastro Acid,46,poison,-,100
+346,14,Gastro Acid,46,poison,-,100
+346,15,Gastro Acid,46,poison,-,100
+346,5,Ancient Power,48,rock,60,100
+346,6,Ancient Power,48,rock,60,100
+346,7,Ancient Power,48,rock,60,100
+346,12,Ancient Power,48,rock,60,100
+346,13,Ancient Power,48,rock,60,100
+346,16,Stockpile,52,normal,-,-
+346,16,Spit Up,52,normal,-,100
+346,16,Swallow,52,normal,-,-
+346,8,Energy Ball,56,grass,90,100
+346,9,Energy Ball,56,grass,90,100
+346,10,Energy Ball,56,grass,90,100
+346,11,Energy Ball,56,grass,90,100
+346,14,Energy Ball,56,grass,90,100
+346,15,Energy Ball,56,grass,90,100
+346,5,Stockpile,60,normal,-,-
+346,5,Spit Up,60,normal,-,100
+346,5,Swallow,60,normal,-,-
+346,6,Stockpile,60,normal,-,-
+346,6,Spit Up,60,normal,-,100
+346,6,Swallow,60,normal,-,-
+346,7,Stockpile,60,normal,-,-
+346,7,Spit Up,60,normal,-,100
+346,7,Swallow,60,normal,-,-
+346,12,Stockpile,60,normal,-,-
+346,12,Spit Up,60,normal,-,100
+346,12,Swallow,60,normal,-,-
+346,13,Stockpile,60,normal,-,-
+346,13,Spit Up,60,normal,-,100
+346,13,Swallow,60,normal,-,-
+346,16,Wring Out,61,normal,-,100
+346,8,Stockpile,66,normal,-,-
+346,8,Spit Up,66,normal,-,100
+346,8,Swallow,66,normal,-,-
+346,9,Stockpile,66,normal,-,-
+346,9,Spit Up,66,normal,-,100
+346,9,Swallow,66,normal,-,-
+346,10,Stockpile,66,normal,-,-
+346,10,Spit Up,66,normal,-,100
+346,10,Swallow,66,normal,-,-
+346,11,Stockpile,66,normal,-,-
+346,11,Spit Up,66,normal,-,100
+346,11,Swallow,66,normal,-,-
+346,14,Stockpile,66,normal,-,-
+346,14,Spit Up,66,normal,-,100
+346,14,Swallow,66,normal,-,-
+346,15,Stockpile,66,normal,-,-
+346,15,Spit Up,66,normal,-,100
+346,15,Swallow,66,normal,-,-
+346,8,Wring Out,76,normal,-,100
+346,9,Wring Out,76,normal,-,100
+346,10,Wring Out,76,normal,-,100
+346,11,Wring Out,76,normal,-,100
+346,14,Wring Out,76,normal,-,100
+346,15,Wring Out,76,normal,-,100

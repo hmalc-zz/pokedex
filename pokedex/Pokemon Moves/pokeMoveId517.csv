@@ -1,0 +1,69 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+517,11,Defense Curl,1,normal,-,-
+517,11,Psywave,1,psychic,-,100
+517,14,Defense Curl,1,normal,-,-
+517,14,Psywave,1,psychic,-,100
+517,15,Defense Curl,1,normal,-,-
+517,15,Psywave,1,psychic,-,100
+517,16,Defense Curl,1,normal,-,-
+517,16,Psywave,1,psychic,-,100
+517,11,Lucky Chant,5,normal,-,-
+517,14,Lucky Chant,5,normal,-,-
+517,15,Lucky Chant,5,normal,-,-
+517,16,Lucky Chant,5,normal,-,-
+517,11,Yawn,7,normal,-,-
+517,14,Yawn,7,normal,-,-
+517,15,Yawn,7,normal,-,-
+517,16,Yawn,7,normal,-,-
+517,11,Psybeam,11,psychic,65,100
+517,14,Psybeam,11,psychic,65,100
+517,15,Psybeam,11,psychic,65,100
+517,16,Psybeam,11,psychic,65,100
+517,11,Imprison,13,psychic,-,-
+517,14,Imprison,13,psychic,-,-
+517,15,Imprison,13,psychic,-,-
+517,16,Imprison,13,psychic,-,-
+517,11,Moonlight,17,fairy,-,-
+517,14,Moonlight,17,fairy,-,-
+517,15,Moonlight,17,fairy,-,-
+517,16,Moonlight,17,fairy,-,-
+517,11,Hypnosis,19,psychic,-,60
+517,14,Hypnosis,19,psychic,-,60
+517,15,Hypnosis,19,psychic,-,60
+517,16,Hypnosis,19,psychic,-,60
+517,11,Zen Headbutt,23,psychic,80,90
+517,14,Zen Headbutt,23,psychic,80,90
+517,15,Zen Headbutt,23,psychic,80,90
+517,16,Zen Headbutt,23,psychic,80,90
+517,11,Synchronoise,25,psychic,120,100
+517,14,Synchronoise,25,psychic,120,100
+517,15,Synchronoise,25,psychic,120,100
+517,16,Synchronoise,25,psychic,120,100
+517,11,Nightmare,29,ghost,-,100
+517,14,Nightmare,29,ghost,-,100
+517,15,Nightmare,29,ghost,-,100
+517,16,Nightmare,29,ghost,-,100
+517,11,Future Sight,31,psychic,120,100
+517,14,Future Sight,31,psychic,120,100
+517,15,Future Sight,31,psychic,120,100
+517,16,Future Sight,31,psychic,120,100
+517,11,Calm Mind,35,psychic,-,-
+517,14,Calm Mind,35,psychic,-,-
+517,15,Calm Mind,35,psychic,-,-
+517,16,Calm Mind,35,psychic,-,-
+517,11,Psychic,37,psychic,90,100
+517,14,Psychic,37,psychic,90,100
+517,15,Psychic,37,psychic,90,100
+517,16,Psychic,37,psychic,90,100
+517,11,Dream Eater,41,psychic,100,100
+517,14,Dream Eater,41,psychic,100,100
+517,15,Dream Eater,41,psychic,100,100
+517,16,Dream Eater,41,psychic,100,100
+517,11,Telekinesis,43,psychic,-,-
+517,14,Telekinesis,43,psychic,-,-
+517,15,Telekinesis,43,psychic,-,-
+517,16,Telekinesis,43,psychic,-,-
+517,11,Stored Power,47,psychic,20,100
+517,14,Stored Power,47,psychic,20,100
+517,15,Stored Power,47,psychic,20,100
+517,16,Stored Power,47,psychic,20,100

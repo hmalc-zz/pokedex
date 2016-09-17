@@ -1,0 +1,166 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+175,3,Growl,1,normal,-,100
+175,3,Charm,1,fairy,-,100
+175,4,Growl,1,normal,-,100
+175,4,Charm,1,fairy,-,100
+175,5,Growl,1,normal,-,100
+175,5,Charm,1,fairy,-,100
+175,6,Growl,1,normal,-,100
+175,6,Charm,1,fairy,-,100
+175,7,Growl,1,normal,-,100
+175,7,Charm,1,fairy,-,100
+175,8,Growl,1,normal,-,100
+175,8,Charm,1,fairy,-,100
+175,9,Growl,1,normal,-,100
+175,9,Charm,1,fairy,-,100
+175,10,Growl,1,normal,-,100
+175,10,Charm,1,fairy,-,100
+175,11,Growl,1,normal,-,100
+175,11,Charm,1,fairy,-,100
+175,12,Growl,1,normal,-,100
+175,12,Charm,1,fairy,-,100
+175,13,Growl,1,normal,-,100
+175,13,Charm,1,fairy,-,100
+175,14,Growl,1,normal,-,100
+175,14,Charm,1,fairy,-,100
+175,15,Growl,1,normal,-,100
+175,15,Charm,1,fairy,-,100
+175,16,Growl,1,normal,-,100
+175,16,Charm,1,fairy,-,100
+175,7,Metronome,4,normal,-,-
+175,11,Metronome,5,normal,-,-
+175,14,Metronome,5,normal,-,-
+175,15,Metronome,5,normal,-,-
+175,16,Metronome,5,normal,-,-
+175,5,Metronome,6,normal,-,-
+175,6,Metronome,6,normal,-,-
+175,8,Metronome,6,normal,-,-
+175,9,Metronome,6,normal,-,-
+175,10,Metronome,6,normal,-,-
+175,12,Metronome,6,normal,-,-
+175,13,Metronome,6,normal,-,-
+175,3,Metronome,7,normal,-,-
+175,4,Metronome,7,normal,-,-
+175,7,Sweet Kiss,9,fairy,-,75
+175,11,Sweet Kiss,9,fairy,-,75
+175,14,Sweet Kiss,9,fairy,-,75
+175,15,Sweet Kiss,9,fairy,-,75
+175,16,Sweet Kiss,9,fairy,-,75
+175,8,Sweet Kiss,10,fairy,-,75
+175,9,Sweet Kiss,10,fairy,-,75
+175,10,Sweet Kiss,10,fairy,-,75
+175,5,Sweet Kiss,11,fairy,-,75
+175,6,Sweet Kiss,11,fairy,-,75
+175,12,Sweet Kiss,11,fairy,-,75
+175,13,Sweet Kiss,11,fairy,-,75
+175,7,Yawn,13,normal,-,-
+175,11,Yawn,13,normal,-,-
+175,14,Yawn,13,normal,-,-
+175,15,Yawn,13,normal,-,-
+175,16,Yawn,13,normal,-,-
+175,8,Yawn,15,normal,-,-
+175,9,Yawn,15,normal,-,-
+175,10,Yawn,15,normal,-,-
+175,5,Yawn,16,normal,-,-
+175,6,Yawn,16,normal,-,-
+175,12,Yawn,16,normal,-,-
+175,13,Yawn,16,normal,-,-
+175,7,Encore,17,normal,-,100
+175,11,Encore,17,normal,-,100
+175,14,Encore,17,normal,-,100
+175,15,Encore,17,normal,-,100
+175,16,Encore,17,normal,-,100
+175,3,Sweet Kiss,18,fairy,-,75
+175,4,Sweet Kiss,18,fairy,-,75
+175,8,Encore,19,normal,-,100
+175,9,Encore,19,normal,-,100
+175,10,Encore,19,normal,-,100
+175,5,Encore,21,normal,-,100
+175,6,Encore,21,normal,-,100
+175,7,Ancient Power,21,rock,60,100
+175,11,Follow Me,21,normal,-,-
+175,12,Encore,21,normal,-,100
+175,13,Encore,21,normal,-,100
+175,14,Follow Me,21,normal,-,-
+175,15,Follow Me,21,normal,-,-
+175,16,Follow Me,21,normal,-,-
+175,8,Follow Me,24,normal,-,-
+175,9,Follow Me,24,normal,-,-
+175,10,Follow Me,24,normal,-,-
+175,3,Encore,25,normal,-,100
+175,4,Encore,25,normal,-,100
+175,7,Follow Me,25,normal,-,-
+175,11,Bestow,25,normal,-,-
+175,14,Bestow,25,normal,-,-
+175,15,Bestow,25,normal,-,-
+175,16,Bestow,25,normal,-,-
+175,5,Follow Me,26,normal,-,-
+175,6,Follow Me,26,normal,-,-
+175,12,Follow Me,26,normal,-,-
+175,13,Follow Me,26,normal,-,-
+175,8,Wish,28,normal,-,-
+175,9,Wish,28,normal,-,-
+175,10,Wish,28,normal,-,-
+175,7,Wish,29,normal,-,-
+175,11,Wish,29,normal,-,-
+175,14,Wish,29,normal,-,-
+175,15,Wish,29,normal,-,-
+175,16,Wish,29,normal,-,-
+175,3,Safeguard,31,normal,-,-
+175,4,Safeguard,31,normal,-,-
+175,5,Wish,31,normal,-,-
+175,6,Wish,31,normal,-,-
+175,12,Wish,31,normal,-,-
+175,13,Wish,31,normal,-,-
+175,7,Safeguard,33,normal,-,-
+175,8,Ancient Power,33,rock,60,100
+175,9,Ancient Power,33,rock,60,100
+175,10,Ancient Power,33,rock,60,100
+175,11,Ancient Power,33,rock,60,100
+175,14,Ancient Power,33,rock,60,100
+175,15,Ancient Power,33,rock,60,100
+175,16,Ancient Power,33,rock,60,100
+175,5,Safeguard,36,normal,-,-
+175,6,Safeguard,36,normal,-,-
+175,12,Safeguard,36,normal,-,-
+175,13,Safeguard,36,normal,-,-
+175,7,Double-Edge,37,normal,120,100
+175,8,Safeguard,37,normal,-,-
+175,9,Safeguard,37,normal,-,-
+175,10,Safeguard,37,normal,-,-
+175,11,Safeguard,37,normal,-,-
+175,14,Safeguard,37,normal,-,-
+175,15,Safeguard,37,normal,-,-
+175,16,Safeguard,37,normal,-,-
+175,3,Double-Edge,38,normal,120,100
+175,4,Double-Edge,38,normal,120,100
+175,5,Double-Edge,41,normal,120,100
+175,6,Double-Edge,41,normal,120,100
+175,7,Baton Pass,41,normal,-,-
+175,11,Baton Pass,41,normal,-,-
+175,12,Double-Edge,41,normal,120,100
+175,13,Double-Edge,41,normal,120,100
+175,14,Baton Pass,41,normal,-,-
+175,15,Baton Pass,41,normal,-,-
+175,16,Baton Pass,41,normal,-,-
+175,8,Baton Pass,42,normal,-,-
+175,9,Baton Pass,42,normal,-,-
+175,10,Baton Pass,42,normal,-,-
+175,11,Double-Edge,45,normal,120,100
+175,14,Double-Edge,45,normal,120,100
+175,15,Double-Edge,45,normal,120,100
+175,16,Double-Edge,45,normal,120,100
+175,8,Double-Edge,46,normal,120,100
+175,9,Double-Edge,46,normal,120,100
+175,10,Double-Edge,46,normal,120,100
+175,11,Last Resort,49,normal,140,100
+175,14,Last Resort,49,normal,140,100
+175,15,Last Resort,49,normal,140,100
+175,16,Last Resort,49,normal,140,100
+175,8,Last Resort,51,normal,140,100
+175,9,Last Resort,51,normal,140,100
+175,10,Last Resort,51,normal,140,100
+175,11,After You,53,normal,-,-
+175,14,After You,53,normal,-,-
+175,15,After You,53,normal,-,-
+175,16,After You,53,normal,-,-

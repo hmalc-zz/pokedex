@@ -1,0 +1,25 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+541,11,Tackle,1,normal,50,100
+541,11,Razor Leaf,1,grass,55,95
+541,11,String Shot,1,bug,-,95
+541,11,Grass Whistle,1,grass,-,55
+541,11,Bug Bite,1,bug,60,100
+541,14,Tackle,1,normal,50,100
+541,14,Razor Leaf,1,grass,55,95
+541,14,String Shot,1,bug,-,95
+541,14,Grass Whistle,1,grass,-,55
+541,14,Bug Bite,1,bug,60,100
+541,15,Tackle,1,normal,50,100
+541,15,Razor Leaf,1,grass,55,95
+541,15,String Shot,1,bug,-,95
+541,15,Grass Whistle,1,grass,-,55
+541,15,Bug Bite,1,bug,60,100
+541,16,Tackle,1,normal,50,100
+541,16,Razor Leaf,1,grass,55,95
+541,16,String Shot,1,bug,-,95
+541,16,Grass Whistle,1,grass,-,55
+541,16,Bug Bite,1,bug,60,100
+541,11,Protect,20,normal,-,-
+541,14,Protect,20,normal,-,-
+541,15,Protect,20,normal,-,-
+541,16,Protect,20,normal,-,-

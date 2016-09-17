@@ -1,0 +1,29 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+650,15,Tackle,1,normal,50,100
+650,15,Growl,1,normal,-,100
+650,16,Tackle,1,normal,50,100
+650,16,Growl,1,normal,-,100
+650,15,Vine Whip,5,grass,45,100
+650,16,Vine Whip,5,grass,45,100
+650,15,Rollout,8,rock,30,90
+650,16,Rollout,8,rock,30,90
+650,15,Bite,11,dark,60,100
+650,16,Bite,11,dark,60,100
+650,15,Leech Seed,15,grass,-,90
+650,16,Leech Seed,15,grass,-,90
+650,15,Pin Missile,18,bug,25,95
+650,16,Pin Missile,18,bug,25,95
+650,15,Take Down,27,normal,90,85
+650,16,Take Down,27,normal,90,85
+650,15,Seed Bomb,32,grass,80,100
+650,16,Seed Bomb,32,grass,80,100
+650,15,Mud Shot,35,ground,55,95
+650,16,Mud Shot,35,ground,55,95
+650,15,Bulk Up,39,fighting,-,-
+650,16,Bulk Up,39,fighting,-,-
+650,15,Body Slam,42,normal,85,100
+650,16,Body Slam,42,normal,85,100
+650,15,Pain Split,45,normal,-,-
+650,16,Pain Split,45,normal,-,-
+650,15,Wood Hammer,48,grass,120,100
+650,16,Wood Hammer,48,grass,120,100

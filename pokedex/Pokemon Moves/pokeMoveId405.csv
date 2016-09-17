@@ -1,0 +1,100 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+405,8,Tackle,1,normal,50,100
+405,8,Leer,1,normal,-,100
+405,8,Charge,1,electric,-,-
+405,9,Tackle,1,normal,50,100
+405,9,Leer,1,normal,-,100
+405,9,Charge,1,electric,-,-
+405,10,Tackle,1,normal,50,100
+405,10,Leer,1,normal,-,100
+405,10,Charge,1,electric,-,-
+405,11,Tackle,1,normal,50,100
+405,11,Leer,1,normal,-,100
+405,11,Charge,1,electric,-,-
+405,14,Tackle,1,normal,50,100
+405,14,Leer,1,normal,-,100
+405,14,Charge,1,electric,-,-
+405,15,Tackle,1,normal,50,100
+405,15,Leer,1,normal,-,100
+405,15,Charge,1,electric,-,-
+405,15,Electric Terrain,1,electric,-,-
+405,16,Tackle,1,normal,50,100
+405,16,Leer,1,normal,-,100
+405,16,Charge,1,electric,-,-
+405,16,Electric Terrain,1,electric,-,-
+405,8,Leer,5,normal,-,100
+405,9,Leer,5,normal,-,100
+405,10,Leer,5,normal,-,100
+405,11,Leer,5,normal,-,100
+405,14,Leer,5,normal,-,100
+405,15,Leer,5,normal,-,100
+405,16,Leer,5,normal,-,100
+405,8,Charge,9,electric,-,-
+405,9,Charge,9,electric,-,-
+405,10,Charge,9,electric,-,-
+405,11,Charge,9,electric,-,-
+405,14,Charge,9,electric,-,-
+405,15,Charge,9,electric,-,-
+405,16,Charge,9,electric,-,-
+405,8,Bite,13,dark,60,100
+405,9,Spark,13,electric,65,100
+405,10,Spark,13,electric,65,100
+405,11,Spark,13,electric,65,100
+405,14,Spark,13,electric,65,100
+405,15,Spark,13,electric,65,100
+405,16,Spark,13,electric,65,100
+405,8,Spark,18,electric,65,100
+405,9,Bite,18,dark,60,100
+405,10,Bite,18,dark,60,100
+405,11,Bite,18,dark,60,100
+405,14,Bite,18,dark,60,100
+405,15,Bite,18,dark,60,100
+405,16,Bite,18,dark,60,100
+405,8,Roar,23,normal,-,-
+405,9,Roar,23,normal,-,-
+405,10,Roar,23,normal,-,-
+405,11,Roar,23,normal,-,-
+405,14,Roar,23,normal,-,-
+405,15,Roar,23,normal,-,-
+405,16,Roar,23,normal,-,-
+405,8,Swagger,28,normal,-,90
+405,9,Swagger,28,normal,-,90
+405,10,Swagger,28,normal,-,90
+405,11,Swagger,28,normal,-,90
+405,14,Swagger,28,normal,-,90
+405,15,Swagger,28,normal,-,90
+405,16,Swagger,28,normal,-,90
+405,8,Crunch,35,dark,80,100
+405,9,Thunder Fang,35,electric,65,95
+405,10,Thunder Fang,35,electric,65,95
+405,11,Thunder Fang,35,electric,65,95
+405,14,Thunder Fang,35,electric,65,95
+405,15,Thunder Fang,35,electric,65,95
+405,16,Thunder Fang,35,electric,65,95
+405,8,Thunder Fang,42,electric,65,95
+405,9,Crunch,42,dark,80,100
+405,10,Crunch,42,dark,80,100
+405,11,Crunch,42,dark,80,100
+405,14,Crunch,42,dark,80,100
+405,15,Crunch,42,dark,80,100
+405,16,Crunch,42,dark,80,100
+405,8,Scary Face,49,normal,-,100
+405,9,Scary Face,49,normal,-,100
+405,10,Scary Face,49,normal,-,100
+405,11,Scary Face,49,normal,-,100
+405,14,Scary Face,49,normal,-,100
+405,15,Scary Face,49,normal,-,100
+405,16,Scary Face,49,normal,-,100
+405,8,Discharge,56,electric,80,100
+405,9,Discharge,56,electric,80,100
+405,10,Discharge,56,electric,80,100
+405,11,Discharge,56,electric,80,100
+405,14,Discharge,56,electric,80,100
+405,15,Discharge,56,electric,80,100
+405,16,Discharge,56,electric,80,100
+405,11,Wild Charge,63,electric,90,100
+405,14,Wild Charge,63,electric,90,100
+405,15,Wild Charge,63,electric,90,100
+405,16,Wild Charge,63,electric,90,100
+405,15,Electric Terrain,67,electric,-,-
+405,16,Electric Terrain,67,electric,-,-

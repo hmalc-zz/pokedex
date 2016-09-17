@@ -1,0 +1,81 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+38,1,Tail Whip,1,normal,-,100
+38,1,Roar,1,normal,-,-
+38,1,Ember,1,fire,40,100
+38,1,Quick Attack,1,normal,40,100
+38,2,Tail Whip,1,normal,-,100
+38,2,Roar,1,normal,-,-
+38,2,Ember,1,fire,40,100
+38,2,Quick Attack,1,normal,40,100
+38,3,Ember,1,fire,40,100
+38,3,Quick Attack,1,normal,40,100
+38,3,Confuse Ray,1,ghost,-,100
+38,3,Safeguard,1,normal,-,-
+38,4,Ember,1,fire,40,100
+38,4,Quick Attack,1,normal,40,100
+38,4,Confuse Ray,1,ghost,-,100
+38,4,Safeguard,1,normal,-,-
+38,5,Ember,1,fire,40,100
+38,5,Quick Attack,1,normal,40,100
+38,5,Confuse Ray,1,ghost,-,100
+38,5,Safeguard,1,normal,-,-
+38,6,Ember,1,fire,40,100
+38,6,Quick Attack,1,normal,40,100
+38,6,Confuse Ray,1,ghost,-,100
+38,6,Safeguard,1,normal,-,-
+38,7,Ember,1,fire,40,100
+38,7,Quick Attack,1,normal,40,100
+38,7,Confuse Ray,1,ghost,-,100
+38,7,Safeguard,1,normal,-,-
+38,8,Ember,1,fire,40,100
+38,8,Quick Attack,1,normal,40,100
+38,8,Confuse Ray,1,ghost,-,100
+38,8,Safeguard,1,normal,-,-
+38,8,Nasty Plot,1,dark,-,-
+38,9,Ember,1,fire,40,100
+38,9,Quick Attack,1,normal,40,100
+38,9,Confuse Ray,1,ghost,-,100
+38,9,Safeguard,1,normal,-,-
+38,9,Nasty Plot,1,dark,-,-
+38,10,Ember,1,fire,40,100
+38,10,Quick Attack,1,normal,40,100
+38,10,Confuse Ray,1,ghost,-,100
+38,10,Safeguard,1,normal,-,-
+38,10,Nasty Plot,1,dark,-,-
+38,11,Ember,1,fire,40,100
+38,11,Quick Attack,1,normal,40,100
+38,11,Confuse Ray,1,ghost,-,100
+38,11,Safeguard,1,normal,-,-
+38,11,Nasty Plot,1,dark,-,-
+38,12,Ember,1,fire,40,100
+38,12,Quick Attack,1,normal,40,100
+38,12,Confuse Ray,1,ghost,-,100
+38,12,Safeguard,1,normal,-,-
+38,13,Ember,1,fire,40,100
+38,13,Quick Attack,1,normal,40,100
+38,13,Confuse Ray,1,ghost,-,100
+38,13,Safeguard,1,normal,-,-
+38,14,Ember,1,fire,40,100
+38,14,Quick Attack,1,normal,40,100
+38,14,Confuse Ray,1,ghost,-,100
+38,14,Safeguard,1,normal,-,-
+38,14,Nasty Plot,1,dark,-,-
+38,15,Flamethrower,1,fire,90,100
+38,15,Quick Attack,1,normal,40,100
+38,15,Confuse Ray,1,ghost,-,100
+38,15,Safeguard,1,normal,-,-
+38,15,Imprison,1,psychic,-,-
+38,15,Nasty Plot,1,dark,-,-
+38,16,Flamethrower,1,fire,90,100
+38,16,Quick Attack,1,normal,40,100
+38,16,Confuse Ray,1,ghost,-,100
+38,16,Safeguard,1,normal,-,-
+38,16,Imprison,1,psychic,-,-
+38,16,Nasty Plot,1,dark,-,-
+38,3,Fire Spin,43,fire,35,85
+38,4,Fire Spin,43,fire,35,85
+38,5,Fire Spin,45,fire,35,85
+38,6,Fire Spin,45,fire,35,85
+38,7,Fire Spin,45,fire,35,85
+38,12,Fire Spin,45,fire,35,85
+38,13,Fire Spin,45,fire,35,85

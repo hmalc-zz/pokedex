@@ -1,0 +1,173 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+170,3,Thunder Wave,1,electric,-,100
+170,3,Bubble,1,water,40,100
+170,4,Thunder Wave,1,electric,-,100
+170,4,Bubble,1,water,40,100
+170,5,Thunder Wave,1,electric,-,100
+170,5,Bubble,1,water,40,100
+170,6,Thunder Wave,1,electric,-,100
+170,6,Bubble,1,water,40,100
+170,7,Thunder Wave,1,electric,-,100
+170,7,Bubble,1,water,40,100
+170,8,Supersonic,1,normal,-,55
+170,8,Bubble,1,water,40,100
+170,9,Supersonic,1,normal,-,55
+170,9,Bubble,1,water,40,100
+170,10,Supersonic,1,normal,-,55
+170,10,Bubble,1,water,40,100
+170,11,Supersonic,1,normal,-,55
+170,11,Bubble,1,water,40,100
+170,12,Thunder Wave,1,electric,-,100
+170,12,Bubble,1,water,40,100
+170,13,Thunder Wave,1,electric,-,100
+170,13,Bubble,1,water,40,100
+170,14,Supersonic,1,normal,-,55
+170,14,Bubble,1,water,40,100
+170,15,Supersonic,1,normal,-,55
+170,15,Water Gun,1,water,40,100
+170,16,Supersonic,1,normal,-,55
+170,16,Bubble,1,water,40,100
+170,3,Supersonic,5,normal,-,55
+170,4,Supersonic,5,normal,-,55
+170,5,Supersonic,5,normal,-,55
+170,6,Supersonic,5,normal,-,55
+170,7,Supersonic,5,normal,-,55
+170,12,Supersonic,5,normal,-,55
+170,13,Supersonic,5,normal,-,55
+170,8,Thunder Wave,6,electric,-,100
+170,9,Thunder Wave,6,electric,-,100
+170,10,Thunder Wave,6,electric,-,100
+170,11,Thunder Wave,6,electric,-,100
+170,14,Thunder Wave,6,electric,-,100
+170,15,Thunder Wave,6,electric,-,100
+170,16,Thunder Wave,6,electric,-,100
+170,8,Flail,9,normal,-,100
+170,9,Flail,9,normal,-,100
+170,10,Flail,9,normal,-,100
+170,11,Flail,9,normal,-,100
+170,14,Flail,9,normal,-,100
+170,15,Flail,9,normal,-,100
+170,16,Electro Ball,9,electric,-,100
+170,8,Water Gun,12,water,40,100
+170,9,Water Gun,12,water,40,100
+170,10,Water Gun,12,water,40,100
+170,11,Confuse Ray,12,ghost,-,100
+170,14,Confuse Ray,12,ghost,-,100
+170,15,Bubble,12,water,40,100
+170,16,Water Gun,12,water,40,100
+170,3,Flail,13,normal,-,100
+170,4,Flail,13,normal,-,100
+170,5,Flail,13,normal,-,100
+170,6,Flail,13,normal,-,100
+170,7,Flail,13,normal,-,100
+170,12,Flail,13,normal,-,100
+170,13,Flail,13,normal,-,100
+170,3,Water Gun,17,water,40,100
+170,4,Water Gun,17,water,40,100
+170,5,Water Gun,17,water,40,100
+170,6,Water Gun,17,water,40,100
+170,7,Water Gun,17,water,40,100
+170,8,Confuse Ray,17,ghost,-,100
+170,9,Confuse Ray,17,ghost,-,100
+170,10,Confuse Ray,17,ghost,-,100
+170,11,Water Gun,17,water,40,100
+170,12,Water Gun,17,water,40,100
+170,13,Water Gun,17,water,40,100
+170,14,Water Gun,17,water,40,100
+170,15,Confuse Ray,17,ghost,-,100
+170,16,Confuse Ray,17,ghost,-,100
+170,8,Spark,20,electric,65,100
+170,9,Spark,20,electric,65,100
+170,10,Spark,20,electric,65,100
+170,11,Spark,20,electric,65,100
+170,14,Spark,20,electric,65,100
+170,15,Spark,20,electric,65,100
+170,16,Bubble Beam,20,water,65,100
+170,8,Take Down,23,normal,90,85
+170,9,Take Down,23,normal,90,85
+170,10,Take Down,23,normal,90,85
+170,11,Take Down,23,normal,90,85
+170,14,Take Down,23,normal,90,85
+170,15,Take Down,23,normal,90,85
+170,16,Spark,23,electric,65,100
+170,3,Spark,25,electric,65,100
+170,4,Spark,25,electric,65,100
+170,5,Spark,25,electric,65,100
+170,6,Spark,25,electric,65,100
+170,7,Spark,25,electric,65,100
+170,12,Spark,25,electric,65,100
+170,13,Spark,25,electric,65,100
+170,8,Bubble Beam,28,water,65,100
+170,9,Bubble Beam,28,water,65,100
+170,10,Bubble Beam,28,water,65,100
+170,11,Electro Ball,28,electric,-,100
+170,14,Electro Ball,28,electric,-,100
+170,15,Electro Ball,28,electric,-,100
+170,16,Signal Beam,28,bug,75,100
+170,3,Confuse Ray,29,ghost,-,100
+170,4,Confuse Ray,29,ghost,-,100
+170,5,Confuse Ray,29,ghost,-,100
+170,6,Confuse Ray,29,ghost,-,100
+170,7,Confuse Ray,29,ghost,-,100
+170,12,Confuse Ray,29,ghost,-,100
+170,13,Confuse Ray,29,ghost,-,100
+170,8,Signal Beam,31,bug,75,100
+170,9,Signal Beam,31,bug,75,100
+170,10,Signal Beam,31,bug,75,100
+170,11,Bubble Beam,31,water,65,100
+170,14,Bubble Beam,31,water,65,100
+170,15,Bubble Beam,31,water,65,100
+170,16,Flail,31,normal,-,100
+170,8,Discharge,34,electric,80,100
+170,9,Discharge,34,electric,80,100
+170,10,Discharge,34,electric,80,100
+170,11,Signal Beam,34,bug,75,100
+170,14,Signal Beam,34,bug,75,100
+170,15,Signal Beam,34,bug,75,100
+170,16,Discharge,34,electric,80,100
+170,3,Take Down,37,normal,90,85
+170,4,Take Down,37,normal,90,85
+170,5,Take Down,37,normal,90,85
+170,6,Take Down,37,normal,90,85
+170,7,Take Down,37,normal,90,85
+170,12,Take Down,37,normal,90,85
+170,13,Take Down,37,normal,90,85
+170,8,Aqua Ring,39,water,-,-
+170,9,Aqua Ring,39,water,-,-
+170,10,Aqua Ring,39,water,-,-
+170,11,Discharge,39,electric,80,100
+170,14,Discharge,39,electric,80,100
+170,15,Discharge,39,electric,80,100
+170,16,Take Down,39,normal,90,85
+170,3,Hydro Pump,41,water,110,80
+170,4,Hydro Pump,41,water,110,80
+170,5,Hydro Pump,41,water,110,80
+170,6,Hydro Pump,41,water,110,80
+170,7,Hydro Pump,41,water,110,80
+170,12,Hydro Pump,41,water,110,80
+170,13,Hydro Pump,41,water,110,80
+170,8,Hydro Pump,42,water,110,80
+170,9,Hydro Pump,42,water,110,80
+170,10,Hydro Pump,42,water,110,80
+170,11,Aqua Ring,42,water,-,-
+170,14,Aqua Ring,42,water,-,-
+170,15,Aqua Ring,42,water,-,-
+170,16,Aqua Ring,42,water,-,-
+170,8,Charge,45,electric,-,-
+170,9,Charge,45,electric,-,-
+170,10,Charge,45,electric,-,-
+170,11,Hydro Pump,45,water,110,80
+170,14,Hydro Pump,45,water,110,80
+170,15,Hydro Pump,45,water,110,80
+170,16,Hydro Pump,45,water,110,80
+170,15,Ion Deluge,47,electric,-,-
+170,16,Ion Deluge,47,electric,-,-
+170,5,Charge,49,electric,-,-
+170,6,Charge,49,electric,-,-
+170,7,Charge,49,electric,-,-
+170,12,Charge,49,electric,-,-
+170,13,Charge,49,electric,-,-
+170,11,Charge,50,electric,-,-
+170,14,Charge,50,electric,-,-
+170,15,Charge,50,electric,-,-
+170,16,Charge,50,electric,-,-

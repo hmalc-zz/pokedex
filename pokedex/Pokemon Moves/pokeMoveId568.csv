@@ -1,0 +1,67 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+568,11,Pound,1,normal,40,100
+568,11,Poison Gas,1,poison,-,90
+568,14,Pound,1,normal,40,100
+568,14,Poison Gas,1,poison,-,90
+568,15,Pound,1,normal,40,100
+568,15,Poison Gas,1,poison,-,90
+568,16,Pound,1,normal,40,100
+568,16,Poison Gas,1,poison,-,90
+568,11,Recycle,3,normal,-,-
+568,14,Recycle,3,normal,-,-
+568,15,Recycle,3,normal,-,-
+568,16,Recycle,3,normal,-,-
+568,11,Toxic Spikes,7,poison,-,-
+568,14,Toxic Spikes,7,poison,-,-
+568,15,Toxic Spikes,7,poison,-,-
+568,16,Toxic Spikes,7,poison,-,-
+568,11,Acid Spray,12,poison,40,100
+568,14,Acid Spray,12,poison,40,100
+568,15,Acid Spray,12,poison,40,100
+568,16,Acid Spray,12,poison,40,100
+568,11,Double Slap,14,normal,15,85
+568,14,Double Slap,14,normal,15,85
+568,15,Double Slap,14,normal,15,85
+568,16,Double Slap,14,normal,15,85
+568,11,Sludge,18,poison,65,100
+568,14,Sludge,18,poison,65,100
+568,15,Sludge,18,poison,65,100
+568,16,Sludge,18,poison,65,100
+568,11,Stockpile,23,normal,-,-
+568,11,Swallow,23,normal,-,-
+568,14,Stockpile,23,normal,-,-
+568,14,Swallow,23,normal,-,-
+568,15,Stockpile,23,normal,-,-
+568,15,Swallow,23,normal,-,-
+568,16,Stockpile,23,normal,-,-
+568,16,Swallow,23,normal,-,-
+568,11,Take Down,25,normal,90,85
+568,14,Take Down,25,normal,90,85
+568,15,Take Down,25,normal,90,85
+568,16,Take Down,25,normal,90,85
+568,11,Sludge Bomb,29,poison,90,100
+568,14,Sludge Bomb,29,poison,90,100
+568,15,Sludge Bomb,29,poison,90,100
+568,16,Sludge Bomb,29,poison,90,100
+568,11,Clear Smog,34,poison,50,-
+568,14,Clear Smog,34,poison,50,-
+568,15,Clear Smog,34,poison,50,-
+568,16,Clear Smog,34,poison,50,-
+568,11,Toxic,36,poison,-,90
+568,14,Toxic,36,poison,-,90
+568,15,Toxic,36,poison,-,90
+568,16,Toxic,36,poison,-,90
+568,11,Amnesia,40,psychic,-,-
+568,14,Amnesia,40,psychic,-,-
+568,15,Amnesia,40,psychic,-,-
+568,16,Amnesia,40,psychic,-,-
+568,15,Belch,42,poison,120,90
+568,16,Belch,42,poison,120,90
+568,11,Gunk Shot,45,poison,120,80
+568,14,Gunk Shot,45,poison,120,80
+568,15,Gunk Shot,45,poison,120,80
+568,16,Gunk Shot,45,poison,120,80
+568,11,Explosion,47,normal,250,100
+568,14,Explosion,47,normal,250,100
+568,15,Explosion,47,normal,250,100
+568,16,Explosion,47,normal,250,100

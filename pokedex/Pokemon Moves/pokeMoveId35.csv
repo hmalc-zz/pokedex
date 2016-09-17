@@ -1,0 +1,242 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+35,1,Pound,1,normal,40,100
+35,1,Growl,1,normal,-,100
+35,2,Pound,1,normal,40,100
+35,2,Growl,1,normal,-,100
+35,3,Pound,1,normal,40,100
+35,3,Growl,1,normal,-,100
+35,4,Pound,1,normal,40,100
+35,4,Growl,1,normal,-,100
+35,5,Pound,1,normal,40,100
+35,5,Growl,1,normal,-,100
+35,6,Pound,1,normal,40,100
+35,6,Growl,1,normal,-,100
+35,7,Pound,1,normal,40,100
+35,7,Growl,1,normal,-,100
+35,8,Pound,1,normal,40,100
+35,8,Growl,1,normal,-,100
+35,9,Pound,1,normal,40,100
+35,9,Growl,1,normal,-,100
+35,10,Pound,1,normal,40,100
+35,10,Growl,1,normal,-,100
+35,11,Pound,1,normal,40,100
+35,11,Growl,1,normal,-,100
+35,12,Pound,1,normal,40,100
+35,12,Growl,1,normal,-,100
+35,13,Pound,1,normal,40,100
+35,13,Growl,1,normal,-,100
+35,14,Pound,1,normal,40,100
+35,14,Growl,1,normal,-,100
+35,15,Pound,1,normal,40,100
+35,15,Growl,1,normal,-,100
+35,15,Encore,1,normal,-,100
+35,15,Healing Wish,1,psychic,-,-
+35,15,After You,1,normal,-,-
+35,15,Disarming Voice,1,fairy,40,-
+35,16,Pound,1,normal,40,100
+35,16,Growl,1,normal,-,100
+35,16,Encore,1,normal,-,100
+35,16,Healing Wish,1,psychic,-,-
+35,16,After You,1,normal,-,-
+35,16,Disarming Voice,1,fairy,40,-
+35,3,Encore,4,normal,-,100
+35,4,Encore,4,normal,-,100
+35,8,Encore,4,normal,-,100
+35,9,Encore,4,normal,-,100
+35,10,Encore,4,normal,-,100
+35,11,Encore,4,normal,-,100
+35,14,Encore,4,normal,-,100
+35,5,Encore,5,normal,-,100
+35,6,Encore,5,normal,-,100
+35,7,Encore,5,normal,-,100
+35,12,Encore,5,normal,-,100
+35,13,Encore,5,normal,-,100
+35,8,Sing,7,normal,-,55
+35,9,Sing,7,normal,-,55
+35,10,Sing,7,normal,-,55
+35,11,Sing,7,normal,-,55
+35,14,Sing,7,normal,-,55
+35,15,Sing,7,normal,-,55
+35,16,Sing,7,normal,-,55
+35,3,Sing,8,normal,-,55
+35,4,Sing,8,normal,-,55
+35,5,Sing,9,normal,-,55
+35,6,Sing,9,normal,-,55
+35,7,Sing,9,normal,-,55
+35,12,Sing,9,normal,-,55
+35,13,Sing,9,normal,-,55
+35,8,Double Slap,10,normal,15,85
+35,9,Double Slap,10,normal,15,85
+35,10,Double Slap,10,normal,15,85
+35,11,Double Slap,10,normal,15,85
+35,14,Double Slap,10,normal,15,85
+35,15,Double Slap,10,normal,15,85
+35,16,Double Slap,10,normal,15,85
+35,1,Sing,13,normal,-,55
+35,2,Sing,13,normal,-,55
+35,3,Double Slap,13,normal,15,85
+35,4,Double Slap,13,normal,15,85
+35,5,Double Slap,13,normal,15,85
+35,6,Double Slap,13,normal,15,85
+35,7,Double Slap,13,normal,15,85
+35,8,Defense Curl,13,normal,-,-
+35,9,Defense Curl,13,normal,-,-
+35,10,Defense Curl,13,normal,-,-
+35,11,Defense Curl,13,normal,-,-
+35,12,Double Slap,13,normal,15,85
+35,13,Double Slap,13,normal,15,85
+35,14,Defense Curl,13,normal,-,-
+35,15,Defense Curl,13,normal,-,-
+35,16,Defense Curl,13,normal,-,-
+35,8,Follow Me,16,normal,-,-
+35,9,Follow Me,16,normal,-,-
+35,10,Follow Me,16,normal,-,-
+35,11,Follow Me,16,normal,-,-
+35,14,Follow Me,16,normal,-,-
+35,15,Follow Me,16,normal,-,-
+35,16,Follow Me,16,normal,-,-
+35,5,Follow Me,17,normal,-,-
+35,6,Follow Me,17,normal,-,-
+35,7,Follow Me,17,normal,-,-
+35,12,Follow Me,17,normal,-,-
+35,13,Follow Me,17,normal,-,-
+35,1,Double Slap,18,normal,15,85
+35,2,Double Slap,18,normal,15,85
+35,3,Minimize,19,normal,-,-
+35,4,Minimize,19,normal,-,-
+35,8,Minimize,19,normal,-,-
+35,9,Minimize,19,normal,-,-
+35,10,Minimize,19,normal,-,-
+35,11,Minimize,19,normal,-,-
+35,14,Bestow,19,normal,-,-
+35,15,Bestow,19,normal,-,-
+35,16,Bestow,19,normal,-,-
+35,5,Minimize,21,normal,-,-
+35,6,Minimize,21,normal,-,-
+35,7,Minimize,21,normal,-,-
+35,12,Minimize,21,normal,-,-
+35,13,Minimize,21,normal,-,-
+35,8,Wake-Up Slap,22,fighting,70,100
+35,9,Wake-Up Slap,22,fighting,70,100
+35,10,Wake-Up Slap,22,fighting,70,100
+35,11,Wake-Up Slap,22,fighting,70,100
+35,14,Wake-Up Slap,22,fighting,70,100
+35,15,Wake-Up Slap,22,fighting,70,100
+35,16,Wake-Up Slap,22,fighting,70,100
+35,1,Minimize,24,normal,-,-
+35,2,Minimize,24,normal,-,-
+35,5,Defense Curl,25,normal,-,-
+35,6,Defense Curl,25,normal,-,-
+35,7,Defense Curl,25,normal,-,-
+35,8,Cosmic Power,25,psychic,-,-
+35,9,Cosmic Power,25,psychic,-,-
+35,10,Cosmic Power,25,psychic,-,-
+35,11,Bestow,25,normal,-,-
+35,12,Defense Curl,25,normal,-,-
+35,13,Defense Curl,25,normal,-,-
+35,14,Minimize,25,normal,-,-
+35,15,Minimize,25,normal,-,-
+35,16,Minimize,25,normal,-,-
+35,3,Defense Curl,26,normal,-,-
+35,4,Defense Curl,26,normal,-,-
+35,8,Lucky Chant,28,normal,-,-
+35,9,Lucky Chant,28,normal,-,-
+35,10,Lucky Chant,28,normal,-,-
+35,11,Cosmic Power,28,psychic,-,-
+35,14,Stored Power,28,psychic,20,100
+35,15,Stored Power,28,psychic,20,100
+35,16,Stored Power,28,psychic,20,100
+35,5,Metronome,29,normal,-,-
+35,6,Metronome,29,normal,-,-
+35,7,Metronome,29,normal,-,-
+35,12,Metronome,29,normal,-,-
+35,13,Metronome,29,normal,-,-
+35,1,Metronome,31,normal,-,-
+35,2,Metronome,31,normal,-,-
+35,8,Metronome,31,normal,-,-
+35,9,Metronome,31,normal,-,-
+35,10,Metronome,31,normal,-,-
+35,11,Lucky Chant,31,normal,-,-
+35,14,Metronome,31,normal,-,-
+35,15,Metronome,31,normal,-,-
+35,16,Metronome,31,normal,-,-
+35,5,Cosmic Power,33,psychic,-,-
+35,6,Cosmic Power,33,psychic,-,-
+35,7,Cosmic Power,33,psychic,-,-
+35,12,Cosmic Power,33,psychic,-,-
+35,13,Cosmic Power,33,psychic,-,-
+35,3,Metronome,34,normal,-,-
+35,4,Metronome,34,normal,-,-
+35,8,Gravity,34,psychic,-,-
+35,9,Gravity,34,psychic,-,-
+35,10,Gravity,34,psychic,-,-
+35,11,Metronome,34,normal,-,-
+35,14,Cosmic Power,34,psychic,-,-
+35,15,Cosmic Power,34,psychic,-,-
+35,16,Cosmic Power,34,psychic,-,-
+35,5,Moonlight,37,fairy,-,-
+35,6,Moonlight,37,fairy,-,-
+35,7,Moonlight,37,fairy,-,-
+35,8,Moonlight,37,fairy,-,-
+35,9,Moonlight,37,fairy,-,-
+35,10,Moonlight,37,fairy,-,-
+35,11,Gravity,37,psychic,-,-
+35,12,Moonlight,37,fairy,-,-
+35,13,Moonlight,37,fairy,-,-
+35,14,Lucky Chant,37,normal,-,-
+35,15,Lucky Chant,37,normal,-,-
+35,16,Lucky Chant,37,normal,-,-
+35,1,Defense Curl,39,normal,-,-
+35,2,Defense Curl,39,normal,-,-
+35,8,Light Screen,40,psychic,-,-
+35,9,Light Screen,40,psychic,-,-
+35,10,Light Screen,40,psychic,-,-
+35,11,Moonlight,40,fairy,-,-
+35,14,Body Slam,40,normal,85,100
+35,15,Body Slam,40,normal,85,100
+35,16,Body Slam,40,normal,85,100
+35,5,Light Screen,41,psychic,-,-
+35,6,Light Screen,41,psychic,-,-
+35,7,Light Screen,41,psychic,-,-
+35,12,Light Screen,41,psychic,-,-
+35,13,Light Screen,41,psychic,-,-
+35,3,Moonlight,43,fairy,-,-
+35,4,Moonlight,43,fairy,-,-
+35,8,Meteor Mash,43,steel,90,90
+35,9,Meteor Mash,43,steel,90,90
+35,10,Meteor Mash,43,steel,90,90
+35,11,Stored Power,43,psychic,20,100
+35,14,Moonlight,43,fairy,-,-
+35,15,Moonlight,43,fairy,-,-
+35,16,Moonlight,43,fairy,-,-
+35,5,Meteor Mash,45,steel,90,90
+35,6,Meteor Mash,45,steel,90,90
+35,7,Meteor Mash,45,steel,90,90
+35,12,Meteor Mash,45,steel,90,90
+35,13,Meteor Mash,45,steel,90,90
+35,8,Healing Wish,46,psychic,-,-
+35,9,Healing Wish,46,psychic,-,-
+35,10,Healing Wish,46,psychic,-,-
+35,11,Light Screen,46,psychic,-,-
+35,14,Light Screen,46,psychic,-,-
+35,15,Moonblast,46,fairy,95,100
+35,16,Moonblast,46,fairy,95,100
+35,1,Light Screen,48,psychic,-,-
+35,2,Light Screen,48,psychic,-,-
+35,11,Healing Wish,49,psychic,-,-
+35,14,Gravity,49,psychic,-,-
+35,15,Gravity,49,psychic,-,-
+35,16,Gravity,49,psychic,-,-
+35,15,Meteor Mash,50,steel,90,90
+35,16,Meteor Mash,50,steel,90,90
+35,11,After You,52,normal,-,-
+35,14,Meteor Mash,52,steel,90,90
+35,3,Light Screen,53,psychic,-,-
+35,4,Light Screen,53,psychic,-,-
+35,11,Meteor Mash,55,steel,90,90
+35,14,Healing Wish,55,psychic,-,-
+35,15,Healing Wish,55,psychic,-,-
+35,16,Healing Wish,55,psychic,-,-
+35,14,After You,58,normal,-,-
+35,15,After You,58,normal,-,-
+35,16,After You,58,normal,-,-

@@ -1,0 +1,143 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+472,8,Sand Attack,1,ground,-,100
+472,8,Harden,1,normal,-,-
+472,8,Knock Off,1,dark,65,100
+472,8,Poison Jab,1,poison,80,100
+472,8,Thunder Fang,1,electric,65,95
+472,8,Ice Fang,1,ice,65,95
+472,8,Fire Fang,1,fire,65,95
+472,9,Sand Attack,1,ground,-,100
+472,9,Harden,1,normal,-,-
+472,9,Knock Off,1,dark,65,100
+472,9,Poison Jab,1,poison,80,100
+472,9,Thunder Fang,1,electric,65,95
+472,9,Ice Fang,1,ice,65,95
+472,9,Fire Fang,1,fire,65,95
+472,10,Sand Attack,1,ground,-,100
+472,10,Harden,1,normal,-,-
+472,10,Knock Off,1,dark,65,100
+472,10,Poison Jab,1,poison,80,100
+472,10,Thunder Fang,1,electric,65,95
+472,10,Ice Fang,1,ice,65,95
+472,10,Fire Fang,1,fire,65,95
+472,11,Sand Attack,1,ground,-,100
+472,11,Harden,1,normal,-,-
+472,11,Knock Off,1,dark,65,100
+472,11,Poison Jab,1,poison,80,100
+472,11,Thunder Fang,1,electric,65,95
+472,11,Ice Fang,1,ice,65,95
+472,11,Fire Fang,1,fire,65,95
+472,14,Sand Attack,1,ground,-,100
+472,14,Harden,1,normal,-,-
+472,14,Knock Off,1,dark,65,100
+472,14,Poison Jab,1,poison,80,100
+472,14,Thunder Fang,1,electric,65,95
+472,14,Ice Fang,1,ice,65,95
+472,14,Fire Fang,1,fire,65,95
+472,15,Guillotine,1,normal,-,30
+472,15,Sand Attack,1,ground,-,100
+472,15,Harden,1,normal,-,-
+472,15,Knock Off,1,dark,65,100
+472,15,Poison Jab,1,poison,80,100
+472,15,Thunder Fang,1,electric,65,95
+472,15,Ice Fang,1,ice,65,95
+472,15,Fire Fang,1,fire,65,95
+472,16,Guillotine,1,normal,-,30
+472,16,Sand Attack,1,ground,-,100
+472,16,Harden,1,normal,-,-
+472,16,Knock Off,1,dark,65,100
+472,16,Poison Jab,1,poison,80,100
+472,16,Thunder Fang,1,electric,65,95
+472,16,Ice Fang,1,ice,65,95
+472,16,Fire Fang,1,fire,65,95
+472,14,Sand Attack,4,ground,-,100
+472,15,Sand Attack,4,ground,-,100
+472,16,Sand Attack,4,ground,-,100
+472,8,Sand Attack,5,ground,-,100
+472,9,Sand Attack,5,ground,-,100
+472,10,Sand Attack,5,ground,-,100
+472,11,Sand Attack,5,ground,-,100
+472,14,Harden,7,normal,-,-
+472,15,Harden,7,normal,-,-
+472,16,Harden,7,normal,-,-
+472,8,Harden,9,normal,-,-
+472,9,Harden,9,normal,-,-
+472,10,Harden,9,normal,-,-
+472,11,Harden,9,normal,-,-
+472,14,Knock Off,10,dark,65,100
+472,15,Knock Off,10,dark,65,100
+472,16,Knock Off,10,dark,65,100
+472,8,Knock Off,12,dark,65,100
+472,9,Knock Off,12,dark,65,100
+472,10,Knock Off,12,dark,65,100
+472,11,Knock Off,12,dark,65,100
+472,14,Quick Attack,13,normal,40,100
+472,15,Quick Attack,13,normal,40,100
+472,16,Quick Attack,13,normal,40,100
+472,8,Quick Attack,16,normal,40,100
+472,9,Quick Attack,16,normal,40,100
+472,10,Quick Attack,16,normal,40,100
+472,11,Quick Attack,16,normal,40,100
+472,14,Fury Cutter,16,bug,40,95
+472,15,Fury Cutter,16,bug,40,95
+472,16,Fury Cutter,16,bug,40,95
+472,14,Feint Attack,19,dark,60,-
+472,15,Feint Attack,19,dark,60,-
+472,16,Feint Attack,19,dark,60,-
+472,8,Fury Cutter,20,bug,40,95
+472,9,Fury Cutter,20,bug,40,95
+472,10,Fury Cutter,20,bug,40,95
+472,11,Fury Cutter,20,bug,40,95
+472,14,Acrobatics,22,flying,55,100
+472,15,Acrobatics,22,flying,55,100
+472,16,Acrobatics,22,flying,55,100
+472,8,Feint Attack,23,dark,60,-
+472,9,Feint Attack,23,dark,60,-
+472,10,Feint Attack,23,dark,60,-
+472,11,Feint Attack,23,dark,60,-
+472,8,Screech,27,normal,-,85
+472,9,Screech,27,normal,-,85
+472,10,Screech,27,normal,-,85
+472,11,Acrobatics,27,flying,55,100
+472,14,Night Slash,27,dark,70,100
+472,15,Night Slash,27,dark,70,100
+472,16,Night Slash,27,dark,70,100
+472,14,U-turn,30,bug,70,100
+472,15,U-turn,30,bug,70,100
+472,16,U-turn,30,bug,70,100
+472,8,Night Slash,31,dark,70,100
+472,9,Night Slash,31,dark,70,100
+472,10,Night Slash,31,dark,70,100
+472,11,Screech,31,normal,-,85
+472,8,Swords Dance,34,normal,-,-
+472,9,Swords Dance,34,normal,-,-
+472,10,Swords Dance,34,normal,-,-
+472,11,Night Slash,34,dark,70,100
+472,14,Screech,35,normal,-,85
+472,15,Screech,35,normal,-,85
+472,16,Screech,35,normal,-,85
+472,8,U-turn,38,bug,70,100
+472,9,U-turn,38,bug,70,100
+472,10,U-turn,38,bug,70,100
+472,11,Swords Dance,38,normal,-,-
+472,14,X-Scissor,40,bug,80,100
+472,15,X-Scissor,40,bug,80,100
+472,16,X-Scissor,40,bug,80,100
+472,8,X-Scissor,42,bug,80,100
+472,9,X-Scissor,42,bug,80,100
+472,10,X-Scissor,42,bug,80,100
+472,11,U-turn,42,bug,70,100
+472,8,Guillotine,45,normal,-,30
+472,9,Guillotine,45,normal,-,30
+472,10,Guillotine,45,normal,-,30
+472,11,X-Scissor,45,bug,80,100
+472,14,Sky Uppercut,45,fighting,85,90
+472,15,Sky Uppercut,45,fighting,85,90
+472,16,Sky Uppercut,45,fighting,85,90
+472,11,Guillotine,49,normal,-,30
+472,14,Swords Dance,50,normal,-,-
+472,15,Swords Dance,50,normal,-,-
+472,16,Swords Dance,50,normal,-,-
+472,14,Guillotine,55,normal,-,30
+472,15,Guillotine,55,normal,-,30
+472,16,Guillotine,55,normal,-,30

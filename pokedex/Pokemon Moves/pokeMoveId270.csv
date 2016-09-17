@@ -1,0 +1,114 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+270,5,Astonish,1,ghost,30,100
+270,6,Astonish,1,ghost,30,100
+270,7,Astonish,1,ghost,30,100
+270,8,Astonish,1,ghost,30,100
+270,9,Astonish,1,ghost,30,100
+270,10,Astonish,1,ghost,30,100
+270,11,Astonish,1,ghost,30,100
+270,12,Astonish,1,ghost,30,100
+270,13,Astonish,1,ghost,30,100
+270,14,Astonish,1,ghost,30,100
+270,15,Astonish,1,ghost,30,100
+270,16,Astonish,1,ghost,30,100
+270,5,Growl,3,normal,-,100
+270,6,Growl,3,normal,-,100
+270,7,Growl,3,normal,-,100
+270,8,Growl,3,normal,-,100
+270,9,Growl,3,normal,-,100
+270,10,Growl,3,normal,-,100
+270,11,Growl,3,normal,-,100
+270,12,Growl,3,normal,-,100
+270,13,Growl,3,normal,-,100
+270,14,Growl,3,normal,-,100
+270,15,Growl,3,normal,-,100
+270,16,Growl,3,normal,-,100
+270,8,Absorb,5,grass,20,100
+270,9,Absorb,5,grass,20,100
+270,10,Absorb,5,grass,20,100
+270,11,Absorb,5,grass,20,100
+270,14,Absorb,5,grass,20,100
+270,15,Absorb,5,grass,20,100
+270,16,Absorb,6,grass,20,100
+270,5,Absorb,7,grass,20,100
+270,6,Absorb,7,grass,20,100
+270,7,Absorb,7,grass,20,100
+270,8,Nature Power,7,normal,-,-
+270,9,Nature Power,7,normal,-,-
+270,10,Nature Power,7,normal,-,-
+270,11,Nature Power,7,normal,-,-
+270,12,Absorb,7,grass,20,100
+270,13,Absorb,7,grass,20,100
+270,14,Nature Power,7,normal,-,-
+270,15,Nature Power,7,normal,-,-
+270,16,Bubble,9,water,40,100
+270,8,Mist,11,ice,-,-
+270,9,Mist,11,ice,-,-
+270,10,Mist,11,ice,-,-
+270,11,Mist,11,ice,-,-
+270,14,Mist,11,ice,-,-
+270,15,Mist,11,ice,-,-
+270,16,Natural Gift,12,normal,-,100
+270,5,Nature Power,13,normal,-,-
+270,6,Nature Power,13,normal,-,-
+270,7,Nature Power,13,normal,-,-
+270,12,Nature Power,13,normal,-,-
+270,13,Nature Power,13,normal,-,-
+270,8,Natural Gift,15,normal,-,100
+270,9,Natural Gift,15,normal,-,100
+270,10,Natural Gift,15,normal,-,100
+270,11,Natural Gift,15,normal,-,100
+270,14,Natural Gift,15,normal,-,100
+270,15,Natural Gift,15,normal,-,100
+270,16,Mist,15,ice,-,-
+270,16,Mega Drain,18,grass,40,100
+270,8,Mega Drain,19,grass,40,100
+270,9,Mega Drain,19,grass,40,100
+270,10,Mega Drain,19,grass,40,100
+270,11,Mega Drain,19,grass,40,100
+270,14,Mega Drain,19,grass,40,100
+270,15,Mega Drain,19,grass,40,100
+270,5,Mist,21,ice,-,-
+270,6,Mist,21,ice,-,-
+270,7,Mist,21,ice,-,-
+270,12,Mist,21,ice,-,-
+270,13,Mist,21,ice,-,-
+270,16,Bubble Beam,21,water,65,100
+270,16,Nature Power,24,normal,-,-
+270,9,Bubble Beam,25,water,65,100
+270,10,Bubble Beam,25,water,65,100
+270,11,Bubble Beam,25,water,65,100
+270,14,Bubble Beam,25,water,65,100
+270,15,Bubble Beam,25,water,65,100
+270,8,Zen Headbutt,27,psychic,80,90
+270,16,Rain Dance,27,water,-,-
+270,16,Giga Drain,30,grass,75,100
+270,5,Rain Dance,31,water,-,-
+270,6,Rain Dance,31,water,-,-
+270,7,Rain Dance,31,water,-,-
+270,9,Zen Headbutt,31,psychic,80,90
+270,10,Zen Headbutt,31,psychic,80,90
+270,11,Zen Headbutt,31,psychic,80,90
+270,12,Rain Dance,31,water,-,-
+270,13,Rain Dance,31,water,-,-
+270,14,Zen Headbutt,31,psychic,80,90
+270,15,Zen Headbutt,31,psychic,80,90
+270,16,Zen Headbutt,33,psychic,80,90
+270,8,Rain Dance,35,water,-,-
+270,16,Energy Ball,36,grass,90,100
+270,9,Rain Dance,37,water,-,-
+270,10,Rain Dance,37,water,-,-
+270,11,Rain Dance,37,water,-,-
+270,14,Rain Dance,37,water,-,-
+270,15,Rain Dance,37,water,-,-
+270,5,Mega Drain,43,grass,40,100
+270,6,Mega Drain,43,grass,40,100
+270,7,Mega Drain,43,grass,40,100
+270,8,Energy Ball,43,grass,90,100
+270,12,Mega Drain,43,grass,40,100
+270,13,Mega Drain,43,grass,40,100
+270,9,Energy Ball,45,grass,90,100
+270,10,Energy Ball,45,grass,90,100
+270,11,Energy Ball,45,grass,90,100
+270,14,Energy Ball,45,grass,90,100
+270,15,Energy Ball,45,grass,90,100

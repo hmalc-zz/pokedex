@@ -1,0 +1,85 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+625,11,Scratch,1,normal,40,100
+625,11,Leer,1,normal,-,100
+625,11,Fury Cutter,1,bug,40,95
+625,11,Torment,1,dark,-,100
+625,11,Metal Burst,1,steel,-,100
+625,14,Scratch,1,normal,40,100
+625,14,Leer,1,normal,-,100
+625,14,Fury Cutter,1,bug,40,95
+625,14,Torment,1,dark,-,100
+625,14,Metal Burst,1,steel,-,100
+625,15,Scratch,1,normal,40,100
+625,15,Guillotine,1,normal,-,30
+625,15,Leer,1,normal,-,100
+625,15,Fury Cutter,1,bug,40,95
+625,15,Torment,1,dark,-,100
+625,15,Metal Burst,1,steel,-,100
+625,15,Iron Head,1,steel,80,100
+625,16,Scratch,1,normal,40,100
+625,16,Guillotine,1,normal,-,30
+625,16,Leer,1,normal,-,100
+625,16,Fury Cutter,1,bug,40,95
+625,16,Torment,1,dark,-,100
+625,16,Metal Burst,1,steel,-,100
+625,16,Iron Head,1,steel,80,100
+625,11,Leer,6,normal,-,100
+625,14,Leer,6,normal,-,100
+625,15,Leer,6,normal,-,100
+625,16,Leer,6,normal,-,100
+625,11,Fury Cutter,9,bug,40,95
+625,14,Fury Cutter,9,bug,40,95
+625,15,Fury Cutter,9,bug,40,95
+625,16,Fury Cutter,9,bug,40,95
+625,11,Torment,14,dark,-,100
+625,14,Torment,14,dark,-,100
+625,15,Torment,14,dark,-,100
+625,16,Torment,14,dark,-,100
+625,11,Feint Attack,17,dark,60,-
+625,14,Feint Attack,17,dark,60,-
+625,15,Feint Attack,17,dark,60,-
+625,16,Feint Attack,17,dark,60,-
+625,11,Scary Face,22,normal,-,100
+625,14,Scary Face,22,normal,-,100
+625,15,Scary Face,22,normal,-,100
+625,16,Scary Face,22,normal,-,100
+625,11,Metal Claw,25,steel,50,95
+625,14,Metal Claw,25,steel,50,95
+625,15,Metal Claw,25,steel,50,95
+625,16,Metal Claw,25,steel,50,95
+625,11,Slash,30,normal,70,100
+625,14,Slash,30,normal,70,100
+625,15,Slash,30,normal,70,100
+625,16,Slash,30,normal,70,100
+625,11,Assurance,33,dark,60,100
+625,14,Assurance,33,dark,60,100
+625,15,Assurance,33,dark,60,100
+625,16,Assurance,33,dark,60,100
+625,11,Metal Sound,38,steel,-,85
+625,14,Metal Sound,38,steel,-,85
+625,15,Metal Sound,38,steel,-,85
+625,16,Metal Sound,38,steel,-,85
+625,11,Embargo,41,dark,-,100
+625,14,Embargo,41,dark,-,100
+625,15,Embargo,41,dark,-,100
+625,16,Embargo,41,dark,-,100
+625,11,Iron Defense,46,steel,-,-
+625,14,Iron Defense,46,steel,-,-
+625,15,Iron Defense,46,steel,-,-
+625,16,Iron Defense,46,steel,-,-
+625,11,Night Slash,49,dark,70,100
+625,14,Night Slash,49,dark,70,100
+625,15,Night Slash,49,dark,70,100
+625,16,Night Slash,49,dark,70,100
+625,11,Iron Head,57,steel,80,100
+625,14,Iron Head,57,steel,80,100
+625,15,Iron Head,57,steel,80,100
+625,16,Iron Head,57,steel,80,100
+625,11,Swords Dance,63,normal,-,-
+625,14,Swords Dance,63,normal,-,-
+625,15,Swords Dance,63,normal,-,-
+625,16,Swords Dance,63,normal,-,-
+625,11,Guillotine,71,normal,-,30
+625,14,Guillotine,71,normal,-,30
+625,15,Guillotine,71,normal,-,30
+625,16,Guillotine,71,normal,-,30

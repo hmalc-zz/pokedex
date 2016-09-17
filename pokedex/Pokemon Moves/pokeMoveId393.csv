@@ -1,0 +1,92 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+393,8,Pound,1,normal,40,100
+393,9,Pound,1,normal,40,100
+393,10,Pound,1,normal,40,100
+393,11,Pound,1,normal,40,100
+393,14,Pound,1,normal,40,100
+393,15,Pound,1,normal,40,100
+393,16,Pound,1,normal,40,100
+393,8,Growl,4,normal,-,100
+393,9,Growl,4,normal,-,100
+393,10,Growl,4,normal,-,100
+393,11,Growl,4,normal,-,100
+393,14,Growl,4,normal,-,100
+393,15,Growl,4,normal,-,100
+393,16,Growl,4,normal,-,100
+393,8,Bubble,8,water,40,100
+393,9,Bubble,8,water,40,100
+393,10,Bubble,8,water,40,100
+393,11,Bubble,8,water,40,100
+393,14,Bubble,8,water,40,100
+393,15,Bubble,8,water,40,100
+393,16,Bubble,8,water,40,100
+393,8,Water Sport,11,water,-,-
+393,9,Water Sport,11,water,-,-
+393,10,Water Sport,11,water,-,-
+393,11,Water Sport,11,water,-,-
+393,14,Water Sport,11,water,-,-
+393,15,Water Sport,11,water,-,-
+393,16,Water Sport,11,water,-,-
+393,8,Peck,15,flying,35,100
+393,9,Peck,15,flying,35,100
+393,10,Peck,15,flying,35,100
+393,11,Peck,15,flying,35,100
+393,14,Peck,15,flying,35,100
+393,15,Peck,15,flying,35,100
+393,16,Peck,15,flying,35,100
+393,8,Bide,18,normal,-,-
+393,9,Bubble Beam,18,water,65,100
+393,10,Bubble Beam,18,water,65,100
+393,11,Bubble Beam,18,water,65,100
+393,14,Bubble Beam,18,water,65,100
+393,15,Bubble Beam,18,water,65,100
+393,16,Bubble Beam,18,water,65,100
+393,8,Bubble Beam,22,water,65,100
+393,9,Bide,22,normal,-,-
+393,10,Bide,22,normal,-,-
+393,11,Bide,22,normal,-,-
+393,14,Bide,22,normal,-,-
+393,15,Bide,22,normal,-,-
+393,16,Bide,22,normal,-,-
+393,8,Fury Attack,25,normal,15,85
+393,9,Fury Attack,25,normal,15,85
+393,10,Fury Attack,25,normal,15,85
+393,11,Fury Attack,25,normal,15,85
+393,14,Fury Attack,25,normal,15,85
+393,15,Fury Attack,25,normal,15,85
+393,16,Fury Attack,25,normal,15,85
+393,8,Brine,29,water,65,100
+393,9,Brine,29,water,65,100
+393,10,Brine,29,water,65,100
+393,11,Brine,29,water,65,100
+393,14,Brine,29,water,65,100
+393,15,Brine,29,water,65,100
+393,16,Brine,29,water,65,100
+393,8,Whirlpool,32,water,35,85
+393,9,Whirlpool,32,water,35,85
+393,10,Whirlpool,32,water,35,85
+393,11,Whirlpool,32,water,35,85
+393,14,Whirlpool,32,water,35,85
+393,15,Whirlpool,32,water,35,85
+393,16,Whirlpool,32,water,35,85
+393,8,Mist,36,ice,-,-
+393,9,Mist,36,ice,-,-
+393,10,Mist,36,ice,-,-
+393,11,Mist,36,ice,-,-
+393,14,Mist,36,ice,-,-
+393,15,Mist,36,ice,-,-
+393,16,Mist,36,ice,-,-
+393,8,Drill Peck,39,flying,80,100
+393,9,Drill Peck,39,flying,80,100
+393,10,Drill Peck,39,flying,80,100
+393,11,Drill Peck,39,flying,80,100
+393,14,Drill Peck,39,flying,80,100
+393,15,Drill Peck,39,flying,80,100
+393,16,Drill Peck,39,flying,80,100
+393,8,Hydro Pump,43,water,110,80
+393,9,Hydro Pump,43,water,110,80
+393,10,Hydro Pump,43,water,110,80
+393,11,Hydro Pump,43,water,110,80
+393,14,Hydro Pump,43,water,110,80
+393,15,Hydro Pump,43,water,110,80
+393,16,Hydro Pump,43,water,110,80

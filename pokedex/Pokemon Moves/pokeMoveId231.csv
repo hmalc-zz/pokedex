@@ -1,0 +1,153 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+231,3,Tackle,1,normal,50,100
+231,3,Growl,1,normal,-,100
+231,4,Tackle,1,normal,50,100
+231,4,Growl,1,normal,-,100
+231,5,Tackle,1,normal,50,100
+231,5,Growl,1,normal,-,100
+231,5,Odor Sleuth,1,normal,-,-
+231,6,Tackle,1,normal,50,100
+231,6,Growl,1,normal,-,100
+231,6,Odor Sleuth,1,normal,-,-
+231,7,Tackle,1,normal,50,100
+231,7,Growl,1,normal,-,100
+231,7,Odor Sleuth,1,normal,-,-
+231,8,Tackle,1,normal,50,100
+231,8,Growl,1,normal,-,100
+231,8,Defense Curl,1,normal,-,-
+231,8,Odor Sleuth,1,normal,-,-
+231,9,Tackle,1,normal,50,100
+231,9,Growl,1,normal,-,100
+231,9,Defense Curl,1,normal,-,-
+231,9,Odor Sleuth,1,normal,-,-
+231,10,Tackle,1,normal,50,100
+231,10,Growl,1,normal,-,100
+231,10,Defense Curl,1,normal,-,-
+231,10,Odor Sleuth,1,normal,-,-
+231,11,Tackle,1,normal,50,100
+231,11,Growl,1,normal,-,100
+231,11,Defense Curl,1,normal,-,-
+231,11,Odor Sleuth,1,normal,-,-
+231,12,Tackle,1,normal,50,100
+231,12,Growl,1,normal,-,100
+231,12,Odor Sleuth,1,normal,-,-
+231,13,Tackle,1,normal,50,100
+231,13,Growl,1,normal,-,100
+231,13,Odor Sleuth,1,normal,-,-
+231,14,Tackle,1,normal,50,100
+231,14,Growl,1,normal,-,100
+231,14,Defense Curl,1,normal,-,-
+231,14,Odor Sleuth,1,normal,-,-
+231,15,Tackle,1,normal,50,100
+231,15,Growl,1,normal,-,100
+231,15,Defense Curl,1,normal,-,-
+231,15,Odor Sleuth,1,normal,-,-
+231,16,Tackle,1,normal,50,100
+231,16,Growl,1,normal,-,100
+231,16,Defense Curl,1,normal,-,-
+231,16,Odor Sleuth,1,normal,-,-
+231,8,Flail,6,normal,-,100
+231,9,Flail,6,normal,-,100
+231,10,Flail,6,normal,-,100
+231,11,Flail,6,normal,-,100
+231,14,Flail,6,normal,-,100
+231,15,Flail,6,normal,-,100
+231,16,Flail,6,normal,-,100
+231,3,Defense Curl,9,normal,-,-
+231,4,Defense Curl,9,normal,-,-
+231,5,Defense Curl,9,normal,-,-
+231,6,Defense Curl,9,normal,-,-
+231,7,Defense Curl,9,normal,-,-
+231,12,Defense Curl,9,normal,-,-
+231,13,Defense Curl,9,normal,-,-
+231,8,Take Down,10,normal,90,85
+231,9,Take Down,10,normal,90,85
+231,10,Take Down,10,normal,90,85
+231,11,Take Down,10,normal,90,85
+231,14,Take Down,10,normal,90,85
+231,15,Take Down,10,normal,90,85
+231,16,Rollout,10,rock,30,90
+231,8,Rollout,15,rock,30,90
+231,9,Rollout,15,rock,30,90
+231,10,Rollout,15,rock,30,90
+231,11,Rollout,15,rock,30,90
+231,14,Rollout,15,rock,30,90
+231,15,Rollout,15,rock,30,90
+231,16,Natural Gift,15,normal,-,100
+231,3,Flail,17,normal,-,100
+231,4,Flail,17,normal,-,100
+231,5,Flail,17,normal,-,100
+231,6,Flail,17,normal,-,100
+231,7,Flail,17,normal,-,100
+231,12,Flail,17,normal,-,100
+231,13,Flail,17,normal,-,100
+231,8,Natural Gift,19,normal,-,100
+231,9,Natural Gift,19,normal,-,100
+231,10,Natural Gift,19,normal,-,100
+231,11,Natural Gift,19,normal,-,100
+231,14,Natural Gift,19,normal,-,100
+231,15,Natural Gift,19,normal,-,100
+231,16,Endure,19,normal,-,-
+231,8,Slam,24,normal,80,75
+231,9,Slam,24,normal,80,75
+231,10,Slam,24,normal,80,75
+231,11,Slam,24,normal,80,75
+231,14,Slam,24,normal,80,75
+231,15,Slam,24,normal,80,75
+231,16,Slam,24,normal,80,75
+231,3,Take Down,25,normal,90,85
+231,4,Take Down,25,normal,90,85
+231,5,Take Down,25,normal,90,85
+231,6,Take Down,25,normal,90,85
+231,7,Take Down,25,normal,90,85
+231,12,Take Down,25,normal,90,85
+231,13,Take Down,25,normal,90,85
+231,8,Endure,28,normal,-,-
+231,9,Endure,28,normal,-,-
+231,10,Endure,28,normal,-,-
+231,11,Endure,28,normal,-,-
+231,14,Endure,28,normal,-,-
+231,15,Endure,28,normal,-,-
+231,16,Take Down,28,normal,90,85
+231,3,Rollout,33,rock,30,90
+231,4,Rollout,33,rock,30,90
+231,5,Rollout,33,rock,30,90
+231,6,Rollout,33,rock,30,90
+231,7,Rollout,33,rock,30,90
+231,8,Charm,33,fairy,-,100
+231,9,Charm,33,fairy,-,100
+231,10,Charm,33,fairy,-,100
+231,11,Charm,33,fairy,-,100
+231,12,Rollout,33,rock,30,90
+231,13,Rollout,33,rock,30,90
+231,14,Charm,33,fairy,-,100
+231,15,Charm,33,fairy,-,100
+231,16,Charm,33,fairy,-,100
+231,8,Last Resort,37,normal,140,100
+231,9,Last Resort,37,normal,140,100
+231,10,Last Resort,37,normal,140,100
+231,11,Last Resort,37,normal,140,100
+231,14,Last Resort,37,normal,140,100
+231,15,Last Resort,37,normal,140,100
+231,16,Last Resort,37,normal,140,100
+231,3,Endure,41,normal,-,-
+231,4,Endure,41,normal,-,-
+231,5,Endure,41,normal,-,-
+231,6,Endure,41,normal,-,-
+231,7,Endure,41,normal,-,-
+231,12,Endure,41,normal,-,-
+231,13,Endure,41,normal,-,-
+231,8,Double-Edge,42,normal,120,100
+231,9,Double-Edge,42,normal,120,100
+231,10,Double-Edge,42,normal,120,100
+231,11,Double-Edge,42,normal,120,100
+231,14,Double-Edge,42,normal,120,100
+231,15,Double-Edge,42,normal,120,100
+231,16,Double-Edge,42,normal,120,100
+231,3,Double-Edge,49,normal,120,100
+231,4,Double-Edge,49,normal,120,100
+231,5,Double-Edge,49,normal,120,100
+231,6,Double-Edge,49,normal,120,100
+231,7,Double-Edge,49,normal,120,100
+231,12,Double-Edge,49,normal,120,100
+231,13,Double-Edge,49,normal,120,100

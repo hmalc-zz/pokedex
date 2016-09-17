@@ -1,0 +1,114 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+351,5,Tackle,1,normal,50,100
+351,6,Tackle,1,normal,50,100
+351,7,Tackle,1,normal,50,100
+351,8,Tackle,1,normal,50,100
+351,9,Tackle,1,normal,50,100
+351,10,Tackle,1,normal,50,100
+351,11,Tackle,1,normal,50,100
+351,12,Tackle,1,normal,50,100
+351,13,Tackle,1,normal,50,100
+351,14,Tackle,1,normal,50,100
+351,15,Tackle,1,normal,50,100
+351,16,Tackle,1,normal,50,100
+351,5,Ember,10,fire,40,100
+351,5,Water Gun,10,water,40,100
+351,5,Powder Snow,10,ice,40,100
+351,6,Ember,10,fire,40,100
+351,6,Water Gun,10,water,40,100
+351,6,Powder Snow,10,ice,40,100
+351,7,Ember,10,fire,40,100
+351,7,Water Gun,10,water,40,100
+351,7,Powder Snow,10,ice,40,100
+351,8,Ember,10,fire,40,100
+351,8,Water Gun,10,water,40,100
+351,8,Powder Snow,10,ice,40,100
+351,9,Ember,10,fire,40,100
+351,9,Water Gun,10,water,40,100
+351,9,Powder Snow,10,ice,40,100
+351,10,Ember,10,fire,40,100
+351,10,Water Gun,10,water,40,100
+351,10,Powder Snow,10,ice,40,100
+351,11,Ember,10,fire,40,100
+351,11,Water Gun,10,water,40,100
+351,11,Powder Snow,10,ice,40,100
+351,12,Ember,10,fire,40,100
+351,12,Water Gun,10,water,40,100
+351,12,Powder Snow,10,ice,40,100
+351,13,Ember,10,fire,40,100
+351,13,Water Gun,10,water,40,100
+351,13,Powder Snow,10,ice,40,100
+351,14,Ember,10,fire,40,100
+351,14,Water Gun,10,water,40,100
+351,14,Powder Snow,10,ice,40,100
+351,15,Ember,10,fire,40,100
+351,15,Water Gun,10,water,40,100
+351,15,Powder Snow,10,ice,40,100
+351,16,Ember,10,fire,40,100
+351,16,Water Gun,10,water,40,100
+351,16,Powder Snow,10,ice,40,100
+351,14,Headbutt,15,normal,70,100
+351,15,Headbutt,15,normal,70,100
+351,16,Headbutt,15,normal,70,100
+351,5,Rain Dance,20,water,-,-
+351,5,Sunny Day,20,fire,-,-
+351,5,Hail,20,ice,-,-
+351,6,Rain Dance,20,water,-,-
+351,6,Sunny Day,20,fire,-,-
+351,6,Hail,20,ice,-,-
+351,7,Rain Dance,20,water,-,-
+351,7,Sunny Day,20,fire,-,-
+351,7,Hail,20,ice,-,-
+351,8,Rain Dance,20,water,-,-
+351,8,Sunny Day,20,fire,-,-
+351,8,Hail,20,ice,-,-
+351,9,Rain Dance,20,water,-,-
+351,9,Sunny Day,20,fire,-,-
+351,9,Hail,20,ice,-,-
+351,10,Rain Dance,20,water,-,-
+351,10,Sunny Day,20,fire,-,-
+351,10,Hail,20,ice,-,-
+351,11,Headbutt,20,normal,70,100
+351,12,Rain Dance,20,water,-,-
+351,12,Sunny Day,20,fire,-,-
+351,12,Hail,20,ice,-,-
+351,13,Rain Dance,20,water,-,-
+351,13,Sunny Day,20,fire,-,-
+351,13,Hail,20,ice,-,-
+351,14,Rain Dance,20,water,-,-
+351,14,Sunny Day,20,fire,-,-
+351,14,Hail,20,ice,-,-
+351,15,Rain Dance,20,water,-,-
+351,15,Sunny Day,20,fire,-,-
+351,15,Hail,20,ice,-,-
+351,16,Rain Dance,20,water,-,-
+351,16,Sunny Day,20,fire,-,-
+351,16,Hail,20,ice,-,-
+351,16,Weather Ball,25,normal,50,100
+351,5,Weather Ball,30,normal,50,100
+351,6,Weather Ball,30,normal,50,100
+351,7,Weather Ball,30,normal,50,100
+351,8,Weather Ball,30,normal,50,100
+351,9,Weather Ball,30,normal,50,100
+351,10,Weather Ball,30,normal,50,100
+351,11,Rain Dance,30,water,-,-
+351,11,Sunny Day,30,fire,-,-
+351,11,Hail,30,ice,-,-
+351,12,Weather Ball,30,normal,50,100
+351,13,Weather Ball,30,normal,50,100
+351,14,Weather Ball,30,normal,50,100
+351,15,Weather Ball,30,normal,50,100
+351,16,Hydro Pump,35,water,110,80
+351,16,Blizzard,35,ice,110,70
+351,16,Fire Blast,35,fire,110,85
+351,11,Weather Ball,40,normal,50,100
+351,14,Hydro Pump,40,water,110,80
+351,14,Blizzard,40,ice,110,70
+351,14,Fire Blast,40,fire,110,85
+351,15,Hydro Pump,40,water,110,80
+351,15,Blizzard,40,ice,110,70
+351,15,Fire Blast,40,fire,110,85
+351,16,Hurricane,45,flying,110,70
+351,11,Hydro Pump,50,water,110,80
+351,11,Blizzard,50,ice,110,70
+351,11,Fire Blast,50,fire,110,85

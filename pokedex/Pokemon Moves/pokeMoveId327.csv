@@ -1,0 +1,147 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+327,5,Tackle,1,normal,50,100
+327,6,Tackle,1,normal,50,100
+327,7,Tackle,1,normal,50,100
+327,8,Tackle,1,normal,50,100
+327,9,Tackle,1,normal,50,100
+327,10,Tackle,1,normal,50,100
+327,11,Tackle,1,normal,50,100
+327,12,Tackle,1,normal,50,100
+327,13,Tackle,1,normal,50,100
+327,14,Tackle,1,normal,50,100
+327,15,Tackle,1,normal,50,100
+327,16,Tackle,1,normal,50,100
+327,5,Uproar,5,normal,90,100
+327,6,Uproar,5,normal,90,100
+327,7,Uproar,5,normal,90,100
+327,8,Uproar,5,normal,90,100
+327,9,Uproar,5,normal,90,100
+327,10,Uproar,5,normal,90,100
+327,11,Uproar,5,normal,90,100
+327,12,Uproar,5,normal,90,100
+327,13,Uproar,5,normal,90,100
+327,14,Uproar,5,normal,90,100
+327,15,Uproar,5,normal,90,100
+327,16,Copycat,5,normal,-,-
+327,8,Copycat,10,normal,-,-
+327,9,Copycat,10,normal,-,-
+327,10,Copycat,10,normal,-,-
+327,11,Copycat,10,normal,-,-
+327,14,Copycat,10,normal,-,-
+327,15,Copycat,10,normal,-,-
+327,16,Feint Attack,10,dark,60,-
+327,5,Feint Attack,12,dark,60,-
+327,6,Feint Attack,12,dark,60,-
+327,7,Feint Attack,12,dark,60,-
+327,12,Feint Attack,12,dark,60,-
+327,13,Feint Attack,12,dark,60,-
+327,8,Feint Attack,14,dark,60,-
+327,9,Feint Attack,14,dark,60,-
+327,10,Feint Attack,14,dark,60,-
+327,11,Feint Attack,14,dark,60,-
+327,14,Feint Attack,14,dark,60,-
+327,15,Feint Attack,14,dark,60,-
+327,16,Psybeam,14,psychic,65,100
+327,5,Psybeam,16,psychic,65,100
+327,6,Psybeam,16,psychic,65,100
+327,7,Psybeam,16,psychic,65,100
+327,12,Psybeam,16,psychic,65,100
+327,13,Psybeam,16,psychic,65,100
+327,8,Psybeam,19,psychic,65,100
+327,9,Psybeam,19,psychic,65,100
+327,10,Psybeam,19,psychic,65,100
+327,11,Psybeam,19,psychic,65,100
+327,14,Psybeam,19,psychic,65,100
+327,15,Psybeam,19,psychic,65,100
+327,16,Hypnosis,19,psychic,-,60
+327,5,Hypnosis,23,psychic,-,60
+327,6,Hypnosis,23,psychic,-,60
+327,7,Hypnosis,23,psychic,-,60
+327,8,Hypnosis,23,psychic,-,60
+327,9,Hypnosis,23,psychic,-,60
+327,10,Hypnosis,23,psychic,-,60
+327,11,Hypnosis,23,psychic,-,60
+327,12,Hypnosis,23,psychic,-,60
+327,13,Hypnosis,23,psychic,-,60
+327,14,Hypnosis,23,psychic,-,60
+327,15,Hypnosis,23,psychic,-,60
+327,16,Dizzy Punch,23,normal,70,100
+327,5,Dizzy Punch,27,normal,70,100
+327,6,Dizzy Punch,27,normal,70,100
+327,7,Dizzy Punch,27,normal,70,100
+327,12,Dizzy Punch,27,normal,70,100
+327,13,Dizzy Punch,27,normal,70,100
+327,8,Dizzy Punch,28,normal,70,100
+327,9,Dizzy Punch,28,normal,70,100
+327,10,Dizzy Punch,28,normal,70,100
+327,11,Dizzy Punch,28,normal,70,100
+327,14,Dizzy Punch,28,normal,70,100
+327,15,Dizzy Punch,28,normal,70,100
+327,16,Sucker Punch,28,dark,80,100
+327,8,Sucker Punch,32,dark,80,100
+327,9,Sucker Punch,32,dark,80,100
+327,10,Sucker Punch,32,dark,80,100
+327,11,Sucker Punch,32,dark,80,100
+327,14,Sucker Punch,32,dark,80,100
+327,15,Sucker Punch,32,dark,80,100
+327,16,Teeter Dance,32,normal,-,100
+327,5,Teeter Dance,34,normal,-,100
+327,6,Teeter Dance,34,normal,-,100
+327,7,Teeter Dance,34,normal,-,100
+327,12,Teeter Dance,34,normal,-,100
+327,13,Teeter Dance,34,normal,-,100
+327,8,Teeter Dance,37,normal,-,100
+327,9,Teeter Dance,37,normal,-,100
+327,10,Teeter Dance,37,normal,-,100
+327,11,Teeter Dance,37,normal,-,100
+327,14,Teeter Dance,37,normal,-,100
+327,15,Teeter Dance,37,normal,-,100
+327,16,Uproar,37,normal,90,100
+327,5,Psych Up,38,normal,-,-
+327,6,Psych Up,38,normal,-,-
+327,7,Psych Up,38,normal,-,-
+327,12,Psych Up,38,normal,-,-
+327,13,Psych Up,38,normal,-,-
+327,8,Psych Up,41,normal,-,-
+327,9,Psych Up,41,normal,-,-
+327,10,Psych Up,41,normal,-,-
+327,11,Psych Up,41,normal,-,-
+327,14,Psych Up,41,normal,-,-
+327,15,Psych Up,41,normal,-,-
+327,16,Psych Up,41,normal,-,-
+327,5,Double-Edge,45,normal,120,100
+327,6,Double-Edge,45,normal,120,100
+327,7,Double-Edge,45,normal,120,100
+327,12,Double-Edge,45,normal,120,100
+327,13,Double-Edge,45,normal,120,100
+327,8,Double-Edge,46,normal,120,100
+327,9,Double-Edge,46,normal,120,100
+327,10,Double-Edge,46,normal,120,100
+327,11,Double-Edge,46,normal,120,100
+327,14,Double-Edge,46,normal,120,100
+327,15,Double-Edge,46,normal,120,100
+327,16,Double-Edge,46,normal,120,100
+327,5,Flail,49,normal,-,100
+327,6,Flail,49,normal,-,100
+327,7,Flail,49,normal,-,100
+327,12,Flail,49,normal,-,100
+327,13,Flail,49,normal,-,100
+327,8,Flail,50,normal,-,100
+327,9,Flail,50,normal,-,100
+327,10,Flail,50,normal,-,100
+327,11,Flail,50,normal,-,100
+327,14,Flail,50,normal,-,100
+327,15,Thrash,50,normal,120,100
+327,15,Flail,50,normal,-,100
+327,16,Flail,50,normal,-,100
+327,8,Thrash,55,normal,120,100
+327,9,Thrash,55,normal,120,100
+327,10,Thrash,55,normal,120,100
+327,11,Thrash,55,normal,120,100
+327,14,Thrash,55,normal,120,100
+327,16,Thrash,55,normal,120,100
+327,5,Thrash,56,normal,120,100
+327,6,Thrash,56,normal,120,100
+327,7,Thrash,56,normal,120,100
+327,12,Thrash,56,normal,120,100
+327,13,Thrash,56,normal,120,100

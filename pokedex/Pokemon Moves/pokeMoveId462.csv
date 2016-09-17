@@ -1,0 +1,148 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+462,8,Tackle,1,normal,50,100
+462,8,Supersonic,1,normal,-,55
+462,8,Thunder Shock,1,electric,40,100
+462,8,Barrier,1,psychic,-,-
+462,8,Mirror Coat,1,psychic,-,100
+462,8,Metal Sound,1,steel,-,85
+462,9,Tackle,1,normal,50,100
+462,9,Supersonic,1,normal,-,55
+462,9,Thunder Shock,1,electric,40,100
+462,9,Barrier,1,psychic,-,-
+462,9,Mirror Coat,1,psychic,-,100
+462,9,Metal Sound,1,steel,-,85
+462,10,Tackle,1,normal,50,100
+462,10,Supersonic,1,normal,-,55
+462,10,Thunder Shock,1,electric,40,100
+462,10,Barrier,1,psychic,-,-
+462,10,Mirror Coat,1,psychic,-,100
+462,10,Metal Sound,1,steel,-,85
+462,11,Tackle,1,normal,50,100
+462,11,Supersonic,1,normal,-,55
+462,11,Thunder Shock,1,electric,40,100
+462,11,Barrier,1,psychic,-,-
+462,11,Mirror Coat,1,psychic,-,100
+462,11,Metal Sound,1,steel,-,85
+462,14,Tackle,1,normal,50,100
+462,14,Supersonic,1,normal,-,55
+462,14,Sonic Boom,1,normal,-,90
+462,14,Thunder Shock,1,electric,40,100
+462,14,Barrier,1,psychic,-,-
+462,14,Mirror Coat,1,psychic,-,100
+462,15,Tackle,1,normal,50,100
+462,15,Supersonic,1,normal,-,55
+462,15,Sonic Boom,1,normal,-,90
+462,15,Barrier,1,psychic,-,-
+462,15,Zap Cannon,1,electric,120,50
+462,15,Mirror Coat,1,psychic,-,100
+462,15,Magnetic Flux,1,electric,-,-
+462,16,Tackle,1,normal,50,100
+462,16,Supersonic,1,normal,-,55
+462,16,Sonic Boom,1,normal,-,90
+462,16,Thunder Shock,1,electric,40,100
+462,16,Barrier,1,psychic,-,-
+462,16,Zap Cannon,1,electric,120,50
+462,16,Mirror Coat,1,psychic,-,100
+462,16,Magnetic Flux,1,electric,-,-
+462,16,Electric Terrain,1,electric,-,-
+462,14,Supersonic,4,normal,-,55
+462,15,Supersonic,4,normal,-,55
+462,16,Supersonic,5,normal,-,55
+462,8,Thunder Shock,6,electric,40,100
+462,9,Thunder Shock,6,electric,40,100
+462,10,Thunder Shock,6,electric,40,100
+462,11,Thunder Shock,6,electric,40,100
+462,14,Thunder Shock,7,electric,40,100
+462,15,Thunder Shock,7,electric,40,100
+462,16,Thunder Shock,7,electric,40,100
+462,8,Supersonic,11,normal,-,55
+462,9,Supersonic,11,normal,-,55
+462,10,Supersonic,11,normal,-,55
+462,11,Supersonic,11,normal,-,55
+462,14,Sonic Boom,11,normal,-,90
+462,15,Electric Terrain,11,electric,-,-
+462,16,Sonic Boom,11,normal,-,90
+462,16,Thunder Wave,13,electric,-,100
+462,8,Sonic Boom,14,normal,-,90
+462,9,Sonic Boom,14,normal,-,90
+462,10,Sonic Boom,14,normal,-,90
+462,11,Sonic Boom,14,normal,-,90
+462,14,Thunder Wave,15,electric,-,100
+462,15,Thunder Wave,15,electric,-,100
+462,8,Thunder Wave,17,electric,-,100
+462,9,Thunder Wave,17,electric,-,100
+462,10,Thunder Wave,17,electric,-,100
+462,11,Thunder Wave,17,electric,-,100
+462,16,Magnet Bomb,17,steel,60,-
+462,14,Magnet Bomb,18,steel,60,-
+462,15,Magnet Bomb,18,steel,60,-
+462,16,Spark,19,electric,65,100
+462,14,Spark,21,electric,65,100
+462,15,Spark,21,electric,65,100
+462,8,Spark,22,electric,65,100
+462,9,Spark,22,electric,65,100
+462,10,Spark,22,electric,65,100
+462,11,Spark,22,electric,65,100
+462,16,Mirror Shot,23,steel,65,85
+462,14,Mirror Shot,25,steel,65,85
+462,15,Mirror Shot,25,steel,65,85
+462,16,Metal Sound,25,steel,-,85
+462,8,Lock-On,27,normal,-,-
+462,9,Lock-On,27,normal,-,-
+462,10,Lock-On,27,normal,-,-
+462,11,Electro Ball,27,electric,-,100
+462,14,Metal Sound,29,steel,-,85
+462,15,Metal Sound,29,steel,-,85
+462,16,Electro Ball,29,electric,-,100
+462,8,Magnet Bomb,30,steel,60,-
+462,9,Magnet Bomb,30,steel,60,-
+462,10,Magnet Bomb,30,steel,60,-
+462,11,Lock-On,30,normal,-,-
+462,16,Flash Cannon,33,steel,80,100
+462,8,Screech,34,normal,-,85
+462,9,Screech,34,normal,-,85
+462,10,Screech,34,normal,-,85
+462,11,Magnet Bomb,34,steel,60,-
+462,14,Electro Ball,34,electric,-,100
+462,15,Electro Ball,34,electric,-,100
+462,14,Flash Cannon,39,steel,80,100
+462,15,Flash Cannon,39,steel,80,100
+462,16,Screech,39,normal,-,85
+462,8,Discharge,40,electric,80,100
+462,9,Discharge,40,electric,80,100
+462,10,Discharge,40,electric,80,100
+462,11,Screech,40,normal,-,85
+462,16,Discharge,43,electric,80,100
+462,14,Screech,45,normal,-,85
+462,15,Screech,45,normal,-,85
+462,8,Mirror Shot,46,steel,65,85
+462,9,Mirror Shot,46,steel,65,85
+462,10,Mirror Shot,46,steel,65,85
+462,11,Discharge,46,electric,80,100
+462,16,Lock-On,49,normal,-,-
+462,8,Magnet Rise,50,electric,-,-
+462,9,Magnet Rise,50,electric,-,-
+462,10,Magnet Rise,50,electric,-,-
+462,11,Mirror Shot,50,steel,65,85
+462,14,Discharge,51,electric,80,100
+462,15,Discharge,51,electric,80,100
+462,16,Magnet Rise,53,electric,-,-
+462,8,Gyro Ball,54,steel,-,100
+462,9,Gyro Ball,54,steel,-,100
+462,10,Gyro Ball,54,steel,-,100
+462,11,Magnet Rise,54,electric,-,-
+462,14,Lock-On,56,normal,-,-
+462,15,Lock-On,56,normal,-,-
+462,16,Gyro Ball,59,steel,-,100
+462,8,Zap Cannon,60,electric,120,50
+462,9,Zap Cannon,60,electric,120,50
+462,10,Zap Cannon,60,electric,120,50
+462,11,Gyro Ball,60,steel,-,100
+462,14,Magnet Rise,62,electric,-,-
+462,15,Magnet Rise,62,electric,-,-
+462,16,Zap Cannon,63,electric,120,50
+462,11,Zap Cannon,66,electric,120,50
+462,14,Gyro Ball,67,steel,-,100
+462,15,Gyro Ball,67,steel,-,100
+462,14,Zap Cannon,73,electric,120,50
+462,15,Zap Cannon,73,electric,120,50

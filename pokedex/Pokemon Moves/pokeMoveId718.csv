@@ -1,0 +1,37 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+718,15,Bite,1,dark,60,100
+718,15,Glare,1,normal,-,100
+718,15,Dragon Breath,1,dragon,60,100
+718,15,Bulldoze,1,ground,60,100
+718,16,Bite,1,dark,60,100
+718,16,Glare,1,normal,-,100
+718,16,Dragon Breath,1,dragon,60,100
+718,16,Bulldoze,1,ground,60,100
+718,15,Safeguard,5,normal,-,-
+718,16,Safeguard,5,normal,-,-
+718,15,Dig,10,ground,80,100
+718,16,Dig,10,ground,80,100
+718,15,Bind,18,normal,15,85
+718,16,Bind,18,normal,15,85
+718,15,Land's Wrath,26,ground,90,100
+718,16,Land's Wrath,26,ground,90,100
+718,15,Sandstorm,35,rock,-,-
+718,16,Sandstorm,35,rock,-,-
+718,15,Haze,44,ice,-,-
+718,16,Haze,44,ice,-,-
+718,15,Crunch,51,dark,80,100
+718,16,Crunch,51,dark,80,100
+718,15,Earthquake,55,ground,100,100
+718,16,Earthquake,55,ground,100,100
+718,15,Camouflage,59,normal,-,-
+718,16,Camouflage,59,normal,-,-
+718,15,Dragon Pulse,63,dragon,85,100
+718,16,Dragon Pulse,63,dragon,85,100
+718,15,Dragon Dance,72,dragon,-,-
+718,16,Dragon Dance,72,dragon,-,-
+718,15,Coil,80,poison,-,-
+718,16,Coil,80,poison,-,-
+718,15,Extreme Speed,88,normal,80,100
+718,16,Extreme Speed,88,normal,80,100
+718,15,Outrage,93,dragon,120,100
+718,16,Outrage,93,dragon,120,100

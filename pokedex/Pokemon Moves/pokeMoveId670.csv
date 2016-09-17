@@ -1,0 +1,29 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+670,15,Vine Whip,1,grass,45,100
+670,15,Tackle,1,normal,50,100
+670,16,Vine Whip,1,grass,45,100
+670,16,Tackle,1,normal,50,100
+670,15,Fairy Wind,6,fairy,40,100
+670,16,Fairy Wind,6,fairy,40,100
+670,15,Lucky Chant,10,normal,-,-
+670,16,Lucky Chant,10,normal,-,-
+670,15,Razor Leaf,15,grass,55,95
+670,16,Razor Leaf,15,grass,55,95
+670,15,Wish,20,normal,-,-
+670,16,Wish,20,normal,-,-
+670,15,Magical Leaf,25,grass,60,-
+670,16,Magical Leaf,25,grass,60,-
+670,15,Grassy Terrain,27,grass,-,-
+670,16,Grassy Terrain,27,grass,-,-
+670,15,Petal Blizzard,33,grass,90,100
+670,16,Petal Blizzard,33,grass,90,100
+670,15,Aromatherapy,38,grass,-,-
+670,16,Aromatherapy,38,grass,-,-
+670,15,Misty Terrain,43,fairy,-,-
+670,16,Misty Terrain,43,fairy,-,-
+670,15,Moonblast,46,fairy,95,100
+670,16,Moonblast,46,fairy,95,100
+670,15,Petal Dance,51,grass,120,100
+670,16,Petal Dance,51,grass,120,100
+670,15,Solar Beam,58,grass,120,100
+670,16,Solar Beam,58,grass,120,100

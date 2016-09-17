@@ -1,0 +1,178 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+238,3,Pound,1,normal,40,100
+238,3,Lick,1,ghost,30,100
+238,4,Pound,1,normal,40,100
+238,4,Lick,1,ghost,30,100
+238,5,Pound,1,normal,40,100
+238,5,Lick,1,ghost,30,100
+238,6,Pound,1,normal,40,100
+238,6,Lick,1,ghost,30,100
+238,7,Pound,1,normal,40,100
+238,7,Lick,1,ghost,30,100
+238,8,Pound,1,normal,40,100
+238,9,Pound,1,normal,40,100
+238,10,Pound,1,normal,40,100
+238,11,Pound,1,normal,40,100
+238,12,Pound,1,normal,40,100
+238,12,Lick,1,ghost,30,100
+238,13,Pound,1,normal,40,100
+238,13,Lick,1,ghost,30,100
+238,14,Pound,1,normal,40,100
+238,15,Pound,1,normal,40,100
+238,16,Pound,1,normal,40,100
+238,8,Lick,5,ghost,30,100
+238,9,Lick,5,ghost,30,100
+238,10,Lick,5,ghost,30,100
+238,11,Lick,5,ghost,30,100
+238,14,Lick,5,ghost,30,100
+238,15,Lick,5,ghost,30,100
+238,16,Lick,5,ghost,30,100
+238,8,Sweet Kiss,8,fairy,-,75
+238,9,Sweet Kiss,8,fairy,-,75
+238,10,Sweet Kiss,8,fairy,-,75
+238,11,Sweet Kiss,8,fairy,-,75
+238,14,Sweet Kiss,8,fairy,-,75
+238,15,Sweet Kiss,8,fairy,-,75
+238,16,Sweet Kiss,8,fairy,-,75
+238,3,Sweet Kiss,9,fairy,-,75
+238,4,Sweet Kiss,9,fairy,-,75
+238,5,Sweet Kiss,9,fairy,-,75
+238,6,Sweet Kiss,9,fairy,-,75
+238,7,Sweet Kiss,9,fairy,-,75
+238,12,Sweet Kiss,9,fairy,-,75
+238,13,Sweet Kiss,9,fairy,-,75
+238,8,Powder Snow,11,ice,40,100
+238,9,Powder Snow,11,ice,40,100
+238,10,Powder Snow,11,ice,40,100
+238,11,Powder Snow,11,ice,40,100
+238,14,Powder Snow,11,ice,40,100
+238,15,Powder Snow,11,ice,40,100
+238,16,Powder Snow,11,ice,40,100
+238,3,Powder Snow,13,ice,40,100
+238,4,Powder Snow,13,ice,40,100
+238,5,Powder Snow,13,ice,40,100
+238,6,Powder Snow,13,ice,40,100
+238,7,Powder Snow,13,ice,40,100
+238,12,Powder Snow,13,ice,40,100
+238,13,Powder Snow,13,ice,40,100
+238,8,Confusion,15,psychic,50,100
+238,9,Confusion,15,psychic,50,100
+238,10,Confusion,15,psychic,50,100
+238,11,Confusion,15,psychic,50,100
+238,14,Confusion,15,psychic,50,100
+238,15,Confusion,15,psychic,50,100
+238,16,Confusion,15,psychic,50,100
+238,8,Sing,18,normal,-,55
+238,9,Sing,18,normal,-,55
+238,10,Sing,18,normal,-,55
+238,11,Sing,18,normal,-,55
+238,14,Sing,18,normal,-,55
+238,15,Sing,18,normal,-,55
+238,16,Sing,18,normal,-,55
+238,3,Confusion,21,psychic,50,100
+238,4,Confusion,21,psychic,50,100
+238,5,Confusion,21,psychic,50,100
+238,6,Confusion,21,psychic,50,100
+238,7,Confusion,21,psychic,50,100
+238,8,Mean Look,21,normal,-,-
+238,9,Mean Look,21,normal,-,-
+238,10,Mean Look,21,normal,-,-
+238,11,Heart Stamp,21,psychic,60,100
+238,12,Confusion,21,psychic,50,100
+238,13,Confusion,21,psychic,50,100
+238,14,Heart Stamp,21,psychic,60,100
+238,15,Heart Stamp,21,psychic,60,100
+238,16,Heart Stamp,21,psychic,60,100
+238,3,Sing,25,normal,-,55
+238,4,Sing,25,normal,-,55
+238,5,Sing,25,normal,-,55
+238,6,Sing,25,normal,-,55
+238,7,Sing,25,normal,-,55
+238,8,Fake Tears,25,dark,-,100
+238,9,Fake Tears,25,dark,-,100
+238,10,Fake Tears,25,dark,-,100
+238,11,Mean Look,25,normal,-,-
+238,12,Sing,25,normal,-,55
+238,13,Sing,25,normal,-,55
+238,14,Mean Look,25,normal,-,-
+238,15,Mean Look,25,normal,-,-
+238,16,Mean Look,25,normal,-,-
+238,8,Lucky Chant,28,normal,-,-
+238,9,Lucky Chant,28,normal,-,-
+238,10,Lucky Chant,28,normal,-,-
+238,11,Fake Tears,28,dark,-,100
+238,14,Fake Tears,28,dark,-,100
+238,15,Fake Tears,28,dark,-,100
+238,16,Fake Tears,28,dark,-,100
+238,8,Avalanche,31,ice,60,100
+238,9,Avalanche,31,ice,60,100
+238,10,Avalanche,31,ice,60,100
+238,11,Lucky Chant,31,normal,-,-
+238,14,Lucky Chant,31,normal,-,-
+238,15,Lucky Chant,31,normal,-,-
+238,16,Lucky Chant,31,normal,-,-
+238,3,Mean Look,33,normal,-,-
+238,4,Mean Look,33,normal,-,-
+238,5,Mean Look,33,normal,-,-
+238,6,Mean Look,33,normal,-,-
+238,7,Mean Look,33,normal,-,-
+238,12,Mean Look,33,normal,-,-
+238,13,Mean Look,33,normal,-,-
+238,8,Psychic,35,psychic,90,100
+238,9,Psychic,35,psychic,90,100
+238,10,Psychic,35,psychic,90,100
+238,11,Avalanche,35,ice,60,100
+238,14,Avalanche,35,ice,60,100
+238,15,Avalanche,35,ice,60,100
+238,16,Avalanche,35,ice,60,100
+238,3,Psychic,37,psychic,90,100
+238,4,Psychic,37,psychic,90,100
+238,5,Fake Tears,37,dark,-,100
+238,6,Fake Tears,37,dark,-,100
+238,7,Fake Tears,37,dark,-,100
+238,12,Fake Tears,37,dark,-,100
+238,13,Fake Tears,37,dark,-,100
+238,8,Copycat,38,normal,-,-
+238,9,Copycat,38,normal,-,-
+238,10,Copycat,38,normal,-,-
+238,11,Psychic,38,psychic,90,100
+238,14,Psychic,38,psychic,90,100
+238,15,Psychic,38,psychic,90,100
+238,16,Psychic,38,psychic,90,100
+238,8,Perish Song,41,normal,-,-
+238,9,Perish Song,41,normal,-,-
+238,10,Perish Song,41,normal,-,-
+238,11,Copycat,41,normal,-,-
+238,14,Copycat,41,normal,-,-
+238,15,Copycat,41,normal,-,-
+238,16,Copycat,41,normal,-,-
+238,3,Perish Song,45,normal,-,-
+238,4,Perish Song,45,normal,-,-
+238,5,Psychic,45,psychic,90,100
+238,6,Psychic,45,psychic,90,100
+238,7,Psychic,45,psychic,90,100
+238,8,Blizzard,45,ice,110,70
+238,9,Blizzard,45,ice,110,70
+238,10,Blizzard,45,ice,110,70
+238,11,Perish Song,45,normal,-,-
+238,12,Psychic,45,psychic,90,100
+238,13,Psychic,45,psychic,90,100
+238,14,Perish Song,45,normal,-,-
+238,15,Perish Song,45,normal,-,-
+238,16,Perish Song,45,normal,-,-
+238,11,Blizzard,48,ice,110,70
+238,14,Blizzard,48,ice,110,70
+238,15,Blizzard,48,ice,110,70
+238,16,Blizzard,48,ice,110,70
+238,3,Blizzard,49,ice,110,70
+238,4,Blizzard,49,ice,110,70
+238,5,Perish Song,49,normal,-,-
+238,6,Perish Song,49,normal,-,-
+238,7,Perish Song,49,normal,-,-
+238,12,Perish Song,49,normal,-,-
+238,13,Perish Song,49,normal,-,-
+238,5,Blizzard,57,ice,110,70
+238,6,Blizzard,57,ice,110,70
+238,7,Blizzard,57,ice,110,70
+238,12,Blizzard,57,ice,110,70
+238,13,Blizzard,57,ice,110,70

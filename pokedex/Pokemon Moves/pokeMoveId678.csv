@@ -1,0 +1,43 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+678,15,Scratch,1,normal,40,100
+678,15,Leer,1,normal,-,100
+678,15,Mean Look,1,normal,-,-
+678,15,Helping Hand,1,normal,-,-
+678,15,Quick Guard,1,fighting,-,-
+678,16,Scratch,1,normal,40,100
+678,16,Leer,1,normal,-,100
+678,16,Mean Look,1,normal,-,-
+678,16,Helping Hand,1,normal,-,-
+678,16,Quick Guard,1,fighting,-,-
+678,15,Covet,5,normal,60,100
+678,16,Covet,5,normal,60,100
+678,15,Confusion,9,psychic,50,100
+678,16,Confusion,9,psychic,50,100
+678,15,Light Screen,13,psychic,-,-
+678,16,Light Screen,13,psychic,-,-
+678,15,Psybeam,17,psychic,65,100
+678,16,Psybeam,17,psychic,65,100
+678,15,Fake Out,19,normal,40,100
+678,16,Fake Out,19,normal,40,100
+678,15,Disarming Voice,22,fairy,40,-
+678,16,Disarming Voice,22,fairy,40,-
+678,15,Psyshock,25,psychic,80,100
+678,16,Psyshock,25,psychic,80,100
+678,15,Charm,28,fairy,-,100
+678,16,Charm,28,fairy,-,100
+678,15,Miracle Eye,31,psychic,-,-
+678,16,Miracle Eye,31,psychic,-,-
+678,15,Reflect,35,psychic,-,-
+678,16,Reflect,35,psychic,-,-
+678,15,Psychic,40,psychic,90,100
+678,16,Psychic,40,psychic,90,100
+678,15,Role Play,43,psychic,-,-
+678,16,Role Play,43,psychic,-,-
+678,15,Imprison,45,psychic,-,-
+678,16,Imprison,45,psychic,-,-
+678,15,Sucker Punch,48,dark,80,100
+678,16,Sucker Punch,48,dark,80,100
+678,15,Misty Terrain,50,fairy,-,-
+678,16,Misty Terrain,50,fairy,-,-
+678,15,Quick Guard,53,fighting,-,-
+678,16,Quick Guard,53,fighting,-,-

@@ -1,0 +1,31 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+549,11,Mega Drain,1,grass,40,100
+549,11,Leech Seed,1,grass,-,90
+549,11,Growth,1,normal,-,-
+549,11,Synthesis,1,grass,-,-
+549,14,Mega Drain,1,grass,40,100
+549,14,Leech Seed,1,grass,-,90
+549,14,Growth,1,normal,-,-
+549,14,Synthesis,1,grass,-,-
+549,15,Mega Drain,1,grass,40,100
+549,15,Leech Seed,1,grass,-,90
+549,15,Growth,1,normal,-,-
+549,15,Synthesis,1,grass,-,-
+549,16,Mega Drain,1,grass,40,100
+549,16,Leech Seed,1,grass,-,90
+549,16,Growth,1,normal,-,-
+549,16,Synthesis,1,grass,-,-
+549,11,Teeter Dance,10,normal,-,100
+549,14,Teeter Dance,10,normal,-,100
+549,15,Teeter Dance,10,normal,-,100
+549,16,Teeter Dance,10,normal,-,100
+549,11,Quiver Dance,28,bug,-,-
+549,14,Quiver Dance,28,bug,-,-
+549,15,Quiver Dance,28,bug,-,-
+549,16,Quiver Dance,28,bug,-,-
+549,11,Petal Dance,46,grass,120,100
+549,14,Petal Dance,46,grass,120,100
+549,15,Petal Dance,46,grass,120,100
+549,16,Petal Dance,46,grass,120,100
+549,15,Petal Blizzard,50,grass,90,100
+549,16,Petal Blizzard,50,grass,90,100

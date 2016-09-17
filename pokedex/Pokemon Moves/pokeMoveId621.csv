@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+621,11,Scratch,1,normal,40,100
+621,11,Leer,1,normal,-,100
+621,14,Scratch,1,normal,40,100
+621,14,Leer,1,normal,-,100
+621,15,Scratch,1,normal,40,100
+621,15,Leer,1,normal,-,100
+621,16,Scratch,1,normal,40,100
+621,16,Leer,1,normal,-,100
+621,11,Hone Claws,5,dark,-,-
+621,14,Hone Claws,5,dark,-,-
+621,15,Hone Claws,5,dark,-,-
+621,16,Hone Claws,5,dark,-,-
+621,11,Bite,9,dark,60,100
+621,14,Bite,9,dark,60,100
+621,15,Bite,9,dark,60,100
+621,16,Bite,9,dark,60,100
+621,11,Scary Face,13,normal,-,100
+621,14,Scary Face,13,normal,-,100
+621,15,Scary Face,13,normal,-,100
+621,16,Scary Face,13,normal,-,100
+621,11,Dragon Rage,18,dragon,-,100
+621,14,Dragon Rage,18,dragon,-,100
+621,15,Dragon Rage,18,dragon,-,100
+621,16,Dragon Rage,18,dragon,-,100
+621,11,Slash,21,normal,70,100
+621,14,Slash,21,normal,70,100
+621,15,Slash,21,normal,70,100
+621,16,Slash,21,normal,70,100
+621,11,Crunch,25,dark,80,100
+621,14,Crunch,25,dark,80,100
+621,15,Crunch,25,dark,80,100
+621,16,Crunch,25,dark,80,100
+621,11,Dragon Claw,27,dragon,80,100
+621,14,Dragon Claw,27,dragon,80,100
+621,15,Dragon Claw,27,dragon,80,100
+621,16,Dragon Claw,27,dragon,80,100
+621,11,Chip Away,31,normal,70,100
+621,14,Chip Away,31,normal,70,100
+621,15,Chip Away,31,normal,70,100
+621,16,Chip Away,31,normal,70,100
+621,11,Revenge,35,fighting,60,100
+621,14,Revenge,35,fighting,60,100
+621,15,Revenge,35,fighting,60,100
+621,16,Revenge,35,fighting,60,100
+621,11,Night Slash,40,dark,70,100
+621,14,Night Slash,40,dark,70,100
+621,15,Night Slash,40,dark,70,100
+621,16,Night Slash,40,dark,70,100
+621,11,Dragon Tail,45,dragon,60,90
+621,14,Dragon Tail,45,dragon,60,90
+621,15,Dragon Tail,45,dragon,60,90
+621,16,Dragon Tail,45,dragon,60,90
+621,11,Rock Climb,49,normal,90,85
+621,14,Rock Climb,49,normal,90,85
+621,15,Rock Climb,49,normal,90,85
+621,16,Rock Climb,49,normal,90,85
+621,11,Superpower,55,fighting,120,100
+621,14,Superpower,55,fighting,120,100
+621,15,Superpower,55,fighting,120,100
+621,16,Superpower,55,fighting,120,100
+621,11,Outrage,62,dragon,120,100
+621,14,Outrage,62,dragon,120,100
+621,15,Outrage,62,dragon,120,100
+621,16,Outrage,62,dragon,120,100

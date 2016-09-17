@@ -1,0 +1,104 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+435,8,Scratch,1,normal,40,100
+435,8,Focus Energy,1,normal,-,-
+435,8,Poison Gas,1,poison,-,90
+435,9,Scratch,1,normal,40,100
+435,9,Focus Energy,1,normal,-,-
+435,9,Poison Gas,1,poison,-,90
+435,10,Scratch,1,normal,40,100
+435,10,Focus Energy,1,normal,-,-
+435,10,Poison Gas,1,poison,-,90
+435,11,Scratch,1,normal,40,100
+435,11,Focus Energy,1,normal,-,-
+435,11,Poison Gas,1,poison,-,90
+435,14,Scratch,1,normal,40,100
+435,14,Focus Energy,1,normal,-,-
+435,14,Poison Gas,1,poison,-,90
+435,15,Scratch,1,normal,40,100
+435,15,Focus Energy,1,normal,-,-
+435,15,Poison Gas,1,poison,-,90
+435,16,Scratch,1,normal,40,100
+435,16,Focus Energy,1,normal,-,-
+435,16,Poison Gas,1,poison,-,90
+435,8,Poison Gas,4,poison,-,90
+435,9,Poison Gas,4,poison,-,90
+435,10,Poison Gas,4,poison,-,90
+435,11,Poison Gas,4,poison,-,90
+435,14,Poison Gas,4,poison,-,90
+435,15,Poison Gas,4,poison,-,90
+435,16,Poison Gas,4,poison,-,90
+435,8,Screech,7,normal,-,85
+435,9,Screech,7,normal,-,85
+435,10,Screech,7,normal,-,85
+435,11,Screech,7,normal,-,85
+435,14,Screech,7,normal,-,85
+435,15,Screech,7,normal,-,85
+435,16,Screech,7,normal,-,85
+435,9,Fury Swipes,10,normal,18,80
+435,10,Fury Swipes,10,normal,18,80
+435,11,Fury Swipes,10,normal,18,80
+435,14,Fury Swipes,10,normal,18,80
+435,15,Fury Swipes,10,normal,18,80
+435,16,Fury Swipes,10,normal,18,80
+435,8,Fury Swipes,11,normal,18,80
+435,9,Smokescreen,14,normal,-,100
+435,10,Smokescreen,14,normal,-,100
+435,11,Smokescreen,14,normal,-,100
+435,14,Smokescreen,14,normal,-,100
+435,15,Smokescreen,14,normal,-,100
+435,16,Smokescreen,14,normal,-,100
+435,8,Smokescreen,15,normal,-,100
+435,9,Feint,18,normal,30,100
+435,10,Feint,18,normal,30,100
+435,11,Feint,18,normal,30,100
+435,14,Feint,18,normal,30,100
+435,15,Feint,18,normal,30,100
+435,16,Feint,18,normal,30,100
+435,8,Toxic,20,poison,-,90
+435,9,Slash,22,normal,70,100
+435,10,Slash,22,normal,70,100
+435,11,Slash,22,normal,70,100
+435,14,Slash,22,normal,70,100
+435,15,Slash,22,normal,70,100
+435,16,Slash,22,normal,70,100
+435,8,Slash,25,normal,70,100
+435,9,Toxic,27,poison,-,90
+435,10,Toxic,27,poison,-,90
+435,11,Toxic,27,poison,-,90
+435,14,Toxic,27,poison,-,90
+435,15,Toxic,27,poison,-,90
+435,16,Toxic,27,poison,-,90
+435,8,Night Slash,31,dark,70,100
+435,9,Night Slash,32,dark,70,100
+435,10,Night Slash,32,dark,70,100
+435,11,Acid Spray,32,poison,40,100
+435,14,Acid Spray,32,poison,40,100
+435,15,Acid Spray,32,poison,40,100
+435,16,Acid Spray,32,poison,40,100
+435,8,Flamethrower,34,fire,90,100
+435,9,Flamethrower,34,fire,90,100
+435,10,Flamethrower,34,fire,90,100
+435,11,Flamethrower,34,fire,90,100
+435,14,Flamethrower,34,fire,90,100
+435,15,Flamethrower,34,fire,90,100
+435,16,Flamethrower,34,fire,90,100
+435,8,Memento,41,dark,-,100
+435,11,Night Slash,41,dark,70,100
+435,14,Night Slash,41,dark,70,100
+435,15,Night Slash,41,dark,70,100
+435,16,Night Slash,41,dark,70,100
+435,9,Memento,42,dark,-,100
+435,10,Memento,42,dark,-,100
+435,11,Memento,51,dark,-,100
+435,14,Memento,51,dark,-,100
+435,15,Memento,51,dark,-,100
+435,16,Memento,51,dark,-,100
+435,8,Explosion,52,normal,250,100
+435,9,Explosion,52,normal,250,100
+435,10,Explosion,52,normal,250,100
+435,15,Belch,56,poison,120,90
+435,16,Belch,56,poison,120,90
+435,11,Explosion,61,normal,250,100
+435,14,Explosion,61,normal,250,100
+435,15,Explosion,61,normal,250,100
+435,16,Explosion,61,normal,250,100

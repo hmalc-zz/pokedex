@@ -1,0 +1,106 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+34,1,Horn Attack,1,normal,65,100
+34,1,Tackle,1,normal,50,100
+34,1,Thrash,1,normal,120,100
+34,1,Poison Sting,1,poison,15,100
+34,2,Horn Attack,1,normal,65,100
+34,2,Tackle,1,normal,50,100
+34,2,Thrash,1,normal,120,100
+34,2,Poison Sting,1,poison,15,100
+34,3,Double Kick,1,fighting,30,100
+34,3,Horn Attack,1,normal,65,100
+34,3,Tackle,1,normal,50,100
+34,3,Poison Sting,1,poison,15,100
+34,4,Double Kick,1,fighting,30,100
+34,4,Horn Attack,1,normal,65,100
+34,4,Tackle,1,normal,50,100
+34,4,Poison Sting,1,poison,15,100
+34,5,Double Kick,1,fighting,30,100
+34,5,Poison Sting,1,poison,15,100
+34,5,Peck,1,flying,35,100
+34,5,Focus Energy,1,normal,-,-
+34,6,Double Kick,1,fighting,30,100
+34,6,Poison Sting,1,poison,15,100
+34,6,Peck,1,flying,35,100
+34,6,Focus Energy,1,normal,-,-
+34,7,Double Kick,1,fighting,30,100
+34,7,Poison Sting,1,poison,15,100
+34,7,Peck,1,flying,35,100
+34,7,Focus Energy,1,normal,-,-
+34,8,Double Kick,1,fighting,30,100
+34,8,Poison Sting,1,poison,15,100
+34,8,Peck,1,flying,35,100
+34,8,Focus Energy,1,normal,-,-
+34,9,Double Kick,1,fighting,30,100
+34,9,Poison Sting,1,poison,15,100
+34,9,Peck,1,flying,35,100
+34,9,Focus Energy,1,normal,-,-
+34,10,Double Kick,1,fighting,30,100
+34,10,Poison Sting,1,poison,15,100
+34,10,Peck,1,flying,35,100
+34,10,Focus Energy,1,normal,-,-
+34,11,Double Kick,1,fighting,30,100
+34,11,Poison Sting,1,poison,15,100
+34,11,Peck,1,flying,35,100
+34,11,Focus Energy,1,normal,-,-
+34,12,Double Kick,1,fighting,30,100
+34,12,Poison Sting,1,poison,15,100
+34,12,Peck,1,flying,35,100
+34,12,Focus Energy,1,normal,-,-
+34,13,Double Kick,1,fighting,30,100
+34,13,Poison Sting,1,poison,15,100
+34,13,Peck,1,flying,35,100
+34,13,Focus Energy,1,normal,-,-
+34,14,Double Kick,1,fighting,30,100
+34,14,Poison Sting,1,poison,15,100
+34,14,Peck,1,flying,35,100
+34,14,Focus Energy,1,normal,-,-
+34,15,Double Kick,1,fighting,30,100
+34,15,Poison Sting,1,poison,15,100
+34,15,Peck,1,flying,35,100
+34,15,Focus Energy,1,normal,-,-
+34,15,Megahorn,1,bug,120,85
+34,16,Double Kick,1,fighting,30,100
+34,16,Poison Sting,1,poison,15,100
+34,16,Peck,1,flying,35,100
+34,16,Focus Energy,1,normal,-,-
+34,16,Megahorn,1,bug,120,85
+34,1,Horn Attack,8,normal,65,100
+34,2,Horn Attack,8,normal,65,100
+34,2,Double Kick,12,fighting,30,100
+34,1,Poison Sting,14,poison,15,100
+34,7,Thrash,22,normal,120,100
+34,1,Thrash,23,normal,120,100
+34,2,Thrash,23,normal,120,100
+34,3,Thrash,23,normal,120,100
+34,4,Thrash,23,normal,120,100
+34,5,Thrash,23,normal,120,100
+34,6,Thrash,23,normal,120,100
+34,8,Thrash,23,normal,120,100
+34,9,Thrash,23,normal,120,100
+34,10,Thrash,23,normal,120,100
+34,11,Chip Away,23,normal,70,100
+34,12,Thrash,23,normal,120,100
+34,13,Thrash,23,normal,120,100
+34,14,Chip Away,23,normal,70,100
+34,15,Chip Away,23,normal,70,100
+34,16,Chip Away,23,normal,70,100
+34,11,Thrash,35,normal,120,100
+34,14,Thrash,35,normal,120,100
+34,15,Thrash,35,normal,120,100
+34,16,Thrash,35,normal,120,100
+34,7,Megahorn,43,bug,120,85
+34,8,Earth Power,43,ground,90,100
+34,9,Earth Power,43,ground,90,100
+34,10,Earth Power,43,ground,90,100
+34,11,Earth Power,43,ground,90,100
+34,14,Earth Power,43,ground,90,100
+34,15,Earth Power,43,ground,90,100
+34,16,Earth Power,43,ground,90,100
+34,8,Megahorn,58,bug,120,85
+34,9,Megahorn,58,bug,120,85
+34,10,Megahorn,58,bug,120,85
+34,11,Megahorn,58,bug,120,85
+34,14,Megahorn,58,bug,120,85
+34,15,Megahorn,58,bug,120,85
+34,16,Megahorn,58,bug,120,85

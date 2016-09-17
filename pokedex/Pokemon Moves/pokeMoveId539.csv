@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+539,11,Leer,1,normal,-,100
+539,11,Rock Smash,1,fighting,40,100
+539,14,Leer,1,normal,-,100
+539,14,Rock Smash,1,fighting,40,100
+539,15,Leer,1,normal,-,100
+539,15,Rock Smash,1,fighting,40,100
+539,16,Leer,1,normal,-,100
+539,16,Rock Smash,1,fighting,40,100
+539,11,Bide,5,normal,-,-
+539,14,Bide,5,normal,-,-
+539,15,Bide,5,normal,-,-
+539,16,Bide,5,normal,-,-
+539,11,Focus Energy,9,normal,-,-
+539,14,Focus Energy,9,normal,-,-
+539,15,Focus Energy,9,normal,-,-
+539,16,Focus Energy,9,normal,-,-
+539,11,Double Kick,13,fighting,30,100
+539,14,Double Kick,13,fighting,30,100
+539,15,Double Kick,13,fighting,30,100
+539,16,Double Kick,13,fighting,30,100
+539,11,Low Sweep,17,fighting,65,100
+539,14,Low Sweep,17,fighting,65,100
+539,15,Low Sweep,17,fighting,65,100
+539,16,Low Sweep,17,fighting,65,100
+539,11,Counter,21,fighting,-,100
+539,14,Counter,21,fighting,-,100
+539,15,Counter,21,fighting,-,100
+539,16,Counter,21,fighting,-,100
+539,11,Karate Chop,25,fighting,50,100
+539,14,Karate Chop,25,fighting,50,100
+539,15,Karate Chop,25,fighting,50,100
+539,16,Karate Chop,25,fighting,50,100
+539,11,Brick Break,29,fighting,75,100
+539,14,Brick Break,29,fighting,75,100
+539,15,Brick Break,29,fighting,75,100
+539,16,Brick Break,29,fighting,75,100
+539,11,Bulk Up,33,fighting,-,-
+539,14,Bulk Up,33,fighting,-,-
+539,15,Bulk Up,33,fighting,-,-
+539,16,Bulk Up,33,fighting,-,-
+539,11,Retaliate,37,normal,70,100
+539,14,Retaliate,37,normal,70,100
+539,15,Retaliate,37,normal,70,100
+539,16,Retaliate,37,normal,70,100
+539,11,Endure,41,normal,-,-
+539,14,Endure,41,normal,-,-
+539,15,Endure,41,normal,-,-
+539,16,Endure,41,normal,-,-
+539,11,Quick Guard,45,fighting,-,-
+539,14,Quick Guard,45,fighting,-,-
+539,15,Quick Guard,45,fighting,-,-
+539,16,Quick Guard,45,fighting,-,-
+539,15,Close Combat,48,fighting,120,100
+539,16,Close Combat,48,fighting,120,100
+539,11,Close Combat,49,fighting,120,100
+539,14,Close Combat,49,fighting,120,100
+539,15,Reversal,50,fighting,-,100
+539,16,Reversal,50,fighting,-,100
+539,11,Reversal,53,fighting,-,100
+539,14,Reversal,53,fighting,-,100

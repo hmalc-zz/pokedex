@@ -1,0 +1,186 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+159,3,Scratch,1,normal,40,100
+159,3,Leer,1,normal,-,100
+159,3,Rage,1,normal,20,100
+159,4,Scratch,1,normal,40,100
+159,4,Leer,1,normal,-,100
+159,4,Rage,1,normal,20,100
+159,5,Scratch,1,normal,40,100
+159,5,Leer,1,normal,-,100
+159,5,Rage,1,normal,20,100
+159,6,Scratch,1,normal,40,100
+159,6,Leer,1,normal,-,100
+159,6,Rage,1,normal,20,100
+159,7,Scratch,1,normal,40,100
+159,7,Leer,1,normal,-,100
+159,7,Rage,1,normal,20,100
+159,8,Scratch,1,normal,40,100
+159,8,Leer,1,normal,-,100
+159,8,Water Gun,1,water,40,100
+159,9,Scratch,1,normal,40,100
+159,9,Leer,1,normal,-,100
+159,9,Water Gun,1,water,40,100
+159,10,Scratch,1,normal,40,100
+159,10,Leer,1,normal,-,100
+159,10,Water Gun,1,water,40,100
+159,11,Scratch,1,normal,40,100
+159,11,Leer,1,normal,-,100
+159,11,Water Gun,1,water,40,100
+159,12,Scratch,1,normal,40,100
+159,12,Leer,1,normal,-,100
+159,12,Rage,1,normal,20,100
+159,13,Scratch,1,normal,40,100
+159,13,Leer,1,normal,-,100
+159,13,Rage,1,normal,20,100
+159,14,Scratch,1,normal,40,100
+159,14,Leer,1,normal,-,100
+159,14,Water Gun,1,water,40,100
+159,15,Scratch,1,normal,40,100
+159,15,Leer,1,normal,-,100
+159,15,Water Gun,1,water,40,100
+159,16,Scratch,1,normal,40,100
+159,16,Leer,1,normal,-,100
+159,16,Water Gun,1,water,40,100
+159,8,Water Gun,6,water,40,100
+159,9,Water Gun,6,water,40,100
+159,10,Water Gun,6,water,40,100
+159,11,Water Gun,6,water,40,100
+159,14,Water Gun,6,water,40,100
+159,15,Water Gun,6,water,40,100
+159,16,Water Gun,6,water,40,100
+159,3,Rage,7,normal,20,100
+159,4,Rage,7,normal,20,100
+159,5,Rage,7,normal,20,100
+159,6,Rage,7,normal,20,100
+159,7,Rage,7,normal,20,100
+159,12,Rage,7,normal,20,100
+159,13,Rage,7,normal,20,100
+159,8,Rage,8,normal,20,100
+159,9,Rage,8,normal,20,100
+159,10,Rage,8,normal,20,100
+159,11,Rage,8,normal,20,100
+159,14,Rage,8,normal,20,100
+159,15,Rage,8,normal,20,100
+159,16,Rage,8,normal,20,100
+159,3,Water Gun,13,water,40,100
+159,4,Water Gun,13,water,40,100
+159,5,Water Gun,13,water,40,100
+159,6,Water Gun,13,water,40,100
+159,7,Water Gun,13,water,40,100
+159,8,Bite,13,dark,60,100
+159,9,Bite,13,dark,60,100
+159,10,Bite,13,dark,60,100
+159,11,Bite,13,dark,60,100
+159,12,Water Gun,13,water,40,100
+159,13,Water Gun,13,water,40,100
+159,14,Bite,13,dark,60,100
+159,15,Bite,13,dark,60,100
+159,16,Bite,13,dark,60,100
+159,8,Scary Face,15,normal,-,100
+159,9,Scary Face,15,normal,-,100
+159,10,Scary Face,15,normal,-,100
+159,11,Scary Face,15,normal,-,100
+159,14,Scary Face,15,normal,-,100
+159,15,Scary Face,15,normal,-,100
+159,16,Scary Face,15,normal,-,100
+159,3,Bite,21,dark,60,100
+159,4,Bite,21,dark,60,100
+159,5,Bite,21,dark,60,100
+159,6,Bite,21,dark,60,100
+159,7,Bite,21,dark,60,100
+159,8,Ice Fang,21,ice,65,95
+159,9,Ice Fang,21,ice,65,95
+159,10,Ice Fang,21,ice,65,95
+159,11,Ice Fang,21,ice,65,95
+159,12,Bite,21,dark,60,100
+159,13,Bite,21,dark,60,100
+159,14,Ice Fang,21,ice,65,95
+159,15,Ice Fang,21,ice,65,95
+159,16,Ice Fang,21,ice,65,95
+159,8,Thrash,24,normal,120,100
+159,9,Flail,24,normal,-,100
+159,10,Flail,24,normal,-,100
+159,11,Flail,24,normal,-,100
+159,14,Flail,24,normal,-,100
+159,15,Flail,24,normal,-,100
+159,16,Flail,24,normal,-,100
+159,3,Scary Face,28,normal,-,100
+159,4,Scary Face,28,normal,-,100
+159,5,Scary Face,28,normal,-,100
+159,6,Scary Face,28,normal,-,100
+159,7,Scary Face,28,normal,-,100
+159,12,Scary Face,28,normal,-,100
+159,13,Scary Face,28,normal,-,100
+159,8,Crunch,30,dark,80,100
+159,9,Crunch,30,dark,80,100
+159,10,Crunch,30,dark,80,100
+159,11,Crunch,30,dark,80,100
+159,14,Crunch,30,dark,80,100
+159,15,Crunch,30,dark,80,100
+159,16,Crunch,30,dark,80,100
+159,8,Slash,33,normal,70,100
+159,9,Slash,33,normal,70,100
+159,10,Slash,33,normal,70,100
+159,11,Chip Away,33,normal,70,100
+159,14,Chip Away,33,normal,70,100
+159,15,Chip Away,33,normal,70,100
+159,16,Chip Away,33,normal,70,100
+159,3,Slash,37,normal,70,100
+159,4,Slash,37,normal,70,100
+159,5,Slash,37,normal,70,100
+159,6,Slash,37,normal,70,100
+159,7,Slash,37,normal,70,100
+159,12,Slash,37,normal,70,100
+159,13,Slash,37,normal,70,100
+159,8,Screech,39,normal,-,85
+159,9,Screech,39,normal,-,85
+159,10,Screech,39,normal,-,85
+159,11,Slash,39,normal,70,100
+159,14,Slash,39,normal,70,100
+159,15,Slash,39,normal,70,100
+159,16,Slash,39,normal,70,100
+159,8,Aqua Tail,42,water,90,90
+159,9,Thrash,42,normal,120,100
+159,10,Thrash,42,normal,120,100
+159,11,Screech,42,normal,-,85
+159,14,Screech,42,normal,-,85
+159,15,Screech,42,normal,-,85
+159,16,Screech,42,normal,-,85
+159,3,Screech,45,normal,-,85
+159,4,Screech,45,normal,-,85
+159,5,Screech,45,normal,-,85
+159,6,Screech,45,normal,-,85
+159,7,Screech,45,normal,-,85
+159,12,Screech,45,normal,-,85
+159,13,Screech,45,normal,-,85
+159,8,Superpower,48,fighting,120,100
+159,9,Aqua Tail,48,water,90,90
+159,10,Aqua Tail,48,water,90,90
+159,11,Thrash,48,normal,120,100
+159,14,Thrash,48,normal,120,100
+159,15,Thrash,48,normal,120,100
+159,16,Thrash,48,normal,120,100
+159,8,Hydro Pump,51,water,110,80
+159,9,Superpower,51,fighting,120,100
+159,10,Superpower,51,fighting,120,100
+159,11,Aqua Tail,51,water,90,90
+159,14,Aqua Tail,51,water,90,90
+159,15,Aqua Tail,51,water,90,90
+159,16,Aqua Tail,51,water,90,90
+159,3,Hydro Pump,55,water,110,80
+159,4,Hydro Pump,55,water,110,80
+159,5,Hydro Pump,55,water,110,80
+159,6,Hydro Pump,55,water,110,80
+159,7,Hydro Pump,55,water,110,80
+159,12,Hydro Pump,55,water,110,80
+159,13,Hydro Pump,55,water,110,80
+159,9,Hydro Pump,57,water,110,80
+159,10,Hydro Pump,57,water,110,80
+159,11,Superpower,57,fighting,120,100
+159,14,Superpower,57,fighting,120,100
+159,15,Superpower,57,fighting,120,100
+159,16,Superpower,57,fighting,120,100
+159,11,Hydro Pump,60,water,110,80
+159,14,Hydro Pump,60,water,110,80
+159,15,Hydro Pump,60,water,110,80
+159,16,Hydro Pump,60,water,110,80

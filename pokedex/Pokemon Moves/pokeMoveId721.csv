@@ -1,0 +1,33 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+721,15,Take Down,1,normal,90,85
+721,15,Flare Blitz,1,fire,120,100
+721,15,Steam Eruption,1,water,110,95
+721,16,Take Down,1,normal,90,85
+721,16,Flare Blitz,1,fire,120,100
+721,16,Steam Eruption,1,water,110,95
+721,15,Mist,8,ice,-,-
+721,16,Mist,8,ice,-,-
+721,15,Haze,11,ice,-,-
+721,16,Haze,11,ice,-,-
+721,15,Flame Charge,15,fire,50,100
+721,16,Flame Charge,15,fire,50,100
+721,15,Water Pulse,21,water,60,100
+721,16,Water Pulse,21,water,60,100
+721,15,Stomp,28,normal,65,100
+721,16,Stomp,28,normal,65,100
+721,15,Scald,32,water,80,100
+721,16,Scald,32,water,80,100
+721,15,Weather Ball,40,normal,50,100
+721,16,Weather Ball,40,normal,50,100
+721,15,Body Slam,46,normal,85,100
+721,16,Body Slam,46,normal,85,100
+721,15,Hydro Pump,50,water,110,80
+721,16,Hydro Pump,50,water,110,80
+721,15,Flare Blitz,58,fire,120,100
+721,16,Flare Blitz,58,fire,120,100
+721,15,Overheat,65,fire,130,90
+721,16,Overheat,65,fire,130,90
+721,15,Explosion,76,normal,250,100
+721,16,Explosion,76,normal,250,100
+721,15,Steam Eruption,85,water,110,95
+721,16,Steam Eruption,85,water,110,95

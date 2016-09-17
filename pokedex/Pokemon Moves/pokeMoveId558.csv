@@ -1,0 +1,73 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+558,11,Sand Attack,1,ground,-,100
+558,11,Withdraw,1,water,-,-
+558,11,Rock Blast,1,rock,25,90
+558,11,Shell Smash,1,normal,-,-
+558,14,Sand Attack,1,ground,-,100
+558,14,Withdraw,1,water,-,-
+558,14,Rock Blast,1,rock,25,90
+558,14,Shell Smash,1,normal,-,-
+558,15,Sand Attack,1,ground,-,100
+558,15,Withdraw,1,water,-,-
+558,15,Rock Blast,1,rock,25,90
+558,15,Shell Smash,1,normal,-,-
+558,16,Sand Attack,1,ground,-,100
+558,16,Withdraw,1,water,-,-
+558,16,Rock Blast,1,rock,25,90
+558,16,Shell Smash,1,normal,-,-
+558,11,Rock Blast,5,rock,25,90
+558,14,Rock Blast,5,rock,25,90
+558,15,Rock Blast,5,rock,25,90
+558,16,Rock Blast,5,rock,25,90
+558,11,Withdraw,7,water,-,-
+558,14,Withdraw,7,water,-,-
+558,15,Withdraw,7,water,-,-
+558,16,Withdraw,7,water,-,-
+558,11,Sand Attack,11,ground,-,100
+558,14,Sand Attack,11,ground,-,100
+558,15,Sand Attack,11,ground,-,100
+558,16,Sand Attack,11,ground,-,100
+558,11,Feint Attack,13,dark,60,-
+558,14,Feint Attack,13,dark,60,-
+558,15,Feint Attack,13,dark,60,-
+558,16,Feint Attack,13,dark,60,-
+558,11,Smack Down,17,rock,50,100
+558,14,Smack Down,17,rock,50,100
+558,15,Smack Down,17,rock,50,100
+558,16,Smack Down,17,rock,50,100
+558,11,Rock Polish,19,rock,-,-
+558,14,Rock Polish,19,rock,-,-
+558,15,Rock Polish,19,rock,-,-
+558,16,Rock Polish,19,rock,-,-
+558,11,Bug Bite,23,bug,60,100
+558,14,Bug Bite,23,bug,60,100
+558,15,Bug Bite,23,bug,60,100
+558,16,Bug Bite,23,bug,60,100
+558,11,Stealth Rock,24,rock,-,-
+558,14,Stealth Rock,24,rock,-,-
+558,15,Stealth Rock,24,rock,-,-
+558,16,Stealth Rock,24,rock,-,-
+558,11,Rock Slide,29,rock,75,90
+558,14,Rock Slide,29,rock,75,90
+558,15,Rock Slide,29,rock,75,90
+558,16,Rock Slide,29,rock,75,90
+558,11,Slash,31,normal,70,100
+558,14,Slash,31,normal,70,100
+558,15,Slash,31,normal,70,100
+558,16,Slash,31,normal,70,100
+558,11,X-Scissor,38,bug,80,100
+558,14,X-Scissor,38,bug,80,100
+558,15,X-Scissor,38,bug,80,100
+558,16,X-Scissor,38,bug,80,100
+558,11,Shell Smash,43,normal,-,-
+558,14,Shell Smash,43,normal,-,-
+558,15,Shell Smash,43,normal,-,-
+558,16,Shell Smash,43,normal,-,-
+558,11,Flail,50,normal,-,100
+558,14,Flail,50,normal,-,100
+558,15,Flail,50,normal,-,100
+558,16,Flail,50,normal,-,100
+558,11,Rock Wrecker,55,rock,150,90
+558,14,Rock Wrecker,55,rock,150,90
+558,15,Rock Wrecker,55,rock,150,90
+558,16,Rock Wrecker,55,rock,150,90

@@ -1,0 +1,57 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+592,11,Bubble,1,water,40,100
+592,11,Water Sport,1,water,-,-
+592,14,Bubble,1,water,40,100
+592,14,Water Sport,1,water,-,-
+592,15,Bubble,1,water,40,100
+592,15,Water Sport,1,water,-,-
+592,16,Bubble,1,water,40,100
+592,16,Water Sport,1,water,-,-
+592,11,Absorb,5,grass,20,100
+592,14,Absorb,5,grass,20,100
+592,15,Absorb,5,grass,20,100
+592,16,Absorb,5,grass,20,100
+592,11,Night Shade,9,ghost,-,100
+592,14,Night Shade,9,ghost,-,100
+592,15,Night Shade,9,ghost,-,100
+592,16,Night Shade,9,ghost,-,100
+592,11,Bubble Beam,13,water,65,100
+592,14,Bubble Beam,13,water,65,100
+592,15,Bubble Beam,13,water,65,100
+592,16,Bubble Beam,13,water,65,100
+592,11,Recover,17,normal,-,-
+592,14,Recover,17,normal,-,-
+592,15,Recover,17,normal,-,-
+592,16,Recover,17,normal,-,-
+592,11,Water Pulse,22,water,60,100
+592,14,Water Pulse,22,water,60,100
+592,15,Water Pulse,22,water,60,100
+592,16,Water Pulse,22,water,60,100
+592,11,Ominous Wind,27,ghost,60,100
+592,14,Ominous Wind,27,ghost,60,100
+592,15,Ominous Wind,27,ghost,60,100
+592,16,Ominous Wind,27,ghost,60,100
+592,11,Brine,32,water,65,100
+592,14,Brine,32,water,65,100
+592,15,Brine,32,water,65,100
+592,16,Brine,32,water,65,100
+592,11,Rain Dance,37,water,-,-
+592,14,Rain Dance,37,water,-,-
+592,15,Rain Dance,37,water,-,-
+592,16,Rain Dance,37,water,-,-
+592,11,Hex,43,ghost,65,100
+592,14,Hex,43,ghost,65,100
+592,15,Hex,43,ghost,65,100
+592,16,Hex,43,ghost,65,100
+592,11,Hydro Pump,49,water,110,80
+592,14,Hydro Pump,49,water,110,80
+592,15,Hydro Pump,49,water,110,80
+592,16,Hydro Pump,49,water,110,80
+592,11,Wring Out,55,normal,-,100
+592,14,Wring Out,55,normal,-,100
+592,15,Wring Out,55,normal,-,100
+592,16,Wring Out,55,normal,-,100
+592,11,Water Spout,61,water,150,100
+592,14,Water Spout,61,water,150,100
+592,15,Water Spout,61,water,150,100
+592,16,Water Spout,61,water,150,100

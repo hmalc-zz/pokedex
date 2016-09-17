@@ -1,0 +1,215 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+332,5,Poison Sting,1,poison,15,100
+332,5,Leer,1,normal,-,100
+332,5,Absorb,1,grass,20,100
+332,5,Growth,1,normal,-,-
+332,6,Poison Sting,1,poison,15,100
+332,6,Leer,1,normal,-,100
+332,6,Absorb,1,grass,20,100
+332,6,Growth,1,normal,-,-
+332,7,Poison Sting,1,poison,15,100
+332,7,Leer,1,normal,-,100
+332,7,Absorb,1,grass,20,100
+332,7,Growth,1,normal,-,-
+332,7,Revenge,1,fighting,60,100
+332,8,Poison Sting,1,poison,15,100
+332,8,Leer,1,normal,-,100
+332,8,Absorb,1,grass,20,100
+332,8,Growth,1,normal,-,-
+332,8,Revenge,1,fighting,60,100
+332,9,Poison Sting,1,poison,15,100
+332,9,Leer,1,normal,-,100
+332,9,Absorb,1,grass,20,100
+332,9,Growth,1,normal,-,-
+332,9,Revenge,1,fighting,60,100
+332,10,Poison Sting,1,poison,15,100
+332,10,Leer,1,normal,-,100
+332,10,Absorb,1,grass,20,100
+332,10,Growth,1,normal,-,-
+332,10,Revenge,1,fighting,60,100
+332,11,Poison Sting,1,poison,15,100
+332,11,Leer,1,normal,-,100
+332,11,Absorb,1,grass,20,100
+332,11,Growth,1,normal,-,-
+332,11,Revenge,1,fighting,60,100
+332,12,Poison Sting,1,poison,15,100
+332,12,Leer,1,normal,-,100
+332,12,Absorb,1,grass,20,100
+332,12,Growth,1,normal,-,-
+332,13,Poison Sting,1,poison,15,100
+332,13,Leer,1,normal,-,100
+332,13,Absorb,1,grass,20,100
+332,13,Growth,1,normal,-,-
+332,14,Poison Sting,1,poison,15,100
+332,14,Leer,1,normal,-,100
+332,14,Absorb,1,grass,20,100
+332,14,Growth,1,normal,-,-
+332,14,Revenge,1,fighting,60,100
+332,15,Poison Sting,1,poison,15,100
+332,15,Leer,1,normal,-,100
+332,15,Absorb,1,grass,20,100
+332,15,Growth,1,normal,-,-
+332,15,Destiny Bond,1,ghost,-,-
+332,15,Revenge,1,fighting,60,100
+332,16,Poison Sting,1,poison,15,100
+332,16,Leer,1,normal,-,100
+332,16,Absorb,1,grass,20,100
+332,16,Growth,1,normal,-,-
+332,16,Destiny Bond,1,ghost,-,-
+332,16,Revenge,1,fighting,60,100
+332,16,Absorb,4,grass,20,100
+332,5,Absorb,5,grass,20,100
+332,6,Absorb,5,grass,20,100
+332,7,Absorb,5,grass,20,100
+332,8,Absorb,5,grass,20,100
+332,9,Absorb,5,grass,20,100
+332,10,Absorb,5,grass,20,100
+332,11,Absorb,5,grass,20,100
+332,12,Absorb,5,grass,20,100
+332,13,Absorb,5,grass,20,100
+332,14,Absorb,5,grass,20,100
+332,15,Absorb,5,grass,20,100
+332,16,Growth,7,normal,-,-
+332,5,Growth,9,normal,-,-
+332,6,Growth,9,normal,-,-
+332,7,Growth,9,normal,-,-
+332,8,Growth,9,normal,-,-
+332,9,Growth,9,normal,-,-
+332,10,Growth,9,normal,-,-
+332,11,Growth,9,normal,-,-
+332,12,Growth,9,normal,-,-
+332,13,Growth,9,normal,-,-
+332,14,Growth,9,normal,-,-
+332,15,Growth,9,normal,-,-
+332,16,Leech Seed,10,grass,-,90
+332,5,Leech Seed,13,grass,-,90
+332,6,Leech Seed,13,grass,-,90
+332,7,Leech Seed,13,grass,-,90
+332,8,Leech Seed,13,grass,-,90
+332,9,Leech Seed,13,grass,-,90
+332,10,Leech Seed,13,grass,-,90
+332,11,Leech Seed,13,grass,-,90
+332,12,Leech Seed,13,grass,-,90
+332,13,Leech Seed,13,grass,-,90
+332,14,Leech Seed,13,grass,-,90
+332,15,Leech Seed,13,grass,-,90
+332,16,Sand Attack,13,ground,-,100
+332,16,Needle Arm,16,grass,60,100
+332,5,Sand Attack,17,ground,-,100
+332,6,Sand Attack,17,ground,-,100
+332,7,Sand Attack,17,ground,-,100
+332,8,Sand Attack,17,ground,-,100
+332,9,Sand Attack,17,ground,-,100
+332,10,Sand Attack,17,ground,-,100
+332,11,Sand Attack,17,ground,-,100
+332,12,Sand Attack,17,ground,-,100
+332,13,Sand Attack,17,ground,-,100
+332,14,Sand Attack,17,ground,-,100
+332,15,Sand Attack,17,ground,-,100
+332,16,Feint Attack,19,dark,60,-
+332,5,Pin Missile,21,bug,25,95
+332,6,Pin Missile,21,bug,25,95
+332,7,Pin Missile,21,bug,25,95
+332,8,Pin Missile,21,bug,25,95
+332,9,Pin Missile,21,bug,25,95
+332,10,Pin Missile,21,bug,25,95
+332,11,Pin Missile,21,bug,25,95
+332,12,Pin Missile,21,bug,25,95
+332,13,Pin Missile,21,bug,25,95
+332,14,Pin Missile,21,bug,25,95
+332,15,Pin Missile,21,bug,25,95
+332,16,Ingrain,22,grass,-,-
+332,5,Ingrain,25,grass,-,-
+332,6,Ingrain,25,grass,-,-
+332,7,Ingrain,25,grass,-,-
+332,8,Ingrain,25,grass,-,-
+332,9,Ingrain,25,grass,-,-
+332,10,Ingrain,25,grass,-,-
+332,11,Ingrain,25,grass,-,-
+332,12,Ingrain,25,grass,-,-
+332,13,Ingrain,25,grass,-,-
+332,14,Ingrain,25,grass,-,-
+332,15,Ingrain,25,grass,-,-
+332,16,Payback,26,dark,50,100
+332,5,Feint Attack,29,dark,60,-
+332,6,Feint Attack,29,dark,60,-
+332,7,Feint Attack,29,dark,60,-
+332,8,Feint Attack,29,dark,60,-
+332,9,Feint Attack,29,dark,60,-
+332,10,Feint Attack,29,dark,60,-
+332,11,Feint Attack,29,dark,60,-
+332,12,Feint Attack,29,dark,60,-
+332,13,Feint Attack,29,dark,60,-
+332,14,Feint Attack,29,dark,60,-
+332,15,Feint Attack,29,dark,60,-
+332,16,Spikes,30,ground,-,-
+332,16,Spiky Shield,32,grass,-,-
+332,5,Spikes,35,ground,-,-
+332,6,Spikes,35,ground,-,-
+332,7,Spikes,35,ground,-,-
+332,8,Spikes,35,ground,-,-
+332,9,Spikes,35,ground,-,-
+332,10,Spikes,35,ground,-,-
+332,11,Spikes,35,ground,-,-
+332,12,Spikes,35,ground,-,-
+332,13,Spikes,35,ground,-,-
+332,14,Spikes,35,ground,-,-
+332,15,Spikes,35,ground,-,-
+332,16,Sucker Punch,35,dark,80,100
+332,16,Pin Missile,38,bug,25,95
+332,5,Needle Arm,41,grass,60,100
+332,6,Needle Arm,41,grass,60,100
+332,7,Needle Arm,41,grass,60,100
+332,8,Sucker Punch,41,dark,80,100
+332,9,Sucker Punch,41,dark,80,100
+332,10,Sucker Punch,41,dark,80,100
+332,11,Sucker Punch,41,dark,80,100
+332,12,Needle Arm,41,grass,60,100
+332,13,Needle Arm,41,grass,60,100
+332,14,Sucker Punch,41,dark,80,100
+332,15,Sucker Punch,41,dark,80,100
+332,16,Energy Ball,44,grass,90,100
+332,5,Cotton Spore,47,grass,-,100
+332,6,Cotton Spore,47,grass,-,100
+332,7,Cotton Spore,47,grass,-,100
+332,8,Payback,47,dark,50,100
+332,9,Payback,47,dark,50,100
+332,10,Payback,47,dark,50,100
+332,11,Payback,47,dark,50,100
+332,12,Cotton Spore,47,grass,-,100
+332,13,Cotton Spore,47,grass,-,100
+332,14,Payback,47,dark,50,100
+332,15,Payback,47,dark,50,100
+332,16,Cotton Spore,49,grass,-,100
+332,5,Sandstorm,53,rock,-,-
+332,6,Sandstorm,53,rock,-,-
+332,7,Sandstorm,53,rock,-,-
+332,8,Needle Arm,53,grass,60,100
+332,9,Needle Arm,53,grass,60,100
+332,10,Needle Arm,53,grass,60,100
+332,11,Needle Arm,53,grass,60,100
+332,12,Sandstorm,53,rock,-,-
+332,13,Sandstorm,53,rock,-,-
+332,14,Needle Arm,53,grass,60,100
+332,15,Needle Arm,53,grass,60,100
+332,16,Sandstorm,54,rock,-,-
+332,7,Destiny Bond,59,ghost,-,-
+332,8,Cotton Spore,59,grass,-,100
+332,9,Cotton Spore,59,grass,-,100
+332,10,Cotton Spore,59,grass,-,100
+332,11,Cotton Spore,59,grass,-,100
+332,14,Cotton Spore,59,grass,-,100
+332,15,Cotton Spore,59,grass,-,100
+332,16,Destiny Bond,59,ghost,-,-
+332,8,Sandstorm,65,rock,-,-
+332,9,Sandstorm,65,rock,-,-
+332,10,Sandstorm,65,rock,-,-
+332,11,Sandstorm,65,rock,-,-
+332,14,Sandstorm,65,rock,-,-
+332,15,Sandstorm,65,rock,-,-
+332,8,Destiny Bond,71,ghost,-,-
+332,9,Destiny Bond,71,ghost,-,-
+332,10,Destiny Bond,71,ghost,-,-
+332,11,Destiny Bond,71,ghost,-,-
+332,14,Destiny Bond,71,ghost,-,-
+332,15,Destiny Bond,71,ghost,-,-

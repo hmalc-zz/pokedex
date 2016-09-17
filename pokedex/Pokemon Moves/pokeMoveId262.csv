@@ -1,0 +1,200 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+262,5,Sand Attack,1,ground,-,100
+262,5,Tackle,1,normal,50,100
+262,5,Bite,1,dark,60,100
+262,5,Howl,1,normal,-,-
+262,6,Sand Attack,1,ground,-,100
+262,6,Tackle,1,normal,50,100
+262,6,Bite,1,dark,60,100
+262,6,Howl,1,normal,-,-
+262,7,Sand Attack,1,ground,-,100
+262,7,Tackle,1,normal,50,100
+262,7,Bite,1,dark,60,100
+262,7,Howl,1,normal,-,-
+262,8,Sand Attack,1,ground,-,100
+262,8,Tackle,1,normal,50,100
+262,8,Bite,1,dark,60,100
+262,8,Howl,1,normal,-,-
+262,9,Sand Attack,1,ground,-,100
+262,9,Tackle,1,normal,50,100
+262,9,Bite,1,dark,60,100
+262,9,Howl,1,normal,-,-
+262,10,Sand Attack,1,ground,-,100
+262,10,Tackle,1,normal,50,100
+262,10,Bite,1,dark,60,100
+262,10,Howl,1,normal,-,-
+262,11,Sand Attack,1,ground,-,100
+262,11,Tackle,1,normal,50,100
+262,11,Bite,1,dark,60,100
+262,11,Howl,1,normal,-,-
+262,12,Sand Attack,1,ground,-,100
+262,12,Tackle,1,normal,50,100
+262,12,Bite,1,dark,60,100
+262,12,Howl,1,normal,-,-
+262,13,Sand Attack,1,ground,-,100
+262,13,Tackle,1,normal,50,100
+262,13,Bite,1,dark,60,100
+262,13,Howl,1,normal,-,-
+262,14,Sand Attack,1,ground,-,100
+262,14,Tackle,1,normal,50,100
+262,14,Bite,1,dark,60,100
+262,14,Howl,1,normal,-,-
+262,15,Sand Attack,1,ground,-,100
+262,15,Tackle,1,normal,50,100
+262,15,Bite,1,dark,60,100
+262,15,Crunch,1,dark,80,100
+262,15,Howl,1,normal,-,-
+262,16,Sand Attack,1,ground,-,100
+262,16,Tackle,1,normal,50,100
+262,16,Bite,1,dark,60,100
+262,16,Thief,1,dark,60,100
+262,16,Crunch,1,dark,80,100
+262,16,Howl,1,normal,-,-
+262,16,Howl,4,normal,-,-
+262,5,Howl,5,normal,-,-
+262,6,Howl,5,normal,-,-
+262,7,Howl,5,normal,-,-
+262,8,Howl,5,normal,-,-
+262,9,Howl,5,normal,-,-
+262,10,Howl,5,normal,-,-
+262,11,Howl,5,normal,-,-
+262,12,Howl,5,normal,-,-
+262,13,Howl,5,normal,-,-
+262,14,Howl,5,normal,-,-
+262,15,Howl,5,normal,-,-
+262,16,Sand Attack,7,ground,-,100
+262,5,Sand Attack,9,ground,-,100
+262,6,Sand Attack,9,ground,-,100
+262,7,Sand Attack,9,ground,-,100
+262,8,Sand Attack,9,ground,-,100
+262,9,Sand Attack,9,ground,-,100
+262,10,Sand Attack,9,ground,-,100
+262,11,Sand Attack,9,ground,-,100
+262,12,Sand Attack,9,ground,-,100
+262,13,Sand Attack,9,ground,-,100
+262,14,Sand Attack,9,ground,-,100
+262,15,Sand Attack,9,ground,-,100
+262,16,Bite,10,dark,60,100
+262,5,Bite,13,dark,60,100
+262,6,Bite,13,dark,60,100
+262,7,Bite,13,dark,60,100
+262,8,Bite,13,dark,60,100
+262,9,Bite,13,dark,60,100
+262,10,Bite,13,dark,60,100
+262,11,Bite,13,dark,60,100
+262,12,Bite,13,dark,60,100
+262,13,Bite,13,dark,60,100
+262,14,Bite,13,dark,60,100
+262,15,Bite,13,dark,60,100
+262,16,Odor Sleuth,13,normal,-,-
+262,16,Roar,16,normal,-,-
+262,5,Odor Sleuth,17,normal,-,-
+262,6,Odor Sleuth,17,normal,-,-
+262,7,Odor Sleuth,17,normal,-,-
+262,8,Odor Sleuth,17,normal,-,-
+262,9,Odor Sleuth,17,normal,-,-
+262,10,Odor Sleuth,17,normal,-,-
+262,11,Odor Sleuth,17,normal,-,-
+262,12,Odor Sleuth,17,normal,-,-
+262,13,Odor Sleuth,17,normal,-,-
+262,14,Odor Sleuth,17,normal,-,-
+262,15,Odor Sleuth,17,normal,-,-
+262,16,Snarl,18,dark,55,95
+262,16,Swagger,20,normal,-,90
+262,5,Roar,22,normal,-,-
+262,6,Roar,22,normal,-,-
+262,7,Roar,22,normal,-,-
+262,8,Roar,22,normal,-,-
+262,9,Roar,22,normal,-,-
+262,10,Roar,22,normal,-,-
+262,11,Roar,22,normal,-,-
+262,12,Roar,22,normal,-,-
+262,13,Roar,22,normal,-,-
+262,14,Roar,22,normal,-,-
+262,15,Roar,22,normal,-,-
+262,16,Assurance,24,dark,60,100
+262,5,Swagger,27,normal,-,90
+262,6,Swagger,27,normal,-,90
+262,7,Swagger,27,normal,-,90
+262,8,Swagger,27,normal,-,90
+262,9,Swagger,27,normal,-,90
+262,10,Swagger,27,normal,-,90
+262,11,Swagger,27,normal,-,90
+262,12,Swagger,27,normal,-,90
+262,13,Swagger,27,normal,-,90
+262,14,Swagger,27,normal,-,90
+262,15,Swagger,27,normal,-,90
+262,16,Scary Face,28,normal,-,100
+262,5,Scary Face,32,normal,-,100
+262,6,Scary Face,32,normal,-,100
+262,7,Scary Face,32,normal,-,100
+262,8,Assurance,32,dark,60,100
+262,9,Assurance,32,dark,60,100
+262,10,Assurance,32,dark,60,100
+262,11,Assurance,32,dark,60,100
+262,12,Scary Face,32,normal,-,100
+262,13,Scary Face,32,normal,-,100
+262,14,Assurance,32,dark,60,100
+262,15,Assurance,32,dark,60,100
+262,16,Embargo,32,dark,-,100
+262,16,Taunt,36,dark,-,100
+262,5,Take Down,37,normal,90,85
+262,6,Take Down,37,normal,90,85
+262,7,Take Down,37,normal,90,85
+262,8,Scary Face,37,normal,-,100
+262,9,Scary Face,37,normal,-,100
+262,10,Scary Face,37,normal,-,100
+262,11,Scary Face,37,normal,-,100
+262,12,Take Down,37,normal,90,85
+262,13,Take Down,37,normal,90,85
+262,14,Scary Face,37,normal,-,100
+262,15,Scary Face,37,normal,-,100
+262,16,Take Down,40,normal,90,85
+262,5,Taunt,42,dark,-,100
+262,6,Taunt,42,dark,-,100
+262,7,Taunt,42,dark,-,100
+262,8,Taunt,42,dark,-,100
+262,9,Taunt,42,dark,-,100
+262,10,Taunt,42,dark,-,100
+262,11,Taunt,42,dark,-,100
+262,12,Taunt,42,dark,-,100
+262,13,Taunt,42,dark,-,100
+262,14,Taunt,42,dark,-,100
+262,15,Taunt,42,dark,-,100
+262,16,Crunch,44,dark,80,100
+262,5,Crunch,47,dark,80,100
+262,6,Crunch,47,dark,80,100
+262,7,Crunch,47,dark,80,100
+262,8,Embargo,47,dark,-,100
+262,9,Embargo,47,dark,-,100
+262,10,Embargo,47,dark,-,100
+262,11,Embargo,47,dark,-,100
+262,12,Crunch,47,dark,80,100
+262,13,Crunch,47,dark,80,100
+262,14,Embargo,47,dark,-,100
+262,15,Embargo,47,dark,-,100
+262,16,Sucker Punch,48,dark,80,100
+262,5,Thief,52,dark,60,100
+262,6,Thief,52,dark,60,100
+262,7,Thief,52,dark,60,100
+262,8,Take Down,52,normal,90,85
+262,9,Take Down,52,normal,90,85
+262,10,Take Down,52,normal,90,85
+262,11,Take Down,52,normal,90,85
+262,12,Thief,52,dark,60,100
+262,13,Thief,52,dark,60,100
+262,14,Take Down,52,normal,90,85
+262,15,Take Down,52,normal,90,85
+262,8,Thief,57,dark,60,100
+262,9,Thief,57,dark,60,100
+262,10,Thief,57,dark,60,100
+262,11,Thief,57,dark,60,100
+262,14,Thief,57,dark,60,100
+262,15,Thief,57,dark,60,100
+262,8,Sucker Punch,62,dark,80,100
+262,9,Sucker Punch,62,dark,80,100
+262,10,Sucker Punch,62,dark,80,100
+262,11,Sucker Punch,62,dark,80,100
+262,14,Sucker Punch,62,dark,80,100
+262,15,Sucker Punch,62,dark,80,100
+262,15,Crunch,65,dark,80,100

@@ -1,0 +1,197 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+56,1,Scratch,1,normal,40,100
+56,1,Leer,1,normal,-,100
+56,2,Scratch,1,normal,40,100
+56,2,Leer,1,normal,-,100
+56,3,Scratch,1,normal,40,100
+56,3,Leer,1,normal,-,100
+56,4,Scratch,1,normal,40,100
+56,4,Leer,1,normal,-,100
+56,5,Scratch,1,normal,40,100
+56,5,Leer,1,normal,-,100
+56,6,Scratch,1,normal,40,100
+56,6,Leer,1,normal,-,100
+56,7,Scratch,1,normal,40,100
+56,7,Leer,1,normal,-,100
+56,8,Scratch,1,normal,40,100
+56,8,Leer,1,normal,-,100
+56,8,Low Kick,1,fighting,-,100
+56,8,Focus Energy,1,normal,-,-
+56,8,Covet,1,normal,60,100
+56,9,Scratch,1,normal,40,100
+56,9,Leer,1,normal,-,100
+56,9,Low Kick,1,fighting,-,100
+56,9,Focus Energy,1,normal,-,-
+56,9,Covet,1,normal,60,100
+56,10,Scratch,1,normal,40,100
+56,10,Leer,1,normal,-,100
+56,10,Low Kick,1,fighting,-,100
+56,10,Focus Energy,1,normal,-,-
+56,10,Covet,1,normal,60,100
+56,11,Scratch,1,normal,40,100
+56,11,Leer,1,normal,-,100
+56,11,Low Kick,1,fighting,-,100
+56,11,Focus Energy,1,normal,-,-
+56,11,Covet,1,normal,60,100
+56,12,Scratch,1,normal,40,100
+56,12,Leer,1,normal,-,100
+56,13,Scratch,1,normal,40,100
+56,13,Leer,1,normal,-,100
+56,14,Scratch,1,normal,40,100
+56,14,Leer,1,normal,-,100
+56,14,Low Kick,1,fighting,-,100
+56,14,Focus Energy,1,normal,-,-
+56,14,Covet,1,normal,60,100
+56,15,Scratch,1,normal,40,100
+56,15,Leer,1,normal,-,100
+56,15,Low Kick,1,fighting,-,100
+56,15,Focus Energy,1,normal,-,-
+56,15,Covet,1,normal,60,100
+56,16,Scratch,1,normal,40,100
+56,16,Leer,1,normal,-,100
+56,16,Low Kick,1,fighting,-,100
+56,16,Focus Energy,1,normal,-,-
+56,16,Covet,1,normal,60,100
+56,7,Low Kick,6,fighting,-,100
+56,2,Low Kick,9,fighting,-,100
+56,3,Low Kick,9,fighting,-,100
+56,4,Low Kick,9,fighting,-,100
+56,5,Low Kick,9,fighting,-,100
+56,6,Low Kick,9,fighting,-,100
+56,8,Fury Swipes,9,normal,18,80
+56,9,Fury Swipes,9,normal,18,80
+56,10,Fury Swipes,9,normal,18,80
+56,11,Fury Swipes,9,normal,18,80
+56,12,Low Kick,9,fighting,-,100
+56,13,Low Kick,9,fighting,-,100
+56,14,Fury Swipes,9,normal,18,80
+56,15,Fury Swipes,9,normal,18,80
+56,16,Fury Swipes,9,normal,18,80
+56,7,Karate Chop,11,fighting,50,100
+56,8,Karate Chop,13,fighting,50,100
+56,9,Karate Chop,13,fighting,50,100
+56,10,Karate Chop,13,fighting,50,100
+56,11,Karate Chop,13,fighting,50,100
+56,14,Karate Chop,13,fighting,50,100
+56,15,Karate Chop,13,fighting,50,100
+56,16,Karate Chop,13,fighting,50,100
+56,1,Karate Chop,15,fighting,50,100
+56,2,Karate Chop,15,fighting,50,100
+56,3,Karate Chop,15,fighting,50,100
+56,4,Karate Chop,15,fighting,50,100
+56,5,Karate Chop,15,fighting,50,100
+56,6,Karate Chop,15,fighting,50,100
+56,12,Karate Chop,15,fighting,50,100
+56,13,Karate Chop,15,fighting,50,100
+56,7,Fury Swipes,16,normal,18,80
+56,8,Seismic Toss,17,fighting,-,100
+56,9,Seismic Toss,17,fighting,-,100
+56,10,Seismic Toss,17,fighting,-,100
+56,11,Seismic Toss,17,fighting,-,100
+56,14,Seismic Toss,17,fighting,-,100
+56,15,Seismic Toss,17,fighting,-,100
+56,16,Seismic Toss,17,fighting,-,100
+56,1,Fury Swipes,21,normal,18,80
+56,2,Fury Swipes,21,normal,18,80
+56,3,Fury Swipes,21,normal,18,80
+56,4,Fury Swipes,21,normal,18,80
+56,5,Fury Swipes,21,normal,18,80
+56,6,Fury Swipes,21,normal,18,80
+56,7,Focus Energy,21,normal,-,-
+56,8,Screech,21,normal,-,85
+56,9,Screech,21,normal,-,85
+56,10,Screech,21,normal,-,85
+56,11,Screech,21,normal,-,85
+56,12,Fury Swipes,21,normal,18,80
+56,13,Fury Swipes,21,normal,18,80
+56,14,Screech,21,normal,-,85
+56,15,Screech,21,normal,-,85
+56,16,Screech,21,normal,-,85
+56,8,Assurance,25,dark,60,100
+56,9,Assurance,25,dark,60,100
+56,10,Assurance,25,dark,60,100
+56,11,Assurance,25,dark,60,100
+56,14,Assurance,25,dark,60,100
+56,15,Assurance,25,dark,60,100
+56,16,Assurance,25,dark,60,100
+56,7,Seismic Toss,26,fighting,-,100
+56,1,Focus Energy,27,normal,-,-
+56,2,Focus Energy,27,normal,-,-
+56,3,Focus Energy,27,normal,-,-
+56,4,Focus Energy,27,normal,-,-
+56,5,Focus Energy,27,normal,-,-
+56,6,Focus Energy,27,normal,-,-
+56,12,Focus Energy,27,normal,-,-
+56,13,Focus Energy,27,normal,-,-
+56,7,Cross Chop,31,fighting,100,80
+56,1,Seismic Toss,33,fighting,-,100
+56,2,Seismic Toss,33,fighting,-,100
+56,3,Seismic Toss,33,fighting,-,100
+56,4,Seismic Toss,33,fighting,-,100
+56,5,Seismic Toss,33,fighting,-,100
+56,6,Seismic Toss,33,fighting,-,100
+56,8,Swagger,33,normal,-,90
+56,9,Swagger,33,normal,-,90
+56,10,Swagger,33,normal,-,90
+56,11,Swagger,33,normal,-,90
+56,12,Seismic Toss,33,fighting,-,100
+56,13,Seismic Toss,33,fighting,-,100
+56,14,Swagger,33,normal,-,90
+56,15,Swagger,33,normal,-,90
+56,16,Swagger,33,normal,-,90
+56,7,Swagger,36,normal,-,90
+56,8,Cross Chop,37,fighting,100,80
+56,9,Cross Chop,37,fighting,100,80
+56,10,Cross Chop,37,fighting,100,80
+56,11,Cross Chop,37,fighting,100,80
+56,14,Cross Chop,37,fighting,100,80
+56,15,Cross Chop,37,fighting,100,80
+56,16,Cross Chop,37,fighting,100,80
+56,1,Thrash,39,normal,120,100
+56,2,Thrash,39,normal,120,100
+56,3,Cross Chop,39,fighting,100,80
+56,4,Cross Chop,39,fighting,100,80
+56,5,Cross Chop,39,fighting,100,80
+56,6,Cross Chop,39,fighting,100,80
+56,12,Cross Chop,39,fighting,100,80
+56,13,Cross Chop,39,fighting,100,80
+56,7,Screech,41,normal,-,85
+56,8,Thrash,41,normal,120,100
+56,9,Thrash,41,normal,120,100
+56,10,Thrash,41,normal,120,100
+56,11,Thrash,41,normal,120,100
+56,14,Thrash,41,normal,120,100
+56,15,Thrash,41,normal,120,100
+56,16,Thrash,41,normal,120,100
+56,2,Screech,45,normal,-,85
+56,3,Screech,45,normal,-,85
+56,4,Screech,45,normal,-,85
+56,5,Screech,45,normal,-,85
+56,6,Screech,45,normal,-,85
+56,8,Punishment,45,dark,-,100
+56,9,Punishment,45,dark,-,100
+56,10,Punishment,45,dark,-,100
+56,11,Punishment,45,dark,-,100
+56,12,Screech,45,normal,-,85
+56,13,Screech,45,normal,-,85
+56,14,Punishment,45,dark,-,100
+56,15,Punishment,45,dark,-,100
+56,16,Punishment,45,dark,-,100
+56,7,Thrash,46,normal,120,100
+56,8,Close Combat,49,fighting,120,100
+56,9,Close Combat,49,fighting,120,100
+56,10,Close Combat,49,fighting,120,100
+56,11,Close Combat,49,fighting,120,100
+56,14,Close Combat,49,fighting,120,100
+56,15,Close Combat,49,fighting,120,100
+56,16,Close Combat,49,fighting,120,100
+56,3,Thrash,51,normal,120,100
+56,4,Thrash,51,normal,120,100
+56,5,Thrash,51,normal,120,100
+56,6,Thrash,51,normal,120,100
+56,12,Thrash,51,normal,120,100
+56,13,Thrash,51,normal,120,100
+56,11,Final Gambit,53,fighting,-,100
+56,14,Final Gambit,53,fighting,-,100
+56,15,Final Gambit,53,fighting,-,100
+56,16,Final Gambit,53,fighting,-,100

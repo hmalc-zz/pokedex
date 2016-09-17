@@ -1,0 +1,29 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+656,15,Pound,1,normal,40,100
+656,15,Growl,1,normal,-,100
+656,16,Pound,1,normal,40,100
+656,16,Growl,1,normal,-,100
+656,15,Bubble,5,water,40,100
+656,16,Bubble,5,water,40,100
+656,15,Quick Attack,8,normal,40,100
+656,16,Quick Attack,8,normal,40,100
+656,15,Lick,10,ghost,30,100
+656,16,Lick,10,ghost,30,100
+656,15,Water Pulse,14,water,60,100
+656,16,Water Pulse,14,water,60,100
+656,15,Smokescreen,18,normal,-,100
+656,16,Smokescreen,18,normal,-,100
+656,15,Round,21,normal,60,100
+656,16,Round,21,normal,60,100
+656,15,Fling,25,dark,-,100
+656,16,Fling,25,dark,-,100
+656,15,Smack Down,29,rock,50,100
+656,16,Smack Down,29,rock,50,100
+656,15,Substitute,35,normal,-,-
+656,16,Substitute,35,normal,-,-
+656,15,Bounce,39,flying,85,85
+656,16,Bounce,39,flying,85,85
+656,15,Double Team,43,normal,-,-
+656,16,Double Team,43,normal,-,-
+656,15,Hydro Pump,48,water,110,80
+656,16,Hydro Pump,48,water,110,80

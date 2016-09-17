@@ -1,0 +1,233 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+124,1,Pound,1,normal,40,100
+124,1,Lovely Kiss,1,normal,-,75
+124,2,Pound,1,normal,40,100
+124,2,Lovely Kiss,1,normal,-,75
+124,3,Pound,1,normal,40,100
+124,3,Lick,1,ghost,30,100
+124,3,Lovely Kiss,1,normal,-,75
+124,3,Powder Snow,1,ice,40,100
+124,4,Pound,1,normal,40,100
+124,4,Lick,1,ghost,30,100
+124,4,Lovely Kiss,1,normal,-,75
+124,4,Powder Snow,1,ice,40,100
+124,5,Pound,1,normal,40,100
+124,5,Lick,1,ghost,30,100
+124,5,Lovely Kiss,1,normal,-,75
+124,5,Powder Snow,1,ice,40,100
+124,6,Pound,1,normal,40,100
+124,6,Lick,1,ghost,30,100
+124,6,Lovely Kiss,1,normal,-,75
+124,6,Powder Snow,1,ice,40,100
+124,7,Pound,1,normal,40,100
+124,7,Lick,1,ghost,30,100
+124,7,Lovely Kiss,1,normal,-,75
+124,7,Powder Snow,1,ice,40,100
+124,8,Pound,1,normal,40,100
+124,8,Lick,1,ghost,30,100
+124,8,Lovely Kiss,1,normal,-,75
+124,8,Powder Snow,1,ice,40,100
+124,9,Pound,1,normal,40,100
+124,9,Lick,1,ghost,30,100
+124,9,Lovely Kiss,1,normal,-,75
+124,9,Powder Snow,1,ice,40,100
+124,10,Pound,1,normal,40,100
+124,10,Lick,1,ghost,30,100
+124,10,Lovely Kiss,1,normal,-,75
+124,10,Powder Snow,1,ice,40,100
+124,11,Pound,1,normal,40,100
+124,11,Lick,1,ghost,30,100
+124,11,Lovely Kiss,1,normal,-,75
+124,11,Powder Snow,1,ice,40,100
+124,12,Pound,1,normal,40,100
+124,12,Lick,1,ghost,30,100
+124,12,Lovely Kiss,1,normal,-,75
+124,12,Powder Snow,1,ice,40,100
+124,13,Pound,1,normal,40,100
+124,13,Lick,1,ghost,30,100
+124,13,Lovely Kiss,1,normal,-,75
+124,13,Powder Snow,1,ice,40,100
+124,14,Pound,1,normal,40,100
+124,14,Lick,1,ghost,30,100
+124,14,Lovely Kiss,1,normal,-,75
+124,14,Powder Snow,1,ice,40,100
+124,15,Pound,1,normal,40,100
+124,15,Lick,1,ghost,30,100
+124,15,Lovely Kiss,1,normal,-,75
+124,15,Powder Snow,1,ice,40,100
+124,15,Perish Song,1,normal,-,-
+124,15,Draining Kiss,1,fairy,50,100
+124,16,Pound,1,normal,40,100
+124,16,Lick,1,ghost,30,100
+124,16,Lovely Kiss,1,normal,-,75
+124,16,Powder Snow,1,ice,40,100
+124,16,Perish Song,1,normal,-,-
+124,16,Draining Kiss,1,fairy,50,100
+124,8,Lick,5,ghost,30,100
+124,9,Lick,5,ghost,30,100
+124,10,Lick,5,ghost,30,100
+124,11,Lick,5,ghost,30,100
+124,14,Lick,5,ghost,30,100
+124,15,Lick,5,ghost,30,100
+124,16,Lick,5,ghost,30,100
+124,8,Lovely Kiss,8,normal,-,75
+124,9,Lovely Kiss,8,normal,-,75
+124,10,Lovely Kiss,8,normal,-,75
+124,11,Lovely Kiss,8,normal,-,75
+124,14,Lovely Kiss,8,normal,-,75
+124,15,Lovely Kiss,8,normal,-,75
+124,16,Lovely Kiss,8,normal,-,75
+124,3,Lovely Kiss,9,normal,-,75
+124,4,Lovely Kiss,9,normal,-,75
+124,5,Lovely Kiss,9,normal,-,75
+124,6,Lovely Kiss,9,normal,-,75
+124,7,Lovely Kiss,9,normal,-,75
+124,12,Lovely Kiss,9,normal,-,75
+124,13,Lovely Kiss,9,normal,-,75
+124,8,Powder Snow,11,ice,40,100
+124,9,Powder Snow,11,ice,40,100
+124,10,Powder Snow,11,ice,40,100
+124,11,Powder Snow,11,ice,40,100
+124,14,Powder Snow,11,ice,40,100
+124,15,Powder Snow,11,ice,40,100
+124,16,Powder Snow,11,ice,40,100
+124,3,Powder Snow,13,ice,40,100
+124,4,Powder Snow,13,ice,40,100
+124,5,Powder Snow,13,ice,40,100
+124,6,Powder Snow,13,ice,40,100
+124,7,Powder Snow,13,ice,40,100
+124,12,Powder Snow,13,ice,40,100
+124,13,Powder Snow,13,ice,40,100
+124,8,Double Slap,15,normal,15,85
+124,9,Double Slap,15,normal,15,85
+124,10,Double Slap,15,normal,15,85
+124,11,Double Slap,15,normal,15,85
+124,14,Double Slap,15,normal,15,85
+124,15,Double Slap,15,normal,15,85
+124,16,Double Slap,15,normal,15,85
+124,1,Lick,18,ghost,30,100
+124,2,Lick,18,ghost,30,100
+124,8,Ice Punch,18,ice,75,100
+124,9,Ice Punch,18,ice,75,100
+124,10,Ice Punch,18,ice,75,100
+124,11,Ice Punch,18,ice,75,100
+124,14,Ice Punch,18,ice,75,100
+124,15,Ice Punch,18,ice,75,100
+124,16,Ice Punch,18,ice,75,100
+124,3,Double Slap,21,normal,15,85
+124,4,Double Slap,21,normal,15,85
+124,5,Double Slap,21,normal,15,85
+124,6,Double Slap,21,normal,15,85
+124,7,Double Slap,21,normal,15,85
+124,8,Mean Look,21,normal,-,-
+124,9,Mean Look,21,normal,-,-
+124,10,Mean Look,21,normal,-,-
+124,11,Heart Stamp,21,psychic,60,100
+124,12,Double Slap,21,normal,15,85
+124,13,Double Slap,21,normal,15,85
+124,14,Heart Stamp,21,psychic,60,100
+124,15,Heart Stamp,21,psychic,60,100
+124,16,Heart Stamp,21,psychic,60,100
+124,1,Double Slap,23,normal,15,85
+124,2,Double Slap,23,normal,15,85
+124,3,Ice Punch,25,ice,75,100
+124,4,Ice Punch,25,ice,75,100
+124,5,Ice Punch,25,ice,75,100
+124,6,Ice Punch,25,ice,75,100
+124,7,Ice Punch,25,ice,75,100
+124,8,Fake Tears,25,dark,-,100
+124,9,Fake Tears,25,dark,-,100
+124,10,Fake Tears,25,dark,-,100
+124,11,Mean Look,25,normal,-,-
+124,12,Ice Punch,25,ice,75,100
+124,13,Ice Punch,25,ice,75,100
+124,14,Mean Look,25,normal,-,-
+124,15,Mean Look,25,normal,-,-
+124,16,Mean Look,25,normal,-,-
+124,8,Wake-Up Slap,28,fighting,70,100
+124,9,Wake-Up Slap,28,fighting,70,100
+124,10,Wake-Up Slap,28,fighting,70,100
+124,11,Fake Tears,28,dark,-,100
+124,14,Fake Tears,28,dark,-,100
+124,15,Fake Tears,28,dark,-,100
+124,16,Fake Tears,28,dark,-,100
+124,1,Ice Punch,31,ice,75,100
+124,2,Ice Punch,31,ice,75,100
+124,8,Avalanche,33,ice,60,100
+124,9,Avalanche,33,ice,60,100
+124,10,Avalanche,33,ice,60,100
+124,11,Wake-Up Slap,33,fighting,70,100
+124,14,Wake-Up Slap,33,fighting,70,100
+124,15,Wake-Up Slap,33,fighting,70,100
+124,16,Wake-Up Slap,33,fighting,70,100
+124,3,Mean Look,35,normal,-,-
+124,4,Mean Look,35,normal,-,-
+124,5,Mean Look,35,normal,-,-
+124,6,Mean Look,35,normal,-,-
+124,7,Mean Look,35,normal,-,-
+124,12,Mean Look,35,normal,-,-
+124,13,Mean Look,35,normal,-,-
+124,1,Body Slam,39,normal,85,100
+124,2,Body Slam,39,normal,85,100
+124,8,Body Slam,39,normal,85,100
+124,9,Body Slam,39,normal,85,100
+124,10,Body Slam,39,normal,85,100
+124,11,Avalanche,39,ice,60,100
+124,14,Avalanche,39,ice,60,100
+124,15,Avalanche,39,ice,60,100
+124,16,Avalanche,39,ice,60,100
+124,3,Body Slam,41,normal,85,100
+124,4,Body Slam,41,normal,85,100
+124,5,Fake Tears,41,dark,-,100
+124,6,Fake Tears,41,dark,-,100
+124,7,Fake Tears,41,dark,-,100
+124,12,Fake Tears,41,dark,-,100
+124,13,Fake Tears,41,dark,-,100
+124,8,Wring Out,44,normal,-,100
+124,9,Wring Out,44,normal,-,100
+124,10,Wring Out,44,normal,-,100
+124,11,Body Slam,44,normal,85,100
+124,14,Body Slam,44,normal,85,100
+124,15,Body Slam,44,normal,85,100
+124,16,Body Slam,44,normal,85,100
+124,1,Thrash,47,normal,120,100
+124,2,Thrash,47,normal,120,100
+124,8,Perish Song,49,normal,-,-
+124,9,Perish Song,49,normal,-,-
+124,10,Perish Song,49,normal,-,-
+124,11,Wring Out,49,normal,-,100
+124,14,Wring Out,49,normal,-,100
+124,15,Wring Out,49,normal,-,100
+124,16,Wring Out,49,normal,-,100
+124,3,Perish Song,51,normal,-,-
+124,4,Perish Song,51,normal,-,-
+124,5,Body Slam,51,normal,85,100
+124,6,Body Slam,51,normal,85,100
+124,7,Body Slam,51,normal,85,100
+124,12,Body Slam,51,normal,85,100
+124,13,Body Slam,51,normal,85,100
+124,8,Blizzard,55,ice,110,70
+124,9,Blizzard,55,ice,110,70
+124,10,Blizzard,55,ice,110,70
+124,11,Perish Song,55,normal,-,-
+124,14,Perish Song,55,normal,-,-
+124,15,Perish Song,55,normal,-,-
+124,16,Perish Song,55,normal,-,-
+124,3,Blizzard,57,ice,110,70
+124,4,Blizzard,57,ice,110,70
+124,5,Perish Song,57,normal,-,-
+124,6,Perish Song,57,normal,-,-
+124,7,Perish Song,57,normal,-,-
+124,12,Perish Song,57,normal,-,-
+124,13,Perish Song,57,normal,-,-
+124,1,Blizzard,58,ice,110,70
+124,2,Blizzard,58,ice,110,70
+124,11,Blizzard,60,ice,110,70
+124,14,Blizzard,60,ice,110,70
+124,15,Blizzard,60,ice,110,70
+124,16,Blizzard,60,ice,110,70
+124,5,Blizzard,67,ice,110,70
+124,6,Blizzard,67,ice,110,70
+124,7,Blizzard,67,ice,110,70
+124,12,Blizzard,67,ice,110,70
+124,13,Blizzard,67,ice,110,70

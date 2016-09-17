@@ -1,0 +1,75 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+623,11,Pound,1,normal,40,100
+623,11,Defense Curl,1,normal,-,-
+623,11,Mud-Slap,1,ground,20,100
+623,11,Astonish,1,ghost,30,100
+623,14,Pound,1,normal,40,100
+623,14,Defense Curl,1,normal,-,-
+623,14,Mud-Slap,1,ground,20,100
+623,14,Astonish,1,ghost,30,100
+623,15,Pound,1,normal,40,100
+623,15,Defense Curl,1,normal,-,-
+623,15,Mud-Slap,1,ground,20,100
+623,15,Focus Punch,1,fighting,150,100
+623,15,Astonish,1,ghost,30,100
+623,15,Phantom Force,1,ghost,90,100
+623,16,Pound,1,normal,40,100
+623,16,Defense Curl,1,normal,-,-
+623,16,Mud-Slap,1,ground,20,100
+623,16,Focus Punch,1,fighting,150,100
+623,16,Astonish,1,ghost,30,100
+623,16,Phantom Force,1,ghost,90,100
+623,11,Mud-Slap,5,ground,20,100
+623,14,Mud-Slap,5,ground,20,100
+623,15,Mud-Slap,5,ground,20,100
+623,16,Mud-Slap,5,ground,20,100
+623,11,Rollout,9,rock,30,90
+623,14,Rollout,9,rock,30,90
+623,15,Rollout,9,rock,30,90
+623,16,Rollout,9,rock,30,90
+623,11,Shadow Punch,13,ghost,60,-
+623,14,Shadow Punch,13,ghost,60,-
+623,15,Shadow Punch,13,ghost,60,-
+623,16,Shadow Punch,13,ghost,60,-
+623,11,Iron Defense,17,steel,-,-
+623,14,Iron Defense,17,steel,-,-
+623,15,Iron Defense,17,steel,-,-
+623,16,Iron Defense,17,steel,-,-
+623,11,Mega Punch,21,normal,80,85
+623,14,Mega Punch,21,normal,80,85
+623,15,Mega Punch,21,normal,80,85
+623,16,Mega Punch,21,normal,80,85
+623,11,Magnitude,25,ground,-,100
+623,14,Magnitude,25,ground,-,100
+623,15,Magnitude,25,ground,-,100
+623,16,Magnitude,25,ground,-,100
+623,11,Dynamic Punch,30,fighting,100,50
+623,14,Dynamic Punch,30,fighting,100,50
+623,15,Dynamic Punch,30,fighting,100,50
+623,16,Dynamic Punch,30,fighting,100,50
+623,11,Night Shade,35,ghost,-,100
+623,14,Night Shade,35,ghost,-,100
+623,15,Night Shade,35,ghost,-,100
+623,16,Night Shade,35,ghost,-,100
+623,11,Curse,40,ghost,-,-
+623,14,Curse,40,ghost,-,-
+623,15,Curse,40,ghost,-,-
+623,16,Curse,40,ghost,-,-
+623,11,Heavy Slam,43,steel,-,100
+623,14,Heavy Slam,43,steel,-,100
+623,15,Heavy Slam,43,steel,-,100
+623,16,Heavy Slam,43,steel,-,100
+623,11,Earthquake,50,ground,100,100
+623,14,Earthquake,50,ground,100,100
+623,15,Earthquake,50,ground,100,100
+623,16,Earthquake,50,ground,100,100
+623,11,Hammer Arm,60,fighting,100,90
+623,14,Hammer Arm,60,fighting,100,90
+623,15,Hammer Arm,60,fighting,100,90
+623,16,Hammer Arm,60,fighting,100,90
+623,11,Focus Punch,70,fighting,150,100
+623,14,Focus Punch,70,fighting,150,100
+623,15,Focus Punch,70,fighting,150,100
+623,16,Focus Punch,70,fighting,150,100
+623,15,Phantom Force,75,ghost,90,100
+623,16,Phantom Force,75,ghost,90,100

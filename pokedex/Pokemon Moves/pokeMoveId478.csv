@@ -1,0 +1,110 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+478,8,Leer,1,normal,-,100
+478,8,Double Team,1,normal,-,-
+478,8,Powder Snow,1,ice,40,100
+478,8,Astonish,1,ghost,30,100
+478,9,Leer,1,normal,-,100
+478,9,Double Team,1,normal,-,-
+478,9,Powder Snow,1,ice,40,100
+478,9,Astonish,1,ghost,30,100
+478,10,Leer,1,normal,-,100
+478,10,Double Team,1,normal,-,-
+478,10,Powder Snow,1,ice,40,100
+478,10,Astonish,1,ghost,30,100
+478,11,Leer,1,normal,-,100
+478,11,Double Team,1,normal,-,-
+478,11,Powder Snow,1,ice,40,100
+478,11,Astonish,1,ghost,30,100
+478,14,Leer,1,normal,-,100
+478,14,Double Team,1,normal,-,-
+478,14,Powder Snow,1,ice,40,100
+478,14,Astonish,1,ghost,30,100
+478,15,Leer,1,normal,-,100
+478,15,Double Team,1,normal,-,-
+478,15,Powder Snow,1,ice,40,100
+478,15,Destiny Bond,1,ghost,-,-
+478,15,Astonish,1,ghost,30,100
+478,16,Leer,1,normal,-,100
+478,16,Double Team,1,normal,-,-
+478,16,Powder Snow,1,ice,40,100
+478,16,Destiny Bond,1,ghost,-,-
+478,16,Ice Shard,1,ice,40,100
+478,8,Double Team,4,normal,-,-
+478,9,Double Team,4,normal,-,-
+478,10,Double Team,4,normal,-,-
+478,11,Double Team,4,normal,-,-
+478,14,Double Team,4,normal,-,-
+478,15,Double Team,4,normal,-,-
+478,16,Double Team,5,normal,-,-
+478,8,Astonish,10,ghost,30,100
+478,9,Astonish,10,ghost,30,100
+478,10,Astonish,10,ghost,30,100
+478,11,Astonish,10,ghost,30,100
+478,14,Astonish,10,ghost,30,100
+478,15,Astonish,10,ghost,30,100
+478,16,Ice Shard,10,ice,40,100
+478,8,Icy Wind,13,ice,55,95
+478,9,Icy Wind,13,ice,55,95
+478,10,Icy Wind,13,ice,55,95
+478,11,Icy Wind,13,ice,55,95
+478,14,Icy Wind,13,ice,55,95
+478,15,Icy Wind,13,ice,55,95
+478,16,Icy Wind,14,ice,55,95
+478,8,Confuse Ray,19,ghost,-,100
+478,9,Confuse Ray,19,ghost,-,100
+478,10,Confuse Ray,19,ghost,-,100
+478,11,Confuse Ray,19,ghost,-,100
+478,14,Confuse Ray,19,ghost,-,100
+478,15,Confuse Ray,19,ghost,-,100
+478,16,Astonish,19,ghost,30,100
+478,8,Ominous Wind,22,ghost,60,100
+478,9,Ominous Wind,22,ghost,60,100
+478,10,Ominous Wind,22,ghost,60,100
+478,11,Ominous Wind,22,ghost,60,100
+478,14,Ominous Wind,22,ghost,60,100
+478,15,Ominous Wind,22,ghost,60,100
+478,16,Draining Kiss,23,fairy,50,100
+478,8,Wake-Up Slap,28,fighting,70,100
+478,9,Wake-Up Slap,28,fighting,70,100
+478,10,Wake-Up Slap,28,fighting,70,100
+478,11,Wake-Up Slap,28,fighting,70,100
+478,14,Wake-Up Slap,28,fighting,70,100
+478,15,Wake-Up Slap,28,fighting,70,100
+478,16,Ominous Wind,28,ghost,60,100
+478,8,Captivate,31,normal,-,100
+478,9,Captivate,31,normal,-,100
+478,10,Captivate,31,normal,-,100
+478,11,Captivate,31,normal,-,100
+478,14,Captivate,31,normal,-,100
+478,15,Captivate,31,normal,-,100
+478,16,Confuse Ray,32,ghost,-,100
+478,8,Ice Shard,37,ice,40,100
+478,9,Ice Shard,37,ice,40,100
+478,10,Ice Shard,37,ice,40,100
+478,11,Ice Shard,37,ice,40,100
+478,14,Ice Shard,37,ice,40,100
+478,15,Ice Shard,37,ice,40,100
+478,16,Wake-Up Slap,37,fighting,70,100
+478,8,Hail,40,ice,-,-
+478,9,Hail,40,ice,-,-
+478,10,Hail,40,ice,-,-
+478,11,Hail,40,ice,-,-
+478,14,Hail,40,ice,-,-
+478,15,Hail,40,ice,-,-
+478,16,Captivate,41,normal,-,100
+478,16,Shadow Ball,42,ghost,80,100
+478,16,Blizzard,48,ice,110,70
+478,8,Blizzard,51,ice,110,70
+478,9,Blizzard,51,ice,110,70
+478,10,Blizzard,51,ice,110,70
+478,11,Blizzard,51,ice,110,70
+478,14,Blizzard,51,ice,110,70
+478,15,Blizzard,51,ice,110,70
+478,16,Hail,54,ice,-,-
+478,8,Destiny Bond,59,ghost,-,-
+478,9,Destiny Bond,59,ghost,-,-
+478,10,Destiny Bond,59,ghost,-,-
+478,11,Destiny Bond,59,ghost,-,-
+478,14,Destiny Bond,59,ghost,-,-
+478,15,Destiny Bond,59,ghost,-,-
+478,16,Destiny Bond,61,ghost,-,-

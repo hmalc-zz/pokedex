@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+554,11,Tackle,1,normal,50,100
+554,14,Tackle,1,normal,50,100
+554,15,Tackle,1,normal,50,100
+554,16,Tackle,1,normal,50,100
+554,11,Rollout,3,rock,30,90
+554,14,Rollout,3,rock,30,90
+554,15,Rollout,3,rock,30,90
+554,16,Rollout,3,rock,30,90
+554,11,Incinerate,6,fire,60,100
+554,14,Incinerate,6,fire,60,100
+554,15,Incinerate,6,fire,60,100
+554,16,Incinerate,6,fire,60,100
+554,11,Rage,9,normal,20,100
+554,14,Rage,9,normal,20,100
+554,15,Rage,9,normal,20,100
+554,16,Rage,9,normal,20,100
+554,11,Fire Fang,11,fire,65,95
+554,14,Fire Fang,11,fire,65,95
+554,15,Fire Fang,11,fire,65,95
+554,16,Fire Fang,11,fire,65,95
+554,11,Headbutt,14,normal,70,100
+554,14,Headbutt,14,normal,70,100
+554,15,Headbutt,14,normal,70,100
+554,16,Headbutt,14,normal,70,100
+554,11,Uproar,17,normal,90,100
+554,14,Uproar,17,normal,90,100
+554,15,Uproar,17,normal,90,100
+554,16,Uproar,17,normal,90,100
+554,11,Facade,19,normal,70,100
+554,14,Facade,19,normal,70,100
+554,15,Facade,19,normal,70,100
+554,16,Facade,19,normal,70,100
+554,11,Fire Punch,22,fire,75,100
+554,14,Fire Punch,22,fire,75,100
+554,15,Fire Punch,22,fire,75,100
+554,16,Fire Punch,22,fire,75,100
+554,11,Work Up,25,normal,-,-
+554,14,Work Up,25,normal,-,-
+554,15,Work Up,25,normal,-,-
+554,16,Work Up,25,normal,-,-
+554,11,Thrash,27,normal,120,100
+554,14,Thrash,27,normal,120,100
+554,15,Thrash,27,normal,120,100
+554,16,Thrash,27,normal,120,100
+554,11,Belly Drum,30,normal,-,-
+554,14,Belly Drum,30,normal,-,-
+554,15,Belly Drum,30,normal,-,-
+554,16,Belly Drum,30,normal,-,-
+554,11,Flare Blitz,33,fire,120,100
+554,14,Flare Blitz,33,fire,120,100
+554,15,Flare Blitz,33,fire,120,100
+554,16,Flare Blitz,33,fire,120,100
+554,11,Taunt,35,dark,-,100
+554,14,Taunt,35,dark,-,100
+554,15,Taunt,35,dark,-,100
+554,16,Taunt,35,dark,-,100
+554,11,Superpower,39,fighting,120,100
+554,14,Superpower,39,fighting,120,100
+554,15,Superpower,39,fighting,120,100
+554,16,Superpower,39,fighting,120,100
+554,11,Overheat,42,fire,130,90
+554,14,Overheat,42,fire,130,90
+554,15,Overheat,42,fire,130,90
+554,16,Overheat,42,fire,130,90

@@ -1,0 +1,165 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+195,3,Tail Whip,1,normal,-,100
+195,3,Water Gun,1,water,40,100
+195,4,Tail Whip,1,normal,-,100
+195,4,Water Gun,1,water,40,100
+195,5,Tail Whip,1,normal,-,100
+195,5,Water Gun,1,water,40,100
+195,6,Tail Whip,1,normal,-,100
+195,6,Water Gun,1,water,40,100
+195,7,Tail Whip,1,normal,-,100
+195,7,Water Gun,1,water,40,100
+195,8,Tail Whip,1,normal,-,100
+195,8,Water Gun,1,water,40,100
+195,8,Mud Sport,1,ground,-,-
+195,9,Tail Whip,1,normal,-,100
+195,9,Water Gun,1,water,40,100
+195,9,Mud Sport,1,ground,-,-
+195,10,Tail Whip,1,normal,-,100
+195,10,Water Gun,1,water,40,100
+195,10,Mud Sport,1,ground,-,-
+195,11,Tail Whip,1,normal,-,100
+195,11,Water Gun,1,water,40,100
+195,11,Mud Sport,1,ground,-,-
+195,12,Tail Whip,1,normal,-,100
+195,12,Water Gun,1,water,40,100
+195,13,Tail Whip,1,normal,-,100
+195,13,Water Gun,1,water,40,100
+195,14,Tail Whip,1,normal,-,100
+195,14,Water Gun,1,water,40,100
+195,14,Mud Sport,1,ground,-,-
+195,15,Tail Whip,1,normal,-,100
+195,15,Water Gun,1,water,40,100
+195,15,Mud Sport,1,ground,-,-
+195,16,Tail Whip,1,normal,-,100
+195,16,Water Gun,1,water,40,100
+195,16,Mud Sport,1,ground,-,-
+195,8,Mud Sport,5,ground,-,-
+195,9,Mud Sport,5,ground,-,-
+195,10,Mud Sport,5,ground,-,-
+195,11,Mud Sport,5,ground,-,-
+195,14,Mud Sport,5,ground,-,-
+195,15,Mud Sport,5,ground,-,-
+195,16,Mud Sport,5,ground,-,-
+195,8,Mud Shot,9,ground,55,95
+195,9,Mud Shot,9,ground,55,95
+195,10,Mud Shot,9,ground,55,95
+195,11,Mud Shot,9,ground,55,95
+195,14,Mud Shot,9,ground,55,95
+195,15,Mud Shot,9,ground,55,95
+195,16,Mud Shot,9,ground,55,95
+195,3,Slam,11,normal,80,75
+195,4,Slam,11,normal,80,75
+195,5,Slam,11,normal,80,75
+195,6,Slam,11,normal,80,75
+195,7,Slam,11,normal,80,75
+195,12,Slam,11,normal,80,75
+195,13,Slam,11,normal,80,75
+195,8,Slam,15,normal,80,75
+195,9,Slam,15,normal,80,75
+195,10,Slam,15,normal,80,75
+195,11,Slam,15,normal,80,75
+195,14,Slam,15,normal,80,75
+195,15,Slam,15,normal,80,75
+195,16,Slam,15,normal,80,75
+195,5,Mud Shot,16,ground,55,95
+195,6,Mud Shot,16,ground,55,95
+195,7,Mud Shot,16,ground,55,95
+195,12,Mud Shot,16,ground,55,95
+195,13,Mud Shot,16,ground,55,95
+195,8,Mud Bomb,19,ground,65,85
+195,9,Mud Bomb,19,ground,65,85
+195,10,Mud Bomb,19,ground,65,85
+195,11,Mud Bomb,19,ground,65,85
+195,14,Mud Bomb,19,ground,65,85
+195,15,Mud Bomb,19,ground,65,85
+195,16,Mud Bomb,19,ground,65,85
+195,3,Amnesia,23,psychic,-,-
+195,4,Amnesia,23,psychic,-,-
+195,5,Amnesia,23,psychic,-,-
+195,6,Amnesia,23,psychic,-,-
+195,7,Amnesia,23,psychic,-,-
+195,12,Amnesia,23,psychic,-,-
+195,13,Amnesia,23,psychic,-,-
+195,8,Amnesia,24,psychic,-,-
+195,9,Amnesia,24,psychic,-,-
+195,10,Amnesia,24,psychic,-,-
+195,11,Amnesia,24,psychic,-,-
+195,14,Amnesia,24,psychic,-,-
+195,15,Amnesia,24,psychic,-,-
+195,16,Amnesia,24,psychic,-,-
+195,8,Yawn,31,normal,-,-
+195,9,Yawn,31,normal,-,-
+195,10,Yawn,31,normal,-,-
+195,11,Yawn,31,normal,-,-
+195,14,Yawn,31,normal,-,-
+195,15,Yawn,31,normal,-,-
+195,16,Yawn,31,normal,-,-
+195,3,Earthquake,35,ground,100,100
+195,4,Earthquake,35,ground,100,100
+195,5,Yawn,35,normal,-,-
+195,6,Yawn,35,normal,-,-
+195,7,Yawn,35,normal,-,-
+195,12,Yawn,35,normal,-,-
+195,13,Yawn,35,normal,-,-
+195,8,Earthquake,36,ground,100,100
+195,9,Earthquake,36,ground,100,100
+195,10,Earthquake,36,ground,100,100
+195,11,Earthquake,36,ground,100,100
+195,14,Earthquake,36,ground,100,100
+195,15,Earthquake,36,ground,100,100
+195,16,Earthquake,36,ground,100,100
+195,8,Rain Dance,41,water,-,-
+195,9,Rain Dance,41,water,-,-
+195,10,Rain Dance,41,water,-,-
+195,11,Rain Dance,41,water,-,-
+195,14,Rain Dance,41,water,-,-
+195,15,Rain Dance,41,water,-,-
+195,16,Rain Dance,41,water,-,-
+195,5,Earthquake,42,ground,100,100
+195,6,Earthquake,42,ground,100,100
+195,7,Earthquake,42,ground,100,100
+195,12,Earthquake,42,ground,100,100
+195,13,Earthquake,42,ground,100,100
+195,3,Rain Dance,47,water,-,-
+195,4,Rain Dance,47,water,-,-
+195,8,Mist,48,ice,-,-
+195,8,Haze,48,ice,-,-
+195,9,Mist,48,ice,-,-
+195,9,Haze,48,ice,-,-
+195,10,Mist,48,ice,-,-
+195,10,Haze,48,ice,-,-
+195,11,Mist,48,ice,-,-
+195,11,Haze,48,ice,-,-
+195,14,Mist,48,ice,-,-
+195,14,Haze,48,ice,-,-
+195,15,Mist,48,ice,-,-
+195,15,Haze,48,ice,-,-
+195,16,Mist,48,ice,-,-
+195,16,Haze,48,ice,-,-
+195,5,Rain Dance,49,water,-,-
+195,6,Rain Dance,49,water,-,-
+195,7,Rain Dance,49,water,-,-
+195,12,Rain Dance,49,water,-,-
+195,13,Rain Dance,49,water,-,-
+195,8,Muddy Water,53,water,90,85
+195,9,Muddy Water,53,water,90,85
+195,10,Muddy Water,53,water,90,85
+195,11,Muddy Water,53,water,90,85
+195,14,Muddy Water,53,water,90,85
+195,15,Muddy Water,53,water,90,85
+195,16,Muddy Water,53,water,90,85
+195,3,Mist,59,ice,-,-
+195,3,Haze,59,ice,-,-
+195,4,Mist,59,ice,-,-
+195,4,Haze,59,ice,-,-
+195,5,Mist,61,ice,-,-
+195,5,Haze,61,ice,-,-
+195,6,Mist,61,ice,-,-
+195,6,Haze,61,ice,-,-
+195,7,Mist,61,ice,-,-
+195,7,Haze,61,ice,-,-
+195,12,Mist,61,ice,-,-
+195,12,Haze,61,ice,-,-
+195,13,Mist,61,ice,-,-
+195,13,Haze,61,ice,-,-

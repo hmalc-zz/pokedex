@@ -1,0 +1,180 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+362,5,Leer,1,normal,-,100
+362,5,Bite,1,dark,60,100
+362,5,Double Team,1,normal,-,-
+362,5,Powder Snow,1,ice,40,100
+362,6,Leer,1,normal,-,100
+362,6,Bite,1,dark,60,100
+362,6,Double Team,1,normal,-,-
+362,6,Powder Snow,1,ice,40,100
+362,7,Leer,1,normal,-,100
+362,7,Bite,1,dark,60,100
+362,7,Double Team,1,normal,-,-
+362,7,Powder Snow,1,ice,40,100
+362,8,Leer,1,normal,-,100
+362,8,Bite,1,dark,60,100
+362,8,Double Team,1,normal,-,-
+362,8,Powder Snow,1,ice,40,100
+362,9,Leer,1,normal,-,100
+362,9,Bite,1,dark,60,100
+362,9,Double Team,1,normal,-,-
+362,9,Powder Snow,1,ice,40,100
+362,10,Leer,1,normal,-,100
+362,10,Bite,1,dark,60,100
+362,10,Double Team,1,normal,-,-
+362,10,Powder Snow,1,ice,40,100
+362,11,Leer,1,normal,-,100
+362,11,Bite,1,dark,60,100
+362,11,Double Team,1,normal,-,-
+362,11,Powder Snow,1,ice,40,100
+362,12,Leer,1,normal,-,100
+362,12,Bite,1,dark,60,100
+362,12,Double Team,1,normal,-,-
+362,12,Powder Snow,1,ice,40,100
+362,13,Leer,1,normal,-,100
+362,13,Bite,1,dark,60,100
+362,13,Double Team,1,normal,-,-
+362,13,Powder Snow,1,ice,40,100
+362,14,Leer,1,normal,-,100
+362,14,Bite,1,dark,60,100
+362,14,Double Team,1,normal,-,-
+362,14,Powder Snow,1,ice,40,100
+362,15,Leer,1,normal,-,100
+362,15,Bite,1,dark,60,100
+362,15,Double Team,1,normal,-,-
+362,15,Powder Snow,1,ice,40,100
+362,15,Sheer Cold,1,ice,-,30
+362,16,Leer,1,normal,-,100
+362,16,Double Team,1,normal,-,-
+362,16,Powder Snow,1,ice,40,100
+362,16,Sheer Cold,1,ice,-,30
+362,16,Ice Shard,1,ice,40,100
+362,8,Double Team,4,normal,-,-
+362,9,Double Team,4,normal,-,-
+362,10,Double Team,4,normal,-,-
+362,11,Double Team,4,normal,-,-
+362,14,Double Team,4,normal,-,-
+362,15,Double Team,4,normal,-,-
+362,16,Double Team,5,normal,-,-
+362,5,Double Team,7,normal,-,-
+362,6,Double Team,7,normal,-,-
+362,7,Double Team,7,normal,-,-
+362,12,Double Team,7,normal,-,-
+362,13,Double Team,7,normal,-,-
+362,5,Bite,10,dark,60,100
+362,6,Bite,10,dark,60,100
+362,7,Bite,10,dark,60,100
+362,8,Bite,10,dark,60,100
+362,9,Bite,10,dark,60,100
+362,10,Bite,10,dark,60,100
+362,11,Bite,10,dark,60,100
+362,12,Bite,10,dark,60,100
+362,13,Bite,10,dark,60,100
+362,14,Bite,10,dark,60,100
+362,15,Bite,10,dark,60,100
+362,16,Ice Shard,10,ice,40,100
+362,8,Icy Wind,13,ice,55,95
+362,9,Icy Wind,13,ice,55,95
+362,10,Icy Wind,13,ice,55,95
+362,11,Icy Wind,13,ice,55,95
+362,14,Icy Wind,13,ice,55,95
+362,15,Icy Wind,13,ice,55,95
+362,16,Icy Wind,14,ice,55,95
+362,5,Icy Wind,16,ice,55,95
+362,6,Icy Wind,16,ice,55,95
+362,7,Icy Wind,16,ice,55,95
+362,12,Icy Wind,16,ice,55,95
+362,13,Icy Wind,16,ice,55,95
+362,5,Headbutt,19,normal,70,100
+362,6,Headbutt,19,normal,70,100
+362,7,Headbutt,19,normal,70,100
+362,8,Headbutt,19,normal,70,100
+362,9,Headbutt,19,normal,70,100
+362,10,Headbutt,19,normal,70,100
+362,11,Headbutt,19,normal,70,100
+362,12,Headbutt,19,normal,70,100
+362,13,Headbutt,19,normal,70,100
+362,14,Headbutt,19,normal,70,100
+362,15,Headbutt,19,normal,70,100
+362,16,Bite,19,dark,60,100
+362,8,Protect,22,normal,-,-
+362,9,Protect,22,normal,-,-
+362,10,Protect,22,normal,-,-
+362,11,Protect,22,normal,-,-
+362,14,Protect,22,normal,-,-
+362,15,Protect,22,normal,-,-
+362,16,Ice Fang,23,ice,65,95
+362,5,Protect,25,normal,-,-
+362,6,Protect,25,normal,-,-
+362,7,Protect,25,normal,-,-
+362,12,Protect,25,normal,-,-
+362,13,Protect,25,normal,-,-
+362,5,Crunch,28,dark,80,100
+362,6,Crunch,28,dark,80,100
+362,7,Crunch,28,dark,80,100
+362,8,Ice Fang,28,ice,65,95
+362,9,Ice Fang,28,ice,65,95
+362,10,Ice Fang,28,ice,65,95
+362,11,Ice Fang,28,ice,65,95
+362,12,Crunch,28,dark,80,100
+362,13,Crunch,28,dark,80,100
+362,14,Ice Fang,28,ice,65,95
+362,15,Ice Fang,28,ice,65,95
+362,16,Headbutt,28,normal,70,100
+362,8,Crunch,31,dark,80,100
+362,9,Crunch,31,dark,80,100
+362,10,Crunch,31,dark,80,100
+362,11,Crunch,31,dark,80,100
+362,14,Crunch,31,dark,80,100
+362,15,Crunch,31,dark,80,100
+362,16,Protect,32,normal,-,-
+362,5,Ice Beam,34,ice,90,100
+362,6,Ice Beam,34,ice,90,100
+362,7,Ice Beam,34,ice,90,100
+362,12,Ice Beam,34,ice,90,100
+362,13,Ice Beam,34,ice,90,100
+362,8,Ice Beam,37,ice,90,100
+362,9,Ice Beam,37,ice,90,100
+362,10,Ice Beam,37,ice,90,100
+362,11,Ice Beam,37,ice,90,100
+362,14,Ice Beam,37,ice,90,100
+362,15,Ice Beam,37,ice,90,100
+362,16,Frost Breath,37,ice,60,90
+362,8,Hail,40,ice,-,-
+362,9,Hail,40,ice,-,-
+362,10,Hail,40,ice,-,-
+362,11,Hail,40,ice,-,-
+362,14,Hail,40,ice,-,-
+362,15,Hail,40,ice,-,-
+362,16,Crunch,41,dark,80,100
+362,5,Hail,42,ice,-,-
+362,6,Hail,42,ice,-,-
+362,7,Hail,42,ice,-,-
+362,12,Hail,42,ice,-,-
+362,13,Hail,42,ice,-,-
+362,16,Freeze-Dry,42,ice,70,100
+362,16,Blizzard,48,ice,110,70
+362,8,Blizzard,51,ice,110,70
+362,9,Blizzard,51,ice,110,70
+362,10,Blizzard,51,ice,110,70
+362,11,Blizzard,51,ice,110,70
+362,14,Blizzard,51,ice,110,70
+362,15,Blizzard,51,ice,110,70
+362,5,Blizzard,53,ice,110,70
+362,6,Blizzard,53,ice,110,70
+362,7,Blizzard,53,ice,110,70
+362,12,Blizzard,53,ice,110,70
+362,13,Blizzard,53,ice,110,70
+362,16,Hail,54,ice,-,-
+362,8,Sheer Cold,59,ice,-,30
+362,9,Sheer Cold,59,ice,-,30
+362,10,Sheer Cold,59,ice,-,30
+362,11,Sheer Cold,59,ice,-,30
+362,14,Sheer Cold,59,ice,-,30
+362,15,Sheer Cold,59,ice,-,30
+362,5,Sheer Cold,61,ice,-,30
+362,6,Sheer Cold,61,ice,-,30
+362,7,Sheer Cold,61,ice,-,30
+362,12,Sheer Cold,61,ice,-,30
+362,13,Sheer Cold,61,ice,-,30
+362,16,Sheer Cold,61,ice,-,30

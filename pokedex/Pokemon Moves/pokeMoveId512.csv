@@ -1,0 +1,17 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+512,11,Leer,1,normal,-,100
+512,11,Lick,1,ghost,30,100
+512,11,Fury Swipes,1,normal,18,80
+512,11,Seed Bomb,1,grass,80,100
+512,14,Leer,1,normal,-,100
+512,14,Lick,1,ghost,30,100
+512,14,Fury Swipes,1,normal,18,80
+512,14,Seed Bomb,1,grass,80,100
+512,15,Leer,1,normal,-,100
+512,15,Lick,1,ghost,30,100
+512,15,Fury Swipes,1,normal,18,80
+512,15,Seed Bomb,1,grass,80,100
+512,16,Leer,1,normal,-,100
+512,16,Lick,1,ghost,30,100
+512,16,Fury Swipes,1,normal,18,80
+512,16,Seed Bomb,1,grass,80,100

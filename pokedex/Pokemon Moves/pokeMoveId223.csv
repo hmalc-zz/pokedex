@@ -1,0 +1,141 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+223,3,Water Gun,1,water,40,100
+223,4,Water Gun,1,water,40,100
+223,5,Water Gun,1,water,40,100
+223,6,Water Gun,1,water,40,100
+223,7,Water Gun,1,water,40,100
+223,8,Water Gun,1,water,40,100
+223,9,Water Gun,1,water,40,100
+223,10,Water Gun,1,water,40,100
+223,11,Water Gun,1,water,40,100
+223,12,Water Gun,1,water,40,100
+223,13,Water Gun,1,water,40,100
+223,14,Water Gun,1,water,40,100
+223,15,Water Gun,1,water,40,100
+223,16,Water Gun,1,water,40,100
+223,8,Lock-On,6,normal,-,-
+223,9,Lock-On,6,normal,-,-
+223,10,Lock-On,6,normal,-,-
+223,11,Lock-On,6,normal,-,-
+223,14,Lock-On,6,normal,-,-
+223,15,Lock-On,6,normal,-,-
+223,16,Lock-On,6,normal,-,-
+223,8,Psybeam,10,psychic,65,100
+223,9,Psybeam,10,psychic,65,100
+223,10,Psybeam,10,psychic,65,100
+223,11,Psybeam,10,psychic,65,100
+223,14,Psybeam,10,psychic,65,100
+223,15,Psybeam,10,psychic,65,100
+223,16,Psybeam,10,psychic,65,100
+223,3,Lock-On,11,normal,-,-
+223,4,Lock-On,11,normal,-,-
+223,5,Lock-On,11,normal,-,-
+223,6,Lock-On,11,normal,-,-
+223,7,Lock-On,11,normal,-,-
+223,12,Lock-On,11,normal,-,-
+223,13,Lock-On,11,normal,-,-
+223,8,Aurora Beam,14,ice,65,100
+223,9,Aurora Beam,14,ice,65,100
+223,10,Aurora Beam,14,ice,65,100
+223,11,Aurora Beam,14,ice,65,100
+223,14,Aurora Beam,14,ice,65,100
+223,15,Aurora Beam,14,ice,65,100
+223,16,Aurora Beam,14,ice,65,100
+223,14,Bubble Beam,18,water,65,100
+223,15,Bubble Beam,18,water,65,100
+223,16,Bubble Beam,18,water,65,100
+223,8,Bubble Beam,19,water,65,100
+223,9,Bubble Beam,19,water,65,100
+223,10,Bubble Beam,19,water,65,100
+223,11,Bubble Beam,19,water,65,100
+223,3,Psybeam,22,psychic,65,100
+223,3,Bubble Beam,22,water,65,100
+223,3,Aurora Beam,22,ice,65,100
+223,4,Psybeam,22,psychic,65,100
+223,4,Bubble Beam,22,water,65,100
+223,4,Aurora Beam,22,ice,65,100
+223,5,Psybeam,22,psychic,65,100
+223,5,Bubble Beam,22,water,65,100
+223,5,Aurora Beam,22,ice,65,100
+223,6,Psybeam,22,psychic,65,100
+223,6,Bubble Beam,22,water,65,100
+223,6,Aurora Beam,22,ice,65,100
+223,7,Psybeam,22,psychic,65,100
+223,7,Bubble Beam,22,water,65,100
+223,7,Aurora Beam,22,ice,65,100
+223,12,Psybeam,22,psychic,65,100
+223,12,Bubble Beam,22,water,65,100
+223,12,Aurora Beam,22,ice,65,100
+223,13,Psybeam,22,psychic,65,100
+223,13,Bubble Beam,22,water,65,100
+223,13,Aurora Beam,22,ice,65,100
+223,14,Focus Energy,22,normal,-,-
+223,15,Focus Energy,22,normal,-,-
+223,16,Focus Energy,22,normal,-,-
+223,8,Focus Energy,23,normal,-,-
+223,9,Focus Energy,23,normal,-,-
+223,10,Focus Energy,23,normal,-,-
+223,11,Focus Energy,23,normal,-,-
+223,14,Water Pulse,26,water,60,100
+223,15,Water Pulse,26,water,60,100
+223,16,Water Pulse,26,water,60,100
+223,8,Bullet Seed,27,grass,25,100
+223,9,Bullet Seed,27,grass,25,100
+223,10,Bullet Seed,27,grass,25,100
+223,11,Bullet Seed,27,grass,25,100
+223,14,Signal Beam,30,bug,75,100
+223,15,Signal Beam,30,bug,75,100
+223,16,Signal Beam,30,bug,75,100
+223,8,Water Pulse,32,water,60,100
+223,9,Water Pulse,32,water,60,100
+223,10,Water Pulse,32,water,60,100
+223,11,Water Pulse,32,water,60,100
+223,3,Focus Energy,33,normal,-,-
+223,4,Focus Energy,33,normal,-,-
+223,5,Focus Energy,33,normal,-,-
+223,6,Focus Energy,33,normal,-,-
+223,7,Focus Energy,33,normal,-,-
+223,12,Focus Energy,33,normal,-,-
+223,13,Focus Energy,33,normal,-,-
+223,14,Ice Beam,34,ice,90,100
+223,15,Ice Beam,34,ice,90,100
+223,16,Ice Beam,34,ice,90,100
+223,8,Signal Beam,36,bug,75,100
+223,9,Signal Beam,36,bug,75,100
+223,10,Signal Beam,36,bug,75,100
+223,11,Signal Beam,36,bug,75,100
+223,14,Bullet Seed,38,grass,25,100
+223,15,Bullet Seed,38,grass,25,100
+223,16,Bullet Seed,38,grass,25,100
+223,8,Ice Beam,40,ice,90,100
+223,9,Ice Beam,40,ice,90,100
+223,10,Ice Beam,40,ice,90,100
+223,11,Ice Beam,40,ice,90,100
+223,14,Hydro Pump,42,water,110,80
+223,15,Hydro Pump,42,water,110,80
+223,16,Hydro Pump,42,water,110,80
+223,3,Ice Beam,44,ice,90,100
+223,4,Ice Beam,44,ice,90,100
+223,5,Ice Beam,44,ice,90,100
+223,6,Ice Beam,44,ice,90,100
+223,7,Ice Beam,44,ice,90,100
+223,12,Ice Beam,44,ice,90,100
+223,13,Ice Beam,44,ice,90,100
+223,8,Hyper Beam,45,normal,150,90
+223,9,Hyper Beam,45,normal,150,90
+223,10,Hyper Beam,45,normal,150,90
+223,11,Hyper Beam,45,normal,150,90
+223,14,Hyper Beam,46,normal,150,90
+223,15,Hyper Beam,46,normal,150,90
+223,16,Hyper Beam,46,normal,150,90
+223,11,Soak,49,water,-,100
+223,14,Soak,50,water,-,100
+223,15,Soak,50,water,-,100
+223,16,Soak,50,water,-,100
+223,3,Hyper Beam,55,normal,150,90
+223,4,Hyper Beam,55,normal,150,90
+223,5,Hyper Beam,55,normal,150,90
+223,6,Hyper Beam,55,normal,150,90
+223,7,Hyper Beam,55,normal,150,90
+223,12,Hyper Beam,55,normal,150,90
+223,13,Hyper Beam,55,normal,150,90

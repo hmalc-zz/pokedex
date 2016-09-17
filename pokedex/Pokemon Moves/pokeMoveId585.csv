@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+585,11,Tackle,1,normal,50,100
+585,11,Camouflage,1,normal,-,-
+585,14,Tackle,1,normal,50,100
+585,14,Camouflage,1,normal,-,-
+585,15,Tackle,1,normal,50,100
+585,15,Camouflage,1,normal,-,-
+585,16,Tackle,1,normal,50,100
+585,16,Camouflage,1,normal,-,-
+585,11,Growl,4,normal,-,100
+585,14,Growl,4,normal,-,100
+585,15,Growl,4,normal,-,100
+585,16,Growl,4,normal,-,100
+585,11,Sand Attack,7,ground,-,100
+585,14,Sand Attack,7,ground,-,100
+585,15,Sand Attack,7,ground,-,100
+585,16,Sand Attack,7,ground,-,100
+585,11,Double Kick,10,fighting,30,100
+585,14,Double Kick,10,fighting,30,100
+585,15,Double Kick,10,fighting,30,100
+585,16,Double Kick,10,fighting,30,100
+585,11,Leech Seed,13,grass,-,90
+585,14,Leech Seed,13,grass,-,90
+585,15,Leech Seed,13,grass,-,90
+585,16,Leech Seed,13,grass,-,90
+585,11,Feint Attack,16,dark,60,-
+585,14,Feint Attack,16,dark,60,-
+585,15,Feint Attack,16,dark,60,-
+585,16,Feint Attack,16,dark,60,-
+585,11,Take Down,20,normal,90,85
+585,14,Take Down,20,normal,90,85
+585,15,Take Down,20,normal,90,85
+585,16,Take Down,20,normal,90,85
+585,11,Jump Kick,24,fighting,100,95
+585,14,Jump Kick,24,fighting,100,95
+585,15,Jump Kick,24,fighting,100,95
+585,16,Jump Kick,24,fighting,100,95
+585,11,Aromatherapy,28,grass,-,-
+585,14,Aromatherapy,28,grass,-,-
+585,15,Aromatherapy,28,grass,-,-
+585,16,Aromatherapy,28,grass,-,-
+585,11,Energy Ball,32,grass,90,100
+585,14,Energy Ball,32,grass,90,100
+585,15,Energy Ball,32,grass,90,100
+585,16,Energy Ball,32,grass,90,100
+585,11,Charm,36,fairy,-,100
+585,14,Charm,36,fairy,-,100
+585,15,Charm,36,fairy,-,100
+585,16,Charm,36,fairy,-,100
+585,11,Nature Power,41,normal,-,-
+585,14,Nature Power,41,normal,-,-
+585,15,Nature Power,41,normal,-,-
+585,16,Nature Power,41,normal,-,-
+585,11,Double-Edge,46,normal,120,100
+585,14,Double-Edge,46,normal,120,100
+585,15,Double-Edge,46,normal,120,100
+585,16,Double-Edge,46,normal,120,100
+585,11,Solar Beam,51,grass,120,100
+585,14,Solar Beam,51,grass,120,100
+585,15,Solar Beam,51,grass,120,100
+585,16,Solar Beam,51,grass,120,100

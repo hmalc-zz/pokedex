@@ -1,0 +1,73 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+533,11,Pound,1,normal,40,100
+533,11,Leer,1,normal,-,100
+533,11,Focus Energy,1,normal,-,-
+533,11,Bide,1,normal,-,-
+533,14,Pound,1,normal,40,100
+533,14,Leer,1,normal,-,100
+533,14,Focus Energy,1,normal,-,-
+533,14,Bide,1,normal,-,-
+533,15,Pound,1,normal,40,100
+533,15,Leer,1,normal,-,100
+533,15,Focus Energy,1,normal,-,-
+533,15,Bide,1,normal,-,-
+533,16,Pound,1,normal,40,100
+533,16,Leer,1,normal,-,100
+533,16,Focus Energy,1,normal,-,-
+533,16,Bide,1,normal,-,-
+533,11,Focus Energy,4,normal,-,-
+533,14,Focus Energy,4,normal,-,-
+533,15,Focus Energy,4,normal,-,-
+533,16,Focus Energy,4,normal,-,-
+533,11,Bide,8,normal,-,-
+533,14,Bide,8,normal,-,-
+533,15,Bide,8,normal,-,-
+533,16,Bide,8,normal,-,-
+533,11,Low Kick,12,fighting,-,100
+533,14,Low Kick,12,fighting,-,100
+533,15,Low Kick,12,fighting,-,100
+533,16,Low Kick,12,fighting,-,100
+533,11,Rock Throw,16,rock,50,90
+533,14,Rock Throw,16,rock,50,90
+533,15,Rock Throw,16,rock,50,90
+533,16,Rock Throw,16,rock,50,90
+533,11,Wake-Up Slap,20,fighting,70,100
+533,14,Wake-Up Slap,20,fighting,70,100
+533,15,Wake-Up Slap,20,fighting,70,100
+533,16,Wake-Up Slap,20,fighting,70,100
+533,11,Chip Away,24,normal,70,100
+533,14,Chip Away,24,normal,70,100
+533,15,Chip Away,24,normal,70,100
+533,16,Chip Away,24,normal,70,100
+533,11,Bulk Up,29,fighting,-,-
+533,14,Bulk Up,29,fighting,-,-
+533,15,Bulk Up,29,fighting,-,-
+533,16,Bulk Up,29,fighting,-,-
+533,11,Rock Slide,33,rock,75,90
+533,14,Rock Slide,33,rock,75,90
+533,15,Rock Slide,33,rock,75,90
+533,16,Rock Slide,33,rock,75,90
+533,11,Dynamic Punch,37,fighting,100,50
+533,14,Dynamic Punch,37,fighting,100,50
+533,15,Dynamic Punch,37,fighting,100,50
+533,16,Dynamic Punch,37,fighting,100,50
+533,11,Scary Face,41,normal,-,100
+533,14,Scary Face,41,normal,-,100
+533,15,Scary Face,41,normal,-,100
+533,16,Scary Face,41,normal,-,100
+533,11,Hammer Arm,45,fighting,100,90
+533,14,Hammer Arm,45,fighting,100,90
+533,15,Hammer Arm,45,fighting,100,90
+533,16,Hammer Arm,45,fighting,100,90
+533,11,Stone Edge,49,rock,100,80
+533,14,Stone Edge,49,rock,100,80
+533,15,Stone Edge,49,rock,100,80
+533,16,Stone Edge,49,rock,100,80
+533,11,Focus Punch,53,fighting,150,100
+533,14,Focus Punch,53,fighting,150,100
+533,15,Focus Punch,53,fighting,150,100
+533,16,Focus Punch,53,fighting,150,100
+533,11,Superpower,57,fighting,120,100
+533,14,Superpower,57,fighting,120,100
+533,15,Superpower,57,fighting,120,100
+533,16,Superpower,57,fighting,120,100

@@ -1,0 +1,2 @@
+species_id,form_number,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega,ability_1,ability_1_name,ability_1_desc,ability_2,ability_2_name,ability_2_desc,hidden_ability,hidden_ability_name,hidden_ability_desc
+181,1,10045,ampharos-mega,Electric,Dragon,4.6,135.6,90,95,105,165,110,45,610,mega,1,164,Teravolt,Bypasses targets' abilities if they could hinder or prevent moves.,,,,,,

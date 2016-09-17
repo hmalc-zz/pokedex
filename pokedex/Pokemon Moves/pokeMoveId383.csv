@@ -1,0 +1,146 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+383,5,Mud Shot,1,ground,55,95
+383,6,Mud Shot,1,ground,55,95
+383,7,Mud Shot,1,ground,55,95
+383,8,Mud Shot,1,ground,55,95
+383,9,Mud Shot,1,ground,55,95
+383,10,Mud Shot,1,ground,55,95
+383,11,Mud Shot,1,ground,55,95
+383,12,Mud Shot,1,ground,55,95
+383,13,Mud Shot,1,ground,55,95
+383,14,Mud Shot,1,ground,55,95
+383,15,Mud Shot,1,ground,55,95
+383,16,Ancient Power,1,rock,60,100
+383,16,Mud Shot,1,ground,55,95
+383,5,Scary Face,5,normal,-,100
+383,6,Scary Face,5,normal,-,100
+383,7,Scary Face,5,normal,-,100
+383,8,Scary Face,5,normal,-,100
+383,9,Scary Face,5,normal,-,100
+383,10,Scary Face,5,normal,-,100
+383,11,Scary Face,5,normal,-,100
+383,12,Scary Face,5,normal,-,100
+383,13,Scary Face,5,normal,-,100
+383,14,Scary Face,5,normal,-,100
+383,15,Scary Face,5,normal,-,100
+383,16,Scary Face,5,normal,-,100
+383,5,Ancient Power,15,rock,60,100
+383,6,Ancient Power,15,rock,60,100
+383,7,Ancient Power,15,rock,60,100
+383,8,Ancient Power,15,rock,60,100
+383,9,Ancient Power,15,rock,60,100
+383,10,Lava Plume,15,fire,80,100
+383,11,Lava Plume,15,fire,80,100
+383,12,Ancient Power,15,rock,60,100
+383,13,Ancient Power,15,rock,60,100
+383,14,Lava Plume,15,fire,80,100
+383,15,Lava Plume,15,fire,80,100
+383,16,Earth Power,15,ground,90,100
+383,5,Slash,20,normal,70,100
+383,6,Slash,20,normal,70,100
+383,7,Slash,20,normal,70,100
+383,8,Slash,20,normal,70,100
+383,9,Slash,20,normal,70,100
+383,10,Hammer Arm,20,fighting,100,90
+383,11,Hammer Arm,20,fighting,100,90
+383,12,Slash,20,normal,70,100
+383,13,Slash,20,normal,70,100
+383,14,Hammer Arm,20,fighting,100,90
+383,15,Hammer Arm,20,fighting,100,90
+383,16,Lava Plume,20,fire,80,100
+383,5,Bulk Up,30,fighting,-,-
+383,6,Bulk Up,30,fighting,-,-
+383,7,Bulk Up,30,fighting,-,-
+383,8,Bulk Up,30,fighting,-,-
+383,9,Bulk Up,30,fighting,-,-
+383,10,Rest,30,psychic,-,-
+383,11,Rest,30,psychic,-,-
+383,12,Bulk Up,30,fighting,-,-
+383,13,Bulk Up,30,fighting,-,-
+383,14,Rest,30,psychic,-,-
+383,15,Rest,30,psychic,-,-
+383,16,Rest,30,psychic,-,-
+383,5,Earthquake,35,ground,100,100
+383,6,Earthquake,35,ground,100,100
+383,7,Earthquake,35,ground,100,100
+383,8,Earthquake,35,ground,100,100
+383,9,Earthquake,35,ground,100,100
+383,10,Earthquake,35,ground,100,100
+383,11,Earthquake,35,ground,100,100
+383,12,Earthquake,35,ground,100,100
+383,13,Earthquake,35,ground,100,100
+383,14,Earthquake,35,ground,100,100
+383,15,Earthquake,35,ground,100,100
+383,16,Earthquake,35,ground,100,100
+383,5,Fire Blast,45,fire,110,85
+383,6,Fire Blast,45,fire,110,85
+383,7,Fire Blast,45,fire,110,85
+383,8,Fire Blast,45,fire,110,85
+383,9,Fire Blast,45,fire,110,85
+383,10,Ancient Power,45,rock,60,100
+383,11,Ancient Power,45,rock,60,100
+383,12,Fire Blast,45,fire,110,85
+383,13,Fire Blast,45,fire,110,85
+383,14,Ancient Power,45,rock,60,100
+383,15,Ancient Power,45,rock,60,100
+383,16,Precipice Blades,45,ground,120,85
+383,5,Rest,50,psychic,-,-
+383,6,Rest,50,psychic,-,-
+383,7,Rest,50,psychic,-,-
+383,8,Rest,50,psychic,-,-
+383,9,Rest,50,psychic,-,-
+383,10,Eruption,50,fire,150,100
+383,11,Eruption,50,fire,150,100
+383,12,Rest,50,psychic,-,-
+383,13,Rest,50,psychic,-,-
+383,14,Eruption,50,fire,150,100
+383,15,Eruption,50,fire,150,100
+383,16,Bulk Up,50,fighting,-,-
+383,5,Fissure,60,ground,-,30
+383,6,Fissure,60,ground,-,30
+383,7,Fissure,60,ground,-,30
+383,8,Fissure,60,ground,-,30
+383,9,Fissure,60,ground,-,30
+383,10,Bulk Up,60,fighting,-,-
+383,11,Bulk Up,60,fighting,-,-
+383,12,Fissure,60,ground,-,30
+383,13,Fissure,60,ground,-,30
+383,14,Bulk Up,60,fighting,-,-
+383,15,Bulk Up,60,fighting,-,-
+383,16,Solar Beam,60,grass,120,100
+383,5,Solar Beam,65,grass,120,100
+383,6,Solar Beam,65,grass,120,100
+383,7,Solar Beam,65,grass,120,100
+383,8,Solar Beam,65,grass,120,100
+383,9,Solar Beam,65,grass,120,100
+383,10,Earth Power,65,ground,90,100
+383,11,Earth Power,65,ground,90,100
+383,12,Solar Beam,65,grass,120,100
+383,13,Solar Beam,65,grass,120,100
+383,14,Earth Power,65,ground,90,100
+383,15,Earth Power,65,ground,90,100
+383,16,Fissure,65,ground,-,30
+383,5,Eruption,75,fire,150,100
+383,6,Eruption,75,fire,150,100
+383,7,Eruption,75,fire,150,100
+383,8,Earth Power,75,ground,90,100
+383,9,Earth Power,75,ground,90,100
+383,10,Fissure,75,ground,-,30
+383,11,Fissure,75,ground,-,30
+383,12,Eruption,75,fire,150,100
+383,13,Eruption,75,fire,150,100
+383,14,Fissure,75,ground,-,30
+383,15,Fissure,75,ground,-,30
+383,16,Fire Blast,75,fire,110,85
+383,8,Eruption,80,fire,150,100
+383,9,Eruption,80,fire,150,100
+383,10,Solar Beam,80,grass,120,100
+383,11,Solar Beam,80,grass,120,100
+383,14,Solar Beam,80,grass,120,100
+383,15,Solar Beam,80,grass,120,100
+383,16,Hammer Arm,80,fighting,100,90
+383,10,Fire Blast,90,fire,110,85
+383,11,Fire Blast,90,fire,110,85
+383,14,Fire Blast,90,fire,110,85
+383,15,Fire Blast,90,fire,110,85
+383,16,Eruption,90,fire,150,100

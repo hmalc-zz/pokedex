@@ -1,0 +1,223 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+73,1,Wrap,1,normal,15,90
+73,1,Supersonic,1,normal,-,55
+73,1,Acid,1,poison,40,100
+73,2,Wrap,1,normal,15,90
+73,2,Supersonic,1,normal,-,55
+73,2,Acid,1,poison,40,100
+73,3,Poison Sting,1,poison,15,100
+73,3,Supersonic,1,normal,-,55
+73,3,Constrict,1,normal,10,100
+73,4,Poison Sting,1,poison,15,100
+73,4,Supersonic,1,normal,-,55
+73,4,Constrict,1,normal,10,100
+73,5,Poison Sting,1,poison,15,100
+73,5,Supersonic,1,normal,-,55
+73,5,Constrict,1,normal,10,100
+73,6,Poison Sting,1,poison,15,100
+73,6,Supersonic,1,normal,-,55
+73,6,Constrict,1,normal,10,100
+73,7,Poison Sting,1,poison,15,100
+73,7,Supersonic,1,normal,-,55
+73,7,Constrict,1,normal,10,100
+73,8,Poison Sting,1,poison,15,100
+73,8,Supersonic,1,normal,-,55
+73,8,Constrict,1,normal,10,100
+73,9,Poison Sting,1,poison,15,100
+73,9,Supersonic,1,normal,-,55
+73,9,Constrict,1,normal,10,100
+73,10,Poison Sting,1,poison,15,100
+73,10,Supersonic,1,normal,-,55
+73,10,Constrict,1,normal,10,100
+73,11,Poison Sting,1,poison,15,100
+73,11,Supersonic,1,normal,-,55
+73,11,Constrict,1,normal,10,100
+73,12,Poison Sting,1,poison,15,100
+73,12,Supersonic,1,normal,-,55
+73,12,Constrict,1,normal,10,100
+73,13,Poison Sting,1,poison,15,100
+73,13,Supersonic,1,normal,-,55
+73,13,Constrict,1,normal,10,100
+73,14,Poison Sting,1,poison,15,100
+73,14,Supersonic,1,normal,-,55
+73,14,Constrict,1,normal,10,100
+73,15,Poison Sting,1,poison,15,100
+73,15,Supersonic,1,normal,-,55
+73,15,Constrict,1,normal,10,100
+73,15,Wring Out,1,normal,-,100
+73,15,Reflect Type,1,normal,-,-
+73,16,Poison Sting,1,poison,15,100
+73,16,Supersonic,1,normal,-,55
+73,16,Acid,1,poison,40,100
+73,16,Constrict,1,normal,10,100
+73,16,Wring Out,1,normal,-,100
+73,16,Reflect Type,1,normal,-,-
+73,16,Supersonic,4,normal,-,55
+73,8,Supersonic,5,normal,-,55
+73,9,Supersonic,5,normal,-,55
+73,10,Supersonic,5,normal,-,55
+73,11,Supersonic,5,normal,-,55
+73,14,Supersonic,5,normal,-,55
+73,15,Supersonic,5,normal,-,55
+73,3,Supersonic,6,normal,-,55
+73,4,Supersonic,6,normal,-,55
+73,5,Supersonic,6,normal,-,55
+73,6,Supersonic,6,normal,-,55
+73,7,Supersonic,6,normal,-,55
+73,12,Supersonic,6,normal,-,55
+73,13,Supersonic,6,normal,-,55
+73,1,Supersonic,7,normal,-,55
+73,2,Supersonic,7,normal,-,55
+73,16,Constrict,7,normal,10,100
+73,8,Constrict,8,normal,10,100
+73,9,Constrict,8,normal,10,100
+73,10,Constrict,8,normal,10,100
+73,11,Constrict,8,normal,10,100
+73,14,Constrict,8,normal,10,100
+73,15,Constrict,8,normal,10,100
+73,16,Acid,10,poison,40,100
+73,3,Constrict,12,normal,10,100
+73,4,Constrict,12,normal,10,100
+73,5,Constrict,12,normal,10,100
+73,6,Constrict,12,normal,10,100
+73,7,Constrict,12,normal,10,100
+73,8,Acid,12,poison,40,100
+73,9,Acid,12,poison,40,100
+73,10,Acid,12,poison,40,100
+73,11,Acid,12,poison,40,100
+73,12,Constrict,12,normal,10,100
+73,13,Constrict,12,normal,10,100
+73,14,Acid,12,poison,40,100
+73,15,Acid,12,poison,40,100
+73,1,Wrap,13,normal,15,90
+73,2,Wrap,13,normal,15,90
+73,16,Toxic Spikes,13,poison,-,-
+73,8,Toxic Spikes,15,poison,-,-
+73,9,Toxic Spikes,15,poison,-,-
+73,10,Toxic Spikes,15,poison,-,-
+73,11,Toxic Spikes,15,poison,-,-
+73,14,Toxic Spikes,15,poison,-,-
+73,15,Toxic Spikes,15,poison,-,-
+73,16,Water Pulse,16,water,60,100
+73,1,Poison Sting,18,poison,15,100
+73,2,Poison Sting,18,poison,15,100
+73,3,Acid,19,poison,40,100
+73,4,Acid,19,poison,40,100
+73,5,Acid,19,poison,40,100
+73,6,Acid,19,poison,40,100
+73,7,Acid,19,poison,40,100
+73,8,Bubble Beam,19,water,65,100
+73,9,Bubble Beam,19,water,65,100
+73,10,Bubble Beam,19,water,65,100
+73,11,Bubble Beam,19,water,65,100
+73,12,Acid,19,poison,40,100
+73,13,Acid,19,poison,40,100
+73,14,Bubble Beam,19,water,65,100
+73,15,Bubble Beam,19,water,65,100
+73,16,Wrap,19,normal,15,90
+73,1,Water Gun,22,water,40,100
+73,2,Water Gun,22,water,40,100
+73,8,Wrap,22,normal,15,90
+73,9,Wrap,22,normal,15,90
+73,10,Wrap,22,normal,15,90
+73,11,Wrap,22,normal,15,90
+73,14,Wrap,22,normal,15,90
+73,15,Wrap,22,normal,15,90
+73,16,Acid Spray,22,poison,40,100
+73,3,Bubble Beam,25,water,65,100
+73,4,Bubble Beam,25,water,65,100
+73,5,Bubble Beam,25,water,65,100
+73,6,Bubble Beam,25,water,65,100
+73,7,Bubble Beam,25,water,65,100
+73,12,Bubble Beam,25,water,65,100
+73,13,Bubble Beam,25,water,65,100
+73,16,Bubble Beam,25,water,65,100
+73,8,Barrier,26,psychic,-,-
+73,9,Barrier,26,psychic,-,-
+73,10,Barrier,26,psychic,-,-
+73,11,Acid Spray,26,poison,40,100
+73,14,Acid Spray,26,poison,40,100
+73,15,Acid Spray,26,poison,40,100
+73,1,Constrict,27,normal,10,100
+73,2,Constrict,27,normal,10,100
+73,16,Barrier,28,psychic,-,-
+73,8,Water Pulse,29,water,60,100
+73,9,Water Pulse,29,water,60,100
+73,10,Water Pulse,29,water,60,100
+73,11,Barrier,29,psychic,-,-
+73,14,Barrier,29,psychic,-,-
+73,15,Barrier,29,psychic,-,-
+73,3,Wrap,30,normal,15,90
+73,4,Wrap,30,normal,15,90
+73,5,Wrap,30,normal,15,90
+73,6,Wrap,30,normal,15,90
+73,7,Wrap,30,normal,15,90
+73,12,Wrap,30,normal,15,90
+73,13,Wrap,30,normal,15,90
+73,16,Poison Jab,32,poison,80,100
+73,11,Water Pulse,34,water,60,100
+73,14,Water Pulse,34,water,60,100
+73,15,Water Pulse,34,water,60,100
+73,1,Barrier,35,psychic,-,-
+73,2,Barrier,35,psychic,-,-
+73,8,Poison Jab,36,poison,80,100
+73,9,Poison Jab,36,poison,80,100
+73,10,Poison Jab,36,poison,80,100
+73,16,Brine,36,water,65,100
+73,3,Barrier,38,psychic,-,-
+73,4,Barrier,38,psychic,-,-
+73,5,Barrier,38,psychic,-,-
+73,6,Barrier,38,psychic,-,-
+73,7,Barrier,38,psychic,-,-
+73,11,Poison Jab,38,poison,80,100
+73,12,Barrier,38,psychic,-,-
+73,13,Barrier,38,psychic,-,-
+73,14,Poison Jab,38,poison,80,100
+73,15,Poison Jab,38,poison,80,100
+73,16,Screech,40,normal,-,85
+73,8,Screech,42,normal,-,85
+73,9,Screech,42,normal,-,85
+73,10,Screech,42,normal,-,85
+73,1,Screech,43,normal,-,85
+73,2,Screech,43,normal,-,85
+73,11,Screech,43,normal,-,85
+73,14,Screech,43,normal,-,85
+73,15,Screech,43,normal,-,85
+73,16,Hex,44,ghost,65,100
+73,3,Screech,47,normal,-,85
+73,4,Screech,47,normal,-,85
+73,5,Screech,47,normal,-,85
+73,6,Screech,47,normal,-,85
+73,7,Screech,47,normal,-,85
+73,11,Hex,47,ghost,65,100
+73,12,Screech,47,normal,-,85
+73,13,Screech,47,normal,-,85
+73,14,Hex,47,ghost,65,100
+73,15,Hex,47,ghost,65,100
+73,16,Sludge Wave,48,poison,95,100
+73,8,Hydro Pump,49,water,110,80
+73,9,Hydro Pump,49,water,110,80
+73,10,Hydro Pump,49,water,110,80
+73,1,Hydro Pump,50,water,110,80
+73,2,Hydro Pump,50,water,110,80
+73,11,Hydro Pump,52,water,110,80
+73,14,Hydro Pump,52,water,110,80
+73,15,Hydro Pump,52,water,110,80
+73,16,Hydro Pump,52,water,110,80
+73,3,Hydro Pump,55,water,110,80
+73,4,Hydro Pump,55,water,110,80
+73,5,Hydro Pump,55,water,110,80
+73,6,Hydro Pump,55,water,110,80
+73,7,Hydro Pump,55,water,110,80
+73,8,Wring Out,55,normal,-,100
+73,9,Wring Out,55,normal,-,100
+73,10,Wring Out,55,normal,-,100
+73,12,Hydro Pump,55,water,110,80
+73,13,Hydro Pump,55,water,110,80
+73,11,Sludge Wave,56,poison,95,100
+73,14,Sludge Wave,56,poison,95,100
+73,15,Sludge Wave,56,poison,95,100
+73,16,Wring Out,56,normal,-,100
+73,11,Wring Out,61,normal,-,100
+73,14,Wring Out,61,normal,-,100
+73,15,Wring Out,61,normal,-,100

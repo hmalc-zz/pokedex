@@ -1,0 +1,81 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+500,11,Tackle,1,normal,50,100
+500,11,Tail Whip,1,normal,-,100
+500,11,Ember,1,fire,40,100
+500,11,Odor Sleuth,1,normal,-,-
+500,11,Hammer Arm,1,fighting,100,90
+500,14,Tackle,1,normal,50,100
+500,14,Tail Whip,1,normal,-,100
+500,14,Ember,1,fire,40,100
+500,14,Odor Sleuth,1,normal,-,-
+500,14,Hammer Arm,1,fighting,100,90
+500,15,Tackle,1,normal,50,100
+500,15,Tail Whip,1,normal,-,100
+500,15,Ember,1,fire,40,100
+500,15,Odor Sleuth,1,normal,-,-
+500,15,Hammer Arm,1,fighting,100,90
+500,16,Tackle,1,normal,50,100
+500,16,Tail Whip,1,normal,-,100
+500,16,Ember,1,fire,40,100
+500,16,Odor Sleuth,1,normal,-,-
+500,16,Hammer Arm,1,fighting,100,90
+500,11,Tail Whip,3,normal,-,100
+500,14,Tail Whip,3,normal,-,100
+500,15,Tail Whip,3,normal,-,100
+500,16,Tail Whip,3,normal,-,100
+500,11,Ember,7,fire,40,100
+500,14,Ember,7,fire,40,100
+500,15,Ember,7,fire,40,100
+500,16,Ember,7,fire,40,100
+500,11,Odor Sleuth,9,normal,-,-
+500,14,Odor Sleuth,9,normal,-,-
+500,15,Odor Sleuth,9,normal,-,-
+500,16,Odor Sleuth,9,normal,-,-
+500,11,Defense Curl,13,normal,-,-
+500,14,Defense Curl,13,normal,-,-
+500,15,Defense Curl,13,normal,-,-
+500,16,Defense Curl,13,normal,-,-
+500,11,Flame Charge,15,fire,50,100
+500,14,Flame Charge,15,fire,50,100
+500,15,Flame Charge,15,fire,50,100
+500,16,Flame Charge,15,fire,50,100
+500,11,Arm Thrust,17,fighting,15,100
+500,14,Arm Thrust,17,fighting,15,100
+500,15,Arm Thrust,17,fighting,15,100
+500,16,Arm Thrust,17,fighting,15,100
+500,11,Smog,20,poison,30,70
+500,14,Smog,20,poison,30,70
+500,15,Smog,20,poison,30,70
+500,16,Smog,20,poison,30,70
+500,11,Rollout,23,rock,30,90
+500,14,Rollout,23,rock,30,90
+500,15,Rollout,23,rock,30,90
+500,16,Rollout,23,rock,30,90
+500,11,Take Down,28,normal,90,85
+500,14,Take Down,28,normal,90,85
+500,15,Take Down,28,normal,90,85
+500,16,Take Down,28,normal,90,85
+500,11,Heat Crash,31,fire,-,100
+500,14,Heat Crash,31,fire,-,100
+500,15,Heat Crash,31,fire,-,100
+500,16,Heat Crash,31,fire,-,100
+500,11,Assurance,38,dark,60,100
+500,14,Assurance,38,dark,60,100
+500,15,Assurance,38,dark,60,100
+500,16,Assurance,38,dark,60,100
+500,11,Flamethrower,43,fire,90,100
+500,14,Flamethrower,43,fire,90,100
+500,15,Flamethrower,43,fire,90,100
+500,16,Flamethrower,43,fire,90,100
+500,11,Head Smash,50,rock,150,80
+500,14,Head Smash,50,rock,150,80
+500,15,Head Smash,50,rock,150,80
+500,16,Head Smash,50,rock,150,80
+500,11,Roar,55,normal,-,-
+500,14,Roar,55,normal,-,-
+500,15,Roar,55,normal,-,-
+500,16,Roar,55,normal,-,-
+500,11,Flare Blitz,62,fire,120,100
+500,14,Flare Blitz,62,fire,120,100
+500,15,Flare Blitz,62,fire,120,100
+500,16,Flare Blitz,62,fire,120,100

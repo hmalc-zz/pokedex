@@ -1,0 +1,94 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+486,8,Mega Punch,1,normal,80,85
+486,8,Fire Punch,1,fire,75,100
+486,8,Ice Punch,1,ice,75,100
+486,8,Thunder Punch,1,electric,75,100
+486,8,Stomp,1,normal,65,100
+486,8,Confuse Ray,1,ghost,-,100
+486,8,Knock Off,1,dark,65,100
+486,9,Fire Punch,1,fire,75,100
+486,9,Ice Punch,1,ice,75,100
+486,9,Thunder Punch,1,electric,75,100
+486,9,Confuse Ray,1,ghost,-,100
+486,9,Dizzy Punch,1,normal,70,100
+486,9,Foresight,1,normal,-,-
+486,9,Knock Off,1,dark,65,100
+486,10,Fire Punch,1,fire,75,100
+486,10,Ice Punch,1,ice,75,100
+486,10,Thunder Punch,1,electric,75,100
+486,10,Confuse Ray,1,ghost,-,100
+486,10,Dizzy Punch,1,normal,70,100
+486,10,Foresight,1,normal,-,-
+486,10,Knock Off,1,dark,65,100
+486,11,Fire Punch,1,fire,75,100
+486,11,Ice Punch,1,ice,75,100
+486,11,Thunder Punch,1,electric,75,100
+486,11,Confuse Ray,1,ghost,-,100
+486,11,Dizzy Punch,1,normal,70,100
+486,11,Foresight,1,normal,-,-
+486,11,Knock Off,1,dark,65,100
+486,14,Fire Punch,1,fire,75,100
+486,14,Ice Punch,1,ice,75,100
+486,14,Thunder Punch,1,electric,75,100
+486,14,Confuse Ray,1,ghost,-,100
+486,14,Dizzy Punch,1,normal,70,100
+486,14,Foresight,1,normal,-,-
+486,14,Knock Off,1,dark,65,100
+486,15,Fire Punch,1,fire,75,100
+486,15,Ice Punch,1,ice,75,100
+486,15,Thunder Punch,1,electric,75,100
+486,15,Confuse Ray,1,ghost,-,100
+486,15,Dizzy Punch,1,normal,70,100
+486,15,Foresight,1,normal,-,-
+486,15,Knock Off,1,dark,65,100
+486,15,Crush Grip,1,normal,-,100
+486,15,Heavy Slam,1,steel,-,100
+486,16,Fire Punch,1,fire,75,100
+486,16,Ice Punch,1,ice,75,100
+486,16,Thunder Punch,1,electric,75,100
+486,16,Confuse Ray,1,ghost,-,100
+486,16,Dizzy Punch,1,normal,70,100
+486,16,Foresight,1,normal,-,-
+486,16,Knock Off,1,dark,65,100
+486,16,Crush Grip,1,normal,-,100
+486,16,Heavy Slam,1,steel,-,100
+486,8,Superpower,25,fighting,120,100
+486,9,Revenge,25,fighting,60,100
+486,10,Revenge,25,fighting,60,100
+486,11,Revenge,25,fighting,60,100
+486,14,Revenge,25,fighting,60,100
+486,15,Revenge,25,fighting,60,100
+486,16,Revenge,25,fighting,60,100
+486,11,Wide Guard,40,rock,-,-
+486,14,Wide Guard,40,rock,-,-
+486,15,Wide Guard,40,rock,-,-
+486,16,Wide Guard,40,rock,-,-
+486,8,Zen Headbutt,50,psychic,80,90
+486,9,Zen Headbutt,50,psychic,80,90
+486,10,Zen Headbutt,50,psychic,80,90
+486,11,Zen Headbutt,50,psychic,80,90
+486,14,Zen Headbutt,50,psychic,80,90
+486,15,Zen Headbutt,50,psychic,80,90
+486,16,Zen Headbutt,50,psychic,80,90
+486,11,Payback,65,dark,50,100
+486,14,Payback,65,dark,50,100
+486,15,Payback,65,dark,50,100
+486,16,Payback,65,dark,50,100
+486,8,Crush Grip,75,normal,-,100
+486,9,Crush Grip,75,normal,-,100
+486,10,Crush Grip,75,normal,-,100
+486,11,Crush Grip,75,normal,-,100
+486,14,Crush Grip,75,normal,-,100
+486,15,Crush Grip,75,normal,-,100
+486,16,Crush Grip,75,normal,-,100
+486,11,Heavy Slam,90,steel,-,100
+486,14,Heavy Slam,90,steel,-,100
+486,15,Heavy Slam,90,steel,-,100
+486,16,Heavy Slam,90,steel,-,100
+486,8,Giga Impact,100,normal,150,90
+486,9,Giga Impact,100,normal,150,90
+486,10,Giga Impact,100,normal,150,90
+486,11,Giga Impact,100,normal,150,90
+486,14,Giga Impact,100,normal,150,90
+486,15,Giga Impact,100,normal,150,90
+486,16,Giga Impact,100,normal,150,90

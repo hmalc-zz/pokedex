@@ -1,0 +1,170 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+243,3,Leer,1,normal,-,100
+243,3,Bite,1,dark,60,100
+243,4,Leer,1,normal,-,100
+243,4,Bite,1,dark,60,100
+243,5,Leer,1,normal,-,100
+243,5,Bite,1,dark,60,100
+243,6,Leer,1,normal,-,100
+243,6,Bite,1,dark,60,100
+243,7,Leer,1,normal,-,100
+243,7,Bite,1,dark,60,100
+243,8,Leer,1,normal,-,100
+243,8,Bite,1,dark,60,100
+243,9,Leer,1,normal,-,100
+243,9,Bite,1,dark,60,100
+243,10,Leer,1,normal,-,100
+243,10,Bite,1,dark,60,100
+243,11,Leer,1,normal,-,100
+243,11,Bite,1,dark,60,100
+243,12,Leer,1,normal,-,100
+243,12,Bite,1,dark,60,100
+243,13,Leer,1,normal,-,100
+243,13,Bite,1,dark,60,100
+243,14,Leer,1,normal,-,100
+243,14,Bite,1,dark,60,100
+243,15,Leer,1,normal,-,100
+243,15,Bite,1,dark,60,100
+243,15,Extrasensory,1,psychic,80,100
+243,15,Discharge,1,electric,80,100
+243,16,Leer,1,normal,-,100
+243,16,Bite,1,dark,60,100
+243,16,Extrasensory,1,psychic,80,100
+243,16,Discharge,1,electric,80,100
+243,8,Thunder Shock,8,electric,40,100
+243,9,Thunder Shock,8,electric,40,100
+243,10,Thunder Shock,8,electric,40,100
+243,11,Thunder Shock,8,electric,40,100
+243,14,Thunder Shock,8,electric,40,100
+243,15,Thunder Shock,8,electric,40,100
+243,16,Thunder Shock,8,electric,40,100
+243,3,Thunder Shock,11,electric,40,100
+243,4,Thunder Shock,11,electric,40,100
+243,5,Thunder Shock,11,electric,40,100
+243,6,Thunder Shock,11,electric,40,100
+243,7,Thunder Shock,11,electric,40,100
+243,12,Thunder Shock,11,electric,40,100
+243,13,Thunder Shock,11,electric,40,100
+243,8,Roar,15,normal,-,-
+243,9,Roar,15,normal,-,-
+243,10,Roar,15,normal,-,-
+243,11,Roar,15,normal,-,-
+243,14,Roar,15,normal,-,-
+243,15,Roar,15,normal,-,-
+243,16,Roar,15,normal,-,-
+243,3,Roar,21,normal,-,-
+243,4,Roar,21,normal,-,-
+243,5,Roar,21,normal,-,-
+243,6,Roar,21,normal,-,-
+243,7,Roar,21,normal,-,-
+243,12,Roar,21,normal,-,-
+243,13,Roar,21,normal,-,-
+243,8,Quick Attack,22,normal,40,100
+243,9,Quick Attack,22,normal,40,100
+243,10,Quick Attack,22,normal,40,100
+243,11,Quick Attack,22,normal,40,100
+243,14,Quick Attack,22,normal,40,100
+243,15,Quick Attack,22,normal,40,100
+243,16,Quick Attack,22,normal,40,100
+243,8,Spark,29,electric,65,100
+243,9,Spark,29,electric,65,100
+243,10,Spark,29,electric,65,100
+243,11,Spark,29,electric,65,100
+243,14,Spark,29,electric,65,100
+243,15,Spark,29,electric,65,100
+243,16,Spark,29,electric,65,100
+243,3,Quick Attack,31,normal,40,100
+243,4,Quick Attack,31,normal,40,100
+243,5,Quick Attack,31,normal,40,100
+243,6,Quick Attack,31,normal,40,100
+243,7,Quick Attack,31,normal,40,100
+243,12,Quick Attack,31,normal,40,100
+243,13,Quick Attack,31,normal,40,100
+243,8,Reflect,36,psychic,-,-
+243,9,Reflect,36,psychic,-,-
+243,10,Reflect,36,psychic,-,-
+243,11,Reflect,36,psychic,-,-
+243,14,Reflect,36,psychic,-,-
+243,15,Reflect,36,psychic,-,-
+243,16,Reflect,36,psychic,-,-
+243,3,Spark,41,electric,65,100
+243,4,Spark,41,electric,65,100
+243,5,Spark,41,electric,65,100
+243,6,Spark,41,electric,65,100
+243,7,Spark,41,electric,65,100
+243,12,Spark,41,electric,65,100
+243,13,Spark,41,electric,65,100
+243,8,Crunch,43,dark,80,100
+243,9,Crunch,43,dark,80,100
+243,10,Crunch,43,dark,80,100
+243,11,Crunch,43,dark,80,100
+243,14,Crunch,43,dark,80,100
+243,15,Crunch,43,dark,80,100
+243,16,Crunch,43,dark,80,100
+243,8,Thunder Fang,50,electric,65,95
+243,9,Thunder Fang,50,electric,65,95
+243,10,Thunder Fang,50,electric,65,95
+243,11,Thunder Fang,50,electric,65,95
+243,14,Thunder Fang,50,electric,65,95
+243,15,Thunder Fang,50,electric,65,95
+243,16,Thunder Fang,50,electric,65,95
+243,3,Reflect,51,psychic,-,-
+243,4,Reflect,51,psychic,-,-
+243,5,Reflect,51,psychic,-,-
+243,6,Reflect,51,psychic,-,-
+243,7,Reflect,51,psychic,-,-
+243,12,Reflect,51,psychic,-,-
+243,13,Reflect,51,psychic,-,-
+243,8,Discharge,57,electric,80,100
+243,9,Discharge,57,electric,80,100
+243,10,Discharge,57,electric,80,100
+243,11,Discharge,57,electric,80,100
+243,14,Discharge,57,electric,80,100
+243,15,Discharge,57,electric,80,100
+243,16,Discharge,57,electric,80,100
+243,3,Crunch,61,dark,80,100
+243,4,Crunch,61,dark,80,100
+243,5,Crunch,61,dark,80,100
+243,6,Crunch,61,dark,80,100
+243,7,Crunch,61,dark,80,100
+243,12,Crunch,61,dark,80,100
+243,13,Crunch,61,dark,80,100
+243,8,Extrasensory,64,psychic,80,100
+243,9,Extrasensory,64,psychic,80,100
+243,10,Extrasensory,64,psychic,80,100
+243,11,Extrasensory,64,psychic,80,100
+243,14,Extrasensory,64,psychic,80,100
+243,15,Extrasensory,64,psychic,80,100
+243,16,Extrasensory,64,psychic,80,100
+243,3,Thunder,71,electric,110,70
+243,4,Thunder,71,electric,110,70
+243,5,Thunder,71,electric,110,70
+243,6,Thunder,71,electric,110,70
+243,7,Thunder,71,electric,110,70
+243,8,Thunder,71,electric,110,70
+243,9,Rain Dance,71,water,-,-
+243,10,Rain Dance,71,water,-,-
+243,11,Rain Dance,71,water,-,-
+243,12,Thunder,71,electric,110,70
+243,13,Thunder,71,electric,110,70
+243,14,Rain Dance,71,water,-,-
+243,15,Rain Dance,71,water,-,-
+243,16,Rain Dance,71,water,-,-
+243,8,Calm Mind,78,psychic,-,-
+243,9,Calm Mind,78,psychic,-,-
+243,10,Calm Mind,78,psychic,-,-
+243,11,Calm Mind,78,psychic,-,-
+243,14,Calm Mind,78,psychic,-,-
+243,15,Calm Mind,78,psychic,-,-
+243,16,Calm Mind,78,psychic,-,-
+243,5,Calm Mind,81,psychic,-,-
+243,6,Calm Mind,81,psychic,-,-
+243,7,Calm Mind,81,psychic,-,-
+243,12,Calm Mind,81,psychic,-,-
+243,13,Calm Mind,81,psychic,-,-
+243,9,Thunder,85,electric,110,70
+243,10,Thunder,85,electric,110,70
+243,11,Thunder,85,electric,110,70
+243,14,Thunder,85,electric,110,70
+243,15,Thunder,85,electric,110,70
+243,16,Thunder,85,electric,110,70

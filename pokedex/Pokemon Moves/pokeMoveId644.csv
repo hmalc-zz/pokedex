@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+644,11,Dragon Rage,1,dragon,-,100
+644,11,Thunder Fang,1,electric,65,95
+644,14,Dragon Rage,1,dragon,-,100
+644,14,Thunder Fang,1,electric,65,95
+644,15,Dragon Rage,1,dragon,-,100
+644,15,Thunder Fang,1,electric,65,95
+644,16,Dragon Rage,1,dragon,-,100
+644,16,Thunder Fang,1,electric,65,95
+644,11,Imprison,8,psychic,-,-
+644,14,Imprison,8,psychic,-,-
+644,15,Imprison,8,psychic,-,-
+644,16,Imprison,8,psychic,-,-
+644,11,Ancient Power,15,rock,60,100
+644,14,Ancient Power,15,rock,60,100
+644,15,Ancient Power,15,rock,60,100
+644,16,Ancient Power,15,rock,60,100
+644,11,Thunderbolt,22,electric,90,100
+644,14,Thunderbolt,22,electric,90,100
+644,15,Thunderbolt,22,electric,90,100
+644,16,Thunderbolt,22,electric,90,100
+644,11,Dragon Breath,29,dragon,60,100
+644,14,Dragon Breath,29,dragon,60,100
+644,15,Dragon Breath,29,dragon,60,100
+644,16,Dragon Breath,29,dragon,60,100
+644,11,Slash,36,normal,70,100
+644,14,Slash,36,normal,70,100
+644,15,Slash,36,normal,70,100
+644,16,Slash,36,normal,70,100
+644,11,Zen Headbutt,43,psychic,80,90
+644,14,Zen Headbutt,43,psychic,80,90
+644,15,Zen Headbutt,43,psychic,80,90
+644,16,Zen Headbutt,43,psychic,80,90
+644,11,Fusion Bolt,50,electric,100,100
+644,14,Fusion Bolt,50,electric,100,100
+644,15,Fusion Bolt,50,electric,100,100
+644,16,Fusion Bolt,50,electric,100,100
+644,11,Dragon Claw,54,dragon,80,100
+644,14,Dragon Claw,54,dragon,80,100
+644,15,Dragon Claw,54,dragon,80,100
+644,16,Dragon Claw,54,dragon,80,100
+644,11,Imprison,64,psychic,-,-
+644,14,Imprison,64,psychic,-,-
+644,15,Imprison,64,psychic,-,-
+644,16,Imprison,64,psychic,-,-
+644,11,Crunch,71,dark,80,100
+644,14,Crunch,71,dark,80,100
+644,15,Crunch,71,dark,80,100
+644,16,Crunch,71,dark,80,100
+644,11,Thunder,78,electric,110,70
+644,14,Thunder,78,electric,110,70
+644,15,Thunder,78,electric,110,70
+644,16,Thunder,78,electric,110,70
+644,11,Outrage,85,dragon,120,100
+644,14,Outrage,85,dragon,120,100
+644,15,Outrage,85,dragon,120,100
+644,16,Outrage,85,dragon,120,100
+644,11,Hyper Voice,92,normal,90,100
+644,14,Hyper Voice,92,normal,90,100
+644,15,Hyper Voice,92,normal,90,100
+644,16,Hyper Voice,92,normal,90,100
+644,11,Bolt Strike,100,electric,130,85
+644,14,Bolt Strike,100,electric,130,85
+644,15,Bolt Strike,100,electric,130,85
+644,16,Bolt Strike,100,electric,130,85

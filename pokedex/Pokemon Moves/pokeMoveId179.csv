@@ -1,0 +1,141 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+179,3,Tackle,1,normal,50,100
+179,3,Growl,1,normal,-,100
+179,4,Tackle,1,normal,50,100
+179,4,Growl,1,normal,-,100
+179,5,Tackle,1,normal,50,100
+179,5,Growl,1,normal,-,100
+179,6,Tackle,1,normal,50,100
+179,6,Growl,1,normal,-,100
+179,7,Tackle,1,normal,50,100
+179,7,Growl,1,normal,-,100
+179,8,Tackle,1,normal,50,100
+179,9,Tackle,1,normal,50,100
+179,10,Tackle,1,normal,50,100
+179,11,Tackle,1,normal,50,100
+179,12,Tackle,1,normal,50,100
+179,12,Growl,1,normal,-,100
+179,13,Tackle,1,normal,50,100
+179,13,Growl,1,normal,-,100
+179,14,Tackle,1,normal,50,100
+179,14,Growl,1,normal,-,100
+179,15,Tackle,1,normal,50,100
+179,15,Growl,1,normal,-,100
+179,16,Tackle,1,normal,50,100
+179,16,Growl,1,normal,-,100
+179,14,Thunder Wave,4,electric,-,100
+179,15,Thunder Wave,4,electric,-,100
+179,16,Thunder Wave,4,electric,-,100
+179,8,Growl,5,normal,-,100
+179,9,Growl,5,normal,-,100
+179,10,Growl,5,normal,-,100
+179,11,Growl,5,normal,-,100
+179,14,Thunder Shock,8,electric,40,100
+179,15,Thunder Shock,8,electric,40,100
+179,16,Thunder Shock,8,electric,40,100
+179,3,Thunder Shock,9,electric,40,100
+179,4,Thunder Shock,9,electric,40,100
+179,5,Thunder Shock,9,electric,40,100
+179,6,Thunder Shock,9,electric,40,100
+179,7,Thunder Shock,9,electric,40,100
+179,12,Thunder Shock,9,electric,40,100
+179,13,Thunder Shock,9,electric,40,100
+179,8,Thunder Shock,10,electric,40,100
+179,9,Thunder Shock,10,electric,40,100
+179,10,Thunder Shock,10,electric,40,100
+179,11,Thunder Shock,10,electric,40,100
+179,14,Cotton Spore,11,grass,-,100
+179,15,Cotton Spore,11,grass,-,100
+179,16,Cotton Spore,11,grass,-,100
+179,8,Thunder Wave,14,electric,-,100
+179,9,Thunder Wave,14,electric,-,100
+179,10,Thunder Wave,14,electric,-,100
+179,11,Thunder Wave,14,electric,-,100
+179,14,Charge,15,electric,-,-
+179,15,Charge,15,electric,-,-
+179,16,Charge,15,electric,-,-
+179,3,Thunder Wave,16,electric,-,100
+179,4,Thunder Wave,16,electric,-,100
+179,5,Thunder Wave,16,electric,-,100
+179,6,Thunder Wave,16,electric,-,100
+179,7,Thunder Wave,16,electric,-,100
+179,12,Thunder Wave,16,electric,-,100
+179,13,Thunder Wave,16,electric,-,100
+179,14,Take Down,18,normal,90,85
+179,15,Take Down,18,normal,90,85
+179,16,Take Down,18,normal,90,85
+179,8,Cotton Spore,19,grass,-,100
+179,9,Cotton Spore,19,grass,-,100
+179,10,Cotton Spore,19,grass,-,100
+179,11,Cotton Spore,19,grass,-,100
+179,14,Electro Ball,22,electric,-,100
+179,15,Electro Ball,22,electric,-,100
+179,16,Electro Ball,22,electric,-,100
+179,3,Cotton Spore,23,grass,-,100
+179,4,Cotton Spore,23,grass,-,100
+179,5,Cotton Spore,23,grass,-,100
+179,6,Cotton Spore,23,grass,-,100
+179,7,Cotton Spore,23,grass,-,100
+179,8,Charge,23,electric,-,-
+179,9,Charge,23,electric,-,-
+179,10,Charge,23,electric,-,-
+179,11,Charge,23,electric,-,-
+179,12,Cotton Spore,23,grass,-,100
+179,13,Cotton Spore,23,grass,-,100
+179,14,Confuse Ray,25,ghost,-,100
+179,15,Confuse Ray,25,ghost,-,100
+179,16,Confuse Ray,25,ghost,-,100
+179,8,Discharge,28,electric,80,100
+179,9,Discharge,28,electric,80,100
+179,10,Discharge,28,electric,80,100
+179,11,Electro Ball,28,electric,-,100
+179,14,Power Gem,29,rock,80,100
+179,15,Power Gem,29,rock,80,100
+179,16,Power Gem,29,rock,80,100
+179,3,Light Screen,30,psychic,-,-
+179,4,Light Screen,30,psychic,-,-
+179,5,Light Screen,30,psychic,-,-
+179,6,Light Screen,30,psychic,-,-
+179,7,Light Screen,30,psychic,-,-
+179,12,Light Screen,30,psychic,-,-
+179,13,Light Screen,30,psychic,-,-
+179,8,Signal Beam,32,bug,75,100
+179,9,Signal Beam,32,bug,75,100
+179,10,Signal Beam,32,bug,75,100
+179,11,Cotton Guard,32,grass,-,-
+179,14,Discharge,32,electric,80,100
+179,15,Discharge,32,electric,80,100
+179,16,Discharge,32,electric,80,100
+179,14,Cotton Guard,36,grass,-,-
+179,15,Cotton Guard,36,grass,-,-
+179,16,Cotton Guard,36,grass,-,-
+179,3,Thunder,37,electric,110,70
+179,4,Thunder,37,electric,110,70
+179,5,Thunder,37,electric,110,70
+179,6,Thunder,37,electric,110,70
+179,7,Thunder,37,electric,110,70
+179,8,Light Screen,37,psychic,-,-
+179,9,Light Screen,37,psychic,-,-
+179,10,Light Screen,37,psychic,-,-
+179,11,Discharge,37,electric,80,100
+179,12,Thunder,37,electric,110,70
+179,13,Thunder,37,electric,110,70
+179,14,Signal Beam,39,bug,75,100
+179,15,Signal Beam,39,bug,75,100
+179,16,Signal Beam,39,bug,75,100
+179,8,Power Gem,41,rock,80,100
+179,9,Power Gem,41,rock,80,100
+179,10,Power Gem,41,rock,80,100
+179,11,Signal Beam,41,bug,75,100
+179,14,Light Screen,43,psychic,-,-
+179,15,Light Screen,43,psychic,-,-
+179,16,Light Screen,43,psychic,-,-
+179,8,Thunder,46,electric,110,70
+179,9,Thunder,46,electric,110,70
+179,10,Thunder,46,electric,110,70
+179,11,Light Screen,46,psychic,-,-
+179,14,Thunder,46,electric,110,70
+179,15,Thunder,46,electric,110,70
+179,16,Thunder,46,electric,110,70
+179,11,Power Gem,50,rock,80,100
+179,11,Thunder,55,electric,110,70

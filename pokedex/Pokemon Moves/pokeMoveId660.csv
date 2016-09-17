@@ -1,0 +1,41 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+660,15,Swords Dance,1,normal,-,-
+660,15,Tackle,1,normal,50,100
+660,15,Leer,1,normal,-,100
+660,15,Agility,1,psychic,-,-
+660,15,Hammer Arm,1,fighting,100,90
+660,15,Bulldoze,1,ground,60,100
+660,15,Rototiller,1,ground,-,-
+660,16,Swords Dance,1,normal,-,-
+660,16,Tackle,1,normal,50,100
+660,16,Leer,1,normal,-,100
+660,16,Agility,1,psychic,-,-
+660,16,Hammer Arm,1,fighting,100,90
+660,16,Bulldoze,1,ground,60,100
+660,16,Rototiller,1,ground,-,-
+660,15,Quick Attack,7,normal,40,100
+660,16,Quick Attack,7,normal,40,100
+660,15,Mud-Slap,13,ground,20,100
+660,16,Mud-Slap,13,ground,20,100
+660,15,Take Down,15,normal,90,85
+660,16,Take Down,15,normal,90,85
+660,15,Mud Shot,18,ground,55,95
+660,16,Mud Shot,18,ground,55,95
+660,15,Double Kick,20,fighting,30,100
+660,16,Double Kick,20,fighting,30,100
+660,15,Odor Sleuth,26,normal,-,-
+660,16,Odor Sleuth,26,normal,-,-
+660,15,Flail,31,normal,-,100
+660,16,Flail,31,normal,-,100
+660,15,Dig,37,ground,80,100
+660,16,Dig,37,ground,80,100
+660,15,Bounce,42,flying,85,85
+660,16,Bounce,42,flying,85,85
+660,15,Super Fang,48,normal,-,90
+660,16,Super Fang,48,normal,-,90
+660,15,Facade,53,normal,70,100
+660,16,Facade,53,normal,70,100
+660,15,Earthquake,57,ground,100,100
+660,16,Earthquake,57,ground,100,100
+660,15,Hammer Arm,60,fighting,100,90
+660,16,Hammer Arm,60,fighting,100,90

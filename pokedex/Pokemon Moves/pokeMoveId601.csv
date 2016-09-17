@@ -1,0 +1,79 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+601,11,Vice Grip,1,normal,55,100
+601,11,Thunder Shock,1,electric,40,100
+601,11,Charge,1,electric,-,-
+601,11,Gear Grind,1,steel,50,85
+601,14,Vice Grip,1,normal,55,100
+601,14,Thunder Shock,1,electric,40,100
+601,14,Charge,1,electric,-,-
+601,14,Gear Grind,1,steel,50,85
+601,15,Vice Grip,1,normal,55,100
+601,15,Thunder Shock,1,electric,40,100
+601,15,Zap Cannon,1,electric,120,50
+601,15,Charge,1,electric,-,-
+601,15,Gear Grind,1,steel,50,85
+601,15,Magnetic Flux,1,electric,-,-
+601,16,Vice Grip,1,normal,55,100
+601,16,Thunder Shock,1,electric,40,100
+601,16,Zap Cannon,1,electric,120,50
+601,16,Charge,1,electric,-,-
+601,16,Gear Grind,1,steel,50,85
+601,16,Magnetic Flux,1,electric,-,-
+601,11,Charge,6,electric,-,-
+601,14,Charge,6,electric,-,-
+601,15,Charge,6,electric,-,-
+601,16,Charge,6,electric,-,-
+601,11,Thunder Shock,11,electric,40,100
+601,14,Thunder Shock,11,electric,40,100
+601,15,Thunder Shock,11,electric,40,100
+601,16,Thunder Shock,11,electric,40,100
+601,11,Gear Grind,16,steel,50,85
+601,14,Gear Grind,16,steel,50,85
+601,15,Gear Grind,16,steel,50,85
+601,16,Gear Grind,16,steel,50,85
+601,11,Bind,21,normal,15,85
+601,14,Bind,21,normal,15,85
+601,15,Bind,21,normal,15,85
+601,16,Bind,21,normal,15,85
+601,11,Charge Beam,25,electric,50,90
+601,14,Charge Beam,25,electric,50,90
+601,15,Charge Beam,25,electric,50,90
+601,16,Charge Beam,25,electric,50,90
+601,11,Autotomize,31,steel,-,-
+601,14,Autotomize,31,steel,-,-
+601,15,Autotomize,31,steel,-,-
+601,16,Autotomize,31,steel,-,-
+601,11,Mirror Shot,36,steel,65,85
+601,14,Mirror Shot,36,steel,65,85
+601,15,Mirror Shot,36,steel,65,85
+601,16,Mirror Shot,36,steel,65,85
+601,11,Screech,40,normal,-,85
+601,14,Screech,40,normal,-,85
+601,15,Screech,40,normal,-,85
+601,16,Screech,40,normal,-,85
+601,11,Discharge,44,electric,80,100
+601,14,Discharge,44,electric,80,100
+601,15,Discharge,44,electric,80,100
+601,16,Discharge,44,electric,80,100
+601,11,Metal Sound,48,steel,-,85
+601,14,Metal Sound,48,steel,-,85
+601,15,Metal Sound,48,steel,-,85
+601,16,Metal Sound,48,steel,-,85
+601,11,Shift Gear,54,steel,-,-
+601,14,Shift Gear,54,steel,-,-
+601,15,Shift Gear,54,steel,-,-
+601,16,Shift Gear,54,steel,-,-
+601,11,Lock-On,60,normal,-,-
+601,14,Lock-On,60,normal,-,-
+601,15,Lock-On,60,normal,-,-
+601,16,Lock-On,60,normal,-,-
+601,11,Zap Cannon,66,electric,120,50
+601,14,Zap Cannon,66,electric,120,50
+601,15,Zap Cannon,66,electric,120,50
+601,16,Zap Cannon,66,electric,120,50
+601,11,Hyper Beam,72,normal,150,90
+601,14,Hyper Beam,72,normal,150,90
+601,15,Hyper Beam,72,normal,150,90
+601,16,Hyper Beam,72,normal,150,90
+601,15,Magnetic Flux,76,electric,-,-
+601,16,Magnetic Flux,76,electric,-,-

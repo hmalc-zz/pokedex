@@ -1,0 +1,167 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+343,5,Confusion,1,psychic,50,100
+343,6,Confusion,1,psychic,50,100
+343,7,Confusion,1,psychic,50,100
+343,8,Confusion,1,psychic,50,100
+343,9,Confusion,1,psychic,50,100
+343,10,Confusion,1,psychic,50,100
+343,11,Confusion,1,psychic,50,100
+343,12,Confusion,1,psychic,50,100
+343,13,Confusion,1,psychic,50,100
+343,14,Confusion,1,psychic,50,100
+343,14,Harden,1,normal,-,-
+343,15,Confusion,1,psychic,50,100
+343,15,Harden,1,normal,-,-
+343,16,Confusion,1,psychic,50,100
+343,16,Harden,1,normal,-,-
+343,5,Harden,3,normal,-,-
+343,6,Harden,3,normal,-,-
+343,7,Harden,3,normal,-,-
+343,8,Harden,3,normal,-,-
+343,9,Harden,3,normal,-,-
+343,10,Harden,3,normal,-,-
+343,12,Harden,3,normal,-,-
+343,13,Harden,3,normal,-,-
+343,11,Harden,4,normal,-,-
+343,14,Rapid Spin,4,normal,20,100
+343,15,Rapid Spin,4,normal,20,100
+343,16,Rapid Spin,4,normal,20,100
+343,5,Rapid Spin,5,normal,20,100
+343,6,Rapid Spin,5,normal,20,100
+343,7,Rapid Spin,5,normal,20,100
+343,8,Rapid Spin,5,normal,20,100
+343,9,Rapid Spin,5,normal,20,100
+343,10,Rapid Spin,5,normal,20,100
+343,12,Rapid Spin,5,normal,20,100
+343,13,Rapid Spin,5,normal,20,100
+343,5,Mud-Slap,7,ground,20,100
+343,6,Mud-Slap,7,ground,20,100
+343,7,Mud-Slap,7,ground,20,100
+343,8,Mud-Slap,7,ground,20,100
+343,9,Mud-Slap,7,ground,20,100
+343,10,Mud-Slap,7,ground,20,100
+343,11,Rapid Spin,7,normal,20,100
+343,12,Mud-Slap,7,ground,20,100
+343,13,Mud-Slap,7,ground,20,100
+343,14,Mud-Slap,7,ground,20,100
+343,15,Mud-Slap,7,ground,20,100
+343,16,Mud-Slap,7,ground,20,100
+343,14,Rock Tomb,10,rock,60,95
+343,15,Rock Tomb,10,rock,60,95
+343,16,Heal Block,10,psychic,-,100
+343,5,Psybeam,11,psychic,65,100
+343,6,Psybeam,11,psychic,65,100
+343,7,Psybeam,11,psychic,65,100
+343,8,Psybeam,11,psychic,65,100
+343,9,Psybeam,11,psychic,65,100
+343,10,Psybeam,11,psychic,65,100
+343,11,Mud-Slap,11,ground,20,100
+343,12,Psybeam,11,psychic,65,100
+343,13,Psybeam,11,psychic,65,100
+343,14,Psybeam,13,psychic,65,100
+343,15,Psybeam,13,psychic,65,100
+343,16,Rock Tomb,13,rock,60,95
+343,5,Rock Tomb,15,rock,60,95
+343,6,Rock Tomb,15,rock,60,95
+343,7,Rock Tomb,15,rock,60,95
+343,8,Rock Tomb,15,rock,60,95
+343,9,Rock Tomb,15,rock,60,95
+343,10,Rock Tomb,15,rock,60,95
+343,11,Psybeam,15,psychic,65,100
+343,12,Rock Tomb,15,rock,60,95
+343,13,Rock Tomb,15,rock,60,95
+343,16,Psybeam,16,psychic,65,100
+343,14,Power Trick,17,psychic,-,-
+343,15,Power Trick,17,psychic,-,-
+343,11,Rock Tomb,18,rock,60,95
+343,5,Self-Destruct,19,normal,200,100
+343,6,Self-Destruct,19,normal,200,100
+343,7,Self-Destruct,19,normal,200,100
+343,8,Self-Destruct,19,normal,200,100
+343,9,Self-Destruct,19,normal,200,100
+343,10,Self-Destruct,19,normal,200,100
+343,12,Self-Destruct,19,normal,200,100
+343,13,Self-Destruct,19,normal,200,100
+343,16,Ancient Power,19,rock,60,100
+343,11,Self-Destruct,21,normal,200,100
+343,14,Ancient Power,21,rock,60,100
+343,15,Ancient Power,21,rock,60,100
+343,16,Cosmic Power,22,psychic,-,-
+343,5,Ancient Power,25,rock,60,100
+343,6,Ancient Power,25,rock,60,100
+343,7,Ancient Power,25,rock,60,100
+343,8,Ancient Power,25,rock,60,100
+343,9,Ancient Power,25,rock,60,100
+343,10,Ancient Power,25,rock,60,100
+343,12,Ancient Power,25,rock,60,100
+343,13,Ancient Power,25,rock,60,100
+343,14,Self-Destruct,25,normal,200,100
+343,15,Self-Destruct,25,normal,200,100
+343,16,Power Trick,25,psychic,-,-
+343,11,Ancient Power,26,rock,60,100
+343,14,Extrasensory,28,psychic,80,100
+343,15,Extrasensory,28,psychic,80,100
+343,16,Self-Destruct,28,normal,200,100
+343,5,Sandstorm,31,rock,-,-
+343,6,Sandstorm,31,rock,-,-
+343,7,Sandstorm,31,rock,-,-
+343,8,Power Trick,31,psychic,-,-
+343,9,Power Trick,31,psychic,-,-
+343,10,Power Trick,31,psychic,-,-
+343,11,Power Trick,31,psychic,-,-
+343,12,Sandstorm,31,rock,-,-
+343,13,Sandstorm,31,rock,-,-
+343,14,Cosmic Power,31,psychic,-,-
+343,15,Cosmic Power,31,psychic,-,-
+343,16,Extrasensory,31,psychic,80,100
+343,11,Sandstorm,34,rock,-,-
+343,14,Guard Split,34,psychic,-,-
+343,14,Power Split,34,psychic,-,-
+343,15,Guard Split,34,psychic,-,-
+343,15,Power Split,34,psychic,-,-
+343,16,Guard Split,34,psychic,-,-
+343,16,Power Split,34,psychic,-,-
+343,5,Cosmic Power,37,psychic,-,-
+343,6,Cosmic Power,37,psychic,-,-
+343,7,Cosmic Power,37,psychic,-,-
+343,8,Sandstorm,37,rock,-,-
+343,9,Sandstorm,37,rock,-,-
+343,10,Sandstorm,37,rock,-,-
+343,11,Cosmic Power,37,psychic,-,-
+343,12,Cosmic Power,37,psychic,-,-
+343,13,Cosmic Power,37,psychic,-,-
+343,14,Earth Power,37,ground,90,100
+343,15,Earth Power,37,ground,90,100
+343,16,Earth Power,37,ground,90,100
+343,16,Sandstorm,40,rock,-,-
+343,14,Sandstorm,41,rock,-,-
+343,15,Sandstorm,41,rock,-,-
+343,11,Extrasensory,43,psychic,80,100
+343,16,Imprison,43,psychic,-,-
+343,5,Explosion,45,normal,250,100
+343,6,Explosion,45,normal,250,100
+343,7,Explosion,45,normal,250,100
+343,8,Cosmic Power,45,psychic,-,-
+343,9,Cosmic Power,45,psychic,-,-
+343,10,Cosmic Power,45,psychic,-,-
+343,12,Explosion,45,normal,250,100
+343,13,Explosion,45,normal,250,100
+343,14,Heal Block,45,psychic,-,100
+343,15,Heal Block,45,psychic,-,100
+343,16,Explosion,46,normal,250,100
+343,11,Guard Split,48,psychic,-,-
+343,11,Power Split,48,psychic,-,-
+343,14,Explosion,49,normal,250,100
+343,15,Explosion,49,normal,250,100
+343,11,Earth Power,51,ground,90,100
+343,8,Earth Power,53,ground,90,100
+343,9,Earth Power,53,ground,90,100
+343,10,Earth Power,53,ground,90,100
+343,11,Heal Block,54,psychic,-,100
+343,11,Explosion,60,normal,250,100
+343,8,Heal Block,61,psychic,-,100
+343,9,Heal Block,61,psychic,-,100
+343,10,Heal Block,61,psychic,-,100
+343,8,Explosion,71,normal,250,100
+343,9,Explosion,71,normal,250,100
+343,10,Explosion,71,normal,250,100

@@ -1,0 +1,82 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+444,8,Sand Attack,1,ground,-,100
+444,8,Tackle,1,normal,50,100
+444,9,Sand Attack,1,ground,-,100
+444,9,Tackle,1,normal,50,100
+444,10,Sand Attack,1,ground,-,100
+444,10,Tackle,1,normal,50,100
+444,11,Sand Attack,1,ground,-,100
+444,11,Tackle,1,normal,50,100
+444,14,Sand Attack,1,ground,-,100
+444,14,Tackle,1,normal,50,100
+444,15,Sand Attack,1,ground,-,100
+444,15,Tackle,1,normal,50,100
+444,16,Sand Attack,1,ground,-,100
+444,16,Tackle,1,normal,50,100
+444,8,Sand Attack,3,ground,-,100
+444,9,Sand Attack,3,ground,-,100
+444,10,Sand Attack,3,ground,-,100
+444,11,Sand Attack,3,ground,-,100
+444,14,Sand Attack,3,ground,-,100
+444,15,Sand Attack,3,ground,-,100
+444,16,Sand Attack,3,ground,-,100
+444,8,Dragon Rage,7,dragon,-,100
+444,9,Dragon Rage,7,dragon,-,100
+444,10,Dragon Rage,7,dragon,-,100
+444,11,Dragon Rage,7,dragon,-,100
+444,14,Dragon Rage,7,dragon,-,100
+444,15,Dragon Rage,7,dragon,-,100
+444,16,Dragon Rage,7,dragon,-,100
+444,8,Sandstorm,13,rock,-,-
+444,9,Sandstorm,13,rock,-,-
+444,10,Sandstorm,13,rock,-,-
+444,11,Sandstorm,13,rock,-,-
+444,14,Sandstorm,13,rock,-,-
+444,15,Sandstorm,13,rock,-,-
+444,16,Sandstorm,13,rock,-,-
+444,8,Take Down,15,normal,90,85
+444,9,Take Down,15,normal,90,85
+444,10,Take Down,15,normal,90,85
+444,11,Take Down,15,normal,90,85
+444,14,Take Down,15,normal,90,85
+444,15,Take Down,15,normal,90,85
+444,16,Take Down,15,normal,90,85
+444,8,Sand Tomb,19,ground,35,85
+444,9,Sand Tomb,19,ground,35,85
+444,10,Sand Tomb,19,ground,35,85
+444,11,Sand Tomb,19,ground,35,85
+444,14,Sand Tomb,19,ground,35,85
+444,15,Sand Tomb,19,ground,35,85
+444,16,Sand Tomb,19,ground,35,85
+444,11,Dual Chop,24,dragon,40,90
+444,14,Dual Chop,24,dragon,40,90
+444,15,Dual Chop,24,dragon,40,90
+444,16,Dual Chop,24,dragon,40,90
+444,8,Slash,28,normal,70,100
+444,9,Slash,28,normal,70,100
+444,10,Slash,28,normal,70,100
+444,11,Slash,28,normal,70,100
+444,14,Slash,28,normal,70,100
+444,15,Slash,28,normal,70,100
+444,16,Slash,28,normal,70,100
+444,8,Dragon Claw,33,dragon,80,100
+444,9,Dragon Claw,33,dragon,80,100
+444,10,Dragon Claw,33,dragon,80,100
+444,11,Dragon Claw,33,dragon,80,100
+444,14,Dragon Claw,33,dragon,80,100
+444,15,Dragon Claw,33,dragon,80,100
+444,16,Dragon Claw,33,dragon,80,100
+444,8,Dig,40,ground,80,100
+444,9,Dig,40,ground,80,100
+444,10,Dig,40,ground,80,100
+444,11,Dig,40,ground,80,100
+444,14,Dig,40,ground,80,100
+444,15,Dig,40,ground,80,100
+444,16,Dig,40,ground,80,100
+444,8,Dragon Rush,49,dragon,100,75
+444,9,Dragon Rush,49,dragon,100,75
+444,10,Dragon Rush,49,dragon,100,75
+444,11,Dragon Rush,49,dragon,100,75
+444,14,Dragon Rush,49,dragon,100,75
+444,15,Dragon Rush,49,dragon,100,75
+444,16,Dragon Rush,49,dragon,100,75

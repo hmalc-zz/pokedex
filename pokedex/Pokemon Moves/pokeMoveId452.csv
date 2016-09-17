@@ -1,0 +1,129 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+452,8,Poison Sting,1,poison,15,100
+452,8,Pin Missile,1,bug,25,95
+452,8,Leer,1,normal,-,100
+452,8,Bite,1,dark,60,100
+452,8,Thunder Fang,1,electric,65,95
+452,8,Ice Fang,1,ice,65,95
+452,8,Fire Fang,1,fire,65,95
+452,9,Poison Sting,1,poison,15,100
+452,9,Leer,1,normal,-,100
+452,9,Bite,1,dark,60,100
+452,9,Knock Off,1,dark,65,100
+452,9,Thunder Fang,1,electric,65,95
+452,9,Ice Fang,1,ice,65,95
+452,9,Fire Fang,1,fire,65,95
+452,10,Poison Sting,1,poison,15,100
+452,10,Leer,1,normal,-,100
+452,10,Bite,1,dark,60,100
+452,10,Knock Off,1,dark,65,100
+452,10,Thunder Fang,1,electric,65,95
+452,10,Ice Fang,1,ice,65,95
+452,10,Fire Fang,1,fire,65,95
+452,11,Poison Sting,1,poison,15,100
+452,11,Leer,1,normal,-,100
+452,11,Bite,1,dark,60,100
+452,11,Knock Off,1,dark,65,100
+452,11,Thunder Fang,1,electric,65,95
+452,11,Ice Fang,1,ice,65,95
+452,11,Fire Fang,1,fire,65,95
+452,14,Poison Sting,1,poison,15,100
+452,14,Leer,1,normal,-,100
+452,14,Bite,1,dark,60,100
+452,14,Knock Off,1,dark,65,100
+452,14,Thunder Fang,1,electric,65,95
+452,14,Ice Fang,1,ice,65,95
+452,14,Fire Fang,1,fire,65,95
+452,15,Poison Sting,1,poison,15,100
+452,15,Leer,1,normal,-,100
+452,15,Bite,1,dark,60,100
+452,15,Knock Off,1,dark,65,100
+452,15,Thunder Fang,1,electric,65,95
+452,15,Ice Fang,1,ice,65,95
+452,15,Fire Fang,1,fire,65,95
+452,16,Poison Sting,1,poison,15,100
+452,16,Leer,1,normal,-,100
+452,16,Bite,1,dark,60,100
+452,16,Knock Off,1,dark,65,100
+452,16,Thunder Fang,1,electric,65,95
+452,16,Ice Fang,1,ice,65,95
+452,16,Fire Fang,1,fire,65,95
+452,14,Knock Off,5,dark,65,100
+452,15,Knock Off,5,dark,65,100
+452,16,Knock Off,5,dark,65,100
+452,8,Leer,6,normal,-,100
+452,9,Knock Off,6,dark,65,100
+452,10,Knock Off,6,dark,65,100
+452,11,Knock Off,6,dark,65,100
+452,14,Pin Missile,9,bug,25,95
+452,15,Pin Missile,9,bug,25,95
+452,16,Pin Missile,9,bug,25,95
+452,8,Pin Missile,12,bug,25,95
+452,9,Pin Missile,12,bug,25,95
+452,10,Pin Missile,12,bug,25,95
+452,11,Pin Missile,12,bug,25,95
+452,14,Acupressure,13,normal,-,-
+452,15,Acupressure,13,normal,-,-
+452,16,Acupressure,13,normal,-,-
+452,14,Pursuit,16,dark,40,100
+452,15,Pursuit,16,dark,40,100
+452,16,Pursuit,16,dark,40,100
+452,8,Acupressure,17,normal,-,-
+452,9,Acupressure,17,normal,-,-
+452,10,Acupressure,17,normal,-,-
+452,11,Acupressure,17,normal,-,-
+452,14,Bug Bite,20,bug,60,100
+452,15,Bug Bite,20,bug,60,100
+452,16,Bug Bite,20,bug,60,100
+452,8,Knock Off,23,dark,65,100
+452,9,Scary Face,23,normal,-,100
+452,10,Scary Face,23,normal,-,100
+452,11,Scary Face,23,normal,-,100
+452,14,Poison Fang,23,poison,50,100
+452,15,Poison Fang,23,poison,50,100
+452,16,Poison Fang,23,poison,50,100
+452,14,Venoshock,27,poison,65,100
+452,15,Venoshock,27,poison,65,100
+452,16,Venoshock,27,poison,65,100
+452,8,Scary Face,28,normal,-,100
+452,9,Toxic Spikes,28,poison,-,-
+452,10,Toxic Spikes,28,poison,-,-
+452,11,Toxic Spikes,28,poison,-,-
+452,14,Hone Claws,30,dark,-,-
+452,15,Hone Claws,30,dark,-,-
+452,16,Hone Claws,30,dark,-,-
+452,8,Toxic Spikes,34,poison,-,-
+452,9,Bug Bite,34,bug,60,100
+452,10,Bug Bite,34,bug,60,100
+452,11,Bug Bite,34,bug,60,100
+452,14,Toxic Spikes,34,poison,-,-
+452,15,Toxic Spikes,34,poison,-,-
+452,16,Toxic Spikes,34,poison,-,-
+452,14,Night Slash,38,dark,70,100
+452,15,Night Slash,38,dark,70,100
+452,16,Night Slash,38,dark,70,100
+452,8,Poison Fang,39,poison,50,100
+452,9,Poison Fang,39,poison,50,100
+452,10,Poison Fang,39,poison,50,100
+452,11,Poison Fang,39,poison,50,100
+452,14,Scary Face,43,normal,-,100
+452,15,Scary Face,43,normal,-,100
+452,16,Scary Face,43,normal,-,100
+452,11,Hone Claws,48,dark,-,-
+452,8,Crunch,49,dark,80,100
+452,9,Crunch,49,dark,80,100
+452,10,Crunch,49,dark,80,100
+452,14,Crunch,49,dark,80,100
+452,15,Crunch,49,dark,80,100
+452,16,Crunch,49,dark,80,100
+452,15,Fell Stinger,53,bug,30,100
+452,16,Fell Stinger,53,bug,30,100
+452,11,Venoshock,56,poison,65,100
+452,14,Cross Poison,57,poison,70,100
+452,15,Cross Poison,57,poison,70,100
+452,16,Cross Poison,57,poison,70,100
+452,8,Cross Poison,58,poison,70,100
+452,9,Cross Poison,58,poison,70,100
+452,10,Cross Poison,58,poison,70,100
+452,11,Crunch,65,dark,80,100
+452,11,Cross Poison,73,poison,70,100

@@ -1,0 +1,131 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+448,8,Quick Attack,1,normal,40,100
+448,8,Foresight,1,normal,-,-
+448,8,Detect,1,fighting,-,-
+448,8,Metal Claw,1,steel,50,95
+448,8,Dark Pulse,1,dark,80,100
+448,9,Quick Attack,1,normal,40,100
+448,9,Foresight,1,normal,-,-
+448,9,Detect,1,fighting,-,-
+448,9,Metal Claw,1,steel,50,95
+448,9,Dark Pulse,1,dark,80,100
+448,10,Quick Attack,1,normal,40,100
+448,10,Foresight,1,normal,-,-
+448,10,Detect,1,fighting,-,-
+448,10,Metal Claw,1,steel,50,95
+448,10,Dark Pulse,1,dark,80,100
+448,11,Quick Attack,1,normal,40,100
+448,11,Foresight,1,normal,-,-
+448,11,Detect,1,fighting,-,-
+448,11,Metal Claw,1,steel,50,95
+448,11,Dark Pulse,1,dark,80,100
+448,14,Quick Attack,1,normal,40,100
+448,14,Foresight,1,normal,-,-
+448,14,Detect,1,fighting,-,-
+448,14,Metal Claw,1,steel,50,95
+448,14,Dark Pulse,1,dark,80,100
+448,15,Quick Attack,1,normal,40,100
+448,15,Foresight,1,normal,-,-
+448,15,Detect,1,fighting,-,-
+448,15,Metal Claw,1,steel,50,95
+448,15,Extreme Speed,1,normal,80,100
+448,15,Close Combat,1,fighting,120,100
+448,15,Aura Sphere,1,fighting,80,-
+448,15,Dragon Pulse,1,dragon,85,100
+448,16,Quick Attack,1,normal,40,100
+448,16,Foresight,1,normal,-,-
+448,16,Detect,1,fighting,-,-
+448,16,Metal Claw,1,steel,50,95
+448,16,Extreme Speed,1,normal,80,100
+448,16,Close Combat,1,fighting,120,100
+448,16,Aura Sphere,1,fighting,80,-
+448,16,Dragon Pulse,1,dragon,85,100
+448,8,Counter,6,fighting,-,100
+448,9,Counter,6,fighting,-,100
+448,10,Counter,6,fighting,-,100
+448,11,Counter,6,fighting,-,100
+448,14,Counter,6,fighting,-,100
+448,15,Counter,6,fighting,-,100
+448,16,Counter,6,fighting,-,100
+448,8,Force Palm,11,fighting,60,100
+448,9,Force Palm,11,fighting,60,100
+448,10,Force Palm,11,fighting,60,100
+448,11,Force Palm,11,fighting,60,100
+448,14,Feint,11,normal,30,100
+448,15,Feint,11,normal,30,100
+448,16,Feint,11,normal,30,100
+448,8,Feint,15,normal,30,100
+448,9,Feint,15,normal,30,100
+448,10,Feint,15,normal,30,100
+448,11,Feint,15,normal,30,100
+448,14,Force Palm,15,fighting,60,100
+448,15,Power-Up Punch,15,fighting,40,100
+448,16,Power-Up Punch,15,fighting,40,100
+448,8,Bone Rush,19,ground,25,90
+448,9,Bone Rush,19,ground,25,90
+448,10,Bone Rush,19,ground,25,90
+448,11,Bone Rush,19,ground,25,90
+448,14,Me First,19,normal,-,-
+448,15,Swords Dance,19,normal,-,-
+448,16,Swords Dance,19,normal,-,-
+448,8,Metal Sound,24,steel,-,85
+448,9,Metal Sound,24,steel,-,85
+448,10,Metal Sound,24,steel,-,85
+448,11,Metal Sound,24,steel,-,85
+448,14,Metal Sound,24,steel,-,85
+448,15,Metal Sound,24,steel,-,85
+448,16,Metal Sound,24,steel,-,85
+448,8,Me First,29,normal,-,-
+448,9,Me First,29,normal,-,-
+448,10,Me First,29,normal,-,-
+448,11,Me First,29,normal,-,-
+448,14,Bone Rush,29,ground,25,90
+448,15,Bone Rush,29,ground,25,90
+448,16,Bone Rush,29,ground,25,90
+448,8,Swords Dance,33,normal,-,-
+448,9,Swords Dance,33,normal,-,-
+448,10,Swords Dance,33,normal,-,-
+448,11,Quick Guard,33,fighting,-,-
+448,14,Quick Guard,33,fighting,-,-
+448,15,Quick Guard,33,fighting,-,-
+448,16,Quick Guard,33,fighting,-,-
+448,8,Aura Sphere,37,fighting,80,-
+448,9,Aura Sphere,37,fighting,80,-
+448,10,Aura Sphere,37,fighting,80,-
+448,11,Swords Dance,37,normal,-,-
+448,14,Swords Dance,37,normal,-,-
+448,15,Me First,37,normal,-,-
+448,16,Me First,37,normal,-,-
+448,8,Close Combat,42,fighting,120,100
+448,9,Close Combat,42,fighting,120,100
+448,10,Close Combat,42,fighting,120,100
+448,11,Heal Pulse,42,psychic,-,-
+448,14,Heal Pulse,42,psychic,-,-
+448,15,Aura Sphere,42,fighting,80,-
+448,16,Aura Sphere,42,fighting,80,-
+448,8,Dragon Pulse,47,dragon,85,100
+448,9,Dragon Pulse,47,dragon,85,100
+448,10,Dragon Pulse,47,dragon,85,100
+448,11,Calm Mind,47,psychic,-,-
+448,14,Calm Mind,47,psychic,-,-
+448,15,Calm Mind,47,psychic,-,-
+448,16,Calm Mind,47,psychic,-,-
+448,8,Extreme Speed,51,normal,80,100
+448,9,Extreme Speed,51,normal,80,100
+448,10,Extreme Speed,51,normal,80,100
+448,11,Aura Sphere,51,fighting,80,-
+448,14,Aura Sphere,51,fighting,80,-
+448,15,Heal Pulse,51,psychic,-,-
+448,16,Heal Pulse,51,psychic,-,-
+448,11,Close Combat,55,fighting,120,100
+448,14,Close Combat,55,fighting,120,100
+448,15,Close Combat,55,fighting,120,100
+448,16,Close Combat,55,fighting,120,100
+448,11,Dragon Pulse,60,dragon,85,100
+448,14,Dragon Pulse,60,dragon,85,100
+448,15,Dragon Pulse,60,dragon,85,100
+448,16,Dragon Pulse,60,dragon,85,100
+448,11,Extreme Speed,65,normal,80,100
+448,14,Extreme Speed,65,normal,80,100
+448,15,Extreme Speed,65,normal,80,100
+448,16,Extreme Speed,65,normal,80,100

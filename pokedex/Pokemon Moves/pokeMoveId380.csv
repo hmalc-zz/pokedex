@@ -1,0 +1,181 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+380,5,Psywave,1,psychic,-,100
+380,6,Psywave,1,psychic,-,100
+380,7,Psywave,1,psychic,-,100
+380,8,Psywave,1,psychic,-,100
+380,9,Psywave,1,psychic,-,100
+380,10,Psywave,1,psychic,-,100
+380,11,Psywave,1,psychic,-,100
+380,12,Psywave,1,psychic,-,100
+380,13,Psywave,1,psychic,-,100
+380,14,Psywave,1,psychic,-,100
+380,15,Psywave,1,psychic,-,100
+380,15,Charm,1,fairy,-,100
+380,15,Healing Wish,1,psychic,-,-
+380,15,Dragon Pulse,1,dragon,85,100
+380,15,Guard Split,1,psychic,-,-
+380,15,Heal Pulse,1,psychic,-,-
+380,15,Reflect Type,1,normal,-,-
+380,16,Psywave,1,psychic,-,100
+380,16,Safeguard,1,normal,-,-
+380,16,Helping Hand,1,normal,-,-
+380,16,Wish,1,normal,-,-
+380,16,Healing Wish,1,psychic,-,-
+380,16,Water Sport,4,water,-,-
+380,5,Wish,5,normal,-,-
+380,6,Wish,5,normal,-,-
+380,7,Wish,5,normal,-,-
+380,8,Wish,5,normal,-,-
+380,9,Wish,5,normal,-,-
+380,10,Wish,5,normal,-,-
+380,11,Wish,5,normal,-,-
+380,12,Wish,5,normal,-,-
+380,13,Wish,5,normal,-,-
+380,14,Wish,5,normal,-,-
+380,15,Wish,5,normal,-,-
+380,16,Charm,7,fairy,-,100
+380,5,Helping Hand,10,normal,-,-
+380,6,Helping Hand,10,normal,-,-
+380,7,Helping Hand,10,normal,-,-
+380,8,Helping Hand,10,normal,-,-
+380,9,Helping Hand,10,normal,-,-
+380,10,Helping Hand,10,normal,-,-
+380,11,Helping Hand,10,normal,-,-
+380,12,Helping Hand,10,normal,-,-
+380,13,Helping Hand,10,normal,-,-
+380,14,Helping Hand,10,normal,-,-
+380,15,Helping Hand,10,normal,-,-
+380,16,Stored Power,10,psychic,20,100
+380,16,Refresh,13,normal,-,-
+380,5,Safeguard,15,normal,-,-
+380,6,Safeguard,15,normal,-,-
+380,7,Safeguard,15,normal,-,-
+380,8,Safeguard,15,normal,-,-
+380,9,Safeguard,15,normal,-,-
+380,10,Safeguard,15,normal,-,-
+380,11,Safeguard,15,normal,-,-
+380,12,Safeguard,15,normal,-,-
+380,13,Safeguard,15,normal,-,-
+380,14,Safeguard,15,normal,-,-
+380,15,Safeguard,15,normal,-,-
+380,16,Heal Pulse,16,psychic,-,-
+380,5,Dragon Breath,20,dragon,60,100
+380,6,Dragon Breath,20,dragon,60,100
+380,7,Dragon Breath,20,dragon,60,100
+380,8,Dragon Breath,20,dragon,60,100
+380,9,Dragon Breath,20,dragon,60,100
+380,10,Dragon Breath,20,dragon,60,100
+380,11,Dragon Breath,20,dragon,60,100
+380,12,Dragon Breath,20,dragon,60,100
+380,13,Dragon Breath,20,dragon,60,100
+380,14,Dragon Breath,20,dragon,60,100
+380,15,Dragon Breath,20,dragon,60,100
+380,16,Dragon Breath,20,dragon,60,100
+380,16,Mist Ball,24,psychic,70,100
+380,5,Water Sport,25,water,-,-
+380,6,Water Sport,25,water,-,-
+380,7,Water Sport,25,water,-,-
+380,8,Water Sport,25,water,-,-
+380,9,Water Sport,25,water,-,-
+380,10,Water Sport,25,water,-,-
+380,11,Water Sport,25,water,-,-
+380,12,Water Sport,25,water,-,-
+380,13,Water Sport,25,water,-,-
+380,14,Water Sport,25,water,-,-
+380,15,Water Sport,25,water,-,-
+380,16,Psycho Shift,28,psychic,-,100
+380,5,Refresh,30,normal,-,-
+380,6,Refresh,30,normal,-,-
+380,7,Refresh,30,normal,-,-
+380,8,Refresh,30,normal,-,-
+380,9,Refresh,30,normal,-,-
+380,10,Refresh,30,normal,-,-
+380,11,Refresh,30,normal,-,-
+380,12,Refresh,30,normal,-,-
+380,13,Refresh,30,normal,-,-
+380,14,Refresh,30,normal,-,-
+380,15,Refresh,30,normal,-,-
+380,16,Recover,32,normal,-,-
+380,5,Mist Ball,35,psychic,70,100
+380,6,Mist Ball,35,psychic,70,100
+380,7,Mist Ball,35,psychic,70,100
+380,8,Mist Ball,35,psychic,70,100
+380,9,Mist Ball,35,psychic,70,100
+380,10,Mist Ball,35,psychic,70,100
+380,11,Mist Ball,35,psychic,70,100
+380,12,Mist Ball,35,psychic,70,100
+380,13,Mist Ball,35,psychic,70,100
+380,14,Mist Ball,35,psychic,70,100
+380,15,Mist Ball,35,psychic,70,100
+380,16,Reflect Type,36,normal,-,-
+380,5,Psychic,40,psychic,90,100
+380,6,Psychic,40,psychic,90,100
+380,7,Psychic,40,psychic,90,100
+380,8,Zen Headbutt,40,psychic,80,90
+380,9,Zen Headbutt,40,psychic,80,90
+380,10,Zen Headbutt,40,psychic,80,90
+380,11,Zen Headbutt,40,psychic,80,90
+380,12,Psychic,40,psychic,90,100
+380,13,Psychic,40,psychic,90,100
+380,14,Zen Headbutt,40,psychic,80,90
+380,15,Zen Headbutt,40,psychic,80,90
+380,16,Zen Headbutt,41,psychic,80,90
+380,5,Recover,45,normal,-,-
+380,6,Recover,45,normal,-,-
+380,7,Recover,45,normal,-,-
+380,8,Recover,45,normal,-,-
+380,9,Recover,45,normal,-,-
+380,10,Recover,45,normal,-,-
+380,11,Recover,45,normal,-,-
+380,12,Recover,45,normal,-,-
+380,13,Recover,45,normal,-,-
+380,14,Recover,45,normal,-,-
+380,15,Recover,45,normal,-,-
+380,16,Guard Split,46,psychic,-,-
+380,5,Charm,50,fairy,-,100
+380,6,Charm,50,fairy,-,100
+380,7,Charm,50,fairy,-,100
+380,8,Psycho Shift,50,psychic,-,100
+380,9,Psycho Shift,50,psychic,-,100
+380,10,Psycho Shift,50,psychic,-,100
+380,11,Psycho Shift,50,psychic,-,100
+380,12,Charm,50,fairy,-,100
+380,13,Charm,50,fairy,-,100
+380,14,Psycho Shift,50,psychic,-,100
+380,15,Psycho Shift,50,psychic,-,100
+380,16,Psychic,51,psychic,90,100
+380,8,Charm,55,fairy,-,100
+380,9,Charm,55,fairy,-,100
+380,10,Charm,55,fairy,-,100
+380,11,Charm,55,fairy,-,100
+380,14,Charm,55,fairy,-,100
+380,15,Charm,55,fairy,-,100
+380,16,Dragon Pulse,56,dragon,85,100
+380,8,Healing Wish,60,psychic,-,-
+380,9,Healing Wish,60,psychic,-,-
+380,10,Healing Wish,60,psychic,-,-
+380,11,Psychic,60,psychic,90,100
+380,14,Psychic,60,psychic,90,100
+380,15,Psychic,60,psychic,90,100
+380,16,Healing Wish,61,psychic,-,-
+380,8,Psychic,65,psychic,90,100
+380,9,Psychic,65,psychic,90,100
+380,10,Psychic,65,psychic,90,100
+380,11,Heal Pulse,65,psychic,-,-
+380,14,Heal Pulse,65,psychic,-,-
+380,15,Heal Pulse,65,psychic,-,-
+380,8,Dragon Pulse,70,dragon,85,100
+380,9,Dragon Pulse,70,dragon,85,100
+380,10,Dragon Pulse,70,dragon,85,100
+380,11,Reflect Type,70,normal,-,-
+380,14,Reflect Type,70,normal,-,-
+380,15,Reflect Type,70,normal,-,-
+380,11,Guard Split,75,psychic,-,-
+380,14,Guard Split,75,psychic,-,-
+380,15,Guard Split,75,psychic,-,-
+380,11,Dragon Pulse,80,dragon,85,100
+380,14,Dragon Pulse,80,dragon,85,100
+380,15,Dragon Pulse,80,dragon,85,100
+380,11,Healing Wish,85,psychic,-,-
+380,14,Healing Wish,85,psychic,-,-
+380,15,Healing Wish,85,psychic,-,-

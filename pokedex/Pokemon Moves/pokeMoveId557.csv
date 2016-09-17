@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+557,11,Fury Cutter,1,bug,40,95
+557,14,Fury Cutter,1,bug,40,95
+557,15,Fury Cutter,1,bug,40,95
+557,16,Fury Cutter,1,bug,40,95
+557,11,Rock Blast,5,rock,25,90
+557,14,Rock Blast,5,rock,25,90
+557,15,Rock Blast,5,rock,25,90
+557,16,Rock Blast,5,rock,25,90
+557,11,Withdraw,7,water,-,-
+557,14,Withdraw,7,water,-,-
+557,15,Withdraw,7,water,-,-
+557,16,Withdraw,7,water,-,-
+557,11,Sand Attack,11,ground,-,100
+557,14,Sand Attack,11,ground,-,100
+557,15,Sand Attack,11,ground,-,100
+557,16,Sand Attack,11,ground,-,100
+557,11,Feint Attack,13,dark,60,-
+557,14,Feint Attack,13,dark,60,-
+557,15,Feint Attack,13,dark,60,-
+557,16,Feint Attack,13,dark,60,-
+557,11,Smack Down,17,rock,50,100
+557,14,Smack Down,17,rock,50,100
+557,15,Smack Down,17,rock,50,100
+557,16,Smack Down,17,rock,50,100
+557,11,Rock Polish,19,rock,-,-
+557,14,Rock Polish,19,rock,-,-
+557,15,Rock Polish,19,rock,-,-
+557,16,Rock Polish,19,rock,-,-
+557,11,Bug Bite,23,bug,60,100
+557,14,Bug Bite,23,bug,60,100
+557,15,Bug Bite,23,bug,60,100
+557,16,Bug Bite,23,bug,60,100
+557,11,Stealth Rock,24,rock,-,-
+557,14,Stealth Rock,24,rock,-,-
+557,15,Stealth Rock,24,rock,-,-
+557,16,Stealth Rock,24,rock,-,-
+557,11,Rock Slide,29,rock,75,90
+557,14,Rock Slide,29,rock,75,90
+557,15,Rock Slide,29,rock,75,90
+557,16,Rock Slide,29,rock,75,90
+557,11,Slash,31,normal,70,100
+557,14,Slash,31,normal,70,100
+557,15,Slash,31,normal,70,100
+557,16,Slash,31,normal,70,100
+557,11,X-Scissor,35,bug,80,100
+557,14,X-Scissor,35,bug,80,100
+557,15,X-Scissor,35,bug,80,100
+557,16,X-Scissor,35,bug,80,100
+557,11,Shell Smash,37,normal,-,-
+557,14,Shell Smash,37,normal,-,-
+557,15,Shell Smash,37,normal,-,-
+557,16,Shell Smash,37,normal,-,-
+557,11,Flail,41,normal,-,100
+557,14,Flail,41,normal,-,100
+557,15,Flail,41,normal,-,100
+557,16,Flail,41,normal,-,100
+557,11,Rock Wrecker,43,rock,150,90
+557,14,Rock Wrecker,43,rock,150,90
+557,15,Rock Wrecker,43,rock,150,90
+557,16,Rock Wrecker,43,rock,150,90

@@ -1,0 +1,91 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+413,8,Tackle,1,normal,50,100
+413,9,Tackle,1,normal,50,100
+413,10,Tackle,1,normal,50,100
+413,11,Tackle,1,normal,50,100
+413,14,Tackle,1,normal,50,100
+413,15,Tackle,1,normal,50,100
+413,16,Tackle,1,normal,50,100
+413,8,Protect,10,normal,-,-
+413,9,Protect,10,normal,-,-
+413,10,Protect,10,normal,-,-
+413,11,Protect,10,normal,-,-
+413,14,Protect,10,normal,-,-
+413,15,Protect,10,normal,-,-
+413,16,Protect,10,normal,-,-
+413,9,Bug Bite,15,bug,60,100
+413,10,Bug Bite,15,bug,60,100
+413,11,Bug Bite,15,bug,60,100
+413,14,Bug Bite,15,bug,60,100
+413,15,Bug Bite,15,bug,60,100
+413,16,Bug Bite,15,bug,60,100
+413,8,Hidden Power,20,normal,60,100
+413,9,Hidden Power,20,normal,60,100
+413,10,Hidden Power,20,normal,60,100
+413,11,Hidden Power,20,normal,60,100
+413,14,Hidden Power,20,normal,60,100
+413,15,Hidden Power,20,normal,60,100
+413,16,Hidden Power,20,normal,60,100
+413,8,Confusion,23,psychic,50,100
+413,9,Confusion,23,psychic,50,100
+413,10,Confusion,23,psychic,50,100
+413,11,Confusion,23,psychic,50,100
+413,14,Confusion,23,psychic,50,100
+413,15,Confusion,23,psychic,50,100
+413,16,Confusion,23,psychic,50,100
+413,8,Razor Leaf,26,grass,55,95
+413,9,Razor Leaf,26,grass,55,95
+413,10,Razor Leaf,26,grass,55,95
+413,11,Razor Leaf,26,grass,55,95
+413,14,Razor Leaf,26,grass,55,95
+413,15,Razor Leaf,26,grass,55,95
+413,16,Razor Leaf,26,grass,55,95
+413,8,Growth,29,normal,-,-
+413,9,Growth,29,normal,-,-
+413,10,Growth,29,normal,-,-
+413,11,Growth,29,normal,-,-
+413,14,Growth,29,normal,-,-
+413,15,Growth,29,normal,-,-
+413,16,Growth,29,normal,-,-
+413,8,Psybeam,32,psychic,65,100
+413,9,Psybeam,32,psychic,65,100
+413,10,Psybeam,32,psychic,65,100
+413,11,Psybeam,32,psychic,65,100
+413,14,Psybeam,32,psychic,65,100
+413,15,Psybeam,32,psychic,65,100
+413,16,Psybeam,32,psychic,65,100
+413,8,Captivate,35,normal,-,100
+413,9,Captivate,35,normal,-,100
+413,10,Captivate,35,normal,-,100
+413,11,Captivate,35,normal,-,100
+413,14,Captivate,35,normal,-,100
+413,15,Captivate,35,normal,-,100
+413,16,Captivate,35,normal,-,100
+413,8,Flail,38,normal,-,100
+413,9,Flail,38,normal,-,100
+413,10,Flail,38,normal,-,100
+413,11,Flail,38,normal,-,100
+413,14,Flail,38,normal,-,100
+413,15,Flail,38,normal,-,100
+413,16,Flail,38,normal,-,100
+413,8,Attract,41,normal,-,100
+413,9,Attract,41,normal,-,100
+413,10,Attract,41,normal,-,100
+413,11,Attract,41,normal,-,100
+413,14,Attract,41,normal,-,100
+413,15,Attract,41,normal,-,100
+413,16,Attract,41,normal,-,100
+413,8,Psychic,44,psychic,90,100
+413,9,Psychic,44,psychic,90,100
+413,10,Psychic,44,psychic,90,100
+413,11,Psychic,44,psychic,90,100
+413,14,Psychic,44,psychic,90,100
+413,15,Psychic,44,psychic,90,100
+413,16,Psychic,44,psychic,90,100
+413,8,Leaf Storm,47,grass,130,90
+413,9,Leaf Storm,47,grass,130,90
+413,10,Leaf Storm,47,grass,130,90
+413,11,Leaf Storm,47,grass,130,90
+413,14,Leaf Storm,47,grass,130,90
+413,15,Leaf Storm,47,grass,130,90
+413,16,Leaf Storm,47,grass,130,90

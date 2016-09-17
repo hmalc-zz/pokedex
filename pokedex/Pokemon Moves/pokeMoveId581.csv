@@ -1,0 +1,73 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+581,11,Wing Attack,1,flying,60,100
+581,11,Water Gun,1,water,40,100
+581,11,Water Sport,1,water,-,-
+581,11,Defog,1,flying,-,-
+581,14,Wing Attack,1,flying,60,100
+581,14,Water Gun,1,water,40,100
+581,14,Water Sport,1,water,-,-
+581,14,Defog,1,flying,-,-
+581,15,Wing Attack,1,flying,60,100
+581,15,Water Gun,1,water,40,100
+581,15,Water Sport,1,water,-,-
+581,15,Defog,1,flying,-,-
+581,16,Wing Attack,1,flying,60,100
+581,16,Water Gun,1,water,40,100
+581,16,Water Sport,1,water,-,-
+581,16,Defog,1,flying,-,-
+581,11,Water Sport,3,water,-,-
+581,14,Water Sport,3,water,-,-
+581,15,Water Sport,3,water,-,-
+581,16,Water Sport,3,water,-,-
+581,11,Defog,6,flying,-,-
+581,14,Defog,6,flying,-,-
+581,15,Defog,6,flying,-,-
+581,16,Defog,6,flying,-,-
+581,11,Wing Attack,9,flying,60,100
+581,14,Wing Attack,9,flying,60,100
+581,15,Wing Attack,9,flying,60,100
+581,16,Wing Attack,9,flying,60,100
+581,11,Water Pulse,13,water,60,100
+581,14,Water Pulse,13,water,60,100
+581,15,Water Pulse,13,water,60,100
+581,16,Water Pulse,13,water,60,100
+581,11,Aerial Ace,15,flying,60,-
+581,14,Aerial Ace,15,flying,60,-
+581,15,Aerial Ace,15,flying,60,-
+581,16,Aerial Ace,15,flying,60,-
+581,11,Bubble Beam,19,water,65,100
+581,14,Bubble Beam,19,water,65,100
+581,15,Bubble Beam,19,water,65,100
+581,16,Bubble Beam,19,water,65,100
+581,11,Feather Dance,21,flying,-,100
+581,14,Feather Dance,21,flying,-,100
+581,15,Feather Dance,21,flying,-,100
+581,16,Feather Dance,21,flying,-,100
+581,11,Aqua Ring,24,water,-,-
+581,14,Aqua Ring,24,water,-,-
+581,15,Aqua Ring,24,water,-,-
+581,16,Aqua Ring,24,water,-,-
+581,11,Air Slash,27,flying,75,95
+581,14,Air Slash,27,flying,75,95
+581,15,Air Slash,27,flying,75,95
+581,16,Air Slash,27,flying,75,95
+581,11,Roost,30,flying,-,-
+581,14,Roost,30,flying,-,-
+581,15,Roost,30,flying,-,-
+581,16,Roost,30,flying,-,-
+581,11,Rain Dance,34,water,-,-
+581,14,Rain Dance,34,water,-,-
+581,15,Rain Dance,34,water,-,-
+581,16,Rain Dance,34,water,-,-
+581,11,Tailwind,40,flying,-,-
+581,14,Tailwind,40,flying,-,-
+581,15,Tailwind,40,flying,-,-
+581,16,Tailwind,40,flying,-,-
+581,11,Brave Bird,47,flying,120,100
+581,14,Brave Bird,47,flying,120,100
+581,15,Brave Bird,47,flying,120,100
+581,16,Brave Bird,47,flying,120,100
+581,11,Hurricane,55,flying,110,70
+581,14,Hurricane,55,flying,110,70
+581,15,Hurricane,55,flying,110,70
+581,16,Hurricane,55,flying,110,70

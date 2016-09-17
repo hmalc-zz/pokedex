@@ -1,0 +1,43 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+658,15,Pound,1,normal,40,100
+658,15,Growl,1,normal,-,100
+658,15,Role Play,1,psychic,-,-
+658,15,Night Slash,1,dark,70,100
+658,15,Mat Block,1,fighting,-,-
+658,16,Pound,1,normal,40,100
+658,16,Growl,1,normal,-,100
+658,16,Role Play,1,psychic,-,-
+658,16,Night Slash,1,dark,70,100
+658,16,Mat Block,1,fighting,-,-
+658,15,Bubble,5,water,40,100
+658,16,Bubble,5,water,40,100
+658,15,Quick Attack,8,normal,40,100
+658,16,Quick Attack,8,normal,40,100
+658,15,Lick,10,ghost,30,100
+658,16,Lick,10,ghost,30,100
+658,15,Water Pulse,14,water,60,100
+658,16,Water Pulse,14,water,60,100
+658,15,Smokescreen,20,normal,-,100
+658,16,Smokescreen,20,normal,-,100
+658,15,Shadow Sneak,23,ghost,40,100
+658,16,Shadow Sneak,23,ghost,40,100
+658,15,Spikes,28,ground,-,-
+658,16,Spikes,28,ground,-,-
+658,15,Feint Attack,33,dark,60,-
+658,16,Feint Attack,33,dark,60,-
+658,15,Water Shuriken,36,water,15,100
+658,16,Water Shuriken,36,water,15,100
+658,15,Substitute,43,normal,-,-
+658,16,Substitute,43,normal,-,-
+658,15,Extrasensory,49,psychic,80,100
+658,16,Extrasensory,49,psychic,80,100
+658,15,Double Team,52,normal,-,-
+658,16,Double Team,52,normal,-,-
+658,15,Haze,56,ice,-,-
+658,16,Haze,56,ice,-,-
+658,15,Hydro Pump,60,water,110,80
+658,16,Hydro Pump,60,water,110,80
+658,15,Night Slash,70,dark,70,100
+658,16,Night Slash,70,dark,70,100
+658,15,Water Shuriken,75,water,15,100
+658,16,Water Shuriken,75,water,15,100

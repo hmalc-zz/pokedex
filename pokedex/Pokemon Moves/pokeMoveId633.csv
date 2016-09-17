@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+633,11,Tackle,1,normal,50,100
+633,11,Dragon Rage,1,dragon,-,100
+633,14,Tackle,1,normal,50,100
+633,14,Dragon Rage,1,dragon,-,100
+633,15,Tackle,1,normal,50,100
+633,15,Dragon Rage,1,dragon,-,100
+633,16,Tackle,1,normal,50,100
+633,16,Dragon Rage,1,dragon,-,100
+633,11,Focus Energy,4,normal,-,-
+633,14,Focus Energy,4,normal,-,-
+633,15,Focus Energy,4,normal,-,-
+633,16,Focus Energy,4,normal,-,-
+633,11,Bite,9,dark,60,100
+633,14,Bite,9,dark,60,100
+633,15,Bite,9,dark,60,100
+633,16,Bite,9,dark,60,100
+633,11,Headbutt,12,normal,70,100
+633,14,Headbutt,12,normal,70,100
+633,15,Headbutt,12,normal,70,100
+633,16,Headbutt,12,normal,70,100
+633,11,Dragon Breath,17,dragon,60,100
+633,14,Dragon Breath,17,dragon,60,100
+633,15,Dragon Breath,17,dragon,60,100
+633,16,Dragon Breath,17,dragon,60,100
+633,11,Roar,20,normal,-,-
+633,14,Roar,20,normal,-,-
+633,15,Roar,20,normal,-,-
+633,16,Roar,20,normal,-,-
+633,11,Crunch,25,dark,80,100
+633,14,Crunch,25,dark,80,100
+633,15,Crunch,25,dark,80,100
+633,16,Crunch,25,dark,80,100
+633,11,Slam,28,normal,80,75
+633,14,Slam,28,normal,80,75
+633,15,Slam,28,normal,80,75
+633,16,Slam,28,normal,80,75
+633,11,Dragon Pulse,32,dragon,85,100
+633,14,Dragon Pulse,32,dragon,85,100
+633,15,Dragon Pulse,32,dragon,85,100
+633,16,Dragon Pulse,32,dragon,85,100
+633,11,Work Up,38,normal,-,-
+633,14,Work Up,38,normal,-,-
+633,15,Work Up,38,normal,-,-
+633,16,Work Up,38,normal,-,-
+633,11,Dragon Rush,42,dragon,100,75
+633,14,Dragon Rush,42,dragon,100,75
+633,15,Dragon Rush,42,dragon,100,75
+633,16,Dragon Rush,42,dragon,100,75
+633,11,Body Slam,48,normal,85,100
+633,14,Body Slam,48,normal,85,100
+633,15,Body Slam,48,normal,85,100
+633,16,Body Slam,48,normal,85,100
+633,15,Scary Face,50,normal,-,100
+633,16,Scary Face,50,normal,-,100
+633,11,Scary Face,52,normal,-,100
+633,14,Scary Face,52,normal,-,100
+633,11,Hyper Voice,58,normal,90,100
+633,14,Hyper Voice,58,normal,90,100
+633,15,Hyper Voice,58,normal,90,100
+633,16,Hyper Voice,58,normal,90,100
+633,11,Outrage,62,dragon,120,100
+633,14,Outrage,62,dragon,120,100
+633,15,Outrage,62,dragon,120,100
+633,16,Outrage,62,dragon,120,100

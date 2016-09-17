@@ -1,0 +1,31 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+700,15,Tackle,1,normal,50,100
+700,15,Tail Whip,1,normal,-,100
+700,15,Helping Hand,1,normal,-,-
+700,15,Disarming Voice,1,fairy,40,-
+700,16,Tackle,1,normal,50,100
+700,16,Tail Whip,1,normal,-,100
+700,16,Helping Hand,1,normal,-,-
+700,16,Disarming Voice,1,fairy,40,-
+700,15,Sand Attack,5,ground,-,100
+700,16,Sand Attack,5,ground,-,100
+700,15,Fairy Wind,9,fairy,40,100
+700,16,Fairy Wind,9,fairy,40,100
+700,15,Quick Attack,13,normal,40,100
+700,16,Quick Attack,13,normal,40,100
+700,15,Swift,17,normal,60,-
+700,16,Swift,17,normal,60,-
+700,15,Draining Kiss,20,fairy,50,100
+700,16,Draining Kiss,20,fairy,50,100
+700,15,Skill Swap,25,psychic,-,-
+700,16,Skill Swap,25,psychic,-,-
+700,15,Misty Terrain,29,fairy,-,-
+700,16,Misty Terrain,29,fairy,-,-
+700,15,Light Screen,33,psychic,-,-
+700,16,Light Screen,33,psychic,-,-
+700,15,Moonblast,37,fairy,95,100
+700,16,Moonblast,37,fairy,95,100
+700,15,Last Resort,41,normal,140,100
+700,16,Last Resort,41,normal,140,100
+700,15,Psych Up,45,normal,-,-
+700,16,Psych Up,45,normal,-,-

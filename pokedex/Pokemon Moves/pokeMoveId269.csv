@@ -1,0 +1,134 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+269,5,Confusion,1,psychic,50,100
+269,6,Confusion,1,psychic,50,100
+269,7,Confusion,1,psychic,50,100
+269,8,Confusion,1,psychic,50,100
+269,9,Confusion,1,psychic,50,100
+269,10,Confusion,1,psychic,50,100
+269,11,Confusion,1,psychic,50,100
+269,12,Confusion,1,psychic,50,100
+269,13,Confusion,1,psychic,50,100
+269,14,Confusion,1,psychic,50,100
+269,15,Confusion,1,psychic,50,100
+269,16,Gust,1,flying,40,100
+269,5,Confusion,10,psychic,50,100
+269,6,Confusion,10,psychic,50,100
+269,7,Confusion,10,psychic,50,100
+269,8,Confusion,10,psychic,50,100
+269,9,Confusion,10,psychic,50,100
+269,10,Confusion,10,psychic,50,100
+269,11,Confusion,10,psychic,50,100
+269,12,Confusion,10,psychic,50,100
+269,13,Confusion,10,psychic,50,100
+269,14,Confusion,10,psychic,50,100
+269,15,Confusion,10,psychic,50,100
+269,16,Gust,10,flying,40,100
+269,16,Confusion,12,psychic,50,100
+269,5,Gust,13,flying,40,100
+269,6,Gust,13,flying,40,100
+269,7,Gust,13,flying,40,100
+269,8,Gust,13,flying,40,100
+269,9,Gust,13,flying,40,100
+269,10,Gust,13,flying,40,100
+269,11,Gust,13,flying,40,100
+269,12,Gust,13,flying,40,100
+269,13,Gust,13,flying,40,100
+269,14,Gust,13,flying,40,100
+269,15,Gust,13,flying,40,100
+269,16,Poison Powder,15,poison,-,75
+269,5,Protect,17,normal,-,-
+269,6,Protect,17,normal,-,-
+269,7,Protect,17,normal,-,-
+269,8,Protect,17,normal,-,-
+269,9,Protect,17,normal,-,-
+269,10,Protect,17,normal,-,-
+269,11,Protect,17,normal,-,-
+269,12,Protect,17,normal,-,-
+269,13,Protect,17,normal,-,-
+269,14,Protect,17,normal,-,-
+269,15,Protect,17,normal,-,-
+269,16,Moonlight,17,fairy,-,-
+269,5,Moonlight,20,fairy,-,-
+269,6,Moonlight,20,fairy,-,-
+269,7,Moonlight,20,fairy,-,-
+269,8,Moonlight,20,fairy,-,-
+269,9,Moonlight,20,fairy,-,-
+269,10,Moonlight,20,fairy,-,-
+269,11,Moonlight,20,fairy,-,-
+269,12,Moonlight,20,fairy,-,-
+269,13,Moonlight,20,fairy,-,-
+269,14,Moonlight,20,fairy,-,-
+269,15,Moonlight,20,fairy,-,-
+269,16,Venoshock,20,poison,65,100
+269,16,Psybeam,22,psychic,65,100
+269,5,Psybeam,24,psychic,65,100
+269,6,Psybeam,24,psychic,65,100
+269,7,Psybeam,24,psychic,65,100
+269,8,Psybeam,24,psychic,65,100
+269,9,Psybeam,24,psychic,65,100
+269,10,Psybeam,24,psychic,65,100
+269,11,Psybeam,24,psychic,65,100
+269,12,Psybeam,24,psychic,65,100
+269,13,Psybeam,24,psychic,65,100
+269,14,Psybeam,24,psychic,65,100
+269,15,Psybeam,24,psychic,65,100
+269,16,Silver Wind,25,bug,60,100
+269,5,Whirlwind,27,normal,-,-
+269,6,Whirlwind,27,normal,-,-
+269,7,Whirlwind,27,normal,-,-
+269,8,Whirlwind,27,normal,-,-
+269,9,Whirlwind,27,normal,-,-
+269,10,Whirlwind,27,normal,-,-
+269,11,Whirlwind,27,normal,-,-
+269,12,Whirlwind,27,normal,-,-
+269,13,Whirlwind,27,normal,-,-
+269,14,Whirlwind,27,normal,-,-
+269,15,Whirlwind,27,normal,-,-
+269,16,Light Screen,27,psychic,-,-
+269,16,Whirlwind,30,normal,-,-
+269,5,Light Screen,31,psychic,-,-
+269,6,Light Screen,31,psychic,-,-
+269,7,Light Screen,31,psychic,-,-
+269,8,Light Screen,31,psychic,-,-
+269,9,Light Screen,31,psychic,-,-
+269,10,Light Screen,31,psychic,-,-
+269,11,Light Screen,31,psychic,-,-
+269,12,Light Screen,31,psychic,-,-
+269,13,Light Screen,31,psychic,-,-
+269,14,Light Screen,31,psychic,-,-
+269,15,Light Screen,31,psychic,-,-
+269,16,Toxic,32,poison,-,90
+269,5,Silver Wind,34,bug,60,100
+269,6,Silver Wind,34,bug,60,100
+269,7,Silver Wind,34,bug,60,100
+269,8,Silver Wind,34,bug,60,100
+269,9,Silver Wind,34,bug,60,100
+269,10,Silver Wind,34,bug,60,100
+269,11,Silver Wind,34,bug,60,100
+269,12,Silver Wind,34,bug,60,100
+269,13,Silver Wind,34,bug,60,100
+269,14,Silver Wind,34,bug,60,100
+269,15,Silver Wind,34,bug,60,100
+269,16,Bug Buzz,35,bug,90,100
+269,16,Protect,37,normal,-,-
+269,5,Toxic,38,poison,-,90
+269,6,Toxic,38,poison,-,90
+269,7,Toxic,38,poison,-,90
+269,8,Toxic,38,poison,-,90
+269,9,Toxic,38,poison,-,90
+269,10,Toxic,38,poison,-,90
+269,11,Toxic,38,poison,-,90
+269,12,Toxic,38,poison,-,90
+269,13,Toxic,38,poison,-,90
+269,14,Toxic,38,poison,-,90
+269,15,Toxic,38,poison,-,90
+269,16,Quiver Dance,40,bug,-,-
+269,8,Bug Buzz,41,bug,90,100
+269,9,Bug Buzz,41,bug,90,100
+269,10,Bug Buzz,41,bug,90,100
+269,11,Bug Buzz,41,bug,90,100
+269,14,Bug Buzz,41,bug,90,100
+269,15,Bug Buzz,41,bug,90,100
+269,11,Quiver Dance,45,bug,-,-
+269,14,Quiver Dance,45,bug,-,-
+269,15,Quiver Dance,45,bug,-,-

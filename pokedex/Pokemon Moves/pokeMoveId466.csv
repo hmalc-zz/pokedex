@@ -1,0 +1,126 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+466,8,Fire Punch,1,fire,75,100
+466,8,Leer,1,normal,-,100
+466,8,Low Kick,1,fighting,-,100
+466,8,Thunder Shock,1,electric,40,100
+466,8,Quick Attack,1,normal,40,100
+466,9,Fire Punch,1,fire,75,100
+466,9,Leer,1,normal,-,100
+466,9,Low Kick,1,fighting,-,100
+466,9,Thunder Shock,1,electric,40,100
+466,9,Quick Attack,1,normal,40,100
+466,10,Fire Punch,1,fire,75,100
+466,10,Leer,1,normal,-,100
+466,10,Low Kick,1,fighting,-,100
+466,10,Thunder Shock,1,electric,40,100
+466,10,Quick Attack,1,normal,40,100
+466,11,Fire Punch,1,fire,75,100
+466,11,Leer,1,normal,-,100
+466,11,Low Kick,1,fighting,-,100
+466,11,Thunder Shock,1,electric,40,100
+466,11,Quick Attack,1,normal,40,100
+466,14,Fire Punch,1,fire,75,100
+466,14,Leer,1,normal,-,100
+466,14,Low Kick,1,fighting,-,100
+466,14,Thunder Shock,1,electric,40,100
+466,14,Quick Attack,1,normal,40,100
+466,15,Fire Punch,1,fire,75,100
+466,15,Leer,1,normal,-,100
+466,15,Low Kick,1,fighting,-,100
+466,15,Thunder Shock,1,electric,40,100
+466,15,Quick Attack,1,normal,40,100
+466,15,Ion Deluge,1,electric,-,-
+466,15,Electric Terrain,1,electric,-,-
+466,16,Fire Punch,1,fire,75,100
+466,16,Leer,1,normal,-,100
+466,16,Low Kick,1,fighting,-,100
+466,16,Thunder Shock,1,electric,40,100
+466,16,Quick Attack,1,normal,40,100
+466,16,Ion Deluge,1,electric,-,-
+466,16,Electric Terrain,1,electric,-,-
+466,14,Thunder Shock,5,electric,40,100
+466,15,Thunder Shock,5,electric,40,100
+466,16,Thunder Shock,5,electric,40,100
+466,11,Thunder Shock,6,electric,40,100
+466,8,Thunder Shock,7,electric,40,100
+466,9,Thunder Shock,7,electric,40,100
+466,10,Thunder Shock,7,electric,40,100
+466,14,Low Kick,8,fighting,-,100
+466,15,Low Kick,8,fighting,-,100
+466,16,Low Kick,8,fighting,-,100
+466,8,Low Kick,10,fighting,-,100
+466,9,Low Kick,10,fighting,-,100
+466,10,Low Kick,10,fighting,-,100
+466,11,Low Kick,11,fighting,-,100
+466,14,Swift,12,normal,60,-
+466,15,Swift,12,normal,60,-
+466,16,Swift,12,normal,60,-
+466,14,Shock Wave,15,electric,60,-
+466,15,Shock Wave,15,electric,60,-
+466,16,Shock Wave,15,electric,60,-
+466,8,Swift,16,normal,60,-
+466,9,Swift,16,normal,60,-
+466,10,Swift,16,normal,60,-
+466,11,Swift,16,normal,60,-
+466,8,Shock Wave,19,electric,60,-
+466,9,Shock Wave,19,electric,60,-
+466,10,Shock Wave,19,electric,60,-
+466,14,Thunder Wave,19,electric,-,100
+466,15,Thunder Wave,19,electric,-,100
+466,16,Thunder Wave,19,electric,-,100
+466,11,Shock Wave,21,electric,60,-
+466,14,Electro Ball,22,electric,-,100
+466,15,Electro Ball,22,electric,-,100
+466,16,Electro Ball,22,electric,-,100
+466,8,Light Screen,25,psychic,-,-
+466,9,Light Screen,25,psychic,-,-
+466,10,Light Screen,25,psychic,-,-
+466,11,Light Screen,26,psychic,-,-
+466,14,Light Screen,26,psychic,-,-
+466,15,Light Screen,26,psychic,-,-
+466,16,Light Screen,26,psychic,-,-
+466,8,Thunder Punch,28,electric,75,100
+466,9,Thunder Punch,28,electric,75,100
+466,10,Thunder Punch,28,electric,75,100
+466,14,Thunder Punch,29,electric,75,100
+466,15,Thunder Punch,29,electric,75,100
+466,16,Thunder Punch,29,electric,75,100
+466,11,Electro Ball,32,electric,-,100
+466,14,Discharge,36,electric,80,100
+466,15,Discharge,36,electric,80,100
+466,16,Discharge,36,electric,80,100
+466,8,Discharge,37,electric,80,100
+466,9,Discharge,37,electric,80,100
+466,10,Discharge,37,electric,80,100
+466,11,Thunder Punch,38,electric,75,100
+466,14,Screech,42,normal,-,85
+466,15,Screech,42,normal,-,85
+466,16,Screech,42,normal,-,85
+466,8,Thunderbolt,43,electric,90,100
+466,9,Thunderbolt,43,electric,90,100
+466,10,Thunderbolt,43,electric,90,100
+466,11,Discharge,44,electric,80,100
+466,14,Thunderbolt,49,electric,90,100
+466,15,Thunderbolt,49,electric,90,100
+466,16,Thunderbolt,49,electric,90,100
+466,11,Thunderbolt,50,electric,90,100
+466,8,Screech,52,normal,-,85
+466,9,Screech,52,normal,-,85
+466,10,Screech,52,normal,-,85
+466,14,Thunder,55,electric,110,70
+466,15,Thunder,55,electric,110,70
+466,16,Thunder,55,electric,110,70
+466,11,Screech,56,normal,-,85
+466,8,Thunder,58,electric,110,70
+466,9,Thunder,58,electric,110,70
+466,10,Thunder,58,electric,110,70
+466,11,Thunder,62,electric,110,70
+466,14,Giga Impact,62,normal,150,90
+466,15,Giga Impact,62,normal,150,90
+466,16,Giga Impact,62,normal,150,90
+466,15,Electric Terrain,65,electric,-,-
+466,16,Electric Terrain,65,electric,-,-
+466,8,Giga Impact,67,normal,150,90
+466,9,Giga Impact,67,normal,150,90
+466,10,Giga Impact,67,normal,150,90
+466,11,Giga Impact,68,normal,150,90

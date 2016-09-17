@@ -1,0 +1,41 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+689,15,Scratch,1,normal,40,100
+689,15,Sand Attack,1,ground,-,100
+689,15,Skull Bash,1,normal,130,100
+689,15,Stone Edge,1,rock,100,80
+689,15,Shell Smash,1,normal,-,-
+689,16,Scratch,1,normal,40,100
+689,16,Sand Attack,1,ground,-,100
+689,16,Skull Bash,1,normal,130,100
+689,16,Stone Edge,1,rock,100,80
+689,16,Shell Smash,1,normal,-,-
+689,15,Water Gun,4,water,40,100
+689,16,Water Gun,4,water,40,100
+689,15,Withdraw,7,water,-,-
+689,16,Withdraw,7,water,-,-
+689,15,Fury Swipes,10,normal,18,80
+689,16,Fury Swipes,10,normal,18,80
+689,15,Slash,13,normal,70,100
+689,16,Slash,13,normal,70,100
+689,15,Mud-Slap,18,ground,20,100
+689,16,Mud-Slap,18,ground,20,100
+689,15,Clamp,20,water,35,85
+689,16,Clamp,20,water,35,85
+689,15,Rock Polish,24,rock,-,-
+689,16,Rock Polish,24,rock,-,-
+689,15,Ancient Power,28,rock,60,100
+689,16,Ancient Power,28,rock,60,100
+689,15,Hone Claws,32,dark,-,-
+689,16,Hone Claws,32,dark,-,-
+689,15,Fury Cutter,37,bug,40,95
+689,16,Fury Cutter,37,bug,40,95
+689,15,Night Slash,44,dark,70,100
+689,16,Night Slash,44,dark,70,100
+689,15,Razor Shell,48,water,75,95
+689,16,Razor Shell,48,water,75,95
+689,15,Cross Chop,55,fighting,100,80
+689,16,Cross Chop,55,fighting,100,80
+689,15,Stone Edge,60,rock,100,80
+689,16,Stone Edge,60,rock,100,80
+689,15,Skull Bash,65,normal,130,100
+689,16,Skull Bash,65,normal,130,100

@@ -1,0 +1,69 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+528,11,Gust,1,flying,40,100
+528,11,Confusion,1,psychic,50,100
+528,11,Odor Sleuth,1,normal,-,-
+528,11,Assurance,1,dark,60,100
+528,14,Gust,1,flying,40,100
+528,14,Confusion,1,psychic,50,100
+528,14,Odor Sleuth,1,normal,-,-
+528,14,Assurance,1,dark,60,100
+528,15,Gust,1,flying,40,100
+528,15,Confusion,1,psychic,50,100
+528,15,Odor Sleuth,1,normal,-,-
+528,15,Assurance,1,dark,60,100
+528,16,Gust,1,flying,40,100
+528,16,Confusion,1,psychic,50,100
+528,16,Odor Sleuth,1,normal,-,-
+528,16,Assurance,1,dark,60,100
+528,11,Odor Sleuth,4,normal,-,-
+528,14,Odor Sleuth,4,normal,-,-
+528,15,Odor Sleuth,4,normal,-,-
+528,16,Odor Sleuth,4,normal,-,-
+528,11,Gust,8,flying,40,100
+528,14,Gust,8,flying,40,100
+528,15,Gust,8,flying,40,100
+528,16,Gust,8,flying,40,100
+528,11,Assurance,12,dark,60,100
+528,14,Assurance,12,dark,60,100
+528,15,Assurance,12,dark,60,100
+528,16,Assurance,12,dark,60,100
+528,11,Heart Stamp,15,psychic,60,100
+528,14,Heart Stamp,15,psychic,60,100
+528,15,Heart Stamp,15,psychic,60,100
+528,16,Heart Stamp,15,psychic,60,100
+528,11,Imprison,19,psychic,-,-
+528,14,Imprison,19,psychic,-,-
+528,15,Imprison,19,psychic,-,-
+528,16,Imprison,19,psychic,-,-
+528,11,Air Cutter,21,flying,60,95
+528,14,Air Cutter,21,flying,60,95
+528,15,Air Cutter,21,flying,60,95
+528,16,Air Cutter,21,flying,60,95
+528,11,Attract,25,normal,-,100
+528,14,Attract,25,normal,-,100
+528,15,Attract,25,normal,-,100
+528,16,Attract,25,normal,-,100
+528,11,Amnesia,29,psychic,-,-
+528,11,Calm Mind,29,psychic,-,-
+528,14,Amnesia,29,psychic,-,-
+528,14,Calm Mind,29,psychic,-,-
+528,15,Amnesia,29,psychic,-,-
+528,15,Calm Mind,29,psychic,-,-
+528,16,Amnesia,29,psychic,-,-
+528,16,Calm Mind,29,psychic,-,-
+528,11,Air Slash,32,flying,75,95
+528,14,Air Slash,32,flying,75,95
+528,15,Air Slash,32,flying,75,95
+528,16,Air Slash,32,flying,75,95
+528,11,Future Sight,36,psychic,120,100
+528,14,Future Sight,36,psychic,120,100
+528,15,Future Sight,36,psychic,120,100
+528,16,Future Sight,36,psychic,120,100
+528,11,Psychic,41,psychic,90,100
+528,14,Psychic,41,psychic,90,100
+528,15,Psychic,41,psychic,90,100
+528,16,Psychic,41,psychic,90,100
+528,11,Endeavor,47,normal,-,100
+528,14,Endeavor,47,normal,-,100
+528,15,Endeavor,47,normal,-,100
+528,16,Endeavor,47,normal,-,100

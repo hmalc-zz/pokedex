@@ -1,0 +1,134 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+465,8,Constrict,1,normal,10,100
+465,8,Ingrain,1,grass,-,-
+465,9,Constrict,1,normal,10,100
+465,9,Ingrain,1,grass,-,-
+465,10,Constrict,1,normal,10,100
+465,10,Ingrain,1,grass,-,-
+465,11,Constrict,1,normal,10,100
+465,11,Ingrain,1,grass,-,-
+465,14,Constrict,1,normal,10,100
+465,14,Ingrain,1,grass,-,-
+465,15,Constrict,1,normal,10,100
+465,15,Ingrain,1,grass,-,-
+465,15,Block,1,normal,-,-
+465,16,Constrict,1,normal,10,100
+465,16,Ingrain,1,grass,-,-
+465,16,Block,1,normal,-,-
+465,14,Sleep Powder,4,grass,-,75
+465,15,Sleep Powder,4,grass,-,75
+465,16,Sleep Powder,4,grass,-,75
+465,8,Sleep Powder,5,grass,-,75
+465,9,Sleep Powder,5,grass,-,75
+465,10,Sleep Powder,5,grass,-,75
+465,11,Sleep Powder,5,grass,-,75
+465,14,Vine Whip,7,grass,45,100
+465,15,Vine Whip,7,grass,45,100
+465,16,Vine Whip,7,grass,45,100
+465,8,Absorb,8,grass,20,100
+465,9,Absorb,8,grass,20,100
+465,10,Absorb,8,grass,20,100
+465,11,Absorb,8,grass,20,100
+465,14,Absorb,10,grass,20,100
+465,15,Absorb,10,grass,20,100
+465,16,Absorb,10,grass,20,100
+465,8,Growth,12,normal,-,-
+465,9,Growth,12,normal,-,-
+465,10,Growth,12,normal,-,-
+465,11,Growth,12,normal,-,-
+465,14,Poison Powder,14,poison,-,75
+465,15,Poison Powder,14,poison,-,75
+465,16,Poison Powder,14,poison,-,75
+465,8,Poison Powder,15,poison,-,75
+465,9,Poison Powder,15,poison,-,75
+465,10,Poison Powder,15,poison,-,75
+465,11,Poison Powder,15,poison,-,75
+465,14,Bind,17,normal,15,85
+465,15,Bind,17,normal,15,85
+465,16,Bind,17,normal,15,85
+465,8,Vine Whip,19,grass,45,100
+465,9,Vine Whip,19,grass,45,100
+465,10,Vine Whip,19,grass,45,100
+465,11,Vine Whip,19,grass,45,100
+465,14,Growth,20,normal,-,-
+465,15,Growth,20,normal,-,-
+465,16,Growth,20,normal,-,-
+465,8,Bind,22,normal,15,85
+465,9,Bind,22,normal,15,85
+465,10,Bind,22,normal,15,85
+465,11,Bind,22,normal,15,85
+465,14,Mega Drain,23,grass,40,100
+465,15,Mega Drain,23,grass,40,100
+465,16,Mega Drain,23,grass,40,100
+465,8,Mega Drain,26,grass,40,100
+465,9,Mega Drain,26,grass,40,100
+465,10,Mega Drain,26,grass,40,100
+465,11,Mega Drain,26,grass,40,100
+465,14,Knock Off,27,dark,65,100
+465,15,Knock Off,27,dark,65,100
+465,16,Knock Off,27,dark,65,100
+465,8,Stun Spore,29,grass,-,75
+465,9,Stun Spore,29,grass,-,75
+465,10,Stun Spore,29,grass,-,75
+465,11,Stun Spore,29,grass,-,75
+465,14,Stun Spore,30,grass,-,75
+465,15,Stun Spore,30,grass,-,75
+465,16,Stun Spore,30,grass,-,75
+465,8,Ancient Power,33,rock,60,100
+465,9,Ancient Power,33,rock,60,100
+465,10,Ancient Power,33,rock,60,100
+465,11,Knock Off,33,dark,65,100
+465,14,Natural Gift,33,normal,-,100
+465,15,Natural Gift,33,normal,-,100
+465,16,Natural Gift,33,normal,-,100
+465,8,Knock Off,36,dark,65,100
+465,9,Knock Off,36,dark,65,100
+465,10,Knock Off,36,dark,65,100
+465,11,Ancient Power,36,rock,60,100
+465,14,Giga Drain,36,grass,75,100
+465,15,Giga Drain,36,grass,75,100
+465,16,Giga Drain,36,grass,75,100
+465,8,Natural Gift,40,normal,-,100
+465,9,Natural Gift,40,normal,-,100
+465,10,Natural Gift,40,normal,-,100
+465,11,Natural Gift,40,normal,-,100
+465,14,Ancient Power,40,rock,60,100
+465,15,Ancient Power,40,rock,60,100
+465,16,Ancient Power,40,rock,60,100
+465,8,Slam,43,normal,80,75
+465,9,Slam,43,normal,80,75
+465,10,Slam,43,normal,80,75
+465,11,Slam,43,normal,80,75
+465,14,Slam,43,normal,80,75
+465,15,Slam,43,normal,80,75
+465,16,Slam,43,normal,80,75
+465,14,Tickle,46,normal,-,100
+465,15,Tickle,46,normal,-,100
+465,16,Tickle,46,normal,-,100
+465,8,Tickle,47,normal,-,100
+465,9,Tickle,47,normal,-,100
+465,10,Tickle,47,normal,-,100
+465,11,Tickle,47,normal,-,100
+465,14,Wring Out,49,normal,-,100
+465,15,Wring Out,49,normal,-,100
+465,16,Wring Out,49,normal,-,100
+465,8,Wring Out,50,normal,-,100
+465,9,Wring Out,50,normal,-,100
+465,10,Wring Out,50,normal,-,100
+465,11,Wring Out,50,normal,-,100
+465,15,Grassy Terrain,50,grass,-,-
+465,16,Grassy Terrain,50,grass,-,-
+465,14,Power Whip,53,grass,120,85
+465,15,Power Whip,53,grass,120,85
+465,16,Power Whip,53,grass,120,85
+465,8,Power Whip,54,grass,120,85
+465,9,Power Whip,54,grass,120,85
+465,10,Power Whip,54,grass,120,85
+465,11,Power Whip,54,grass,120,85
+465,14,Block,56,normal,-,-
+465,15,Block,56,normal,-,-
+465,16,Block,56,normal,-,-
+465,8,Block,57,normal,-,-
+465,9,Block,57,normal,-,-
+465,10,Block,57,normal,-,-
+465,11,Block,57,normal,-,-

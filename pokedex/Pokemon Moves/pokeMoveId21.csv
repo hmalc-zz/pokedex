@@ -1,0 +1,153 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+21,1,Growl,1,normal,-,100
+21,1,Peck,1,flying,35,100
+21,2,Growl,1,normal,-,100
+21,2,Peck,1,flying,35,100
+21,3,Growl,1,normal,-,100
+21,3,Peck,1,flying,35,100
+21,4,Growl,1,normal,-,100
+21,4,Peck,1,flying,35,100
+21,5,Growl,1,normal,-,100
+21,5,Peck,1,flying,35,100
+21,6,Growl,1,normal,-,100
+21,6,Peck,1,flying,35,100
+21,7,Growl,1,normal,-,100
+21,7,Peck,1,flying,35,100
+21,8,Growl,1,normal,-,100
+21,8,Peck,1,flying,35,100
+21,9,Growl,1,normal,-,100
+21,9,Peck,1,flying,35,100
+21,10,Growl,1,normal,-,100
+21,10,Peck,1,flying,35,100
+21,11,Growl,1,normal,-,100
+21,11,Peck,1,flying,35,100
+21,12,Growl,1,normal,-,100
+21,12,Peck,1,flying,35,100
+21,13,Growl,1,normal,-,100
+21,13,Peck,1,flying,35,100
+21,14,Growl,1,normal,-,100
+21,14,Peck,1,flying,35,100
+21,15,Growl,1,normal,-,100
+21,15,Peck,1,flying,35,100
+21,16,Growl,1,normal,-,100
+21,16,Peck,1,flying,35,100
+21,8,Leer,5,normal,-,100
+21,9,Leer,5,normal,-,100
+21,10,Leer,5,normal,-,100
+21,11,Leer,5,normal,-,100
+21,14,Leer,5,normal,-,100
+21,15,Leer,5,normal,-,100
+21,16,Leer,5,normal,-,100
+21,3,Leer,7,normal,-,100
+21,4,Leer,7,normal,-,100
+21,5,Leer,7,normal,-,100
+21,6,Leer,7,normal,-,100
+21,7,Leer,7,normal,-,100
+21,12,Leer,7,normal,-,100
+21,13,Leer,7,normal,-,100
+21,1,Leer,9,normal,-,100
+21,2,Leer,9,normal,-,100
+21,8,Fury Attack,9,normal,15,85
+21,9,Fury Attack,9,normal,15,85
+21,10,Fury Attack,9,normal,15,85
+21,11,Fury Attack,9,normal,15,85
+21,14,Fury Attack,9,normal,15,85
+21,15,Fury Attack,9,normal,15,85
+21,16,Fury Attack,9,normal,15,85
+21,3,Fury Attack,13,normal,15,85
+21,4,Fury Attack,13,normal,15,85
+21,5,Fury Attack,13,normal,15,85
+21,6,Fury Attack,13,normal,15,85
+21,7,Fury Attack,13,normal,15,85
+21,8,Pursuit,13,dark,40,100
+21,9,Pursuit,13,dark,40,100
+21,10,Pursuit,13,dark,40,100
+21,11,Pursuit,13,dark,40,100
+21,12,Fury Attack,13,normal,15,85
+21,13,Fury Attack,13,normal,15,85
+21,14,Pursuit,13,dark,40,100
+21,15,Pursuit,13,dark,40,100
+21,16,Pursuit,13,dark,40,100
+21,1,Fury Attack,15,normal,15,85
+21,2,Fury Attack,15,normal,15,85
+21,8,Aerial Ace,17,flying,60,-
+21,9,Aerial Ace,17,flying,60,-
+21,10,Aerial Ace,17,flying,60,-
+21,11,Aerial Ace,17,flying,60,-
+21,14,Aerial Ace,17,flying,60,-
+21,15,Aerial Ace,17,flying,60,-
+21,16,Aerial Ace,17,flying,60,-
+21,5,Pursuit,19,dark,40,100
+21,6,Pursuit,19,dark,40,100
+21,7,Pursuit,19,dark,40,100
+21,12,Pursuit,19,dark,40,100
+21,13,Pursuit,19,dark,40,100
+21,8,Mirror Move,21,flying,-,-
+21,9,Mirror Move,21,flying,-,-
+21,10,Mirror Move,21,flying,-,-
+21,11,Mirror Move,21,flying,-,-
+21,14,Mirror Move,21,flying,-,-
+21,15,Mirror Move,21,flying,-,-
+21,16,Mirror Move,21,flying,-,-
+21,1,Mirror Move,22,flying,-,-
+21,2,Mirror Move,22,flying,-,-
+21,3,Pursuit,25,dark,40,100
+21,4,Pursuit,25,dark,40,100
+21,5,Aerial Ace,25,flying,60,-
+21,6,Aerial Ace,25,flying,60,-
+21,7,Aerial Ace,25,flying,60,-
+21,8,Agility,25,psychic,-,-
+21,9,Agility,25,psychic,-,-
+21,10,Agility,25,psychic,-,-
+21,11,Agility,25,psychic,-,-
+21,12,Aerial Ace,25,flying,60,-
+21,13,Aerial Ace,25,flying,60,-
+21,14,Agility,25,psychic,-,-
+21,15,Agility,25,psychic,-,-
+21,16,Agility,25,psychic,-,-
+21,1,Drill Peck,29,flying,80,100
+21,2,Drill Peck,29,flying,80,100
+21,8,Assurance,29,dark,60,100
+21,9,Assurance,29,dark,60,100
+21,10,Assurance,29,dark,60,100
+21,11,Assurance,29,dark,60,100
+21,14,Assurance,29,dark,60,100
+21,15,Assurance,29,dark,60,100
+21,16,Assurance,29,dark,60,100
+21,3,Mirror Move,31,flying,-,-
+21,4,Mirror Move,31,flying,-,-
+21,5,Mirror Move,31,flying,-,-
+21,6,Mirror Move,31,flying,-,-
+21,7,Mirror Move,31,flying,-,-
+21,12,Mirror Move,31,flying,-,-
+21,13,Mirror Move,31,flying,-,-
+21,8,Roost,33,flying,-,-
+21,9,Roost,33,flying,-,-
+21,10,Roost,33,flying,-,-
+21,11,Roost,33,flying,-,-
+21,14,Roost,33,flying,-,-
+21,15,Roost,33,flying,-,-
+21,16,Roost,33,flying,-,-
+21,1,Agility,36,psychic,-,-
+21,2,Agility,36,psychic,-,-
+21,3,Drill Peck,37,flying,80,100
+21,4,Drill Peck,37,flying,80,100
+21,5,Drill Peck,37,flying,80,100
+21,6,Drill Peck,37,flying,80,100
+21,7,Drill Peck,37,flying,80,100
+21,8,Drill Peck,37,flying,80,100
+21,9,Drill Peck,37,flying,80,100
+21,10,Drill Peck,37,flying,80,100
+21,11,Drill Peck,37,flying,80,100
+21,12,Drill Peck,37,flying,80,100
+21,13,Drill Peck,37,flying,80,100
+21,14,Drill Peck,37,flying,80,100
+21,15,Drill Peck,37,flying,80,100
+21,16,Drill Peck,37,flying,80,100
+21,3,Agility,43,psychic,-,-
+21,4,Agility,43,psychic,-,-
+21,5,Agility,43,psychic,-,-
+21,6,Agility,43,psychic,-,-
+21,7,Agility,43,psychic,-,-
+21,12,Agility,43,psychic,-,-
+21,13,Agility,43,psychic,-,-

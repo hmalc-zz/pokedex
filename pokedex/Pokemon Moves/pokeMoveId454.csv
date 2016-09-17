@@ -1,0 +1,119 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+454,8,Poison Sting,1,poison,15,100
+454,8,Mud-Slap,1,ground,20,100
+454,8,Astonish,1,ghost,30,100
+454,9,Poison Sting,1,poison,15,100
+454,9,Mud-Slap,1,ground,20,100
+454,9,Astonish,1,ghost,30,100
+454,10,Poison Sting,1,poison,15,100
+454,10,Mud-Slap,1,ground,20,100
+454,10,Astonish,1,ghost,30,100
+454,11,Poison Sting,1,poison,15,100
+454,11,Mud-Slap,1,ground,20,100
+454,11,Astonish,1,ghost,30,100
+454,14,Poison Sting,1,poison,15,100
+454,14,Mud-Slap,1,ground,20,100
+454,14,Astonish,1,ghost,30,100
+454,15,Poison Sting,1,poison,15,100
+454,15,Mud-Slap,1,ground,20,100
+454,15,Astonish,1,ghost,30,100
+454,16,Poison Sting,1,poison,15,100
+454,16,Mud-Slap,1,ground,20,100
+454,16,Astonish,1,ghost,30,100
+454,8,Mud-Slap,3,ground,20,100
+454,9,Mud-Slap,3,ground,20,100
+454,10,Mud-Slap,3,ground,20,100
+454,11,Mud-Slap,3,ground,20,100
+454,14,Mud-Slap,3,ground,20,100
+454,15,Mud-Slap,3,ground,20,100
+454,16,Mud-Slap,3,ground,20,100
+454,8,Poison Sting,8,poison,15,100
+454,9,Poison Sting,8,poison,15,100
+454,10,Poison Sting,8,poison,15,100
+454,11,Poison Sting,8,poison,15,100
+454,14,Poison Sting,8,poison,15,100
+454,15,Poison Sting,8,poison,15,100
+454,16,Poison Sting,8,poison,15,100
+454,8,Taunt,10,dark,-,100
+454,9,Taunt,10,dark,-,100
+454,10,Taunt,10,dark,-,100
+454,11,Taunt,10,dark,-,100
+454,14,Taunt,10,dark,-,100
+454,15,Taunt,10,dark,-,100
+454,16,Taunt,10,dark,-,100
+454,8,Pursuit,15,dark,40,100
+454,9,Pursuit,15,dark,40,100
+454,10,Pursuit,15,dark,40,100
+454,11,Pursuit,15,dark,40,100
+454,14,Pursuit,15,dark,40,100
+454,15,Pursuit,15,dark,40,100
+454,16,Pursuit,15,dark,40,100
+454,8,Feint Attack,17,dark,60,-
+454,9,Feint Attack,17,dark,60,-
+454,10,Feint Attack,17,dark,60,-
+454,11,Feint Attack,17,dark,60,-
+454,14,Feint Attack,17,dark,60,-
+454,15,Feint Attack,17,dark,60,-
+454,16,Feint Attack,17,dark,60,-
+454,8,Revenge,22,fighting,60,100
+454,9,Revenge,22,fighting,60,100
+454,10,Revenge,22,fighting,60,100
+454,11,Revenge,22,fighting,60,100
+454,14,Revenge,22,fighting,60,100
+454,15,Revenge,22,fighting,60,100
+454,16,Revenge,22,fighting,60,100
+454,8,Swagger,24,normal,-,90
+454,9,Swagger,24,normal,-,90
+454,10,Swagger,24,normal,-,90
+454,11,Swagger,24,normal,-,90
+454,14,Swagger,24,normal,-,90
+454,15,Swagger,24,normal,-,90
+454,16,Swagger,24,normal,-,90
+454,8,Mud Bomb,29,ground,65,85
+454,9,Mud Bomb,29,ground,65,85
+454,10,Mud Bomb,29,ground,65,85
+454,11,Mud Bomb,29,ground,65,85
+454,14,Mud Bomb,29,ground,65,85
+454,15,Mud Bomb,29,ground,65,85
+454,16,Mud Bomb,29,ground,65,85
+454,8,Sucker Punch,31,dark,80,100
+454,9,Sucker Punch,31,dark,80,100
+454,10,Sucker Punch,31,dark,80,100
+454,11,Sucker Punch,31,dark,80,100
+454,14,Sucker Punch,31,dark,80,100
+454,15,Sucker Punch,31,dark,80,100
+454,16,Sucker Punch,31,dark,80,100
+454,8,Nasty Plot,36,dark,-,-
+454,9,Nasty Plot,36,dark,-,-
+454,10,Nasty Plot,36,dark,-,-
+454,11,Venoshock,36,poison,65,100
+454,14,Venoshock,36,poison,65,100
+454,15,Venoshock,36,poison,65,100
+454,16,Venoshock,36,poison,65,100
+454,8,Poison Jab,41,poison,80,100
+454,9,Poison Jab,41,poison,80,100
+454,10,Poison Jab,41,poison,80,100
+454,11,Nasty Plot,41,dark,-,-
+454,14,Nasty Plot,41,dark,-,-
+454,15,Nasty Plot,41,dark,-,-
+454,16,Nasty Plot,41,dark,-,-
+454,8,Sludge Bomb,49,poison,90,100
+454,9,Sludge Bomb,49,poison,90,100
+454,10,Sludge Bomb,49,poison,90,100
+454,11,Poison Jab,49,poison,80,100
+454,14,Poison Jab,49,poison,80,100
+454,15,Poison Jab,49,poison,80,100
+454,16,Poison Jab,49,poison,80,100
+454,8,Flatter,54,dark,-,100
+454,9,Flatter,54,dark,-,100
+454,10,Flatter,54,dark,-,100
+454,11,Sludge Bomb,54,poison,90,100
+454,14,Sludge Bomb,54,poison,90,100
+454,15,Sludge Bomb,54,poison,90,100
+454,16,Sludge Bomb,54,poison,90,100
+454,15,Belch,58,poison,120,90
+454,16,Belch,58,poison,120,90
+454,11,Flatter,62,dark,-,100
+454,14,Flatter,62,dark,-,100
+454,15,Flatter,62,dark,-,100
+454,16,Flatter,62,dark,-,100

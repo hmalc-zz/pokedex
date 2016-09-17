@@ -1,0 +1,172 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+128,1,Tackle,1,normal,50,100
+128,2,Tackle,1,normal,50,100
+128,3,Tackle,1,normal,50,100
+128,4,Tackle,1,normal,50,100
+128,5,Tackle,1,normal,50,100
+128,6,Tackle,1,normal,50,100
+128,7,Tackle,1,normal,50,100
+128,7,Tail Whip,1,normal,-,100
+128,8,Tackle,1,normal,50,100
+128,9,Tackle,1,normal,50,100
+128,10,Tackle,1,normal,50,100
+128,11,Tackle,1,normal,50,100
+128,12,Tackle,1,normal,50,100
+128,13,Tackle,1,normal,50,100
+128,14,Tackle,1,normal,50,100
+128,15,Tackle,1,normal,50,100
+128,16,Tackle,1,normal,50,100
+128,8,Tail Whip,3,normal,-,100
+128,9,Tail Whip,3,normal,-,100
+128,10,Tail Whip,3,normal,-,100
+128,11,Tail Whip,3,normal,-,100
+128,14,Tail Whip,3,normal,-,100
+128,15,Tail Whip,3,normal,-,100
+128,16,Tail Whip,3,normal,-,100
+128,3,Tail Whip,4,normal,-,100
+128,4,Tail Whip,4,normal,-,100
+128,5,Tail Whip,4,normal,-,100
+128,6,Tail Whip,4,normal,-,100
+128,7,Rage,4,normal,20,100
+128,12,Tail Whip,4,normal,-,100
+128,13,Tail Whip,4,normal,-,100
+128,8,Rage,5,normal,20,100
+128,9,Rage,5,normal,20,100
+128,10,Rage,5,normal,20,100
+128,11,Rage,5,normal,20,100
+128,14,Rage,5,normal,20,100
+128,15,Rage,5,normal,20,100
+128,16,Rage,5,normal,20,100
+128,3,Rage,8,normal,20,100
+128,4,Rage,8,normal,20,100
+128,5,Rage,8,normal,20,100
+128,6,Rage,8,normal,20,100
+128,7,Horn Attack,8,normal,65,100
+128,8,Horn Attack,8,normal,65,100
+128,9,Horn Attack,8,normal,65,100
+128,10,Horn Attack,8,normal,65,100
+128,11,Horn Attack,8,normal,65,100
+128,12,Rage,8,normal,20,100
+128,13,Rage,8,normal,20,100
+128,14,Horn Attack,8,normal,65,100
+128,15,Horn Attack,8,normal,65,100
+128,16,Horn Attack,8,normal,65,100
+128,8,Scary Face,11,normal,-,100
+128,9,Scary Face,11,normal,-,100
+128,10,Scary Face,11,normal,-,100
+128,11,Scary Face,11,normal,-,100
+128,14,Scary Face,11,normal,-,100
+128,15,Scary Face,11,normal,-,100
+128,16,Scary Face,11,normal,-,100
+128,3,Horn Attack,13,normal,65,100
+128,4,Horn Attack,13,normal,65,100
+128,5,Horn Attack,13,normal,65,100
+128,6,Horn Attack,13,normal,65,100
+128,7,Scary Face,13,normal,-,100
+128,12,Horn Attack,13,normal,65,100
+128,13,Horn Attack,13,normal,65,100
+128,8,Pursuit,15,dark,40,100
+128,9,Pursuit,15,dark,40,100
+128,10,Pursuit,15,dark,40,100
+128,11,Pursuit,15,dark,40,100
+128,14,Pursuit,15,dark,40,100
+128,15,Pursuit,15,dark,40,100
+128,16,Pursuit,15,dark,40,100
+128,3,Scary Face,19,normal,-,100
+128,4,Scary Face,19,normal,-,100
+128,5,Scary Face,19,normal,-,100
+128,6,Scary Face,19,normal,-,100
+128,7,Pursuit,19,dark,40,100
+128,8,Rest,19,psychic,-,-
+128,9,Rest,19,psychic,-,-
+128,10,Rest,19,psychic,-,-
+128,11,Rest,19,psychic,-,-
+128,12,Scary Face,19,normal,-,100
+128,13,Scary Face,19,normal,-,100
+128,14,Rest,19,psychic,-,-
+128,15,Rest,19,psychic,-,-
+128,16,Rest,19,psychic,-,-
+128,1,Stomp,21,normal,65,100
+128,2,Stomp,21,normal,65,100
+128,8,Payback,24,dark,50,100
+128,9,Payback,24,dark,50,100
+128,10,Payback,24,dark,50,100
+128,11,Payback,24,dark,50,100
+128,14,Payback,24,dark,50,100
+128,15,Payback,24,dark,50,100
+128,16,Payback,24,dark,50,100
+128,3,Pursuit,26,dark,40,100
+128,4,Pursuit,26,dark,40,100
+128,5,Pursuit,26,dark,40,100
+128,6,Pursuit,26,dark,40,100
+128,7,Swagger,26,normal,-,90
+128,12,Pursuit,26,dark,40,100
+128,13,Pursuit,26,dark,40,100
+128,1,Tail Whip,28,normal,-,100
+128,2,Tail Whip,28,normal,-,100
+128,8,Zen Headbutt,29,psychic,80,90
+128,9,Zen Headbutt,29,psychic,80,90
+128,10,Zen Headbutt,29,psychic,80,90
+128,11,Work Up,29,normal,-,-
+128,14,Work Up,29,normal,-,-
+128,15,Work Up,29,normal,-,-
+128,16,Work Up,29,normal,-,-
+128,3,Rest,34,psychic,-,-
+128,4,Rest,34,psychic,-,-
+128,5,Rest,34,psychic,-,-
+128,6,Rest,34,psychic,-,-
+128,7,Rest,34,psychic,-,-
+128,12,Rest,34,psychic,-,-
+128,13,Rest,34,psychic,-,-
+128,1,Leer,35,normal,-,100
+128,2,Leer,35,normal,-,100
+128,8,Take Down,35,normal,90,85
+128,9,Take Down,35,normal,90,85
+128,10,Take Down,35,normal,90,85
+128,11,Zen Headbutt,35,psychic,80,90
+128,14,Zen Headbutt,35,psychic,80,90
+128,15,Zen Headbutt,35,psychic,80,90
+128,16,Zen Headbutt,35,psychic,80,90
+128,8,Swagger,41,normal,-,90
+128,9,Swagger,41,normal,-,90
+128,10,Swagger,41,normal,-,90
+128,11,Take Down,41,normal,90,85
+128,14,Take Down,41,normal,90,85
+128,15,Take Down,41,normal,90,85
+128,16,Take Down,41,normal,90,85
+128,3,Thrash,43,normal,120,100
+128,4,Thrash,43,normal,120,100
+128,5,Thrash,43,normal,120,100
+128,6,Thrash,43,normal,120,100
+128,7,Thrash,43,normal,120,100
+128,12,Thrash,43,normal,120,100
+128,13,Thrash,43,normal,120,100
+128,1,Rage,44,normal,20,100
+128,2,Rage,44,normal,20,100
+128,8,Thrash,48,normal,120,100
+128,9,Thrash,48,normal,120,100
+128,10,Thrash,48,normal,120,100
+128,11,Swagger,48,normal,-,90
+128,14,Swagger,48,normal,-,90
+128,15,Swagger,48,normal,-,90
+128,16,Swagger,48,normal,-,90
+128,15,Thrash,50,normal,120,100
+128,16,Thrash,50,normal,120,100
+128,1,Take Down,51,normal,90,85
+128,2,Take Down,51,normal,90,85
+128,3,Take Down,53,normal,90,85
+128,4,Take Down,53,normal,90,85
+128,5,Take Down,53,normal,90,85
+128,6,Take Down,53,normal,90,85
+128,7,Take Down,53,normal,90,85
+128,12,Take Down,53,normal,90,85
+128,13,Take Down,53,normal,90,85
+128,8,Giga Impact,55,normal,150,90
+128,9,Giga Impact,55,normal,150,90
+128,10,Giga Impact,55,normal,150,90
+128,11,Thrash,55,normal,120,100
+128,14,Thrash,55,normal,120,100
+128,11,Giga Impact,63,normal,150,90
+128,14,Giga Impact,63,normal,150,90
+128,15,Giga Impact,63,normal,150,90
+128,16,Giga Impact,63,normal,150,90

@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+638,11,Leer,1,normal,-,100
+638,11,Quick Attack,1,normal,40,100
+638,14,Leer,1,normal,-,100
+638,14,Quick Attack,1,normal,40,100
+638,15,Leer,1,normal,-,100
+638,15,Quick Attack,1,normal,40,100
+638,15,Metal Burst,1,steel,-,100
+638,15,Close Combat,1,fighting,120,100
+638,15,Quick Guard,1,fighting,-,-
+638,15,Work Up,1,normal,-,-
+638,16,Leer,1,normal,-,100
+638,16,Quick Attack,1,normal,40,100
+638,16,Metal Burst,1,steel,-,100
+638,16,Close Combat,1,fighting,120,100
+638,16,Quick Guard,1,fighting,-,-
+638,16,Work Up,1,normal,-,-
+638,11,Double Kick,7,fighting,30,100
+638,14,Double Kick,7,fighting,30,100
+638,15,Double Kick,7,fighting,30,100
+638,16,Double Kick,7,fighting,30,100
+638,11,Metal Claw,13,steel,50,95
+638,14,Metal Claw,13,steel,50,95
+638,15,Metal Claw,13,steel,50,95
+638,16,Metal Claw,13,steel,50,95
+638,11,Take Down,19,normal,90,85
+638,14,Take Down,19,normal,90,85
+638,15,Take Down,19,normal,90,85
+638,16,Take Down,19,normal,90,85
+638,11,Helping Hand,25,normal,-,-
+638,14,Helping Hand,25,normal,-,-
+638,15,Helping Hand,25,normal,-,-
+638,16,Helping Hand,25,normal,-,-
+638,11,Retaliate,31,normal,70,100
+638,14,Retaliate,31,normal,70,100
+638,15,Retaliate,31,normal,70,100
+638,16,Retaliate,31,normal,70,100
+638,11,Iron Head,37,steel,80,100
+638,14,Iron Head,37,steel,80,100
+638,15,Iron Head,37,steel,80,100
+638,16,Iron Head,37,steel,80,100
+638,11,Sacred Sword,42,fighting,90,100
+638,14,Sacred Sword,42,fighting,90,100
+638,15,Sacred Sword,42,fighting,90,100
+638,16,Sacred Sword,42,fighting,90,100
+638,11,Swords Dance,49,normal,-,-
+638,14,Swords Dance,49,normal,-,-
+638,15,Swords Dance,49,normal,-,-
+638,16,Swords Dance,49,normal,-,-
+638,11,Quick Guard,55,fighting,-,-
+638,14,Quick Guard,55,fighting,-,-
+638,15,Quick Guard,55,fighting,-,-
+638,16,Quick Guard,55,fighting,-,-
+638,11,Work Up,61,normal,-,-
+638,14,Work Up,61,normal,-,-
+638,15,Work Up,61,normal,-,-
+638,16,Work Up,61,normal,-,-
+638,11,Metal Burst,67,steel,-,100
+638,14,Metal Burst,67,steel,-,100
+638,15,Metal Burst,67,steel,-,100
+638,16,Metal Burst,67,steel,-,100
+638,11,Close Combat,73,fighting,120,100
+638,14,Close Combat,73,fighting,120,100
+638,15,Close Combat,73,fighting,120,100
+638,16,Close Combat,73,fighting,120,100

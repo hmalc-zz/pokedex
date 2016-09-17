@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+648,11,Round,1,normal,60,100
+648,14,Round,1,normal,60,100
+648,15,Round,1,normal,60,100
+648,16,Round,1,normal,60,100
+648,11,Quick Attack,6,normal,40,100
+648,14,Quick Attack,6,normal,40,100
+648,15,Quick Attack,6,normal,40,100
+648,16,Quick Attack,6,normal,40,100
+648,11,Confusion,11,psychic,50,100
+648,14,Confusion,11,psychic,50,100
+648,15,Confusion,11,psychic,50,100
+648,16,Confusion,11,psychic,50,100
+648,11,Sing,16,normal,-,55
+648,14,Sing,16,normal,-,55
+648,15,Sing,16,normal,-,55
+648,16,Sing,16,normal,-,55
+648,11,Teeter Dance,21,normal,-,100
+648,14,Teeter Dance,21,normal,-,100
+648,15,Teeter Dance,21,normal,-,100
+648,16,Teeter Dance,21,normal,-,100
+648,11,Acrobatics,26,flying,55,100
+648,14,Acrobatics,26,flying,55,100
+648,15,Acrobatics,26,flying,55,100
+648,16,Acrobatics,26,flying,55,100
+648,11,Psybeam,31,psychic,65,100
+648,14,Psybeam,31,psychic,65,100
+648,15,Psybeam,31,psychic,65,100
+648,16,Psybeam,31,psychic,65,100
+648,11,Echoed Voice,36,normal,40,100
+648,14,Echoed Voice,36,normal,40,100
+648,15,Echoed Voice,36,normal,40,100
+648,16,Echoed Voice,36,normal,40,100
+648,11,U-turn,43,bug,70,100
+648,14,U-turn,43,bug,70,100
+648,15,U-turn,43,bug,70,100
+648,16,U-turn,43,bug,70,100
+648,11,Wake-Up Slap,50,fighting,70,100
+648,14,Wake-Up Slap,50,fighting,70,100
+648,15,Wake-Up Slap,50,fighting,70,100
+648,16,Wake-Up Slap,50,fighting,70,100
+648,11,Psychic,57,psychic,90,100
+648,14,Psychic,57,psychic,90,100
+648,15,Psychic,57,psychic,90,100
+648,16,Psychic,57,psychic,90,100
+648,11,Hyper Voice,64,normal,90,100
+648,14,Hyper Voice,64,normal,90,100
+648,15,Hyper Voice,64,normal,90,100
+648,16,Hyper Voice,64,normal,90,100
+648,11,Role Play,71,psychic,-,-
+648,14,Role Play,71,psychic,-,-
+648,15,Role Play,71,psychic,-,-
+648,16,Role Play,71,psychic,-,-
+648,11,Close Combat,78,fighting,120,100
+648,14,Close Combat,78,fighting,120,100
+648,15,Close Combat,78,fighting,120,100
+648,16,Close Combat,78,fighting,120,100
+648,11,Perish Song,85,normal,-,-
+648,14,Perish Song,85,normal,-,-
+648,15,Perish Song,85,normal,-,-
+648,16,Perish Song,85,normal,-,-

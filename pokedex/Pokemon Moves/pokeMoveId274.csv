@@ -1,0 +1,129 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+274,5,Pound,1,normal,40,100
+274,6,Pound,1,normal,40,100
+274,7,Pound,1,normal,40,100
+274,8,Pound,1,normal,40,100
+274,8,Razor Leaf,1,grass,55,95
+274,9,Pound,1,normal,40,100
+274,9,Razor Leaf,1,grass,55,95
+274,10,Pound,1,normal,40,100
+274,10,Razor Leaf,1,grass,55,95
+274,11,Pound,1,normal,40,100
+274,11,Razor Leaf,1,grass,55,95
+274,12,Pound,1,normal,40,100
+274,13,Pound,1,normal,40,100
+274,14,Pound,1,normal,40,100
+274,14,Razor Leaf,1,grass,55,95
+274,15,Pound,1,normal,40,100
+274,15,Razor Leaf,1,grass,55,95
+274,16,Pound,1,normal,40,100
+274,5,Harden,3,normal,-,-
+274,6,Harden,3,normal,-,-
+274,7,Harden,3,normal,-,-
+274,8,Harden,3,normal,-,-
+274,9,Harden,3,normal,-,-
+274,10,Harden,3,normal,-,-
+274,11,Harden,3,normal,-,-
+274,12,Harden,3,normal,-,-
+274,13,Harden,3,normal,-,-
+274,14,Harden,3,normal,-,-
+274,15,Harden,3,normal,-,-
+274,16,Harden,3,normal,-,-
+274,16,Growth,6,normal,-,-
+274,5,Growth,7,normal,-,-
+274,6,Growth,7,normal,-,-
+274,7,Growth,7,normal,-,-
+274,8,Growth,7,normal,-,-
+274,9,Growth,7,normal,-,-
+274,10,Growth,7,normal,-,-
+274,11,Growth,7,normal,-,-
+274,12,Growth,7,normal,-,-
+274,13,Growth,7,normal,-,-
+274,14,Growth,7,normal,-,-
+274,15,Growth,7,normal,-,-
+274,16,Nature Power,9,normal,-,-
+274,16,Fake Out,12,normal,40,100
+274,5,Nature Power,13,normal,-,-
+274,6,Nature Power,13,normal,-,-
+274,7,Nature Power,13,normal,-,-
+274,8,Nature Power,13,normal,-,-
+274,9,Nature Power,13,normal,-,-
+274,10,Nature Power,13,normal,-,-
+274,11,Nature Power,13,normal,-,-
+274,12,Nature Power,13,normal,-,-
+274,13,Nature Power,13,normal,-,-
+274,14,Nature Power,13,normal,-,-
+274,15,Nature Power,13,normal,-,-
+274,16,Razor Leaf,14,grass,55,95
+274,16,Torment,16,dark,-,100
+274,5,Fake Out,19,normal,40,100
+274,6,Fake Out,19,normal,40,100
+274,7,Fake Out,19,normal,40,100
+274,8,Fake Out,19,normal,40,100
+274,9,Fake Out,19,normal,40,100
+274,10,Fake Out,19,normal,40,100
+274,11,Fake Out,19,normal,40,100
+274,12,Fake Out,19,normal,40,100
+274,13,Fake Out,19,normal,40,100
+274,14,Fake Out,19,normal,40,100
+274,15,Fake Out,19,normal,40,100
+274,16,Razor Wind,20,normal,80,100
+274,16,Feint Attack,24,dark,60,-
+274,5,Torment,25,dark,-,100
+274,6,Torment,25,dark,-,100
+274,7,Torment,25,dark,-,100
+274,8,Torment,25,dark,-,100
+274,9,Torment,25,dark,-,100
+274,10,Torment,25,dark,-,100
+274,11,Torment,25,dark,-,100
+274,12,Torment,25,dark,-,100
+274,13,Torment,25,dark,-,100
+274,14,Torment,25,dark,-,100
+274,15,Torment,25,dark,-,100
+274,16,Leaf Blade,28,grass,90,100
+274,5,Feint Attack,31,dark,60,-
+274,6,Feint Attack,31,dark,60,-
+274,7,Feint Attack,31,dark,60,-
+274,8,Feint Attack,31,dark,60,-
+274,9,Feint Attack,31,dark,60,-
+274,10,Feint Attack,31,dark,60,-
+274,11,Feint Attack,31,dark,60,-
+274,12,Feint Attack,31,dark,60,-
+274,13,Feint Attack,31,dark,60,-
+274,14,Feint Attack,31,dark,60,-
+274,15,Feint Attack,31,dark,60,-
+274,16,Swagger,32,normal,-,90
+274,16,Extrasensory,36,psychic,80,100
+274,5,Razor Wind,37,normal,80,100
+274,6,Razor Wind,37,normal,80,100
+274,7,Razor Wind,37,normal,80,100
+274,8,Razor Wind,37,normal,80,100
+274,9,Razor Wind,37,normal,80,100
+274,10,Razor Wind,37,normal,80,100
+274,11,Razor Wind,37,normal,80,100
+274,12,Razor Wind,37,normal,80,100
+274,13,Razor Wind,37,normal,80,100
+274,14,Razor Wind,37,normal,80,100
+274,15,Razor Wind,37,normal,80,100
+274,5,Swagger,43,normal,-,90
+274,6,Swagger,43,normal,-,90
+274,7,Swagger,43,normal,-,90
+274,8,Swagger,43,normal,-,90
+274,9,Swagger,43,normal,-,90
+274,10,Swagger,43,normal,-,90
+274,11,Swagger,43,normal,-,90
+274,12,Swagger,43,normal,-,90
+274,13,Swagger,43,normal,-,90
+274,14,Swagger,43,normal,-,90
+274,15,Swagger,43,normal,-,90
+274,5,Extrasensory,49,psychic,80,100
+274,6,Extrasensory,49,psychic,80,100
+274,7,Extrasensory,49,psychic,80,100
+274,8,Extrasensory,49,psychic,80,100
+274,9,Extrasensory,49,psychic,80,100
+274,10,Extrasensory,49,psychic,80,100
+274,11,Extrasensory,49,psychic,80,100
+274,12,Extrasensory,49,psychic,80,100
+274,13,Extrasensory,49,psychic,80,100
+274,14,Extrasensory,49,psychic,80,100
+274,15,Extrasensory,49,psychic,80,100

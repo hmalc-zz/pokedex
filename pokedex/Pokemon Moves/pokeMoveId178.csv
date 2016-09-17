@@ -1,0 +1,176 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+178,3,Leer,1,normal,-,100
+178,3,Peck,1,flying,35,100
+178,3,Night Shade,1,ghost,-,100
+178,4,Leer,1,normal,-,100
+178,4,Peck,1,flying,35,100
+178,4,Night Shade,1,ghost,-,100
+178,5,Leer,1,normal,-,100
+178,5,Peck,1,flying,35,100
+178,6,Leer,1,normal,-,100
+178,6,Peck,1,flying,35,100
+178,7,Leer,1,normal,-,100
+178,7,Peck,1,flying,35,100
+178,8,Leer,1,normal,-,100
+178,8,Peck,1,flying,35,100
+178,9,Leer,1,normal,-,100
+178,9,Peck,1,flying,35,100
+178,10,Leer,1,normal,-,100
+178,10,Peck,1,flying,35,100
+178,11,Leer,1,normal,-,100
+178,11,Peck,1,flying,35,100
+178,12,Leer,1,normal,-,100
+178,12,Peck,1,flying,35,100
+178,13,Leer,1,normal,-,100
+178,13,Peck,1,flying,35,100
+178,14,Leer,1,normal,-,100
+178,14,Peck,1,flying,35,100
+178,15,Leer,1,normal,-,100
+178,15,Peck,1,flying,35,100
+178,16,Leer,1,normal,-,100
+178,16,Peck,1,flying,35,100
+178,16,Teleport,1,psychic,-,-
+178,16,Night Shade,1,ghost,-,100
+178,16,Tailwind,1,flying,-,-
+178,8,Night Shade,6,ghost,-,100
+178,9,Night Shade,6,ghost,-,100
+178,10,Night Shade,6,ghost,-,100
+178,11,Night Shade,6,ghost,-,100
+178,14,Night Shade,6,ghost,-,100
+178,15,Night Shade,6,ghost,-,100
+178,16,Night Shade,6,ghost,-,100
+178,8,Teleport,9,psychic,-,-
+178,9,Teleport,9,psychic,-,-
+178,10,Teleport,9,psychic,-,-
+178,11,Teleport,9,psychic,-,-
+178,14,Teleport,9,psychic,-,-
+178,15,Teleport,9,psychic,-,-
+178,16,Teleport,9,psychic,-,-
+178,3,Night Shade,10,ghost,-,100
+178,4,Night Shade,10,ghost,-,100
+178,5,Night Shade,10,ghost,-,100
+178,6,Night Shade,10,ghost,-,100
+178,7,Night Shade,10,ghost,-,100
+178,12,Night Shade,10,ghost,-,100
+178,13,Night Shade,10,ghost,-,100
+178,8,Lucky Chant,12,normal,-,-
+178,9,Lucky Chant,12,normal,-,-
+178,10,Lucky Chant,12,normal,-,-
+178,11,Lucky Chant,12,normal,-,-
+178,14,Lucky Chant,12,normal,-,-
+178,15,Lucky Chant,12,normal,-,-
+178,16,Lucky Chant,12,normal,-,-
+178,8,Miracle Eye,17,psychic,-,-
+178,9,Miracle Eye,17,psychic,-,-
+178,10,Miracle Eye,17,psychic,-,-
+178,11,Miracle Eye,17,psychic,-,-
+178,14,Miracle Eye,17,psychic,-,-
+178,15,Miracle Eye,17,psychic,-,-
+178,16,Stored Power,17,psychic,20,100
+178,3,Teleport,20,psychic,-,-
+178,4,Teleport,20,psychic,-,-
+178,5,Teleport,20,psychic,-,-
+178,6,Teleport,20,psychic,-,-
+178,7,Teleport,20,psychic,-,-
+178,8,Me First,20,normal,-,-
+178,9,Me First,20,normal,-,-
+178,10,Me First,20,normal,-,-
+178,11,Me First,20,normal,-,-
+178,12,Teleport,20,psychic,-,-
+178,13,Teleport,20,psychic,-,-
+178,14,Me First,20,normal,-,-
+178,15,Me First,20,normal,-,-
+178,16,Ominous Wind,20,ghost,60,100
+178,8,Confuse Ray,23,ghost,-,100
+178,9,Confuse Ray,23,ghost,-,100
+178,10,Confuse Ray,23,ghost,-,100
+178,11,Confuse Ray,23,ghost,-,100
+178,14,Confuse Ray,23,ghost,-,100
+178,15,Confuse Ray,23,ghost,-,100
+178,16,Confuse Ray,23,ghost,-,100
+178,16,Air Slash,25,flying,75,95
+178,8,Tailwind,27,flying,-,-
+178,9,Tailwind,27,flying,-,-
+178,10,Tailwind,27,flying,-,-
+178,11,Tailwind,27,flying,-,-
+178,14,Tailwind,27,flying,-,-
+178,15,Tailwind,27,flying,-,-
+178,16,Wish,29,normal,-,-
+178,8,Wish,30,normal,-,-
+178,9,Wish,30,normal,-,-
+178,10,Wish,30,normal,-,-
+178,11,Wish,30,normal,-,-
+178,14,Wish,30,normal,-,-
+178,15,Wish,30,normal,-,-
+178,3,Future Sight,35,psychic,120,100
+178,4,Future Sight,35,psychic,120,100
+178,5,Future Sight,35,psychic,120,100
+178,5,Wish,35,normal,-,-
+178,6,Future Sight,35,psychic,120,100
+178,6,Wish,35,normal,-,-
+178,7,Future Sight,35,psychic,120,100
+178,7,Wish,35,normal,-,-
+178,12,Future Sight,35,psychic,120,100
+178,12,Wish,35,normal,-,-
+178,13,Future Sight,35,psychic,120,100
+178,13,Wish,35,normal,-,-
+178,16,Psychic,35,psychic,90,100
+178,8,Psycho Shift,37,psychic,-,100
+178,9,Psycho Shift,37,psychic,-,100
+178,10,Psycho Shift,37,psychic,-,100
+178,11,Psycho Shift,37,psychic,-,100
+178,14,Psycho Shift,37,psychic,-,100
+178,15,Psycho Shift,37,psychic,-,100
+178,16,Miracle Eye,39,psychic,-,-
+178,8,Future Sight,42,psychic,120,100
+178,9,Future Sight,42,psychic,120,100
+178,10,Future Sight,42,psychic,120,100
+178,11,Future Sight,42,psychic,120,100
+178,14,Future Sight,42,psychic,120,100
+178,15,Future Sight,42,psychic,120,100
+178,16,Psycho Shift,43,psychic,-,100
+178,8,Ominous Wind,47,ghost,60,100
+178,9,Ominous Wind,47,ghost,60,100
+178,10,Ominous Wind,47,ghost,60,100
+178,11,Stored Power,47,psychic,20,100
+178,14,Stored Power,47,psychic,20,100
+178,15,Stored Power,47,psychic,20,100
+178,16,Future Sight,49,psychic,120,100
+178,3,Confuse Ray,50,ghost,-,100
+178,4,Confuse Ray,50,ghost,-,100
+178,5,Confuse Ray,50,ghost,-,100
+178,6,Confuse Ray,50,ghost,-,100
+178,7,Confuse Ray,50,ghost,-,100
+178,12,Confuse Ray,50,ghost,-,100
+178,13,Confuse Ray,50,ghost,-,100
+178,16,Power Swap,53,psychic,-,-
+178,16,Guard Swap,53,psychic,-,-
+178,8,Power Swap,54,psychic,-,-
+178,8,Guard Swap,54,psychic,-,-
+178,9,Power Swap,54,psychic,-,-
+178,9,Guard Swap,54,psychic,-,-
+178,10,Power Swap,54,psychic,-,-
+178,10,Guard Swap,54,psychic,-,-
+178,11,Power Swap,54,psychic,-,-
+178,11,Ominous Wind,54,ghost,60,100
+178,14,Power Swap,54,psychic,-,-
+178,14,Ominous Wind,54,ghost,60,100
+178,15,Power Swap,54,psychic,-,-
+178,15,Ominous Wind,54,ghost,60,100
+178,16,Me First,57,normal,-,-
+178,8,Psychic,59,psychic,90,100
+178,9,Psychic,59,psychic,90,100
+178,10,Psychic,59,psychic,90,100
+178,11,Guard Swap,59,psychic,-,-
+178,14,Guard Swap,59,psychic,-,-
+178,15,Guard Swap,59,psychic,-,-
+178,3,Psychic,65,psychic,90,100
+178,4,Psychic,65,psychic,90,100
+178,5,Psychic,65,psychic,90,100
+178,6,Psychic,65,psychic,90,100
+178,7,Psychic,65,psychic,90,100
+178,12,Psychic,65,psychic,90,100
+178,13,Psychic,65,psychic,90,100
+178,11,Psychic,66,psychic,90,100
+178,14,Psychic,66,psychic,90,100
+178,15,Psychic,66,psychic,90,100

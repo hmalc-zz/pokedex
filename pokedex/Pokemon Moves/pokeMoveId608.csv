@@ -1,0 +1,77 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+608,11,Ember,1,fire,40,100
+608,11,Minimize,1,normal,-,-
+608,11,Smog,1,poison,30,70
+608,11,Astonish,1,ghost,30,100
+608,14,Ember,1,fire,40,100
+608,14,Minimize,1,normal,-,-
+608,14,Smog,1,poison,30,70
+608,14,Astonish,1,ghost,30,100
+608,15,Ember,1,fire,40,100
+608,15,Minimize,1,normal,-,-
+608,15,Smog,1,poison,30,70
+608,15,Astonish,1,ghost,30,100
+608,16,Ember,1,fire,40,100
+608,16,Minimize,1,normal,-,-
+608,16,Smog,1,poison,30,70
+608,16,Astonish,1,ghost,30,100
+608,11,Minimize,3,normal,-,-
+608,14,Minimize,3,normal,-,-
+608,15,Minimize,3,normal,-,-
+608,16,Minimize,3,normal,-,-
+608,11,Smog,5,poison,30,70
+608,14,Smog,5,poison,30,70
+608,15,Smog,5,poison,30,70
+608,16,Smog,5,poison,30,70
+608,11,Fire Spin,7,fire,35,85
+608,14,Fire Spin,7,fire,35,85
+608,15,Fire Spin,7,fire,35,85
+608,16,Fire Spin,7,fire,35,85
+608,11,Confuse Ray,10,ghost,-,100
+608,14,Confuse Ray,10,ghost,-,100
+608,15,Confuse Ray,10,ghost,-,100
+608,16,Confuse Ray,10,ghost,-,100
+608,11,Night Shade,13,ghost,-,100
+608,14,Night Shade,13,ghost,-,100
+608,15,Night Shade,13,ghost,-,100
+608,16,Night Shade,13,ghost,-,100
+608,11,Will-O-Wisp,16,fire,-,85
+608,14,Will-O-Wisp,16,fire,-,85
+608,15,Will-O-Wisp,16,fire,-,85
+608,16,Will-O-Wisp,16,fire,-,85
+608,11,Flame Burst,20,fire,70,100
+608,14,Flame Burst,20,fire,70,100
+608,15,Flame Burst,20,fire,70,100
+608,16,Flame Burst,20,fire,70,100
+608,11,Imprison,24,psychic,-,-
+608,14,Imprison,24,psychic,-,-
+608,15,Imprison,24,psychic,-,-
+608,16,Imprison,24,psychic,-,-
+608,11,Hex,28,ghost,65,100
+608,14,Hex,28,ghost,65,100
+608,15,Hex,28,ghost,65,100
+608,16,Hex,28,ghost,65,100
+608,11,Memento,33,dark,-,100
+608,14,Memento,33,dark,-,100
+608,15,Memento,33,dark,-,100
+608,16,Memento,33,dark,-,100
+608,11,Inferno,38,fire,100,50
+608,14,Inferno,38,fire,100,50
+608,15,Inferno,38,fire,100,50
+608,16,Inferno,38,fire,100,50
+608,11,Curse,45,ghost,-,-
+608,14,Curse,45,ghost,-,-
+608,15,Curse,45,ghost,-,-
+608,16,Curse,45,ghost,-,-
+608,11,Shadow Ball,53,ghost,80,100
+608,14,Shadow Ball,53,ghost,80,100
+608,15,Shadow Ball,53,ghost,80,100
+608,16,Shadow Ball,53,ghost,80,100
+608,11,Pain Split,61,normal,-,-
+608,14,Pain Split,61,normal,-,-
+608,15,Pain Split,61,normal,-,-
+608,16,Pain Split,61,normal,-,-
+608,11,Overheat,69,fire,130,90
+608,14,Overheat,69,fire,130,90
+608,15,Overheat,69,fire,130,90
+608,16,Overheat,69,fire,130,90

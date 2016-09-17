@@ -1,0 +1,106 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+31,1,Scratch,1,normal,40,100
+31,1,Tackle,1,normal,50,100
+31,1,Body Slam,1,normal,85,100
+31,1,Tail Whip,1,normal,-,100
+31,2,Scratch,1,normal,40,100
+31,2,Tackle,1,normal,50,100
+31,2,Body Slam,1,normal,85,100
+31,2,Tail Whip,1,normal,-,100
+31,3,Scratch,1,normal,40,100
+31,3,Double Kick,1,fighting,30,100
+31,3,Tackle,1,normal,50,100
+31,3,Tail Whip,1,normal,-,100
+31,4,Scratch,1,normal,40,100
+31,4,Double Kick,1,fighting,30,100
+31,4,Tackle,1,normal,50,100
+31,4,Tail Whip,1,normal,-,100
+31,5,Scratch,1,normal,40,100
+31,5,Double Kick,1,fighting,30,100
+31,5,Tail Whip,1,normal,-,100
+31,5,Poison Sting,1,poison,15,100
+31,6,Scratch,1,normal,40,100
+31,6,Double Kick,1,fighting,30,100
+31,6,Tail Whip,1,normal,-,100
+31,6,Poison Sting,1,poison,15,100
+31,7,Scratch,1,normal,40,100
+31,7,Double Kick,1,fighting,30,100
+31,7,Tail Whip,1,normal,-,100
+31,7,Poison Sting,1,poison,15,100
+31,8,Scratch,1,normal,40,100
+31,8,Double Kick,1,fighting,30,100
+31,8,Tail Whip,1,normal,-,100
+31,8,Poison Sting,1,poison,15,100
+31,9,Scratch,1,normal,40,100
+31,9,Double Kick,1,fighting,30,100
+31,9,Tail Whip,1,normal,-,100
+31,9,Poison Sting,1,poison,15,100
+31,10,Scratch,1,normal,40,100
+31,10,Double Kick,1,fighting,30,100
+31,10,Tail Whip,1,normal,-,100
+31,10,Poison Sting,1,poison,15,100
+31,11,Scratch,1,normal,40,100
+31,11,Double Kick,1,fighting,30,100
+31,11,Tail Whip,1,normal,-,100
+31,11,Poison Sting,1,poison,15,100
+31,12,Scratch,1,normal,40,100
+31,12,Double Kick,1,fighting,30,100
+31,12,Tail Whip,1,normal,-,100
+31,12,Poison Sting,1,poison,15,100
+31,13,Scratch,1,normal,40,100
+31,13,Double Kick,1,fighting,30,100
+31,13,Tail Whip,1,normal,-,100
+31,13,Poison Sting,1,poison,15,100
+31,14,Scratch,1,normal,40,100
+31,14,Double Kick,1,fighting,30,100
+31,14,Tail Whip,1,normal,-,100
+31,14,Poison Sting,1,poison,15,100
+31,15,Scratch,1,normal,40,100
+31,15,Double Kick,1,fighting,30,100
+31,15,Tail Whip,1,normal,-,100
+31,15,Poison Sting,1,poison,15,100
+31,15,Superpower,1,fighting,120,100
+31,16,Scratch,1,normal,40,100
+31,16,Double Kick,1,fighting,30,100
+31,16,Tail Whip,1,normal,-,100
+31,16,Poison Sting,1,poison,15,100
+31,16,Superpower,1,fighting,120,100
+31,1,Scratch,8,normal,40,100
+31,2,Scratch,8,normal,40,100
+31,2,Double Kick,12,fighting,30,100
+31,1,Poison Sting,14,poison,15,100
+31,7,Body Slam,22,normal,85,100
+31,1,Body Slam,23,normal,85,100
+31,2,Body Slam,23,normal,85,100
+31,3,Body Slam,23,normal,85,100
+31,4,Body Slam,23,normal,85,100
+31,5,Body Slam,23,normal,85,100
+31,6,Body Slam,23,normal,85,100
+31,8,Body Slam,23,normal,85,100
+31,9,Body Slam,23,normal,85,100
+31,10,Body Slam,23,normal,85,100
+31,11,Chip Away,23,normal,70,100
+31,12,Body Slam,23,normal,85,100
+31,13,Body Slam,23,normal,85,100
+31,14,Chip Away,23,normal,70,100
+31,15,Chip Away,23,normal,70,100
+31,16,Chip Away,23,normal,70,100
+31,11,Body Slam,35,normal,85,100
+31,14,Body Slam,35,normal,85,100
+31,15,Body Slam,35,normal,85,100
+31,16,Body Slam,35,normal,85,100
+31,7,Superpower,43,fighting,120,100
+31,8,Earth Power,43,ground,90,100
+31,9,Earth Power,43,ground,90,100
+31,10,Earth Power,43,ground,90,100
+31,11,Earth Power,43,ground,90,100
+31,14,Earth Power,43,ground,90,100
+31,15,Earth Power,43,ground,90,100
+31,16,Earth Power,43,ground,90,100
+31,8,Superpower,58,fighting,120,100
+31,9,Superpower,58,fighting,120,100
+31,10,Superpower,58,fighting,120,100
+31,11,Superpower,58,fighting,120,100
+31,14,Superpower,58,fighting,120,100
+31,15,Superpower,58,fighting,120,100
+31,16,Superpower,58,fighting,120,100

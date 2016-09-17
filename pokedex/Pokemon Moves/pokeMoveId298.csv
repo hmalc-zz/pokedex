@@ -1,0 +1,85 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+298,5,Splash,1,normal,-,-
+298,6,Splash,1,normal,-,-
+298,7,Splash,1,normal,-,-
+298,8,Splash,1,normal,-,-
+298,9,Splash,1,normal,-,-
+298,10,Splash,1,normal,-,-
+298,11,Splash,1,normal,-,-
+298,12,Splash,1,normal,-,-
+298,13,Splash,1,normal,-,-
+298,14,Bubble,1,water,40,100
+298,14,Splash,1,normal,-,-
+298,15,Water Gun,1,water,40,100
+298,15,Splash,1,normal,-,-
+298,16,Water Gun,1,water,40,100
+298,16,Splash,1,normal,-,-
+298,8,Charm,2,fairy,-,100
+298,9,Charm,2,fairy,-,100
+298,10,Charm,2,fairy,-,100
+298,11,Charm,2,fairy,-,100
+298,14,Tail Whip,2,normal,-,100
+298,15,Tail Whip,2,normal,-,100
+298,16,Tail Whip,2,normal,-,100
+298,5,Charm,3,fairy,-,100
+298,6,Charm,3,fairy,-,100
+298,7,Charm,3,fairy,-,100
+298,12,Charm,3,fairy,-,100
+298,13,Charm,3,fairy,-,100
+298,14,Water Sport,5,water,-,-
+298,15,Water Sport,5,water,-,-
+298,16,Water Sport,5,water,-,-
+298,5,Tail Whip,6,normal,-,100
+298,6,Tail Whip,6,normal,-,100
+298,7,Tail Whip,6,normal,-,100
+298,12,Tail Whip,6,normal,-,100
+298,13,Tail Whip,6,normal,-,100
+298,8,Tail Whip,7,normal,-,100
+298,9,Tail Whip,7,normal,-,100
+298,10,Tail Whip,7,normal,-,100
+298,11,Tail Whip,7,normal,-,100
+298,14,Water Gun,7,water,40,100
+298,15,Bubble,7,water,40,100
+298,16,Bubble,7,water,40,100
+298,5,Bubble,10,water,40,100
+298,6,Bubble,10,water,40,100
+298,7,Bubble,10,water,40,100
+298,8,Bubble,10,water,40,100
+298,9,Bubble,10,water,40,100
+298,10,Bubble,10,water,40,100
+298,11,Bubble,10,water,40,100
+298,12,Bubble,10,water,40,100
+298,13,Bubble,10,water,40,100
+298,14,Charm,10,fairy,-,100
+298,15,Charm,10,fairy,-,100
+298,16,Charm,10,fairy,-,100
+298,14,Bubble Beam,13,water,65,100
+298,15,Bubble Beam,13,water,65,100
+298,16,Bubble Beam,13,water,65,100
+298,5,Slam,15,normal,80,75
+298,6,Slam,15,normal,80,75
+298,7,Slam,15,normal,80,75
+298,8,Slam,15,normal,80,75
+298,9,Slam,15,normal,80,75
+298,10,Slam,15,normal,80,75
+298,11,Slam,15,normal,80,75
+298,12,Slam,15,normal,80,75
+298,13,Slam,15,normal,80,75
+298,14,Helping Hand,16,normal,-,-
+298,15,Helping Hand,16,normal,-,-
+298,16,Helping Hand,16,normal,-,-
+298,8,Water Gun,18,water,40,100
+298,9,Water Gun,18,water,40,100
+298,10,Water Gun,18,water,40,100
+298,11,Water Gun,18,water,40,100
+298,14,Slam,20,normal,80,75
+298,15,Slam,20,normal,80,75
+298,16,Slam,20,normal,80,75
+298,5,Water Gun,21,water,40,100
+298,6,Water Gun,21,water,40,100
+298,7,Water Gun,21,water,40,100
+298,12,Water Gun,21,water,40,100
+298,13,Water Gun,21,water,40,100
+298,14,Bounce,23,flying,85,85
+298,15,Bounce,23,flying,85,85
+298,16,Bounce,23,flying,85,85

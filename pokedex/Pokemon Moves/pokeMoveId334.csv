@@ -1,0 +1,214 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+334,5,Growl,1,normal,-,100
+334,5,Sing,1,normal,-,55
+334,5,Peck,1,flying,35,100
+334,5,Astonish,1,ghost,30,100
+334,6,Growl,1,normal,-,100
+334,6,Sing,1,normal,-,55
+334,6,Peck,1,flying,35,100
+334,6,Astonish,1,ghost,30,100
+334,7,Growl,1,normal,-,100
+334,7,Sing,1,normal,-,55
+334,7,Peck,1,flying,35,100
+334,7,Astonish,1,ghost,30,100
+334,8,Growl,1,normal,-,100
+334,8,Sing,1,normal,-,55
+334,8,Peck,1,flying,35,100
+334,8,Astonish,1,ghost,30,100
+334,8,Pluck,1,flying,60,100
+334,9,Growl,1,normal,-,100
+334,9,Sing,1,normal,-,55
+334,9,Peck,1,flying,35,100
+334,9,Astonish,1,ghost,30,100
+334,9,Pluck,1,flying,60,100
+334,10,Growl,1,normal,-,100
+334,10,Sing,1,normal,-,55
+334,10,Peck,1,flying,35,100
+334,10,Astonish,1,ghost,30,100
+334,10,Pluck,1,flying,60,100
+334,11,Growl,1,normal,-,100
+334,11,Sing,1,normal,-,55
+334,11,Peck,1,flying,35,100
+334,11,Astonish,1,ghost,30,100
+334,11,Pluck,1,flying,60,100
+334,12,Growl,1,normal,-,100
+334,12,Sing,1,normal,-,55
+334,12,Peck,1,flying,35,100
+334,12,Astonish,1,ghost,30,100
+334,13,Growl,1,normal,-,100
+334,13,Sing,1,normal,-,55
+334,13,Peck,1,flying,35,100
+334,13,Astonish,1,ghost,30,100
+334,14,Growl,1,normal,-,100
+334,14,Sing,1,normal,-,55
+334,14,Peck,1,flying,35,100
+334,14,Astonish,1,ghost,30,100
+334,14,Pluck,1,flying,60,100
+334,15,Growl,1,normal,-,100
+334,15,Sing,1,normal,-,55
+334,15,Peck,1,flying,35,100
+334,15,Sky Attack,1,flying,140,90
+334,15,Astonish,1,ghost,30,100
+334,15,Pluck,1,flying,60,100
+334,16,Growl,1,normal,-,100
+334,16,Sing,1,normal,-,55
+334,16,Peck,1,flying,35,100
+334,16,Sky Attack,1,flying,140,90
+334,16,Astonish,1,ghost,30,100
+334,16,Pluck,1,flying,60,100
+334,16,Astonish,3,ghost,30,100
+334,14,Astonish,4,ghost,30,100
+334,15,Astonish,4,ghost,30,100
+334,8,Astonish,5,ghost,30,100
+334,9,Astonish,5,ghost,30,100
+334,10,Astonish,5,ghost,30,100
+334,11,Astonish,5,ghost,30,100
+334,16,Sing,5,normal,-,55
+334,16,Fury Attack,7,normal,15,85
+334,5,Astonish,8,ghost,30,100
+334,6,Astonish,8,ghost,30,100
+334,7,Astonish,8,ghost,30,100
+334,12,Astonish,8,ghost,30,100
+334,13,Astonish,8,ghost,30,100
+334,14,Sing,8,normal,-,55
+334,15,Sing,8,normal,-,55
+334,8,Sing,9,normal,-,55
+334,9,Sing,9,normal,-,55
+334,10,Sing,9,normal,-,55
+334,11,Sing,9,normal,-,55
+334,16,Safeguard,9,normal,-,-
+334,14,Fury Attack,10,normal,15,85
+334,15,Fury Attack,10,normal,15,85
+334,5,Sing,11,normal,-,55
+334,6,Sing,11,normal,-,55
+334,7,Sing,11,normal,-,55
+334,12,Sing,11,normal,-,55
+334,13,Sing,11,normal,-,55
+334,16,Disarming Voice,11,fairy,40,-
+334,8,Fury Attack,13,normal,15,85
+334,9,Fury Attack,13,normal,15,85
+334,10,Fury Attack,13,normal,15,85
+334,11,Fury Attack,13,normal,15,85
+334,14,Safeguard,13,normal,-,-
+334,15,Safeguard,13,normal,-,-
+334,16,Mist,14,ice,-,-
+334,14,Mist,15,ice,-,-
+334,15,Mist,15,ice,-,-
+334,16,Round,17,normal,60,100
+334,5,Fury Attack,18,normal,15,85
+334,6,Fury Attack,18,normal,15,85
+334,7,Fury Attack,18,normal,15,85
+334,8,Safeguard,18,normal,-,-
+334,9,Safeguard,18,normal,-,-
+334,10,Safeguard,18,normal,-,-
+334,11,Safeguard,18,normal,-,-
+334,12,Fury Attack,18,normal,15,85
+334,13,Fury Attack,18,normal,15,85
+334,14,Round,18,normal,60,100
+334,15,Round,18,normal,60,100
+334,16,Natural Gift,20,normal,-,100
+334,5,Safeguard,21,normal,-,-
+334,6,Safeguard,21,normal,-,-
+334,7,Safeguard,21,normal,-,-
+334,12,Safeguard,21,normal,-,-
+334,13,Safeguard,21,normal,-,-
+334,14,Natural Gift,21,normal,-,100
+334,15,Natural Gift,21,normal,-,100
+334,8,Mist,23,ice,-,-
+334,9,Mist,23,ice,-,-
+334,10,Mist,23,ice,-,-
+334,11,Mist,23,ice,-,-
+334,16,Take Down,23,normal,90,85
+334,14,Take Down,25,normal,90,85
+334,15,Take Down,25,normal,90,85
+334,16,Refresh,26,normal,-,-
+334,5,Mist,28,ice,-,-
+334,6,Mist,28,ice,-,-
+334,7,Mist,28,ice,-,-
+334,8,Take Down,28,normal,90,85
+334,9,Take Down,28,normal,90,85
+334,10,Take Down,28,normal,90,85
+334,11,Take Down,28,normal,90,85
+334,12,Mist,28,ice,-,-
+334,13,Mist,28,ice,-,-
+334,14,Refresh,29,normal,-,-
+334,15,Refresh,29,normal,-,-
+334,16,Dragon Dance,30,dragon,-,-
+334,5,Take Down,31,normal,90,85
+334,6,Take Down,31,normal,90,85
+334,7,Take Down,31,normal,90,85
+334,12,Take Down,31,normal,90,85
+334,13,Take Down,31,normal,90,85
+334,8,Natural Gift,32,normal,-,100
+334,9,Natural Gift,32,normal,-,100
+334,10,Natural Gift,32,normal,-,100
+334,11,Natural Gift,32,normal,-,100
+334,14,Dragon Dance,34,dragon,-,-
+334,15,Dragon Dance,34,dragon,-,-
+334,16,Cotton Guard,34,grass,-,-
+334,5,Dragon Breath,35,dragon,60,100
+334,6,Dragon Breath,35,dragon,60,100
+334,7,Dragon Breath,35,dragon,60,100
+334,8,Dragon Breath,35,dragon,60,100
+334,9,Dragon Breath,35,dragon,60,100
+334,10,Dragon Breath,35,dragon,60,100
+334,11,Dragon Breath,35,dragon,60,100
+334,12,Dragon Breath,35,dragon,60,100
+334,13,Dragon Breath,35,dragon,60,100
+334,14,Dragon Breath,35,dragon,60,100
+334,15,Dragon Breath,35,dragon,60,100
+334,16,Dragon Breath,35,dragon,60,100
+334,8,Dragon Dance,39,dragon,-,-
+334,9,Dragon Dance,39,dragon,-,-
+334,10,Dragon Dance,39,dragon,-,-
+334,11,Dragon Dance,39,dragon,-,-
+334,5,Dragon Dance,40,dragon,-,-
+334,6,Dragon Dance,40,dragon,-,-
+334,7,Dragon Dance,40,dragon,-,-
+334,12,Dragon Dance,40,dragon,-,-
+334,13,Dragon Dance,40,dragon,-,-
+334,16,Dragon Pulse,40,dragon,85,100
+334,14,Cotton Guard,42,grass,-,-
+334,15,Cotton Guard,42,grass,-,-
+334,5,Refresh,45,normal,-,-
+334,6,Refresh,45,normal,-,-
+334,7,Refresh,45,normal,-,-
+334,12,Refresh,45,normal,-,-
+334,13,Refresh,45,normal,-,-
+334,8,Refresh,46,normal,-,-
+334,9,Refresh,46,normal,-,-
+334,10,Refresh,46,normal,-,-
+334,11,Cotton Guard,46,grass,-,-
+334,16,Perish Song,46,normal,-,-
+334,14,Dragon Pulse,48,dragon,85,100
+334,15,Dragon Pulse,48,dragon,85,100
+334,16,Moonblast,52,fairy,95,100
+334,5,Perish Song,54,normal,-,-
+334,6,Perish Song,54,normal,-,-
+334,7,Perish Song,54,normal,-,-
+334,8,Dragon Pulse,54,dragon,85,100
+334,9,Dragon Pulse,54,dragon,85,100
+334,10,Dragon Pulse,54,dragon,85,100
+334,11,Refresh,54,normal,-,-
+334,12,Perish Song,54,normal,-,-
+334,13,Perish Song,54,normal,-,-
+334,14,Perish Song,57,normal,-,-
+334,15,Perish Song,57,normal,-,-
+334,5,Sky Attack,59,flying,140,90
+334,6,Sky Attack,59,flying,140,90
+334,7,Sky Attack,59,flying,140,90
+334,12,Sky Attack,59,flying,140,90
+334,13,Sky Attack,59,flying,140,90
+334,16,Sky Attack,59,flying,140,90
+334,15,Moonblast,60,fairy,95,100
+334,8,Perish Song,62,normal,-,-
+334,9,Perish Song,62,normal,-,-
+334,10,Perish Song,62,normal,-,-
+334,11,Dragon Pulse,62,dragon,85,100
+334,14,Sky Attack,64,flying,140,90
+334,15,Sky Attack,64,flying,140,90
+334,8,Sky Attack,70,flying,140,90
+334,9,Sky Attack,70,flying,140,90
+334,10,Sky Attack,70,flying,140,90
+334,11,Perish Song,70,normal,-,-
+334,11,Sky Attack,77,flying,140,90

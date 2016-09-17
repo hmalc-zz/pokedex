@@ -1,0 +1,75 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+569,11,Pound,1,normal,40,100
+569,11,Poison Gas,1,poison,-,90
+569,11,Recycle,1,normal,-,-
+569,11,Toxic Spikes,1,poison,-,-
+569,14,Pound,1,normal,40,100
+569,14,Poison Gas,1,poison,-,90
+569,14,Recycle,1,normal,-,-
+569,14,Toxic Spikes,1,poison,-,-
+569,15,Pound,1,normal,40,100
+569,15,Poison Gas,1,poison,-,90
+569,15,Recycle,1,normal,-,-
+569,15,Toxic Spikes,1,poison,-,-
+569,16,Pound,1,normal,40,100
+569,16,Poison Gas,1,poison,-,90
+569,16,Recycle,1,normal,-,-
+569,16,Toxic Spikes,1,poison,-,-
+569,11,Recycle,3,normal,-,-
+569,14,Recycle,3,normal,-,-
+569,15,Recycle,3,normal,-,-
+569,16,Recycle,3,normal,-,-
+569,11,Toxic Spikes,7,poison,-,-
+569,14,Toxic Spikes,7,poison,-,-
+569,15,Toxic Spikes,7,poison,-,-
+569,16,Toxic Spikes,7,poison,-,-
+569,11,Acid Spray,12,poison,40,100
+569,14,Acid Spray,12,poison,40,100
+569,15,Acid Spray,12,poison,40,100
+569,16,Acid Spray,12,poison,40,100
+569,11,Double Slap,14,normal,15,85
+569,14,Double Slap,14,normal,15,85
+569,15,Double Slap,14,normal,15,85
+569,16,Double Slap,14,normal,15,85
+569,11,Sludge,18,poison,65,100
+569,14,Sludge,18,poison,65,100
+569,15,Sludge,18,poison,65,100
+569,16,Sludge,18,poison,65,100
+569,11,Stockpile,23,normal,-,-
+569,11,Swallow,23,normal,-,-
+569,14,Stockpile,23,normal,-,-
+569,14,Swallow,23,normal,-,-
+569,15,Stockpile,23,normal,-,-
+569,15,Swallow,23,normal,-,-
+569,16,Stockpile,23,normal,-,-
+569,16,Swallow,23,normal,-,-
+569,11,Body Slam,25,normal,85,100
+569,14,Body Slam,25,normal,85,100
+569,15,Body Slam,25,normal,85,100
+569,16,Body Slam,25,normal,85,100
+569,11,Sludge Bomb,29,poison,90,100
+569,14,Sludge Bomb,29,poison,90,100
+569,15,Sludge Bomb,29,poison,90,100
+569,16,Sludge Bomb,29,poison,90,100
+569,11,Clear Smog,34,poison,50,-
+569,14,Clear Smog,34,poison,50,-
+569,15,Clear Smog,34,poison,50,-
+569,16,Clear Smog,34,poison,50,-
+569,11,Toxic,39,poison,-,90
+569,14,Toxic,39,poison,-,90
+569,15,Toxic,39,poison,-,90
+569,16,Toxic,39,poison,-,90
+569,11,Amnesia,46,psychic,-,-
+569,14,Amnesia,46,psychic,-,-
+569,15,Amnesia,46,psychic,-,-
+569,16,Amnesia,46,psychic,-,-
+569,15,Belch,49,poison,120,90
+569,16,Belch,49,poison,120,90
+569,11,Gunk Shot,54,poison,120,80
+569,14,Gunk Shot,54,poison,120,80
+569,15,Gunk Shot,54,poison,120,80
+569,16,Gunk Shot,54,poison,120,80
+569,11,Explosion,59,normal,250,100
+569,14,Explosion,59,normal,250,100
+569,15,Explosion,59,normal,250,100
+569,16,Explosion,59,normal,250,100

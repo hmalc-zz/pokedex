@@ -1,0 +1,146 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+258,5,Tackle,1,normal,50,100
+258,5,Growl,1,normal,-,100
+258,6,Tackle,1,normal,50,100
+258,6,Growl,1,normal,-,100
+258,7,Tackle,1,normal,50,100
+258,7,Growl,1,normal,-,100
+258,8,Tackle,1,normal,50,100
+258,8,Growl,1,normal,-,100
+258,9,Tackle,1,normal,50,100
+258,9,Growl,1,normal,-,100
+258,10,Tackle,1,normal,50,100
+258,10,Growl,1,normal,-,100
+258,11,Tackle,1,normal,50,100
+258,11,Growl,1,normal,-,100
+258,12,Tackle,1,normal,50,100
+258,12,Growl,1,normal,-,100
+258,13,Tackle,1,normal,50,100
+258,13,Growl,1,normal,-,100
+258,14,Tackle,1,normal,50,100
+258,14,Growl,1,normal,-,100
+258,15,Tackle,1,normal,50,100
+258,15,Growl,1,normal,-,100
+258,16,Tackle,1,normal,50,100
+258,16,Growl,1,normal,-,100
+258,16,Water Gun,4,water,40,100
+258,5,Mud-Slap,6,ground,20,100
+258,6,Mud-Slap,6,ground,20,100
+258,7,Mud-Slap,6,ground,20,100
+258,8,Mud-Slap,6,ground,20,100
+258,9,Mud-Slap,6,ground,20,100
+258,10,Mud-Slap,6,ground,20,100
+258,11,Mud-Slap,6,ground,20,100
+258,12,Mud-Slap,6,ground,20,100
+258,13,Mud-Slap,6,ground,20,100
+258,14,Mud-Slap,6,ground,20,100
+258,15,Mud-Slap,6,ground,20,100
+258,16,Mud-Slap,9,ground,20,100
+258,5,Water Gun,10,water,40,100
+258,6,Water Gun,10,water,40,100
+258,7,Water Gun,10,water,40,100
+258,8,Water Gun,10,water,40,100
+258,9,Water Gun,10,water,40,100
+258,10,Water Gun,10,water,40,100
+258,11,Water Gun,10,water,40,100
+258,12,Water Gun,10,water,40,100
+258,13,Water Gun,10,water,40,100
+258,14,Water Gun,10,water,40,100
+258,15,Water Gun,10,water,40,100
+258,16,Foresight,12,normal,-,-
+258,5,Bide,15,normal,-,-
+258,6,Bide,15,normal,-,-
+258,7,Bide,15,normal,-,-
+258,8,Bide,15,normal,-,-
+258,9,Bide,15,normal,-,-
+258,10,Bide,15,normal,-,-
+258,11,Bide,15,normal,-,-
+258,12,Bide,15,normal,-,-
+258,13,Bide,15,normal,-,-
+258,14,Bide,15,normal,-,-
+258,15,Bide,15,normal,-,-
+258,16,Bide,17,normal,-,-
+258,5,Foresight,19,normal,-,-
+258,6,Foresight,19,normal,-,-
+258,7,Foresight,19,normal,-,-
+258,8,Foresight,19,normal,-,-
+258,9,Foresight,19,normal,-,-
+258,10,Foresight,19,normal,-,-
+258,11,Foresight,19,normal,-,-
+258,12,Foresight,19,normal,-,-
+258,13,Foresight,19,normal,-,-
+258,14,Foresight,19,normal,-,-
+258,15,Foresight,19,normal,-,-
+258,16,Mud Sport,20,ground,-,-
+258,5,Mud Sport,24,ground,-,-
+258,6,Mud Sport,24,ground,-,-
+258,7,Mud Sport,24,ground,-,-
+258,8,Mud Sport,24,ground,-,-
+258,9,Mud Sport,24,ground,-,-
+258,10,Mud Sport,24,ground,-,-
+258,11,Mud Sport,24,ground,-,-
+258,12,Mud Sport,24,ground,-,-
+258,13,Mud Sport,24,ground,-,-
+258,14,Mud Sport,24,ground,-,-
+258,15,Mud Sport,24,ground,-,-
+258,16,Rock Throw,25,rock,50,90
+258,5,Take Down,28,normal,90,85
+258,6,Take Down,28,normal,90,85
+258,7,Take Down,28,normal,90,85
+258,8,Take Down,28,normal,90,85
+258,9,Take Down,28,normal,90,85
+258,10,Take Down,28,normal,90,85
+258,11,Take Down,28,normal,90,85
+258,12,Take Down,28,normal,90,85
+258,13,Take Down,28,normal,90,85
+258,14,Take Down,28,normal,90,85
+258,15,Take Down,28,normal,90,85
+258,16,Protect,28,normal,-,-
+258,5,Whirlpool,33,water,35,85
+258,6,Whirlpool,33,water,35,85
+258,7,Whirlpool,33,water,35,85
+258,8,Whirlpool,33,water,35,85
+258,9,Whirlpool,33,water,35,85
+258,10,Whirlpool,33,water,35,85
+258,11,Whirlpool,33,water,35,85
+258,12,Whirlpool,33,water,35,85
+258,13,Whirlpool,33,water,35,85
+258,14,Whirlpool,33,water,35,85
+258,15,Whirlpool,33,water,35,85
+258,16,Whirlpool,33,water,35,85
+258,16,Take Down,36,normal,90,85
+258,5,Protect,37,normal,-,-
+258,6,Protect,37,normal,-,-
+258,7,Protect,37,normal,-,-
+258,8,Protect,37,normal,-,-
+258,9,Protect,37,normal,-,-
+258,10,Protect,37,normal,-,-
+258,11,Protect,37,normal,-,-
+258,12,Protect,37,normal,-,-
+258,13,Protect,37,normal,-,-
+258,14,Protect,37,normal,-,-
+258,15,Protect,37,normal,-,-
+258,16,Hydro Pump,41,water,110,80
+258,5,Hydro Pump,42,water,110,80
+258,6,Hydro Pump,42,water,110,80
+258,7,Hydro Pump,42,water,110,80
+258,8,Hydro Pump,42,water,110,80
+258,9,Hydro Pump,42,water,110,80
+258,10,Hydro Pump,42,water,110,80
+258,11,Hydro Pump,42,water,110,80
+258,12,Hydro Pump,42,water,110,80
+258,13,Hydro Pump,42,water,110,80
+258,14,Hydro Pump,42,water,110,80
+258,15,Hydro Pump,42,water,110,80
+258,16,Endeavor,44,normal,-,100
+258,5,Endeavor,46,normal,-,100
+258,6,Endeavor,46,normal,-,100
+258,7,Endeavor,46,normal,-,100
+258,8,Endeavor,46,normal,-,100
+258,9,Endeavor,46,normal,-,100
+258,10,Endeavor,46,normal,-,100
+258,11,Endeavor,46,normal,-,100
+258,12,Endeavor,46,normal,-,100
+258,13,Endeavor,46,normal,-,100
+258,14,Endeavor,46,normal,-,100
+258,15,Endeavor,46,normal,-,100

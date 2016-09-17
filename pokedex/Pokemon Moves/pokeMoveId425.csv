@@ -1,0 +1,99 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+425,8,Minimize,1,normal,-,-
+425,8,Constrict,1,normal,10,100
+425,9,Minimize,1,normal,-,-
+425,9,Constrict,1,normal,10,100
+425,10,Minimize,1,normal,-,-
+425,10,Constrict,1,normal,10,100
+425,11,Minimize,1,normal,-,-
+425,11,Constrict,1,normal,10,100
+425,14,Minimize,1,normal,-,-
+425,14,Constrict,1,normal,10,100
+425,15,Minimize,1,normal,-,-
+425,15,Constrict,1,normal,10,100
+425,16,Minimize,1,normal,-,-
+425,16,Constrict,1,normal,10,100
+425,14,Astonish,4,ghost,30,100
+425,15,Astonish,4,ghost,30,100
+425,16,Astonish,4,ghost,30,100
+425,8,Astonish,6,ghost,30,100
+425,9,Astonish,6,ghost,30,100
+425,10,Astonish,6,ghost,30,100
+425,11,Astonish,6,ghost,30,100
+425,14,Gust,8,flying,40,100
+425,15,Gust,8,flying,40,100
+425,16,Gust,8,flying,40,100
+425,8,Gust,11,flying,40,100
+425,9,Gust,11,flying,40,100
+425,10,Gust,11,flying,40,100
+425,11,Gust,11,flying,40,100
+425,14,Focus Energy,13,normal,-,-
+425,15,Focus Energy,13,normal,-,-
+425,16,Focus Energy,13,normal,-,-
+425,8,Focus Energy,14,normal,-,-
+425,9,Focus Energy,14,normal,-,-
+425,10,Focus Energy,14,normal,-,-
+425,11,Focus Energy,14,normal,-,-
+425,14,Payback,16,dark,50,100
+425,15,Payback,16,dark,50,100
+425,16,Payback,16,dark,50,100
+425,8,Payback,17,dark,50,100
+425,9,Payback,17,dark,50,100
+425,10,Payback,17,dark,50,100
+425,11,Payback,17,dark,50,100
+425,14,Ominous Wind,20,ghost,60,100
+425,15,Ominous Wind,20,ghost,60,100
+425,16,Ominous Wind,20,ghost,60,100
+425,8,Stockpile,22,normal,-,-
+425,9,Stockpile,22,normal,-,-
+425,10,Stockpile,22,normal,-,-
+425,11,Hex,22,ghost,65,100
+425,14,Stockpile,25,normal,-,-
+425,15,Stockpile,25,normal,-,-
+425,16,Stockpile,25,normal,-,-
+425,8,Spit Up,27,normal,-,100
+425,8,Swallow,27,normal,-,-
+425,9,Spit Up,27,normal,-,100
+425,9,Swallow,27,normal,-,-
+425,10,Spit Up,27,normal,-,100
+425,10,Swallow,27,normal,-,-
+425,11,Stockpile,27,normal,-,-
+425,14,Hex,27,ghost,65,100
+425,15,Hex,27,ghost,65,100
+425,16,Hex,27,ghost,65,100
+425,8,Ominous Wind,30,ghost,60,100
+425,9,Ominous Wind,30,ghost,60,100
+425,10,Ominous Wind,30,ghost,60,100
+425,11,Spit Up,30,normal,-,100
+425,11,Swallow,30,normal,-,-
+425,14,Spit Up,32,normal,-,100
+425,14,Swallow,32,normal,-,-
+425,15,Spit Up,32,normal,-,100
+425,15,Swallow,32,normal,-,-
+425,16,Spit Up,32,normal,-,100
+425,16,Swallow,32,normal,-,-
+425,8,Baton Pass,33,normal,-,-
+425,9,Baton Pass,33,normal,-,-
+425,10,Baton Pass,33,normal,-,-
+425,11,Ominous Wind,33,ghost,60,100
+425,14,Shadow Ball,36,ghost,80,100
+425,15,Shadow Ball,36,ghost,80,100
+425,16,Shadow Ball,36,ghost,80,100
+425,8,Shadow Ball,38,ghost,80,100
+425,9,Shadow Ball,38,ghost,80,100
+425,10,Shadow Ball,38,ghost,80,100
+425,11,Baton Pass,38,normal,-,-
+425,14,Amnesia,40,psychic,-,-
+425,15,Amnesia,40,psychic,-,-
+425,16,Amnesia,40,psychic,-,-
+425,8,Explosion,43,normal,250,100
+425,9,Explosion,43,normal,250,100
+425,10,Explosion,43,normal,250,100
+425,11,Shadow Ball,43,ghost,80,100
+425,14,Baton Pass,44,normal,-,-
+425,15,Baton Pass,44,normal,-,-
+425,16,Baton Pass,44,normal,-,-
+425,11,Explosion,46,normal,250,100
+425,14,Explosion,50,normal,250,100
+425,15,Explosion,50,normal,250,100
+425,16,Explosion,50,normal,250,100

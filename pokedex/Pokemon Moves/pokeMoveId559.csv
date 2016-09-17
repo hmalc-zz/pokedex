@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+559,11,Leer,1,normal,-,100
+559,11,Low Kick,1,fighting,-,100
+559,14,Leer,1,normal,-,100
+559,14,Low Kick,1,fighting,-,100
+559,15,Leer,1,normal,-,100
+559,15,Low Kick,1,fighting,-,100
+559,16,Leer,1,normal,-,100
+559,16,Low Kick,1,fighting,-,100
+559,11,Sand Attack,5,ground,-,100
+559,14,Sand Attack,5,ground,-,100
+559,15,Sand Attack,5,ground,-,100
+559,16,Sand Attack,5,ground,-,100
+559,11,Feint Attack,9,dark,60,-
+559,14,Feint Attack,9,dark,60,-
+559,15,Feint Attack,9,dark,60,-
+559,16,Feint Attack,9,dark,60,-
+559,11,Headbutt,12,normal,70,100
+559,14,Headbutt,12,normal,70,100
+559,15,Headbutt,12,normal,70,100
+559,16,Headbutt,12,normal,70,100
+559,11,Swagger,16,normal,-,90
+559,14,Swagger,16,normal,-,90
+559,15,Swagger,16,normal,-,90
+559,16,Swagger,16,normal,-,90
+559,11,Brick Break,20,fighting,75,100
+559,14,Brick Break,20,fighting,75,100
+559,15,Brick Break,20,fighting,75,100
+559,16,Brick Break,20,fighting,75,100
+559,11,Payback,23,dark,50,100
+559,14,Payback,23,dark,50,100
+559,15,Payback,23,dark,50,100
+559,16,Payback,23,dark,50,100
+559,11,Chip Away,27,normal,70,100
+559,14,Chip Away,27,normal,70,100
+559,15,Chip Away,27,normal,70,100
+559,16,Chip Away,27,normal,70,100
+559,11,High Jump Kick,31,fighting,130,90
+559,14,High Jump Kick,31,fighting,130,90
+559,15,High Jump Kick,31,fighting,130,90
+559,16,High Jump Kick,31,fighting,130,90
+559,11,Scary Face,34,normal,-,100
+559,14,Scary Face,34,normal,-,100
+559,15,Scary Face,34,normal,-,100
+559,16,Scary Face,34,normal,-,100
+559,11,Crunch,38,dark,80,100
+559,14,Crunch,38,dark,80,100
+559,15,Crunch,38,dark,80,100
+559,16,Crunch,38,dark,80,100
+559,11,Facade,42,normal,70,100
+559,14,Facade,42,normal,70,100
+559,15,Facade,42,normal,70,100
+559,16,Facade,42,normal,70,100
+559,11,Rock Climb,45,normal,90,85
+559,14,Rock Climb,45,normal,90,85
+559,15,Rock Climb,45,normal,90,85
+559,16,Rock Climb,45,normal,90,85
+559,15,Focus Punch,48,fighting,150,100
+559,16,Focus Punch,48,fighting,150,100
+559,11,Focus Punch,49,fighting,150,100
+559,14,Focus Punch,49,fighting,150,100
+559,15,Head Smash,50,rock,150,80
+559,16,Head Smash,50,rock,150,80
+559,11,Head Smash,53,rock,150,80
+559,14,Head Smash,53,rock,150,80

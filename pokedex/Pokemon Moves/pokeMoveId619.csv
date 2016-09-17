@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+619,11,Pound,1,normal,40,100
+619,14,Pound,1,normal,40,100
+619,15,Pound,1,normal,40,100
+619,16,Pound,1,normal,40,100
+619,11,Meditate,5,psychic,-,-
+619,14,Meditate,5,psychic,-,-
+619,15,Meditate,5,psychic,-,-
+619,16,Meditate,5,psychic,-,-
+619,11,Detect,9,fighting,-,-
+619,14,Detect,9,fighting,-,-
+619,15,Detect,9,fighting,-,-
+619,16,Detect,9,fighting,-,-
+619,11,Fake Out,13,normal,40,100
+619,14,Fake Out,13,normal,40,100
+619,15,Fake Out,13,normal,40,100
+619,16,Fake Out,13,normal,40,100
+619,11,Double Slap,17,normal,15,85
+619,14,Double Slap,17,normal,15,85
+619,15,Double Slap,17,normal,15,85
+619,16,Double Slap,17,normal,15,85
+619,11,Swift,21,normal,60,-
+619,14,Swift,21,normal,60,-
+619,15,Swift,21,normal,60,-
+619,16,Swift,21,normal,60,-
+619,11,Calm Mind,25,psychic,-,-
+619,14,Calm Mind,25,psychic,-,-
+619,15,Calm Mind,25,psychic,-,-
+619,16,Calm Mind,25,psychic,-,-
+619,11,Force Palm,29,fighting,60,100
+619,14,Force Palm,29,fighting,60,100
+619,15,Force Palm,29,fighting,60,100
+619,16,Force Palm,29,fighting,60,100
+619,11,Drain Punch,33,fighting,75,100
+619,14,Drain Punch,33,fighting,75,100
+619,15,Drain Punch,33,fighting,75,100
+619,16,Drain Punch,33,fighting,75,100
+619,11,Jump Kick,37,fighting,100,95
+619,14,Jump Kick,37,fighting,100,95
+619,15,Jump Kick,37,fighting,100,95
+619,16,Jump Kick,37,fighting,100,95
+619,11,U-turn,41,bug,70,100
+619,14,U-turn,41,bug,70,100
+619,15,U-turn,41,bug,70,100
+619,16,U-turn,41,bug,70,100
+619,11,Quick Guard,45,fighting,-,-
+619,14,Quick Guard,45,fighting,-,-
+619,15,Quick Guard,45,fighting,-,-
+619,16,Quick Guard,45,fighting,-,-
+619,11,Bounce,49,flying,85,85
+619,14,Bounce,49,flying,85,85
+619,15,Bounce,49,flying,85,85
+619,16,Bounce,49,flying,85,85
+619,15,High Jump Kick,50,fighting,130,90
+619,16,High Jump Kick,50,fighting,130,90
+619,11,High Jump Kick,53,fighting,130,90
+619,14,High Jump Kick,53,fighting,130,90
+619,11,Reversal,57,fighting,-,100
+619,14,Reversal,57,fighting,-,100
+619,15,Reversal,57,fighting,-,100
+619,16,Reversal,57,fighting,-,100
+619,11,Aura Sphere,61,fighting,80,-
+619,14,Aura Sphere,61,fighting,80,-
+619,15,Aura Sphere,61,fighting,80,-
+619,16,Aura Sphere,61,fighting,80,-

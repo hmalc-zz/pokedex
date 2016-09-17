@@ -1,0 +1,73 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+605,11,Confusion,1,psychic,50,100
+605,14,Confusion,1,psychic,50,100
+605,15,Confusion,1,psychic,50,100
+605,16,Confusion,1,psychic,50,100
+605,11,Growl,4,normal,-,100
+605,14,Growl,4,normal,-,100
+605,15,Growl,4,normal,-,100
+605,16,Growl,4,normal,-,100
+605,11,Heal Block,8,psychic,-,100
+605,14,Heal Block,8,psychic,-,100
+605,15,Heal Block,8,psychic,-,100
+605,16,Heal Block,8,psychic,-,100
+605,11,Miracle Eye,11,psychic,-,-
+605,14,Miracle Eye,11,psychic,-,-
+605,15,Miracle Eye,11,psychic,-,-
+605,16,Miracle Eye,11,psychic,-,-
+605,11,Psybeam,15,psychic,65,100
+605,14,Psybeam,15,psychic,65,100
+605,15,Psybeam,15,psychic,65,100
+605,16,Psybeam,15,psychic,65,100
+605,11,Headbutt,18,normal,70,100
+605,14,Headbutt,18,normal,70,100
+605,15,Headbutt,18,normal,70,100
+605,16,Headbutt,18,normal,70,100
+605,11,Hidden Power,22,normal,60,100
+605,14,Hidden Power,22,normal,60,100
+605,15,Hidden Power,22,normal,60,100
+605,16,Hidden Power,22,normal,60,100
+605,11,Imprison,25,psychic,-,-
+605,14,Imprison,25,psychic,-,-
+605,15,Imprison,25,psychic,-,-
+605,16,Imprison,25,psychic,-,-
+605,11,Simple Beam,29,normal,-,100
+605,14,Simple Beam,29,normal,-,100
+605,15,Simple Beam,29,normal,-,100
+605,16,Simple Beam,29,normal,-,100
+605,11,Zen Headbutt,32,psychic,80,90
+605,14,Zen Headbutt,32,psychic,80,90
+605,15,Zen Headbutt,32,psychic,80,90
+605,16,Zen Headbutt,32,psychic,80,90
+605,11,Psych Up,36,normal,-,-
+605,14,Psych Up,36,normal,-,-
+605,15,Psych Up,36,normal,-,-
+605,16,Psych Up,36,normal,-,-
+605,11,Psychic,39,psychic,90,100
+605,14,Psychic,39,psychic,90,100
+605,15,Psychic,39,psychic,90,100
+605,16,Psychic,39,psychic,90,100
+605,11,Calm Mind,43,psychic,-,-
+605,14,Calm Mind,43,psychic,-,-
+605,15,Calm Mind,43,psychic,-,-
+605,16,Calm Mind,43,psychic,-,-
+605,11,Recover,46,normal,-,-
+605,14,Recover,46,normal,-,-
+605,15,Recover,46,normal,-,-
+605,16,Recover,46,normal,-,-
+605,11,Guard Split,50,psychic,-,-
+605,11,Power Split,50,psychic,-,-
+605,14,Guard Split,50,psychic,-,-
+605,14,Power Split,50,psychic,-,-
+605,15,Guard Split,50,psychic,-,-
+605,15,Power Split,50,psychic,-,-
+605,16,Guard Split,50,psychic,-,-
+605,16,Power Split,50,psychic,-,-
+605,11,Synchronoise,53,psychic,120,100
+605,14,Synchronoise,53,psychic,120,100
+605,15,Synchronoise,53,psychic,120,100
+605,16,Synchronoise,53,psychic,120,100
+605,11,Wonder Room,56,psychic,-,-
+605,14,Wonder Room,56,psychic,-,-
+605,15,Wonder Room,56,psychic,-,-
+605,16,Wonder Room,56,psychic,-,-

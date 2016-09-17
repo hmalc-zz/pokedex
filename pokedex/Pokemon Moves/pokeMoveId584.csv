@@ -1,0 +1,81 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+584,11,Harden,1,normal,-,-
+584,11,Uproar,1,normal,90,100
+584,11,Astonish,1,ghost,30,100
+584,11,Weather Ball,1,normal,50,100
+584,11,Icicle Spear,1,ice,25,100
+584,14,Harden,1,normal,-,-
+584,14,Uproar,1,normal,90,100
+584,14,Astonish,1,ghost,30,100
+584,14,Weather Ball,1,normal,50,100
+584,14,Icicle Spear,1,ice,25,100
+584,15,Harden,1,normal,-,-
+584,15,Uproar,1,normal,90,100
+584,15,Astonish,1,ghost,30,100
+584,15,Weather Ball,1,normal,50,100
+584,15,Sheer Cold,1,ice,-,30
+584,15,Icicle Spear,1,ice,25,100
+584,15,Freeze-Dry,1,ice,70,100
+584,16,Harden,1,normal,-,-
+584,16,Uproar,1,normal,90,100
+584,16,Astonish,1,ghost,30,100
+584,16,Weather Ball,1,normal,50,100
+584,16,Sheer Cold,1,ice,-,30
+584,16,Icicle Spear,1,ice,25,100
+584,16,Freeze-Dry,1,ice,70,100
+584,11,Harden,4,normal,-,-
+584,14,Harden,4,normal,-,-
+584,15,Harden,4,normal,-,-
+584,16,Harden,4,normal,-,-
+584,11,Astonish,7,ghost,30,100
+584,14,Astonish,7,ghost,30,100
+584,15,Astonish,7,ghost,30,100
+584,16,Astonish,7,ghost,30,100
+584,11,Uproar,10,normal,90,100
+584,14,Uproar,10,normal,90,100
+584,15,Uproar,10,normal,90,100
+584,16,Uproar,10,normal,90,100
+584,11,Icy Wind,13,ice,55,95
+584,14,Icy Wind,13,ice,55,95
+584,15,Icy Wind,13,ice,55,95
+584,16,Icy Wind,13,ice,55,95
+584,11,Mist,16,ice,-,-
+584,14,Mist,16,ice,-,-
+584,15,Mist,16,ice,-,-
+584,16,Mist,16,ice,-,-
+584,11,Avalanche,19,ice,60,100
+584,14,Avalanche,19,ice,60,100
+584,15,Avalanche,19,ice,60,100
+584,16,Avalanche,19,ice,60,100
+584,11,Taunt,22,dark,-,100
+584,14,Taunt,22,dark,-,100
+584,15,Taunt,22,dark,-,100
+584,16,Taunt,22,dark,-,100
+584,11,Mirror Shot,26,steel,65,85
+584,14,Mirror Shot,26,steel,65,85
+584,15,Mirror Shot,26,steel,65,85
+584,16,Mirror Shot,26,steel,65,85
+584,11,Acid Armor,31,poison,-,-
+584,14,Acid Armor,31,poison,-,-
+584,15,Acid Armor,31,poison,-,-
+584,16,Acid Armor,31,poison,-,-
+584,11,Ice Beam,36,ice,90,100
+584,14,Ice Beam,36,ice,90,100
+584,15,Ice Beam,36,ice,90,100
+584,16,Ice Beam,36,ice,90,100
+584,11,Hail,42,ice,-,-
+584,14,Hail,42,ice,-,-
+584,15,Hail,42,ice,-,-
+584,16,Hail,42,ice,-,-
+584,11,Mirror Coat,50,psychic,-,100
+584,14,Mirror Coat,50,psychic,-,100
+584,15,Mirror Coat,50,psychic,-,100
+584,16,Mirror Coat,50,psychic,-,100
+584,11,Blizzard,59,ice,110,70
+584,14,Blizzard,59,ice,110,70
+584,15,Blizzard,59,ice,110,70
+584,16,Blizzard,59,ice,110,70
+584,11,Sheer Cold,67,ice,-,30
+584,14,Sheer Cold,67,ice,-,30
+584,15,Sheer Cold,67,ice,-,30
+584,16,Sheer Cold,67,ice,-,30

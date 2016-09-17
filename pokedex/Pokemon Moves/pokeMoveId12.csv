@@ -1,0 +1,199 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+12,1,Confusion,1,psychic,50,100
+12,2,Confusion,1,psychic,50,100
+12,3,Confusion,1,psychic,50,100
+12,4,Confusion,1,psychic,50,100
+12,5,Confusion,1,psychic,50,100
+12,6,Confusion,1,psychic,50,100
+12,7,Confusion,1,psychic,50,100
+12,8,Confusion,1,psychic,50,100
+12,9,Confusion,1,psychic,50,100
+12,10,Confusion,1,psychic,50,100
+12,11,Confusion,1,psychic,50,100
+12,12,Confusion,1,psychic,50,100
+12,13,Confusion,1,psychic,50,100
+12,14,Confusion,1,psychic,50,100
+12,15,Confusion,1,psychic,50,100
+12,16,Confusion,1,psychic,50,100
+12,2,Confusion,10,psychic,50,100
+12,3,Confusion,10,psychic,50,100
+12,4,Confusion,10,psychic,50,100
+12,5,Confusion,10,psychic,50,100
+12,6,Confusion,10,psychic,50,100
+12,7,Confusion,10,psychic,50,100
+12,8,Confusion,10,psychic,50,100
+12,9,Confusion,10,psychic,50,100
+12,10,Confusion,10,psychic,50,100
+12,11,Confusion,10,psychic,50,100
+12,12,Confusion,10,psychic,50,100
+12,13,Confusion,10,psychic,50,100
+12,14,Confusion,10,psychic,50,100
+12,15,Confusion,10,psychic,50,100
+12,16,Confusion,10,psychic,50,100
+12,1,Confusion,12,psychic,50,100
+12,8,Poison Powder,12,poison,-,75
+12,8,Stun Spore,12,grass,-,75
+12,8,Sleep Powder,12,grass,-,75
+12,9,Poison Powder,12,poison,-,75
+12,9,Stun Spore,12,grass,-,75
+12,9,Sleep Powder,12,grass,-,75
+12,10,Poison Powder,12,poison,-,75
+12,10,Stun Spore,12,grass,-,75
+12,10,Sleep Powder,12,grass,-,75
+12,11,Poison Powder,12,poison,-,75
+12,11,Stun Spore,12,grass,-,75
+12,11,Sleep Powder,12,grass,-,75
+12,14,Poison Powder,12,poison,-,75
+12,14,Stun Spore,12,grass,-,75
+12,14,Sleep Powder,12,grass,-,75
+12,15,Poison Powder,12,poison,-,75
+12,15,Stun Spore,12,grass,-,75
+12,15,Sleep Powder,12,grass,-,75
+12,16,Poison Powder,12,poison,-,75
+12,16,Stun Spore,12,grass,-,75
+12,16,Sleep Powder,12,grass,-,75
+12,2,Poison Powder,13,poison,-,75
+12,3,Poison Powder,13,poison,-,75
+12,4,Poison Powder,13,poison,-,75
+12,5,Poison Powder,13,poison,-,75
+12,6,Poison Powder,13,poison,-,75
+12,7,Poison Powder,13,poison,-,75
+12,12,Poison Powder,13,poison,-,75
+12,13,Poison Powder,13,poison,-,75
+12,2,Stun Spore,14,grass,-,75
+12,3,Stun Spore,14,grass,-,75
+12,4,Stun Spore,14,grass,-,75
+12,5,Stun Spore,14,grass,-,75
+12,6,Stun Spore,14,grass,-,75
+12,7,Stun Spore,14,grass,-,75
+12,12,Stun Spore,14,grass,-,75
+12,13,Stun Spore,14,grass,-,75
+12,1,Poison Powder,15,poison,-,75
+12,2,Sleep Powder,15,grass,-,75
+12,3,Sleep Powder,15,grass,-,75
+12,4,Sleep Powder,15,grass,-,75
+12,5,Sleep Powder,15,grass,-,75
+12,6,Sleep Powder,15,grass,-,75
+12,7,Sleep Powder,15,grass,-,75
+12,12,Sleep Powder,15,grass,-,75
+12,13,Sleep Powder,15,grass,-,75
+12,1,Stun Spore,16,grass,-,75
+12,8,Gust,16,flying,40,100
+12,9,Gust,16,flying,40,100
+12,10,Gust,16,flying,40,100
+12,11,Gust,16,flying,40,100
+12,14,Gust,16,flying,40,100
+12,15,Gust,16,flying,40,100
+12,16,Gust,16,flying,40,100
+12,1,Sleep Powder,17,grass,-,75
+12,2,Supersonic,18,normal,-,55
+12,3,Supersonic,18,normal,-,55
+12,4,Supersonic,18,normal,-,55
+12,5,Supersonic,18,normal,-,55
+12,6,Supersonic,18,normal,-,55
+12,7,Supersonic,18,normal,-,55
+12,8,Supersonic,18,normal,-,55
+12,9,Supersonic,18,normal,-,55
+12,10,Supersonic,18,normal,-,55
+12,11,Supersonic,18,normal,-,55
+12,12,Supersonic,18,normal,-,55
+12,13,Supersonic,18,normal,-,55
+12,14,Supersonic,18,normal,-,55
+12,15,Supersonic,18,normal,-,55
+12,16,Supersonic,18,normal,-,55
+12,1,Supersonic,21,normal,-,55
+12,8,Whirlwind,22,normal,-,-
+12,9,Whirlwind,22,normal,-,-
+12,10,Whirlwind,22,normal,-,-
+12,11,Whirlwind,22,normal,-,-
+12,14,Whirlwind,22,normal,-,-
+12,15,Whirlwind,22,normal,-,-
+12,16,Whirlwind,22,normal,-,-
+12,2,Whirlwind,23,normal,-,-
+12,3,Whirlwind,23,normal,-,-
+12,4,Whirlwind,23,normal,-,-
+12,5,Whirlwind,23,normal,-,-
+12,6,Whirlwind,23,normal,-,-
+12,7,Whirlwind,23,normal,-,-
+12,12,Whirlwind,23,normal,-,-
+12,13,Whirlwind,23,normal,-,-
+12,8,Psybeam,24,psychic,65,100
+12,9,Psybeam,24,psychic,65,100
+12,10,Psybeam,24,psychic,65,100
+12,11,Psybeam,24,psychic,65,100
+12,14,Psybeam,24,psychic,65,100
+12,15,Psybeam,24,psychic,65,100
+12,16,Psybeam,24,psychic,65,100
+12,1,Whirlwind,26,normal,-,-
+12,2,Gust,28,flying,40,100
+12,3,Gust,28,flying,40,100
+12,4,Gust,28,flying,40,100
+12,5,Gust,28,flying,40,100
+12,6,Gust,28,flying,40,100
+12,7,Gust,28,flying,40,100
+12,8,Silver Wind,28,bug,60,100
+12,9,Silver Wind,28,bug,60,100
+12,10,Silver Wind,28,bug,60,100
+12,11,Silver Wind,28,bug,60,100
+12,12,Gust,28,flying,40,100
+12,13,Gust,28,flying,40,100
+12,14,Silver Wind,28,bug,60,100
+12,15,Silver Wind,28,bug,60,100
+12,16,Silver Wind,28,bug,60,100
+12,8,Tailwind,30,flying,-,-
+12,9,Tailwind,30,flying,-,-
+12,10,Tailwind,30,flying,-,-
+12,11,Tailwind,30,flying,-,-
+12,14,Tailwind,30,flying,-,-
+12,15,Tailwind,30,flying,-,-
+12,16,Tailwind,30,flying,-,-
+12,1,Psybeam,32,psychic,65,100
+12,2,Psybeam,34,psychic,65,100
+12,3,Psybeam,34,psychic,65,100
+12,4,Psybeam,34,psychic,65,100
+12,5,Psybeam,34,psychic,65,100
+12,6,Psybeam,34,psychic,65,100
+12,7,Psybeam,34,psychic,65,100
+12,8,Safeguard,34,normal,-,-
+12,9,Safeguard,34,normal,-,-
+12,10,Safeguard,34,normal,-,-
+12,11,Rage Powder,34,bug,-,-
+12,12,Psybeam,34,psychic,65,100
+12,13,Psybeam,34,psychic,65,100
+12,14,Rage Powder,34,bug,-,-
+12,15,Rage Powder,34,bug,-,-
+12,16,Rage Powder,34,bug,-,-
+12,8,Captivate,36,normal,-,100
+12,9,Captivate,36,normal,-,100
+12,10,Captivate,36,normal,-,100
+12,11,Safeguard,36,normal,-,-
+12,14,Safeguard,36,normal,-,-
+12,15,Safeguard,36,normal,-,-
+12,16,Safeguard,36,normal,-,-
+12,3,Safeguard,40,normal,-,-
+12,4,Safeguard,40,normal,-,-
+12,5,Safeguard,40,normal,-,-
+12,6,Safeguard,40,normal,-,-
+12,7,Safeguard,40,normal,-,-
+12,8,Bug Buzz,40,bug,90,100
+12,9,Bug Buzz,40,bug,90,100
+12,10,Bug Buzz,40,bug,90,100
+12,11,Captivate,40,normal,-,100
+12,12,Safeguard,40,normal,-,-
+12,13,Safeguard,40,normal,-,-
+12,14,Captivate,40,normal,-,100
+12,15,Captivate,40,normal,-,100
+12,16,Captivate,40,normal,-,100
+12,11,Bug Buzz,42,bug,90,100
+12,14,Bug Buzz,42,bug,90,100
+12,15,Bug Buzz,42,bug,90,100
+12,16,Bug Buzz,42,bug,90,100
+12,11,Quiver Dance,46,bug,-,-
+12,14,Quiver Dance,46,bug,-,-
+12,15,Quiver Dance,46,bug,-,-
+12,16,Quiver Dance,46,bug,-,-
+12,5,Silver Wind,47,bug,60,100
+12,6,Silver Wind,47,bug,60,100
+12,7,Silver Wind,47,bug,60,100
+12,12,Silver Wind,47,bug,60,100
+12,13,Silver Wind,47,bug,60,100

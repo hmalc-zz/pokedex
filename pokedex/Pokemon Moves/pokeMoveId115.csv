@@ -1,0 +1,185 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+115,1,Comet Punch,1,normal,18,85
+115,1,Rage,1,normal,20,100
+115,2,Comet Punch,1,normal,18,85
+115,2,Rage,1,normal,20,100
+115,3,Comet Punch,1,normal,18,85
+115,4,Comet Punch,1,normal,18,85
+115,5,Comet Punch,1,normal,18,85
+115,5,Leer,1,normal,-,100
+115,6,Comet Punch,1,normal,18,85
+115,6,Leer,1,normal,-,100
+115,7,Comet Punch,1,normal,18,85
+115,7,Leer,1,normal,-,100
+115,8,Comet Punch,1,normal,18,85
+115,8,Leer,1,normal,-,100
+115,9,Comet Punch,1,normal,18,85
+115,9,Leer,1,normal,-,100
+115,10,Comet Punch,1,normal,18,85
+115,10,Leer,1,normal,-,100
+115,11,Comet Punch,1,normal,18,85
+115,11,Leer,1,normal,-,100
+115,12,Comet Punch,1,normal,18,85
+115,12,Leer,1,normal,-,100
+115,13,Comet Punch,1,normal,18,85
+115,13,Leer,1,normal,-,100
+115,14,Comet Punch,1,normal,18,85
+115,14,Leer,1,normal,-,100
+115,15,Comet Punch,1,normal,18,85
+115,15,Leer,1,normal,-,100
+115,16,Comet Punch,1,normal,18,85
+115,16,Leer,1,normal,-,100
+115,3,Leer,7,normal,-,100
+115,4,Leer,7,normal,-,100
+115,5,Bite,7,dark,60,100
+115,6,Bite,7,dark,60,100
+115,7,Bite,7,dark,60,100
+115,8,Fake Out,7,normal,40,100
+115,9,Fake Out,7,normal,40,100
+115,10,Fake Out,7,normal,40,100
+115,11,Fake Out,7,normal,40,100
+115,12,Bite,7,dark,60,100
+115,13,Bite,7,dark,60,100
+115,14,Fake Out,7,normal,40,100
+115,15,Fake Out,7,normal,40,100
+115,16,Fake Out,7,normal,40,100
+115,8,Tail Whip,10,normal,-,100
+115,9,Tail Whip,10,normal,-,100
+115,10,Tail Whip,10,normal,-,100
+115,11,Tail Whip,10,normal,-,100
+115,14,Tail Whip,10,normal,-,100
+115,15,Tail Whip,10,normal,-,100
+115,16,Tail Whip,10,normal,-,100
+115,3,Bite,13,dark,60,100
+115,4,Bite,13,dark,60,100
+115,5,Tail Whip,13,normal,-,100
+115,6,Tail Whip,13,normal,-,100
+115,7,Tail Whip,13,normal,-,100
+115,8,Bite,13,dark,60,100
+115,9,Bite,13,dark,60,100
+115,10,Bite,13,dark,60,100
+115,11,Bite,13,dark,60,100
+115,12,Tail Whip,13,normal,-,100
+115,13,Tail Whip,13,normal,-,100
+115,14,Bite,13,dark,60,100
+115,15,Bite,13,dark,60,100
+115,16,Bite,13,dark,60,100
+115,3,Tail Whip,19,normal,-,100
+115,4,Tail Whip,19,normal,-,100
+115,5,Fake Out,19,normal,40,100
+115,6,Fake Out,19,normal,40,100
+115,7,Fake Out,19,normal,40,100
+115,8,Mega Punch,19,normal,80,85
+115,9,Mega Punch,19,normal,80,85
+115,10,Mega Punch,19,normal,80,85
+115,11,Double Hit,19,normal,35,90
+115,12,Fake Out,19,normal,40,100
+115,13,Fake Out,19,normal,40,100
+115,14,Double Hit,19,normal,35,90
+115,15,Double Hit,19,normal,35,90
+115,16,Double Hit,19,normal,35,90
+115,8,Rage,22,normal,20,100
+115,9,Rage,22,normal,20,100
+115,10,Rage,22,normal,20,100
+115,11,Rage,22,normal,20,100
+115,14,Rage,22,normal,20,100
+115,15,Rage,22,normal,20,100
+115,16,Rage,22,normal,20,100
+115,3,Mega Punch,25,normal,80,85
+115,4,Mega Punch,25,normal,80,85
+115,5,Mega Punch,25,normal,80,85
+115,6,Mega Punch,25,normal,80,85
+115,7,Mega Punch,25,normal,80,85
+115,8,Dizzy Punch,25,normal,70,100
+115,9,Dizzy Punch,25,normal,70,100
+115,10,Dizzy Punch,25,normal,70,100
+115,11,Mega Punch,25,normal,80,85
+115,12,Mega Punch,25,normal,80,85
+115,13,Mega Punch,25,normal,80,85
+115,14,Mega Punch,25,normal,80,85
+115,15,Mega Punch,25,normal,80,85
+115,16,Mega Punch,25,normal,80,85
+115,1,Bite,26,dark,60,100
+115,2,Bite,26,dark,60,100
+115,1,Tail Whip,31,normal,-,100
+115,2,Tail Whip,31,normal,-,100
+115,3,Rage,31,normal,20,100
+115,4,Rage,31,normal,20,100
+115,5,Rage,31,normal,20,100
+115,6,Rage,31,normal,20,100
+115,7,Rage,31,normal,20,100
+115,8,Crunch,31,dark,80,100
+115,9,Crunch,31,dark,80,100
+115,10,Crunch,31,dark,80,100
+115,11,Chip Away,31,normal,70,100
+115,12,Rage,31,normal,20,100
+115,13,Rage,31,normal,20,100
+115,14,Chip Away,31,normal,70,100
+115,15,Chip Away,31,normal,70,100
+115,16,Chip Away,31,normal,70,100
+115,8,Endure,34,normal,-,-
+115,9,Endure,34,normal,-,-
+115,10,Endure,34,normal,-,-
+115,11,Dizzy Punch,34,normal,70,100
+115,14,Dizzy Punch,34,normal,70,100
+115,15,Dizzy Punch,34,normal,70,100
+115,16,Dizzy Punch,34,normal,70,100
+115,1,Mega Punch,36,normal,80,85
+115,2,Mega Punch,36,normal,80,85
+115,3,Endure,37,normal,-,-
+115,4,Endure,37,normal,-,-
+115,5,Endure,37,normal,-,-
+115,6,Endure,37,normal,-,-
+115,7,Endure,37,normal,-,-
+115,8,Outrage,37,dragon,120,100
+115,9,Outrage,37,dragon,120,100
+115,10,Outrage,37,dragon,120,100
+115,11,Crunch,37,dark,80,100
+115,12,Endure,37,normal,-,-
+115,13,Endure,37,normal,-,-
+115,14,Crunch,37,dark,80,100
+115,15,Crunch,37,dark,80,100
+115,16,Crunch,37,dark,80,100
+115,1,Leer,41,normal,-,100
+115,2,Leer,41,normal,-,100
+115,3,Dizzy Punch,43,normal,70,100
+115,4,Dizzy Punch,43,normal,70,100
+115,5,Dizzy Punch,43,normal,70,100
+115,6,Dizzy Punch,43,normal,70,100
+115,7,Dizzy Punch,43,normal,70,100
+115,8,Double Hit,43,normal,35,90
+115,9,Double Hit,43,normal,35,90
+115,10,Double Hit,43,normal,35,90
+115,11,Endure,43,normal,-,-
+115,12,Dizzy Punch,43,normal,70,100
+115,13,Dizzy Punch,43,normal,70,100
+115,14,Endure,43,normal,-,-
+115,15,Endure,43,normal,-,-
+115,16,Endure,43,normal,-,-
+115,1,Dizzy Punch,46,normal,70,100
+115,2,Dizzy Punch,46,normal,70,100
+115,8,Sucker Punch,46,dark,80,100
+115,9,Sucker Punch,46,dark,80,100
+115,10,Sucker Punch,46,dark,80,100
+115,11,Outrage,46,dragon,120,100
+115,14,Outrage,46,dragon,120,100
+115,15,Outrage,46,dragon,120,100
+115,16,Outrage,46,dragon,120,100
+115,3,Reversal,49,fighting,-,100
+115,4,Reversal,49,fighting,-,100
+115,5,Reversal,49,fighting,-,100
+115,6,Reversal,49,fighting,-,100
+115,7,Reversal,49,fighting,-,100
+115,8,Reversal,49,fighting,-,100
+115,9,Reversal,49,fighting,-,100
+115,10,Reversal,49,fighting,-,100
+115,11,Sucker Punch,49,dark,80,100
+115,12,Reversal,49,fighting,-,100
+115,13,Reversal,49,fighting,-,100
+115,14,Sucker Punch,49,dark,80,100
+115,15,Sucker Punch,49,dark,80,100
+115,16,Sucker Punch,49,dark,80,100
+115,15,Reversal,50,fighting,-,100
+115,16,Reversal,50,fighting,-,100
+115,11,Reversal,55,fighting,-,100
+115,14,Reversal,55,fighting,-,100

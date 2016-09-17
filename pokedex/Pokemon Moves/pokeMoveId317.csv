@@ -1,0 +1,212 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+317,5,Pound,1,normal,40,100
+317,5,Sludge,1,poison,65,100
+317,5,Poison Gas,1,poison,-,90
+317,5,Yawn,1,normal,-,-
+317,6,Pound,1,normal,40,100
+317,6,Sludge,1,poison,65,100
+317,6,Poison Gas,1,poison,-,90
+317,6,Yawn,1,normal,-,-
+317,7,Pound,1,normal,40,100
+317,7,Sludge,1,poison,65,100
+317,7,Poison Gas,1,poison,-,90
+317,7,Yawn,1,normal,-,-
+317,8,Pound,1,normal,40,100
+317,8,Sludge,1,poison,65,100
+317,8,Poison Gas,1,poison,-,90
+317,8,Yawn,1,normal,-,-
+317,9,Pound,1,normal,40,100
+317,9,Sludge,1,poison,65,100
+317,9,Poison Gas,1,poison,-,90
+317,9,Yawn,1,normal,-,-
+317,10,Pound,1,normal,40,100
+317,10,Sludge,1,poison,65,100
+317,10,Poison Gas,1,poison,-,90
+317,10,Yawn,1,normal,-,-
+317,11,Pound,1,normal,40,100
+317,11,Sludge,1,poison,65,100
+317,11,Poison Gas,1,poison,-,90
+317,11,Yawn,1,normal,-,-
+317,12,Pound,1,normal,40,100
+317,12,Sludge,1,poison,65,100
+317,12,Poison Gas,1,poison,-,90
+317,12,Yawn,1,normal,-,-
+317,13,Pound,1,normal,40,100
+317,13,Sludge,1,poison,65,100
+317,13,Poison Gas,1,poison,-,90
+317,13,Yawn,1,normal,-,-
+317,14,Pound,1,normal,40,100
+317,14,Sludge,1,poison,65,100
+317,14,Poison Gas,1,poison,-,90
+317,14,Yawn,1,normal,-,-
+317,15,Pound,1,normal,40,100
+317,15,Sludge,1,poison,65,100
+317,15,Poison Gas,1,poison,-,90
+317,15,Yawn,1,normal,-,-
+317,15,Wring Out,1,normal,-,100
+317,15,Gunk Shot,1,poison,120,80
+317,16,Pound,1,normal,40,100
+317,16,Sludge,1,poison,65,100
+317,16,Poison Gas,1,poison,-,90
+317,16,Yawn,1,normal,-,-
+317,16,Wring Out,1,normal,-,100
+317,16,Gunk Shot,1,poison,120,80
+317,16,Yawn,5,normal,-,-
+317,5,Yawn,6,normal,-,-
+317,6,Yawn,6,normal,-,-
+317,7,Yawn,6,normal,-,-
+317,8,Yawn,6,normal,-,-
+317,9,Yawn,6,normal,-,-
+317,10,Yawn,6,normal,-,-
+317,11,Yawn,6,normal,-,-
+317,12,Yawn,6,normal,-,-
+317,13,Yawn,6,normal,-,-
+317,14,Yawn,6,normal,-,-
+317,15,Yawn,6,normal,-,-
+317,16,Poison Gas,8,poison,-,90
+317,5,Poison Gas,9,poison,-,90
+317,6,Poison Gas,9,poison,-,90
+317,7,Poison Gas,9,poison,-,90
+317,8,Poison Gas,9,poison,-,90
+317,9,Poison Gas,9,poison,-,90
+317,10,Poison Gas,9,poison,-,90
+317,11,Poison Gas,9,poison,-,90
+317,12,Poison Gas,9,poison,-,90
+317,13,Poison Gas,9,poison,-,90
+317,14,Poison Gas,9,poison,-,90
+317,15,Poison Gas,9,poison,-,90
+317,16,Sludge,10,poison,65,100
+317,16,Amnesia,12,psychic,-,-
+317,5,Sludge,14,poison,65,100
+317,6,Sludge,14,poison,65,100
+317,7,Sludge,14,poison,65,100
+317,8,Sludge,14,poison,65,100
+317,9,Sludge,14,poison,65,100
+317,10,Sludge,14,poison,65,100
+317,11,Sludge,14,poison,65,100
+317,12,Sludge,14,poison,65,100
+317,13,Sludge,14,poison,65,100
+317,14,Sludge,14,poison,65,100
+317,15,Sludge,14,poison,65,100
+317,5,Amnesia,17,psychic,-,-
+317,6,Amnesia,17,psychic,-,-
+317,7,Amnesia,17,psychic,-,-
+317,8,Amnesia,17,psychic,-,-
+317,9,Amnesia,17,psychic,-,-
+317,10,Amnesia,17,psychic,-,-
+317,11,Amnesia,17,psychic,-,-
+317,12,Amnesia,17,psychic,-,-
+317,13,Amnesia,17,psychic,-,-
+317,14,Amnesia,17,psychic,-,-
+317,15,Amnesia,17,psychic,-,-
+317,16,Acid Spray,17,poison,40,100
+317,16,Encore,20,normal,-,100
+317,5,Encore,23,normal,-,100
+317,6,Encore,23,normal,-,100
+317,7,Encore,23,normal,-,100
+317,8,Encore,23,normal,-,100
+317,9,Encore,23,normal,-,100
+317,10,Encore,23,normal,-,100
+317,11,Encore,23,normal,-,100
+317,12,Encore,23,normal,-,100
+317,13,Encore,23,normal,-,100
+317,14,Encore,23,normal,-,100
+317,15,Encore,23,normal,-,100
+317,16,Toxic,25,poison,-,90
+317,5,Body Slam,26,normal,85,100
+317,6,Body Slam,26,normal,85,100
+317,7,Body Slam,26,normal,85,100
+317,8,Body Slam,26,normal,85,100
+317,9,Body Slam,26,normal,85,100
+317,10,Body Slam,26,normal,85,100
+317,11,Body Slam,26,normal,85,100
+317,12,Body Slam,26,normal,85,100
+317,13,Body Slam,26,normal,85,100
+317,14,Body Slam,26,normal,85,100
+317,15,Body Slam,26,normal,85,100
+317,16,Body Slam,26,normal,85,100
+317,8,Toxic,30,poison,-,90
+317,9,Toxic,30,poison,-,90
+317,10,Toxic,30,poison,-,90
+317,11,Toxic,30,poison,-,90
+317,14,Toxic,30,poison,-,90
+317,15,Toxic,30,poison,-,90
+317,16,Stockpile,30,normal,-,-
+317,16,Spit Up,30,normal,-,100
+317,16,Swallow,30,normal,-,-
+317,5,Toxic,31,poison,-,90
+317,6,Toxic,31,poison,-,90
+317,7,Toxic,31,poison,-,90
+317,12,Toxic,31,poison,-,90
+317,13,Toxic,31,poison,-,90
+317,16,Sludge Bomb,37,poison,90,100
+317,8,Stockpile,38,normal,-,-
+317,8,Spit Up,38,normal,-,100
+317,8,Swallow,38,normal,-,-
+317,9,Stockpile,38,normal,-,-
+317,9,Spit Up,38,normal,-,100
+317,9,Swallow,38,normal,-,-
+317,10,Stockpile,38,normal,-,-
+317,10,Spit Up,38,normal,-,100
+317,10,Swallow,38,normal,-,-
+317,11,Acid Spray,38,poison,40,100
+317,14,Acid Spray,38,poison,40,100
+317,15,Acid Spray,38,poison,40,100
+317,5,Stockpile,40,normal,-,-
+317,5,Spit Up,40,normal,-,100
+317,5,Swallow,40,normal,-,-
+317,6,Stockpile,40,normal,-,-
+317,6,Spit Up,40,normal,-,100
+317,6,Swallow,40,normal,-,-
+317,7,Stockpile,40,normal,-,-
+317,7,Spit Up,40,normal,-,100
+317,7,Swallow,40,normal,-,-
+317,12,Stockpile,40,normal,-,-
+317,12,Spit Up,40,normal,-,100
+317,12,Swallow,40,normal,-,-
+317,13,Stockpile,40,normal,-,-
+317,13,Spit Up,40,normal,-,100
+317,13,Swallow,40,normal,-,-
+317,16,Gastro Acid,42,poison,-,100
+317,8,Sludge Bomb,45,poison,90,100
+317,9,Sludge Bomb,45,poison,90,100
+317,10,Sludge Bomb,45,poison,90,100
+317,11,Stockpile,45,normal,-,-
+317,11,Spit Up,45,normal,-,100
+317,11,Swallow,45,normal,-,-
+317,14,Stockpile,45,normal,-,-
+317,14,Spit Up,45,normal,-,100
+317,14,Swallow,45,normal,-,-
+317,15,Stockpile,45,normal,-,-
+317,15,Spit Up,45,normal,-,100
+317,15,Swallow,45,normal,-,-
+317,15,Belch,46,poison,120,90
+317,5,Sludge Bomb,48,poison,90,100
+317,6,Sludge Bomb,48,poison,90,100
+317,7,Sludge Bomb,48,poison,90,100
+317,12,Sludge Bomb,48,poison,90,100
+317,13,Sludge Bomb,48,poison,90,100
+317,16,Belch,49,poison,120,90
+317,8,Gastro Acid,52,poison,-,100
+317,9,Gastro Acid,52,poison,-,100
+317,10,Gastro Acid,52,poison,-,100
+317,11,Sludge Bomb,52,poison,90,100
+317,14,Sludge Bomb,52,poison,90,100
+317,15,Sludge Bomb,52,poison,90,100
+317,16,Wring Out,54,normal,-,100
+317,8,Wring Out,59,normal,-,100
+317,9,Wring Out,59,normal,-,100
+317,10,Wring Out,59,normal,-,100
+317,11,Gastro Acid,59,poison,-,100
+317,14,Gastro Acid,59,poison,-,100
+317,15,Gastro Acid,59,poison,-,100
+317,16,Gunk Shot,61,poison,120,80
+317,8,Gunk Shot,66,poison,120,80
+317,9,Gunk Shot,66,poison,120,80
+317,10,Gunk Shot,66,poison,120,80
+317,11,Wring Out,66,normal,-,100
+317,14,Wring Out,66,normal,-,100
+317,15,Wring Out,66,normal,-,100
+317,11,Gunk Shot,73,poison,120,80
+317,14,Gunk Shot,73,poison,120,80
+317,15,Gunk Shot,73,poison,120,80

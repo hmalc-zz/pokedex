@@ -1,0 +1,53 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+366,5,Water Gun,1,water,40,100
+366,5,Clamp,1,water,35,85
+366,5,Whirlpool,1,water,35,85
+366,5,Iron Defense,1,steel,-,-
+366,6,Water Gun,1,water,40,100
+366,6,Clamp,1,water,35,85
+366,6,Whirlpool,1,water,35,85
+366,6,Iron Defense,1,steel,-,-
+366,7,Water Gun,1,water,40,100
+366,7,Clamp,1,water,35,85
+366,7,Whirlpool,1,water,35,85
+366,7,Iron Defense,1,steel,-,-
+366,8,Water Gun,1,water,40,100
+366,8,Clamp,1,water,35,85
+366,8,Whirlpool,1,water,35,85
+366,8,Iron Defense,1,steel,-,-
+366,9,Water Gun,1,water,40,100
+366,9,Clamp,1,water,35,85
+366,9,Whirlpool,1,water,35,85
+366,9,Iron Defense,1,steel,-,-
+366,10,Water Gun,1,water,40,100
+366,10,Clamp,1,water,35,85
+366,10,Whirlpool,1,water,35,85
+366,10,Iron Defense,1,steel,-,-
+366,11,Water Gun,1,water,40,100
+366,11,Clamp,1,water,35,85
+366,11,Whirlpool,1,water,35,85
+366,11,Iron Defense,1,steel,-,-
+366,12,Water Gun,1,water,40,100
+366,12,Clamp,1,water,35,85
+366,12,Whirlpool,1,water,35,85
+366,12,Iron Defense,1,steel,-,-
+366,13,Water Gun,1,water,40,100
+366,13,Clamp,1,water,35,85
+366,13,Whirlpool,1,water,35,85
+366,13,Iron Defense,1,steel,-,-
+366,14,Water Gun,1,water,40,100
+366,14,Clamp,1,water,35,85
+366,14,Whirlpool,1,water,35,85
+366,14,Iron Defense,1,steel,-,-
+366,15,Water Gun,1,water,40,100
+366,15,Clamp,1,water,35,85
+366,15,Whirlpool,1,water,35,85
+366,15,Iron Defense,1,steel,-,-
+366,16,Water Gun,1,water,40,100
+366,16,Clamp,1,water,35,85
+366,16,Whirlpool,1,water,35,85
+366,16,Iron Defense,1,steel,-,-
+366,15,Shell Smash,50,normal,-,-
+366,16,Shell Smash,50,normal,-,-
+366,11,Shell Smash,51,normal,-,-
+366,14,Shell Smash,51,normal,-,-

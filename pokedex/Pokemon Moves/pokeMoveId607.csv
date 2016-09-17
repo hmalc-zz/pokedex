@@ -1,0 +1,69 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+607,11,Ember,1,fire,40,100
+607,11,Astonish,1,ghost,30,100
+607,14,Ember,1,fire,40,100
+607,14,Astonish,1,ghost,30,100
+607,15,Ember,1,fire,40,100
+607,15,Astonish,1,ghost,30,100
+607,16,Ember,1,fire,40,100
+607,16,Astonish,1,ghost,30,100
+607,11,Minimize,3,normal,-,-
+607,14,Minimize,3,normal,-,-
+607,15,Minimize,3,normal,-,-
+607,16,Minimize,3,normal,-,-
+607,11,Smog,5,poison,30,70
+607,14,Smog,5,poison,30,70
+607,15,Smog,5,poison,30,70
+607,16,Smog,5,poison,30,70
+607,11,Fire Spin,7,fire,35,85
+607,14,Fire Spin,7,fire,35,85
+607,15,Fire Spin,7,fire,35,85
+607,16,Fire Spin,7,fire,35,85
+607,11,Confuse Ray,10,ghost,-,100
+607,14,Confuse Ray,10,ghost,-,100
+607,15,Confuse Ray,10,ghost,-,100
+607,16,Confuse Ray,10,ghost,-,100
+607,11,Night Shade,13,ghost,-,100
+607,14,Night Shade,13,ghost,-,100
+607,15,Night Shade,13,ghost,-,100
+607,16,Night Shade,13,ghost,-,100
+607,11,Will-O-Wisp,16,fire,-,85
+607,14,Will-O-Wisp,16,fire,-,85
+607,15,Will-O-Wisp,16,fire,-,85
+607,16,Will-O-Wisp,16,fire,-,85
+607,11,Flame Burst,20,fire,70,100
+607,14,Flame Burst,20,fire,70,100
+607,15,Flame Burst,20,fire,70,100
+607,16,Flame Burst,20,fire,70,100
+607,11,Imprison,24,psychic,-,-
+607,14,Imprison,24,psychic,-,-
+607,15,Imprison,24,psychic,-,-
+607,16,Imprison,24,psychic,-,-
+607,11,Hex,28,ghost,65,100
+607,14,Hex,28,ghost,65,100
+607,15,Hex,28,ghost,65,100
+607,16,Hex,28,ghost,65,100
+607,11,Memento,33,dark,-,100
+607,14,Memento,33,dark,-,100
+607,15,Memento,33,dark,-,100
+607,16,Memento,33,dark,-,100
+607,11,Inferno,38,fire,100,50
+607,14,Inferno,38,fire,100,50
+607,15,Inferno,38,fire,100,50
+607,16,Inferno,38,fire,100,50
+607,11,Curse,43,ghost,-,-
+607,14,Curse,43,ghost,-,-
+607,15,Curse,43,ghost,-,-
+607,16,Curse,43,ghost,-,-
+607,11,Shadow Ball,49,ghost,80,100
+607,14,Shadow Ball,49,ghost,80,100
+607,15,Shadow Ball,49,ghost,80,100
+607,16,Shadow Ball,49,ghost,80,100
+607,11,Pain Split,55,normal,-,-
+607,14,Pain Split,55,normal,-,-
+607,15,Pain Split,55,normal,-,-
+607,16,Pain Split,55,normal,-,-
+607,11,Overheat,61,fire,130,90
+607,14,Overheat,61,fire,130,90
+607,15,Overheat,61,fire,130,90
+607,16,Overheat,61,fire,130,90

@@ -1,0 +1,89 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+409,8,Headbutt,1,normal,70,100
+409,8,Leer,1,normal,-,100
+409,9,Headbutt,1,normal,70,100
+409,9,Leer,1,normal,-,100
+409,10,Headbutt,1,normal,70,100
+409,10,Leer,1,normal,-,100
+409,11,Headbutt,1,normal,70,100
+409,11,Leer,1,normal,-,100
+409,14,Headbutt,1,normal,70,100
+409,14,Leer,1,normal,-,100
+409,15,Headbutt,1,normal,70,100
+409,15,Leer,1,normal,-,100
+409,16,Headbutt,1,normal,70,100
+409,16,Leer,1,normal,-,100
+409,8,Focus Energy,6,normal,-,-
+409,9,Focus Energy,6,normal,-,-
+409,10,Focus Energy,6,normal,-,-
+409,11,Focus Energy,6,normal,-,-
+409,14,Focus Energy,6,normal,-,-
+409,15,Focus Energy,6,normal,-,-
+409,16,Focus Energy,6,normal,-,-
+409,8,Pursuit,10,dark,40,100
+409,9,Pursuit,10,dark,40,100
+409,10,Pursuit,10,dark,40,100
+409,11,Pursuit,10,dark,40,100
+409,14,Pursuit,10,dark,40,100
+409,15,Pursuit,10,dark,40,100
+409,16,Pursuit,10,dark,40,100
+409,8,Take Down,15,normal,90,85
+409,9,Take Down,15,normal,90,85
+409,10,Take Down,15,normal,90,85
+409,11,Take Down,15,normal,90,85
+409,14,Take Down,15,normal,90,85
+409,15,Take Down,15,normal,90,85
+409,16,Take Down,15,normal,90,85
+409,8,Scary Face,19,normal,-,100
+409,9,Scary Face,19,normal,-,100
+409,10,Scary Face,19,normal,-,100
+409,11,Scary Face,19,normal,-,100
+409,14,Scary Face,19,normal,-,100
+409,15,Scary Face,19,normal,-,100
+409,16,Scary Face,19,normal,-,100
+409,8,Assurance,24,dark,60,100
+409,9,Assurance,24,dark,60,100
+409,10,Assurance,24,dark,60,100
+409,11,Assurance,24,dark,60,100
+409,14,Assurance,24,dark,60,100
+409,15,Assurance,24,dark,60,100
+409,16,Assurance,24,dark,60,100
+409,8,Ancient Power,28,rock,60,100
+409,9,Ancient Power,28,rock,60,100
+409,10,Ancient Power,28,rock,60,100
+409,11,Chip Away,28,normal,70,100
+409,14,Chip Away,28,normal,70,100
+409,15,Chip Away,28,normal,70,100
+409,16,Chip Away,28,normal,70,100
+409,8,Endeavor,30,normal,-,100
+409,9,Endeavor,30,normal,-,100
+409,10,Endeavor,30,normal,-,100
+409,11,Endeavor,30,normal,-,100
+409,14,Endeavor,30,normal,-,100
+409,15,Endeavor,30,normal,-,100
+409,16,Endeavor,30,normal,-,100
+409,8,Zen Headbutt,36,psychic,80,90
+409,9,Zen Headbutt,36,psychic,80,90
+409,10,Zen Headbutt,36,psychic,80,90
+409,11,Ancient Power,36,rock,60,100
+409,14,Ancient Power,36,rock,60,100
+409,15,Ancient Power,36,rock,60,100
+409,16,Ancient Power,36,rock,60,100
+409,8,Screech,43,normal,-,85
+409,9,Screech,43,normal,-,85
+409,10,Screech,43,normal,-,85
+409,11,Zen Headbutt,43,psychic,80,90
+409,14,Zen Headbutt,43,psychic,80,90
+409,15,Zen Headbutt,43,psychic,80,90
+409,16,Zen Headbutt,43,psychic,80,90
+409,11,Screech,51,normal,-,85
+409,14,Screech,51,normal,-,85
+409,15,Screech,51,normal,-,85
+409,16,Screech,51,normal,-,85
+409,8,Head Smash,52,rock,150,80
+409,9,Head Smash,52,rock,150,80
+409,10,Head Smash,52,rock,150,80
+409,11,Head Smash,58,rock,150,80
+409,14,Head Smash,58,rock,150,80
+409,15,Head Smash,58,rock,150,80
+409,16,Head Smash,58,rock,150,80

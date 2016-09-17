@@ -1,0 +1,162 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+15,1,Fury Attack,1,normal,15,85
+15,2,Fury Attack,1,normal,15,85
+15,3,Fury Attack,1,normal,15,85
+15,4,Fury Attack,1,normal,15,85
+15,5,Fury Attack,1,normal,15,85
+15,6,Fury Attack,1,normal,15,85
+15,7,Fury Attack,1,normal,15,85
+15,8,Fury Attack,1,normal,15,85
+15,9,Fury Attack,1,normal,15,85
+15,10,Fury Attack,1,normal,15,85
+15,11,Fury Attack,1,normal,15,85
+15,12,Fury Attack,1,normal,15,85
+15,13,Fury Attack,1,normal,15,85
+15,14,Fury Attack,1,normal,15,85
+15,15,Fury Attack,1,normal,15,85
+15,16,Fury Attack,1,normal,15,85
+15,3,Fury Attack,10,normal,15,85
+15,4,Fury Attack,10,normal,15,85
+15,5,Fury Attack,10,normal,15,85
+15,6,Fury Attack,10,normal,15,85
+15,7,Fury Attack,10,normal,15,85
+15,8,Fury Attack,10,normal,15,85
+15,9,Fury Attack,10,normal,15,85
+15,10,Fury Attack,10,normal,15,85
+15,11,Fury Attack,10,normal,15,85
+15,12,Fury Attack,10,normal,15,85
+15,13,Fury Attack,10,normal,15,85
+15,14,Fury Attack,10,normal,15,85
+15,15,Fury Attack,10,normal,15,85
+15,16,Fury Attack,10,normal,15,85
+15,1,Fury Attack,12,normal,15,85
+15,2,Fury Attack,12,normal,15,85
+15,8,Focus Energy,13,normal,-,-
+15,9,Focus Energy,13,normal,-,-
+15,10,Focus Energy,13,normal,-,-
+15,11,Focus Energy,13,normal,-,-
+15,14,Focus Energy,13,normal,-,-
+15,15,Focus Energy,13,normal,-,-
+15,16,Focus Energy,13,normal,-,-
+15,3,Focus Energy,15,normal,-,-
+15,4,Focus Energy,15,normal,-,-
+15,5,Focus Energy,15,normal,-,-
+15,6,Focus Energy,15,normal,-,-
+15,7,Focus Energy,15,normal,-,-
+15,12,Focus Energy,15,normal,-,-
+15,13,Focus Energy,15,normal,-,-
+15,1,Focus Energy,16,normal,-,-
+15,2,Focus Energy,16,normal,-,-
+15,8,Twineedle,16,bug,25,100
+15,9,Twineedle,16,bug,25,100
+15,10,Twineedle,16,bug,25,100
+15,11,Twineedle,16,bug,25,100
+15,14,Twineedle,16,bug,25,100
+15,15,Twineedle,16,bug,25,100
+15,16,Twineedle,16,bug,25,100
+15,8,Rage,19,normal,20,100
+15,9,Rage,19,normal,20,100
+15,10,Rage,19,normal,20,100
+15,11,Rage,19,normal,20,100
+15,14,Rage,19,normal,20,100
+15,15,Rage,19,normal,20,100
+15,16,Rage,19,normal,20,100
+15,1,Twineedle,20,bug,25,100
+15,2,Twineedle,20,bug,25,100
+15,3,Twineedle,20,bug,25,100
+15,4,Twineedle,20,bug,25,100
+15,5,Twineedle,20,bug,25,100
+15,6,Twineedle,20,bug,25,100
+15,7,Twineedle,20,bug,25,100
+15,12,Twineedle,20,bug,25,100
+15,13,Twineedle,20,bug,25,100
+15,8,Pursuit,22,dark,40,100
+15,9,Pursuit,22,dark,40,100
+15,10,Pursuit,22,dark,40,100
+15,11,Pursuit,22,dark,40,100
+15,14,Pursuit,22,dark,40,100
+15,15,Pursuit,22,dark,40,100
+15,16,Pursuit,22,dark,40,100
+15,1,Rage,25,normal,20,100
+15,2,Rage,25,normal,20,100
+15,3,Rage,25,normal,20,100
+15,4,Rage,25,normal,20,100
+15,5,Rage,25,normal,20,100
+15,6,Rage,25,normal,20,100
+15,7,Rage,25,normal,20,100
+15,8,Toxic Spikes,25,poison,-,-
+15,9,Toxic Spikes,25,poison,-,-
+15,10,Toxic Spikes,25,poison,-,-
+15,11,Toxic Spikes,25,poison,-,-
+15,12,Rage,25,normal,20,100
+15,13,Rage,25,normal,20,100
+15,14,Toxic Spikes,25,poison,-,-
+15,15,Toxic Spikes,25,poison,-,-
+15,16,Toxic Spikes,25,poison,-,-
+15,8,Pin Missile,28,bug,25,95
+15,9,Pin Missile,28,bug,25,95
+15,10,Pin Missile,28,bug,25,95
+15,11,Pin Missile,28,bug,25,95
+15,14,Pin Missile,28,bug,25,95
+15,15,Pin Missile,28,bug,25,95
+15,16,Pin Missile,28,bug,25,95
+15,1,Pin Missile,30,bug,25,95
+15,2,Pin Missile,30,bug,25,95
+15,3,Pursuit,30,dark,40,100
+15,4,Pursuit,30,dark,40,100
+15,5,Pursuit,30,dark,40,100
+15,6,Pursuit,30,dark,40,100
+15,7,Pursuit,30,dark,40,100
+15,12,Pursuit,30,dark,40,100
+15,13,Pursuit,30,dark,40,100
+15,8,Agility,31,psychic,-,-
+15,9,Agility,31,psychic,-,-
+15,10,Agility,31,psychic,-,-
+15,11,Agility,31,psychic,-,-
+15,14,Agility,31,psychic,-,-
+15,15,Agility,31,psychic,-,-
+15,16,Agility,31,psychic,-,-
+15,8,Assurance,34,dark,60,100
+15,9,Assurance,34,dark,60,100
+15,10,Assurance,34,dark,60,100
+15,11,Assurance,34,dark,60,100
+15,14,Assurance,34,dark,60,100
+15,15,Assurance,34,dark,60,100
+15,16,Assurance,34,dark,60,100
+15,1,Agility,35,psychic,-,-
+15,2,Agility,35,psychic,-,-
+15,3,Pin Missile,35,bug,25,95
+15,4,Pin Missile,35,bug,25,95
+15,5,Pin Missile,35,bug,25,95
+15,6,Pin Missile,35,bug,25,95
+15,7,Pin Missile,35,bug,25,95
+15,12,Pin Missile,35,bug,25,95
+15,13,Pin Missile,35,bug,25,95
+15,8,Poison Jab,37,poison,80,100
+15,9,Poison Jab,37,poison,80,100
+15,10,Poison Jab,37,poison,80,100
+15,11,Poison Jab,37,poison,80,100
+15,14,Poison Jab,37,poison,80,100
+15,15,Poison Jab,37,poison,80,100
+15,16,Poison Jab,37,poison,80,100
+15,3,Agility,40,psychic,-,-
+15,4,Agility,40,psychic,-,-
+15,5,Agility,40,psychic,-,-
+15,6,Agility,40,psychic,-,-
+15,7,Agility,40,psychic,-,-
+15,8,Endeavor,40,normal,-,100
+15,9,Endeavor,40,normal,-,100
+15,10,Endeavor,40,normal,-,100
+15,11,Endeavor,40,normal,-,100
+15,12,Agility,40,psychic,-,-
+15,13,Agility,40,psychic,-,-
+15,14,Endeavor,40,normal,-,100
+15,15,Endeavor,40,normal,-,100
+15,16,Endeavor,40,normal,-,100
+15,5,Endeavor,45,normal,-,100
+15,6,Endeavor,45,normal,-,100
+15,7,Endeavor,45,normal,-,100
+15,12,Endeavor,45,normal,-,100
+15,13,Endeavor,45,normal,-,100
+15,15,Fell Stinger,45,bug,30,100
+15,16,Fell Stinger,45,bug,30,100

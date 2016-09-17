@@ -1,0 +1,189 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+39,1,Sing,1,normal,-,55
+39,2,Sing,1,normal,-,55
+39,3,Sing,1,normal,-,55
+39,4,Sing,1,normal,-,55
+39,5,Sing,1,normal,-,55
+39,6,Sing,1,normal,-,55
+39,7,Sing,1,normal,-,55
+39,8,Sing,1,normal,-,55
+39,9,Sing,1,normal,-,55
+39,10,Sing,1,normal,-,55
+39,11,Sing,1,normal,-,55
+39,12,Sing,1,normal,-,55
+39,13,Sing,1,normal,-,55
+39,14,Sing,1,normal,-,55
+39,15,Sing,1,normal,-,55
+39,16,Sing,1,normal,-,55
+39,16,Defense Curl,3,normal,-,-
+39,3,Defense Curl,4,normal,-,-
+39,4,Defense Curl,4,normal,-,-
+39,5,Defense Curl,4,normal,-,-
+39,6,Defense Curl,4,normal,-,-
+39,7,Defense Curl,4,normal,-,-
+39,12,Defense Curl,4,normal,-,-
+39,13,Defense Curl,4,normal,-,-
+39,8,Defense Curl,5,normal,-,-
+39,9,Defense Curl,5,normal,-,-
+39,10,Defense Curl,5,normal,-,-
+39,11,Defense Curl,5,normal,-,-
+39,14,Defense Curl,5,normal,-,-
+39,15,Defense Curl,5,normal,-,-
+39,16,Pound,5,normal,40,100
+39,15,Pound,7,normal,40,100
+39,16,Play Nice,8,normal,-,-
+39,1,Pound,9,normal,40,100
+39,2,Pound,9,normal,40,100
+39,3,Pound,9,normal,40,100
+39,4,Pound,9,normal,40,100
+39,5,Pound,9,normal,40,100
+39,6,Pound,9,normal,40,100
+39,7,Pound,9,normal,40,100
+39,8,Pound,9,normal,40,100
+39,9,Pound,9,normal,40,100
+39,10,Pound,9,normal,40,100
+39,11,Pound,9,normal,40,100
+39,12,Pound,9,normal,40,100
+39,13,Pound,9,normal,40,100
+39,14,Pound,9,normal,40,100
+39,15,Play Nice,10,normal,-,-
+39,16,Disarming Voice,11,fairy,40,-
+39,8,Disable,13,normal,-,100
+39,9,Disable,13,normal,-,100
+39,10,Disable,13,normal,-,100
+39,11,Disable,13,normal,-,100
+39,14,Disable,13,normal,-,100
+39,15,Disable,13,normal,-,100
+39,1,Disable,14,normal,-,100
+39,2,Disable,14,normal,-,100
+39,3,Disable,14,normal,-,100
+39,4,Disable,14,normal,-,100
+39,5,Disable,14,normal,-,100
+39,6,Disable,14,normal,-,100
+39,7,Disable,14,normal,-,100
+39,12,Disable,14,normal,-,100
+39,13,Disable,14,normal,-,100
+39,16,Disable,15,normal,-,100
+39,8,Rollout,17,rock,30,90
+39,9,Rollout,17,rock,30,90
+39,10,Rollout,17,rock,30,90
+39,11,Round,17,normal,60,100
+39,14,Round,17,normal,60,100
+39,15,Round,17,normal,60,100
+39,16,Double Slap,18,normal,15,85
+39,1,Defense Curl,19,normal,-,-
+39,2,Defense Curl,19,normal,-,-
+39,3,Rollout,19,rock,30,90
+39,4,Rollout,19,rock,30,90
+39,5,Rollout,19,rock,30,90
+39,6,Rollout,19,rock,30,90
+39,7,Rollout,19,rock,30,90
+39,12,Rollout,19,rock,30,90
+39,13,Rollout,19,rock,30,90
+39,8,Double Slap,21,normal,15,85
+39,9,Double Slap,21,normal,15,85
+39,10,Double Slap,21,normal,15,85
+39,11,Rollout,21,rock,30,90
+39,14,Rollout,21,rock,30,90
+39,15,Rollout,21,rock,30,90
+39,16,Rollout,21,rock,30,90
+39,1,Double Slap,24,normal,15,85
+39,2,Double Slap,24,normal,15,85
+39,3,Double Slap,24,normal,15,85
+39,4,Double Slap,24,normal,15,85
+39,5,Double Slap,24,normal,15,85
+39,6,Double Slap,24,normal,15,85
+39,7,Double Slap,24,normal,15,85
+39,12,Double Slap,24,normal,15,85
+39,13,Double Slap,24,normal,15,85
+39,16,Round,24,normal,60,100
+39,8,Rest,25,psychic,-,-
+39,9,Rest,25,psychic,-,-
+39,10,Rest,25,psychic,-,-
+39,11,Double Slap,25,normal,15,85
+39,14,Double Slap,25,normal,15,85
+39,15,Double Slap,25,normal,15,85
+39,16,Wake-Up Slap,28,fighting,70,100
+39,1,Rest,29,psychic,-,-
+39,2,Rest,29,psychic,-,-
+39,3,Rest,29,psychic,-,-
+39,4,Rest,29,psychic,-,-
+39,5,Rest,29,psychic,-,-
+39,6,Rest,29,psychic,-,-
+39,7,Rest,29,psychic,-,-
+39,8,Body Slam,29,normal,85,100
+39,9,Body Slam,29,normal,85,100
+39,10,Body Slam,29,normal,85,100
+39,11,Rest,29,psychic,-,-
+39,12,Rest,29,psychic,-,-
+39,13,Rest,29,psychic,-,-
+39,14,Rest,29,psychic,-,-
+39,15,Rest,29,psychic,-,-
+39,16,Rest,32,psychic,-,-
+39,8,Gyro Ball,33,steel,-,100
+39,9,Gyro Ball,33,steel,-,100
+39,10,Gyro Ball,33,steel,-,100
+39,11,Body Slam,33,normal,85,100
+39,14,Body Slam,33,normal,85,100
+39,15,Body Slam,33,normal,85,100
+39,1,Body Slam,34,normal,85,100
+39,2,Body Slam,34,normal,85,100
+39,3,Body Slam,34,normal,85,100
+39,4,Body Slam,34,normal,85,100
+39,5,Body Slam,34,normal,85,100
+39,6,Body Slam,34,normal,85,100
+39,7,Body Slam,34,normal,85,100
+39,12,Body Slam,34,normal,85,100
+39,13,Body Slam,34,normal,85,100
+39,16,Body Slam,35,normal,85,100
+39,8,Wake-Up Slap,37,fighting,70,100
+39,9,Wake-Up Slap,37,fighting,70,100
+39,10,Wake-Up Slap,37,fighting,70,100
+39,11,Gyro Ball,37,steel,-,100
+39,14,Gyro Ball,37,steel,-,100
+39,15,Gyro Ball,37,steel,-,100
+39,16,Mimic,37,normal,-,-
+39,1,Double-Edge,39,normal,120,100
+39,2,Double-Edge,39,normal,120,100
+39,3,Double-Edge,39,normal,120,100
+39,4,Double-Edge,39,normal,120,100
+39,5,Mimic,39,normal,-,-
+39,6,Mimic,39,normal,-,-
+39,7,Mimic,39,normal,-,-
+39,12,Mimic,39,normal,-,-
+39,13,Mimic,39,normal,-,-
+39,16,Gyro Ball,40,steel,-,100
+39,8,Mimic,41,normal,-,-
+39,9,Mimic,41,normal,-,-
+39,10,Mimic,41,normal,-,-
+39,11,Wake-Up Slap,41,fighting,70,100
+39,14,Wake-Up Slap,41,fighting,70,100
+39,15,Wake-Up Slap,41,fighting,70,100
+39,5,Hyper Voice,44,normal,90,100
+39,6,Hyper Voice,44,normal,90,100
+39,7,Hyper Voice,44,normal,90,100
+39,12,Hyper Voice,44,normal,90,100
+39,13,Hyper Voice,44,normal,90,100
+39,16,Hyper Voice,44,normal,90,100
+39,8,Hyper Voice,45,normal,90,100
+39,9,Hyper Voice,45,normal,90,100
+39,10,Hyper Voice,45,normal,90,100
+39,11,Mimic,45,normal,-,-
+39,14,Mimic,45,normal,-,-
+39,15,Mimic,45,normal,-,-
+39,15,Hyper Voice,48,normal,90,100
+39,5,Double-Edge,49,normal,120,100
+39,6,Double-Edge,49,normal,120,100
+39,7,Double-Edge,49,normal,120,100
+39,8,Double-Edge,49,normal,120,100
+39,9,Double-Edge,49,normal,120,100
+39,10,Double-Edge,49,normal,120,100
+39,11,Hyper Voice,49,normal,90,100
+39,12,Double-Edge,49,normal,120,100
+39,13,Double-Edge,49,normal,120,100
+39,14,Hyper Voice,49,normal,90,100
+39,16,Double-Edge,49,normal,120,100
+39,15,Disarming Voice,50,fairy,40,-
+39,11,Double-Edge,53,normal,120,100
+39,14,Double-Edge,53,normal,120,100
+39,15,Double-Edge,53,normal,120,100

@@ -1,0 +1,201 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+211,3,Tackle,1,normal,50,100
+211,3,Poison Sting,1,poison,15,100
+211,4,Tackle,1,normal,50,100
+211,4,Poison Sting,1,poison,15,100
+211,4,Spikes,1,ground,-,-
+211,5,Tackle,1,normal,50,100
+211,5,Poison Sting,1,poison,15,100
+211,5,Spikes,1,ground,-,-
+211,6,Tackle,1,normal,50,100
+211,6,Poison Sting,1,poison,15,100
+211,6,Spikes,1,ground,-,-
+211,7,Tackle,1,normal,50,100
+211,7,Poison Sting,1,poison,15,100
+211,7,Spikes,1,ground,-,-
+211,8,Tackle,1,normal,50,100
+211,8,Poison Sting,1,poison,15,100
+211,8,Spikes,1,ground,-,-
+211,9,Tackle,1,normal,50,100
+211,9,Poison Sting,1,poison,15,100
+211,9,Spikes,1,ground,-,-
+211,10,Tackle,1,normal,50,100
+211,10,Poison Sting,1,poison,15,100
+211,10,Spikes,1,ground,-,-
+211,11,Tackle,1,normal,50,100
+211,11,Poison Sting,1,poison,15,100
+211,11,Spikes,1,ground,-,-
+211,12,Tackle,1,normal,50,100
+211,12,Poison Sting,1,poison,15,100
+211,12,Spikes,1,ground,-,-
+211,13,Tackle,1,normal,50,100
+211,13,Poison Sting,1,poison,15,100
+211,13,Spikes,1,ground,-,-
+211,14,Tackle,1,normal,50,100
+211,14,Poison Sting,1,poison,15,100
+211,14,Spikes,1,ground,-,-
+211,15,Tackle,1,normal,50,100
+211,15,Poison Sting,1,poison,15,100
+211,15,Water Gun,1,water,40,100
+211,15,Hydro Pump,1,water,110,80
+211,15,Spikes,1,ground,-,-
+211,15,Destiny Bond,1,ghost,-,-
+211,15,Fell Stinger,1,bug,30,100
+211,16,Tackle,1,normal,50,100
+211,16,Poison Sting,1,poison,15,100
+211,16,Water Gun,1,water,40,100
+211,16,Hydro Pump,1,water,110,80
+211,16,Spikes,1,ground,-,-
+211,16,Destiny Bond,1,ghost,-,-
+211,16,Fell Stinger,1,bug,30,100
+211,7,Harden,9,normal,-,-
+211,7,Minimize,9,normal,-,-
+211,8,Harden,9,normal,-,-
+211,8,Minimize,9,normal,-,-
+211,9,Harden,9,normal,-,-
+211,9,Minimize,9,normal,-,-
+211,10,Harden,9,normal,-,-
+211,10,Minimize,9,normal,-,-
+211,11,Harden,9,normal,-,-
+211,11,Minimize,9,normal,-,-
+211,14,Harden,9,normal,-,-
+211,14,Minimize,9,normal,-,-
+211,15,Harden,9,normal,-,-
+211,15,Minimize,9,normal,-,-
+211,16,Harden,9,normal,-,-
+211,16,Minimize,9,normal,-,-
+211,3,Harden,10,normal,-,-
+211,3,Minimize,10,normal,-,-
+211,4,Harden,10,normal,-,-
+211,4,Minimize,10,normal,-,-
+211,5,Harden,10,normal,-,-
+211,5,Minimize,10,normal,-,-
+211,6,Harden,10,normal,-,-
+211,6,Minimize,10,normal,-,-
+211,12,Harden,10,normal,-,-
+211,12,Minimize,10,normal,-,-
+211,13,Harden,10,normal,-,-
+211,13,Minimize,10,normal,-,-
+211,7,Water Gun,13,water,40,100
+211,8,Water Gun,13,water,40,100
+211,9,Water Gun,13,water,40,100
+211,10,Water Gun,13,water,40,100
+211,11,Water Gun,13,water,40,100
+211,14,Water Gun,13,water,40,100
+211,15,Bubble,13,water,40,100
+211,16,Bubble,13,water,40,100
+211,8,Rollout,17,rock,30,90
+211,9,Rollout,17,rock,30,90
+211,10,Rollout,17,rock,30,90
+211,11,Rollout,17,rock,30,90
+211,14,Rollout,17,rock,30,90
+211,15,Rollout,17,rock,30,90
+211,16,Rollout,17,rock,30,90
+211,3,Water Gun,19,water,40,100
+211,4,Water Gun,19,water,40,100
+211,5,Water Gun,19,water,40,100
+211,6,Water Gun,19,water,40,100
+211,12,Water Gun,19,water,40,100
+211,13,Water Gun,19,water,40,100
+211,7,Pin Missile,21,bug,25,95
+211,8,Toxic Spikes,21,poison,-,-
+211,9,Toxic Spikes,21,poison,-,-
+211,10,Toxic Spikes,21,poison,-,-
+211,11,Toxic Spikes,21,poison,-,-
+211,14,Toxic Spikes,21,poison,-,-
+211,15,Toxic Spikes,21,poison,-,-
+211,16,Toxic Spikes,21,poison,-,-
+211,7,Revenge,25,fighting,60,100
+211,8,Stockpile,25,normal,-,-
+211,8,Spit Up,25,normal,-,100
+211,9,Stockpile,25,normal,-,-
+211,9,Spit Up,25,normal,-,100
+211,10,Stockpile,25,normal,-,-
+211,10,Spit Up,25,normal,-,100
+211,11,Stockpile,25,normal,-,-
+211,11,Spit Up,25,normal,-,100
+211,14,Stockpile,25,normal,-,-
+211,14,Spit Up,25,normal,-,100
+211,15,Stockpile,25,normal,-,-
+211,15,Spit Up,25,normal,-,100
+211,16,Stockpile,25,normal,-,-
+211,16,Spit Up,25,normal,-,100
+211,3,Pin Missile,28,bug,25,95
+211,4,Pin Missile,28,bug,25,95
+211,5,Pin Missile,28,bug,25,95
+211,6,Pin Missile,28,bug,25,95
+211,12,Pin Missile,28,bug,25,95
+211,13,Pin Missile,28,bug,25,95
+211,8,Revenge,29,fighting,60,100
+211,9,Revenge,29,fighting,60,100
+211,10,Revenge,29,fighting,60,100
+211,11,Revenge,29,fighting,60,100
+211,14,Revenge,29,fighting,60,100
+211,15,Revenge,29,fighting,60,100
+211,16,Revenge,29,fighting,60,100
+211,7,Take Down,33,normal,90,85
+211,8,Brine,33,water,65,100
+211,9,Brine,33,water,65,100
+211,10,Brine,33,water,65,100
+211,11,Brine,33,water,65,100
+211,14,Brine,33,water,65,100
+211,15,Brine,33,water,65,100
+211,16,Brine,33,water,65,100
+211,3,Take Down,37,normal,90,85
+211,4,Take Down,37,normal,90,85
+211,5,Take Down,37,normal,90,85
+211,6,Take Down,37,normal,90,85
+211,7,Hydro Pump,37,water,110,80
+211,8,Pin Missile,37,bug,25,95
+211,9,Pin Missile,37,bug,25,95
+211,10,Pin Missile,37,bug,25,95
+211,11,Pin Missile,37,bug,25,95
+211,12,Take Down,37,normal,90,85
+211,13,Take Down,37,normal,90,85
+211,14,Pin Missile,37,bug,25,95
+211,15,Pin Missile,37,bug,25,95
+211,16,Pin Missile,37,bug,25,95
+211,8,Take Down,41,normal,90,85
+211,9,Take Down,41,normal,90,85
+211,10,Take Down,41,normal,90,85
+211,11,Take Down,41,normal,90,85
+211,14,Take Down,41,normal,90,85
+211,15,Take Down,41,normal,90,85
+211,16,Take Down,41,normal,90,85
+211,7,Destiny Bond,45,ghost,-,-
+211,8,Aqua Tail,45,water,90,90
+211,9,Aqua Tail,45,water,90,90
+211,10,Aqua Tail,45,water,90,90
+211,11,Aqua Tail,45,water,90,90
+211,14,Aqua Tail,45,water,90,90
+211,15,Aqua Tail,45,water,90,90
+211,16,Aqua Tail,45,water,90,90
+211,3,Hydro Pump,46,water,110,80
+211,4,Hydro Pump,46,water,110,80
+211,5,Hydro Pump,46,water,110,80
+211,6,Hydro Pump,46,water,110,80
+211,12,Hydro Pump,46,water,110,80
+211,13,Hydro Pump,46,water,110,80
+211,8,Poison Jab,49,poison,80,100
+211,9,Poison Jab,49,poison,80,100
+211,10,Poison Jab,49,poison,80,100
+211,11,Poison Jab,49,poison,80,100
+211,14,Poison Jab,49,poison,80,100
+211,15,Poison Jab,49,poison,80,100
+211,16,Poison Jab,49,poison,80,100
+211,8,Destiny Bond,53,ghost,-,-
+211,9,Destiny Bond,53,ghost,-,-
+211,10,Destiny Bond,53,ghost,-,-
+211,11,Destiny Bond,53,ghost,-,-
+211,14,Destiny Bond,53,ghost,-,-
+211,15,Destiny Bond,53,ghost,-,-
+211,16,Destiny Bond,53,ghost,-,-
+211,8,Hydro Pump,57,water,110,80
+211,9,Hydro Pump,57,water,110,80
+211,10,Hydro Pump,57,water,110,80
+211,11,Hydro Pump,57,water,110,80
+211,14,Hydro Pump,57,water,110,80
+211,15,Hydro Pump,57,water,110,80
+211,16,Hydro Pump,57,water,110,80
+211,15,Fell Stinger,60,bug,30,100
+211,16,Fell Stinger,60,bug,30,100

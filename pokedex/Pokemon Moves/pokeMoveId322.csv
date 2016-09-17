@@ -1,0 +1,145 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+322,5,Tackle,1,normal,50,100
+322,5,Growl,1,normal,-,100
+322,6,Tackle,1,normal,50,100
+322,6,Growl,1,normal,-,100
+322,7,Tackle,1,normal,50,100
+322,7,Growl,1,normal,-,100
+322,8,Tackle,1,normal,50,100
+322,8,Growl,1,normal,-,100
+322,9,Tackle,1,normal,50,100
+322,9,Growl,1,normal,-,100
+322,10,Tackle,1,normal,50,100
+322,10,Growl,1,normal,-,100
+322,11,Tackle,1,normal,50,100
+322,11,Growl,1,normal,-,100
+322,12,Tackle,1,normal,50,100
+322,12,Growl,1,normal,-,100
+322,13,Tackle,1,normal,50,100
+322,13,Growl,1,normal,-,100
+322,14,Tackle,1,normal,50,100
+322,14,Growl,1,normal,-,100
+322,15,Tackle,1,normal,50,100
+322,15,Growl,1,normal,-,100
+322,16,Tackle,1,normal,50,100
+322,16,Growl,1,normal,-,100
+322,8,Ember,5,fire,40,100
+322,9,Ember,5,fire,40,100
+322,10,Ember,5,fire,40,100
+322,11,Ember,5,fire,40,100
+322,14,Ember,5,fire,40,100
+322,15,Ember,5,fire,40,100
+322,16,Ember,5,fire,40,100
+322,14,Magnitude,8,ground,-,100
+322,15,Magnitude,8,ground,-,100
+322,16,Focus Energy,8,normal,-,-
+322,5,Ember,11,fire,40,100
+322,6,Ember,11,fire,40,100
+322,7,Ember,11,fire,40,100
+322,8,Magnitude,11,ground,-,100
+322,9,Magnitude,11,ground,-,100
+322,10,Magnitude,11,ground,-,100
+322,11,Magnitude,11,ground,-,100
+322,12,Ember,11,fire,40,100
+322,13,Ember,11,fire,40,100
+322,14,Focus Energy,12,normal,-,-
+322,15,Focus Energy,12,normal,-,-
+322,16,Magnitude,12,ground,-,100
+322,8,Focus Energy,15,normal,-,-
+322,9,Focus Energy,15,normal,-,-
+322,10,Focus Energy,15,normal,-,-
+322,11,Focus Energy,15,normal,-,-
+322,14,Flame Burst,15,fire,70,100
+322,15,Flame Burst,15,fire,70,100
+322,16,Flame Burst,15,fire,70,100
+322,5,Magnitude,19,ground,-,100
+322,6,Magnitude,19,ground,-,100
+322,7,Magnitude,19,ground,-,100
+322,12,Magnitude,19,ground,-,100
+322,13,Magnitude,19,ground,-,100
+322,14,Amnesia,19,psychic,-,-
+322,15,Amnesia,19,psychic,-,-
+322,16,Amnesia,19,psychic,-,-
+322,8,Take Down,21,normal,90,85
+322,9,Take Down,21,normal,90,85
+322,10,Take Down,21,normal,90,85
+322,11,Flame Burst,21,fire,70,100
+322,14,Lava Plume,22,fire,80,100
+322,15,Lava Plume,22,fire,80,100
+322,16,Lava Plume,22,fire,80,100
+322,5,Focus Energy,25,normal,-,-
+322,6,Focus Energy,25,normal,-,-
+322,7,Focus Energy,25,normal,-,-
+322,8,Amnesia,25,psychic,-,-
+322,9,Amnesia,25,psychic,-,-
+322,10,Amnesia,25,psychic,-,-
+322,11,Take Down,25,normal,90,85
+322,12,Focus Energy,25,normal,-,-
+322,13,Focus Energy,25,normal,-,-
+322,14,Earth Power,26,ground,90,100
+322,15,Earth Power,26,ground,90,100
+322,16,Earth Power,26,ground,90,100
+322,5,Take Down,29,normal,90,85
+322,6,Take Down,29,normal,90,85
+322,7,Take Down,29,normal,90,85
+322,12,Take Down,29,normal,90,85
+322,13,Take Down,29,normal,90,85
+322,14,Curse,29,ghost,-,-
+322,15,Curse,29,ghost,-,-
+322,16,Curse,29,ghost,-,-
+322,5,Amnesia,31,psychic,-,-
+322,6,Amnesia,31,psychic,-,-
+322,7,Amnesia,31,psychic,-,-
+322,8,Lava Plume,31,fire,80,100
+322,9,Lava Plume,31,fire,80,100
+322,10,Lava Plume,31,fire,80,100
+322,11,Amnesia,31,psychic,-,-
+322,12,Amnesia,31,psychic,-,-
+322,13,Amnesia,31,psychic,-,-
+322,14,Take Down,31,normal,90,85
+322,15,Take Down,31,normal,90,85
+322,16,Take Down,31,normal,90,85
+322,5,Earthquake,35,ground,100,100
+322,6,Earthquake,35,ground,100,100
+322,7,Earthquake,35,ground,100,100
+322,8,Earth Power,35,ground,90,100
+322,9,Earth Power,35,ground,90,100
+322,10,Earth Power,35,ground,90,100
+322,11,Lava Plume,35,fire,80,100
+322,12,Earthquake,35,ground,100,100
+322,13,Earthquake,35,ground,100,100
+322,14,Yawn,36,normal,-,-
+322,15,Yawn,36,normal,-,-
+322,16,Yawn,36,normal,-,-
+322,14,Earthquake,40,ground,100,100
+322,15,Earthquake,40,ground,100,100
+322,16,Earthquake,40,ground,100,100
+322,5,Flamethrower,41,fire,90,100
+322,6,Flamethrower,41,fire,90,100
+322,7,Flamethrower,41,fire,90,100
+322,8,Earthquake,41,ground,100,100
+322,9,Earthquake,41,ground,100,100
+322,10,Earthquake,41,ground,100,100
+322,11,Earth Power,41,ground,90,100
+322,12,Flamethrower,41,fire,90,100
+322,13,Flamethrower,41,fire,90,100
+322,14,Flamethrower,43,fire,90,100
+322,15,Flamethrower,43,fire,90,100
+322,16,Flamethrower,43,fire,90,100
+322,8,Flamethrower,45,fire,90,100
+322,9,Flamethrower,45,fire,90,100
+322,10,Flamethrower,45,fire,90,100
+322,11,Earthquake,45,ground,100,100
+322,14,Double-Edge,47,normal,120,100
+322,15,Double-Edge,47,normal,120,100
+322,16,Double-Edge,47,normal,120,100
+322,5,Double-Edge,49,normal,120,100
+322,6,Double-Edge,49,normal,120,100
+322,7,Double-Edge,49,normal,120,100
+322,12,Double-Edge,49,normal,120,100
+322,13,Double-Edge,49,normal,120,100
+322,8,Double-Edge,51,normal,120,100
+322,9,Double-Edge,51,normal,120,100
+322,10,Double-Edge,51,normal,120,100
+322,11,Flamethrower,51,fire,90,100
+322,11,Double-Edge,55,normal,120,100

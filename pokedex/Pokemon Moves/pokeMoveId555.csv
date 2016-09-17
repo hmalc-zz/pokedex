@@ -1,0 +1,81 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+555,11,Tackle,1,normal,50,100
+555,11,Rage,1,normal,20,100
+555,11,Rollout,1,rock,30,90
+555,11,Incinerate,1,fire,60,100
+555,14,Tackle,1,normal,50,100
+555,14,Rage,1,normal,20,100
+555,14,Rollout,1,rock,30,90
+555,14,Incinerate,1,fire,60,100
+555,15,Tackle,1,normal,50,100
+555,15,Rage,1,normal,20,100
+555,15,Rollout,1,rock,30,90
+555,15,Incinerate,1,fire,60,100
+555,16,Tackle,1,normal,50,100
+555,16,Rage,1,normal,20,100
+555,16,Rollout,1,rock,30,90
+555,16,Incinerate,1,fire,60,100
+555,11,Rollout,3,rock,30,90
+555,14,Rollout,3,rock,30,90
+555,15,Rollout,3,rock,30,90
+555,16,Rollout,3,rock,30,90
+555,11,Incinerate,6,fire,60,100
+555,14,Incinerate,6,fire,60,100
+555,15,Incinerate,6,fire,60,100
+555,16,Incinerate,6,fire,60,100
+555,11,Rage,9,normal,20,100
+555,14,Rage,9,normal,20,100
+555,15,Rage,9,normal,20,100
+555,16,Rage,9,normal,20,100
+555,11,Fire Fang,11,fire,65,95
+555,14,Fire Fang,11,fire,65,95
+555,15,Fire Fang,11,fire,65,95
+555,16,Fire Fang,11,fire,65,95
+555,11,Headbutt,14,normal,70,100
+555,14,Headbutt,14,normal,70,100
+555,15,Headbutt,14,normal,70,100
+555,16,Headbutt,14,normal,70,100
+555,11,Swagger,17,normal,-,90
+555,14,Swagger,17,normal,-,90
+555,15,Swagger,17,normal,-,90
+555,16,Swagger,17,normal,-,90
+555,11,Facade,19,normal,70,100
+555,14,Facade,19,normal,70,100
+555,15,Facade,19,normal,70,100
+555,16,Facade,19,normal,70,100
+555,11,Fire Punch,22,fire,75,100
+555,14,Fire Punch,22,fire,75,100
+555,15,Fire Punch,22,fire,75,100
+555,16,Fire Punch,22,fire,75,100
+555,11,Work Up,25,normal,-,-
+555,14,Work Up,25,normal,-,-
+555,15,Work Up,25,normal,-,-
+555,16,Work Up,25,normal,-,-
+555,11,Thrash,27,normal,120,100
+555,14,Thrash,27,normal,120,100
+555,15,Thrash,27,normal,120,100
+555,16,Thrash,27,normal,120,100
+555,11,Belly Drum,30,normal,-,-
+555,14,Belly Drum,30,normal,-,-
+555,15,Belly Drum,30,normal,-,-
+555,16,Belly Drum,30,normal,-,-
+555,11,Flare Blitz,33,fire,120,100
+555,14,Flare Blitz,33,fire,120,100
+555,15,Flare Blitz,33,fire,120,100
+555,16,Flare Blitz,33,fire,120,100
+555,11,Hammer Arm,35,fighting,100,90
+555,14,Hammer Arm,35,fighting,100,90
+555,15,Hammer Arm,35,fighting,100,90
+555,16,Hammer Arm,35,fighting,100,90
+555,11,Taunt,39,dark,-,100
+555,14,Taunt,39,dark,-,100
+555,15,Taunt,39,dark,-,100
+555,16,Taunt,39,dark,-,100
+555,11,Superpower,47,fighting,120,100
+555,14,Superpower,47,fighting,120,100
+555,15,Superpower,47,fighting,120,100
+555,16,Superpower,47,fighting,120,100
+555,11,Overheat,54,fire,130,90
+555,14,Overheat,54,fire,130,90
+555,15,Overheat,54,fire,130,90
+555,16,Overheat,54,fire,130,90

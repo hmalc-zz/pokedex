@@ -1,0 +1,39 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+720,15,Confusion,1,psychic,50,100
+720,15,Destiny Bond,1,ghost,-,-
+720,15,Trick,1,psychic,-,100
+720,15,Ally Switch,1,psychic,-,-
+720,15,Hyperspace Hole,1,psychic,80,-
+720,16,Confusion,1,psychic,50,100
+720,16,Destiny Bond,1,ghost,-,-
+720,16,Trick,1,psychic,-,100
+720,16,Ally Switch,1,psychic,-,-
+720,16,Hyperspace Hole,1,psychic,80,-
+720,15,Astonish,6,ghost,30,100
+720,16,Astonish,6,ghost,30,100
+720,15,Magic Coat,10,psychic,-,-
+720,16,Magic Coat,10,psychic,-,-
+720,15,Psybeam,15,psychic,65,100
+720,16,Light Screen,15,psychic,-,-
+720,15,Light Screen,19,psychic,-,-
+720,16,Psybeam,19,psychic,65,100
+720,15,Skill Swap,25,psychic,-,-
+720,16,Skill Swap,25,psychic,-,-
+720,15,Power Split,29,psychic,-,-
+720,16,Guard Split,29,psychic,-,-
+720,16,Power Split,29,psychic,-,-
+720,15,Guard Split,35,psychic,-,-
+720,16,Phantom Force,35,ghost,90,100
+720,15,Phantom Force,46,ghost,90,100
+720,16,Zen Headbutt,46,psychic,80,90
+720,15,Wonder Room,50,psychic,-,-
+720,16,Trick Room,50,psychic,-,-
+720,16,Wonder Room,50,psychic,-,-
+720,15,Trick Room,55,psychic,-,-
+720,16,Shadow Ball,55,ghost,80,100
+720,15,Shadow Ball,68,ghost,80,100
+720,16,Nasty Plot,68,dark,-,-
+720,15,Psychic,75,psychic,90,100
+720,16,Psychic,75,psychic,90,100
+720,15,Hyperspace Hole,85,psychic,80,-
+720,16,Hyperspace Hole,85,psychic,80,-

@@ -1,0 +1,212 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+112,1,Stomp,1,normal,65,100
+112,1,Horn Attack,1,normal,65,100
+112,1,Fury Attack,1,normal,15,85
+112,1,Tail Whip,1,normal,-,100
+112,2,Horn Attack,1,normal,65,100
+112,3,Stomp,1,normal,65,100
+112,3,Horn Attack,1,normal,65,100
+112,3,Fury Attack,1,normal,15,85
+112,3,Tail Whip,1,normal,-,100
+112,4,Stomp,1,normal,65,100
+112,4,Horn Attack,1,normal,65,100
+112,4,Fury Attack,1,normal,15,85
+112,4,Tail Whip,1,normal,-,100
+112,5,Stomp,1,normal,65,100
+112,5,Horn Attack,1,normal,65,100
+112,5,Fury Attack,1,normal,15,85
+112,5,Tail Whip,1,normal,-,100
+112,6,Stomp,1,normal,65,100
+112,6,Horn Attack,1,normal,65,100
+112,6,Fury Attack,1,normal,15,85
+112,6,Tail Whip,1,normal,-,100
+112,7,Stomp,1,normal,65,100
+112,7,Horn Attack,1,normal,65,100
+112,7,Fury Attack,1,normal,15,85
+112,7,Tail Whip,1,normal,-,100
+112,8,Stomp,1,normal,65,100
+112,8,Horn Attack,1,normal,65,100
+112,8,Fury Attack,1,normal,15,85
+112,8,Tail Whip,1,normal,-,100
+112,9,Stomp,1,normal,65,100
+112,9,Horn Attack,1,normal,65,100
+112,9,Fury Attack,1,normal,15,85
+112,9,Tail Whip,1,normal,-,100
+112,10,Stomp,1,normal,65,100
+112,10,Horn Attack,1,normal,65,100
+112,10,Fury Attack,1,normal,15,85
+112,10,Tail Whip,1,normal,-,100
+112,11,Stomp,1,normal,65,100
+112,11,Horn Attack,1,normal,65,100
+112,11,Fury Attack,1,normal,15,85
+112,11,Tail Whip,1,normal,-,100
+112,12,Stomp,1,normal,65,100
+112,12,Horn Attack,1,normal,65,100
+112,12,Fury Attack,1,normal,15,85
+112,12,Tail Whip,1,normal,-,100
+112,13,Stomp,1,normal,65,100
+112,13,Horn Attack,1,normal,65,100
+112,13,Fury Attack,1,normal,15,85
+112,13,Tail Whip,1,normal,-,100
+112,14,Stomp,1,normal,65,100
+112,14,Horn Attack,1,normal,65,100
+112,14,Fury Attack,1,normal,15,85
+112,14,Tail Whip,1,normal,-,100
+112,15,Stomp,1,normal,65,100
+112,15,Horn Attack,1,normal,65,100
+112,15,Fury Attack,1,normal,15,85
+112,15,Horn Drill,1,normal,-,30
+112,15,Tail Whip,1,normal,-,100
+112,15,Megahorn,1,bug,120,85
+112,16,Horn Attack,1,normal,65,100
+112,16,Fury Attack,1,normal,15,85
+112,16,Horn Drill,1,normal,-,30
+112,16,Tail Whip,1,normal,-,100
+112,16,Scary Face,1,normal,-,100
+112,16,Fury Attack,5,normal,15,85
+112,8,Stomp,9,normal,65,100
+112,9,Stomp,9,normal,65,100
+112,10,Stomp,9,normal,65,100
+112,11,Stomp,9,normal,65,100
+112,14,Stomp,9,normal,65,100
+112,15,Stomp,9,normal,65,100
+112,16,Scary Face,9,normal,-,100
+112,5,Stomp,10,normal,65,100
+112,6,Stomp,10,normal,65,100
+112,7,Stomp,10,normal,65,100
+112,12,Stomp,10,normal,65,100
+112,13,Stomp,10,normal,65,100
+112,11,Fury Attack,12,normal,15,85
+112,14,Fury Attack,12,normal,15,85
+112,15,Fury Attack,12,normal,15,85
+112,3,Stomp,13,normal,65,100
+112,4,Stomp,13,normal,65,100
+112,8,Fury Attack,13,normal,15,85
+112,9,Fury Attack,13,normal,15,85
+112,10,Fury Attack,13,normal,15,85
+112,16,Smack Down,13,rock,50,100
+112,5,Fury Attack,15,normal,15,85
+112,6,Fury Attack,15,normal,15,85
+112,7,Fury Attack,15,normal,15,85
+112,12,Fury Attack,15,normal,15,85
+112,13,Fury Attack,15,normal,15,85
+112,16,Stomp,17,normal,65,100
+112,3,Fury Attack,19,normal,15,85
+112,4,Fury Attack,19,normal,15,85
+112,11,Scary Face,19,normal,-,100
+112,14,Scary Face,19,normal,-,100
+112,15,Scary Face,19,normal,-,100
+112,8,Scary Face,21,normal,-,100
+112,9,Scary Face,21,normal,-,100
+112,10,Scary Face,21,normal,-,100
+112,16,Bulldoze,21,ground,60,100
+112,11,Rock Blast,23,rock,25,90
+112,14,Rock Blast,23,rock,25,90
+112,15,Rock Blast,23,rock,25,90
+112,5,Scary Face,24,normal,-,100
+112,6,Scary Face,24,normal,-,100
+112,7,Scary Face,24,normal,-,100
+112,12,Scary Face,24,normal,-,100
+112,13,Scary Face,24,normal,-,100
+112,8,Rock Blast,25,rock,25,90
+112,9,Rock Blast,25,rock,25,90
+112,10,Rock Blast,25,rock,25,90
+112,16,Chip Away,25,normal,70,100
+112,5,Rock Blast,29,rock,25,90
+112,6,Rock Blast,29,rock,25,90
+112,7,Rock Blast,29,rock,25,90
+112,12,Rock Blast,29,rock,25,90
+112,13,Rock Blast,29,rock,25,90
+112,16,Rock Blast,29,rock,25,90
+112,1,Stomp,30,normal,65,100
+112,2,Stomp,30,normal,65,100
+112,11,Bulldoze,30,ground,60,100
+112,14,Bulldoze,30,ground,60,100
+112,15,Bulldoze,30,ground,60,100
+112,3,Scary Face,31,normal,-,100
+112,4,Scary Face,31,normal,-,100
+112,8,Take Down,33,normal,90,85
+112,9,Take Down,33,normal,90,85
+112,10,Take Down,33,normal,90,85
+112,16,Drill Run,33,ground,80,95
+112,11,Chip Away,34,normal,70,100
+112,14,Chip Away,34,normal,70,100
+112,15,Chip Away,34,normal,70,100
+112,1,Tail Whip,35,normal,-,100
+112,2,Tail Whip,35,normal,-,100
+112,3,Horn Drill,37,normal,-,30
+112,4,Horn Drill,37,normal,-,30
+112,8,Horn Drill,37,normal,-,30
+112,9,Horn Drill,37,normal,-,30
+112,10,Horn Drill,37,normal,-,30
+112,16,Take Down,37,normal,90,85
+112,5,Horn Drill,38,normal,-,30
+112,6,Horn Drill,38,normal,-,30
+112,7,Horn Drill,38,normal,-,30
+112,12,Horn Drill,38,normal,-,30
+112,13,Horn Drill,38,normal,-,30
+112,1,Fury Attack,40,normal,15,85
+112,2,Fury Attack,40,normal,15,85
+112,11,Take Down,41,normal,90,85
+112,14,Take Down,41,normal,90,85
+112,15,Take Down,41,normal,90,85
+112,16,Stone Edge,41,rock,100,80
+112,8,Hammer Arm,42,fighting,100,90
+112,9,Hammer Arm,42,fighting,100,90
+112,10,Hammer Arm,42,fighting,100,90
+112,11,Hammer Arm,42,fighting,100,90
+112,14,Hammer Arm,42,fighting,100,90
+112,15,Hammer Arm,42,fighting,100,90
+112,16,Hammer Arm,42,fighting,100,90
+112,8,Stone Edge,45,rock,100,80
+112,9,Stone Edge,45,rock,100,80
+112,10,Stone Edge,45,rock,100,80
+112,5,Take Down,46,normal,90,85
+112,6,Take Down,46,normal,90,85
+112,7,Take Down,46,normal,90,85
+112,12,Take Down,46,normal,90,85
+112,13,Take Down,46,normal,90,85
+112,11,Drill Run,47,ground,80,95
+112,14,Drill Run,47,ground,80,95
+112,15,Drill Run,47,ground,80,95
+112,1,Horn Drill,48,normal,-,30
+112,2,Horn Drill,48,normal,-,30
+112,16,Earthquake,48,ground,100,100
+112,8,Earthquake,49,ground,100,100
+112,9,Earthquake,49,ground,100,100
+112,10,Earthquake,49,ground,100,100
+112,3,Take Down,54,normal,90,85
+112,4,Take Down,54,normal,90,85
+112,1,Leer,55,normal,-,100
+112,2,Leer,55,normal,-,100
+112,16,Megahorn,55,bug,120,85
+112,11,Stone Edge,56,rock,100,80
+112,14,Stone Edge,56,rock,100,80
+112,15,Stone Edge,56,rock,100,80
+112,8,Megahorn,57,bug,120,85
+112,9,Megahorn,57,bug,120,85
+112,10,Megahorn,57,bug,120,85
+112,5,Earthquake,58,ground,100,100
+112,6,Earthquake,58,ground,100,100
+112,7,Earthquake,58,ground,100,100
+112,12,Earthquake,58,ground,100,100
+112,13,Earthquake,58,ground,100,100
+112,11,Earthquake,62,ground,100,100
+112,14,Earthquake,62,ground,100,100
+112,15,Earthquake,62,ground,100,100
+112,16,Horn Drill,62,normal,-,30
+112,1,Take Down,64,normal,90,85
+112,2,Take Down,64,normal,90,85
+112,3,Earthquake,65,ground,100,100
+112,4,Earthquake,65,ground,100,100
+112,5,Megahorn,66,bug,120,85
+112,6,Megahorn,66,bug,120,85
+112,7,Megahorn,66,bug,120,85
+112,12,Megahorn,66,bug,120,85
+112,13,Megahorn,66,bug,120,85
+112,11,Horn Drill,71,normal,-,30
+112,14,Horn Drill,71,normal,-,30
+112,15,Horn Drill,71,normal,-,30
+112,11,Megahorn,77,bug,120,85
+112,14,Megahorn,77,bug,120,85
+112,15,Megahorn,77,bug,120,85

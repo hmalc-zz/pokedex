@@ -1,0 +1,77 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+586,11,Sand Attack,1,ground,-,100
+586,11,Tackle,1,normal,50,100
+586,11,Growl,1,normal,-,100
+586,11,Megahorn,1,bug,120,85
+586,11,Camouflage,1,normal,-,-
+586,14,Sand Attack,1,ground,-,100
+586,14,Tackle,1,normal,50,100
+586,14,Growl,1,normal,-,100
+586,14,Megahorn,1,bug,120,85
+586,14,Camouflage,1,normal,-,-
+586,15,Sand Attack,1,ground,-,100
+586,15,Tackle,1,normal,50,100
+586,15,Growl,1,normal,-,100
+586,15,Megahorn,1,bug,120,85
+586,15,Camouflage,1,normal,-,-
+586,16,Sand Attack,1,ground,-,100
+586,16,Tackle,1,normal,50,100
+586,16,Growl,1,normal,-,100
+586,16,Megahorn,1,bug,120,85
+586,16,Camouflage,1,normal,-,-
+586,11,Growl,4,normal,-,100
+586,14,Growl,4,normal,-,100
+586,15,Growl,4,normal,-,100
+586,16,Growl,4,normal,-,100
+586,11,Sand Attack,7,ground,-,100
+586,14,Sand Attack,7,ground,-,100
+586,15,Sand Attack,7,ground,-,100
+586,16,Sand Attack,7,ground,-,100
+586,11,Double Kick,10,fighting,30,100
+586,14,Double Kick,10,fighting,30,100
+586,15,Double Kick,10,fighting,30,100
+586,16,Double Kick,10,fighting,30,100
+586,11,Leech Seed,13,grass,-,90
+586,14,Leech Seed,13,grass,-,90
+586,15,Leech Seed,13,grass,-,90
+586,16,Leech Seed,13,grass,-,90
+586,11,Feint Attack,16,dark,60,-
+586,14,Feint Attack,16,dark,60,-
+586,15,Feint Attack,16,dark,60,-
+586,16,Feint Attack,16,dark,60,-
+586,11,Take Down,20,normal,90,85
+586,14,Take Down,20,normal,90,85
+586,15,Take Down,20,normal,90,85
+586,16,Take Down,20,normal,90,85
+586,11,Jump Kick,24,fighting,100,95
+586,14,Jump Kick,24,fighting,100,95
+586,15,Jump Kick,24,fighting,100,95
+586,16,Jump Kick,24,fighting,100,95
+586,11,Aromatherapy,28,grass,-,-
+586,14,Aromatherapy,28,grass,-,-
+586,15,Aromatherapy,28,grass,-,-
+586,16,Aromatherapy,28,grass,-,-
+586,11,Energy Ball,32,grass,90,100
+586,14,Energy Ball,32,grass,90,100
+586,15,Energy Ball,32,grass,90,100
+586,16,Energy Ball,32,grass,90,100
+586,11,Charm,36,fairy,-,100
+586,14,Charm,36,fairy,-,100
+586,15,Charm,36,fairy,-,100
+586,16,Charm,36,fairy,-,100
+586,11,Horn Leech,37,grass,75,100
+586,14,Horn Leech,37,grass,75,100
+586,15,Horn Leech,37,grass,75,100
+586,16,Horn Leech,37,grass,75,100
+586,11,Nature Power,44,normal,-,-
+586,14,Nature Power,44,normal,-,-
+586,15,Nature Power,44,normal,-,-
+586,16,Nature Power,44,normal,-,-
+586,11,Double-Edge,52,normal,120,100
+586,14,Double-Edge,52,normal,120,100
+586,15,Double-Edge,52,normal,120,100
+586,16,Double-Edge,52,normal,120,100
+586,11,Solar Beam,60,grass,120,100
+586,14,Solar Beam,60,grass,120,100
+586,15,Solar Beam,60,grass,120,100
+586,16,Solar Beam,60,grass,120,100

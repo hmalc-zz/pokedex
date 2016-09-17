@@ -1,0 +1,86 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+59,1,Take Down,1,normal,90,85
+59,1,Leer,1,normal,-,100
+59,1,Roar,1,normal,-,-
+59,1,Ember,1,fire,40,100
+59,2,Take Down,1,normal,90,85
+59,2,Leer,1,normal,-,100
+59,2,Roar,1,normal,-,-
+59,2,Ember,1,fire,40,100
+59,3,Take Down,1,normal,90,85
+59,3,Leer,1,normal,-,100
+59,3,Roar,1,normal,-,-
+59,3,Flame Wheel,1,fire,60,100
+59,4,Take Down,1,normal,90,85
+59,4,Leer,1,normal,-,100
+59,4,Roar,1,normal,-,-
+59,4,Flame Wheel,1,fire,60,100
+59,5,Bite,1,dark,60,100
+59,5,Roar,1,normal,-,-
+59,5,Ember,1,fire,40,100
+59,5,Odor Sleuth,1,normal,-,-
+59,6,Bite,1,dark,60,100
+59,6,Roar,1,normal,-,-
+59,6,Ember,1,fire,40,100
+59,6,Odor Sleuth,1,normal,-,-
+59,7,Bite,1,dark,60,100
+59,7,Roar,1,normal,-,-
+59,7,Ember,1,fire,40,100
+59,7,Odor Sleuth,1,normal,-,-
+59,8,Bite,1,dark,60,100
+59,8,Roar,1,normal,-,-
+59,8,Odor Sleuth,1,normal,-,-
+59,8,Thunder Fang,1,electric,65,95
+59,8,Fire Fang,1,fire,65,95
+59,9,Bite,1,dark,60,100
+59,9,Roar,1,normal,-,-
+59,9,Odor Sleuth,1,normal,-,-
+59,9,Thunder Fang,1,electric,65,95
+59,9,Fire Fang,1,fire,65,95
+59,10,Bite,1,dark,60,100
+59,10,Roar,1,normal,-,-
+59,10,Odor Sleuth,1,normal,-,-
+59,10,Thunder Fang,1,electric,65,95
+59,10,Fire Fang,1,fire,65,95
+59,11,Bite,1,dark,60,100
+59,11,Roar,1,normal,-,-
+59,11,Odor Sleuth,1,normal,-,-
+59,11,Thunder Fang,1,electric,65,95
+59,11,Fire Fang,1,fire,65,95
+59,12,Bite,1,dark,60,100
+59,12,Roar,1,normal,-,-
+59,12,Ember,1,fire,40,100
+59,12,Odor Sleuth,1,normal,-,-
+59,13,Bite,1,dark,60,100
+59,13,Roar,1,normal,-,-
+59,13,Ember,1,fire,40,100
+59,13,Odor Sleuth,1,normal,-,-
+59,14,Bite,1,dark,60,100
+59,14,Roar,1,normal,-,-
+59,14,Odor Sleuth,1,normal,-,-
+59,14,Thunder Fang,1,electric,65,95
+59,14,Fire Fang,1,fire,65,95
+59,15,Bite,1,dark,60,100
+59,15,Roar,1,normal,-,-
+59,15,Odor Sleuth,1,normal,-,-
+59,15,Thunder Fang,1,electric,65,95
+59,15,Fire Fang,1,fire,65,95
+59,16,Bite,1,dark,60,100
+59,16,Roar,1,normal,-,-
+59,16,Odor Sleuth,1,normal,-,-
+59,16,Thunder Fang,1,electric,65,95
+59,16,Fire Fang,1,fire,65,95
+59,14,Extreme Speed,34,normal,80,100
+59,15,Extreme Speed,34,normal,80,100
+59,16,Extreme Speed,34,normal,80,100
+59,8,Extreme Speed,39,normal,80,100
+59,9,Extreme Speed,39,normal,80,100
+59,10,Extreme Speed,39,normal,80,100
+59,11,Extreme Speed,39,normal,80,100
+59,5,Extreme Speed,49,normal,80,100
+59,6,Extreme Speed,49,normal,80,100
+59,7,Extreme Speed,49,normal,80,100
+59,12,Extreme Speed,49,normal,80,100
+59,13,Extreme Speed,49,normal,80,100
+59,3,Extreme Speed,50,normal,80,100
+59,4,Extreme Speed,50,normal,80,100

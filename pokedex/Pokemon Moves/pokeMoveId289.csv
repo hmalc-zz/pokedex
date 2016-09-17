@@ -1,0 +1,176 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+289,5,Scratch,1,normal,40,100
+289,5,Encore,1,normal,-,100
+289,5,Yawn,1,normal,-,-
+289,5,Slack Off,1,normal,-,-
+289,6,Scratch,1,normal,40,100
+289,6,Encore,1,normal,-,100
+289,6,Yawn,1,normal,-,-
+289,6,Slack Off,1,normal,-,-
+289,7,Scratch,1,normal,40,100
+289,7,Encore,1,normal,-,100
+289,7,Yawn,1,normal,-,-
+289,7,Slack Off,1,normal,-,-
+289,8,Scratch,1,normal,40,100
+289,8,Encore,1,normal,-,100
+289,8,Yawn,1,normal,-,-
+289,8,Slack Off,1,normal,-,-
+289,9,Scratch,1,normal,40,100
+289,9,Encore,1,normal,-,100
+289,9,Yawn,1,normal,-,-
+289,9,Slack Off,1,normal,-,-
+289,10,Scratch,1,normal,40,100
+289,10,Encore,1,normal,-,100
+289,10,Yawn,1,normal,-,-
+289,10,Slack Off,1,normal,-,-
+289,11,Scratch,1,normal,40,100
+289,11,Encore,1,normal,-,100
+289,11,Yawn,1,normal,-,-
+289,11,Slack Off,1,normal,-,-
+289,12,Scratch,1,normal,40,100
+289,12,Encore,1,normal,-,100
+289,12,Yawn,1,normal,-,-
+289,12,Slack Off,1,normal,-,-
+289,13,Scratch,1,normal,40,100
+289,13,Encore,1,normal,-,100
+289,13,Yawn,1,normal,-,-
+289,13,Slack Off,1,normal,-,-
+289,14,Scratch,1,normal,40,100
+289,14,Encore,1,normal,-,100
+289,14,Yawn,1,normal,-,-
+289,14,Slack Off,1,normal,-,-
+289,15,Scratch,1,normal,40,100
+289,15,Encore,1,normal,-,100
+289,15,Yawn,1,normal,-,-
+289,15,Slack Off,1,normal,-,-
+289,15,Hammer Arm,1,fighting,100,90
+289,15,Fling,1,dark,-,100
+289,15,Punishment,1,dark,-,100
+289,16,Scratch,1,normal,40,100
+289,16,Encore,1,normal,-,100
+289,16,Yawn,1,normal,-,-
+289,16,Slack Off,1,normal,-,-
+289,16,Hammer Arm,1,fighting,100,90
+289,16,Fling,1,dark,-,100
+289,16,Punishment,1,dark,-,100
+289,16,Encore,6,normal,-,100
+289,5,Encore,7,normal,-,100
+289,6,Encore,7,normal,-,100
+289,7,Encore,7,normal,-,100
+289,8,Encore,7,normal,-,100
+289,9,Encore,7,normal,-,100
+289,10,Encore,7,normal,-,100
+289,11,Encore,7,normal,-,100
+289,12,Encore,7,normal,-,100
+289,13,Encore,7,normal,-,100
+289,14,Encore,7,normal,-,100
+289,15,Encore,7,normal,-,100
+289,16,Slack Off,9,normal,-,-
+289,5,Slack Off,13,normal,-,-
+289,6,Slack Off,13,normal,-,-
+289,7,Slack Off,13,normal,-,-
+289,8,Slack Off,13,normal,-,-
+289,9,Slack Off,13,normal,-,-
+289,10,Slack Off,13,normal,-,-
+289,11,Slack Off,13,normal,-,-
+289,12,Slack Off,13,normal,-,-
+289,13,Slack Off,13,normal,-,-
+289,14,Slack Off,13,normal,-,-
+289,15,Slack Off,13,normal,-,-
+289,16,Feint Attack,14,dark,60,-
+289,16,Amnesia,17,psychic,-,-
+289,5,Feint Attack,19,dark,60,-
+289,6,Feint Attack,19,dark,60,-
+289,7,Feint Attack,19,dark,60,-
+289,8,Feint Attack,19,dark,60,-
+289,9,Feint Attack,19,dark,60,-
+289,10,Feint Attack,19,dark,60,-
+289,11,Feint Attack,19,dark,60,-
+289,12,Feint Attack,19,dark,60,-
+289,13,Feint Attack,19,dark,60,-
+289,14,Feint Attack,19,dark,60,-
+289,15,Feint Attack,19,dark,60,-
+289,16,Covet,23,normal,60,100
+289,5,Amnesia,25,psychic,-,-
+289,6,Amnesia,25,psychic,-,-
+289,7,Amnesia,25,psychic,-,-
+289,8,Amnesia,25,psychic,-,-
+289,9,Amnesia,25,psychic,-,-
+289,10,Amnesia,25,psychic,-,-
+289,11,Amnesia,25,psychic,-,-
+289,12,Amnesia,25,psychic,-,-
+289,13,Amnesia,25,psychic,-,-
+289,14,Amnesia,25,psychic,-,-
+289,15,Amnesia,25,psychic,-,-
+289,16,Chip Away,27,normal,70,100
+289,5,Covet,31,normal,60,100
+289,6,Covet,31,normal,60,100
+289,7,Covet,31,normal,60,100
+289,8,Covet,31,normal,60,100
+289,9,Covet,31,normal,60,100
+289,10,Covet,31,normal,60,100
+289,11,Covet,31,normal,60,100
+289,12,Covet,31,normal,60,100
+289,13,Covet,31,normal,60,100
+289,14,Covet,31,normal,60,100
+289,15,Covet,31,normal,60,100
+289,16,Counter,33,fighting,-,100
+289,5,Swagger,36,normal,-,90
+289,6,Swagger,36,normal,-,90
+289,7,Swagger,36,normal,-,90
+289,8,Swagger,36,normal,-,90
+289,9,Swagger,36,normal,-,90
+289,10,Swagger,36,normal,-,90
+289,11,Swagger,36,normal,-,90
+289,12,Swagger,36,normal,-,90
+289,13,Swagger,36,normal,-,90
+289,14,Swagger,36,normal,-,90
+289,15,Swagger,36,normal,-,90
+289,16,Swagger,36,normal,-,90
+289,5,Counter,37,fighting,-,100
+289,6,Counter,37,fighting,-,100
+289,7,Counter,37,fighting,-,100
+289,8,Counter,37,fighting,-,100
+289,9,Counter,37,fighting,-,100
+289,10,Counter,37,fighting,-,100
+289,11,Chip Away,37,normal,70,100
+289,12,Counter,37,fighting,-,100
+289,13,Counter,37,fighting,-,100
+289,14,Chip Away,37,normal,70,100
+289,15,Chip Away,37,normal,70,100
+289,16,Flail,39,normal,-,100
+289,5,Flail,43,normal,-,100
+289,6,Flail,43,normal,-,100
+289,7,Flail,43,normal,-,100
+289,8,Flail,43,normal,-,100
+289,9,Flail,43,normal,-,100
+289,10,Flail,43,normal,-,100
+289,11,Counter,43,fighting,-,100
+289,12,Flail,43,normal,-,100
+289,13,Flail,43,normal,-,100
+289,14,Counter,43,fighting,-,100
+289,15,Counter,43,fighting,-,100
+289,16,Fling,47,dark,-,100
+289,8,Fling,49,dark,-,100
+289,9,Fling,49,dark,-,100
+289,10,Fling,49,dark,-,100
+289,11,Flail,49,normal,-,100
+289,14,Flail,49,normal,-,100
+289,15,Flail,49,normal,-,100
+289,16,Punishment,53,dark,-,100
+289,8,Punishment,55,dark,-,100
+289,9,Punishment,55,dark,-,100
+289,10,Punishment,55,dark,-,100
+289,11,Fling,55,dark,-,100
+289,14,Fling,55,dark,-,100
+289,15,Fling,55,dark,-,100
+289,8,Hammer Arm,61,fighting,100,90
+289,9,Hammer Arm,61,fighting,100,90
+289,10,Hammer Arm,61,fighting,100,90
+289,11,Punishment,61,dark,-,100
+289,14,Punishment,61,dark,-,100
+289,15,Punishment,61,dark,-,100
+289,16,Hammer Arm,61,fighting,100,90
+289,11,Hammer Arm,67,fighting,100,90
+289,14,Hammer Arm,67,fighting,100,90
+289,15,Hammer Arm,67,fighting,100,90

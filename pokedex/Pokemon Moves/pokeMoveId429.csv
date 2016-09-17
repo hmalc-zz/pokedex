@@ -1,0 +1,48 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+429,8,Growl,1,normal,-,100
+429,8,Psywave,1,psychic,-,100
+429,8,Spite,1,ghost,-,100
+429,8,Astonish,1,ghost,30,100
+429,8,Magical Leaf,1,grass,60,-
+429,8,Lucky Chant,1,normal,-,-
+429,9,Growl,1,normal,-,100
+429,9,Psywave,1,psychic,-,100
+429,9,Spite,1,ghost,-,100
+429,9,Astonish,1,ghost,30,100
+429,9,Magical Leaf,1,grass,60,-
+429,9,Lucky Chant,1,normal,-,-
+429,10,Growl,1,normal,-,100
+429,10,Psywave,1,psychic,-,100
+429,10,Spite,1,ghost,-,100
+429,10,Astonish,1,ghost,30,100
+429,10,Magical Leaf,1,grass,60,-
+429,10,Lucky Chant,1,normal,-,-
+429,11,Growl,1,normal,-,100
+429,11,Psywave,1,psychic,-,100
+429,11,Spite,1,ghost,-,100
+429,11,Astonish,1,ghost,30,100
+429,11,Magical Leaf,1,grass,60,-
+429,11,Lucky Chant,1,normal,-,-
+429,14,Growl,1,normal,-,100
+429,14,Psywave,1,psychic,-,100
+429,14,Spite,1,ghost,-,100
+429,14,Astonish,1,ghost,30,100
+429,14,Magical Leaf,1,grass,60,-
+429,14,Lucky Chant,1,normal,-,-
+429,15,Growl,1,normal,-,100
+429,15,Psywave,1,psychic,-,100
+429,15,Spite,1,ghost,-,100
+429,15,Astonish,1,ghost,30,100
+429,15,Magical Leaf,1,grass,60,-
+429,15,Lucky Chant,1,normal,-,-
+429,15,Power Gem,1,rock,80,100
+429,15,Phantom Force,1,ghost,90,100
+429,16,Growl,1,normal,-,100
+429,16,Psywave,1,psychic,-,100
+429,16,Spite,1,ghost,-,100
+429,16,Astonish,1,ghost,30,100
+429,16,Magical Leaf,1,grass,60,-
+429,16,Lucky Chant,1,normal,-,-
+429,16,Power Gem,1,rock,80,100
+429,16,Phantom Force,1,ghost,90,100
+429,16,Mystical Fire,1,fire,65,100

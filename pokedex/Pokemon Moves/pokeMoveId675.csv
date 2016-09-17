@@ -1,0 +1,39 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+675,15,Tackle,1,normal,50,100
+675,15,Leer,1,normal,-,100
+675,15,Hammer Arm,1,fighting,100,90
+675,15,Entrainment,1,normal,-,100
+675,16,Tackle,1,normal,50,100
+675,16,Leer,1,normal,-,100
+675,16,Hammer Arm,1,fighting,100,90
+675,16,Entrainment,1,normal,-,100
+675,15,Arm Thrust,7,fighting,15,100
+675,16,Arm Thrust,7,fighting,15,100
+675,15,Work Up,10,normal,-,-
+675,16,Work Up,10,normal,-,-
+675,15,Karate Chop,12,fighting,50,100
+675,16,Karate Chop,12,fighting,50,100
+675,15,Comet Punch,15,normal,18,85
+675,16,Comet Punch,15,normal,18,85
+675,15,Slash,20,normal,70,100
+675,16,Slash,20,normal,70,100
+675,15,Circle Throw,25,fighting,60,90
+675,16,Circle Throw,25,fighting,60,90
+675,15,Vital Throw,27,fighting,70,-
+675,16,Vital Throw,27,fighting,70,-
+675,15,Body Slam,35,normal,85,100
+675,16,Body Slam,35,normal,85,100
+675,15,Crunch,42,dark,80,100
+675,16,Crunch,42,dark,80,100
+675,15,Entrainment,45,normal,-,100
+675,16,Entrainment,45,normal,-,100
+675,15,Parting Shot,48,dark,-,100
+675,16,Parting Shot,48,dark,-,100
+675,15,Sky Uppercut,52,fighting,85,90
+675,16,Sky Uppercut,52,fighting,85,90
+675,15,Hammer Arm,57,fighting,100,90
+675,16,Hammer Arm,57,fighting,100,90
+675,15,Taunt,65,dark,-,100
+675,16,Taunt,65,dark,-,100
+675,15,Low Sweep,70,fighting,65,100
+675,16,Low Sweep,70,fighting,65,100

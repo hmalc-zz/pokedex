@@ -1,0 +1,195 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+157,3,Tackle,1,normal,50,100
+157,3,Leer,1,normal,-,100
+157,3,Ember,1,fire,40,100
+157,3,Smokescreen,1,normal,-,100
+157,4,Tackle,1,normal,50,100
+157,4,Leer,1,normal,-,100
+157,4,Ember,1,fire,40,100
+157,4,Smokescreen,1,normal,-,100
+157,5,Tackle,1,normal,50,100
+157,5,Leer,1,normal,-,100
+157,5,Ember,1,fire,40,100
+157,5,Smokescreen,1,normal,-,100
+157,6,Tackle,1,normal,50,100
+157,6,Leer,1,normal,-,100
+157,6,Ember,1,fire,40,100
+157,6,Smokescreen,1,normal,-,100
+157,7,Tackle,1,normal,50,100
+157,7,Leer,1,normal,-,100
+157,7,Ember,1,fire,40,100
+157,7,Smokescreen,1,normal,-,100
+157,8,Tackle,1,normal,50,100
+157,8,Leer,1,normal,-,100
+157,8,Ember,1,fire,40,100
+157,8,Smokescreen,1,normal,-,100
+157,8,Gyro Ball,1,steel,-,100
+157,9,Tackle,1,normal,50,100
+157,9,Leer,1,normal,-,100
+157,9,Ember,1,fire,40,100
+157,9,Smokescreen,1,normal,-,100
+157,9,Gyro Ball,1,steel,-,100
+157,10,Tackle,1,normal,50,100
+157,10,Leer,1,normal,-,100
+157,10,Ember,1,fire,40,100
+157,10,Smokescreen,1,normal,-,100
+157,10,Gyro Ball,1,steel,-,100
+157,11,Tackle,1,normal,50,100
+157,11,Leer,1,normal,-,100
+157,11,Ember,1,fire,40,100
+157,11,Smokescreen,1,normal,-,100
+157,11,Gyro Ball,1,steel,-,100
+157,12,Tackle,1,normal,50,100
+157,12,Leer,1,normal,-,100
+157,12,Ember,1,fire,40,100
+157,12,Smokescreen,1,normal,-,100
+157,13,Tackle,1,normal,50,100
+157,13,Leer,1,normal,-,100
+157,13,Ember,1,fire,40,100
+157,13,Smokescreen,1,normal,-,100
+157,14,Tackle,1,normal,50,100
+157,14,Leer,1,normal,-,100
+157,14,Ember,1,fire,40,100
+157,14,Smokescreen,1,normal,-,100
+157,14,Gyro Ball,1,steel,-,100
+157,15,Tackle,1,normal,50,100
+157,15,Double-Edge,1,normal,120,100
+157,15,Leer,1,normal,-,100
+157,15,Ember,1,fire,40,100
+157,15,Smokescreen,1,normal,-,100
+157,15,Eruption,1,fire,150,100
+157,15,Gyro Ball,1,steel,-,100
+157,16,Tackle,1,normal,50,100
+157,16,Double-Edge,1,normal,120,100
+157,16,Leer,1,normal,-,100
+157,16,Ember,1,fire,40,100
+157,16,Smokescreen,1,normal,-,100
+157,16,Eruption,1,fire,150,100
+157,16,Gyro Ball,1,steel,-,100
+157,8,Smokescreen,4,normal,-,100
+157,9,Smokescreen,4,normal,-,100
+157,3,Smokescreen,6,normal,-,100
+157,4,Smokescreen,6,normal,-,100
+157,5,Smokescreen,6,normal,-,100
+157,6,Smokescreen,6,normal,-,100
+157,7,Smokescreen,6,normal,-,100
+157,10,Smokescreen,6,normal,-,100
+157,11,Smokescreen,6,normal,-,100
+157,12,Smokescreen,6,normal,-,100
+157,13,Smokescreen,6,normal,-,100
+157,14,Smokescreen,6,normal,-,100
+157,15,Smokescreen,6,normal,-,100
+157,16,Smokescreen,6,normal,-,100
+157,8,Ember,10,fire,40,100
+157,9,Ember,10,fire,40,100
+157,10,Ember,10,fire,40,100
+157,11,Ember,10,fire,40,100
+157,14,Ember,10,fire,40,100
+157,15,Ember,10,fire,40,100
+157,16,Ember,10,fire,40,100
+157,3,Ember,12,fire,40,100
+157,4,Ember,12,fire,40,100
+157,5,Ember,12,fire,40,100
+157,6,Ember,12,fire,40,100
+157,7,Ember,12,fire,40,100
+157,12,Ember,12,fire,40,100
+157,13,Ember,12,fire,40,100
+157,8,Quick Attack,13,normal,40,100
+157,9,Quick Attack,13,normal,40,100
+157,10,Quick Attack,13,normal,40,100
+157,11,Quick Attack,13,normal,40,100
+157,14,Quick Attack,13,normal,40,100
+157,15,Quick Attack,13,normal,40,100
+157,16,Quick Attack,13,normal,40,100
+157,8,Flame Wheel,20,fire,60,100
+157,9,Flame Wheel,20,fire,60,100
+157,10,Flame Wheel,20,fire,60,100
+157,11,Flame Wheel,20,fire,60,100
+157,14,Flame Wheel,20,fire,60,100
+157,15,Flame Wheel,20,fire,60,100
+157,16,Flame Wheel,20,fire,60,100
+157,3,Quick Attack,21,normal,40,100
+157,4,Quick Attack,21,normal,40,100
+157,5,Quick Attack,21,normal,40,100
+157,6,Quick Attack,21,normal,40,100
+157,7,Quick Attack,21,normal,40,100
+157,12,Quick Attack,21,normal,40,100
+157,13,Quick Attack,21,normal,40,100
+157,8,Defense Curl,24,normal,-,-
+157,9,Defense Curl,24,normal,-,-
+157,10,Defense Curl,24,normal,-,-
+157,11,Defense Curl,24,normal,-,-
+157,14,Defense Curl,24,normal,-,-
+157,15,Defense Curl,24,normal,-,-
+157,16,Defense Curl,24,normal,-,-
+157,3,Flame Wheel,31,fire,60,100
+157,4,Flame Wheel,31,fire,60,100
+157,5,Flame Wheel,31,fire,60,100
+157,6,Flame Wheel,31,fire,60,100
+157,7,Flame Wheel,31,fire,60,100
+157,8,Swift,31,normal,60,-
+157,9,Swift,31,normal,60,-
+157,10,Swift,31,normal,60,-
+157,11,Swift,31,normal,60,-
+157,12,Flame Wheel,31,fire,60,100
+157,13,Flame Wheel,31,fire,60,100
+157,14,Swift,31,normal,60,-
+157,15,Swift,31,normal,60,-
+157,16,Swift,31,normal,60,-
+157,8,Lava Plume,35,fire,80,100
+157,9,Lava Plume,35,fire,80,100
+157,10,Lava Plume,35,fire,80,100
+157,11,Flame Charge,35,fire,50,100
+157,14,Flame Charge,35,fire,50,100
+157,15,Flame Charge,35,fire,50,100
+157,16,Flame Charge,35,fire,50,100
+157,8,Flamethrower,42,fire,90,100
+157,9,Flamethrower,42,fire,90,100
+157,10,Flamethrower,42,fire,90,100
+157,11,Lava Plume,43,fire,80,100
+157,14,Lava Plume,43,fire,80,100
+157,15,Lava Plume,43,fire,80,100
+157,16,Lava Plume,43,fire,80,100
+157,3,Swift,45,normal,60,-
+157,4,Swift,45,normal,60,-
+157,5,Swift,45,normal,60,-
+157,6,Swift,45,normal,60,-
+157,7,Swift,45,normal,60,-
+157,12,Swift,45,normal,60,-
+157,13,Swift,45,normal,60,-
+157,8,Rollout,46,rock,30,90
+157,9,Rollout,46,rock,30,90
+157,10,Rollout,46,rock,30,90
+157,11,Flamethrower,48,fire,90,100
+157,14,Flamethrower,48,fire,90,100
+157,15,Flamethrower,48,fire,90,100
+157,16,Flamethrower,48,fire,90,100
+157,8,Double-Edge,53,normal,120,100
+157,9,Double-Edge,53,normal,120,100
+157,10,Double-Edge,53,normal,120,100
+157,11,Inferno,56,fire,100,50
+157,14,Inferno,56,fire,100,50
+157,15,Inferno,56,fire,100,50
+157,16,Inferno,56,fire,100,50
+157,8,Eruption,57,fire,150,100
+157,9,Eruption,57,fire,150,100
+157,10,Eruption,57,fire,150,100
+157,3,Flamethrower,60,fire,90,100
+157,4,Flamethrower,60,fire,90,100
+157,5,Flamethrower,60,fire,90,100
+157,6,Flamethrower,60,fire,90,100
+157,7,Flamethrower,60,fire,90,100
+157,12,Flamethrower,60,fire,90,100
+157,13,Flamethrower,60,fire,90,100
+157,11,Rollout,61,rock,30,90
+157,14,Rollout,61,rock,30,90
+157,15,Rollout,61,rock,30,90
+157,16,Rollout,61,rock,30,90
+157,11,Double-Edge,69,normal,120,100
+157,14,Double-Edge,69,normal,120,100
+157,15,Double-Edge,69,normal,120,100
+157,16,Double-Edge,69,normal,120,100
+157,11,Eruption,74,fire,150,100
+157,14,Eruption,74,fire,150,100
+157,15,Eruption,74,fire,150,100
+157,16,Eruption,74,fire,150,100

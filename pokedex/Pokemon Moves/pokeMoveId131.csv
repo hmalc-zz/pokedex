@@ -1,0 +1,204 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+131,1,Growl,1,normal,-,100
+131,1,Water Gun,1,water,40,100
+131,2,Growl,1,normal,-,100
+131,2,Water Gun,1,water,40,100
+131,3,Growl,1,normal,-,100
+131,3,Sing,1,normal,-,55
+131,3,Water Gun,1,water,40,100
+131,4,Growl,1,normal,-,100
+131,4,Sing,1,normal,-,55
+131,4,Water Gun,1,water,40,100
+131,5,Growl,1,normal,-,100
+131,5,Sing,1,normal,-,55
+131,5,Water Gun,1,water,40,100
+131,6,Growl,1,normal,-,100
+131,6,Sing,1,normal,-,55
+131,6,Water Gun,1,water,40,100
+131,7,Growl,1,normal,-,100
+131,7,Sing,1,normal,-,55
+131,7,Water Gun,1,water,40,100
+131,8,Growl,1,normal,-,100
+131,8,Sing,1,normal,-,55
+131,8,Water Gun,1,water,40,100
+131,9,Growl,1,normal,-,100
+131,9,Sing,1,normal,-,55
+131,9,Water Gun,1,water,40,100
+131,10,Growl,1,normal,-,100
+131,10,Sing,1,normal,-,55
+131,10,Water Gun,1,water,40,100
+131,11,Growl,1,normal,-,100
+131,11,Sing,1,normal,-,55
+131,11,Water Gun,1,water,40,100
+131,12,Growl,1,normal,-,100
+131,12,Sing,1,normal,-,55
+131,12,Water Gun,1,water,40,100
+131,13,Growl,1,normal,-,100
+131,13,Sing,1,normal,-,55
+131,13,Water Gun,1,water,40,100
+131,14,Growl,1,normal,-,100
+131,14,Sing,1,normal,-,55
+131,14,Water Gun,1,water,40,100
+131,15,Growl,1,normal,-,100
+131,15,Sing,1,normal,-,55
+131,15,Water Gun,1,water,40,100
+131,16,Growl,1,normal,-,100
+131,16,Sing,1,normal,-,55
+131,16,Water Gun,1,water,40,100
+131,8,Mist,4,ice,-,-
+131,9,Mist,4,ice,-,-
+131,10,Mist,4,ice,-,-
+131,11,Mist,4,ice,-,-
+131,14,Mist,4,ice,-,-
+131,15,Mist,4,ice,-,-
+131,16,Mist,4,ice,-,-
+131,5,Mist,7,ice,-,-
+131,6,Mist,7,ice,-,-
+131,7,Mist,7,ice,-,-
+131,8,Confuse Ray,7,ghost,-,100
+131,9,Confuse Ray,7,ghost,-,100
+131,10,Confuse Ray,7,ghost,-,100
+131,11,Confuse Ray,7,ghost,-,100
+131,12,Mist,7,ice,-,-
+131,13,Mist,7,ice,-,-
+131,14,Confuse Ray,7,ghost,-,100
+131,15,Confuse Ray,7,ghost,-,100
+131,16,Confuse Ray,7,ghost,-,100
+131,3,Mist,8,ice,-,-
+131,4,Mist,8,ice,-,-
+131,8,Ice Shard,10,ice,40,100
+131,9,Ice Shard,10,ice,40,100
+131,10,Ice Shard,10,ice,40,100
+131,11,Ice Shard,10,ice,40,100
+131,14,Ice Shard,10,ice,40,100
+131,15,Ice Shard,10,ice,40,100
+131,16,Ice Shard,10,ice,40,100
+131,5,Body Slam,13,normal,85,100
+131,6,Body Slam,13,normal,85,100
+131,7,Body Slam,13,normal,85,100
+131,12,Body Slam,13,normal,85,100
+131,13,Body Slam,13,normal,85,100
+131,8,Water Pulse,14,water,60,100
+131,9,Water Pulse,14,water,60,100
+131,10,Water Pulse,14,water,60,100
+131,11,Water Pulse,14,water,60,100
+131,14,Water Pulse,14,water,60,100
+131,15,Water Pulse,14,water,60,100
+131,16,Water Pulse,14,water,60,100
+131,3,Body Slam,15,normal,85,100
+131,4,Body Slam,15,normal,85,100
+131,1,Sing,16,normal,-,55
+131,2,Sing,16,normal,-,55
+131,8,Body Slam,18,normal,85,100
+131,9,Body Slam,18,normal,85,100
+131,10,Body Slam,18,normal,85,100
+131,11,Body Slam,18,normal,85,100
+131,14,Body Slam,18,normal,85,100
+131,15,Body Slam,18,normal,85,100
+131,16,Body Slam,18,normal,85,100
+131,5,Confuse Ray,19,ghost,-,100
+131,6,Confuse Ray,19,ghost,-,100
+131,7,Confuse Ray,19,ghost,-,100
+131,12,Confuse Ray,19,ghost,-,100
+131,13,Confuse Ray,19,ghost,-,100
+131,1,Mist,20,ice,-,-
+131,2,Mist,20,ice,-,-
+131,3,Confuse Ray,22,ghost,-,100
+131,4,Confuse Ray,22,ghost,-,100
+131,8,Rain Dance,22,water,-,-
+131,9,Rain Dance,22,water,-,-
+131,10,Rain Dance,22,water,-,-
+131,11,Rain Dance,22,water,-,-
+131,14,Rain Dance,22,water,-,-
+131,15,Rain Dance,22,water,-,-
+131,16,Rain Dance,22,water,-,-
+131,1,Body Slam,25,normal,85,100
+131,2,Body Slam,25,normal,85,100
+131,5,Perish Song,25,normal,-,-
+131,6,Perish Song,25,normal,-,-
+131,7,Perish Song,25,normal,-,-
+131,12,Perish Song,25,normal,-,-
+131,13,Perish Song,25,normal,-,-
+131,8,Perish Song,27,normal,-,-
+131,9,Perish Song,27,normal,-,-
+131,10,Perish Song,27,normal,-,-
+131,11,Perish Song,27,normal,-,-
+131,14,Perish Song,27,normal,-,-
+131,15,Perish Song,27,normal,-,-
+131,16,Perish Song,27,normal,-,-
+131,3,Perish Song,29,normal,-,-
+131,4,Perish Song,29,normal,-,-
+131,1,Confuse Ray,31,ghost,-,100
+131,2,Confuse Ray,31,ghost,-,100
+131,5,Ice Beam,31,ice,90,100
+131,6,Ice Beam,31,ice,90,100
+131,7,Ice Beam,31,ice,90,100
+131,12,Ice Beam,31,ice,90,100
+131,13,Ice Beam,31,ice,90,100
+131,8,Ice Beam,32,ice,90,100
+131,9,Ice Beam,32,ice,90,100
+131,10,Ice Beam,32,ice,90,100
+131,11,Ice Beam,32,ice,90,100
+131,14,Ice Beam,32,ice,90,100
+131,15,Ice Beam,32,ice,90,100
+131,16,Ice Beam,32,ice,90,100
+131,3,Ice Beam,36,ice,90,100
+131,4,Ice Beam,36,ice,90,100
+131,5,Rain Dance,37,water,-,-
+131,6,Rain Dance,37,water,-,-
+131,7,Rain Dance,37,water,-,-
+131,8,Brine,37,water,65,100
+131,9,Brine,37,water,65,100
+131,10,Brine,37,water,65,100
+131,11,Brine,37,water,65,100
+131,12,Rain Dance,37,water,-,-
+131,13,Rain Dance,37,water,-,-
+131,14,Brine,37,water,65,100
+131,15,Brine,37,water,65,100
+131,16,Brine,37,water,65,100
+131,1,Ice Beam,38,ice,90,100
+131,2,Ice Beam,38,ice,90,100
+131,3,Rain Dance,43,water,-,-
+131,4,Rain Dance,43,water,-,-
+131,5,Safeguard,43,normal,-,-
+131,6,Safeguard,43,normal,-,-
+131,7,Safeguard,43,normal,-,-
+131,8,Safeguard,43,normal,-,-
+131,9,Safeguard,43,normal,-,-
+131,10,Safeguard,43,normal,-,-
+131,11,Safeguard,43,normal,-,-
+131,12,Safeguard,43,normal,-,-
+131,13,Safeguard,43,normal,-,-
+131,14,Safeguard,43,normal,-,-
+131,15,Safeguard,43,normal,-,-
+131,16,Safeguard,43,normal,-,-
+131,1,Hydro Pump,46,water,110,80
+131,2,Hydro Pump,46,water,110,80
+131,15,Hydro Pump,47,water,110,80
+131,16,Hydro Pump,47,water,110,80
+131,5,Hydro Pump,49,water,110,80
+131,6,Hydro Pump,49,water,110,80
+131,7,Hydro Pump,49,water,110,80
+131,8,Hydro Pump,49,water,110,80
+131,9,Hydro Pump,49,water,110,80
+131,10,Hydro Pump,49,water,110,80
+131,11,Hydro Pump,49,water,110,80
+131,12,Hydro Pump,49,water,110,80
+131,13,Hydro Pump,49,water,110,80
+131,14,Hydro Pump,49,water,110,80
+131,3,Safeguard,50,normal,-,-
+131,4,Safeguard,50,normal,-,-
+131,15,Sheer Cold,50,ice,-,30
+131,16,Sheer Cold,50,ice,-,30
+131,5,Sheer Cold,55,ice,-,30
+131,6,Sheer Cold,55,ice,-,30
+131,7,Sheer Cold,55,ice,-,30
+131,8,Sheer Cold,55,ice,-,30
+131,9,Sheer Cold,55,ice,-,30
+131,10,Sheer Cold,55,ice,-,30
+131,11,Sheer Cold,55,ice,-,30
+131,12,Sheer Cold,55,ice,-,30
+131,13,Sheer Cold,55,ice,-,30
+131,14,Sheer Cold,55,ice,-,30
+131,3,Hydro Pump,57,water,110,80
+131,4,Hydro Pump,57,water,110,80

@@ -1,0 +1,174 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+232,3,Horn Attack,1,normal,65,100
+232,3,Growl,1,normal,-,100
+232,4,Horn Attack,1,normal,65,100
+232,4,Growl,1,normal,-,100
+232,5,Horn Attack,1,normal,65,100
+232,5,Growl,1,normal,-,100
+232,5,Odor Sleuth,1,normal,-,-
+232,6,Horn Attack,1,normal,65,100
+232,6,Growl,1,normal,-,100
+232,6,Odor Sleuth,1,normal,-,-
+232,7,Horn Attack,1,normal,65,100
+232,7,Growl,1,normal,-,100
+232,7,Odor Sleuth,1,normal,-,-
+232,8,Horn Attack,1,normal,65,100
+232,8,Growl,1,normal,-,100
+232,8,Defense Curl,1,normal,-,-
+232,8,Flail,1,normal,-,100
+232,8,Thunder Fang,1,electric,65,95
+232,8,Fire Fang,1,fire,65,95
+232,9,Horn Attack,1,normal,65,100
+232,9,Growl,1,normal,-,100
+232,9,Defense Curl,1,normal,-,-
+232,9,Flail,1,normal,-,100
+232,9,Thunder Fang,1,electric,65,95
+232,9,Fire Fang,1,fire,65,95
+232,10,Horn Attack,1,normal,65,100
+232,10,Growl,1,normal,-,100
+232,10,Defense Curl,1,normal,-,-
+232,10,Flail,1,normal,-,100
+232,10,Thunder Fang,1,electric,65,95
+232,10,Fire Fang,1,fire,65,95
+232,11,Horn Attack,1,normal,65,100
+232,11,Growl,1,normal,-,100
+232,11,Defense Curl,1,normal,-,-
+232,11,Thunder Fang,1,electric,65,95
+232,11,Fire Fang,1,fire,65,95
+232,11,Bulldoze,1,ground,60,100
+232,12,Horn Attack,1,normal,65,100
+232,12,Growl,1,normal,-,100
+232,12,Odor Sleuth,1,normal,-,-
+232,13,Horn Attack,1,normal,65,100
+232,13,Growl,1,normal,-,100
+232,13,Odor Sleuth,1,normal,-,-
+232,14,Horn Attack,1,normal,65,100
+232,14,Growl,1,normal,-,100
+232,14,Defense Curl,1,normal,-,-
+232,14,Thunder Fang,1,electric,65,95
+232,14,Fire Fang,1,fire,65,95
+232,14,Bulldoze,1,ground,60,100
+232,15,Horn Attack,1,normal,65,100
+232,15,Growl,1,normal,-,100
+232,15,Defense Curl,1,normal,-,-
+232,15,Thunder Fang,1,electric,65,95
+232,15,Fire Fang,1,fire,65,95
+232,15,Bulldoze,1,ground,60,100
+232,16,Horn Attack,1,normal,65,100
+232,16,Growl,1,normal,-,100
+232,16,Defense Curl,1,normal,-,-
+232,16,Thunder Fang,1,electric,65,95
+232,16,Fire Fang,1,fire,65,95
+232,16,Bulldoze,1,ground,60,100
+232,8,Rapid Spin,6,normal,20,100
+232,9,Rapid Spin,6,normal,20,100
+232,10,Rapid Spin,6,normal,20,100
+232,11,Rapid Spin,6,normal,20,100
+232,14,Rapid Spin,6,normal,20,100
+232,15,Rapid Spin,6,normal,20,100
+232,16,Rapid Spin,6,normal,20,100
+232,3,Defense Curl,9,normal,-,-
+232,4,Defense Curl,9,normal,-,-
+232,5,Defense Curl,9,normal,-,-
+232,6,Defense Curl,9,normal,-,-
+232,7,Defense Curl,9,normal,-,-
+232,12,Defense Curl,9,normal,-,-
+232,13,Defense Curl,9,normal,-,-
+232,8,Knock Off,10,dark,65,100
+232,9,Knock Off,10,dark,65,100
+232,10,Knock Off,10,dark,65,100
+232,11,Knock Off,10,dark,65,100
+232,14,Knock Off,10,dark,65,100
+232,15,Knock Off,10,dark,65,100
+232,16,Rollout,10,rock,30,90
+232,8,Rollout,15,rock,30,90
+232,9,Rollout,15,rock,30,90
+232,10,Rollout,15,rock,30,90
+232,11,Rollout,15,rock,30,90
+232,14,Rollout,15,rock,30,90
+232,15,Rollout,15,rock,30,90
+232,16,Assurance,15,dark,60,100
+232,3,Flail,17,normal,-,100
+232,4,Flail,17,normal,-,100
+232,5,Flail,17,normal,-,100
+232,6,Flail,17,normal,-,100
+232,7,Flail,17,normal,-,100
+232,12,Flail,17,normal,-,100
+232,13,Flail,17,normal,-,100
+232,8,Magnitude,19,ground,-,100
+232,9,Magnitude,19,ground,-,100
+232,10,Magnitude,19,ground,-,100
+232,11,Magnitude,19,ground,-,100
+232,14,Magnitude,19,ground,-,100
+232,15,Magnitude,19,ground,-,100
+232,16,Knock Off,19,dark,65,100
+232,8,Slam,24,normal,80,75
+232,9,Slam,24,normal,80,75
+232,10,Slam,24,normal,80,75
+232,11,Slam,24,normal,80,75
+232,14,Slam,24,normal,80,75
+232,15,Slam,24,normal,80,75
+232,16,Slam,24,normal,80,75
+232,3,Fury Attack,25,normal,15,85
+232,4,Fury Attack,25,normal,15,85
+232,5,Fury Attack,25,normal,15,85
+232,6,Fury Attack,25,normal,15,85
+232,7,Fury Attack,25,normal,15,85
+232,8,Fury Attack,25,normal,15,85
+232,9,Fury Attack,25,normal,15,85
+232,10,Fury Attack,25,normal,15,85
+232,11,Fury Attack,25,normal,15,85
+232,12,Fury Attack,25,normal,15,85
+232,13,Fury Attack,25,normal,15,85
+232,14,Fury Attack,25,normal,15,85
+232,15,Fury Attack,25,normal,15,85
+232,16,Fury Attack,25,normal,15,85
+232,16,Magnitude,30,ground,-,100
+232,8,Assurance,31,dark,60,100
+232,9,Assurance,31,dark,60,100
+232,10,Assurance,31,dark,60,100
+232,11,Assurance,31,dark,60,100
+232,14,Assurance,31,dark,60,100
+232,15,Assurance,31,dark,60,100
+232,3,Rollout,33,rock,30,90
+232,4,Rollout,33,rock,30,90
+232,5,Rollout,33,rock,30,90
+232,6,Rollout,33,rock,30,90
+232,7,Rollout,33,rock,30,90
+232,12,Rollout,33,rock,30,90
+232,13,Rollout,33,rock,30,90
+232,16,Scary Face,37,normal,-,100
+232,8,Scary Face,39,normal,-,100
+232,9,Scary Face,39,normal,-,100
+232,10,Scary Face,39,normal,-,100
+232,11,Scary Face,39,normal,-,100
+232,14,Scary Face,39,normal,-,100
+232,15,Scary Face,39,normal,-,100
+232,3,Rapid Spin,41,normal,20,100
+232,4,Rapid Spin,41,normal,20,100
+232,5,Rapid Spin,41,normal,20,100
+232,6,Rapid Spin,41,normal,20,100
+232,7,Rapid Spin,41,normal,20,100
+232,12,Rapid Spin,41,normal,20,100
+232,13,Rapid Spin,41,normal,20,100
+232,16,Earthquake,43,ground,100,100
+232,8,Earthquake,46,ground,100,100
+232,9,Earthquake,46,ground,100,100
+232,10,Earthquake,46,ground,100,100
+232,11,Earthquake,46,ground,100,100
+232,14,Earthquake,46,ground,100,100
+232,15,Earthquake,46,ground,100,100
+232,3,Earthquake,49,ground,100,100
+232,4,Earthquake,49,ground,100,100
+232,5,Earthquake,49,ground,100,100
+232,6,Earthquake,49,ground,100,100
+232,7,Earthquake,49,ground,100,100
+232,12,Earthquake,49,ground,100,100
+232,13,Earthquake,49,ground,100,100
+232,16,Giga Impact,50,normal,150,90
+232,8,Giga Impact,54,normal,150,90
+232,9,Giga Impact,54,normal,150,90
+232,10,Giga Impact,54,normal,150,90
+232,11,Giga Impact,54,normal,150,90
+232,14,Giga Impact,54,normal,150,90
+232,15,Giga Impact,54,normal,150,90

@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+495,11,Tackle,1,normal,50,100
+495,14,Tackle,1,normal,50,100
+495,15,Tackle,1,normal,50,100
+495,16,Tackle,1,normal,50,100
+495,11,Leer,4,normal,-,100
+495,14,Leer,4,normal,-,100
+495,15,Leer,4,normal,-,100
+495,16,Leer,4,normal,-,100
+495,11,Vine Whip,7,grass,45,100
+495,14,Vine Whip,7,grass,45,100
+495,15,Vine Whip,7,grass,45,100
+495,16,Vine Whip,7,grass,45,100
+495,11,Wrap,10,normal,15,90
+495,14,Wrap,10,normal,15,90
+495,15,Wrap,10,normal,15,90
+495,16,Wrap,10,normal,15,90
+495,11,Growth,13,normal,-,-
+495,14,Growth,13,normal,-,-
+495,15,Growth,13,normal,-,-
+495,16,Growth,13,normal,-,-
+495,11,Leaf Tornado,16,grass,65,90
+495,14,Leaf Tornado,16,grass,65,90
+495,15,Leaf Tornado,16,grass,65,90
+495,16,Leaf Tornado,16,grass,65,90
+495,11,Leech Seed,19,grass,-,90
+495,14,Leech Seed,19,grass,-,90
+495,15,Leech Seed,19,grass,-,90
+495,16,Leech Seed,19,grass,-,90
+495,11,Mega Drain,22,grass,40,100
+495,14,Mega Drain,22,grass,40,100
+495,15,Mega Drain,22,grass,40,100
+495,16,Mega Drain,22,grass,40,100
+495,11,Slam,25,normal,80,75
+495,14,Slam,25,normal,80,75
+495,15,Slam,25,normal,80,75
+495,16,Slam,25,normal,80,75
+495,11,Leaf Blade,28,grass,90,100
+495,14,Leaf Blade,28,grass,90,100
+495,15,Leaf Blade,28,grass,90,100
+495,16,Leaf Blade,28,grass,90,100
+495,11,Coil,31,poison,-,-
+495,14,Coil,31,poison,-,-
+495,15,Coil,31,poison,-,-
+495,16,Coil,31,poison,-,-
+495,11,Giga Drain,34,grass,75,100
+495,14,Giga Drain,34,grass,75,100
+495,15,Giga Drain,34,grass,75,100
+495,16,Giga Drain,34,grass,75,100
+495,11,Wring Out,37,normal,-,100
+495,14,Wring Out,37,normal,-,100
+495,15,Wring Out,37,normal,-,100
+495,16,Wring Out,37,normal,-,100
+495,11,Gastro Acid,40,poison,-,100
+495,14,Gastro Acid,40,poison,-,100
+495,15,Gastro Acid,40,poison,-,100
+495,16,Gastro Acid,40,poison,-,100
+495,11,Leaf Storm,43,grass,130,90
+495,14,Leaf Storm,43,grass,130,90
+495,15,Leaf Storm,43,grass,130,90
+495,16,Leaf Storm,43,grass,130,90

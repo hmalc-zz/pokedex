@@ -1,0 +1,186 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+162,3,Scratch,1,normal,40,100
+162,3,Quick Attack,1,normal,40,100
+162,3,Defense Curl,1,normal,-,-
+162,4,Scratch,1,normal,40,100
+162,4,Quick Attack,1,normal,40,100
+162,4,Defense Curl,1,normal,-,-
+162,5,Scratch,1,normal,40,100
+162,5,Quick Attack,1,normal,40,100
+162,5,Defense Curl,1,normal,-,-
+162,6,Scratch,1,normal,40,100
+162,6,Quick Attack,1,normal,40,100
+162,6,Defense Curl,1,normal,-,-
+162,7,Scratch,1,normal,40,100
+162,7,Quick Attack,1,normal,40,100
+162,7,Defense Curl,1,normal,-,-
+162,8,Scratch,1,normal,40,100
+162,8,Quick Attack,1,normal,40,100
+162,8,Defense Curl,1,normal,-,-
+162,8,Foresight,1,normal,-,-
+162,9,Scratch,1,normal,40,100
+162,9,Quick Attack,1,normal,40,100
+162,9,Defense Curl,1,normal,-,-
+162,9,Foresight,1,normal,-,-
+162,10,Scratch,1,normal,40,100
+162,10,Quick Attack,1,normal,40,100
+162,10,Defense Curl,1,normal,-,-
+162,10,Foresight,1,normal,-,-
+162,11,Scratch,1,normal,40,100
+162,11,Quick Attack,1,normal,40,100
+162,11,Defense Curl,1,normal,-,-
+162,11,Foresight,1,normal,-,-
+162,12,Scratch,1,normal,40,100
+162,12,Quick Attack,1,normal,40,100
+162,12,Defense Curl,1,normal,-,-
+162,13,Scratch,1,normal,40,100
+162,13,Quick Attack,1,normal,40,100
+162,13,Defense Curl,1,normal,-,-
+162,14,Scratch,1,normal,40,100
+162,14,Quick Attack,1,normal,40,100
+162,14,Defense Curl,1,normal,-,-
+162,14,Foresight,1,normal,-,-
+162,15,Scratch,1,normal,40,100
+162,15,Quick Attack,1,normal,40,100
+162,15,Defense Curl,1,normal,-,-
+162,15,Foresight,1,normal,-,-
+162,16,Scratch,1,normal,40,100
+162,16,Quick Attack,1,normal,40,100
+162,16,Defense Curl,1,normal,-,-
+162,16,Foresight,1,normal,-,-
+162,5,Defense Curl,4,normal,-,-
+162,6,Defense Curl,4,normal,-,-
+162,7,Defense Curl,4,normal,-,-
+162,8,Defense Curl,4,normal,-,-
+162,9,Defense Curl,4,normal,-,-
+162,10,Defense Curl,4,normal,-,-
+162,11,Defense Curl,4,normal,-,-
+162,12,Defense Curl,4,normal,-,-
+162,13,Defense Curl,4,normal,-,-
+162,14,Defense Curl,4,normal,-,-
+162,15,Defense Curl,4,normal,-,-
+162,16,Defense Curl,4,normal,-,-
+162,3,Defense Curl,5,normal,-,-
+162,4,Defense Curl,5,normal,-,-
+162,5,Quick Attack,7,normal,40,100
+162,6,Quick Attack,7,normal,40,100
+162,7,Quick Attack,7,normal,40,100
+162,8,Quick Attack,7,normal,40,100
+162,9,Quick Attack,7,normal,40,100
+162,10,Quick Attack,7,normal,40,100
+162,11,Quick Attack,7,normal,40,100
+162,12,Quick Attack,7,normal,40,100
+162,13,Quick Attack,7,normal,40,100
+162,14,Quick Attack,7,normal,40,100
+162,15,Quick Attack,7,normal,40,100
+162,16,Quick Attack,7,normal,40,100
+162,3,Quick Attack,11,normal,40,100
+162,4,Quick Attack,11,normal,40,100
+162,5,Fury Swipes,12,normal,18,80
+162,6,Fury Swipes,12,normal,18,80
+162,7,Fury Swipes,12,normal,18,80
+162,12,Fury Swipes,12,normal,18,80
+162,13,Fury Swipes,12,normal,18,80
+162,8,Fury Swipes,13,normal,18,80
+162,9,Fury Swipes,13,normal,18,80
+162,10,Fury Swipes,13,normal,18,80
+162,11,Fury Swipes,13,normal,18,80
+162,14,Fury Swipes,13,normal,18,80
+162,15,Fury Swipes,13,normal,18,80
+162,16,Fury Swipes,13,normal,18,80
+162,8,Helping Hand,17,normal,-,-
+162,9,Helping Hand,17,normal,-,-
+162,10,Helping Hand,17,normal,-,-
+162,11,Helping Hand,17,normal,-,-
+162,14,Helping Hand,17,normal,-,-
+162,15,Helping Hand,17,normal,-,-
+162,16,Helping Hand,17,normal,-,-
+162,3,Fury Swipes,18,normal,18,80
+162,4,Fury Swipes,18,normal,18,80
+162,5,Helping Hand,19,normal,-,-
+162,6,Helping Hand,19,normal,-,-
+162,7,Helping Hand,19,normal,-,-
+162,12,Helping Hand,19,normal,-,-
+162,13,Helping Hand,19,normal,-,-
+162,8,Follow Me,21,normal,-,-
+162,9,Follow Me,21,normal,-,-
+162,10,Follow Me,21,normal,-,-
+162,11,Follow Me,21,normal,-,-
+162,14,Follow Me,21,normal,-,-
+162,15,Follow Me,21,normal,-,-
+162,16,Follow Me,21,normal,-,-
+162,3,Slam,28,normal,80,75
+162,4,Slam,28,normal,80,75
+162,5,Slam,28,normal,80,75
+162,6,Slam,28,normal,80,75
+162,7,Slam,28,normal,80,75
+162,8,Slam,28,normal,80,75
+162,9,Slam,28,normal,80,75
+162,10,Slam,28,normal,80,75
+162,11,Slam,28,normal,80,75
+162,12,Slam,28,normal,80,75
+162,13,Slam,28,normal,80,75
+162,14,Slam,28,normal,80,75
+162,15,Slam,28,normal,80,75
+162,16,Slam,28,normal,80,75
+162,8,Rest,32,psychic,-,-
+162,9,Rest,32,psychic,-,-
+162,10,Rest,32,psychic,-,-
+162,11,Rest,32,psychic,-,-
+162,14,Rest,32,psychic,-,-
+162,15,Rest,32,psychic,-,-
+162,16,Rest,32,psychic,-,-
+162,8,Sucker Punch,36,dark,80,100
+162,9,Sucker Punch,36,dark,80,100
+162,10,Sucker Punch,36,dark,80,100
+162,11,Sucker Punch,36,dark,80,100
+162,14,Sucker Punch,36,dark,80,100
+162,15,Sucker Punch,36,dark,80,100
+162,16,Sucker Punch,36,dark,80,100
+162,5,Follow Me,37,normal,-,-
+162,6,Follow Me,37,normal,-,-
+162,7,Follow Me,37,normal,-,-
+162,12,Follow Me,37,normal,-,-
+162,13,Follow Me,37,normal,-,-
+162,3,Rest,38,psychic,-,-
+162,4,Rest,38,psychic,-,-
+162,8,Amnesia,42,psychic,-,-
+162,9,Amnesia,42,psychic,-,-
+162,10,Amnesia,42,psychic,-,-
+162,11,Amnesia,42,psychic,-,-
+162,14,Amnesia,42,psychic,-,-
+162,15,Amnesia,42,psychic,-,-
+162,16,Amnesia,42,psychic,-,-
+162,8,Baton Pass,46,normal,-,-
+162,9,Baton Pass,46,normal,-,-
+162,10,Baton Pass,46,normal,-,-
+162,11,Baton Pass,46,normal,-,-
+162,14,Baton Pass,46,normal,-,-
+162,15,Baton Pass,46,normal,-,-
+162,16,Baton Pass,46,normal,-,-
+162,3,Amnesia,48,psychic,-,-
+162,4,Amnesia,48,psychic,-,-
+162,5,Rest,48,psychic,-,-
+162,6,Rest,48,psychic,-,-
+162,7,Rest,48,psychic,-,-
+162,12,Rest,48,psychic,-,-
+162,13,Rest,48,psychic,-,-
+162,8,Me First,50,normal,-,-
+162,9,Me First,50,normal,-,-
+162,10,Me First,50,normal,-,-
+162,11,Me First,50,normal,-,-
+162,14,Me First,50,normal,-,-
+162,15,Me First,50,normal,-,-
+162,16,Me First,50,normal,-,-
+162,8,Hyper Voice,56,normal,90,100
+162,9,Hyper Voice,56,normal,90,100
+162,10,Hyper Voice,56,normal,90,100
+162,11,Hyper Voice,56,normal,90,100
+162,14,Hyper Voice,56,normal,90,100
+162,15,Hyper Voice,56,normal,90,100
+162,16,Hyper Voice,56,normal,90,100
+162,5,Amnesia,59,psychic,-,-
+162,6,Amnesia,59,psychic,-,-
+162,7,Amnesia,59,psychic,-,-
+162,12,Amnesia,59,psychic,-,-
+162,13,Amnesia,59,psychic,-,-

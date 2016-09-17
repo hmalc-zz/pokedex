@@ -1,0 +1,35 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+701,15,Tackle,1,normal,50,100
+701,15,Detect,1,fighting,-,-
+701,15,Hone Claws,1,dark,-,-
+701,16,Tackle,1,normal,50,100
+701,16,Detect,1,fighting,-,-
+701,16,Hone Claws,1,dark,-,-
+701,15,Karate Chop,4,fighting,50,100
+701,16,Karate Chop,4,fighting,50,100
+701,15,Wing Attack,8,flying,60,100
+701,16,Wing Attack,8,flying,60,100
+701,15,Roost,12,flying,-,-
+701,16,Roost,12,flying,-,-
+701,15,Aerial Ace,16,flying,60,-
+701,16,Aerial Ace,16,flying,60,-
+701,15,Encore,20,normal,-,100
+701,16,Encore,20,normal,-,100
+701,15,Fling,24,dark,-,100
+701,16,Fling,24,dark,-,100
+701,15,Flying Press,28,fighting,80,95
+701,16,Flying Press,28,fighting,80,95
+701,15,Bounce,32,flying,85,85
+701,16,Bounce,32,flying,85,85
+701,15,Endeavor,36,normal,-,100
+701,16,Endeavor,36,normal,-,100
+701,15,Feather Dance,40,flying,-,100
+701,16,Feather Dance,40,flying,-,100
+701,15,High Jump Kick,44,fighting,130,90
+701,16,High Jump Kick,44,fighting,130,90
+701,15,Sky Attack,48,flying,140,90
+701,16,Sky Attack,48,flying,140,90
+701,15,Sky Drop,55,flying,60,100
+701,16,Sky Drop,55,flying,60,100
+701,15,Swords Dance,60,normal,-,-
+701,16,Swords Dance,60,normal,-,-

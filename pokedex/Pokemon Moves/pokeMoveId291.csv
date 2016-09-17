@@ -1,0 +1,195 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+291,5,Scratch,1,normal,40,100
+291,5,Sand Attack,1,ground,-,100
+291,5,Harden,1,normal,-,-
+291,5,Leech Life,1,bug,20,100
+291,6,Scratch,1,normal,40,100
+291,6,Sand Attack,1,ground,-,100
+291,6,Harden,1,normal,-,-
+291,6,Leech Life,1,bug,20,100
+291,7,Scratch,1,normal,40,100
+291,7,Sand Attack,1,ground,-,100
+291,7,Harden,1,normal,-,-
+291,7,Leech Life,1,bug,20,100
+291,8,Scratch,1,normal,40,100
+291,8,Sand Attack,1,ground,-,100
+291,8,Harden,1,normal,-,-
+291,8,Leech Life,1,bug,20,100
+291,8,Bug Bite,1,bug,60,100
+291,9,Scratch,1,normal,40,100
+291,9,Sand Attack,1,ground,-,100
+291,9,Harden,1,normal,-,-
+291,9,Leech Life,1,bug,20,100
+291,9,Bug Bite,1,bug,60,100
+291,10,Scratch,1,normal,40,100
+291,10,Sand Attack,1,ground,-,100
+291,10,Harden,1,normal,-,-
+291,10,Leech Life,1,bug,20,100
+291,10,Bug Bite,1,bug,60,100
+291,11,Scratch,1,normal,40,100
+291,11,Sand Attack,1,ground,-,100
+291,11,Harden,1,normal,-,-
+291,11,Leech Life,1,bug,20,100
+291,11,Bug Bite,1,bug,60,100
+291,12,Scratch,1,normal,40,100
+291,12,Sand Attack,1,ground,-,100
+291,12,Harden,1,normal,-,-
+291,12,Leech Life,1,bug,20,100
+291,13,Scratch,1,normal,40,100
+291,13,Sand Attack,1,ground,-,100
+291,13,Harden,1,normal,-,-
+291,13,Leech Life,1,bug,20,100
+291,14,Scratch,1,normal,40,100
+291,14,Sand Attack,1,ground,-,100
+291,14,Harden,1,normal,-,-
+291,14,Leech Life,1,bug,20,100
+291,14,Bug Bite,1,bug,60,100
+291,15,Scratch,1,normal,40,100
+291,15,Sand Attack,1,ground,-,100
+291,15,Harden,1,normal,-,-
+291,15,Leech Life,1,bug,20,100
+291,15,Bug Bite,1,bug,60,100
+291,16,Scratch,1,normal,40,100
+291,16,Sand Attack,1,ground,-,100
+291,16,Harden,1,normal,-,-
+291,16,Leech Life,1,bug,20,100
+291,16,Bug Bite,1,bug,60,100
+291,5,Leech Life,5,bug,20,100
+291,6,Leech Life,5,bug,20,100
+291,7,Leech Life,5,bug,20,100
+291,8,Leech Life,5,bug,20,100
+291,9,Leech Life,5,bug,20,100
+291,10,Leech Life,5,bug,20,100
+291,11,Leech Life,5,bug,20,100
+291,12,Leech Life,5,bug,20,100
+291,13,Leech Life,5,bug,20,100
+291,14,Leech Life,5,bug,20,100
+291,15,Leech Life,5,bug,20,100
+291,16,Leech Life,5,bug,20,100
+291,5,Sand Attack,9,ground,-,100
+291,6,Sand Attack,9,ground,-,100
+291,7,Sand Attack,9,ground,-,100
+291,8,Sand Attack,9,ground,-,100
+291,9,Sand Attack,9,ground,-,100
+291,10,Sand Attack,9,ground,-,100
+291,11,Sand Attack,9,ground,-,100
+291,12,Sand Attack,9,ground,-,100
+291,13,Sand Attack,9,ground,-,100
+291,14,Sand Attack,9,ground,-,100
+291,15,Sand Attack,9,ground,-,100
+291,16,Sand Attack,9,ground,-,100
+291,16,Fury Swipes,13,normal,18,80
+291,5,Fury Swipes,14,normal,18,80
+291,6,Fury Swipes,14,normal,18,80
+291,7,Fury Swipes,14,normal,18,80
+291,8,Fury Swipes,14,normal,18,80
+291,9,Fury Swipes,14,normal,18,80
+291,10,Fury Swipes,14,normal,18,80
+291,11,Fury Swipes,14,normal,18,80
+291,12,Fury Swipes,14,normal,18,80
+291,13,Fury Swipes,14,normal,18,80
+291,14,Fury Swipes,14,normal,18,80
+291,15,Fury Swipes,14,normal,18,80
+291,16,Agility,17,psychic,-,-
+291,5,Mind Reader,19,normal,-,-
+291,6,Mind Reader,19,normal,-,-
+291,7,Mind Reader,19,normal,-,-
+291,8,Mind Reader,19,normal,-,-
+291,9,Mind Reader,19,normal,-,-
+291,10,Mind Reader,19,normal,-,-
+291,11,Mind Reader,19,normal,-,-
+291,12,Mind Reader,19,normal,-,-
+291,13,Mind Reader,19,normal,-,-
+291,14,Mind Reader,19,normal,-,-
+291,15,Mind Reader,19,normal,-,-
+291,5,Screech,20,normal,-,85
+291,5,Double Team,20,normal,-,-
+291,5,Fury Cutter,20,bug,40,95
+291,6,Screech,20,normal,-,85
+291,6,Double Team,20,normal,-,-
+291,6,Fury Cutter,20,bug,40,95
+291,7,Screech,20,normal,-,85
+291,7,Double Team,20,normal,-,-
+291,7,Fury Cutter,20,bug,40,95
+291,8,Screech,20,normal,-,85
+291,8,Double Team,20,normal,-,-
+291,8,Fury Cutter,20,bug,40,95
+291,9,Screech,20,normal,-,85
+291,9,Double Team,20,normal,-,-
+291,9,Fury Cutter,20,bug,40,95
+291,10,Screech,20,normal,-,85
+291,10,Double Team,20,normal,-,-
+291,10,Fury Cutter,20,bug,40,95
+291,11,Screech,20,normal,-,85
+291,11,Double Team,20,normal,-,-
+291,11,Fury Cutter,20,bug,40,95
+291,12,Screech,20,normal,-,85
+291,12,Double Team,20,normal,-,-
+291,12,Fury Cutter,20,bug,40,95
+291,13,Screech,20,normal,-,85
+291,13,Double Team,20,normal,-,-
+291,13,Fury Cutter,20,bug,40,95
+291,14,Screech,20,normal,-,85
+291,14,Double Team,20,normal,-,-
+291,14,Fury Cutter,20,bug,40,95
+291,15,Screech,20,normal,-,85
+291,15,Double Team,20,normal,-,-
+291,15,Fury Cutter,20,bug,40,95
+291,16,Screech,20,normal,-,85
+291,16,Double Team,20,normal,-,-
+291,16,Fury Cutter,20,bug,40,95
+291,16,Slash,23,normal,70,100
+291,5,Swords Dance,25,normal,-,-
+291,6,Swords Dance,25,normal,-,-
+291,7,Swords Dance,25,normal,-,-
+291,8,Swords Dance,25,normal,-,-
+291,9,Swords Dance,25,normal,-,-
+291,10,Swords Dance,25,normal,-,-
+291,11,Swords Dance,25,normal,-,-
+291,12,Swords Dance,25,normal,-,-
+291,13,Swords Dance,25,normal,-,-
+291,14,Swords Dance,25,normal,-,-
+291,15,Swords Dance,25,normal,-,-
+291,16,Mind Reader,29,normal,-,-
+291,5,Slash,31,normal,70,100
+291,6,Slash,31,normal,70,100
+291,7,Slash,31,normal,70,100
+291,8,Slash,31,normal,70,100
+291,9,Slash,31,normal,70,100
+291,10,Slash,31,normal,70,100
+291,11,Slash,31,normal,70,100
+291,12,Slash,31,normal,70,100
+291,13,Slash,31,normal,70,100
+291,14,Slash,31,normal,70,100
+291,15,Slash,31,normal,70,100
+291,16,Baton Pass,35,normal,-,-
+291,5,Agility,38,psychic,-,-
+291,6,Agility,38,psychic,-,-
+291,7,Agility,38,psychic,-,-
+291,8,Agility,38,psychic,-,-
+291,9,Agility,38,psychic,-,-
+291,10,Agility,38,psychic,-,-
+291,11,Agility,38,psychic,-,-
+291,12,Agility,38,psychic,-,-
+291,13,Agility,38,psychic,-,-
+291,14,Agility,38,psychic,-,-
+291,15,Agility,38,psychic,-,-
+291,16,Swords Dance,41,normal,-,-
+291,5,Baton Pass,45,normal,-,-
+291,6,Baton Pass,45,normal,-,-
+291,7,Baton Pass,45,normal,-,-
+291,8,Baton Pass,45,normal,-,-
+291,9,Baton Pass,45,normal,-,-
+291,10,Baton Pass,45,normal,-,-
+291,11,Baton Pass,45,normal,-,-
+291,12,Baton Pass,45,normal,-,-
+291,13,Baton Pass,45,normal,-,-
+291,14,Baton Pass,45,normal,-,-
+291,15,Baton Pass,45,normal,-,-
+291,16,X-Scissor,47,bug,80,100
+291,8,X-Scissor,52,bug,80,100
+291,9,X-Scissor,52,bug,80,100
+291,10,X-Scissor,52,bug,80,100
+291,11,X-Scissor,52,bug,80,100
+291,14,X-Scissor,52,bug,80,100
+291,15,X-Scissor,52,bug,80,100

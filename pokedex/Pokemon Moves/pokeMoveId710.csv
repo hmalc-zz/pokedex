@@ -1,0 +1,31 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+710,15,Confuse Ray,1,ghost,-,100
+710,15,Trick,1,psychic,-,100
+710,15,Astonish,1,ghost,30,100
+710,16,Confuse Ray,1,ghost,-,100
+710,16,Trick,1,psychic,-,100
+710,16,Astonish,1,ghost,30,100
+710,15,Scary Face,4,normal,-,100
+710,16,Scary Face,4,normal,-,100
+710,15,Trick-or-Treat,6,ghost,-,100
+710,16,Trick-or-Treat,6,ghost,-,100
+710,15,Worry Seed,11,grass,-,100
+710,16,Worry Seed,11,grass,-,100
+710,15,Razor Leaf,16,grass,55,95
+710,16,Razor Leaf,16,grass,55,95
+710,15,Leech Seed,20,grass,-,90
+710,16,Leech Seed,20,grass,-,90
+710,15,Trick-or-Treat,23,ghost,-,100
+710,16,Trick-or-Treat,23,ghost,-,100
+710,15,Bullet Seed,26,grass,25,100
+710,16,Bullet Seed,26,grass,25,100
+710,15,Shadow Sneak,30,ghost,40,100
+710,16,Shadow Sneak,30,ghost,40,100
+710,15,Shadow Ball,36,ghost,80,100
+710,16,Shadow Ball,36,ghost,80,100
+710,15,Trick-or-Treat,40,ghost,-,100
+710,16,Trick-or-Treat,40,ghost,-,100
+710,15,Pain Split,42,normal,-,-
+710,16,Pain Split,42,normal,-,-
+710,15,Seed Bomb,48,grass,80,100
+710,16,Seed Bomb,48,grass,80,100

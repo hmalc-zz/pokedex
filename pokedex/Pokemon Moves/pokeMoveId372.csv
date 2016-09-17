@@ -1,0 +1,189 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+372,5,Headbutt,1,normal,70,100
+372,5,Leer,1,normal,-,100
+372,5,Bite,1,dark,60,100
+372,5,Rage,1,normal,20,100
+372,6,Headbutt,1,normal,70,100
+372,6,Leer,1,normal,-,100
+372,6,Bite,1,dark,60,100
+372,6,Rage,1,normal,20,100
+372,7,Headbutt,1,normal,70,100
+372,7,Leer,1,normal,-,100
+372,7,Bite,1,dark,60,100
+372,7,Rage,1,normal,20,100
+372,8,Headbutt,1,normal,70,100
+372,8,Leer,1,normal,-,100
+372,8,Bite,1,dark,60,100
+372,8,Rage,1,normal,20,100
+372,9,Headbutt,1,normal,70,100
+372,9,Leer,1,normal,-,100
+372,9,Bite,1,dark,60,100
+372,9,Rage,1,normal,20,100
+372,10,Headbutt,1,normal,70,100
+372,10,Leer,1,normal,-,100
+372,10,Bite,1,dark,60,100
+372,10,Rage,1,normal,20,100
+372,11,Headbutt,1,normal,70,100
+372,11,Leer,1,normal,-,100
+372,11,Bite,1,dark,60,100
+372,11,Rage,1,normal,20,100
+372,12,Headbutt,1,normal,70,100
+372,12,Leer,1,normal,-,100
+372,12,Bite,1,dark,60,100
+372,12,Rage,1,normal,20,100
+372,13,Headbutt,1,normal,70,100
+372,13,Leer,1,normal,-,100
+372,13,Bite,1,dark,60,100
+372,13,Rage,1,normal,20,100
+372,14,Headbutt,1,normal,70,100
+372,14,Leer,1,normal,-,100
+372,14,Bite,1,dark,60,100
+372,14,Rage,1,normal,20,100
+372,15,Headbutt,1,normal,70,100
+372,15,Leer,1,normal,-,100
+372,15,Bite,1,dark,60,100
+372,15,Rage,1,normal,20,100
+372,16,Leer,1,normal,-,100
+372,16,Bite,1,dark,60,100
+372,16,Ember,1,fire,40,100
+372,16,Rage,1,normal,20,100
+372,16,Ember,4,fire,40,100
+372,5,Bite,5,dark,60,100
+372,6,Bite,5,dark,60,100
+372,7,Bite,5,dark,60,100
+372,8,Bite,5,dark,60,100
+372,9,Bite,5,dark,60,100
+372,10,Bite,5,dark,60,100
+372,11,Bite,5,dark,60,100
+372,12,Bite,5,dark,60,100
+372,13,Bite,5,dark,60,100
+372,14,Bite,5,dark,60,100
+372,15,Bite,5,dark,60,100
+372,16,Leer,7,normal,-,100
+372,5,Leer,9,normal,-,100
+372,6,Leer,9,normal,-,100
+372,7,Leer,9,normal,-,100
+372,12,Leer,9,normal,-,100
+372,13,Leer,9,normal,-,100
+372,8,Leer,10,normal,-,100
+372,9,Leer,10,normal,-,100
+372,10,Leer,10,normal,-,100
+372,11,Leer,10,normal,-,100
+372,14,Leer,10,normal,-,100
+372,15,Leer,10,normal,-,100
+372,16,Bite,10,dark,60,100
+372,16,Dragon Breath,13,dragon,60,100
+372,8,Headbutt,16,normal,70,100
+372,9,Headbutt,16,normal,70,100
+372,10,Headbutt,16,normal,70,100
+372,11,Headbutt,16,normal,70,100
+372,14,Headbutt,16,normal,70,100
+372,15,Headbutt,16,normal,70,100
+372,5,Headbutt,17,normal,70,100
+372,6,Headbutt,17,normal,70,100
+372,7,Headbutt,17,normal,70,100
+372,12,Headbutt,17,normal,70,100
+372,13,Headbutt,17,normal,70,100
+372,16,Headbutt,17,normal,70,100
+372,8,Focus Energy,20,normal,-,-
+372,9,Focus Energy,20,normal,-,-
+372,10,Focus Energy,20,normal,-,-
+372,11,Focus Energy,20,normal,-,-
+372,14,Focus Energy,20,normal,-,-
+372,15,Focus Energy,20,normal,-,-
+372,5,Focus Energy,21,normal,-,-
+372,6,Focus Energy,21,normal,-,-
+372,7,Focus Energy,21,normal,-,-
+372,12,Focus Energy,21,normal,-,-
+372,13,Focus Energy,21,normal,-,-
+372,16,Focus Energy,21,normal,-,-
+372,5,Ember,25,fire,40,100
+372,6,Ember,25,fire,40,100
+372,7,Ember,25,fire,40,100
+372,8,Ember,25,fire,40,100
+372,9,Ember,25,fire,40,100
+372,10,Ember,25,fire,40,100
+372,11,Ember,25,fire,40,100
+372,12,Ember,25,fire,40,100
+372,13,Ember,25,fire,40,100
+372,14,Ember,25,fire,40,100
+372,15,Ember,25,fire,40,100
+372,16,Crunch,25,dark,80,100
+372,16,Dragon Claw,29,dragon,80,100
+372,5,Protect,30,normal,-,-
+372,6,Protect,30,normal,-,-
+372,7,Protect,30,normal,-,-
+372,8,Protect,30,normal,-,-
+372,9,Protect,30,normal,-,-
+372,10,Protect,30,normal,-,-
+372,11,Protect,30,normal,-,-
+372,12,Protect,30,normal,-,-
+372,13,Protect,30,normal,-,-
+372,14,Protect,30,normal,-,-
+372,15,Protect,30,normal,-,-
+372,16,Protect,30,normal,-,-
+372,8,Dragon Breath,32,dragon,60,100
+372,9,Dragon Breath,32,dragon,60,100
+372,10,Dragon Breath,32,dragon,60,100
+372,11,Dragon Breath,32,dragon,60,100
+372,14,Dragon Breath,32,dragon,60,100
+372,15,Dragon Breath,32,dragon,60,100
+372,16,Zen Headbutt,35,psychic,80,90
+372,8,Zen Headbutt,37,psychic,80,90
+372,9,Zen Headbutt,37,psychic,80,90
+372,10,Zen Headbutt,37,psychic,80,90
+372,11,Zen Headbutt,37,psychic,80,90
+372,14,Zen Headbutt,37,psychic,80,90
+372,15,Zen Headbutt,37,psychic,80,90
+372,5,Dragon Breath,38,dragon,60,100
+372,6,Dragon Breath,38,dragon,60,100
+372,7,Dragon Breath,38,dragon,60,100
+372,12,Dragon Breath,38,dragon,60,100
+372,13,Dragon Breath,38,dragon,60,100
+372,16,Scary Face,42,normal,-,100
+372,8,Scary Face,43,normal,-,100
+372,9,Scary Face,43,normal,-,100
+372,10,Scary Face,43,normal,-,100
+372,11,Scary Face,43,normal,-,100
+372,14,Scary Face,43,normal,-,100
+372,15,Scary Face,43,normal,-,100
+372,5,Scary Face,47,normal,-,100
+372,6,Scary Face,47,normal,-,100
+372,7,Scary Face,47,normal,-,100
+372,12,Scary Face,47,normal,-,100
+372,13,Scary Face,47,normal,-,100
+372,16,Flamethrower,49,fire,90,100
+372,8,Crunch,50,dark,80,100
+372,9,Crunch,50,dark,80,100
+372,10,Crunch,50,dark,80,100
+372,11,Crunch,50,dark,80,100
+372,14,Crunch,50,dark,80,100
+372,15,Crunch,50,dark,80,100
+372,8,Dragon Claw,55,dragon,80,100
+372,9,Dragon Claw,55,dragon,80,100
+372,10,Dragon Claw,55,dragon,80,100
+372,11,Dragon Claw,55,dragon,80,100
+372,14,Dragon Claw,55,dragon,80,100
+372,15,Dragon Claw,55,dragon,80,100
+372,5,Crunch,56,dark,80,100
+372,6,Crunch,56,dark,80,100
+372,7,Crunch,56,dark,80,100
+372,12,Crunch,56,dark,80,100
+372,13,Crunch,56,dark,80,100
+372,16,Double-Edge,56,normal,120,100
+372,8,Double-Edge,61,normal,120,100
+372,9,Double-Edge,61,normal,120,100
+372,10,Double-Edge,61,normal,120,100
+372,11,Double-Edge,61,normal,120,100
+372,14,Double-Edge,61,normal,120,100
+372,15,Double-Edge,61,normal,120,100
+372,5,Dragon Claw,69,dragon,80,100
+372,6,Dragon Claw,69,dragon,80,100
+372,7,Dragon Claw,69,dragon,80,100
+372,12,Dragon Claw,69,dragon,80,100
+372,13,Dragon Claw,69,dragon,80,100
+372,5,Double-Edge,78,normal,120,100
+372,6,Double-Edge,78,normal,120,100
+372,7,Double-Edge,78,normal,120,100
+372,12,Double-Edge,78,normal,120,100
+372,13,Double-Edge,78,normal,120,100

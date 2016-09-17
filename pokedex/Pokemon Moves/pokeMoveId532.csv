@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+532,11,Pound,1,normal,40,100
+532,11,Leer,1,normal,-,100
+532,14,Pound,1,normal,40,100
+532,14,Leer,1,normal,-,100
+532,15,Pound,1,normal,40,100
+532,15,Leer,1,normal,-,100
+532,16,Pound,1,normal,40,100
+532,16,Leer,1,normal,-,100
+532,11,Focus Energy,4,normal,-,-
+532,14,Focus Energy,4,normal,-,-
+532,15,Focus Energy,4,normal,-,-
+532,16,Focus Energy,4,normal,-,-
+532,11,Bide,8,normal,-,-
+532,14,Bide,8,normal,-,-
+532,15,Bide,8,normal,-,-
+532,16,Bide,8,normal,-,-
+532,11,Low Kick,12,fighting,-,100
+532,14,Low Kick,12,fighting,-,100
+532,15,Low Kick,12,fighting,-,100
+532,16,Low Kick,12,fighting,-,100
+532,11,Rock Throw,16,rock,50,90
+532,14,Rock Throw,16,rock,50,90
+532,15,Rock Throw,16,rock,50,90
+532,16,Rock Throw,16,rock,50,90
+532,11,Wake-Up Slap,20,fighting,70,100
+532,14,Wake-Up Slap,20,fighting,70,100
+532,15,Wake-Up Slap,20,fighting,70,100
+532,16,Wake-Up Slap,20,fighting,70,100
+532,11,Chip Away,24,normal,70,100
+532,14,Chip Away,24,normal,70,100
+532,15,Chip Away,24,normal,70,100
+532,16,Chip Away,24,normal,70,100
+532,11,Bulk Up,28,fighting,-,-
+532,14,Bulk Up,28,fighting,-,-
+532,15,Bulk Up,28,fighting,-,-
+532,16,Bulk Up,28,fighting,-,-
+532,11,Rock Slide,31,rock,75,90
+532,14,Rock Slide,31,rock,75,90
+532,15,Rock Slide,31,rock,75,90
+532,16,Rock Slide,31,rock,75,90
+532,11,Dynamic Punch,34,fighting,100,50
+532,14,Dynamic Punch,34,fighting,100,50
+532,15,Dynamic Punch,34,fighting,100,50
+532,16,Dynamic Punch,34,fighting,100,50
+532,11,Scary Face,37,normal,-,100
+532,14,Scary Face,37,normal,-,100
+532,15,Scary Face,37,normal,-,100
+532,16,Scary Face,37,normal,-,100
+532,11,Hammer Arm,40,fighting,100,90
+532,14,Hammer Arm,40,fighting,100,90
+532,15,Hammer Arm,40,fighting,100,90
+532,16,Hammer Arm,40,fighting,100,90
+532,11,Stone Edge,43,rock,100,80
+532,14,Stone Edge,43,rock,100,80
+532,15,Stone Edge,43,rock,100,80
+532,16,Stone Edge,43,rock,100,80
+532,11,Focus Punch,46,fighting,150,100
+532,14,Focus Punch,46,fighting,150,100
+532,15,Focus Punch,46,fighting,150,100
+532,16,Focus Punch,46,fighting,150,100
+532,11,Superpower,49,fighting,120,100
+532,14,Superpower,49,fighting,120,100
+532,15,Superpower,49,fighting,120,100
+532,16,Superpower,49,fighting,120,100

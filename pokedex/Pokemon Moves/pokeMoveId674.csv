@@ -1,0 +1,29 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+674,15,Tackle,1,normal,50,100
+674,15,Leer,1,normal,-,100
+674,16,Tackle,1,normal,50,100
+674,16,Leer,1,normal,-,100
+674,15,Arm Thrust,7,fighting,15,100
+674,16,Arm Thrust,7,fighting,15,100
+674,15,Work Up,10,normal,-,-
+674,16,Work Up,10,normal,-,-
+674,15,Karate Chop,12,fighting,50,100
+674,16,Karate Chop,12,fighting,50,100
+674,15,Comet Punch,15,normal,18,85
+674,16,Comet Punch,15,normal,18,85
+674,15,Slash,20,normal,70,100
+674,16,Slash,20,normal,70,100
+674,15,Circle Throw,25,fighting,60,90
+674,16,Circle Throw,25,fighting,60,90
+674,15,Vital Throw,27,fighting,70,-
+674,16,Vital Throw,27,fighting,70,-
+674,15,Body Slam,33,normal,85,100
+674,16,Body Slam,33,normal,85,100
+674,15,Crunch,39,dark,80,100
+674,16,Crunch,39,dark,80,100
+674,15,Entrainment,42,normal,-,100
+674,16,Entrainment,42,normal,-,100
+674,15,Parting Shot,45,dark,-,100
+674,16,Parting Shot,45,dark,-,100
+674,15,Sky Uppercut,48,fighting,85,90
+674,16,Sky Uppercut,48,fighting,85,90

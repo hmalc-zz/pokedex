@@ -1,0 +1,92 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+490,8,Bubble,1,water,40,100
+490,8,Tail Glow,1,bug,-,-
+490,8,Water Sport,1,water,-,-
+490,9,Bubble,1,water,40,100
+490,9,Tail Glow,1,bug,-,-
+490,9,Water Sport,1,water,-,-
+490,10,Bubble,1,water,40,100
+490,10,Tail Glow,1,bug,-,-
+490,10,Water Sport,1,water,-,-
+490,11,Bubble,1,water,40,100
+490,11,Tail Glow,1,bug,-,-
+490,11,Water Sport,1,water,-,-
+490,14,Bubble,1,water,40,100
+490,14,Tail Glow,1,bug,-,-
+490,14,Water Sport,1,water,-,-
+490,15,Bubble,1,water,40,100
+490,15,Tail Glow,1,bug,-,-
+490,15,Water Sport,1,water,-,-
+490,16,Bubble,1,water,40,100
+490,16,Tail Glow,1,bug,-,-
+490,16,Water Sport,1,water,-,-
+490,8,Charm,9,fairy,-,100
+490,9,Charm,9,fairy,-,100
+490,10,Charm,9,fairy,-,100
+490,11,Charm,9,fairy,-,100
+490,14,Charm,9,fairy,-,100
+490,15,Charm,9,fairy,-,100
+490,16,Charm,9,fairy,-,100
+490,8,Supersonic,16,normal,-,55
+490,9,Supersonic,16,normal,-,55
+490,10,Supersonic,16,normal,-,55
+490,11,Supersonic,16,normal,-,55
+490,14,Supersonic,16,normal,-,55
+490,15,Supersonic,16,normal,-,55
+490,16,Supersonic,16,normal,-,55
+490,8,Bubble Beam,24,water,65,100
+490,9,Bubble Beam,24,water,65,100
+490,10,Bubble Beam,24,water,65,100
+490,11,Bubble Beam,24,water,65,100
+490,14,Bubble Beam,24,water,65,100
+490,15,Bubble Beam,24,water,65,100
+490,16,Bubble Beam,24,water,65,100
+490,8,Acid Armor,31,poison,-,-
+490,9,Acid Armor,31,poison,-,-
+490,10,Acid Armor,31,poison,-,-
+490,11,Acid Armor,31,poison,-,-
+490,14,Acid Armor,31,poison,-,-
+490,15,Acid Armor,31,poison,-,-
+490,16,Acid Armor,31,poison,-,-
+490,8,Whirlpool,39,water,35,85
+490,9,Whirlpool,39,water,35,85
+490,10,Whirlpool,39,water,35,85
+490,11,Whirlpool,39,water,35,85
+490,14,Whirlpool,39,water,35,85
+490,15,Whirlpool,39,water,35,85
+490,16,Whirlpool,39,water,35,85
+490,8,Water Pulse,46,water,60,100
+490,9,Water Pulse,46,water,60,100
+490,10,Water Pulse,46,water,60,100
+490,11,Water Pulse,46,water,60,100
+490,14,Water Pulse,46,water,60,100
+490,15,Water Pulse,46,water,60,100
+490,16,Water Pulse,46,water,60,100
+490,8,Aqua Ring,54,water,-,-
+490,9,Aqua Ring,54,water,-,-
+490,10,Aqua Ring,54,water,-,-
+490,11,Aqua Ring,54,water,-,-
+490,14,Aqua Ring,54,water,-,-
+490,15,Aqua Ring,54,water,-,-
+490,16,Aqua Ring,54,water,-,-
+490,8,Dive,61,water,80,100
+490,9,Dive,61,water,80,100
+490,10,Dive,61,water,80,100
+490,11,Dive,61,water,80,100
+490,14,Dive,61,water,80,100
+490,15,Dive,61,water,80,100
+490,16,Dive,61,water,80,100
+490,8,Rain Dance,69,water,-,-
+490,9,Rain Dance,69,water,-,-
+490,10,Rain Dance,69,water,-,-
+490,11,Rain Dance,69,water,-,-
+490,14,Rain Dance,69,water,-,-
+490,15,Rain Dance,69,water,-,-
+490,16,Rain Dance,69,water,-,-
+490,8,Heart Swap,76,psychic,-,-
+490,9,Heart Swap,76,psychic,-,-
+490,10,Heart Swap,76,psychic,-,-
+490,11,Heart Swap,76,psychic,-,-
+490,14,Heart Swap,76,psychic,-,-
+490,15,Heart Swap,76,psychic,-,-
+490,16,Heart Swap,76,psychic,-,-

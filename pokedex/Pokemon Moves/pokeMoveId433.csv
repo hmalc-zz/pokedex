@@ -1,0 +1,48 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+433,8,Wrap,1,normal,15,90
+433,9,Wrap,1,normal,15,90
+433,10,Wrap,1,normal,15,90
+433,11,Wrap,1,normal,15,90
+433,14,Wrap,1,normal,15,90
+433,15,Wrap,1,normal,15,90
+433,16,Wrap,1,normal,15,90
+433,16,Growl,4,normal,-,100
+433,8,Growl,6,normal,-,100
+433,9,Growl,6,normal,-,100
+433,10,Growl,6,normal,-,100
+433,11,Growl,6,normal,-,100
+433,14,Growl,6,normal,-,100
+433,15,Growl,6,normal,-,100
+433,16,Astonish,7,ghost,30,100
+433,8,Astonish,9,ghost,30,100
+433,9,Astonish,9,ghost,30,100
+433,10,Astonish,9,ghost,30,100
+433,11,Astonish,9,ghost,30,100
+433,14,Astonish,9,ghost,30,100
+433,15,Astonish,9,ghost,30,100
+433,16,Confusion,10,psychic,50,100
+433,16,Yawn,13,normal,-,-
+433,8,Confusion,14,psychic,50,100
+433,9,Confusion,14,psychic,50,100
+433,10,Confusion,14,psychic,50,100
+433,11,Confusion,14,psychic,50,100
+433,14,Confusion,14,psychic,50,100
+433,15,Confusion,14,psychic,50,100
+433,16,Last Resort,16,normal,140,100
+433,8,Uproar,17,normal,90,100
+433,9,Uproar,17,normal,90,100
+433,10,Uproar,17,normal,90,100
+433,11,Uproar,17,normal,90,100
+433,14,Uproar,17,normal,90,100
+433,15,Uproar,17,normal,90,100
+433,16,Entrainment,19,normal,-,100
+433,8,Last Resort,22,normal,140,100
+433,9,Last Resort,22,normal,140,100
+433,10,Last Resort,22,normal,140,100
+433,11,Last Resort,22,normal,140,100
+433,14,Last Resort,22,normal,140,100
+433,15,Last Resort,22,normal,140,100
+433,11,Entrainment,25,normal,-,100
+433,14,Entrainment,25,normal,-,100
+433,15,Entrainment,25,normal,-,100
+433,16,Uproar,32,normal,90,100

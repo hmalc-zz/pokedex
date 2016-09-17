@@ -1,0 +1,170 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+50,1,Scratch,1,normal,40,100
+50,2,Scratch,1,normal,40,100
+50,3,Scratch,1,normal,40,100
+50,4,Scratch,1,normal,40,100
+50,5,Scratch,1,normal,40,100
+50,5,Sand Attack,1,ground,-,100
+50,6,Scratch,1,normal,40,100
+50,6,Sand Attack,1,ground,-,100
+50,7,Scratch,1,normal,40,100
+50,7,Sand Attack,1,ground,-,100
+50,8,Scratch,1,normal,40,100
+50,8,Sand Attack,1,ground,-,100
+50,9,Scratch,1,normal,40,100
+50,9,Sand Attack,1,ground,-,100
+50,10,Scratch,1,normal,40,100
+50,10,Sand Attack,1,ground,-,100
+50,11,Scratch,1,normal,40,100
+50,11,Sand Attack,1,ground,-,100
+50,12,Scratch,1,normal,40,100
+50,12,Sand Attack,1,ground,-,100
+50,13,Scratch,1,normal,40,100
+50,13,Sand Attack,1,ground,-,100
+50,14,Scratch,1,normal,40,100
+50,14,Sand Attack,1,ground,-,100
+50,15,Scratch,1,normal,40,100
+50,15,Sand Attack,1,ground,-,100
+50,16,Scratch,1,normal,40,100
+50,16,Sand Attack,1,ground,-,100
+50,8,Growl,4,normal,-,100
+50,9,Growl,4,normal,-,100
+50,10,Growl,4,normal,-,100
+50,11,Growl,4,normal,-,100
+50,14,Growl,4,normal,-,100
+50,15,Growl,4,normal,-,100
+50,16,Growl,4,normal,-,100
+50,3,Growl,5,normal,-,100
+50,4,Growl,5,normal,-,100
+50,5,Growl,5,normal,-,100
+50,6,Growl,5,normal,-,100
+50,7,Growl,5,normal,-,100
+50,12,Growl,5,normal,-,100
+50,13,Growl,5,normal,-,100
+50,8,Astonish,7,ghost,30,100
+50,9,Astonish,7,ghost,30,100
+50,10,Astonish,7,ghost,30,100
+50,11,Astonish,7,ghost,30,100
+50,14,Astonish,7,ghost,30,100
+50,15,Astonish,7,ghost,30,100
+50,16,Astonish,7,ghost,30,100
+50,3,Magnitude,9,ground,-,100
+50,4,Magnitude,9,ground,-,100
+50,5,Magnitude,9,ground,-,100
+50,6,Magnitude,9,ground,-,100
+50,7,Magnitude,9,ground,-,100
+50,12,Magnitude,9,ground,-,100
+50,13,Magnitude,9,ground,-,100
+50,8,Magnitude,12,ground,-,100
+50,9,Magnitude,12,ground,-,100
+50,10,Magnitude,12,ground,-,100
+50,11,Mud-Slap,12,ground,20,100
+50,14,Mud-Slap,12,ground,20,100
+50,15,Mud-Slap,12,ground,20,100
+50,16,Mud-Slap,12,ground,20,100
+50,1,Growl,15,normal,-,100
+50,2,Growl,15,normal,-,100
+50,8,Mud-Slap,15,ground,20,100
+50,9,Mud-Slap,15,ground,20,100
+50,10,Mud-Slap,15,ground,20,100
+50,11,Magnitude,15,ground,-,100
+50,14,Magnitude,15,ground,-,100
+50,15,Magnitude,15,ground,-,100
+50,16,Magnitude,15,ground,-,100
+50,3,Dig,17,ground,80,100
+50,4,Dig,17,ground,80,100
+50,5,Dig,17,ground,80,100
+50,6,Dig,17,ground,80,100
+50,7,Dig,17,ground,80,100
+50,12,Dig,17,ground,80,100
+50,13,Dig,17,ground,80,100
+50,8,Dig,18,ground,80,100
+50,9,Dig,18,ground,80,100
+50,10,Dig,18,ground,80,100
+50,11,Bulldoze,18,ground,60,100
+50,14,Bulldoze,18,ground,60,100
+50,15,Bulldoze,18,ground,60,100
+50,16,Bulldoze,18,ground,60,100
+50,1,Dig,19,ground,80,100
+50,2,Dig,19,ground,80,100
+50,7,Fury Swipes,21,normal,18,80
+50,8,Sucker Punch,23,dark,80,100
+50,9,Sucker Punch,23,dark,80,100
+50,10,Sucker Punch,23,dark,80,100
+50,11,Sucker Punch,23,dark,80,100
+50,14,Sucker Punch,23,dark,80,100
+50,15,Sucker Punch,23,dark,80,100
+50,16,Sucker Punch,23,dark,80,100
+50,1,Sand Attack,24,ground,-,100
+50,2,Sand Attack,24,ground,-,100
+50,3,Sand Attack,25,ground,-,100
+50,4,Sand Attack,25,ground,-,100
+50,5,Mud-Slap,25,ground,20,100
+50,6,Mud-Slap,25,ground,20,100
+50,7,Mud-Slap,25,ground,20,100
+50,12,Mud-Slap,25,ground,20,100
+50,13,Mud-Slap,25,ground,20,100
+50,8,Earth Power,26,ground,90,100
+50,9,Earth Power,26,ground,90,100
+50,10,Earth Power,26,ground,90,100
+50,11,Mud Bomb,26,ground,65,85
+50,14,Mud Bomb,26,ground,65,85
+50,15,Mud Bomb,26,ground,65,85
+50,16,Mud Bomb,26,ground,65,85
+50,8,Mud Bomb,29,ground,65,85
+50,9,Mud Bomb,29,ground,65,85
+50,10,Mud Bomb,29,ground,65,85
+50,11,Earth Power,29,ground,90,100
+50,14,Earth Power,29,ground,90,100
+50,15,Earth Power,29,ground,90,100
+50,16,Earth Power,29,ground,90,100
+50,1,Slash,31,normal,70,100
+50,2,Slash,31,normal,70,100
+50,3,Slash,33,normal,70,100
+50,4,Slash,33,normal,70,100
+50,5,Slash,33,normal,70,100
+50,6,Slash,33,normal,70,100
+50,7,Slash,33,normal,70,100
+50,12,Slash,33,normal,70,100
+50,13,Slash,33,normal,70,100
+50,8,Slash,34,normal,70,100
+50,9,Slash,34,normal,70,100
+50,10,Slash,34,normal,70,100
+50,11,Dig,34,ground,80,100
+50,14,Dig,34,ground,80,100
+50,15,Dig,34,ground,80,100
+50,16,Dig,34,ground,80,100
+50,8,Earthquake,37,ground,100,100
+50,9,Earthquake,37,ground,100,100
+50,10,Earthquake,37,ground,100,100
+50,11,Slash,37,normal,70,100
+50,14,Slash,37,normal,70,100
+50,15,Slash,37,normal,70,100
+50,16,Slash,37,normal,70,100
+50,1,Earthquake,40,ground,100,100
+50,2,Earthquake,40,ground,100,100
+50,8,Fissure,40,ground,-,30
+50,9,Fissure,40,ground,-,30
+50,10,Fissure,40,ground,-,30
+50,11,Earthquake,40,ground,100,100
+50,14,Earthquake,40,ground,100,100
+50,15,Earthquake,40,ground,100,100
+50,16,Earthquake,40,ground,100,100
+50,3,Earthquake,41,ground,100,100
+50,4,Earthquake,41,ground,100,100
+50,5,Earthquake,41,ground,100,100
+50,6,Earthquake,41,ground,100,100
+50,7,Earthquake,41,ground,100,100
+50,12,Earthquake,41,ground,100,100
+50,13,Earthquake,41,ground,100,100
+50,11,Fissure,45,ground,-,30
+50,14,Fissure,45,ground,-,30
+50,15,Fissure,45,ground,-,30
+50,16,Fissure,45,ground,-,30
+50,3,Fissure,49,ground,-,30
+50,4,Fissure,49,ground,-,30
+50,5,Fissure,49,ground,-,30
+50,6,Fissure,49,ground,-,30
+50,7,Fissure,49,ground,-,30
+50,12,Fissure,49,ground,-,30
+50,13,Fissure,49,ground,-,30

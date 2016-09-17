@@ -1,0 +1,85 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+571,11,Scratch,1,normal,40,100
+571,11,Leer,1,normal,-,100
+571,11,Pursuit,1,dark,40,100
+571,11,U-turn,1,bug,70,100
+571,11,Hone Claws,1,dark,-,-
+571,14,Scratch,1,normal,40,100
+571,14,Leer,1,normal,-,100
+571,14,Pursuit,1,dark,40,100
+571,14,U-turn,1,bug,70,100
+571,14,Hone Claws,1,dark,-,-
+571,15,Scratch,1,normal,40,100
+571,15,Leer,1,normal,-,100
+571,15,Pursuit,1,dark,40,100
+571,15,Imprison,1,psychic,-,-
+571,15,U-turn,1,bug,70,100
+571,15,Hone Claws,1,dark,-,-
+571,15,Night Daze,1,dark,85,95
+571,16,Scratch,1,normal,40,100
+571,16,Leer,1,normal,-,100
+571,16,Pursuit,1,dark,40,100
+571,16,Imprison,1,psychic,-,-
+571,16,U-turn,1,bug,70,100
+571,16,Hone Claws,1,dark,-,-
+571,16,Night Daze,1,dark,85,95
+571,11,Pursuit,5,dark,40,100
+571,14,Pursuit,5,dark,40,100
+571,15,Pursuit,5,dark,40,100
+571,16,Pursuit,5,dark,40,100
+571,11,Hone Claws,9,dark,-,-
+571,14,Hone Claws,9,dark,-,-
+571,15,Hone Claws,9,dark,-,-
+571,16,Hone Claws,9,dark,-,-
+571,11,Fury Swipes,13,normal,18,80
+571,14,Fury Swipes,13,normal,18,80
+571,15,Fury Swipes,13,normal,18,80
+571,16,Fury Swipes,13,normal,18,80
+571,11,Feint Attack,17,dark,60,-
+571,14,Feint Attack,17,dark,60,-
+571,15,Feint Attack,17,dark,60,-
+571,16,Feint Attack,17,dark,60,-
+571,11,Scary Face,21,normal,-,100
+571,14,Scary Face,21,normal,-,100
+571,15,Scary Face,21,normal,-,100
+571,16,Scary Face,21,normal,-,100
+571,11,Taunt,25,dark,-,100
+571,14,Taunt,25,dark,-,100
+571,15,Taunt,25,dark,-,100
+571,16,Taunt,25,dark,-,100
+571,11,Foul Play,29,dark,95,100
+571,14,Foul Play,29,dark,95,100
+571,15,Foul Play,29,dark,95,100
+571,16,Foul Play,29,dark,95,100
+571,11,Night Slash,30,dark,70,100
+571,14,Night Slash,30,dark,70,100
+571,15,Night Slash,30,dark,70,100
+571,16,Night Slash,30,dark,70,100
+571,11,Torment,34,dark,-,100
+571,14,Torment,34,dark,-,100
+571,15,Torment,34,dark,-,100
+571,16,Torment,34,dark,-,100
+571,11,Agility,39,psychic,-,-
+571,14,Agility,39,psychic,-,-
+571,15,Agility,39,psychic,-,-
+571,16,Agility,39,psychic,-,-
+571,11,Embargo,44,dark,-,100
+571,14,Embargo,44,dark,-,100
+571,15,Embargo,44,dark,-,100
+571,16,Embargo,44,dark,-,100
+571,11,Punishment,49,dark,-,100
+571,14,Punishment,49,dark,-,100
+571,15,Punishment,49,dark,-,100
+571,16,Punishment,49,dark,-,100
+571,11,Nasty Plot,54,dark,-,-
+571,14,Nasty Plot,54,dark,-,-
+571,15,Nasty Plot,54,dark,-,-
+571,16,Nasty Plot,54,dark,-,-
+571,11,Imprison,59,psychic,-,-
+571,14,Imprison,59,psychic,-,-
+571,15,Imprison,59,psychic,-,-
+571,16,Imprison,59,psychic,-,-
+571,11,Night Daze,64,dark,85,95
+571,14,Night Daze,64,dark,85,95
+571,15,Night Daze,64,dark,85,95
+571,16,Night Daze,64,dark,85,95

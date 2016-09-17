@@ -1,0 +1,103 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+391,8,Scratch,1,normal,40,100
+391,8,Leer,1,normal,-,100
+391,8,Ember,1,fire,40,100
+391,9,Scratch,1,normal,40,100
+391,9,Leer,1,normal,-,100
+391,9,Ember,1,fire,40,100
+391,10,Scratch,1,normal,40,100
+391,10,Leer,1,normal,-,100
+391,10,Ember,1,fire,40,100
+391,11,Scratch,1,normal,40,100
+391,11,Leer,1,normal,-,100
+391,11,Ember,1,fire,40,100
+391,14,Scratch,1,normal,40,100
+391,14,Leer,1,normal,-,100
+391,14,Ember,1,fire,40,100
+391,15,Scratch,1,normal,40,100
+391,15,Leer,1,normal,-,100
+391,15,Ember,1,fire,40,100
+391,16,Scratch,1,normal,40,100
+391,16,Leer,1,normal,-,100
+391,16,Ember,1,fire,40,100
+391,8,Ember,7,fire,40,100
+391,9,Ember,7,fire,40,100
+391,10,Ember,7,fire,40,100
+391,11,Ember,7,fire,40,100
+391,14,Ember,7,fire,40,100
+391,15,Ember,7,fire,40,100
+391,16,Ember,7,fire,40,100
+391,8,Taunt,9,dark,-,100
+391,9,Taunt,9,dark,-,100
+391,10,Taunt,9,dark,-,100
+391,11,Taunt,9,dark,-,100
+391,14,Taunt,9,dark,-,100
+391,15,Taunt,9,dark,-,100
+391,16,Taunt,9,dark,-,100
+391,8,Mach Punch,14,fighting,40,100
+391,9,Mach Punch,14,fighting,40,100
+391,10,Mach Punch,14,fighting,40,100
+391,11,Mach Punch,14,fighting,40,100
+391,14,Mach Punch,14,fighting,40,100
+391,15,Mach Punch,14,fighting,40,100
+391,16,Mach Punch,14,fighting,40,100
+391,8,Fury Swipes,16,normal,18,80
+391,9,Fury Swipes,16,normal,18,80
+391,10,Fury Swipes,16,normal,18,80
+391,11,Fury Swipes,16,normal,18,80
+391,14,Fury Swipes,16,normal,18,80
+391,15,Fury Swipes,16,normal,18,80
+391,16,Fury Swipes,16,normal,18,80
+391,8,Flame Wheel,19,fire,60,100
+391,9,Flame Wheel,19,fire,60,100
+391,10,Flame Wheel,19,fire,60,100
+391,11,Flame Wheel,19,fire,60,100
+391,14,Flame Wheel,19,fire,60,100
+391,15,Flame Wheel,19,fire,60,100
+391,16,Flame Wheel,19,fire,60,100
+391,8,Feint,26,normal,30,100
+391,9,Feint,26,normal,30,100
+391,10,Feint,26,normal,30,100
+391,11,Feint,26,normal,30,100
+391,14,Feint,26,normal,30,100
+391,15,Feint,26,normal,30,100
+391,16,Feint,26,normal,30,100
+391,8,Torment,29,dark,-,100
+391,9,Torment,29,dark,-,100
+391,10,Torment,29,dark,-,100
+391,11,Torment,29,dark,-,100
+391,14,Torment,29,dark,-,100
+391,15,Torment,29,dark,-,100
+391,16,Torment,29,dark,-,100
+391,8,Close Combat,36,fighting,120,100
+391,9,Close Combat,36,fighting,120,100
+391,10,Close Combat,36,fighting,120,100
+391,11,Close Combat,36,fighting,120,100
+391,14,Close Combat,36,fighting,120,100
+391,15,Close Combat,36,fighting,120,100
+391,16,Close Combat,36,fighting,120,100
+391,8,Fire Spin,39,fire,35,85
+391,9,Fire Spin,39,fire,35,85
+391,10,Fire Spin,39,fire,35,85
+391,11,Fire Spin,39,fire,35,85
+391,14,Fire Spin,39,fire,35,85
+391,15,Fire Spin,39,fire,35,85
+391,16,Fire Spin,39,fire,35,85
+391,8,Slack Off,46,normal,-,-
+391,9,Slack Off,46,normal,-,-
+391,10,Slack Off,46,normal,-,-
+391,11,Acrobatics,46,flying,55,100
+391,14,Acrobatics,46,flying,55,100
+391,15,Acrobatics,46,flying,55,100
+391,16,Acrobatics,46,flying,55,100
+391,8,Flare Blitz,49,fire,120,100
+391,9,Flare Blitz,49,fire,120,100
+391,10,Flare Blitz,49,fire,120,100
+391,11,Slack Off,49,normal,-,-
+391,14,Slack Off,49,normal,-,-
+391,15,Slack Off,49,normal,-,-
+391,16,Slack Off,49,normal,-,-
+391,11,Flare Blitz,56,fire,120,100
+391,14,Flare Blitz,56,fire,120,100
+391,15,Flare Blitz,56,fire,120,100
+391,16,Flare Blitz,56,fire,120,100

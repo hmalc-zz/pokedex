@@ -1,0 +1,81 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+503,11,Tackle,1,normal,50,100
+503,11,Tail Whip,1,normal,-,100
+503,11,Water Gun,1,water,40,100
+503,11,Megahorn,1,bug,120,85
+503,11,Water Sport,1,water,-,-
+503,14,Tackle,1,normal,50,100
+503,14,Tail Whip,1,normal,-,100
+503,14,Water Gun,1,water,40,100
+503,14,Megahorn,1,bug,120,85
+503,14,Water Sport,1,water,-,-
+503,15,Tackle,1,normal,50,100
+503,15,Tail Whip,1,normal,-,100
+503,15,Water Gun,1,water,40,100
+503,15,Megahorn,1,bug,120,85
+503,15,Water Sport,1,water,-,-
+503,16,Tackle,1,normal,50,100
+503,16,Tail Whip,1,normal,-,100
+503,16,Water Gun,1,water,40,100
+503,16,Megahorn,1,bug,120,85
+503,16,Water Sport,1,water,-,-
+503,11,Tail Whip,5,normal,-,100
+503,14,Tail Whip,5,normal,-,100
+503,15,Tail Whip,5,normal,-,100
+503,16,Tail Whip,5,normal,-,100
+503,11,Water Gun,7,water,40,100
+503,14,Water Gun,7,water,40,100
+503,15,Water Gun,7,water,40,100
+503,16,Water Gun,7,water,40,100
+503,11,Water Sport,11,water,-,-
+503,14,Water Sport,11,water,-,-
+503,15,Water Sport,11,water,-,-
+503,16,Water Sport,11,water,-,-
+503,11,Focus Energy,13,normal,-,-
+503,14,Focus Energy,13,normal,-,-
+503,15,Focus Energy,13,normal,-,-
+503,16,Focus Energy,13,normal,-,-
+503,11,Razor Shell,17,water,75,95
+503,14,Razor Shell,17,water,75,95
+503,15,Razor Shell,17,water,75,95
+503,16,Razor Shell,17,water,75,95
+503,11,Fury Cutter,20,bug,40,95
+503,14,Fury Cutter,20,bug,40,95
+503,15,Fury Cutter,20,bug,40,95
+503,16,Fury Cutter,20,bug,40,95
+503,11,Water Pulse,25,water,60,100
+503,14,Water Pulse,25,water,60,100
+503,15,Water Pulse,25,water,60,100
+503,16,Water Pulse,25,water,60,100
+503,11,Revenge,28,fighting,60,100
+503,14,Revenge,28,fighting,60,100
+503,15,Revenge,28,fighting,60,100
+503,16,Revenge,28,fighting,60,100
+503,11,Aqua Jet,33,water,40,100
+503,14,Aqua Jet,33,water,40,100
+503,15,Aqua Jet,33,water,40,100
+503,16,Aqua Jet,33,water,40,100
+503,11,Slash,36,normal,70,100
+503,14,Slash,36,normal,70,100
+503,15,Slash,36,normal,70,100
+503,16,Slash,36,normal,70,100
+503,11,Encore,38,normal,-,100
+503,14,Encore,38,normal,-,100
+503,15,Encore,38,normal,-,100
+503,16,Encore,38,normal,-,100
+503,11,Aqua Tail,45,water,90,90
+503,14,Aqua Tail,45,water,90,90
+503,15,Aqua Tail,45,water,90,90
+503,16,Aqua Tail,45,water,90,90
+503,11,Retaliate,50,normal,70,100
+503,14,Retaliate,50,normal,70,100
+503,15,Retaliate,50,normal,70,100
+503,16,Retaliate,50,normal,70,100
+503,11,Swords Dance,57,normal,-,-
+503,14,Swords Dance,57,normal,-,-
+503,15,Swords Dance,57,normal,-,-
+503,16,Swords Dance,57,normal,-,-
+503,11,Hydro Pump,62,water,110,80
+503,14,Hydro Pump,62,water,110,80
+503,15,Hydro Pump,62,water,110,80
+503,16,Hydro Pump,62,water,110,80

@@ -1,0 +1,182 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+98,1,Leer,1,normal,-,100
+98,1,Bubble,1,water,40,100
+98,2,Leer,1,normal,-,100
+98,2,Bubble,1,water,40,100
+98,3,Bubble,1,water,40,100
+98,4,Bubble,1,water,40,100
+98,5,Bubble,1,water,40,100
+98,6,Bubble,1,water,40,100
+98,7,Bubble,1,water,40,100
+98,8,Bubble,1,water,40,100
+98,8,Mud Sport,1,ground,-,-
+98,9,Bubble,1,water,40,100
+98,9,Mud Sport,1,ground,-,-
+98,10,Bubble,1,water,40,100
+98,10,Mud Sport,1,ground,-,-
+98,11,Bubble,1,water,40,100
+98,11,Mud Sport,1,ground,-,-
+98,12,Bubble,1,water,40,100
+98,13,Bubble,1,water,40,100
+98,14,Bubble,1,water,40,100
+98,14,Mud Sport,1,ground,-,-
+98,15,Bubble,1,water,40,100
+98,15,Mud Sport,1,ground,-,-
+98,16,Bubble,1,water,40,100
+98,16,Mud Sport,1,ground,-,-
+98,3,Leer,5,normal,-,100
+98,4,Leer,5,normal,-,100
+98,5,Leer,5,normal,-,100
+98,6,Leer,5,normal,-,100
+98,7,Leer,5,normal,-,100
+98,8,Vice Grip,5,normal,55,100
+98,9,Vice Grip,5,normal,55,100
+98,10,Vice Grip,5,normal,55,100
+98,11,Vice Grip,5,normal,55,100
+98,12,Leer,5,normal,-,100
+98,13,Leer,5,normal,-,100
+98,14,Vice Grip,5,normal,55,100
+98,15,Vice Grip,5,normal,55,100
+98,16,Vice Grip,5,normal,55,100
+98,8,Leer,9,normal,-,100
+98,9,Leer,9,normal,-,100
+98,10,Leer,9,normal,-,100
+98,11,Leer,9,normal,-,100
+98,14,Leer,9,normal,-,100
+98,15,Leer,9,normal,-,100
+98,16,Leer,9,normal,-,100
+98,8,Harden,11,normal,-,-
+98,9,Harden,11,normal,-,-
+98,10,Harden,11,normal,-,-
+98,11,Harden,11,normal,-,-
+98,14,Harden,11,normal,-,-
+98,15,Harden,11,normal,-,-
+98,16,Harden,11,normal,-,-
+98,3,Vice Grip,12,normal,55,100
+98,4,Vice Grip,12,normal,55,100
+98,5,Vice Grip,12,normal,55,100
+98,6,Vice Grip,12,normal,55,100
+98,7,Vice Grip,12,normal,55,100
+98,12,Vice Grip,12,normal,55,100
+98,13,Vice Grip,12,normal,55,100
+98,8,Bubble Beam,15,water,65,100
+98,9,Bubble Beam,15,water,65,100
+98,10,Bubble Beam,15,water,65,100
+98,11,Bubble Beam,15,water,65,100
+98,14,Bubble Beam,15,water,65,100
+98,15,Bubble Beam,15,water,65,100
+98,16,Bubble Beam,15,water,65,100
+98,3,Harden,16,normal,-,-
+98,4,Harden,16,normal,-,-
+98,5,Harden,16,normal,-,-
+98,6,Harden,16,normal,-,-
+98,7,Harden,16,normal,-,-
+98,12,Harden,16,normal,-,-
+98,13,Harden,16,normal,-,-
+98,8,Mud Shot,19,ground,55,95
+98,9,Mud Shot,19,ground,55,95
+98,10,Mud Shot,19,ground,55,95
+98,11,Mud Shot,19,ground,55,95
+98,14,Mud Shot,19,ground,55,95
+98,15,Mud Shot,19,ground,55,95
+98,16,Mud Shot,19,ground,55,95
+98,1,Vice Grip,20,normal,55,100
+98,2,Vice Grip,20,normal,55,100
+98,8,Metal Claw,21,steel,50,95
+98,9,Metal Claw,21,steel,50,95
+98,10,Metal Claw,21,steel,50,95
+98,11,Metal Claw,21,steel,50,95
+98,14,Metal Claw,21,steel,50,95
+98,15,Metal Claw,21,steel,50,95
+98,16,Metal Claw,21,steel,50,95
+98,3,Stomp,23,normal,65,100
+98,4,Stomp,23,normal,65,100
+98,5,Mud Shot,23,ground,55,95
+98,6,Mud Shot,23,ground,55,95
+98,7,Mud Shot,23,ground,55,95
+98,12,Mud Shot,23,ground,55,95
+98,13,Mud Shot,23,ground,55,95
+98,1,Guillotine,25,normal,-,30
+98,2,Guillotine,25,normal,-,30
+98,8,Stomp,25,normal,65,100
+98,9,Stomp,25,normal,65,100
+98,10,Stomp,25,normal,65,100
+98,11,Stomp,25,normal,65,100
+98,14,Stomp,25,normal,65,100
+98,15,Stomp,25,normal,65,100
+98,16,Stomp,25,normal,65,100
+98,3,Guillotine,27,normal,-,30
+98,4,Guillotine,27,normal,-,30
+98,5,Stomp,27,normal,65,100
+98,6,Stomp,27,normal,65,100
+98,7,Stomp,27,normal,65,100
+98,12,Stomp,27,normal,65,100
+98,13,Stomp,27,normal,65,100
+98,8,Protect,29,normal,-,-
+98,9,Protect,29,normal,-,-
+98,10,Protect,29,normal,-,-
+98,11,Protect,29,normal,-,-
+98,14,Protect,29,normal,-,-
+98,15,Protect,29,normal,-,-
+98,16,Protect,29,normal,-,-
+98,1,Stomp,30,normal,65,100
+98,2,Stomp,30,normal,65,100
+98,8,Guillotine,31,normal,-,30
+98,9,Guillotine,31,normal,-,30
+98,10,Guillotine,31,normal,-,30
+98,11,Guillotine,31,normal,-,30
+98,14,Guillotine,31,normal,-,30
+98,15,Guillotine,31,normal,-,30
+98,16,Guillotine,31,normal,-,30
+98,3,Protect,34,normal,-,-
+98,4,Protect,34,normal,-,-
+98,5,Guillotine,34,normal,-,30
+98,6,Guillotine,34,normal,-,30
+98,7,Guillotine,34,normal,-,30
+98,12,Guillotine,34,normal,-,30
+98,13,Guillotine,34,normal,-,30
+98,1,Crabhammer,35,water,100,90
+98,2,Crabhammer,35,water,100,90
+98,8,Slam,35,normal,80,75
+98,9,Slam,35,normal,80,75
+98,10,Slam,35,normal,80,75
+98,11,Slam,35,normal,80,75
+98,14,Slam,35,normal,80,75
+98,15,Slam,35,normal,80,75
+98,16,Slam,35,normal,80,75
+98,7,Protect,38,normal,-,-
+98,8,Brine,39,water,65,100
+98,9,Brine,39,water,65,100
+98,10,Brine,39,water,65,100
+98,11,Brine,39,water,65,100
+98,14,Brine,39,water,65,100
+98,15,Brine,39,water,65,100
+98,16,Brine,39,water,65,100
+98,1,Harden,40,normal,-,-
+98,2,Harden,40,normal,-,-
+98,3,Crabhammer,41,water,100,90
+98,4,Crabhammer,41,water,100,90
+98,5,Protect,41,normal,-,-
+98,6,Protect,41,normal,-,-
+98,8,Crabhammer,41,water,100,90
+98,9,Crabhammer,41,water,100,90
+98,10,Crabhammer,41,water,100,90
+98,11,Crabhammer,41,water,100,90
+98,12,Protect,41,normal,-,-
+98,13,Protect,41,normal,-,-
+98,14,Crabhammer,41,water,100,90
+98,15,Crabhammer,41,water,100,90
+98,16,Crabhammer,41,water,100,90
+98,5,Crabhammer,45,water,100,90
+98,6,Crabhammer,45,water,100,90
+98,7,Crabhammer,45,water,100,90
+98,8,Flail,45,normal,-,100
+98,9,Flail,45,normal,-,100
+98,10,Flail,45,normal,-,100
+98,11,Flail,45,normal,-,100
+98,12,Crabhammer,45,water,100,90
+98,13,Crabhammer,45,water,100,90
+98,14,Flail,45,normal,-,100
+98,15,Flail,45,normal,-,100
+98,16,Flail,45,normal,-,100
+98,7,Flail,49,normal,-,100

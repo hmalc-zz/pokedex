@@ -1,0 +1,192 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+264,5,Headbutt,1,normal,70,100
+264,5,Tackle,1,normal,50,100
+264,5,Tail Whip,1,normal,-,100
+264,5,Growl,1,normal,-,100
+264,6,Headbutt,1,normal,70,100
+264,6,Tackle,1,normal,50,100
+264,6,Tail Whip,1,normal,-,100
+264,6,Growl,1,normal,-,100
+264,7,Headbutt,1,normal,70,100
+264,7,Tackle,1,normal,50,100
+264,7,Tail Whip,1,normal,-,100
+264,7,Growl,1,normal,-,100
+264,8,Headbutt,1,normal,70,100
+264,8,Tackle,1,normal,50,100
+264,8,Tail Whip,1,normal,-,100
+264,8,Growl,1,normal,-,100
+264,8,Switcheroo,1,dark,-,100
+264,9,Headbutt,1,normal,70,100
+264,9,Tackle,1,normal,50,100
+264,9,Tail Whip,1,normal,-,100
+264,9,Growl,1,normal,-,100
+264,9,Switcheroo,1,dark,-,100
+264,10,Headbutt,1,normal,70,100
+264,10,Tackle,1,normal,50,100
+264,10,Tail Whip,1,normal,-,100
+264,10,Growl,1,normal,-,100
+264,10,Switcheroo,1,dark,-,100
+264,11,Headbutt,1,normal,70,100
+264,11,Tackle,1,normal,50,100
+264,11,Tail Whip,1,normal,-,100
+264,11,Growl,1,normal,-,100
+264,11,Switcheroo,1,dark,-,100
+264,12,Headbutt,1,normal,70,100
+264,12,Tackle,1,normal,50,100
+264,12,Tail Whip,1,normal,-,100
+264,12,Growl,1,normal,-,100
+264,13,Headbutt,1,normal,70,100
+264,13,Tackle,1,normal,50,100
+264,13,Tail Whip,1,normal,-,100
+264,13,Growl,1,normal,-,100
+264,14,Headbutt,1,normal,70,100
+264,14,Tackle,1,normal,50,100
+264,14,Tail Whip,1,normal,-,100
+264,14,Growl,1,normal,-,100
+264,14,Switcheroo,1,dark,-,100
+264,15,Headbutt,1,normal,70,100
+264,15,Tackle,1,normal,50,100
+264,15,Tail Whip,1,normal,-,100
+264,15,Growl,1,normal,-,100
+264,15,Switcheroo,1,dark,-,100
+264,15,Rototiller,1,ground,-,-
+264,15,Play Rough,1,fairy,90,90
+264,16,Sand Attack,1,ground,-,100
+264,16,Tackle,1,normal,50,100
+264,16,Tail Whip,1,normal,-,100
+264,16,Growl,1,normal,-,100
+264,16,Switcheroo,1,dark,-,100
+264,16,Rototiller,1,ground,-,-
+264,16,Play Rough,1,fairy,90,90
+264,5,Tail Whip,5,normal,-,100
+264,6,Tail Whip,5,normal,-,100
+264,7,Tail Whip,5,normal,-,100
+264,8,Tail Whip,5,normal,-,100
+264,9,Tail Whip,5,normal,-,100
+264,10,Tail Whip,5,normal,-,100
+264,11,Tail Whip,5,normal,-,100
+264,12,Tail Whip,5,normal,-,100
+264,13,Tail Whip,5,normal,-,100
+264,14,Tail Whip,5,normal,-,100
+264,15,Tail Whip,5,normal,-,100
+264,16,Tail Whip,5,normal,-,100
+264,16,Sand Attack,7,ground,-,100
+264,5,Headbutt,9,normal,70,100
+264,6,Headbutt,9,normal,70,100
+264,7,Headbutt,9,normal,70,100
+264,8,Headbutt,9,normal,70,100
+264,9,Headbutt,9,normal,70,100
+264,10,Headbutt,9,normal,70,100
+264,11,Headbutt,9,normal,70,100
+264,12,Headbutt,9,normal,70,100
+264,13,Headbutt,9,normal,70,100
+264,14,Headbutt,9,normal,70,100
+264,15,Headbutt,9,normal,70,100
+264,16,Headbutt,11,normal,70,100
+264,5,Sand Attack,13,ground,-,100
+264,6,Sand Attack,13,ground,-,100
+264,7,Sand Attack,13,ground,-,100
+264,8,Sand Attack,13,ground,-,100
+264,9,Sand Attack,13,ground,-,100
+264,10,Sand Attack,13,ground,-,100
+264,11,Sand Attack,13,ground,-,100
+264,12,Sand Attack,13,ground,-,100
+264,13,Sand Attack,13,ground,-,100
+264,14,Sand Attack,13,ground,-,100
+264,15,Sand Attack,13,ground,-,100
+264,16,Odor Sleuth,13,normal,-,-
+264,5,Odor Sleuth,17,normal,-,-
+264,6,Odor Sleuth,17,normal,-,-
+264,7,Odor Sleuth,17,normal,-,-
+264,8,Odor Sleuth,17,normal,-,-
+264,9,Odor Sleuth,17,normal,-,-
+264,10,Odor Sleuth,17,normal,-,-
+264,11,Odor Sleuth,17,normal,-,-
+264,12,Odor Sleuth,17,normal,-,-
+264,13,Odor Sleuth,17,normal,-,-
+264,14,Odor Sleuth,17,normal,-,-
+264,15,Odor Sleuth,17,normal,-,-
+264,16,Mud Sport,17,ground,-,-
+264,16,Fury Swipes,19,normal,18,80
+264,5,Mud Sport,23,ground,-,-
+264,6,Mud Sport,23,ground,-,-
+264,7,Mud Sport,23,ground,-,-
+264,8,Mud Sport,23,ground,-,-
+264,9,Mud Sport,23,ground,-,-
+264,10,Mud Sport,23,ground,-,-
+264,11,Mud Sport,23,ground,-,-
+264,12,Mud Sport,23,ground,-,-
+264,13,Mud Sport,23,ground,-,-
+264,14,Mud Sport,23,ground,-,-
+264,15,Mud Sport,23,ground,-,-
+264,16,Covet,24,normal,60,100
+264,16,Bestow,27,normal,-,-
+264,5,Fury Swipes,29,normal,18,80
+264,6,Fury Swipes,29,normal,18,80
+264,7,Fury Swipes,29,normal,18,80
+264,8,Fury Swipes,29,normal,18,80
+264,9,Fury Swipes,29,normal,18,80
+264,10,Fury Swipes,29,normal,18,80
+264,11,Fury Swipes,29,normal,18,80
+264,12,Fury Swipes,29,normal,18,80
+264,13,Fury Swipes,29,normal,18,80
+264,14,Fury Swipes,29,normal,18,80
+264,15,Fury Swipes,29,normal,18,80
+264,16,Slash,32,normal,70,100
+264,5,Covet,35,normal,60,100
+264,6,Covet,35,normal,60,100
+264,7,Covet,35,normal,60,100
+264,8,Covet,35,normal,60,100
+264,9,Covet,35,normal,60,100
+264,10,Covet,35,normal,60,100
+264,11,Covet,35,normal,60,100
+264,12,Covet,35,normal,60,100
+264,13,Covet,35,normal,60,100
+264,14,Covet,35,normal,60,100
+264,15,Covet,35,normal,60,100
+264,16,Double-Edge,35,normal,120,100
+264,16,Rest,40,psychic,-,-
+264,5,Slash,41,normal,70,100
+264,6,Slash,41,normal,70,100
+264,7,Slash,41,normal,70,100
+264,8,Slash,41,normal,70,100
+264,9,Slash,41,normal,70,100
+264,10,Slash,41,normal,70,100
+264,11,Bestow,41,normal,-,-
+264,12,Slash,41,normal,70,100
+264,13,Slash,41,normal,70,100
+264,14,Bestow,41,normal,-,-
+264,15,Bestow,41,normal,-,-
+264,16,Belly Drum,43,normal,-,-
+264,5,Rest,47,psychic,-,-
+264,6,Rest,47,psychic,-,-
+264,7,Rest,47,psychic,-,-
+264,8,Rest,47,psychic,-,-
+264,9,Rest,47,psychic,-,-
+264,10,Rest,47,psychic,-,-
+264,11,Slash,47,normal,70,100
+264,12,Rest,47,psychic,-,-
+264,13,Rest,47,psychic,-,-
+264,14,Slash,47,normal,70,100
+264,15,Slash,47,normal,70,100
+264,16,Fling,48,dark,-,100
+264,5,Belly Drum,53,normal,-,-
+264,6,Belly Drum,53,normal,-,-
+264,7,Belly Drum,53,normal,-,-
+264,8,Belly Drum,53,normal,-,-
+264,9,Belly Drum,53,normal,-,-
+264,10,Belly Drum,53,normal,-,-
+264,11,Rest,53,psychic,-,-
+264,12,Belly Drum,53,normal,-,-
+264,13,Belly Drum,53,normal,-,-
+264,14,Rest,53,psychic,-,-
+264,15,Rest,53,psychic,-,-
+264,8,Fling,59,dark,-,100
+264,9,Fling,59,dark,-,100
+264,10,Fling,59,dark,-,100
+264,11,Belly Drum,59,normal,-,-
+264,14,Belly Drum,59,normal,-,-
+264,15,Belly Drum,59,normal,-,-
+264,11,Fling,65,dark,-,100
+264,14,Fling,65,dark,-,100
+264,15,Fling,65,dark,-,100

@@ -1,0 +1,37 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+716,15,Take Down,1,normal,90,85
+716,15,Ingrain,1,grass,-,-
+716,15,Aromatherapy,1,grass,-,-
+716,15,Heal Pulse,1,psychic,-,-
+716,16,Take Down,1,normal,90,85
+716,16,Ingrain,1,grass,-,-
+716,16,Aromatherapy,1,grass,-,-
+716,16,Heal Pulse,1,psychic,-,-
+716,15,Light Screen,5,psychic,-,-
+716,16,Light Screen,5,psychic,-,-
+716,15,Aurora Beam,10,ice,65,100
+716,16,Aurora Beam,10,ice,65,100
+716,15,Gravity,18,psychic,-,-
+716,16,Gravity,18,psychic,-,-
+716,15,Geomancy,26,fairy,-,-
+716,16,Geomancy,26,fairy,-,-
+716,15,Moonblast,35,fairy,95,100
+716,16,Moonblast,35,fairy,95,100
+716,15,Megahorn,44,bug,120,85
+716,16,Megahorn,44,bug,120,85
+716,15,Night Slash,51,dark,70,100
+716,16,Night Slash,51,dark,70,100
+716,15,Horn Leech,55,grass,75,100
+716,16,Horn Leech,55,grass,75,100
+716,15,Psych Up,59,normal,-,-
+716,16,Psych Up,59,normal,-,-
+716,15,Misty Terrain,63,fairy,-,-
+716,16,Misty Terrain,63,fairy,-,-
+716,15,Nature Power,72,normal,-,-
+716,16,Nature Power,72,normal,-,-
+716,15,Close Combat,80,fighting,120,100
+716,16,Close Combat,80,fighting,120,100
+716,15,Giga Impact,88,normal,150,90
+716,16,Giga Impact,88,normal,150,90
+716,15,Outrage,93,dragon,120,100
+716,16,Outrage,93,dragon,120,100

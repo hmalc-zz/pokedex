@@ -1,0 +1,103 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+398,8,Wing Attack,1,flying,60,100
+398,8,Tackle,1,normal,50,100
+398,8,Growl,1,normal,-,100
+398,8,Quick Attack,1,normal,40,100
+398,9,Wing Attack,1,flying,60,100
+398,9,Tackle,1,normal,50,100
+398,9,Growl,1,normal,-,100
+398,9,Quick Attack,1,normal,40,100
+398,10,Wing Attack,1,flying,60,100
+398,10,Tackle,1,normal,50,100
+398,10,Growl,1,normal,-,100
+398,10,Quick Attack,1,normal,40,100
+398,11,Wing Attack,1,flying,60,100
+398,11,Tackle,1,normal,50,100
+398,11,Growl,1,normal,-,100
+398,11,Quick Attack,1,normal,40,100
+398,14,Wing Attack,1,flying,60,100
+398,14,Tackle,1,normal,50,100
+398,14,Growl,1,normal,-,100
+398,14,Quick Attack,1,normal,40,100
+398,15,Wing Attack,1,flying,60,100
+398,15,Tackle,1,normal,50,100
+398,15,Growl,1,normal,-,100
+398,15,Quick Attack,1,normal,40,100
+398,16,Wing Attack,1,flying,60,100
+398,16,Tackle,1,normal,50,100
+398,16,Growl,1,normal,-,100
+398,16,Quick Attack,1,normal,40,100
+398,8,Quick Attack,5,normal,40,100
+398,9,Quick Attack,5,normal,40,100
+398,10,Quick Attack,5,normal,40,100
+398,11,Quick Attack,5,normal,40,100
+398,14,Quick Attack,5,normal,40,100
+398,15,Quick Attack,5,normal,40,100
+398,16,Quick Attack,5,normal,40,100
+398,8,Wing Attack,9,flying,60,100
+398,9,Wing Attack,9,flying,60,100
+398,10,Wing Attack,9,flying,60,100
+398,11,Wing Attack,9,flying,60,100
+398,14,Wing Attack,9,flying,60,100
+398,15,Wing Attack,9,flying,60,100
+398,16,Wing Attack,9,flying,60,100
+398,8,Double Team,13,normal,-,-
+398,9,Double Team,13,normal,-,-
+398,10,Double Team,13,normal,-,-
+398,11,Double Team,13,normal,-,-
+398,14,Double Team,13,normal,-,-
+398,15,Double Team,13,normal,-,-
+398,16,Double Team,13,normal,-,-
+398,8,Endeavor,18,normal,-,100
+398,9,Endeavor,18,normal,-,100
+398,10,Endeavor,18,normal,-,100
+398,11,Endeavor,18,normal,-,100
+398,14,Endeavor,18,normal,-,100
+398,15,Endeavor,18,normal,-,100
+398,16,Endeavor,18,normal,-,100
+398,8,Whirlwind,23,normal,-,-
+398,9,Whirlwind,23,normal,-,-
+398,10,Whirlwind,23,normal,-,-
+398,11,Whirlwind,23,normal,-,-
+398,14,Whirlwind,23,normal,-,-
+398,15,Whirlwind,23,normal,-,-
+398,16,Whirlwind,23,normal,-,-
+398,8,Aerial Ace,28,flying,60,-
+398,9,Aerial Ace,28,flying,60,-
+398,10,Aerial Ace,28,flying,60,-
+398,11,Aerial Ace,28,flying,60,-
+398,14,Aerial Ace,28,flying,60,-
+398,15,Aerial Ace,28,flying,60,-
+398,16,Aerial Ace,28,flying,60,-
+398,8,Take Down,33,normal,90,85
+398,9,Take Down,33,normal,90,85
+398,10,Take Down,33,normal,90,85
+398,11,Take Down,33,normal,90,85
+398,14,Take Down,33,normal,90,85
+398,15,Take Down,33,normal,90,85
+398,16,Take Down,33,normal,90,85
+398,8,Close Combat,34,fighting,120,100
+398,9,Close Combat,34,fighting,120,100
+398,10,Close Combat,34,fighting,120,100
+398,11,Close Combat,34,fighting,120,100
+398,14,Close Combat,34,fighting,120,100
+398,15,Close Combat,34,fighting,120,100
+398,16,Close Combat,34,fighting,120,100
+398,8,Agility,41,psychic,-,-
+398,9,Agility,41,psychic,-,-
+398,10,Agility,41,psychic,-,-
+398,11,Agility,41,psychic,-,-
+398,14,Agility,41,psychic,-,-
+398,15,Agility,41,psychic,-,-
+398,16,Agility,41,psychic,-,-
+398,8,Brave Bird,49,flying,120,100
+398,9,Brave Bird,49,flying,120,100
+398,10,Brave Bird,49,flying,120,100
+398,11,Brave Bird,49,flying,120,100
+398,14,Brave Bird,49,flying,120,100
+398,15,Brave Bird,49,flying,120,100
+398,16,Brave Bird,49,flying,120,100
+398,11,Final Gambit,57,fighting,-,100
+398,14,Final Gambit,57,fighting,-,100
+398,15,Final Gambit,57,fighting,-,100
+398,16,Final Gambit,57,fighting,-,100

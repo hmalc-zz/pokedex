@@ -1,0 +1,180 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+69,1,Vine Whip,1,grass,45,100
+69,1,Growth,1,normal,-,-
+69,2,Vine Whip,1,grass,45,100
+69,2,Growth,1,normal,-,-
+69,3,Vine Whip,1,grass,45,100
+69,4,Vine Whip,1,grass,45,100
+69,5,Vine Whip,1,grass,45,100
+69,6,Vine Whip,1,grass,45,100
+69,7,Vine Whip,1,grass,45,100
+69,8,Vine Whip,1,grass,45,100
+69,9,Vine Whip,1,grass,45,100
+69,10,Vine Whip,1,grass,45,100
+69,11,Vine Whip,1,grass,45,100
+69,12,Vine Whip,1,grass,45,100
+69,13,Vine Whip,1,grass,45,100
+69,14,Vine Whip,1,grass,45,100
+69,15,Vine Whip,1,grass,45,100
+69,16,Vine Whip,1,grass,45,100
+69,3,Growth,6,normal,-,-
+69,4,Growth,6,normal,-,-
+69,5,Growth,6,normal,-,-
+69,6,Growth,6,normal,-,-
+69,7,Growth,6,normal,-,-
+69,12,Growth,6,normal,-,-
+69,13,Growth,6,normal,-,-
+69,8,Growth,7,normal,-,-
+69,9,Growth,7,normal,-,-
+69,10,Growth,7,normal,-,-
+69,11,Growth,7,normal,-,-
+69,14,Growth,7,normal,-,-
+69,15,Growth,7,normal,-,-
+69,16,Growth,7,normal,-,-
+69,3,Wrap,11,normal,15,90
+69,4,Wrap,11,normal,15,90
+69,5,Wrap,11,normal,15,90
+69,6,Wrap,11,normal,15,90
+69,7,Wrap,11,normal,15,90
+69,8,Wrap,11,normal,15,90
+69,9,Wrap,11,normal,15,90
+69,10,Wrap,11,normal,15,90
+69,11,Wrap,11,normal,15,90
+69,12,Wrap,11,normal,15,90
+69,13,Wrap,11,normal,15,90
+69,14,Wrap,11,normal,15,90
+69,15,Wrap,11,normal,15,90
+69,16,Wrap,11,normal,15,90
+69,1,Wrap,13,normal,15,90
+69,2,Wrap,13,normal,15,90
+69,8,Sleep Powder,13,grass,-,75
+69,9,Sleep Powder,13,grass,-,75
+69,10,Sleep Powder,13,grass,-,75
+69,11,Sleep Powder,13,grass,-,75
+69,14,Sleep Powder,13,grass,-,75
+69,15,Sleep Powder,13,grass,-,75
+69,16,Sleep Powder,13,grass,-,75
+69,1,Poison Powder,15,poison,-,75
+69,2,Poison Powder,15,poison,-,75
+69,3,Sleep Powder,15,grass,-,75
+69,4,Sleep Powder,15,grass,-,75
+69,5,Sleep Powder,15,grass,-,75
+69,6,Sleep Powder,15,grass,-,75
+69,7,Sleep Powder,15,grass,-,75
+69,8,Poison Powder,15,poison,-,75
+69,9,Poison Powder,15,poison,-,75
+69,10,Poison Powder,15,poison,-,75
+69,11,Poison Powder,15,poison,-,75
+69,12,Sleep Powder,15,grass,-,75
+69,13,Sleep Powder,15,grass,-,75
+69,14,Poison Powder,15,poison,-,75
+69,15,Poison Powder,15,poison,-,75
+69,16,Poison Powder,15,poison,-,75
+69,3,Poison Powder,17,poison,-,75
+69,4,Poison Powder,17,poison,-,75
+69,5,Poison Powder,17,poison,-,75
+69,6,Poison Powder,17,poison,-,75
+69,7,Poison Powder,17,poison,-,75
+69,8,Stun Spore,17,grass,-,75
+69,9,Stun Spore,17,grass,-,75
+69,10,Stun Spore,17,grass,-,75
+69,11,Stun Spore,17,grass,-,75
+69,12,Poison Powder,17,poison,-,75
+69,13,Poison Powder,17,poison,-,75
+69,14,Stun Spore,17,grass,-,75
+69,15,Stun Spore,17,grass,-,75
+69,16,Stun Spore,17,grass,-,75
+69,1,Sleep Powder,18,grass,-,75
+69,2,Sleep Powder,18,grass,-,75
+69,3,Stun Spore,19,grass,-,75
+69,4,Stun Spore,19,grass,-,75
+69,5,Stun Spore,19,grass,-,75
+69,6,Stun Spore,19,grass,-,75
+69,7,Stun Spore,19,grass,-,75
+69,12,Stun Spore,19,grass,-,75
+69,13,Stun Spore,19,grass,-,75
+69,1,Stun Spore,21,grass,-,75
+69,2,Stun Spore,21,grass,-,75
+69,3,Acid,23,poison,40,100
+69,4,Acid,23,poison,40,100
+69,5,Acid,23,poison,40,100
+69,6,Acid,23,poison,40,100
+69,7,Acid,23,poison,40,100
+69,8,Acid,23,poison,40,100
+69,9,Acid,23,poison,40,100
+69,10,Acid,23,poison,40,100
+69,11,Acid,23,poison,40,100
+69,12,Acid,23,poison,40,100
+69,13,Acid,23,poison,40,100
+69,14,Acid,23,poison,40,100
+69,15,Acid,23,poison,40,100
+69,16,Acid,23,poison,40,100
+69,1,Acid,26,poison,40,100
+69,2,Acid,26,poison,40,100
+69,8,Knock Off,27,dark,65,100
+69,9,Knock Off,27,dark,65,100
+69,10,Knock Off,27,dark,65,100
+69,11,Knock Off,27,dark,65,100
+69,14,Knock Off,27,dark,65,100
+69,15,Knock Off,27,dark,65,100
+69,16,Knock Off,27,dark,65,100
+69,8,Sweet Scent,29,normal,-,100
+69,9,Sweet Scent,29,normal,-,100
+69,10,Sweet Scent,29,normal,-,100
+69,11,Sweet Scent,29,normal,-,100
+69,14,Sweet Scent,29,normal,-,100
+69,15,Sweet Scent,29,normal,-,100
+69,16,Sweet Scent,29,normal,-,100
+69,3,Sweet Scent,30,normal,-,100
+69,4,Sweet Scent,30,normal,-,100
+69,5,Sweet Scent,30,normal,-,100
+69,6,Sweet Scent,30,normal,-,100
+69,7,Sweet Scent,30,normal,-,100
+69,12,Sweet Scent,30,normal,-,100
+69,13,Sweet Scent,30,normal,-,100
+69,1,Razor Leaf,33,grass,55,95
+69,2,Razor Leaf,33,grass,55,95
+69,8,Gastro Acid,35,poison,-,100
+69,9,Gastro Acid,35,poison,-,100
+69,10,Gastro Acid,35,poison,-,100
+69,11,Gastro Acid,35,poison,-,100
+69,14,Gastro Acid,35,poison,-,100
+69,15,Gastro Acid,35,poison,-,100
+69,16,Gastro Acid,35,poison,-,100
+69,3,Razor Leaf,37,grass,55,95
+69,4,Razor Leaf,37,grass,55,95
+69,5,Razor Leaf,37,grass,55,95
+69,6,Razor Leaf,37,grass,55,95
+69,7,Razor Leaf,37,grass,55,95
+69,12,Razor Leaf,37,grass,55,95
+69,13,Razor Leaf,37,grass,55,95
+69,8,Razor Leaf,39,grass,55,95
+69,9,Razor Leaf,39,grass,55,95
+69,10,Razor Leaf,39,grass,55,95
+69,11,Razor Leaf,39,grass,55,95
+69,14,Razor Leaf,39,grass,55,95
+69,15,Razor Leaf,39,grass,55,95
+69,16,Razor Leaf,39,grass,55,95
+69,8,Slam,41,normal,80,75
+69,9,Slam,41,normal,80,75
+69,10,Slam,41,normal,80,75
+69,11,Slam,41,normal,80,75
+69,14,Slam,41,normal,80,75
+69,15,Slam,41,normal,80,75
+69,16,Slam,41,normal,80,75
+69,1,Slam,42,normal,80,75
+69,2,Slam,42,normal,80,75
+69,3,Slam,45,normal,80,75
+69,4,Slam,45,normal,80,75
+69,5,Slam,45,normal,80,75
+69,6,Slam,45,normal,80,75
+69,7,Slam,45,normal,80,75
+69,12,Slam,45,normal,80,75
+69,13,Slam,45,normal,80,75
+69,8,Wring Out,47,normal,-,100
+69,9,Wring Out,47,normal,-,100
+69,10,Wring Out,47,normal,-,100
+69,11,Wring Out,47,normal,-,100
+69,14,Wring Out,47,normal,-,100
+69,15,Wring Out,47,normal,-,100
+69,16,Wring Out,47,normal,-,100

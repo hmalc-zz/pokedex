@@ -1,0 +1,191 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+260,5,Tackle,1,normal,50,100
+260,5,Growl,1,normal,-,100
+260,5,Water Gun,1,water,40,100
+260,5,Mud-Slap,1,ground,20,100
+260,6,Tackle,1,normal,50,100
+260,6,Growl,1,normal,-,100
+260,6,Water Gun,1,water,40,100
+260,6,Mud-Slap,1,ground,20,100
+260,7,Tackle,1,normal,50,100
+260,7,Growl,1,normal,-,100
+260,7,Water Gun,1,water,40,100
+260,7,Mud-Slap,1,ground,20,100
+260,8,Tackle,1,normal,50,100
+260,8,Growl,1,normal,-,100
+260,8,Water Gun,1,water,40,100
+260,8,Mud-Slap,1,ground,20,100
+260,9,Tackle,1,normal,50,100
+260,9,Growl,1,normal,-,100
+260,9,Water Gun,1,water,40,100
+260,9,Mud-Slap,1,ground,20,100
+260,10,Tackle,1,normal,50,100
+260,10,Growl,1,normal,-,100
+260,10,Water Gun,1,water,40,100
+260,10,Mud-Slap,1,ground,20,100
+260,11,Tackle,1,normal,50,100
+260,11,Growl,1,normal,-,100
+260,11,Water Gun,1,water,40,100
+260,11,Mud-Slap,1,ground,20,100
+260,12,Tackle,1,normal,50,100
+260,12,Growl,1,normal,-,100
+260,12,Water Gun,1,water,40,100
+260,12,Mud-Slap,1,ground,20,100
+260,13,Tackle,1,normal,50,100
+260,13,Growl,1,normal,-,100
+260,13,Water Gun,1,water,40,100
+260,13,Mud-Slap,1,ground,20,100
+260,14,Tackle,1,normal,50,100
+260,14,Growl,1,normal,-,100
+260,14,Water Gun,1,water,40,100
+260,14,Mud-Slap,1,ground,20,100
+260,15,Tackle,1,normal,50,100
+260,15,Growl,1,normal,-,100
+260,15,Water Gun,1,water,40,100
+260,15,Mud-Slap,1,ground,20,100
+260,15,Hammer Arm,1,fighting,100,90
+260,16,Tackle,1,normal,50,100
+260,16,Growl,1,normal,-,100
+260,16,Water Gun,1,water,40,100
+260,16,Mud-Slap,1,ground,20,100
+260,16,Hammer Arm,1,fighting,100,90
+260,16,Water Gun,4,water,40,100
+260,5,Mud-Slap,6,ground,20,100
+260,6,Mud-Slap,6,ground,20,100
+260,7,Mud-Slap,6,ground,20,100
+260,8,Mud-Slap,6,ground,20,100
+260,9,Mud-Slap,6,ground,20,100
+260,10,Mud-Slap,6,ground,20,100
+260,11,Mud-Slap,6,ground,20,100
+260,12,Mud-Slap,6,ground,20,100
+260,13,Mud-Slap,6,ground,20,100
+260,14,Mud-Slap,6,ground,20,100
+260,15,Mud-Slap,6,ground,20,100
+260,16,Mud-Slap,9,ground,20,100
+260,5,Water Gun,10,water,40,100
+260,6,Water Gun,10,water,40,100
+260,7,Water Gun,10,water,40,100
+260,8,Water Gun,10,water,40,100
+260,9,Water Gun,10,water,40,100
+260,10,Water Gun,10,water,40,100
+260,11,Water Gun,10,water,40,100
+260,12,Water Gun,10,water,40,100
+260,13,Water Gun,10,water,40,100
+260,14,Water Gun,10,water,40,100
+260,15,Water Gun,10,water,40,100
+260,16,Foresight,12,normal,-,-
+260,5,Bide,15,normal,-,-
+260,6,Bide,15,normal,-,-
+260,7,Bide,15,normal,-,-
+260,8,Bide,15,normal,-,-
+260,9,Bide,15,normal,-,-
+260,10,Bide,15,normal,-,-
+260,11,Bide,15,normal,-,-
+260,12,Bide,15,normal,-,-
+260,13,Bide,15,normal,-,-
+260,14,Bide,15,normal,-,-
+260,15,Bide,15,normal,-,-
+260,5,Mud Shot,16,ground,55,95
+260,6,Mud Shot,16,ground,55,95
+260,7,Mud Shot,16,ground,55,95
+260,8,Mud Shot,16,ground,55,95
+260,9,Mud Shot,16,ground,55,95
+260,10,Mud Shot,16,ground,55,95
+260,11,Mud Shot,16,ground,55,95
+260,12,Mud Shot,16,ground,55,95
+260,13,Mud Shot,16,ground,55,95
+260,14,Mud Shot,16,ground,55,95
+260,15,Mud Shot,16,ground,55,95
+260,16,Mud Shot,16,ground,55,95
+260,16,Bide,18,normal,-,-
+260,5,Foresight,20,normal,-,-
+260,6,Foresight,20,normal,-,-
+260,7,Foresight,20,normal,-,-
+260,8,Foresight,20,normal,-,-
+260,9,Foresight,20,normal,-,-
+260,10,Foresight,20,normal,-,-
+260,11,Foresight,20,normal,-,-
+260,12,Foresight,20,normal,-,-
+260,13,Foresight,20,normal,-,-
+260,14,Foresight,20,normal,-,-
+260,15,Foresight,20,normal,-,-
+260,16,Mud Bomb,22,ground,65,85
+260,5,Mud Sport,25,ground,-,-
+260,6,Mud Sport,25,ground,-,-
+260,7,Mud Sport,25,ground,-,-
+260,8,Mud Bomb,25,ground,65,85
+260,9,Mud Bomb,25,ground,65,85
+260,10,Mud Bomb,25,ground,65,85
+260,11,Mud Bomb,25,ground,65,85
+260,12,Mud Sport,25,ground,-,-
+260,13,Mud Sport,25,ground,-,-
+260,14,Mud Bomb,25,ground,65,85
+260,15,Mud Bomb,25,ground,65,85
+260,16,Rock Slide,28,rock,75,90
+260,5,Take Down,31,normal,90,85
+260,6,Take Down,31,normal,90,85
+260,7,Take Down,31,normal,90,85
+260,8,Take Down,31,normal,90,85
+260,9,Take Down,31,normal,90,85
+260,10,Take Down,31,normal,90,85
+260,11,Take Down,31,normal,90,85
+260,12,Take Down,31,normal,90,85
+260,13,Take Down,31,normal,90,85
+260,14,Take Down,31,normal,90,85
+260,15,Take Down,31,normal,90,85
+260,16,Protect,32,normal,-,-
+260,5,Muddy Water,39,water,90,85
+260,6,Muddy Water,39,water,90,85
+260,7,Muddy Water,39,water,90,85
+260,8,Muddy Water,39,water,90,85
+260,9,Muddy Water,39,water,90,85
+260,10,Muddy Water,39,water,90,85
+260,11,Muddy Water,39,water,90,85
+260,12,Muddy Water,39,water,90,85
+260,13,Muddy Water,39,water,90,85
+260,14,Muddy Water,39,water,90,85
+260,15,Muddy Water,39,water,90,85
+260,16,Muddy Water,39,water,90,85
+260,16,Take Down,44,normal,90,85
+260,5,Protect,46,normal,-,-
+260,6,Protect,46,normal,-,-
+260,7,Protect,46,normal,-,-
+260,8,Protect,46,normal,-,-
+260,9,Protect,46,normal,-,-
+260,10,Protect,46,normal,-,-
+260,11,Protect,46,normal,-,-
+260,12,Protect,46,normal,-,-
+260,13,Protect,46,normal,-,-
+260,14,Protect,46,normal,-,-
+260,15,Protect,46,normal,-,-
+260,16,Earthquake,51,ground,100,100
+260,5,Earthquake,52,ground,100,100
+260,6,Earthquake,52,ground,100,100
+260,7,Earthquake,52,ground,100,100
+260,8,Earthquake,52,ground,100,100
+260,9,Earthquake,52,ground,100,100
+260,10,Earthquake,52,ground,100,100
+260,11,Earthquake,52,ground,100,100
+260,12,Earthquake,52,ground,100,100
+260,13,Earthquake,52,ground,100,100
+260,14,Earthquake,52,ground,100,100
+260,15,Earthquake,52,ground,100,100
+260,16,Endeavor,56,normal,-,100
+260,5,Endeavor,61,normal,-,100
+260,6,Endeavor,61,normal,-,100
+260,7,Endeavor,61,normal,-,100
+260,8,Endeavor,61,normal,-,100
+260,9,Endeavor,61,normal,-,100
+260,10,Endeavor,61,normal,-,100
+260,11,Endeavor,61,normal,-,100
+260,12,Endeavor,61,normal,-,100
+260,13,Endeavor,61,normal,-,100
+260,14,Endeavor,61,normal,-,100
+260,15,Endeavor,61,normal,-,100
+260,16,Hammer Arm,63,fighting,100,90
+260,8,Hammer Arm,69,fighting,100,90
+260,9,Hammer Arm,69,fighting,100,90
+260,10,Hammer Arm,69,fighting,100,90
+260,11,Hammer Arm,69,fighting,100,90
+260,14,Hammer Arm,69,fighting,100,90
+260,15,Hammer Arm,69,fighting,100,90

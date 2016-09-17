@@ -1,0 +1,53 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+522,11,Quick Attack,1,normal,40,100
+522,14,Quick Attack,1,normal,40,100
+522,15,Quick Attack,1,normal,40,100
+522,16,Quick Attack,1,normal,40,100
+522,11,Tail Whip,4,normal,-,100
+522,14,Tail Whip,4,normal,-,100
+522,15,Tail Whip,4,normal,-,100
+522,16,Tail Whip,4,normal,-,100
+522,11,Charge,8,electric,-,-
+522,14,Charge,8,electric,-,-
+522,15,Charge,8,electric,-,-
+522,16,Charge,8,electric,-,-
+522,11,Shock Wave,11,electric,60,-
+522,14,Shock Wave,11,electric,60,-
+522,15,Shock Wave,11,electric,60,-
+522,16,Shock Wave,11,electric,60,-
+522,11,Thunder Wave,15,electric,-,100
+522,14,Thunder Wave,15,electric,-,100
+522,15,Thunder Wave,15,electric,-,100
+522,16,Thunder Wave,15,electric,-,100
+522,11,Flame Charge,18,fire,50,100
+522,14,Flame Charge,18,fire,50,100
+522,15,Flame Charge,18,fire,50,100
+522,16,Flame Charge,18,fire,50,100
+522,11,Pursuit,22,dark,40,100
+522,14,Pursuit,22,dark,40,100
+522,15,Pursuit,22,dark,40,100
+522,16,Pursuit,22,dark,40,100
+522,11,Spark,25,electric,65,100
+522,14,Spark,25,electric,65,100
+522,15,Spark,25,electric,65,100
+522,16,Spark,25,electric,65,100
+522,11,Stomp,29,normal,65,100
+522,14,Stomp,29,normal,65,100
+522,15,Stomp,29,normal,65,100
+522,16,Stomp,29,normal,65,100
+522,11,Discharge,32,electric,80,100
+522,14,Discharge,32,electric,80,100
+522,15,Discharge,32,electric,80,100
+522,16,Discharge,32,electric,80,100
+522,11,Agility,36,psychic,-,-
+522,14,Agility,36,psychic,-,-
+522,15,Agility,36,psychic,-,-
+522,16,Agility,36,psychic,-,-
+522,11,Wild Charge,39,electric,90,100
+522,14,Wild Charge,39,electric,90,100
+522,15,Wild Charge,39,electric,90,100
+522,16,Wild Charge,39,electric,90,100
+522,11,Thrash,43,normal,120,100
+522,14,Thrash,43,normal,120,100
+522,15,Thrash,43,normal,120,100
+522,16,Thrash,43,normal,120,100

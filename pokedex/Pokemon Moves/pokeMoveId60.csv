@@ -1,0 +1,162 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+60,1,Bubble,1,water,40,100
+60,2,Bubble,1,water,40,100
+60,3,Bubble,1,water,40,100
+60,4,Bubble,1,water,40,100
+60,5,Bubble,1,water,40,100
+60,6,Bubble,1,water,40,100
+60,7,Bubble,1,water,40,100
+60,8,Water Sport,1,water,-,-
+60,9,Water Sport,1,water,-,-
+60,10,Water Sport,1,water,-,-
+60,11,Water Sport,1,water,-,-
+60,12,Bubble,1,water,40,100
+60,13,Bubble,1,water,40,100
+60,14,Water Sport,1,water,-,-
+60,15,Water Sport,1,water,-,-
+60,16,Water Sport,1,water,-,-
+60,8,Bubble,5,water,40,100
+60,9,Bubble,5,water,40,100
+60,10,Bubble,5,water,40,100
+60,11,Bubble,5,water,40,100
+60,14,Bubble,5,water,40,100
+60,15,Water Gun,5,water,40,100
+60,16,Water Gun,5,water,40,100
+60,3,Hypnosis,7,psychic,-,60
+60,4,Hypnosis,7,psychic,-,60
+60,5,Hypnosis,7,psychic,-,60
+60,6,Hypnosis,7,psychic,-,60
+60,7,Hypnosis,7,psychic,-,60
+60,12,Hypnosis,7,psychic,-,60
+60,13,Hypnosis,7,psychic,-,60
+60,8,Hypnosis,8,psychic,-,60
+60,9,Hypnosis,8,psychic,-,60
+60,10,Hypnosis,8,psychic,-,60
+60,11,Hypnosis,8,psychic,-,60
+60,14,Hypnosis,8,psychic,-,60
+60,15,Hypnosis,8,psychic,-,60
+60,16,Hypnosis,8,psychic,-,60
+60,8,Water Gun,11,water,40,100
+60,9,Water Gun,11,water,40,100
+60,10,Water Gun,11,water,40,100
+60,11,Water Gun,11,water,40,100
+60,14,Water Gun,11,water,40,100
+60,15,Bubble,11,water,40,100
+60,16,Bubble,11,water,40,100
+60,3,Water Gun,13,water,40,100
+60,4,Water Gun,13,water,40,100
+60,5,Water Gun,13,water,40,100
+60,6,Water Gun,13,water,40,100
+60,7,Water Gun,13,water,40,100
+60,12,Water Gun,13,water,40,100
+60,13,Water Gun,13,water,40,100
+60,8,Double Slap,15,normal,15,85
+60,9,Double Slap,15,normal,15,85
+60,10,Double Slap,15,normal,15,85
+60,11,Double Slap,15,normal,15,85
+60,14,Double Slap,15,normal,15,85
+60,15,Double Slap,15,normal,15,85
+60,16,Double Slap,15,normal,15,85
+60,1,Hypnosis,16,psychic,-,60
+60,2,Hypnosis,16,psychic,-,60
+60,8,Rain Dance,18,water,-,-
+60,9,Rain Dance,18,water,-,-
+60,10,Rain Dance,18,water,-,-
+60,11,Rain Dance,18,water,-,-
+60,14,Rain Dance,18,water,-,-
+60,15,Rain Dance,18,water,-,-
+60,16,Rain Dance,18,water,-,-
+60,1,Water Gun,19,water,40,100
+60,2,Water Gun,19,water,40,100
+60,3,Double Slap,19,normal,15,85
+60,4,Double Slap,19,normal,15,85
+60,5,Double Slap,19,normal,15,85
+60,6,Double Slap,19,normal,15,85
+60,7,Double Slap,19,normal,15,85
+60,12,Double Slap,19,normal,15,85
+60,13,Double Slap,19,normal,15,85
+60,8,Body Slam,21,normal,85,100
+60,9,Body Slam,21,normal,85,100
+60,10,Body Slam,21,normal,85,100
+60,11,Body Slam,21,normal,85,100
+60,14,Body Slam,21,normal,85,100
+60,15,Body Slam,21,normal,85,100
+60,16,Body Slam,21,normal,85,100
+60,1,Double Slap,25,normal,15,85
+60,2,Double Slap,25,normal,15,85
+60,3,Rain Dance,25,water,-,-
+60,4,Rain Dance,25,water,-,-
+60,5,Rain Dance,25,water,-,-
+60,6,Rain Dance,25,water,-,-
+60,7,Rain Dance,25,water,-,-
+60,8,Bubble Beam,25,water,65,100
+60,9,Bubble Beam,25,water,65,100
+60,10,Bubble Beam,25,water,65,100
+60,11,Bubble Beam,25,water,65,100
+60,12,Rain Dance,25,water,-,-
+60,13,Rain Dance,25,water,-,-
+60,14,Bubble Beam,25,water,65,100
+60,15,Bubble Beam,25,water,65,100
+60,16,Bubble Beam,25,water,65,100
+60,8,Mud Shot,28,ground,55,95
+60,9,Mud Shot,28,ground,55,95
+60,10,Mud Shot,28,ground,55,95
+60,11,Mud Shot,28,ground,55,95
+60,14,Mud Shot,28,ground,55,95
+60,15,Mud Shot,28,ground,55,95
+60,16,Mud Shot,28,ground,55,95
+60,1,Body Slam,31,normal,85,100
+60,2,Body Slam,31,normal,85,100
+60,3,Body Slam,31,normal,85,100
+60,4,Body Slam,31,normal,85,100
+60,5,Body Slam,31,normal,85,100
+60,6,Body Slam,31,normal,85,100
+60,7,Body Slam,31,normal,85,100
+60,8,Belly Drum,31,normal,-,-
+60,9,Belly Drum,31,normal,-,-
+60,10,Belly Drum,31,normal,-,-
+60,11,Belly Drum,31,normal,-,-
+60,12,Body Slam,31,normal,85,100
+60,13,Body Slam,31,normal,85,100
+60,14,Belly Drum,31,normal,-,-
+60,15,Belly Drum,31,normal,-,-
+60,16,Belly Drum,31,normal,-,-
+60,8,Wake-Up Slap,35,fighting,70,100
+60,9,Wake-Up Slap,35,fighting,70,100
+60,10,Wake-Up Slap,35,fighting,70,100
+60,11,Wake-Up Slap,35,fighting,70,100
+60,14,Wake-Up Slap,35,fighting,70,100
+60,15,Wake-Up Slap,35,fighting,70,100
+60,16,Wake-Up Slap,35,fighting,70,100
+60,3,Belly Drum,37,normal,-,-
+60,4,Belly Drum,37,normal,-,-
+60,5,Belly Drum,37,normal,-,-
+60,6,Belly Drum,37,normal,-,-
+60,7,Belly Drum,37,normal,-,-
+60,12,Belly Drum,37,normal,-,-
+60,13,Belly Drum,37,normal,-,-
+60,1,Amnesia,38,psychic,-,-
+60,2,Amnesia,38,psychic,-,-
+60,8,Hydro Pump,38,water,110,80
+60,9,Hydro Pump,38,water,110,80
+60,10,Hydro Pump,38,water,110,80
+60,11,Hydro Pump,38,water,110,80
+60,14,Hydro Pump,38,water,110,80
+60,15,Hydro Pump,38,water,110,80
+60,16,Hydro Pump,38,water,110,80
+60,8,Mud Bomb,41,ground,65,85
+60,9,Mud Bomb,41,ground,65,85
+60,10,Mud Bomb,41,ground,65,85
+60,11,Mud Bomb,41,ground,65,85
+60,14,Mud Bomb,41,ground,65,85
+60,15,Mud Bomb,41,ground,65,85
+60,16,Mud Bomb,41,ground,65,85
+60,3,Hydro Pump,43,water,110,80
+60,4,Hydro Pump,43,water,110,80
+60,5,Hydro Pump,43,water,110,80
+60,6,Hydro Pump,43,water,110,80
+60,7,Hydro Pump,43,water,110,80
+60,12,Hydro Pump,43,water,110,80
+60,13,Hydro Pump,43,water,110,80
+60,1,Hydro Pump,45,water,110,80
+60,2,Hydro Pump,45,water,110,80

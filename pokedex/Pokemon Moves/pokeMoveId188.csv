@@ -1,0 +1,234 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+188,3,Tackle,1,normal,50,100
+188,3,Tail Whip,1,normal,-,100
+188,3,Splash,1,normal,-,-
+188,3,Synthesis,1,grass,-,-
+188,4,Tackle,1,normal,50,100
+188,4,Tail Whip,1,normal,-,100
+188,4,Splash,1,normal,-,-
+188,4,Synthesis,1,grass,-,-
+188,5,Tackle,1,normal,50,100
+188,5,Tail Whip,1,normal,-,100
+188,5,Splash,1,normal,-,-
+188,5,Synthesis,1,grass,-,-
+188,6,Tackle,1,normal,50,100
+188,6,Tail Whip,1,normal,-,100
+188,6,Splash,1,normal,-,-
+188,6,Synthesis,1,grass,-,-
+188,7,Tackle,1,normal,50,100
+188,7,Tail Whip,1,normal,-,100
+188,7,Splash,1,normal,-,-
+188,7,Synthesis,1,grass,-,-
+188,8,Tackle,1,normal,50,100
+188,8,Tail Whip,1,normal,-,100
+188,8,Splash,1,normal,-,-
+188,8,Synthesis,1,grass,-,-
+188,9,Tackle,1,normal,50,100
+188,9,Tail Whip,1,normal,-,100
+188,9,Splash,1,normal,-,-
+188,9,Synthesis,1,grass,-,-
+188,10,Tackle,1,normal,50,100
+188,10,Tail Whip,1,normal,-,100
+188,10,Splash,1,normal,-,-
+188,10,Synthesis,1,grass,-,-
+188,11,Tackle,1,normal,50,100
+188,11,Tail Whip,1,normal,-,100
+188,11,Splash,1,normal,-,-
+188,11,Synthesis,1,grass,-,-
+188,12,Tackle,1,normal,50,100
+188,12,Tail Whip,1,normal,-,100
+188,12,Splash,1,normal,-,-
+188,12,Synthesis,1,grass,-,-
+188,13,Tackle,1,normal,50,100
+188,13,Tail Whip,1,normal,-,100
+188,13,Splash,1,normal,-,-
+188,13,Synthesis,1,grass,-,-
+188,14,Tackle,1,normal,50,100
+188,14,Tail Whip,1,normal,-,100
+188,14,Splash,1,normal,-,-
+188,14,Synthesis,1,grass,-,-
+188,15,Tackle,1,normal,50,100
+188,15,Tail Whip,1,normal,-,100
+188,15,Splash,1,normal,-,-
+188,15,Synthesis,1,grass,-,-
+188,16,Tackle,1,normal,50,100
+188,16,Tail Whip,1,normal,-,100
+188,16,Splash,1,normal,-,-
+188,16,Synthesis,1,grass,-,-
+188,8,Synthesis,4,grass,-,-
+188,9,Synthesis,4,grass,-,-
+188,10,Synthesis,4,grass,-,-
+188,11,Synthesis,4,grass,-,-
+188,14,Synthesis,4,grass,-,-
+188,15,Synthesis,4,grass,-,-
+188,16,Synthesis,4,grass,-,-
+188,3,Tail Whip,5,normal,-,100
+188,4,Tail Whip,5,normal,-,100
+188,4,Synthesis,5,grass,-,-
+188,5,Tail Whip,5,normal,-,100
+188,5,Synthesis,5,grass,-,-
+188,6,Tail Whip,5,normal,-,100
+188,6,Synthesis,5,grass,-,-
+188,7,Tail Whip,5,normal,-,100
+188,7,Synthesis,5,grass,-,-
+188,12,Tail Whip,5,normal,-,100
+188,12,Synthesis,5,grass,-,-
+188,13,Tail Whip,5,normal,-,100
+188,13,Synthesis,5,grass,-,-
+188,15,Tail Whip,6,normal,-,100
+188,16,Tail Whip,6,normal,-,100
+188,8,Tail Whip,7,normal,-,100
+188,9,Tail Whip,7,normal,-,100
+188,10,Tail Whip,7,normal,-,100
+188,11,Tail Whip,7,normal,-,100
+188,14,Tail Whip,7,normal,-,100
+188,15,Tackle,8,normal,50,100
+188,16,Tackle,8,normal,50,100
+188,3,Tackle,10,normal,50,100
+188,4,Tackle,10,normal,50,100
+188,5,Tackle,10,normal,50,100
+188,6,Tackle,10,normal,50,100
+188,7,Tackle,10,normal,50,100
+188,8,Tackle,10,normal,50,100
+188,9,Tackle,10,normal,50,100
+188,10,Tackle,10,normal,50,100
+188,11,Tackle,10,normal,50,100
+188,12,Tackle,10,normal,50,100
+188,13,Tackle,10,normal,50,100
+188,14,Tackle,10,normal,50,100
+188,15,Fairy Wind,10,fairy,40,100
+188,16,Fairy Wind,10,fairy,40,100
+188,8,Poison Powder,12,poison,-,75
+188,9,Poison Powder,12,poison,-,75
+188,10,Poison Powder,12,poison,-,75
+188,11,Poison Powder,12,poison,-,75
+188,14,Poison Powder,12,poison,-,75
+188,15,Poison Powder,12,poison,-,75
+188,16,Poison Powder,12,poison,-,75
+188,3,Poison Powder,13,poison,-,75
+188,4,Poison Powder,13,poison,-,75
+188,5,Poison Powder,13,poison,-,75
+188,6,Poison Powder,13,poison,-,75
+188,7,Poison Powder,13,poison,-,75
+188,12,Poison Powder,13,poison,-,75
+188,13,Poison Powder,13,poison,-,75
+188,8,Stun Spore,14,grass,-,75
+188,9,Stun Spore,14,grass,-,75
+188,10,Stun Spore,14,grass,-,75
+188,11,Stun Spore,14,grass,-,75
+188,14,Stun Spore,14,grass,-,75
+188,15,Stun Spore,14,grass,-,75
+188,16,Stun Spore,14,grass,-,75
+188,3,Stun Spore,15,grass,-,75
+188,4,Stun Spore,15,grass,-,75
+188,5,Stun Spore,15,grass,-,75
+188,6,Stun Spore,15,grass,-,75
+188,7,Stun Spore,15,grass,-,75
+188,12,Stun Spore,15,grass,-,75
+188,13,Stun Spore,15,grass,-,75
+188,8,Sleep Powder,16,grass,-,75
+188,9,Sleep Powder,16,grass,-,75
+188,10,Sleep Powder,16,grass,-,75
+188,11,Sleep Powder,16,grass,-,75
+188,14,Sleep Powder,16,grass,-,75
+188,15,Sleep Powder,16,grass,-,75
+188,16,Sleep Powder,16,grass,-,75
+188,3,Sleep Powder,17,grass,-,75
+188,4,Sleep Powder,17,grass,-,75
+188,5,Sleep Powder,17,grass,-,75
+188,6,Sleep Powder,17,grass,-,75
+188,7,Sleep Powder,17,grass,-,75
+188,12,Sleep Powder,17,grass,-,75
+188,13,Sleep Powder,17,grass,-,75
+188,8,Bullet Seed,20,grass,25,100
+188,9,Bullet Seed,20,grass,25,100
+188,10,Bullet Seed,20,grass,25,100
+188,11,Bullet Seed,20,grass,25,100
+188,14,Bullet Seed,20,grass,25,100
+188,15,Bullet Seed,20,grass,25,100
+188,16,Bullet Seed,20,grass,25,100
+188,3,Leech Seed,22,grass,-,90
+188,4,Leech Seed,22,grass,-,90
+188,5,Leech Seed,22,grass,-,90
+188,6,Leech Seed,22,grass,-,90
+188,7,Leech Seed,22,grass,-,90
+188,12,Leech Seed,22,grass,-,90
+188,13,Leech Seed,22,grass,-,90
+188,8,Leech Seed,24,grass,-,90
+188,9,Leech Seed,24,grass,-,90
+188,10,Leech Seed,24,grass,-,90
+188,11,Leech Seed,24,grass,-,90
+188,14,Leech Seed,24,grass,-,90
+188,15,Leech Seed,24,grass,-,90
+188,16,Leech Seed,24,grass,-,90
+188,8,Mega Drain,28,grass,40,100
+188,9,Mega Drain,28,grass,40,100
+188,10,Mega Drain,28,grass,40,100
+188,11,Mega Drain,28,grass,40,100
+188,14,Mega Drain,28,grass,40,100
+188,15,Mega Drain,28,grass,40,100
+188,16,Mega Drain,28,grass,40,100
+188,3,Cotton Spore,29,grass,-,100
+188,4,Cotton Spore,29,grass,-,100
+188,5,Cotton Spore,29,grass,-,100
+188,6,Cotton Spore,29,grass,-,100
+188,7,Cotton Spore,29,grass,-,100
+188,12,Cotton Spore,29,grass,-,100
+188,13,Cotton Spore,29,grass,-,100
+188,8,Cotton Spore,32,grass,-,100
+188,9,Cotton Spore,32,grass,-,100
+188,10,Cotton Spore,32,grass,-,100
+188,11,Acrobatics,32,flying,55,100
+188,14,Acrobatics,32,flying,55,100
+188,15,Acrobatics,32,flying,55,100
+188,16,Acrobatics,32,flying,55,100
+188,3,Mega Drain,36,grass,40,100
+188,4,Mega Drain,36,grass,40,100
+188,5,Mega Drain,36,grass,40,100
+188,6,Mega Drain,36,grass,40,100
+188,7,Mega Drain,36,grass,40,100
+188,8,U-turn,36,bug,70,100
+188,9,U-turn,36,bug,70,100
+188,10,U-turn,36,bug,70,100
+188,11,Rage Powder,36,bug,-,-
+188,12,Mega Drain,36,grass,40,100
+188,13,Mega Drain,36,grass,40,100
+188,14,Rage Powder,36,bug,-,-
+188,15,Rage Powder,36,bug,-,-
+188,16,Rage Powder,36,bug,-,-
+188,8,Worry Seed,40,grass,-,100
+188,9,Worry Seed,40,grass,-,100
+188,10,Worry Seed,40,grass,-,100
+188,11,Cotton Spore,40,grass,-,100
+188,14,Cotton Spore,40,grass,-,100
+188,15,Cotton Spore,40,grass,-,100
+188,16,Cotton Spore,40,grass,-,100
+188,8,Giga Drain,44,grass,75,100
+188,9,Giga Drain,44,grass,75,100
+188,10,Giga Drain,44,grass,75,100
+188,11,U-turn,44,bug,70,100
+188,14,U-turn,44,bug,70,100
+188,15,U-turn,44,bug,70,100
+188,16,U-turn,44,bug,70,100
+188,8,Bounce,48,flying,85,85
+188,9,Bounce,48,flying,85,85
+188,10,Bounce,48,flying,85,85
+188,11,Worry Seed,48,grass,-,100
+188,14,Worry Seed,48,grass,-,100
+188,15,Worry Seed,48,grass,-,100
+188,16,Worry Seed,48,grass,-,100
+188,8,Memento,52,dark,-,100
+188,9,Memento,52,dark,-,100
+188,10,Memento,52,dark,-,100
+188,11,Giga Drain,52,grass,75,100
+188,14,Giga Drain,52,grass,75,100
+188,15,Giga Drain,52,grass,75,100
+188,16,Giga Drain,52,grass,75,100
+188,11,Bounce,56,flying,85,85
+188,14,Bounce,56,flying,85,85
+188,15,Bounce,56,flying,85,85
+188,16,Bounce,56,flying,85,85
+188,11,Memento,60,dark,-,100
+188,14,Memento,60,dark,-,100
+188,15,Memento,60,dark,-,100
+188,16,Memento,60,dark,-,100

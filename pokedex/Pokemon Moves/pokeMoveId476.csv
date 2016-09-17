@@ -1,0 +1,140 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+476,8,Tackle,1,normal,50,100
+476,8,Iron Defense,1,steel,-,-
+476,8,Block,1,normal,-,-
+476,8,Gravity,1,psychic,-,-
+476,8,Magnet Rise,1,electric,-,-
+476,8,Magnet Bomb,1,steel,60,-
+476,9,Tackle,1,normal,50,100
+476,9,Iron Defense,1,steel,-,-
+476,9,Block,1,normal,-,-
+476,9,Gravity,1,psychic,-,-
+476,9,Magnet Rise,1,electric,-,-
+476,9,Magnet Bomb,1,steel,60,-
+476,10,Tackle,1,normal,50,100
+476,10,Iron Defense,1,steel,-,-
+476,10,Block,1,normal,-,-
+476,10,Gravity,1,psychic,-,-
+476,10,Magnet Rise,1,electric,-,-
+476,10,Magnet Bomb,1,steel,60,-
+476,11,Tackle,1,normal,50,100
+476,11,Iron Defense,1,steel,-,-
+476,11,Block,1,normal,-,-
+476,11,Gravity,1,psychic,-,-
+476,11,Magnet Rise,1,electric,-,-
+476,11,Magnet Bomb,1,steel,60,-
+476,14,Tackle,1,normal,50,100
+476,14,Iron Defense,1,steel,-,-
+476,14,Block,1,normal,-,-
+476,14,Gravity,1,psychic,-,-
+476,14,Magnet Rise,1,electric,-,-
+476,14,Magnet Bomb,1,steel,60,-
+476,15,Tackle,1,normal,50,100
+476,15,Iron Defense,1,steel,-,-
+476,15,Block,1,normal,-,-
+476,15,Gravity,1,psychic,-,-
+476,15,Magnet Rise,1,electric,-,-
+476,15,Magnet Bomb,1,steel,60,-
+476,16,Tackle,1,normal,50,100
+476,16,Iron Defense,1,steel,-,-
+476,16,Block,1,normal,-,-
+476,16,Gravity,1,psychic,-,-
+476,16,Magnet Rise,1,electric,-,-
+476,16,Magnet Bomb,1,steel,60,-
+476,16,Wide Guard,1,rock,-,-
+476,14,Iron Defense,4,steel,-,-
+476,15,Iron Defense,4,steel,-,-
+476,16,Iron Defense,4,steel,-,-
+476,8,Iron Defense,7,steel,-,-
+476,9,Iron Defense,7,steel,-,-
+476,10,Iron Defense,7,steel,-,-
+476,11,Iron Defense,7,steel,-,-
+476,16,Block,7,normal,-,-
+476,14,Block,8,normal,-,-
+476,15,Block,8,normal,-,-
+476,16,Magnet Bomb,10,steel,60,-
+476,14,Magnet Bomb,11,steel,60,-
+476,15,Magnet Bomb,11,steel,60,-
+476,8,Magnet Bomb,13,steel,60,-
+476,9,Magnet Bomb,13,steel,60,-
+476,10,Magnet Bomb,13,steel,60,-
+476,11,Magnet Bomb,13,steel,60,-
+476,16,Thunder Wave,13,electric,-,100
+476,14,Thunder Wave,15,electric,-,100
+476,15,Thunder Wave,15,electric,-,100
+476,16,Rest,16,psychic,-,-
+476,14,Rock Blast,18,rock,25,90
+476,15,Rock Blast,18,rock,25,90
+476,8,Block,19,normal,-,-
+476,9,Block,19,normal,-,-
+476,10,Block,19,normal,-,-
+476,11,Block,19,normal,-,-
+476,16,Spark,19,electric,65,100
+476,14,Rest,22,psychic,-,-
+476,15,Rest,22,psychic,-,-
+476,16,Rock Slide,22,rock,75,90
+476,8,Thunder Wave,25,electric,-,100
+476,9,Thunder Wave,25,electric,-,100
+476,10,Thunder Wave,25,electric,-,100
+476,11,Thunder Wave,25,electric,-,100
+476,14,Spark,25,electric,65,100
+476,15,Spark,25,electric,65,100
+476,16,Power Gem,25,rock,80,100
+476,16,Rock Blast,28,rock,25,90
+476,14,Rock Slide,29,rock,75,90
+476,15,Rock Slide,29,rock,75,90
+476,8,Rock Slide,31,rock,75,90
+476,9,Rock Slide,31,rock,75,90
+476,10,Rock Slide,31,rock,75,90
+476,11,Rock Slide,31,rock,75,90
+476,16,Discharge,31,electric,80,100
+476,14,Power Gem,32,rock,80,100
+476,15,Power Gem,32,rock,80,100
+476,16,Sandstorm,34,rock,-,-
+476,14,Sandstorm,36,rock,-,-
+476,15,Sandstorm,36,rock,-,-
+476,8,Sandstorm,37,rock,-,-
+476,9,Sandstorm,37,rock,-,-
+476,10,Sandstorm,37,rock,-,-
+476,11,Sandstorm,37,rock,-,-
+476,16,Earth Power,37,ground,90,100
+476,14,Discharge,39,electric,80,100
+476,15,Discharge,39,electric,80,100
+476,16,Stone Edge,40,rock,100,80
+476,8,Rest,43,psychic,-,-
+476,9,Rest,43,psychic,-,-
+476,10,Rest,43,psychic,-,-
+476,11,Rest,43,psychic,-,-
+476,14,Earth Power,43,ground,90,100
+476,15,Earth Power,43,ground,90,100
+476,16,Zap Cannon,43,electric,120,50
+476,16,Lock-On,43,normal,-,-
+476,14,Stone Edge,46,rock,100,80
+476,15,Stone Edge,46,rock,100,80
+476,8,Discharge,49,electric,80,100
+476,9,Power Gem,49,rock,80,100
+476,10,Power Gem,49,rock,80,100
+476,11,Power Gem,49,rock,80,100
+476,14,Zap Cannon,50,electric,120,50
+476,14,Lock-On,50,normal,-,-
+476,15,Zap Cannon,50,electric,120,50
+476,15,Lock-On,50,normal,-,-
+476,8,Stone Edge,55,rock,100,80
+476,9,Discharge,55,electric,80,100
+476,10,Discharge,55,electric,80,100
+476,11,Discharge,55,electric,80,100
+476,8,Zap Cannon,61,electric,120,50
+476,9,Stone Edge,61,rock,100,80
+476,10,Stone Edge,61,rock,100,80
+476,11,Stone Edge,61,rock,100,80
+476,8,Lock-On,67,normal,-,-
+476,9,Zap Cannon,67,electric,120,50
+476,10,Zap Cannon,67,electric,120,50
+476,11,Zap Cannon,67,electric,120,50
+476,8,Earth Power,73,ground,90,100
+476,9,Lock-On,73,normal,-,-
+476,10,Lock-On,73,normal,-,-
+476,11,Lock-On,73,normal,-,-
+476,9,Earth Power,79,ground,90,100
+476,10,Earth Power,79,ground,90,100
+476,11,Earth Power,79,ground,90,100

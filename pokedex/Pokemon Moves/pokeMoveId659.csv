@@ -1,0 +1,33 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+659,15,Tackle,1,normal,50,100
+659,15,Leer,1,normal,-,100
+659,15,Agility,1,psychic,-,-
+659,16,Tackle,1,normal,50,100
+659,16,Leer,1,normal,-,100
+659,16,Agility,1,psychic,-,-
+659,15,Quick Attack,7,normal,40,100
+659,16,Quick Attack,7,normal,40,100
+659,15,Double Slap,10,normal,15,85
+659,16,Double Slap,10,normal,15,85
+659,15,Mud-Slap,13,ground,20,100
+659,16,Mud-Slap,13,ground,20,100
+659,15,Take Down,15,normal,90,85
+659,16,Take Down,15,normal,90,85
+659,15,Mud Shot,18,ground,55,95
+659,16,Mud Shot,18,ground,55,95
+659,15,Double Kick,20,fighting,30,100
+659,16,Double Kick,20,fighting,30,100
+659,15,Odor Sleuth,25,normal,-,-
+659,16,Odor Sleuth,25,normal,-,-
+659,15,Flail,29,normal,-,100
+659,16,Flail,29,normal,-,100
+659,15,Dig,33,ground,80,100
+659,16,Dig,33,ground,80,100
+659,15,Bounce,38,flying,85,85
+659,16,Bounce,38,flying,85,85
+659,15,Super Fang,42,normal,-,90
+659,16,Super Fang,42,normal,-,90
+659,15,Facade,47,normal,70,100
+659,16,Facade,47,normal,70,100
+659,15,Earthquake,49,ground,100,100
+659,16,Earthquake,49,ground,100,100

@@ -1,0 +1,79 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+649,11,Quick Attack,1,normal,40,100
+649,11,Screech,1,normal,-,85
+649,11,Metal Claw,1,steel,50,95
+649,11,Magnet Rise,1,electric,-,-
+649,11,Techno Blast,1,normal,120,100
+649,14,Quick Attack,1,normal,40,100
+649,14,Screech,1,normal,-,85
+649,14,Metal Claw,1,steel,50,95
+649,14,Magnet Rise,1,electric,-,-
+649,14,Techno Blast,1,normal,120,100
+649,15,Quick Attack,1,normal,40,100
+649,15,Screech,1,normal,-,85
+649,15,Metal Claw,1,steel,50,95
+649,15,Magnet Rise,1,electric,-,-
+649,15,Techno Blast,1,normal,120,100
+649,15,Fell Stinger,1,bug,30,100
+649,16,Quick Attack,1,normal,40,100
+649,16,Screech,1,normal,-,85
+649,16,Metal Claw,1,steel,50,95
+649,16,Magnet Rise,1,electric,-,-
+649,16,Techno Blast,1,normal,120,100
+649,16,Fell Stinger,1,bug,30,100
+649,11,Fury Cutter,7,bug,40,95
+649,14,Fury Cutter,7,bug,40,95
+649,15,Fury Cutter,7,bug,40,95
+649,16,Fury Cutter,7,bug,40,95
+649,11,Lock-On,11,normal,-,-
+649,14,Lock-On,11,normal,-,-
+649,15,Lock-On,11,normal,-,-
+649,16,Lock-On,11,normal,-,-
+649,11,Flame Charge,18,fire,50,100
+649,14,Flame Charge,18,fire,50,100
+649,15,Flame Charge,18,fire,50,100
+649,16,Flame Charge,18,fire,50,100
+649,11,Magnet Bomb,22,steel,60,-
+649,14,Magnet Bomb,22,steel,60,-
+649,15,Magnet Bomb,22,steel,60,-
+649,16,Magnet Bomb,22,steel,60,-
+649,11,Slash,29,normal,70,100
+649,14,Slash,29,normal,70,100
+649,15,Slash,29,normal,70,100
+649,16,Slash,29,normal,70,100
+649,11,Metal Sound,33,steel,-,85
+649,14,Metal Sound,33,steel,-,85
+649,15,Metal Sound,33,steel,-,85
+649,16,Metal Sound,33,steel,-,85
+649,11,Signal Beam,40,bug,75,100
+649,14,Signal Beam,40,bug,75,100
+649,15,Signal Beam,40,bug,75,100
+649,16,Signal Beam,40,bug,75,100
+649,11,Tri Attack,44,normal,80,100
+649,14,Tri Attack,44,normal,80,100
+649,15,Tri Attack,44,normal,80,100
+649,16,Tri Attack,44,normal,80,100
+649,11,X-Scissor,51,bug,80,100
+649,14,X-Scissor,51,bug,80,100
+649,15,X-Scissor,51,bug,80,100
+649,16,X-Scissor,51,bug,80,100
+649,11,Bug Buzz,55,bug,90,100
+649,14,Bug Buzz,55,bug,90,100
+649,15,Bug Buzz,55,bug,90,100
+649,16,Bug Buzz,55,bug,90,100
+649,11,Simple Beam,62,normal,-,100
+649,14,Simple Beam,62,normal,-,100
+649,15,Simple Beam,62,normal,-,100
+649,16,Simple Beam,62,normal,-,100
+649,11,Zap Cannon,66,electric,120,50
+649,14,Zap Cannon,66,electric,120,50
+649,15,Zap Cannon,66,electric,120,50
+649,16,Zap Cannon,66,electric,120,50
+649,11,Hyper Beam,73,normal,150,90
+649,14,Hyper Beam,73,normal,150,90
+649,15,Hyper Beam,73,normal,150,90
+649,16,Hyper Beam,73,normal,150,90
+649,11,Self-Destruct,77,normal,200,100
+649,14,Self-Destruct,77,normal,200,100
+649,15,Self-Destruct,77,normal,200,100
+649,16,Self-Destruct,77,normal,200,100

@@ -1,0 +1,87 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+487,8,Scary Face,1,normal,-,100
+487,8,Dragon Breath,1,dragon,60,100
+487,9,Scary Face,1,normal,-,100
+487,9,Dragon Breath,1,dragon,60,100
+487,10,Scary Face,1,normal,-,100
+487,10,Dragon Breath,1,dragon,60,100
+487,11,Scary Face,1,normal,-,100
+487,11,Dragon Breath,1,dragon,60,100
+487,14,Scary Face,1,normal,-,100
+487,14,Dragon Breath,1,dragon,60,100
+487,15,Scary Face,1,normal,-,100
+487,15,Dragon Breath,1,dragon,60,100
+487,16,Scary Face,1,normal,-,100
+487,16,Dragon Breath,1,dragon,60,100
+487,10,Ominous Wind,6,ghost,60,100
+487,11,Ominous Wind,6,ghost,60,100
+487,14,Ominous Wind,6,ghost,60,100
+487,15,Ominous Wind,6,ghost,60,100
+487,16,Ominous Wind,6,ghost,60,100
+487,8,Ominous Wind,10,ghost,60,100
+487,9,Ominous Wind,10,ghost,60,100
+487,10,Ancient Power,10,rock,60,100
+487,11,Ancient Power,10,rock,60,100
+487,14,Ancient Power,10,rock,60,100
+487,15,Ancient Power,10,rock,60,100
+487,16,Ancient Power,10,rock,60,100
+487,10,Slash,15,normal,70,100
+487,11,Slash,15,normal,70,100
+487,14,Slash,15,normal,70,100
+487,15,Slash,15,normal,70,100
+487,16,Slash,15,normal,70,100
+487,10,Shadow Sneak,19,ghost,40,100
+487,11,Shadow Sneak,19,ghost,40,100
+487,14,Shadow Sneak,19,ghost,40,100
+487,15,Shadow Sneak,19,ghost,40,100
+487,16,Shadow Sneak,19,ghost,40,100
+487,8,Ancient Power,20,rock,60,100
+487,9,Ancient Power,20,rock,60,100
+487,10,Destiny Bond,24,ghost,-,-
+487,11,Destiny Bond,24,ghost,-,-
+487,14,Destiny Bond,24,ghost,-,-
+487,15,Destiny Bond,24,ghost,-,-
+487,16,Destiny Bond,24,ghost,-,-
+487,10,Dragon Claw,28,dragon,80,100
+487,11,Dragon Claw,28,dragon,80,100
+487,14,Dragon Claw,28,dragon,80,100
+487,15,Dragon Claw,28,dragon,80,100
+487,16,Dragon Claw,28,dragon,80,100
+487,8,Dragon Claw,30,dragon,80,100
+487,9,Dragon Claw,30,dragon,80,100
+487,10,Earth Power,33,ground,90,100
+487,11,Earth Power,33,ground,90,100
+487,14,Earth Power,33,ground,90,100
+487,15,Earth Power,33,ground,90,100
+487,16,Earth Power,33,ground,90,100
+487,10,Aura Sphere,37,fighting,80,-
+487,11,Aura Sphere,37,fighting,80,-
+487,14,Aura Sphere,37,fighting,80,-
+487,15,Aura Sphere,37,fighting,80,-
+487,16,Aura Sphere,37,fighting,80,-
+487,8,Shadow Force,40,ghost,120,100
+487,9,Shadow Force,40,ghost,120,100
+487,10,Shadow Claw,42,ghost,70,100
+487,11,Shadow Claw,42,ghost,70,100
+487,14,Shadow Claw,42,ghost,70,100
+487,15,Shadow Claw,42,ghost,70,100
+487,16,Shadow Claw,42,ghost,70,100
+487,10,Shadow Force,46,ghost,120,100
+487,11,Shadow Force,46,ghost,120,100
+487,14,Shadow Force,46,ghost,120,100
+487,15,Shadow Force,46,ghost,120,100
+487,16,Shadow Force,46,ghost,120,100
+487,8,Heal Block,50,psychic,-,100
+487,9,Heal Block,50,psychic,-,100
+487,11,Hex,50,ghost,65,100
+487,14,Hex,50,ghost,65,100
+487,15,Hex,50,ghost,65,100
+487,16,Hex,50,ghost,65,100
+487,8,Earth Power,60,ground,90,100
+487,9,Earth Power,60,ground,90,100
+487,8,Slash,70,normal,70,100
+487,9,Slash,70,normal,70,100
+487,8,Shadow Claw,80,ghost,70,100
+487,9,Shadow Claw,80,ghost,70,100
+487,8,Aura Sphere,90,fighting,80,-
+487,9,Aura Sphere,90,fighting,80,-

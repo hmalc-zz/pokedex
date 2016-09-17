@@ -1,0 +1,72 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+447,8,Quick Attack,1,normal,40,100
+447,8,Foresight,1,normal,-,-
+447,8,Endure,1,normal,-,-
+447,9,Quick Attack,1,normal,40,100
+447,9,Foresight,1,normal,-,-
+447,9,Endure,1,normal,-,-
+447,10,Quick Attack,1,normal,40,100
+447,10,Foresight,1,normal,-,-
+447,10,Endure,1,normal,-,-
+447,11,Quick Attack,1,normal,40,100
+447,11,Foresight,1,normal,-,-
+447,11,Endure,1,normal,-,-
+447,14,Quick Attack,1,normal,40,100
+447,14,Foresight,1,normal,-,-
+447,14,Endure,1,normal,-,-
+447,15,Quick Attack,1,normal,40,100
+447,15,Foresight,1,normal,-,-
+447,15,Endure,1,normal,-,-
+447,16,Quick Attack,1,normal,40,100
+447,16,Foresight,1,normal,-,-
+447,16,Endure,1,normal,-,-
+447,8,Counter,6,fighting,-,100
+447,9,Counter,6,fighting,-,100
+447,10,Counter,6,fighting,-,100
+447,11,Counter,6,fighting,-,100
+447,14,Counter,6,fighting,-,100
+447,15,Counter,6,fighting,-,100
+447,16,Counter,6,fighting,-,100
+447,8,Force Palm,11,fighting,60,100
+447,9,Force Palm,11,fighting,60,100
+447,10,Force Palm,11,fighting,60,100
+447,11,Force Palm,11,fighting,60,100
+447,14,Feint,11,normal,30,100
+447,15,Feint,11,normal,30,100
+447,16,Feint,11,normal,30,100
+447,8,Feint,15,normal,30,100
+447,9,Feint,15,normal,30,100
+447,10,Feint,15,normal,30,100
+447,11,Feint,15,normal,30,100
+447,14,Force Palm,15,fighting,60,100
+447,15,Force Palm,15,fighting,60,100
+447,16,Force Palm,15,fighting,60,100
+447,8,Reversal,19,fighting,-,100
+447,9,Reversal,19,fighting,-,100
+447,10,Reversal,19,fighting,-,100
+447,11,Reversal,19,fighting,-,100
+447,14,Copycat,19,normal,-,-
+447,15,Copycat,19,normal,-,-
+447,16,Copycat,19,normal,-,-
+447,8,Screech,24,normal,-,85
+447,9,Screech,24,normal,-,85
+447,10,Screech,24,normal,-,85
+447,11,Screech,24,normal,-,85
+447,14,Screech,24,normal,-,85
+447,15,Screech,24,normal,-,85
+447,16,Screech,24,normal,-,85
+447,8,Copycat,29,normal,-,-
+447,9,Copycat,29,normal,-,-
+447,10,Copycat,29,normal,-,-
+447,11,Copycat,29,normal,-,-
+447,14,Reversal,29,fighting,-,100
+447,15,Reversal,29,fighting,-,100
+447,16,Reversal,29,fighting,-,100
+447,11,Nasty Plot,47,dark,-,-
+447,14,Nasty Plot,47,dark,-,-
+447,15,Nasty Plot,47,dark,-,-
+447,16,Nasty Plot,47,dark,-,-
+447,15,Final Gambit,50,fighting,-,100
+447,16,Final Gambit,50,fighting,-,100
+447,11,Final Gambit,55,fighting,-,100
+447,14,Final Gambit,55,fighting,-,100

@@ -1,0 +1,201 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+104,1,Growl,1,normal,-,100
+104,1,Bone Club,1,ground,65,85
+104,2,Growl,1,normal,-,100
+104,3,Growl,1,normal,-,100
+104,4,Growl,1,normal,-,100
+104,5,Growl,1,normal,-,100
+104,6,Growl,1,normal,-,100
+104,7,Growl,1,normal,-,100
+104,8,Growl,1,normal,-,100
+104,9,Growl,1,normal,-,100
+104,10,Growl,1,normal,-,100
+104,11,Growl,1,normal,-,100
+104,12,Growl,1,normal,-,100
+104,13,Growl,1,normal,-,100
+104,14,Growl,1,normal,-,100
+104,15,Growl,1,normal,-,100
+104,16,Growl,1,normal,-,100
+104,8,Tail Whip,3,normal,-,100
+104,9,Tail Whip,3,normal,-,100
+104,10,Tail Whip,3,normal,-,100
+104,11,Tail Whip,3,normal,-,100
+104,14,Tail Whip,3,normal,-,100
+104,15,Tail Whip,3,normal,-,100
+104,16,Tail Whip,3,normal,-,100
+104,3,Tail Whip,5,normal,-,100
+104,4,Tail Whip,5,normal,-,100
+104,5,Tail Whip,5,normal,-,100
+104,6,Tail Whip,5,normal,-,100
+104,7,Tail Whip,5,normal,-,100
+104,12,Tail Whip,5,normal,-,100
+104,13,Tail Whip,5,normal,-,100
+104,8,Bone Club,7,ground,65,85
+104,9,Bone Club,7,ground,65,85
+104,10,Bone Club,7,ground,65,85
+104,11,Bone Club,7,ground,65,85
+104,14,Bone Club,7,ground,65,85
+104,15,Bone Club,7,ground,65,85
+104,16,Bone Club,7,ground,65,85
+104,3,Bone Club,9,ground,65,85
+104,4,Bone Club,9,ground,65,85
+104,5,Bone Club,9,ground,65,85
+104,6,Bone Club,9,ground,65,85
+104,7,Bone Club,9,ground,65,85
+104,12,Bone Club,9,ground,65,85
+104,13,Bone Club,9,ground,65,85
+104,2,Bone Club,10,ground,65,85
+104,8,Headbutt,11,normal,70,100
+104,9,Headbutt,11,normal,70,100
+104,10,Headbutt,11,normal,70,100
+104,11,Headbutt,11,normal,70,100
+104,14,Headbutt,11,normal,70,100
+104,15,Headbutt,11,normal,70,100
+104,16,Headbutt,11,normal,70,100
+104,2,Tail Whip,13,normal,-,100
+104,3,Headbutt,13,normal,70,100
+104,4,Headbutt,13,normal,70,100
+104,5,Headbutt,13,normal,70,100
+104,6,Headbutt,13,normal,70,100
+104,7,Headbutt,13,normal,70,100
+104,8,Leer,13,normal,-,100
+104,9,Leer,13,normal,-,100
+104,10,Leer,13,normal,-,100
+104,11,Leer,13,normal,-,100
+104,12,Headbutt,13,normal,70,100
+104,13,Headbutt,13,normal,70,100
+104,14,Leer,13,normal,-,100
+104,15,Leer,13,normal,-,100
+104,16,Leer,13,normal,-,100
+104,3,Leer,17,normal,-,100
+104,4,Leer,17,normal,-,100
+104,5,Leer,17,normal,-,100
+104,6,Leer,17,normal,-,100
+104,7,Leer,17,normal,-,100
+104,8,Focus Energy,17,normal,-,-
+104,9,Focus Energy,17,normal,-,-
+104,10,Focus Energy,17,normal,-,-
+104,11,Focus Energy,17,normal,-,-
+104,12,Leer,17,normal,-,100
+104,13,Leer,17,normal,-,100
+104,14,Focus Energy,17,normal,-,-
+104,15,Focus Energy,17,normal,-,-
+104,16,Focus Energy,17,normal,-,-
+104,2,Headbutt,18,normal,70,100
+104,3,Focus Energy,21,normal,-,-
+104,4,Focus Energy,21,normal,-,-
+104,5,Focus Energy,21,normal,-,-
+104,6,Focus Energy,21,normal,-,-
+104,7,Focus Energy,21,normal,-,-
+104,8,Bonemerang,21,ground,50,90
+104,9,Bonemerang,21,ground,50,90
+104,10,Bonemerang,21,ground,50,90
+104,11,Bonemerang,21,ground,50,90
+104,12,Focus Energy,21,normal,-,-
+104,13,Focus Energy,21,normal,-,-
+104,14,Bonemerang,21,ground,50,90
+104,15,Bonemerang,21,ground,50,90
+104,16,Bonemerang,21,ground,50,90
+104,8,Rage,23,normal,20,100
+104,9,Rage,23,normal,20,100
+104,10,Rage,23,normal,20,100
+104,11,Rage,23,normal,20,100
+104,14,Rage,23,normal,20,100
+104,15,Rage,23,normal,20,100
+104,16,Rage,23,normal,20,100
+104,1,Leer,25,normal,-,100
+104,2,Leer,25,normal,-,100
+104,3,Bonemerang,25,ground,50,90
+104,4,Bonemerang,25,ground,50,90
+104,5,Bonemerang,25,ground,50,90
+104,6,Bonemerang,25,ground,50,90
+104,7,Bonemerang,25,ground,50,90
+104,12,Bonemerang,25,ground,50,90
+104,13,Bonemerang,25,ground,50,90
+104,8,False Swipe,27,normal,40,100
+104,9,False Swipe,27,normal,40,100
+104,10,False Swipe,27,normal,40,100
+104,11,False Swipe,27,normal,40,100
+104,14,False Swipe,27,normal,40,100
+104,15,False Swipe,27,normal,40,100
+104,16,False Swipe,27,normal,40,100
+104,3,Rage,29,normal,20,100
+104,4,Rage,29,normal,20,100
+104,5,Rage,29,normal,20,100
+104,6,Rage,29,normal,20,100
+104,7,Rage,29,normal,20,100
+104,12,Rage,29,normal,20,100
+104,13,Rage,29,normal,20,100
+104,1,Focus Energy,31,normal,-,-
+104,2,Focus Energy,31,normal,-,-
+104,8,Thrash,31,normal,120,100
+104,9,Thrash,31,normal,120,100
+104,10,Thrash,31,normal,120,100
+104,11,Thrash,31,normal,120,100
+104,14,Thrash,31,normal,120,100
+104,15,Thrash,31,normal,120,100
+104,16,Thrash,31,normal,120,100
+104,3,False Swipe,33,normal,40,100
+104,4,False Swipe,33,normal,40,100
+104,5,False Swipe,33,normal,40,100
+104,6,False Swipe,33,normal,40,100
+104,7,False Swipe,33,normal,40,100
+104,8,Fling,33,dark,-,100
+104,9,Fling,33,dark,-,100
+104,10,Fling,33,dark,-,100
+104,11,Fling,33,dark,-,100
+104,12,False Swipe,33,normal,40,100
+104,13,False Swipe,33,normal,40,100
+104,14,Fling,33,dark,-,100
+104,15,Fling,33,dark,-,100
+104,16,Fling,33,dark,-,100
+104,3,Thrash,37,normal,120,100
+104,4,Thrash,37,normal,120,100
+104,5,Thrash,37,normal,120,100
+104,6,Thrash,37,normal,120,100
+104,7,Thrash,37,normal,120,100
+104,8,Bone Rush,37,ground,25,90
+104,9,Bone Rush,37,ground,25,90
+104,10,Bone Rush,37,ground,25,90
+104,11,Bone Rush,37,ground,25,90
+104,12,Thrash,37,normal,120,100
+104,13,Thrash,37,normal,120,100
+104,14,Bone Rush,37,ground,25,90
+104,15,Bone Rush,37,ground,25,90
+104,16,Bone Rush,37,ground,25,90
+104,1,Thrash,38,normal,120,100
+104,2,Thrash,38,normal,120,100
+104,3,Bone Rush,41,ground,25,90
+104,4,Bone Rush,41,ground,25,90
+104,5,Bone Rush,41,ground,25,90
+104,6,Bone Rush,41,ground,25,90
+104,7,Bone Rush,41,ground,25,90
+104,8,Endeavor,41,normal,-,100
+104,9,Endeavor,41,normal,-,100
+104,10,Endeavor,41,normal,-,100
+104,11,Endeavor,41,normal,-,100
+104,12,Bone Rush,41,ground,25,90
+104,13,Bone Rush,41,ground,25,90
+104,14,Endeavor,41,normal,-,100
+104,15,Endeavor,41,normal,-,100
+104,16,Endeavor,41,normal,-,100
+104,1,Bonemerang,43,ground,50,90
+104,2,Bonemerang,43,ground,50,90
+104,8,Double-Edge,43,normal,120,100
+104,9,Double-Edge,43,normal,120,100
+104,10,Double-Edge,43,normal,120,100
+104,11,Double-Edge,43,normal,120,100
+104,14,Double-Edge,43,normal,120,100
+104,15,Double-Edge,43,normal,120,100
+104,16,Double-Edge,43,normal,120,100
+104,5,Double-Edge,45,normal,120,100
+104,6,Double-Edge,45,normal,120,100
+104,7,Double-Edge,45,normal,120,100
+104,12,Double-Edge,45,normal,120,100
+104,13,Double-Edge,45,normal,120,100
+104,1,Rage,46,normal,20,100
+104,2,Rage,46,normal,20,100
+104,11,Retaliate,47,normal,70,100
+104,14,Retaliate,47,normal,70,100
+104,15,Retaliate,47,normal,70,100
+104,16,Retaliate,47,normal,70,100

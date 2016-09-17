@@ -1,0 +1,73 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+560,11,Sand Attack,1,ground,-,100
+560,11,Leer,1,normal,-,100
+560,11,Low Kick,1,fighting,-,100
+560,11,Feint Attack,1,dark,60,-
+560,14,Sand Attack,1,ground,-,100
+560,14,Leer,1,normal,-,100
+560,14,Low Kick,1,fighting,-,100
+560,14,Feint Attack,1,dark,60,-
+560,15,Sand Attack,1,ground,-,100
+560,15,Leer,1,normal,-,100
+560,15,Low Kick,1,fighting,-,100
+560,15,Feint Attack,1,dark,60,-
+560,16,Sand Attack,1,ground,-,100
+560,16,Leer,1,normal,-,100
+560,16,Low Kick,1,fighting,-,100
+560,16,Feint Attack,1,dark,60,-
+560,11,Sand Attack,5,ground,-,100
+560,14,Sand Attack,5,ground,-,100
+560,15,Sand Attack,5,ground,-,100
+560,16,Sand Attack,5,ground,-,100
+560,11,Feint Attack,9,dark,60,-
+560,14,Feint Attack,9,dark,60,-
+560,15,Feint Attack,9,dark,60,-
+560,16,Feint Attack,9,dark,60,-
+560,11,Headbutt,12,normal,70,100
+560,14,Headbutt,12,normal,70,100
+560,15,Headbutt,12,normal,70,100
+560,16,Headbutt,12,normal,70,100
+560,11,Swagger,16,normal,-,90
+560,14,Swagger,16,normal,-,90
+560,15,Swagger,16,normal,-,90
+560,16,Swagger,16,normal,-,90
+560,11,Brick Break,20,fighting,75,100
+560,14,Brick Break,20,fighting,75,100
+560,15,Brick Break,20,fighting,75,100
+560,16,Brick Break,20,fighting,75,100
+560,11,Payback,23,dark,50,100
+560,14,Payback,23,dark,50,100
+560,15,Payback,23,dark,50,100
+560,16,Payback,23,dark,50,100
+560,11,Chip Away,27,normal,70,100
+560,14,Chip Away,27,normal,70,100
+560,15,Chip Away,27,normal,70,100
+560,16,Chip Away,27,normal,70,100
+560,11,High Jump Kick,31,fighting,130,90
+560,14,High Jump Kick,31,fighting,130,90
+560,15,High Jump Kick,31,fighting,130,90
+560,16,High Jump Kick,31,fighting,130,90
+560,11,Scary Face,34,normal,-,100
+560,14,Scary Face,34,normal,-,100
+560,15,Scary Face,34,normal,-,100
+560,16,Scary Face,34,normal,-,100
+560,11,Crunch,38,dark,80,100
+560,14,Crunch,38,dark,80,100
+560,15,Crunch,38,dark,80,100
+560,16,Crunch,38,dark,80,100
+560,11,Facade,45,normal,70,100
+560,14,Facade,45,normal,70,100
+560,15,Facade,45,normal,70,100
+560,16,Facade,45,normal,70,100
+560,11,Rock Climb,51,normal,90,85
+560,14,Rock Climb,51,normal,90,85
+560,15,Rock Climb,51,normal,90,85
+560,16,Rock Climb,51,normal,90,85
+560,11,Focus Punch,58,fighting,150,100
+560,14,Focus Punch,58,fighting,150,100
+560,15,Focus Punch,58,fighting,150,100
+560,16,Focus Punch,58,fighting,150,100
+560,11,Head Smash,65,rock,150,80
+560,14,Head Smash,65,rock,150,80
+560,15,Head Smash,65,rock,150,80
+560,16,Head Smash,65,rock,150,80

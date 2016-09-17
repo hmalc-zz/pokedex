@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+599,11,Vice Grip,1,normal,55,100
+599,14,Vice Grip,1,normal,55,100
+599,15,Vice Grip,1,normal,55,100
+599,16,Vice Grip,1,normal,55,100
+599,11,Charge,6,electric,-,-
+599,14,Charge,6,electric,-,-
+599,15,Charge,6,electric,-,-
+599,16,Charge,6,electric,-,-
+599,11,Thunder Shock,11,electric,40,100
+599,14,Thunder Shock,11,electric,40,100
+599,15,Thunder Shock,11,electric,40,100
+599,16,Thunder Shock,11,electric,40,100
+599,11,Gear Grind,16,steel,50,85
+599,14,Gear Grind,16,steel,50,85
+599,15,Gear Grind,16,steel,50,85
+599,16,Gear Grind,16,steel,50,85
+599,11,Bind,21,normal,15,85
+599,14,Bind,21,normal,15,85
+599,15,Bind,21,normal,15,85
+599,16,Bind,21,normal,15,85
+599,11,Charge Beam,26,electric,50,90
+599,14,Charge Beam,26,electric,50,90
+599,15,Charge Beam,26,electric,50,90
+599,16,Charge Beam,26,electric,50,90
+599,11,Autotomize,31,steel,-,-
+599,14,Autotomize,31,steel,-,-
+599,15,Autotomize,31,steel,-,-
+599,16,Autotomize,31,steel,-,-
+599,11,Mirror Shot,36,steel,65,85
+599,14,Mirror Shot,36,steel,65,85
+599,15,Mirror Shot,36,steel,65,85
+599,16,Mirror Shot,36,steel,65,85
+599,11,Screech,39,normal,-,85
+599,14,Screech,39,normal,-,85
+599,15,Screech,39,normal,-,85
+599,16,Screech,39,normal,-,85
+599,11,Discharge,42,electric,80,100
+599,14,Discharge,42,electric,80,100
+599,15,Discharge,42,electric,80,100
+599,16,Discharge,42,electric,80,100
+599,11,Metal Sound,45,steel,-,85
+599,14,Metal Sound,45,steel,-,85
+599,15,Metal Sound,45,steel,-,85
+599,16,Metal Sound,45,steel,-,85
+599,11,Shift Gear,48,steel,-,-
+599,14,Shift Gear,48,steel,-,-
+599,15,Shift Gear,48,steel,-,-
+599,16,Shift Gear,48,steel,-,-
+599,15,Lock-On,50,normal,-,-
+599,16,Lock-On,50,normal,-,-
+599,11,Lock-On,51,normal,-,-
+599,14,Lock-On,51,normal,-,-
+599,11,Zap Cannon,54,electric,120,50
+599,14,Zap Cannon,54,electric,120,50
+599,15,Zap Cannon,54,electric,120,50
+599,16,Zap Cannon,54,electric,120,50
+599,11,Hyper Beam,57,normal,150,90
+599,14,Hyper Beam,57,normal,150,90
+599,15,Hyper Beam,57,normal,150,90
+599,16,Hyper Beam,57,normal,150,90

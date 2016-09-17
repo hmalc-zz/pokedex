@@ -1,0 +1,69 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+525,11,Sand Attack,1,ground,-,100
+525,11,Headbutt,1,normal,70,100
+525,11,Tackle,1,normal,50,100
+525,11,Harden,1,normal,-,-
+525,14,Sand Attack,1,ground,-,100
+525,14,Headbutt,1,normal,70,100
+525,14,Tackle,1,normal,50,100
+525,14,Harden,1,normal,-,-
+525,15,Sand Attack,1,ground,-,100
+525,15,Headbutt,1,normal,70,100
+525,15,Tackle,1,normal,50,100
+525,15,Harden,1,normal,-,-
+525,16,Sand Attack,1,ground,-,100
+525,16,Headbutt,1,normal,70,100
+525,16,Tackle,1,normal,50,100
+525,16,Harden,1,normal,-,-
+525,11,Harden,4,normal,-,-
+525,14,Harden,4,normal,-,-
+525,15,Harden,4,normal,-,-
+525,16,Harden,4,normal,-,-
+525,11,Sand Attack,7,ground,-,100
+525,14,Sand Attack,7,ground,-,100
+525,15,Sand Attack,7,ground,-,100
+525,16,Sand Attack,7,ground,-,100
+525,11,Headbutt,10,normal,70,100
+525,14,Headbutt,10,normal,70,100
+525,15,Headbutt,10,normal,70,100
+525,16,Headbutt,10,normal,70,100
+525,11,Rock Blast,14,rock,25,90
+525,14,Rock Blast,14,rock,25,90
+525,15,Rock Blast,14,rock,25,90
+525,16,Rock Blast,14,rock,25,90
+525,11,Mud-Slap,17,ground,20,100
+525,14,Mud-Slap,17,ground,20,100
+525,15,Mud-Slap,17,ground,20,100
+525,16,Mud-Slap,17,ground,20,100
+525,11,Iron Defense,20,steel,-,-
+525,14,Iron Defense,20,steel,-,-
+525,15,Iron Defense,20,steel,-,-
+525,16,Iron Defense,20,steel,-,-
+525,11,Smack Down,23,rock,50,100
+525,14,Smack Down,23,rock,50,100
+525,15,Smack Down,23,rock,50,100
+525,16,Smack Down,23,rock,50,100
+525,11,Power Gem,25,rock,80,100
+525,14,Power Gem,25,rock,80,100
+525,15,Power Gem,25,rock,80,100
+525,16,Power Gem,25,rock,80,100
+525,11,Rock Slide,30,rock,75,90
+525,14,Rock Slide,30,rock,75,90
+525,15,Rock Slide,30,rock,75,90
+525,16,Rock Slide,30,rock,75,90
+525,11,Stealth Rock,36,rock,-,-
+525,14,Stealth Rock,36,rock,-,-
+525,15,Stealth Rock,36,rock,-,-
+525,16,Stealth Rock,36,rock,-,-
+525,11,Sandstorm,42,rock,-,-
+525,14,Sandstorm,42,rock,-,-
+525,15,Sandstorm,42,rock,-,-
+525,16,Sandstorm,42,rock,-,-
+525,11,Stone Edge,48,rock,100,80
+525,14,Stone Edge,48,rock,100,80
+525,15,Stone Edge,48,rock,100,80
+525,16,Stone Edge,48,rock,100,80
+525,11,Explosion,55,normal,250,100
+525,14,Explosion,55,normal,250,100
+525,15,Explosion,55,normal,250,100
+525,16,Explosion,55,normal,250,100

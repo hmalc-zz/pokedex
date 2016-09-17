@@ -1,0 +1,41 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+699,15,Growl,1,normal,-,100
+699,15,Powder Snow,1,ice,40,100
+699,15,Freeze-Dry,1,ice,70,100
+699,16,Growl,1,normal,-,100
+699,16,Powder Snow,1,ice,40,100
+699,16,Freeze-Dry,1,ice,70,100
+699,15,Thunder Wave,5,electric,-,100
+699,16,Thunder Wave,5,electric,-,100
+699,15,Rock Throw,10,rock,50,90
+699,16,Rock Throw,10,rock,50,90
+699,15,Icy Wind,13,ice,55,95
+699,16,Icy Wind,13,ice,55,95
+699,15,Take Down,15,normal,90,85
+699,16,Take Down,15,normal,90,85
+699,15,Mist,18,ice,-,-
+699,16,Mist,18,ice,-,-
+699,15,Aurora Beam,20,ice,65,100
+699,16,Aurora Beam,20,ice,65,100
+699,15,Ancient Power,26,rock,60,100
+699,16,Ancient Power,26,rock,60,100
+699,15,Round,30,normal,60,100
+699,16,Round,30,normal,60,100
+699,15,Avalanche,34,ice,60,100
+699,16,Avalanche,34,ice,60,100
+699,15,Hail,38,ice,-,-
+699,16,Hail,38,ice,-,-
+699,15,Nature Power,43,normal,-,-
+699,16,Nature Power,43,normal,-,-
+699,15,Encore,46,normal,-,100
+699,16,Encore,46,normal,-,100
+699,15,Light Screen,50,psychic,-,-
+699,16,Light Screen,50,psychic,-,-
+699,15,Ice Beam,56,ice,90,100
+699,16,Ice Beam,56,ice,90,100
+699,15,Hyper Beam,63,normal,150,90
+699,16,Hyper Beam,63,normal,150,90
+699,15,Blizzard,74,ice,110,70
+699,16,Blizzard,74,ice,110,70
+699,15,Freeze-Dry,77,ice,70,100
+699,16,Freeze-Dry,77,ice,70,100

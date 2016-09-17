@@ -1,0 +1,78 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+174,3,Sing,1,normal,-,55
+174,3,Charm,1,fairy,-,100
+174,4,Sing,1,normal,-,55
+174,4,Charm,1,fairy,-,100
+174,5,Sing,1,normal,-,55
+174,5,Charm,1,fairy,-,100
+174,6,Sing,1,normal,-,55
+174,6,Charm,1,fairy,-,100
+174,7,Sing,1,normal,-,55
+174,7,Charm,1,fairy,-,100
+174,8,Sing,1,normal,-,55
+174,8,Charm,1,fairy,-,100
+174,9,Sing,1,normal,-,55
+174,9,Charm,1,fairy,-,100
+174,10,Sing,1,normal,-,55
+174,10,Charm,1,fairy,-,100
+174,11,Sing,1,normal,-,55
+174,11,Charm,1,fairy,-,100
+174,12,Sing,1,normal,-,55
+174,12,Charm,1,fairy,-,100
+174,13,Sing,1,normal,-,55
+174,13,Charm,1,fairy,-,100
+174,14,Sing,1,normal,-,55
+174,14,Charm,1,fairy,-,100
+174,15,Sing,1,normal,-,55
+174,15,Charm,1,fairy,-,100
+174,16,Sing,1,normal,-,55
+174,16,Charm,1,fairy,-,100
+174,16,Defense Curl,3,normal,-,-
+174,3,Defense Curl,4,normal,-,-
+174,4,Defense Curl,4,normal,-,-
+174,5,Defense Curl,4,normal,-,-
+174,6,Defense Curl,4,normal,-,-
+174,7,Defense Curl,4,normal,-,-
+174,12,Defense Curl,4,normal,-,-
+174,13,Defense Curl,4,normal,-,-
+174,8,Defense Curl,5,normal,-,-
+174,9,Defense Curl,5,normal,-,-
+174,10,Defense Curl,5,normal,-,-
+174,11,Defense Curl,5,normal,-,-
+174,14,Defense Curl,5,normal,-,-
+174,15,Defense Curl,5,normal,-,-
+174,16,Pound,5,normal,40,100
+174,3,Pound,9,normal,40,100
+174,4,Pound,9,normal,40,100
+174,5,Pound,9,normal,40,100
+174,6,Pound,9,normal,40,100
+174,7,Pound,9,normal,40,100
+174,8,Pound,9,normal,40,100
+174,9,Pound,9,normal,40,100
+174,10,Pound,9,normal,40,100
+174,11,Pound,9,normal,40,100
+174,12,Pound,9,normal,40,100
+174,13,Pound,9,normal,40,100
+174,14,Pound,9,normal,40,100
+174,15,Pound,9,normal,40,100
+174,16,Sweet Kiss,9,fairy,-,75
+174,16,Copycat,11,normal,-,-
+174,8,Sweet Kiss,13,fairy,-,75
+174,9,Sweet Kiss,13,fairy,-,75
+174,10,Sweet Kiss,13,fairy,-,75
+174,11,Sweet Kiss,13,fairy,-,75
+174,14,Sweet Kiss,13,fairy,-,75
+174,15,Sweet Kiss,13,fairy,-,75
+174,3,Sweet Kiss,14,fairy,-,75
+174,4,Sweet Kiss,14,fairy,-,75
+174,5,Sweet Kiss,14,fairy,-,75
+174,6,Sweet Kiss,14,fairy,-,75
+174,7,Sweet Kiss,14,fairy,-,75
+174,12,Sweet Kiss,14,fairy,-,75
+174,13,Sweet Kiss,14,fairy,-,75
+174,8,Copycat,17,normal,-,-
+174,9,Copycat,17,normal,-,-
+174,10,Copycat,17,normal,-,-
+174,11,Copycat,17,normal,-,-
+174,14,Copycat,17,normal,-,-
+174,15,Copycat,17,normal,-,-

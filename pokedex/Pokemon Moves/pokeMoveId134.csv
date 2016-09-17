@@ -1,0 +1,198 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+134,1,Sand Attack,1,ground,-,100
+134,1,Tackle,1,normal,50,100
+134,1,Water Gun,1,water,40,100
+134,1,Quick Attack,1,normal,40,100
+134,2,Tackle,1,normal,50,100
+134,2,Tail Whip,1,normal,-,100
+134,2,Water Gun,1,water,40,100
+134,2,Quick Attack,1,normal,40,100
+134,3,Tackle,1,normal,50,100
+134,3,Tail Whip,1,normal,-,100
+134,4,Tackle,1,normal,50,100
+134,4,Tail Whip,1,normal,-,100
+134,5,Tackle,1,normal,50,100
+134,5,Tail Whip,1,normal,-,100
+134,5,Helping Hand,1,normal,-,-
+134,6,Tackle,1,normal,50,100
+134,6,Tail Whip,1,normal,-,100
+134,6,Helping Hand,1,normal,-,-
+134,7,Tackle,1,normal,50,100
+134,7,Tail Whip,1,normal,-,100
+134,7,Helping Hand,1,normal,-,-
+134,8,Tackle,1,normal,50,100
+134,8,Tail Whip,1,normal,-,100
+134,8,Helping Hand,1,normal,-,-
+134,9,Tackle,1,normal,50,100
+134,9,Tail Whip,1,normal,-,100
+134,9,Helping Hand,1,normal,-,-
+134,10,Tackle,1,normal,50,100
+134,10,Tail Whip,1,normal,-,100
+134,10,Helping Hand,1,normal,-,-
+134,11,Tackle,1,normal,50,100
+134,11,Tail Whip,1,normal,-,100
+134,11,Helping Hand,1,normal,-,-
+134,12,Tackle,1,normal,50,100
+134,12,Tail Whip,1,normal,-,100
+134,12,Helping Hand,1,normal,-,-
+134,13,Tackle,1,normal,50,100
+134,13,Tail Whip,1,normal,-,100
+134,13,Helping Hand,1,normal,-,-
+134,14,Tackle,1,normal,50,100
+134,14,Tail Whip,1,normal,-,100
+134,14,Helping Hand,1,normal,-,-
+134,15,Tackle,1,normal,50,100
+134,15,Tail Whip,1,normal,-,100
+134,15,Helping Hand,1,normal,-,-
+134,16,Tackle,1,normal,50,100
+134,16,Tail Whip,1,normal,-,100
+134,16,Helping Hand,1,normal,-,-
+134,14,Sand Attack,5,ground,-,100
+134,15,Sand Attack,5,ground,-,100
+134,16,Sand Attack,5,ground,-,100
+134,2,Sand Attack,8,ground,-,100
+134,3,Sand Attack,8,ground,-,100
+134,4,Sand Attack,8,ground,-,100
+134,5,Sand Attack,8,ground,-,100
+134,6,Sand Attack,8,ground,-,100
+134,7,Sand Attack,8,ground,-,100
+134,8,Sand Attack,8,ground,-,100
+134,9,Sand Attack,8,ground,-,100
+134,10,Sand Attack,8,ground,-,100
+134,11,Sand Attack,8,ground,-,100
+134,12,Sand Attack,8,ground,-,100
+134,13,Sand Attack,8,ground,-,100
+134,14,Water Gun,9,water,40,100
+134,15,Water Gun,9,water,40,100
+134,16,Water Gun,9,water,40,100
+134,14,Quick Attack,13,normal,40,100
+134,15,Quick Attack,13,normal,40,100
+134,16,Quick Attack,13,normal,40,100
+134,8,Water Gun,15,water,40,100
+134,9,Water Gun,15,water,40,100
+134,10,Water Gun,15,water,40,100
+134,11,Water Gun,15,water,40,100
+134,2,Water Gun,16,water,40,100
+134,3,Water Gun,16,water,40,100
+134,4,Water Gun,16,water,40,100
+134,5,Water Gun,16,water,40,100
+134,6,Water Gun,16,water,40,100
+134,7,Water Gun,16,water,40,100
+134,12,Water Gun,16,water,40,100
+134,13,Water Gun,16,water,40,100
+134,14,Water Pulse,17,water,60,100
+134,15,Water Pulse,17,water,60,100
+134,16,Water Pulse,17,water,60,100
+134,15,Aurora Beam,20,ice,65,100
+134,16,Aurora Beam,20,ice,65,100
+134,14,Aurora Beam,21,ice,65,100
+134,8,Quick Attack,22,normal,40,100
+134,9,Quick Attack,22,normal,40,100
+134,10,Quick Attack,22,normal,40,100
+134,11,Quick Attack,22,normal,40,100
+134,2,Quick Attack,23,normal,40,100
+134,3,Quick Attack,23,normal,40,100
+134,4,Quick Attack,23,normal,40,100
+134,5,Quick Attack,23,normal,40,100
+134,6,Quick Attack,23,normal,40,100
+134,7,Quick Attack,23,normal,40,100
+134,12,Quick Attack,23,normal,40,100
+134,13,Quick Attack,23,normal,40,100
+134,14,Aqua Ring,25,water,-,-
+134,15,Aqua Ring,25,water,-,-
+134,16,Aqua Ring,25,water,-,-
+134,1,Quick Attack,27,normal,40,100
+134,8,Bite,29,dark,60,100
+134,9,Bite,29,dark,60,100
+134,10,Bite,29,dark,60,100
+134,11,Bite,29,dark,60,100
+134,14,Acid Armor,29,poison,-,-
+134,15,Acid Armor,29,poison,-,-
+134,16,Acid Armor,29,poison,-,-
+134,2,Bite,30,dark,60,100
+134,3,Bite,30,dark,60,100
+134,4,Bite,30,dark,60,100
+134,5,Bite,30,dark,60,100
+134,6,Bite,30,dark,60,100
+134,7,Bite,30,dark,60,100
+134,12,Bite,30,dark,60,100
+134,13,Bite,30,dark,60,100
+134,1,Water Gun,31,water,40,100
+134,14,Haze,33,ice,-,-
+134,15,Haze,33,ice,-,-
+134,16,Haze,33,ice,-,-
+134,2,Aurora Beam,36,ice,65,100
+134,3,Aurora Beam,36,ice,65,100
+134,4,Aurora Beam,36,ice,65,100
+134,5,Aurora Beam,36,ice,65,100
+134,6,Aurora Beam,36,ice,65,100
+134,7,Aurora Beam,36,ice,65,100
+134,8,Aurora Beam,36,ice,65,100
+134,9,Aurora Beam,36,ice,65,100
+134,10,Aurora Beam,36,ice,65,100
+134,11,Aurora Beam,36,ice,65,100
+134,12,Aurora Beam,36,ice,65,100
+134,13,Aurora Beam,36,ice,65,100
+134,1,Tail Whip,37,normal,-,100
+134,14,Muddy Water,37,water,90,85
+134,15,Muddy Water,37,water,90,85
+134,16,Muddy Water,37,water,90,85
+134,1,Bite,40,dark,60,100
+134,14,Last Resort,41,normal,140,100
+134,15,Last Resort,41,normal,140,100
+134,16,Last Resort,41,normal,140,100
+134,1,Acid Armor,42,poison,-,-
+134,2,Mist,42,ice,-,-
+134,2,Haze,42,ice,-,-
+134,3,Haze,42,ice,-,-
+134,4,Haze,42,ice,-,-
+134,5,Haze,42,ice,-,-
+134,6,Haze,42,ice,-,-
+134,7,Haze,42,ice,-,-
+134,12,Haze,42,ice,-,-
+134,13,Haze,42,ice,-,-
+134,8,Aqua Ring,43,water,-,-
+134,9,Aqua Ring,43,water,-,-
+134,10,Aqua Ring,43,water,-,-
+134,11,Aqua Ring,43,water,-,-
+134,1,Haze,44,ice,-,-
+134,14,Hydro Pump,45,water,110,80
+134,15,Hydro Pump,45,water,110,80
+134,16,Hydro Pump,45,water,110,80
+134,2,Acid Armor,47,poison,-,-
+134,3,Acid Armor,47,poison,-,-
+134,4,Acid Armor,47,poison,-,-
+134,5,Acid Armor,47,poison,-,-
+134,6,Acid Armor,47,poison,-,-
+134,7,Acid Armor,47,poison,-,-
+134,12,Acid Armor,47,poison,-,-
+134,13,Acid Armor,47,poison,-,-
+134,1,Mist,48,ice,-,-
+134,8,Last Resort,50,normal,140,100
+134,9,Last Resort,50,normal,140,100
+134,10,Last Resort,50,normal,140,100
+134,11,Last Resort,50,normal,140,100
+134,2,Hydro Pump,52,water,110,80
+134,3,Hydro Pump,52,water,110,80
+134,4,Hydro Pump,52,water,110,80
+134,5,Hydro Pump,52,water,110,80
+134,6,Hydro Pump,52,water,110,80
+134,7,Hydro Pump,52,water,110,80
+134,12,Hydro Pump,52,water,110,80
+134,13,Hydro Pump,52,water,110,80
+134,1,Hydro Pump,54,water,110,80
+134,8,Haze,57,ice,-,-
+134,9,Haze,57,ice,-,-
+134,10,Haze,57,ice,-,-
+134,11,Haze,57,ice,-,-
+134,8,Acid Armor,64,poison,-,-
+134,9,Acid Armor,64,poison,-,-
+134,10,Acid Armor,64,poison,-,-
+134,11,Acid Armor,64,poison,-,-
+134,8,Hydro Pump,71,water,110,80
+134,9,Hydro Pump,71,water,110,80
+134,10,Hydro Pump,71,water,110,80
+134,11,Hydro Pump,71,water,110,80
+134,9,Muddy Water,78,water,90,85
+134,10,Muddy Water,78,water,90,85
+134,11,Muddy Water,78,water,90,85

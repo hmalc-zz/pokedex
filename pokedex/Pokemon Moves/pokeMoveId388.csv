@@ -1,0 +1,92 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+388,8,Tackle,1,normal,50,100
+388,8,Withdraw,1,water,-,-
+388,9,Tackle,1,normal,50,100
+388,9,Withdraw,1,water,-,-
+388,10,Tackle,1,normal,50,100
+388,10,Withdraw,1,water,-,-
+388,11,Tackle,1,normal,50,100
+388,11,Withdraw,1,water,-,-
+388,14,Tackle,1,normal,50,100
+388,14,Withdraw,1,water,-,-
+388,15,Tackle,1,normal,50,100
+388,15,Withdraw,1,water,-,-
+388,16,Tackle,1,normal,50,100
+388,16,Withdraw,1,water,-,-
+388,8,Withdraw,5,water,-,-
+388,9,Withdraw,5,water,-,-
+388,10,Withdraw,5,water,-,-
+388,11,Withdraw,5,water,-,-
+388,14,Withdraw,5,water,-,-
+388,15,Withdraw,5,water,-,-
+388,16,Withdraw,5,water,-,-
+388,8,Absorb,9,grass,20,100
+388,9,Absorb,9,grass,20,100
+388,10,Absorb,9,grass,20,100
+388,11,Absorb,9,grass,20,100
+388,14,Absorb,9,grass,20,100
+388,15,Absorb,9,grass,20,100
+388,16,Absorb,9,grass,20,100
+388,8,Razor Leaf,13,grass,55,95
+388,9,Razor Leaf,13,grass,55,95
+388,10,Razor Leaf,13,grass,55,95
+388,11,Razor Leaf,13,grass,55,95
+388,14,Razor Leaf,13,grass,55,95
+388,15,Razor Leaf,13,grass,55,95
+388,16,Razor Leaf,13,grass,55,95
+388,8,Curse,17,ghost,-,-
+388,9,Curse,17,ghost,-,-
+388,10,Curse,17,ghost,-,-
+388,11,Curse,17,ghost,-,-
+388,14,Curse,17,ghost,-,-
+388,15,Curse,17,ghost,-,-
+388,16,Curse,17,ghost,-,-
+388,8,Bite,22,dark,60,100
+388,9,Bite,22,dark,60,100
+388,10,Bite,22,dark,60,100
+388,11,Bite,22,dark,60,100
+388,14,Bite,22,dark,60,100
+388,15,Bite,22,dark,60,100
+388,16,Bite,22,dark,60,100
+388,8,Mega Drain,27,grass,40,100
+388,9,Mega Drain,27,grass,40,100
+388,10,Mega Drain,27,grass,40,100
+388,11,Mega Drain,27,grass,40,100
+388,14,Mega Drain,27,grass,40,100
+388,15,Mega Drain,27,grass,40,100
+388,16,Mega Drain,27,grass,40,100
+388,8,Leech Seed,32,grass,-,90
+388,9,Leech Seed,32,grass,-,90
+388,10,Leech Seed,32,grass,-,90
+388,11,Leech Seed,32,grass,-,90
+388,14,Leech Seed,32,grass,-,90
+388,15,Leech Seed,32,grass,-,90
+388,16,Leech Seed,32,grass,-,90
+388,8,Synthesis,37,grass,-,-
+388,9,Synthesis,37,grass,-,-
+388,10,Synthesis,37,grass,-,-
+388,11,Synthesis,37,grass,-,-
+388,14,Synthesis,37,grass,-,-
+388,15,Synthesis,37,grass,-,-
+388,16,Synthesis,37,grass,-,-
+388,8,Crunch,42,dark,80,100
+388,9,Crunch,42,dark,80,100
+388,10,Crunch,42,dark,80,100
+388,11,Crunch,42,dark,80,100
+388,14,Crunch,42,dark,80,100
+388,15,Crunch,42,dark,80,100
+388,16,Crunch,42,dark,80,100
+388,8,Giga Drain,47,grass,75,100
+388,9,Giga Drain,47,grass,75,100
+388,10,Giga Drain,47,grass,75,100
+388,11,Giga Drain,47,grass,75,100
+388,14,Giga Drain,47,grass,75,100
+388,15,Giga Drain,47,grass,75,100
+388,16,Giga Drain,47,grass,75,100
+388,8,Leaf Storm,52,grass,130,90
+388,9,Leaf Storm,52,grass,130,90
+388,10,Leaf Storm,52,grass,130,90
+388,11,Leaf Storm,52,grass,130,90
+388,14,Leaf Storm,52,grass,130,90
+388,15,Leaf Storm,52,grass,130,90
+388,16,Leaf Storm,52,grass,130,90

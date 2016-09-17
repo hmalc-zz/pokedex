@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+603,11,Headbutt,1,normal,70,100
+603,11,Thunder Wave,1,electric,-,100
+603,11,Spark,1,electric,65,100
+603,11,Charge Beam,1,electric,50,90
+603,14,Headbutt,1,normal,70,100
+603,14,Thunder Wave,1,electric,-,100
+603,14,Spark,1,electric,65,100
+603,14,Charge Beam,1,electric,50,90
+603,15,Headbutt,1,normal,70,100
+603,15,Thunder Wave,1,electric,-,100
+603,15,Spark,1,electric,65,100
+603,15,Charge Beam,1,electric,50,90
+603,16,Headbutt,1,normal,70,100
+603,16,Thunder Wave,1,electric,-,100
+603,16,Spark,1,electric,65,100
+603,16,Charge Beam,1,electric,50,90
+603,11,Bind,9,normal,15,85
+603,14,Bind,9,normal,15,85
+603,15,Bind,9,normal,15,85
+603,16,Bind,9,normal,15,85
+603,11,Acid,19,poison,40,100
+603,14,Acid,19,poison,40,100
+603,15,Acid,19,poison,40,100
+603,16,Acid,19,poison,40,100
+603,11,Discharge,29,electric,80,100
+603,14,Discharge,29,electric,80,100
+603,15,Discharge,29,electric,80,100
+603,16,Discharge,29,electric,80,100
+603,11,Crunch,39,dark,80,100
+603,14,Crunch,39,dark,80,100
+603,15,Crunch,39,dark,80,100
+603,16,Crunch,39,dark,80,100
+603,11,Thunderbolt,44,electric,90,100
+603,14,Thunderbolt,44,electric,90,100
+603,15,Thunderbolt,44,electric,90,100
+603,16,Thunderbolt,44,electric,90,100
+603,11,Acid Spray,49,poison,40,100
+603,14,Acid Spray,49,poison,40,100
+603,15,Acid Spray,49,poison,40,100
+603,16,Acid Spray,49,poison,40,100
+603,11,Coil,54,poison,-,-
+603,14,Coil,54,poison,-,-
+603,15,Coil,54,poison,-,-
+603,16,Coil,54,poison,-,-
+603,11,Wild Charge,59,electric,90,100
+603,14,Wild Charge,59,electric,90,100
+603,15,Wild Charge,59,electric,90,100
+603,16,Wild Charge,59,electric,90,100
+603,11,Gastro Acid,64,poison,-,100
+603,14,Gastro Acid,64,poison,-,100
+603,15,Gastro Acid,64,poison,-,100
+603,16,Gastro Acid,64,poison,-,100
+603,11,Zap Cannon,69,electric,120,50
+603,14,Zap Cannon,69,electric,120,50
+603,15,Zap Cannon,69,electric,120,50
+603,16,Zap Cannon,69,electric,120,50
+603,11,Thrash,74,normal,120,100
+603,14,Thrash,74,normal,120,100
+603,15,Thrash,74,normal,120,100
+603,16,Thrash,74,normal,120,100

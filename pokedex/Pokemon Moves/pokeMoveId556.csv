@@ -1,0 +1,80 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+556,11,Peck,1,flying,35,100
+556,11,Absorb,1,grass,20,100
+556,14,Peck,1,flying,35,100
+556,14,Absorb,1,grass,20,100
+556,15,Peck,1,flying,35,100
+556,15,Absorb,1,grass,20,100
+556,15,After You,1,normal,-,-
+556,15,Cotton Guard,1,grass,-,-
+556,16,Peck,1,flying,35,100
+556,16,Absorb,1,grass,20,100
+556,16,After You,1,normal,-,-
+556,16,Cotton Guard,1,grass,-,-
+556,16,Spiky Shield,1,grass,-,-
+556,11,Sweet Scent,3,normal,-,100
+556,14,Sweet Scent,3,normal,-,100
+556,15,Sweet Scent,3,normal,-,100
+556,16,Sweet Scent,3,normal,-,100
+556,11,Growth,6,normal,-,-
+556,14,Growth,6,normal,-,-
+556,15,Growth,6,normal,-,-
+556,16,Growth,6,normal,-,-
+556,11,Pin Missile,10,bug,25,95
+556,14,Pin Missile,10,bug,25,95
+556,15,Pin Missile,10,bug,25,95
+556,16,Pin Missile,10,bug,25,95
+556,11,Mega Drain,13,grass,40,100
+556,14,Mega Drain,13,grass,40,100
+556,15,Mega Drain,13,grass,40,100
+556,16,Mega Drain,13,grass,40,100
+556,11,Synthesis,15,grass,-,-
+556,14,Synthesis,15,grass,-,-
+556,15,Synthesis,15,grass,-,-
+556,16,Synthesis,15,grass,-,-
+556,11,Cotton Spore,18,grass,-,100
+556,14,Cotton Spore,18,grass,-,100
+556,15,Cotton Spore,18,grass,-,100
+556,16,Cotton Spore,18,grass,-,100
+556,11,Needle Arm,22,grass,60,100
+556,14,Needle Arm,22,grass,60,100
+556,15,Needle Arm,22,grass,60,100
+556,16,Needle Arm,22,grass,60,100
+556,11,Giga Drain,26,grass,75,100
+556,14,Giga Drain,26,grass,75,100
+556,15,Giga Drain,26,grass,75,100
+556,16,Giga Drain,26,grass,75,100
+556,11,Acupressure,29,normal,-,-
+556,14,Acupressure,29,normal,-,-
+556,15,Acupressure,29,normal,-,-
+556,16,Acupressure,29,normal,-,-
+556,11,Ingrain,33,grass,-,-
+556,14,Ingrain,33,grass,-,-
+556,15,Ingrain,33,grass,-,-
+556,16,Ingrain,33,grass,-,-
+556,11,Petal Dance,38,grass,120,100
+556,14,Petal Dance,38,grass,120,100
+556,15,Petal Dance,38,grass,120,100
+556,16,Petal Dance,38,grass,120,100
+556,11,Sucker Punch,42,dark,80,100
+556,14,Sucker Punch,42,dark,80,100
+556,15,Sucker Punch,42,dark,80,100
+556,16,Sucker Punch,42,dark,80,100
+556,11,Sunny Day,45,fire,-,-
+556,14,Sunny Day,45,fire,-,-
+556,15,Sunny Day,45,fire,-,-
+556,16,Sunny Day,45,fire,-,-
+556,15,Petal Blizzard,48,grass,90,100
+556,16,Petal Blizzard,48,grass,90,100
+556,11,Solar Beam,50,grass,120,100
+556,14,Solar Beam,50,grass,120,100
+556,15,Solar Beam,50,grass,120,100
+556,16,Solar Beam,50,grass,120,100
+556,11,Cotton Guard,55,grass,-,-
+556,14,Cotton Guard,55,grass,-,-
+556,15,Cotton Guard,55,grass,-,-
+556,16,Cotton Guard,55,grass,-,-
+556,11,After You,57,normal,-,-
+556,14,After You,57,normal,-,-
+556,15,After You,57,normal,-,-
+556,16,After You,57,normal,-,-

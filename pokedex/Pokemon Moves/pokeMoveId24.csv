@@ -1,0 +1,252 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+24,1,Wrap,1,normal,15,90
+24,1,Poison Sting,1,poison,15,100
+24,1,Leer,1,normal,-,100
+24,2,Wrap,1,normal,15,90
+24,2,Poison Sting,1,poison,15,100
+24,2,Leer,1,normal,-,100
+24,3,Wrap,1,normal,15,90
+24,3,Poison Sting,1,poison,15,100
+24,3,Leer,1,normal,-,100
+24,3,Bite,1,dark,60,100
+24,4,Wrap,1,normal,15,90
+24,4,Poison Sting,1,poison,15,100
+24,4,Leer,1,normal,-,100
+24,4,Bite,1,dark,60,100
+24,5,Wrap,1,normal,15,90
+24,5,Poison Sting,1,poison,15,100
+24,5,Leer,1,normal,-,100
+24,5,Bite,1,dark,60,100
+24,6,Wrap,1,normal,15,90
+24,6,Poison Sting,1,poison,15,100
+24,6,Leer,1,normal,-,100
+24,6,Bite,1,dark,60,100
+24,7,Wrap,1,normal,15,90
+24,7,Poison Sting,1,poison,15,100
+24,7,Leer,1,normal,-,100
+24,7,Bite,1,dark,60,100
+24,8,Wrap,1,normal,15,90
+24,8,Poison Sting,1,poison,15,100
+24,8,Leer,1,normal,-,100
+24,8,Bite,1,dark,60,100
+24,8,Thunder Fang,1,electric,65,95
+24,8,Ice Fang,1,ice,65,95
+24,8,Fire Fang,1,fire,65,95
+24,9,Wrap,1,normal,15,90
+24,9,Poison Sting,1,poison,15,100
+24,9,Leer,1,normal,-,100
+24,9,Bite,1,dark,60,100
+24,9,Thunder Fang,1,electric,65,95
+24,9,Ice Fang,1,ice,65,95
+24,9,Fire Fang,1,fire,65,95
+24,10,Wrap,1,normal,15,90
+24,10,Poison Sting,1,poison,15,100
+24,10,Leer,1,normal,-,100
+24,10,Bite,1,dark,60,100
+24,10,Thunder Fang,1,electric,65,95
+24,10,Ice Fang,1,ice,65,95
+24,10,Fire Fang,1,fire,65,95
+24,11,Wrap,1,normal,15,90
+24,11,Poison Sting,1,poison,15,100
+24,11,Leer,1,normal,-,100
+24,11,Bite,1,dark,60,100
+24,11,Thunder Fang,1,electric,65,95
+24,11,Ice Fang,1,ice,65,95
+24,11,Fire Fang,1,fire,65,95
+24,12,Wrap,1,normal,15,90
+24,12,Poison Sting,1,poison,15,100
+24,12,Leer,1,normal,-,100
+24,12,Bite,1,dark,60,100
+24,13,Wrap,1,normal,15,90
+24,13,Poison Sting,1,poison,15,100
+24,13,Leer,1,normal,-,100
+24,13,Bite,1,dark,60,100
+24,14,Wrap,1,normal,15,90
+24,14,Poison Sting,1,poison,15,100
+24,14,Leer,1,normal,-,100
+24,14,Bite,1,dark,60,100
+24,14,Thunder Fang,1,electric,65,95
+24,14,Ice Fang,1,ice,65,95
+24,14,Fire Fang,1,fire,65,95
+24,15,Wrap,1,normal,15,90
+24,15,Poison Sting,1,poison,15,100
+24,15,Leer,1,normal,-,100
+24,15,Bite,1,dark,60,100
+24,15,Thunder Fang,1,electric,65,95
+24,15,Ice Fang,1,ice,65,95
+24,15,Fire Fang,1,fire,65,95
+24,16,Wrap,1,normal,15,90
+24,16,Poison Sting,1,poison,15,100
+24,16,Leer,1,normal,-,100
+24,16,Bite,1,dark,60,100
+24,16,Thunder Fang,1,electric,65,95
+24,16,Ice Fang,1,ice,65,95
+24,16,Fire Fang,1,fire,65,95
+24,8,Poison Sting,4,poison,15,100
+24,9,Poison Sting,4,poison,15,100
+24,10,Poison Sting,4,poison,15,100
+24,11,Poison Sting,4,poison,15,100
+24,14,Poison Sting,4,poison,15,100
+24,15,Poison Sting,4,poison,15,100
+24,16,Poison Sting,4,poison,15,100
+24,5,Poison Sting,8,poison,15,100
+24,6,Poison Sting,8,poison,15,100
+24,7,Poison Sting,8,poison,15,100
+24,12,Poison Sting,8,poison,15,100
+24,13,Poison Sting,8,poison,15,100
+24,3,Poison Sting,9,poison,15,100
+24,4,Poison Sting,9,poison,15,100
+24,8,Bite,9,dark,60,100
+24,9,Bite,9,dark,60,100
+24,10,Bite,9,dark,60,100
+24,11,Bite,9,dark,60,100
+24,14,Bite,9,dark,60,100
+24,15,Bite,9,dark,60,100
+24,16,Bite,9,dark,60,100
+24,1,Poison Sting,10,poison,15,100
+24,2,Poison Sting,10,poison,15,100
+24,8,Glare,12,normal,-,100
+24,9,Glare,12,normal,-,100
+24,10,Glare,12,normal,-,100
+24,11,Glare,12,normal,-,100
+24,14,Glare,12,normal,-,100
+24,15,Glare,12,normal,-,100
+24,16,Glare,12,normal,-,100
+24,5,Bite,13,dark,60,100
+24,6,Bite,13,dark,60,100
+24,7,Bite,13,dark,60,100
+24,12,Bite,13,dark,60,100
+24,13,Bite,13,dark,60,100
+24,3,Bite,15,dark,60,100
+24,4,Bite,15,dark,60,100
+24,1,Bite,17,dark,60,100
+24,2,Bite,17,dark,60,100
+24,8,Screech,17,normal,-,85
+24,9,Screech,17,normal,-,85
+24,10,Screech,17,normal,-,85
+24,11,Screech,17,normal,-,85
+24,14,Screech,17,normal,-,85
+24,15,Screech,17,normal,-,85
+24,16,Screech,17,normal,-,85
+24,5,Glare,20,normal,-,100
+24,6,Glare,20,normal,-,100
+24,7,Glare,20,normal,-,100
+24,8,Acid,20,poison,40,100
+24,9,Acid,20,poison,40,100
+24,10,Acid,20,poison,40,100
+24,11,Acid,20,poison,40,100
+24,12,Glare,20,normal,-,100
+24,13,Glare,20,normal,-,100
+24,14,Acid,20,poison,40,100
+24,15,Acid,20,poison,40,100
+24,16,Acid,20,poison,40,100
+24,8,Crunch,22,dark,80,100
+24,9,Crunch,22,dark,80,100
+24,10,Crunch,22,dark,80,100
+24,11,Crunch,22,dark,80,100
+24,14,Crunch,22,dark,80,100
+24,15,Crunch,22,dark,80,100
+24,16,Crunch,22,dark,80,100
+24,3,Glare,25,normal,-,100
+24,4,Glare,25,normal,-,100
+24,1,Glare,27,normal,-,100
+24,2,Glare,27,normal,-,100
+24,11,Stockpile,27,normal,-,-
+24,11,Spit Up,27,normal,-,100
+24,11,Swallow,27,normal,-,-
+24,14,Stockpile,27,normal,-,-
+24,14,Spit Up,27,normal,-,100
+24,14,Swallow,27,normal,-,-
+24,15,Stockpile,27,normal,-,-
+24,15,Spit Up,27,normal,-,100
+24,15,Swallow,27,normal,-,-
+24,16,Stockpile,27,normal,-,-
+24,16,Spit Up,27,normal,-,100
+24,16,Swallow,27,normal,-,-
+24,5,Screech,28,normal,-,85
+24,6,Screech,28,normal,-,85
+24,7,Screech,28,normal,-,85
+24,8,Stockpile,28,normal,-,-
+24,8,Spit Up,28,normal,-,100
+24,8,Swallow,28,normal,-,-
+24,9,Stockpile,28,normal,-,-
+24,9,Spit Up,28,normal,-,100
+24,9,Swallow,28,normal,-,-
+24,10,Stockpile,28,normal,-,-
+24,10,Spit Up,28,normal,-,100
+24,10,Swallow,28,normal,-,-
+24,12,Screech,28,normal,-,85
+24,13,Screech,28,normal,-,85
+24,11,Acid Spray,32,poison,40,100
+24,14,Acid Spray,32,poison,40,100
+24,15,Acid Spray,32,poison,40,100
+24,16,Acid Spray,32,poison,40,100
+24,3,Screech,33,normal,-,85
+24,4,Screech,33,normal,-,85
+24,8,Mud Bomb,34,ground,65,85
+24,9,Mud Bomb,34,ground,65,85
+24,10,Mud Bomb,34,ground,65,85
+24,1,Screech,36,normal,-,85
+24,2,Screech,36,normal,-,85
+24,5,Acid,38,poison,40,100
+24,6,Acid,38,poison,40,100
+24,7,Acid,38,poison,40,100
+24,12,Acid,38,poison,40,100
+24,13,Acid,38,poison,40,100
+24,11,Mud Bomb,39,ground,65,85
+24,14,Mud Bomb,39,ground,65,85
+24,15,Mud Bomb,39,ground,65,85
+24,16,Mud Bomb,39,ground,65,85
+24,8,Gastro Acid,42,poison,-,100
+24,9,Gastro Acid,42,poison,-,100
+24,10,Gastro Acid,42,poison,-,100
+24,3,Acid,43,poison,40,100
+24,4,Acid,43,poison,40,100
+24,11,Gastro Acid,44,poison,-,100
+24,14,Gastro Acid,44,poison,-,100
+24,15,Gastro Acid,44,poison,-,100
+24,16,Gastro Acid,44,poison,-,100
+24,5,Stockpile,46,normal,-,-
+24,5,Spit Up,46,normal,-,100
+24,5,Swallow,46,normal,-,-
+24,6,Stockpile,46,normal,-,-
+24,6,Spit Up,46,normal,-,100
+24,6,Swallow,46,normal,-,-
+24,7,Stockpile,46,normal,-,-
+24,7,Spit Up,46,normal,-,100
+24,7,Swallow,46,normal,-,-
+24,12,Stockpile,46,normal,-,-
+24,12,Spit Up,46,normal,-,100
+24,12,Swallow,46,normal,-,-
+24,13,Stockpile,46,normal,-,-
+24,13,Spit Up,46,normal,-,100
+24,13,Swallow,46,normal,-,-
+24,1,Acid,47,poison,40,100
+24,2,Acid,47,poison,40,100
+24,8,Haze,48,ice,-,-
+24,9,Haze,48,ice,-,-
+24,10,Haze,48,ice,-,-
+24,15,Belch,48,poison,120,90
+24,16,Belch,48,poison,120,90
+24,3,Haze,51,ice,-,-
+24,4,Haze,51,ice,-,-
+24,11,Haze,51,ice,-,-
+24,14,Haze,51,ice,-,-
+24,15,Haze,51,ice,-,-
+24,16,Haze,51,ice,-,-
+24,5,Haze,56,ice,-,-
+24,6,Haze,56,ice,-,-
+24,7,Haze,56,ice,-,-
+24,8,Gunk Shot,56,poison,120,80
+24,9,Gunk Shot,56,poison,120,80
+24,10,Gunk Shot,56,poison,120,80
+24,11,Coil,56,poison,-,-
+24,12,Haze,56,ice,-,-
+24,13,Haze,56,ice,-,-
+24,14,Coil,56,poison,-,-
+24,15,Coil,56,poison,-,-
+24,16,Coil,56,poison,-,-
+24,11,Gunk Shot,63,poison,120,80
+24,14,Gunk Shot,63,poison,120,80
+24,15,Gunk Shot,63,poison,120,80
+24,16,Gunk Shot,63,poison,120,80

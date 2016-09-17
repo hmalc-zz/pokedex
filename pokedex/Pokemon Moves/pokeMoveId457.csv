@@ -1,0 +1,114 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+457,8,Pound,1,normal,40,100
+457,8,Water Gun,1,water,40,100
+457,8,Attract,1,normal,-,100
+457,9,Pound,1,normal,40,100
+457,9,Water Gun,1,water,40,100
+457,9,Attract,1,normal,-,100
+457,10,Pound,1,normal,40,100
+457,10,Water Gun,1,water,40,100
+457,10,Attract,1,normal,-,100
+457,11,Pound,1,normal,40,100
+457,11,Water Gun,1,water,40,100
+457,11,Attract,1,normal,-,100
+457,14,Pound,1,normal,40,100
+457,14,Water Gun,1,water,40,100
+457,14,Attract,1,normal,-,100
+457,15,Pound,1,normal,40,100
+457,15,Gust,1,flying,40,100
+457,15,Water Gun,1,water,40,100
+457,15,Attract,1,normal,-,100
+457,15,Soak,1,water,-,100
+457,16,Pound,1,normal,40,100
+457,16,Gust,1,flying,40,100
+457,16,Water Gun,1,water,40,100
+457,16,Attract,1,normal,-,100
+457,16,Soak,1,water,-,100
+457,8,Water Gun,6,water,40,100
+457,9,Water Gun,6,water,40,100
+457,10,Water Gun,6,water,40,100
+457,11,Water Gun,6,water,40,100
+457,14,Water Gun,6,water,40,100
+457,15,Water Gun,6,water,40,100
+457,16,Water Gun,6,water,40,100
+457,8,Attract,10,normal,-,100
+457,9,Attract,10,normal,-,100
+457,10,Attract,10,normal,-,100
+457,11,Attract,10,normal,-,100
+457,14,Attract,10,normal,-,100
+457,15,Attract,10,normal,-,100
+457,16,Attract,10,normal,-,100
+457,8,Rain Dance,13,water,-,-
+457,9,Rain Dance,13,water,-,-
+457,10,Rain Dance,13,water,-,-
+457,11,Rain Dance,13,water,-,-
+457,14,Rain Dance,13,water,-,-
+457,15,Rain Dance,13,water,-,-
+457,16,Rain Dance,13,water,-,-
+457,8,Gust,17,flying,40,100
+457,9,Gust,17,flying,40,100
+457,10,Gust,17,flying,40,100
+457,11,Gust,17,flying,40,100
+457,14,Gust,17,flying,40,100
+457,15,Gust,17,flying,40,100
+457,16,Gust,17,flying,40,100
+457,8,Water Pulse,22,water,60,100
+457,9,Water Pulse,22,water,60,100
+457,10,Water Pulse,22,water,60,100
+457,11,Water Pulse,22,water,60,100
+457,14,Water Pulse,22,water,60,100
+457,15,Water Pulse,22,water,60,100
+457,16,Water Pulse,22,water,60,100
+457,8,Captivate,26,normal,-,100
+457,9,Captivate,26,normal,-,100
+457,10,Captivate,26,normal,-,100
+457,11,Captivate,26,normal,-,100
+457,14,Captivate,26,normal,-,100
+457,15,Captivate,26,normal,-,100
+457,16,Captivate,26,normal,-,100
+457,8,Safeguard,29,normal,-,-
+457,9,Safeguard,29,normal,-,-
+457,10,Safeguard,29,normal,-,-
+457,11,Safeguard,29,normal,-,-
+457,14,Safeguard,29,normal,-,-
+457,15,Safeguard,29,normal,-,-
+457,16,Safeguard,29,normal,-,-
+457,8,Aqua Ring,35,water,-,-
+457,9,Aqua Ring,35,water,-,-
+457,10,Aqua Ring,35,water,-,-
+457,11,Aqua Ring,35,water,-,-
+457,14,Aqua Ring,35,water,-,-
+457,15,Aqua Ring,35,water,-,-
+457,16,Aqua Ring,35,water,-,-
+457,8,Whirlpool,42,water,35,85
+457,9,Whirlpool,42,water,35,85
+457,10,Whirlpool,42,water,35,85
+457,11,Whirlpool,42,water,35,85
+457,14,Whirlpool,42,water,35,85
+457,15,Whirlpool,42,water,35,85
+457,16,Whirlpool,42,water,35,85
+457,8,U-turn,48,bug,70,100
+457,9,U-turn,48,bug,70,100
+457,10,U-turn,48,bug,70,100
+457,11,U-turn,48,bug,70,100
+457,14,U-turn,48,bug,70,100
+457,15,U-turn,48,bug,70,100
+457,16,U-turn,48,bug,70,100
+457,8,Bounce,53,flying,85,85
+457,9,Bounce,53,flying,85,85
+457,10,Bounce,53,flying,85,85
+457,11,Bounce,53,flying,85,85
+457,14,Bounce,53,flying,85,85
+457,15,Bounce,53,flying,85,85
+457,16,Bounce,53,flying,85,85
+457,8,Silver Wind,59,bug,60,100
+457,9,Silver Wind,59,bug,60,100
+457,10,Silver Wind,59,bug,60,100
+457,11,Silver Wind,59,bug,60,100
+457,14,Silver Wind,59,bug,60,100
+457,15,Silver Wind,59,bug,60,100
+457,16,Silver Wind,59,bug,60,100
+457,11,Soak,66,water,-,100
+457,14,Soak,66,water,-,100
+457,15,Soak,66,water,-,100
+457,16,Soak,66,water,-,100

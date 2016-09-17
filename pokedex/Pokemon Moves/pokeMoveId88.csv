@@ -1,0 +1,189 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+88,1,Pound,1,normal,40,100
+88,1,Disable,1,normal,-,100
+88,2,Pound,1,normal,40,100
+88,2,Disable,1,normal,-,100
+88,3,Pound,1,normal,40,100
+88,3,Poison Gas,1,poison,-,90
+88,4,Pound,1,normal,40,100
+88,4,Poison Gas,1,poison,-,90
+88,5,Pound,1,normal,40,100
+88,5,Poison Gas,1,poison,-,90
+88,6,Pound,1,normal,40,100
+88,6,Poison Gas,1,poison,-,90
+88,7,Pound,1,normal,40,100
+88,7,Poison Gas,1,poison,-,90
+88,8,Pound,1,normal,40,100
+88,8,Poison Gas,1,poison,-,90
+88,9,Pound,1,normal,40,100
+88,9,Poison Gas,1,poison,-,90
+88,10,Pound,1,normal,40,100
+88,10,Poison Gas,1,poison,-,90
+88,11,Pound,1,normal,40,100
+88,11,Poison Gas,1,poison,-,90
+88,12,Pound,1,normal,40,100
+88,12,Poison Gas,1,poison,-,90
+88,13,Pound,1,normal,40,100
+88,13,Poison Gas,1,poison,-,90
+88,14,Pound,1,normal,40,100
+88,14,Poison Gas,1,poison,-,90
+88,15,Pound,1,normal,40,100
+88,15,Poison Gas,1,poison,-,90
+88,16,Pound,1,normal,40,100
+88,16,Poison Gas,1,poison,-,90
+88,5,Harden,4,normal,-,-
+88,6,Harden,4,normal,-,-
+88,7,Harden,4,normal,-,-
+88,8,Harden,4,normal,-,-
+88,9,Harden,4,normal,-,-
+88,10,Harden,4,normal,-,-
+88,11,Harden,4,normal,-,-
+88,12,Harden,4,normal,-,-
+88,13,Harden,4,normal,-,-
+88,14,Harden,4,normal,-,-
+88,15,Harden,4,normal,-,-
+88,16,Harden,4,normal,-,-
+88,3,Harden,5,normal,-,-
+88,4,Harden,5,normal,-,-
+88,8,Mud-Slap,7,ground,20,100
+88,9,Mud-Slap,7,ground,20,100
+88,10,Mud-Slap,7,ground,20,100
+88,11,Mud-Slap,7,ground,20,100
+88,14,Mud-Slap,7,ground,20,100
+88,15,Mud-Slap,7,ground,20,100
+88,16,Mud-Slap,7,ground,20,100
+88,5,Disable,8,normal,-,100
+88,6,Disable,8,normal,-,100
+88,7,Disable,8,normal,-,100
+88,12,Disable,8,normal,-,100
+88,13,Disable,8,normal,-,100
+88,3,Disable,10,normal,-,100
+88,4,Disable,10,normal,-,100
+88,8,Disable,12,normal,-,100
+88,9,Disable,12,normal,-,100
+88,10,Disable,12,normal,-,100
+88,11,Disable,12,normal,-,100
+88,14,Disable,12,normal,-,100
+88,15,Disable,12,normal,-,100
+88,16,Disable,12,normal,-,100
+88,5,Sludge,13,poison,65,100
+88,6,Sludge,13,poison,65,100
+88,7,Sludge,13,poison,65,100
+88,12,Sludge,13,poison,65,100
+88,13,Sludge,13,poison,65,100
+88,14,Sludge,15,poison,65,100
+88,15,Sludge,15,poison,65,100
+88,16,Sludge,15,poison,65,100
+88,3,Sludge,16,poison,65,100
+88,4,Sludge,16,poison,65,100
+88,8,Minimize,17,normal,-,-
+88,9,Minimize,17,normal,-,-
+88,10,Minimize,17,normal,-,-
+88,11,Minimize,17,normal,-,-
+88,14,Minimize,18,normal,-,-
+88,15,Minimize,18,normal,-,-
+88,16,Mud Bomb,18,ground,65,85
+88,5,Minimize,19,normal,-,-
+88,6,Minimize,19,normal,-,-
+88,7,Minimize,19,normal,-,-
+88,12,Minimize,19,normal,-,-
+88,13,Minimize,19,normal,-,-
+88,8,Sludge,20,poison,65,100
+88,9,Sludge,20,poison,65,100
+88,10,Sludge,20,poison,65,100
+88,11,Sludge,20,poison,65,100
+88,14,Mud Bomb,21,ground,65,85
+88,15,Mud Bomb,21,ground,65,85
+88,16,Minimize,21,normal,-,-
+88,3,Minimize,23,normal,-,-
+88,4,Minimize,23,normal,-,-
+88,8,Mud Bomb,23,ground,65,85
+88,9,Mud Bomb,23,ground,65,85
+88,10,Mud Bomb,23,ground,65,85
+88,11,Mud Bomb,23,ground,65,85
+88,5,Screech,26,normal,-,85
+88,6,Screech,26,normal,-,85
+88,7,Screech,26,normal,-,85
+88,12,Screech,26,normal,-,85
+88,13,Screech,26,normal,-,85
+88,14,Sludge Bomb,26,poison,90,100
+88,15,Sludge Bomb,26,poison,90,100
+88,16,Fling,26,dark,-,100
+88,8,Fling,28,dark,-,100
+88,9,Fling,28,dark,-,100
+88,10,Fling,28,dark,-,100
+88,11,Fling,28,dark,-,100
+88,14,Fling,29,dark,-,100
+88,15,Fling,29,dark,-,100
+88,16,Sludge Bomb,29,poison,90,100
+88,1,Poison Gas,30,poison,-,90
+88,2,Poison Gas,30,poison,-,90
+88,3,Screech,31,normal,-,85
+88,4,Screech,31,normal,-,85
+88,14,Screech,32,normal,-,85
+88,15,Screech,32,normal,-,85
+88,16,Sludge Wave,32,poison,95,100
+88,1,Minimize,33,normal,-,-
+88,2,Minimize,33,normal,-,-
+88,8,Screech,33,normal,-,85
+88,9,Screech,33,normal,-,85
+88,10,Screech,33,normal,-,85
+88,11,Screech,33,normal,-,85
+88,5,Acid Armor,34,poison,-,-
+88,6,Acid Armor,34,poison,-,-
+88,7,Acid Armor,34,poison,-,-
+88,12,Acid Armor,34,poison,-,-
+88,13,Acid Armor,34,poison,-,-
+88,8,Sludge Bomb,36,poison,90,100
+88,9,Sludge Bomb,36,poison,90,100
+88,10,Sludge Bomb,36,poison,90,100
+88,11,Sludge Bomb,36,poison,90,100
+88,1,Sludge,37,poison,65,100
+88,2,Sludge,37,poison,65,100
+88,14,Sludge Wave,37,poison,95,100
+88,15,Sludge Wave,37,poison,95,100
+88,16,Screech,37,normal,-,85
+88,8,Acid Armor,39,poison,-,-
+88,9,Acid Armor,39,poison,-,-
+88,10,Acid Armor,39,poison,-,-
+88,11,Acid Armor,39,poison,-,-
+88,3,Acid Armor,40,poison,-,-
+88,4,Acid Armor,40,poison,-,-
+88,14,Acid Armor,40,poison,-,-
+88,15,Acid Armor,40,poison,-,-
+88,16,Gunk Shot,40,poison,120,80
+88,1,Harden,42,normal,-,-
+88,2,Harden,42,normal,-,-
+88,5,Sludge Bomb,43,poison,90,100
+88,6,Sludge Bomb,43,poison,90,100
+88,7,Sludge Bomb,43,poison,90,100
+88,12,Sludge Bomb,43,poison,90,100
+88,13,Sludge Bomb,43,poison,90,100
+88,14,Gunk Shot,43,poison,120,80
+88,15,Gunk Shot,43,poison,120,80
+88,16,Acid Armor,43,poison,-,-
+88,8,Gunk Shot,44,poison,120,80
+88,9,Gunk Shot,44,poison,120,80
+88,10,Gunk Shot,44,poison,120,80
+88,11,Sludge Wave,44,poison,95,100
+88,15,Belch,46,poison,120,90
+88,16,Belch,46,poison,120,90
+88,1,Screech,48,normal,-,85
+88,2,Screech,48,normal,-,85
+88,14,Memento,48,dark,-,100
+88,15,Memento,48,dark,-,100
+88,16,Memento,48,dark,-,100
+88,8,Memento,49,dark,-,100
+88,9,Memento,49,dark,-,100
+88,10,Memento,49,dark,-,100
+88,11,Gunk Shot,49,poison,120,80
+88,3,Sludge Bomb,50,poison,90,100
+88,4,Sludge Bomb,50,poison,90,100
+88,11,Memento,52,dark,-,100
+88,5,Memento,53,dark,-,100
+88,6,Memento,53,dark,-,100
+88,7,Memento,53,dark,-,100
+88,12,Memento,53,dark,-,100
+88,13,Memento,53,dark,-,100
+88,1,Acid Armor,55,poison,-,-
+88,2,Acid Armor,55,poison,-,-

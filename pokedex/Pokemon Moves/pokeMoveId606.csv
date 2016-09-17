@@ -1,0 +1,89 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+606,11,Growl,1,normal,-,100
+606,11,Confusion,1,psychic,50,100
+606,11,Miracle Eye,1,psychic,-,-
+606,11,Heal Block,1,psychic,-,100
+606,14,Growl,1,normal,-,100
+606,14,Confusion,1,psychic,50,100
+606,14,Miracle Eye,1,psychic,-,-
+606,14,Heal Block,1,psychic,-,100
+606,15,Growl,1,normal,-,100
+606,15,Confusion,1,psychic,50,100
+606,15,Miracle Eye,1,psychic,-,-
+606,15,Heal Block,1,psychic,-,100
+606,15,Wonder Room,1,psychic,-,-
+606,15,Synchronoise,1,psychic,120,100
+606,16,Growl,1,normal,-,100
+606,16,Confusion,1,psychic,50,100
+606,16,Miracle Eye,1,psychic,-,-
+606,16,Heal Block,1,psychic,-,100
+606,16,Wonder Room,1,psychic,-,-
+606,16,Synchronoise,1,psychic,120,100
+606,11,Growl,4,normal,-,100
+606,14,Growl,4,normal,-,100
+606,15,Growl,4,normal,-,100
+606,16,Growl,4,normal,-,100
+606,11,Heal Block,8,psychic,-,100
+606,14,Heal Block,8,psychic,-,100
+606,15,Heal Block,8,psychic,-,100
+606,16,Heal Block,8,psychic,-,100
+606,11,Miracle Eye,11,psychic,-,-
+606,14,Miracle Eye,11,psychic,-,-
+606,15,Miracle Eye,11,psychic,-,-
+606,16,Miracle Eye,11,psychic,-,-
+606,11,Psybeam,15,psychic,65,100
+606,14,Psybeam,15,psychic,65,100
+606,15,Psybeam,15,psychic,65,100
+606,16,Psybeam,15,psychic,65,100
+606,11,Headbutt,18,normal,70,100
+606,14,Headbutt,18,normal,70,100
+606,15,Headbutt,18,normal,70,100
+606,16,Headbutt,18,normal,70,100
+606,11,Hidden Power,22,normal,60,100
+606,14,Hidden Power,22,normal,60,100
+606,15,Hidden Power,22,normal,60,100
+606,16,Hidden Power,22,normal,60,100
+606,11,Imprison,25,psychic,-,-
+606,14,Imprison,25,psychic,-,-
+606,15,Imprison,25,psychic,-,-
+606,16,Imprison,25,psychic,-,-
+606,11,Simple Beam,29,normal,-,100
+606,14,Simple Beam,29,normal,-,100
+606,15,Simple Beam,29,normal,-,100
+606,16,Simple Beam,29,normal,-,100
+606,11,Zen Headbutt,32,psychic,80,90
+606,14,Zen Headbutt,32,psychic,80,90
+606,15,Zen Headbutt,32,psychic,80,90
+606,16,Zen Headbutt,32,psychic,80,90
+606,11,Psych Up,36,normal,-,-
+606,14,Psych Up,36,normal,-,-
+606,15,Psych Up,36,normal,-,-
+606,16,Psych Up,36,normal,-,-
+606,11,Psychic,39,psychic,90,100
+606,14,Psychic,39,psychic,90,100
+606,15,Psychic,39,psychic,90,100
+606,16,Psychic,39,psychic,90,100
+606,11,Calm Mind,45,psychic,-,-
+606,14,Calm Mind,45,psychic,-,-
+606,15,Calm Mind,45,psychic,-,-
+606,16,Calm Mind,45,psychic,-,-
+606,11,Recover,50,normal,-,-
+606,14,Recover,50,normal,-,-
+606,15,Recover,50,normal,-,-
+606,16,Recover,50,normal,-,-
+606,11,Guard Split,56,psychic,-,-
+606,14,Guard Split,56,psychic,-,-
+606,15,Guard Split,56,psychic,-,-
+606,16,Guard Split,56,psychic,-,-
+606,11,Power Split,58,psychic,-,-
+606,14,Power Split,58,psychic,-,-
+606,15,Power Split,58,psychic,-,-
+606,16,Power Split,58,psychic,-,-
+606,11,Synchronoise,63,psychic,120,100
+606,14,Synchronoise,63,psychic,120,100
+606,15,Synchronoise,63,psychic,120,100
+606,16,Synchronoise,63,psychic,120,100
+606,11,Wonder Room,68,psychic,-,-
+606,14,Wonder Room,68,psychic,-,-
+606,15,Wonder Room,68,psychic,-,-
+606,16,Wonder Room,68,psychic,-,-

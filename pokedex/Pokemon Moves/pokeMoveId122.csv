@@ -1,0 +1,266 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+122,1,Confusion,1,psychic,50,100
+122,1,Barrier,1,psychic,-,-
+122,2,Confusion,1,psychic,50,100
+122,2,Barrier,1,psychic,-,-
+122,3,Barrier,1,psychic,-,-
+122,4,Barrier,1,psychic,-,-
+122,5,Barrier,1,psychic,-,-
+122,6,Barrier,1,psychic,-,-
+122,7,Barrier,1,psychic,-,-
+122,8,Confusion,1,psychic,50,100
+122,8,Barrier,1,psychic,-,-
+122,8,Magical Leaf,1,grass,60,-
+122,8,Power Swap,1,psychic,-,-
+122,8,Guard Swap,1,psychic,-,-
+122,9,Confusion,1,psychic,50,100
+122,9,Barrier,1,psychic,-,-
+122,9,Magical Leaf,1,grass,60,-
+122,9,Power Swap,1,psychic,-,-
+122,9,Guard Swap,1,psychic,-,-
+122,10,Confusion,1,psychic,50,100
+122,10,Barrier,1,psychic,-,-
+122,10,Magical Leaf,1,grass,60,-
+122,10,Power Swap,1,psychic,-,-
+122,10,Guard Swap,1,psychic,-,-
+122,11,Confusion,1,psychic,50,100
+122,11,Barrier,1,psychic,-,-
+122,11,Magical Leaf,1,grass,60,-
+122,11,Power Swap,1,psychic,-,-
+122,11,Guard Swap,1,psychic,-,-
+122,11,Wide Guard,1,rock,-,-
+122,11,Quick Guard,1,fighting,-,-
+122,12,Barrier,1,psychic,-,-
+122,13,Barrier,1,psychic,-,-
+122,14,Confusion,1,psychic,50,100
+122,14,Barrier,1,psychic,-,-
+122,14,Magical Leaf,1,grass,60,-
+122,14,Power Swap,1,psychic,-,-
+122,14,Guard Swap,1,psychic,-,-
+122,14,Wide Guard,1,rock,-,-
+122,14,Quick Guard,1,fighting,-,-
+122,15,Confusion,1,psychic,50,100
+122,15,Barrier,1,psychic,-,-
+122,15,Magical Leaf,1,grass,60,-
+122,15,Power Swap,1,psychic,-,-
+122,15,Guard Swap,1,psychic,-,-
+122,15,Wide Guard,1,rock,-,-
+122,15,Quick Guard,1,fighting,-,-
+122,15,Misty Terrain,1,fairy,-,-
+122,16,Confusion,1,psychic,50,100
+122,16,Barrier,1,psychic,-,-
+122,16,Magical Leaf,1,grass,60,-
+122,16,Power Swap,1,psychic,-,-
+122,16,Guard Swap,1,psychic,-,-
+122,16,Wide Guard,1,rock,-,-
+122,16,Quick Guard,1,fighting,-,-
+122,16,Misty Terrain,1,fairy,-,-
+122,8,Copycat,4,normal,-,-
+122,9,Copycat,4,normal,-,-
+122,10,Copycat,4,normal,-,-
+122,11,Copycat,4,normal,-,-
+122,14,Copycat,4,normal,-,-
+122,15,Copycat,4,normal,-,-
+122,16,Copycat,4,normal,-,-
+122,5,Confusion,5,psychic,50,100
+122,6,Confusion,5,psychic,50,100
+122,7,Confusion,5,psychic,50,100
+122,12,Confusion,5,psychic,50,100
+122,13,Confusion,5,psychic,50,100
+122,3,Confusion,6,psychic,50,100
+122,4,Confusion,6,psychic,50,100
+122,7,Substitute,8,normal,-,-
+122,8,Meditate,8,psychic,-,-
+122,9,Meditate,8,psychic,-,-
+122,10,Meditate,8,psychic,-,-
+122,11,Meditate,8,psychic,-,-
+122,14,Meditate,8,psychic,-,-
+122,15,Meditate,8,psychic,-,-
+122,16,Meditate,8,psychic,-,-
+122,5,Substitute,9,normal,-,-
+122,6,Substitute,9,normal,-,-
+122,12,Substitute,9,normal,-,-
+122,13,Substitute,9,normal,-,-
+122,3,Substitute,11,normal,-,-
+122,4,Substitute,11,normal,-,-
+122,8,Encore,11,normal,-,100
+122,9,Encore,11,normal,-,100
+122,10,Encore,11,normal,-,100
+122,11,Encore,11,normal,-,100
+122,14,Double Slap,11,normal,15,85
+122,15,Double Slap,11,normal,15,85
+122,16,Double Slap,11,normal,15,85
+122,7,Meditate,12,psychic,-,-
+122,5,Meditate,13,psychic,-,-
+122,6,Meditate,13,psychic,-,-
+122,12,Meditate,13,psychic,-,-
+122,13,Meditate,13,psychic,-,-
+122,1,Confusion,15,psychic,50,100
+122,2,Confusion,15,psychic,50,100
+122,7,Double Slap,15,normal,15,85
+122,8,Double Slap,15,normal,15,85
+122,9,Double Slap,15,normal,15,85
+122,10,Double Slap,15,normal,15,85
+122,11,Double Slap,15,normal,15,85
+122,14,Mimic,15,normal,-,-
+122,14,Psywave,15,psychic,-,100
+122,15,Mimic,15,normal,-,-
+122,15,Psywave,15,psychic,-,100
+122,16,Mimic,15,normal,-,-
+122,16,Psywave,15,psychic,-,100
+122,3,Meditate,16,psychic,-,-
+122,4,Meditate,16,psychic,-,-
+122,5,Double Slap,17,normal,15,85
+122,6,Double Slap,17,normal,15,85
+122,12,Double Slap,17,normal,15,85
+122,13,Double Slap,17,normal,15,85
+122,8,Mimic,18,normal,-,-
+122,9,Mimic,18,normal,-,-
+122,10,Mimic,18,normal,-,-
+122,11,Mimic,18,normal,-,-
+122,14,Encore,18,normal,-,100
+122,15,Encore,18,normal,-,100
+122,16,Encore,18,normal,-,100
+122,7,Light Screen,19,psychic,-,-
+122,7,Reflect,19,psychic,-,-
+122,3,Double Slap,21,normal,15,85
+122,4,Double Slap,21,normal,15,85
+122,5,Light Screen,21,psychic,-,-
+122,5,Reflect,21,psychic,-,-
+122,6,Light Screen,21,psychic,-,-
+122,6,Reflect,21,psychic,-,-
+122,12,Light Screen,21,psychic,-,-
+122,12,Reflect,21,psychic,-,-
+122,13,Light Screen,21,psychic,-,-
+122,13,Reflect,21,psychic,-,-
+122,7,Magical Leaf,22,grass,60,-
+122,8,Light Screen,22,psychic,-,-
+122,8,Reflect,22,psychic,-,-
+122,9,Light Screen,22,psychic,-,-
+122,9,Reflect,22,psychic,-,-
+122,10,Light Screen,22,psychic,-,-
+122,10,Reflect,22,psychic,-,-
+122,11,Light Screen,22,psychic,-,-
+122,11,Reflect,22,psychic,-,-
+122,14,Light Screen,22,psychic,-,-
+122,14,Reflect,22,psychic,-,-
+122,15,Light Screen,22,psychic,-,-
+122,15,Reflect,22,psychic,-,-
+122,16,Light Screen,22,psychic,-,-
+122,16,Reflect,22,psychic,-,-
+122,1,Light Screen,23,psychic,-,-
+122,2,Light Screen,23,psychic,-,-
+122,5,Encore,25,normal,-,100
+122,6,Encore,25,normal,-,100
+122,8,Psybeam,25,psychic,65,100
+122,9,Psybeam,25,psychic,65,100
+122,10,Psybeam,25,psychic,65,100
+122,11,Psybeam,25,psychic,65,100
+122,12,Encore,25,normal,-,100
+122,13,Encore,25,normal,-,100
+122,14,Psybeam,25,psychic,65,100
+122,15,Psybeam,25,psychic,65,100
+122,16,Psybeam,25,psychic,65,100
+122,3,Light Screen,26,psychic,-,-
+122,3,Reflect,26,psychic,-,-
+122,4,Light Screen,26,psychic,-,-
+122,4,Reflect,26,psychic,-,-
+122,7,Encore,26,normal,-,100
+122,5,Psybeam,29,psychic,65,100
+122,6,Psybeam,29,psychic,65,100
+122,7,Psybeam,29,psychic,65,100
+122,8,Substitute,29,normal,-,-
+122,9,Substitute,29,normal,-,-
+122,10,Substitute,29,normal,-,-
+122,11,Substitute,29,normal,-,-
+122,12,Psybeam,29,psychic,65,100
+122,13,Psybeam,29,psychic,65,100
+122,14,Substitute,29,normal,-,-
+122,15,Substitute,29,normal,-,-
+122,16,Substitute,29,normal,-,-
+122,1,Double Slap,31,normal,15,85
+122,2,Double Slap,31,normal,15,85
+122,3,Encore,31,normal,-,100
+122,4,Encore,31,normal,-,100
+122,8,Recycle,32,normal,-,-
+122,9,Recycle,32,normal,-,-
+122,10,Recycle,32,normal,-,-
+122,11,Recycle,32,normal,-,-
+122,14,Recycle,32,normal,-,-
+122,15,Recycle,32,normal,-,-
+122,16,Recycle,32,normal,-,-
+122,5,Recycle,33,normal,-,-
+122,6,Recycle,33,normal,-,-
+122,7,Recycle,33,normal,-,-
+122,12,Recycle,33,normal,-,-
+122,13,Recycle,33,normal,-,-
+122,3,Psybeam,36,psychic,65,100
+122,4,Psybeam,36,psychic,65,100
+122,7,Trick,36,psychic,-,100
+122,8,Trick,36,psychic,-,100
+122,9,Trick,36,psychic,-,100
+122,10,Trick,36,psychic,-,100
+122,11,Trick,36,psychic,-,100
+122,14,Trick,36,psychic,-,100
+122,15,Trick,36,psychic,-,100
+122,16,Trick,36,psychic,-,100
+122,5,Trick,37,psychic,-,100
+122,6,Trick,37,psychic,-,100
+122,12,Trick,37,psychic,-,100
+122,13,Trick,37,psychic,-,100
+122,1,Meditate,39,psychic,-,-
+122,2,Meditate,39,psychic,-,-
+122,8,Psychic,39,psychic,90,100
+122,9,Psychic,39,psychic,90,100
+122,10,Psychic,39,psychic,90,100
+122,11,Psychic,39,psychic,90,100
+122,14,Psychic,39,psychic,90,100
+122,15,Psychic,39,psychic,90,100
+122,16,Psychic,39,psychic,90,100
+122,7,Role Play,40,psychic,-,-
+122,3,Baton Pass,41,normal,-,-
+122,4,Baton Pass,41,normal,-,-
+122,5,Role Play,41,psychic,-,-
+122,6,Role Play,41,psychic,-,-
+122,12,Role Play,41,psychic,-,-
+122,13,Role Play,41,psychic,-,-
+122,7,Psychic,43,psychic,90,100
+122,8,Role Play,43,psychic,-,-
+122,9,Role Play,43,psychic,-,-
+122,10,Role Play,43,psychic,-,-
+122,11,Role Play,43,psychic,-,-
+122,14,Role Play,43,psychic,-,-
+122,15,Role Play,43,psychic,-,-
+122,16,Role Play,43,psychic,-,-
+122,5,Psychic,45,psychic,90,100
+122,6,Psychic,45,psychic,90,100
+122,12,Psychic,45,psychic,90,100
+122,13,Psychic,45,psychic,90,100
+122,3,Safeguard,46,normal,-,-
+122,4,Safeguard,46,normal,-,-
+122,8,Baton Pass,46,normal,-,-
+122,9,Baton Pass,46,normal,-,-
+122,10,Baton Pass,46,normal,-,-
+122,11,Baton Pass,46,normal,-,-
+122,14,Baton Pass,46,normal,-,-
+122,15,Baton Pass,46,normal,-,-
+122,16,Baton Pass,46,normal,-,-
+122,1,Substitute,47,normal,-,-
+122,2,Substitute,47,normal,-,-
+122,7,Baton Pass,47,normal,-,-
+122,5,Baton Pass,49,normal,-,-
+122,6,Baton Pass,49,normal,-,-
+122,12,Baton Pass,49,normal,-,-
+122,13,Baton Pass,49,normal,-,-
+122,7,Safeguard,50,normal,-,-
+122,8,Safeguard,50,normal,-,-
+122,9,Safeguard,50,normal,-,-
+122,10,Safeguard,50,normal,-,-
+122,11,Safeguard,50,normal,-,-
+122,14,Safeguard,50,normal,-,-
+122,15,Safeguard,50,normal,-,-
+122,16,Safeguard,50,normal,-,-
+122,5,Safeguard,53,normal,-,-
+122,6,Safeguard,53,normal,-,-
+122,12,Safeguard,53,normal,-,-
+122,13,Safeguard,53,normal,-,-

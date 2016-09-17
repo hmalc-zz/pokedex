@@ -1,0 +1,77 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+552,11,Sand Attack,1,ground,-,100
+552,11,Leer,1,normal,-,100
+552,11,Bite,1,dark,60,100
+552,11,Rage,1,normal,20,100
+552,14,Sand Attack,1,ground,-,100
+552,14,Leer,1,normal,-,100
+552,14,Bite,1,dark,60,100
+552,14,Rage,1,normal,20,100
+552,15,Sand Attack,1,ground,-,100
+552,15,Leer,1,normal,-,100
+552,15,Bite,1,dark,60,100
+552,15,Rage,1,normal,20,100
+552,16,Sand Attack,1,ground,-,100
+552,16,Leer,1,normal,-,100
+552,16,Bite,1,dark,60,100
+552,16,Rage,1,normal,20,100
+552,11,Bite,4,dark,60,100
+552,14,Bite,4,dark,60,100
+552,15,Bite,4,dark,60,100
+552,16,Bite,4,dark,60,100
+552,11,Sand Attack,7,ground,-,100
+552,14,Sand Attack,7,ground,-,100
+552,15,Sand Attack,7,ground,-,100
+552,16,Sand Attack,7,ground,-,100
+552,11,Torment,10,dark,-,100
+552,14,Torment,10,dark,-,100
+552,15,Torment,10,dark,-,100
+552,16,Torment,10,dark,-,100
+552,11,Sand Tomb,13,ground,35,85
+552,14,Sand Tomb,13,ground,35,85
+552,15,Sand Tomb,13,ground,35,85
+552,16,Sand Tomb,13,ground,35,85
+552,11,Assurance,16,dark,60,100
+552,14,Assurance,16,dark,60,100
+552,15,Assurance,16,dark,60,100
+552,16,Assurance,16,dark,60,100
+552,11,Mud-Slap,19,ground,20,100
+552,14,Mud-Slap,19,ground,20,100
+552,15,Mud-Slap,19,ground,20,100
+552,16,Mud-Slap,19,ground,20,100
+552,11,Embargo,22,dark,-,100
+552,14,Embargo,22,dark,-,100
+552,15,Embargo,22,dark,-,100
+552,16,Embargo,22,dark,-,100
+552,11,Swagger,25,normal,-,90
+552,14,Swagger,25,normal,-,90
+552,15,Swagger,25,normal,-,90
+552,16,Swagger,25,normal,-,90
+552,11,Crunch,28,dark,80,100
+552,14,Crunch,28,dark,80,100
+552,15,Crunch,28,dark,80,100
+552,16,Crunch,28,dark,80,100
+552,11,Dig,32,ground,80,100
+552,14,Dig,32,ground,80,100
+552,15,Dig,32,ground,80,100
+552,16,Dig,32,ground,80,100
+552,11,Scary Face,36,normal,-,100
+552,14,Scary Face,36,normal,-,100
+552,15,Scary Face,36,normal,-,100
+552,16,Scary Face,36,normal,-,100
+552,11,Foul Play,40,dark,95,100
+552,14,Foul Play,40,dark,95,100
+552,15,Foul Play,40,dark,95,100
+552,16,Foul Play,40,dark,95,100
+552,11,Sandstorm,44,rock,-,-
+552,14,Sandstorm,44,rock,-,-
+552,15,Sandstorm,44,rock,-,-
+552,16,Sandstorm,44,rock,-,-
+552,11,Earthquake,48,ground,100,100
+552,14,Earthquake,48,ground,100,100
+552,15,Earthquake,48,ground,100,100
+552,16,Earthquake,48,ground,100,100
+552,11,Thrash,52,normal,120,100
+552,14,Thrash,52,normal,120,100
+552,15,Thrash,52,normal,120,100
+552,16,Thrash,52,normal,120,100

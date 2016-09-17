@@ -1,0 +1,154 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+353,5,Knock Off,1,dark,65,100
+353,6,Knock Off,1,dark,65,100
+353,7,Knock Off,1,dark,65,100
+353,8,Knock Off,1,dark,65,100
+353,9,Knock Off,1,dark,65,100
+353,10,Knock Off,1,dark,65,100
+353,11,Knock Off,1,dark,65,100
+353,12,Knock Off,1,dark,65,100
+353,13,Knock Off,1,dark,65,100
+353,14,Knock Off,1,dark,65,100
+353,15,Knock Off,1,dark,65,100
+353,16,Knock Off,1,dark,65,100
+353,14,Screech,4,normal,-,85
+353,15,Screech,4,normal,-,85
+353,16,Screech,4,normal,-,85
+353,8,Screech,5,normal,-,85
+353,9,Screech,5,normal,-,85
+353,10,Screech,5,normal,-,85
+353,11,Screech,5,normal,-,85
+353,14,Night Shade,7,ghost,-,100
+353,15,Night Shade,7,ghost,-,100
+353,16,Night Shade,7,ghost,-,100
+353,5,Screech,8,normal,-,85
+353,6,Screech,8,normal,-,85
+353,7,Screech,8,normal,-,85
+353,8,Night Shade,8,ghost,-,100
+353,9,Night Shade,8,ghost,-,100
+353,10,Night Shade,8,ghost,-,100
+353,11,Night Shade,8,ghost,-,100
+353,12,Screech,8,normal,-,85
+353,13,Screech,8,normal,-,85
+353,14,Spite,10,ghost,-,100
+353,15,Spite,10,ghost,-,100
+353,16,Spite,10,ghost,-,100
+353,5,Night Shade,13,ghost,-,100
+353,6,Night Shade,13,ghost,-,100
+353,7,Night Shade,13,ghost,-,100
+353,8,Curse,13,ghost,-,-
+353,9,Curse,13,ghost,-,-
+353,10,Curse,13,ghost,-,-
+353,11,Curse,13,ghost,-,-
+353,12,Night Shade,13,ghost,-,100
+353,13,Night Shade,13,ghost,-,100
+353,14,Will-O-Wisp,13,fire,-,85
+353,15,Will-O-Wisp,13,fire,-,85
+353,16,Shadow Sneak,13,ghost,40,100
+353,8,Spite,16,ghost,-,100
+353,9,Spite,16,ghost,-,100
+353,10,Spite,16,ghost,-,100
+353,11,Spite,16,ghost,-,100
+353,14,Shadow Sneak,16,ghost,40,100
+353,15,Shadow Sneak,16,ghost,40,100
+353,16,Will-O-Wisp,16,fire,-,85
+353,14,Curse,19,ghost,-,-
+353,15,Curse,19,ghost,-,-
+353,16,Feint Attack,19,dark,60,-
+353,5,Curse,20,ghost,-,-
+353,6,Curse,20,ghost,-,-
+353,7,Curse,20,ghost,-,-
+353,8,Shadow Sneak,20,ghost,40,100
+353,9,Shadow Sneak,20,ghost,40,100
+353,10,Shadow Sneak,20,ghost,40,100
+353,11,Shadow Sneak,20,ghost,40,100
+353,12,Curse,20,ghost,-,-
+353,13,Curse,20,ghost,-,-
+353,14,Feint Attack,22,dark,60,-
+353,15,Feint Attack,22,dark,60,-
+353,16,Hex,22,ghost,65,100
+353,8,Will-O-Wisp,23,fire,-,85
+353,9,Will-O-Wisp,23,fire,-,85
+353,10,Will-O-Wisp,23,fire,-,85
+353,11,Will-O-Wisp,23,fire,-,85
+353,5,Spite,25,ghost,-,100
+353,6,Spite,25,ghost,-,100
+353,7,Spite,25,ghost,-,100
+353,12,Spite,25,ghost,-,100
+353,13,Spite,25,ghost,-,100
+353,14,Hex,26,ghost,65,100
+353,15,Hex,26,ghost,65,100
+353,16,Curse,26,ghost,-,-
+353,8,Feint Attack,28,dark,60,-
+353,9,Feint Attack,28,dark,60,-
+353,10,Feint Attack,28,dark,60,-
+353,11,Feint Attack,28,dark,60,-
+353,14,Shadow Ball,30,ghost,80,100
+353,15,Shadow Ball,30,ghost,80,100
+353,16,Shadow Ball,30,ghost,80,100
+353,8,Shadow Ball,31,ghost,80,100
+353,9,Shadow Ball,31,ghost,80,100
+353,10,Shadow Ball,31,ghost,80,100
+353,11,Hex,31,ghost,65,100
+353,5,Will-O-Wisp,32,fire,-,85
+353,6,Will-O-Wisp,32,fire,-,85
+353,7,Will-O-Wisp,32,fire,-,85
+353,12,Will-O-Wisp,32,fire,-,85
+353,13,Will-O-Wisp,32,fire,-,85
+353,14,Sucker Punch,34,dark,80,100
+353,15,Sucker Punch,34,dark,80,100
+353,16,Embargo,34,dark,-,100
+353,8,Sucker Punch,35,dark,80,100
+353,9,Sucker Punch,35,dark,80,100
+353,10,Sucker Punch,35,dark,80,100
+353,11,Shadow Ball,35,ghost,80,100
+353,5,Feint Attack,37,dark,60,-
+353,6,Feint Attack,37,dark,60,-
+353,7,Feint Attack,37,dark,60,-
+353,12,Feint Attack,37,dark,60,-
+353,13,Feint Attack,37,dark,60,-
+353,8,Embargo,38,dark,-,100
+353,9,Embargo,38,dark,-,100
+353,10,Embargo,38,dark,-,100
+353,11,Sucker Punch,38,dark,80,100
+353,14,Embargo,38,dark,-,100
+353,15,Embargo,38,dark,-,100
+353,16,Sucker Punch,38,dark,80,100
+353,14,Snatch,42,dark,-,-
+353,15,Snatch,42,dark,-,-
+353,16,Snatch,42,dark,-,-
+353,8,Snatch,43,dark,-,-
+353,9,Snatch,43,dark,-,-
+353,10,Snatch,43,dark,-,-
+353,11,Embargo,43,dark,-,100
+353,5,Shadow Ball,44,ghost,80,100
+353,6,Shadow Ball,44,ghost,80,100
+353,7,Shadow Ball,44,ghost,80,100
+353,12,Shadow Ball,44,ghost,80,100
+353,13,Shadow Ball,44,ghost,80,100
+353,8,Grudge,46,ghost,-,-
+353,9,Grudge,46,ghost,-,-
+353,10,Grudge,46,ghost,-,-
+353,11,Snatch,46,dark,-,-
+353,14,Grudge,46,ghost,-,-
+353,15,Grudge,46,ghost,-,-
+353,16,Grudge,46,ghost,-,-
+353,5,Snatch,49,dark,-,-
+353,6,Snatch,49,dark,-,-
+353,7,Snatch,49,dark,-,-
+353,12,Snatch,49,dark,-,-
+353,13,Snatch,49,dark,-,-
+353,8,Trick,50,psychic,-,100
+353,9,Trick,50,psychic,-,100
+353,10,Trick,50,psychic,-,100
+353,11,Grudge,50,ghost,-,-
+353,14,Trick,50,psychic,-,100
+353,15,Trick,50,psychic,-,100
+353,16,Trick,50,psychic,-,100
+353,16,Phantom Force,54,ghost,90,100
+353,11,Trick,55,psychic,-,100
+353,5,Grudge,56,ghost,-,-
+353,6,Grudge,56,ghost,-,-
+353,7,Grudge,56,ghost,-,-
+353,12,Grudge,56,ghost,-,-
+353,13,Grudge,56,ghost,-,-

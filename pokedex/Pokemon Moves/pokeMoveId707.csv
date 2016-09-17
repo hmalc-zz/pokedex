@@ -1,0 +1,33 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+707,15,Tackle,1,normal,50,100
+707,15,Fairy Lock,1,fairy,-,-
+707,16,Tackle,1,normal,50,100
+707,16,Fairy Lock,1,fairy,-,-
+707,15,Fairy Wind,5,fairy,40,100
+707,16,Fairy Wind,5,fairy,40,100
+707,15,Astonish,8,ghost,30,100
+707,16,Astonish,8,ghost,30,100
+707,15,Metal Sound,12,steel,-,85
+707,16,Metal Sound,12,steel,-,85
+707,15,Spikes,15,ground,-,-
+707,16,Spikes,15,ground,-,-
+707,15,Draining Kiss,18,fairy,50,100
+707,16,Draining Kiss,18,fairy,50,100
+707,15,Crafty Shield,23,fairy,-,-
+707,16,Crafty Shield,23,fairy,-,-
+707,15,Foul Play,27,dark,95,100
+707,16,Foul Play,27,dark,95,100
+707,15,Torment,32,dark,-,100
+707,16,Torment,32,dark,-,100
+707,15,Mirror Shot,34,steel,65,85
+707,16,Mirror Shot,34,steel,65,85
+707,15,Imprison,36,psychic,-,-
+707,16,Imprison,36,psychic,-,-
+707,15,Recycle,40,normal,-,-
+707,16,Recycle,40,normal,-,-
+707,15,Play Rough,43,fairy,90,90
+707,16,Play Rough,43,fairy,90,90
+707,15,Magic Room,44,psychic,-,-
+707,16,Magic Room,44,psychic,-,-
+707,15,Heal Block,50,psychic,-,100
+707,16,Heal Block,50,psychic,-,100

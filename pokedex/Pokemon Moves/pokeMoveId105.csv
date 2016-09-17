@@ -1,0 +1,246 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+105,1,Leer,1,normal,-,100
+105,1,Growl,1,normal,-,100
+105,1,Focus Energy,1,normal,-,-
+105,1,Bone Club,1,ground,65,85
+105,2,Tail Whip,1,normal,-,100
+105,2,Bone Club,1,ground,65,85
+105,3,Headbutt,1,normal,70,100
+105,3,Tail Whip,1,normal,-,100
+105,3,Growl,1,normal,-,100
+105,3,Bone Club,1,ground,65,85
+105,4,Headbutt,1,normal,70,100
+105,4,Tail Whip,1,normal,-,100
+105,4,Growl,1,normal,-,100
+105,4,Bone Club,1,ground,65,85
+105,5,Headbutt,1,normal,70,100
+105,5,Tail Whip,1,normal,-,100
+105,5,Growl,1,normal,-,100
+105,5,Bone Club,1,ground,65,85
+105,6,Headbutt,1,normal,70,100
+105,6,Tail Whip,1,normal,-,100
+105,6,Growl,1,normal,-,100
+105,6,Bone Club,1,ground,65,85
+105,7,Headbutt,1,normal,70,100
+105,7,Tail Whip,1,normal,-,100
+105,7,Growl,1,normal,-,100
+105,7,Bone Club,1,ground,65,85
+105,8,Headbutt,1,normal,70,100
+105,8,Tail Whip,1,normal,-,100
+105,8,Growl,1,normal,-,100
+105,8,Bone Club,1,ground,65,85
+105,9,Headbutt,1,normal,70,100
+105,9,Tail Whip,1,normal,-,100
+105,9,Growl,1,normal,-,100
+105,9,Bone Club,1,ground,65,85
+105,10,Headbutt,1,normal,70,100
+105,10,Tail Whip,1,normal,-,100
+105,10,Growl,1,normal,-,100
+105,10,Bone Club,1,ground,65,85
+105,11,Headbutt,1,normal,70,100
+105,11,Tail Whip,1,normal,-,100
+105,11,Growl,1,normal,-,100
+105,11,Bone Club,1,ground,65,85
+105,12,Headbutt,1,normal,70,100
+105,12,Tail Whip,1,normal,-,100
+105,12,Growl,1,normal,-,100
+105,12,Bone Club,1,ground,65,85
+105,13,Headbutt,1,normal,70,100
+105,13,Tail Whip,1,normal,-,100
+105,13,Growl,1,normal,-,100
+105,13,Bone Club,1,ground,65,85
+105,14,Headbutt,1,normal,70,100
+105,14,Tail Whip,1,normal,-,100
+105,14,Growl,1,normal,-,100
+105,14,Bone Club,1,ground,65,85
+105,15,Headbutt,1,normal,70,100
+105,15,Tail Whip,1,normal,-,100
+105,15,Growl,1,normal,-,100
+105,15,Bone Club,1,ground,65,85
+105,16,Headbutt,1,normal,70,100
+105,16,Tail Whip,1,normal,-,100
+105,16,Growl,1,normal,-,100
+105,16,Bone Club,1,ground,65,85
+105,8,Tail Whip,3,normal,-,100
+105,9,Tail Whip,3,normal,-,100
+105,10,Tail Whip,3,normal,-,100
+105,11,Tail Whip,3,normal,-,100
+105,14,Tail Whip,3,normal,-,100
+105,15,Tail Whip,3,normal,-,100
+105,16,Tail Whip,3,normal,-,100
+105,3,Tail Whip,5,normal,-,100
+105,4,Tail Whip,5,normal,-,100
+105,5,Tail Whip,5,normal,-,100
+105,6,Tail Whip,5,normal,-,100
+105,7,Tail Whip,5,normal,-,100
+105,12,Tail Whip,5,normal,-,100
+105,13,Tail Whip,5,normal,-,100
+105,8,Bone Club,7,ground,65,85
+105,9,Bone Club,7,ground,65,85
+105,10,Bone Club,7,ground,65,85
+105,11,Bone Club,7,ground,65,85
+105,14,Bone Club,7,ground,65,85
+105,15,Bone Club,7,ground,65,85
+105,16,Bone Club,7,ground,65,85
+105,3,Bone Club,9,ground,65,85
+105,4,Bone Club,9,ground,65,85
+105,5,Bone Club,9,ground,65,85
+105,6,Bone Club,9,ground,65,85
+105,7,Bone Club,9,ground,65,85
+105,12,Bone Club,9,ground,65,85
+105,13,Bone Club,9,ground,65,85
+105,2,Bone Club,10,ground,65,85
+105,8,Headbutt,11,normal,70,100
+105,9,Headbutt,11,normal,70,100
+105,10,Headbutt,11,normal,70,100
+105,11,Headbutt,11,normal,70,100
+105,14,Headbutt,11,normal,70,100
+105,15,Headbutt,11,normal,70,100
+105,16,Headbutt,11,normal,70,100
+105,2,Tail Whip,13,normal,-,100
+105,3,Headbutt,13,normal,70,100
+105,4,Headbutt,13,normal,70,100
+105,5,Headbutt,13,normal,70,100
+105,6,Headbutt,13,normal,70,100
+105,7,Headbutt,13,normal,70,100
+105,8,Leer,13,normal,-,100
+105,9,Leer,13,normal,-,100
+105,10,Leer,13,normal,-,100
+105,11,Leer,13,normal,-,100
+105,12,Headbutt,13,normal,70,100
+105,13,Headbutt,13,normal,70,100
+105,14,Leer,13,normal,-,100
+105,15,Leer,13,normal,-,100
+105,16,Leer,13,normal,-,100
+105,3,Leer,17,normal,-,100
+105,4,Leer,17,normal,-,100
+105,5,Leer,17,normal,-,100
+105,6,Leer,17,normal,-,100
+105,7,Leer,17,normal,-,100
+105,8,Focus Energy,17,normal,-,-
+105,9,Focus Energy,17,normal,-,-
+105,10,Focus Energy,17,normal,-,-
+105,11,Focus Energy,17,normal,-,-
+105,12,Leer,17,normal,-,100
+105,13,Leer,17,normal,-,100
+105,14,Focus Energy,17,normal,-,-
+105,15,Focus Energy,17,normal,-,-
+105,16,Focus Energy,17,normal,-,-
+105,2,Headbutt,18,normal,70,100
+105,3,Focus Energy,21,normal,-,-
+105,4,Focus Energy,21,normal,-,-
+105,5,Focus Energy,21,normal,-,-
+105,6,Focus Energy,21,normal,-,-
+105,7,Focus Energy,21,normal,-,-
+105,8,Bonemerang,21,ground,50,90
+105,9,Bonemerang,21,ground,50,90
+105,10,Bonemerang,21,ground,50,90
+105,11,Bonemerang,21,ground,50,90
+105,12,Focus Energy,21,normal,-,-
+105,13,Focus Energy,21,normal,-,-
+105,14,Bonemerang,21,ground,50,90
+105,15,Bonemerang,21,ground,50,90
+105,16,Bonemerang,21,ground,50,90
+105,8,Rage,23,normal,20,100
+105,9,Rage,23,normal,20,100
+105,10,Rage,23,normal,20,100
+105,11,Rage,23,normal,20,100
+105,14,Rage,23,normal,20,100
+105,15,Rage,23,normal,20,100
+105,16,Rage,23,normal,20,100
+105,1,Leer,25,normal,-,100
+105,2,Leer,25,normal,-,100
+105,3,Bonemerang,25,ground,50,90
+105,4,Bonemerang,25,ground,50,90
+105,5,Bonemerang,25,ground,50,90
+105,6,Bonemerang,25,ground,50,90
+105,7,Bonemerang,25,ground,50,90
+105,12,Bonemerang,25,ground,50,90
+105,13,Bonemerang,25,ground,50,90
+105,8,False Swipe,27,normal,40,100
+105,9,False Swipe,27,normal,40,100
+105,10,False Swipe,27,normal,40,100
+105,11,False Swipe,27,normal,40,100
+105,14,False Swipe,27,normal,40,100
+105,15,False Swipe,27,normal,40,100
+105,16,False Swipe,27,normal,40,100
+105,3,Rage,32,normal,20,100
+105,4,Rage,32,normal,20,100
+105,5,Rage,32,normal,20,100
+105,6,Rage,32,normal,20,100
+105,7,Rage,32,normal,20,100
+105,12,Rage,32,normal,20,100
+105,13,Rage,32,normal,20,100
+105,1,Focus Energy,33,normal,-,-
+105,2,Focus Energy,33,normal,-,-
+105,8,Thrash,33,normal,120,100
+105,9,Thrash,33,normal,120,100
+105,10,Thrash,33,normal,120,100
+105,11,Thrash,33,normal,120,100
+105,14,Thrash,33,normal,120,100
+105,15,Thrash,33,normal,120,100
+105,16,Thrash,33,normal,120,100
+105,8,Fling,37,dark,-,100
+105,9,Fling,37,dark,-,100
+105,10,Fling,37,dark,-,100
+105,11,Fling,37,dark,-,100
+105,14,Fling,37,dark,-,100
+105,15,Fling,37,dark,-,100
+105,16,Fling,37,dark,-,100
+105,3,False Swipe,39,normal,40,100
+105,4,False Swipe,39,normal,40,100
+105,5,False Swipe,39,normal,40,100
+105,6,False Swipe,39,normal,40,100
+105,7,False Swipe,39,normal,40,100
+105,12,False Swipe,39,normal,40,100
+105,13,False Swipe,39,normal,40,100
+105,1,Thrash,41,normal,120,100
+105,2,Thrash,41,normal,120,100
+105,8,Bone Rush,43,ground,25,90
+105,9,Bone Rush,43,ground,25,90
+105,10,Bone Rush,43,ground,25,90
+105,11,Bone Rush,43,ground,25,90
+105,14,Bone Rush,43,ground,25,90
+105,15,Bone Rush,43,ground,25,90
+105,16,Bone Rush,43,ground,25,90
+105,3,Thrash,46,normal,120,100
+105,4,Thrash,46,normal,120,100
+105,5,Thrash,46,normal,120,100
+105,6,Thrash,46,normal,120,100
+105,7,Thrash,46,normal,120,100
+105,12,Thrash,46,normal,120,100
+105,13,Thrash,46,normal,120,100
+105,1,Bonemerang,48,ground,50,90
+105,2,Bonemerang,48,ground,50,90
+105,8,Endeavor,49,normal,-,100
+105,9,Endeavor,49,normal,-,100
+105,10,Endeavor,49,normal,-,100
+105,11,Endeavor,49,normal,-,100
+105,14,Endeavor,49,normal,-,100
+105,15,Endeavor,49,normal,-,100
+105,16,Endeavor,49,normal,-,100
+105,3,Bone Rush,53,ground,25,90
+105,4,Bone Rush,53,ground,25,90
+105,5,Bone Rush,53,ground,25,90
+105,6,Bone Rush,53,ground,25,90
+105,7,Bone Rush,53,ground,25,90
+105,8,Double-Edge,53,normal,120,100
+105,9,Double-Edge,53,normal,120,100
+105,10,Double-Edge,53,normal,120,100
+105,11,Double-Edge,53,normal,120,100
+105,12,Bone Rush,53,ground,25,90
+105,13,Bone Rush,53,ground,25,90
+105,14,Double-Edge,53,normal,120,100
+105,15,Double-Edge,53,normal,120,100
+105,16,Double-Edge,53,normal,120,100
+105,1,Rage,55,normal,20,100
+105,2,Rage,55,normal,20,100
+105,11,Retaliate,59,normal,70,100
+105,14,Retaliate,59,normal,70,100
+105,15,Retaliate,59,normal,70,100
+105,16,Retaliate,59,normal,70,100
+105,5,Double-Edge,61,normal,120,100
+105,6,Double-Edge,61,normal,120,100
+105,7,Double-Edge,61,normal,120,100
+105,12,Double-Edge,61,normal,120,100
+105,13,Double-Edge,61,normal,120,100

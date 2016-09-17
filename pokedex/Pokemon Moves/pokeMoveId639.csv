@@ -1,0 +1,63 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+639,11,Leer,1,normal,-,100
+639,11,Quick Attack,1,normal,40,100
+639,14,Leer,1,normal,-,100
+639,14,Quick Attack,1,normal,40,100
+639,15,Leer,1,normal,-,100
+639,15,Quick Attack,1,normal,40,100
+639,15,Close Combat,1,fighting,120,100
+639,15,Quick Guard,1,fighting,-,-
+639,15,Work Up,1,normal,-,-
+639,16,Leer,1,normal,-,100
+639,16,Quick Attack,1,normal,40,100
+639,16,Close Combat,1,fighting,120,100
+639,16,Quick Guard,1,fighting,-,-
+639,16,Work Up,1,normal,-,-
+639,11,Double Kick,7,fighting,30,100
+639,14,Double Kick,7,fighting,30,100
+639,15,Double Kick,7,fighting,30,100
+639,16,Double Kick,7,fighting,30,100
+639,11,Smack Down,13,rock,50,100
+639,14,Smack Down,13,rock,50,100
+639,15,Smack Down,13,rock,50,100
+639,16,Smack Down,13,rock,50,100
+639,11,Take Down,19,normal,90,85
+639,14,Take Down,19,normal,90,85
+639,15,Take Down,19,normal,90,85
+639,16,Take Down,19,normal,90,85
+639,11,Helping Hand,25,normal,-,-
+639,14,Helping Hand,25,normal,-,-
+639,15,Helping Hand,25,normal,-,-
+639,16,Helping Hand,25,normal,-,-
+639,11,Retaliate,31,normal,70,100
+639,14,Retaliate,31,normal,70,100
+639,15,Retaliate,31,normal,70,100
+639,16,Retaliate,31,normal,70,100
+639,11,Rock Slide,37,rock,75,90
+639,14,Rock Slide,37,rock,75,90
+639,15,Rock Slide,37,rock,75,90
+639,16,Rock Slide,37,rock,75,90
+639,11,Sacred Sword,42,fighting,90,100
+639,14,Sacred Sword,42,fighting,90,100
+639,15,Sacred Sword,42,fighting,90,100
+639,16,Sacred Sword,42,fighting,90,100
+639,11,Swords Dance,49,normal,-,-
+639,14,Swords Dance,49,normal,-,-
+639,15,Swords Dance,49,normal,-,-
+639,16,Swords Dance,49,normal,-,-
+639,11,Quick Guard,55,fighting,-,-
+639,14,Quick Guard,55,fighting,-,-
+639,15,Quick Guard,55,fighting,-,-
+639,16,Quick Guard,55,fighting,-,-
+639,11,Work Up,61,normal,-,-
+639,14,Work Up,61,normal,-,-
+639,15,Work Up,61,normal,-,-
+639,16,Work Up,61,normal,-,-
+639,11,Stone Edge,67,rock,100,80
+639,14,Stone Edge,67,rock,100,80
+639,15,Stone Edge,67,rock,100,80
+639,16,Stone Edge,67,rock,100,80
+639,11,Close Combat,73,fighting,120,100
+639,14,Close Combat,73,fighting,120,100
+639,15,Close Combat,73,fighting,120,100
+639,16,Close Combat,73,fighting,120,100

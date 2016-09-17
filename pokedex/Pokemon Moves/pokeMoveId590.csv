@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+590,11,Absorb,1,grass,20,100
+590,14,Absorb,1,grass,20,100
+590,15,Absorb,1,grass,20,100
+590,16,Absorb,1,grass,20,100
+590,11,Growth,6,normal,-,-
+590,14,Growth,6,normal,-,-
+590,15,Growth,6,normal,-,-
+590,16,Growth,6,normal,-,-
+590,11,Astonish,8,ghost,30,100
+590,14,Astonish,8,ghost,30,100
+590,15,Astonish,8,ghost,30,100
+590,16,Astonish,8,ghost,30,100
+590,11,Bide,12,normal,-,-
+590,14,Bide,12,normal,-,-
+590,15,Bide,12,normal,-,-
+590,16,Bide,12,normal,-,-
+590,11,Mega Drain,15,grass,40,100
+590,14,Mega Drain,15,grass,40,100
+590,15,Mega Drain,15,grass,40,100
+590,16,Mega Drain,15,grass,40,100
+590,11,Ingrain,18,grass,-,-
+590,14,Ingrain,18,grass,-,-
+590,15,Ingrain,18,grass,-,-
+590,16,Ingrain,18,grass,-,-
+590,11,Feint Attack,20,dark,60,-
+590,14,Feint Attack,20,dark,60,-
+590,15,Feint Attack,20,dark,60,-
+590,16,Feint Attack,20,dark,60,-
+590,11,Sweet Scent,24,normal,-,100
+590,14,Sweet Scent,24,normal,-,100
+590,15,Sweet Scent,24,normal,-,100
+590,16,Sweet Scent,24,normal,-,100
+590,11,Giga Drain,28,grass,75,100
+590,14,Giga Drain,28,grass,75,100
+590,15,Giga Drain,28,grass,75,100
+590,16,Giga Drain,28,grass,75,100
+590,11,Toxic,32,poison,-,90
+590,14,Toxic,32,poison,-,90
+590,15,Toxic,32,poison,-,90
+590,16,Toxic,32,poison,-,90
+590,11,Synthesis,35,grass,-,-
+590,14,Synthesis,35,grass,-,-
+590,15,Synthesis,35,grass,-,-
+590,16,Synthesis,35,grass,-,-
+590,11,Clear Smog,39,poison,50,-
+590,14,Clear Smog,39,poison,50,-
+590,15,Clear Smog,39,poison,50,-
+590,16,Clear Smog,39,poison,50,-
+590,11,Solar Beam,43,grass,120,100
+590,14,Solar Beam,43,grass,120,100
+590,15,Solar Beam,43,grass,120,100
+590,16,Solar Beam,43,grass,120,100
+590,11,Rage Powder,45,bug,-,-
+590,14,Rage Powder,45,bug,-,-
+590,15,Rage Powder,45,bug,-,-
+590,16,Rage Powder,45,bug,-,-
+590,11,Spore,50,grass,-,100
+590,14,Spore,50,grass,-,100
+590,15,Spore,50,grass,-,100
+590,16,Spore,50,grass,-,100

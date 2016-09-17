@@ -1,0 +1,57 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+506,11,Tackle,1,normal,50,100
+506,11,Leer,1,normal,-,100
+506,14,Tackle,1,normal,50,100
+506,14,Leer,1,normal,-,100
+506,15,Tackle,1,normal,50,100
+506,15,Leer,1,normal,-,100
+506,16,Tackle,1,normal,50,100
+506,16,Leer,1,normal,-,100
+506,11,Odor Sleuth,5,normal,-,-
+506,14,Odor Sleuth,5,normal,-,-
+506,15,Odor Sleuth,5,normal,-,-
+506,16,Odor Sleuth,5,normal,-,-
+506,11,Bite,8,dark,60,100
+506,14,Bite,8,dark,60,100
+506,15,Bite,8,dark,60,100
+506,16,Bite,8,dark,60,100
+506,15,Baby-Doll Eyes,10,fairy,-,100
+506,16,Baby-Doll Eyes,10,fairy,-,100
+506,11,Helping Hand,12,normal,-,-
+506,14,Helping Hand,12,normal,-,-
+506,15,Helping Hand,12,normal,-,-
+506,16,Helping Hand,12,normal,-,-
+506,11,Take Down,15,normal,90,85
+506,14,Take Down,15,normal,90,85
+506,15,Take Down,15,normal,90,85
+506,16,Take Down,15,normal,90,85
+506,11,Work Up,19,normal,-,-
+506,14,Work Up,19,normal,-,-
+506,15,Work Up,19,normal,-,-
+506,16,Work Up,19,normal,-,-
+506,11,Crunch,22,dark,80,100
+506,14,Crunch,22,dark,80,100
+506,15,Crunch,22,dark,80,100
+506,16,Crunch,22,dark,80,100
+506,11,Roar,26,normal,-,-
+506,14,Roar,26,normal,-,-
+506,15,Roar,26,normal,-,-
+506,16,Roar,26,normal,-,-
+506,11,Retaliate,29,normal,70,100
+506,14,Retaliate,29,normal,70,100
+506,15,Retaliate,29,normal,70,100
+506,16,Retaliate,29,normal,70,100
+506,11,Reversal,33,fighting,-,100
+506,14,Reversal,33,fighting,-,100
+506,15,Reversal,33,fighting,-,100
+506,16,Reversal,33,fighting,-,100
+506,11,Last Resort,36,normal,140,100
+506,14,Last Resort,36,normal,140,100
+506,15,Last Resort,36,normal,140,100
+506,16,Last Resort,36,normal,140,100
+506,11,Giga Impact,40,normal,150,90
+506,14,Giga Impact,40,normal,150,90
+506,15,Giga Impact,40,normal,150,90
+506,16,Giga Impact,40,normal,150,90
+506,15,Play Rough,45,fairy,90,90
+506,16,Play Rough,45,fairy,90,90

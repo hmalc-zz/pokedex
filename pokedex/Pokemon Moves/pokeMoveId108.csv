@@ -1,0 +1,183 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+108,1,Wrap,1,normal,15,90
+108,1,Supersonic,1,normal,-,55
+108,2,Wrap,1,normal,15,90
+108,2,Supersonic,1,normal,-,55
+108,3,Lick,1,ghost,30,100
+108,4,Lick,1,ghost,30,100
+108,5,Lick,1,ghost,30,100
+108,6,Lick,1,ghost,30,100
+108,7,Lick,1,ghost,30,100
+108,8,Lick,1,ghost,30,100
+108,9,Lick,1,ghost,30,100
+108,10,Lick,1,ghost,30,100
+108,11,Lick,1,ghost,30,100
+108,12,Lick,1,ghost,30,100
+108,13,Lick,1,ghost,30,100
+108,14,Lick,1,ghost,30,100
+108,15,Lick,1,ghost,30,100
+108,16,Lick,1,ghost,30,100
+108,8,Supersonic,5,normal,-,55
+108,9,Supersonic,5,normal,-,55
+108,10,Supersonic,5,normal,-,55
+108,11,Supersonic,5,normal,-,55
+108,14,Supersonic,5,normal,-,55
+108,15,Supersonic,5,normal,-,55
+108,16,Supersonic,5,normal,-,55
+108,1,Stomp,7,normal,65,100
+108,2,Stomp,7,normal,65,100
+108,3,Supersonic,7,normal,-,55
+108,4,Supersonic,7,normal,-,55
+108,5,Supersonic,7,normal,-,55
+108,6,Supersonic,7,normal,-,55
+108,7,Supersonic,7,normal,-,55
+108,12,Supersonic,7,normal,-,55
+108,13,Supersonic,7,normal,-,55
+108,8,Defense Curl,9,normal,-,-
+108,9,Defense Curl,9,normal,-,-
+108,10,Defense Curl,9,normal,-,-
+108,11,Defense Curl,9,normal,-,-
+108,14,Defense Curl,9,normal,-,-
+108,15,Defense Curl,9,normal,-,-
+108,16,Defense Curl,9,normal,-,-
+108,5,Defense Curl,12,normal,-,-
+108,6,Defense Curl,12,normal,-,-
+108,7,Defense Curl,12,normal,-,-
+108,12,Defense Curl,12,normal,-,-
+108,13,Defense Curl,12,normal,-,-
+108,3,Defense Curl,13,normal,-,-
+108,4,Defense Curl,13,normal,-,-
+108,8,Knock Off,13,dark,65,100
+108,9,Knock Off,13,dark,65,100
+108,10,Knock Off,13,dark,65,100
+108,11,Knock Off,13,dark,65,100
+108,14,Knock Off,13,dark,65,100
+108,15,Knock Off,13,dark,65,100
+108,16,Knock Off,13,dark,65,100
+108,1,Disable,15,normal,-,100
+108,2,Disable,15,normal,-,100
+108,8,Wrap,17,normal,15,90
+108,9,Wrap,17,normal,15,90
+108,10,Wrap,17,normal,15,90
+108,11,Wrap,17,normal,15,90
+108,14,Wrap,17,normal,15,90
+108,15,Wrap,17,normal,15,90
+108,16,Wrap,17,normal,15,90
+108,5,Knock Off,18,dark,65,100
+108,6,Knock Off,18,dark,65,100
+108,7,Knock Off,18,dark,65,100
+108,12,Knock Off,18,dark,65,100
+108,13,Knock Off,18,dark,65,100
+108,3,Stomp,19,normal,65,100
+108,4,Stomp,19,normal,65,100
+108,8,Stomp,21,normal,65,100
+108,9,Stomp,21,normal,65,100
+108,10,Stomp,21,normal,65,100
+108,11,Stomp,21,normal,65,100
+108,14,Stomp,21,normal,65,100
+108,15,Stomp,21,normal,65,100
+108,16,Stomp,21,normal,65,100
+108,1,Defense Curl,23,normal,-,-
+108,2,Defense Curl,23,normal,-,-
+108,5,Stomp,23,normal,65,100
+108,6,Stomp,23,normal,65,100
+108,7,Stomp,23,normal,65,100
+108,12,Stomp,23,normal,65,100
+108,13,Stomp,23,normal,65,100
+108,3,Wrap,25,normal,15,90
+108,4,Wrap,25,normal,15,90
+108,8,Disable,25,normal,-,100
+108,9,Disable,25,normal,-,100
+108,10,Disable,25,normal,-,100
+108,11,Disable,25,normal,-,100
+108,14,Disable,25,normal,-,100
+108,15,Disable,25,normal,-,100
+108,16,Disable,25,normal,-,100
+108,5,Wrap,29,normal,15,90
+108,6,Wrap,29,normal,15,90
+108,7,Wrap,29,normal,15,90
+108,8,Slam,29,normal,80,75
+108,9,Slam,29,normal,80,75
+108,10,Slam,29,normal,80,75
+108,11,Slam,29,normal,80,75
+108,12,Wrap,29,normal,15,90
+108,13,Wrap,29,normal,15,90
+108,14,Slam,29,normal,80,75
+108,15,Slam,29,normal,80,75
+108,16,Slam,29,normal,80,75
+108,1,Slam,31,normal,80,75
+108,2,Slam,31,normal,80,75
+108,3,Disable,31,normal,-,100
+108,4,Disable,31,normal,-,100
+108,8,Rollout,33,rock,30,90
+108,9,Rollout,33,rock,30,90
+108,10,Rollout,33,rock,30,90
+108,11,Rollout,33,rock,30,90
+108,14,Rollout,33,rock,30,90
+108,15,Rollout,33,rock,30,90
+108,16,Rollout,33,rock,30,90
+108,5,Disable,34,normal,-,100
+108,6,Disable,34,normal,-,100
+108,7,Disable,34,normal,-,100
+108,12,Disable,34,normal,-,100
+108,13,Disable,34,normal,-,100
+108,3,Slam,37,normal,80,75
+108,4,Slam,37,normal,80,75
+108,8,Me First,37,normal,-,-
+108,9,Me First,37,normal,-,-
+108,10,Me First,37,normal,-,-
+108,11,Chip Away,37,normal,70,100
+108,14,Chip Away,37,normal,70,100
+108,15,Chip Away,37,normal,70,100
+108,16,Chip Away,37,normal,70,100
+108,1,Screech,39,normal,-,85
+108,2,Screech,39,normal,-,85
+108,5,Slam,40,normal,80,75
+108,6,Slam,40,normal,80,75
+108,7,Slam,40,normal,80,75
+108,12,Slam,40,normal,80,75
+108,13,Slam,40,normal,80,75
+108,8,Refresh,41,normal,-,-
+108,9,Refresh,41,normal,-,-
+108,10,Refresh,41,normal,-,-
+108,11,Me First,41,normal,-,-
+108,14,Me First,41,normal,-,-
+108,15,Me First,41,normal,-,-
+108,16,Me First,41,normal,-,-
+108,3,Screech,43,normal,-,85
+108,4,Screech,43,normal,-,85
+108,5,Screech,45,normal,-,85
+108,6,Screech,45,normal,-,85
+108,7,Screech,45,normal,-,85
+108,8,Screech,45,normal,-,85
+108,9,Screech,45,normal,-,85
+108,10,Screech,45,normal,-,85
+108,11,Refresh,45,normal,-,-
+108,12,Screech,45,normal,-,85
+108,13,Screech,45,normal,-,85
+108,14,Refresh,45,normal,-,-
+108,15,Refresh,45,normal,-,-
+108,16,Refresh,45,normal,-,-
+108,8,Power Whip,49,grass,120,85
+108,9,Power Whip,49,grass,120,85
+108,10,Power Whip,49,grass,120,85
+108,11,Screech,49,normal,-,85
+108,14,Screech,49,normal,-,85
+108,15,Screech,49,normal,-,85
+108,16,Screech,49,normal,-,85
+108,5,Refresh,51,normal,-,-
+108,6,Refresh,51,normal,-,-
+108,7,Refresh,51,normal,-,-
+108,12,Refresh,51,normal,-,-
+108,13,Refresh,51,normal,-,-
+108,8,Wring Out,53,normal,-,100
+108,9,Wring Out,53,normal,-,100
+108,10,Wring Out,53,normal,-,100
+108,11,Power Whip,53,grass,120,85
+108,14,Power Whip,53,grass,120,85
+108,15,Power Whip,53,grass,120,85
+108,16,Power Whip,53,grass,120,85
+108,11,Wring Out,57,normal,-,100
+108,14,Wring Out,57,normal,-,100
+108,15,Wring Out,57,normal,-,100
+108,16,Wring Out,57,normal,-,100

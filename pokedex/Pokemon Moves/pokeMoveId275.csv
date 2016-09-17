@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+275,5,Pound,1,normal,40,100
+275,5,Growth,1,normal,-,-
+275,5,Harden,1,normal,-,-
+275,5,Nature Power,1,normal,-,-
+275,6,Pound,1,normal,40,100
+275,6,Growth,1,normal,-,-
+275,6,Harden,1,normal,-,-
+275,6,Nature Power,1,normal,-,-
+275,7,Pound,1,normal,40,100
+275,7,Growth,1,normal,-,-
+275,7,Harden,1,normal,-,-
+275,7,Nature Power,1,normal,-,-
+275,8,Whirlwind,1,normal,-,-
+275,8,Razor Leaf,1,grass,55,95
+275,8,Feint Attack,1,dark,60,-
+275,8,Nasty Plot,1,dark,-,-
+275,9,Whirlwind,1,normal,-,-
+275,9,Razor Leaf,1,grass,55,95
+275,9,Feint Attack,1,dark,60,-
+275,9,Nasty Plot,1,dark,-,-
+275,10,Whirlwind,1,normal,-,-
+275,10,Razor Leaf,1,grass,55,95
+275,10,Feint Attack,1,dark,60,-
+275,10,Nasty Plot,1,dark,-,-
+275,11,Whirlwind,1,normal,-,-
+275,11,Razor Leaf,1,grass,55,95
+275,11,Feint Attack,1,dark,60,-
+275,11,Nasty Plot,1,dark,-,-
+275,12,Pound,1,normal,40,100
+275,12,Growth,1,normal,-,-
+275,12,Harden,1,normal,-,-
+275,12,Nature Power,1,normal,-,-
+275,13,Pound,1,normal,40,100
+275,13,Growth,1,normal,-,-
+275,13,Harden,1,normal,-,-
+275,13,Nature Power,1,normal,-,-
+275,14,Whirlwind,1,normal,-,-
+275,14,Razor Leaf,1,grass,55,95
+275,14,Feint Attack,1,dark,60,-
+275,14,Nasty Plot,1,dark,-,-
+275,15,Whirlwind,1,normal,-,-
+275,15,Razor Leaf,1,grass,55,95
+275,15,Feint Attack,1,dark,60,-
+275,15,Nasty Plot,1,dark,-,-
+275,16,Whirlwind,1,normal,-,-
+275,16,Razor Leaf,1,grass,55,95
+275,16,Feint Attack,1,dark,60,-
+275,16,Nasty Plot,1,dark,-,-
+275,11,Leaf Tornado,19,grass,65,90
+275,14,Leaf Tornado,19,grass,65,90
+275,15,Leaf Tornado,19,grass,65,90
+275,16,Leaf Tornado,20,grass,65,90
+275,16,Hurricane,32,flying,110,70
+275,16,Leaf Storm,44,grass,130,90
+275,8,Leaf Storm,49,grass,130,90
+275,9,Leaf Storm,49,grass,130,90
+275,10,Leaf Storm,49,grass,130,90
+275,11,Leaf Storm,49,grass,130,90
+275,14,Leaf Storm,49,grass,130,90
+275,15,Leaf Storm,49,grass,130,90

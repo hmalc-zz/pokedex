@@ -1,0 +1,33 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+703,15,Tackle,1,normal,50,100
+703,15,Harden,1,normal,-,-
+703,16,Tackle,1,normal,50,100
+703,16,Harden,1,normal,-,-
+703,15,Rock Throw,5,rock,50,90
+703,16,Rock Throw,5,rock,50,90
+703,15,Sharpen,8,normal,-,-
+703,16,Sharpen,8,normal,-,-
+703,15,Smack Down,12,rock,50,100
+703,16,Smack Down,12,rock,50,100
+703,15,Reflect,18,psychic,-,-
+703,16,Reflect,18,psychic,-,-
+703,15,Stealth Rock,21,rock,-,-
+703,16,Stealth Rock,21,rock,-,-
+703,15,Guard Split,27,psychic,-,-
+703,16,Guard Split,27,psychic,-,-
+703,15,Ancient Power,31,rock,60,100
+703,16,Ancient Power,31,rock,60,100
+703,15,Flail,35,normal,-,100
+703,16,Flail,35,normal,-,100
+703,15,Skill Swap,40,psychic,-,-
+703,16,Skill Swap,40,psychic,-,-
+703,15,Power Gem,46,rock,80,100
+703,16,Power Gem,46,rock,80,100
+703,15,Stone Edge,49,rock,100,80
+703,16,Stone Edge,49,rock,100,80
+703,15,Moonblast,50,fairy,95,100
+703,16,Moonblast,50,fairy,95,100
+703,15,Light Screen,60,psychic,-,-
+703,16,Light Screen,60,psychic,-,-
+703,15,Safeguard,70,normal,-,-
+703,16,Safeguard,70,normal,-,-

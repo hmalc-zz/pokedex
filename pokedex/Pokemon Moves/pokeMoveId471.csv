@@ -1,0 +1,98 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+471,8,Tackle,1,normal,50,100
+471,8,Tail Whip,1,normal,-,100
+471,8,Helping Hand,1,normal,-,-
+471,9,Tackle,1,normal,50,100
+471,9,Tail Whip,1,normal,-,100
+471,9,Helping Hand,1,normal,-,-
+471,10,Tackle,1,normal,50,100
+471,10,Tail Whip,1,normal,-,100
+471,10,Helping Hand,1,normal,-,-
+471,11,Tackle,1,normal,50,100
+471,11,Tail Whip,1,normal,-,100
+471,11,Helping Hand,1,normal,-,-
+471,14,Tackle,1,normal,50,100
+471,14,Tail Whip,1,normal,-,100
+471,14,Helping Hand,1,normal,-,-
+471,15,Tackle,1,normal,50,100
+471,15,Tail Whip,1,normal,-,100
+471,15,Helping Hand,1,normal,-,-
+471,16,Tackle,1,normal,50,100
+471,16,Tail Whip,1,normal,-,100
+471,16,Helping Hand,1,normal,-,-
+471,14,Sand Attack,5,ground,-,100
+471,15,Sand Attack,5,ground,-,100
+471,16,Sand Attack,5,ground,-,100
+471,8,Sand Attack,8,ground,-,100
+471,9,Sand Attack,8,ground,-,100
+471,10,Sand Attack,8,ground,-,100
+471,11,Sand Attack,8,ground,-,100
+471,14,Icy Wind,9,ice,55,95
+471,15,Icy Wind,9,ice,55,95
+471,16,Icy Wind,9,ice,55,95
+471,14,Quick Attack,13,normal,40,100
+471,15,Quick Attack,13,normal,40,100
+471,16,Quick Attack,13,normal,40,100
+471,8,Icy Wind,15,ice,55,95
+471,9,Icy Wind,15,ice,55,95
+471,10,Icy Wind,15,ice,55,95
+471,11,Icy Wind,15,ice,55,95
+471,14,Bite,17,dark,60,100
+471,15,Bite,17,dark,60,100
+471,16,Bite,17,dark,60,100
+471,15,Ice Fang,20,ice,65,95
+471,16,Ice Fang,20,ice,65,95
+471,14,Ice Fang,21,ice,65,95
+471,8,Quick Attack,22,normal,40,100
+471,9,Quick Attack,22,normal,40,100
+471,10,Quick Attack,22,normal,40,100
+471,11,Quick Attack,22,normal,40,100
+471,14,Ice Shard,25,ice,40,100
+471,15,Ice Shard,25,ice,40,100
+471,16,Ice Shard,25,ice,40,100
+471,8,Bite,29,dark,60,100
+471,9,Bite,29,dark,60,100
+471,10,Bite,29,dark,60,100
+471,11,Bite,29,dark,60,100
+471,14,Barrier,29,psychic,-,-
+471,15,Barrier,29,psychic,-,-
+471,16,Barrier,29,psychic,-,-
+471,14,Mirror Coat,33,psychic,-,100
+471,15,Mirror Coat,33,psychic,-,100
+471,16,Mirror Coat,33,psychic,-,100
+471,8,Ice Shard,36,ice,40,100
+471,9,Ice Shard,36,ice,40,100
+471,10,Ice Shard,36,ice,40,100
+471,11,Ice Shard,36,ice,40,100
+471,14,Hail,37,ice,-,-
+471,15,Hail,37,ice,-,-
+471,16,Hail,37,ice,-,-
+471,14,Last Resort,41,normal,140,100
+471,15,Last Resort,41,normal,140,100
+471,16,Last Resort,41,normal,140,100
+471,8,Ice Fang,43,ice,65,95
+471,9,Ice Fang,43,ice,65,95
+471,10,Ice Fang,43,ice,65,95
+471,11,Ice Fang,43,ice,65,95
+471,14,Blizzard,45,ice,110,70
+471,15,Blizzard,45,ice,110,70
+471,16,Blizzard,45,ice,110,70
+471,8,Last Resort,50,normal,140,100
+471,9,Last Resort,50,normal,140,100
+471,10,Last Resort,50,normal,140,100
+471,11,Last Resort,50,normal,140,100
+471,8,Mirror Coat,57,psychic,-,100
+471,9,Mirror Coat,57,psychic,-,100
+471,10,Mirror Coat,57,psychic,-,100
+471,11,Mirror Coat,57,psychic,-,100
+471,8,Hail,64,ice,-,-
+471,9,Hail,64,ice,-,-
+471,10,Hail,64,ice,-,-
+471,11,Hail,64,ice,-,-
+471,8,Blizzard,71,ice,110,70
+471,9,Blizzard,71,ice,110,70
+471,10,Blizzard,71,ice,110,70
+471,11,Blizzard,71,ice,110,70
+471,9,Barrier,78,psychic,-,-
+471,10,Barrier,78,psychic,-,-
+471,11,Barrier,78,psychic,-,-

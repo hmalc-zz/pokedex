@@ -1,0 +1,112 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+392,8,Scratch,1,normal,40,100
+392,8,Leer,1,normal,-,100
+392,8,Ember,1,fire,40,100
+392,8,Taunt,1,dark,-,100
+392,9,Scratch,1,normal,40,100
+392,9,Leer,1,normal,-,100
+392,9,Ember,1,fire,40,100
+392,9,Taunt,1,dark,-,100
+392,10,Scratch,1,normal,40,100
+392,10,Leer,1,normal,-,100
+392,10,Ember,1,fire,40,100
+392,10,Taunt,1,dark,-,100
+392,11,Scratch,1,normal,40,100
+392,11,Leer,1,normal,-,100
+392,11,Ember,1,fire,40,100
+392,11,Taunt,1,dark,-,100
+392,14,Scratch,1,normal,40,100
+392,14,Leer,1,normal,-,100
+392,14,Ember,1,fire,40,100
+392,14,Taunt,1,dark,-,100
+392,15,Scratch,1,normal,40,100
+392,15,Leer,1,normal,-,100
+392,15,Ember,1,fire,40,100
+392,15,Taunt,1,dark,-,100
+392,15,Flare Blitz,1,fire,120,100
+392,16,Scratch,1,normal,40,100
+392,16,Leer,1,normal,-,100
+392,16,Ember,1,fire,40,100
+392,16,Taunt,1,dark,-,100
+392,16,Flare Blitz,1,fire,120,100
+392,8,Ember,7,fire,40,100
+392,9,Ember,7,fire,40,100
+392,10,Ember,7,fire,40,100
+392,11,Ember,7,fire,40,100
+392,14,Ember,7,fire,40,100
+392,15,Ember,7,fire,40,100
+392,16,Ember,7,fire,40,100
+392,8,Taunt,9,dark,-,100
+392,9,Taunt,9,dark,-,100
+392,10,Taunt,9,dark,-,100
+392,11,Taunt,9,dark,-,100
+392,14,Taunt,9,dark,-,100
+392,15,Taunt,9,dark,-,100
+392,16,Taunt,9,dark,-,100
+392,8,Mach Punch,14,fighting,40,100
+392,9,Mach Punch,14,fighting,40,100
+392,10,Mach Punch,14,fighting,40,100
+392,11,Mach Punch,14,fighting,40,100
+392,14,Mach Punch,14,fighting,40,100
+392,15,Mach Punch,14,fighting,40,100
+392,16,Mach Punch,14,fighting,40,100
+392,11,Fury Swipes,16,normal,18,80
+392,14,Fury Swipes,16,normal,18,80
+392,15,Fury Swipes,16,normal,18,80
+392,16,Fury Swipes,16,normal,18,80
+392,8,Fury Swipes,17,normal,18,80
+392,9,Fury Swipes,17,normal,18,80
+392,10,Fury Swipes,17,normal,18,80
+392,11,Flame Wheel,19,fire,60,100
+392,14,Flame Wheel,19,fire,60,100
+392,15,Flame Wheel,19,fire,60,100
+392,16,Flame Wheel,19,fire,60,100
+392,8,Flame Wheel,21,fire,60,100
+392,9,Flame Wheel,21,fire,60,100
+392,10,Flame Wheel,21,fire,60,100
+392,11,Feint,26,normal,30,100
+392,14,Feint,26,normal,30,100
+392,15,Feint,26,normal,30,100
+392,16,Feint,26,normal,30,100
+392,8,Feint,29,normal,30,100
+392,9,Feint,29,normal,30,100
+392,10,Feint,29,normal,30,100
+392,11,Punishment,29,dark,-,100
+392,14,Punishment,29,dark,-,100
+392,15,Punishment,29,dark,-,100
+392,16,Punishment,29,dark,-,100
+392,8,Punishment,33,dark,-,100
+392,9,Punishment,33,dark,-,100
+392,10,Punishment,33,dark,-,100
+392,11,Close Combat,36,fighting,120,100
+392,14,Close Combat,36,fighting,120,100
+392,15,Close Combat,36,fighting,120,100
+392,16,Close Combat,36,fighting,120,100
+392,8,Close Combat,41,fighting,120,100
+392,9,Close Combat,41,fighting,120,100
+392,10,Close Combat,41,fighting,120,100
+392,11,Fire Spin,42,fire,35,85
+392,14,Fire Spin,42,fire,35,85
+392,15,Fire Spin,42,fire,35,85
+392,16,Fire Spin,42,fire,35,85
+392,8,Fire Spin,45,fire,35,85
+392,9,Fire Spin,45,fire,35,85
+392,10,Fire Spin,45,fire,35,85
+392,11,Acrobatics,52,flying,55,100
+392,14,Acrobatics,52,flying,55,100
+392,15,Acrobatics,52,flying,55,100
+392,16,Acrobatics,52,flying,55,100
+392,8,Calm Mind,53,psychic,-,-
+392,9,Calm Mind,53,psychic,-,-
+392,10,Calm Mind,53,psychic,-,-
+392,8,Flare Blitz,57,fire,120,100
+392,9,Flare Blitz,57,fire,120,100
+392,10,Flare Blitz,57,fire,120,100
+392,11,Calm Mind,58,psychic,-,-
+392,14,Calm Mind,58,psychic,-,-
+392,15,Calm Mind,58,psychic,-,-
+392,16,Calm Mind,58,psychic,-,-
+392,11,Flare Blitz,68,fire,120,100
+392,14,Flare Blitz,68,fire,120,100
+392,15,Flare Blitz,68,fire,120,100
+392,16,Flare Blitz,68,fire,120,100

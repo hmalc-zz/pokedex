@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+538,11,Bind,1,normal,15,85
+538,11,Leer,1,normal,-,100
+538,14,Bind,1,normal,15,85
+538,14,Leer,1,normal,-,100
+538,15,Bind,1,normal,15,85
+538,15,Leer,1,normal,-,100
+538,16,Bind,1,normal,15,85
+538,16,Leer,1,normal,-,100
+538,11,Bide,5,normal,-,-
+538,14,Bide,5,normal,-,-
+538,15,Bide,5,normal,-,-
+538,16,Bide,5,normal,-,-
+538,11,Focus Energy,9,normal,-,-
+538,14,Focus Energy,9,normal,-,-
+538,15,Focus Energy,9,normal,-,-
+538,16,Focus Energy,9,normal,-,-
+538,11,Seismic Toss,13,fighting,-,100
+538,14,Seismic Toss,13,fighting,-,100
+538,15,Seismic Toss,13,fighting,-,100
+538,16,Seismic Toss,13,fighting,-,100
+538,11,Vital Throw,17,fighting,70,-
+538,14,Vital Throw,17,fighting,70,-
+538,15,Vital Throw,17,fighting,70,-
+538,16,Vital Throw,17,fighting,70,-
+538,11,Revenge,21,fighting,60,100
+538,14,Revenge,21,fighting,60,100
+538,15,Revenge,21,fighting,60,100
+538,16,Revenge,21,fighting,60,100
+538,11,Storm Throw,25,fighting,60,100
+538,14,Storm Throw,25,fighting,60,100
+538,15,Storm Throw,25,fighting,60,100
+538,16,Storm Throw,25,fighting,60,100
+538,11,Body Slam,29,normal,85,100
+538,14,Body Slam,29,normal,85,100
+538,15,Body Slam,29,normal,85,100
+538,16,Body Slam,29,normal,85,100
+538,11,Bulk Up,33,fighting,-,-
+538,14,Bulk Up,33,fighting,-,-
+538,15,Bulk Up,33,fighting,-,-
+538,16,Bulk Up,33,fighting,-,-
+538,11,Circle Throw,37,fighting,60,90
+538,14,Circle Throw,37,fighting,60,90
+538,15,Circle Throw,37,fighting,60,90
+538,16,Circle Throw,37,fighting,60,90
+538,11,Endure,41,normal,-,-
+538,14,Endure,41,normal,-,-
+538,15,Endure,41,normal,-,-
+538,16,Endure,41,normal,-,-
+538,11,Wide Guard,45,rock,-,-
+538,14,Wide Guard,45,rock,-,-
+538,15,Wide Guard,45,rock,-,-
+538,16,Wide Guard,45,rock,-,-
+538,15,Superpower,48,fighting,120,100
+538,16,Superpower,48,fighting,120,100
+538,11,Superpower,49,fighting,120,100
+538,14,Superpower,49,fighting,120,100
+538,15,Reversal,50,fighting,-,100
+538,16,Reversal,50,fighting,-,100
+538,11,Reversal,53,fighting,-,100
+538,14,Reversal,53,fighting,-,100

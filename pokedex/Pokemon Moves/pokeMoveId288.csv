@@ -1,0 +1,151 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+288,5,Scratch,1,normal,40,100
+288,5,Focus Energy,1,normal,-,-
+288,5,Encore,1,normal,-,100
+288,5,Uproar,1,normal,90,100
+288,6,Scratch,1,normal,40,100
+288,6,Focus Energy,1,normal,-,-
+288,6,Encore,1,normal,-,100
+288,6,Uproar,1,normal,90,100
+288,7,Scratch,1,normal,40,100
+288,7,Focus Energy,1,normal,-,-
+288,7,Encore,1,normal,-,100
+288,7,Uproar,1,normal,90,100
+288,8,Scratch,1,normal,40,100
+288,8,Focus Energy,1,normal,-,-
+288,8,Encore,1,normal,-,100
+288,8,Uproar,1,normal,90,100
+288,9,Scratch,1,normal,40,100
+288,9,Focus Energy,1,normal,-,-
+288,9,Encore,1,normal,-,100
+288,9,Uproar,1,normal,90,100
+288,10,Scratch,1,normal,40,100
+288,10,Focus Energy,1,normal,-,-
+288,10,Encore,1,normal,-,100
+288,10,Uproar,1,normal,90,100
+288,11,Scratch,1,normal,40,100
+288,11,Focus Energy,1,normal,-,-
+288,11,Encore,1,normal,-,100
+288,11,Uproar,1,normal,90,100
+288,12,Scratch,1,normal,40,100
+288,12,Focus Energy,1,normal,-,-
+288,12,Encore,1,normal,-,100
+288,12,Uproar,1,normal,90,100
+288,13,Scratch,1,normal,40,100
+288,13,Focus Energy,1,normal,-,-
+288,13,Encore,1,normal,-,100
+288,13,Uproar,1,normal,90,100
+288,14,Scratch,1,normal,40,100
+288,14,Focus Energy,1,normal,-,-
+288,14,Encore,1,normal,-,100
+288,14,Uproar,1,normal,90,100
+288,15,Scratch,1,normal,40,100
+288,15,Focus Energy,1,normal,-,-
+288,15,Reversal,1,fighting,-,100
+288,15,Encore,1,normal,-,100
+288,15,Uproar,1,normal,90,100
+288,16,Scratch,1,normal,40,100
+288,16,Focus Energy,1,normal,-,-
+288,16,Reversal,1,fighting,-,100
+288,16,Encore,1,normal,-,100
+288,16,Uproar,1,normal,90,100
+288,16,Encore,6,normal,-,100
+288,5,Encore,7,normal,-,100
+288,6,Encore,7,normal,-,100
+288,7,Encore,7,normal,-,100
+288,8,Encore,7,normal,-,100
+288,9,Encore,7,normal,-,100
+288,10,Encore,7,normal,-,100
+288,11,Encore,7,normal,-,100
+288,12,Encore,7,normal,-,100
+288,13,Encore,7,normal,-,100
+288,14,Encore,7,normal,-,100
+288,15,Encore,7,normal,-,100
+288,16,Uproar,9,normal,90,100
+288,5,Uproar,13,normal,90,100
+288,6,Uproar,13,normal,90,100
+288,7,Uproar,13,normal,90,100
+288,8,Uproar,13,normal,90,100
+288,9,Uproar,13,normal,90,100
+288,10,Uproar,13,normal,90,100
+288,11,Uproar,13,normal,90,100
+288,12,Uproar,13,normal,90,100
+288,13,Uproar,13,normal,90,100
+288,14,Uproar,13,normal,90,100
+288,15,Uproar,13,normal,90,100
+288,16,Fury Swipes,14,normal,18,80
+288,16,Endure,17,normal,-,-
+288,5,Fury Swipes,19,normal,18,80
+288,6,Fury Swipes,19,normal,18,80
+288,7,Fury Swipes,19,normal,18,80
+288,8,Fury Swipes,19,normal,18,80
+288,9,Fury Swipes,19,normal,18,80
+288,10,Fury Swipes,19,normal,18,80
+288,11,Fury Swipes,19,normal,18,80
+288,12,Fury Swipes,19,normal,18,80
+288,13,Fury Swipes,19,normal,18,80
+288,14,Fury Swipes,19,normal,18,80
+288,15,Fury Swipes,19,normal,18,80
+288,16,Slash,23,normal,70,100
+288,5,Endure,25,normal,-,-
+288,6,Endure,25,normal,-,-
+288,7,Endure,25,normal,-,-
+288,8,Endure,25,normal,-,-
+288,9,Endure,25,normal,-,-
+288,10,Endure,25,normal,-,-
+288,11,Endure,25,normal,-,-
+288,12,Endure,25,normal,-,-
+288,13,Endure,25,normal,-,-
+288,14,Endure,25,normal,-,-
+288,15,Endure,25,normal,-,-
+288,16,Chip Away,27,normal,70,100
+288,5,Slash,31,normal,70,100
+288,6,Slash,31,normal,70,100
+288,7,Slash,31,normal,70,100
+288,8,Slash,31,normal,70,100
+288,9,Slash,31,normal,70,100
+288,10,Slash,31,normal,70,100
+288,11,Slash,31,normal,70,100
+288,12,Slash,31,normal,70,100
+288,13,Slash,31,normal,70,100
+288,14,Slash,31,normal,70,100
+288,15,Slash,31,normal,70,100
+288,16,Counter,33,fighting,-,100
+288,5,Counter,37,fighting,-,100
+288,6,Counter,37,fighting,-,100
+288,7,Counter,37,fighting,-,100
+288,8,Counter,37,fighting,-,100
+288,9,Counter,37,fighting,-,100
+288,10,Counter,37,fighting,-,100
+288,11,Counter,37,fighting,-,100
+288,12,Counter,37,fighting,-,100
+288,13,Counter,37,fighting,-,100
+288,14,Counter,37,fighting,-,100
+288,15,Counter,37,fighting,-,100
+288,16,Focus Punch,37,fighting,150,100
+288,5,Focus Punch,43,fighting,150,100
+288,6,Focus Punch,43,fighting,150,100
+288,7,Focus Punch,43,fighting,150,100
+288,8,Focus Punch,43,fighting,150,100
+288,9,Focus Punch,43,fighting,150,100
+288,10,Focus Punch,43,fighting,150,100
+288,11,Chip Away,43,normal,70,100
+288,12,Focus Punch,43,fighting,150,100
+288,13,Focus Punch,43,fighting,150,100
+288,14,Chip Away,43,normal,70,100
+288,15,Chip Away,43,normal,70,100
+288,16,Reversal,43,fighting,-,100
+288,5,Reversal,49,fighting,-,100
+288,6,Reversal,49,fighting,-,100
+288,7,Reversal,49,fighting,-,100
+288,8,Reversal,49,fighting,-,100
+288,9,Reversal,49,fighting,-,100
+288,10,Reversal,49,fighting,-,100
+288,11,Focus Punch,49,fighting,150,100
+288,12,Reversal,49,fighting,-,100
+288,13,Reversal,49,fighting,-,100
+288,14,Focus Punch,49,fighting,150,100
+288,15,Focus Punch,49,fighting,150,100
+288,11,Reversal,55,fighting,-,100
+288,14,Reversal,55,fighting,-,100
+288,15,Reversal,55,fighting,-,100

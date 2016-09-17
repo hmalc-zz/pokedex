@@ -1,0 +1,84 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+399,8,Tackle,1,normal,50,100
+399,9,Tackle,1,normal,50,100
+399,10,Tackle,1,normal,50,100
+399,11,Tackle,1,normal,50,100
+399,14,Tackle,1,normal,50,100
+399,15,Tackle,1,normal,50,100
+399,16,Tackle,1,normal,50,100
+399,8,Growl,5,normal,-,100
+399,9,Growl,5,normal,-,100
+399,10,Growl,5,normal,-,100
+399,11,Growl,5,normal,-,100
+399,14,Growl,5,normal,-,100
+399,15,Growl,5,normal,-,100
+399,16,Growl,5,normal,-,100
+399,8,Defense Curl,9,normal,-,-
+399,9,Defense Curl,9,normal,-,-
+399,10,Defense Curl,9,normal,-,-
+399,11,Defense Curl,9,normal,-,-
+399,14,Defense Curl,9,normal,-,-
+399,15,Defense Curl,9,normal,-,-
+399,16,Defense Curl,9,normal,-,-
+399,8,Rollout,13,rock,30,90
+399,9,Rollout,13,rock,30,90
+399,10,Rollout,13,rock,30,90
+399,11,Rollout,13,rock,30,90
+399,14,Rollout,13,rock,30,90
+399,15,Rollout,13,rock,30,90
+399,16,Rollout,13,rock,30,90
+399,8,Headbutt,17,normal,70,100
+399,9,Headbutt,17,normal,70,100
+399,10,Headbutt,17,normal,70,100
+399,11,Headbutt,17,normal,70,100
+399,14,Headbutt,17,normal,70,100
+399,15,Headbutt,17,normal,70,100
+399,16,Headbutt,17,normal,70,100
+399,8,Hyper Fang,21,normal,80,90
+399,9,Hyper Fang,21,normal,80,90
+399,10,Hyper Fang,21,normal,80,90
+399,11,Hyper Fang,21,normal,80,90
+399,14,Hyper Fang,21,normal,80,90
+399,15,Hyper Fang,21,normal,80,90
+399,16,Hyper Fang,21,normal,80,90
+399,8,Yawn,25,normal,-,-
+399,9,Yawn,25,normal,-,-
+399,10,Yawn,25,normal,-,-
+399,11,Yawn,25,normal,-,-
+399,14,Yawn,25,normal,-,-
+399,15,Yawn,25,normal,-,-
+399,16,Yawn,25,normal,-,-
+399,8,Amnesia,29,psychic,-,-
+399,9,Amnesia,29,psychic,-,-
+399,10,Amnesia,29,psychic,-,-
+399,11,Amnesia,29,psychic,-,-
+399,14,Amnesia,29,psychic,-,-
+399,15,Amnesia,29,psychic,-,-
+399,16,Amnesia,29,psychic,-,-
+399,8,Take Down,33,normal,90,85
+399,9,Take Down,33,normal,90,85
+399,10,Take Down,33,normal,90,85
+399,11,Take Down,33,normal,90,85
+399,14,Take Down,33,normal,90,85
+399,15,Take Down,33,normal,90,85
+399,16,Take Down,33,normal,90,85
+399,8,Super Fang,37,normal,-,90
+399,9,Super Fang,37,normal,-,90
+399,10,Super Fang,37,normal,-,90
+399,11,Super Fang,37,normal,-,90
+399,14,Super Fang,37,normal,-,90
+399,15,Super Fang,37,normal,-,90
+399,16,Super Fang,37,normal,-,90
+399,8,Superpower,41,fighting,120,100
+399,9,Superpower,41,fighting,120,100
+399,10,Superpower,41,fighting,120,100
+399,11,Superpower,41,fighting,120,100
+399,14,Superpower,41,fighting,120,100
+399,15,Superpower,41,fighting,120,100
+399,16,Superpower,41,fighting,120,100
+399,9,Curse,45,ghost,-,-
+399,10,Curse,45,ghost,-,-
+399,11,Curse,45,ghost,-,-
+399,14,Curse,45,ghost,-,-
+399,15,Curse,45,ghost,-,-
+399,16,Curse,45,ghost,-,-

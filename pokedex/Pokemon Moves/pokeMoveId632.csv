@@ -1,0 +1,67 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+632,11,Vice Grip,1,normal,55,100
+632,11,Sand Attack,1,ground,-,100
+632,14,Vice Grip,1,normal,55,100
+632,14,Sand Attack,1,ground,-,100
+632,15,Vice Grip,1,normal,55,100
+632,15,Guillotine,1,normal,-,30
+632,15,Sand Attack,1,ground,-,100
+632,15,Metal Sound,1,steel,-,85
+632,15,Iron Defense,1,steel,-,-
+632,16,Vice Grip,1,normal,55,100
+632,16,Guillotine,1,normal,-,30
+632,16,Sand Attack,1,ground,-,100
+632,16,Metal Sound,1,steel,-,85
+632,16,Iron Defense,1,steel,-,-
+632,11,Fury Cutter,6,bug,40,95
+632,14,Fury Cutter,6,bug,40,95
+632,15,Fury Cutter,6,bug,40,95
+632,16,Fury Cutter,6,bug,40,95
+632,11,Bite,11,dark,60,100
+632,14,Bite,11,dark,60,100
+632,15,Bite,11,dark,60,100
+632,16,Bite,11,dark,60,100
+632,11,Agility,16,psychic,-,-
+632,14,Agility,16,psychic,-,-
+632,15,Agility,16,psychic,-,-
+632,16,Agility,16,psychic,-,-
+632,11,Metal Claw,21,steel,50,95
+632,14,Metal Claw,21,steel,50,95
+632,15,Metal Claw,21,steel,50,95
+632,16,Metal Claw,21,steel,50,95
+632,11,Bug Bite,26,bug,60,100
+632,14,Bug Bite,26,bug,60,100
+632,15,Bug Bite,26,bug,60,100
+632,16,Bug Bite,26,bug,60,100
+632,11,Crunch,31,dark,80,100
+632,14,Crunch,31,dark,80,100
+632,15,Crunch,31,dark,80,100
+632,16,Crunch,31,dark,80,100
+632,11,Iron Head,36,steel,80,100
+632,14,Iron Head,36,steel,80,100
+632,15,Iron Head,36,steel,80,100
+632,16,Iron Head,36,steel,80,100
+632,11,Dig,41,ground,80,100
+632,14,Dig,41,ground,80,100
+632,15,Dig,41,ground,80,100
+632,16,Dig,41,ground,80,100
+632,11,Entrainment,46,normal,-,100
+632,14,Entrainment,46,normal,-,100
+632,15,Entrainment,46,normal,-,100
+632,16,Entrainment,46,normal,-,100
+632,11,X-Scissor,51,bug,80,100
+632,14,X-Scissor,51,bug,80,100
+632,15,X-Scissor,51,bug,80,100
+632,16,X-Scissor,51,bug,80,100
+632,11,Iron Defense,56,steel,-,-
+632,14,Iron Defense,56,steel,-,-
+632,15,Iron Defense,56,steel,-,-
+632,16,Iron Defense,56,steel,-,-
+632,11,Guillotine,61,normal,-,30
+632,14,Guillotine,61,normal,-,30
+632,15,Guillotine,61,normal,-,30
+632,16,Guillotine,61,normal,-,30
+632,11,Metal Sound,66,steel,-,85
+632,14,Metal Sound,66,steel,-,85
+632,15,Metal Sound,66,steel,-,85
+632,16,Metal Sound,66,steel,-,85

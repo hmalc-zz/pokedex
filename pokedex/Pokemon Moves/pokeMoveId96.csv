@@ -1,0 +1,201 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+96,1,Pound,1,normal,40,100
+96,1,Hypnosis,1,psychic,-,60
+96,2,Pound,1,normal,40,100
+96,2,Hypnosis,1,psychic,-,60
+96,3,Pound,1,normal,40,100
+96,3,Hypnosis,1,psychic,-,60
+96,4,Pound,1,normal,40,100
+96,4,Hypnosis,1,psychic,-,60
+96,5,Pound,1,normal,40,100
+96,5,Hypnosis,1,psychic,-,60
+96,6,Pound,1,normal,40,100
+96,6,Hypnosis,1,psychic,-,60
+96,7,Pound,1,normal,40,100
+96,7,Hypnosis,1,psychic,-,60
+96,8,Pound,1,normal,40,100
+96,8,Hypnosis,1,psychic,-,60
+96,9,Pound,1,normal,40,100
+96,9,Hypnosis,1,psychic,-,60
+96,10,Pound,1,normal,40,100
+96,10,Hypnosis,1,psychic,-,60
+96,11,Pound,1,normal,40,100
+96,11,Hypnosis,1,psychic,-,60
+96,12,Pound,1,normal,40,100
+96,12,Hypnosis,1,psychic,-,60
+96,13,Pound,1,normal,40,100
+96,13,Hypnosis,1,psychic,-,60
+96,14,Pound,1,normal,40,100
+96,14,Hypnosis,1,psychic,-,60
+96,15,Pound,1,normal,40,100
+96,15,Hypnosis,1,psychic,-,60
+96,16,Pound,1,normal,40,100
+96,16,Hypnosis,1,psychic,-,60
+96,11,Disable,5,normal,-,100
+96,14,Disable,5,normal,-,100
+96,15,Disable,5,normal,-,100
+96,16,Disable,5,normal,-,100
+96,7,Disable,7,normal,-,100
+96,8,Disable,7,normal,-,100
+96,9,Disable,7,normal,-,100
+96,10,Disable,7,normal,-,100
+96,8,Confusion,9,psychic,50,100
+96,9,Confusion,9,psychic,50,100
+96,10,Confusion,9,psychic,50,100
+96,11,Confusion,9,psychic,50,100
+96,14,Confusion,9,psychic,50,100
+96,15,Confusion,9,psychic,50,100
+96,16,Confusion,9,psychic,50,100
+96,3,Disable,10,normal,-,100
+96,4,Disable,10,normal,-,100
+96,5,Disable,10,normal,-,100
+96,6,Disable,10,normal,-,100
+96,12,Disable,10,normal,-,100
+96,13,Disable,10,normal,-,100
+96,7,Confusion,11,psychic,50,100
+96,1,Disable,12,normal,-,100
+96,2,Disable,12,normal,-,100
+96,11,Headbutt,13,normal,70,100
+96,14,Headbutt,13,normal,70,100
+96,15,Headbutt,13,normal,70,100
+96,16,Headbutt,13,normal,70,100
+96,8,Headbutt,15,normal,70,100
+96,9,Headbutt,15,normal,70,100
+96,10,Headbutt,15,normal,70,100
+96,1,Confusion,17,psychic,50,100
+96,2,Confusion,17,psychic,50,100
+96,7,Headbutt,17,normal,70,100
+96,11,Poison Gas,17,poison,-,90
+96,14,Poison Gas,17,poison,-,90
+96,15,Poison Gas,17,poison,-,90
+96,16,Poison Gas,17,poison,-,90
+96,3,Confusion,18,psychic,50,100
+96,4,Confusion,18,psychic,50,100
+96,5,Confusion,18,psychic,50,100
+96,6,Confusion,18,psychic,50,100
+96,8,Poison Gas,18,poison,-,90
+96,9,Poison Gas,18,poison,-,90
+96,10,Poison Gas,18,poison,-,90
+96,12,Confusion,18,psychic,50,100
+96,13,Confusion,18,psychic,50,100
+96,7,Poison Gas,21,poison,-,90
+96,8,Meditate,21,psychic,-,-
+96,9,Meditate,21,psychic,-,-
+96,10,Meditate,21,psychic,-,-
+96,11,Meditate,21,psychic,-,-
+96,14,Meditate,21,psychic,-,-
+96,15,Meditate,21,psychic,-,-
+96,16,Meditate,21,psychic,-,-
+96,1,Headbutt,24,normal,70,100
+96,2,Headbutt,24,normal,70,100
+96,3,Headbutt,25,normal,70,100
+96,4,Headbutt,25,normal,70,100
+96,5,Headbutt,25,normal,70,100
+96,6,Headbutt,25,normal,70,100
+96,11,Psybeam,25,psychic,65,100
+96,12,Headbutt,25,normal,70,100
+96,13,Headbutt,25,normal,70,100
+96,14,Psybeam,25,psychic,65,100
+96,15,Psybeam,25,psychic,65,100
+96,16,Psybeam,25,psychic,65,100
+96,8,Psybeam,26,psychic,65,100
+96,9,Psybeam,26,psychic,65,100
+96,10,Psybeam,26,psychic,65,100
+96,7,Meditate,27,psychic,-,-
+96,1,Poison Gas,29,poison,-,90
+96,2,Poison Gas,29,poison,-,90
+96,8,Psych Up,29,normal,-,-
+96,9,Psych Up,29,normal,-,-
+96,10,Psych Up,29,normal,-,-
+96,11,Headbutt,29,normal,70,100
+96,14,Headbutt,29,normal,70,100
+96,15,Headbutt,29,normal,70,100
+96,16,Headbutt,29,normal,70,100
+96,3,Poison Gas,31,poison,-,90
+96,4,Poison Gas,31,poison,-,90
+96,5,Poison Gas,31,poison,-,90
+96,6,Poison Gas,31,poison,-,90
+96,7,Psychic,31,psychic,90,100
+96,12,Poison Gas,31,poison,-,90
+96,13,Poison Gas,31,poison,-,90
+96,1,Psychic,32,psychic,90,100
+96,2,Psychic,32,psychic,90,100
+96,8,Headbutt,32,normal,70,100
+96,9,Headbutt,32,normal,70,100
+96,10,Headbutt,32,normal,70,100
+96,11,Psych Up,33,normal,-,-
+96,14,Psych Up,33,normal,-,-
+96,15,Psych Up,33,normal,-,-
+96,16,Psych Up,33,normal,-,-
+96,3,Meditate,36,psychic,-,-
+96,4,Meditate,36,psychic,-,-
+96,5,Meditate,36,psychic,-,-
+96,6,Meditate,36,psychic,-,-
+96,12,Meditate,36,psychic,-,-
+96,13,Meditate,36,psychic,-,-
+96,1,Meditate,37,psychic,-,-
+96,2,Meditate,37,psychic,-,-
+96,7,Psych Up,37,normal,-,-
+96,8,Swagger,37,normal,-,90
+96,9,Swagger,37,normal,-,90
+96,10,Swagger,37,normal,-,90
+96,11,Synchronoise,37,psychic,120,100
+96,14,Synchronoise,37,psychic,120,100
+96,15,Synchronoise,37,psychic,120,100
+96,16,Synchronoise,37,psychic,120,100
+96,3,Psychic,40,psychic,90,100
+96,4,Psychic,40,psychic,90,100
+96,5,Psychic,40,psychic,90,100
+96,6,Psychic,40,psychic,90,100
+96,8,Psychic,40,psychic,90,100
+96,9,Psychic,40,psychic,90,100
+96,10,Psychic,40,psychic,90,100
+96,12,Psychic,40,psychic,90,100
+96,13,Psychic,40,psychic,90,100
+96,7,Swagger,41,normal,-,90
+96,11,Zen Headbutt,41,psychic,80,90
+96,14,Zen Headbutt,41,psychic,80,90
+96,15,Zen Headbutt,41,psychic,80,90
+96,16,Zen Headbutt,41,psychic,80,90
+96,3,Psych Up,43,normal,-,-
+96,4,Psych Up,43,normal,-,-
+96,5,Psych Up,43,normal,-,-
+96,6,Psych Up,43,normal,-,-
+96,8,Nasty Plot,43,dark,-,-
+96,9,Nasty Plot,43,dark,-,-
+96,10,Nasty Plot,43,dark,-,-
+96,12,Psych Up,43,normal,-,-
+96,13,Psych Up,43,normal,-,-
+96,3,Future Sight,45,psychic,120,100
+96,4,Future Sight,45,psychic,120,100
+96,5,Future Sight,45,psychic,120,100
+96,6,Future Sight,45,psychic,120,100
+96,11,Swagger,45,normal,-,90
+96,12,Future Sight,45,psychic,120,100
+96,13,Future Sight,45,psychic,120,100
+96,14,Swagger,45,normal,-,90
+96,15,Swagger,45,normal,-,90
+96,16,Swagger,45,normal,-,90
+96,7,Future Sight,47,psychic,120,100
+96,11,Psychic,49,psychic,90,100
+96,14,Psychic,49,psychic,90,100
+96,15,Psychic,49,psychic,90,100
+96,16,Psychic,49,psychic,90,100
+96,8,Zen Headbutt,50,psychic,80,90
+96,9,Zen Headbutt,50,psychic,80,90
+96,10,Zen Headbutt,50,psychic,80,90
+96,8,Future Sight,53,psychic,120,100
+96,9,Future Sight,53,psychic,120,100
+96,10,Future Sight,53,psychic,120,100
+96,11,Nasty Plot,53,dark,-,-
+96,14,Nasty Plot,53,dark,-,-
+96,15,Nasty Plot,53,dark,-,-
+96,16,Nasty Plot,53,dark,-,-
+96,11,Psyshock,57,psychic,80,100
+96,14,Psyshock,57,psychic,80,100
+96,15,Psyshock,57,psychic,80,100
+96,16,Psyshock,57,psychic,80,100
+96,11,Future Sight,61,psychic,120,100
+96,14,Future Sight,61,psychic,120,100
+96,15,Future Sight,61,psychic,120,100
+96,16,Future Sight,61,psychic,120,100

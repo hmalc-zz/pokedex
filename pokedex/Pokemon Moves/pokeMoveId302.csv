@@ -1,0 +1,199 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+302,5,Scratch,1,normal,40,100
+302,5,Leer,1,normal,-,100
+302,6,Scratch,1,normal,40,100
+302,6,Leer,1,normal,-,100
+302,7,Scratch,1,normal,40,100
+302,7,Leer,1,normal,-,100
+302,8,Scratch,1,normal,40,100
+302,8,Leer,1,normal,-,100
+302,9,Scratch,1,normal,40,100
+302,9,Leer,1,normal,-,100
+302,10,Scratch,1,normal,40,100
+302,10,Leer,1,normal,-,100
+302,11,Scratch,1,normal,40,100
+302,11,Leer,1,normal,-,100
+302,12,Scratch,1,normal,40,100
+302,12,Leer,1,normal,-,100
+302,13,Scratch,1,normal,40,100
+302,13,Leer,1,normal,-,100
+302,14,Scratch,1,normal,40,100
+302,14,Leer,1,normal,-,100
+302,15,Scratch,1,normal,40,100
+302,15,Leer,1,normal,-,100
+302,15,Mean Look,1,normal,-,-
+302,15,Zen Headbutt,1,psychic,80,90
+302,16,Scratch,1,normal,40,100
+302,16,Leer,1,normal,-,100
+302,8,Foresight,4,normal,-,-
+302,9,Foresight,4,normal,-,-
+302,10,Foresight,4,normal,-,-
+302,11,Foresight,4,normal,-,-
+302,14,Foresight,4,normal,-,-
+302,15,Foresight,4,normal,-,-
+302,16,Foresight,4,normal,-,-
+302,5,Foresight,5,normal,-,-
+302,6,Foresight,5,normal,-,-
+302,7,Foresight,5,normal,-,-
+302,12,Foresight,5,normal,-,-
+302,13,Foresight,5,normal,-,-
+302,16,Night Shade,6,ghost,-,100
+302,8,Night Shade,8,ghost,-,100
+302,9,Night Shade,8,ghost,-,100
+302,10,Night Shade,8,ghost,-,100
+302,11,Night Shade,8,ghost,-,100
+302,14,Night Shade,8,ghost,-,100
+302,15,Night Shade,8,ghost,-,100
+302,5,Night Shade,9,ghost,-,100
+302,6,Night Shade,9,ghost,-,100
+302,7,Night Shade,9,ghost,-,100
+302,12,Night Shade,9,ghost,-,100
+302,13,Night Shade,9,ghost,-,100
+302,16,Astonish,9,ghost,30,100
+302,8,Astonish,11,ghost,30,100
+302,9,Astonish,11,ghost,30,100
+302,10,Astonish,11,ghost,30,100
+302,11,Astonish,11,ghost,30,100
+302,14,Astonish,11,ghost,30,100
+302,15,Astonish,11,ghost,30,100
+302,16,Fury Swipes,11,normal,18,80
+302,5,Astonish,13,ghost,30,100
+302,6,Astonish,13,ghost,30,100
+302,7,Astonish,13,ghost,30,100
+302,12,Astonish,13,ghost,30,100
+302,13,Astonish,13,ghost,30,100
+302,16,Detect,14,fighting,-,-
+302,8,Fury Swipes,15,normal,18,80
+302,9,Fury Swipes,15,normal,18,80
+302,10,Fury Swipes,15,normal,18,80
+302,11,Fury Swipes,15,normal,18,80
+302,14,Fury Swipes,15,normal,18,80
+302,15,Fury Swipes,15,normal,18,80
+302,16,Shadow Sneak,16,ghost,40,100
+302,5,Fury Swipes,17,normal,18,80
+302,6,Fury Swipes,17,normal,18,80
+302,7,Fury Swipes,17,normal,18,80
+302,12,Fury Swipes,17,normal,18,80
+302,13,Fury Swipes,17,normal,18,80
+302,8,Fake Out,18,normal,40,100
+302,9,Fake Out,18,normal,40,100
+302,10,Fake Out,18,normal,40,100
+302,11,Fake Out,18,normal,40,100
+302,14,Fake Out,18,normal,40,100
+302,15,Fake Out,18,normal,40,100
+302,16,Feint Attack,19,dark,60,-
+302,5,Fake Out,21,normal,40,100
+302,6,Fake Out,21,normal,40,100
+302,7,Fake Out,21,normal,40,100
+302,12,Fake Out,21,normal,40,100
+302,13,Fake Out,21,normal,40,100
+302,16,Fake Out,21,normal,40,100
+302,8,Detect,22,fighting,-,-
+302,9,Detect,22,fighting,-,-
+302,10,Detect,22,fighting,-,-
+302,11,Detect,22,fighting,-,-
+302,14,Detect,22,fighting,-,-
+302,15,Detect,22,fighting,-,-
+302,16,Punishment,24,dark,-,100
+302,5,Detect,25,fighting,-,-
+302,6,Detect,25,fighting,-,-
+302,7,Detect,25,fighting,-,-
+302,8,Shadow Sneak,25,ghost,40,100
+302,9,Shadow Sneak,25,ghost,40,100
+302,10,Shadow Sneak,25,ghost,40,100
+302,11,Shadow Sneak,25,ghost,40,100
+302,12,Detect,25,fighting,-,-
+302,13,Detect,25,fighting,-,-
+302,14,Shadow Sneak,25,ghost,40,100
+302,15,Shadow Sneak,25,ghost,40,100
+302,16,Knock Off,26,dark,65,100
+302,5,Feint Attack,29,dark,60,-
+302,6,Feint Attack,29,dark,60,-
+302,7,Feint Attack,29,dark,60,-
+302,8,Knock Off,29,dark,65,100
+302,9,Knock Off,29,dark,65,100
+302,10,Knock Off,29,dark,65,100
+302,11,Knock Off,29,dark,65,100
+302,12,Feint Attack,29,dark,60,-
+302,13,Feint Attack,29,dark,60,-
+302,14,Knock Off,29,dark,65,100
+302,15,Knock Off,29,dark,65,100
+302,16,Shadow Claw,29,ghost,70,100
+302,16,Confuse Ray,31,ghost,-,100
+302,8,Feint Attack,32,dark,60,-
+302,9,Feint Attack,32,dark,60,-
+302,10,Feint Attack,32,dark,60,-
+302,11,Feint Attack,32,dark,60,-
+302,14,Feint Attack,32,dark,60,-
+302,15,Feint Attack,32,dark,60,-
+302,5,Knock Off,33,dark,65,100
+302,6,Knock Off,33,dark,65,100
+302,7,Knock Off,33,dark,65,100
+302,12,Knock Off,33,dark,65,100
+302,13,Knock Off,33,dark,65,100
+302,16,Zen Headbutt,34,psychic,80,90
+302,8,Punishment,36,dark,-,100
+302,9,Punishment,36,dark,-,100
+302,10,Punishment,36,dark,-,100
+302,11,Punishment,36,dark,-,100
+302,14,Punishment,36,dark,-,100
+302,15,Punishment,36,dark,-,100
+302,16,Power Gem,36,rock,80,100
+302,5,Confuse Ray,37,ghost,-,100
+302,6,Confuse Ray,37,ghost,-,100
+302,7,Confuse Ray,37,ghost,-,100
+302,12,Confuse Ray,37,ghost,-,100
+302,13,Confuse Ray,37,ghost,-,100
+302,8,Shadow Claw,39,ghost,70,100
+302,9,Shadow Claw,39,ghost,70,100
+302,10,Shadow Claw,39,ghost,70,100
+302,11,Shadow Claw,39,ghost,70,100
+302,14,Shadow Claw,39,ghost,70,100
+302,15,Shadow Claw,39,ghost,70,100
+302,16,Shadow Ball,39,ghost,80,100
+302,5,Shadow Ball,41,ghost,80,100
+302,6,Shadow Ball,41,ghost,80,100
+302,7,Shadow Ball,41,ghost,80,100
+302,12,Shadow Ball,41,ghost,80,100
+302,13,Shadow Ball,41,ghost,80,100
+302,16,Foul Play,41,dark,95,100
+302,8,Power Gem,43,rock,80,100
+302,9,Power Gem,43,rock,80,100
+302,10,Power Gem,43,rock,80,100
+302,11,Power Gem,43,rock,80,100
+302,14,Power Gem,43,rock,80,100
+302,15,Power Gem,43,rock,80,100
+302,16,Quash,44,dark,-,100
+302,5,Mean Look,45,normal,-,-
+302,6,Mean Look,45,normal,-,-
+302,7,Mean Look,45,normal,-,-
+302,12,Mean Look,45,normal,-,-
+302,13,Mean Look,45,normal,-,-
+302,8,Confuse Ray,46,ghost,-,100
+302,9,Confuse Ray,46,ghost,-,100
+302,10,Confuse Ray,46,ghost,-,100
+302,11,Confuse Ray,46,ghost,-,100
+302,14,Confuse Ray,46,ghost,-,100
+302,15,Confuse Ray,46,ghost,-,100
+302,16,Mean Look,46,normal,-,-
+302,8,Zen Headbutt,50,psychic,80,90
+302,9,Zen Headbutt,50,psychic,80,90
+302,10,Zen Headbutt,50,psychic,80,90
+302,11,Foul Play,50,dark,95,100
+302,14,Foul Play,50,dark,95,100
+302,15,Foul Play,50,dark,95,100
+302,8,Shadow Ball,53,ghost,80,100
+302,9,Shadow Ball,53,ghost,80,100
+302,10,Shadow Ball,53,ghost,80,100
+302,11,Zen Headbutt,53,psychic,80,90
+302,14,Zen Headbutt,53,psychic,80,90
+302,15,Zen Headbutt,53,psychic,80,90
+302,8,Mean Look,57,normal,-,-
+302,9,Mean Look,57,normal,-,-
+302,10,Mean Look,57,normal,-,-
+302,11,Shadow Ball,57,ghost,80,100
+302,14,Shadow Ball,57,ghost,80,100
+302,15,Shadow Ball,57,ghost,80,100
+302,11,Mean Look,60,normal,-,-
+302,14,Mean Look,60,normal,-,-
+302,15,Mean Look,60,normal,-,-

@@ -1,0 +1,160 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+316,5,Pound,1,normal,40,100
+316,6,Pound,1,normal,40,100
+316,7,Pound,1,normal,40,100
+316,8,Pound,1,normal,40,100
+316,9,Pound,1,normal,40,100
+316,10,Pound,1,normal,40,100
+316,11,Pound,1,normal,40,100
+316,12,Pound,1,normal,40,100
+316,13,Pound,1,normal,40,100
+316,14,Pound,1,normal,40,100
+316,15,Pound,1,normal,40,100
+316,16,Pound,1,normal,40,100
+316,16,Yawn,5,normal,-,-
+316,5,Yawn,6,normal,-,-
+316,6,Yawn,6,normal,-,-
+316,7,Yawn,6,normal,-,-
+316,8,Yawn,6,normal,-,-
+316,9,Yawn,6,normal,-,-
+316,10,Yawn,6,normal,-,-
+316,11,Yawn,6,normal,-,-
+316,12,Yawn,6,normal,-,-
+316,13,Yawn,6,normal,-,-
+316,14,Yawn,6,normal,-,-
+316,15,Yawn,6,normal,-,-
+316,16,Poison Gas,8,poison,-,90
+316,5,Poison Gas,9,poison,-,90
+316,6,Poison Gas,9,poison,-,90
+316,7,Poison Gas,9,poison,-,90
+316,8,Poison Gas,9,poison,-,90
+316,9,Poison Gas,9,poison,-,90
+316,10,Poison Gas,9,poison,-,90
+316,11,Poison Gas,9,poison,-,90
+316,12,Poison Gas,9,poison,-,90
+316,13,Poison Gas,9,poison,-,90
+316,14,Poison Gas,9,poison,-,90
+316,15,Poison Gas,9,poison,-,90
+316,16,Sludge,10,poison,65,100
+316,16,Amnesia,12,psychic,-,-
+316,5,Sludge,14,poison,65,100
+316,6,Sludge,14,poison,65,100
+316,7,Sludge,14,poison,65,100
+316,8,Sludge,14,poison,65,100
+316,9,Sludge,14,poison,65,100
+316,10,Sludge,14,poison,65,100
+316,11,Sludge,14,poison,65,100
+316,12,Sludge,14,poison,65,100
+316,13,Sludge,14,poison,65,100
+316,14,Sludge,14,poison,65,100
+316,15,Sludge,14,poison,65,100
+316,5,Amnesia,17,psychic,-,-
+316,6,Amnesia,17,psychic,-,-
+316,7,Amnesia,17,psychic,-,-
+316,8,Amnesia,17,psychic,-,-
+316,9,Amnesia,17,psychic,-,-
+316,10,Amnesia,17,psychic,-,-
+316,11,Amnesia,17,psychic,-,-
+316,12,Amnesia,17,psychic,-,-
+316,13,Amnesia,17,psychic,-,-
+316,14,Amnesia,17,psychic,-,-
+316,15,Amnesia,17,psychic,-,-
+316,16,Acid Spray,17,poison,40,100
+316,16,Encore,20,normal,-,100
+316,5,Encore,23,normal,-,100
+316,6,Encore,23,normal,-,100
+316,7,Encore,23,normal,-,100
+316,8,Encore,23,normal,-,100
+316,9,Encore,23,normal,-,100
+316,10,Encore,23,normal,-,100
+316,11,Encore,23,normal,-,100
+316,12,Encore,23,normal,-,100
+316,13,Encore,23,normal,-,100
+316,14,Encore,23,normal,-,100
+316,15,Encore,23,normal,-,100
+316,16,Toxic,25,poison,-,90
+316,5,Toxic,28,poison,-,90
+316,6,Toxic,28,poison,-,90
+316,7,Toxic,28,poison,-,90
+316,8,Toxic,28,poison,-,90
+316,9,Toxic,28,poison,-,90
+316,10,Toxic,28,poison,-,90
+316,11,Toxic,28,poison,-,90
+316,12,Toxic,28,poison,-,90
+316,13,Toxic,28,poison,-,90
+316,14,Toxic,28,poison,-,90
+316,15,Toxic,28,poison,-,90
+316,16,Stockpile,28,normal,-,-
+316,16,Spit Up,28,normal,-,100
+316,16,Swallow,28,normal,-,-
+316,16,Sludge Bomb,33,poison,90,100
+316,5,Stockpile,34,normal,-,-
+316,5,Spit Up,34,normal,-,100
+316,5,Swallow,34,normal,-,-
+316,6,Stockpile,34,normal,-,-
+316,6,Spit Up,34,normal,-,100
+316,6,Swallow,34,normal,-,-
+316,7,Stockpile,34,normal,-,-
+316,7,Spit Up,34,normal,-,100
+316,7,Swallow,34,normal,-,-
+316,8,Stockpile,34,normal,-,-
+316,8,Spit Up,34,normal,-,100
+316,8,Swallow,34,normal,-,-
+316,9,Stockpile,34,normal,-,-
+316,9,Spit Up,34,normal,-,100
+316,9,Swallow,34,normal,-,-
+316,10,Stockpile,34,normal,-,-
+316,10,Spit Up,34,normal,-,100
+316,10,Swallow,34,normal,-,-
+316,11,Acid Spray,34,poison,40,100
+316,12,Stockpile,34,normal,-,-
+316,12,Spit Up,34,normal,-,100
+316,12,Swallow,34,normal,-,-
+316,13,Stockpile,34,normal,-,-
+316,13,Spit Up,34,normal,-,100
+316,13,Swallow,34,normal,-,-
+316,14,Acid Spray,34,poison,40,100
+316,15,Acid Spray,34,poison,40,100
+316,16,Gastro Acid,36,poison,-,100
+316,5,Sludge Bomb,39,poison,90,100
+316,6,Sludge Bomb,39,poison,90,100
+316,7,Sludge Bomb,39,poison,90,100
+316,8,Sludge Bomb,39,poison,90,100
+316,9,Sludge Bomb,39,poison,90,100
+316,10,Sludge Bomb,39,poison,90,100
+316,11,Stockpile,39,normal,-,-
+316,11,Spit Up,39,normal,-,100
+316,11,Swallow,39,normal,-,-
+316,12,Sludge Bomb,39,poison,90,100
+316,13,Sludge Bomb,39,poison,90,100
+316,14,Stockpile,39,normal,-,-
+316,14,Spit Up,39,normal,-,100
+316,14,Swallow,39,normal,-,-
+316,15,Stockpile,39,normal,-,-
+316,15,Spit Up,39,normal,-,100
+316,15,Swallow,39,normal,-,-
+316,15,Belch,40,poison,120,90
+316,16,Belch,41,poison,120,90
+316,8,Gastro Acid,44,poison,-,100
+316,9,Gastro Acid,44,poison,-,100
+316,10,Gastro Acid,44,poison,-,100
+316,11,Sludge Bomb,44,poison,90,100
+316,14,Sludge Bomb,44,poison,90,100
+316,15,Sludge Bomb,44,poison,90,100
+316,16,Wring Out,44,normal,-,100
+316,8,Wring Out,49,normal,-,100
+316,9,Wring Out,49,normal,-,100
+316,10,Wring Out,49,normal,-,100
+316,11,Gastro Acid,49,poison,-,100
+316,14,Gastro Acid,49,poison,-,100
+316,15,Gastro Acid,49,poison,-,100
+316,16,Gunk Shot,49,poison,120,80
+316,8,Gunk Shot,54,poison,120,80
+316,9,Gunk Shot,54,poison,120,80
+316,10,Gunk Shot,54,poison,120,80
+316,11,Wring Out,54,normal,-,100
+316,14,Wring Out,54,normal,-,100
+316,15,Wring Out,54,normal,-,100
+316,11,Gunk Shot,59,poison,120,80
+316,14,Gunk Shot,59,poison,120,80
+316,15,Gunk Shot,59,poison,120,80

@@ -1,0 +1,96 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+456,8,Pound,1,normal,40,100
+456,9,Pound,1,normal,40,100
+456,10,Pound,1,normal,40,100
+456,11,Pound,1,normal,40,100
+456,14,Pound,1,normal,40,100
+456,15,Pound,1,normal,40,100
+456,16,Pound,1,normal,40,100
+456,8,Water Gun,6,water,40,100
+456,9,Water Gun,6,water,40,100
+456,10,Water Gun,6,water,40,100
+456,11,Water Gun,6,water,40,100
+456,14,Water Gun,6,water,40,100
+456,15,Water Gun,6,water,40,100
+456,16,Water Gun,6,water,40,100
+456,8,Attract,10,normal,-,100
+456,9,Attract,10,normal,-,100
+456,10,Attract,10,normal,-,100
+456,11,Attract,10,normal,-,100
+456,14,Attract,10,normal,-,100
+456,15,Attract,10,normal,-,100
+456,16,Attract,10,normal,-,100
+456,8,Rain Dance,13,water,-,-
+456,9,Rain Dance,13,water,-,-
+456,10,Rain Dance,13,water,-,-
+456,11,Rain Dance,13,water,-,-
+456,14,Rain Dance,13,water,-,-
+456,15,Rain Dance,13,water,-,-
+456,16,Rain Dance,13,water,-,-
+456,8,Gust,17,flying,40,100
+456,9,Gust,17,flying,40,100
+456,10,Gust,17,flying,40,100
+456,11,Gust,17,flying,40,100
+456,14,Gust,17,flying,40,100
+456,15,Gust,17,flying,40,100
+456,16,Gust,17,flying,40,100
+456,8,Water Pulse,22,water,60,100
+456,9,Water Pulse,22,water,60,100
+456,10,Water Pulse,22,water,60,100
+456,11,Water Pulse,22,water,60,100
+456,14,Water Pulse,22,water,60,100
+456,15,Water Pulse,22,water,60,100
+456,16,Water Pulse,22,water,60,100
+456,8,Captivate,26,normal,-,100
+456,9,Captivate,26,normal,-,100
+456,10,Captivate,26,normal,-,100
+456,11,Captivate,26,normal,-,100
+456,14,Captivate,26,normal,-,100
+456,15,Captivate,26,normal,-,100
+456,16,Captivate,26,normal,-,100
+456,8,Safeguard,29,normal,-,-
+456,9,Safeguard,29,normal,-,-
+456,10,Safeguard,29,normal,-,-
+456,11,Safeguard,29,normal,-,-
+456,14,Safeguard,29,normal,-,-
+456,15,Safeguard,29,normal,-,-
+456,16,Safeguard,29,normal,-,-
+456,8,Aqua Ring,33,water,-,-
+456,9,Aqua Ring,33,water,-,-
+456,10,Aqua Ring,33,water,-,-
+456,11,Aqua Ring,33,water,-,-
+456,14,Aqua Ring,33,water,-,-
+456,15,Aqua Ring,33,water,-,-
+456,16,Aqua Ring,33,water,-,-
+456,8,Whirlpool,38,water,35,85
+456,9,Whirlpool,38,water,35,85
+456,10,Whirlpool,38,water,35,85
+456,11,Whirlpool,38,water,35,85
+456,14,Whirlpool,38,water,35,85
+456,15,Whirlpool,38,water,35,85
+456,16,Whirlpool,38,water,35,85
+456,8,U-turn,42,bug,70,100
+456,9,U-turn,42,bug,70,100
+456,10,U-turn,42,bug,70,100
+456,11,U-turn,42,bug,70,100
+456,14,U-turn,42,bug,70,100
+456,15,U-turn,42,bug,70,100
+456,16,U-turn,42,bug,70,100
+456,8,Bounce,45,flying,85,85
+456,9,Bounce,45,flying,85,85
+456,10,Bounce,45,flying,85,85
+456,11,Bounce,45,flying,85,85
+456,14,Bounce,45,flying,85,85
+456,15,Bounce,45,flying,85,85
+456,16,Bounce,45,flying,85,85
+456,8,Silver Wind,49,bug,60,100
+456,9,Silver Wind,49,bug,60,100
+456,10,Silver Wind,49,bug,60,100
+456,11,Silver Wind,49,bug,60,100
+456,14,Silver Wind,49,bug,60,100
+456,15,Silver Wind,49,bug,60,100
+456,16,Silver Wind,49,bug,60,100
+456,11,Soak,54,water,-,100
+456,14,Soak,54,water,-,100
+456,15,Soak,54,water,-,100
+456,16,Soak,54,water,-,100

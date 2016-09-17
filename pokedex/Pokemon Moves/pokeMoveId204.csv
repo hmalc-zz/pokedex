@@ -1,0 +1,161 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+204,3,Tackle,1,normal,50,100
+204,3,Protect,1,normal,-,-
+204,4,Tackle,1,normal,50,100
+204,4,Protect,1,normal,-,-
+204,5,Tackle,1,normal,50,100
+204,5,Protect,1,normal,-,-
+204,6,Tackle,1,normal,50,100
+204,6,Protect,1,normal,-,-
+204,7,Tackle,1,normal,50,100
+204,7,Protect,1,normal,-,-
+204,8,Tackle,1,normal,50,100
+204,8,Protect,1,normal,-,-
+204,9,Tackle,1,normal,50,100
+204,9,Protect,1,normal,-,-
+204,10,Tackle,1,normal,50,100
+204,10,Protect,1,normal,-,-
+204,11,Tackle,1,normal,50,100
+204,11,Protect,1,normal,-,-
+204,12,Tackle,1,normal,50,100
+204,12,Protect,1,normal,-,-
+204,13,Tackle,1,normal,50,100
+204,13,Protect,1,normal,-,-
+204,14,Tackle,1,normal,50,100
+204,14,Protect,1,normal,-,-
+204,15,Tackle,1,normal,50,100
+204,15,Protect,1,normal,-,-
+204,16,Tackle,1,normal,50,100
+204,16,Protect,1,normal,-,-
+204,8,Self-Destruct,6,normal,200,100
+204,9,Self-Destruct,6,normal,200,100
+204,10,Self-Destruct,6,normal,200,100
+204,11,Self-Destruct,6,normal,200,100
+204,14,Self-Destruct,6,normal,200,100
+204,15,Self-Destruct,6,normal,200,100
+204,16,Self-Destruct,6,normal,200,100
+204,3,Self-Destruct,8,normal,200,100
+204,4,Self-Destruct,8,normal,200,100
+204,5,Self-Destruct,8,normal,200,100
+204,6,Self-Destruct,8,normal,200,100
+204,7,Self-Destruct,8,normal,200,100
+204,12,Self-Destruct,8,normal,200,100
+204,13,Self-Destruct,8,normal,200,100
+204,8,Take Down,9,normal,90,85
+204,9,Bug Bite,9,bug,60,100
+204,10,Bug Bite,9,bug,60,100
+204,11,Bug Bite,9,bug,60,100
+204,14,Bug Bite,9,bug,60,100
+204,15,Bug Bite,9,bug,60,100
+204,16,Bug Bite,9,bug,60,100
+204,8,Rapid Spin,12,normal,20,100
+204,9,Take Down,12,normal,90,85
+204,10,Take Down,12,normal,90,85
+204,11,Take Down,12,normal,90,85
+204,14,Take Down,12,normal,90,85
+204,15,Take Down,12,normal,90,85
+204,16,Take Down,12,normal,90,85
+204,3,Take Down,15,normal,90,85
+204,4,Take Down,15,normal,90,85
+204,5,Take Down,15,normal,90,85
+204,6,Take Down,15,normal,90,85
+204,7,Take Down,15,normal,90,85
+204,12,Take Down,15,normal,90,85
+204,13,Take Down,15,normal,90,85
+204,8,Bide,17,normal,-,-
+204,9,Rapid Spin,17,normal,20,100
+204,10,Rapid Spin,17,normal,20,100
+204,11,Rapid Spin,17,normal,20,100
+204,14,Rapid Spin,17,normal,20,100
+204,15,Rapid Spin,17,normal,20,100
+204,16,Rapid Spin,17,normal,20,100
+204,8,Natural Gift,20,normal,-,100
+204,9,Bide,20,normal,-,-
+204,10,Bide,20,normal,-,-
+204,11,Bide,20,normal,-,-
+204,14,Bide,20,normal,-,-
+204,15,Bide,20,normal,-,-
+204,16,Bide,20,normal,-,-
+204,3,Rapid Spin,22,normal,20,100
+204,4,Rapid Spin,22,normal,20,100
+204,5,Rapid Spin,22,normal,20,100
+204,6,Rapid Spin,22,normal,20,100
+204,7,Rapid Spin,22,normal,20,100
+204,12,Rapid Spin,22,normal,20,100
+204,13,Rapid Spin,22,normal,20,100
+204,8,Spikes,23,ground,-,-
+204,9,Natural Gift,23,normal,-,100
+204,10,Natural Gift,23,normal,-,100
+204,11,Natural Gift,23,normal,-,100
+204,14,Natural Gift,23,normal,-,100
+204,15,Natural Gift,23,normal,-,100
+204,16,Natural Gift,23,normal,-,100
+204,8,Payback,28,dark,50,100
+204,9,Spikes,28,ground,-,-
+204,10,Spikes,28,ground,-,-
+204,11,Spikes,28,ground,-,-
+204,14,Spikes,28,ground,-,-
+204,15,Spikes,28,ground,-,-
+204,16,Spikes,28,ground,-,-
+204,3,Bide,29,normal,-,-
+204,4,Bide,29,normal,-,-
+204,5,Bide,29,normal,-,-
+204,6,Bide,29,normal,-,-
+204,7,Bide,29,normal,-,-
+204,12,Bide,29,normal,-,-
+204,13,Bide,29,normal,-,-
+204,8,Explosion,31,normal,250,100
+204,9,Payback,31,dark,50,100
+204,10,Payback,31,dark,50,100
+204,11,Payback,31,dark,50,100
+204,14,Payback,31,dark,50,100
+204,15,Payback,31,dark,50,100
+204,16,Payback,31,dark,50,100
+204,8,Iron Defense,34,steel,-,-
+204,9,Explosion,34,normal,250,100
+204,10,Explosion,34,normal,250,100
+204,11,Explosion,34,normal,250,100
+204,14,Explosion,34,normal,250,100
+204,15,Explosion,34,normal,250,100
+204,16,Explosion,34,normal,250,100
+204,3,Explosion,36,normal,250,100
+204,4,Explosion,36,normal,250,100
+204,5,Explosion,36,normal,250,100
+204,6,Explosion,36,normal,250,100
+204,7,Explosion,36,normal,250,100
+204,12,Explosion,36,normal,250,100
+204,13,Explosion,36,normal,250,100
+204,8,Gyro Ball,39,steel,-,100
+204,9,Iron Defense,39,steel,-,-
+204,10,Iron Defense,39,steel,-,-
+204,11,Iron Defense,39,steel,-,-
+204,14,Iron Defense,39,steel,-,-
+204,15,Iron Defense,39,steel,-,-
+204,16,Iron Defense,39,steel,-,-
+204,8,Double-Edge,42,normal,120,100
+204,9,Gyro Ball,42,steel,-,100
+204,10,Gyro Ball,42,steel,-,100
+204,11,Gyro Ball,42,steel,-,100
+204,14,Gyro Ball,42,steel,-,100
+204,15,Gyro Ball,42,steel,-,100
+204,16,Gyro Ball,42,steel,-,100
+204,3,Spikes,43,ground,-,-
+204,4,Spikes,43,ground,-,-
+204,5,Spikes,43,ground,-,-
+204,6,Spikes,43,ground,-,-
+204,7,Spikes,43,ground,-,-
+204,12,Spikes,43,ground,-,-
+204,13,Spikes,43,ground,-,-
+204,9,Double-Edge,45,normal,120,100
+204,10,Double-Edge,45,normal,120,100
+204,11,Double-Edge,45,normal,120,100
+204,14,Double-Edge,45,normal,120,100
+204,15,Double-Edge,45,normal,120,100
+204,16,Double-Edge,45,normal,120,100
+204,3,Double-Edge,50,normal,120,100
+204,4,Double-Edge,50,normal,120,100
+204,5,Double-Edge,50,normal,120,100
+204,6,Double-Edge,50,normal,120,100
+204,7,Double-Edge,50,normal,120,100
+204,12,Double-Edge,50,normal,120,100
+204,13,Double-Edge,50,normal,120,100

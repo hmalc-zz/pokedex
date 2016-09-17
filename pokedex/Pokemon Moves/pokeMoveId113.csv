@@ -1,0 +1,212 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+113,1,Pound,1,normal,40,100
+113,1,Double Slap,1,normal,15,85
+113,2,Pound,1,normal,40,100
+113,2,Tail Whip,1,normal,-,100
+113,3,Pound,1,normal,40,100
+113,4,Pound,1,normal,40,100
+113,5,Pound,1,normal,40,100
+113,5,Growl,1,normal,-,100
+113,6,Pound,1,normal,40,100
+113,6,Growl,1,normal,-,100
+113,7,Pound,1,normal,40,100
+113,7,Growl,1,normal,-,100
+113,8,Pound,1,normal,40,100
+113,8,Growl,1,normal,-,100
+113,9,Pound,1,normal,40,100
+113,9,Growl,1,normal,-,100
+113,10,Pound,1,normal,40,100
+113,10,Growl,1,normal,-,100
+113,11,Pound,1,normal,40,100
+113,11,Growl,1,normal,-,100
+113,11,Defense Curl,1,normal,-,-
+113,12,Pound,1,normal,40,100
+113,12,Growl,1,normal,-,100
+113,13,Pound,1,normal,40,100
+113,13,Growl,1,normal,-,100
+113,14,Pound,1,normal,40,100
+113,14,Growl,1,normal,-,100
+113,14,Defense Curl,1,normal,-,-
+113,15,Pound,1,normal,40,100
+113,15,Double-Edge,1,normal,120,100
+113,15,Growl,1,normal,-,100
+113,15,Defense Curl,1,normal,-,-
+113,16,Pound,1,normal,40,100
+113,16,Double-Edge,1,normal,120,100
+113,16,Growl,1,normal,-,100
+113,16,Defense Curl,1,normal,-,-
+113,3,Growl,5,normal,-,100
+113,4,Growl,5,normal,-,100
+113,5,Tail Whip,5,normal,-,100
+113,6,Tail Whip,5,normal,-,100
+113,7,Tail Whip,5,normal,-,100
+113,8,Tail Whip,5,normal,-,100
+113,9,Tail Whip,5,normal,-,100
+113,10,Tail Whip,5,normal,-,100
+113,11,Tail Whip,5,normal,-,100
+113,12,Tail Whip,5,normal,-,100
+113,13,Tail Whip,5,normal,-,100
+113,14,Tail Whip,5,normal,-,100
+113,15,Tail Whip,5,normal,-,100
+113,16,Tail Whip,5,normal,-,100
+113,3,Tail Whip,9,normal,-,100
+113,4,Tail Whip,9,normal,-,100
+113,5,Refresh,9,normal,-,-
+113,6,Refresh,9,normal,-,-
+113,7,Refresh,9,normal,-,-
+113,8,Refresh,9,normal,-,-
+113,9,Refresh,9,normal,-,-
+113,10,Refresh,9,normal,-,-
+113,11,Refresh,9,normal,-,-
+113,12,Refresh,9,normal,-,-
+113,13,Refresh,9,normal,-,-
+113,14,Refresh,9,normal,-,-
+113,15,Refresh,9,normal,-,-
+113,16,Refresh,9,normal,-,-
+113,2,Double Slap,12,normal,15,85
+113,8,Soft-Boiled,12,normal,-,-
+113,9,Soft-Boiled,12,normal,-,-
+113,10,Soft-Boiled,12,normal,-,-
+113,11,Double Slap,12,normal,15,85
+113,14,Double Slap,12,normal,15,85
+113,15,Double Slap,12,normal,15,85
+113,16,Double Slap,12,normal,15,85
+113,3,Soft-Boiled,13,normal,-,-
+113,4,Soft-Boiled,13,normal,-,-
+113,5,Soft-Boiled,13,normal,-,-
+113,6,Soft-Boiled,13,normal,-,-
+113,7,Soft-Boiled,13,normal,-,-
+113,12,Soft-Boiled,13,normal,-,-
+113,13,Soft-Boiled,13,normal,-,-
+113,8,Double Slap,16,normal,15,85
+113,9,Double Slap,16,normal,15,85
+113,10,Double Slap,16,normal,15,85
+113,11,Soft-Boiled,16,normal,-,-
+113,14,Soft-Boiled,16,normal,-,-
+113,15,Soft-Boiled,16,normal,-,-
+113,16,Soft-Boiled,16,normal,-,-
+113,3,Double Slap,17,normal,15,85
+113,4,Double Slap,17,normal,15,85
+113,5,Double Slap,17,normal,15,85
+113,6,Double Slap,17,normal,15,85
+113,7,Double Slap,17,normal,15,85
+113,12,Double Slap,17,normal,15,85
+113,13,Double Slap,17,normal,15,85
+113,8,Minimize,20,normal,-,-
+113,9,Minimize,20,normal,-,-
+113,10,Minimize,20,normal,-,-
+113,11,Bestow,20,normal,-,-
+113,14,Bestow,20,normal,-,-
+113,15,Bestow,20,normal,-,-
+113,16,Bestow,20,normal,-,-
+113,3,Minimize,23,normal,-,-
+113,4,Minimize,23,normal,-,-
+113,5,Minimize,23,normal,-,-
+113,6,Minimize,23,normal,-,-
+113,7,Minimize,23,normal,-,-
+113,8,Sing,23,normal,-,55
+113,9,Sing,23,normal,-,55
+113,10,Sing,23,normal,-,55
+113,11,Minimize,23,normal,-,-
+113,12,Minimize,23,normal,-,-
+113,13,Minimize,23,normal,-,-
+113,14,Minimize,23,normal,-,-
+113,15,Minimize,23,normal,-,-
+113,16,Minimize,23,normal,-,-
+113,1,Sing,24,normal,-,55
+113,2,Sing,24,normal,-,55
+113,8,Fling,27,dark,-,100
+113,9,Fling,27,dark,-,100
+113,10,Fling,27,dark,-,100
+113,11,Take Down,27,normal,90,85
+113,14,Take Down,27,normal,90,85
+113,15,Take Down,27,normal,90,85
+113,16,Take Down,27,normal,90,85
+113,3,Sing,29,normal,-,55
+113,4,Sing,29,normal,-,55
+113,5,Sing,29,normal,-,55
+113,6,Sing,29,normal,-,55
+113,7,Sing,29,normal,-,55
+113,12,Sing,29,normal,-,55
+113,13,Sing,29,normal,-,55
+113,1,Growl,30,normal,-,100
+113,2,Growl,30,normal,-,100
+113,8,Defense Curl,31,normal,-,-
+113,9,Defense Curl,31,normal,-,-
+113,10,Defense Curl,31,normal,-,-
+113,11,Sing,31,normal,-,55
+113,14,Sing,31,normal,-,55
+113,15,Sing,31,normal,-,55
+113,16,Sing,31,normal,-,55
+113,8,Light Screen,34,psychic,-,-
+113,9,Light Screen,34,psychic,-,-
+113,10,Light Screen,34,psychic,-,-
+113,11,Fling,34,dark,-,100
+113,14,Fling,34,dark,-,100
+113,15,Fling,34,dark,-,100
+113,16,Fling,34,dark,-,100
+113,3,Egg Bomb,35,normal,100,75
+113,4,Egg Bomb,35,normal,100,75
+113,5,Egg Bomb,35,normal,100,75
+113,6,Egg Bomb,35,normal,100,75
+113,7,Egg Bomb,35,normal,100,75
+113,12,Egg Bomb,35,normal,100,75
+113,13,Egg Bomb,35,normal,100,75
+113,1,Minimize,38,normal,-,-
+113,2,Minimize,38,normal,-,-
+113,8,Egg Bomb,38,normal,100,75
+113,9,Egg Bomb,38,normal,100,75
+113,10,Egg Bomb,38,normal,100,75
+113,11,Heal Pulse,38,psychic,-,-
+113,14,Heal Pulse,38,psychic,-,-
+113,15,Heal Pulse,38,psychic,-,-
+113,16,Heal Pulse,38,psychic,-,-
+113,3,Defense Curl,41,normal,-,-
+113,4,Defense Curl,41,normal,-,-
+113,5,Defense Curl,41,normal,-,-
+113,6,Defense Curl,41,normal,-,-
+113,7,Defense Curl,41,normal,-,-
+113,12,Defense Curl,41,normal,-,-
+113,13,Defense Curl,41,normal,-,-
+113,8,Healing Wish,42,psychic,-,-
+113,9,Healing Wish,42,psychic,-,-
+113,10,Healing Wish,42,psychic,-,-
+113,11,Egg Bomb,42,normal,100,75
+113,14,Egg Bomb,42,normal,100,75
+113,15,Egg Bomb,42,normal,100,75
+113,16,Egg Bomb,42,normal,100,75
+113,1,Defense Curl,44,normal,-,-
+113,2,Defense Curl,44,normal,-,-
+113,8,Double-Edge,46,normal,120,100
+113,9,Double-Edge,46,normal,120,100
+113,10,Double-Edge,46,normal,120,100
+113,11,Light Screen,46,psychic,-,-
+113,14,Light Screen,46,psychic,-,-
+113,15,Light Screen,46,psychic,-,-
+113,16,Light Screen,46,psychic,-,-
+113,1,Light Screen,48,psychic,-,-
+113,2,Light Screen,48,psychic,-,-
+113,3,Light Screen,49,psychic,-,-
+113,4,Light Screen,49,psychic,-,-
+113,5,Light Screen,49,psychic,-,-
+113,6,Light Screen,49,psychic,-,-
+113,7,Light Screen,49,psychic,-,-
+113,12,Light Screen,49,psychic,-,-
+113,13,Light Screen,49,psychic,-,-
+113,11,Healing Wish,50,psychic,-,-
+113,14,Healing Wish,50,psychic,-,-
+113,15,Healing Wish,50,psychic,-,-
+113,16,Healing Wish,50,psychic,-,-
+113,1,Double-Edge,54,normal,120,100
+113,2,Double-Edge,54,normal,120,100
+113,11,Double-Edge,54,normal,120,100
+113,14,Double-Edge,54,normal,120,100
+113,15,Double-Edge,54,normal,120,100
+113,16,Double-Edge,54,normal,120,100
+113,3,Double-Edge,57,normal,120,100
+113,4,Double-Edge,57,normal,120,100
+113,5,Double-Edge,57,normal,120,100
+113,6,Double-Edge,57,normal,120,100
+113,7,Double-Edge,57,normal,120,100
+113,12,Double-Edge,57,normal,120,100
+113,13,Double-Edge,57,normal,120,100

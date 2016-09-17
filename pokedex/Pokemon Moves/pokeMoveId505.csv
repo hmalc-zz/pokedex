@@ -1,0 +1,79 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+505,11,Tackle,1,normal,50,100
+505,11,Leer,1,normal,-,100
+505,11,Bite,1,dark,60,100
+505,11,Low Kick,1,fighting,-,100
+505,14,Tackle,1,normal,50,100
+505,14,Leer,1,normal,-,100
+505,14,Bite,1,dark,60,100
+505,14,Low Kick,1,fighting,-,100
+505,15,Tackle,1,normal,50,100
+505,15,Leer,1,normal,-,100
+505,15,Bite,1,dark,60,100
+505,15,Low Kick,1,fighting,-,100
+505,15,Rototiller,1,ground,-,-
+505,16,Tackle,1,normal,50,100
+505,16,Leer,1,normal,-,100
+505,16,Bite,1,dark,60,100
+505,16,Low Kick,1,fighting,-,100
+505,16,Rototiller,1,ground,-,-
+505,11,Leer,3,normal,-,100
+505,14,Leer,3,normal,-,100
+505,15,Leer,3,normal,-,100
+505,16,Leer,3,normal,-,100
+505,11,Bite,6,dark,60,100
+505,14,Bite,6,dark,60,100
+505,15,Bite,6,dark,60,100
+505,16,Bite,6,dark,60,100
+505,11,Bide,8,normal,-,-
+505,14,Bide,8,normal,-,-
+505,15,Bide,8,normal,-,-
+505,16,Bide,8,normal,-,-
+505,11,Detect,11,fighting,-,-
+505,14,Detect,11,fighting,-,-
+505,15,Detect,11,fighting,-,-
+505,16,Detect,11,fighting,-,-
+505,11,Sand Attack,13,ground,-,100
+505,14,Sand Attack,13,ground,-,100
+505,15,Sand Attack,13,ground,-,100
+505,16,Sand Attack,13,ground,-,100
+505,11,Crunch,16,dark,80,100
+505,14,Crunch,16,dark,80,100
+505,15,Crunch,16,dark,80,100
+505,16,Crunch,16,dark,80,100
+505,11,Hypnosis,18,psychic,-,60
+505,14,Hypnosis,18,psychic,-,60
+505,15,Hypnosis,18,psychic,-,60
+505,16,Hypnosis,18,psychic,-,60
+505,11,Confuse Ray,20,ghost,-,100
+505,14,Confuse Ray,20,ghost,-,100
+505,15,Confuse Ray,20,ghost,-,100
+505,16,Confuse Ray,20,ghost,-,100
+505,11,Super Fang,22,normal,-,90
+505,14,Super Fang,22,normal,-,90
+505,15,Super Fang,22,normal,-,90
+505,16,Super Fang,22,normal,-,90
+505,11,After You,25,normal,-,-
+505,14,After You,25,normal,-,-
+505,15,After You,25,normal,-,-
+505,16,After You,25,normal,-,-
+505,11,Psych Up,29,normal,-,-
+505,14,Psych Up,29,normal,-,-
+505,15,Psych Up,29,normal,-,-
+505,16,Psych Up,29,normal,-,-
+505,11,Hyper Fang,32,normal,80,90
+505,14,Hyper Fang,32,normal,80,90
+505,15,Hyper Fang,32,normal,80,90
+505,16,Hyper Fang,32,normal,80,90
+505,11,Mean Look,36,normal,-,-
+505,14,Mean Look,36,normal,-,-
+505,15,Mean Look,36,normal,-,-
+505,16,Mean Look,36,normal,-,-
+505,11,Baton Pass,39,normal,-,-
+505,14,Baton Pass,39,normal,-,-
+505,15,Baton Pass,39,normal,-,-
+505,16,Baton Pass,39,normal,-,-
+505,11,Slam,43,normal,80,75
+505,14,Slam,43,normal,80,75
+505,15,Slam,43,normal,80,75
+505,16,Slam,43,normal,80,75

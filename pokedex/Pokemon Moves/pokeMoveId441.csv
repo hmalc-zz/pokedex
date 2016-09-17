@@ -1,0 +1,105 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+441,8,Peck,1,flying,35,100
+441,9,Peck,1,flying,35,100
+441,10,Peck,1,flying,35,100
+441,11,Peck,1,flying,35,100
+441,14,Peck,1,flying,35,100
+441,15,Peck,1,flying,35,100
+441,15,Taunt,1,dark,-,100
+441,15,Hyper Voice,1,normal,90,100
+441,15,Chatter,1,flying,65,100
+441,15,Confide,1,normal,-,-
+441,16,Peck,1,flying,35,100
+441,16,Taunt,1,dark,-,100
+441,16,Hyper Voice,1,normal,90,100
+441,16,Chatter,1,flying,65,100
+441,16,Confide,1,normal,-,-
+441,8,Growl,5,normal,-,100
+441,9,Growl,5,normal,-,100
+441,10,Growl,5,normal,-,100
+441,11,Growl,5,normal,-,100
+441,14,Growl,5,normal,-,100
+441,15,Growl,5,normal,-,100
+441,16,Growl,5,normal,-,100
+441,8,Mirror Move,9,flying,-,-
+441,9,Mirror Move,9,flying,-,-
+441,10,Mirror Move,9,flying,-,-
+441,11,Mirror Move,9,flying,-,-
+441,14,Mirror Move,9,flying,-,-
+441,15,Mirror Move,9,flying,-,-
+441,16,Mirror Move,9,flying,-,-
+441,8,Sing,13,normal,-,55
+441,9,Sing,13,normal,-,55
+441,10,Sing,13,normal,-,55
+441,11,Sing,13,normal,-,55
+441,14,Sing,13,normal,-,55
+441,15,Sing,13,normal,-,55
+441,16,Sing,13,normal,-,55
+441,8,Fury Attack,17,normal,15,85
+441,9,Fury Attack,17,normal,15,85
+441,10,Fury Attack,17,normal,15,85
+441,11,Fury Attack,17,normal,15,85
+441,14,Fury Attack,17,normal,15,85
+441,15,Fury Attack,17,normal,15,85
+441,16,Fury Attack,17,normal,15,85
+441,8,Chatter,21,flying,65,100
+441,9,Chatter,21,flying,65,100
+441,10,Chatter,21,flying,65,100
+441,11,Chatter,21,flying,65,100
+441,14,Chatter,21,flying,65,100
+441,15,Chatter,21,flying,65,100
+441,16,Chatter,21,flying,65,100
+441,8,Taunt,25,dark,-,100
+441,9,Taunt,25,dark,-,100
+441,10,Taunt,25,dark,-,100
+441,11,Taunt,25,dark,-,100
+441,14,Taunt,25,dark,-,100
+441,15,Taunt,25,dark,-,100
+441,16,Taunt,25,dark,-,100
+441,8,Mimic,29,normal,-,-
+441,9,Mimic,29,normal,-,-
+441,10,Mimic,29,normal,-,-
+441,11,Round,29,normal,60,100
+441,14,Round,29,normal,60,100
+441,15,Round,29,normal,60,100
+441,16,Round,29,normal,60,100
+441,8,Roost,33,flying,-,-
+441,9,Roost,33,flying,-,-
+441,10,Roost,33,flying,-,-
+441,11,Mimic,33,normal,-,-
+441,14,Mimic,33,normal,-,-
+441,15,Mimic,33,normal,-,-
+441,16,Mimic,33,normal,-,-
+441,8,Uproar,37,normal,90,100
+441,9,Uproar,37,normal,90,100
+441,10,Uproar,37,normal,90,100
+441,11,Echoed Voice,37,normal,40,100
+441,14,Echoed Voice,37,normal,40,100
+441,15,Echoed Voice,37,normal,40,100
+441,16,Echoed Voice,37,normal,40,100
+441,8,Feather Dance,41,flying,-,100
+441,9,Feather Dance,41,flying,-,100
+441,10,Feather Dance,41,flying,-,100
+441,11,Roost,41,flying,-,-
+441,14,Roost,41,flying,-,-
+441,15,Roost,41,flying,-,-
+441,16,Roost,41,flying,-,-
+441,8,Hyper Voice,45,normal,90,100
+441,9,Hyper Voice,45,normal,90,100
+441,10,Hyper Voice,45,normal,90,100
+441,11,Uproar,45,normal,90,100
+441,14,Uproar,45,normal,90,100
+441,15,Uproar,45,normal,90,100
+441,16,Uproar,45,normal,90,100
+441,11,Synchronoise,49,psychic,120,100
+441,14,Synchronoise,49,psychic,120,100
+441,15,Synchronoise,49,psychic,120,100
+441,16,Synchronoise,49,psychic,120,100
+441,15,Feather Dance,50,flying,-,100
+441,16,Feather Dance,50,flying,-,100
+441,11,Feather Dance,53,flying,-,100
+441,14,Feather Dance,53,flying,-,100
+441,11,Hyper Voice,57,normal,90,100
+441,14,Hyper Voice,57,normal,90,100
+441,15,Hyper Voice,57,normal,90,100
+441,16,Hyper Voice,57,normal,90,100

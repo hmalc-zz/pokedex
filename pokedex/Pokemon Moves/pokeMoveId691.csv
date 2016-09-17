@@ -1,0 +1,41 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+691,15,Tackle,1,normal,50,100
+691,15,Water Gun,1,water,40,100
+691,15,Smokescreen,1,normal,-,100
+691,15,Twister,1,dragon,40,100
+691,15,Dragon Tail,1,dragon,60,90
+691,16,Tackle,1,normal,50,100
+691,16,Water Gun,1,water,40,100
+691,16,Smokescreen,1,normal,-,100
+691,16,Twister,1,dragon,40,100
+691,16,Dragon Tail,1,dragon,60,90
+691,15,Feint Attack,5,dark,60,-
+691,16,Feint Attack,5,dark,60,-
+691,15,Tail Whip,9,normal,-,100
+691,16,Tail Whip,9,normal,-,100
+691,15,Bubble,12,water,40,100
+691,16,Bubble,12,water,40,100
+691,15,Acid,15,poison,40,100
+691,16,Acid,15,poison,40,100
+691,15,Camouflage,19,normal,-,-
+691,16,Camouflage,19,normal,-,-
+691,15,Poison Tail,23,poison,50,100
+691,16,Poison Tail,23,poison,50,100
+691,15,Water Pulse,25,water,60,100
+691,16,Water Pulse,25,water,60,100
+691,15,Double Team,28,normal,-,-
+691,16,Double Team,28,normal,-,-
+691,15,Toxic,32,poison,-,90
+691,16,Toxic,32,poison,-,90
+691,15,Aqua Tail,35,water,90,90
+691,16,Aqua Tail,35,water,90,90
+691,15,Sludge Bomb,38,poison,90,100
+691,16,Sludge Bomb,38,poison,90,100
+691,15,Hydro Pump,42,water,110,80
+691,16,Hydro Pump,42,water,110,80
+691,15,Dragon Pulse,53,dragon,85,100
+691,16,Dragon Pulse,53,dragon,85,100
+691,15,Dragon Tail,59,dragon,60,90
+691,16,Dragon Tail,59,dragon,60,90
+691,15,Twister,67,dragon,40,100
+691,16,Twister,67,dragon,40,100

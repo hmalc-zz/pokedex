@@ -1,0 +1,31 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+696,15,Tackle,1,normal,50,100
+696,15,Tail Whip,1,normal,-,100
+696,16,Tackle,1,normal,50,100
+696,16,Tail Whip,1,normal,-,100
+696,15,Roar,6,normal,-,-
+696,16,Roar,6,normal,-,-
+696,15,Stomp,10,normal,65,100
+696,16,Stomp,10,normal,65,100
+696,15,Bide,12,normal,-,-
+696,16,Bide,12,normal,-,-
+696,15,Stealth Rock,15,rock,-,-
+696,16,Stealth Rock,15,rock,-,-
+696,15,Bite,17,dark,60,100
+696,16,Bite,17,dark,60,100
+696,15,Charm,20,fairy,-,100
+696,16,Charm,20,fairy,-,100
+696,15,Ancient Power,26,rock,60,100
+696,16,Ancient Power,26,rock,60,100
+696,15,Dragon Tail,30,dragon,60,90
+696,16,Dragon Tail,30,dragon,60,90
+696,15,Crunch,34,dark,80,100
+696,16,Crunch,34,dark,80,100
+696,15,Dragon Claw,37,dragon,80,100
+696,16,Dragon Claw,37,dragon,80,100
+696,15,Thrash,40,normal,120,100
+696,16,Thrash,40,normal,120,100
+696,15,Earthquake,44,ground,100,100
+696,16,Earthquake,44,ground,100,100
+696,15,Horn Drill,49,normal,-,30
+696,16,Horn Drill,49,normal,-,30

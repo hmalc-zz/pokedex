@@ -1,0 +1,57 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+647,11,Leer,1,normal,-,100
+647,11,Aqua Jet,1,water,40,100
+647,14,Leer,1,normal,-,100
+647,14,Aqua Jet,1,water,40,100
+647,15,Leer,1,normal,-,100
+647,15,Aqua Jet,1,water,40,100
+647,16,Leer,1,normal,-,100
+647,16,Aqua Jet,1,water,40,100
+647,11,Double Kick,7,fighting,30,100
+647,14,Double Kick,7,fighting,30,100
+647,15,Double Kick,7,fighting,30,100
+647,16,Double Kick,7,fighting,30,100
+647,11,Bubble Beam,13,water,65,100
+647,14,Bubble Beam,13,water,65,100
+647,15,Bubble Beam,13,water,65,100
+647,16,Bubble Beam,13,water,65,100
+647,11,Take Down,19,normal,90,85
+647,14,Take Down,19,normal,90,85
+647,15,Take Down,19,normal,90,85
+647,16,Take Down,19,normal,90,85
+647,11,Helping Hand,25,normal,-,-
+647,14,Helping Hand,25,normal,-,-
+647,15,Helping Hand,25,normal,-,-
+647,16,Helping Hand,25,normal,-,-
+647,11,Retaliate,31,normal,70,100
+647,14,Retaliate,31,normal,70,100
+647,15,Retaliate,31,normal,70,100
+647,16,Retaliate,31,normal,70,100
+647,11,Aqua Tail,37,water,90,90
+647,14,Aqua Tail,37,water,90,90
+647,15,Aqua Tail,37,water,90,90
+647,16,Aqua Tail,37,water,90,90
+647,11,Sacred Sword,43,fighting,90,100
+647,14,Sacred Sword,43,fighting,90,100
+647,15,Sacred Sword,43,fighting,90,100
+647,16,Sacred Sword,43,fighting,90,100
+647,11,Swords Dance,49,normal,-,-
+647,14,Swords Dance,49,normal,-,-
+647,15,Swords Dance,49,normal,-,-
+647,16,Swords Dance,49,normal,-,-
+647,11,Quick Guard,55,fighting,-,-
+647,14,Quick Guard,55,fighting,-,-
+647,15,Quick Guard,55,fighting,-,-
+647,16,Quick Guard,55,fighting,-,-
+647,11,Work Up,61,normal,-,-
+647,14,Work Up,61,normal,-,-
+647,15,Work Up,61,normal,-,-
+647,16,Work Up,61,normal,-,-
+647,11,Hydro Pump,67,water,110,80
+647,14,Hydro Pump,67,water,110,80
+647,15,Hydro Pump,67,water,110,80
+647,16,Hydro Pump,67,water,110,80
+647,11,Close Combat,73,fighting,120,100
+647,14,Close Combat,73,fighting,120,100
+647,15,Close Combat,73,fighting,120,100
+647,16,Close Combat,73,fighting,120,100

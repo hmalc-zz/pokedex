@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+627,11,Leer,1,normal,-,100
+627,11,Peck,1,flying,35,100
+627,14,Leer,1,normal,-,100
+627,14,Peck,1,flying,35,100
+627,15,Leer,1,normal,-,100
+627,15,Peck,1,flying,35,100
+627,16,Leer,1,normal,-,100
+627,16,Peck,1,flying,35,100
+627,11,Fury Attack,5,normal,15,85
+627,14,Fury Attack,5,normal,15,85
+627,15,Fury Attack,5,normal,15,85
+627,16,Fury Attack,5,normal,15,85
+627,11,Wing Attack,10,flying,60,100
+627,14,Wing Attack,10,flying,60,100
+627,15,Wing Attack,10,flying,60,100
+627,16,Wing Attack,10,flying,60,100
+627,11,Hone Claws,14,dark,-,-
+627,14,Hone Claws,14,dark,-,-
+627,15,Hone Claws,14,dark,-,-
+627,16,Hone Claws,14,dark,-,-
+627,11,Scary Face,19,normal,-,100
+627,14,Scary Face,19,normal,-,100
+627,15,Scary Face,19,normal,-,100
+627,16,Scary Face,19,normal,-,100
+627,11,Aerial Ace,23,flying,60,-
+627,14,Aerial Ace,23,flying,60,-
+627,15,Aerial Ace,23,flying,60,-
+627,16,Aerial Ace,23,flying,60,-
+627,11,Slash,28,normal,70,100
+627,14,Slash,28,normal,70,100
+627,15,Slash,28,normal,70,100
+627,16,Slash,28,normal,70,100
+627,11,Defog,32,flying,-,-
+627,14,Defog,32,flying,-,-
+627,15,Defog,32,flying,-,-
+627,16,Defog,32,flying,-,-
+627,11,Tailwind,37,flying,-,-
+627,14,Tailwind,37,flying,-,-
+627,15,Tailwind,37,flying,-,-
+627,16,Tailwind,37,flying,-,-
+627,11,Air Slash,41,flying,75,95
+627,14,Air Slash,41,flying,75,95
+627,15,Air Slash,41,flying,75,95
+627,16,Air Slash,41,flying,75,95
+627,11,Crush Claw,46,normal,75,95
+627,14,Crush Claw,46,normal,75,95
+627,15,Crush Claw,46,normal,75,95
+627,16,Crush Claw,46,normal,75,95
+627,11,Sky Drop,50,flying,60,100
+627,14,Sky Drop,50,flying,60,100
+627,15,Sky Drop,50,flying,60,100
+627,16,Sky Drop,50,flying,60,100
+627,11,Whirlwind,55,normal,-,-
+627,14,Whirlwind,55,normal,-,-
+627,15,Whirlwind,55,normal,-,-
+627,16,Whirlwind,55,normal,-,-
+627,11,Brave Bird,59,flying,120,100
+627,14,Brave Bird,59,flying,120,100
+627,15,Brave Bird,59,flying,120,100
+627,16,Brave Bird,59,flying,120,100
+627,11,Thrash,64,normal,120,100
+627,14,Thrash,64,normal,120,100
+627,15,Thrash,64,normal,120,100
+627,16,Thrash,64,normal,120,100

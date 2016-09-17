@@ -1,0 +1,192 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+233,3,Tackle,1,normal,50,100
+233,3,Conversion,1,normal,-,-
+233,3,Conversion 2,1,normal,-,-
+233,4,Tackle,1,normal,50,100
+233,4,Conversion,1,normal,-,-
+233,4,Conversion 2,1,normal,-,-
+233,5,Tackle,1,normal,50,100
+233,5,Conversion,1,normal,-,-
+233,5,Conversion 2,1,normal,-,-
+233,6,Tackle,1,normal,50,100
+233,6,Conversion,1,normal,-,-
+233,6,Conversion 2,1,normal,-,-
+233,7,Tackle,1,normal,50,100
+233,7,Conversion,1,normal,-,-
+233,7,Conversion 2,1,normal,-,-
+233,8,Tackle,1,normal,50,100
+233,8,Defense Curl,1,normal,-,-
+233,8,Conversion,1,normal,-,-
+233,8,Conversion 2,1,normal,-,-
+233,9,Tackle,1,normal,50,100
+233,9,Defense Curl,1,normal,-,-
+233,9,Conversion,1,normal,-,-
+233,9,Conversion 2,1,normal,-,-
+233,10,Tackle,1,normal,50,100
+233,10,Defense Curl,1,normal,-,-
+233,10,Conversion,1,normal,-,-
+233,10,Conversion 2,1,normal,-,-
+233,11,Tackle,1,normal,50,100
+233,11,Defense Curl,1,normal,-,-
+233,11,Conversion,1,normal,-,-
+233,11,Conversion 2,1,normal,-,-
+233,12,Tackle,1,normal,50,100
+233,12,Conversion,1,normal,-,-
+233,12,Conversion 2,1,normal,-,-
+233,13,Tackle,1,normal,50,100
+233,13,Conversion,1,normal,-,-
+233,13,Conversion 2,1,normal,-,-
+233,14,Tackle,1,normal,50,100
+233,14,Defense Curl,1,normal,-,-
+233,14,Conversion,1,normal,-,-
+233,14,Conversion 2,1,normal,-,-
+233,15,Tackle,1,normal,50,100
+233,15,Defense Curl,1,normal,-,-
+233,15,Conversion,1,normal,-,-
+233,15,Conversion 2,1,normal,-,-
+233,15,Zap Cannon,1,electric,120,50
+233,15,Magic Coat,1,psychic,-,-
+233,16,Tackle,1,normal,50,100
+233,16,Defense Curl,1,normal,-,-
+233,16,Conversion,1,normal,-,-
+233,16,Conversion 2,1,normal,-,-
+233,16,Zap Cannon,1,electric,120,50
+233,16,Magic Coat,1,psychic,-,-
+233,8,Psybeam,7,psychic,65,100
+233,9,Psybeam,7,psychic,65,100
+233,10,Psybeam,7,psychic,65,100
+233,11,Psybeam,7,psychic,65,100
+233,14,Psybeam,7,psychic,65,100
+233,15,Psybeam,7,psychic,65,100
+233,16,Psybeam,7,psychic,65,100
+233,3,Agility,9,psychic,-,-
+233,4,Agility,9,psychic,-,-
+233,5,Agility,9,psychic,-,-
+233,6,Agility,9,psychic,-,-
+233,7,Agility,9,psychic,-,-
+233,12,Agility,9,psychic,-,-
+233,13,Agility,9,psychic,-,-
+233,3,Psybeam,12,psychic,65,100
+233,4,Psybeam,12,psychic,65,100
+233,5,Psybeam,12,psychic,65,100
+233,6,Psybeam,12,psychic,65,100
+233,7,Psybeam,12,psychic,65,100
+233,8,Agility,12,psychic,-,-
+233,9,Agility,12,psychic,-,-
+233,10,Agility,12,psychic,-,-
+233,11,Agility,12,psychic,-,-
+233,12,Psybeam,12,psychic,65,100
+233,13,Psybeam,12,psychic,65,100
+233,14,Agility,12,psychic,-,-
+233,15,Agility,12,psychic,-,-
+233,16,Agility,12,psychic,-,-
+233,8,Recover,18,normal,-,-
+233,9,Recover,18,normal,-,-
+233,10,Recover,18,normal,-,-
+233,11,Recover,18,normal,-,-
+233,14,Recover,18,normal,-,-
+233,15,Recover,18,normal,-,-
+233,16,Recover,18,normal,-,-
+233,3,Recover,20,normal,-,-
+233,4,Recover,20,normal,-,-
+233,5,Recover,20,normal,-,-
+233,6,Recover,20,normal,-,-
+233,7,Recover,20,normal,-,-
+233,12,Recover,20,normal,-,-
+233,13,Recover,20,normal,-,-
+233,8,Magnet Rise,23,electric,-,-
+233,9,Magnet Rise,23,electric,-,-
+233,10,Magnet Rise,23,electric,-,-
+233,11,Magnet Rise,23,electric,-,-
+233,14,Magnet Rise,23,electric,-,-
+233,15,Magnet Rise,23,electric,-,-
+233,16,Magnet Rise,23,electric,-,-
+233,3,Defense Curl,24,normal,-,-
+233,4,Defense Curl,24,normal,-,-
+233,5,Defense Curl,24,normal,-,-
+233,6,Defense Curl,24,normal,-,-
+233,7,Defense Curl,24,normal,-,-
+233,12,Defense Curl,24,normal,-,-
+233,13,Defense Curl,24,normal,-,-
+233,8,Signal Beam,29,bug,75,100
+233,9,Signal Beam,29,bug,75,100
+233,10,Signal Beam,29,bug,75,100
+233,11,Signal Beam,29,bug,75,100
+233,14,Signal Beam,29,bug,75,100
+233,15,Signal Beam,29,bug,75,100
+233,16,Signal Beam,29,bug,75,100
+233,3,Lock-On,32,normal,-,-
+233,4,Lock-On,32,normal,-,-
+233,5,Lock-On,32,normal,-,-
+233,6,Lock-On,32,normal,-,-
+233,7,Lock-On,32,normal,-,-
+233,12,Lock-On,32,normal,-,-
+233,13,Lock-On,32,normal,-,-
+233,8,Recycle,34,normal,-,-
+233,9,Recycle,34,normal,-,-
+233,10,Recycle,34,normal,-,-
+233,11,Recycle,34,normal,-,-
+233,14,Recycle,34,normal,-,-
+233,15,Recycle,34,normal,-,-
+233,16,Recycle,34,normal,-,-
+233,3,Tri Attack,36,normal,80,100
+233,4,Tri Attack,36,normal,80,100
+233,5,Tri Attack,36,normal,80,100
+233,6,Tri Attack,36,normal,80,100
+233,7,Tri Attack,36,normal,80,100
+233,12,Tri Attack,36,normal,80,100
+233,13,Tri Attack,36,normal,80,100
+233,8,Discharge,40,electric,80,100
+233,9,Discharge,40,electric,80,100
+233,10,Discharge,40,electric,80,100
+233,11,Discharge,40,electric,80,100
+233,14,Discharge,40,electric,80,100
+233,15,Discharge,40,electric,80,100
+233,16,Discharge,40,electric,80,100
+233,3,Zap Cannon,44,electric,120,50
+233,4,Zap Cannon,44,electric,120,50
+233,5,Recycle,44,normal,-,-
+233,6,Recycle,44,normal,-,-
+233,7,Recycle,44,normal,-,-
+233,12,Recycle,44,normal,-,-
+233,13,Recycle,44,normal,-,-
+233,8,Lock-On,45,normal,-,-
+233,9,Lock-On,45,normal,-,-
+233,10,Lock-On,45,normal,-,-
+233,11,Lock-On,45,normal,-,-
+233,14,Lock-On,45,normal,-,-
+233,15,Lock-On,45,normal,-,-
+233,16,Lock-On,45,normal,-,-
+233,5,Zap Cannon,48,electric,120,50
+233,6,Zap Cannon,48,electric,120,50
+233,7,Zap Cannon,48,electric,120,50
+233,12,Zap Cannon,48,electric,120,50
+233,13,Zap Cannon,48,electric,120,50
+233,15,Tri Attack,50,normal,80,100
+233,16,Tri Attack,50,normal,80,100
+233,8,Tri Attack,51,normal,80,100
+233,9,Tri Attack,51,normal,80,100
+233,10,Tri Attack,51,normal,80,100
+233,11,Tri Attack,51,normal,80,100
+233,14,Tri Attack,51,normal,80,100
+233,8,Magic Coat,56,psychic,-,-
+233,9,Magic Coat,56,psychic,-,-
+233,10,Magic Coat,56,psychic,-,-
+233,11,Magic Coat,56,psychic,-,-
+233,14,Magic Coat,56,psychic,-,-
+233,15,Magic Coat,56,psychic,-,-
+233,16,Magic Coat,56,psychic,-,-
+233,8,Zap Cannon,62,electric,120,50
+233,9,Zap Cannon,62,electric,120,50
+233,10,Zap Cannon,62,electric,120,50
+233,11,Zap Cannon,62,electric,120,50
+233,14,Zap Cannon,62,electric,120,50
+233,15,Zap Cannon,62,electric,120,50
+233,16,Zap Cannon,62,electric,120,50
+233,8,Hyper Beam,67,normal,150,90
+233,9,Hyper Beam,67,normal,150,90
+233,10,Hyper Beam,67,normal,150,90
+233,11,Hyper Beam,67,normal,150,90
+233,14,Hyper Beam,67,normal,150,90
+233,15,Hyper Beam,67,normal,150,90
+233,16,Hyper Beam,67,normal,150,90

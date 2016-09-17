@@ -1,0 +1,150 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+341,5,Bubble,1,water,40,100
+341,6,Bubble,1,water,40,100
+341,7,Bubble,1,water,40,100
+341,8,Bubble,1,water,40,100
+341,9,Bubble,1,water,40,100
+341,10,Bubble,1,water,40,100
+341,11,Bubble,1,water,40,100
+341,12,Bubble,1,water,40,100
+341,13,Bubble,1,water,40,100
+341,14,Bubble,1,water,40,100
+341,15,Bubble,1,water,40,100
+341,16,Bubble,1,water,40,100
+341,16,Harden,5,normal,-,-
+341,5,Harden,7,normal,-,-
+341,6,Harden,7,normal,-,-
+341,7,Harden,7,normal,-,-
+341,8,Harden,7,normal,-,-
+341,9,Harden,7,normal,-,-
+341,10,Harden,7,normal,-,-
+341,11,Harden,7,normal,-,-
+341,12,Harden,7,normal,-,-
+341,13,Harden,7,normal,-,-
+341,14,Harden,7,normal,-,-
+341,15,Harden,7,normal,-,-
+341,16,Vice Grip,7,normal,55,100
+341,5,Vice Grip,10,normal,55,100
+341,6,Vice Grip,10,normal,55,100
+341,7,Vice Grip,10,normal,55,100
+341,8,Vice Grip,10,normal,55,100
+341,9,Vice Grip,10,normal,55,100
+341,10,Vice Grip,10,normal,55,100
+341,11,Vice Grip,10,normal,55,100
+341,12,Vice Grip,10,normal,55,100
+341,13,Vice Grip,10,normal,55,100
+341,14,Vice Grip,10,normal,55,100
+341,15,Vice Grip,10,normal,55,100
+341,16,Leer,10,normal,-,100
+341,5,Leer,13,normal,-,100
+341,6,Leer,13,normal,-,100
+341,7,Leer,13,normal,-,100
+341,8,Leer,13,normal,-,100
+341,9,Leer,13,normal,-,100
+341,10,Leer,13,normal,-,100
+341,11,Leer,13,normal,-,100
+341,12,Leer,13,normal,-,100
+341,13,Leer,13,normal,-,100
+341,14,Leer,13,normal,-,100
+341,15,Leer,13,normal,-,100
+341,16,Bubble Beam,14,water,65,100
+341,16,Protect,17,normal,-,-
+341,7,Bubble Beam,19,water,65,100
+341,5,Bubble Beam,20,water,65,100
+341,6,Bubble Beam,20,water,65,100
+341,8,Bubble Beam,20,water,65,100
+341,9,Bubble Beam,20,water,65,100
+341,10,Bubble Beam,20,water,65,100
+341,11,Bubble Beam,20,water,65,100
+341,12,Bubble Beam,20,water,65,100
+341,13,Bubble Beam,20,water,65,100
+341,14,Bubble Beam,20,water,65,100
+341,15,Bubble Beam,20,water,65,100
+341,16,Double Hit,20,normal,35,90
+341,7,Protect,22,normal,-,-
+341,5,Protect,23,normal,-,-
+341,6,Protect,23,normal,-,-
+341,8,Protect,23,normal,-,-
+341,9,Protect,23,normal,-,-
+341,10,Protect,23,normal,-,-
+341,11,Protect,23,normal,-,-
+341,12,Protect,23,normal,-,-
+341,13,Protect,23,normal,-,-
+341,14,Protect,23,normal,-,-
+341,15,Protect,23,normal,-,-
+341,16,Knock Off,23,dark,65,100
+341,7,Knock Off,25,dark,65,100
+341,5,Knock Off,26,dark,65,100
+341,6,Knock Off,26,dark,65,100
+341,8,Knock Off,26,dark,65,100
+341,9,Knock Off,26,dark,65,100
+341,10,Knock Off,26,dark,65,100
+341,11,Knock Off,26,dark,65,100
+341,12,Knock Off,26,dark,65,100
+341,13,Knock Off,26,dark,65,100
+341,14,Knock Off,26,dark,65,100
+341,15,Knock Off,26,dark,65,100
+341,16,Night Slash,26,dark,70,100
+341,7,Taunt,31,dark,-,100
+341,16,Razor Shell,31,water,75,95
+341,5,Taunt,32,dark,-,100
+341,6,Taunt,32,dark,-,100
+341,8,Taunt,32,dark,-,100
+341,9,Taunt,32,dark,-,100
+341,10,Taunt,32,dark,-,100
+341,11,Taunt,32,dark,-,100
+341,12,Taunt,32,dark,-,100
+341,13,Taunt,32,dark,-,100
+341,14,Taunt,32,dark,-,100
+341,15,Taunt,32,dark,-,100
+341,7,Crabhammer,34,water,100,90
+341,16,Taunt,34,dark,-,100
+341,5,Crabhammer,35,water,100,90
+341,6,Crabhammer,35,water,100,90
+341,8,Night Slash,35,dark,70,100
+341,9,Night Slash,35,dark,70,100
+341,10,Night Slash,35,dark,70,100
+341,11,Night Slash,35,dark,70,100
+341,12,Crabhammer,35,water,100,90
+341,13,Crabhammer,35,water,100,90
+341,14,Night Slash,35,dark,70,100
+341,15,Night Slash,35,dark,70,100
+341,7,Swords Dance,37,normal,-,-
+341,16,Swords Dance,37,normal,-,-
+341,5,Swords Dance,38,normal,-,-
+341,6,Swords Dance,38,normal,-,-
+341,8,Crabhammer,38,water,100,90
+341,9,Crabhammer,38,water,100,90
+341,10,Crabhammer,38,water,100,90
+341,11,Crabhammer,38,water,100,90
+341,12,Swords Dance,38,normal,-,-
+341,13,Swords Dance,38,normal,-,-
+341,14,Crabhammer,38,water,100,90
+341,15,Crabhammer,38,water,100,90
+341,16,Crunch,39,dark,80,100
+341,7,Crunch,43,dark,80,100
+341,16,Crabhammer,43,water,100,90
+341,5,Guillotine,44,normal,-,30
+341,6,Guillotine,44,normal,-,30
+341,8,Swords Dance,44,normal,-,-
+341,9,Swords Dance,44,normal,-,-
+341,10,Swords Dance,44,normal,-,-
+341,11,Swords Dance,44,normal,-,-
+341,12,Guillotine,44,normal,-,30
+341,13,Guillotine,44,normal,-,30
+341,14,Swords Dance,44,normal,-,-
+341,15,Swords Dance,44,normal,-,-
+341,7,Guillotine,46,normal,-,30
+341,8,Crunch,47,dark,80,100
+341,9,Crunch,47,dark,80,100
+341,10,Crunch,47,dark,80,100
+341,11,Crunch,47,dark,80,100
+341,14,Crunch,47,dark,80,100
+341,15,Crunch,47,dark,80,100
+341,16,Guillotine,48,normal,-,30
+341,8,Guillotine,53,normal,-,30
+341,9,Guillotine,53,normal,-,30
+341,10,Guillotine,53,normal,-,30
+341,11,Guillotine,53,normal,-,30
+341,14,Guillotine,53,normal,-,30
+341,15,Guillotine,53,normal,-,30

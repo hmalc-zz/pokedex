@@ -1,0 +1,152 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+277,5,Growl,1,normal,-,100
+277,5,Peck,1,flying,35,100
+277,5,Quick Attack,1,normal,40,100
+277,5,Focus Energy,1,normal,-,-
+277,6,Growl,1,normal,-,100
+277,6,Peck,1,flying,35,100
+277,6,Quick Attack,1,normal,40,100
+277,6,Focus Energy,1,normal,-,-
+277,7,Growl,1,normal,-,100
+277,7,Peck,1,flying,35,100
+277,7,Quick Attack,1,normal,40,100
+277,7,Focus Energy,1,normal,-,-
+277,8,Growl,1,normal,-,100
+277,8,Peck,1,flying,35,100
+277,8,Quick Attack,1,normal,40,100
+277,8,Focus Energy,1,normal,-,-
+277,8,Pluck,1,flying,60,100
+277,9,Growl,1,normal,-,100
+277,9,Peck,1,flying,35,100
+277,9,Quick Attack,1,normal,40,100
+277,9,Focus Energy,1,normal,-,-
+277,9,Pluck,1,flying,60,100
+277,10,Growl,1,normal,-,100
+277,10,Peck,1,flying,35,100
+277,10,Quick Attack,1,normal,40,100
+277,10,Focus Energy,1,normal,-,-
+277,10,Pluck,1,flying,60,100
+277,11,Growl,1,normal,-,100
+277,11,Peck,1,flying,35,100
+277,11,Quick Attack,1,normal,40,100
+277,11,Focus Energy,1,normal,-,-
+277,11,Pluck,1,flying,60,100
+277,12,Growl,1,normal,-,100
+277,12,Peck,1,flying,35,100
+277,12,Quick Attack,1,normal,40,100
+277,12,Focus Energy,1,normal,-,-
+277,13,Growl,1,normal,-,100
+277,13,Peck,1,flying,35,100
+277,13,Quick Attack,1,normal,40,100
+277,13,Focus Energy,1,normal,-,-
+277,14,Growl,1,normal,-,100
+277,14,Peck,1,flying,35,100
+277,14,Quick Attack,1,normal,40,100
+277,14,Focus Energy,1,normal,-,-
+277,14,Pluck,1,flying,60,100
+277,15,Growl,1,normal,-,100
+277,15,Peck,1,flying,35,100
+277,15,Quick Attack,1,normal,40,100
+277,15,Focus Energy,1,normal,-,-
+277,15,Pluck,1,flying,60,100
+277,15,Air Slash,1,flying,75,95
+277,16,Growl,1,normal,-,100
+277,16,Peck,1,flying,35,100
+277,16,Quick Attack,1,normal,40,100
+277,16,Focus Energy,1,normal,-,-
+277,16,Pluck,1,flying,60,100
+277,16,Air Slash,1,flying,75,95
+277,16,Brave Bird,1,flying,120,100
+277,5,Focus Energy,4,normal,-,-
+277,6,Focus Energy,4,normal,-,-
+277,7,Focus Energy,4,normal,-,-
+277,8,Focus Energy,4,normal,-,-
+277,9,Focus Energy,4,normal,-,-
+277,10,Focus Energy,4,normal,-,-
+277,11,Focus Energy,4,normal,-,-
+277,12,Focus Energy,4,normal,-,-
+277,13,Focus Energy,4,normal,-,-
+277,14,Focus Energy,4,normal,-,-
+277,15,Focus Energy,4,normal,-,-
+277,16,Focus Energy,5,normal,-,-
+277,15,Quick Attack,7,normal,40,100
+277,5,Quick Attack,8,normal,40,100
+277,6,Quick Attack,8,normal,40,100
+277,7,Quick Attack,8,normal,40,100
+277,8,Quick Attack,8,normal,40,100
+277,9,Quick Attack,8,normal,40,100
+277,10,Quick Attack,8,normal,40,100
+277,11,Quick Attack,8,normal,40,100
+277,12,Quick Attack,8,normal,40,100
+277,13,Quick Attack,8,normal,40,100
+277,14,Quick Attack,8,normal,40,100
+277,16,Quick Attack,9,normal,40,100
+277,5,Wing Attack,13,flying,60,100
+277,6,Wing Attack,13,flying,60,100
+277,7,Wing Attack,13,flying,60,100
+277,8,Wing Attack,13,flying,60,100
+277,9,Wing Attack,13,flying,60,100
+277,10,Wing Attack,13,flying,60,100
+277,11,Wing Attack,13,flying,60,100
+277,12,Wing Attack,13,flying,60,100
+277,13,Wing Attack,13,flying,60,100
+277,14,Wing Attack,13,flying,60,100
+277,15,Wing Attack,13,flying,60,100
+277,16,Wing Attack,13,flying,60,100
+277,16,Double Team,17,normal,-,-
+277,5,Double Team,19,normal,-,-
+277,6,Double Team,19,normal,-,-
+277,7,Double Team,19,normal,-,-
+277,8,Double Team,19,normal,-,-
+277,9,Double Team,19,normal,-,-
+277,10,Double Team,19,normal,-,-
+277,11,Double Team,19,normal,-,-
+277,12,Double Team,19,normal,-,-
+277,13,Double Team,19,normal,-,-
+277,14,Double Team,19,normal,-,-
+277,15,Double Team,19,normal,-,-
+277,16,Aerial Ace,21,flying,60,-
+277,16,Quick Guard,27,fighting,-,-
+277,5,Endeavor,28,normal,-,100
+277,6,Endeavor,28,normal,-,100
+277,7,Endeavor,28,normal,-,100
+277,8,Endeavor,28,normal,-,100
+277,9,Endeavor,28,normal,-,100
+277,10,Endeavor,28,normal,-,100
+277,11,Endeavor,28,normal,-,100
+277,12,Endeavor,28,normal,-,100
+277,13,Endeavor,28,normal,-,100
+277,14,Endeavor,28,normal,-,100
+277,15,Endeavor,28,normal,-,100
+277,16,Agility,33,psychic,-,-
+277,5,Aerial Ace,38,flying,60,-
+277,6,Aerial Ace,38,flying,60,-
+277,7,Aerial Ace,38,flying,60,-
+277,8,Aerial Ace,38,flying,60,-
+277,9,Aerial Ace,38,flying,60,-
+277,10,Aerial Ace,38,flying,60,-
+277,11,Aerial Ace,38,flying,60,-
+277,12,Aerial Ace,38,flying,60,-
+277,13,Aerial Ace,38,flying,60,-
+277,14,Aerial Ace,38,flying,60,-
+277,15,Aerial Ace,38,flying,60,-
+277,16,Endeavor,39,normal,-,100
+277,16,Air Slash,45,flying,75,95
+277,5,Agility,49,psychic,-,-
+277,6,Agility,49,psychic,-,-
+277,7,Agility,49,psychic,-,-
+277,8,Agility,49,psychic,-,-
+277,9,Agility,49,psychic,-,-
+277,10,Agility,49,psychic,-,-
+277,11,Agility,49,psychic,-,-
+277,12,Agility,49,psychic,-,-
+277,13,Agility,49,psychic,-,-
+277,14,Agility,49,psychic,-,-
+277,15,Agility,49,psychic,-,-
+277,16,Brave Bird,51,flying,120,100
+277,8,Air Slash,61,flying,75,95
+277,9,Air Slash,61,flying,75,95
+277,10,Air Slash,61,flying,75,95
+277,11,Air Slash,61,flying,75,95
+277,14,Air Slash,61,flying,75,95
+277,15,Air Slash,61,flying,75,95

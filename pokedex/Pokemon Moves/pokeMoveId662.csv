@@ -1,0 +1,31 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+662,15,Tackle,1,normal,50,100
+662,15,Growl,1,normal,-,100
+662,16,Tackle,1,normal,50,100
+662,16,Growl,1,normal,-,100
+662,15,Quick Attack,6,normal,40,100
+662,16,Quick Attack,6,normal,40,100
+662,15,Peck,10,flying,35,100
+662,16,Peck,10,flying,35,100
+662,15,Agility,13,psychic,-,-
+662,16,Agility,13,psychic,-,-
+662,15,Flail,16,normal,-,100
+662,16,Flail,16,normal,-,100
+662,15,Ember,17,fire,40,100
+662,16,Ember,17,fire,40,100
+662,15,Roost,25,flying,-,-
+662,16,Roost,25,flying,-,-
+662,15,Razor Wind,27,normal,80,100
+662,16,Razor Wind,27,normal,80,100
+662,15,Natural Gift,31,normal,-,100
+662,16,Natural Gift,31,normal,-,100
+662,15,Flame Charge,38,fire,50,100
+662,16,Flame Charge,38,fire,50,100
+662,15,Acrobatics,42,flying,55,100
+662,16,Acrobatics,42,flying,55,100
+662,15,Me First,46,normal,-,-
+662,16,Me First,46,normal,-,-
+662,15,Tailwind,51,flying,-,-
+662,16,Tailwind,51,flying,-,-
+662,15,Steel Wing,55,steel,70,90
+662,16,Steel Wing,55,steel,70,90

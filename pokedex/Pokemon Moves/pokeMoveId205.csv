@@ -1,0 +1,221 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+205,3,Tackle,1,normal,50,100
+205,3,Self-Destruct,1,normal,200,100
+205,3,Protect,1,normal,-,-
+205,4,Tackle,1,normal,50,100
+205,4,Self-Destruct,1,normal,200,100
+205,4,Protect,1,normal,-,-
+205,5,Tackle,1,normal,50,100
+205,5,Self-Destruct,1,normal,200,100
+205,5,Protect,1,normal,-,-
+205,6,Tackle,1,normal,50,100
+205,6,Self-Destruct,1,normal,200,100
+205,6,Protect,1,normal,-,-
+205,7,Tackle,1,normal,50,100
+205,7,Self-Destruct,1,normal,200,100
+205,7,Protect,1,normal,-,-
+205,8,Tackle,1,normal,50,100
+205,8,Take Down,1,normal,90,85
+205,8,Self-Destruct,1,normal,200,100
+205,8,Protect,1,normal,-,-
+205,8,Toxic Spikes,1,poison,-,-
+205,9,Tackle,1,normal,50,100
+205,9,Self-Destruct,1,normal,200,100
+205,9,Protect,1,normal,-,-
+205,9,Toxic Spikes,1,poison,-,-
+205,9,Bug Bite,1,bug,60,100
+205,10,Tackle,1,normal,50,100
+205,10,Self-Destruct,1,normal,200,100
+205,10,Protect,1,normal,-,-
+205,10,Toxic Spikes,1,poison,-,-
+205,10,Bug Bite,1,bug,60,100
+205,11,Tackle,1,normal,50,100
+205,11,Self-Destruct,1,normal,200,100
+205,11,Protect,1,normal,-,-
+205,11,Toxic Spikes,1,poison,-,-
+205,11,Bug Bite,1,bug,60,100
+205,12,Tackle,1,normal,50,100
+205,12,Self-Destruct,1,normal,200,100
+205,12,Protect,1,normal,-,-
+205,13,Tackle,1,normal,50,100
+205,13,Self-Destruct,1,normal,200,100
+205,13,Protect,1,normal,-,-
+205,14,Tackle,1,normal,50,100
+205,14,Self-Destruct,1,normal,200,100
+205,14,Protect,1,normal,-,-
+205,14,Toxic Spikes,1,poison,-,-
+205,14,Bug Bite,1,bug,60,100
+205,15,Tackle,1,normal,50,100
+205,15,Self-Destruct,1,normal,200,100
+205,15,Protect,1,normal,-,-
+205,15,Zap Cannon,1,electric,120,50
+205,15,Toxic Spikes,1,poison,-,-
+205,15,Magnet Rise,1,electric,-,-
+205,15,Bug Bite,1,bug,60,100
+205,15,Heavy Slam,1,steel,-,100
+205,16,Tackle,1,normal,50,100
+205,16,Self-Destruct,1,normal,200,100
+205,16,Protect,1,normal,-,-
+205,16,Zap Cannon,1,electric,120,50
+205,16,Toxic Spikes,1,poison,-,-
+205,16,Magnet Rise,1,electric,-,-
+205,16,Bug Bite,1,bug,60,100
+205,16,Heavy Slam,1,steel,-,100
+205,8,Self-Destruct,6,normal,200,100
+205,9,Self-Destruct,6,normal,200,100
+205,10,Self-Destruct,6,normal,200,100
+205,11,Self-Destruct,6,normal,200,100
+205,14,Self-Destruct,6,normal,200,100
+205,3,Self-Destruct,8,normal,200,100
+205,4,Self-Destruct,8,normal,200,100
+205,5,Self-Destruct,8,normal,200,100
+205,6,Self-Destruct,8,normal,200,100
+205,7,Self-Destruct,8,normal,200,100
+205,12,Self-Destruct,8,normal,200,100
+205,13,Self-Destruct,8,normal,200,100
+205,8,Take Down,9,normal,90,85
+205,9,Bug Bite,9,bug,60,100
+205,10,Bug Bite,9,bug,60,100
+205,11,Bug Bite,9,bug,60,100
+205,14,Bug Bite,9,bug,60,100
+205,8,Rapid Spin,12,normal,20,100
+205,9,Take Down,12,normal,90,85
+205,10,Take Down,12,normal,90,85
+205,11,Take Down,12,normal,90,85
+205,14,Take Down,12,normal,90,85
+205,15,Take Down,12,normal,90,85
+205,16,Take Down,12,normal,90,85
+205,3,Take Down,15,normal,90,85
+205,4,Take Down,15,normal,90,85
+205,5,Take Down,15,normal,90,85
+205,6,Take Down,15,normal,90,85
+205,7,Take Down,15,normal,90,85
+205,12,Take Down,15,normal,90,85
+205,13,Take Down,15,normal,90,85
+205,8,Bide,17,normal,-,-
+205,9,Rapid Spin,17,normal,20,100
+205,10,Rapid Spin,17,normal,20,100
+205,11,Rapid Spin,17,normal,20,100
+205,14,Rapid Spin,17,normal,20,100
+205,15,Rapid Spin,17,normal,20,100
+205,16,Rapid Spin,17,normal,20,100
+205,8,Natural Gift,20,normal,-,100
+205,9,Bide,20,normal,-,-
+205,10,Bide,20,normal,-,-
+205,11,Bide,20,normal,-,-
+205,14,Bide,20,normal,-,-
+205,15,Bide,20,normal,-,-
+205,16,Bide,20,normal,-,-
+205,3,Rapid Spin,22,normal,20,100
+205,4,Rapid Spin,22,normal,20,100
+205,5,Rapid Spin,22,normal,20,100
+205,6,Rapid Spin,22,normal,20,100
+205,7,Rapid Spin,22,normal,20,100
+205,12,Rapid Spin,22,normal,20,100
+205,13,Rapid Spin,22,normal,20,100
+205,8,Spikes,23,ground,-,-
+205,9,Natural Gift,23,normal,-,100
+205,10,Natural Gift,23,normal,-,100
+205,11,Natural Gift,23,normal,-,100
+205,14,Natural Gift,23,normal,-,100
+205,15,Natural Gift,23,normal,-,100
+205,16,Natural Gift,23,normal,-,100
+205,8,Payback,28,dark,50,100
+205,9,Spikes,28,ground,-,-
+205,10,Spikes,28,ground,-,-
+205,11,Spikes,28,ground,-,-
+205,14,Spikes,28,ground,-,-
+205,15,Spikes,28,ground,-,-
+205,16,Spikes,28,ground,-,-
+205,3,Bide,29,normal,-,-
+205,4,Bide,29,normal,-,-
+205,5,Bide,29,normal,-,-
+205,6,Bide,29,normal,-,-
+205,7,Bide,29,normal,-,-
+205,12,Bide,29,normal,-,-
+205,13,Bide,29,normal,-,-
+205,7,Zap Cannon,31,electric,120,50
+205,8,Mirror Shot,31,steel,65,85
+205,9,Mirror Shot,31,steel,65,85
+205,10,Mirror Shot,31,steel,65,85
+205,11,Mirror Shot,31,steel,65,85
+205,14,Mirror Shot,31,steel,65,85
+205,15,Mirror Shot,31,steel,65,85
+205,16,Mirror Shot,31,steel,65,85
+205,11,Autotomize,32,steel,-,-
+205,14,Autotomize,32,steel,-,-
+205,15,Autotomize,32,steel,-,-
+205,16,Autotomize,32,steel,-,-
+205,8,Explosion,33,normal,250,100
+205,9,Payback,33,dark,50,100
+205,10,Payback,33,dark,50,100
+205,11,Payback,36,dark,50,100
+205,14,Payback,36,dark,50,100
+205,15,Payback,36,dark,50,100
+205,16,Payback,36,dark,50,100
+205,8,Iron Defense,38,steel,-,-
+205,9,Explosion,38,normal,250,100
+205,10,Explosion,38,normal,250,100
+205,3,Explosion,39,normal,250,100
+205,4,Explosion,39,normal,250,100
+205,5,Explosion,39,normal,250,100
+205,6,Explosion,39,normal,250,100
+205,7,Explosion,39,normal,250,100
+205,12,Explosion,39,normal,250,100
+205,13,Explosion,39,normal,250,100
+205,11,Explosion,42,normal,250,100
+205,14,Explosion,42,normal,250,100
+205,15,Explosion,42,normal,250,100
+205,16,Explosion,42,normal,250,100
+205,8,Gyro Ball,45,steel,-,100
+205,9,Iron Defense,45,steel,-,-
+205,10,Iron Defense,45,steel,-,-
+205,11,Iron Defense,46,steel,-,-
+205,14,Iron Defense,46,steel,-,-
+205,15,Iron Defense,46,steel,-,-
+205,16,Iron Defense,46,steel,-,-
+205,3,Spikes,49,ground,-,-
+205,4,Spikes,49,ground,-,-
+205,5,Spikes,49,ground,-,-
+205,6,Spikes,49,ground,-,-
+205,7,Spikes,49,ground,-,-
+205,12,Spikes,49,ground,-,-
+205,13,Spikes,49,ground,-,-
+205,8,Double-Edge,50,normal,120,100
+205,9,Gyro Ball,50,steel,-,100
+205,10,Gyro Ball,50,steel,-,100
+205,11,Gyro Ball,50,steel,-,100
+205,14,Gyro Ball,50,steel,-,100
+205,15,Gyro Ball,50,steel,-,100
+205,16,Gyro Ball,50,steel,-,100
+205,9,Double-Edge,55,normal,120,100
+205,10,Double-Edge,55,normal,120,100
+205,11,Double-Edge,56,normal,120,100
+205,14,Double-Edge,56,normal,120,100
+205,15,Double-Edge,56,normal,120,100
+205,16,Double-Edge,56,normal,120,100
+205,8,Magnet Rise,57,electric,-,-
+205,3,Double-Edge,59,normal,120,100
+205,4,Double-Edge,59,normal,120,100
+205,5,Double-Edge,59,normal,120,100
+205,6,Double-Edge,59,normal,120,100
+205,7,Double-Edge,59,normal,120,100
+205,12,Double-Edge,59,normal,120,100
+205,13,Double-Edge,59,normal,120,100
+205,11,Magnet Rise,60,electric,-,-
+205,14,Magnet Rise,60,electric,-,-
+205,15,Magnet Rise,60,electric,-,-
+205,16,Magnet Rise,60,electric,-,-
+205,8,Zap Cannon,62,electric,120,50
+205,9,Magnet Rise,62,electric,-,-
+205,10,Magnet Rise,62,electric,-,-
+205,11,Zap Cannon,64,electric,120,50
+205,14,Zap Cannon,64,electric,120,50
+205,15,Zap Cannon,64,electric,120,50
+205,16,Zap Cannon,64,electric,120,50
+205,9,Zap Cannon,67,electric,120,50
+205,10,Zap Cannon,67,electric,120,50
+205,11,Heavy Slam,70,steel,-,100
+205,14,Heavy Slam,70,steel,-,100
+205,15,Heavy Slam,70,steel,-,100
+205,16,Heavy Slam,70,steel,-,100

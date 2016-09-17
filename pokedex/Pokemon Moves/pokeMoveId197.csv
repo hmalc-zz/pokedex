@@ -1,0 +1,173 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+197,3,Tackle,1,normal,50,100
+197,3,Tail Whip,1,normal,-,100
+197,4,Tackle,1,normal,50,100
+197,4,Tail Whip,1,normal,-,100
+197,5,Tackle,1,normal,50,100
+197,5,Tail Whip,1,normal,-,100
+197,5,Helping Hand,1,normal,-,-
+197,6,Tackle,1,normal,50,100
+197,6,Tail Whip,1,normal,-,100
+197,6,Helping Hand,1,normal,-,-
+197,7,Tackle,1,normal,50,100
+197,7,Tail Whip,1,normal,-,100
+197,7,Helping Hand,1,normal,-,-
+197,8,Tackle,1,normal,50,100
+197,8,Tail Whip,1,normal,-,100
+197,8,Helping Hand,1,normal,-,-
+197,9,Tackle,1,normal,50,100
+197,9,Tail Whip,1,normal,-,100
+197,9,Helping Hand,1,normal,-,-
+197,10,Tackle,1,normal,50,100
+197,10,Tail Whip,1,normal,-,100
+197,10,Helping Hand,1,normal,-,-
+197,11,Tackle,1,normal,50,100
+197,11,Tail Whip,1,normal,-,100
+197,11,Helping Hand,1,normal,-,-
+197,12,Tackle,1,normal,50,100
+197,12,Tail Whip,1,normal,-,100
+197,12,Helping Hand,1,normal,-,-
+197,13,Tackle,1,normal,50,100
+197,13,Tail Whip,1,normal,-,100
+197,13,Helping Hand,1,normal,-,-
+197,14,Tackle,1,normal,50,100
+197,14,Tail Whip,1,normal,-,100
+197,14,Helping Hand,1,normal,-,-
+197,15,Tackle,1,normal,50,100
+197,15,Tail Whip,1,normal,-,100
+197,15,Helping Hand,1,normal,-,-
+197,16,Tackle,1,normal,50,100
+197,16,Tail Whip,1,normal,-,100
+197,16,Helping Hand,1,normal,-,-
+197,14,Sand Attack,5,ground,-,100
+197,15,Sand Attack,5,ground,-,100
+197,16,Sand Attack,5,ground,-,100
+197,3,Sand Attack,8,ground,-,100
+197,4,Sand Attack,8,ground,-,100
+197,5,Sand Attack,8,ground,-,100
+197,6,Sand Attack,8,ground,-,100
+197,7,Sand Attack,8,ground,-,100
+197,8,Sand Attack,8,ground,-,100
+197,9,Sand Attack,8,ground,-,100
+197,10,Sand Attack,8,ground,-,100
+197,11,Sand Attack,8,ground,-,100
+197,12,Sand Attack,8,ground,-,100
+197,13,Sand Attack,8,ground,-,100
+197,14,Pursuit,9,dark,40,100
+197,15,Pursuit,9,dark,40,100
+197,16,Pursuit,9,dark,40,100
+197,14,Quick Attack,13,normal,40,100
+197,15,Quick Attack,13,normal,40,100
+197,16,Quick Attack,13,normal,40,100
+197,8,Pursuit,15,dark,40,100
+197,9,Pursuit,15,dark,40,100
+197,10,Pursuit,15,dark,40,100
+197,11,Pursuit,15,dark,40,100
+197,3,Pursuit,16,dark,40,100
+197,4,Pursuit,16,dark,40,100
+197,5,Pursuit,16,dark,40,100
+197,6,Pursuit,16,dark,40,100
+197,7,Pursuit,16,dark,40,100
+197,12,Pursuit,16,dark,40,100
+197,13,Pursuit,16,dark,40,100
+197,14,Confuse Ray,17,ghost,-,100
+197,15,Confuse Ray,17,ghost,-,100
+197,16,Confuse Ray,17,ghost,-,100
+197,15,Feint Attack,20,dark,60,-
+197,16,Feint Attack,20,dark,60,-
+197,14,Feint Attack,21,dark,60,-
+197,8,Quick Attack,22,normal,40,100
+197,9,Quick Attack,22,normal,40,100
+197,10,Quick Attack,22,normal,40,100
+197,11,Quick Attack,22,normal,40,100
+197,3,Quick Attack,23,normal,40,100
+197,4,Quick Attack,23,normal,40,100
+197,5,Quick Attack,23,normal,40,100
+197,6,Quick Attack,23,normal,40,100
+197,7,Quick Attack,23,normal,40,100
+197,12,Quick Attack,23,normal,40,100
+197,13,Quick Attack,23,normal,40,100
+197,14,Assurance,25,dark,60,100
+197,15,Assurance,25,dark,60,100
+197,16,Assurance,25,dark,60,100
+197,8,Confuse Ray,29,ghost,-,100
+197,9,Confuse Ray,29,ghost,-,100
+197,10,Confuse Ray,29,ghost,-,100
+197,11,Confuse Ray,29,ghost,-,100
+197,14,Screech,29,normal,-,85
+197,15,Screech,29,normal,-,85
+197,16,Screech,29,normal,-,85
+197,3,Confuse Ray,30,ghost,-,100
+197,4,Confuse Ray,30,ghost,-,100
+197,5,Confuse Ray,30,ghost,-,100
+197,6,Confuse Ray,30,ghost,-,100
+197,7,Confuse Ray,30,ghost,-,100
+197,12,Confuse Ray,30,ghost,-,100
+197,13,Confuse Ray,30,ghost,-,100
+197,14,Moonlight,33,fairy,-,-
+197,15,Moonlight,33,fairy,-,-
+197,16,Moonlight,33,fairy,-,-
+197,3,Feint Attack,36,dark,60,-
+197,4,Feint Attack,36,dark,60,-
+197,5,Feint Attack,36,dark,60,-
+197,6,Feint Attack,36,dark,60,-
+197,7,Feint Attack,36,dark,60,-
+197,8,Feint Attack,36,dark,60,-
+197,9,Feint Attack,36,dark,60,-
+197,10,Feint Attack,36,dark,60,-
+197,11,Feint Attack,36,dark,60,-
+197,12,Feint Attack,36,dark,60,-
+197,13,Feint Attack,36,dark,60,-
+197,14,Mean Look,37,normal,-,-
+197,15,Mean Look,37,normal,-,-
+197,16,Mean Look,37,normal,-,-
+197,14,Last Resort,41,normal,140,100
+197,15,Last Resort,41,normal,140,100
+197,16,Last Resort,41,normal,140,100
+197,3,Mean Look,42,normal,-,-
+197,4,Mean Look,42,normal,-,-
+197,5,Mean Look,42,normal,-,-
+197,6,Mean Look,42,normal,-,-
+197,7,Mean Look,42,normal,-,-
+197,12,Mean Look,42,normal,-,-
+197,13,Mean Look,42,normal,-,-
+197,8,Assurance,43,dark,60,100
+197,9,Assurance,43,dark,60,100
+197,10,Assurance,43,dark,60,100
+197,11,Assurance,43,dark,60,100
+197,14,Guard Swap,45,psychic,-,-
+197,15,Guard Swap,45,psychic,-,-
+197,16,Guard Swap,45,psychic,-,-
+197,3,Screech,47,normal,-,85
+197,4,Screech,47,normal,-,85
+197,5,Screech,47,normal,-,85
+197,6,Screech,47,normal,-,85
+197,7,Screech,47,normal,-,85
+197,12,Screech,47,normal,-,85
+197,13,Screech,47,normal,-,85
+197,8,Last Resort,50,normal,140,100
+197,9,Last Resort,50,normal,140,100
+197,10,Last Resort,50,normal,140,100
+197,11,Last Resort,50,normal,140,100
+197,3,Moonlight,52,fairy,-,-
+197,4,Moonlight,52,fairy,-,-
+197,5,Moonlight,52,fairy,-,-
+197,6,Moonlight,52,fairy,-,-
+197,7,Moonlight,52,fairy,-,-
+197,12,Moonlight,52,fairy,-,-
+197,13,Moonlight,52,fairy,-,-
+197,8,Mean Look,57,normal,-,-
+197,9,Mean Look,57,normal,-,-
+197,10,Mean Look,57,normal,-,-
+197,11,Mean Look,57,normal,-,-
+197,8,Screech,64,normal,-,85
+197,9,Screech,64,normal,-,85
+197,10,Screech,64,normal,-,85
+197,11,Screech,64,normal,-,85
+197,8,Moonlight,71,fairy,-,-
+197,9,Moonlight,71,fairy,-,-
+197,10,Moonlight,71,fairy,-,-
+197,11,Moonlight,71,fairy,-,-
+197,9,Guard Swap,78,psychic,-,-
+197,10,Guard Swap,78,psychic,-,-
+197,11,Guard Swap,78,psychic,-,-

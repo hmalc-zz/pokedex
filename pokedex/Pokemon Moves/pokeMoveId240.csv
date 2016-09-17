@@ -1,0 +1,155 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+240,3,Ember,1,fire,40,100
+240,4,Ember,1,fire,40,100
+240,5,Ember,1,fire,40,100
+240,6,Ember,1,fire,40,100
+240,7,Ember,1,fire,40,100
+240,8,Leer,1,normal,-,100
+240,8,Smog,1,poison,30,70
+240,9,Leer,1,normal,-,100
+240,9,Smog,1,poison,30,70
+240,10,Leer,1,normal,-,100
+240,10,Smog,1,poison,30,70
+240,11,Leer,1,normal,-,100
+240,11,Smog,1,poison,30,70
+240,12,Ember,1,fire,40,100
+240,13,Ember,1,fire,40,100
+240,14,Leer,1,normal,-,100
+240,14,Smog,1,poison,30,70
+240,15,Leer,1,normal,-,100
+240,15,Smog,1,poison,30,70
+240,16,Leer,1,normal,-,100
+240,16,Smog,1,poison,30,70
+240,14,Ember,5,fire,40,100
+240,15,Ember,5,fire,40,100
+240,16,Ember,5,fire,40,100
+240,3,Leer,7,normal,-,100
+240,4,Leer,7,normal,-,100
+240,5,Leer,7,normal,-,100
+240,6,Leer,7,normal,-,100
+240,7,Leer,7,normal,-,100
+240,8,Ember,7,fire,40,100
+240,9,Ember,7,fire,40,100
+240,10,Ember,7,fire,40,100
+240,11,Ember,7,fire,40,100
+240,12,Leer,7,normal,-,100
+240,13,Leer,7,normal,-,100
+240,14,Smokescreen,8,normal,-,100
+240,15,Smokescreen,8,normal,-,100
+240,16,Smokescreen,8,normal,-,100
+240,8,Smokescreen,10,normal,-,100
+240,9,Smokescreen,10,normal,-,100
+240,10,Smokescreen,10,normal,-,100
+240,11,Smokescreen,10,normal,-,100
+240,14,Feint Attack,12,dark,60,-
+240,15,Feint Attack,12,dark,60,-
+240,16,Feint Attack,12,dark,60,-
+240,3,Smog,13,poison,30,70
+240,4,Smog,13,poison,30,70
+240,5,Smog,13,poison,30,70
+240,6,Smog,13,poison,30,70
+240,7,Smog,13,poison,30,70
+240,12,Smog,13,poison,30,70
+240,13,Smog,13,poison,30,70
+240,14,Fire Spin,15,fire,35,85
+240,15,Fire Spin,15,fire,35,85
+240,16,Fire Spin,15,fire,35,85
+240,8,Feint Attack,16,dark,60,-
+240,9,Feint Attack,16,dark,60,-
+240,10,Feint Attack,16,dark,60,-
+240,11,Feint Attack,16,dark,60,-
+240,3,Fire Punch,19,fire,75,100
+240,4,Fire Punch,19,fire,75,100
+240,5,Fire Punch,19,fire,75,100
+240,6,Fire Punch,19,fire,75,100
+240,7,Fire Punch,19,fire,75,100
+240,8,Fire Spin,19,fire,35,85
+240,9,Fire Spin,19,fire,35,85
+240,10,Fire Spin,19,fire,35,85
+240,11,Fire Spin,19,fire,35,85
+240,12,Fire Punch,19,fire,75,100
+240,13,Fire Punch,19,fire,75,100
+240,14,Clear Smog,19,poison,50,-
+240,15,Clear Smog,19,poison,50,-
+240,16,Clear Smog,19,poison,50,-
+240,14,Flame Burst,22,fire,70,100
+240,15,Flame Burst,22,fire,70,100
+240,16,Flame Burst,22,fire,70,100
+240,3,Smokescreen,25,normal,-,100
+240,4,Smokescreen,25,normal,-,100
+240,5,Smokescreen,25,normal,-,100
+240,6,Smokescreen,25,normal,-,100
+240,7,Smokescreen,25,normal,-,100
+240,8,Confuse Ray,25,ghost,-,100
+240,9,Confuse Ray,25,ghost,-,100
+240,10,Confuse Ray,25,ghost,-,100
+240,11,Confuse Ray,25,ghost,-,100
+240,12,Smokescreen,25,normal,-,100
+240,13,Smokescreen,25,normal,-,100
+240,14,Confuse Ray,26,ghost,-,100
+240,15,Confuse Ray,26,ghost,-,100
+240,16,Confuse Ray,26,ghost,-,100
+240,8,Fire Punch,28,fire,75,100
+240,9,Fire Punch,28,fire,75,100
+240,10,Fire Punch,28,fire,75,100
+240,11,Flame Burst,28,fire,70,100
+240,14,Fire Punch,29,fire,75,100
+240,15,Fire Punch,29,fire,75,100
+240,16,Fire Punch,29,fire,75,100
+240,3,Sunny Day,31,fire,-,-
+240,4,Sunny Day,31,fire,-,-
+240,5,Sunny Day,31,fire,-,-
+240,6,Sunny Day,31,fire,-,-
+240,7,Sunny Day,31,fire,-,-
+240,12,Sunny Day,31,fire,-,-
+240,13,Sunny Day,31,fire,-,-
+240,14,Lava Plume,33,fire,80,100
+240,15,Lava Plume,33,fire,80,100
+240,16,Lava Plume,33,fire,80,100
+240,8,Lava Plume,34,fire,80,100
+240,9,Lava Plume,34,fire,80,100
+240,10,Lava Plume,34,fire,80,100
+240,11,Fire Punch,34,fire,75,100
+240,14,Sunny Day,36,fire,-,-
+240,15,Sunny Day,36,fire,-,-
+240,16,Sunny Day,36,fire,-,-
+240,3,Flamethrower,37,fire,90,100
+240,4,Flamethrower,37,fire,90,100
+240,5,Flamethrower,37,fire,90,100
+240,6,Flamethrower,37,fire,90,100
+240,7,Flamethrower,37,fire,90,100
+240,8,Flamethrower,37,fire,90,100
+240,9,Flamethrower,37,fire,90,100
+240,10,Flamethrower,37,fire,90,100
+240,11,Lava Plume,37,fire,80,100
+240,12,Flamethrower,37,fire,90,100
+240,13,Flamethrower,37,fire,90,100
+240,14,Flamethrower,40,fire,90,100
+240,15,Flamethrower,40,fire,90,100
+240,16,Flamethrower,40,fire,90,100
+240,3,Confuse Ray,43,ghost,-,100
+240,4,Confuse Ray,43,ghost,-,100
+240,5,Confuse Ray,43,ghost,-,100
+240,6,Confuse Ray,43,ghost,-,100
+240,7,Confuse Ray,43,ghost,-,100
+240,8,Sunny Day,43,fire,-,-
+240,9,Sunny Day,43,fire,-,-
+240,10,Sunny Day,43,fire,-,-
+240,11,Flamethrower,43,fire,90,100
+240,12,Confuse Ray,43,ghost,-,100
+240,13,Confuse Ray,43,ghost,-,100
+240,14,Fire Blast,43,fire,110,85
+240,15,Fire Blast,43,fire,110,85
+240,16,Fire Blast,43,fire,110,85
+240,8,Fire Blast,46,fire,110,85
+240,9,Fire Blast,46,fire,110,85
+240,10,Fire Blast,46,fire,110,85
+240,11,Sunny Day,46,fire,-,-
+240,3,Fire Blast,49,fire,110,85
+240,4,Fire Blast,49,fire,110,85
+240,5,Fire Blast,49,fire,110,85
+240,6,Fire Blast,49,fire,110,85
+240,7,Fire Blast,49,fire,110,85
+240,11,Fire Blast,49,fire,110,85
+240,12,Fire Blast,49,fire,110,85
+240,13,Fire Blast,49,fire,110,85

@@ -1,0 +1,67 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+509,11,Scratch,1,normal,40,100
+509,14,Scratch,1,normal,40,100
+509,15,Scratch,1,normal,40,100
+509,16,Scratch,1,normal,40,100
+509,11,Growl,3,normal,-,100
+509,14,Growl,3,normal,-,100
+509,15,Growl,3,normal,-,100
+509,16,Growl,3,normal,-,100
+509,11,Assist,6,normal,-,-
+509,14,Assist,6,normal,-,-
+509,15,Assist,6,normal,-,-
+509,16,Assist,6,normal,-,-
+509,11,Sand Attack,10,ground,-,100
+509,14,Sand Attack,10,ground,-,100
+509,15,Sand Attack,10,ground,-,100
+509,16,Sand Attack,10,ground,-,100
+509,11,Fury Swipes,12,normal,18,80
+509,14,Fury Swipes,12,normal,18,80
+509,15,Fury Swipes,12,normal,18,80
+509,16,Fury Swipes,12,normal,18,80
+509,11,Pursuit,15,dark,40,100
+509,14,Pursuit,15,dark,40,100
+509,15,Pursuit,15,dark,40,100
+509,16,Pursuit,15,dark,40,100
+509,11,Torment,19,dark,-,100
+509,14,Torment,19,dark,-,100
+509,15,Torment,19,dark,-,100
+509,16,Torment,19,dark,-,100
+509,11,Fake Out,21,normal,40,100
+509,14,Fake Out,21,normal,40,100
+509,15,Fake Out,21,normal,40,100
+509,16,Fake Out,21,normal,40,100
+509,11,Hone Claws,24,dark,-,-
+509,14,Hone Claws,24,dark,-,-
+509,15,Hone Claws,24,dark,-,-
+509,16,Hone Claws,24,dark,-,-
+509,11,Assurance,28,dark,60,100
+509,14,Assurance,28,dark,60,100
+509,15,Assurance,28,dark,60,100
+509,16,Assurance,28,dark,60,100
+509,11,Slash,30,normal,70,100
+509,14,Slash,30,normal,70,100
+509,15,Slash,30,normal,70,100
+509,16,Slash,30,normal,70,100
+509,11,Captivate,33,normal,-,100
+509,14,Captivate,33,normal,-,100
+509,15,Captivate,33,normal,-,100
+509,16,Captivate,33,normal,-,100
+509,11,Night Slash,37,dark,70,100
+509,14,Night Slash,37,dark,70,100
+509,15,Night Slash,37,dark,70,100
+509,16,Night Slash,37,dark,70,100
+509,11,Snatch,39,dark,-,-
+509,14,Snatch,39,dark,-,-
+509,15,Snatch,39,dark,-,-
+509,16,Snatch,39,dark,-,-
+509,11,Nasty Plot,42,dark,-,-
+509,14,Nasty Plot,42,dark,-,-
+509,15,Nasty Plot,42,dark,-,-
+509,16,Nasty Plot,42,dark,-,-
+509,11,Sucker Punch,46,dark,80,100
+509,14,Sucker Punch,46,dark,80,100
+509,15,Sucker Punch,46,dark,80,100
+509,16,Sucker Punch,46,dark,80,100
+509,15,Play Rough,49,fairy,90,90
+509,16,Play Rough,49,fairy,90,90

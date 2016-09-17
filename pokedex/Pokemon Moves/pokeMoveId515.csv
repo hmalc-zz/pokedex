@@ -1,0 +1,63 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+515,11,Scratch,1,normal,40,100
+515,14,Scratch,1,normal,40,100
+515,15,Scratch,1,normal,40,100
+515,15,Play Nice,1,normal,-,-
+515,16,Scratch,1,normal,40,100
+515,16,Play Nice,1,normal,-,-
+515,11,Leer,4,normal,-,100
+515,14,Leer,4,normal,-,100
+515,15,Leer,4,normal,-,100
+515,16,Leer,4,normal,-,100
+515,11,Lick,7,ghost,30,100
+515,14,Lick,7,ghost,30,100
+515,15,Lick,7,ghost,30,100
+515,16,Lick,7,ghost,30,100
+515,11,Water Gun,10,water,40,100
+515,14,Water Gun,10,water,40,100
+515,15,Water Gun,10,water,40,100
+515,16,Water Gun,10,water,40,100
+515,11,Fury Swipes,13,normal,18,80
+515,14,Fury Swipes,13,normal,18,80
+515,15,Fury Swipes,13,normal,18,80
+515,16,Fury Swipes,13,normal,18,80
+515,11,Water Sport,16,water,-,-
+515,14,Water Sport,16,water,-,-
+515,15,Water Sport,16,water,-,-
+515,16,Water Sport,16,water,-,-
+515,11,Bite,19,dark,60,100
+515,14,Bite,19,dark,60,100
+515,15,Bite,19,dark,60,100
+515,16,Bite,19,dark,60,100
+515,11,Scald,22,water,80,100
+515,14,Scald,22,water,80,100
+515,15,Scald,22,water,80,100
+515,16,Scald,22,water,80,100
+515,11,Taunt,25,dark,-,100
+515,14,Taunt,25,dark,-,100
+515,15,Taunt,25,dark,-,100
+515,16,Taunt,25,dark,-,100
+515,11,Fling,28,dark,-,100
+515,14,Fling,28,dark,-,100
+515,15,Fling,28,dark,-,100
+515,16,Fling,28,dark,-,100
+515,11,Acrobatics,31,flying,55,100
+515,14,Acrobatics,31,flying,55,100
+515,15,Acrobatics,31,flying,55,100
+515,16,Acrobatics,31,flying,55,100
+515,11,Brine,34,water,65,100
+515,14,Brine,34,water,65,100
+515,15,Brine,34,water,65,100
+515,16,Brine,34,water,65,100
+515,11,Recycle,37,normal,-,-
+515,14,Recycle,37,normal,-,-
+515,15,Recycle,37,normal,-,-
+515,16,Recycle,37,normal,-,-
+515,11,Natural Gift,40,normal,-,100
+515,14,Natural Gift,40,normal,-,100
+515,15,Natural Gift,40,normal,-,100
+515,16,Natural Gift,40,normal,-,100
+515,11,Crunch,43,dark,80,100
+515,14,Crunch,43,dark,80,100
+515,15,Crunch,43,dark,80,100
+515,16,Crunch,43,dark,80,100

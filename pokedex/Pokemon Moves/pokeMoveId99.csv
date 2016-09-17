@@ -1,0 +1,215 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+99,1,Vice Grip,1,normal,55,100
+99,1,Leer,1,normal,-,100
+99,1,Bubble,1,water,40,100
+99,2,Vice Grip,1,normal,55,100
+99,2,Leer,1,normal,-,100
+99,2,Bubble,1,water,40,100
+99,3,Vice Grip,1,normal,55,100
+99,3,Leer,1,normal,-,100
+99,3,Bubble,1,water,40,100
+99,4,Vice Grip,1,normal,55,100
+99,4,Leer,1,normal,-,100
+99,4,Bubble,1,water,40,100
+99,5,Vice Grip,1,normal,55,100
+99,5,Leer,1,normal,-,100
+99,5,Bubble,1,water,40,100
+99,6,Vice Grip,1,normal,55,100
+99,6,Leer,1,normal,-,100
+99,6,Bubble,1,water,40,100
+99,7,Vice Grip,1,normal,55,100
+99,7,Leer,1,normal,-,100
+99,7,Harden,1,normal,-,-
+99,7,Bubble,1,water,40,100
+99,7,Metal Claw,1,steel,50,95
+99,8,Vice Grip,1,normal,55,100
+99,8,Bubble,1,water,40,100
+99,8,Mud Sport,1,ground,-,-
+99,9,Vice Grip,1,normal,55,100
+99,9,Bubble,1,water,40,100
+99,9,Mud Sport,1,ground,-,-
+99,10,Vice Grip,1,normal,55,100
+99,10,Bubble,1,water,40,100
+99,10,Mud Sport,1,ground,-,-
+99,11,Vice Grip,1,normal,55,100
+99,11,Leer,1,normal,-,100
+99,11,Bubble,1,water,40,100
+99,11,Mud Sport,1,ground,-,-
+99,11,Wide Guard,1,rock,-,-
+99,12,Vice Grip,1,normal,55,100
+99,12,Leer,1,normal,-,100
+99,12,Bubble,1,water,40,100
+99,13,Vice Grip,1,normal,55,100
+99,13,Leer,1,normal,-,100
+99,13,Bubble,1,water,40,100
+99,14,Vice Grip,1,normal,55,100
+99,14,Leer,1,normal,-,100
+99,14,Bubble,1,water,40,100
+99,14,Mud Sport,1,ground,-,-
+99,14,Wide Guard,1,rock,-,-
+99,15,Vice Grip,1,normal,55,100
+99,15,Leer,1,normal,-,100
+99,15,Bubble,1,water,40,100
+99,15,Mud Sport,1,ground,-,-
+99,15,Wide Guard,1,rock,-,-
+99,16,Vice Grip,1,normal,55,100
+99,16,Leer,1,normal,-,100
+99,16,Bubble,1,water,40,100
+99,16,Mud Sport,1,ground,-,-
+99,16,Wide Guard,1,rock,-,-
+99,3,Leer,5,normal,-,100
+99,4,Leer,5,normal,-,100
+99,5,Leer,5,normal,-,100
+99,6,Leer,5,normal,-,100
+99,7,Leer,5,normal,-,100
+99,8,Vice Grip,5,normal,55,100
+99,9,Vice Grip,5,normal,55,100
+99,10,Vice Grip,5,normal,55,100
+99,11,Vice Grip,5,normal,55,100
+99,12,Leer,5,normal,-,100
+99,13,Leer,5,normal,-,100
+99,14,Vice Grip,5,normal,55,100
+99,15,Vice Grip,5,normal,55,100
+99,16,Vice Grip,5,normal,55,100
+99,8,Leer,9,normal,-,100
+99,9,Leer,9,normal,-,100
+99,10,Leer,9,normal,-,100
+99,11,Leer,9,normal,-,100
+99,14,Leer,9,normal,-,100
+99,15,Leer,9,normal,-,100
+99,16,Leer,9,normal,-,100
+99,8,Harden,11,normal,-,-
+99,9,Harden,11,normal,-,-
+99,10,Harden,11,normal,-,-
+99,11,Harden,11,normal,-,-
+99,14,Harden,11,normal,-,-
+99,15,Harden,11,normal,-,-
+99,16,Harden,11,normal,-,-
+99,3,Vice Grip,12,normal,55,100
+99,4,Vice Grip,12,normal,55,100
+99,5,Vice Grip,12,normal,55,100
+99,6,Vice Grip,12,normal,55,100
+99,7,Vice Grip,12,normal,55,100
+99,12,Vice Grip,12,normal,55,100
+99,13,Vice Grip,12,normal,55,100
+99,8,Bubble Beam,15,water,65,100
+99,9,Bubble Beam,15,water,65,100
+99,10,Bubble Beam,15,water,65,100
+99,11,Bubble Beam,15,water,65,100
+99,14,Bubble Beam,15,water,65,100
+99,15,Bubble Beam,15,water,65,100
+99,16,Bubble Beam,15,water,65,100
+99,3,Harden,16,normal,-,-
+99,4,Harden,16,normal,-,-
+99,5,Harden,16,normal,-,-
+99,6,Harden,16,normal,-,-
+99,7,Harden,16,normal,-,-
+99,12,Harden,16,normal,-,-
+99,13,Harden,16,normal,-,-
+99,8,Mud Shot,19,ground,55,95
+99,9,Mud Shot,19,ground,55,95
+99,10,Mud Shot,19,ground,55,95
+99,11,Mud Shot,19,ground,55,95
+99,14,Mud Shot,19,ground,55,95
+99,15,Mud Shot,19,ground,55,95
+99,16,Mud Shot,19,ground,55,95
+99,1,Vice Grip,20,normal,55,100
+99,2,Vice Grip,20,normal,55,100
+99,8,Metal Claw,21,steel,50,95
+99,9,Metal Claw,21,steel,50,95
+99,10,Metal Claw,21,steel,50,95
+99,11,Metal Claw,21,steel,50,95
+99,14,Metal Claw,21,steel,50,95
+99,15,Metal Claw,21,steel,50,95
+99,16,Metal Claw,21,steel,50,95
+99,3,Stomp,23,normal,65,100
+99,4,Stomp,23,normal,65,100
+99,5,Mud Shot,23,ground,55,95
+99,6,Mud Shot,23,ground,55,95
+99,7,Mud Shot,23,ground,55,95
+99,12,Mud Shot,23,ground,55,95
+99,13,Mud Shot,23,ground,55,95
+99,1,Guillotine,25,normal,-,30
+99,2,Guillotine,25,normal,-,30
+99,8,Stomp,25,normal,65,100
+99,9,Stomp,25,normal,65,100
+99,10,Stomp,25,normal,65,100
+99,11,Stomp,25,normal,65,100
+99,14,Stomp,25,normal,65,100
+99,15,Stomp,25,normal,65,100
+99,16,Stomp,25,normal,65,100
+99,3,Guillotine,27,normal,-,30
+99,4,Guillotine,27,normal,-,30
+99,5,Stomp,27,normal,65,100
+99,6,Stomp,27,normal,65,100
+99,7,Stomp,27,normal,65,100
+99,12,Stomp,27,normal,65,100
+99,13,Stomp,27,normal,65,100
+99,8,Protect,32,normal,-,-
+99,9,Protect,32,normal,-,-
+99,10,Protect,32,normal,-,-
+99,11,Protect,32,normal,-,-
+99,14,Protect,32,normal,-,-
+99,15,Protect,32,normal,-,-
+99,16,Protect,32,normal,-,-
+99,1,Stomp,34,normal,65,100
+99,2,Stomp,34,normal,65,100
+99,8,Guillotine,37,normal,-,30
+99,9,Guillotine,37,normal,-,30
+99,10,Guillotine,37,normal,-,30
+99,11,Guillotine,37,normal,-,30
+99,14,Guillotine,37,normal,-,30
+99,15,Guillotine,37,normal,-,30
+99,16,Guillotine,37,normal,-,30
+99,3,Protect,38,normal,-,-
+99,4,Protect,38,normal,-,-
+99,5,Guillotine,38,normal,-,30
+99,6,Guillotine,38,normal,-,30
+99,7,Guillotine,38,normal,-,30
+99,12,Guillotine,38,normal,-,30
+99,13,Guillotine,38,normal,-,30
+99,1,Crabhammer,42,water,100,90
+99,2,Crabhammer,42,water,100,90
+99,7,Protect,42,normal,-,-
+99,8,Slam,44,normal,80,75
+99,9,Slam,44,normal,80,75
+99,10,Slam,44,normal,80,75
+99,11,Slam,44,normal,80,75
+99,14,Slam,44,normal,80,75
+99,15,Slam,44,normal,80,75
+99,16,Slam,44,normal,80,75
+99,1,Harden,49,normal,-,-
+99,2,Harden,49,normal,-,-
+99,3,Crabhammer,49,water,100,90
+99,4,Crabhammer,49,water,100,90
+99,5,Protect,49,normal,-,-
+99,6,Protect,49,normal,-,-
+99,12,Protect,49,normal,-,-
+99,13,Protect,49,normal,-,-
+99,8,Brine,51,water,65,100
+99,9,Brine,51,water,65,100
+99,10,Brine,51,water,65,100
+99,11,Brine,51,water,65,100
+99,14,Brine,51,water,65,100
+99,15,Brine,51,water,65,100
+99,16,Brine,51,water,65,100
+99,8,Crabhammer,56,water,100,90
+99,9,Crabhammer,56,water,100,90
+99,10,Crabhammer,56,water,100,90
+99,11,Crabhammer,56,water,100,90
+99,14,Crabhammer,56,water,100,90
+99,15,Crabhammer,56,water,100,90
+99,16,Crabhammer,56,water,100,90
+99,5,Crabhammer,57,water,100,90
+99,6,Crabhammer,57,water,100,90
+99,7,Crabhammer,57,water,100,90
+99,12,Crabhammer,57,water,100,90
+99,13,Crabhammer,57,water,100,90
+99,8,Flail,63,normal,-,100
+99,9,Flail,63,normal,-,100
+99,10,Flail,63,normal,-,100
+99,11,Flail,63,normal,-,100
+99,14,Flail,63,normal,-,100
+99,15,Flail,63,normal,-,100
+99,16,Flail,63,normal,-,100
+99,7,Flail,65,normal,-,100

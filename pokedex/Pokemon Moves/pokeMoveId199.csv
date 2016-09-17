@@ -1,0 +1,194 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+199,3,Tackle,1,normal,50,100
+199,3,Curse,1,ghost,-,-
+199,4,Tackle,1,normal,50,100
+199,4,Curse,1,ghost,-,-
+199,5,Tackle,1,normal,50,100
+199,5,Curse,1,ghost,-,-
+199,5,Yawn,1,normal,-,-
+199,6,Tackle,1,normal,50,100
+199,6,Curse,1,ghost,-,-
+199,6,Yawn,1,normal,-,-
+199,7,Tackle,1,normal,50,100
+199,7,Curse,1,ghost,-,-
+199,7,Yawn,1,normal,-,-
+199,8,Tackle,1,normal,50,100
+199,8,Curse,1,ghost,-,-
+199,8,Hidden Power,1,normal,60,100
+199,8,Yawn,1,normal,-,-
+199,9,Tackle,1,normal,50,100
+199,9,Curse,1,ghost,-,-
+199,9,Hidden Power,1,normal,60,100
+199,9,Yawn,1,normal,-,-
+199,9,Power Gem,1,rock,80,100
+199,10,Tackle,1,normal,50,100
+199,10,Curse,1,ghost,-,-
+199,10,Hidden Power,1,normal,60,100
+199,10,Yawn,1,normal,-,-
+199,10,Power Gem,1,rock,80,100
+199,11,Tackle,1,normal,50,100
+199,11,Curse,1,ghost,-,-
+199,11,Hidden Power,1,normal,60,100
+199,11,Yawn,1,normal,-,-
+199,11,Power Gem,1,rock,80,100
+199,12,Tackle,1,normal,50,100
+199,12,Curse,1,ghost,-,-
+199,12,Yawn,1,normal,-,-
+199,13,Tackle,1,normal,50,100
+199,13,Curse,1,ghost,-,-
+199,13,Yawn,1,normal,-,-
+199,14,Tackle,1,normal,50,100
+199,14,Curse,1,ghost,-,-
+199,14,Hidden Power,1,normal,60,100
+199,14,Yawn,1,normal,-,-
+199,14,Power Gem,1,rock,80,100
+199,15,Tackle,1,normal,50,100
+199,15,Curse,1,ghost,-,-
+199,15,Hidden Power,1,normal,60,100
+199,15,Yawn,1,normal,-,-
+199,15,Power Gem,1,rock,80,100
+199,15,Heal Pulse,1,psychic,-,-
+199,16,Tackle,1,normal,50,100
+199,16,Curse,1,ghost,-,-
+199,16,Hidden Power,1,normal,60,100
+199,16,Yawn,1,normal,-,-
+199,16,Power Gem,1,rock,80,100
+199,16,Heal Pulse,1,psychic,-,-
+199,11,Growl,5,normal,-,100
+199,14,Growl,5,normal,-,100
+199,15,Growl,5,normal,-,100
+199,16,Growl,5,normal,-,100
+199,3,Growl,6,normal,-,100
+199,4,Growl,6,normal,-,100
+199,5,Growl,6,normal,-,100
+199,6,Growl,6,normal,-,100
+199,7,Growl,6,normal,-,100
+199,8,Growl,6,normal,-,100
+199,9,Growl,6,normal,-,100
+199,10,Growl,6,normal,-,100
+199,12,Growl,6,normal,-,100
+199,13,Growl,6,normal,-,100
+199,11,Water Gun,9,water,40,100
+199,14,Water Gun,9,water,40,100
+199,15,Water Gun,9,water,40,100
+199,16,Water Gun,9,water,40,100
+199,8,Water Gun,11,water,40,100
+199,9,Water Gun,11,water,40,100
+199,10,Water Gun,11,water,40,100
+199,7,Water Gun,13,water,40,100
+199,11,Confusion,14,psychic,50,100
+199,14,Confusion,14,psychic,50,100
+199,15,Confusion,14,psychic,50,100
+199,16,Confusion,14,psychic,50,100
+199,3,Water Gun,15,water,40,100
+199,4,Water Gun,15,water,40,100
+199,5,Water Gun,15,water,40,100
+199,6,Water Gun,15,water,40,100
+199,8,Confusion,15,psychic,50,100
+199,9,Confusion,15,psychic,50,100
+199,10,Confusion,15,psychic,50,100
+199,12,Water Gun,15,water,40,100
+199,13,Water Gun,15,water,40,100
+199,7,Confusion,17,psychic,50,100
+199,11,Disable,19,normal,-,100
+199,14,Disable,19,normal,-,100
+199,15,Disable,19,normal,-,100
+199,16,Disable,19,normal,-,100
+199,3,Confusion,20,psychic,50,100
+199,4,Confusion,20,psychic,50,100
+199,5,Confusion,20,psychic,50,100
+199,6,Confusion,20,psychic,50,100
+199,8,Disable,20,normal,-,100
+199,9,Disable,20,normal,-,100
+199,10,Disable,20,normal,-,100
+199,12,Confusion,20,psychic,50,100
+199,13,Confusion,20,psychic,50,100
+199,11,Headbutt,23,normal,70,100
+199,14,Headbutt,23,normal,70,100
+199,15,Headbutt,23,normal,70,100
+199,16,Headbutt,23,normal,70,100
+199,7,Disable,24,normal,-,100
+199,8,Headbutt,25,normal,70,100
+199,9,Headbutt,25,normal,70,100
+199,10,Headbutt,25,normal,70,100
+199,11,Water Pulse,28,water,60,100
+199,14,Water Pulse,28,water,60,100
+199,15,Water Pulse,28,water,60,100
+199,16,Water Pulse,28,water,60,100
+199,3,Disable,29,normal,-,100
+199,4,Disable,29,normal,-,100
+199,5,Disable,29,normal,-,100
+199,6,Disable,29,normal,-,100
+199,7,Headbutt,29,normal,70,100
+199,8,Water Pulse,29,water,60,100
+199,9,Water Pulse,29,water,60,100
+199,10,Water Pulse,29,water,60,100
+199,12,Disable,29,normal,-,100
+199,13,Disable,29,normal,-,100
+199,11,Zen Headbutt,32,psychic,80,90
+199,14,Zen Headbutt,32,psychic,80,90
+199,15,Zen Headbutt,32,psychic,80,90
+199,16,Zen Headbutt,32,psychic,80,90
+199,3,Headbutt,34,normal,70,100
+199,4,Headbutt,34,normal,70,100
+199,5,Headbutt,34,normal,70,100
+199,6,Headbutt,34,normal,70,100
+199,8,Zen Headbutt,34,psychic,80,90
+199,9,Zen Headbutt,34,psychic,80,90
+199,10,Zen Headbutt,34,psychic,80,90
+199,12,Headbutt,34,normal,70,100
+199,13,Headbutt,34,normal,70,100
+199,7,Swagger,36,normal,-,90
+199,11,Nasty Plot,36,dark,-,-
+199,14,Nasty Plot,36,dark,-,-
+199,15,Nasty Plot,36,dark,-,-
+199,16,Nasty Plot,36,dark,-,-
+199,8,Nasty Plot,39,dark,-,-
+199,9,Nasty Plot,39,dark,-,-
+199,10,Nasty Plot,39,dark,-,-
+199,7,Psychic,40,psychic,90,100
+199,11,Swagger,41,normal,-,90
+199,14,Swagger,41,normal,-,90
+199,15,Swagger,41,normal,-,90
+199,16,Swagger,41,normal,-,90
+199,3,Swagger,43,normal,-,90
+199,4,Swagger,43,normal,-,90
+199,5,Swagger,43,normal,-,90
+199,6,Swagger,43,normal,-,90
+199,8,Swagger,43,normal,-,90
+199,9,Swagger,43,normal,-,90
+199,10,Swagger,43,normal,-,90
+199,12,Swagger,43,normal,-,90
+199,13,Swagger,43,normal,-,90
+199,11,Psychic,45,psychic,90,100
+199,14,Psychic,45,psychic,90,100
+199,15,Psychic,45,psychic,90,100
+199,16,Psychic,45,psychic,90,100
+199,7,Psych Up,47,normal,-,-
+199,3,Psychic,48,psychic,90,100
+199,4,Psychic,48,psychic,90,100
+199,5,Psychic,48,psychic,90,100
+199,6,Psychic,48,psychic,90,100
+199,8,Psychic,48,psychic,90,100
+199,9,Psychic,48,psychic,90,100
+199,10,Psychic,48,psychic,90,100
+199,12,Psychic,48,psychic,90,100
+199,13,Psychic,48,psychic,90,100
+199,11,Trump Card,49,normal,-,-
+199,14,Trump Card,49,normal,-,-
+199,15,Trump Card,49,normal,-,-
+199,16,Trump Card,49,normal,-,-
+199,8,Trump Card,53,normal,-,-
+199,9,Trump Card,53,normal,-,-
+199,10,Trump Card,53,normal,-,-
+199,11,Psych Up,54,normal,-,-
+199,14,Psych Up,54,normal,-,-
+199,15,Psych Up,54,normal,-,-
+199,16,Psych Up,54,normal,-,-
+199,8,Psych Up,57,normal,-,-
+199,9,Psych Up,57,normal,-,-
+199,10,Psych Up,57,normal,-,-
+199,11,Heal Pulse,58,psychic,-,-
+199,14,Heal Pulse,58,psychic,-,-
+199,15,Heal Pulse,58,psychic,-,-
+199,16,Heal Pulse,58,psychic,-,-

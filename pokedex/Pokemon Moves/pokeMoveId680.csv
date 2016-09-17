@@ -1,0 +1,31 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+680,15,Swords Dance,1,normal,-,-
+680,15,Tackle,1,normal,50,100
+680,16,Swords Dance,1,normal,-,-
+680,16,Tackle,1,normal,50,100
+680,15,Fury Cutter,5,bug,40,95
+680,16,Fury Cutter,5,bug,40,95
+680,15,Metal Sound,8,steel,-,85
+680,16,Metal Sound,8,steel,-,85
+680,15,Pursuit,13,dark,40,100
+680,16,Pursuit,13,dark,40,100
+680,15,Autotomize,18,steel,-,-
+680,16,Autotomize,18,steel,-,-
+680,15,Shadow Sneak,20,ghost,40,100
+680,16,Shadow Sneak,20,ghost,40,100
+680,15,Aerial Ace,22,flying,60,-
+680,16,Aerial Ace,22,flying,60,-
+680,15,Retaliate,26,normal,70,100
+680,16,Retaliate,26,normal,70,100
+680,15,Slash,29,normal,70,100
+680,16,Slash,29,normal,70,100
+680,15,Iron Defense,32,steel,-,-
+680,16,Iron Defense,32,steel,-,-
+680,15,Night Slash,36,dark,70,100
+680,16,Night Slash,36,dark,70,100
+680,15,Power Trick,41,psychic,-,-
+680,16,Power Trick,41,psychic,-,-
+680,15,Iron Head,45,steel,80,100
+680,16,Iron Head,45,steel,80,100
+680,15,Sacred Sword,51,fighting,90,100
+680,16,Sacred Sword,51,fighting,90,100

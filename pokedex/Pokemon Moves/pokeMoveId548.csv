@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+548,11,Absorb,1,grass,20,100
+548,14,Absorb,1,grass,20,100
+548,15,Absorb,1,grass,20,100
+548,16,Absorb,1,grass,20,100
+548,11,Growth,4,normal,-,-
+548,14,Growth,4,normal,-,-
+548,15,Growth,4,normal,-,-
+548,16,Growth,4,normal,-,-
+548,11,Leech Seed,8,grass,-,90
+548,14,Leech Seed,8,grass,-,90
+548,15,Leech Seed,8,grass,-,90
+548,16,Leech Seed,8,grass,-,90
+548,11,Sleep Powder,10,grass,-,75
+548,14,Sleep Powder,10,grass,-,75
+548,15,Sleep Powder,10,grass,-,75
+548,16,Sleep Powder,10,grass,-,75
+548,11,Mega Drain,13,grass,40,100
+548,14,Mega Drain,13,grass,40,100
+548,15,Mega Drain,13,grass,40,100
+548,16,Mega Drain,13,grass,40,100
+548,11,Synthesis,17,grass,-,-
+548,14,Synthesis,17,grass,-,-
+548,15,Synthesis,17,grass,-,-
+548,16,Synthesis,17,grass,-,-
+548,11,Magical Leaf,19,grass,60,-
+548,14,Magical Leaf,19,grass,60,-
+548,15,Magical Leaf,19,grass,60,-
+548,16,Magical Leaf,19,grass,60,-
+548,11,Stun Spore,22,grass,-,75
+548,14,Stun Spore,22,grass,-,75
+548,15,Stun Spore,22,grass,-,75
+548,16,Stun Spore,22,grass,-,75
+548,11,Giga Drain,26,grass,75,100
+548,14,Giga Drain,26,grass,75,100
+548,15,Giga Drain,26,grass,75,100
+548,16,Giga Drain,26,grass,75,100
+548,11,Aromatherapy,28,grass,-,-
+548,14,Aromatherapy,28,grass,-,-
+548,15,Aromatherapy,28,grass,-,-
+548,16,Aromatherapy,28,grass,-,-
+548,11,Helping Hand,31,normal,-,-
+548,14,Helping Hand,31,normal,-,-
+548,15,Helping Hand,31,normal,-,-
+548,16,Helping Hand,31,normal,-,-
+548,11,Energy Ball,35,grass,90,100
+548,14,Energy Ball,35,grass,90,100
+548,15,Energy Ball,35,grass,90,100
+548,16,Energy Ball,35,grass,90,100
+548,11,Entrainment,37,normal,-,100
+548,14,Entrainment,37,normal,-,100
+548,15,Entrainment,37,normal,-,100
+548,16,Entrainment,37,normal,-,100
+548,11,Sunny Day,40,fire,-,-
+548,14,Sunny Day,40,fire,-,-
+548,15,Sunny Day,40,fire,-,-
+548,16,Sunny Day,40,fire,-,-
+548,11,After You,44,normal,-,-
+548,14,After You,44,normal,-,-
+548,15,After You,44,normal,-,-
+548,16,After You,44,normal,-,-
+548,11,Leaf Storm,46,grass,130,90
+548,14,Leaf Storm,46,grass,130,90
+548,15,Leaf Storm,46,grass,130,90
+548,16,Leaf Storm,46,grass,130,90

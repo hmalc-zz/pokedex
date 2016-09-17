@@ -1,0 +1,181 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+324,5,Ember,1,fire,40,100
+324,6,Ember,1,fire,40,100
+324,7,Ember,1,fire,40,100
+324,8,Ember,1,fire,40,100
+324,9,Ember,1,fire,40,100
+324,10,Ember,1,fire,40,100
+324,11,Ember,1,fire,40,100
+324,12,Ember,1,fire,40,100
+324,13,Ember,1,fire,40,100
+324,14,Ember,1,fire,40,100
+324,15,Ember,1,fire,40,100
+324,15,Flail,1,normal,-,100
+324,15,Protect,1,normal,-,-
+324,15,Heat Wave,1,fire,95,90
+324,15,Shell Smash,1,normal,-,-
+324,15,Inferno,1,fire,100,50
+324,16,Ember,1,fire,40,100
+324,5,Smog,4,poison,30,70
+324,6,Smog,4,poison,30,70
+324,7,Smog,4,poison,30,70
+324,8,Smog,4,poison,30,70
+324,9,Smog,4,poison,30,70
+324,10,Smog,4,poison,30,70
+324,11,Smog,4,poison,30,70
+324,12,Smog,4,poison,30,70
+324,13,Smog,4,poison,30,70
+324,14,Smog,4,poison,30,70
+324,15,Smog,4,poison,30,70
+324,16,Smog,4,poison,30,70
+324,5,Curse,7,ghost,-,-
+324,6,Curse,7,ghost,-,-
+324,7,Curse,7,ghost,-,-
+324,8,Withdraw,7,water,-,-
+324,9,Withdraw,7,water,-,-
+324,10,Withdraw,7,water,-,-
+324,11,Withdraw,7,water,-,-
+324,12,Curse,7,ghost,-,-
+324,13,Curse,7,ghost,-,-
+324,14,Withdraw,7,water,-,-
+324,15,Withdraw,7,water,-,-
+324,16,Withdraw,7,water,-,-
+324,16,Rapid Spin,10,normal,20,100
+324,8,Curse,12,ghost,-,-
+324,9,Curse,12,ghost,-,-
+324,10,Curse,12,ghost,-,-
+324,11,Curse,12,ghost,-,-
+324,14,Curse,12,ghost,-,-
+324,15,Curse,12,ghost,-,-
+324,16,Fire Spin,13,fire,35,85
+324,5,Smokescreen,14,normal,-,100
+324,6,Smokescreen,14,normal,-,100
+324,7,Smokescreen,14,normal,-,100
+324,12,Smokescreen,14,normal,-,100
+324,13,Smokescreen,14,normal,-,100
+324,16,Smokescreen,15,normal,-,100
+324,5,Fire Spin,17,fire,35,85
+324,6,Fire Spin,17,fire,35,85
+324,7,Fire Spin,17,fire,35,85
+324,8,Fire Spin,17,fire,35,85
+324,9,Fire Spin,17,fire,35,85
+324,10,Fire Spin,17,fire,35,85
+324,11,Fire Spin,17,fire,35,85
+324,12,Fire Spin,17,fire,35,85
+324,13,Fire Spin,17,fire,35,85
+324,14,Fire Spin,17,fire,35,85
+324,15,Fire Spin,17,fire,35,85
+324,16,Flame Wheel,18,fire,60,100
+324,5,Body Slam,20,normal,85,100
+324,6,Body Slam,20,normal,85,100
+324,7,Body Slam,20,normal,85,100
+324,8,Smokescreen,20,normal,-,100
+324,9,Smokescreen,20,normal,-,100
+324,10,Smokescreen,20,normal,-,100
+324,11,Smokescreen,20,normal,-,100
+324,12,Body Slam,20,normal,85,100
+324,13,Body Slam,20,normal,85,100
+324,14,Smokescreen,20,normal,-,100
+324,15,Smokescreen,20,normal,-,100
+324,16,Curse,22,ghost,-,-
+324,8,Rapid Spin,23,normal,20,100
+324,9,Rapid Spin,23,normal,20,100
+324,10,Rapid Spin,23,normal,20,100
+324,11,Rapid Spin,23,normal,20,100
+324,14,Rapid Spin,23,normal,20,100
+324,15,Flame Wheel,23,fire,60,100
+324,15,Rapid Spin,25,normal,20,100
+324,16,Lava Plume,25,fire,80,100
+324,5,Protect,27,normal,-,-
+324,6,Protect,27,normal,-,-
+324,7,Protect,27,normal,-,-
+324,12,Protect,27,normal,-,-
+324,13,Protect,27,normal,-,-
+324,16,Body Slam,27,normal,85,100
+324,8,Flamethrower,28,fire,90,100
+324,9,Flamethrower,28,fire,90,100
+324,10,Flamethrower,28,fire,90,100
+324,11,Flamethrower,28,fire,90,100
+324,14,Flamethrower,28,fire,90,100
+324,15,Flamethrower,28,fire,90,100
+324,5,Flamethrower,30,fire,90,100
+324,6,Flamethrower,30,fire,90,100
+324,7,Flamethrower,30,fire,90,100
+324,12,Flamethrower,30,fire,90,100
+324,13,Flamethrower,30,fire,90,100
+324,16,Protect,30,normal,-,-
+324,5,Iron Defense,33,steel,-,-
+324,6,Iron Defense,33,steel,-,-
+324,7,Iron Defense,33,steel,-,-
+324,8,Body Slam,33,normal,85,100
+324,9,Body Slam,33,normal,85,100
+324,10,Body Slam,33,normal,85,100
+324,11,Body Slam,33,normal,85,100
+324,12,Iron Defense,33,steel,-,-
+324,13,Iron Defense,33,steel,-,-
+324,14,Body Slam,33,normal,85,100
+324,15,Body Slam,33,normal,85,100
+324,16,Flamethrower,34,fire,90,100
+324,8,Protect,36,normal,-,-
+324,9,Protect,36,normal,-,-
+324,10,Protect,36,normal,-,-
+324,11,Protect,36,normal,-,-
+324,14,Protect,36,normal,-,-
+324,15,Protect,36,normal,-,-
+324,16,Iron Defense,38,steel,-,-
+324,8,Lava Plume,39,fire,80,100
+324,9,Lava Plume,39,fire,80,100
+324,10,Lava Plume,39,fire,80,100
+324,11,Lava Plume,39,fire,80,100
+324,14,Lava Plume,39,fire,80,100
+324,15,Lava Plume,39,fire,80,100
+324,5,Amnesia,40,psychic,-,-
+324,6,Amnesia,40,psychic,-,-
+324,7,Amnesia,40,psychic,-,-
+324,12,Amnesia,40,psychic,-,-
+324,13,Amnesia,40,psychic,-,-
+324,16,Amnesia,40,psychic,-,-
+324,16,Flail,42,normal,-,100
+324,5,Flail,43,normal,-,100
+324,6,Flail,43,normal,-,100
+324,7,Flail,43,normal,-,100
+324,12,Flail,43,normal,-,100
+324,13,Flail,43,normal,-,100
+324,8,Iron Defense,44,steel,-,-
+324,9,Iron Defense,44,steel,-,-
+324,10,Iron Defense,44,steel,-,-
+324,11,Iron Defense,44,steel,-,-
+324,14,Iron Defense,44,steel,-,-
+324,15,Iron Defense,44,steel,-,-
+324,16,Heat Wave,45,fire,95,90
+324,5,Heat Wave,46,fire,95,90
+324,6,Heat Wave,46,fire,95,90
+324,7,Heat Wave,46,fire,95,90
+324,12,Heat Wave,46,fire,95,90
+324,13,Heat Wave,46,fire,95,90
+324,16,Shell Smash,47,normal,-,-
+324,8,Amnesia,49,psychic,-,-
+324,9,Amnesia,49,psychic,-,-
+324,10,Amnesia,49,psychic,-,-
+324,11,Amnesia,49,psychic,-,-
+324,14,Amnesia,49,psychic,-,-
+324,15,Amnesia,49,psychic,-,-
+324,16,Inferno,50,fire,100,50
+324,8,Flail,52,normal,-,100
+324,9,Flail,52,normal,-,100
+324,10,Flail,52,normal,-,100
+324,11,Flail,52,normal,-,100
+324,14,Flail,52,normal,-,100
+324,15,Flail,52,normal,-,100
+324,8,Heat Wave,55,fire,95,90
+324,9,Heat Wave,55,fire,95,90
+324,10,Heat Wave,55,fire,95,90
+324,11,Heat Wave,55,fire,95,90
+324,14,Heat Wave,55,fire,95,90
+324,15,Heat Wave,55,fire,95,90
+324,11,Inferno,60,fire,100,50
+324,14,Inferno,60,fire,100,50
+324,15,Inferno,60,fire,100,50
+324,11,Shell Smash,65,normal,-,-
+324,14,Shell Smash,65,normal,-,-
+324,15,Shell Smash,65,normal,-,-

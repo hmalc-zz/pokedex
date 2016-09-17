@@ -1,0 +1,33 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+706,15,Tackle,1,normal,50,100
+706,15,Bubble,1,water,40,100
+706,15,Outrage,1,dragon,120,100
+706,15,Feint,1,normal,30,100
+706,16,Tackle,1,normal,50,100
+706,16,Bubble,1,water,40,100
+706,16,Outrage,1,dragon,120,100
+706,16,Feint,1,normal,30,100
+706,15,Absorb,5,grass,20,100
+706,16,Absorb,5,grass,20,100
+706,15,Protect,9,normal,-,-
+706,16,Protect,9,normal,-,-
+706,15,Bide,13,normal,-,-
+706,16,Bide,13,normal,-,-
+706,15,Dragon Breath,18,dragon,60,100
+706,16,Dragon Breath,18,dragon,60,100
+706,15,Rain Dance,25,water,-,-
+706,16,Rain Dance,25,water,-,-
+706,15,Flail,28,normal,-,100
+706,16,Flail,28,normal,-,100
+706,15,Body Slam,32,normal,85,100
+706,16,Body Slam,32,normal,85,100
+706,15,Muddy Water,38,water,90,85
+706,16,Muddy Water,38,water,90,85
+706,15,Dragon Pulse,47,dragon,85,100
+706,16,Dragon Pulse,47,dragon,85,100
+706,15,Aqua Tail,50,water,90,90
+706,16,Aqua Tail,50,water,90,90
+706,15,Power Whip,55,grass,120,85
+706,16,Power Whip,55,grass,120,85
+706,15,Outrage,63,dragon,120,100
+706,16,Outrage,63,dragon,120,100

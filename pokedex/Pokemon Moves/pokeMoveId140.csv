@@ -1,0 +1,163 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+140,1,Scratch,1,normal,40,100
+140,1,Harden,1,normal,-,-
+140,2,Scratch,1,normal,40,100
+140,2,Harden,1,normal,-,-
+140,3,Scratch,1,normal,40,100
+140,3,Harden,1,normal,-,-
+140,4,Scratch,1,normal,40,100
+140,4,Harden,1,normal,-,-
+140,5,Scratch,1,normal,40,100
+140,5,Harden,1,normal,-,-
+140,6,Scratch,1,normal,40,100
+140,6,Harden,1,normal,-,-
+140,7,Scratch,1,normal,40,100
+140,7,Harden,1,normal,-,-
+140,8,Scratch,1,normal,40,100
+140,8,Harden,1,normal,-,-
+140,9,Scratch,1,normal,40,100
+140,9,Harden,1,normal,-,-
+140,10,Scratch,1,normal,40,100
+140,10,Harden,1,normal,-,-
+140,11,Scratch,1,normal,40,100
+140,11,Harden,1,normal,-,-
+140,12,Scratch,1,normal,40,100
+140,12,Harden,1,normal,-,-
+140,13,Scratch,1,normal,40,100
+140,13,Harden,1,normal,-,-
+140,14,Scratch,1,normal,40,100
+140,14,Harden,1,normal,-,-
+140,15,Scratch,1,normal,40,100
+140,15,Harden,1,normal,-,-
+140,16,Scratch,1,normal,40,100
+140,16,Harden,1,normal,-,-
+140,8,Absorb,6,grass,20,100
+140,9,Absorb,6,grass,20,100
+140,10,Absorb,6,grass,20,100
+140,11,Absorb,6,grass,20,100
+140,14,Absorb,6,grass,20,100
+140,15,Absorb,6,grass,20,100
+140,16,Absorb,6,grass,20,100
+140,3,Absorb,10,grass,20,100
+140,4,Absorb,10,grass,20,100
+140,8,Leer,11,normal,-,100
+140,9,Leer,11,normal,-,100
+140,10,Leer,11,normal,-,100
+140,11,Leer,11,normal,-,100
+140,14,Leer,11,normal,-,100
+140,15,Leer,11,normal,-,100
+140,16,Leer,11,normal,-,100
+140,5,Absorb,13,grass,20,100
+140,6,Absorb,13,grass,20,100
+140,7,Absorb,13,grass,20,100
+140,12,Absorb,13,grass,20,100
+140,13,Absorb,13,grass,20,100
+140,8,Mud Shot,16,ground,55,95
+140,9,Mud Shot,16,ground,55,95
+140,10,Mud Shot,16,ground,55,95
+140,11,Mud Shot,16,ground,55,95
+140,14,Mud Shot,16,ground,55,95
+140,15,Mud Shot,16,ground,55,95
+140,16,Mud Shot,16,ground,55,95
+140,3,Leer,19,normal,-,100
+140,4,Leer,19,normal,-,100
+140,5,Leer,19,normal,-,100
+140,6,Leer,19,normal,-,100
+140,7,Leer,19,normal,-,100
+140,12,Leer,19,normal,-,100
+140,13,Leer,19,normal,-,100
+140,8,Sand Attack,21,ground,-,100
+140,9,Sand Attack,21,ground,-,100
+140,10,Sand Attack,21,ground,-,100
+140,11,Sand Attack,21,ground,-,100
+140,14,Sand Attack,21,ground,-,100
+140,15,Sand Attack,21,ground,-,100
+140,16,Sand Attack,21,ground,-,100
+140,5,Mud Shot,25,ground,55,95
+140,6,Mud Shot,25,ground,55,95
+140,7,Mud Shot,25,ground,55,95
+140,12,Mud Shot,25,ground,55,95
+140,13,Mud Shot,25,ground,55,95
+140,8,Endure,26,normal,-,-
+140,9,Endure,26,normal,-,-
+140,10,Endure,26,normal,-,-
+140,11,Endure,26,normal,-,-
+140,14,Endure,26,normal,-,-
+140,15,Endure,26,normal,-,-
+140,16,Endure,26,normal,-,-
+140,3,Sand Attack,28,ground,-,100
+140,4,Sand Attack,28,ground,-,100
+140,5,Sand Attack,31,ground,-,100
+140,6,Sand Attack,31,ground,-,100
+140,7,Sand Attack,31,ground,-,100
+140,8,Aqua Jet,31,water,40,100
+140,9,Aqua Jet,31,water,40,100
+140,10,Aqua Jet,31,water,40,100
+140,11,Aqua Jet,31,water,40,100
+140,12,Sand Attack,31,ground,-,100
+140,13,Sand Attack,31,ground,-,100
+140,14,Aqua Jet,31,water,40,100
+140,15,Aqua Jet,31,water,40,100
+140,16,Aqua Jet,31,water,40,100
+140,1,Absorb,34,grass,20,100
+140,2,Absorb,34,grass,20,100
+140,8,Mega Drain,36,grass,40,100
+140,9,Mega Drain,36,grass,40,100
+140,10,Mega Drain,36,grass,40,100
+140,11,Mega Drain,36,grass,40,100
+140,14,Mega Drain,36,grass,40,100
+140,15,Mega Drain,36,grass,40,100
+140,16,Mega Drain,36,grass,40,100
+140,3,Endure,37,normal,-,-
+140,4,Endure,37,normal,-,-
+140,5,Endure,37,normal,-,-
+140,6,Endure,37,normal,-,-
+140,7,Endure,37,normal,-,-
+140,12,Endure,37,normal,-,-
+140,13,Endure,37,normal,-,-
+140,1,Slash,39,normal,70,100
+140,2,Slash,39,normal,70,100
+140,8,Metal Sound,41,steel,-,85
+140,9,Metal Sound,41,steel,-,85
+140,10,Metal Sound,41,steel,-,85
+140,11,Metal Sound,41,steel,-,85
+140,14,Metal Sound,41,steel,-,85
+140,15,Metal Sound,41,steel,-,85
+140,16,Metal Sound,41,steel,-,85
+140,5,Metal Sound,43,steel,-,85
+140,6,Metal Sound,43,steel,-,85
+140,7,Metal Sound,43,steel,-,85
+140,12,Metal Sound,43,steel,-,85
+140,13,Metal Sound,43,steel,-,85
+140,1,Leer,44,normal,-,100
+140,2,Leer,44,normal,-,100
+140,3,Mega Drain,46,grass,40,100
+140,4,Mega Drain,46,grass,40,100
+140,8,Ancient Power,46,rock,60,100
+140,9,Ancient Power,46,rock,60,100
+140,10,Ancient Power,46,rock,60,100
+140,11,Ancient Power,46,rock,60,100
+140,14,Ancient Power,46,rock,60,100
+140,15,Ancient Power,46,rock,60,100
+140,16,Ancient Power,46,rock,60,100
+140,1,Hydro Pump,49,water,110,80
+140,2,Hydro Pump,49,water,110,80
+140,5,Mega Drain,49,grass,40,100
+140,6,Mega Drain,49,grass,40,100
+140,7,Mega Drain,49,grass,40,100
+140,12,Mega Drain,49,grass,40,100
+140,13,Mega Drain,49,grass,40,100
+140,15,Wring Out,50,normal,-,100
+140,16,Wring Out,50,normal,-,100
+140,8,Wring Out,51,normal,-,100
+140,9,Wring Out,51,normal,-,100
+140,10,Wring Out,51,normal,-,100
+140,11,Wring Out,51,normal,-,100
+140,14,Wring Out,51,normal,-,100
+140,3,Ancient Power,55,rock,60,100
+140,4,Ancient Power,55,rock,60,100
+140,5,Ancient Power,55,rock,60,100
+140,6,Ancient Power,55,rock,60,100
+140,7,Ancient Power,55,rock,60,100
+140,12,Ancient Power,55,rock,60,100
+140,13,Ancient Power,55,rock,60,100

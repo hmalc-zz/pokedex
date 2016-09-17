@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+580,11,Water Gun,1,water,40,100
+580,14,Water Gun,1,water,40,100
+580,15,Water Gun,1,water,40,100
+580,16,Water Gun,1,water,40,100
+580,11,Water Sport,3,water,-,-
+580,14,Water Sport,3,water,-,-
+580,15,Water Sport,3,water,-,-
+580,16,Water Sport,3,water,-,-
+580,11,Defog,6,flying,-,-
+580,14,Defog,6,flying,-,-
+580,15,Defog,6,flying,-,-
+580,16,Defog,6,flying,-,-
+580,11,Wing Attack,9,flying,60,100
+580,14,Wing Attack,9,flying,60,100
+580,15,Wing Attack,9,flying,60,100
+580,16,Wing Attack,9,flying,60,100
+580,11,Water Pulse,13,water,60,100
+580,14,Water Pulse,13,water,60,100
+580,15,Water Pulse,13,water,60,100
+580,16,Water Pulse,13,water,60,100
+580,11,Aerial Ace,15,flying,60,-
+580,14,Aerial Ace,15,flying,60,-
+580,15,Aerial Ace,15,flying,60,-
+580,16,Aerial Ace,15,flying,60,-
+580,11,Bubble Beam,19,water,65,100
+580,14,Bubble Beam,19,water,65,100
+580,15,Bubble Beam,19,water,65,100
+580,16,Bubble Beam,19,water,65,100
+580,11,Feather Dance,21,flying,-,100
+580,14,Feather Dance,21,flying,-,100
+580,15,Feather Dance,21,flying,-,100
+580,16,Feather Dance,21,flying,-,100
+580,11,Aqua Ring,24,water,-,-
+580,14,Aqua Ring,24,water,-,-
+580,15,Aqua Ring,24,water,-,-
+580,16,Aqua Ring,24,water,-,-
+580,11,Air Slash,27,flying,75,95
+580,14,Air Slash,27,flying,75,95
+580,15,Air Slash,27,flying,75,95
+580,16,Air Slash,27,flying,75,95
+580,11,Roost,30,flying,-,-
+580,14,Roost,30,flying,-,-
+580,15,Roost,30,flying,-,-
+580,16,Roost,30,flying,-,-
+580,11,Rain Dance,34,water,-,-
+580,14,Rain Dance,34,water,-,-
+580,15,Rain Dance,34,water,-,-
+580,16,Rain Dance,34,water,-,-
+580,11,Tailwind,37,flying,-,-
+580,14,Tailwind,37,flying,-,-
+580,15,Tailwind,37,flying,-,-
+580,16,Tailwind,37,flying,-,-
+580,11,Brave Bird,41,flying,120,100
+580,14,Brave Bird,41,flying,120,100
+580,15,Brave Bird,41,flying,120,100
+580,16,Brave Bird,41,flying,120,100
+580,11,Hurricane,46,flying,110,70
+580,14,Hurricane,46,flying,110,70
+580,15,Hurricane,46,flying,110,70
+580,16,Hurricane,46,flying,110,70

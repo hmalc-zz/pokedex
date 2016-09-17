@@ -1,0 +1,114 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+463,8,Lick,1,ghost,30,100
+463,9,Lick,1,ghost,30,100
+463,10,Lick,1,ghost,30,100
+463,11,Lick,1,ghost,30,100
+463,14,Lick,1,ghost,30,100
+463,15,Lick,1,ghost,30,100
+463,15,Wring Out,1,normal,-,100
+463,15,Power Whip,1,grass,120,85
+463,16,Lick,1,ghost,30,100
+463,16,Wring Out,1,normal,-,100
+463,16,Power Whip,1,grass,120,85
+463,8,Supersonic,5,normal,-,55
+463,9,Supersonic,5,normal,-,55
+463,10,Supersonic,5,normal,-,55
+463,11,Supersonic,5,normal,-,55
+463,14,Supersonic,5,normal,-,55
+463,15,Supersonic,5,normal,-,55
+463,16,Supersonic,5,normal,-,55
+463,8,Defense Curl,9,normal,-,-
+463,9,Defense Curl,9,normal,-,-
+463,10,Defense Curl,9,normal,-,-
+463,11,Defense Curl,9,normal,-,-
+463,14,Defense Curl,9,normal,-,-
+463,15,Defense Curl,9,normal,-,-
+463,16,Defense Curl,9,normal,-,-
+463,8,Knock Off,13,dark,65,100
+463,9,Knock Off,13,dark,65,100
+463,10,Knock Off,13,dark,65,100
+463,11,Knock Off,13,dark,65,100
+463,14,Knock Off,13,dark,65,100
+463,15,Knock Off,13,dark,65,100
+463,16,Knock Off,13,dark,65,100
+463,8,Wrap,17,normal,15,90
+463,9,Wrap,17,normal,15,90
+463,10,Wrap,17,normal,15,90
+463,11,Wrap,17,normal,15,90
+463,14,Wrap,17,normal,15,90
+463,15,Wrap,17,normal,15,90
+463,16,Wrap,17,normal,15,90
+463,8,Stomp,21,normal,65,100
+463,9,Stomp,21,normal,65,100
+463,10,Stomp,21,normal,65,100
+463,11,Stomp,21,normal,65,100
+463,14,Stomp,21,normal,65,100
+463,15,Stomp,21,normal,65,100
+463,16,Stomp,21,normal,65,100
+463,8,Disable,25,normal,-,100
+463,9,Disable,25,normal,-,100
+463,10,Disable,25,normal,-,100
+463,11,Disable,25,normal,-,100
+463,14,Disable,25,normal,-,100
+463,15,Disable,25,normal,-,100
+463,16,Disable,25,normal,-,100
+463,8,Slam,29,normal,80,75
+463,9,Slam,29,normal,80,75
+463,10,Slam,29,normal,80,75
+463,11,Slam,29,normal,80,75
+463,14,Slam,29,normal,80,75
+463,15,Slam,29,normal,80,75
+463,16,Slam,29,normal,80,75
+463,8,Rollout,33,rock,30,90
+463,9,Rollout,33,rock,30,90
+463,10,Rollout,33,rock,30,90
+463,11,Rollout,33,rock,30,90
+463,14,Rollout,33,rock,30,90
+463,15,Rollout,33,rock,30,90
+463,16,Rollout,33,rock,30,90
+463,8,Me First,37,normal,-,-
+463,9,Me First,37,normal,-,-
+463,10,Me First,37,normal,-,-
+463,11,Chip Away,37,normal,70,100
+463,14,Chip Away,37,normal,70,100
+463,15,Chip Away,37,normal,70,100
+463,16,Chip Away,37,normal,70,100
+463,8,Refresh,41,normal,-,-
+463,9,Refresh,41,normal,-,-
+463,10,Refresh,41,normal,-,-
+463,11,Me First,41,normal,-,-
+463,14,Me First,41,normal,-,-
+463,15,Me First,41,normal,-,-
+463,16,Me First,41,normal,-,-
+463,8,Screech,45,normal,-,85
+463,9,Screech,45,normal,-,85
+463,10,Screech,45,normal,-,85
+463,11,Refresh,45,normal,-,-
+463,14,Refresh,45,normal,-,-
+463,15,Refresh,45,normal,-,-
+463,16,Refresh,45,normal,-,-
+463,8,Power Whip,49,grass,120,85
+463,9,Power Whip,49,grass,120,85
+463,10,Power Whip,49,grass,120,85
+463,11,Screech,49,normal,-,85
+463,14,Screech,49,normal,-,85
+463,15,Screech,49,normal,-,85
+463,16,Screech,49,normal,-,85
+463,8,Wring Out,53,normal,-,100
+463,9,Wring Out,53,normal,-,100
+463,10,Wring Out,53,normal,-,100
+463,11,Power Whip,53,grass,120,85
+463,14,Power Whip,53,grass,120,85
+463,15,Power Whip,53,grass,120,85
+463,16,Power Whip,53,grass,120,85
+463,8,Gyro Ball,57,steel,-,100
+463,9,Gyro Ball,57,steel,-,100
+463,10,Gyro Ball,57,steel,-,100
+463,11,Wring Out,57,normal,-,100
+463,14,Wring Out,57,normal,-,100
+463,15,Wring Out,57,normal,-,100
+463,16,Wring Out,57,normal,-,100
+463,11,Gyro Ball,61,steel,-,100
+463,14,Gyro Ball,61,steel,-,100
+463,15,Gyro Ball,61,steel,-,100
+463,16,Gyro Ball,61,steel,-,100

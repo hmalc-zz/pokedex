@@ -1,0 +1,199 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+169,3,Supersonic,1,normal,-,55
+169,3,Screech,1,normal,-,85
+169,3,Leech Life,1,bug,20,100
+169,4,Supersonic,1,normal,-,55
+169,4,Screech,1,normal,-,85
+169,4,Leech Life,1,bug,20,100
+169,5,Supersonic,1,normal,-,55
+169,5,Screech,1,normal,-,85
+169,5,Leech Life,1,bug,20,100
+169,5,Astonish,1,ghost,30,100
+169,6,Supersonic,1,normal,-,55
+169,6,Screech,1,normal,-,85
+169,6,Leech Life,1,bug,20,100
+169,6,Astonish,1,ghost,30,100
+169,7,Supersonic,1,normal,-,55
+169,7,Screech,1,normal,-,85
+169,7,Leech Life,1,bug,20,100
+169,7,Astonish,1,ghost,30,100
+169,8,Supersonic,1,normal,-,55
+169,8,Screech,1,normal,-,85
+169,8,Leech Life,1,bug,20,100
+169,8,Astonish,1,ghost,30,100
+169,8,Cross Poison,1,poison,70,100
+169,9,Supersonic,1,normal,-,55
+169,9,Screech,1,normal,-,85
+169,9,Leech Life,1,bug,20,100
+169,9,Astonish,1,ghost,30,100
+169,9,Cross Poison,1,poison,70,100
+169,10,Supersonic,1,normal,-,55
+169,10,Screech,1,normal,-,85
+169,10,Leech Life,1,bug,20,100
+169,10,Astonish,1,ghost,30,100
+169,10,Cross Poison,1,poison,70,100
+169,11,Supersonic,1,normal,-,55
+169,11,Screech,1,normal,-,85
+169,11,Leech Life,1,bug,20,100
+169,11,Astonish,1,ghost,30,100
+169,11,Cross Poison,1,poison,70,100
+169,12,Supersonic,1,normal,-,55
+169,12,Screech,1,normal,-,85
+169,12,Leech Life,1,bug,20,100
+169,12,Astonish,1,ghost,30,100
+169,13,Supersonic,1,normal,-,55
+169,13,Screech,1,normal,-,85
+169,13,Leech Life,1,bug,20,100
+169,13,Astonish,1,ghost,30,100
+169,14,Supersonic,1,normal,-,55
+169,14,Screech,1,normal,-,85
+169,14,Leech Life,1,bug,20,100
+169,14,Astonish,1,ghost,30,100
+169,14,Cross Poison,1,poison,70,100
+169,15,Supersonic,1,normal,-,55
+169,15,Screech,1,normal,-,85
+169,15,Leech Life,1,bug,20,100
+169,15,Astonish,1,ghost,30,100
+169,15,Cross Poison,1,poison,70,100
+169,16,Bite,1,dark,60,100
+169,16,Supersonic,1,normal,-,55
+169,16,Screech,1,normal,-,85
+169,16,Leech Life,1,bug,20,100
+169,16,Astonish,1,ghost,30,100
+169,16,Cross Poison,1,poison,70,100
+169,14,Supersonic,4,normal,-,55
+169,15,Supersonic,4,normal,-,55
+169,8,Supersonic,5,normal,-,55
+169,9,Supersonic,5,normal,-,55
+169,10,Supersonic,5,normal,-,55
+169,11,Supersonic,5,normal,-,55
+169,16,Supersonic,5,normal,-,55
+169,3,Supersonic,6,normal,-,55
+169,4,Supersonic,6,normal,-,55
+169,5,Supersonic,6,normal,-,55
+169,6,Supersonic,6,normal,-,55
+169,7,Astonish,6,ghost,30,100
+169,12,Supersonic,6,normal,-,55
+169,13,Supersonic,6,normal,-,55
+169,16,Astonish,7,ghost,30,100
+169,14,Astonish,8,ghost,30,100
+169,15,Astonish,8,ghost,30,100
+169,8,Astonish,9,ghost,30,100
+169,9,Astonish,9,ghost,30,100
+169,10,Astonish,9,ghost,30,100
+169,11,Astonish,9,ghost,30,100
+169,5,Astonish,11,ghost,30,100
+169,6,Astonish,11,ghost,30,100
+169,7,Supersonic,11,normal,-,55
+169,12,Astonish,11,ghost,30,100
+169,13,Astonish,11,ghost,30,100
+169,16,Bite,11,dark,60,100
+169,3,Bite,12,dark,60,100
+169,4,Bite,12,dark,60,100
+169,14,Bite,12,dark,60,100
+169,15,Bite,12,dark,60,100
+169,8,Bite,13,dark,60,100
+169,9,Bite,13,dark,60,100
+169,10,Bite,13,dark,60,100
+169,11,Bite,13,dark,60,100
+169,16,Wing Attack,13,flying,60,100
+169,14,Wing Attack,15,flying,60,100
+169,15,Wing Attack,15,flying,60,100
+169,5,Bite,16,dark,60,100
+169,6,Bite,16,dark,60,100
+169,7,Bite,16,dark,60,100
+169,12,Bite,16,dark,60,100
+169,13,Bite,16,dark,60,100
+169,8,Wing Attack,17,flying,60,100
+169,9,Wing Attack,17,flying,60,100
+169,10,Wing Attack,17,flying,60,100
+169,11,Wing Attack,17,flying,60,100
+169,16,Confuse Ray,17,ghost,-,100
+169,3,Confuse Ray,19,ghost,-,100
+169,4,Confuse Ray,19,ghost,-,100
+169,14,Confuse Ray,19,ghost,-,100
+169,15,Confuse Ray,19,ghost,-,100
+169,16,Air Cutter,19,flying,60,95
+169,5,Wing Attack,21,flying,60,100
+169,6,Wing Attack,21,flying,60,100
+169,7,Wing Attack,21,flying,60,100
+169,8,Confuse Ray,21,ghost,-,100
+169,9,Confuse Ray,21,ghost,-,100
+169,10,Confuse Ray,21,ghost,-,100
+169,11,Confuse Ray,21,ghost,-,100
+169,12,Wing Attack,21,flying,60,100
+169,13,Wing Attack,21,flying,60,100
+169,14,Swift,24,normal,60,-
+169,15,Swift,24,normal,60,-
+169,16,Swift,24,normal,60,-
+169,8,Air Cutter,27,flying,60,95
+169,9,Air Cutter,27,flying,60,95
+169,10,Air Cutter,27,flying,60,95
+169,11,Air Cutter,27,flying,60,95
+169,16,Poison Fang,27,poison,50,100
+169,5,Confuse Ray,28,ghost,-,100
+169,6,Confuse Ray,28,ghost,-,100
+169,7,Confuse Ray,28,ghost,-,100
+169,12,Confuse Ray,28,ghost,-,100
+169,13,Confuse Ray,28,ghost,-,100
+169,14,Air Cutter,28,flying,60,95
+169,15,Air Cutter,28,flying,60,95
+169,3,Wing Attack,30,flying,60,100
+169,4,Wing Attack,30,flying,60,100
+169,16,Mean Look,32,normal,-,-
+169,8,Mean Look,33,normal,-,-
+169,9,Mean Look,33,normal,-,-
+169,10,Mean Look,33,normal,-,-
+169,11,Mean Look,33,normal,-,-
+169,14,Acrobatics,33,flying,55,100
+169,15,Acrobatics,33,flying,55,100
+169,5,Air Cutter,35,flying,60,95
+169,6,Air Cutter,35,flying,60,95
+169,7,Air Cutter,35,flying,60,95
+169,12,Air Cutter,35,flying,60,95
+169,13,Air Cutter,35,flying,60,95
+169,16,Acrobatics,35,flying,55,100
+169,14,Mean Look,38,normal,-,-
+169,15,Mean Look,38,normal,-,-
+169,8,Poison Fang,39,poison,50,100
+169,9,Poison Fang,39,poison,50,100
+169,10,Poison Fang,39,poison,50,100
+169,11,Acrobatics,39,flying,55,100
+169,16,Haze,40,ice,-,-
+169,3,Mean Look,42,normal,-,-
+169,4,Mean Look,42,normal,-,-
+169,5,Mean Look,42,normal,-,-
+169,6,Mean Look,42,normal,-,-
+169,7,Mean Look,42,normal,-,-
+169,12,Mean Look,42,normal,-,-
+169,13,Mean Look,42,normal,-,-
+169,14,Poison Fang,42,poison,50,100
+169,15,Poison Fang,42,poison,50,100
+169,16,Venoshock,43,poison,65,100
+169,8,Haze,45,ice,-,-
+169,9,Haze,45,ice,-,-
+169,10,Haze,45,ice,-,-
+169,11,Poison Fang,45,poison,50,100
+169,14,Haze,47,ice,-,-
+169,15,Haze,47,ice,-,-
+169,16,Air Slash,48,flying,75,95
+169,5,Poison Fang,49,poison,50,100
+169,6,Poison Fang,49,poison,50,100
+169,7,Poison Fang,49,poison,50,100
+169,12,Poison Fang,49,poison,50,100
+169,13,Poison Fang,49,poison,50,100
+169,8,Air Slash,51,flying,75,95
+169,9,Air Slash,51,flying,75,95
+169,10,Air Slash,51,flying,75,95
+169,11,Haze,51,ice,-,-
+169,16,Quick Guard,51,fighting,-,-
+169,14,Air Slash,52,flying,75,95
+169,15,Air Slash,52,flying,75,95
+169,3,Haze,55,ice,-,-
+169,4,Haze,55,ice,-,-
+169,5,Haze,56,ice,-,-
+169,6,Haze,56,ice,-,-
+169,7,Haze,56,ice,-,-
+169,12,Haze,56,ice,-,-
+169,13,Haze,56,ice,-,-
+169,11,Air Slash,57,flying,75,95

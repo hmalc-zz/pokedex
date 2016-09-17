@@ -1,0 +1,174 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+77,1,Ember,1,fire,40,100
+77,2,Ember,1,fire,40,100
+77,3,Tackle,1,normal,50,100
+77,4,Tackle,1,normal,50,100
+77,5,Tackle,1,normal,50,100
+77,6,Tackle,1,normal,50,100
+77,7,Quick Attack,1,normal,40,100
+77,8,Tackle,1,normal,50,100
+77,9,Tackle,1,normal,50,100
+77,9,Growl,1,normal,-,100
+77,10,Tackle,1,normal,50,100
+77,10,Growl,1,normal,-,100
+77,11,Tackle,1,normal,50,100
+77,11,Growl,1,normal,-,100
+77,12,Tackle,1,normal,50,100
+77,13,Tackle,1,normal,50,100
+77,14,Tackle,1,normal,50,100
+77,14,Growl,1,normal,-,100
+77,15,Tackle,1,normal,50,100
+77,15,Growl,1,normal,-,100
+77,16,Tackle,1,normal,50,100
+77,16,Growl,1,normal,-,100
+77,3,Growl,4,normal,-,100
+77,4,Growl,4,normal,-,100
+77,11,Tail Whip,4,normal,-,100
+77,14,Tail Whip,4,normal,-,100
+77,15,Tail Whip,4,normal,-,100
+77,16,Tail Whip,4,normal,-,100
+77,5,Growl,5,normal,-,100
+77,6,Growl,5,normal,-,100
+77,7,Growl,5,normal,-,100
+77,12,Growl,5,normal,-,100
+77,13,Growl,5,normal,-,100
+77,9,Tail Whip,6,normal,-,100
+77,10,Tail Whip,6,normal,-,100
+77,8,Growl,7,normal,-,100
+77,3,Tail Whip,8,normal,-,100
+77,4,Tail Whip,8,normal,-,100
+77,5,Tail Whip,9,normal,-,100
+77,6,Tail Whip,9,normal,-,100
+77,7,Tail Whip,9,normal,-,100
+77,11,Ember,9,fire,40,100
+77,12,Tail Whip,9,normal,-,100
+77,13,Tail Whip,9,normal,-,100
+77,14,Ember,9,fire,40,100
+77,15,Ember,9,fire,40,100
+77,16,Ember,9,fire,40,100
+77,8,Tail Whip,10,normal,-,100
+77,9,Ember,10,fire,40,100
+77,10,Ember,10,fire,40,100
+77,3,Ember,13,fire,40,100
+77,4,Ember,13,fire,40,100
+77,11,Flame Wheel,13,fire,60,100
+77,14,Flame Wheel,13,fire,60,100
+77,15,Flame Wheel,13,fire,60,100
+77,16,Flame Wheel,13,fire,60,100
+77,5,Ember,14,fire,40,100
+77,6,Ember,14,fire,40,100
+77,7,Ember,14,fire,40,100
+77,12,Ember,14,fire,40,100
+77,13,Ember,14,fire,40,100
+77,9,Flame Wheel,15,fire,60,100
+77,10,Flame Wheel,15,fire,60,100
+77,8,Ember,16,fire,40,100
+77,11,Stomp,17,normal,65,100
+77,14,Stomp,17,normal,65,100
+77,15,Stomp,17,normal,65,100
+77,16,Stomp,17,normal,65,100
+77,3,Stomp,19,normal,65,100
+77,4,Stomp,19,normal,65,100
+77,5,Stomp,19,normal,65,100
+77,6,Stomp,19,normal,65,100
+77,7,Stomp,19,normal,65,100
+77,8,Stomp,19,normal,65,100
+77,9,Stomp,19,normal,65,100
+77,10,Stomp,19,normal,65,100
+77,12,Stomp,19,normal,65,100
+77,13,Stomp,19,normal,65,100
+77,11,Flame Charge,21,fire,50,100
+77,14,Flame Charge,21,fire,50,100
+77,15,Flame Charge,21,fire,50,100
+77,16,Flame Charge,21,fire,50,100
+77,9,Fire Spin,24,fire,35,85
+77,10,Fire Spin,24,fire,35,85
+77,5,Fire Spin,25,fire,35,85
+77,6,Fire Spin,25,fire,35,85
+77,7,Fire Spin,25,fire,35,85
+77,8,Fire Spin,25,fire,35,85
+77,11,Fire Spin,25,fire,35,85
+77,12,Fire Spin,25,fire,35,85
+77,13,Fire Spin,25,fire,35,85
+77,14,Fire Spin,25,fire,35,85
+77,15,Fire Spin,25,fire,35,85
+77,16,Fire Spin,25,fire,35,85
+77,3,Fire Spin,26,fire,35,85
+77,4,Fire Spin,26,fire,35,85
+77,8,Take Down,28,normal,90,85
+77,9,Take Down,28,normal,90,85
+77,10,Take Down,28,normal,90,85
+77,11,Take Down,29,normal,90,85
+77,14,Take Down,29,normal,90,85
+77,15,Take Down,29,normal,90,85
+77,16,Take Down,29,normal,90,85
+77,1,Tail Whip,30,normal,-,100
+77,2,Tail Whip,30,normal,-,100
+77,5,Take Down,31,normal,90,85
+77,6,Take Down,31,normal,90,85
+77,7,Take Down,31,normal,90,85
+77,12,Take Down,31,normal,90,85
+77,13,Take Down,31,normal,90,85
+77,1,Stomp,32,normal,65,100
+77,2,Stomp,32,normal,65,100
+77,9,Agility,33,psychic,-,-
+77,10,Agility,33,psychic,-,-
+77,11,Inferno,33,fire,100,50
+77,14,Inferno,33,fire,100,50
+77,15,Inferno,33,fire,100,50
+77,16,Inferno,33,fire,100,50
+77,3,Take Down,34,normal,90,85
+77,4,Take Down,34,normal,90,85
+77,8,Agility,34,psychic,-,-
+77,1,Growl,35,normal,-,100
+77,2,Growl,35,normal,-,100
+77,9,Fire Blast,37,fire,110,85
+77,10,Fire Blast,37,fire,110,85
+77,11,Agility,37,psychic,-,-
+77,14,Agility,37,psychic,-,-
+77,15,Agility,37,psychic,-,-
+77,16,Agility,37,psychic,-,-
+77,5,Agility,38,psychic,-,-
+77,6,Agility,38,psychic,-,-
+77,7,Agility,38,psychic,-,-
+77,8,Fire Blast,38,fire,110,85
+77,12,Agility,38,psychic,-,-
+77,13,Agility,38,psychic,-,-
+77,1,Fire Spin,39,fire,35,85
+77,2,Fire Spin,39,fire,35,85
+77,11,Fire Blast,41,fire,110,85
+77,14,Fire Blast,41,fire,110,85
+77,15,Fire Blast,41,fire,110,85
+77,16,Fire Blast,41,fire,110,85
+77,9,Bounce,42,flying,85,85
+77,10,Bounce,42,flying,85,85
+77,1,Take Down,43,normal,90,85
+77,2,Take Down,43,normal,90,85
+77,3,Agility,43,psychic,-,-
+77,4,Agility,43,psychic,-,-
+77,8,Bounce,44,flying,85,85
+77,5,Bounce,45,flying,85,85
+77,6,Bounce,45,flying,85,85
+77,7,Bounce,45,flying,85,85
+77,11,Bounce,45,flying,85,85
+77,12,Bounce,45,flying,85,85
+77,13,Bounce,45,flying,85,85
+77,14,Bounce,45,flying,85,85
+77,15,Bounce,45,flying,85,85
+77,16,Bounce,45,flying,85,85
+77,9,Flare Blitz,46,fire,120,100
+77,10,Flare Blitz,46,fire,120,100
+77,1,Agility,48,psychic,-,-
+77,2,Agility,48,psychic,-,-
+77,8,Flare Blitz,48,fire,120,100
+77,11,Flare Blitz,49,fire,120,100
+77,14,Flare Blitz,49,fire,120,100
+77,15,Flare Blitz,49,fire,120,100
+77,16,Flare Blitz,49,fire,120,100
+77,3,Fire Blast,53,fire,110,85
+77,4,Fire Blast,53,fire,110,85
+77,5,Fire Blast,53,fire,110,85
+77,6,Fire Blast,53,fire,110,85
+77,7,Fire Blast,53,fire,110,85
+77,12,Fire Blast,53,fire,110,85
+77,13,Fire Blast,53,fire,110,85

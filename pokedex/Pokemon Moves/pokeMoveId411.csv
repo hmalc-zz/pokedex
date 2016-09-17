@@ -1,0 +1,103 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+411,8,Tackle,1,normal,50,100
+411,8,Protect,1,normal,-,-
+411,8,Taunt,1,dark,-,100
+411,8,Metal Sound,1,steel,-,85
+411,9,Tackle,1,normal,50,100
+411,9,Protect,1,normal,-,-
+411,9,Taunt,1,dark,-,100
+411,9,Metal Sound,1,steel,-,85
+411,10,Tackle,1,normal,50,100
+411,10,Protect,1,normal,-,-
+411,10,Taunt,1,dark,-,100
+411,10,Metal Sound,1,steel,-,85
+411,11,Tackle,1,normal,50,100
+411,11,Protect,1,normal,-,-
+411,11,Taunt,1,dark,-,100
+411,11,Metal Sound,1,steel,-,85
+411,14,Tackle,1,normal,50,100
+411,14,Protect,1,normal,-,-
+411,14,Taunt,1,dark,-,100
+411,14,Metal Sound,1,steel,-,85
+411,15,Tackle,1,normal,50,100
+411,15,Protect,1,normal,-,-
+411,15,Taunt,1,dark,-,100
+411,15,Metal Sound,1,steel,-,85
+411,16,Tackle,1,normal,50,100
+411,16,Protect,1,normal,-,-
+411,16,Taunt,1,dark,-,100
+411,16,Metal Sound,1,steel,-,85
+411,8,Taunt,6,dark,-,100
+411,9,Taunt,6,dark,-,100
+411,10,Taunt,6,dark,-,100
+411,11,Taunt,6,dark,-,100
+411,14,Taunt,6,dark,-,100
+411,15,Taunt,6,dark,-,100
+411,16,Taunt,6,dark,-,100
+411,8,Metal Sound,10,steel,-,85
+411,9,Metal Sound,10,steel,-,85
+411,10,Metal Sound,10,steel,-,85
+411,11,Metal Sound,10,steel,-,85
+411,14,Metal Sound,10,steel,-,85
+411,15,Metal Sound,10,steel,-,85
+411,16,Metal Sound,10,steel,-,85
+411,8,Take Down,15,normal,90,85
+411,9,Take Down,15,normal,90,85
+411,10,Take Down,15,normal,90,85
+411,11,Take Down,15,normal,90,85
+411,14,Take Down,15,normal,90,85
+411,15,Take Down,15,normal,90,85
+411,16,Take Down,15,normal,90,85
+411,8,Iron Defense,19,steel,-,-
+411,9,Iron Defense,19,steel,-,-
+411,10,Iron Defense,19,steel,-,-
+411,11,Iron Defense,19,steel,-,-
+411,14,Iron Defense,19,steel,-,-
+411,15,Iron Defense,19,steel,-,-
+411,16,Iron Defense,19,steel,-,-
+411,8,Swagger,24,normal,-,90
+411,9,Swagger,24,normal,-,90
+411,10,Swagger,24,normal,-,90
+411,11,Swagger,24,normal,-,90
+411,14,Swagger,24,normal,-,90
+411,15,Swagger,24,normal,-,90
+411,16,Swagger,24,normal,-,90
+411,8,Ancient Power,28,rock,60,100
+411,9,Ancient Power,28,rock,60,100
+411,10,Ancient Power,28,rock,60,100
+411,11,Ancient Power,28,rock,60,100
+411,14,Ancient Power,28,rock,60,100
+411,15,Ancient Power,28,rock,60,100
+411,16,Ancient Power,28,rock,60,100
+411,8,Block,30,normal,-,-
+411,9,Block,30,normal,-,-
+411,10,Block,30,normal,-,-
+411,11,Block,30,normal,-,-
+411,14,Block,30,normal,-,-
+411,15,Block,30,normal,-,-
+411,16,Block,30,normal,-,-
+411,8,Endure,36,normal,-,-
+411,9,Endure,36,normal,-,-
+411,10,Endure,36,normal,-,-
+411,11,Endure,36,normal,-,-
+411,14,Endure,36,normal,-,-
+411,15,Endure,36,normal,-,-
+411,16,Endure,36,normal,-,-
+411,8,Metal Burst,43,steel,-,100
+411,9,Metal Burst,43,steel,-,100
+411,10,Metal Burst,43,steel,-,100
+411,11,Metal Burst,43,steel,-,100
+411,14,Metal Burst,43,steel,-,100
+411,15,Metal Burst,43,steel,-,100
+411,16,Metal Burst,43,steel,-,100
+411,11,Iron Head,51,steel,80,100
+411,14,Iron Head,51,steel,80,100
+411,15,Iron Head,51,steel,80,100
+411,16,Iron Head,51,steel,80,100
+411,8,Iron Head,52,steel,80,100
+411,9,Iron Head,52,steel,80,100
+411,10,Iron Head,52,steel,80,100
+411,11,Heavy Slam,58,steel,-,100
+411,14,Heavy Slam,58,steel,-,100
+411,15,Heavy Slam,58,steel,-,100
+411,16,Heavy Slam,58,steel,-,100

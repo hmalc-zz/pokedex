@@ -1,0 +1,6 @@
+species_id,form_number,id,identifier,type_1,type_2,height,weight,HP,attack,defense,special_attack,special_defense,speed,base_stat,form_name,is_mega,ability_1,ability_1_name,ability_1_desc,ability_2,ability_2_name,ability_2_desc,hidden_ability,hidden_ability_name,hidden_ability_desc
+479,5,10008,rotom-heat,Electric,Fire,1,0.7,50,65,107,105,107,86,520,heat,0,26,Levitate,Evades ground moves.,,,,,,
+479,4,10009,rotom-wash,Electric,Water,1,0.7,50,65,107,105,107,86,520,wash,0,33,Swift Swim,Doubles Speed during rain.,,,,,,
+479,3,10010,rotom-frost,Electric,Ice,1,0.7,50,65,107,105,107,86,520,frost,0,31,Lightning Rod,"Redirects single-target electric moves to this Pokemon where possible.  Absorbs Electric moves, raising Special Attack one stage.",,,,,,
+479,2,10011,rotom-fan,Electric,Flying,1,0.7,50,65,107,105,107,86,520,fan,0,156,Magic Bounce,Reflects most non-damaging moves back at their user.,,,,,,
+479,1,10012,rotom-mow,Electric,Grass,1,0.7,50,65,107,105,107,86,520,mow,0,182,Pixilate,Turns the bearer's normal moves into fairy moves and strengthens them to 1.3X their power.,,,,,,

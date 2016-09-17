@@ -1,0 +1,49 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+636,11,Ember,1,fire,40,100
+636,11,String Shot,1,bug,-,95
+636,14,Ember,1,fire,40,100
+636,14,String Shot,1,bug,-,95
+636,15,Ember,1,fire,40,100
+636,15,String Shot,1,bug,-,95
+636,16,Ember,1,fire,40,100
+636,16,String Shot,1,bug,-,95
+636,11,Leech Life,10,bug,20,100
+636,14,Leech Life,10,bug,20,100
+636,15,Leech Life,10,bug,20,100
+636,16,Leech Life,10,bug,20,100
+636,11,Take Down,20,normal,90,85
+636,14,Take Down,20,normal,90,85
+636,15,Take Down,20,normal,90,85
+636,16,Take Down,20,normal,90,85
+636,11,Flame Charge,30,fire,50,100
+636,14,Flame Charge,30,fire,50,100
+636,15,Flame Charge,30,fire,50,100
+636,16,Flame Charge,30,fire,50,100
+636,11,Bug Bite,40,bug,60,100
+636,14,Bug Bite,40,bug,60,100
+636,15,Bug Bite,40,bug,60,100
+636,16,Bug Bite,40,bug,60,100
+636,11,Double-Edge,50,normal,120,100
+636,14,Double-Edge,50,normal,120,100
+636,15,Double-Edge,50,normal,120,100
+636,16,Double-Edge,50,normal,120,100
+636,11,Flame Wheel,60,fire,60,100
+636,14,Flame Wheel,60,fire,60,100
+636,15,Flame Wheel,60,fire,60,100
+636,16,Flame Wheel,60,fire,60,100
+636,11,Bug Buzz,70,bug,90,100
+636,14,Bug Buzz,70,bug,90,100
+636,15,Bug Buzz,70,bug,90,100
+636,16,Bug Buzz,70,bug,90,100
+636,11,Amnesia,80,psychic,-,-
+636,14,Amnesia,80,psychic,-,-
+636,15,Amnesia,80,psychic,-,-
+636,16,Amnesia,80,psychic,-,-
+636,11,Thrash,90,normal,120,100
+636,14,Thrash,90,normal,120,100
+636,15,Thrash,90,normal,120,100
+636,16,Thrash,90,normal,120,100
+636,11,Flare Blitz,100,fire,120,100
+636,14,Flare Blitz,100,fire,120,100
+636,15,Flare Blitz,100,fire,120,100
+636,16,Flare Blitz,100,fire,120,100

@@ -1,0 +1,159 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+375,5,Take Down,1,normal,90,85
+375,6,Take Down,1,normal,90,85
+375,7,Take Down,1,normal,90,85
+375,8,Take Down,1,normal,90,85
+375,8,Confusion,1,psychic,50,100
+375,8,Metal Claw,1,steel,50,95
+375,8,Magnet Rise,1,electric,-,-
+375,9,Take Down,1,normal,90,85
+375,9,Confusion,1,psychic,50,100
+375,9,Metal Claw,1,steel,50,95
+375,9,Magnet Rise,1,electric,-,-
+375,10,Take Down,1,normal,90,85
+375,10,Confusion,1,psychic,50,100
+375,10,Metal Claw,1,steel,50,95
+375,10,Magnet Rise,1,electric,-,-
+375,11,Take Down,1,normal,90,85
+375,11,Confusion,1,psychic,50,100
+375,11,Metal Claw,1,steel,50,95
+375,11,Magnet Rise,1,electric,-,-
+375,12,Take Down,1,normal,90,85
+375,13,Take Down,1,normal,90,85
+375,14,Take Down,1,normal,90,85
+375,14,Confusion,1,psychic,50,100
+375,14,Metal Claw,1,steel,50,95
+375,14,Magnet Rise,1,electric,-,-
+375,15,Take Down,1,normal,90,85
+375,15,Confusion,1,psychic,50,100
+375,15,Metal Claw,1,steel,50,95
+375,15,Magnet Rise,1,electric,-,-
+375,16,Take Down,1,normal,90,85
+375,16,Confusion,1,psychic,50,100
+375,16,Metal Claw,1,steel,50,95
+375,16,Magnet Rise,1,electric,-,-
+375,5,Confusion,20,psychic,50,100
+375,5,Metal Claw,20,steel,50,95
+375,6,Confusion,20,psychic,50,100
+375,6,Metal Claw,20,steel,50,95
+375,7,Confusion,20,psychic,50,100
+375,7,Metal Claw,20,steel,50,95
+375,8,Confusion,20,psychic,50,100
+375,8,Metal Claw,20,steel,50,95
+375,9,Confusion,20,psychic,50,100
+375,9,Metal Claw,20,steel,50,95
+375,10,Confusion,20,psychic,50,100
+375,10,Metal Claw,20,steel,50,95
+375,11,Confusion,20,psychic,50,100
+375,11,Metal Claw,20,steel,50,95
+375,12,Confusion,20,psychic,50,100
+375,12,Metal Claw,20,steel,50,95
+375,13,Confusion,20,psychic,50,100
+375,13,Metal Claw,20,steel,50,95
+375,14,Confusion,20,psychic,50,100
+375,14,Metal Claw,20,steel,50,95
+375,15,Confusion,20,psychic,50,100
+375,15,Metal Claw,20,steel,50,95
+375,16,Confusion,20,psychic,50,100
+375,16,Metal Claw,20,steel,50,95
+375,14,Pursuit,23,dark,40,100
+375,15,Pursuit,23,dark,40,100
+375,16,Pursuit,23,dark,40,100
+375,8,Scary Face,24,normal,-,100
+375,9,Scary Face,24,normal,-,100
+375,10,Scary Face,24,normal,-,100
+375,11,Scary Face,24,normal,-,100
+375,5,Scary Face,26,normal,-,100
+375,6,Scary Face,26,normal,-,100
+375,7,Scary Face,26,normal,-,100
+375,12,Scary Face,26,normal,-,100
+375,13,Scary Face,26,normal,-,100
+375,14,Miracle Eye,26,psychic,-,-
+375,15,Miracle Eye,26,psychic,-,-
+375,16,Bullet Punch,26,steel,40,100
+375,8,Pursuit,28,dark,40,100
+375,9,Pursuit,28,dark,40,100
+375,10,Pursuit,28,dark,40,100
+375,11,Pursuit,28,dark,40,100
+375,14,Zen Headbutt,29,psychic,80,90
+375,15,Zen Headbutt,29,psychic,80,90
+375,16,Miracle Eye,29,psychic,-,-
+375,5,Pursuit,32,dark,40,100
+375,6,Pursuit,32,dark,40,100
+375,7,Pursuit,32,dark,40,100
+375,8,Bullet Punch,32,steel,40,100
+375,9,Bullet Punch,32,steel,40,100
+375,10,Bullet Punch,32,steel,40,100
+375,11,Bullet Punch,32,steel,40,100
+375,12,Pursuit,32,dark,40,100
+375,13,Pursuit,32,dark,40,100
+375,14,Bullet Punch,32,steel,40,100
+375,15,Bullet Punch,32,steel,40,100
+375,16,Zen Headbutt,32,psychic,80,90
+375,14,Scary Face,35,normal,-,100
+375,15,Scary Face,35,normal,-,100
+375,16,Scary Face,35,normal,-,100
+375,8,Psychic,36,psychic,90,100
+375,9,Psychic,36,psychic,90,100
+375,10,Psychic,36,psychic,90,100
+375,11,Psychic,36,psychic,90,100
+375,5,Psychic,38,psychic,90,100
+375,6,Psychic,38,psychic,90,100
+375,7,Psychic,38,psychic,90,100
+375,12,Psychic,38,psychic,90,100
+375,13,Psychic,38,psychic,90,100
+375,14,Agility,38,psychic,-,-
+375,15,Agility,38,psychic,-,-
+375,16,Psychic,38,psychic,90,100
+375,8,Iron Defense,40,steel,-,-
+375,9,Iron Defense,40,steel,-,-
+375,10,Iron Defense,40,steel,-,-
+375,11,Iron Defense,40,steel,-,-
+375,14,Psychic,41,psychic,90,100
+375,15,Psychic,41,psychic,90,100
+375,16,Agility,41,psychic,-,-
+375,5,Iron Defense,44,steel,-,-
+375,6,Iron Defense,44,steel,-,-
+375,7,Iron Defense,44,steel,-,-
+375,8,Agility,44,psychic,-,-
+375,9,Agility,44,psychic,-,-
+375,10,Agility,44,psychic,-,-
+375,11,Agility,44,psychic,-,-
+375,12,Iron Defense,44,steel,-,-
+375,13,Iron Defense,44,steel,-,-
+375,14,Meteor Mash,44,steel,90,90
+375,15,Meteor Mash,44,steel,90,90
+375,16,Meteor Mash,44,steel,90,90
+375,14,Iron Defense,47,steel,-,-
+375,15,Iron Defense,47,steel,-,-
+375,16,Iron Defense,47,steel,-,-
+375,8,Meteor Mash,48,steel,90,90
+375,9,Meteor Mash,48,steel,90,90
+375,10,Meteor Mash,48,steel,90,90
+375,11,Meteor Mash,48,steel,90,90
+375,5,Meteor Mash,50,steel,90,90
+375,6,Meteor Mash,50,steel,90,90
+375,7,Meteor Mash,50,steel,90,90
+375,12,Meteor Mash,50,steel,90,90
+375,13,Meteor Mash,50,steel,90,90
+375,14,Hyper Beam,50,normal,150,90
+375,15,Hyper Beam,50,normal,150,90
+375,16,Hyper Beam,50,normal,150,90
+375,8,Zen Headbutt,52,psychic,80,90
+375,9,Zen Headbutt,52,psychic,80,90
+375,10,Zen Headbutt,52,psychic,80,90
+375,11,Zen Headbutt,52,psychic,80,90
+375,5,Agility,56,psychic,-,-
+375,6,Agility,56,psychic,-,-
+375,7,Agility,56,psychic,-,-
+375,8,Hyper Beam,56,normal,150,90
+375,9,Hyper Beam,56,normal,150,90
+375,10,Hyper Beam,56,normal,150,90
+375,11,Hyper Beam,56,normal,150,90
+375,12,Agility,56,psychic,-,-
+375,13,Agility,56,psychic,-,-
+375,5,Hyper Beam,62,normal,150,90
+375,6,Hyper Beam,62,normal,150,90
+375,7,Hyper Beam,62,normal,150,90
+375,12,Hyper Beam,62,normal,150,90
+375,13,Hyper Beam,62,normal,150,90

@@ -1,0 +1,202 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+306,5,Headbutt,1,normal,70,100
+306,5,Tackle,1,normal,50,100
+306,5,Harden,1,normal,-,-
+306,5,Mud-Slap,1,ground,20,100
+306,6,Headbutt,1,normal,70,100
+306,6,Tackle,1,normal,50,100
+306,6,Harden,1,normal,-,-
+306,6,Mud-Slap,1,ground,20,100
+306,7,Headbutt,1,normal,70,100
+306,7,Tackle,1,normal,50,100
+306,7,Harden,1,normal,-,-
+306,7,Mud-Slap,1,ground,20,100
+306,8,Headbutt,1,normal,70,100
+306,8,Tackle,1,normal,50,100
+306,8,Harden,1,normal,-,-
+306,8,Mud-Slap,1,ground,20,100
+306,9,Headbutt,1,normal,70,100
+306,9,Tackle,1,normal,50,100
+306,9,Harden,1,normal,-,-
+306,9,Mud-Slap,1,ground,20,100
+306,10,Headbutt,1,normal,70,100
+306,10,Tackle,1,normal,50,100
+306,10,Harden,1,normal,-,-
+306,10,Mud-Slap,1,ground,20,100
+306,11,Headbutt,1,normal,70,100
+306,11,Tackle,1,normal,50,100
+306,11,Harden,1,normal,-,-
+306,11,Mud-Slap,1,ground,20,100
+306,12,Headbutt,1,normal,70,100
+306,12,Tackle,1,normal,50,100
+306,12,Harden,1,normal,-,-
+306,12,Mud-Slap,1,ground,20,100
+306,13,Headbutt,1,normal,70,100
+306,13,Tackle,1,normal,50,100
+306,13,Harden,1,normal,-,-
+306,13,Mud-Slap,1,ground,20,100
+306,14,Headbutt,1,normal,70,100
+306,14,Tackle,1,normal,50,100
+306,14,Harden,1,normal,-,-
+306,14,Mud-Slap,1,ground,20,100
+306,15,Headbutt,1,normal,70,100
+306,15,Tackle,1,normal,50,100
+306,15,Harden,1,normal,-,-
+306,15,Mud-Slap,1,ground,20,100
+306,16,Headbutt,1,normal,70,100
+306,16,Tackle,1,normal,50,100
+306,16,Harden,1,normal,-,-
+306,16,Mud-Slap,1,ground,20,100
+306,5,Harden,4,normal,-,-
+306,6,Harden,4,normal,-,-
+306,7,Harden,4,normal,-,-
+306,8,Harden,4,normal,-,-
+306,9,Harden,4,normal,-,-
+306,10,Harden,4,normal,-,-
+306,11,Harden,4,normal,-,-
+306,12,Harden,4,normal,-,-
+306,13,Harden,4,normal,-,-
+306,14,Mud-Slap,4,ground,20,100
+306,15,Mud-Slap,4,ground,20,100
+306,16,Mud-Slap,4,ground,20,100
+306,5,Mud-Slap,7,ground,20,100
+306,6,Mud-Slap,7,ground,20,100
+306,7,Mud-Slap,7,ground,20,100
+306,12,Mud-Slap,7,ground,20,100
+306,13,Mud-Slap,7,ground,20,100
+306,16,Headbutt,7,normal,70,100
+306,8,Mud-Slap,8,ground,20,100
+306,9,Mud-Slap,8,ground,20,100
+306,10,Mud-Slap,8,ground,20,100
+306,11,Mud-Slap,8,ground,20,100
+306,14,Headbutt,8,normal,70,100
+306,15,Headbutt,8,normal,70,100
+306,5,Headbutt,10,normal,70,100
+306,6,Headbutt,10,normal,70,100
+306,7,Headbutt,10,normal,70,100
+306,12,Headbutt,10,normal,70,100
+306,13,Headbutt,10,normal,70,100
+306,16,Metal Claw,10,steel,50,95
+306,8,Headbutt,11,normal,70,100
+306,9,Headbutt,11,normal,70,100
+306,10,Headbutt,11,normal,70,100
+306,11,Headbutt,11,normal,70,100
+306,14,Metal Claw,11,steel,50,95
+306,15,Metal Claw,11,steel,50,95
+306,5,Metal Claw,13,steel,50,95
+306,6,Metal Claw,13,steel,50,95
+306,7,Metal Claw,13,steel,50,95
+306,12,Metal Claw,13,steel,50,95
+306,13,Metal Claw,13,steel,50,95
+306,16,Rock Tomb,13,rock,60,95
+306,8,Metal Claw,15,steel,50,95
+306,9,Metal Claw,15,steel,50,95
+306,10,Metal Claw,15,steel,50,95
+306,11,Metal Claw,15,steel,50,95
+306,14,Iron Defense,15,steel,-,-
+306,15,Iron Defense,15,steel,-,-
+306,16,Protect,16,normal,-,-
+306,5,Iron Defense,17,steel,-,-
+306,6,Iron Defense,17,steel,-,-
+306,7,Iron Defense,17,steel,-,-
+306,12,Iron Defense,17,steel,-,-
+306,13,Iron Defense,17,steel,-,-
+306,8,Iron Defense,18,steel,-,-
+306,9,Iron Defense,18,steel,-,-
+306,10,Iron Defense,18,steel,-,-
+306,11,Iron Defense,18,steel,-,-
+306,14,Roar,18,normal,-,-
+306,15,Roar,18,normal,-,-
+306,16,Roar,19,normal,-,-
+306,5,Roar,21,normal,-,-
+306,6,Roar,21,normal,-,-
+306,7,Roar,21,normal,-,-
+306,12,Roar,21,normal,-,-
+306,13,Roar,21,normal,-,-
+306,8,Roar,22,normal,-,-
+306,9,Roar,22,normal,-,-
+306,10,Roar,22,normal,-,-
+306,11,Roar,22,normal,-,-
+306,14,Take Down,22,normal,90,85
+306,15,Take Down,22,normal,90,85
+306,16,Iron Head,22,steel,80,100
+306,5,Take Down,25,normal,90,85
+306,6,Take Down,25,normal,90,85
+306,7,Take Down,25,normal,90,85
+306,8,Take Down,25,normal,90,85
+306,9,Take Down,25,normal,90,85
+306,10,Take Down,25,normal,90,85
+306,11,Take Down,25,normal,90,85
+306,12,Take Down,25,normal,90,85
+306,13,Take Down,25,normal,90,85
+306,14,Iron Head,25,steel,80,100
+306,15,Iron Head,25,steel,80,100
+306,16,Rock Slide,25,rock,75,90
+306,16,Take Down,28,normal,90,85
+306,5,Iron Tail,29,steel,100,75
+306,6,Iron Tail,29,steel,100,75
+306,7,Iron Tail,29,steel,100,75
+306,8,Iron Head,29,steel,80,100
+306,9,Iron Head,29,steel,80,100
+306,10,Iron Head,29,steel,80,100
+306,11,Iron Head,29,steel,80,100
+306,12,Iron Tail,29,steel,100,75
+306,13,Iron Tail,29,steel,100,75
+306,14,Protect,29,normal,-,-
+306,15,Protect,29,normal,-,-
+306,16,Metal Sound,31,steel,-,85
+306,8,Protect,34,normal,-,-
+306,9,Protect,34,normal,-,-
+306,10,Protect,34,normal,-,-
+306,11,Protect,34,normal,-,-
+306,14,Metal Sound,34,steel,-,85
+306,15,Metal Sound,34,steel,-,85
+306,16,Iron Tail,35,steel,100,75
+306,5,Protect,37,normal,-,-
+306,6,Protect,37,normal,-,-
+306,7,Protect,37,normal,-,-
+306,12,Protect,37,normal,-,-
+306,13,Protect,37,normal,-,-
+306,16,Iron Defense,39,steel,-,-
+306,8,Metal Sound,40,steel,-,85
+306,9,Metal Sound,40,steel,-,85
+306,10,Metal Sound,40,steel,-,85
+306,11,Metal Sound,40,steel,-,85
+306,14,Iron Tail,40,steel,100,75
+306,15,Iron Tail,40,steel,100,75
+306,16,Double-Edge,45,normal,120,100
+306,8,Iron Tail,48,steel,100,75
+306,9,Iron Tail,48,steel,100,75
+306,10,Iron Tail,48,steel,100,75
+306,11,Iron Tail,48,steel,100,75
+306,14,Autotomize,48,steel,-,-
+306,15,Autotomize,48,steel,-,-
+306,5,Metal Sound,50,steel,-,85
+306,6,Metal Sound,50,steel,-,85
+306,7,Metal Sound,50,steel,-,85
+306,12,Metal Sound,50,steel,-,85
+306,13,Metal Sound,50,steel,-,85
+306,16,Autotomize,51,steel,-,-
+306,8,Double-Edge,57,normal,120,100
+306,9,Double-Edge,57,normal,120,100
+306,10,Double-Edge,57,normal,120,100
+306,11,Autotomize,57,steel,-,-
+306,14,Heavy Slam,57,steel,-,100
+306,15,Heavy Slam,57,steel,-,100
+306,16,Heavy Slam,57,steel,-,100
+306,5,Double-Edge,63,normal,120,100
+306,6,Double-Edge,63,normal,120,100
+306,7,Double-Edge,63,normal,120,100
+306,12,Double-Edge,63,normal,120,100
+306,13,Double-Edge,63,normal,120,100
+306,16,Metal Burst,63,steel,-,100
+306,8,Metal Burst,65,steel,-,100
+306,9,Metal Burst,65,steel,-,100
+306,10,Metal Burst,65,steel,-,100
+306,11,Heavy Slam,65,steel,-,100
+306,14,Double-Edge,65,normal,120,100
+306,15,Double-Edge,65,normal,120,100
+306,11,Double-Edge,74,normal,120,100
+306,14,Metal Burst,74,steel,-,100
+306,15,Metal Burst,74,steel,-,100
+306,11,Metal Burst,82,steel,-,100

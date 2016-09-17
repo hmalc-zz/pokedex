@@ -1,0 +1,29 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+661,15,Tackle,1,normal,50,100
+661,15,Growl,1,normal,-,100
+661,16,Tackle,1,normal,50,100
+661,16,Growl,1,normal,-,100
+661,15,Quick Attack,6,normal,40,100
+661,16,Quick Attack,6,normal,40,100
+661,15,Peck,10,flying,35,100
+661,16,Peck,10,flying,35,100
+661,15,Agility,13,psychic,-,-
+661,16,Agility,13,psychic,-,-
+661,15,Flail,16,normal,-,100
+661,16,Flail,16,normal,-,100
+661,15,Roost,21,flying,-,-
+661,16,Roost,21,flying,-,-
+661,15,Razor Wind,25,normal,80,100
+661,16,Razor Wind,25,normal,80,100
+661,15,Natural Gift,29,normal,-,100
+661,16,Natural Gift,29,normal,-,100
+661,15,Flame Charge,34,fire,50,100
+661,16,Flame Charge,34,fire,50,100
+661,15,Acrobatics,39,flying,55,100
+661,16,Acrobatics,39,flying,55,100
+661,15,Me First,41,normal,-,-
+661,16,Me First,41,normal,-,-
+661,15,Tailwind,45,flying,-,-
+661,16,Tailwind,45,flying,-,-
+661,15,Steel Wing,48,steel,70,90
+661,16,Steel Wing,48,steel,70,90

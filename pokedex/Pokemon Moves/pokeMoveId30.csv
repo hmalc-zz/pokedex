@@ -1,0 +1,176 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+30,1,Scratch,1,normal,40,100
+30,1,Tackle,1,normal,50,100
+30,1,Growl,1,normal,-,100
+30,2,Scratch,1,normal,40,100
+30,2,Tackle,1,normal,50,100
+30,2,Growl,1,normal,-,100
+30,3,Tackle,1,normal,50,100
+30,3,Growl,1,normal,-,100
+30,4,Tackle,1,normal,50,100
+30,4,Growl,1,normal,-,100
+30,5,Scratch,1,normal,40,100
+30,5,Growl,1,normal,-,100
+30,6,Scratch,1,normal,40,100
+30,6,Growl,1,normal,-,100
+30,7,Scratch,1,normal,40,100
+30,7,Growl,1,normal,-,100
+30,8,Scratch,1,normal,40,100
+30,8,Growl,1,normal,-,100
+30,9,Scratch,1,normal,40,100
+30,9,Growl,1,normal,-,100
+30,10,Scratch,1,normal,40,100
+30,10,Growl,1,normal,-,100
+30,11,Scratch,1,normal,40,100
+30,11,Growl,1,normal,-,100
+30,12,Scratch,1,normal,40,100
+30,12,Growl,1,normal,-,100
+30,13,Scratch,1,normal,40,100
+30,13,Growl,1,normal,-,100
+30,14,Scratch,1,normal,40,100
+30,14,Growl,1,normal,-,100
+30,15,Scratch,1,normal,40,100
+30,15,Growl,1,normal,-,100
+30,16,Scratch,1,normal,40,100
+30,16,Growl,1,normal,-,100
+30,8,Tail Whip,7,normal,-,100
+30,9,Tail Whip,7,normal,-,100
+30,10,Tail Whip,7,normal,-,100
+30,11,Tail Whip,7,normal,-,100
+30,14,Tail Whip,7,normal,-,100
+30,15,Tail Whip,7,normal,-,100
+30,16,Tail Whip,7,normal,-,100
+30,1,Scratch,8,normal,40,100
+30,2,Scratch,8,normal,40,100
+30,3,Scratch,8,normal,40,100
+30,4,Scratch,8,normal,40,100
+30,5,Tail Whip,8,normal,-,100
+30,6,Tail Whip,8,normal,-,100
+30,7,Tail Whip,8,normal,-,100
+30,12,Tail Whip,8,normal,-,100
+30,13,Tail Whip,8,normal,-,100
+30,8,Double Kick,9,fighting,30,100
+30,9,Double Kick,9,fighting,30,100
+30,10,Double Kick,9,fighting,30,100
+30,11,Double Kick,9,fighting,30,100
+30,14,Double Kick,9,fighting,30,100
+30,15,Double Kick,9,fighting,30,100
+30,16,Double Kick,9,fighting,30,100
+30,2,Double Kick,12,fighting,30,100
+30,3,Double Kick,12,fighting,30,100
+30,4,Double Kick,12,fighting,30,100
+30,5,Double Kick,12,fighting,30,100
+30,6,Double Kick,12,fighting,30,100
+30,7,Double Kick,12,fighting,30,100
+30,12,Double Kick,12,fighting,30,100
+30,13,Double Kick,12,fighting,30,100
+30,8,Poison Sting,13,poison,15,100
+30,9,Poison Sting,13,poison,15,100
+30,10,Poison Sting,13,poison,15,100
+30,11,Poison Sting,13,poison,15,100
+30,14,Poison Sting,13,poison,15,100
+30,15,Poison Sting,13,poison,15,100
+30,16,Poison Sting,13,poison,15,100
+30,1,Poison Sting,14,poison,15,100
+30,5,Poison Sting,18,poison,15,100
+30,6,Poison Sting,18,poison,15,100
+30,7,Poison Sting,18,poison,15,100
+30,12,Poison Sting,18,poison,15,100
+30,13,Poison Sting,18,poison,15,100
+30,2,Poison Sting,19,poison,15,100
+30,3,Poison Sting,19,poison,15,100
+30,4,Poison Sting,19,poison,15,100
+30,8,Fury Swipes,20,normal,18,80
+30,9,Fury Swipes,20,normal,18,80
+30,10,Fury Swipes,20,normal,18,80
+30,11,Fury Swipes,20,normal,18,80
+30,14,Fury Swipes,20,normal,18,80
+30,15,Fury Swipes,20,normal,18,80
+30,16,Fury Swipes,20,normal,18,80
+30,5,Bite,22,dark,60,100
+30,6,Bite,22,dark,60,100
+30,7,Bite,22,dark,60,100
+30,12,Bite,22,dark,60,100
+30,13,Bite,22,dark,60,100
+30,1,Tail Whip,23,normal,-,100
+30,8,Bite,23,dark,60,100
+30,9,Bite,23,dark,60,100
+30,10,Bite,23,dark,60,100
+30,11,Bite,23,dark,60,100
+30,14,Bite,23,dark,60,100
+30,15,Bite,23,dark,60,100
+30,16,Bite,23,dark,60,100
+30,5,Helping Hand,26,normal,-,-
+30,6,Helping Hand,26,normal,-,-
+30,7,Helping Hand,26,normal,-,-
+30,12,Helping Hand,26,normal,-,-
+30,13,Helping Hand,26,normal,-,-
+30,2,Tail Whip,27,normal,-,100
+30,3,Tail Whip,27,normal,-,100
+30,4,Tail Whip,27,normal,-,100
+30,8,Helping Hand,28,normal,-,-
+30,9,Helping Hand,28,normal,-,-
+30,10,Helping Hand,28,normal,-,-
+30,11,Helping Hand,28,normal,-,-
+30,14,Helping Hand,28,normal,-,-
+30,15,Helping Hand,28,normal,-,-
+30,16,Helping Hand,28,normal,-,-
+30,1,Bite,32,dark,60,100
+30,5,Fury Swipes,34,normal,18,80
+30,6,Fury Swipes,34,normal,18,80
+30,7,Fury Swipes,34,normal,18,80
+30,12,Fury Swipes,34,normal,18,80
+30,13,Fury Swipes,34,normal,18,80
+30,8,Toxic Spikes,35,poison,-,-
+30,9,Toxic Spikes,35,poison,-,-
+30,10,Toxic Spikes,35,poison,-,-
+30,11,Toxic Spikes,35,poison,-,-
+30,14,Toxic Spikes,35,poison,-,-
+30,15,Toxic Spikes,35,poison,-,-
+30,16,Toxic Spikes,35,poison,-,-
+30,2,Bite,36,dark,60,100
+30,3,Bite,36,dark,60,100
+30,4,Bite,36,dark,60,100
+30,8,Flatter,38,dark,-,100
+30,9,Flatter,38,dark,-,100
+30,10,Flatter,38,dark,-,100
+30,11,Flatter,38,dark,-,100
+30,14,Flatter,38,dark,-,100
+30,15,Flatter,38,dark,-,100
+30,16,Flatter,38,dark,-,100
+30,1,Fury Swipes,41,normal,18,80
+30,5,Flatter,43,dark,-,100
+30,6,Flatter,43,dark,-,100
+30,7,Flatter,43,dark,-,100
+30,8,Crunch,43,dark,80,100
+30,9,Crunch,43,dark,80,100
+30,10,Crunch,43,dark,80,100
+30,11,Crunch,43,dark,80,100
+30,12,Flatter,43,dark,-,100
+30,13,Flatter,43,dark,-,100
+30,14,Crunch,43,dark,80,100
+30,15,Crunch,43,dark,80,100
+30,16,Crunch,43,dark,80,100
+30,2,Fury Swipes,46,normal,18,80
+30,3,Fury Swipes,46,normal,18,80
+30,4,Fury Swipes,46,normal,18,80
+30,1,Double Kick,50,fighting,30,100
+30,8,Captivate,50,normal,-,100
+30,9,Captivate,50,normal,-,100
+30,10,Captivate,50,normal,-,100
+30,11,Captivate,50,normal,-,100
+30,14,Captivate,50,normal,-,100
+30,15,Captivate,50,normal,-,100
+30,16,Captivate,50,normal,-,100
+30,5,Crunch,53,dark,80,100
+30,6,Crunch,53,dark,80,100
+30,7,Crunch,53,dark,80,100
+30,12,Crunch,53,dark,80,100
+30,13,Crunch,53,dark,80,100
+30,8,Poison Fang,58,poison,50,100
+30,9,Poison Fang,58,poison,50,100
+30,10,Poison Fang,58,poison,50,100
+30,11,Poison Fang,58,poison,50,100
+30,14,Poison Fang,58,poison,50,100
+30,15,Poison Fang,58,poison,50,100
+30,16,Poison Fang,58,poison,50,100

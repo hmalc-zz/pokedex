@@ -1,0 +1,39 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+10,1,Tackle,1,normal,50,100
+10,1,String Shot,1,bug,-,95
+10,2,Tackle,1,normal,50,100
+10,2,String Shot,1,bug,-,95
+10,3,Tackle,1,normal,50,100
+10,3,String Shot,1,bug,-,95
+10,4,Tackle,1,normal,50,100
+10,4,String Shot,1,bug,-,95
+10,5,Tackle,1,normal,50,100
+10,5,String Shot,1,bug,-,95
+10,6,Tackle,1,normal,50,100
+10,6,String Shot,1,bug,-,95
+10,7,Tackle,1,normal,50,100
+10,7,String Shot,1,bug,-,95
+10,8,Tackle,1,normal,50,100
+10,8,String Shot,1,bug,-,95
+10,9,Tackle,1,normal,50,100
+10,9,String Shot,1,bug,-,95
+10,10,Tackle,1,normal,50,100
+10,10,String Shot,1,bug,-,95
+10,11,Tackle,1,normal,50,100
+10,11,String Shot,1,bug,-,95
+10,12,Tackle,1,normal,50,100
+10,12,String Shot,1,bug,-,95
+10,13,Tackle,1,normal,50,100
+10,13,String Shot,1,bug,-,95
+10,14,Tackle,1,normal,50,100
+10,14,String Shot,1,bug,-,95
+10,15,Tackle,1,normal,50,100
+10,15,String Shot,1,bug,-,95
+10,16,Tackle,1,normal,50,100
+10,16,String Shot,1,bug,-,95
+10,9,Bug Bite,15,bug,60,100
+10,10,Bug Bite,15,bug,60,100
+10,11,Bug Bite,15,bug,60,100
+10,14,Bug Bite,15,bug,60,100
+10,15,Bug Bite,15,bug,60,100
+10,16,Bug Bite,15,bug,60,100

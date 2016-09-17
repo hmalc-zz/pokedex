@@ -1,0 +1,27 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+692,15,Water Gun,1,water,40,100
+692,15,Splash,1,normal,-,-
+692,16,Water Gun,1,water,40,100
+692,16,Splash,1,normal,-,-
+692,15,Water Sport,7,water,-,-
+692,16,Water Sport,7,water,-,-
+692,15,Vice Grip,9,normal,55,100
+692,16,Vice Grip,9,normal,55,100
+692,15,Bubble,12,water,40,100
+692,16,Bubble,12,water,40,100
+692,15,Flail,16,normal,-,100
+692,16,Flail,16,normal,-,100
+692,15,Bubble Beam,20,water,65,100
+692,16,Bubble Beam,20,water,65,100
+692,15,Swords Dance,25,normal,-,-
+692,16,Swords Dance,25,normal,-,-
+692,15,Crabhammer,30,water,100,90
+692,16,Crabhammer,30,water,100,90
+692,15,Water Pulse,34,water,60,100
+692,16,Water Pulse,34,water,60,100
+692,15,Smack Down,39,rock,50,100
+692,16,Smack Down,39,rock,50,100
+692,15,Aqua Jet,43,water,40,100
+692,16,Aqua Jet,43,water,40,100
+692,15,Muddy Water,48,water,90,85
+692,16,Muddy Water,48,water,90,85

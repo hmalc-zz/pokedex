@@ -1,0 +1,195 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+20,1,Tackle,1,normal,50,100
+20,1,Tail Whip,1,normal,-,100
+20,1,Quick Attack,1,normal,40,100
+20,2,Tackle,1,normal,50,100
+20,2,Tail Whip,1,normal,-,100
+20,2,Quick Attack,1,normal,40,100
+20,3,Tackle,1,normal,50,100
+20,3,Tail Whip,1,normal,-,100
+20,3,Quick Attack,1,normal,40,100
+20,4,Tackle,1,normal,50,100
+20,4,Tail Whip,1,normal,-,100
+20,4,Quick Attack,1,normal,40,100
+20,5,Tackle,1,normal,50,100
+20,5,Tail Whip,1,normal,-,100
+20,5,Quick Attack,1,normal,40,100
+20,6,Tackle,1,normal,50,100
+20,6,Tail Whip,1,normal,-,100
+20,6,Quick Attack,1,normal,40,100
+20,7,Tackle,1,normal,50,100
+20,7,Tail Whip,1,normal,-,100
+20,7,Quick Attack,1,normal,40,100
+20,8,Swords Dance,1,normal,-,-
+20,8,Tackle,1,normal,50,100
+20,8,Tail Whip,1,normal,-,100
+20,8,Quick Attack,1,normal,40,100
+20,8,Focus Energy,1,normal,-,-
+20,9,Swords Dance,1,normal,-,-
+20,9,Tackle,1,normal,50,100
+20,9,Tail Whip,1,normal,-,100
+20,9,Quick Attack,1,normal,40,100
+20,9,Focus Energy,1,normal,-,-
+20,10,Swords Dance,1,normal,-,-
+20,10,Tackle,1,normal,50,100
+20,10,Tail Whip,1,normal,-,100
+20,10,Quick Attack,1,normal,40,100
+20,10,Focus Energy,1,normal,-,-
+20,11,Swords Dance,1,normal,-,-
+20,11,Tackle,1,normal,50,100
+20,11,Tail Whip,1,normal,-,100
+20,11,Quick Attack,1,normal,40,100
+20,11,Focus Energy,1,normal,-,-
+20,12,Tackle,1,normal,50,100
+20,12,Tail Whip,1,normal,-,100
+20,12,Quick Attack,1,normal,40,100
+20,13,Tackle,1,normal,50,100
+20,13,Tail Whip,1,normal,-,100
+20,13,Quick Attack,1,normal,40,100
+20,14,Swords Dance,1,normal,-,-
+20,14,Tackle,1,normal,50,100
+20,14,Tail Whip,1,normal,-,100
+20,14,Quick Attack,1,normal,40,100
+20,14,Focus Energy,1,normal,-,-
+20,15,Swords Dance,1,normal,-,-
+20,15,Tackle,1,normal,50,100
+20,15,Tail Whip,1,normal,-,100
+20,15,Quick Attack,1,normal,40,100
+20,15,Focus Energy,1,normal,-,-
+20,16,Swords Dance,1,normal,-,-
+20,16,Tackle,1,normal,50,100
+20,16,Tail Whip,1,normal,-,100
+20,16,Quick Attack,1,normal,40,100
+20,16,Focus Energy,1,normal,-,-
+20,8,Quick Attack,4,normal,40,100
+20,9,Quick Attack,4,normal,40,100
+20,10,Quick Attack,4,normal,40,100
+20,11,Quick Attack,4,normal,40,100
+20,14,Quick Attack,4,normal,40,100
+20,15,Quick Attack,4,normal,40,100
+20,16,Quick Attack,4,normal,40,100
+20,1,Quick Attack,7,normal,40,100
+20,2,Quick Attack,7,normal,40,100
+20,3,Quick Attack,7,normal,40,100
+20,4,Quick Attack,7,normal,40,100
+20,5,Quick Attack,7,normal,40,100
+20,6,Quick Attack,7,normal,40,100
+20,7,Quick Attack,7,normal,40,100
+20,8,Focus Energy,7,normal,-,-
+20,9,Focus Energy,7,normal,-,-
+20,10,Focus Energy,7,normal,-,-
+20,11,Focus Energy,7,normal,-,-
+20,12,Quick Attack,7,normal,40,100
+20,13,Quick Attack,7,normal,40,100
+20,14,Focus Energy,7,normal,-,-
+20,15,Focus Energy,7,normal,-,-
+20,16,Focus Energy,7,normal,-,-
+20,8,Bite,10,dark,60,100
+20,9,Bite,10,dark,60,100
+20,10,Bite,10,dark,60,100
+20,11,Bite,10,dark,60,100
+20,14,Bite,10,dark,60,100
+20,15,Bite,10,dark,60,100
+20,16,Bite,10,dark,60,100
+20,3,Hyper Fang,13,normal,80,90
+20,4,Hyper Fang,13,normal,80,90
+20,5,Hyper Fang,13,normal,80,90
+20,6,Hyper Fang,13,normal,80,90
+20,7,Hyper Fang,13,normal,80,90
+20,8,Pursuit,13,dark,40,100
+20,9,Pursuit,13,dark,40,100
+20,10,Pursuit,13,dark,40,100
+20,11,Pursuit,13,dark,40,100
+20,12,Hyper Fang,13,normal,80,90
+20,13,Hyper Fang,13,normal,80,90
+20,14,Pursuit,13,dark,40,100
+20,15,Pursuit,13,dark,40,100
+20,16,Pursuit,13,dark,40,100
+20,1,Hyper Fang,14,normal,80,90
+20,2,Hyper Fang,14,normal,80,90
+20,8,Hyper Fang,16,normal,80,90
+20,9,Hyper Fang,16,normal,80,90
+20,10,Hyper Fang,16,normal,80,90
+20,11,Hyper Fang,16,normal,80,90
+20,14,Hyper Fang,16,normal,80,90
+20,15,Hyper Fang,16,normal,80,90
+20,16,Hyper Fang,16,normal,80,90
+20,8,Sucker Punch,19,dark,80,100
+20,9,Sucker Punch,19,dark,80,100
+20,10,Sucker Punch,19,dark,80,100
+20,11,Sucker Punch,19,dark,80,100
+20,14,Sucker Punch,19,dark,80,100
+20,15,Sucker Punch,19,dark,80,100
+20,16,Sucker Punch,19,dark,80,100
+20,3,Scary Face,20,normal,-,100
+20,4,Scary Face,20,normal,-,100
+20,5,Scary Face,20,normal,-,100
+20,6,Scary Face,20,normal,-,100
+20,7,Scary Face,20,normal,-,100
+20,8,Scary Face,20,normal,-,100
+20,9,Scary Face,20,normal,-,100
+20,10,Scary Face,20,normal,-,100
+20,11,Scary Face,20,normal,-,100
+20,12,Scary Face,20,normal,-,100
+20,13,Scary Face,20,normal,-,100
+20,14,Scary Face,20,normal,-,100
+20,15,Scary Face,20,normal,-,100
+20,16,Scary Face,20,normal,-,100
+20,8,Crunch,24,dark,80,100
+20,9,Crunch,24,dark,80,100
+20,10,Crunch,24,dark,80,100
+20,11,Crunch,24,dark,80,100
+20,14,Crunch,24,dark,80,100
+20,15,Crunch,24,dark,80,100
+20,16,Crunch,24,dark,80,100
+20,1,Focus Energy,27,normal,-,-
+20,2,Focus Energy,27,normal,-,-
+20,8,Assurance,29,dark,60,100
+20,9,Assurance,29,dark,60,100
+20,10,Assurance,29,dark,60,100
+20,11,Assurance,29,dark,60,100
+20,14,Assurance,29,dark,60,100
+20,15,Assurance,29,dark,60,100
+20,16,Assurance,29,dark,60,100
+20,3,Pursuit,30,dark,40,100
+20,4,Pursuit,30,dark,40,100
+20,5,Pursuit,30,dark,40,100
+20,6,Pursuit,30,dark,40,100
+20,7,Pursuit,30,dark,40,100
+20,12,Pursuit,30,dark,40,100
+20,13,Pursuit,30,dark,40,100
+20,8,Super Fang,34,normal,-,90
+20,9,Super Fang,34,normal,-,90
+20,10,Super Fang,34,normal,-,90
+20,11,Super Fang,34,normal,-,90
+20,14,Super Fang,34,normal,-,90
+20,15,Super Fang,34,normal,-,90
+20,16,Super Fang,34,normal,-,90
+20,8,Double-Edge,39,normal,120,100
+20,9,Double-Edge,39,normal,120,100
+20,10,Double-Edge,39,normal,120,100
+20,11,Double-Edge,39,normal,120,100
+20,14,Double-Edge,39,normal,120,100
+20,15,Double-Edge,39,normal,120,100
+20,16,Double-Edge,39,normal,120,100
+20,3,Super Fang,40,normal,-,90
+20,4,Super Fang,40,normal,-,90
+20,5,Super Fang,40,normal,-,90
+20,6,Super Fang,40,normal,-,90
+20,7,Super Fang,40,normal,-,90
+20,12,Super Fang,40,normal,-,90
+20,13,Super Fang,40,normal,-,90
+20,1,Super Fang,41,normal,-,90
+20,2,Super Fang,41,normal,-,90
+20,8,Endeavor,44,normal,-,100
+20,9,Endeavor,44,normal,-,100
+20,10,Endeavor,44,normal,-,100
+20,11,Endeavor,44,normal,-,100
+20,14,Endeavor,44,normal,-,100
+20,15,Endeavor,44,normal,-,100
+20,16,Endeavor,44,normal,-,100
+20,5,Endeavor,50,normal,-,100
+20,6,Endeavor,50,normal,-,100
+20,7,Endeavor,50,normal,-,100
+20,12,Endeavor,50,normal,-,100
+20,13,Endeavor,50,normal,-,100

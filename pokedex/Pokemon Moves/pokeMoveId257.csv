@@ -1,0 +1,207 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+257,5,Fire Punch,1,fire,75,100
+257,5,Scratch,1,normal,40,100
+257,5,Growl,1,normal,-,100
+257,5,Ember,1,fire,40,100
+257,5,Focus Energy,1,normal,-,-
+257,6,Fire Punch,1,fire,75,100
+257,6,Scratch,1,normal,40,100
+257,6,Growl,1,normal,-,100
+257,6,Ember,1,fire,40,100
+257,6,Focus Energy,1,normal,-,-
+257,7,Fire Punch,1,fire,75,100
+257,7,Scratch,1,normal,40,100
+257,7,Growl,1,normal,-,100
+257,7,Ember,1,fire,40,100
+257,7,Focus Energy,1,normal,-,-
+257,8,Fire Punch,1,fire,75,100
+257,8,Scratch,1,normal,40,100
+257,8,Growl,1,normal,-,100
+257,8,Ember,1,fire,40,100
+257,8,Focus Energy,1,normal,-,-
+257,9,Fire Punch,1,fire,75,100
+257,9,Scratch,1,normal,40,100
+257,9,Growl,1,normal,-,100
+257,9,Ember,1,fire,40,100
+257,9,Focus Energy,1,normal,-,-
+257,10,Fire Punch,1,fire,75,100
+257,10,Scratch,1,normal,40,100
+257,10,Growl,1,normal,-,100
+257,10,Ember,1,fire,40,100
+257,10,Focus Energy,1,normal,-,-
+257,11,Fire Punch,1,fire,75,100
+257,11,Scratch,1,normal,40,100
+257,11,Growl,1,normal,-,100
+257,11,Ember,1,fire,40,100
+257,11,Focus Energy,1,normal,-,-
+257,11,High Jump Kick,1,fighting,130,90
+257,12,Fire Punch,1,fire,75,100
+257,12,Scratch,1,normal,40,100
+257,12,Growl,1,normal,-,100
+257,12,Ember,1,fire,40,100
+257,12,Focus Energy,1,normal,-,-
+257,13,Fire Punch,1,fire,75,100
+257,13,Scratch,1,normal,40,100
+257,13,Growl,1,normal,-,100
+257,13,Ember,1,fire,40,100
+257,13,Focus Energy,1,normal,-,-
+257,14,Fire Punch,1,fire,75,100
+257,14,Scratch,1,normal,40,100
+257,14,Growl,1,normal,-,100
+257,14,Ember,1,fire,40,100
+257,14,Focus Energy,1,normal,-,-
+257,14,High Jump Kick,1,fighting,130,90
+257,15,Fire Punch,1,fire,75,100
+257,15,Scratch,1,normal,40,100
+257,15,Growl,1,normal,-,100
+257,15,Ember,1,fire,40,100
+257,15,Focus Energy,1,normal,-,-
+257,15,High Jump Kick,1,fighting,130,90
+257,15,Flare Blitz,1,fire,120,100
+257,16,Fire Punch,1,fire,75,100
+257,16,Scratch,1,normal,40,100
+257,16,Sand Attack,1,ground,-,100
+257,16,Growl,1,normal,-,100
+257,16,Ember,1,fire,40,100
+257,16,High Jump Kick,1,fighting,130,90
+257,16,Flare Blitz,1,fire,120,100
+257,16,Ember,5,fire,40,100
+257,5,Focus Energy,7,normal,-,-
+257,6,Focus Energy,7,normal,-,-
+257,7,Focus Energy,7,normal,-,-
+257,8,Focus Energy,7,normal,-,-
+257,9,Focus Energy,7,normal,-,-
+257,10,Focus Energy,7,normal,-,-
+257,11,Focus Energy,7,normal,-,-
+257,12,Focus Energy,7,normal,-,-
+257,13,Focus Energy,7,normal,-,-
+257,14,Focus Energy,7,normal,-,-
+257,15,Focus Energy,7,normal,-,-
+257,16,Sand Attack,10,ground,-,100
+257,5,Ember,13,fire,40,100
+257,6,Ember,13,fire,40,100
+257,7,Ember,13,fire,40,100
+257,8,Ember,13,fire,40,100
+257,9,Ember,13,fire,40,100
+257,10,Ember,13,fire,40,100
+257,11,Ember,13,fire,40,100
+257,12,Ember,13,fire,40,100
+257,13,Ember,13,fire,40,100
+257,14,Ember,13,fire,40,100
+257,15,Ember,13,fire,40,100
+257,16,Peck,14,flying,35,100
+257,5,Double Kick,16,fighting,30,100
+257,6,Double Kick,16,fighting,30,100
+257,7,Double Kick,16,fighting,30,100
+257,8,Double Kick,16,fighting,30,100
+257,9,Double Kick,16,fighting,30,100
+257,10,Double Kick,16,fighting,30,100
+257,11,Double Kick,16,fighting,30,100
+257,12,Double Kick,16,fighting,30,100
+257,13,Double Kick,16,fighting,30,100
+257,14,Double Kick,16,fighting,30,100
+257,15,Double Kick,16,fighting,30,100
+257,16,Double Kick,16,fighting,30,100
+257,5,Peck,17,flying,35,100
+257,6,Peck,17,flying,35,100
+257,7,Peck,17,flying,35,100
+257,8,Peck,17,flying,35,100
+257,9,Peck,17,flying,35,100
+257,10,Peck,17,flying,35,100
+257,11,Peck,17,flying,35,100
+257,12,Peck,17,flying,35,100
+257,13,Peck,17,flying,35,100
+257,14,Peck,17,flying,35,100
+257,15,Peck,17,flying,35,100
+257,16,Flame Charge,20,fire,50,100
+257,5,Sand Attack,21,ground,-,100
+257,6,Sand Attack,21,ground,-,100
+257,7,Sand Attack,21,ground,-,100
+257,8,Sand Attack,21,ground,-,100
+257,9,Sand Attack,21,ground,-,100
+257,10,Sand Attack,21,ground,-,100
+257,11,Sand Attack,21,ground,-,100
+257,12,Sand Attack,21,ground,-,100
+257,13,Sand Attack,21,ground,-,100
+257,14,Sand Attack,21,ground,-,100
+257,15,Sand Attack,21,ground,-,100
+257,16,Quick Attack,25,normal,40,100
+257,5,Bulk Up,28,fighting,-,-
+257,6,Bulk Up,28,fighting,-,-
+257,7,Bulk Up,28,fighting,-,-
+257,8,Bulk Up,28,fighting,-,-
+257,9,Bulk Up,28,fighting,-,-
+257,10,Bulk Up,28,fighting,-,-
+257,11,Bulk Up,28,fighting,-,-
+257,12,Bulk Up,28,fighting,-,-
+257,13,Bulk Up,28,fighting,-,-
+257,14,Bulk Up,28,fighting,-,-
+257,15,Bulk Up,28,fighting,-,-
+257,16,Bulk Up,31,fighting,-,-
+257,5,Quick Attack,32,normal,40,100
+257,6,Quick Attack,32,normal,40,100
+257,7,Quick Attack,32,normal,40,100
+257,8,Quick Attack,32,normal,40,100
+257,9,Quick Attack,32,normal,40,100
+257,10,Quick Attack,32,normal,40,100
+257,11,Quick Attack,32,normal,40,100
+257,12,Quick Attack,32,normal,40,100
+257,13,Quick Attack,32,normal,40,100
+257,14,Quick Attack,32,normal,40,100
+257,15,Quick Attack,32,normal,40,100
+257,5,Blaze Kick,36,fire,85,90
+257,6,Blaze Kick,36,fire,85,90
+257,7,Blaze Kick,36,fire,85,90
+257,8,Blaze Kick,36,fire,85,90
+257,9,Blaze Kick,36,fire,85,90
+257,10,Blaze Kick,36,fire,85,90
+257,11,Blaze Kick,36,fire,85,90
+257,12,Blaze Kick,36,fire,85,90
+257,13,Blaze Kick,36,fire,85,90
+257,14,Blaze Kick,36,fire,85,90
+257,15,Blaze Kick,36,fire,85,90
+257,16,Blaze Kick,36,fire,85,90
+257,16,Focus Energy,37,normal,-,-
+257,5,Slash,42,normal,70,100
+257,6,Slash,42,normal,70,100
+257,7,Slash,42,normal,70,100
+257,8,Slash,42,normal,70,100
+257,9,Slash,42,normal,70,100
+257,10,Slash,42,normal,70,100
+257,11,Slash,42,normal,70,100
+257,12,Slash,42,normal,70,100
+257,13,Slash,42,normal,70,100
+257,14,Slash,42,normal,70,100
+257,15,Slash,42,normal,70,100
+257,16,Slash,44,normal,70,100
+257,5,Mirror Move,49,flying,-,-
+257,6,Mirror Move,49,flying,-,-
+257,7,Mirror Move,49,flying,-,-
+257,8,Brave Bird,49,flying,120,100
+257,9,Brave Bird,49,flying,120,100
+257,10,Brave Bird,49,flying,120,100
+257,11,Brave Bird,49,flying,120,100
+257,12,Mirror Move,49,flying,-,-
+257,13,Mirror Move,49,flying,-,-
+257,14,Brave Bird,49,flying,120,100
+257,15,Brave Bird,49,flying,120,100
+257,16,Brave Bird,50,flying,120,100
+257,16,Sky Uppercut,57,fighting,85,90
+257,5,Sky Uppercut,59,fighting,85,90
+257,6,Sky Uppercut,59,fighting,85,90
+257,7,Sky Uppercut,59,fighting,85,90
+257,8,Sky Uppercut,59,fighting,85,90
+257,9,Sky Uppercut,59,fighting,85,90
+257,10,Sky Uppercut,59,fighting,85,90
+257,11,Sky Uppercut,59,fighting,85,90
+257,12,Sky Uppercut,59,fighting,85,90
+257,13,Sky Uppercut,59,fighting,85,90
+257,14,Sky Uppercut,59,fighting,85,90
+257,15,Sky Uppercut,59,fighting,85,90
+257,16,Flare Blitz,63,fire,120,100
+257,8,Flare Blitz,66,fire,120,100
+257,9,Flare Blitz,66,fire,120,100
+257,10,Flare Blitz,66,fire,120,100
+257,11,Flare Blitz,66,fire,120,100
+257,14,Flare Blitz,66,fire,120,100
+257,15,Flare Blitz,66,fire,120,100

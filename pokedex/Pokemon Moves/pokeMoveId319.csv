@@ -1,0 +1,206 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+319,5,Leer,1,normal,-,100
+319,5,Bite,1,dark,60,100
+319,5,Rage,1,normal,20,100
+319,5,Focus Energy,1,normal,-,-
+319,6,Leer,1,normal,-,100
+319,6,Bite,1,dark,60,100
+319,6,Rage,1,normal,20,100
+319,6,Focus Energy,1,normal,-,-
+319,7,Leer,1,normal,-,100
+319,7,Bite,1,dark,60,100
+319,7,Rage,1,normal,20,100
+319,7,Focus Energy,1,normal,-,-
+319,8,Leer,1,normal,-,100
+319,8,Bite,1,dark,60,100
+319,8,Rage,1,normal,20,100
+319,8,Focus Energy,1,normal,-,-
+319,9,Leer,1,normal,-,100
+319,9,Bite,1,dark,60,100
+319,9,Rage,1,normal,20,100
+319,9,Focus Energy,1,normal,-,-
+319,9,Feint,1,normal,30,100
+319,10,Leer,1,normal,-,100
+319,10,Bite,1,dark,60,100
+319,10,Rage,1,normal,20,100
+319,10,Focus Energy,1,normal,-,-
+319,10,Feint,1,normal,30,100
+319,11,Leer,1,normal,-,100
+319,11,Bite,1,dark,60,100
+319,11,Rage,1,normal,20,100
+319,11,Focus Energy,1,normal,-,-
+319,11,Feint,1,normal,30,100
+319,12,Leer,1,normal,-,100
+319,12,Bite,1,dark,60,100
+319,12,Rage,1,normal,20,100
+319,12,Focus Energy,1,normal,-,-
+319,13,Leer,1,normal,-,100
+319,13,Bite,1,dark,60,100
+319,13,Rage,1,normal,20,100
+319,13,Focus Energy,1,normal,-,-
+319,14,Leer,1,normal,-,100
+319,14,Bite,1,dark,60,100
+319,14,Rage,1,normal,20,100
+319,14,Focus Energy,1,normal,-,-
+319,14,Feint,1,normal,30,100
+319,15,Leer,1,normal,-,100
+319,15,Bite,1,dark,60,100
+319,15,Rage,1,normal,20,100
+319,15,Focus Energy,1,normal,-,-
+319,15,Feint,1,normal,30,100
+319,15,Night Slash,1,dark,70,100
+319,16,Leer,1,normal,-,100
+319,16,Bite,1,dark,60,100
+319,16,Rage,1,normal,20,100
+319,16,Focus Energy,1,normal,-,-
+319,16,Feint,1,normal,30,100
+319,16,Night Slash,1,dark,70,100
+319,16,Rage,4,normal,20,100
+319,8,Rage,6,normal,20,100
+319,9,Rage,6,normal,20,100
+319,10,Rage,6,normal,20,100
+319,11,Rage,6,normal,20,100
+319,14,Rage,6,normal,20,100
+319,15,Rage,6,normal,20,100
+319,5,Rage,7,normal,20,100
+319,6,Rage,7,normal,20,100
+319,7,Rage,7,normal,20,100
+319,12,Rage,7,normal,20,100
+319,13,Rage,7,normal,20,100
+319,8,Focus Energy,8,normal,-,-
+319,9,Focus Energy,8,normal,-,-
+319,10,Focus Energy,8,normal,-,-
+319,11,Focus Energy,8,normal,-,-
+319,14,Focus Energy,8,normal,-,-
+319,15,Focus Energy,8,normal,-,-
+319,16,Focus Energy,8,normal,-,-
+319,8,Scary Face,11,normal,-,100
+319,9,Scary Face,11,normal,-,100
+319,10,Scary Face,11,normal,-,100
+319,11,Scary Face,11,normal,-,100
+319,14,Scary Face,11,normal,-,100
+319,15,Scary Face,11,normal,-,100
+319,16,Aqua Jet,11,water,40,100
+319,5,Focus Energy,13,normal,-,-
+319,6,Focus Energy,13,normal,-,-
+319,7,Focus Energy,13,normal,-,-
+319,12,Focus Energy,13,normal,-,-
+319,13,Focus Energy,13,normal,-,-
+319,16,Assurance,15,dark,60,100
+319,5,Scary Face,16,normal,-,100
+319,6,Scary Face,16,normal,-,100
+319,7,Scary Face,16,normal,-,100
+319,8,Ice Fang,16,ice,65,95
+319,9,Ice Fang,16,ice,65,95
+319,10,Ice Fang,16,ice,65,95
+319,11,Ice Fang,16,ice,65,95
+319,12,Scary Face,16,normal,-,100
+319,13,Scary Face,16,normal,-,100
+319,14,Ice Fang,16,ice,65,95
+319,15,Ice Fang,16,ice,65,95
+319,8,Screech,18,normal,-,85
+319,9,Screech,18,normal,-,85
+319,10,Screech,18,normal,-,85
+319,11,Screech,18,normal,-,85
+319,14,Screech,18,normal,-,85
+319,15,Screech,18,normal,-,85
+319,16,Screech,18,normal,-,85
+319,8,Swagger,21,normal,-,90
+319,9,Swagger,21,normal,-,90
+319,10,Swagger,21,normal,-,90
+319,11,Swagger,21,normal,-,90
+319,14,Swagger,21,normal,-,90
+319,15,Swagger,21,normal,-,90
+319,5,Crunch,22,dark,80,100
+319,6,Crunch,22,dark,80,100
+319,7,Crunch,22,dark,80,100
+319,12,Crunch,22,dark,80,100
+319,13,Crunch,22,dark,80,100
+319,16,Swagger,22,normal,-,90
+319,16,Ice Fang,25,ice,65,95
+319,8,Assurance,26,dark,60,100
+319,9,Assurance,26,dark,60,100
+319,10,Assurance,26,dark,60,100
+319,11,Assurance,26,dark,60,100
+319,14,Assurance,26,dark,60,100
+319,15,Assurance,26,dark,60,100
+319,5,Screech,28,normal,-,85
+319,6,Screech,28,normal,-,85
+319,7,Screech,28,normal,-,85
+319,8,Crunch,28,dark,80,100
+319,9,Crunch,28,dark,80,100
+319,10,Crunch,28,dark,80,100
+319,11,Crunch,28,dark,80,100
+319,12,Screech,28,normal,-,85
+319,13,Screech,28,normal,-,85
+319,14,Crunch,28,dark,80,100
+319,15,Crunch,28,dark,80,100
+319,16,Scary Face,29,normal,-,100
+319,8,Slash,30,normal,70,100
+319,9,Slash,30,normal,70,100
+319,10,Slash,30,normal,70,100
+319,11,Slash,30,normal,70,100
+319,14,Slash,30,normal,70,100
+319,15,Slash,30,normal,70,100
+319,16,Slash,30,normal,70,100
+319,5,Slash,33,normal,70,100
+319,6,Slash,33,normal,70,100
+319,7,Slash,33,normal,70,100
+319,12,Slash,33,normal,70,100
+319,13,Slash,33,normal,70,100
+319,8,Aqua Jet,34,water,40,100
+319,9,Aqua Jet,34,water,40,100
+319,10,Aqua Jet,34,water,40,100
+319,11,Aqua Jet,34,water,40,100
+319,14,Aqua Jet,34,water,40,100
+319,15,Aqua Jet,34,water,40,100
+319,16,Poison Fang,34,poison,50,100
+319,5,Taunt,38,dark,-,100
+319,6,Taunt,38,dark,-,100
+319,7,Taunt,38,dark,-,100
+319,12,Taunt,38,dark,-,100
+319,13,Taunt,38,dark,-,100
+319,8,Taunt,40,dark,-,100
+319,9,Taunt,40,dark,-,100
+319,10,Taunt,40,dark,-,100
+319,11,Taunt,40,dark,-,100
+319,14,Taunt,40,dark,-,100
+319,15,Taunt,40,dark,-,100
+319,16,Crunch,40,dark,80,100
+319,5,Swagger,43,normal,-,90
+319,6,Swagger,43,normal,-,90
+319,7,Swagger,43,normal,-,90
+319,12,Swagger,43,normal,-,90
+319,13,Swagger,43,normal,-,90
+319,8,Agility,45,psychic,-,-
+319,9,Agility,45,psychic,-,-
+319,10,Agility,45,psychic,-,-
+319,11,Agility,45,psychic,-,-
+319,14,Agility,45,psychic,-,-
+319,15,Agility,45,psychic,-,-
+319,16,Agility,45,psychic,-,-
+319,5,Skull Bash,48,normal,130,100
+319,6,Skull Bash,48,normal,130,100
+319,7,Skull Bash,48,normal,130,100
+319,12,Skull Bash,48,normal,130,100
+319,13,Skull Bash,48,normal,130,100
+319,8,Skull Bash,50,normal,130,100
+319,9,Skull Bash,50,normal,130,100
+319,10,Skull Bash,50,normal,130,100
+319,11,Skull Bash,50,normal,130,100
+319,14,Skull Bash,50,normal,130,100
+319,15,Skull Bash,50,normal,130,100
+319,16,Skull Bash,51,normal,130,100
+319,5,Agility,53,psychic,-,-
+319,6,Agility,53,psychic,-,-
+319,7,Agility,53,psychic,-,-
+319,12,Agility,53,psychic,-,-
+319,13,Agility,53,psychic,-,-
+319,8,Night Slash,56,dark,70,100
+319,9,Night Slash,56,dark,70,100
+319,10,Night Slash,56,dark,70,100
+319,11,Night Slash,56,dark,70,100
+319,14,Night Slash,56,dark,70,100
+319,15,Night Slash,56,dark,70,100
+319,16,Taunt,56,dark,-,100
+319,16,Night Slash,62,dark,70,100

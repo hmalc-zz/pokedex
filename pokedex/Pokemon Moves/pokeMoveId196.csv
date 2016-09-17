@@ -1,0 +1,173 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+196,3,Tackle,1,normal,50,100
+196,3,Tail Whip,1,normal,-,100
+196,4,Tackle,1,normal,50,100
+196,4,Tail Whip,1,normal,-,100
+196,5,Tackle,1,normal,50,100
+196,5,Tail Whip,1,normal,-,100
+196,5,Helping Hand,1,normal,-,-
+196,6,Tackle,1,normal,50,100
+196,6,Tail Whip,1,normal,-,100
+196,6,Helping Hand,1,normal,-,-
+196,7,Tackle,1,normal,50,100
+196,7,Tail Whip,1,normal,-,100
+196,7,Helping Hand,1,normal,-,-
+196,8,Tackle,1,normal,50,100
+196,8,Tail Whip,1,normal,-,100
+196,8,Helping Hand,1,normal,-,-
+196,9,Tackle,1,normal,50,100
+196,9,Tail Whip,1,normal,-,100
+196,9,Helping Hand,1,normal,-,-
+196,10,Tackle,1,normal,50,100
+196,10,Tail Whip,1,normal,-,100
+196,10,Helping Hand,1,normal,-,-
+196,11,Tackle,1,normal,50,100
+196,11,Tail Whip,1,normal,-,100
+196,11,Helping Hand,1,normal,-,-
+196,12,Tackle,1,normal,50,100
+196,12,Tail Whip,1,normal,-,100
+196,12,Helping Hand,1,normal,-,-
+196,13,Tackle,1,normal,50,100
+196,13,Tail Whip,1,normal,-,100
+196,13,Helping Hand,1,normal,-,-
+196,14,Tackle,1,normal,50,100
+196,14,Tail Whip,1,normal,-,100
+196,14,Helping Hand,1,normal,-,-
+196,15,Tackle,1,normal,50,100
+196,15,Tail Whip,1,normal,-,100
+196,15,Helping Hand,1,normal,-,-
+196,16,Tackle,1,normal,50,100
+196,16,Tail Whip,1,normal,-,100
+196,16,Helping Hand,1,normal,-,-
+196,14,Sand Attack,5,ground,-,100
+196,15,Sand Attack,5,ground,-,100
+196,16,Sand Attack,5,ground,-,100
+196,3,Sand Attack,8,ground,-,100
+196,4,Sand Attack,8,ground,-,100
+196,5,Sand Attack,8,ground,-,100
+196,6,Sand Attack,8,ground,-,100
+196,7,Sand Attack,8,ground,-,100
+196,8,Sand Attack,8,ground,-,100
+196,9,Sand Attack,8,ground,-,100
+196,10,Sand Attack,8,ground,-,100
+196,11,Sand Attack,8,ground,-,100
+196,12,Sand Attack,8,ground,-,100
+196,13,Sand Attack,8,ground,-,100
+196,14,Confusion,9,psychic,50,100
+196,15,Confusion,9,psychic,50,100
+196,16,Confusion,9,psychic,50,100
+196,14,Quick Attack,13,normal,40,100
+196,15,Quick Attack,13,normal,40,100
+196,16,Quick Attack,13,normal,40,100
+196,8,Confusion,15,psychic,50,100
+196,9,Confusion,15,psychic,50,100
+196,10,Confusion,15,psychic,50,100
+196,11,Confusion,15,psychic,50,100
+196,3,Confusion,16,psychic,50,100
+196,4,Confusion,16,psychic,50,100
+196,5,Confusion,16,psychic,50,100
+196,6,Confusion,16,psychic,50,100
+196,7,Confusion,16,psychic,50,100
+196,12,Confusion,16,psychic,50,100
+196,13,Confusion,16,psychic,50,100
+196,14,Swift,17,normal,60,-
+196,15,Swift,17,normal,60,-
+196,16,Swift,17,normal,60,-
+196,15,Psybeam,20,psychic,65,100
+196,16,Psybeam,20,psychic,65,100
+196,14,Psybeam,21,psychic,65,100
+196,8,Quick Attack,22,normal,40,100
+196,9,Quick Attack,22,normal,40,100
+196,10,Quick Attack,22,normal,40,100
+196,11,Quick Attack,22,normal,40,100
+196,3,Quick Attack,23,normal,40,100
+196,4,Quick Attack,23,normal,40,100
+196,5,Quick Attack,23,normal,40,100
+196,6,Quick Attack,23,normal,40,100
+196,7,Quick Attack,23,normal,40,100
+196,12,Quick Attack,23,normal,40,100
+196,13,Quick Attack,23,normal,40,100
+196,14,Future Sight,25,psychic,120,100
+196,15,Future Sight,25,psychic,120,100
+196,16,Future Sight,25,psychic,120,100
+196,8,Swift,29,normal,60,-
+196,9,Swift,29,normal,60,-
+196,10,Swift,29,normal,60,-
+196,11,Swift,29,normal,60,-
+196,14,Psych Up,29,normal,-,-
+196,15,Psych Up,29,normal,-,-
+196,16,Psych Up,29,normal,-,-
+196,3,Swift,30,normal,60,-
+196,4,Swift,30,normal,60,-
+196,5,Swift,30,normal,60,-
+196,6,Swift,30,normal,60,-
+196,7,Swift,30,normal,60,-
+196,12,Swift,30,normal,60,-
+196,13,Swift,30,normal,60,-
+196,14,Morning Sun,33,normal,-,-
+196,15,Morning Sun,33,normal,-,-
+196,16,Morning Sun,33,normal,-,-
+196,3,Psybeam,36,psychic,65,100
+196,4,Psybeam,36,psychic,65,100
+196,5,Psybeam,36,psychic,65,100
+196,6,Psybeam,36,psychic,65,100
+196,7,Psybeam,36,psychic,65,100
+196,8,Psybeam,36,psychic,65,100
+196,9,Psybeam,36,psychic,65,100
+196,10,Psybeam,36,psychic,65,100
+196,11,Psybeam,36,psychic,65,100
+196,12,Psybeam,36,psychic,65,100
+196,13,Psybeam,36,psychic,65,100
+196,14,Psychic,37,psychic,90,100
+196,15,Psychic,37,psychic,90,100
+196,16,Psychic,37,psychic,90,100
+196,14,Last Resort,41,normal,140,100
+196,15,Last Resort,41,normal,140,100
+196,16,Last Resort,41,normal,140,100
+196,3,Psych Up,42,normal,-,-
+196,4,Psych Up,42,normal,-,-
+196,5,Psych Up,42,normal,-,-
+196,6,Psych Up,42,normal,-,-
+196,7,Psych Up,42,normal,-,-
+196,12,Psych Up,42,normal,-,-
+196,13,Psych Up,42,normal,-,-
+196,8,Future Sight,43,psychic,120,100
+196,9,Future Sight,43,psychic,120,100
+196,10,Future Sight,43,psychic,120,100
+196,11,Future Sight,43,psychic,120,100
+196,14,Power Swap,45,psychic,-,-
+196,15,Power Swap,45,psychic,-,-
+196,16,Power Swap,45,psychic,-,-
+196,3,Psychic,47,psychic,90,100
+196,4,Psychic,47,psychic,90,100
+196,5,Psychic,47,psychic,90,100
+196,6,Psychic,47,psychic,90,100
+196,7,Psychic,47,psychic,90,100
+196,12,Psychic,47,psychic,90,100
+196,13,Psychic,47,psychic,90,100
+196,8,Last Resort,50,normal,140,100
+196,9,Last Resort,50,normal,140,100
+196,10,Last Resort,50,normal,140,100
+196,11,Last Resort,50,normal,140,100
+196,3,Morning Sun,52,normal,-,-
+196,4,Morning Sun,52,normal,-,-
+196,5,Morning Sun,52,normal,-,-
+196,6,Morning Sun,52,normal,-,-
+196,7,Morning Sun,52,normal,-,-
+196,12,Morning Sun,52,normal,-,-
+196,13,Morning Sun,52,normal,-,-
+196,8,Psych Up,57,normal,-,-
+196,9,Psych Up,57,normal,-,-
+196,10,Psych Up,57,normal,-,-
+196,11,Psych Up,57,normal,-,-
+196,8,Psychic,64,psychic,90,100
+196,9,Psychic,64,psychic,90,100
+196,10,Psychic,64,psychic,90,100
+196,11,Psychic,64,psychic,90,100
+196,8,Morning Sun,71,normal,-,-
+196,9,Morning Sun,71,normal,-,-
+196,10,Morning Sun,71,normal,-,-
+196,11,Morning Sun,71,normal,-,-
+196,9,Power Swap,78,psychic,-,-
+196,10,Power Swap,78,psychic,-,-
+196,11,Power Swap,78,psychic,-,-

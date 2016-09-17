@@ -1,0 +1,163 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+379,5,Explosion,1,normal,250,100
+379,6,Explosion,1,normal,250,100
+379,7,Explosion,1,normal,250,100
+379,8,Explosion,1,normal,250,100
+379,9,Stomp,1,normal,65,100
+379,9,Explosion,1,normal,250,100
+379,10,Stomp,1,normal,65,100
+379,10,Explosion,1,normal,250,100
+379,11,Stomp,1,normal,65,100
+379,11,Explosion,1,normal,250,100
+379,12,Explosion,1,normal,250,100
+379,13,Explosion,1,normal,250,100
+379,14,Stomp,1,normal,65,100
+379,14,Explosion,1,normal,250,100
+379,15,Stomp,1,normal,65,100
+379,15,Explosion,1,normal,250,100
+379,15,Zap Cannon,1,electric,120,50
+379,15,Lock-On,1,normal,-,-
+379,15,Hammer Arm,1,fighting,100,90
+379,15,Iron Head,1,steel,80,100
+379,16,Stomp,1,normal,65,100
+379,16,Explosion,1,normal,250,100
+379,16,Metal Claw,1,steel,50,95
+379,16,Charge Beam,1,electric,50,90
+379,16,Bulldoze,1,ground,60,100
+379,16,Metal Claw,7,steel,50,95
+379,5,Metal Claw,9,steel,50,95
+379,6,Metal Claw,9,steel,50,95
+379,7,Metal Claw,9,steel,50,95
+379,8,Metal Claw,9,steel,50,95
+379,9,Metal Claw,9,steel,50,95
+379,10,Metal Claw,9,steel,50,95
+379,11,Metal Claw,9,steel,50,95
+379,12,Metal Claw,9,steel,50,95
+379,13,Metal Claw,9,steel,50,95
+379,14,Metal Claw,9,steel,50,95
+379,15,Metal Claw,9,steel,50,95
+379,16,Charge Beam,13,electric,50,90
+379,5,Curse,17,ghost,-,-
+379,6,Curse,17,ghost,-,-
+379,7,Curse,17,ghost,-,-
+379,8,Curse,17,ghost,-,-
+379,9,Curse,17,ghost,-,-
+379,10,Curse,17,ghost,-,-
+379,11,Curse,17,ghost,-,-
+379,12,Curse,17,ghost,-,-
+379,13,Curse,17,ghost,-,-
+379,14,Curse,17,ghost,-,-
+379,15,Curse,17,ghost,-,-
+379,16,Bulldoze,19,ground,60,100
+379,5,Superpower,25,fighting,120,100
+379,6,Superpower,25,fighting,120,100
+379,7,Superpower,25,fighting,120,100
+379,8,Superpower,25,fighting,120,100
+379,9,Superpower,25,fighting,120,100
+379,10,Superpower,25,fighting,120,100
+379,11,Superpower,25,fighting,120,100
+379,12,Superpower,25,fighting,120,100
+379,13,Superpower,25,fighting,120,100
+379,14,Superpower,25,fighting,120,100
+379,15,Superpower,25,fighting,120,100
+379,16,Curse,25,ghost,-,-
+379,16,Ancient Power,31,rock,60,100
+379,5,Ancient Power,33,rock,60,100
+379,6,Ancient Power,33,rock,60,100
+379,7,Ancient Power,33,rock,60,100
+379,8,Ancient Power,33,rock,60,100
+379,9,Ancient Power,33,rock,60,100
+379,10,Ancient Power,33,rock,60,100
+379,11,Ancient Power,33,rock,60,100
+379,12,Ancient Power,33,rock,60,100
+379,13,Ancient Power,33,rock,60,100
+379,14,Ancient Power,33,rock,60,100
+379,15,Ancient Power,33,rock,60,100
+379,16,Amnesia,37,psychic,-,-
+379,16,Iron Defense,37,steel,-,-
+379,5,Amnesia,41,psychic,-,-
+379,5,Iron Defense,41,steel,-,-
+379,6,Amnesia,41,psychic,-,-
+379,6,Iron Defense,41,steel,-,-
+379,7,Amnesia,41,psychic,-,-
+379,7,Iron Defense,41,steel,-,-
+379,8,Amnesia,41,psychic,-,-
+379,8,Iron Defense,41,steel,-,-
+379,9,Amnesia,41,psychic,-,-
+379,9,Iron Defense,41,steel,-,-
+379,10,Amnesia,41,psychic,-,-
+379,10,Iron Defense,41,steel,-,-
+379,11,Amnesia,41,psychic,-,-
+379,11,Iron Defense,41,steel,-,-
+379,12,Amnesia,41,psychic,-,-
+379,12,Iron Defense,41,steel,-,-
+379,13,Amnesia,41,psychic,-,-
+379,13,Iron Defense,41,steel,-,-
+379,14,Amnesia,41,psychic,-,-
+379,14,Iron Defense,41,steel,-,-
+379,15,Amnesia,41,psychic,-,-
+379,15,Iron Defense,41,steel,-,-
+379,16,Flash Cannon,43,steel,80,100
+379,16,Iron Head,43,steel,80,100
+379,5,Zap Cannon,49,electric,120,50
+379,6,Zap Cannon,49,electric,120,50
+379,7,Zap Cannon,49,electric,120,50
+379,8,Charge Beam,49,electric,50,90
+379,9,Charge Beam,49,electric,50,90
+379,10,Charge Beam,49,electric,50,90
+379,11,Charge Beam,49,electric,50,90
+379,12,Zap Cannon,49,electric,120,50
+379,13,Zap Cannon,49,electric,120,50
+379,14,Charge Beam,49,electric,50,90
+379,15,Charge Beam,49,electric,50,90
+379,16,Hammer Arm,49,fighting,100,90
+379,16,Zap Cannon,55,electric,120,50
+379,16,Lock-On,55,normal,-,-
+379,5,Lock-On,57,normal,-,-
+379,6,Lock-On,57,normal,-,-
+379,7,Lock-On,57,normal,-,-
+379,8,Lock-On,57,normal,-,-
+379,9,Lock-On,57,normal,-,-
+379,10,Lock-On,57,normal,-,-
+379,11,Lock-On,57,normal,-,-
+379,12,Lock-On,57,normal,-,-
+379,13,Lock-On,57,normal,-,-
+379,14,Lock-On,57,normal,-,-
+379,15,Lock-On,57,normal,-,-
+379,16,Superpower,61,fighting,120,100
+379,5,Hyper Beam,65,normal,150,90
+379,6,Hyper Beam,65,normal,150,90
+379,7,Hyper Beam,65,normal,150,90
+379,8,Zap Cannon,65,electric,120,50
+379,9,Zap Cannon,65,electric,120,50
+379,10,Zap Cannon,65,electric,120,50
+379,11,Zap Cannon,65,electric,120,50
+379,12,Hyper Beam,65,normal,150,90
+379,13,Hyper Beam,65,normal,150,90
+379,14,Zap Cannon,65,electric,120,50
+379,15,Zap Cannon,65,electric,120,50
+379,16,Hyper Beam,67,normal,150,90
+379,8,Flash Cannon,73,steel,80,100
+379,8,Iron Head,73,steel,80,100
+379,9,Flash Cannon,73,steel,80,100
+379,9,Iron Head,73,steel,80,100
+379,10,Flash Cannon,73,steel,80,100
+379,10,Iron Head,73,steel,80,100
+379,11,Flash Cannon,73,steel,80,100
+379,11,Iron Head,73,steel,80,100
+379,14,Flash Cannon,73,steel,80,100
+379,14,Iron Head,73,steel,80,100
+379,15,Flash Cannon,73,steel,80,100
+379,15,Iron Head,73,steel,80,100
+379,8,Hammer Arm,81,fighting,100,90
+379,9,Hammer Arm,81,fighting,100,90
+379,10,Hammer Arm,81,fighting,100,90
+379,11,Hammer Arm,81,fighting,100,90
+379,14,Hammer Arm,81,fighting,100,90
+379,15,Hammer Arm,81,fighting,100,90
+379,8,Hyper Beam,89,normal,150,90
+379,9,Hyper Beam,89,normal,150,90
+379,10,Hyper Beam,89,normal,150,90
+379,11,Hyper Beam,89,normal,150,90
+379,14,Hyper Beam,89,normal,150,90
+379,15,Hyper Beam,89,normal,150,90

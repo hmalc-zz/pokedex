@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+616,11,Leech Life,1,bug,20,100
+616,14,Leech Life,1,bug,20,100
+616,15,Leech Life,1,bug,20,100
+616,16,Leech Life,1,bug,20,100
+616,11,Acid,4,poison,40,100
+616,14,Acid,4,poison,40,100
+616,15,Acid,4,poison,40,100
+616,16,Acid,4,poison,40,100
+616,11,Bide,8,normal,-,-
+616,14,Bide,8,normal,-,-
+616,15,Bide,8,normal,-,-
+616,16,Bide,8,normal,-,-
+616,11,Curse,13,ghost,-,-
+616,14,Curse,13,ghost,-,-
+616,15,Curse,13,ghost,-,-
+616,16,Curse,13,ghost,-,-
+616,11,Struggle Bug,16,bug,50,100
+616,14,Struggle Bug,16,bug,50,100
+616,15,Struggle Bug,16,bug,50,100
+616,16,Struggle Bug,16,bug,50,100
+616,11,Mega Drain,20,grass,40,100
+616,14,Mega Drain,20,grass,40,100
+616,15,Mega Drain,20,grass,40,100
+616,16,Mega Drain,20,grass,40,100
+616,11,Yawn,25,normal,-,-
+616,14,Yawn,25,normal,-,-
+616,15,Yawn,25,normal,-,-
+616,16,Yawn,25,normal,-,-
+616,11,Protect,28,normal,-,-
+616,14,Protect,28,normal,-,-
+616,15,Protect,28,normal,-,-
+616,16,Protect,28,normal,-,-
+616,11,Acid Armor,32,poison,-,-
+616,14,Acid Armor,32,poison,-,-
+616,15,Acid Armor,32,poison,-,-
+616,16,Acid Armor,32,poison,-,-
+616,11,Giga Drain,37,grass,75,100
+616,14,Giga Drain,37,grass,75,100
+616,15,Giga Drain,37,grass,75,100
+616,16,Giga Drain,37,grass,75,100
+616,11,Body Slam,40,normal,85,100
+616,14,Body Slam,40,normal,85,100
+616,15,Body Slam,40,normal,85,100
+616,16,Body Slam,40,normal,85,100
+616,11,Bug Buzz,44,bug,90,100
+616,14,Bug Buzz,44,bug,90,100
+616,15,Bug Buzz,44,bug,90,100
+616,16,Bug Buzz,44,bug,90,100
+616,11,Recover,49,normal,-,-
+616,14,Recover,49,normal,-,-
+616,15,Recover,49,normal,-,-
+616,16,Recover,49,normal,-,-
+616,15,Guard Swap,50,psychic,-,-
+616,16,Guard Swap,50,psychic,-,-
+616,11,Guard Swap,52,psychic,-,-
+616,14,Guard Swap,52,psychic,-,-
+616,11,Final Gambit,56,fighting,-,100
+616,14,Final Gambit,56,fighting,-,100
+616,15,Final Gambit,56,fighting,-,100
+616,16,Final Gambit,56,fighting,-,100

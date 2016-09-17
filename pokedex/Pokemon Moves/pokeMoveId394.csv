@@ -1,0 +1,106 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+394,8,Tackle,1,normal,50,100
+394,8,Growl,1,normal,-,100
+394,9,Tackle,1,normal,50,100
+394,9,Growl,1,normal,-,100
+394,10,Tackle,1,normal,50,100
+394,10,Growl,1,normal,-,100
+394,11,Tackle,1,normal,50,100
+394,11,Growl,1,normal,-,100
+394,14,Tackle,1,normal,50,100
+394,14,Growl,1,normal,-,100
+394,15,Tackle,1,normal,50,100
+394,15,Growl,1,normal,-,100
+394,16,Tackle,1,normal,50,100
+394,16,Growl,1,normal,-,100
+394,8,Growl,4,normal,-,100
+394,9,Growl,4,normal,-,100
+394,10,Growl,4,normal,-,100
+394,11,Growl,4,normal,-,100
+394,14,Growl,4,normal,-,100
+394,15,Growl,4,normal,-,100
+394,16,Growl,4,normal,-,100
+394,8,Bubble,8,water,40,100
+394,9,Bubble,8,water,40,100
+394,10,Bubble,8,water,40,100
+394,11,Bubble,8,water,40,100
+394,14,Bubble,8,water,40,100
+394,15,Bubble,8,water,40,100
+394,16,Bubble,8,water,40,100
+394,8,Water Sport,11,water,-,-
+394,9,Water Sport,11,water,-,-
+394,10,Water Sport,11,water,-,-
+394,11,Water Sport,11,water,-,-
+394,14,Water Sport,11,water,-,-
+394,15,Water Sport,11,water,-,-
+394,16,Water Sport,11,water,-,-
+394,8,Peck,15,flying,35,100
+394,9,Peck,15,flying,35,100
+394,10,Peck,15,flying,35,100
+394,11,Peck,15,flying,35,100
+394,14,Peck,15,flying,35,100
+394,15,Peck,15,flying,35,100
+394,16,Peck,15,flying,35,100
+394,8,Metal Claw,16,steel,50,95
+394,9,Metal Claw,16,steel,50,95
+394,10,Metal Claw,16,steel,50,95
+394,11,Metal Claw,16,steel,50,95
+394,14,Metal Claw,16,steel,50,95
+394,15,Metal Claw,16,steel,50,95
+394,16,Metal Claw,16,steel,50,95
+394,8,Bide,19,normal,-,-
+394,9,Bubble Beam,19,water,65,100
+394,10,Bubble Beam,19,water,65,100
+394,11,Bubble Beam,19,water,65,100
+394,14,Bubble Beam,19,water,65,100
+394,15,Bubble Beam,19,water,65,100
+394,16,Bubble Beam,19,water,65,100
+394,8,Bubble Beam,24,water,65,100
+394,9,Bide,24,normal,-,-
+394,10,Bide,24,normal,-,-
+394,11,Bide,24,normal,-,-
+394,14,Bide,24,normal,-,-
+394,15,Bide,24,normal,-,-
+394,16,Bide,24,normal,-,-
+394,8,Fury Attack,28,normal,15,85
+394,9,Fury Attack,28,normal,15,85
+394,10,Fury Attack,28,normal,15,85
+394,11,Fury Attack,28,normal,15,85
+394,14,Fury Attack,28,normal,15,85
+394,15,Fury Attack,28,normal,15,85
+394,16,Fury Attack,28,normal,15,85
+394,8,Brine,33,water,65,100
+394,9,Brine,33,water,65,100
+394,10,Brine,33,water,65,100
+394,11,Brine,33,water,65,100
+394,14,Brine,33,water,65,100
+394,15,Brine,33,water,65,100
+394,16,Brine,33,water,65,100
+394,8,Whirlpool,37,water,35,85
+394,9,Whirlpool,37,water,35,85
+394,10,Whirlpool,37,water,35,85
+394,11,Whirlpool,37,water,35,85
+394,14,Whirlpool,37,water,35,85
+394,15,Whirlpool,37,water,35,85
+394,16,Whirlpool,37,water,35,85
+394,8,Mist,42,ice,-,-
+394,9,Mist,42,ice,-,-
+394,10,Mist,42,ice,-,-
+394,11,Mist,42,ice,-,-
+394,14,Mist,42,ice,-,-
+394,15,Mist,42,ice,-,-
+394,16,Mist,42,ice,-,-
+394,8,Drill Peck,46,flying,80,100
+394,9,Drill Peck,46,flying,80,100
+394,10,Drill Peck,46,flying,80,100
+394,11,Drill Peck,46,flying,80,100
+394,14,Drill Peck,46,flying,80,100
+394,15,Drill Peck,46,flying,80,100
+394,16,Drill Peck,46,flying,80,100
+394,15,Hydro Pump,50,water,110,80
+394,16,Hydro Pump,50,water,110,80
+394,8,Hydro Pump,51,water,110,80
+394,9,Hydro Pump,51,water,110,80
+394,10,Hydro Pump,51,water,110,80
+394,11,Hydro Pump,51,water,110,80
+394,14,Hydro Pump,51,water,110,80

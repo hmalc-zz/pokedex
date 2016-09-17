@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+536,11,Growl,1,normal,-,100
+536,11,Supersonic,1,normal,-,55
+536,11,Bubble,1,water,40,100
+536,11,Round,1,normal,60,100
+536,14,Growl,1,normal,-,100
+536,14,Supersonic,1,normal,-,55
+536,14,Bubble,1,water,40,100
+536,14,Round,1,normal,60,100
+536,15,Growl,1,normal,-,100
+536,15,Supersonic,1,normal,-,55
+536,15,Bubble,1,water,40,100
+536,15,Round,1,normal,60,100
+536,16,Growl,1,normal,-,100
+536,16,Supersonic,1,normal,-,55
+536,16,Bubble,1,water,40,100
+536,16,Round,1,normal,60,100
+536,11,Supersonic,5,normal,-,55
+536,14,Supersonic,5,normal,-,55
+536,15,Supersonic,5,normal,-,55
+536,16,Supersonic,5,normal,-,55
+536,11,Round,9,normal,60,100
+536,14,Round,9,normal,60,100
+536,15,Round,9,normal,60,100
+536,16,Round,9,normal,60,100
+536,11,Bubble Beam,12,water,65,100
+536,14,Bubble Beam,12,water,65,100
+536,15,Bubble Beam,12,water,65,100
+536,16,Bubble Beam,12,water,65,100
+536,11,Mud Shot,16,ground,55,95
+536,14,Mud Shot,16,ground,55,95
+536,15,Mud Shot,16,ground,55,95
+536,16,Mud Shot,16,ground,55,95
+536,11,Aqua Ring,20,water,-,-
+536,14,Aqua Ring,20,water,-,-
+536,15,Aqua Ring,20,water,-,-
+536,16,Aqua Ring,20,water,-,-
+536,11,Uproar,23,normal,90,100
+536,14,Uproar,23,normal,90,100
+536,15,Uproar,23,normal,90,100
+536,16,Uproar,23,normal,90,100
+536,11,Muddy Water,28,water,90,85
+536,14,Muddy Water,28,water,90,85
+536,15,Muddy Water,28,water,90,85
+536,16,Muddy Water,28,water,90,85
+536,11,Rain Dance,33,water,-,-
+536,14,Rain Dance,33,water,-,-
+536,15,Rain Dance,33,water,-,-
+536,16,Rain Dance,33,water,-,-
+536,11,Flail,37,normal,-,100
+536,14,Flail,37,normal,-,100
+536,15,Flail,37,normal,-,100
+536,16,Flail,37,normal,-,100
+536,11,Echoed Voice,42,normal,40,100
+536,14,Echoed Voice,42,normal,40,100
+536,15,Echoed Voice,42,normal,40,100
+536,16,Echoed Voice,42,normal,40,100
+536,11,Hydro Pump,47,water,110,80
+536,14,Hydro Pump,47,water,110,80
+536,15,Hydro Pump,47,water,110,80
+536,16,Hydro Pump,47,water,110,80
+536,11,Hyper Voice,51,normal,90,100
+536,14,Hyper Voice,51,normal,90,100
+536,15,Hyper Voice,51,normal,90,100
+536,16,Hyper Voice,51,normal,90,100

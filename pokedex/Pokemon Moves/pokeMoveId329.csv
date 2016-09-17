@@ -1,0 +1,161 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+329,5,Sand Attack,1,ground,-,100
+329,5,Bite,1,dark,60,100
+329,5,Feint Attack,1,dark,60,-
+329,5,Sand Tomb,1,ground,35,85
+329,6,Sand Attack,1,ground,-,100
+329,6,Bite,1,dark,60,100
+329,6,Feint Attack,1,dark,60,-
+329,6,Sand Tomb,1,ground,35,85
+329,7,Sand Attack,1,ground,-,100
+329,7,Bite,1,dark,60,100
+329,7,Feint Attack,1,dark,60,-
+329,7,Sand Tomb,1,ground,35,85
+329,8,Sand Attack,1,ground,-,100
+329,8,Sonic Boom,1,normal,-,90
+329,8,Feint Attack,1,dark,60,-
+329,8,Sand Tomb,1,ground,35,85
+329,9,Sand Attack,1,ground,-,100
+329,9,Sonic Boom,1,normal,-,90
+329,9,Feint Attack,1,dark,60,-
+329,9,Sand Tomb,1,ground,35,85
+329,10,Sand Attack,1,ground,-,100
+329,10,Sonic Boom,1,normal,-,90
+329,10,Feint Attack,1,dark,60,-
+329,10,Sand Tomb,1,ground,35,85
+329,11,Sand Attack,1,ground,-,100
+329,11,Sonic Boom,1,normal,-,90
+329,11,Feint Attack,1,dark,60,-
+329,11,Sand Tomb,1,ground,35,85
+329,12,Sand Attack,1,ground,-,100
+329,12,Bite,1,dark,60,100
+329,12,Feint Attack,1,dark,60,-
+329,12,Sand Tomb,1,ground,35,85
+329,13,Sand Attack,1,ground,-,100
+329,13,Bite,1,dark,60,100
+329,13,Feint Attack,1,dark,60,-
+329,13,Sand Tomb,1,ground,35,85
+329,14,Sand Attack,1,ground,-,100
+329,14,Sonic Boom,1,normal,-,90
+329,14,Feint Attack,1,dark,60,-
+329,14,Sand Tomb,1,ground,35,85
+329,15,Sand Attack,1,ground,-,100
+329,15,Sonic Boom,1,normal,-,90
+329,15,Feint Attack,1,dark,60,-
+329,15,Sand Tomb,1,ground,35,85
+329,16,Sand Attack,1,ground,-,100
+329,16,Sonic Boom,1,normal,-,90
+329,16,Bide,1,normal,-,-
+329,16,Feint Attack,1,dark,60,-
+329,14,Sand Attack,4,ground,-,100
+329,15,Sand Attack,4,ground,-,100
+329,16,Mud-Slap,5,ground,20,100
+329,14,Feint Attack,7,dark,60,-
+329,15,Feint Attack,7,dark,60,-
+329,16,Bulldoze,8,ground,60,100
+329,5,Sand Attack,9,ground,-,100
+329,6,Sand Attack,9,ground,-,100
+329,7,Sand Attack,9,ground,-,100
+329,8,Sand Attack,9,ground,-,100
+329,9,Sand Attack,9,ground,-,100
+329,10,Sand Attack,9,ground,-,100
+329,11,Sand Attack,9,ground,-,100
+329,12,Sand Attack,9,ground,-,100
+329,13,Sand Attack,9,ground,-,100
+329,14,Sand Tomb,10,ground,35,85
+329,15,Sand Tomb,10,ground,35,85
+329,16,Sand Tomb,12,ground,35,85
+329,14,Mud-Slap,13,ground,20,100
+329,15,Mud-Slap,13,ground,20,100
+329,16,Rock Slide,15,rock,75,90
+329,5,Feint Attack,17,dark,60,-
+329,6,Feint Attack,17,dark,60,-
+329,7,Feint Attack,17,dark,60,-
+329,8,Feint Attack,17,dark,60,-
+329,9,Feint Attack,17,dark,60,-
+329,10,Feint Attack,17,dark,60,-
+329,11,Feint Attack,17,dark,60,-
+329,12,Feint Attack,17,dark,60,-
+329,13,Feint Attack,17,dark,60,-
+329,14,Bide,17,normal,-,-
+329,15,Bide,17,normal,-,-
+329,16,Supersonic,19,normal,-,55
+329,14,Bulldoze,21,ground,60,100
+329,15,Bulldoze,21,ground,60,100
+329,16,Screech,22,normal,-,85
+329,5,Sand Tomb,25,ground,35,85
+329,6,Sand Tomb,25,ground,35,85
+329,7,Sand Tomb,25,ground,35,85
+329,8,Sand Tomb,25,ground,35,85
+329,9,Sand Tomb,25,ground,35,85
+329,10,Sand Tomb,25,ground,35,85
+329,11,Sand Tomb,25,ground,35,85
+329,12,Sand Tomb,25,ground,35,85
+329,13,Sand Tomb,25,ground,35,85
+329,14,Rock Slide,25,rock,75,90
+329,15,Rock Slide,25,rock,75,90
+329,16,Earth Power,26,ground,90,100
+329,14,Supersonic,29,normal,-,55
+329,15,Supersonic,29,normal,-,55
+329,16,Bug Buzz,29,bug,90,100
+329,5,Crunch,33,dark,80,100
+329,6,Crunch,33,dark,80,100
+329,7,Crunch,33,dark,80,100
+329,8,Supersonic,33,normal,-,55
+329,9,Supersonic,33,normal,-,55
+329,10,Supersonic,33,normal,-,55
+329,11,Supersonic,33,normal,-,55
+329,12,Crunch,33,dark,80,100
+329,13,Crunch,33,dark,80,100
+329,16,Earthquake,33,ground,100,100
+329,14,Screech,34,normal,-,85
+329,15,Screech,34,normal,-,85
+329,5,Dragon Breath,35,dragon,60,100
+329,6,Dragon Breath,35,dragon,60,100
+329,7,Dragon Breath,35,dragon,60,100
+329,8,Dragon Breath,35,dragon,60,100
+329,9,Dragon Breath,35,dragon,60,100
+329,10,Dragon Breath,35,dragon,60,100
+329,11,Dragon Breath,35,dragon,60,100
+329,12,Dragon Breath,35,dragon,60,100
+329,13,Dragon Breath,35,dragon,60,100
+329,14,Dragon Breath,35,dragon,60,100
+329,15,Dragon Breath,35,dragon,60,100
+329,16,Dragon Breath,35,dragon,60,100
+329,16,Sandstorm,36,rock,-,-
+329,14,Earth Power,39,ground,90,100
+329,15,Earth Power,39,ground,90,100
+329,16,Uproar,40,normal,90,100
+329,5,Screech,41,normal,-,85
+329,6,Screech,41,normal,-,85
+329,7,Screech,41,normal,-,85
+329,8,Screech,41,normal,-,85
+329,9,Screech,41,normal,-,85
+329,10,Screech,41,normal,-,85
+329,11,Screech,41,normal,-,85
+329,12,Screech,41,normal,-,85
+329,13,Screech,41,normal,-,85
+329,16,Hyper Beam,43,normal,150,90
+329,14,Sandstorm,44,rock,-,-
+329,15,Sandstorm,44,rock,-,-
+329,16,Boomburst,47,normal,140,100
+329,5,Sandstorm,49,rock,-,-
+329,6,Sandstorm,49,rock,-,-
+329,7,Sandstorm,49,rock,-,-
+329,8,Sandstorm,49,rock,-,-
+329,9,Sandstorm,49,rock,-,-
+329,10,Sandstorm,49,rock,-,-
+329,11,Sandstorm,49,rock,-,-
+329,12,Sandstorm,49,rock,-,-
+329,13,Sandstorm,49,rock,-,-
+329,14,Hyper Beam,49,normal,150,90
+329,15,Hyper Beam,49,normal,150,90
+329,5,Hyper Beam,57,normal,150,90
+329,6,Hyper Beam,57,normal,150,90
+329,7,Hyper Beam,57,normal,150,90
+329,8,Hyper Beam,57,normal,150,90
+329,9,Hyper Beam,57,normal,150,90
+329,10,Hyper Beam,57,normal,150,90
+329,11,Hyper Beam,57,normal,150,90
+329,12,Hyper Beam,57,normal,150,90
+329,13,Hyper Beam,57,normal,150,90

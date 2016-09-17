@@ -1,0 +1,197 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+126,1,Ember,1,fire,40,100
+126,2,Ember,1,fire,40,100
+126,3,Fire Punch,1,fire,75,100
+126,3,Leer,1,normal,-,100
+126,3,Ember,1,fire,40,100
+126,3,Smog,1,poison,30,70
+126,4,Fire Punch,1,fire,75,100
+126,4,Leer,1,normal,-,100
+126,4,Ember,1,fire,40,100
+126,4,Smog,1,poison,30,70
+126,5,Fire Punch,1,fire,75,100
+126,5,Leer,1,normal,-,100
+126,5,Ember,1,fire,40,100
+126,5,Smog,1,poison,30,70
+126,6,Fire Punch,1,fire,75,100
+126,6,Leer,1,normal,-,100
+126,6,Ember,1,fire,40,100
+126,6,Smog,1,poison,30,70
+126,7,Fire Punch,1,fire,75,100
+126,7,Leer,1,normal,-,100
+126,7,Ember,1,fire,40,100
+126,7,Smog,1,poison,30,70
+126,8,Leer,1,normal,-,100
+126,8,Ember,1,fire,40,100
+126,8,Smog,1,poison,30,70
+126,9,Leer,1,normal,-,100
+126,9,Ember,1,fire,40,100
+126,9,Smog,1,poison,30,70
+126,10,Leer,1,normal,-,100
+126,10,Ember,1,fire,40,100
+126,10,Smog,1,poison,30,70
+126,11,Leer,1,normal,-,100
+126,11,Ember,1,fire,40,100
+126,11,Smog,1,poison,30,70
+126,12,Fire Punch,1,fire,75,100
+126,12,Leer,1,normal,-,100
+126,12,Ember,1,fire,40,100
+126,12,Smog,1,poison,30,70
+126,13,Fire Punch,1,fire,75,100
+126,13,Leer,1,normal,-,100
+126,13,Ember,1,fire,40,100
+126,13,Smog,1,poison,30,70
+126,14,Leer,1,normal,-,100
+126,14,Ember,1,fire,40,100
+126,14,Smog,1,poison,30,70
+126,15,Leer,1,normal,-,100
+126,15,Ember,1,fire,40,100
+126,15,Smog,1,poison,30,70
+126,16,Leer,1,normal,-,100
+126,16,Ember,1,fire,40,100
+126,16,Smog,1,poison,30,70
+126,14,Ember,5,fire,40,100
+126,15,Ember,5,fire,40,100
+126,16,Ember,5,fire,40,100
+126,11,Ember,6,fire,40,100
+126,3,Leer,7,normal,-,100
+126,4,Leer,7,normal,-,100
+126,5,Leer,7,normal,-,100
+126,6,Leer,7,normal,-,100
+126,7,Leer,7,normal,-,100
+126,8,Ember,7,fire,40,100
+126,9,Ember,7,fire,40,100
+126,10,Ember,7,fire,40,100
+126,12,Leer,7,normal,-,100
+126,13,Leer,7,normal,-,100
+126,14,Smokescreen,8,normal,-,100
+126,15,Smokescreen,8,normal,-,100
+126,16,Smokescreen,8,normal,-,100
+126,8,Smokescreen,10,normal,-,100
+126,9,Smokescreen,10,normal,-,100
+126,10,Smokescreen,10,normal,-,100
+126,11,Smokescreen,11,normal,-,100
+126,14,Feint Attack,12,dark,60,-
+126,15,Feint Attack,12,dark,60,-
+126,16,Feint Attack,12,dark,60,-
+126,3,Smog,13,poison,30,70
+126,4,Smog,13,poison,30,70
+126,5,Smog,13,poison,30,70
+126,6,Smog,13,poison,30,70
+126,7,Smog,13,poison,30,70
+126,12,Smog,13,poison,30,70
+126,13,Smog,13,poison,30,70
+126,14,Fire Spin,15,fire,35,85
+126,15,Fire Spin,15,fire,35,85
+126,16,Fire Spin,15,fire,35,85
+126,8,Feint Attack,16,dark,60,-
+126,9,Feint Attack,16,dark,60,-
+126,10,Feint Attack,16,dark,60,-
+126,11,Feint Attack,16,dark,60,-
+126,3,Fire Punch,19,fire,75,100
+126,4,Fire Punch,19,fire,75,100
+126,5,Fire Punch,19,fire,75,100
+126,6,Fire Punch,19,fire,75,100
+126,7,Fire Punch,19,fire,75,100
+126,8,Fire Spin,19,fire,35,85
+126,9,Fire Spin,19,fire,35,85
+126,10,Fire Spin,19,fire,35,85
+126,12,Fire Punch,19,fire,75,100
+126,13,Fire Punch,19,fire,75,100
+126,14,Clear Smog,19,poison,50,-
+126,15,Clear Smog,19,poison,50,-
+126,16,Clear Smog,19,poison,50,-
+126,11,Fire Spin,21,fire,35,85
+126,14,Flame Burst,22,fire,70,100
+126,15,Flame Burst,22,fire,70,100
+126,16,Flame Burst,22,fire,70,100
+126,3,Smokescreen,25,normal,-,100
+126,4,Smokescreen,25,normal,-,100
+126,5,Smokescreen,25,normal,-,100
+126,6,Smokescreen,25,normal,-,100
+126,7,Smokescreen,25,normal,-,100
+126,8,Confuse Ray,25,ghost,-,100
+126,9,Confuse Ray,25,ghost,-,100
+126,10,Confuse Ray,25,ghost,-,100
+126,12,Smokescreen,25,normal,-,100
+126,13,Smokescreen,25,normal,-,100
+126,11,Confuse Ray,26,ghost,-,100
+126,14,Confuse Ray,26,ghost,-,100
+126,15,Confuse Ray,26,ghost,-,100
+126,16,Confuse Ray,26,ghost,-,100
+126,8,Fire Punch,28,fire,75,100
+126,9,Fire Punch,28,fire,75,100
+126,10,Fire Punch,28,fire,75,100
+126,14,Fire Punch,29,fire,75,100
+126,15,Fire Punch,29,fire,75,100
+126,16,Fire Punch,29,fire,75,100
+126,11,Flame Burst,32,fire,70,100
+126,3,Sunny Day,33,fire,-,-
+126,4,Sunny Day,33,fire,-,-
+126,5,Sunny Day,33,fire,-,-
+126,6,Sunny Day,33,fire,-,-
+126,7,Sunny Day,33,fire,-,-
+126,12,Sunny Day,33,fire,-,-
+126,13,Sunny Day,33,fire,-,-
+126,1,Leer,36,normal,-,100
+126,2,Leer,36,normal,-,100
+126,8,Lava Plume,36,fire,80,100
+126,9,Lava Plume,36,fire,80,100
+126,10,Lava Plume,36,fire,80,100
+126,14,Lava Plume,36,fire,80,100
+126,15,Lava Plume,36,fire,80,100
+126,16,Lava Plume,36,fire,80,100
+126,11,Fire Punch,38,fire,75,100
+126,1,Confuse Ray,39,ghost,-,100
+126,2,Confuse Ray,39,ghost,-,100
+126,3,Flamethrower,41,fire,90,100
+126,4,Flamethrower,41,fire,90,100
+126,5,Flamethrower,41,fire,90,100
+126,6,Flamethrower,41,fire,90,100
+126,7,Flamethrower,41,fire,90,100
+126,8,Flamethrower,41,fire,90,100
+126,9,Flamethrower,41,fire,90,100
+126,10,Flamethrower,41,fire,90,100
+126,12,Flamethrower,41,fire,90,100
+126,13,Flamethrower,41,fire,90,100
+126,14,Sunny Day,42,fire,-,-
+126,15,Sunny Day,42,fire,-,-
+126,16,Sunny Day,42,fire,-,-
+126,1,Fire Punch,43,fire,75,100
+126,2,Fire Punch,43,fire,75,100
+126,11,Lava Plume,44,fire,80,100
+126,1,Smokescreen,48,normal,-,100
+126,2,Smokescreen,48,normal,-,100
+126,3,Confuse Ray,49,ghost,-,100
+126,4,Confuse Ray,49,ghost,-,100
+126,5,Confuse Ray,49,ghost,-,100
+126,6,Confuse Ray,49,ghost,-,100
+126,7,Confuse Ray,49,ghost,-,100
+126,8,Sunny Day,49,fire,-,-
+126,9,Sunny Day,49,fire,-,-
+126,10,Sunny Day,49,fire,-,-
+126,12,Confuse Ray,49,ghost,-,100
+126,13,Confuse Ray,49,ghost,-,100
+126,14,Flamethrower,49,fire,90,100
+126,15,Flamethrower,49,fire,90,100
+126,16,Flamethrower,49,fire,90,100
+126,11,Flamethrower,50,fire,90,100
+126,1,Smog,52,poison,30,70
+126,2,Smog,52,poison,30,70
+126,8,Fire Blast,54,fire,110,85
+126,9,Fire Blast,54,fire,110,85
+126,10,Fire Blast,54,fire,110,85
+126,1,Flamethrower,55,fire,90,100
+126,2,Flamethrower,55,fire,90,100
+126,14,Fire Blast,55,fire,110,85
+126,15,Fire Blast,55,fire,110,85
+126,16,Fire Blast,55,fire,110,85
+126,11,Sunny Day,56,fire,-,-
+126,3,Fire Blast,57,fire,110,85
+126,4,Fire Blast,57,fire,110,85
+126,5,Fire Blast,57,fire,110,85
+126,6,Fire Blast,57,fire,110,85
+126,7,Fire Blast,57,fire,110,85
+126,12,Fire Blast,57,fire,110,85
+126,13,Fire Blast,57,fire,110,85
+126,11,Fire Blast,62,fire,110,85

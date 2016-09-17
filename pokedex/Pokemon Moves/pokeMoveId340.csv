@@ -1,0 +1,199 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+340,5,Mud-Slap,1,ground,20,100
+340,5,Mud Sport,1,ground,-,-
+340,5,Tickle,1,normal,-,100
+340,5,Water Sport,1,water,-,-
+340,6,Mud-Slap,1,ground,20,100
+340,6,Mud Sport,1,ground,-,-
+340,6,Tickle,1,normal,-,100
+340,6,Water Sport,1,water,-,-
+340,7,Mud-Slap,1,ground,20,100
+340,7,Mud Sport,1,ground,-,-
+340,7,Tickle,1,normal,-,100
+340,7,Water Sport,1,water,-,-
+340,8,Mud-Slap,1,ground,20,100
+340,8,Mud Sport,1,ground,-,-
+340,8,Tickle,1,normal,-,100
+340,8,Water Sport,1,water,-,-
+340,8,Zen Headbutt,1,psychic,80,90
+340,9,Mud-Slap,1,ground,20,100
+340,9,Mud Sport,1,ground,-,-
+340,9,Tickle,1,normal,-,100
+340,9,Water Sport,1,water,-,-
+340,9,Zen Headbutt,1,psychic,80,90
+340,10,Mud-Slap,1,ground,20,100
+340,10,Mud Sport,1,ground,-,-
+340,10,Tickle,1,normal,-,100
+340,10,Water Sport,1,water,-,-
+340,10,Zen Headbutt,1,psychic,80,90
+340,11,Mud-Slap,1,ground,20,100
+340,11,Mud Sport,1,ground,-,-
+340,11,Tickle,1,normal,-,100
+340,11,Water Sport,1,water,-,-
+340,11,Zen Headbutt,1,psychic,80,90
+340,12,Mud-Slap,1,ground,20,100
+340,12,Mud Sport,1,ground,-,-
+340,12,Tickle,1,normal,-,100
+340,12,Water Sport,1,water,-,-
+340,13,Mud-Slap,1,ground,20,100
+340,13,Mud Sport,1,ground,-,-
+340,13,Tickle,1,normal,-,100
+340,13,Water Sport,1,water,-,-
+340,14,Mud-Slap,1,ground,20,100
+340,14,Mud Sport,1,ground,-,-
+340,14,Tickle,1,normal,-,100
+340,14,Water Sport,1,water,-,-
+340,14,Zen Headbutt,1,psychic,80,90
+340,15,Mud-Slap,1,ground,20,100
+340,15,Mud Sport,1,ground,-,-
+340,15,Tickle,1,normal,-,100
+340,15,Water Sport,1,water,-,-
+340,15,Zen Headbutt,1,psychic,80,90
+340,16,Water Gun,1,water,40,100
+340,16,Mud-Slap,1,ground,20,100
+340,16,Mud Sport,1,ground,-,-
+340,16,Tickle,1,normal,-,100
+340,16,Water Sport,1,water,-,-
+340,5,Mud Sport,6,ground,-,-
+340,5,Water Sport,6,water,-,-
+340,6,Mud Sport,6,ground,-,-
+340,6,Water Sport,6,water,-,-
+340,7,Mud Sport,6,ground,-,-
+340,7,Water Sport,6,water,-,-
+340,8,Mud Sport,6,ground,-,-
+340,8,Water Sport,6,water,-,-
+340,9,Mud Sport,6,ground,-,-
+340,9,Water Sport,6,water,-,-
+340,10,Mud Sport,6,ground,-,-
+340,10,Water Sport,6,water,-,-
+340,11,Mud Sport,6,ground,-,-
+340,11,Water Sport,6,water,-,-
+340,12,Mud Sport,6,ground,-,-
+340,12,Water Sport,6,water,-,-
+340,13,Mud Sport,6,ground,-,-
+340,13,Water Sport,6,water,-,-
+340,14,Mud Sport,6,ground,-,-
+340,14,Water Sport,6,water,-,-
+340,15,Mud Sport,6,ground,-,-
+340,15,Water Sport,6,water,-,-
+340,16,Mud Sport,6,ground,-,-
+340,16,Water Sport,6,water,-,-
+340,16,Water Gun,9,water,40,100
+340,8,Water Gun,10,water,40,100
+340,9,Water Gun,10,water,40,100
+340,10,Water Gun,10,water,40,100
+340,11,Water Gun,10,water,40,100
+340,14,Water Gun,10,water,40,100
+340,15,Water Gun,10,water,40,100
+340,5,Water Gun,11,water,40,100
+340,6,Water Gun,11,water,40,100
+340,7,Water Gun,11,water,40,100
+340,12,Water Gun,11,water,40,100
+340,13,Water Gun,11,water,40,100
+340,16,Mud Bomb,13,ground,65,85
+340,8,Mud Bomb,14,ground,65,85
+340,9,Mud Bomb,14,ground,65,85
+340,10,Mud Bomb,14,ground,65,85
+340,11,Mud Bomb,14,ground,65,85
+340,14,Mud Bomb,14,ground,65,85
+340,15,Mud Bomb,14,ground,65,85
+340,16,Amnesia,15,psychic,-,-
+340,5,Magnitude,16,ground,-,100
+340,6,Magnitude,16,ground,-,100
+340,7,Magnitude,16,ground,-,100
+340,12,Magnitude,16,ground,-,100
+340,13,Magnitude,16,ground,-,100
+340,16,Water Pulse,17,water,60,100
+340,8,Amnesia,18,psychic,-,-
+340,9,Amnesia,18,psychic,-,-
+340,10,Amnesia,18,psychic,-,-
+340,11,Amnesia,18,psychic,-,-
+340,14,Amnesia,18,psychic,-,-
+340,15,Amnesia,18,psychic,-,-
+340,16,Magnitude,20,ground,-,100
+340,5,Amnesia,21,psychic,-,-
+340,6,Amnesia,21,psychic,-,-
+340,7,Amnesia,21,psychic,-,-
+340,12,Amnesia,21,psychic,-,-
+340,13,Amnesia,21,psychic,-,-
+340,8,Water Pulse,22,water,60,100
+340,9,Water Pulse,22,water,60,100
+340,10,Water Pulse,22,water,60,100
+340,11,Water Pulse,22,water,60,100
+340,14,Water Pulse,22,water,60,100
+340,15,Water Pulse,22,water,60,100
+340,16,Rest,25,psychic,-,-
+340,16,Snore,25,normal,50,100
+340,5,Rest,26,psychic,-,-
+340,5,Snore,26,normal,50,100
+340,6,Rest,26,psychic,-,-
+340,6,Snore,26,normal,50,100
+340,7,Rest,26,psychic,-,-
+340,7,Snore,26,normal,50,100
+340,8,Magnitude,26,ground,-,100
+340,9,Magnitude,26,ground,-,100
+340,10,Magnitude,26,ground,-,100
+340,11,Magnitude,26,ground,-,100
+340,12,Rest,26,psychic,-,-
+340,12,Snore,26,normal,50,100
+340,13,Rest,26,psychic,-,-
+340,13,Snore,26,normal,50,100
+340,14,Magnitude,26,ground,-,100
+340,15,Magnitude,26,ground,-,100
+340,16,Aqua Tail,28,water,90,90
+340,16,Zen Headbutt,30,psychic,80,90
+340,8,Rest,33,psychic,-,-
+340,8,Snore,33,normal,50,100
+340,9,Rest,33,psychic,-,-
+340,9,Snore,33,normal,50,100
+340,10,Rest,33,psychic,-,-
+340,10,Snore,33,normal,50,100
+340,11,Rest,33,psychic,-,-
+340,11,Snore,33,normal,50,100
+340,14,Rest,33,psychic,-,-
+340,14,Snore,33,normal,50,100
+340,15,Rest,33,psychic,-,-
+340,15,Snore,33,normal,50,100
+340,16,Earthquake,34,ground,100,100
+340,5,Earthquake,36,ground,100,100
+340,6,Earthquake,36,ground,100,100
+340,7,Earthquake,36,ground,100,100
+340,12,Earthquake,36,ground,100,100
+340,13,Earthquake,36,ground,100,100
+340,8,Aqua Tail,39,water,90,90
+340,9,Aqua Tail,39,water,90,90
+340,10,Aqua Tail,39,water,90,90
+340,11,Aqua Tail,39,water,90,90
+340,14,Aqua Tail,39,water,90,90
+340,15,Aqua Tail,39,water,90,90
+340,16,Muddy Water,39,water,90,85
+340,8,Earthquake,45,ground,100,100
+340,9,Earthquake,45,ground,100,100
+340,10,Earthquake,45,ground,100,100
+340,11,Earthquake,45,ground,100,100
+340,14,Earthquake,45,ground,100,100
+340,15,Earthquake,45,ground,100,100
+340,16,Future Sight,45,psychic,120,100
+340,5,Future Sight,46,psychic,120,100
+340,6,Future Sight,46,psychic,120,100
+340,7,Future Sight,46,psychic,120,100
+340,12,Future Sight,46,psychic,120,100
+340,13,Future Sight,46,psychic,120,100
+340,8,Future Sight,51,psychic,120,100
+340,9,Future Sight,51,psychic,120,100
+340,10,Future Sight,51,psychic,120,100
+340,11,Future Sight,51,psychic,120,100
+340,14,Future Sight,51,psychic,120,100
+340,15,Future Sight,51,psychic,120,100
+340,16,Fissure,52,ground,-,30
+340,5,Fissure,56,ground,-,30
+340,6,Fissure,56,ground,-,30
+340,7,Fissure,56,ground,-,30
+340,12,Fissure,56,ground,-,30
+340,13,Fissure,56,ground,-,30
+340,8,Fissure,57,ground,-,30
+340,9,Fissure,57,ground,-,30
+340,10,Fissure,57,ground,-,30
+340,11,Fissure,57,ground,-,30
+340,14,Fissure,57,ground,-,30
+340,15,Fissure,57,ground,-,30

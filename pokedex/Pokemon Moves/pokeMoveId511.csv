@@ -1,0 +1,63 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+511,11,Scratch,1,normal,40,100
+511,14,Scratch,1,normal,40,100
+511,15,Scratch,1,normal,40,100
+511,15,Play Nice,1,normal,-,-
+511,16,Scratch,1,normal,40,100
+511,16,Play Nice,1,normal,-,-
+511,11,Leer,4,normal,-,100
+511,14,Leer,4,normal,-,100
+511,15,Leer,4,normal,-,100
+511,16,Leer,4,normal,-,100
+511,11,Lick,7,ghost,30,100
+511,14,Lick,7,ghost,30,100
+511,15,Lick,7,ghost,30,100
+511,16,Lick,7,ghost,30,100
+511,11,Vine Whip,10,grass,45,100
+511,14,Vine Whip,10,grass,45,100
+511,15,Vine Whip,10,grass,45,100
+511,16,Vine Whip,10,grass,45,100
+511,11,Fury Swipes,13,normal,18,80
+511,14,Fury Swipes,13,normal,18,80
+511,15,Fury Swipes,13,normal,18,80
+511,16,Fury Swipes,13,normal,18,80
+511,11,Leech Seed,16,grass,-,90
+511,14,Leech Seed,16,grass,-,90
+511,15,Leech Seed,16,grass,-,90
+511,16,Leech Seed,16,grass,-,90
+511,11,Bite,19,dark,60,100
+511,14,Bite,19,dark,60,100
+511,15,Bite,19,dark,60,100
+511,16,Bite,19,dark,60,100
+511,11,Seed Bomb,22,grass,80,100
+511,14,Seed Bomb,22,grass,80,100
+511,15,Seed Bomb,22,grass,80,100
+511,16,Seed Bomb,22,grass,80,100
+511,11,Torment,25,dark,-,100
+511,14,Torment,25,dark,-,100
+511,15,Torment,25,dark,-,100
+511,16,Torment,25,dark,-,100
+511,11,Fling,28,dark,-,100
+511,14,Fling,28,dark,-,100
+511,15,Fling,28,dark,-,100
+511,16,Fling,28,dark,-,100
+511,11,Acrobatics,31,flying,55,100
+511,14,Acrobatics,31,flying,55,100
+511,15,Acrobatics,31,flying,55,100
+511,16,Acrobatics,31,flying,55,100
+511,11,Grass Knot,34,grass,-,100
+511,14,Grass Knot,34,grass,-,100
+511,15,Grass Knot,34,grass,-,100
+511,16,Grass Knot,34,grass,-,100
+511,11,Recycle,37,normal,-,-
+511,14,Recycle,37,normal,-,-
+511,15,Recycle,37,normal,-,-
+511,16,Recycle,37,normal,-,-
+511,11,Natural Gift,40,normal,-,100
+511,14,Natural Gift,40,normal,-,100
+511,15,Natural Gift,40,normal,-,100
+511,16,Natural Gift,40,normal,-,100
+511,11,Crunch,43,dark,80,100
+511,14,Crunch,43,dark,80,100
+511,15,Crunch,43,dark,80,100
+511,16,Crunch,43,dark,80,100

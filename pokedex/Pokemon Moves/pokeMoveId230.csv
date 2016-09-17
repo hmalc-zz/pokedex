@@ -1,0 +1,190 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+230,3,Leer,1,normal,-,100
+230,3,Water Gun,1,water,40,100
+230,3,Smokescreen,1,normal,-,100
+230,3,Bubble,1,water,40,100
+230,4,Leer,1,normal,-,100
+230,4,Water Gun,1,water,40,100
+230,4,Smokescreen,1,normal,-,100
+230,4,Bubble,1,water,40,100
+230,5,Leer,1,normal,-,100
+230,5,Water Gun,1,water,40,100
+230,5,Smokescreen,1,normal,-,100
+230,5,Bubble,1,water,40,100
+230,6,Leer,1,normal,-,100
+230,6,Water Gun,1,water,40,100
+230,6,Smokescreen,1,normal,-,100
+230,6,Bubble,1,water,40,100
+230,7,Leer,1,normal,-,100
+230,7,Water Gun,1,water,40,100
+230,7,Smokescreen,1,normal,-,100
+230,7,Bubble,1,water,40,100
+230,8,Leer,1,normal,-,100
+230,8,Water Gun,1,water,40,100
+230,8,Smokescreen,1,normal,-,100
+230,8,Bubble,1,water,40,100
+230,8,Yawn,1,normal,-,-
+230,9,Leer,1,normal,-,100
+230,9,Water Gun,1,water,40,100
+230,9,Smokescreen,1,normal,-,100
+230,9,Bubble,1,water,40,100
+230,9,Yawn,1,normal,-,-
+230,10,Leer,1,normal,-,100
+230,10,Water Gun,1,water,40,100
+230,10,Smokescreen,1,normal,-,100
+230,10,Bubble,1,water,40,100
+230,10,Yawn,1,normal,-,-
+230,11,Leer,1,normal,-,100
+230,11,Water Gun,1,water,40,100
+230,11,Smokescreen,1,normal,-,100
+230,11,Bubble,1,water,40,100
+230,11,Yawn,1,normal,-,-
+230,12,Leer,1,normal,-,100
+230,12,Water Gun,1,water,40,100
+230,12,Smokescreen,1,normal,-,100
+230,12,Bubble,1,water,40,100
+230,13,Leer,1,normal,-,100
+230,13,Water Gun,1,water,40,100
+230,13,Smokescreen,1,normal,-,100
+230,13,Bubble,1,water,40,100
+230,14,Leer,1,normal,-,100
+230,14,Water Gun,1,water,40,100
+230,14,Smokescreen,1,normal,-,100
+230,14,Bubble,1,water,40,100
+230,14,Yawn,1,normal,-,-
+230,15,Leer,1,normal,-,100
+230,15,Water Gun,1,water,40,100
+230,15,Smokescreen,1,normal,-,100
+230,15,Bubble,1,water,40,100
+230,15,Yawn,1,normal,-,-
+230,15,Dragon Pulse,1,dragon,85,100
+230,16,Leer,1,normal,-,100
+230,16,Water Gun,1,water,40,100
+230,16,Hydro Pump,1,water,110,80
+230,16,Smokescreen,1,normal,-,100
+230,16,Bubble,1,water,40,100
+230,16,Yawn,1,normal,-,-
+230,8,Smokescreen,4,normal,-,100
+230,9,Smokescreen,4,normal,-,100
+230,10,Smokescreen,4,normal,-,100
+230,11,Smokescreen,4,normal,-,100
+230,14,Smokescreen,4,normal,-,100
+230,15,Smokescreen,4,normal,-,100
+230,16,Smokescreen,5,normal,-,100
+230,3,Smokescreen,8,normal,-,100
+230,4,Smokescreen,8,normal,-,100
+230,5,Smokescreen,8,normal,-,100
+230,6,Smokescreen,8,normal,-,100
+230,7,Smokescreen,8,normal,-,100
+230,8,Leer,8,normal,-,100
+230,9,Leer,8,normal,-,100
+230,10,Leer,8,normal,-,100
+230,11,Leer,8,normal,-,100
+230,12,Smokescreen,8,normal,-,100
+230,13,Smokescreen,8,normal,-,100
+230,14,Leer,8,normal,-,100
+230,15,Leer,8,normal,-,100
+230,16,Leer,9,normal,-,100
+230,8,Water Gun,11,water,40,100
+230,9,Water Gun,11,water,40,100
+230,10,Water Gun,11,water,40,100
+230,11,Water Gun,11,water,40,100
+230,14,Water Gun,11,water,40,100
+230,15,Bubble,11,water,40,100
+230,16,Water Gun,13,water,40,100
+230,8,Focus Energy,14,normal,-,-
+230,9,Focus Energy,14,normal,-,-
+230,10,Focus Energy,14,normal,-,-
+230,11,Focus Energy,14,normal,-,-
+230,14,Focus Energy,14,normal,-,-
+230,15,Focus Energy,14,normal,-,-
+230,3,Leer,15,normal,-,100
+230,4,Leer,15,normal,-,100
+230,5,Leer,15,normal,-,100
+230,6,Leer,15,normal,-,100
+230,7,Leer,15,normal,-,100
+230,12,Leer,15,normal,-,100
+230,13,Leer,15,normal,-,100
+230,16,Twister,17,dragon,40,100
+230,8,Bubble Beam,18,water,65,100
+230,9,Bubble Beam,18,water,65,100
+230,10,Bubble Beam,18,water,65,100
+230,11,Bubble Beam,18,water,65,100
+230,14,Bubble Beam,18,water,65,100
+230,15,Bubble Beam,18,water,65,100
+230,16,Bubble Beam,21,water,65,100
+230,3,Water Gun,22,water,40,100
+230,4,Water Gun,22,water,40,100
+230,5,Water Gun,22,water,40,100
+230,6,Water Gun,22,water,40,100
+230,7,Water Gun,22,water,40,100
+230,12,Water Gun,22,water,40,100
+230,13,Water Gun,22,water,40,100
+230,8,Agility,23,psychic,-,-
+230,9,Agility,23,psychic,-,-
+230,10,Agility,23,psychic,-,-
+230,11,Agility,23,psychic,-,-
+230,14,Agility,23,psychic,-,-
+230,15,Agility,23,psychic,-,-
+230,8,Twister,26,dragon,40,100
+230,9,Twister,26,dragon,40,100
+230,10,Twister,26,dragon,40,100
+230,11,Twister,26,dragon,40,100
+230,14,Twister,26,dragon,40,100
+230,15,Twister,26,dragon,40,100
+230,16,Focus Energy,26,normal,-,-
+230,3,Twister,29,dragon,40,100
+230,4,Twister,29,dragon,40,100
+230,5,Twister,29,dragon,40,100
+230,6,Twister,29,dragon,40,100
+230,7,Twister,29,dragon,40,100
+230,12,Twister,29,dragon,40,100
+230,13,Twister,29,dragon,40,100
+230,8,Brine,30,water,65,100
+230,9,Brine,30,water,65,100
+230,10,Brine,30,water,65,100
+230,11,Brine,30,water,65,100
+230,14,Brine,30,water,65,100
+230,15,Brine,30,water,65,100
+230,16,Brine,31,water,65,100
+230,16,Agility,38,psychic,-,-
+230,3,Agility,40,psychic,-,-
+230,4,Agility,40,psychic,-,-
+230,5,Agility,40,psychic,-,-
+230,6,Agility,40,psychic,-,-
+230,7,Agility,40,psychic,-,-
+230,8,Hydro Pump,40,water,110,80
+230,9,Hydro Pump,40,water,110,80
+230,10,Hydro Pump,40,water,110,80
+230,11,Hydro Pump,40,water,110,80
+230,12,Agility,40,psychic,-,-
+230,13,Agility,40,psychic,-,-
+230,14,Hydro Pump,40,water,110,80
+230,15,Hydro Pump,40,water,110,80
+230,16,Dragon Pulse,45,dragon,85,100
+230,8,Dragon Dance,48,dragon,-,-
+230,9,Dragon Dance,48,dragon,-,-
+230,10,Dragon Dance,48,dragon,-,-
+230,11,Dragon Dance,48,dragon,-,-
+230,14,Dragon Dance,48,dragon,-,-
+230,15,Dragon Dance,48,dragon,-,-
+230,3,Hydro Pump,51,water,110,80
+230,4,Hydro Pump,51,water,110,80
+230,5,Hydro Pump,51,water,110,80
+230,6,Hydro Pump,51,water,110,80
+230,7,Hydro Pump,51,water,110,80
+230,12,Hydro Pump,51,water,110,80
+230,13,Hydro Pump,51,water,110,80
+230,16,Dragon Dance,52,dragon,-,-
+230,8,Dragon Pulse,57,dragon,85,100
+230,9,Dragon Pulse,57,dragon,85,100
+230,10,Dragon Pulse,57,dragon,85,100
+230,11,Dragon Pulse,57,dragon,85,100
+230,14,Dragon Pulse,57,dragon,85,100
+230,15,Dragon Pulse,57,dragon,85,100
+230,16,Hydro Pump,60,water,110,80
+230,5,Dragon Dance,62,dragon,-,-
+230,6,Dragon Dance,62,dragon,-,-
+230,7,Dragon Dance,62,dragon,-,-
+230,12,Dragon Dance,62,dragon,-,-
+230,13,Dragon Dance,62,dragon,-,-

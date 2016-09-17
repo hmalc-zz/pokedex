@@ -1,0 +1,251 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+49,1,Tackle,1,normal,50,100
+49,1,Disable,1,normal,-,100
+49,1,Poison Powder,1,poison,-,75
+49,1,Leech Life,1,bug,20,100
+49,2,Tackle,1,normal,50,100
+49,2,Supersonic,1,normal,-,55
+49,2,Disable,1,normal,-,100
+49,2,Confusion,1,psychic,50,100
+49,3,Tackle,1,normal,50,100
+49,3,Supersonic,1,normal,-,55
+49,3,Disable,1,normal,-,100
+49,3,Foresight,1,normal,-,-
+49,4,Tackle,1,normal,50,100
+49,4,Supersonic,1,normal,-,55
+49,4,Disable,1,normal,-,100
+49,4,Foresight,1,normal,-,-
+49,5,Tackle,1,normal,50,100
+49,5,Supersonic,1,normal,-,55
+49,5,Disable,1,normal,-,100
+49,5,Foresight,1,normal,-,-
+49,5,Silver Wind,1,bug,60,100
+49,6,Tackle,1,normal,50,100
+49,6,Supersonic,1,normal,-,55
+49,6,Disable,1,normal,-,100
+49,6,Foresight,1,normal,-,-
+49,6,Silver Wind,1,bug,60,100
+49,7,Tackle,1,normal,50,100
+49,7,Supersonic,1,normal,-,55
+49,7,Disable,1,normal,-,100
+49,7,Foresight,1,normal,-,-
+49,7,Silver Wind,1,bug,60,100
+49,8,Tackle,1,normal,50,100
+49,8,Supersonic,1,normal,-,55
+49,8,Disable,1,normal,-,100
+49,8,Foresight,1,normal,-,-
+49,8,Silver Wind,1,bug,60,100
+49,9,Tackle,1,normal,50,100
+49,9,Supersonic,1,normal,-,55
+49,9,Disable,1,normal,-,100
+49,9,Foresight,1,normal,-,-
+49,9,Silver Wind,1,bug,60,100
+49,10,Tackle,1,normal,50,100
+49,10,Supersonic,1,normal,-,55
+49,10,Disable,1,normal,-,100
+49,10,Foresight,1,normal,-,-
+49,10,Silver Wind,1,bug,60,100
+49,11,Tackle,1,normal,50,100
+49,11,Supersonic,1,normal,-,55
+49,11,Disable,1,normal,-,100
+49,11,Foresight,1,normal,-,-
+49,11,Silver Wind,1,bug,60,100
+49,12,Tackle,1,normal,50,100
+49,12,Supersonic,1,normal,-,55
+49,12,Disable,1,normal,-,100
+49,12,Foresight,1,normal,-,-
+49,12,Silver Wind,1,bug,60,100
+49,13,Tackle,1,normal,50,100
+49,13,Supersonic,1,normal,-,55
+49,13,Disable,1,normal,-,100
+49,13,Foresight,1,normal,-,-
+49,13,Silver Wind,1,bug,60,100
+49,14,Tackle,1,normal,50,100
+49,14,Supersonic,1,normal,-,55
+49,14,Disable,1,normal,-,100
+49,14,Foresight,1,normal,-,-
+49,14,Silver Wind,1,bug,60,100
+49,15,Tackle,1,normal,50,100
+49,15,Supersonic,1,normal,-,55
+49,15,Disable,1,normal,-,100
+49,15,Foresight,1,normal,-,-
+49,15,Silver Wind,1,bug,60,100
+49,15,Bug Buzz,1,bug,90,100
+49,15,Quiver Dance,1,bug,-,-
+49,16,Tackle,1,normal,50,100
+49,16,Supersonic,1,normal,-,55
+49,16,Disable,1,normal,-,100
+49,16,Foresight,1,normal,-,-
+49,16,Silver Wind,1,bug,60,100
+49,16,Bug Buzz,1,bug,90,100
+49,16,Quiver Dance,1,bug,-,-
+49,8,Supersonic,5,normal,-,55
+49,9,Supersonic,5,normal,-,55
+49,10,Supersonic,5,normal,-,55
+49,11,Supersonic,5,normal,-,55
+49,14,Supersonic,5,normal,-,55
+49,15,Supersonic,5,normal,-,55
+49,16,Supersonic,5,normal,-,55
+49,3,Supersonic,9,normal,-,55
+49,4,Supersonic,9,normal,-,55
+49,5,Supersonic,9,normal,-,55
+49,6,Supersonic,9,normal,-,55
+49,7,Supersonic,9,normal,-,55
+49,12,Supersonic,9,normal,-,55
+49,13,Supersonic,9,normal,-,55
+49,8,Confusion,11,psychic,50,100
+49,9,Confusion,11,psychic,50,100
+49,10,Confusion,11,psychic,50,100
+49,11,Confusion,11,psychic,50,100
+49,14,Confusion,11,psychic,50,100
+49,15,Confusion,11,psychic,50,100
+49,16,Confusion,11,psychic,50,100
+49,8,Poison Powder,13,poison,-,75
+49,9,Poison Powder,13,poison,-,75
+49,10,Poison Powder,13,poison,-,75
+49,11,Poison Powder,13,poison,-,75
+49,14,Poison Powder,13,poison,-,75
+49,15,Poison Powder,13,poison,-,75
+49,16,Poison Powder,13,poison,-,75
+49,3,Confusion,17,psychic,50,100
+49,4,Confusion,17,psychic,50,100
+49,5,Confusion,17,psychic,50,100
+49,6,Confusion,17,psychic,50,100
+49,7,Confusion,17,psychic,50,100
+49,8,Leech Life,17,bug,20,100
+49,9,Leech Life,17,bug,20,100
+49,10,Leech Life,17,bug,20,100
+49,11,Leech Life,17,bug,20,100
+49,12,Confusion,17,psychic,50,100
+49,13,Confusion,17,psychic,50,100
+49,14,Leech Life,17,bug,20,100
+49,15,Leech Life,17,bug,20,100
+49,16,Leech Life,17,bug,20,100
+49,3,Poison Powder,20,poison,-,75
+49,4,Poison Powder,20,poison,-,75
+49,5,Poison Powder,20,poison,-,75
+49,6,Poison Powder,20,poison,-,75
+49,7,Poison Powder,20,poison,-,75
+49,12,Poison Powder,20,poison,-,75
+49,13,Poison Powder,20,poison,-,75
+49,2,Poison Powder,22,poison,-,75
+49,8,Stun Spore,23,grass,-,75
+49,9,Stun Spore,23,grass,-,75
+49,10,Stun Spore,23,grass,-,75
+49,11,Stun Spore,23,grass,-,75
+49,14,Stun Spore,23,grass,-,75
+49,15,Stun Spore,23,grass,-,75
+49,16,Stun Spore,23,grass,-,75
+49,1,Poison Powder,24,poison,-,75
+49,3,Leech Life,25,bug,20,100
+49,4,Leech Life,25,bug,20,100
+49,5,Leech Life,25,bug,20,100
+49,6,Leech Life,25,bug,20,100
+49,7,Leech Life,25,bug,20,100
+49,8,Psybeam,25,psychic,65,100
+49,9,Psybeam,25,psychic,65,100
+49,10,Psybeam,25,psychic,65,100
+49,11,Psybeam,25,psychic,65,100
+49,12,Leech Life,25,bug,20,100
+49,13,Leech Life,25,bug,20,100
+49,14,Psybeam,25,psychic,65,100
+49,15,Psybeam,25,psychic,65,100
+49,16,Psybeam,25,psychic,65,100
+49,1,Leech Life,27,bug,20,100
+49,2,Leech Life,27,bug,20,100
+49,3,Stun Spore,28,grass,-,75
+49,4,Stun Spore,28,grass,-,75
+49,5,Stun Spore,28,grass,-,75
+49,6,Stun Spore,28,grass,-,75
+49,7,Stun Spore,28,grass,-,75
+49,12,Stun Spore,28,grass,-,75
+49,13,Stun Spore,28,grass,-,75
+49,8,Sleep Powder,29,grass,-,75
+49,9,Sleep Powder,29,grass,-,75
+49,10,Sleep Powder,29,grass,-,75
+49,11,Sleep Powder,29,grass,-,75
+49,14,Sleep Powder,29,grass,-,75
+49,15,Sleep Powder,29,grass,-,75
+49,16,Sleep Powder,29,grass,-,75
+49,1,Stun Spore,30,grass,-,75
+49,2,Stun Spore,30,grass,-,75
+49,3,Gust,31,flying,40,100
+49,4,Gust,31,flying,40,100
+49,5,Gust,31,flying,40,100
+49,6,Gust,31,flying,40,100
+49,7,Gust,31,flying,40,100
+49,8,Gust,31,flying,40,100
+49,9,Gust,31,flying,40,100
+49,10,Gust,31,flying,40,100
+49,11,Gust,31,flying,40,100
+49,12,Gust,31,flying,40,100
+49,13,Gust,31,flying,40,100
+49,14,Gust,31,flying,40,100
+49,15,Gust,31,flying,40,100
+49,16,Gust,31,flying,40,100
+49,3,Psybeam,36,psychic,65,100
+49,4,Psybeam,36,psychic,65,100
+49,5,Psybeam,36,psychic,65,100
+49,6,Psybeam,36,psychic,65,100
+49,7,Psybeam,36,psychic,65,100
+49,12,Psybeam,36,psychic,65,100
+49,13,Psybeam,36,psychic,65,100
+49,8,Signal Beam,37,bug,75,100
+49,9,Signal Beam,37,bug,75,100
+49,10,Signal Beam,37,bug,75,100
+49,11,Signal Beam,37,bug,75,100
+49,14,Signal Beam,37,bug,75,100
+49,15,Signal Beam,37,bug,75,100
+49,16,Signal Beam,37,bug,75,100
+49,1,Psybeam,38,psychic,65,100
+49,2,Psybeam,38,psychic,65,100
+49,8,Zen Headbutt,41,psychic,80,90
+49,9,Zen Headbutt,41,psychic,80,90
+49,10,Zen Headbutt,41,psychic,80,90
+49,11,Zen Headbutt,41,psychic,80,90
+49,14,Zen Headbutt,41,psychic,80,90
+49,15,Zen Headbutt,41,psychic,80,90
+49,16,Zen Headbutt,41,psychic,80,90
+49,3,Sleep Powder,42,grass,-,75
+49,4,Sleep Powder,42,grass,-,75
+49,5,Sleep Powder,42,grass,-,75
+49,6,Sleep Powder,42,grass,-,75
+49,7,Sleep Powder,42,grass,-,75
+49,12,Sleep Powder,42,grass,-,75
+49,13,Sleep Powder,42,grass,-,75
+49,1,Sleep Powder,43,grass,-,75
+49,2,Sleep Powder,43,grass,-,75
+49,8,Poison Fang,47,poison,50,100
+49,9,Poison Fang,47,poison,50,100
+49,10,Poison Fang,47,poison,50,100
+49,11,Poison Fang,47,poison,50,100
+49,14,Poison Fang,47,poison,50,100
+49,15,Poison Fang,47,poison,50,100
+49,16,Poison Fang,47,poison,50,100
+49,1,Psychic,50,psychic,90,100
+49,2,Psychic,50,psychic,90,100
+49,3,Psychic,52,psychic,90,100
+49,4,Psychic,52,psychic,90,100
+49,5,Psychic,52,psychic,90,100
+49,6,Psychic,52,psychic,90,100
+49,7,Psychic,52,psychic,90,100
+49,12,Psychic,52,psychic,90,100
+49,13,Psychic,52,psychic,90,100
+49,8,Psychic,55,psychic,90,100
+49,9,Psychic,55,psychic,90,100
+49,10,Psychic,55,psychic,90,100
+49,11,Psychic,55,psychic,90,100
+49,14,Psychic,55,psychic,90,100
+49,15,Psychic,55,psychic,90,100
+49,16,Psychic,55,psychic,90,100
+49,8,Bug Buzz,59,bug,90,100
+49,9,Bug Buzz,59,bug,90,100
+49,10,Bug Buzz,59,bug,90,100
+49,11,Bug Buzz,59,bug,90,100
+49,14,Bug Buzz,59,bug,90,100
+49,15,Bug Buzz,59,bug,90,100
+49,16,Bug Buzz,59,bug,90,100
+49,11,Quiver Dance,63,bug,-,-
+49,14,Quiver Dance,63,bug,-,-
+49,15,Quiver Dance,63,bug,-,-
+49,16,Quiver Dance,63,bug,-,-

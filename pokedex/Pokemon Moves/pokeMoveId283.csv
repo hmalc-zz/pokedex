@@ -1,0 +1,107 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+283,5,Bubble,1,water,40,100
+283,6,Bubble,1,water,40,100
+283,7,Bubble,1,water,40,100
+283,8,Bubble,1,water,40,100
+283,9,Bubble,1,water,40,100
+283,10,Bubble,1,water,40,100
+283,11,Bubble,1,water,40,100
+283,12,Bubble,1,water,40,100
+283,13,Bubble,1,water,40,100
+283,14,Bubble,1,water,40,100
+283,15,Bubble,1,water,40,100
+283,16,Bubble,1,water,40,100
+283,16,Quick Attack,6,normal,40,100
+283,5,Quick Attack,7,normal,40,100
+283,6,Quick Attack,7,normal,40,100
+283,7,Quick Attack,7,normal,40,100
+283,8,Quick Attack,7,normal,40,100
+283,9,Quick Attack,7,normal,40,100
+283,10,Quick Attack,7,normal,40,100
+283,11,Quick Attack,7,normal,40,100
+283,12,Quick Attack,7,normal,40,100
+283,13,Quick Attack,7,normal,40,100
+283,14,Quick Attack,7,normal,40,100
+283,15,Quick Attack,7,normal,40,100
+283,16,Sweet Scent,9,normal,-,100
+283,5,Sweet Scent,13,normal,-,100
+283,6,Sweet Scent,13,normal,-,100
+283,7,Sweet Scent,13,normal,-,100
+283,8,Sweet Scent,13,normal,-,100
+283,9,Sweet Scent,13,normal,-,100
+283,10,Sweet Scent,13,normal,-,100
+283,11,Sweet Scent,13,normal,-,100
+283,12,Sweet Scent,13,normal,-,100
+283,13,Sweet Scent,13,normal,-,100
+283,14,Sweet Scent,13,normal,-,100
+283,15,Sweet Scent,13,normal,-,100
+283,16,Water Sport,14,water,-,-
+283,16,Bubble Beam,17,water,65,100
+283,5,Water Sport,19,water,-,-
+283,6,Water Sport,19,water,-,-
+283,7,Water Sport,19,water,-,-
+283,8,Water Sport,19,water,-,-
+283,9,Water Sport,19,water,-,-
+283,10,Water Sport,19,water,-,-
+283,11,Water Sport,19,water,-,-
+283,12,Water Sport,19,water,-,-
+283,13,Water Sport,19,water,-,-
+283,14,Water Sport,19,water,-,-
+283,15,Water Sport,19,water,-,-
+283,16,Agility,22,psychic,-,-
+283,5,Bubble Beam,25,water,65,100
+283,6,Bubble Beam,25,water,65,100
+283,7,Bubble Beam,25,water,65,100
+283,8,Bubble Beam,25,water,65,100
+283,9,Bubble Beam,25,water,65,100
+283,10,Bubble Beam,25,water,65,100
+283,11,Bubble Beam,25,water,65,100
+283,12,Bubble Beam,25,water,65,100
+283,13,Bubble Beam,25,water,65,100
+283,14,Bubble Beam,25,water,65,100
+283,15,Bubble Beam,25,water,65,100
+283,16,Mist,25,ice,-,-
+283,16,Haze,25,ice,-,-
+283,16,Aqua Jet,30,water,40,100
+283,5,Agility,31,psychic,-,-
+283,6,Agility,31,psychic,-,-
+283,7,Agility,31,psychic,-,-
+283,8,Agility,31,psychic,-,-
+283,9,Agility,31,psychic,-,-
+283,10,Agility,31,psychic,-,-
+283,11,Agility,31,psychic,-,-
+283,12,Agility,31,psychic,-,-
+283,13,Agility,31,psychic,-,-
+283,14,Agility,31,psychic,-,-
+283,15,Agility,31,psychic,-,-
+283,16,Baton Pass,35,normal,-,-
+283,5,Mist,37,ice,-,-
+283,5,Haze,37,ice,-,-
+283,6,Mist,37,ice,-,-
+283,6,Haze,37,ice,-,-
+283,7,Mist,37,ice,-,-
+283,7,Haze,37,ice,-,-
+283,8,Mist,37,ice,-,-
+283,8,Haze,37,ice,-,-
+283,9,Mist,37,ice,-,-
+283,9,Haze,37,ice,-,-
+283,10,Mist,37,ice,-,-
+283,10,Haze,37,ice,-,-
+283,11,Mist,37,ice,-,-
+283,11,Haze,37,ice,-,-
+283,12,Mist,37,ice,-,-
+283,12,Haze,37,ice,-,-
+283,13,Mist,37,ice,-,-
+283,13,Haze,37,ice,-,-
+283,14,Mist,37,ice,-,-
+283,14,Haze,37,ice,-,-
+283,15,Mist,37,ice,-,-
+283,15,Haze,37,ice,-,-
+283,16,Sticky Web,38,bug,-,-
+283,8,Baton Pass,43,normal,-,-
+283,9,Baton Pass,43,normal,-,-
+283,10,Baton Pass,43,normal,-,-
+283,11,Baton Pass,43,normal,-,-
+283,14,Baton Pass,43,normal,-,-
+283,15,Baton Pass,43,normal,-,-
+283,15,Sticky Web,46,bug,-,-

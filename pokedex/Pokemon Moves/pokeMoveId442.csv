@@ -1,0 +1,92 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+442,8,Confuse Ray,1,ghost,-,100
+442,8,Curse,1,ghost,-,-
+442,8,Spite,1,ghost,-,100
+442,8,Pursuit,1,dark,40,100
+442,8,Shadow Sneak,1,ghost,40,100
+442,9,Confuse Ray,1,ghost,-,100
+442,9,Curse,1,ghost,-,-
+442,9,Spite,1,ghost,-,100
+442,9,Pursuit,1,dark,40,100
+442,9,Shadow Sneak,1,ghost,40,100
+442,10,Confuse Ray,1,ghost,-,100
+442,10,Curse,1,ghost,-,-
+442,10,Spite,1,ghost,-,100
+442,10,Pursuit,1,dark,40,100
+442,10,Shadow Sneak,1,ghost,40,100
+442,11,Confuse Ray,1,ghost,-,100
+442,11,Curse,1,ghost,-,-
+442,11,Spite,1,ghost,-,100
+442,11,Pursuit,1,dark,40,100
+442,11,Shadow Sneak,1,ghost,40,100
+442,14,Confuse Ray,1,ghost,-,100
+442,14,Curse,1,ghost,-,-
+442,14,Spite,1,ghost,-,100
+442,14,Pursuit,1,dark,40,100
+442,14,Shadow Sneak,1,ghost,40,100
+442,15,Confuse Ray,1,ghost,-,100
+442,15,Curse,1,ghost,-,-
+442,15,Spite,1,ghost,-,100
+442,15,Pursuit,1,dark,40,100
+442,15,Shadow Sneak,1,ghost,40,100
+442,16,Confuse Ray,1,ghost,-,100
+442,16,Curse,1,ghost,-,-
+442,16,Spite,1,ghost,-,100
+442,16,Pursuit,1,dark,40,100
+442,16,Shadow Sneak,1,ghost,40,100
+442,8,Feint Attack,7,dark,60,-
+442,9,Feint Attack,7,dark,60,-
+442,10,Feint Attack,7,dark,60,-
+442,11,Feint Attack,7,dark,60,-
+442,14,Feint Attack,7,dark,60,-
+442,15,Feint Attack,7,dark,60,-
+442,16,Feint Attack,7,dark,60,-
+442,8,Hypnosis,13,psychic,-,60
+442,9,Hypnosis,13,psychic,-,60
+442,10,Hypnosis,13,psychic,-,60
+442,11,Hypnosis,13,psychic,-,60
+442,14,Hypnosis,13,psychic,-,60
+442,15,Hypnosis,13,psychic,-,60
+442,16,Hypnosis,13,psychic,-,60
+442,8,Dream Eater,19,psychic,100,100
+442,9,Dream Eater,19,psychic,100,100
+442,10,Dream Eater,19,psychic,100,100
+442,11,Dream Eater,19,psychic,100,100
+442,14,Dream Eater,19,psychic,100,100
+442,15,Dream Eater,19,psychic,100,100
+442,16,Dream Eater,19,psychic,100,100
+442,8,Ominous Wind,25,ghost,60,100
+442,9,Ominous Wind,25,ghost,60,100
+442,10,Ominous Wind,25,ghost,60,100
+442,11,Ominous Wind,25,ghost,60,100
+442,14,Ominous Wind,25,ghost,60,100
+442,15,Ominous Wind,25,ghost,60,100
+442,16,Ominous Wind,25,ghost,60,100
+442,8,Sucker Punch,31,dark,80,100
+442,9,Sucker Punch,31,dark,80,100
+442,10,Sucker Punch,31,dark,80,100
+442,11,Sucker Punch,31,dark,80,100
+442,14,Sucker Punch,31,dark,80,100
+442,15,Sucker Punch,31,dark,80,100
+442,16,Sucker Punch,31,dark,80,100
+442,8,Nasty Plot,37,dark,-,-
+442,9,Nasty Plot,37,dark,-,-
+442,10,Nasty Plot,37,dark,-,-
+442,11,Nasty Plot,37,dark,-,-
+442,14,Nasty Plot,37,dark,-,-
+442,15,Nasty Plot,37,dark,-,-
+442,16,Nasty Plot,37,dark,-,-
+442,8,Memento,43,dark,-,100
+442,9,Memento,43,dark,-,100
+442,10,Memento,43,dark,-,100
+442,11,Memento,43,dark,-,100
+442,14,Memento,43,dark,-,100
+442,15,Memento,43,dark,-,100
+442,16,Memento,43,dark,-,100
+442,8,Dark Pulse,49,dark,80,100
+442,9,Dark Pulse,49,dark,80,100
+442,10,Dark Pulse,49,dark,80,100
+442,11,Dark Pulse,49,dark,80,100
+442,14,Dark Pulse,49,dark,80,100
+442,15,Dark Pulse,49,dark,80,100
+442,16,Dark Pulse,49,dark,80,100

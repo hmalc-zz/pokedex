@@ -1,0 +1,109 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+427,8,Pound,1,normal,40,100
+427,8,Defense Curl,1,normal,-,-
+427,8,Splash,1,normal,-,-
+427,8,Foresight,1,normal,-,-
+427,9,Pound,1,normal,40,100
+427,9,Defense Curl,1,normal,-,-
+427,9,Splash,1,normal,-,-
+427,9,Foresight,1,normal,-,-
+427,10,Pound,1,normal,40,100
+427,10,Defense Curl,1,normal,-,-
+427,10,Splash,1,normal,-,-
+427,10,Foresight,1,normal,-,-
+427,11,Pound,1,normal,40,100
+427,11,Defense Curl,1,normal,-,-
+427,11,Splash,1,normal,-,-
+427,11,Foresight,1,normal,-,-
+427,14,Pound,1,normal,40,100
+427,14,Defense Curl,1,normal,-,-
+427,14,Splash,1,normal,-,-
+427,14,Foresight,1,normal,-,-
+427,15,Pound,1,normal,40,100
+427,15,Defense Curl,1,normal,-,-
+427,15,Splash,1,normal,-,-
+427,15,Foresight,1,normal,-,-
+427,16,Pound,1,normal,40,100
+427,16,Defense Curl,1,normal,-,-
+427,16,Splash,1,normal,-,-
+427,16,Foresight,1,normal,-,-
+427,8,Endure,6,normal,-,-
+427,9,Endure,6,normal,-,-
+427,10,Endure,6,normal,-,-
+427,11,Endure,6,normal,-,-
+427,14,Endure,6,normal,-,-
+427,15,Endure,6,normal,-,-
+427,16,Endure,6,normal,-,-
+427,15,Baby-Doll Eyes,10,fairy,-,100
+427,16,Baby-Doll Eyes,10,fairy,-,100
+427,8,Frustration,13,normal,-,100
+427,9,Frustration,13,normal,-,100
+427,10,Frustration,13,normal,-,100
+427,11,Frustration,13,normal,-,100
+427,14,Frustration,13,normal,-,100
+427,15,Frustration,13,normal,-,100
+427,16,Frustration,13,normal,-,100
+427,8,Quick Attack,16,normal,40,100
+427,9,Quick Attack,16,normal,40,100
+427,10,Quick Attack,16,normal,40,100
+427,11,Quick Attack,16,normal,40,100
+427,14,Quick Attack,16,normal,40,100
+427,15,Quick Attack,16,normal,40,100
+427,16,Quick Attack,16,normal,40,100
+427,8,Jump Kick,23,fighting,100,95
+427,9,Jump Kick,23,fighting,100,95
+427,10,Jump Kick,23,fighting,100,95
+427,11,Jump Kick,23,fighting,100,95
+427,14,Jump Kick,23,fighting,100,95
+427,15,Jump Kick,23,fighting,100,95
+427,16,Jump Kick,23,fighting,100,95
+427,8,Baton Pass,26,normal,-,-
+427,9,Baton Pass,26,normal,-,-
+427,10,Baton Pass,26,normal,-,-
+427,11,Baton Pass,26,normal,-,-
+427,14,Baton Pass,26,normal,-,-
+427,15,Baton Pass,26,normal,-,-
+427,16,Baton Pass,26,normal,-,-
+427,8,Agility,33,psychic,-,-
+427,9,Agility,33,psychic,-,-
+427,10,Agility,33,psychic,-,-
+427,11,Agility,33,psychic,-,-
+427,14,Agility,33,psychic,-,-
+427,15,Agility,33,psychic,-,-
+427,16,Agility,33,psychic,-,-
+427,8,Dizzy Punch,36,normal,70,100
+427,9,Dizzy Punch,36,normal,70,100
+427,10,Dizzy Punch,36,normal,70,100
+427,11,Dizzy Punch,36,normal,70,100
+427,14,Dizzy Punch,36,normal,70,100
+427,15,Dizzy Punch,36,normal,70,100
+427,16,Dizzy Punch,36,normal,70,100
+427,8,Charm,43,fairy,-,100
+427,9,Charm,43,fairy,-,100
+427,10,Charm,43,fairy,-,100
+427,11,After You,43,normal,-,-
+427,14,After You,43,normal,-,-
+427,15,After You,43,normal,-,-
+427,16,After You,43,normal,-,-
+427,8,Bounce,46,flying,85,85
+427,9,Bounce,46,flying,85,85
+427,10,Bounce,46,flying,85,85
+427,11,Charm,46,fairy,-,100
+427,14,Charm,46,fairy,-,100
+427,15,Charm,46,fairy,-,100
+427,16,Charm,46,fairy,-,100
+427,15,Entrainment,50,normal,-,100
+427,16,Entrainment,50,normal,-,100
+427,8,Healing Wish,53,psychic,-,-
+427,9,Healing Wish,53,psychic,-,-
+427,10,Healing Wish,53,psychic,-,-
+427,11,Entrainment,53,normal,-,100
+427,14,Entrainment,53,normal,-,100
+427,11,Bounce,56,flying,85,85
+427,14,Bounce,56,flying,85,85
+427,15,Bounce,56,flying,85,85
+427,16,Bounce,56,flying,85,85
+427,11,Healing Wish,63,psychic,-,-
+427,14,Healing Wish,63,psychic,-,-
+427,15,Healing Wish,63,psychic,-,-
+427,16,Healing Wish,63,psychic,-,-

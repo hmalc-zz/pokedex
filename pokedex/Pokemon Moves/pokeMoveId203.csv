@@ -1,0 +1,184 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+203,3,Stomp,1,normal,65,100
+203,3,Tackle,1,normal,50,100
+203,3,Growl,1,normal,-,100
+203,3,Confusion,1,psychic,50,100
+203,4,Stomp,1,normal,65,100
+203,4,Tackle,1,normal,50,100
+203,4,Growl,1,normal,-,100
+203,4,Confusion,1,psychic,50,100
+203,5,Tackle,1,normal,50,100
+203,5,Growl,1,normal,-,100
+203,6,Tackle,1,normal,50,100
+203,6,Growl,1,normal,-,100
+203,7,Tackle,1,normal,50,100
+203,7,Growl,1,normal,-,100
+203,8,Tackle,1,normal,50,100
+203,8,Growl,1,normal,-,100
+203,8,Confusion,1,psychic,50,100
+203,8,Astonish,1,ghost,30,100
+203,8,Power Swap,1,psychic,-,-
+203,8,Guard Swap,1,psychic,-,-
+203,9,Tackle,1,normal,50,100
+203,9,Growl,1,normal,-,100
+203,9,Confusion,1,psychic,50,100
+203,9,Astonish,1,ghost,30,100
+203,9,Power Swap,1,psychic,-,-
+203,9,Guard Swap,1,psychic,-,-
+203,10,Tackle,1,normal,50,100
+203,10,Growl,1,normal,-,100
+203,10,Confusion,1,psychic,50,100
+203,10,Astonish,1,ghost,30,100
+203,10,Power Swap,1,psychic,-,-
+203,10,Guard Swap,1,psychic,-,-
+203,11,Tackle,1,normal,50,100
+203,11,Growl,1,normal,-,100
+203,11,Confusion,1,psychic,50,100
+203,11,Astonish,1,ghost,30,100
+203,11,Power Swap,1,psychic,-,-
+203,11,Guard Swap,1,psychic,-,-
+203,12,Tackle,1,normal,50,100
+203,12,Growl,1,normal,-,100
+203,13,Tackle,1,normal,50,100
+203,13,Growl,1,normal,-,100
+203,14,Tackle,1,normal,50,100
+203,14,Growl,1,normal,-,100
+203,14,Confusion,1,psychic,50,100
+203,14,Astonish,1,ghost,30,100
+203,14,Power Swap,1,psychic,-,-
+203,14,Guard Swap,1,psychic,-,-
+203,15,Tackle,1,normal,50,100
+203,15,Growl,1,normal,-,100
+203,15,Confusion,1,psychic,50,100
+203,15,Astonish,1,ghost,30,100
+203,15,Power Swap,1,psychic,-,-
+203,15,Guard Swap,1,psychic,-,-
+203,16,Tackle,1,normal,50,100
+203,16,Growl,1,normal,-,100
+203,16,Confusion,1,psychic,50,100
+203,16,Astonish,1,ghost,30,100
+203,16,Power Swap,1,psychic,-,-
+203,16,Guard Swap,1,psychic,-,-
+203,8,Odor Sleuth,5,normal,-,-
+203,9,Odor Sleuth,5,normal,-,-
+203,10,Odor Sleuth,5,normal,-,-
+203,11,Odor Sleuth,5,normal,-,-
+203,14,Odor Sleuth,5,normal,-,-
+203,15,Odor Sleuth,5,normal,-,-
+203,16,Odor Sleuth,5,normal,-,-
+203,3,Confusion,7,psychic,50,100
+203,4,Confusion,7,psychic,50,100
+203,5,Astonish,7,ghost,30,100
+203,6,Astonish,7,ghost,30,100
+203,7,Astonish,7,ghost,30,100
+203,12,Astonish,7,ghost,30,100
+203,13,Astonish,7,ghost,30,100
+203,8,Stomp,10,normal,65,100
+203,9,Stomp,10,normal,65,100
+203,10,Stomp,10,normal,65,100
+203,11,Stomp,10,normal,65,100
+203,14,Stomp,10,normal,65,100
+203,15,Stomp,10,normal,65,100
+203,16,Assurance,10,dark,60,100
+203,3,Stomp,13,normal,65,100
+203,4,Stomp,13,normal,65,100
+203,5,Confusion,13,psychic,50,100
+203,6,Confusion,13,psychic,50,100
+203,7,Confusion,13,psychic,50,100
+203,12,Confusion,13,psychic,50,100
+203,13,Confusion,13,psychic,50,100
+203,8,Agility,14,psychic,-,-
+203,9,Agility,14,psychic,-,-
+203,10,Agility,14,psychic,-,-
+203,11,Agility,14,psychic,-,-
+203,14,Agility,14,psychic,-,-
+203,15,Agility,14,psychic,-,-
+203,16,Stomp,14,normal,65,100
+203,5,Stomp,19,normal,65,100
+203,6,Stomp,19,normal,65,100
+203,7,Stomp,19,normal,65,100
+203,8,Psybeam,19,psychic,65,100
+203,9,Psybeam,19,psychic,65,100
+203,10,Psybeam,19,psychic,65,100
+203,11,Psybeam,19,psychic,65,100
+203,12,Stomp,19,normal,65,100
+203,13,Stomp,19,normal,65,100
+203,14,Psybeam,19,psychic,65,100
+203,15,Psybeam,19,psychic,65,100
+203,16,Psybeam,19,psychic,65,100
+203,3,Agility,20,psychic,-,-
+203,4,Agility,20,psychic,-,-
+203,8,Baton Pass,23,normal,-,-
+203,9,Baton Pass,23,normal,-,-
+203,10,Baton Pass,23,normal,-,-
+203,11,Baton Pass,23,normal,-,-
+203,14,Baton Pass,23,normal,-,-
+203,15,Baton Pass,23,normal,-,-
+203,16,Agility,23,psychic,-,-
+203,5,Odor Sleuth,25,normal,-,-
+203,6,Odor Sleuth,25,normal,-,-
+203,7,Odor Sleuth,25,normal,-,-
+203,12,Odor Sleuth,25,normal,-,-
+203,13,Odor Sleuth,25,normal,-,-
+203,8,Assurance,28,dark,60,100
+203,9,Assurance,28,dark,60,100
+203,10,Assurance,28,dark,60,100
+203,11,Assurance,28,dark,60,100
+203,14,Assurance,28,dark,60,100
+203,15,Assurance,28,dark,60,100
+203,16,Double Hit,28,normal,35,90
+203,3,Baton Pass,30,normal,-,-
+203,4,Baton Pass,30,normal,-,-
+203,5,Agility,31,psychic,-,-
+203,6,Agility,31,psychic,-,-
+203,7,Agility,31,psychic,-,-
+203,12,Agility,31,psychic,-,-
+203,13,Agility,31,psychic,-,-
+203,8,Double Hit,32,normal,35,90
+203,9,Double Hit,32,normal,35,90
+203,10,Double Hit,32,normal,35,90
+203,11,Double Hit,32,normal,35,90
+203,14,Double Hit,32,normal,35,90
+203,15,Double Hit,32,normal,35,90
+203,16,Zen Headbutt,32,psychic,80,90
+203,5,Baton Pass,37,normal,-,-
+203,6,Baton Pass,37,normal,-,-
+203,7,Baton Pass,37,normal,-,-
+203,8,Psychic,37,psychic,90,100
+203,9,Psychic,37,psychic,90,100
+203,10,Psychic,37,psychic,90,100
+203,11,Psychic,37,psychic,90,100
+203,12,Baton Pass,37,normal,-,-
+203,13,Baton Pass,37,normal,-,-
+203,14,Psychic,37,psychic,90,100
+203,15,Psychic,37,psychic,90,100
+203,16,Crunch,37,dark,80,100
+203,3,Psybeam,41,psychic,65,100
+203,4,Psybeam,41,psychic,65,100
+203,8,Zen Headbutt,41,psychic,80,90
+203,9,Zen Headbutt,41,psychic,80,90
+203,10,Zen Headbutt,41,psychic,80,90
+203,11,Zen Headbutt,41,psychic,80,90
+203,14,Zen Headbutt,41,psychic,80,90
+203,15,Zen Headbutt,41,psychic,80,90
+203,16,Baton Pass,41,normal,-,-
+203,5,Psybeam,43,psychic,65,100
+203,6,Psybeam,43,psychic,65,100
+203,7,Psybeam,43,psychic,65,100
+203,12,Psybeam,43,psychic,65,100
+203,13,Psybeam,43,psychic,65,100
+203,8,Crunch,46,dark,80,100
+203,9,Crunch,46,dark,80,100
+203,10,Crunch,46,dark,80,100
+203,11,Crunch,46,dark,80,100
+203,14,Crunch,46,dark,80,100
+203,15,Crunch,46,dark,80,100
+203,16,Nasty Plot,46,dark,-,-
+203,5,Crunch,49,dark,80,100
+203,6,Crunch,49,dark,80,100
+203,7,Crunch,49,dark,80,100
+203,12,Crunch,49,dark,80,100
+203,13,Crunch,49,dark,80,100
+203,16,Psychic,50,psychic,90,100
+203,3,Crunch,54,dark,80,100
+203,4,Crunch,54,dark,80,100

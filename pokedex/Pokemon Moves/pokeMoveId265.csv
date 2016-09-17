@@ -1,0 +1,43 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+265,5,Tackle,1,normal,50,100
+265,5,String Shot,1,bug,-,95
+265,6,Tackle,1,normal,50,100
+265,6,String Shot,1,bug,-,95
+265,7,Tackle,1,normal,50,100
+265,7,String Shot,1,bug,-,95
+265,8,Tackle,1,normal,50,100
+265,8,String Shot,1,bug,-,95
+265,9,Tackle,1,normal,50,100
+265,9,String Shot,1,bug,-,95
+265,10,Tackle,1,normal,50,100
+265,10,String Shot,1,bug,-,95
+265,11,Tackle,1,normal,50,100
+265,11,String Shot,1,bug,-,95
+265,12,Tackle,1,normal,50,100
+265,12,String Shot,1,bug,-,95
+265,13,Tackle,1,normal,50,100
+265,13,String Shot,1,bug,-,95
+265,14,Tackle,1,normal,50,100
+265,14,String Shot,1,bug,-,95
+265,15,Tackle,1,normal,50,100
+265,15,String Shot,1,bug,-,95
+265,16,Tackle,1,normal,50,100
+265,16,String Shot,1,bug,-,95
+265,5,Poison Sting,5,poison,15,100
+265,6,Poison Sting,5,poison,15,100
+265,7,Poison Sting,5,poison,15,100
+265,8,Poison Sting,5,poison,15,100
+265,9,Poison Sting,5,poison,15,100
+265,10,Poison Sting,5,poison,15,100
+265,11,Poison Sting,5,poison,15,100
+265,12,Poison Sting,5,poison,15,100
+265,13,Poison Sting,5,poison,15,100
+265,14,Poison Sting,5,poison,15,100
+265,15,Poison Sting,5,poison,15,100
+265,16,Poison Sting,5,poison,15,100
+265,9,Bug Bite,15,bug,60,100
+265,10,Bug Bite,15,bug,60,100
+265,11,Bug Bite,15,bug,60,100
+265,14,Bug Bite,15,bug,60,100
+265,15,Bug Bite,15,bug,60,100
+265,16,Bug Bite,15,bug,60,100

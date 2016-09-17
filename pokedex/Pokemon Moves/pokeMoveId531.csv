@@ -1,0 +1,64 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+531,11,Pound,1,normal,40,100
+531,11,Growl,1,normal,-,100
+531,11,Helping Hand,1,normal,-,-
+531,14,Pound,1,normal,40,100
+531,14,Growl,1,normal,-,100
+531,14,Helping Hand,1,normal,-,-
+531,15,Pound,1,normal,40,100
+531,15,Growl,1,normal,-,100
+531,15,Helping Hand,1,normal,-,-
+531,15,Last Resort,1,normal,140,100
+531,15,Play Nice,1,normal,-,-
+531,16,Pound,1,normal,40,100
+531,16,Growl,1,normal,-,100
+531,16,Helping Hand,1,normal,-,-
+531,16,Last Resort,1,normal,140,100
+531,16,Misty Terrain,1,fairy,-,-
+531,16,Play Nice,1,normal,-,-
+531,11,Refresh,5,normal,-,-
+531,14,Refresh,5,normal,-,-
+531,15,Refresh,5,normal,-,-
+531,16,Baby-Doll Eyes,5,fairy,-,100
+531,16,Refresh,9,normal,-,-
+531,11,Double Slap,10,normal,15,85
+531,14,Double Slap,10,normal,15,85
+531,15,Double Slap,10,normal,15,85
+531,16,Disarming Voice,13,fairy,40,-
+531,11,Attract,15,normal,-,100
+531,14,Attract,15,normal,-,100
+531,15,Attract,15,normal,-,100
+531,16,Double Slap,17,normal,15,85
+531,11,Secret Power,20,normal,70,100
+531,14,Secret Power,20,normal,70,100
+531,15,Secret Power,20,normal,70,100
+531,16,Attract,21,normal,-,100
+531,11,Entrainment,25,normal,-,100
+531,14,Entrainment,25,normal,-,100
+531,15,Entrainment,25,normal,-,100
+531,16,Secret Power,25,normal,70,100
+531,16,Entrainment,29,normal,-,100
+531,11,Take Down,30,normal,90,85
+531,14,Take Down,30,normal,90,85
+531,15,Take Down,30,normal,90,85
+531,16,Take Down,33,normal,90,85
+531,11,Heal Pulse,35,psychic,-,-
+531,14,Heal Pulse,35,psychic,-,-
+531,15,Heal Pulse,35,psychic,-,-
+531,16,Heal Pulse,37,psychic,-,-
+531,11,After You,40,normal,-,-
+531,14,After You,40,normal,-,-
+531,15,After You,40,normal,-,-
+531,16,After You,41,normal,-,-
+531,11,Simple Beam,45,normal,-,100
+531,14,Simple Beam,45,normal,-,100
+531,15,Simple Beam,45,normal,-,100
+531,16,Simple Beam,45,normal,-,100
+531,16,Double-Edge,49,normal,120,100
+531,11,Double-Edge,50,normal,120,100
+531,14,Double-Edge,50,normal,120,100
+531,15,Double-Edge,50,normal,120,100
+531,16,Last Resort,53,normal,140,100
+531,11,Last Resort,55,normal,140,100
+531,14,Last Resort,55,normal,140,100
+531,15,Last Resort,55,normal,140,100

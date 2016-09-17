@@ -1,0 +1,53 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+524,11,Tackle,1,normal,50,100
+524,14,Tackle,1,normal,50,100
+524,15,Tackle,1,normal,50,100
+524,16,Tackle,1,normal,50,100
+524,11,Harden,4,normal,-,-
+524,14,Harden,4,normal,-,-
+524,15,Harden,4,normal,-,-
+524,16,Harden,4,normal,-,-
+524,11,Sand Attack,7,ground,-,100
+524,14,Sand Attack,7,ground,-,100
+524,15,Sand Attack,7,ground,-,100
+524,16,Sand Attack,7,ground,-,100
+524,11,Headbutt,10,normal,70,100
+524,14,Headbutt,10,normal,70,100
+524,15,Headbutt,10,normal,70,100
+524,16,Headbutt,10,normal,70,100
+524,11,Rock Blast,14,rock,25,90
+524,14,Rock Blast,14,rock,25,90
+524,15,Rock Blast,14,rock,25,90
+524,16,Rock Blast,14,rock,25,90
+524,11,Mud-Slap,17,ground,20,100
+524,14,Mud-Slap,17,ground,20,100
+524,15,Mud-Slap,17,ground,20,100
+524,16,Mud-Slap,17,ground,20,100
+524,11,Iron Defense,20,steel,-,-
+524,14,Iron Defense,20,steel,-,-
+524,15,Iron Defense,20,steel,-,-
+524,16,Iron Defense,20,steel,-,-
+524,11,Smack Down,23,rock,50,100
+524,14,Smack Down,23,rock,50,100
+524,15,Smack Down,23,rock,50,100
+524,16,Smack Down,23,rock,50,100
+524,11,Rock Slide,27,rock,75,90
+524,14,Rock Slide,27,rock,75,90
+524,15,Rock Slide,27,rock,75,90
+524,16,Rock Slide,27,rock,75,90
+524,11,Stealth Rock,30,rock,-,-
+524,14,Stealth Rock,30,rock,-,-
+524,15,Stealth Rock,30,rock,-,-
+524,16,Stealth Rock,30,rock,-,-
+524,11,Sandstorm,33,rock,-,-
+524,14,Sandstorm,33,rock,-,-
+524,15,Sandstorm,33,rock,-,-
+524,16,Sandstorm,33,rock,-,-
+524,11,Stone Edge,36,rock,100,80
+524,14,Stone Edge,36,rock,100,80
+524,15,Stone Edge,36,rock,100,80
+524,16,Stone Edge,36,rock,100,80
+524,11,Explosion,40,normal,250,100
+524,14,Explosion,40,normal,250,100
+524,15,Explosion,40,normal,250,100
+524,16,Explosion,40,normal,250,100

@@ -1,0 +1,92 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+45,1,Acid,1,poison,40,100
+45,1,Stun Spore,1,grass,-,75
+45,1,Sleep Powder,1,grass,-,75
+45,1,Petal Dance,1,grass,120,100
+45,2,Acid,1,poison,40,100
+45,2,Stun Spore,1,grass,-,75
+45,2,Sleep Powder,1,grass,-,75
+45,2,Petal Dance,1,grass,120,100
+45,3,Absorb,1,grass,20,100
+45,3,Stun Spore,1,grass,-,75
+45,3,Petal Dance,1,grass,120,100
+45,3,Sweet Scent,1,normal,-,100
+45,4,Absorb,1,grass,20,100
+45,4,Stun Spore,1,grass,-,75
+45,4,Petal Dance,1,grass,120,100
+45,4,Sweet Scent,1,normal,-,100
+45,5,Absorb,1,grass,20,100
+45,5,Mega Drain,1,grass,40,100
+45,5,Stun Spore,1,grass,-,75
+45,5,Aromatherapy,1,grass,-,-
+45,6,Absorb,1,grass,20,100
+45,6,Mega Drain,1,grass,40,100
+45,6,Stun Spore,1,grass,-,75
+45,6,Aromatherapy,1,grass,-,-
+45,7,Absorb,1,grass,20,100
+45,7,Mega Drain,1,grass,40,100
+45,7,Stun Spore,1,grass,-,75
+45,7,Aromatherapy,1,grass,-,-
+45,8,Mega Drain,1,grass,40,100
+45,8,Poison Powder,1,poison,-,75
+45,8,Stun Spore,1,grass,-,75
+45,8,Aromatherapy,1,grass,-,-
+45,9,Mega Drain,1,grass,40,100
+45,9,Poison Powder,1,poison,-,75
+45,9,Stun Spore,1,grass,-,75
+45,9,Aromatherapy,1,grass,-,-
+45,10,Mega Drain,1,grass,40,100
+45,10,Poison Powder,1,poison,-,75
+45,10,Stun Spore,1,grass,-,75
+45,10,Aromatherapy,1,grass,-,-
+45,11,Mega Drain,1,grass,40,100
+45,11,Poison Powder,1,poison,-,75
+45,11,Stun Spore,1,grass,-,75
+45,11,Aromatherapy,1,grass,-,-
+45,12,Absorb,1,grass,20,100
+45,12,Mega Drain,1,grass,40,100
+45,12,Stun Spore,1,grass,-,75
+45,12,Aromatherapy,1,grass,-,-
+45,13,Absorb,1,grass,20,100
+45,13,Mega Drain,1,grass,40,100
+45,13,Stun Spore,1,grass,-,75
+45,13,Aromatherapy,1,grass,-,-
+45,14,Mega Drain,1,grass,40,100
+45,14,Poison Powder,1,poison,-,75
+45,14,Stun Spore,1,grass,-,75
+45,14,Aromatherapy,1,grass,-,-
+45,15,Mega Drain,1,grass,40,100
+45,15,Poison Powder,1,poison,-,75
+45,15,Stun Spore,1,grass,-,75
+45,15,Aromatherapy,1,grass,-,-
+45,16,Mega Drain,1,grass,40,100
+45,16,Poison Powder,1,poison,-,75
+45,16,Stun Spore,1,grass,-,75
+45,16,Aromatherapy,1,grass,-,-
+45,1,Poison Powder,15,poison,-,75
+45,2,Poison Powder,15,poison,-,75
+45,1,Stun Spore,17,grass,-,75
+45,2,Stun Spore,17,grass,-,75
+45,1,Sleep Powder,19,grass,-,75
+45,2,Sleep Powder,19,grass,-,75
+45,5,Petal Dance,44,grass,120,100
+45,6,Petal Dance,44,grass,120,100
+45,7,Petal Dance,44,grass,120,100
+45,12,Petal Dance,44,grass,120,100
+45,13,Petal Dance,44,grass,120,100
+45,16,Petal Blizzard,49,grass,90,100
+45,15,Petal Blizzard,50,grass,90,100
+45,8,Petal Dance,53,grass,120,100
+45,9,Petal Dance,53,grass,120,100
+45,10,Petal Dance,53,grass,120,100
+45,11,Petal Dance,53,grass,120,100
+45,14,Petal Dance,53,grass,120,100
+45,15,Petal Dance,53,grass,120,100
+45,16,Petal Dance,59,grass,120,100
+45,16,Solar Beam,64,grass,120,100
+45,8,Solar Beam,65,grass,120,100
+45,9,Solar Beam,65,grass,120,100
+45,10,Solar Beam,65,grass,120,100
+45,11,Solar Beam,65,grass,120,100
+45,14,Solar Beam,65,grass,120,100
+45,15,Solar Beam,65,grass,120,100

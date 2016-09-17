@@ -1,0 +1,36 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+440,8,Pound,1,normal,40,100
+440,8,Charm,1,fairy,-,100
+440,9,Pound,1,normal,40,100
+440,9,Charm,1,fairy,-,100
+440,10,Pound,1,normal,40,100
+440,10,Charm,1,fairy,-,100
+440,11,Pound,1,normal,40,100
+440,11,Charm,1,fairy,-,100
+440,14,Pound,1,normal,40,100
+440,14,Charm,1,fairy,-,100
+440,15,Pound,1,normal,40,100
+440,15,Charm,1,fairy,-,100
+440,16,Pound,1,normal,40,100
+440,16,Charm,1,fairy,-,100
+440,8,Copycat,5,normal,-,-
+440,9,Copycat,5,normal,-,-
+440,10,Copycat,5,normal,-,-
+440,11,Copycat,5,normal,-,-
+440,14,Copycat,5,normal,-,-
+440,15,Copycat,5,normal,-,-
+440,16,Copycat,5,normal,-,-
+440,8,Refresh,9,normal,-,-
+440,9,Refresh,9,normal,-,-
+440,10,Refresh,9,normal,-,-
+440,11,Refresh,9,normal,-,-
+440,14,Refresh,9,normal,-,-
+440,15,Refresh,9,normal,-,-
+440,16,Refresh,9,normal,-,-
+440,8,Sweet Kiss,12,fairy,-,75
+440,9,Sweet Kiss,12,fairy,-,75
+440,10,Sweet Kiss,12,fairy,-,75
+440,11,Sweet Kiss,12,fairy,-,75
+440,14,Sweet Kiss,12,fairy,-,75
+440,15,Sweet Kiss,12,fairy,-,75
+440,16,Sweet Kiss,12,fairy,-,75

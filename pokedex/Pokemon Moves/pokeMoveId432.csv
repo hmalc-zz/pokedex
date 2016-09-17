@@ -1,0 +1,110 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+432,8,Scratch,1,normal,40,100
+432,8,Growl,1,normal,-,100
+432,8,Fake Out,1,normal,40,100
+432,9,Scratch,1,normal,40,100
+432,9,Growl,1,normal,-,100
+432,9,Fake Out,1,normal,40,100
+432,10,Scratch,1,normal,40,100
+432,10,Growl,1,normal,-,100
+432,10,Fake Out,1,normal,40,100
+432,11,Scratch,1,normal,40,100
+432,11,Growl,1,normal,-,100
+432,11,Fake Out,1,normal,40,100
+432,14,Scratch,1,normal,40,100
+432,14,Growl,1,normal,-,100
+432,14,Fake Out,1,normal,40,100
+432,15,Scratch,1,normal,40,100
+432,15,Growl,1,normal,-,100
+432,15,Fake Out,1,normal,40,100
+432,16,Scratch,1,normal,40,100
+432,16,Growl,1,normal,-,100
+432,16,Fake Out,1,normal,40,100
+432,8,Scratch,5,normal,40,100
+432,9,Scratch,5,normal,40,100
+432,10,Scratch,5,normal,40,100
+432,11,Scratch,5,normal,40,100
+432,14,Scratch,5,normal,40,100
+432,15,Scratch,5,normal,40,100
+432,16,Scratch,5,normal,40,100
+432,8,Growl,8,normal,-,100
+432,9,Growl,8,normal,-,100
+432,10,Growl,8,normal,-,100
+432,11,Growl,8,normal,-,100
+432,14,Growl,8,normal,-,100
+432,15,Growl,8,normal,-,100
+432,16,Growl,8,normal,-,100
+432,8,Hypnosis,13,psychic,-,60
+432,9,Hypnosis,13,psychic,-,60
+432,10,Hypnosis,13,psychic,-,60
+432,11,Hypnosis,13,psychic,-,60
+432,14,Hypnosis,13,psychic,-,60
+432,15,Hypnosis,13,psychic,-,60
+432,16,Hypnosis,13,psychic,-,60
+432,8,Feint Attack,17,dark,60,-
+432,9,Feint Attack,17,dark,60,-
+432,10,Feint Attack,17,dark,60,-
+432,11,Feint Attack,17,dark,60,-
+432,14,Feint Attack,17,dark,60,-
+432,15,Feint Attack,17,dark,60,-
+432,16,Feint Attack,17,dark,60,-
+432,8,Fury Swipes,20,normal,18,80
+432,9,Fury Swipes,20,normal,18,80
+432,10,Fury Swipes,20,normal,18,80
+432,11,Fury Swipes,20,normal,18,80
+432,14,Fury Swipes,20,normal,18,80
+432,15,Fury Swipes,20,normal,18,80
+432,16,Fury Swipes,20,normal,18,80
+432,8,Charm,25,fairy,-,100
+432,9,Charm,25,fairy,-,100
+432,10,Charm,25,fairy,-,100
+432,11,Charm,25,fairy,-,100
+432,14,Charm,25,fairy,-,100
+432,15,Charm,25,fairy,-,100
+432,16,Charm,25,fairy,-,100
+432,8,Assist,29,normal,-,-
+432,9,Assist,29,normal,-,-
+432,10,Assist,29,normal,-,-
+432,11,Assist,29,normal,-,-
+432,14,Assist,29,normal,-,-
+432,15,Assist,29,normal,-,-
+432,16,Assist,29,normal,-,-
+432,8,Captivate,32,normal,-,100
+432,9,Captivate,32,normal,-,100
+432,10,Captivate,32,normal,-,100
+432,11,Captivate,32,normal,-,100
+432,14,Captivate,32,normal,-,100
+432,15,Captivate,32,normal,-,100
+432,16,Captivate,32,normal,-,100
+432,8,Slash,37,normal,70,100
+432,9,Slash,37,normal,70,100
+432,10,Slash,37,normal,70,100
+432,11,Slash,37,normal,70,100
+432,14,Slash,37,normal,70,100
+432,15,Slash,37,normal,70,100
+432,16,Slash,37,normal,70,100
+432,8,Swagger,38,normal,-,90
+432,9,Swagger,38,normal,-,90
+432,10,Swagger,38,normal,-,90
+432,11,Swagger,38,normal,-,90
+432,14,Swagger,38,normal,-,90
+432,15,Swagger,38,normal,-,90
+432,16,Swagger,38,normal,-,90
+432,8,Body Slam,45,normal,85,100
+432,9,Body Slam,45,normal,85,100
+432,10,Body Slam,45,normal,85,100
+432,11,Body Slam,45,normal,85,100
+432,14,Body Slam,45,normal,85,100
+432,15,Body Slam,45,normal,85,100
+432,16,Body Slam,45,normal,85,100
+432,11,Attract,52,normal,-,100
+432,14,Attract,52,normal,-,100
+432,15,Attract,52,normal,-,100
+432,16,Attract,52,normal,-,100
+432,8,Attract,53,normal,-,100
+432,9,Attract,53,normal,-,100
+432,10,Attract,53,normal,-,100
+432,11,Hone Claws,60,dark,-,-
+432,14,Hone Claws,60,dark,-,-
+432,15,Hone Claws,60,dark,-,-
+432,16,Hone Claws,60,dark,-,-

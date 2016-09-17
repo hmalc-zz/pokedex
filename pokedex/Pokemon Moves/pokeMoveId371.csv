@@ -1,0 +1,141 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+371,5,Rage,1,normal,20,100
+371,6,Rage,1,normal,20,100
+371,7,Rage,1,normal,20,100
+371,8,Rage,1,normal,20,100
+371,9,Rage,1,normal,20,100
+371,10,Rage,1,normal,20,100
+371,11,Rage,1,normal,20,100
+371,12,Rage,1,normal,20,100
+371,13,Rage,1,normal,20,100
+371,14,Rage,1,normal,20,100
+371,15,Rage,1,normal,20,100
+371,16,Rage,1,normal,20,100
+371,16,Ember,4,fire,40,100
+371,5,Bite,5,dark,60,100
+371,6,Bite,5,dark,60,100
+371,7,Bite,5,dark,60,100
+371,8,Bite,5,dark,60,100
+371,9,Bite,5,dark,60,100
+371,10,Bite,5,dark,60,100
+371,11,Bite,5,dark,60,100
+371,12,Bite,5,dark,60,100
+371,13,Bite,5,dark,60,100
+371,14,Bite,5,dark,60,100
+371,15,Bite,5,dark,60,100
+371,16,Leer,7,normal,-,100
+371,5,Leer,9,normal,-,100
+371,6,Leer,9,normal,-,100
+371,7,Leer,9,normal,-,100
+371,12,Leer,9,normal,-,100
+371,13,Leer,9,normal,-,100
+371,8,Leer,10,normal,-,100
+371,9,Leer,10,normal,-,100
+371,10,Leer,10,normal,-,100
+371,11,Leer,10,normal,-,100
+371,14,Leer,10,normal,-,100
+371,15,Leer,10,normal,-,100
+371,16,Bite,10,dark,60,100
+371,16,Dragon Breath,13,dragon,60,100
+371,8,Headbutt,16,normal,70,100
+371,9,Headbutt,16,normal,70,100
+371,10,Headbutt,16,normal,70,100
+371,11,Headbutt,16,normal,70,100
+371,14,Headbutt,16,normal,70,100
+371,15,Headbutt,16,normal,70,100
+371,5,Headbutt,17,normal,70,100
+371,6,Headbutt,17,normal,70,100
+371,7,Headbutt,17,normal,70,100
+371,12,Headbutt,17,normal,70,100
+371,13,Headbutt,17,normal,70,100
+371,16,Headbutt,17,normal,70,100
+371,8,Focus Energy,20,normal,-,-
+371,9,Focus Energy,20,normal,-,-
+371,10,Focus Energy,20,normal,-,-
+371,11,Focus Energy,20,normal,-,-
+371,14,Focus Energy,20,normal,-,-
+371,15,Focus Energy,20,normal,-,-
+371,5,Focus Energy,21,normal,-,-
+371,6,Focus Energy,21,normal,-,-
+371,7,Focus Energy,21,normal,-,-
+371,12,Focus Energy,21,normal,-,-
+371,13,Focus Energy,21,normal,-,-
+371,16,Focus Energy,21,normal,-,-
+371,5,Ember,25,fire,40,100
+371,6,Ember,25,fire,40,100
+371,7,Ember,25,fire,40,100
+371,8,Ember,25,fire,40,100
+371,9,Ember,25,fire,40,100
+371,10,Ember,25,fire,40,100
+371,11,Ember,25,fire,40,100
+371,12,Ember,25,fire,40,100
+371,13,Ember,25,fire,40,100
+371,14,Ember,25,fire,40,100
+371,15,Ember,25,fire,40,100
+371,16,Crunch,25,dark,80,100
+371,16,Dragon Claw,29,dragon,80,100
+371,8,Dragon Breath,31,dragon,60,100
+371,9,Dragon Breath,31,dragon,60,100
+371,10,Dragon Breath,31,dragon,60,100
+371,11,Dragon Breath,31,dragon,60,100
+371,14,Dragon Breath,31,dragon,60,100
+371,15,Dragon Breath,31,dragon,60,100
+371,5,Dragon Breath,33,dragon,60,100
+371,6,Dragon Breath,33,dragon,60,100
+371,7,Dragon Breath,33,dragon,60,100
+371,12,Dragon Breath,33,dragon,60,100
+371,13,Dragon Breath,33,dragon,60,100
+371,16,Zen Headbutt,34,psychic,80,90
+371,8,Zen Headbutt,35,psychic,80,90
+371,9,Zen Headbutt,35,psychic,80,90
+371,10,Zen Headbutt,35,psychic,80,90
+371,11,Zen Headbutt,35,psychic,80,90
+371,14,Zen Headbutt,35,psychic,80,90
+371,15,Zen Headbutt,35,psychic,80,90
+371,5,Scary Face,37,normal,-,100
+371,6,Scary Face,37,normal,-,100
+371,7,Scary Face,37,normal,-,100
+371,12,Scary Face,37,normal,-,100
+371,13,Scary Face,37,normal,-,100
+371,16,Scary Face,39,normal,-,100
+371,8,Scary Face,40,normal,-,100
+371,9,Scary Face,40,normal,-,100
+371,10,Scary Face,40,normal,-,100
+371,11,Scary Face,40,normal,-,100
+371,14,Scary Face,40,normal,-,100
+371,15,Scary Face,40,normal,-,100
+371,5,Crunch,41,dark,80,100
+371,6,Crunch,41,dark,80,100
+371,7,Crunch,41,dark,80,100
+371,12,Crunch,41,dark,80,100
+371,13,Crunch,41,dark,80,100
+371,16,Flamethrower,44,fire,90,100
+371,8,Crunch,46,dark,80,100
+371,9,Crunch,46,dark,80,100
+371,10,Crunch,46,dark,80,100
+371,11,Crunch,46,dark,80,100
+371,14,Crunch,46,dark,80,100
+371,15,Crunch,46,dark,80,100
+371,5,Dragon Claw,49,dragon,80,100
+371,6,Dragon Claw,49,dragon,80,100
+371,7,Dragon Claw,49,dragon,80,100
+371,12,Dragon Claw,49,dragon,80,100
+371,13,Dragon Claw,49,dragon,80,100
+371,16,Double-Edge,49,normal,120,100
+371,8,Dragon Claw,50,dragon,80,100
+371,9,Dragon Claw,50,dragon,80,100
+371,10,Dragon Claw,50,dragon,80,100
+371,11,Dragon Claw,50,dragon,80,100
+371,14,Dragon Claw,50,dragon,80,100
+371,15,Dragon Claw,50,dragon,80,100
+371,5,Double-Edge,53,normal,120,100
+371,6,Double-Edge,53,normal,120,100
+371,7,Double-Edge,53,normal,120,100
+371,12,Double-Edge,53,normal,120,100
+371,13,Double-Edge,53,normal,120,100
+371,8,Double-Edge,55,normal,120,100
+371,9,Double-Edge,55,normal,120,100
+371,10,Double-Edge,55,normal,120,100
+371,11,Double-Edge,55,normal,120,100
+371,14,Double-Edge,55,normal,120,100
+371,15,Double-Edge,55,normal,120,100

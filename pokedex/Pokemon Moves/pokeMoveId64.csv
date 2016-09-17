@@ -1,0 +1,204 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+64,1,Disable,1,normal,-,100
+64,1,Confusion,1,psychic,50,100
+64,1,Teleport,1,psychic,-,-
+64,2,Teleport,1,psychic,-,-
+64,2,Kinesis,1,psychic,-,80
+64,3,Confusion,1,psychic,50,100
+64,3,Teleport,1,psychic,-,-
+64,3,Kinesis,1,psychic,-,80
+64,4,Confusion,1,psychic,50,100
+64,4,Teleport,1,psychic,-,-
+64,4,Kinesis,1,psychic,-,80
+64,5,Confusion,1,psychic,50,100
+64,5,Teleport,1,psychic,-,-
+64,5,Kinesis,1,psychic,-,80
+64,6,Confusion,1,psychic,50,100
+64,6,Teleport,1,psychic,-,-
+64,6,Kinesis,1,psychic,-,80
+64,7,Confusion,1,psychic,50,100
+64,7,Teleport,1,psychic,-,-
+64,7,Kinesis,1,psychic,-,80
+64,8,Confusion,1,psychic,50,100
+64,8,Teleport,1,psychic,-,-
+64,8,Kinesis,1,psychic,-,80
+64,9,Confusion,1,psychic,50,100
+64,9,Teleport,1,psychic,-,-
+64,9,Kinesis,1,psychic,-,80
+64,10,Confusion,1,psychic,50,100
+64,10,Teleport,1,psychic,-,-
+64,10,Kinesis,1,psychic,-,80
+64,11,Confusion,1,psychic,50,100
+64,11,Teleport,1,psychic,-,-
+64,11,Kinesis,1,psychic,-,80
+64,12,Confusion,1,psychic,50,100
+64,12,Teleport,1,psychic,-,-
+64,12,Kinesis,1,psychic,-,80
+64,13,Confusion,1,psychic,50,100
+64,13,Teleport,1,psychic,-,-
+64,13,Kinesis,1,psychic,-,80
+64,14,Confusion,1,psychic,50,100
+64,14,Teleport,1,psychic,-,-
+64,14,Kinesis,1,psychic,-,80
+64,15,Confusion,1,psychic,50,100
+64,15,Teleport,1,psychic,-,-
+64,15,Kinesis,1,psychic,-,80
+64,16,Confusion,1,psychic,50,100
+64,16,Teleport,1,psychic,-,-
+64,16,Kinesis,1,psychic,-,80
+64,1,Confusion,16,psychic,50,100
+64,2,Confusion,16,psychic,50,100
+64,3,Confusion,16,psychic,50,100
+64,4,Confusion,16,psychic,50,100
+64,5,Confusion,16,psychic,50,100
+64,6,Confusion,16,psychic,50,100
+64,7,Confusion,16,psychic,50,100
+64,8,Confusion,16,psychic,50,100
+64,9,Confusion,16,psychic,50,100
+64,10,Confusion,16,psychic,50,100
+64,11,Confusion,16,psychic,50,100
+64,12,Confusion,16,psychic,50,100
+64,13,Confusion,16,psychic,50,100
+64,14,Confusion,16,psychic,50,100
+64,15,Confusion,16,psychic,50,100
+64,16,Confusion,16,psychic,50,100
+64,3,Disable,18,normal,-,100
+64,4,Disable,18,normal,-,100
+64,5,Disable,18,normal,-,100
+64,6,Disable,18,normal,-,100
+64,7,Disable,18,normal,-,100
+64,8,Disable,18,normal,-,100
+64,9,Disable,18,normal,-,100
+64,10,Disable,18,normal,-,100
+64,11,Disable,18,normal,-,100
+64,12,Disable,18,normal,-,100
+64,13,Disable,18,normal,-,100
+64,14,Disable,18,normal,-,100
+64,15,Disable,18,normal,-,100
+64,16,Disable,18,normal,-,100
+64,1,Disable,20,normal,-,100
+64,2,Disable,20,normal,-,100
+64,3,Psybeam,21,psychic,65,100
+64,4,Psybeam,21,psychic,65,100
+64,5,Psybeam,21,psychic,65,100
+64,6,Psybeam,21,psychic,65,100
+64,7,Psybeam,21,psychic,65,100
+64,12,Psybeam,21,psychic,65,100
+64,13,Psybeam,21,psychic,65,100
+64,16,Psybeam,21,psychic,65,100
+64,8,Miracle Eye,22,psychic,-,-
+64,9,Miracle Eye,22,psychic,-,-
+64,10,Miracle Eye,22,psychic,-,-
+64,11,Miracle Eye,22,psychic,-,-
+64,14,Miracle Eye,22,psychic,-,-
+64,15,Miracle Eye,22,psychic,-,-
+64,5,Reflect,23,psychic,-,-
+64,6,Reflect,23,psychic,-,-
+64,7,Reflect,23,psychic,-,-
+64,12,Reflect,23,psychic,-,-
+64,13,Reflect,23,psychic,-,-
+64,16,Miracle Eye,23,psychic,-,-
+64,8,Psybeam,24,psychic,65,100
+64,9,Psybeam,24,psychic,65,100
+64,10,Psybeam,24,psychic,65,100
+64,11,Ally Switch,24,psychic,-,-
+64,14,Ally Switch,24,psychic,-,-
+64,15,Ally Switch,24,psychic,-,-
+64,5,Recover,25,normal,-,-
+64,6,Recover,25,normal,-,-
+64,7,Recover,25,normal,-,-
+64,12,Recover,25,normal,-,-
+64,13,Recover,25,normal,-,-
+64,3,Recover,26,normal,-,-
+64,4,Recover,26,normal,-,-
+64,16,Reflect,26,psychic,-,-
+64,1,Psybeam,27,psychic,65,100
+64,2,Psybeam,27,psychic,65,100
+64,8,Reflect,28,psychic,-,-
+64,9,Reflect,28,psychic,-,-
+64,10,Reflect,28,psychic,-,-
+64,11,Psybeam,28,psychic,65,100
+64,14,Psybeam,28,psychic,65,100
+64,15,Psybeam,28,psychic,65,100
+64,16,Psycho Cut,28,psychic,70,100
+64,5,Future Sight,30,psychic,120,100
+64,6,Future Sight,30,psychic,120,100
+64,7,Future Sight,30,psychic,120,100
+64,8,Recover,30,normal,-,-
+64,9,Recover,30,normal,-,-
+64,10,Recover,30,normal,-,-
+64,11,Reflect,30,psychic,-,-
+64,12,Future Sight,30,psychic,120,100
+64,13,Future Sight,30,psychic,120,100
+64,14,Reflect,30,psychic,-,-
+64,15,Reflect,30,psychic,-,-
+64,1,Recover,31,normal,-,-
+64,2,Recover,31,normal,-,-
+64,3,Future Sight,31,psychic,120,100
+64,4,Future Sight,31,psychic,120,100
+64,16,Recover,31,normal,-,-
+64,5,Role Play,33,psychic,-,-
+64,6,Role Play,33,psychic,-,-
+64,7,Role Play,33,psychic,-,-
+64,12,Role Play,33,psychic,-,-
+64,13,Role Play,33,psychic,-,-
+64,16,Telekinesis,33,psychic,-,-
+64,8,Psycho Cut,34,psychic,70,100
+64,9,Psycho Cut,34,psychic,70,100
+64,10,Psycho Cut,34,psychic,70,100
+64,11,Telekinesis,34,psychic,-,-
+64,14,Telekinesis,34,psychic,-,-
+64,15,Telekinesis,34,psychic,-,-
+64,5,Psychic,36,psychic,90,100
+64,6,Psychic,36,psychic,90,100
+64,7,Psychic,36,psychic,90,100
+64,8,Role Play,36,psychic,-,-
+64,9,Role Play,36,psychic,-,-
+64,10,Role Play,36,psychic,-,-
+64,11,Recover,36,normal,-,-
+64,12,Psychic,36,psychic,90,100
+64,13,Psychic,36,psychic,90,100
+64,14,Recover,36,normal,-,-
+64,15,Recover,36,normal,-,-
+64,16,Ally Switch,36,psychic,-,-
+64,1,Psychic,38,psychic,90,100
+64,2,Psychic,38,psychic,90,100
+64,3,Psychic,38,psychic,90,100
+64,4,Psychic,38,psychic,90,100
+64,16,Psychic,38,psychic,90,100
+64,8,Psychic,40,psychic,90,100
+64,9,Psychic,40,psychic,90,100
+64,10,Psychic,40,psychic,90,100
+64,11,Psycho Cut,40,psychic,70,100
+64,14,Psycho Cut,40,psychic,70,100
+64,15,Psycho Cut,40,psychic,70,100
+64,16,Role Play,41,psychic,-,-
+64,1,Reflect,42,psychic,-,-
+64,2,Reflect,42,psychic,-,-
+64,8,Future Sight,42,psychic,120,100
+64,9,Future Sight,42,psychic,120,100
+64,10,Future Sight,42,psychic,120,100
+64,11,Role Play,42,psychic,-,-
+64,14,Role Play,42,psychic,-,-
+64,15,Role Play,42,psychic,-,-
+64,5,Trick,43,psychic,-,100
+64,6,Trick,43,psychic,-,100
+64,7,Trick,43,psychic,-,100
+64,12,Trick,43,psychic,-,100
+64,13,Trick,43,psychic,-,100
+64,16,Future Sight,43,psychic,120,100
+64,3,Reflect,45,psychic,-,-
+64,4,Reflect,45,psychic,-,-
+64,8,Trick,46,psychic,-,100
+64,9,Trick,46,psychic,-,100
+64,10,Trick,46,psychic,-,100
+64,11,Psychic,46,psychic,90,100
+64,14,Psychic,46,psychic,90,100
+64,15,Psychic,46,psychic,90,100
+64,16,Trick,46,psychic,-,100
+64,11,Future Sight,48,psychic,120,100
+64,14,Future Sight,48,psychic,120,100
+64,15,Future Sight,48,psychic,120,100
+64,15,Trick,50,psychic,-,100
+64,11,Trick,52,psychic,-,100
+64,14,Trick,52,psychic,-,100

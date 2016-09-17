@@ -1,0 +1,136 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+285,5,Absorb,1,grass,20,100
+285,6,Absorb,1,grass,20,100
+285,7,Absorb,1,grass,20,100
+285,8,Absorb,1,grass,20,100
+285,9,Absorb,1,grass,20,100
+285,10,Absorb,1,grass,20,100
+285,11,Absorb,1,grass,20,100
+285,12,Absorb,1,grass,20,100
+285,13,Absorb,1,grass,20,100
+285,14,Absorb,1,grass,20,100
+285,15,Absorb,1,grass,20,100
+285,16,Tackle,1,normal,50,100
+285,16,Absorb,1,grass,20,100
+285,5,Tackle,4,normal,50,100
+285,6,Tackle,4,normal,50,100
+285,7,Tackle,4,normal,50,100
+285,12,Tackle,4,normal,50,100
+285,13,Tackle,4,normal,50,100
+285,8,Tackle,5,normal,50,100
+285,9,Tackle,5,normal,50,100
+285,10,Tackle,5,normal,50,100
+285,11,Tackle,5,normal,50,100
+285,14,Tackle,5,normal,50,100
+285,15,Tackle,5,normal,50,100
+285,16,Stun Spore,5,grass,-,75
+285,5,Stun Spore,7,grass,-,75
+285,6,Stun Spore,7,grass,-,75
+285,7,Stun Spore,7,grass,-,75
+285,12,Stun Spore,7,grass,-,75
+285,13,Stun Spore,7,grass,-,75
+285,16,Leech Seed,8,grass,-,90
+285,8,Stun Spore,9,grass,-,75
+285,9,Stun Spore,9,grass,-,75
+285,10,Stun Spore,9,grass,-,75
+285,11,Stun Spore,9,grass,-,75
+285,14,Stun Spore,9,grass,-,75
+285,15,Stun Spore,9,grass,-,75
+285,5,Leech Seed,10,grass,-,90
+285,6,Leech Seed,10,grass,-,90
+285,7,Leech Seed,10,grass,-,90
+285,12,Leech Seed,10,grass,-,90
+285,13,Leech Seed,10,grass,-,90
+285,16,Mega Drain,12,grass,40,100
+285,8,Leech Seed,13,grass,-,90
+285,9,Leech Seed,13,grass,-,90
+285,10,Leech Seed,13,grass,-,90
+285,11,Leech Seed,13,grass,-,90
+285,14,Leech Seed,13,grass,-,90
+285,15,Leech Seed,13,grass,-,90
+285,16,Headbutt,15,normal,70,100
+285,5,Mega Drain,16,grass,40,100
+285,6,Mega Drain,16,grass,40,100
+285,7,Mega Drain,16,grass,40,100
+285,12,Mega Drain,16,grass,40,100
+285,13,Mega Drain,16,grass,40,100
+285,8,Mega Drain,17,grass,40,100
+285,9,Mega Drain,17,grass,40,100
+285,10,Mega Drain,17,grass,40,100
+285,11,Mega Drain,17,grass,40,100
+285,14,Mega Drain,17,grass,40,100
+285,15,Mega Drain,17,grass,40,100
+285,16,Poison Powder,19,poison,-,75
+285,8,Headbutt,21,normal,70,100
+285,9,Headbutt,21,normal,70,100
+285,10,Headbutt,21,normal,70,100
+285,11,Headbutt,21,normal,70,100
+285,14,Headbutt,21,normal,70,100
+285,15,Headbutt,21,normal,70,100
+285,5,Headbutt,22,normal,70,100
+285,6,Headbutt,22,normal,70,100
+285,7,Headbutt,22,normal,70,100
+285,12,Headbutt,22,normal,70,100
+285,13,Headbutt,22,normal,70,100
+285,16,Worry Seed,22,grass,-,100
+285,8,Poison Powder,25,poison,-,75
+285,9,Poison Powder,25,poison,-,75
+285,10,Poison Powder,25,poison,-,75
+285,11,Poison Powder,25,poison,-,75
+285,14,Poison Powder,25,poison,-,75
+285,15,Poison Powder,25,poison,-,75
+285,16,Giga Drain,26,grass,75,100
+285,5,Poison Powder,28,poison,-,75
+285,6,Poison Powder,28,poison,-,75
+285,7,Poison Powder,28,poison,-,75
+285,12,Poison Powder,28,poison,-,75
+285,13,Poison Powder,28,poison,-,75
+285,8,Worry Seed,29,grass,-,100
+285,9,Worry Seed,29,grass,-,100
+285,10,Worry Seed,29,grass,-,100
+285,11,Worry Seed,29,grass,-,100
+285,14,Worry Seed,29,grass,-,100
+285,15,Worry Seed,29,grass,-,100
+285,16,Growth,29,normal,-,-
+285,8,Growth,33,normal,-,-
+285,9,Growth,33,normal,-,-
+285,10,Growth,33,normal,-,-
+285,11,Growth,33,normal,-,-
+285,14,Growth,33,normal,-,-
+285,15,Growth,33,normal,-,-
+285,16,Toxic,33,poison,-,90
+285,5,Growth,36,normal,-,-
+285,6,Growth,36,normal,-,-
+285,7,Growth,36,normal,-,-
+285,12,Growth,36,normal,-,-
+285,13,Growth,36,normal,-,-
+285,16,Seed Bomb,36,grass,80,100
+285,8,Giga Drain,37,grass,75,100
+285,9,Giga Drain,37,grass,75,100
+285,10,Giga Drain,37,grass,75,100
+285,11,Giga Drain,37,grass,75,100
+285,14,Giga Drain,37,grass,75,100
+285,15,Giga Drain,37,grass,75,100
+285,16,Spore,40,grass,-,100
+285,8,Seed Bomb,41,grass,80,100
+285,9,Seed Bomb,41,grass,80,100
+285,10,Seed Bomb,41,grass,80,100
+285,11,Seed Bomb,41,grass,80,100
+285,14,Seed Bomb,41,grass,80,100
+285,15,Seed Bomb,41,grass,80,100
+285,5,Giga Drain,45,grass,75,100
+285,6,Giga Drain,45,grass,75,100
+285,7,Giga Drain,45,grass,75,100
+285,8,Spore,45,grass,-,100
+285,9,Spore,45,grass,-,100
+285,10,Spore,45,grass,-,100
+285,11,Spore,45,grass,-,100
+285,12,Giga Drain,45,grass,75,100
+285,13,Giga Drain,45,grass,75,100
+285,14,Spore,45,grass,-,100
+285,15,Spore,45,grass,-,100
+285,5,Spore,54,grass,-,100
+285,6,Spore,54,grass,-,100
+285,7,Spore,54,grass,-,100
+285,12,Spore,54,grass,-,100
+285,13,Spore,54,grass,-,100

@@ -1,0 +1,193 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+79,1,Confusion,1,psychic,50,100
+79,2,Confusion,1,psychic,50,100
+79,3,Tackle,1,normal,50,100
+79,3,Curse,1,ghost,-,-
+79,4,Tackle,1,normal,50,100
+79,4,Curse,1,ghost,-,-
+79,5,Tackle,1,normal,50,100
+79,5,Curse,1,ghost,-,-
+79,5,Yawn,1,normal,-,-
+79,6,Tackle,1,normal,50,100
+79,6,Curse,1,ghost,-,-
+79,6,Yawn,1,normal,-,-
+79,7,Tackle,1,normal,50,100
+79,7,Curse,1,ghost,-,-
+79,7,Yawn,1,normal,-,-
+79,8,Tackle,1,normal,50,100
+79,8,Curse,1,ghost,-,-
+79,8,Yawn,1,normal,-,-
+79,9,Tackle,1,normal,50,100
+79,9,Curse,1,ghost,-,-
+79,9,Yawn,1,normal,-,-
+79,10,Tackle,1,normal,50,100
+79,10,Curse,1,ghost,-,-
+79,10,Yawn,1,normal,-,-
+79,11,Tackle,1,normal,50,100
+79,11,Curse,1,ghost,-,-
+79,11,Yawn,1,normal,-,-
+79,12,Tackle,1,normal,50,100
+79,12,Curse,1,ghost,-,-
+79,12,Yawn,1,normal,-,-
+79,13,Tackle,1,normal,50,100
+79,13,Curse,1,ghost,-,-
+79,13,Yawn,1,normal,-,-
+79,14,Tackle,1,normal,50,100
+79,14,Curse,1,ghost,-,-
+79,14,Yawn,1,normal,-,-
+79,15,Tackle,1,normal,50,100
+79,15,Curse,1,ghost,-,-
+79,15,Yawn,1,normal,-,-
+79,16,Tackle,1,normal,50,100
+79,16,Curse,1,ghost,-,-
+79,16,Yawn,1,normal,-,-
+79,11,Growl,5,normal,-,100
+79,14,Growl,5,normal,-,100
+79,15,Growl,5,normal,-,100
+79,16,Growl,5,normal,-,100
+79,3,Growl,6,normal,-,100
+79,4,Growl,6,normal,-,100
+79,5,Growl,6,normal,-,100
+79,6,Growl,6,normal,-,100
+79,7,Growl,6,normal,-,100
+79,8,Growl,6,normal,-,100
+79,9,Growl,6,normal,-,100
+79,10,Growl,6,normal,-,100
+79,12,Growl,6,normal,-,100
+79,13,Growl,6,normal,-,100
+79,11,Water Gun,9,water,40,100
+79,14,Water Gun,9,water,40,100
+79,15,Water Gun,9,water,40,100
+79,16,Water Gun,9,water,40,100
+79,8,Water Gun,11,water,40,100
+79,9,Water Gun,11,water,40,100
+79,10,Water Gun,11,water,40,100
+79,7,Water Gun,13,water,40,100
+79,11,Confusion,14,psychic,50,100
+79,14,Confusion,14,psychic,50,100
+79,15,Confusion,14,psychic,50,100
+79,16,Confusion,14,psychic,50,100
+79,3,Water Gun,15,water,40,100
+79,4,Water Gun,15,water,40,100
+79,5,Water Gun,15,water,40,100
+79,6,Water Gun,15,water,40,100
+79,8,Confusion,15,psychic,50,100
+79,9,Confusion,15,psychic,50,100
+79,10,Confusion,15,psychic,50,100
+79,12,Water Gun,15,water,40,100
+79,13,Water Gun,15,water,40,100
+79,7,Confusion,17,psychic,50,100
+79,1,Disable,18,normal,-,100
+79,2,Disable,18,normal,-,100
+79,11,Disable,19,normal,-,100
+79,14,Disable,19,normal,-,100
+79,15,Disable,19,normal,-,100
+79,16,Disable,19,normal,-,100
+79,3,Confusion,20,psychic,50,100
+79,4,Confusion,20,psychic,50,100
+79,5,Confusion,20,psychic,50,100
+79,6,Confusion,20,psychic,50,100
+79,8,Disable,20,normal,-,100
+79,9,Disable,20,normal,-,100
+79,10,Disable,20,normal,-,100
+79,12,Confusion,20,psychic,50,100
+79,13,Confusion,20,psychic,50,100
+79,1,Headbutt,22,normal,70,100
+79,2,Headbutt,22,normal,70,100
+79,11,Headbutt,23,normal,70,100
+79,14,Headbutt,23,normal,70,100
+79,15,Headbutt,23,normal,70,100
+79,16,Headbutt,23,normal,70,100
+79,7,Disable,24,normal,-,100
+79,8,Headbutt,25,normal,70,100
+79,9,Headbutt,25,normal,70,100
+79,10,Headbutt,25,normal,70,100
+79,1,Growl,27,normal,-,100
+79,2,Growl,27,normal,-,100
+79,11,Water Pulse,28,water,60,100
+79,14,Water Pulse,28,water,60,100
+79,15,Water Pulse,28,water,60,100
+79,16,Water Pulse,28,water,60,100
+79,3,Disable,29,normal,-,100
+79,4,Disable,29,normal,-,100
+79,5,Disable,29,normal,-,100
+79,6,Disable,29,normal,-,100
+79,7,Headbutt,29,normal,70,100
+79,8,Water Pulse,29,water,60,100
+79,9,Water Pulse,29,water,60,100
+79,10,Water Pulse,29,water,60,100
+79,12,Disable,29,normal,-,100
+79,13,Disable,29,normal,-,100
+79,11,Zen Headbutt,32,psychic,80,90
+79,14,Zen Headbutt,32,psychic,80,90
+79,15,Zen Headbutt,32,psychic,80,90
+79,16,Zen Headbutt,32,psychic,80,90
+79,1,Water Gun,33,water,40,100
+79,2,Water Gun,33,water,40,100
+79,3,Headbutt,34,normal,70,100
+79,4,Headbutt,34,normal,70,100
+79,5,Headbutt,34,normal,70,100
+79,6,Headbutt,34,normal,70,100
+79,8,Zen Headbutt,34,psychic,80,90
+79,9,Zen Headbutt,34,psychic,80,90
+79,10,Zen Headbutt,34,psychic,80,90
+79,12,Headbutt,34,normal,70,100
+79,13,Headbutt,34,normal,70,100
+79,7,Amnesia,36,psychic,-,-
+79,11,Slack Off,36,normal,-,-
+79,14,Slack Off,36,normal,-,-
+79,15,Slack Off,36,normal,-,-
+79,16,Slack Off,36,normal,-,-
+79,8,Slack Off,39,normal,-,-
+79,9,Slack Off,39,normal,-,-
+79,10,Slack Off,39,normal,-,-
+79,1,Amnesia,40,psychic,-,-
+79,2,Amnesia,40,psychic,-,-
+79,7,Psychic,40,psychic,90,100
+79,11,Amnesia,41,psychic,-,-
+79,14,Amnesia,41,psychic,-,-
+79,15,Amnesia,41,psychic,-,-
+79,16,Amnesia,41,psychic,-,-
+79,3,Amnesia,43,psychic,-,-
+79,4,Amnesia,43,psychic,-,-
+79,5,Amnesia,43,psychic,-,-
+79,6,Amnesia,43,psychic,-,-
+79,8,Amnesia,43,psychic,-,-
+79,9,Amnesia,43,psychic,-,-
+79,10,Amnesia,43,psychic,-,-
+79,12,Amnesia,43,psychic,-,-
+79,13,Amnesia,43,psychic,-,-
+79,11,Psychic,45,psychic,90,100
+79,14,Psychic,45,psychic,90,100
+79,15,Psychic,45,psychic,90,100
+79,16,Psychic,45,psychic,90,100
+79,7,Psych Up,47,normal,-,-
+79,1,Psychic,48,psychic,90,100
+79,2,Psychic,48,psychic,90,100
+79,3,Psychic,48,psychic,90,100
+79,4,Psychic,48,psychic,90,100
+79,5,Psychic,48,psychic,90,100
+79,6,Psychic,48,psychic,90,100
+79,8,Psychic,48,psychic,90,100
+79,9,Psychic,48,psychic,90,100
+79,10,Psychic,48,psychic,90,100
+79,12,Psychic,48,psychic,90,100
+79,13,Psychic,48,psychic,90,100
+79,11,Rain Dance,49,water,-,-
+79,14,Rain Dance,49,water,-,-
+79,15,Rain Dance,49,water,-,-
+79,16,Rain Dance,49,water,-,-
+79,8,Rain Dance,53,water,-,-
+79,9,Rain Dance,53,water,-,-
+79,10,Rain Dance,53,water,-,-
+79,11,Psych Up,54,normal,-,-
+79,14,Psych Up,54,normal,-,-
+79,15,Psych Up,54,normal,-,-
+79,16,Psych Up,54,normal,-,-
+79,8,Psych Up,57,normal,-,-
+79,9,Psych Up,57,normal,-,-
+79,10,Psych Up,57,normal,-,-
+79,11,Heal Pulse,58,psychic,-,-
+79,14,Heal Pulse,58,psychic,-,-
+79,15,Heal Pulse,58,psychic,-,-
+79,16,Heal Pulse,58,psychic,-,-

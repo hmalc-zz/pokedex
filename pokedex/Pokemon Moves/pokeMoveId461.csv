@@ -1,0 +1,130 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+461,8,Scratch,1,normal,40,100
+461,8,Leer,1,normal,-,100
+461,8,Quick Attack,1,normal,40,100
+461,8,Taunt,1,dark,-,100
+461,8,Revenge,1,fighting,60,100
+461,8,Assurance,1,dark,60,100
+461,8,Embargo,1,dark,-,100
+461,9,Scratch,1,normal,40,100
+461,9,Leer,1,normal,-,100
+461,9,Quick Attack,1,normal,40,100
+461,9,Taunt,1,dark,-,100
+461,9,Revenge,1,fighting,60,100
+461,9,Assurance,1,dark,60,100
+461,9,Embargo,1,dark,-,100
+461,10,Scratch,1,normal,40,100
+461,10,Leer,1,normal,-,100
+461,10,Quick Attack,1,normal,40,100
+461,10,Taunt,1,dark,-,100
+461,10,Revenge,1,fighting,60,100
+461,10,Assurance,1,dark,60,100
+461,10,Embargo,1,dark,-,100
+461,11,Scratch,1,normal,40,100
+461,11,Leer,1,normal,-,100
+461,11,Quick Attack,1,normal,40,100
+461,11,Taunt,1,dark,-,100
+461,11,Revenge,1,fighting,60,100
+461,11,Assurance,1,dark,60,100
+461,11,Embargo,1,dark,-,100
+461,14,Scratch,1,normal,40,100
+461,14,Leer,1,normal,-,100
+461,14,Quick Attack,1,normal,40,100
+461,14,Taunt,1,dark,-,100
+461,14,Revenge,1,fighting,60,100
+461,14,Assurance,1,dark,60,100
+461,14,Embargo,1,dark,-,100
+461,15,Scratch,1,normal,40,100
+461,15,Leer,1,normal,-,100
+461,15,Quick Attack,1,normal,40,100
+461,15,Taunt,1,dark,-,100
+461,15,Revenge,1,fighting,60,100
+461,15,Assurance,1,dark,60,100
+461,15,Embargo,1,dark,-,100
+461,16,Scratch,1,normal,40,100
+461,16,Leer,1,normal,-,100
+461,16,Quick Attack,1,normal,40,100
+461,16,Taunt,1,dark,-,100
+461,16,Revenge,1,fighting,60,100
+461,16,Assurance,1,dark,60,100
+461,16,Embargo,1,dark,-,100
+461,8,Quick Attack,8,normal,40,100
+461,9,Quick Attack,8,normal,40,100
+461,10,Quick Attack,8,normal,40,100
+461,11,Quick Attack,8,normal,40,100
+461,14,Quick Attack,8,normal,40,100
+461,15,Quick Attack,8,normal,40,100
+461,16,Quick Attack,8,normal,40,100
+461,8,Screech,10,normal,-,85
+461,9,Screech,10,normal,-,85
+461,10,Screech,10,normal,-,85
+461,11,Screech,10,normal,-,85
+461,14,Feint Attack,10,dark,60,-
+461,15,Feint Attack,10,dark,60,-
+461,16,Feint Attack,10,dark,60,-
+461,8,Feint Attack,14,dark,60,-
+461,9,Feint Attack,14,dark,60,-
+461,10,Feint Attack,14,dark,60,-
+461,11,Feint Attack,14,dark,60,-
+461,14,Icy Wind,14,ice,55,95
+461,15,Icy Wind,14,ice,55,95
+461,16,Icy Wind,14,ice,55,95
+461,14,Fury Swipes,16,normal,18,80
+461,15,Fury Swipes,16,normal,18,80
+461,16,Fury Swipes,16,normal,18,80
+461,14,Nasty Plot,20,dark,-,-
+461,15,Nasty Plot,20,dark,-,-
+461,16,Nasty Plot,20,dark,-,-
+461,8,Fury Swipes,21,normal,18,80
+461,9,Fury Swipes,21,normal,18,80
+461,10,Fury Swipes,21,normal,18,80
+461,11,Fury Swipes,21,normal,18,80
+461,14,Metal Claw,22,steel,50,95
+461,15,Metal Claw,22,steel,50,95
+461,16,Metal Claw,22,steel,50,95
+461,8,Nasty Plot,24,dark,-,-
+461,9,Nasty Plot,24,dark,-,-
+461,10,Nasty Plot,24,dark,-,-
+461,11,Nasty Plot,24,dark,-,-
+461,14,Hone Claws,25,dark,-,-
+461,15,Hone Claws,25,dark,-,-
+461,16,Hone Claws,25,dark,-,-
+461,8,Icy Wind,28,ice,55,95
+461,9,Icy Wind,28,ice,55,95
+461,10,Icy Wind,28,ice,55,95
+461,11,Icy Wind,28,ice,55,95
+461,14,Fling,28,dark,-,100
+461,15,Fling,28,dark,-,100
+461,16,Fling,28,dark,-,100
+461,14,Screech,32,normal,-,85
+461,15,Screech,32,normal,-,85
+461,16,Screech,32,normal,-,85
+461,8,Night Slash,35,dark,70,100
+461,9,Night Slash,35,dark,70,100
+461,10,Night Slash,35,dark,70,100
+461,11,Hone Claws,35,dark,-,-
+461,14,Night Slash,35,dark,70,100
+461,15,Night Slash,35,dark,70,100
+461,16,Night Slash,35,dark,70,100
+461,8,Fling,38,dark,-,100
+461,9,Fling,38,dark,-,100
+461,10,Fling,38,dark,-,100
+461,11,Night Slash,38,dark,70,100
+461,14,Snatch,40,dark,-,-
+461,15,Snatch,40,dark,-,-
+461,16,Snatch,40,dark,-,-
+461,8,Metal Claw,42,steel,50,95
+461,9,Metal Claw,42,steel,50,95
+461,10,Metal Claw,42,steel,50,95
+461,11,Fling,42,dark,-,100
+461,14,Punishment,44,dark,-,100
+461,15,Punishment,44,dark,-,100
+461,16,Punishment,44,dark,-,100
+461,14,Dark Pulse,47,dark,80,100
+461,15,Dark Pulse,47,dark,80,100
+461,16,Dark Pulse,47,dark,80,100
+461,8,Dark Pulse,49,dark,80,100
+461,9,Dark Pulse,49,dark,80,100
+461,10,Dark Pulse,49,dark,80,100
+461,11,Metal Claw,49,steel,50,95
+461,11,Dark Pulse,51,dark,80,100

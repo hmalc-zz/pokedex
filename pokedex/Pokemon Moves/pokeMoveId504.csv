@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+504,11,Tackle,1,normal,50,100
+504,14,Tackle,1,normal,50,100
+504,15,Tackle,1,normal,50,100
+504,16,Tackle,1,normal,50,100
+504,11,Leer,3,normal,-,100
+504,14,Leer,3,normal,-,100
+504,15,Leer,3,normal,-,100
+504,16,Leer,3,normal,-,100
+504,11,Bite,6,dark,60,100
+504,14,Bite,6,dark,60,100
+504,15,Bite,6,dark,60,100
+504,16,Bite,6,dark,60,100
+504,11,Bide,8,normal,-,-
+504,14,Bide,8,normal,-,-
+504,15,Bide,8,normal,-,-
+504,16,Bide,8,normal,-,-
+504,11,Detect,11,fighting,-,-
+504,14,Detect,11,fighting,-,-
+504,15,Detect,11,fighting,-,-
+504,16,Detect,11,fighting,-,-
+504,11,Sand Attack,13,ground,-,100
+504,14,Sand Attack,13,ground,-,100
+504,15,Sand Attack,13,ground,-,100
+504,16,Sand Attack,13,ground,-,100
+504,11,Crunch,16,dark,80,100
+504,14,Crunch,16,dark,80,100
+504,15,Crunch,16,dark,80,100
+504,16,Crunch,16,dark,80,100
+504,11,Hypnosis,18,psychic,-,60
+504,14,Hypnosis,18,psychic,-,60
+504,15,Hypnosis,18,psychic,-,60
+504,16,Hypnosis,18,psychic,-,60
+504,11,Super Fang,21,normal,-,90
+504,14,Super Fang,21,normal,-,90
+504,15,Super Fang,21,normal,-,90
+504,16,Super Fang,21,normal,-,90
+504,11,After You,23,normal,-,-
+504,14,After You,23,normal,-,-
+504,15,After You,23,normal,-,-
+504,16,After You,23,normal,-,-
+504,11,Work Up,26,normal,-,-
+504,14,Work Up,26,normal,-,-
+504,15,Work Up,26,normal,-,-
+504,16,Work Up,26,normal,-,-
+504,11,Hyper Fang,28,normal,80,90
+504,14,Hyper Fang,28,normal,80,90
+504,15,Hyper Fang,28,normal,80,90
+504,16,Hyper Fang,28,normal,80,90
+504,11,Mean Look,31,normal,-,-
+504,14,Mean Look,31,normal,-,-
+504,15,Mean Look,31,normal,-,-
+504,16,Mean Look,31,normal,-,-
+504,11,Baton Pass,33,normal,-,-
+504,14,Baton Pass,33,normal,-,-
+504,15,Baton Pass,33,normal,-,-
+504,16,Baton Pass,33,normal,-,-
+504,11,Slam,36,normal,80,75
+504,14,Slam,36,normal,80,75
+504,15,Slam,36,normal,80,75
+504,16,Slam,36,normal,80,75

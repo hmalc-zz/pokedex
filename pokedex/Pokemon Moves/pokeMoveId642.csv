@@ -1,0 +1,77 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+642,11,Thunder Shock,1,electric,40,100
+642,11,Uproar,1,normal,90,100
+642,11,Astonish,1,ghost,30,100
+642,14,Thunder Shock,1,electric,40,100
+642,14,Uproar,1,normal,90,100
+642,14,Astonish,1,ghost,30,100
+642,15,Thrash,1,normal,120,100
+642,15,Thunder Shock,1,electric,40,100
+642,15,Uproar,1,normal,90,100
+642,15,Charge,1,electric,-,-
+642,15,Astonish,1,ghost,30,100
+642,15,Hammer Arm,1,fighting,100,90
+642,15,Nasty Plot,1,dark,-,-
+642,16,Thrash,1,normal,120,100
+642,16,Thunder Shock,1,electric,40,100
+642,16,Uproar,1,normal,90,100
+642,16,Charge,1,electric,-,-
+642,16,Astonish,1,ghost,30,100
+642,16,Hammer Arm,1,fighting,100,90
+642,16,Nasty Plot,1,dark,-,-
+642,11,Swagger,7,normal,-,90
+642,14,Swagger,7,normal,-,90
+642,15,Swagger,7,normal,-,90
+642,16,Swagger,7,normal,-,90
+642,11,Bite,13,dark,60,100
+642,14,Bite,13,dark,60,100
+642,15,Bite,13,dark,60,100
+642,16,Bite,13,dark,60,100
+642,11,Revenge,19,fighting,60,100
+642,14,Revenge,19,fighting,60,100
+642,15,Revenge,19,fighting,60,100
+642,16,Revenge,19,fighting,60,100
+642,11,Shock Wave,25,electric,60,-
+642,14,Shock Wave,25,electric,60,-
+642,15,Shock Wave,25,electric,60,-
+642,16,Shock Wave,25,electric,60,-
+642,11,Heal Block,31,psychic,-,100
+642,14,Heal Block,31,psychic,-,100
+642,15,Heal Block,31,psychic,-,100
+642,16,Heal Block,31,psychic,-,100
+642,11,Agility,37,psychic,-,-
+642,14,Agility,37,psychic,-,-
+642,15,Agility,37,psychic,-,-
+642,16,Agility,37,psychic,-,-
+642,11,Discharge,43,electric,80,100
+642,14,Discharge,43,electric,80,100
+642,15,Discharge,43,electric,80,100
+642,16,Discharge,43,electric,80,100
+642,11,Crunch,49,dark,80,100
+642,14,Crunch,49,dark,80,100
+642,15,Crunch,49,dark,80,100
+642,16,Crunch,49,dark,80,100
+642,11,Charge,55,electric,-,-
+642,14,Charge,55,electric,-,-
+642,15,Charge,55,electric,-,-
+642,16,Charge,55,electric,-,-
+642,11,Nasty Plot,61,dark,-,-
+642,14,Nasty Plot,61,dark,-,-
+642,15,Nasty Plot,61,dark,-,-
+642,16,Nasty Plot,61,dark,-,-
+642,11,Thunder,67,electric,110,70
+642,14,Thunder,67,electric,110,70
+642,15,Thunder,67,electric,110,70
+642,16,Thunder,67,electric,110,70
+642,11,Dark Pulse,73,dark,80,100
+642,14,Dark Pulse,73,dark,80,100
+642,15,Dark Pulse,73,dark,80,100
+642,16,Dark Pulse,73,dark,80,100
+642,11,Hammer Arm,79,fighting,100,90
+642,14,Hammer Arm,79,fighting,100,90
+642,15,Hammer Arm,79,fighting,100,90
+642,16,Hammer Arm,79,fighting,100,90
+642,11,Thrash,85,normal,120,100
+642,14,Thrash,85,normal,120,100
+642,15,Thrash,85,normal,120,100
+642,16,Thrash,85,normal,120,100

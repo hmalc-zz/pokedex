@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+646,11,Dragon Rage,1,dragon,-,100
+646,11,Icy Wind,1,ice,55,95
+646,14,Dragon Rage,1,dragon,-,100
+646,14,Icy Wind,1,ice,55,95
+646,15,Dragon Rage,1,dragon,-,100
+646,15,Icy Wind,1,ice,55,95
+646,16,Dragon Rage,1,dragon,-,100
+646,16,Icy Wind,1,ice,55,95
+646,11,Imprison,8,psychic,-,-
+646,14,Imprison,8,psychic,-,-
+646,15,Imprison,8,psychic,-,-
+646,16,Imprison,8,psychic,-,-
+646,11,Ancient Power,15,rock,60,100
+646,14,Ancient Power,15,rock,60,100
+646,15,Ancient Power,15,rock,60,100
+646,16,Ancient Power,15,rock,60,100
+646,11,Ice Beam,22,ice,90,100
+646,14,Ice Beam,22,ice,90,100
+646,15,Ice Beam,22,ice,90,100
+646,16,Ice Beam,22,ice,90,100
+646,11,Dragon Breath,29,dragon,60,100
+646,14,Dragon Breath,29,dragon,60,100
+646,15,Dragon Breath,29,dragon,60,100
+646,16,Dragon Breath,29,dragon,60,100
+646,11,Slash,36,normal,70,100
+646,14,Slash,36,normal,70,100
+646,15,Slash,36,normal,70,100
+646,16,Slash,36,normal,70,100
+646,11,Scary Face,43,normal,-,100
+646,14,Scary Face,43,normal,-,100
+646,15,Scary Face,43,normal,-,100
+646,16,Scary Face,43,normal,-,100
+646,11,Glaciate,50,ice,65,95
+646,14,Glaciate,50,ice,65,95
+646,15,Glaciate,50,ice,65,95
+646,16,Glaciate,50,ice,65,95
+646,11,Dragon Pulse,57,dragon,85,100
+646,14,Dragon Pulse,57,dragon,85,100
+646,15,Dragon Pulse,57,dragon,85,100
+646,16,Dragon Pulse,57,dragon,85,100
+646,11,Imprison,64,psychic,-,-
+646,14,Imprison,64,psychic,-,-
+646,15,Imprison,64,psychic,-,-
+646,16,Imprison,64,psychic,-,-
+646,11,Endeavor,71,normal,-,100
+646,14,Endeavor,71,normal,-,100
+646,15,Endeavor,71,normal,-,100
+646,16,Endeavor,71,normal,-,100
+646,11,Blizzard,78,ice,110,70
+646,14,Blizzard,78,ice,110,70
+646,15,Blizzard,78,ice,110,70
+646,16,Blizzard,78,ice,110,70
+646,11,Outrage,85,dragon,120,100
+646,14,Outrage,85,dragon,120,100
+646,15,Outrage,85,dragon,120,100
+646,16,Outrage,85,dragon,120,100
+646,11,Hyper Voice,92,normal,90,100
+646,14,Hyper Voice,92,normal,90,100
+646,15,Hyper Voice,92,normal,90,100
+646,16,Hyper Voice,92,normal,90,100

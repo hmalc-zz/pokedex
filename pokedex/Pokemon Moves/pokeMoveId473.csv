@@ -1,0 +1,132 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+473,8,Peck,1,flying,35,100
+473,8,Powder Snow,1,ice,40,100
+473,8,Ancient Power,1,rock,60,100
+473,8,Mud Sport,1,ground,-,-
+473,8,Odor Sleuth,1,normal,-,-
+473,9,Peck,1,flying,35,100
+473,9,Powder Snow,1,ice,40,100
+473,9,Ancient Power,1,rock,60,100
+473,9,Mud Sport,1,ground,-,-
+473,9,Odor Sleuth,1,normal,-,-
+473,10,Peck,1,flying,35,100
+473,10,Powder Snow,1,ice,40,100
+473,10,Ancient Power,1,rock,60,100
+473,10,Mud Sport,1,ground,-,-
+473,10,Odor Sleuth,1,normal,-,-
+473,11,Peck,1,flying,35,100
+473,11,Powder Snow,1,ice,40,100
+473,11,Ancient Power,1,rock,60,100
+473,11,Mud Sport,1,ground,-,-
+473,11,Odor Sleuth,1,normal,-,-
+473,14,Peck,1,flying,35,100
+473,14,Powder Snow,1,ice,40,100
+473,14,Ancient Power,1,rock,60,100
+473,14,Mud Sport,1,ground,-,-
+473,14,Odor Sleuth,1,normal,-,-
+473,15,Peck,1,flying,35,100
+473,15,Powder Snow,1,ice,40,100
+473,15,Scary Face,1,normal,-,100
+473,15,Ancient Power,1,rock,60,100
+473,15,Mud Sport,1,ground,-,-
+473,15,Odor Sleuth,1,normal,-,-
+473,16,Peck,1,flying,35,100
+473,16,Powder Snow,1,ice,40,100
+473,16,Scary Face,1,normal,-,100
+473,16,Ancient Power,1,rock,60,100
+473,16,Mud Sport,1,ground,-,-
+473,16,Odor Sleuth,1,normal,-,-
+473,8,Mud Sport,4,ground,-,-
+473,9,Mud Sport,4,ground,-,-
+473,10,Mud Sport,4,ground,-,-
+473,11,Mud Sport,4,ground,-,-
+473,14,Mud Sport,5,ground,-,-
+473,15,Mud Sport,5,ground,-,-
+473,16,Mud Sport,5,ground,-,-
+473,8,Powder Snow,8,ice,40,100
+473,9,Powder Snow,8,ice,40,100
+473,10,Powder Snow,8,ice,40,100
+473,11,Powder Snow,8,ice,40,100
+473,14,Powder Snow,8,ice,40,100
+473,15,Powder Snow,8,ice,40,100
+473,16,Powder Snow,8,ice,40,100
+473,14,Mud-Slap,11,ground,20,100
+473,15,Mud-Slap,11,ground,20,100
+473,16,Mud-Slap,11,ground,20,100
+473,8,Mud-Slap,13,ground,20,100
+473,9,Mud-Slap,13,ground,20,100
+473,10,Mud-Slap,13,ground,20,100
+473,11,Mud-Slap,13,ground,20,100
+473,14,Endure,14,normal,-,-
+473,15,Endure,14,normal,-,-
+473,16,Endure,14,normal,-,-
+473,8,Endure,16,normal,-,-
+473,9,Endure,16,normal,-,-
+473,10,Endure,16,normal,-,-
+473,11,Endure,16,normal,-,-
+473,14,Mud Bomb,18,ground,65,85
+473,15,Mud Bomb,18,ground,65,85
+473,16,Mud Bomb,18,ground,65,85
+473,8,Mud Bomb,20,ground,65,85
+473,9,Mud Bomb,20,ground,65,85
+473,10,Mud Bomb,20,ground,65,85
+473,11,Mud Bomb,20,ground,65,85
+473,14,Hail,21,ice,-,-
+473,15,Hail,21,ice,-,-
+473,16,Hail,21,ice,-,-
+473,14,Ice Fang,24,ice,65,95
+473,15,Ice Fang,24,ice,65,95
+473,16,Ice Fang,24,ice,65,95
+473,8,Hail,25,ice,-,-
+473,9,Hail,25,ice,-,-
+473,10,Hail,25,ice,-,-
+473,11,Hail,25,ice,-,-
+473,8,Ice Fang,28,ice,65,95
+473,9,Ice Fang,28,ice,65,95
+473,10,Ice Fang,28,ice,65,95
+473,11,Ice Fang,28,ice,65,95
+473,14,Take Down,28,normal,90,85
+473,15,Take Down,28,normal,90,85
+473,16,Take Down,28,normal,90,85
+473,8,Take Down,32,normal,90,85
+473,9,Take Down,32,normal,90,85
+473,10,Take Down,32,normal,90,85
+473,11,Take Down,32,normal,90,85
+473,8,Double Hit,33,normal,35,90
+473,9,Double Hit,33,normal,35,90
+473,10,Double Hit,33,normal,35,90
+473,11,Double Hit,33,normal,35,90
+473,14,Double Hit,33,normal,35,90
+473,15,Double Hit,33,normal,35,90
+473,16,Double Hit,33,normal,35,90
+473,14,Mist,37,ice,-,-
+473,15,Mist,37,ice,-,-
+473,16,Mist,37,ice,-,-
+473,8,Earthquake,40,ground,100,100
+473,9,Earthquake,40,ground,100,100
+473,10,Earthquake,40,ground,100,100
+473,11,Earthquake,40,ground,100,100
+473,14,Thrash,41,normal,120,100
+473,15,Thrash,41,normal,120,100
+473,16,Thrash,41,normal,120,100
+473,14,Earthquake,46,ground,100,100
+473,15,Earthquake,46,ground,100,100
+473,16,Earthquake,46,ground,100,100
+473,8,Mist,48,ice,-,-
+473,9,Mist,48,ice,-,-
+473,10,Mist,48,ice,-,-
+473,11,Mist,48,ice,-,-
+473,14,Blizzard,52,ice,110,70
+473,15,Blizzard,52,ice,110,70
+473,16,Blizzard,52,ice,110,70
+473,8,Blizzard,56,ice,110,70
+473,9,Blizzard,56,ice,110,70
+473,10,Blizzard,56,ice,110,70
+473,11,Blizzard,56,ice,110,70
+473,14,Scary Face,58,normal,-,100
+473,15,Scary Face,58,normal,-,100
+473,16,Scary Face,58,normal,-,100
+473,8,Scary Face,65,normal,-,100
+473,9,Scary Face,65,normal,-,100
+473,10,Scary Face,65,normal,-,100
+473,11,Scary Face,65,normal,-,100

@@ -1,0 +1,31 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+651,15,Tackle,1,normal,50,100
+651,15,Growl,1,normal,-,100
+651,16,Tackle,1,normal,50,100
+651,16,Growl,1,normal,-,100
+651,15,Vine Whip,5,grass,45,100
+651,16,Vine Whip,5,grass,45,100
+651,15,Rollout,8,rock,30,90
+651,16,Rollout,8,rock,30,90
+651,15,Bite,11,dark,60,100
+651,16,Bite,11,dark,60,100
+651,15,Leech Seed,15,grass,-,90
+651,16,Leech Seed,15,grass,-,90
+651,15,Pin Missile,20,bug,25,95
+651,16,Pin Missile,20,bug,25,95
+651,15,Needle Arm,26,grass,60,100
+651,16,Needle Arm,26,grass,60,100
+651,15,Take Down,30,normal,90,85
+651,16,Take Down,30,normal,90,85
+651,15,Seed Bomb,35,grass,80,100
+651,16,Seed Bomb,35,grass,80,100
+651,15,Mud Shot,39,ground,55,95
+651,16,Mud Shot,39,ground,55,95
+651,15,Bulk Up,44,fighting,-,-
+651,16,Bulk Up,44,fighting,-,-
+651,15,Body Slam,48,normal,85,100
+651,16,Body Slam,48,normal,85,100
+651,15,Pain Split,52,normal,-,-
+651,16,Pain Split,52,normal,-,-
+651,15,Wood Hammer,55,grass,120,100
+651,16,Wood Hammer,55,grass,120,100

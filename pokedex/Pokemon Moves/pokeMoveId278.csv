@@ -1,0 +1,132 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+278,5,Growl,1,normal,-,100
+278,5,Water Gun,1,water,40,100
+278,6,Growl,1,normal,-,100
+278,6,Water Gun,1,water,40,100
+278,7,Growl,1,normal,-,100
+278,7,Water Gun,1,water,40,100
+278,8,Growl,1,normal,-,100
+278,8,Water Gun,1,water,40,100
+278,9,Growl,1,normal,-,100
+278,9,Water Gun,1,water,40,100
+278,10,Growl,1,normal,-,100
+278,10,Water Gun,1,water,40,100
+278,11,Growl,1,normal,-,100
+278,11,Water Gun,1,water,40,100
+278,12,Growl,1,normal,-,100
+278,12,Water Gun,1,water,40,100
+278,13,Growl,1,normal,-,100
+278,13,Water Gun,1,water,40,100
+278,14,Growl,1,normal,-,100
+278,14,Water Gun,1,water,40,100
+278,15,Growl,1,normal,-,100
+278,15,Water Gun,1,water,40,100
+278,16,Growl,1,normal,-,100
+278,16,Water Gun,1,water,40,100
+278,16,Supersonic,5,normal,-,55
+278,8,Supersonic,6,normal,-,55
+278,9,Supersonic,6,normal,-,55
+278,10,Supersonic,6,normal,-,55
+278,11,Supersonic,6,normal,-,55
+278,14,Supersonic,6,normal,-,55
+278,15,Supersonic,6,normal,-,55
+278,5,Supersonic,7,normal,-,55
+278,6,Supersonic,7,normal,-,55
+278,7,Supersonic,7,normal,-,55
+278,12,Supersonic,7,normal,-,55
+278,13,Supersonic,7,normal,-,55
+278,16,Wing Attack,8,flying,60,100
+278,14,Wing Attack,9,flying,60,100
+278,15,Wing Attack,9,flying,60,100
+278,8,Wing Attack,11,flying,60,100
+278,9,Wing Attack,11,flying,60,100
+278,10,Wing Attack,11,flying,60,100
+278,11,Wing Attack,11,flying,60,100
+278,16,Mist,12,ice,-,-
+278,5,Wing Attack,13,flying,60,100
+278,6,Wing Attack,13,flying,60,100
+278,7,Wing Attack,13,flying,60,100
+278,12,Wing Attack,13,flying,60,100
+278,13,Wing Attack,13,flying,60,100
+278,14,Mist,14,ice,-,-
+278,15,Mist,14,ice,-,-
+278,16,Water Pulse,15,water,60,100
+278,8,Mist,16,ice,-,-
+278,9,Mist,16,ice,-,-
+278,10,Mist,16,ice,-,-
+278,11,Mist,16,ice,-,-
+278,14,Water Pulse,17,water,60,100
+278,15,Water Pulse,17,water,60,100
+278,8,Water Pulse,19,water,60,100
+278,9,Water Pulse,19,water,60,100
+278,10,Water Pulse,19,water,60,100
+278,11,Water Pulse,19,water,60,100
+278,16,Quick Attack,19,normal,40,100
+278,5,Mist,21,ice,-,-
+278,6,Mist,21,ice,-,-
+278,7,Mist,21,ice,-,-
+278,12,Mist,21,ice,-,-
+278,13,Mist,21,ice,-,-
+278,14,Quick Attack,22,normal,40,100
+278,15,Quick Attack,22,normal,40,100
+278,16,Air Cutter,22,flying,60,95
+278,8,Quick Attack,24,normal,40,100
+278,9,Quick Attack,24,normal,40,100
+278,10,Quick Attack,24,normal,40,100
+278,11,Quick Attack,24,normal,40,100
+278,14,Roost,26,flying,-,-
+278,15,Roost,26,flying,-,-
+278,16,Pursuit,26,dark,40,100
+278,8,Roost,29,flying,-,-
+278,9,Roost,29,flying,-,-
+278,10,Roost,29,flying,-,-
+278,11,Roost,29,flying,-,-
+278,16,Aerial Ace,29,flying,60,-
+278,14,Pursuit,30,dark,40,100
+278,15,Pursuit,30,dark,40,100
+278,5,Quick Attack,31,normal,40,100
+278,6,Quick Attack,31,normal,40,100
+278,7,Quick Attack,31,normal,40,100
+278,12,Quick Attack,31,normal,40,100
+278,13,Quick Attack,31,normal,40,100
+278,14,Air Cutter,33,flying,60,95
+278,15,Air Cutter,33,flying,60,95
+278,16,Roost,33,flying,-,-
+278,8,Pursuit,34,dark,40,100
+278,9,Pursuit,34,dark,40,100
+278,10,Pursuit,34,dark,40,100
+278,11,Pursuit,34,dark,40,100
+278,16,Agility,36,psychic,-,-
+278,8,Agility,37,psychic,-,-
+278,9,Agility,37,psychic,-,-
+278,10,Agility,37,psychic,-,-
+278,11,Agility,37,psychic,-,-
+278,14,Agility,38,psychic,-,-
+278,15,Agility,38,psychic,-,-
+278,16,Air Slash,40,flying,75,95
+278,8,Aerial Ace,42,flying,60,-
+278,9,Aerial Ace,42,flying,60,-
+278,10,Aerial Ace,42,flying,60,-
+278,11,Aerial Ace,42,flying,60,-
+278,14,Aerial Ace,42,flying,60,-
+278,15,Aerial Ace,42,flying,60,-
+278,5,Pursuit,43,dark,40,100
+278,6,Pursuit,43,dark,40,100
+278,7,Pursuit,43,dark,40,100
+278,12,Pursuit,43,dark,40,100
+278,13,Pursuit,43,dark,40,100
+278,16,Hurricane,43,flying,110,70
+278,14,Air Slash,46,flying,75,95
+278,15,Air Slash,46,flying,75,95
+278,8,Air Slash,47,flying,75,95
+278,9,Air Slash,47,flying,75,95
+278,10,Air Slash,47,flying,75,95
+278,11,Air Slash,47,flying,75,95
+278,14,Hurricane,49,flying,110,70
+278,15,Hurricane,49,flying,110,70
+278,11,Hurricane,50,flying,110,70
+278,5,Agility,55,psychic,-,-
+278,6,Agility,55,psychic,-,-
+278,7,Agility,55,psychic,-,-
+278,12,Agility,55,psychic,-,-
+278,13,Agility,55,psychic,-,-

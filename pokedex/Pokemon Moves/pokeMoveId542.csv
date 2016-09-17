@@ -1,0 +1,63 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+542,11,Tackle,1,normal,50,100
+542,11,Razor Leaf,1,grass,55,95
+542,11,String Shot,1,bug,-,95
+542,11,False Swipe,1,normal,40,100
+542,11,Bug Bite,1,bug,60,100
+542,14,Tackle,1,normal,50,100
+542,14,Razor Leaf,1,grass,55,95
+542,14,String Shot,1,bug,-,95
+542,14,False Swipe,1,normal,40,100
+542,14,Bug Bite,1,bug,60,100
+542,15,Tackle,1,normal,50,100
+542,15,Razor Leaf,1,grass,55,95
+542,15,String Shot,1,bug,-,95
+542,15,False Swipe,1,normal,40,100
+542,15,Bug Bite,1,bug,60,100
+542,16,Tackle,1,normal,50,100
+542,16,Razor Leaf,1,grass,55,95
+542,16,String Shot,1,bug,-,95
+542,16,False Swipe,1,normal,40,100
+542,16,Bug Bite,1,bug,60,100
+542,11,Bug Bite,8,bug,60,100
+542,14,Bug Bite,8,bug,60,100
+542,15,Bug Bite,8,bug,60,100
+542,16,Bug Bite,8,bug,60,100
+542,11,Razor Leaf,15,grass,55,95
+542,14,Razor Leaf,15,grass,55,95
+542,15,Razor Leaf,15,grass,55,95
+542,16,Razor Leaf,15,grass,55,95
+542,11,Struggle Bug,22,bug,50,100
+542,14,Struggle Bug,22,bug,50,100
+542,15,Struggle Bug,22,bug,50,100
+542,16,Struggle Bug,22,bug,50,100
+542,11,Slash,29,normal,70,100
+542,14,Slash,29,normal,70,100
+542,15,Slash,29,normal,70,100
+542,16,Slash,29,normal,70,100
+542,11,Helping Hand,32,normal,-,-
+542,14,Helping Hand,32,normal,-,-
+542,15,Helping Hand,32,normal,-,-
+542,16,Helping Hand,32,normal,-,-
+542,15,Fell Stinger,34,bug,30,100
+542,16,Fell Stinger,34,bug,30,100
+542,11,Leaf Blade,36,grass,90,100
+542,14,Leaf Blade,36,grass,90,100
+542,15,Leaf Blade,36,grass,90,100
+542,16,Leaf Blade,36,grass,90,100
+542,11,X-Scissor,39,bug,80,100
+542,14,X-Scissor,39,bug,80,100
+542,15,X-Scissor,39,bug,80,100
+542,16,X-Scissor,39,bug,80,100
+542,11,Entrainment,43,normal,-,100
+542,14,Entrainment,43,normal,-,100
+542,15,Entrainment,43,normal,-,100
+542,16,Entrainment,43,normal,-,100
+542,11,Swords Dance,46,normal,-,-
+542,14,Swords Dance,46,normal,-,-
+542,15,Swords Dance,46,normal,-,-
+542,16,Swords Dance,46,normal,-,-
+542,11,Leaf Storm,50,grass,130,90
+542,14,Leaf Storm,50,grass,130,90
+542,15,Leaf Storm,50,grass,130,90
+542,16,Leaf Storm,50,grass,130,90

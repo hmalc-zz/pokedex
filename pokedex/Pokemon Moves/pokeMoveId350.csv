@@ -1,0 +1,157 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+350,5,Water Gun,1,water,40,100
+350,6,Water Gun,1,water,40,100
+350,7,Water Gun,1,water,40,100
+350,8,Wrap,1,normal,15,90
+350,8,Water Gun,1,water,40,100
+350,9,Wrap,1,normal,15,90
+350,9,Water Gun,1,water,40,100
+350,10,Wrap,1,normal,15,90
+350,10,Water Gun,1,water,40,100
+350,11,Wrap,1,normal,15,90
+350,11,Water Gun,1,water,40,100
+350,12,Water Gun,1,water,40,100
+350,13,Water Gun,1,water,40,100
+350,14,Wrap,1,normal,15,90
+350,14,Water Gun,1,water,40,100
+350,15,Wrap,1,normal,15,90
+350,15,Water Gun,1,water,40,100
+350,16,Wrap,1,normal,15,90
+350,16,Water Gun,1,water,40,100
+350,16,Water Sport,4,water,-,-
+350,5,Wrap,5,normal,15,90
+350,6,Wrap,5,normal,15,90
+350,7,Wrap,5,normal,15,90
+350,8,Water Sport,5,water,-,-
+350,9,Water Sport,5,water,-,-
+350,10,Water Sport,5,water,-,-
+350,11,Water Sport,5,water,-,-
+350,12,Wrap,5,normal,15,90
+350,13,Wrap,5,normal,15,90
+350,14,Water Sport,5,water,-,-
+350,15,Water Sport,5,water,-,-
+350,16,Refresh,7,normal,-,-
+350,8,Refresh,9,normal,-,-
+350,9,Refresh,9,normal,-,-
+350,10,Refresh,9,normal,-,-
+350,11,Refresh,9,normal,-,-
+350,14,Refresh,9,normal,-,-
+350,15,Refresh,9,normal,-,-
+350,5,Water Sport,10,water,-,-
+350,6,Water Sport,10,water,-,-
+350,7,Water Sport,10,water,-,-
+350,12,Water Sport,10,water,-,-
+350,13,Water Sport,10,water,-,-
+350,16,Disarming Voice,11,fairy,40,-
+350,8,Water Pulse,13,water,60,100
+350,9,Water Pulse,13,water,60,100
+350,10,Water Pulse,13,water,60,100
+350,11,Water Pulse,13,water,60,100
+350,14,Water Pulse,13,water,60,100
+350,15,Water Pulse,13,water,60,100
+350,16,Twister,14,dragon,40,100
+350,5,Refresh,15,normal,-,-
+350,6,Refresh,15,normal,-,-
+350,7,Refresh,15,normal,-,-
+350,12,Refresh,15,normal,-,-
+350,13,Refresh,15,normal,-,-
+350,8,Twister,17,dragon,40,100
+350,9,Twister,17,dragon,40,100
+350,10,Twister,17,dragon,40,100
+350,11,Twister,17,dragon,40,100
+350,14,Twister,17,dragon,40,100
+350,15,Twister,17,dragon,40,100
+350,16,Water Pulse,17,water,60,100
+350,5,Water Pulse,20,water,60,100
+350,6,Water Pulse,20,water,60,100
+350,7,Water Pulse,20,water,60,100
+350,12,Water Pulse,20,water,60,100
+350,13,Water Pulse,20,water,60,100
+350,8,Recover,21,normal,-,-
+350,9,Recover,21,normal,-,-
+350,10,Recover,21,normal,-,-
+350,11,Recover,21,normal,-,-
+350,14,Recover,21,normal,-,-
+350,15,Recover,21,normal,-,-
+350,16,Aqua Ring,21,water,-,-
+350,16,Captivate,24,normal,-,100
+350,5,Twister,25,dragon,40,100
+350,6,Twister,25,dragon,40,100
+350,7,Twister,25,dragon,40,100
+350,8,Captivate,25,normal,-,100
+350,9,Captivate,25,normal,-,100
+350,10,Captivate,25,normal,-,100
+350,11,Captivate,25,normal,-,100
+350,12,Twister,25,dragon,40,100
+350,13,Twister,25,dragon,40,100
+350,14,Captivate,25,normal,-,100
+350,15,Captivate,25,normal,-,100
+350,16,Dragon Tail,27,dragon,60,90
+350,8,Aqua Tail,29,water,90,90
+350,9,Aqua Tail,29,water,90,90
+350,10,Aqua Tail,29,water,90,90
+350,11,Aqua Tail,29,water,90,90
+350,14,Aqua Tail,29,water,90,90
+350,15,Aqua Tail,29,water,90,90
+350,5,Recover,30,normal,-,-
+350,6,Recover,30,normal,-,-
+350,7,Recover,30,normal,-,-
+350,12,Recover,30,normal,-,-
+350,13,Recover,30,normal,-,-
+350,16,Recover,31,normal,-,-
+350,8,Rain Dance,33,water,-,-
+350,9,Rain Dance,33,water,-,-
+350,10,Rain Dance,33,water,-,-
+350,11,Rain Dance,33,water,-,-
+350,14,Rain Dance,33,water,-,-
+350,15,Rain Dance,33,water,-,-
+350,16,Aqua Tail,34,water,90,90
+350,5,Rain Dance,35,water,-,-
+350,6,Rain Dance,35,water,-,-
+350,7,Rain Dance,35,water,-,-
+350,12,Rain Dance,35,water,-,-
+350,13,Rain Dance,35,water,-,-
+350,8,Hydro Pump,37,water,110,80
+350,9,Hydro Pump,37,water,110,80
+350,10,Hydro Pump,37,water,110,80
+350,11,Hydro Pump,37,water,110,80
+350,14,Hydro Pump,37,water,110,80
+350,15,Hydro Pump,37,water,110,80
+350,16,Attract,37,normal,-,100
+350,5,Hydro Pump,40,water,110,80
+350,6,Hydro Pump,40,water,110,80
+350,7,Hydro Pump,40,water,110,80
+350,12,Hydro Pump,40,water,110,80
+350,13,Hydro Pump,40,water,110,80
+350,8,Attract,41,normal,-,100
+350,9,Attract,41,normal,-,100
+350,10,Attract,41,normal,-,100
+350,11,Attract,41,normal,-,100
+350,14,Attract,41,normal,-,100
+350,15,Attract,41,normal,-,100
+350,16,Safeguard,41,normal,-,-
+350,16,Coil,44,poison,-,-
+350,5,Attract,45,normal,-,100
+350,6,Attract,45,normal,-,100
+350,7,Attract,45,normal,-,100
+350,8,Safeguard,45,normal,-,-
+350,9,Safeguard,45,normal,-,-
+350,10,Safeguard,45,normal,-,-
+350,11,Safeguard,45,normal,-,-
+350,12,Attract,45,normal,-,100
+350,13,Attract,45,normal,-,100
+350,14,Safeguard,45,normal,-,-
+350,15,Safeguard,45,normal,-,-
+350,16,Hydro Pump,47,water,110,80
+350,8,Aqua Ring,49,water,-,-
+350,9,Aqua Ring,49,water,-,-
+350,10,Aqua Ring,49,water,-,-
+350,11,Aqua Ring,49,water,-,-
+350,14,Aqua Ring,49,water,-,-
+350,15,Aqua Ring,49,water,-,-
+350,5,Safeguard,50,normal,-,-
+350,6,Safeguard,50,normal,-,-
+350,7,Safeguard,50,normal,-,-
+350,12,Safeguard,50,normal,-,-
+350,13,Safeguard,50,normal,-,-
+350,16,Rain Dance,51,water,-,-

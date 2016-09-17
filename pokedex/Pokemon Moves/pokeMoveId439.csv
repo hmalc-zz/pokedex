@@ -1,0 +1,127 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+439,8,Confusion,1,psychic,50,100
+439,8,Barrier,1,psychic,-,-
+439,8,Tickle,1,normal,-,100
+439,9,Confusion,1,psychic,50,100
+439,9,Barrier,1,psychic,-,-
+439,9,Tickle,1,normal,-,100
+439,10,Confusion,1,psychic,50,100
+439,10,Barrier,1,psychic,-,-
+439,10,Tickle,1,normal,-,100
+439,11,Confusion,1,psychic,50,100
+439,11,Barrier,1,psychic,-,-
+439,11,Tickle,1,normal,-,100
+439,14,Confusion,1,psychic,50,100
+439,14,Barrier,1,psychic,-,-
+439,14,Tickle,1,normal,-,100
+439,15,Confusion,1,psychic,50,100
+439,15,Barrier,1,psychic,-,-
+439,15,Tickle,1,normal,-,100
+439,16,Confusion,1,psychic,50,100
+439,16,Barrier,1,psychic,-,-
+439,16,Tickle,1,normal,-,100
+439,8,Copycat,4,normal,-,-
+439,9,Copycat,4,normal,-,-
+439,10,Copycat,4,normal,-,-
+439,11,Copycat,4,normal,-,-
+439,14,Copycat,4,normal,-,-
+439,15,Copycat,4,normal,-,-
+439,16,Copycat,4,normal,-,-
+439,8,Meditate,8,psychic,-,-
+439,9,Meditate,8,psychic,-,-
+439,10,Meditate,8,psychic,-,-
+439,11,Meditate,8,psychic,-,-
+439,14,Meditate,8,psychic,-,-
+439,15,Meditate,8,psychic,-,-
+439,16,Meditate,8,psychic,-,-
+439,8,Encore,11,normal,-,100
+439,9,Encore,11,normal,-,100
+439,10,Encore,11,normal,-,100
+439,11,Encore,11,normal,-,100
+439,14,Double Slap,11,normal,15,85
+439,15,Double Slap,11,normal,15,85
+439,16,Double Slap,11,normal,15,85
+439,8,Double Slap,15,normal,15,85
+439,9,Double Slap,15,normal,15,85
+439,10,Double Slap,15,normal,15,85
+439,11,Double Slap,15,normal,15,85
+439,14,Mimic,15,normal,-,-
+439,15,Mimic,15,normal,-,-
+439,16,Mimic,15,normal,-,-
+439,8,Mimic,18,normal,-,-
+439,9,Mimic,18,normal,-,-
+439,10,Mimic,18,normal,-,-
+439,11,Mimic,18,normal,-,-
+439,14,Encore,18,normal,-,100
+439,15,Encore,18,normal,-,100
+439,16,Encore,18,normal,-,100
+439,8,Light Screen,22,psychic,-,-
+439,8,Reflect,22,psychic,-,-
+439,9,Light Screen,22,psychic,-,-
+439,9,Reflect,22,psychic,-,-
+439,10,Light Screen,22,psychic,-,-
+439,10,Reflect,22,psychic,-,-
+439,11,Light Screen,22,psychic,-,-
+439,11,Reflect,22,psychic,-,-
+439,14,Light Screen,22,psychic,-,-
+439,14,Reflect,22,psychic,-,-
+439,15,Light Screen,22,psychic,-,-
+439,15,Reflect,22,psychic,-,-
+439,16,Light Screen,22,psychic,-,-
+439,16,Reflect,22,psychic,-,-
+439,8,Psybeam,25,psychic,65,100
+439,9,Psybeam,25,psychic,65,100
+439,10,Psybeam,25,psychic,65,100
+439,11,Psybeam,25,psychic,65,100
+439,14,Psybeam,25,psychic,65,100
+439,15,Psybeam,25,psychic,65,100
+439,16,Psybeam,25,psychic,65,100
+439,8,Substitute,29,normal,-,-
+439,9,Substitute,29,normal,-,-
+439,10,Substitute,29,normal,-,-
+439,11,Substitute,29,normal,-,-
+439,14,Substitute,29,normal,-,-
+439,15,Substitute,29,normal,-,-
+439,16,Substitute,29,normal,-,-
+439,8,Recycle,32,normal,-,-
+439,9,Recycle,32,normal,-,-
+439,10,Recycle,32,normal,-,-
+439,11,Recycle,32,normal,-,-
+439,14,Recycle,32,normal,-,-
+439,15,Recycle,32,normal,-,-
+439,16,Recycle,32,normal,-,-
+439,8,Trick,36,psychic,-,100
+439,9,Trick,36,psychic,-,100
+439,10,Trick,36,psychic,-,100
+439,11,Trick,36,psychic,-,100
+439,14,Trick,36,psychic,-,100
+439,15,Trick,36,psychic,-,100
+439,16,Trick,36,psychic,-,100
+439,8,Psychic,39,psychic,90,100
+439,9,Psychic,39,psychic,90,100
+439,10,Psychic,39,psychic,90,100
+439,11,Psychic,39,psychic,90,100
+439,14,Psychic,39,psychic,90,100
+439,15,Psychic,39,psychic,90,100
+439,16,Psychic,39,psychic,90,100
+439,8,Role Play,43,psychic,-,-
+439,9,Role Play,43,psychic,-,-
+439,10,Role Play,43,psychic,-,-
+439,11,Role Play,43,psychic,-,-
+439,14,Role Play,43,psychic,-,-
+439,15,Role Play,43,psychic,-,-
+439,16,Role Play,43,psychic,-,-
+439,8,Baton Pass,46,normal,-,-
+439,9,Baton Pass,46,normal,-,-
+439,10,Baton Pass,46,normal,-,-
+439,11,Baton Pass,46,normal,-,-
+439,14,Baton Pass,46,normal,-,-
+439,15,Baton Pass,46,normal,-,-
+439,16,Baton Pass,46,normal,-,-
+439,8,Safeguard,50,normal,-,-
+439,9,Safeguard,50,normal,-,-
+439,10,Safeguard,50,normal,-,-
+439,11,Safeguard,50,normal,-,-
+439,14,Safeguard,50,normal,-,-
+439,15,Safeguard,50,normal,-,-
+439,16,Safeguard,50,normal,-,-

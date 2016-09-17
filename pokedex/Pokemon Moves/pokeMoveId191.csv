@@ -1,0 +1,153 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+191,3,Absorb,1,grass,20,100
+191,4,Absorb,1,grass,20,100
+191,5,Absorb,1,grass,20,100
+191,6,Absorb,1,grass,20,100
+191,7,Absorb,1,grass,20,100
+191,8,Absorb,1,grass,20,100
+191,8,Growth,1,normal,-,-
+191,9,Absorb,1,grass,20,100
+191,9,Growth,1,normal,-,-
+191,10,Absorb,1,grass,20,100
+191,10,Growth,1,normal,-,-
+191,11,Absorb,1,grass,20,100
+191,11,Growth,1,normal,-,-
+191,12,Absorb,1,grass,20,100
+191,13,Absorb,1,grass,20,100
+191,14,Absorb,1,grass,20,100
+191,14,Growth,1,normal,-,-
+191,15,Absorb,1,grass,20,100
+191,15,Growth,1,normal,-,-
+191,16,Absorb,1,grass,20,100
+191,16,Growth,1,normal,-,-
+191,3,Growth,4,normal,-,-
+191,4,Growth,4,normal,-,-
+191,14,Ingrain,4,grass,-,-
+191,15,Ingrain,4,grass,-,-
+191,16,Ingrain,4,grass,-,-
+191,8,Mega Drain,5,grass,40,100
+191,9,Mega Drain,5,grass,40,100
+191,10,Mega Drain,5,grass,40,100
+191,11,Mega Drain,5,grass,40,100
+191,5,Growth,6,normal,-,-
+191,6,Growth,6,normal,-,-
+191,7,Growth,6,normal,-,-
+191,12,Growth,6,normal,-,-
+191,13,Growth,6,normal,-,-
+191,14,Grass Whistle,7,grass,-,55
+191,15,Grass Whistle,7,grass,-,55
+191,16,Grass Whistle,7,grass,-,55
+191,8,Ingrain,9,grass,-,-
+191,9,Ingrain,9,grass,-,-
+191,10,Ingrain,9,grass,-,-
+191,11,Ingrain,9,grass,-,-
+191,3,Mega Drain,10,grass,40,100
+191,4,Mega Drain,10,grass,40,100
+191,14,Mega Drain,10,grass,40,100
+191,15,Mega Drain,10,grass,40,100
+191,16,Mega Drain,10,grass,40,100
+191,5,Mega Drain,13,grass,40,100
+191,6,Mega Drain,13,grass,40,100
+191,7,Mega Drain,13,grass,40,100
+191,8,Grass Whistle,13,grass,-,55
+191,9,Grass Whistle,13,grass,-,55
+191,10,Grass Whistle,13,grass,-,55
+191,11,Grass Whistle,13,grass,-,55
+191,12,Mega Drain,13,grass,40,100
+191,13,Mega Drain,13,grass,40,100
+191,14,Leech Seed,13,grass,-,90
+191,15,Leech Seed,13,grass,-,90
+191,16,Leech Seed,13,grass,-,90
+191,14,Razor Leaf,16,grass,55,95
+191,15,Razor Leaf,16,grass,55,95
+191,16,Razor Leaf,16,grass,55,95
+191,8,Leech Seed,17,grass,-,90
+191,9,Leech Seed,17,grass,-,90
+191,10,Leech Seed,17,grass,-,90
+191,11,Leech Seed,17,grass,-,90
+191,5,Ingrain,18,grass,-,-
+191,6,Ingrain,18,grass,-,-
+191,7,Ingrain,18,grass,-,-
+191,12,Ingrain,18,grass,-,-
+191,13,Ingrain,18,grass,-,-
+191,3,Sunny Day,19,fire,-,-
+191,4,Sunny Day,19,fire,-,-
+191,14,Worry Seed,19,grass,-,100
+191,15,Worry Seed,19,grass,-,100
+191,16,Worry Seed,19,grass,-,100
+191,8,Endeavor,21,normal,-,100
+191,9,Endeavor,21,normal,-,100
+191,10,Endeavor,21,normal,-,100
+191,11,Endeavor,21,normal,-,100
+191,14,Giga Drain,22,grass,75,100
+191,15,Giga Drain,22,grass,75,100
+191,16,Giga Drain,22,grass,75,100
+191,5,Endeavor,25,normal,-,100
+191,6,Endeavor,25,normal,-,100
+191,7,Endeavor,25,normal,-,100
+191,8,Worry Seed,25,grass,-,100
+191,9,Worry Seed,25,grass,-,100
+191,10,Worry Seed,25,grass,-,100
+191,11,Worry Seed,25,grass,-,100
+191,12,Endeavor,25,normal,-,100
+191,13,Endeavor,25,normal,-,100
+191,14,Endeavor,25,normal,-,100
+191,15,Endeavor,25,normal,-,100
+191,16,Endeavor,25,normal,-,100
+191,14,Synthesis,28,grass,-,-
+191,15,Synthesis,28,grass,-,-
+191,16,Synthesis,28,grass,-,-
+191,8,Razor Leaf,29,grass,55,95
+191,9,Razor Leaf,29,grass,55,95
+191,10,Razor Leaf,29,grass,55,95
+191,11,Razor Leaf,29,grass,55,95
+191,5,Sunny Day,30,fire,-,-
+191,6,Sunny Day,30,fire,-,-
+191,7,Sunny Day,30,fire,-,-
+191,12,Sunny Day,30,fire,-,-
+191,13,Sunny Day,30,fire,-,-
+191,3,Synthesis,31,grass,-,-
+191,4,Synthesis,31,grass,-,-
+191,14,Natural Gift,31,normal,-,100
+191,15,Natural Gift,31,normal,-,100
+191,16,Natural Gift,31,normal,-,100
+191,8,Synthesis,33,grass,-,-
+191,9,Synthesis,33,grass,-,-
+191,10,Synthesis,33,grass,-,-
+191,11,Synthesis,33,grass,-,-
+191,14,Solar Beam,34,grass,120,100
+191,15,Solar Beam,34,grass,120,100
+191,16,Solar Beam,34,grass,120,100
+191,5,Synthesis,37,grass,-,-
+191,6,Synthesis,37,grass,-,-
+191,7,Synthesis,37,grass,-,-
+191,8,Sunny Day,37,fire,-,-
+191,9,Sunny Day,37,fire,-,-
+191,10,Sunny Day,37,fire,-,-
+191,11,Sunny Day,37,fire,-,-
+191,12,Synthesis,37,grass,-,-
+191,13,Synthesis,37,grass,-,-
+191,14,Double-Edge,37,normal,120,100
+191,15,Double-Edge,37,normal,120,100
+191,16,Double-Edge,37,normal,120,100
+191,14,Sunny Day,40,fire,-,-
+191,15,Sunny Day,40,fire,-,-
+191,16,Sunny Day,40,fire,-,-
+191,8,Giga Drain,41,grass,75,100
+191,9,Giga Drain,41,grass,75,100
+191,10,Giga Drain,41,grass,75,100
+191,11,Giga Drain,41,grass,75,100
+191,5,Giga Drain,42,grass,75,100
+191,6,Giga Drain,42,grass,75,100
+191,7,Giga Drain,42,grass,75,100
+191,12,Giga Drain,42,grass,75,100
+191,13,Giga Drain,42,grass,75,100
+191,14,Seed Bomb,43,grass,80,100
+191,15,Seed Bomb,43,grass,80,100
+191,16,Seed Bomb,43,grass,80,100
+191,8,Seed Bomb,45,grass,80,100
+191,9,Seed Bomb,45,grass,80,100
+191,10,Seed Bomb,45,grass,80,100
+191,11,Seed Bomb,45,grass,80,100
+191,3,Giga Drain,46,grass,75,100
+191,4,Giga Drain,46,grass,75,100

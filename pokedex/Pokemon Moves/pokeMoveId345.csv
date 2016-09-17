@@ -1,0 +1,144 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+345,5,Astonish,1,ghost,30,100
+345,6,Astonish,1,ghost,30,100
+345,7,Astonish,1,ghost,30,100
+345,8,Constrict,1,normal,10,100
+345,8,Astonish,1,ghost,30,100
+345,9,Constrict,1,normal,10,100
+345,9,Astonish,1,ghost,30,100
+345,10,Constrict,1,normal,10,100
+345,10,Astonish,1,ghost,30,100
+345,11,Constrict,1,normal,10,100
+345,11,Astonish,1,ghost,30,100
+345,12,Astonish,1,ghost,30,100
+345,13,Astonish,1,ghost,30,100
+345,14,Constrict,1,normal,10,100
+345,14,Astonish,1,ghost,30,100
+345,15,Constrict,1,normal,10,100
+345,15,Astonish,1,ghost,30,100
+345,16,Constrict,1,normal,10,100
+345,16,Astonish,1,ghost,30,100
+345,16,Acid,5,poison,40,100
+345,5,Constrict,8,normal,10,100
+345,6,Constrict,8,normal,10,100
+345,7,Constrict,8,normal,10,100
+345,8,Acid,8,poison,40,100
+345,9,Acid,8,poison,40,100
+345,10,Acid,8,poison,40,100
+345,11,Acid,8,poison,40,100
+345,12,Constrict,8,normal,10,100
+345,13,Constrict,8,normal,10,100
+345,14,Acid,8,poison,40,100
+345,15,Acid,8,poison,40,100
+345,16,Ingrain,9,grass,-,-
+345,16,Confuse Ray,13,ghost,-,100
+345,5,Acid,15,poison,40,100
+345,6,Acid,15,poison,40,100
+345,7,Acid,15,poison,40,100
+345,8,Ingrain,15,grass,-,-
+345,9,Ingrain,15,grass,-,-
+345,10,Ingrain,15,grass,-,-
+345,11,Ingrain,15,grass,-,-
+345,12,Acid,15,poison,40,100
+345,13,Acid,15,poison,40,100
+345,14,Ingrain,15,grass,-,-
+345,15,Ingrain,15,grass,-,-
+345,16,Ancient Power,17,rock,60,100
+345,16,Brine,21,water,65,100
+345,5,Ingrain,22,grass,-,-
+345,6,Ingrain,22,grass,-,-
+345,7,Ingrain,22,grass,-,-
+345,8,Confuse Ray,22,ghost,-,100
+345,9,Confuse Ray,22,ghost,-,100
+345,10,Confuse Ray,22,ghost,-,100
+345,11,Confuse Ray,22,ghost,-,100
+345,12,Ingrain,22,grass,-,-
+345,13,Ingrain,22,grass,-,-
+345,14,Confuse Ray,22,ghost,-,100
+345,15,Confuse Ray,22,ghost,-,100
+345,16,Giga Drain,26,grass,75,100
+345,5,Confuse Ray,29,ghost,-,100
+345,6,Confuse Ray,29,ghost,-,100
+345,7,Confuse Ray,29,ghost,-,100
+345,8,Amnesia,29,psychic,-,-
+345,9,Amnesia,29,psychic,-,-
+345,10,Amnesia,29,psychic,-,-
+345,11,Amnesia,29,psychic,-,-
+345,12,Confuse Ray,29,ghost,-,100
+345,13,Confuse Ray,29,ghost,-,100
+345,14,Amnesia,29,psychic,-,-
+345,15,Amnesia,29,psychic,-,-
+345,16,Gastro Acid,31,poison,-,100
+345,5,Amnesia,36,psychic,-,-
+345,6,Amnesia,36,psychic,-,-
+345,7,Amnesia,36,psychic,-,-
+345,8,Gastro Acid,36,poison,-,100
+345,9,Gastro Acid,36,poison,-,100
+345,10,Gastro Acid,36,poison,-,100
+345,11,Gastro Acid,36,poison,-,100
+345,12,Amnesia,36,psychic,-,-
+345,13,Amnesia,36,psychic,-,-
+345,14,Gastro Acid,36,poison,-,100
+345,15,Gastro Acid,36,poison,-,100
+345,16,Amnesia,36,psychic,-,-
+345,16,Energy Ball,41,grass,90,100
+345,5,Ancient Power,43,rock,60,100
+345,6,Ancient Power,43,rock,60,100
+345,7,Ancient Power,43,rock,60,100
+345,8,Ancient Power,43,rock,60,100
+345,9,Ancient Power,43,rock,60,100
+345,10,Ancient Power,43,rock,60,100
+345,11,Ancient Power,43,rock,60,100
+345,12,Ancient Power,43,rock,60,100
+345,13,Ancient Power,43,rock,60,100
+345,14,Ancient Power,43,rock,60,100
+345,15,Ancient Power,43,rock,60,100
+345,16,Stockpile,46,normal,-,-
+345,16,Spit Up,46,normal,-,100
+345,16,Swallow,46,normal,-,-
+345,5,Stockpile,50,normal,-,-
+345,5,Spit Up,50,normal,-,100
+345,5,Swallow,50,normal,-,-
+345,6,Stockpile,50,normal,-,-
+345,6,Spit Up,50,normal,-,100
+345,6,Swallow,50,normal,-,-
+345,7,Stockpile,50,normal,-,-
+345,7,Spit Up,50,normal,-,100
+345,7,Swallow,50,normal,-,-
+345,8,Energy Ball,50,grass,90,100
+345,9,Energy Ball,50,grass,90,100
+345,10,Energy Ball,50,grass,90,100
+345,11,Energy Ball,50,grass,90,100
+345,12,Stockpile,50,normal,-,-
+345,12,Spit Up,50,normal,-,100
+345,12,Swallow,50,normal,-,-
+345,13,Stockpile,50,normal,-,-
+345,13,Spit Up,50,normal,-,100
+345,13,Swallow,50,normal,-,-
+345,14,Energy Ball,50,grass,90,100
+345,15,Energy Ball,50,grass,90,100
+345,16,Wring Out,52,normal,-,100
+345,8,Stockpile,57,normal,-,-
+345,8,Spit Up,57,normal,-,100
+345,8,Swallow,57,normal,-,-
+345,9,Stockpile,57,normal,-,-
+345,9,Spit Up,57,normal,-,100
+345,9,Swallow,57,normal,-,-
+345,10,Stockpile,57,normal,-,-
+345,10,Spit Up,57,normal,-,100
+345,10,Swallow,57,normal,-,-
+345,11,Stockpile,57,normal,-,-
+345,11,Spit Up,57,normal,-,100
+345,11,Swallow,57,normal,-,-
+345,14,Stockpile,57,normal,-,-
+345,14,Spit Up,57,normal,-,100
+345,14,Swallow,57,normal,-,-
+345,15,Stockpile,57,normal,-,-
+345,15,Spit Up,57,normal,-,100
+345,15,Swallow,57,normal,-,-
+345,8,Wring Out,64,normal,-,100
+345,9,Wring Out,64,normal,-,100
+345,10,Wring Out,64,normal,-,100
+345,11,Wring Out,64,normal,-,100
+345,14,Wring Out,64,normal,-,100
+345,15,Wring Out,64,normal,-,100

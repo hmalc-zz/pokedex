@@ -1,0 +1,79 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+121,1,Tackle,1,normal,50,100
+121,1,Water Gun,1,water,40,100
+121,1,Harden,1,normal,-,-
+121,2,Tackle,1,normal,50,100
+121,2,Water Gun,1,water,40,100
+121,2,Harden,1,normal,-,-
+121,3,Tackle,1,normal,50,100
+121,3,Bubble Beam,1,water,65,100
+121,3,Recover,1,normal,-,-
+121,3,Rapid Spin,1,normal,20,100
+121,4,Tackle,1,normal,50,100
+121,4,Bubble Beam,1,water,65,100
+121,4,Recover,1,normal,-,-
+121,4,Rapid Spin,1,normal,20,100
+121,5,Water Gun,1,water,40,100
+121,5,Recover,1,normal,-,-
+121,5,Swift,1,normal,60,-
+121,5,Rapid Spin,1,normal,20,100
+121,6,Water Gun,1,water,40,100
+121,6,Recover,1,normal,-,-
+121,6,Swift,1,normal,60,-
+121,6,Rapid Spin,1,normal,20,100
+121,7,Water Gun,1,water,40,100
+121,7,Recover,1,normal,-,-
+121,7,Swift,1,normal,60,-
+121,7,Rapid Spin,1,normal,20,100
+121,8,Water Gun,1,water,40,100
+121,8,Recover,1,normal,-,-
+121,8,Swift,1,normal,60,-
+121,8,Rapid Spin,1,normal,20,100
+121,9,Water Gun,1,water,40,100
+121,9,Recover,1,normal,-,-
+121,9,Swift,1,normal,60,-
+121,9,Rapid Spin,1,normal,20,100
+121,10,Water Gun,1,water,40,100
+121,10,Recover,1,normal,-,-
+121,10,Swift,1,normal,60,-
+121,10,Rapid Spin,1,normal,20,100
+121,11,Water Gun,1,water,40,100
+121,11,Recover,1,normal,-,-
+121,11,Swift,1,normal,60,-
+121,11,Rapid Spin,1,normal,20,100
+121,12,Water Gun,1,water,40,100
+121,12,Recover,1,normal,-,-
+121,12,Swift,1,normal,60,-
+121,12,Rapid Spin,1,normal,20,100
+121,13,Water Gun,1,water,40,100
+121,13,Recover,1,normal,-,-
+121,13,Swift,1,normal,60,-
+121,13,Rapid Spin,1,normal,20,100
+121,14,Water Gun,1,water,40,100
+121,14,Recover,1,normal,-,-
+121,14,Swift,1,normal,60,-
+121,14,Rapid Spin,1,normal,20,100
+121,15,Water Gun,1,water,40,100
+121,15,Hydro Pump,1,water,110,80
+121,15,Recover,1,normal,-,-
+121,15,Swift,1,normal,60,-
+121,15,Rapid Spin,1,normal,20,100
+121,16,Water Gun,1,water,40,100
+121,16,Hydro Pump,1,water,110,80
+121,16,Recover,1,normal,-,-
+121,16,Swift,1,normal,60,-
+121,16,Rapid Spin,1,normal,20,100
+121,14,Confuse Ray,22,ghost,-,100
+121,15,Confuse Ray,22,ghost,-,100
+121,8,Confuse Ray,28,ghost,-,100
+121,9,Confuse Ray,28,ghost,-,100
+121,10,Confuse Ray,28,ghost,-,100
+121,11,Confuse Ray,28,ghost,-,100
+121,5,Confuse Ray,33,ghost,-,100
+121,6,Confuse Ray,33,ghost,-,100
+121,7,Confuse Ray,33,ghost,-,100
+121,12,Confuse Ray,33,ghost,-,100
+121,13,Confuse Ray,33,ghost,-,100
+121,3,Confuse Ray,37,ghost,-,100
+121,4,Confuse Ray,37,ghost,-,100
+121,16,Confuse Ray,40,ghost,-,100

@@ -1,0 +1,98 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+458,8,Tackle,1,normal,50,100
+458,8,Bubble,1,water,40,100
+458,9,Tackle,1,normal,50,100
+458,9,Bubble,1,water,40,100
+458,10,Tackle,1,normal,50,100
+458,10,Bubble,1,water,40,100
+458,11,Tackle,1,normal,50,100
+458,11,Bubble,1,water,40,100
+458,14,Tackle,1,normal,50,100
+458,14,Bubble,1,water,40,100
+458,15,Tackle,1,normal,50,100
+458,15,Bubble,1,water,40,100
+458,16,Tackle,1,normal,50,100
+458,16,Bubble,1,water,40,100
+458,14,Supersonic,3,normal,-,55
+458,15,Supersonic,3,normal,-,55
+458,16,Supersonic,3,normal,-,55
+458,8,Supersonic,4,normal,-,55
+458,9,Supersonic,4,normal,-,55
+458,10,Supersonic,4,normal,-,55
+458,11,Supersonic,4,normal,-,55
+458,14,Bubble Beam,7,water,65,100
+458,15,Bubble Beam,7,water,65,100
+458,16,Bubble Beam,7,water,65,100
+458,8,Bubble Beam,10,water,65,100
+458,9,Bubble Beam,10,water,65,100
+458,10,Bubble Beam,10,water,65,100
+458,11,Bubble Beam,10,water,65,100
+458,14,Confuse Ray,11,ghost,-,100
+458,15,Confuse Ray,11,ghost,-,100
+458,16,Confuse Ray,11,ghost,-,100
+458,8,Headbutt,13,normal,70,100
+458,9,Headbutt,13,normal,70,100
+458,10,Headbutt,13,normal,70,100
+458,11,Headbutt,13,normal,70,100
+458,14,Wing Attack,14,flying,60,100
+458,15,Wing Attack,14,flying,60,100
+458,16,Wing Attack,14,flying,60,100
+458,14,Headbutt,16,normal,70,100
+458,15,Headbutt,16,normal,70,100
+458,16,Headbutt,16,normal,70,100
+458,8,Agility,19,psychic,-,-
+458,9,Agility,19,psychic,-,-
+458,10,Agility,19,psychic,-,-
+458,11,Agility,19,psychic,-,-
+458,14,Water Pulse,19,water,60,100
+458,15,Water Pulse,19,water,60,100
+458,16,Water Pulse,19,water,60,100
+458,8,Wing Attack,22,flying,60,100
+458,9,Wing Attack,22,flying,60,100
+458,10,Wing Attack,22,flying,60,100
+458,11,Wing Attack,22,flying,60,100
+458,14,Wide Guard,23,rock,-,-
+458,15,Wide Guard,23,rock,-,-
+458,16,Wide Guard,23,rock,-,-
+458,14,Take Down,27,normal,90,85
+458,15,Take Down,27,normal,90,85
+458,16,Take Down,27,normal,90,85
+458,8,Water Pulse,28,water,60,100
+458,9,Water Pulse,28,water,60,100
+458,10,Water Pulse,28,water,60,100
+458,11,Water Pulse,28,water,60,100
+458,8,Take Down,31,normal,90,85
+458,9,Take Down,31,normal,90,85
+458,10,Take Down,31,normal,90,85
+458,11,Take Down,31,normal,90,85
+458,14,Agility,32,psychic,-,-
+458,15,Agility,32,psychic,-,-
+458,16,Agility,32,psychic,-,-
+458,14,Air Slash,36,flying,75,95
+458,15,Air Slash,36,flying,75,95
+458,16,Air Slash,36,flying,75,95
+458,8,Confuse Ray,37,ghost,-,100
+458,9,Confuse Ray,37,ghost,-,100
+458,10,Confuse Ray,37,ghost,-,100
+458,11,Confuse Ray,37,ghost,-,100
+458,14,Aqua Ring,39,water,-,-
+458,15,Aqua Ring,39,water,-,-
+458,16,Aqua Ring,39,water,-,-
+458,8,Bounce,40,flying,85,85
+458,9,Bounce,40,flying,85,85
+458,10,Bounce,40,flying,85,85
+458,11,Bounce,40,flying,85,85
+458,8,Aqua Ring,46,water,-,-
+458,9,Aqua Ring,46,water,-,-
+458,10,Aqua Ring,46,water,-,-
+458,11,Aqua Ring,46,water,-,-
+458,14,Bounce,46,flying,85,85
+458,15,Bounce,46,flying,85,85
+458,16,Bounce,46,flying,85,85
+458,8,Hydro Pump,49,water,110,80
+458,9,Hydro Pump,49,water,110,80
+458,10,Hydro Pump,49,water,110,80
+458,11,Hydro Pump,49,water,110,80
+458,14,Hydro Pump,49,water,110,80
+458,15,Hydro Pump,49,water,110,80
+458,16,Hydro Pump,49,water,110,80

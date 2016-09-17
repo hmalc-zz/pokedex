@@ -1,0 +1,173 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+206,3,Rage,1,normal,20,100
+206,4,Rage,1,normal,20,100
+206,5,Rage,1,normal,20,100
+206,6,Rage,1,normal,20,100
+206,7,Rage,1,normal,20,100
+206,8,Rage,1,normal,20,100
+206,9,Rage,1,normal,20,100
+206,10,Rage,1,normal,20,100
+206,11,Rage,1,normal,20,100
+206,12,Rage,1,normal,20,100
+206,13,Rage,1,normal,20,100
+206,14,Rage,1,normal,20,100
+206,14,Defense Curl,1,normal,-,-
+206,15,Rage,1,normal,20,100
+206,15,Defense Curl,1,normal,-,-
+206,16,Rage,1,normal,20,100
+206,16,Defense Curl,1,normal,-,-
+206,5,Defense Curl,4,normal,-,-
+206,6,Defense Curl,4,normal,-,-
+206,7,Defense Curl,4,normal,-,-
+206,11,Defense Curl,4,normal,-,-
+206,12,Defense Curl,4,normal,-,-
+206,13,Defense Curl,4,normal,-,-
+206,14,Rollout,4,rock,30,90
+206,15,Rollout,4,rock,30,90
+206,16,Rollout,4,rock,30,90
+206,3,Defense Curl,5,normal,-,-
+206,4,Defense Curl,5,normal,-,-
+206,8,Defense Curl,5,normal,-,-
+206,9,Defense Curl,5,normal,-,-
+206,10,Defense Curl,5,normal,-,-
+206,14,Spite,7,ghost,-,100
+206,15,Spite,7,ghost,-,100
+206,16,Spite,7,ghost,-,100
+206,11,Yawn,8,normal,-,-
+206,8,Yawn,9,normal,-,-
+206,9,Yawn,9,normal,-,-
+206,10,Yawn,9,normal,-,-
+206,14,Pursuit,10,dark,40,100
+206,15,Pursuit,10,dark,40,100
+206,16,Pursuit,10,dark,40,100
+206,5,Yawn,11,normal,-,-
+206,6,Yawn,11,normal,-,-
+206,7,Yawn,11,normal,-,-
+206,12,Yawn,11,normal,-,-
+206,13,Yawn,11,normal,-,-
+206,11,Glare,12,normal,-,100
+206,3,Glare,13,normal,-,100
+206,4,Glare,13,normal,-,100
+206,8,Glare,13,normal,-,100
+206,9,Glare,13,normal,-,100
+206,10,Glare,13,normal,-,100
+206,14,Screech,13,normal,-,85
+206,15,Screech,13,normal,-,85
+206,16,Screech,13,normal,-,85
+206,5,Glare,14,normal,-,100
+206,6,Glare,14,normal,-,100
+206,7,Glare,14,normal,-,100
+206,12,Glare,14,normal,-,100
+206,13,Glare,14,normal,-,100
+206,11,Rollout,16,rock,30,90
+206,14,Yawn,16,normal,-,-
+206,15,Yawn,16,normal,-,-
+206,16,Yawn,16,normal,-,-
+206,8,Rollout,17,rock,30,90
+206,9,Rollout,17,rock,30,90
+206,10,Rollout,17,rock,30,90
+206,3,Spite,18,ghost,-,100
+206,4,Spite,18,ghost,-,100
+206,14,Ancient Power,19,rock,60,100
+206,15,Ancient Power,19,rock,60,100
+206,16,Ancient Power,19,rock,60,100
+206,11,Spite,20,ghost,-,100
+206,5,Spite,21,ghost,-,100
+206,6,Spite,21,ghost,-,100
+206,7,Rollout,21,rock,30,90
+206,8,Spite,21,ghost,-,100
+206,9,Spite,21,ghost,-,100
+206,10,Spite,21,ghost,-,100
+206,12,Spite,21,ghost,-,100
+206,13,Spite,21,ghost,-,100
+206,14,Take Down,22,normal,90,85
+206,15,Take Down,22,normal,90,85
+206,16,Take Down,22,normal,90,85
+206,5,Pursuit,24,dark,40,100
+206,6,Pursuit,24,dark,40,100
+206,7,Spite,24,ghost,-,100
+206,11,Pursuit,24,dark,40,100
+206,12,Pursuit,24,dark,40,100
+206,13,Pursuit,24,dark,40,100
+206,8,Pursuit,25,dark,40,100
+206,9,Pursuit,25,dark,40,100
+206,10,Pursuit,25,dark,40,100
+206,14,Roost,25,flying,-,-
+206,15,Roost,25,flying,-,-
+206,16,Roost,25,flying,-,-
+206,3,Pursuit,26,dark,40,100
+206,4,Pursuit,26,dark,40,100
+206,11,Screech,28,normal,-,85
+206,14,Glare,28,normal,-,100
+206,15,Glare,28,normal,-,100
+206,16,Glare,28,normal,-,100
+206,8,Screech,29,normal,-,85
+206,9,Screech,29,normal,-,85
+206,10,Screech,29,normal,-,85
+206,3,Screech,30,normal,-,85
+206,4,Screech,30,normal,-,85
+206,5,Screech,31,normal,-,85
+206,6,Screech,31,normal,-,85
+206,7,Pursuit,31,dark,40,100
+206,12,Screech,31,normal,-,85
+206,13,Screech,31,normal,-,85
+206,14,Dig,31,ground,80,100
+206,15,Dig,31,ground,80,100
+206,16,Dig,31,ground,80,100
+206,8,Roost,33,flying,-,-
+206,9,Roost,33,flying,-,-
+206,10,Roost,33,flying,-,-
+206,11,Roost,33,flying,-,-
+206,5,Take Down,34,normal,90,85
+206,6,Take Down,34,normal,90,85
+206,7,Screech,34,normal,-,85
+206,12,Take Down,34,normal,90,85
+206,13,Take Down,34,normal,90,85
+206,14,Double-Edge,34,normal,120,100
+206,15,Double-Edge,34,normal,120,100
+206,16,Double-Edge,34,normal,120,100
+206,8,Take Down,37,normal,90,85
+206,9,Take Down,37,normal,90,85
+206,10,Take Down,37,normal,90,85
+206,14,Coil,37,poison,-,-
+206,15,Coil,37,poison,-,-
+206,16,Coil,37,poison,-,-
+206,3,Take Down,38,normal,90,85
+206,4,Take Down,38,normal,90,85
+206,11,Take Down,38,normal,90,85
+206,14,Endure,40,normal,-,-
+206,15,Endure,40,normal,-,-
+206,16,Endure,40,normal,-,-
+206,5,Endeavor,41,normal,-,100
+206,6,Endeavor,41,normal,-,100
+206,7,Take Down,41,normal,90,85
+206,8,Ancient Power,41,rock,60,100
+206,9,Ancient Power,41,rock,60,100
+206,10,Ancient Power,41,rock,60,100
+206,12,Endeavor,41,normal,-,100
+206,13,Endeavor,41,normal,-,100
+206,11,Coil,43,poison,-,-
+206,14,Drill Run,43,ground,80,95
+206,15,Drill Run,43,ground,80,95
+206,16,Drill Run,43,ground,80,95
+206,7,Flail,44,normal,-,100
+206,8,Dig,45,ground,80,100
+206,9,Dig,45,ground,80,100
+206,10,Dig,45,ground,80,100
+206,14,Endeavor,46,normal,-,100
+206,15,Endeavor,46,normal,-,100
+206,16,Endeavor,46,normal,-,100
+206,11,Ancient Power,48,rock,60,100
+206,8,Endeavor,49,normal,-,100
+206,9,Endeavor,49,normal,-,100
+206,10,Endeavor,49,normal,-,100
+206,14,Flail,49,normal,-,100
+206,15,Flail,49,normal,-,100
+206,16,Flail,49,normal,-,100
+206,7,Endeavor,51,normal,-,100
+206,8,Flail,53,normal,-,100
+206,9,Flail,53,normal,-,100
+206,10,Flail,53,normal,-,100
+206,11,Dig,53,ground,80,100
+206,11,Endeavor,58,normal,-,100
+206,11,Flail,63,normal,-,100

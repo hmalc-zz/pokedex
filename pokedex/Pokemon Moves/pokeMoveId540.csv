@@ -1,0 +1,35 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+540,11,Tackle,1,normal,50,100
+540,11,String Shot,1,bug,-,95
+540,14,Tackle,1,normal,50,100
+540,14,String Shot,1,bug,-,95
+540,15,Tackle,1,normal,50,100
+540,15,String Shot,1,bug,-,95
+540,16,Tackle,1,normal,50,100
+540,16,String Shot,1,bug,-,95
+540,11,Bug Bite,8,bug,60,100
+540,14,Bug Bite,8,bug,60,100
+540,15,Bug Bite,8,bug,60,100
+540,16,Bug Bite,8,bug,60,100
+540,11,Razor Leaf,15,grass,55,95
+540,14,Razor Leaf,15,grass,55,95
+540,15,Razor Leaf,15,grass,55,95
+540,16,Razor Leaf,15,grass,55,95
+540,11,Struggle Bug,22,bug,50,100
+540,14,Struggle Bug,22,bug,50,100
+540,15,Struggle Bug,22,bug,50,100
+540,16,Struggle Bug,22,bug,50,100
+540,11,Endure,29,normal,-,-
+540,14,Endure,29,normal,-,-
+540,15,Endure,29,normal,-,-
+540,16,Endure,29,normal,-,-
+540,15,Sticky Web,31,bug,-,-
+540,16,Sticky Web,31,bug,-,-
+540,11,Bug Buzz,36,bug,90,100
+540,14,Bug Buzz,36,bug,90,100
+540,15,Bug Buzz,36,bug,90,100
+540,16,Bug Buzz,36,bug,90,100
+540,11,Flail,43,normal,-,100
+540,14,Flail,43,normal,-,100
+540,15,Flail,43,normal,-,100
+540,16,Flail,43,normal,-,100

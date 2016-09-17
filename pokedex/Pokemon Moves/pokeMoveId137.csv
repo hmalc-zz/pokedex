@@ -1,0 +1,195 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+137,1,Tackle,1,normal,50,100
+137,1,Sharpen,1,normal,-,-
+137,1,Conversion,1,normal,-,-
+137,2,Tackle,1,normal,50,100
+137,2,Sharpen,1,normal,-,-
+137,2,Conversion,1,normal,-,-
+137,3,Tackle,1,normal,50,100
+137,3,Conversion,1,normal,-,-
+137,3,Conversion 2,1,normal,-,-
+137,4,Tackle,1,normal,50,100
+137,4,Conversion,1,normal,-,-
+137,4,Conversion 2,1,normal,-,-
+137,5,Tackle,1,normal,50,100
+137,5,Conversion,1,normal,-,-
+137,5,Conversion 2,1,normal,-,-
+137,6,Tackle,1,normal,50,100
+137,6,Conversion,1,normal,-,-
+137,6,Conversion 2,1,normal,-,-
+137,7,Tackle,1,normal,50,100
+137,7,Conversion,1,normal,-,-
+137,7,Conversion 2,1,normal,-,-
+137,8,Tackle,1,normal,50,100
+137,8,Sharpen,1,normal,-,-
+137,8,Conversion,1,normal,-,-
+137,8,Conversion 2,1,normal,-,-
+137,9,Tackle,1,normal,50,100
+137,9,Sharpen,1,normal,-,-
+137,9,Conversion,1,normal,-,-
+137,9,Conversion 2,1,normal,-,-
+137,10,Tackle,1,normal,50,100
+137,10,Sharpen,1,normal,-,-
+137,10,Conversion,1,normal,-,-
+137,10,Conversion 2,1,normal,-,-
+137,11,Tackle,1,normal,50,100
+137,11,Sharpen,1,normal,-,-
+137,11,Conversion,1,normal,-,-
+137,11,Conversion 2,1,normal,-,-
+137,12,Tackle,1,normal,50,100
+137,12,Conversion,1,normal,-,-
+137,12,Conversion 2,1,normal,-,-
+137,13,Tackle,1,normal,50,100
+137,13,Conversion,1,normal,-,-
+137,13,Conversion 2,1,normal,-,-
+137,14,Tackle,1,normal,50,100
+137,14,Sharpen,1,normal,-,-
+137,14,Conversion,1,normal,-,-
+137,14,Conversion 2,1,normal,-,-
+137,15,Tackle,1,normal,50,100
+137,15,Sharpen,1,normal,-,-
+137,15,Conversion,1,normal,-,-
+137,15,Conversion 2,1,normal,-,-
+137,16,Tackle,1,normal,50,100
+137,16,Sharpen,1,normal,-,-
+137,16,Conversion,1,normal,-,-
+137,16,Conversion 2,1,normal,-,-
+137,8,Psybeam,7,psychic,65,100
+137,9,Psybeam,7,psychic,65,100
+137,10,Psybeam,7,psychic,65,100
+137,11,Psybeam,7,psychic,65,100
+137,14,Psybeam,7,psychic,65,100
+137,15,Psybeam,7,psychic,65,100
+137,16,Psybeam,7,psychic,65,100
+137,3,Agility,9,psychic,-,-
+137,4,Agility,9,psychic,-,-
+137,5,Agility,9,psychic,-,-
+137,6,Agility,9,psychic,-,-
+137,7,Agility,9,psychic,-,-
+137,12,Agility,9,psychic,-,-
+137,13,Agility,9,psychic,-,-
+137,3,Psybeam,12,psychic,65,100
+137,4,Psybeam,12,psychic,65,100
+137,5,Psybeam,12,psychic,65,100
+137,6,Psybeam,12,psychic,65,100
+137,7,Psybeam,12,psychic,65,100
+137,8,Agility,12,psychic,-,-
+137,9,Agility,12,psychic,-,-
+137,10,Agility,12,psychic,-,-
+137,11,Agility,12,psychic,-,-
+137,12,Psybeam,12,psychic,65,100
+137,13,Psybeam,12,psychic,65,100
+137,14,Agility,12,psychic,-,-
+137,15,Agility,12,psychic,-,-
+137,16,Agility,12,psychic,-,-
+137,8,Recover,18,normal,-,-
+137,9,Recover,18,normal,-,-
+137,10,Recover,18,normal,-,-
+137,11,Recover,18,normal,-,-
+137,14,Recover,18,normal,-,-
+137,15,Recover,18,normal,-,-
+137,16,Recover,18,normal,-,-
+137,3,Recover,20,normal,-,-
+137,4,Recover,20,normal,-,-
+137,5,Recover,20,normal,-,-
+137,6,Recover,20,normal,-,-
+137,7,Recover,20,normal,-,-
+137,12,Recover,20,normal,-,-
+137,13,Recover,20,normal,-,-
+137,1,Psybeam,23,psychic,65,100
+137,2,Psybeam,23,psychic,65,100
+137,8,Magnet Rise,23,electric,-,-
+137,9,Magnet Rise,23,electric,-,-
+137,10,Magnet Rise,23,electric,-,-
+137,11,Magnet Rise,23,electric,-,-
+137,14,Magnet Rise,23,electric,-,-
+137,15,Magnet Rise,23,electric,-,-
+137,16,Magnet Rise,23,electric,-,-
+137,3,Sharpen,24,normal,-,-
+137,4,Sharpen,24,normal,-,-
+137,5,Sharpen,24,normal,-,-
+137,6,Sharpen,24,normal,-,-
+137,7,Sharpen,24,normal,-,-
+137,12,Sharpen,24,normal,-,-
+137,13,Sharpen,24,normal,-,-
+137,1,Recover,28,normal,-,-
+137,2,Recover,28,normal,-,-
+137,8,Signal Beam,29,bug,75,100
+137,9,Signal Beam,29,bug,75,100
+137,10,Signal Beam,29,bug,75,100
+137,11,Signal Beam,29,bug,75,100
+137,14,Signal Beam,29,bug,75,100
+137,15,Signal Beam,29,bug,75,100
+137,16,Signal Beam,29,bug,75,100
+137,3,Lock-On,32,normal,-,-
+137,4,Lock-On,32,normal,-,-
+137,5,Lock-On,32,normal,-,-
+137,6,Lock-On,32,normal,-,-
+137,7,Lock-On,32,normal,-,-
+137,12,Lock-On,32,normal,-,-
+137,13,Lock-On,32,normal,-,-
+137,8,Recycle,34,normal,-,-
+137,9,Recycle,34,normal,-,-
+137,10,Recycle,34,normal,-,-
+137,11,Recycle,34,normal,-,-
+137,14,Recycle,34,normal,-,-
+137,15,Recycle,34,normal,-,-
+137,16,Recycle,34,normal,-,-
+137,1,Agility,35,psychic,-,-
+137,2,Agility,35,psychic,-,-
+137,3,Tri Attack,36,normal,80,100
+137,4,Tri Attack,36,normal,80,100
+137,5,Tri Attack,36,normal,80,100
+137,6,Tri Attack,36,normal,80,100
+137,7,Tri Attack,36,normal,80,100
+137,12,Tri Attack,36,normal,80,100
+137,13,Tri Attack,36,normal,80,100
+137,8,Discharge,40,electric,80,100
+137,9,Discharge,40,electric,80,100
+137,10,Discharge,40,electric,80,100
+137,11,Discharge,40,electric,80,100
+137,14,Discharge,40,electric,80,100
+137,15,Discharge,40,electric,80,100
+137,16,Discharge,40,electric,80,100
+137,1,Tri Attack,42,normal,80,100
+137,2,Tri Attack,42,normal,80,100
+137,3,Zap Cannon,44,electric,120,50
+137,4,Zap Cannon,44,electric,120,50
+137,5,Recycle,44,normal,-,-
+137,6,Recycle,44,normal,-,-
+137,7,Recycle,44,normal,-,-
+137,12,Recycle,44,normal,-,-
+137,13,Recycle,44,normal,-,-
+137,8,Lock-On,45,normal,-,-
+137,9,Lock-On,45,normal,-,-
+137,10,Lock-On,45,normal,-,-
+137,11,Lock-On,45,normal,-,-
+137,14,Lock-On,45,normal,-,-
+137,15,Lock-On,45,normal,-,-
+137,16,Lock-On,45,normal,-,-
+137,5,Zap Cannon,48,electric,120,50
+137,6,Zap Cannon,48,electric,120,50
+137,7,Zap Cannon,48,electric,120,50
+137,12,Zap Cannon,48,electric,120,50
+137,13,Zap Cannon,48,electric,120,50
+137,15,Tri Attack,50,normal,80,100
+137,16,Tri Attack,50,normal,80,100
+137,8,Tri Attack,51,normal,80,100
+137,9,Tri Attack,51,normal,80,100
+137,10,Tri Attack,51,normal,80,100
+137,11,Tri Attack,51,normal,80,100
+137,14,Tri Attack,51,normal,80,100
+137,8,Magic Coat,56,psychic,-,-
+137,9,Magic Coat,56,psychic,-,-
+137,10,Magic Coat,56,psychic,-,-
+137,11,Magic Coat,56,psychic,-,-
+137,14,Magic Coat,56,psychic,-,-
+137,15,Magic Coat,56,psychic,-,-
+137,16,Magic Coat,56,psychic,-,-
+137,8,Zap Cannon,62,electric,120,50
+137,9,Zap Cannon,62,electric,120,50
+137,10,Zap Cannon,62,electric,120,50
+137,11,Zap Cannon,62,electric,120,50
+137,14,Zap Cannon,62,electric,120,50
+137,15,Zap Cannon,62,electric,120,50
+137,16,Zap Cannon,62,electric,120,50

@@ -1,0 +1,219 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+150,1,Disable,1,normal,-,100
+150,1,Confusion,1,psychic,50,100
+150,1,Psychic,1,psychic,90,100
+150,1,Swift,1,normal,60,-
+150,2,Disable,1,normal,-,100
+150,2,Confusion,1,psychic,50,100
+150,2,Psychic,1,psychic,90,100
+150,2,Swift,1,normal,60,-
+150,3,Disable,1,normal,-,100
+150,3,Confusion,1,psychic,50,100
+150,4,Disable,1,normal,-,100
+150,4,Confusion,1,psychic,50,100
+150,5,Disable,1,normal,-,100
+150,5,Confusion,1,psychic,50,100
+150,6,Disable,1,normal,-,100
+150,6,Confusion,1,psychic,50,100
+150,7,Disable,1,normal,-,100
+150,7,Confusion,1,psychic,50,100
+150,8,Disable,1,normal,-,100
+150,8,Confusion,1,psychic,50,100
+150,9,Disable,1,normal,-,100
+150,9,Confusion,1,psychic,50,100
+150,10,Disable,1,normal,-,100
+150,10,Confusion,1,psychic,50,100
+150,11,Disable,1,normal,-,100
+150,11,Confusion,1,psychic,50,100
+150,11,Barrier,1,psychic,-,-
+150,12,Disable,1,normal,-,100
+150,12,Confusion,1,psychic,50,100
+150,13,Disable,1,normal,-,100
+150,13,Confusion,1,psychic,50,100
+150,14,Disable,1,normal,-,100
+150,14,Confusion,1,psychic,50,100
+150,14,Barrier,1,psychic,-,-
+150,15,Disable,1,normal,-,100
+150,15,Confusion,1,psychic,50,100
+150,15,Safeguard,1,normal,-,-
+150,16,Disable,1,normal,-,100
+150,16,Confusion,1,psychic,50,100
+150,16,Safeguard,1,normal,-,-
+150,8,Barrier,8,psychic,-,-
+150,9,Barrier,8,psychic,-,-
+150,10,Barrier,8,psychic,-,-
+150,11,Swift,8,normal,60,-
+150,14,Swift,8,normal,60,-
+150,15,Swift,8,normal,60,-
+150,16,Swift,8,normal,60,-
+150,3,Barrier,11,psychic,-,-
+150,4,Barrier,11,psychic,-,-
+150,5,Barrier,11,psychic,-,-
+150,6,Barrier,11,psychic,-,-
+150,7,Barrier,11,psychic,-,-
+150,12,Barrier,11,psychic,-,-
+150,13,Barrier,11,psychic,-,-
+150,8,Swift,15,normal,60,-
+150,9,Swift,15,normal,60,-
+150,10,Swift,15,normal,60,-
+150,11,Future Sight,15,psychic,120,100
+150,14,Future Sight,15,psychic,120,100
+150,15,Future Sight,15,psychic,120,100
+150,16,Future Sight,15,psychic,120,100
+150,3,Swift,22,normal,60,-
+150,4,Swift,22,normal,60,-
+150,5,Swift,22,normal,60,-
+150,6,Swift,22,normal,60,-
+150,7,Mist,22,ice,-,-
+150,8,Future Sight,22,psychic,120,100
+150,9,Future Sight,22,psychic,120,100
+150,10,Future Sight,22,psychic,120,100
+150,11,Psych Up,22,normal,-,-
+150,12,Swift,22,normal,60,-
+150,13,Swift,22,normal,60,-
+150,14,Psych Up,22,normal,-,-
+150,15,Psych Up,22,normal,-,-
+150,16,Psych Up,22,normal,-,-
+150,8,Psych Up,29,normal,-,-
+150,9,Psych Up,29,normal,-,-
+150,10,Psych Up,29,normal,-,-
+150,11,Miracle Eye,29,psychic,-,-
+150,14,Miracle Eye,29,psychic,-,-
+150,15,Miracle Eye,29,psychic,-,-
+150,16,Miracle Eye,29,psychic,-,-
+150,3,Psych Up,33,normal,-,-
+150,4,Psych Up,33,normal,-,-
+150,5,Psych Up,33,normal,-,-
+150,6,Psych Up,33,normal,-,-
+150,7,Swift,33,normal,60,-
+150,12,Psych Up,33,normal,-,-
+150,13,Psych Up,33,normal,-,-
+150,8,Miracle Eye,36,psychic,-,-
+150,9,Miracle Eye,36,psychic,-,-
+150,10,Miracle Eye,36,psychic,-,-
+150,11,Mist,36,ice,-,-
+150,14,Mist,36,ice,-,-
+150,15,Psycho Cut,36,psychic,70,100
+150,16,Psycho Cut,36,psychic,70,100
+150,8,Mist,43,ice,-,-
+150,9,Mist,43,ice,-,-
+150,10,Mist,43,ice,-,-
+150,11,Psycho Cut,43,psychic,70,100
+150,14,Psycho Cut,43,psychic,70,100
+150,15,Power Swap,43,psychic,-,-
+150,15,Guard Swap,43,psychic,-,-
+150,16,Power Swap,43,psychic,-,-
+150,16,Guard Swap,43,psychic,-,-
+150,3,Future Sight,44,psychic,120,100
+150,4,Future Sight,44,psychic,120,100
+150,5,Future Sight,44,psychic,120,100
+150,6,Future Sight,44,psychic,120,100
+150,7,Recover,44,normal,-,-
+150,12,Future Sight,44,psychic,120,100
+150,13,Future Sight,44,psychic,120,100
+150,8,Psycho Cut,50,psychic,70,100
+150,9,Psycho Cut,50,psychic,70,100
+150,10,Psycho Cut,50,psychic,70,100
+150,11,Amnesia,50,psychic,-,-
+150,14,Amnesia,50,psychic,-,-
+150,15,Recover,50,normal,-,-
+150,16,Recover,50,normal,-,-
+150,3,Mist,55,ice,-,-
+150,4,Mist,55,ice,-,-
+150,5,Mist,55,ice,-,-
+150,6,Mist,55,ice,-,-
+150,7,Safeguard,55,normal,-,-
+150,12,Mist,55,ice,-,-
+150,13,Mist,55,ice,-,-
+150,8,Amnesia,57,psychic,-,-
+150,9,Amnesia,57,psychic,-,-
+150,10,Amnesia,57,psychic,-,-
+150,11,Power Swap,57,psychic,-,-
+150,11,Guard Swap,57,psychic,-,-
+150,14,Power Swap,57,psychic,-,-
+150,14,Guard Swap,57,psychic,-,-
+150,15,Psychic,57,psychic,90,100
+150,16,Psychic,57,psychic,90,100
+150,1,Barrier,63,psychic,-,-
+150,2,Barrier,63,psychic,-,-
+150,8,Power Swap,64,psychic,-,-
+150,8,Guard Swap,64,psychic,-,-
+150,9,Power Swap,64,psychic,-,-
+150,9,Guard Swap,64,psychic,-,-
+150,10,Power Swap,64,psychic,-,-
+150,10,Guard Swap,64,psychic,-,-
+150,11,Psychic,64,psychic,90,100
+150,14,Psychic,64,psychic,90,100
+150,15,Barrier,64,psychic,-,-
+150,16,Barrier,64,psychic,-,-
+150,1,Psychic,66,psychic,90,100
+150,2,Psychic,66,psychic,90,100
+150,3,Psychic,66,psychic,90,100
+150,4,Psychic,66,psychic,90,100
+150,5,Psychic,66,psychic,90,100
+150,6,Psychic,66,psychic,90,100
+150,7,Psychic,66,psychic,90,100
+150,12,Psychic,66,psychic,90,100
+150,13,Psychic,66,psychic,90,100
+150,1,Recover,70,normal,-,-
+150,2,Recover,70,normal,-,-
+150,15,Aura Sphere,70,fighting,80,-
+150,16,Aura Sphere,70,fighting,80,-
+150,8,Psychic,71,psychic,90,100
+150,9,Psychic,71,psychic,90,100
+150,10,Psychic,71,psychic,90,100
+150,11,Me First,71,normal,-,-
+150,14,Me First,71,normal,-,-
+150,1,Mist,75,ice,-,-
+150,2,Mist,75,ice,-,-
+150,3,Amnesia,77,psychic,-,-
+150,4,Amnesia,77,psychic,-,-
+150,5,Amnesia,77,psychic,-,-
+150,6,Amnesia,77,psychic,-,-
+150,7,Psych Up,77,normal,-,-
+150,12,Amnesia,77,psychic,-,-
+150,13,Amnesia,77,psychic,-,-
+150,8,Me First,79,normal,-,-
+150,9,Me First,79,normal,-,-
+150,10,Me First,79,normal,-,-
+150,11,Recover,79,normal,-,-
+150,14,Recover,79,normal,-,-
+150,15,Amnesia,79,psychic,-,-
+150,16,Amnesia,79,psychic,-,-
+150,1,Amnesia,81,psychic,-,-
+150,2,Amnesia,81,psychic,-,-
+150,8,Recover,86,normal,-,-
+150,9,Recover,86,normal,-,-
+150,10,Recover,86,normal,-,-
+150,11,Safeguard,86,normal,-,-
+150,14,Safeguard,86,normal,-,-
+150,15,Mist,86,ice,-,-
+150,16,Mist,86,ice,-,-
+150,3,Recover,88,normal,-,-
+150,4,Recover,88,normal,-,-
+150,5,Recover,88,normal,-,-
+150,6,Recover,88,normal,-,-
+150,7,Future Sight,88,psychic,120,100
+150,12,Recover,88,normal,-,-
+150,13,Recover,88,normal,-,-
+150,8,Safeguard,93,normal,-,-
+150,9,Safeguard,93,normal,-,-
+150,10,Safeguard,93,normal,-,-
+150,11,Aura Sphere,93,fighting,80,-
+150,14,Aura Sphere,93,fighting,80,-
+150,15,Me First,93,normal,-,-
+150,16,Me First,93,normal,-,-
+150,3,Safeguard,99,normal,-,-
+150,4,Safeguard,99,normal,-,-
+150,5,Safeguard,99,normal,-,-
+150,6,Safeguard,99,normal,-,-
+150,7,Amnesia,99,psychic,-,-
+150,12,Safeguard,99,normal,-,-
+150,13,Safeguard,99,normal,-,-
+150,8,Aura Sphere,100,fighting,80,-
+150,9,Aura Sphere,100,fighting,80,-
+150,10,Aura Sphere,100,fighting,80,-
+150,11,Psystrike,100,psychic,100,100
+150,14,Psystrike,100,psychic,100,100
+150,15,Psystrike,100,psychic,100,100
+150,16,Psystrike,100,psychic,100,100

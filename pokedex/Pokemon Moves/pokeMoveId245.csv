@@ -1,0 +1,172 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+245,3,Leer,1,normal,-,100
+245,3,Bite,1,dark,60,100
+245,4,Leer,1,normal,-,100
+245,4,Bite,1,dark,60,100
+245,5,Leer,1,normal,-,100
+245,5,Bite,1,dark,60,100
+245,6,Leer,1,normal,-,100
+245,6,Bite,1,dark,60,100
+245,7,Leer,1,normal,-,100
+245,7,Bite,1,dark,60,100
+245,8,Leer,1,normal,-,100
+245,8,Bite,1,dark,60,100
+245,9,Leer,1,normal,-,100
+245,9,Bite,1,dark,60,100
+245,10,Leer,1,normal,-,100
+245,10,Bite,1,dark,60,100
+245,11,Leer,1,normal,-,100
+245,11,Bite,1,dark,60,100
+245,12,Leer,1,normal,-,100
+245,12,Bite,1,dark,60,100
+245,13,Leer,1,normal,-,100
+245,13,Bite,1,dark,60,100
+245,14,Leer,1,normal,-,100
+245,14,Bite,1,dark,60,100
+245,15,Leer,1,normal,-,100
+245,15,Bite,1,dark,60,100
+245,15,Hydro Pump,1,water,110,80
+245,15,Extrasensory,1,psychic,80,100
+245,15,Tailwind,1,flying,-,-
+245,16,Leer,1,normal,-,100
+245,16,Bite,1,dark,60,100
+245,16,Hydro Pump,1,water,110,80
+245,16,Extrasensory,1,psychic,80,100
+245,16,Tailwind,1,flying,-,-
+245,8,Bubble Beam,8,water,65,100
+245,9,Bubble Beam,8,water,65,100
+245,10,Bubble Beam,8,water,65,100
+245,11,Bubble Beam,8,water,65,100
+245,14,Bubble Beam,8,water,65,100
+245,15,Bubble Beam,8,water,65,100
+245,16,Bubble Beam,8,water,65,100
+245,3,Water Gun,11,water,40,100
+245,4,Bubble Beam,11,water,65,100
+245,5,Bubble Beam,11,water,65,100
+245,6,Bubble Beam,11,water,65,100
+245,7,Bubble Beam,11,water,65,100
+245,12,Bubble Beam,11,water,65,100
+245,13,Bubble Beam,11,water,65,100
+245,8,Rain Dance,15,water,-,-
+245,9,Rain Dance,15,water,-,-
+245,10,Rain Dance,15,water,-,-
+245,11,Rain Dance,15,water,-,-
+245,14,Rain Dance,15,water,-,-
+245,15,Rain Dance,15,water,-,-
+245,16,Rain Dance,15,water,-,-
+245,3,Roar,21,normal,-,-
+245,4,Rain Dance,21,water,-,-
+245,5,Rain Dance,21,water,-,-
+245,6,Rain Dance,21,water,-,-
+245,7,Rain Dance,21,water,-,-
+245,12,Rain Dance,21,water,-,-
+245,13,Rain Dance,21,water,-,-
+245,8,Gust,22,flying,40,100
+245,9,Gust,22,flying,40,100
+245,10,Gust,22,flying,40,100
+245,11,Gust,22,flying,40,100
+245,14,Gust,22,flying,40,100
+245,15,Gust,22,flying,40,100
+245,16,Gust,22,flying,40,100
+245,8,Aurora Beam,29,ice,65,100
+245,9,Aurora Beam,29,ice,65,100
+245,10,Aurora Beam,29,ice,65,100
+245,11,Aurora Beam,29,ice,65,100
+245,14,Aurora Beam,29,ice,65,100
+245,15,Aurora Beam,29,ice,65,100
+245,16,Aurora Beam,29,ice,65,100
+245,3,Gust,31,flying,40,100
+245,4,Gust,31,flying,40,100
+245,5,Gust,31,flying,40,100
+245,6,Gust,31,flying,40,100
+245,7,Gust,31,flying,40,100
+245,12,Gust,31,flying,40,100
+245,13,Gust,31,flying,40,100
+245,8,Mist,36,ice,-,-
+245,9,Mist,36,ice,-,-
+245,10,Mist,36,ice,-,-
+245,11,Mist,36,ice,-,-
+245,14,Mist,36,ice,-,-
+245,15,Mist,36,ice,-,-
+245,16,Mist,36,ice,-,-
+245,3,Bubble Beam,41,water,65,100
+245,4,Aurora Beam,41,ice,65,100
+245,5,Aurora Beam,41,ice,65,100
+245,6,Aurora Beam,41,ice,65,100
+245,7,Aurora Beam,41,ice,65,100
+245,12,Aurora Beam,41,ice,65,100
+245,13,Aurora Beam,41,ice,65,100
+245,8,Mirror Coat,43,psychic,-,100
+245,9,Mirror Coat,43,psychic,-,100
+245,10,Mirror Coat,43,psychic,-,100
+245,11,Mirror Coat,43,psychic,-,100
+245,14,Mirror Coat,43,psychic,-,100
+245,15,Mirror Coat,43,psychic,-,100
+245,16,Mirror Coat,43,psychic,-,100
+245,8,Ice Fang,50,ice,65,95
+245,9,Ice Fang,50,ice,65,95
+245,10,Ice Fang,50,ice,65,95
+245,11,Ice Fang,50,ice,65,95
+245,14,Ice Fang,50,ice,65,95
+245,15,Ice Fang,50,ice,65,95
+245,16,Ice Fang,50,ice,65,95
+245,3,Mist,51,ice,-,-
+245,4,Mist,51,ice,-,-
+245,5,Mist,51,ice,-,-
+245,6,Mist,51,ice,-,-
+245,7,Mist,51,ice,-,-
+245,12,Mist,51,ice,-,-
+245,13,Mist,51,ice,-,-
+245,8,Tailwind,57,flying,-,-
+245,9,Tailwind,57,flying,-,-
+245,10,Tailwind,57,flying,-,-
+245,11,Tailwind,57,flying,-,-
+245,14,Tailwind,57,flying,-,-
+245,15,Tailwind,57,flying,-,-
+245,16,Tailwind,57,flying,-,-
+245,3,Mirror Coat,61,psychic,-,100
+245,4,Mirror Coat,61,psychic,-,100
+245,5,Mirror Coat,61,psychic,-,100
+245,6,Mirror Coat,61,psychic,-,100
+245,7,Mirror Coat,61,psychic,-,100
+245,12,Mirror Coat,61,psychic,-,100
+245,13,Mirror Coat,61,psychic,-,100
+245,8,Extrasensory,64,psychic,80,100
+245,9,Extrasensory,64,psychic,80,100
+245,10,Extrasensory,64,psychic,80,100
+245,11,Extrasensory,64,psychic,80,100
+245,14,Extrasensory,64,psychic,80,100
+245,15,Extrasensory,64,psychic,80,100
+245,16,Extrasensory,64,psychic,80,100
+245,3,Hydro Pump,71,water,110,80
+245,4,Hydro Pump,71,water,110,80
+245,5,Hydro Pump,71,water,110,80
+245,6,Hydro Pump,71,water,110,80
+245,7,Hydro Pump,71,water,110,80
+245,8,Hydro Pump,71,water,110,80
+245,9,Hydro Pump,71,water,110,80
+245,10,Hydro Pump,71,water,110,80
+245,11,Hydro Pump,71,water,110,80
+245,12,Hydro Pump,71,water,110,80
+245,13,Hydro Pump,71,water,110,80
+245,14,Hydro Pump,71,water,110,80
+245,15,Hydro Pump,71,water,110,80
+245,16,Hydro Pump,71,water,110,80
+245,8,Calm Mind,78,psychic,-,-
+245,9,Calm Mind,78,psychic,-,-
+245,10,Calm Mind,78,psychic,-,-
+245,11,Calm Mind,78,psychic,-,-
+245,14,Calm Mind,78,psychic,-,-
+245,15,Calm Mind,78,psychic,-,-
+245,16,Calm Mind,78,psychic,-,-
+245,5,Calm Mind,81,psychic,-,-
+245,6,Calm Mind,81,psychic,-,-
+245,7,Calm Mind,81,psychic,-,-
+245,12,Calm Mind,81,psychic,-,-
+245,13,Calm Mind,81,psychic,-,-
+245,9,Blizzard,85,ice,110,70
+245,10,Blizzard,85,ice,110,70
+245,11,Blizzard,85,ice,110,70
+245,14,Blizzard,85,ice,110,70
+245,15,Blizzard,85,ice,110,70
+245,16,Blizzard,85,ice,110,70

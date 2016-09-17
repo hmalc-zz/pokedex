@@ -1,0 +1,35 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+719,15,Tackle,1,normal,50,100
+719,15,Harden,1,normal,-,-
+719,16,Tackle,1,normal,50,100
+719,16,Harden,1,normal,-,-
+719,15,Rock Throw,5,rock,50,90
+719,16,Rock Throw,5,rock,50,90
+719,15,Sharpen,8,normal,-,-
+719,16,Sharpen,8,normal,-,-
+719,15,Smack Down,12,rock,50,100
+719,16,Smack Down,12,rock,50,100
+719,15,Reflect,18,psychic,-,-
+719,16,Reflect,18,psychic,-,-
+719,15,Stealth Rock,21,rock,-,-
+719,16,Stealth Rock,21,rock,-,-
+719,15,Guard Split,27,psychic,-,-
+719,16,Guard Split,27,psychic,-,-
+719,15,Ancient Power,31,rock,60,100
+719,16,Ancient Power,31,rock,60,100
+719,15,Flail,35,normal,-,100
+719,16,Flail,35,normal,-,100
+719,15,Skill Swap,40,psychic,-,-
+719,16,Skill Swap,40,psychic,-,-
+719,15,Trick Room,46,psychic,-,-
+719,16,Trick Room,46,psychic,-,-
+719,15,Stone Edge,49,rock,100,80
+719,16,Stone Edge,49,rock,100,80
+719,15,Moonblast,50,fairy,95,100
+719,15,Diamond Storm,50,rock,100,95
+719,16,Moonblast,50,fairy,95,100
+719,16,Diamond Storm,50,rock,100,95
+719,15,Light Screen,60,psychic,-,-
+719,16,Light Screen,60,psychic,-,-
+719,15,Safeguard,70,normal,-,-
+719,16,Safeguard,70,normal,-,-

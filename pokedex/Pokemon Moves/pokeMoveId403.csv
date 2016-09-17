@@ -1,0 +1,84 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+403,8,Tackle,1,normal,50,100
+403,9,Tackle,1,normal,50,100
+403,10,Tackle,1,normal,50,100
+403,11,Tackle,1,normal,50,100
+403,14,Tackle,1,normal,50,100
+403,15,Tackle,1,normal,50,100
+403,16,Tackle,1,normal,50,100
+403,8,Leer,5,normal,-,100
+403,9,Leer,5,normal,-,100
+403,10,Leer,5,normal,-,100
+403,11,Leer,5,normal,-,100
+403,14,Leer,5,normal,-,100
+403,15,Leer,5,normal,-,100
+403,16,Leer,5,normal,-,100
+403,8,Charge,9,electric,-,-
+403,9,Charge,9,electric,-,-
+403,10,Charge,9,electric,-,-
+403,11,Charge,9,electric,-,-
+403,14,Charge,9,electric,-,-
+403,15,Charge,9,electric,-,-
+403,16,Charge,9,electric,-,-
+403,15,Baby-Doll Eyes,11,fairy,-,100
+403,16,Baby-Doll Eyes,11,fairy,-,100
+403,8,Bite,13,dark,60,100
+403,9,Spark,13,electric,65,100
+403,10,Spark,13,electric,65,100
+403,11,Spark,13,electric,65,100
+403,14,Spark,13,electric,65,100
+403,15,Spark,13,electric,65,100
+403,16,Spark,13,electric,65,100
+403,8,Spark,17,electric,65,100
+403,9,Bite,17,dark,60,100
+403,10,Bite,17,dark,60,100
+403,11,Bite,17,dark,60,100
+403,14,Bite,17,dark,60,100
+403,15,Bite,17,dark,60,100
+403,16,Bite,17,dark,60,100
+403,8,Roar,21,normal,-,-
+403,9,Roar,21,normal,-,-
+403,10,Roar,21,normal,-,-
+403,11,Roar,21,normal,-,-
+403,14,Roar,21,normal,-,-
+403,15,Roar,21,normal,-,-
+403,16,Roar,21,normal,-,-
+403,8,Swagger,25,normal,-,90
+403,9,Swagger,25,normal,-,90
+403,10,Swagger,25,normal,-,90
+403,11,Swagger,25,normal,-,90
+403,14,Swagger,25,normal,-,90
+403,15,Swagger,25,normal,-,90
+403,16,Swagger,25,normal,-,90
+403,8,Crunch,29,dark,80,100
+403,9,Thunder Fang,29,electric,65,95
+403,10,Thunder Fang,29,electric,65,95
+403,11,Thunder Fang,29,electric,65,95
+403,14,Thunder Fang,29,electric,65,95
+403,15,Thunder Fang,29,electric,65,95
+403,16,Thunder Fang,29,electric,65,95
+403,8,Thunder Fang,33,electric,65,95
+403,9,Crunch,33,dark,80,100
+403,10,Crunch,33,dark,80,100
+403,11,Crunch,33,dark,80,100
+403,14,Crunch,33,dark,80,100
+403,15,Crunch,33,dark,80,100
+403,16,Crunch,33,dark,80,100
+403,8,Scary Face,37,normal,-,100
+403,9,Scary Face,37,normal,-,100
+403,10,Scary Face,37,normal,-,100
+403,11,Scary Face,37,normal,-,100
+403,14,Scary Face,37,normal,-,100
+403,15,Scary Face,37,normal,-,100
+403,16,Scary Face,37,normal,-,100
+403,8,Discharge,41,electric,80,100
+403,9,Discharge,41,electric,80,100
+403,10,Discharge,41,electric,80,100
+403,11,Discharge,41,electric,80,100
+403,14,Discharge,41,electric,80,100
+403,15,Discharge,41,electric,80,100
+403,16,Discharge,41,electric,80,100
+403,11,Wild Charge,45,electric,90,100
+403,14,Wild Charge,45,electric,90,100
+403,15,Wild Charge,45,electric,90,100
+403,16,Wild Charge,45,electric,90,100

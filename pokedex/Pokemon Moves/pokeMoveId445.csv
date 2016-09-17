@@ -1,0 +1,110 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+445,8,Sand Attack,1,ground,-,100
+445,8,Tackle,1,normal,50,100
+445,8,Dragon Rage,1,dragon,-,100
+445,8,Sandstorm,1,rock,-,-
+445,8,Fire Fang,1,fire,65,95
+445,9,Sand Attack,1,ground,-,100
+445,9,Tackle,1,normal,50,100
+445,9,Dragon Rage,1,dragon,-,100
+445,9,Sandstorm,1,rock,-,-
+445,9,Fire Fang,1,fire,65,95
+445,10,Sand Attack,1,ground,-,100
+445,10,Tackle,1,normal,50,100
+445,10,Dragon Rage,1,dragon,-,100
+445,10,Sandstorm,1,rock,-,-
+445,10,Fire Fang,1,fire,65,95
+445,11,Sand Attack,1,ground,-,100
+445,11,Tackle,1,normal,50,100
+445,11,Dragon Rage,1,dragon,-,100
+445,11,Sandstorm,1,rock,-,-
+445,11,Fire Fang,1,fire,65,95
+445,14,Sand Attack,1,ground,-,100
+445,14,Tackle,1,normal,50,100
+445,14,Dragon Rage,1,dragon,-,100
+445,14,Sandstorm,1,rock,-,-
+445,14,Fire Fang,1,fire,65,95
+445,15,Sand Attack,1,ground,-,100
+445,15,Tackle,1,normal,50,100
+445,15,Dragon Rage,1,dragon,-,100
+445,15,Sandstorm,1,rock,-,-
+445,15,Fire Fang,1,fire,65,95
+445,16,Sand Attack,1,ground,-,100
+445,16,Tackle,1,normal,50,100
+445,16,Dragon Rage,1,dragon,-,100
+445,16,Sandstorm,1,rock,-,-
+445,16,Fire Fang,1,fire,65,95
+445,8,Sand Attack,3,ground,-,100
+445,9,Sand Attack,3,ground,-,100
+445,10,Sand Attack,3,ground,-,100
+445,11,Sand Attack,3,ground,-,100
+445,14,Sand Attack,3,ground,-,100
+445,15,Sand Attack,3,ground,-,100
+445,16,Sand Attack,3,ground,-,100
+445,8,Dragon Rage,7,dragon,-,100
+445,9,Dragon Rage,7,dragon,-,100
+445,10,Dragon Rage,7,dragon,-,100
+445,11,Dragon Rage,7,dragon,-,100
+445,14,Dragon Rage,7,dragon,-,100
+445,15,Dragon Rage,7,dragon,-,100
+445,16,Dragon Rage,7,dragon,-,100
+445,8,Sandstorm,13,rock,-,-
+445,9,Sandstorm,13,rock,-,-
+445,10,Sandstorm,13,rock,-,-
+445,11,Sandstorm,13,rock,-,-
+445,14,Sandstorm,13,rock,-,-
+445,15,Sandstorm,13,rock,-,-
+445,16,Sandstorm,13,rock,-,-
+445,8,Take Down,15,normal,90,85
+445,9,Take Down,15,normal,90,85
+445,10,Take Down,15,normal,90,85
+445,11,Take Down,15,normal,90,85
+445,14,Take Down,15,normal,90,85
+445,15,Take Down,15,normal,90,85
+445,16,Take Down,15,normal,90,85
+445,8,Sand Tomb,19,ground,35,85
+445,9,Sand Tomb,19,ground,35,85
+445,10,Sand Tomb,19,ground,35,85
+445,11,Sand Tomb,19,ground,35,85
+445,14,Sand Tomb,19,ground,35,85
+445,15,Sand Tomb,19,ground,35,85
+445,16,Sand Tomb,19,ground,35,85
+445,11,Dual Chop,24,dragon,40,90
+445,14,Dual Chop,24,dragon,40,90
+445,15,Dual Chop,24,dragon,40,90
+445,16,Dual Chop,24,dragon,40,90
+445,8,Slash,28,normal,70,100
+445,9,Slash,28,normal,70,100
+445,10,Slash,28,normal,70,100
+445,11,Slash,28,normal,70,100
+445,14,Slash,28,normal,70,100
+445,15,Slash,28,normal,70,100
+445,16,Slash,28,normal,70,100
+445,8,Dragon Claw,33,dragon,80,100
+445,9,Dragon Claw,33,dragon,80,100
+445,10,Dragon Claw,33,dragon,80,100
+445,11,Dragon Claw,33,dragon,80,100
+445,14,Dragon Claw,33,dragon,80,100
+445,15,Dragon Claw,33,dragon,80,100
+445,16,Dragon Claw,33,dragon,80,100
+445,8,Dig,40,ground,80,100
+445,9,Dig,40,ground,80,100
+445,10,Dig,40,ground,80,100
+445,11,Dig,40,ground,80,100
+445,14,Dig,40,ground,80,100
+445,15,Dig,40,ground,80,100
+445,16,Dig,40,ground,80,100
+445,8,Crunch,48,dark,80,100
+445,9,Crunch,48,dark,80,100
+445,10,Crunch,48,dark,80,100
+445,11,Crunch,48,dark,80,100
+445,14,Crunch,48,dark,80,100
+445,15,Crunch,48,dark,80,100
+445,16,Crunch,48,dark,80,100
+445,8,Dragon Rush,55,dragon,100,75
+445,9,Dragon Rush,55,dragon,100,75
+445,10,Dragon Rush,55,dragon,100,75
+445,11,Dragon Rush,55,dragon,100,75
+445,14,Dragon Rush,55,dragon,100,75
+445,15,Dragon Rush,55,dragon,100,75
+445,16,Dragon Rush,55,dragon,100,75

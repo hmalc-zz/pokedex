@@ -1,0 +1,232 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+101,1,Tackle,1,normal,50,100
+101,1,Sonic Boom,1,normal,-,90
+101,1,Screech,1,normal,-,85
+101,2,Tackle,1,normal,50,100
+101,2,Sonic Boom,1,normal,-,90
+101,2,Screech,1,normal,-,85
+101,3,Tackle,1,normal,50,100
+101,3,Sonic Boom,1,normal,-,90
+101,3,Screech,1,normal,-,85
+101,3,Self-Destruct,1,normal,200,100
+101,4,Tackle,1,normal,50,100
+101,4,Sonic Boom,1,normal,-,90
+101,4,Screech,1,normal,-,85
+101,4,Self-Destruct,1,normal,200,100
+101,5,Tackle,1,normal,50,100
+101,5,Sonic Boom,1,normal,-,90
+101,5,Screech,1,normal,-,85
+101,5,Charge,1,electric,-,-
+101,6,Tackle,1,normal,50,100
+101,6,Sonic Boom,1,normal,-,90
+101,6,Screech,1,normal,-,85
+101,6,Charge,1,electric,-,-
+101,7,Tackle,1,normal,50,100
+101,7,Sonic Boom,1,normal,-,90
+101,7,Screech,1,normal,-,85
+101,7,Charge,1,electric,-,-
+101,8,Tackle,1,normal,50,100
+101,8,Sonic Boom,1,normal,-,90
+101,8,Spark,1,electric,65,100
+101,8,Charge,1,electric,-,-
+101,9,Tackle,1,normal,50,100
+101,9,Sonic Boom,1,normal,-,90
+101,9,Spark,1,electric,65,100
+101,9,Charge,1,electric,-,-
+101,10,Tackle,1,normal,50,100
+101,10,Sonic Boom,1,normal,-,90
+101,10,Spark,1,electric,65,100
+101,10,Charge,1,electric,-,-
+101,11,Tackle,1,normal,50,100
+101,11,Sonic Boom,1,normal,-,90
+101,11,Spark,1,electric,65,100
+101,11,Charge,1,electric,-,-
+101,12,Tackle,1,normal,50,100
+101,12,Sonic Boom,1,normal,-,90
+101,12,Screech,1,normal,-,85
+101,12,Charge,1,electric,-,-
+101,13,Tackle,1,normal,50,100
+101,13,Sonic Boom,1,normal,-,90
+101,13,Screech,1,normal,-,85
+101,13,Charge,1,electric,-,-
+101,14,Tackle,1,normal,50,100
+101,14,Sonic Boom,1,normal,-,90
+101,14,Spark,1,electric,65,100
+101,14,Charge,1,electric,-,-
+101,15,Tackle,1,normal,50,100
+101,15,Sonic Boom,1,normal,-,90
+101,15,Spark,1,electric,65,100
+101,15,Charge,1,electric,-,-
+101,15,Magnetic Flux,1,electric,-,-
+101,16,Tackle,1,normal,50,100
+101,16,Sonic Boom,1,normal,-,90
+101,16,Spark,1,electric,65,100
+101,16,Charge,1,electric,-,-
+101,16,Magnetic Flux,1,electric,-,-
+101,16,Sonic Boom,4,normal,-,90
+101,8,Tackle,5,normal,50,100
+101,9,Tackle,5,normal,50,100
+101,10,Tackle,5,normal,50,100
+101,11,Tackle,5,normal,50,100
+101,14,Tackle,5,normal,50,100
+101,15,Tackle,5,normal,50,100
+101,16,Eerie Impulse,6,electric,-,100
+101,5,Screech,8,normal,-,85
+101,6,Screech,8,normal,-,85
+101,7,Screech,8,normal,-,85
+101,8,Sonic Boom,8,normal,-,90
+101,9,Sonic Boom,8,normal,-,90
+101,10,Sonic Boom,8,normal,-,90
+101,11,Sonic Boom,8,normal,-,90
+101,12,Screech,8,normal,-,85
+101,13,Screech,8,normal,-,85
+101,14,Sonic Boom,8,normal,-,90
+101,15,Eerie Impulse,8,electric,-,100
+101,3,Screech,9,normal,-,85
+101,4,Screech,9,normal,-,85
+101,16,Spark,9,electric,65,100
+101,16,Rollout,11,rock,30,90
+101,8,Spark,12,electric,65,100
+101,9,Spark,12,electric,65,100
+101,10,Spark,12,electric,65,100
+101,11,Spark,12,electric,65,100
+101,14,Spark,12,electric,65,100
+101,15,Spark,12,electric,65,100
+101,16,Screech,13,normal,-,85
+101,5,Sonic Boom,15,normal,-,90
+101,6,Sonic Boom,15,normal,-,90
+101,7,Sonic Boom,15,normal,-,90
+101,8,Rollout,15,rock,30,90
+101,9,Rollout,15,rock,30,90
+101,10,Rollout,15,rock,30,90
+101,11,Rollout,15,rock,30,90
+101,12,Sonic Boom,15,normal,-,90
+101,13,Sonic Boom,15,normal,-,90
+101,14,Rollout,15,rock,30,90
+101,15,Rollout,15,rock,30,90
+101,16,Charge Beam,16,electric,50,90
+101,1,Sonic Boom,17,normal,-,90
+101,2,Sonic Boom,17,normal,-,90
+101,3,Sonic Boom,17,normal,-,90
+101,4,Sonic Boom,17,normal,-,90
+101,8,Screech,19,normal,-,85
+101,9,Screech,19,normal,-,85
+101,10,Screech,19,normal,-,85
+101,11,Screech,19,normal,-,85
+101,14,Screech,19,normal,-,85
+101,15,Screech,19,normal,-,85
+101,16,Swift,20,normal,60,-
+101,5,Spark,21,electric,65,100
+101,6,Spark,21,electric,65,100
+101,7,Spark,21,electric,65,100
+101,12,Spark,21,electric,65,100
+101,13,Spark,21,electric,65,100
+101,1,Self-Destruct,22,normal,200,100
+101,2,Self-Destruct,22,normal,200,100
+101,8,Light Screen,22,psychic,-,-
+101,9,Light Screen,22,psychic,-,-
+101,10,Light Screen,22,psychic,-,-
+101,11,Charge Beam,22,electric,50,90
+101,14,Charge Beam,22,electric,50,90
+101,15,Charge Beam,22,electric,50,90
+101,16,Electro Ball,22,electric,-,100
+101,3,Self-Destruct,23,normal,200,100
+101,4,Self-Destruct,23,normal,200,100
+101,8,Charge Beam,26,electric,50,90
+101,9,Charge Beam,26,electric,50,90
+101,10,Charge Beam,26,electric,50,90
+101,11,Light Screen,26,psychic,-,-
+101,14,Light Screen,26,psychic,-,-
+101,15,Light Screen,26,psychic,-,-
+101,16,Self-Destruct,26,normal,200,100
+101,5,Self-Destruct,27,normal,200,100
+101,6,Self-Destruct,27,normal,200,100
+101,7,Self-Destruct,27,normal,200,100
+101,12,Self-Destruct,27,normal,200,100
+101,13,Self-Destruct,27,normal,200,100
+101,1,Light Screen,29,psychic,-,-
+101,2,Light Screen,29,psychic,-,-
+101,3,Rollout,29,rock,30,90
+101,4,Rollout,29,rock,30,90
+101,8,Self-Destruct,29,normal,200,100
+101,9,Self-Destruct,29,normal,200,100
+101,10,Self-Destruct,29,normal,200,100
+101,11,Electro Ball,29,electric,-,100
+101,14,Electro Ball,29,electric,-,100
+101,15,Electro Ball,29,electric,-,100
+101,16,Light Screen,29,psychic,-,-
+101,3,Light Screen,34,psychic,-,-
+101,4,Light Screen,34,psychic,-,-
+101,5,Rollout,34,rock,30,90
+101,6,Rollout,34,rock,30,90
+101,7,Rollout,34,rock,30,90
+101,12,Rollout,34,rock,30,90
+101,13,Rollout,34,rock,30,90
+101,8,Swift,35,normal,60,-
+101,9,Swift,35,normal,60,-
+101,10,Swift,35,normal,60,-
+101,11,Self-Destruct,35,normal,200,100
+101,14,Self-Destruct,35,normal,200,100
+101,15,Self-Destruct,35,normal,200,100
+101,16,Magnet Rise,36,electric,-,-
+101,1,Swift,40,normal,60,-
+101,2,Swift,40,normal,60,-
+101,3,Swift,40,normal,60,-
+101,4,Swift,40,normal,60,-
+101,8,Magnet Rise,40,electric,-,-
+101,9,Magnet Rise,40,electric,-,-
+101,10,Magnet Rise,40,electric,-,-
+101,11,Swift,40,normal,60,-
+101,14,Swift,40,normal,60,-
+101,15,Swift,40,normal,60,-
+101,5,Light Screen,41,psychic,-,-
+101,6,Light Screen,41,psychic,-,-
+101,7,Light Screen,41,psychic,-,-
+101,12,Light Screen,41,psychic,-,-
+101,13,Light Screen,41,psychic,-,-
+101,16,Discharge,41,electric,80,100
+101,3,Explosion,44,normal,250,100
+101,4,Explosion,44,normal,250,100
+101,8,Gyro Ball,46,steel,-,100
+101,9,Gyro Ball,46,steel,-,100
+101,10,Gyro Ball,46,steel,-,100
+101,11,Magnet Rise,46,electric,-,-
+101,14,Magnet Rise,46,electric,-,-
+101,15,Magnet Rise,46,electric,-,-
+101,16,Explosion,47,normal,250,100
+101,3,Mirror Coat,48,psychic,-,100
+101,4,Mirror Coat,48,psychic,-,100
+101,5,Swift,48,normal,60,-
+101,6,Swift,48,normal,60,-
+101,7,Swift,48,normal,60,-
+101,12,Swift,48,normal,60,-
+101,13,Swift,48,normal,60,-
+101,1,Explosion,50,normal,250,100
+101,2,Explosion,50,normal,250,100
+101,8,Explosion,51,normal,250,100
+101,9,Explosion,51,normal,250,100
+101,10,Explosion,51,normal,250,100
+101,11,Gyro Ball,51,steel,-,100
+101,14,Gyro Ball,51,steel,-,100
+101,15,Gyro Ball,51,steel,-,100
+101,5,Explosion,54,normal,250,100
+101,6,Explosion,54,normal,250,100
+101,7,Explosion,54,normal,250,100
+101,12,Explosion,54,normal,250,100
+101,13,Explosion,54,normal,250,100
+101,16,Gyro Ball,54,steel,-,100
+101,8,Mirror Coat,57,psychic,-,100
+101,9,Mirror Coat,57,psychic,-,100
+101,10,Mirror Coat,57,psychic,-,100
+101,11,Explosion,57,normal,250,100
+101,14,Explosion,57,normal,250,100
+101,15,Explosion,57,normal,250,100
+101,16,Mirror Coat,58,psychic,-,100
+101,5,Mirror Coat,59,psychic,-,100
+101,6,Mirror Coat,59,psychic,-,100
+101,7,Mirror Coat,59,psychic,-,100
+101,12,Mirror Coat,59,psychic,-,100
+101,13,Mirror Coat,59,psychic,-,100
+101,11,Mirror Coat,62,psychic,-,100
+101,14,Mirror Coat,62,psychic,-,100
+101,15,Mirror Coat,62,psychic,-,100

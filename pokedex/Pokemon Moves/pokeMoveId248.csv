@@ -1,0 +1,219 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+248,3,Leer,1,normal,-,100
+248,3,Bite,1,dark,60,100
+248,3,Screech,1,normal,-,85
+248,3,Sandstorm,1,rock,-,-
+248,4,Leer,1,normal,-,100
+248,4,Bite,1,dark,60,100
+248,4,Screech,1,normal,-,85
+248,4,Sandstorm,1,rock,-,-
+248,5,Leer,1,normal,-,100
+248,5,Bite,1,dark,60,100
+248,5,Screech,1,normal,-,85
+248,5,Sandstorm,1,rock,-,-
+248,6,Leer,1,normal,-,100
+248,6,Bite,1,dark,60,100
+248,6,Screech,1,normal,-,85
+248,6,Sandstorm,1,rock,-,-
+248,7,Leer,1,normal,-,100
+248,7,Bite,1,dark,60,100
+248,7,Screech,1,normal,-,85
+248,7,Sandstorm,1,rock,-,-
+248,8,Leer,1,normal,-,100
+248,8,Bite,1,dark,60,100
+248,8,Screech,1,normal,-,85
+248,8,Sandstorm,1,rock,-,-
+248,8,Thunder Fang,1,electric,65,95
+248,8,Ice Fang,1,ice,65,95
+248,8,Fire Fang,1,fire,65,95
+248,9,Leer,1,normal,-,100
+248,9,Bite,1,dark,60,100
+248,9,Screech,1,normal,-,85
+248,9,Sandstorm,1,rock,-,-
+248,9,Thunder Fang,1,electric,65,95
+248,9,Ice Fang,1,ice,65,95
+248,9,Fire Fang,1,fire,65,95
+248,10,Leer,1,normal,-,100
+248,10,Bite,1,dark,60,100
+248,10,Screech,1,normal,-,85
+248,10,Sandstorm,1,rock,-,-
+248,10,Thunder Fang,1,electric,65,95
+248,10,Ice Fang,1,ice,65,95
+248,10,Fire Fang,1,fire,65,95
+248,11,Leer,1,normal,-,100
+248,11,Bite,1,dark,60,100
+248,11,Screech,1,normal,-,85
+248,11,Sandstorm,1,rock,-,-
+248,11,Thunder Fang,1,electric,65,95
+248,11,Ice Fang,1,ice,65,95
+248,11,Fire Fang,1,fire,65,95
+248,12,Leer,1,normal,-,100
+248,12,Bite,1,dark,60,100
+248,12,Screech,1,normal,-,85
+248,12,Sandstorm,1,rock,-,-
+248,13,Leer,1,normal,-,100
+248,13,Bite,1,dark,60,100
+248,13,Screech,1,normal,-,85
+248,13,Sandstorm,1,rock,-,-
+248,14,Leer,1,normal,-,100
+248,14,Bite,1,dark,60,100
+248,14,Screech,1,normal,-,85
+248,14,Sandstorm,1,rock,-,-
+248,14,Thunder Fang,1,electric,65,95
+248,14,Ice Fang,1,ice,65,95
+248,14,Fire Fang,1,fire,65,95
+248,15,Leer,1,normal,-,100
+248,15,Bite,1,dark,60,100
+248,15,Screech,1,normal,-,85
+248,15,Sandstorm,1,rock,-,-
+248,15,Thunder Fang,1,electric,65,95
+248,15,Ice Fang,1,ice,65,95
+248,15,Fire Fang,1,fire,65,95
+248,16,Leer,1,normal,-,100
+248,16,Bite,1,dark,60,100
+248,16,Screech,1,normal,-,85
+248,16,Sandstorm,1,rock,-,-
+248,16,Thunder Fang,1,electric,65,95
+248,16,Ice Fang,1,ice,65,95
+248,16,Fire Fang,1,fire,65,95
+248,8,Sandstorm,5,rock,-,-
+248,9,Sandstorm,5,rock,-,-
+248,10,Sandstorm,5,rock,-,-
+248,11,Sandstorm,5,rock,-,-
+248,14,Sandstorm,5,rock,-,-
+248,15,Sandstorm,5,rock,-,-
+248,16,Sandstorm,5,rock,-,-
+248,3,Sandstorm,8,rock,-,-
+248,4,Sandstorm,8,rock,-,-
+248,5,Sandstorm,8,rock,-,-
+248,6,Sandstorm,8,rock,-,-
+248,7,Sandstorm,8,rock,-,-
+248,12,Sandstorm,8,rock,-,-
+248,13,Sandstorm,8,rock,-,-
+248,8,Screech,10,normal,-,85
+248,9,Screech,10,normal,-,85
+248,10,Screech,10,normal,-,85
+248,11,Screech,10,normal,-,85
+248,14,Screech,10,normal,-,85
+248,15,Screech,10,normal,-,85
+248,16,Screech,10,normal,-,85
+248,8,Rock Slide,14,rock,75,90
+248,9,Rock Slide,14,rock,75,90
+248,10,Rock Slide,14,rock,75,90
+248,11,Chip Away,14,normal,70,100
+248,14,Chip Away,14,normal,70,100
+248,15,Chip Away,14,normal,70,100
+248,16,Chip Away,14,normal,70,100
+248,3,Screech,15,normal,-,85
+248,4,Screech,15,normal,-,85
+248,5,Screech,15,normal,-,85
+248,6,Screech,15,normal,-,85
+248,7,Screech,15,normal,-,85
+248,12,Screech,15,normal,-,85
+248,13,Screech,15,normal,-,85
+248,8,Scary Face,19,normal,-,100
+248,9,Scary Face,19,normal,-,100
+248,10,Scary Face,19,normal,-,100
+248,11,Rock Slide,19,rock,75,90
+248,14,Rock Slide,19,rock,75,90
+248,15,Rock Slide,19,rock,75,90
+248,16,Rock Slide,19,rock,75,90
+248,3,Rock Slide,22,rock,75,90
+248,4,Rock Slide,22,rock,75,90
+248,5,Rock Slide,22,rock,75,90
+248,6,Rock Slide,22,rock,75,90
+248,7,Rock Slide,22,rock,75,90
+248,12,Rock Slide,22,rock,75,90
+248,13,Rock Slide,22,rock,75,90
+248,8,Thrash,23,normal,120,100
+248,9,Thrash,23,normal,120,100
+248,10,Thrash,23,normal,120,100
+248,11,Scary Face,23,normal,-,100
+248,14,Scary Face,23,normal,-,100
+248,15,Scary Face,23,normal,-,100
+248,16,Scary Face,23,normal,-,100
+248,8,Dark Pulse,28,dark,80,100
+248,9,Dark Pulse,28,dark,80,100
+248,10,Dark Pulse,28,dark,80,100
+248,11,Thrash,28,normal,120,100
+248,14,Thrash,28,normal,120,100
+248,15,Thrash,28,normal,120,100
+248,16,Thrash,28,normal,120,100
+248,3,Thrash,29,normal,120,100
+248,4,Thrash,29,normal,120,100
+248,5,Thrash,29,normal,120,100
+248,6,Thrash,29,normal,120,100
+248,7,Thrash,29,normal,120,100
+248,12,Thrash,29,normal,120,100
+248,13,Thrash,29,normal,120,100
+248,8,Payback,34,dark,50,100
+248,9,Payback,34,dark,50,100
+248,10,Payback,34,dark,50,100
+248,11,Dark Pulse,34,dark,80,100
+248,14,Dark Pulse,34,dark,80,100
+248,15,Dark Pulse,34,dark,80,100
+248,16,Dark Pulse,34,dark,80,100
+248,3,Scary Face,38,normal,-,100
+248,4,Scary Face,38,normal,-,100
+248,5,Scary Face,38,normal,-,100
+248,6,Scary Face,38,normal,-,100
+248,7,Scary Face,38,normal,-,100
+248,12,Scary Face,38,normal,-,100
+248,13,Scary Face,38,normal,-,100
+248,8,Crunch,41,dark,80,100
+248,9,Crunch,41,dark,80,100
+248,10,Crunch,41,dark,80,100
+248,11,Payback,41,dark,50,100
+248,14,Payback,41,dark,50,100
+248,15,Payback,41,dark,50,100
+248,16,Payback,41,dark,50,100
+248,3,Crunch,47,dark,80,100
+248,4,Crunch,47,dark,80,100
+248,5,Crunch,47,dark,80,100
+248,6,Crunch,47,dark,80,100
+248,7,Crunch,47,dark,80,100
+248,8,Earthquake,47,ground,100,100
+248,9,Earthquake,47,ground,100,100
+248,10,Earthquake,47,ground,100,100
+248,11,Crunch,47,dark,80,100
+248,12,Crunch,47,dark,80,100
+248,13,Crunch,47,dark,80,100
+248,14,Crunch,47,dark,80,100
+248,15,Crunch,47,dark,80,100
+248,16,Crunch,47,dark,80,100
+248,8,Stone Edge,54,rock,100,80
+248,9,Stone Edge,54,rock,100,80
+248,10,Stone Edge,54,rock,100,80
+248,11,Earthquake,54,ground,100,100
+248,14,Earthquake,54,ground,100,100
+248,15,Earthquake,54,ground,100,100
+248,16,Earthquake,54,ground,100,100
+248,3,Earthquake,61,ground,100,100
+248,4,Earthquake,61,ground,100,100
+248,5,Earthquake,61,ground,100,100
+248,6,Earthquake,61,ground,100,100
+248,7,Earthquake,61,ground,100,100
+248,12,Earthquake,61,ground,100,100
+248,13,Earthquake,61,ground,100,100
+248,11,Stone Edge,63,rock,100,80
+248,14,Stone Edge,63,rock,100,80
+248,15,Stone Edge,63,rock,100,80
+248,16,Stone Edge,63,rock,100,80
+248,8,Hyper Beam,70,normal,150,90
+248,9,Hyper Beam,70,normal,150,90
+248,10,Hyper Beam,70,normal,150,90
+248,11,Hyper Beam,73,normal,150,90
+248,14,Hyper Beam,73,normal,150,90
+248,15,Hyper Beam,73,normal,150,90
+248,16,Hyper Beam,73,normal,150,90
+248,3,Hyper Beam,75,normal,150,90
+248,4,Hyper Beam,75,normal,150,90
+248,5,Hyper Beam,75,normal,150,90
+248,6,Hyper Beam,75,normal,150,90
+248,7,Hyper Beam,75,normal,150,90
+248,12,Hyper Beam,75,normal,150,90
+248,13,Hyper Beam,75,normal,150,90
+248,11,Giga Impact,82,normal,150,90
+248,14,Giga Impact,82,normal,150,90
+248,15,Giga Impact,82,normal,150,90
+248,16,Giga Impact,82,normal,150,90

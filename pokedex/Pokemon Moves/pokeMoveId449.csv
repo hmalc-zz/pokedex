@@ -1,0 +1,76 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+449,8,Sand Attack,1,ground,-,100
+449,8,Tackle,1,normal,50,100
+449,9,Sand Attack,1,ground,-,100
+449,9,Tackle,1,normal,50,100
+449,10,Sand Attack,1,ground,-,100
+449,10,Tackle,1,normal,50,100
+449,11,Sand Attack,1,ground,-,100
+449,11,Tackle,1,normal,50,100
+449,14,Sand Attack,1,ground,-,100
+449,14,Tackle,1,normal,50,100
+449,15,Sand Attack,1,ground,-,100
+449,15,Tackle,1,normal,50,100
+449,16,Sand Attack,1,ground,-,100
+449,16,Tackle,1,normal,50,100
+449,8,Bite,7,dark,60,100
+449,9,Bite,7,dark,60,100
+449,10,Bite,7,dark,60,100
+449,11,Bite,7,dark,60,100
+449,14,Bite,7,dark,60,100
+449,15,Bite,7,dark,60,100
+449,16,Bite,7,dark,60,100
+449,8,Yawn,13,normal,-,-
+449,9,Yawn,13,normal,-,-
+449,10,Yawn,13,normal,-,-
+449,11,Yawn,13,normal,-,-
+449,14,Yawn,13,normal,-,-
+449,15,Yawn,13,normal,-,-
+449,16,Yawn,13,normal,-,-
+449,8,Take Down,19,normal,90,85
+449,9,Take Down,19,normal,90,85
+449,10,Take Down,19,normal,90,85
+449,10,Dig,19,ground,80,100
+449,11,Take Down,19,normal,90,85
+449,11,Dig,19,ground,80,100
+449,14,Take Down,19,normal,90,85
+449,14,Dig,19,ground,80,100
+449,15,Take Down,19,normal,90,85
+449,15,Dig,19,ground,80,100
+449,16,Take Down,19,normal,90,85
+449,16,Dig,19,ground,80,100
+449,8,Sand Tomb,25,ground,35,85
+449,9,Sand Tomb,25,ground,35,85
+449,10,Sand Tomb,25,ground,35,85
+449,11,Sand Tomb,25,ground,35,85
+449,14,Sand Tomb,25,ground,35,85
+449,15,Sand Tomb,25,ground,35,85
+449,16,Sand Tomb,25,ground,35,85
+449,8,Crunch,31,dark,80,100
+449,9,Crunch,31,dark,80,100
+449,10,Crunch,31,dark,80,100
+449,11,Crunch,31,dark,80,100
+449,14,Crunch,31,dark,80,100
+449,15,Crunch,31,dark,80,100
+449,16,Crunch,31,dark,80,100
+449,8,Earthquake,37,ground,100,100
+449,9,Earthquake,37,ground,100,100
+449,10,Earthquake,37,ground,100,100
+449,11,Earthquake,37,ground,100,100
+449,14,Earthquake,37,ground,100,100
+449,15,Earthquake,37,ground,100,100
+449,16,Earthquake,37,ground,100,100
+449,8,Double-Edge,44,normal,120,100
+449,9,Double-Edge,44,normal,120,100
+449,10,Double-Edge,44,normal,120,100
+449,11,Double-Edge,44,normal,120,100
+449,14,Double-Edge,44,normal,120,100
+449,15,Double-Edge,44,normal,120,100
+449,16,Double-Edge,44,normal,120,100
+449,8,Fissure,50,ground,-,30
+449,9,Fissure,50,ground,-,30
+449,10,Fissure,50,ground,-,30
+449,11,Fissure,50,ground,-,30
+449,14,Fissure,50,ground,-,30
+449,15,Fissure,50,ground,-,30
+449,16,Fissure,50,ground,-,30

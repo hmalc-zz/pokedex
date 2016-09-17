@@ -1,0 +1,90 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+480,8,Rest,1,psychic,-,-
+480,9,Confusion,1,psychic,50,100
+480,9,Rest,1,psychic,-,-
+480,10,Confusion,1,psychic,50,100
+480,10,Rest,1,psychic,-,-
+480,11,Confusion,1,psychic,50,100
+480,11,Rest,1,psychic,-,-
+480,14,Confusion,1,psychic,50,100
+480,14,Rest,1,psychic,-,-
+480,15,Confusion,1,psychic,50,100
+480,15,Rest,1,psychic,-,-
+480,15,Flail,1,normal,-,100
+480,15,Memento,1,dark,-,100
+480,15,Natural Gift,1,normal,-,100
+480,16,Confusion,1,psychic,50,100
+480,16,Rest,1,psychic,-,-
+480,16,Flail,1,normal,-,100
+480,16,Memento,1,dark,-,100
+480,16,Natural Gift,1,normal,-,100
+480,8,Imprison,6,psychic,-,-
+480,9,Imprison,6,psychic,-,-
+480,10,Imprison,6,psychic,-,-
+480,11,Imprison,6,psychic,-,-
+480,14,Imprison,6,psychic,-,-
+480,15,Imprison,6,psychic,-,-
+480,16,Imprison,6,psychic,-,-
+480,8,Endure,16,normal,-,-
+480,9,Endure,16,normal,-,-
+480,10,Endure,16,normal,-,-
+480,11,Endure,16,normal,-,-
+480,14,Endure,16,normal,-,-
+480,15,Endure,16,normal,-,-
+480,16,Endure,16,normal,-,-
+480,8,Confusion,21,psychic,50,100
+480,9,Swift,21,normal,60,-
+480,10,Swift,21,normal,60,-
+480,11,Swift,21,normal,60,-
+480,14,Swift,21,normal,60,-
+480,15,Swift,21,normal,60,-
+480,16,Swift,21,normal,60,-
+480,8,Yawn,31,normal,-,-
+480,9,Yawn,31,normal,-,-
+480,10,Yawn,31,normal,-,-
+480,11,Yawn,31,normal,-,-
+480,14,Yawn,31,normal,-,-
+480,15,Yawn,31,normal,-,-
+480,16,Yawn,31,normal,-,-
+480,8,Future Sight,36,psychic,120,100
+480,9,Future Sight,36,psychic,120,100
+480,10,Future Sight,36,psychic,120,100
+480,11,Future Sight,36,psychic,120,100
+480,14,Future Sight,36,psychic,120,100
+480,15,Future Sight,36,psychic,120,100
+480,16,Future Sight,36,psychic,120,100
+480,8,Amnesia,46,psychic,-,-
+480,9,Amnesia,46,psychic,-,-
+480,10,Amnesia,46,psychic,-,-
+480,11,Amnesia,46,psychic,-,-
+480,14,Amnesia,46,psychic,-,-
+480,15,Amnesia,46,psychic,-,-
+480,16,Amnesia,46,psychic,-,-
+480,15,Extrasensory,50,psychic,80,100
+480,16,Extrasensory,50,psychic,80,100
+480,8,Extrasensory,51,psychic,80,100
+480,9,Extrasensory,51,psychic,80,100
+480,10,Extrasensory,51,psychic,80,100
+480,11,Extrasensory,51,psychic,80,100
+480,14,Extrasensory,51,psychic,80,100
+480,8,Flail,61,normal,-,100
+480,9,Flail,61,normal,-,100
+480,10,Flail,61,normal,-,100
+480,11,Flail,61,normal,-,100
+480,14,Flail,61,normal,-,100
+480,15,Flail,61,normal,-,100
+480,16,Flail,61,normal,-,100
+480,8,Natural Gift,66,normal,-,100
+480,9,Natural Gift,66,normal,-,100
+480,10,Natural Gift,66,normal,-,100
+480,11,Natural Gift,66,normal,-,100
+480,14,Natural Gift,66,normal,-,100
+480,15,Natural Gift,66,normal,-,100
+480,16,Natural Gift,66,normal,-,100
+480,8,Memento,76,dark,-,100
+480,9,Memento,76,dark,-,100
+480,10,Memento,76,dark,-,100
+480,11,Memento,76,dark,-,100
+480,14,Memento,76,dark,-,100
+480,15,Memento,76,dark,-,100
+480,16,Memento,76,dark,-,100

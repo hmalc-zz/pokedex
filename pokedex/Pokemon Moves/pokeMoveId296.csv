@@ -1,0 +1,182 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+296,5,Tackle,1,normal,50,100
+296,5,Focus Energy,1,normal,-,-
+296,6,Tackle,1,normal,50,100
+296,6,Focus Energy,1,normal,-,-
+296,7,Tackle,1,normal,50,100
+296,7,Focus Energy,1,normal,-,-
+296,8,Tackle,1,normal,50,100
+296,8,Focus Energy,1,normal,-,-
+296,9,Tackle,1,normal,50,100
+296,9,Focus Energy,1,normal,-,-
+296,10,Tackle,1,normal,50,100
+296,10,Focus Energy,1,normal,-,-
+296,11,Tackle,1,normal,50,100
+296,11,Focus Energy,1,normal,-,-
+296,12,Tackle,1,normal,50,100
+296,12,Focus Energy,1,normal,-,-
+296,13,Tackle,1,normal,50,100
+296,13,Focus Energy,1,normal,-,-
+296,14,Tackle,1,normal,50,100
+296,14,Focus Energy,1,normal,-,-
+296,15,Tackle,1,normal,50,100
+296,15,Focus Energy,1,normal,-,-
+296,16,Tackle,1,normal,50,100
+296,16,Focus Energy,1,normal,-,-
+296,5,Sand Attack,4,ground,-,100
+296,6,Sand Attack,4,ground,-,100
+296,7,Sand Attack,4,ground,-,100
+296,8,Sand Attack,4,ground,-,100
+296,9,Sand Attack,4,ground,-,100
+296,10,Sand Attack,4,ground,-,100
+296,11,Sand Attack,4,ground,-,100
+296,12,Sand Attack,4,ground,-,100
+296,13,Sand Attack,4,ground,-,100
+296,14,Sand Attack,4,ground,-,100
+296,15,Sand Attack,4,ground,-,100
+296,16,Sand Attack,4,ground,-,100
+296,8,Arm Thrust,7,fighting,15,100
+296,9,Arm Thrust,7,fighting,15,100
+296,10,Arm Thrust,7,fighting,15,100
+296,11,Arm Thrust,7,fighting,15,100
+296,14,Arm Thrust,7,fighting,15,100
+296,15,Arm Thrust,7,fighting,15,100
+296,16,Arm Thrust,7,fighting,15,100
+296,5,Arm Thrust,10,fighting,15,100
+296,6,Arm Thrust,10,fighting,15,100
+296,7,Arm Thrust,10,fighting,15,100
+296,8,Vital Throw,10,fighting,70,-
+296,9,Vital Throw,10,fighting,70,-
+296,10,Vital Throw,10,fighting,70,-
+296,11,Vital Throw,10,fighting,70,-
+296,12,Arm Thrust,10,fighting,15,100
+296,13,Arm Thrust,10,fighting,15,100
+296,14,Vital Throw,10,fighting,70,-
+296,15,Vital Throw,10,fighting,70,-
+296,16,Fake Out,10,normal,40,100
+296,5,Vital Throw,13,fighting,70,-
+296,6,Vital Throw,13,fighting,70,-
+296,7,Vital Throw,13,fighting,70,-
+296,8,Fake Out,13,normal,40,100
+296,9,Fake Out,13,normal,40,100
+296,10,Fake Out,13,normal,40,100
+296,11,Fake Out,13,normal,40,100
+296,12,Vital Throw,13,fighting,70,-
+296,13,Vital Throw,13,fighting,70,-
+296,14,Fake Out,13,normal,40,100
+296,15,Fake Out,13,normal,40,100
+296,16,Force Palm,13,fighting,60,100
+296,8,Whirlwind,16,normal,-,-
+296,9,Whirlwind,16,normal,-,-
+296,10,Whirlwind,16,normal,-,-
+296,11,Whirlwind,16,normal,-,-
+296,14,Whirlwind,16,normal,-,-
+296,15,Whirlwind,16,normal,-,-
+296,16,Whirlwind,16,normal,-,-
+296,5,Fake Out,19,normal,40,100
+296,6,Fake Out,19,normal,40,100
+296,7,Fake Out,19,normal,40,100
+296,8,Knock Off,19,dark,65,100
+296,9,Knock Off,19,dark,65,100
+296,10,Knock Off,19,dark,65,100
+296,11,Knock Off,19,dark,65,100
+296,12,Fake Out,19,normal,40,100
+296,13,Fake Out,19,normal,40,100
+296,14,Knock Off,19,dark,65,100
+296,15,Knock Off,19,dark,65,100
+296,16,Knock Off,19,dark,65,100
+296,5,Whirlwind,22,normal,-,-
+296,6,Whirlwind,22,normal,-,-
+296,7,Whirlwind,22,normal,-,-
+296,8,Smelling Salts,22,normal,70,100
+296,9,Smelling Salts,22,normal,70,100
+296,10,Smelling Salts,22,normal,70,100
+296,11,Smelling Salts,22,normal,70,100
+296,12,Whirlwind,22,normal,-,-
+296,13,Whirlwind,22,normal,-,-
+296,14,Smelling Salts,22,normal,70,100
+296,15,Smelling Salts,22,normal,70,100
+296,16,Vital Throw,22,fighting,70,-
+296,8,Belly Drum,25,normal,-,-
+296,9,Belly Drum,25,normal,-,-
+296,10,Belly Drum,25,normal,-,-
+296,11,Belly Drum,25,normal,-,-
+296,14,Belly Drum,25,normal,-,-
+296,15,Belly Drum,25,normal,-,-
+296,16,Belly Drum,25,normal,-,-
+296,5,Knock Off,28,dark,65,100
+296,6,Knock Off,28,dark,65,100
+296,7,Knock Off,28,dark,65,100
+296,8,Force Palm,28,fighting,60,100
+296,9,Force Palm,28,fighting,60,100
+296,10,Force Palm,28,fighting,60,100
+296,11,Force Palm,28,fighting,60,100
+296,12,Knock Off,28,dark,65,100
+296,13,Knock Off,28,dark,65,100
+296,14,Force Palm,28,fighting,60,100
+296,15,Force Palm,28,fighting,60,100
+296,16,Smelling Salts,28,normal,70,100
+296,5,Smelling Salts,31,normal,70,100
+296,6,Smelling Salts,31,normal,70,100
+296,7,Smelling Salts,31,normal,70,100
+296,8,Seismic Toss,31,fighting,-,100
+296,9,Seismic Toss,31,fighting,-,100
+296,10,Seismic Toss,31,fighting,-,100
+296,11,Seismic Toss,31,fighting,-,100
+296,12,Smelling Salts,31,normal,70,100
+296,13,Smelling Salts,31,normal,70,100
+296,14,Seismic Toss,31,fighting,-,100
+296,15,Seismic Toss,31,fighting,-,100
+296,16,Seismic Toss,31,fighting,-,100
+296,8,Wake-Up Slap,34,fighting,70,100
+296,9,Wake-Up Slap,34,fighting,70,100
+296,10,Wake-Up Slap,34,fighting,70,100
+296,11,Wake-Up Slap,34,fighting,70,100
+296,14,Wake-Up Slap,34,fighting,70,100
+296,15,Wake-Up Slap,34,fighting,70,100
+296,16,Wake-Up Slap,34,fighting,70,100
+296,5,Belly Drum,37,normal,-,-
+296,6,Belly Drum,37,normal,-,-
+296,7,Belly Drum,37,normal,-,-
+296,8,Endure,37,normal,-,-
+296,9,Endure,37,normal,-,-
+296,10,Endure,37,normal,-,-
+296,11,Endure,37,normal,-,-
+296,12,Belly Drum,37,normal,-,-
+296,13,Belly Drum,37,normal,-,-
+296,14,Endure,37,normal,-,-
+296,15,Endure,37,normal,-,-
+296,16,Endure,37,normal,-,-
+296,5,Endure,40,normal,-,-
+296,6,Endure,40,normal,-,-
+296,7,Endure,40,normal,-,-
+296,8,Close Combat,40,fighting,120,100
+296,9,Close Combat,40,fighting,120,100
+296,10,Close Combat,40,fighting,120,100
+296,11,Close Combat,40,fighting,120,100
+296,12,Endure,40,normal,-,-
+296,13,Endure,40,normal,-,-
+296,14,Close Combat,40,fighting,120,100
+296,15,Close Combat,40,fighting,120,100
+296,16,Close Combat,40,fighting,120,100
+296,8,Reversal,43,fighting,-,100
+296,9,Reversal,43,fighting,-,100
+296,10,Reversal,43,fighting,-,100
+296,11,Reversal,43,fighting,-,100
+296,14,Reversal,43,fighting,-,100
+296,15,Reversal,43,fighting,-,100
+296,16,Reversal,43,fighting,-,100
+296,5,Seismic Toss,46,fighting,-,100
+296,6,Seismic Toss,46,fighting,-,100
+296,7,Seismic Toss,46,fighting,-,100
+296,11,Heavy Slam,46,steel,-,100
+296,12,Seismic Toss,46,fighting,-,100
+296,13,Seismic Toss,46,fighting,-,100
+296,14,Heavy Slam,46,steel,-,100
+296,15,Heavy Slam,46,steel,-,100
+296,16,Heavy Slam,46,steel,-,100
+296,5,Reversal,49,fighting,-,100
+296,6,Reversal,49,fighting,-,100
+296,7,Reversal,49,fighting,-,100
+296,12,Reversal,49,fighting,-,100
+296,13,Reversal,49,fighting,-,100

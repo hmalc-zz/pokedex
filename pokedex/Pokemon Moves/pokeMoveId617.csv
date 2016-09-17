@@ -1,0 +1,78 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+617,11,Quick Attack,1,normal,40,100
+617,11,Double Team,1,normal,-,-
+617,11,Leech Life,1,bug,20,100
+617,11,Acid Spray,1,poison,40,100
+617,14,Quick Attack,1,normal,40,100
+617,14,Double Team,1,normal,-,-
+617,14,Leech Life,1,bug,20,100
+617,14,Acid Spray,1,poison,40,100
+617,15,Quick Attack,1,normal,40,100
+617,15,Double Team,1,normal,-,-
+617,15,Leech Life,1,bug,20,100
+617,15,Power Swap,1,psychic,-,-
+617,15,Acid Spray,1,poison,40,100
+617,15,Final Gambit,1,fighting,-,100
+617,16,Quick Attack,1,normal,40,100
+617,16,Double Team,1,normal,-,-
+617,16,Leech Life,1,bug,20,100
+617,16,Power Swap,1,psychic,-,-
+617,16,Acid Spray,1,poison,40,100
+617,16,Final Gambit,1,fighting,-,100
+617,16,Water Shuriken,1,water,15,100
+617,11,Acid Spray,4,poison,40,100
+617,14,Acid Spray,4,poison,40,100
+617,15,Acid Spray,4,poison,40,100
+617,16,Acid Spray,4,poison,40,100
+617,11,Double Team,8,normal,-,-
+617,14,Double Team,8,normal,-,-
+617,15,Double Team,8,normal,-,-
+617,16,Double Team,8,normal,-,-
+617,11,Quick Attack,13,normal,40,100
+617,14,Quick Attack,13,normal,40,100
+617,15,Quick Attack,13,normal,40,100
+617,16,Quick Attack,13,normal,40,100
+617,11,Struggle Bug,16,bug,50,100
+617,14,Struggle Bug,16,bug,50,100
+617,15,Struggle Bug,16,bug,50,100
+617,16,Struggle Bug,16,bug,50,100
+617,11,Mega Drain,20,grass,40,100
+617,14,Mega Drain,20,grass,40,100
+617,15,Mega Drain,20,grass,40,100
+617,16,Mega Drain,20,grass,40,100
+617,11,Swift,25,normal,60,-
+617,14,Swift,25,normal,60,-
+617,15,Swift,25,normal,60,-
+617,16,Swift,25,normal,60,-
+617,11,Me First,28,normal,-,-
+617,14,Me First,28,normal,-,-
+617,15,Me First,28,normal,-,-
+617,16,Me First,28,normal,-,-
+617,11,Agility,32,psychic,-,-
+617,14,Agility,32,psychic,-,-
+617,15,Agility,32,psychic,-,-
+617,16,Agility,32,psychic,-,-
+617,11,Giga Drain,37,grass,75,100
+617,14,Giga Drain,37,grass,75,100
+617,15,Giga Drain,37,grass,75,100
+617,16,Giga Drain,37,grass,75,100
+617,11,U-turn,40,bug,70,100
+617,14,U-turn,40,bug,70,100
+617,15,U-turn,40,bug,70,100
+617,16,U-turn,40,bug,70,100
+617,11,Bug Buzz,44,bug,90,100
+617,14,Bug Buzz,44,bug,90,100
+617,15,Bug Buzz,44,bug,90,100
+617,16,Bug Buzz,44,bug,90,100
+617,11,Recover,49,normal,-,-
+617,14,Recover,49,normal,-,-
+617,15,Recover,49,normal,-,-
+617,16,Recover,49,normal,-,-
+617,11,Power Swap,52,psychic,-,-
+617,14,Power Swap,52,psychic,-,-
+617,15,Power Swap,52,psychic,-,-
+617,16,Power Swap,52,psychic,-,-
+617,11,Final Gambit,56,fighting,-,100
+617,14,Final Gambit,56,fighting,-,100
+617,15,Final Gambit,56,fighting,-,100
+617,16,Final Gambit,56,fighting,-,100

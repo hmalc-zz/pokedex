@@ -1,0 +1,75 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+594,11,Pound,1,normal,40,100
+594,11,Water Sport,1,water,-,-
+594,14,Pound,1,normal,40,100
+594,14,Water Sport,1,water,-,-
+594,15,Pound,1,normal,40,100
+594,15,Hydro Pump,1,water,110,80
+594,15,Water Sport,1,water,-,-
+594,15,Healing Wish,1,psychic,-,-
+594,15,Wide Guard,1,rock,-,-
+594,16,Pound,1,normal,40,100
+594,16,Hydro Pump,1,water,110,80
+594,16,Water Sport,1,water,-,-
+594,16,Healing Wish,1,psychic,-,-
+594,16,Wide Guard,1,rock,-,-
+594,11,Aqua Ring,5,water,-,-
+594,14,Aqua Ring,5,water,-,-
+594,15,Aqua Ring,5,water,-,-
+594,16,Aqua Ring,5,water,-,-
+594,11,Aqua Jet,9,water,40,100
+594,14,Aqua Jet,9,water,40,100
+594,15,Aqua Jet,9,water,40,100
+594,16,Aqua Jet,9,water,40,100
+594,11,Double Slap,13,normal,15,85
+594,14,Double Slap,13,normal,15,85
+594,15,Double Slap,13,normal,15,85
+594,16,Double Slap,13,normal,15,85
+594,11,Heal Pulse,17,psychic,-,-
+594,14,Heal Pulse,17,psychic,-,-
+594,15,Heal Pulse,17,psychic,-,-
+594,16,Heal Pulse,17,psychic,-,-
+594,11,Protect,21,normal,-,-
+594,14,Protect,21,normal,-,-
+594,15,Protect,21,normal,-,-
+594,16,Protect,21,normal,-,-
+594,11,Water Pulse,25,water,60,100
+594,14,Water Pulse,25,water,60,100
+594,15,Water Pulse,25,water,60,100
+594,16,Water Pulse,25,water,60,100
+594,11,Wake-Up Slap,29,fighting,70,100
+594,14,Wake-Up Slap,29,fighting,70,100
+594,15,Wake-Up Slap,29,fighting,70,100
+594,16,Wake-Up Slap,29,fighting,70,100
+594,11,Soak,33,water,-,100
+594,14,Soak,33,water,-,100
+594,15,Soak,33,water,-,100
+594,16,Soak,33,water,-,100
+594,11,Wish,37,normal,-,-
+594,14,Wish,37,normal,-,-
+594,15,Wish,37,normal,-,-
+594,16,Wish,37,normal,-,-
+594,11,Brine,41,water,65,100
+594,14,Brine,41,water,65,100
+594,15,Brine,41,water,65,100
+594,16,Brine,41,water,65,100
+594,11,Safeguard,45,normal,-,-
+594,14,Safeguard,45,normal,-,-
+594,15,Safeguard,45,normal,-,-
+594,16,Safeguard,45,normal,-,-
+594,11,Helping Hand,49,normal,-,-
+594,14,Helping Hand,49,normal,-,-
+594,15,Helping Hand,49,normal,-,-
+594,16,Helping Hand,49,normal,-,-
+594,11,Wide Guard,53,rock,-,-
+594,14,Wide Guard,53,rock,-,-
+594,15,Wide Guard,53,rock,-,-
+594,16,Wide Guard,53,rock,-,-
+594,11,Healing Wish,57,psychic,-,-
+594,14,Healing Wish,57,psychic,-,-
+594,15,Healing Wish,57,psychic,-,-
+594,16,Healing Wish,57,psychic,-,-
+594,11,Hydro Pump,61,water,110,80
+594,14,Hydro Pump,61,water,110,80
+594,15,Hydro Pump,61,water,110,80
+594,16,Hydro Pump,61,water,110,80

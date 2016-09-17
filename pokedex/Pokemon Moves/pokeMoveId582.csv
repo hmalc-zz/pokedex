@@ -1,0 +1,61 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+582,11,Icicle Spear,1,ice,25,100
+582,14,Icicle Spear,1,ice,25,100
+582,15,Icicle Spear,1,ice,25,100
+582,16,Icicle Spear,1,ice,25,100
+582,11,Harden,4,normal,-,-
+582,14,Harden,4,normal,-,-
+582,15,Harden,4,normal,-,-
+582,16,Harden,4,normal,-,-
+582,11,Astonish,7,ghost,30,100
+582,14,Astonish,7,ghost,30,100
+582,15,Astonish,7,ghost,30,100
+582,16,Astonish,7,ghost,30,100
+582,11,Uproar,10,normal,90,100
+582,14,Uproar,10,normal,90,100
+582,15,Uproar,10,normal,90,100
+582,16,Uproar,10,normal,90,100
+582,11,Icy Wind,13,ice,55,95
+582,14,Icy Wind,13,ice,55,95
+582,15,Icy Wind,13,ice,55,95
+582,16,Icy Wind,13,ice,55,95
+582,11,Mist,16,ice,-,-
+582,14,Mist,16,ice,-,-
+582,15,Mist,16,ice,-,-
+582,16,Mist,16,ice,-,-
+582,11,Avalanche,19,ice,60,100
+582,14,Avalanche,19,ice,60,100
+582,15,Avalanche,19,ice,60,100
+582,16,Avalanche,19,ice,60,100
+582,11,Taunt,22,dark,-,100
+582,14,Taunt,22,dark,-,100
+582,15,Taunt,22,dark,-,100
+582,16,Taunt,22,dark,-,100
+582,11,Mirror Shot,26,steel,65,85
+582,14,Mirror Shot,26,steel,65,85
+582,15,Mirror Shot,26,steel,65,85
+582,16,Mirror Shot,26,steel,65,85
+582,11,Acid Armor,31,poison,-,-
+582,14,Acid Armor,31,poison,-,-
+582,15,Acid Armor,31,poison,-,-
+582,16,Acid Armor,31,poison,-,-
+582,11,Ice Beam,35,ice,90,100
+582,14,Ice Beam,35,ice,90,100
+582,15,Ice Beam,35,ice,90,100
+582,16,Ice Beam,35,ice,90,100
+582,11,Hail,40,ice,-,-
+582,14,Hail,40,ice,-,-
+582,15,Hail,40,ice,-,-
+582,16,Hail,40,ice,-,-
+582,11,Mirror Coat,44,psychic,-,100
+582,14,Mirror Coat,44,psychic,-,100
+582,15,Mirror Coat,44,psychic,-,100
+582,16,Mirror Coat,44,psychic,-,100
+582,11,Blizzard,49,ice,110,70
+582,14,Blizzard,49,ice,110,70
+582,15,Blizzard,49,ice,110,70
+582,16,Blizzard,49,ice,110,70
+582,11,Sheer Cold,53,ice,-,30
+582,14,Sheer Cold,53,ice,-,30
+582,15,Sheer Cold,53,ice,-,30
+582,16,Sheer Cold,53,ice,-,30

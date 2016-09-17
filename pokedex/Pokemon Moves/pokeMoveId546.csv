@@ -1,0 +1,67 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+546,11,Absorb,1,grass,20,100
+546,14,Absorb,1,grass,20,100
+546,15,Absorb,1,grass,20,100
+546,15,Fairy Wind,1,fairy,40,100
+546,16,Absorb,1,grass,20,100
+546,16,Fairy Wind,1,fairy,40,100
+546,11,Growth,4,normal,-,-
+546,14,Growth,4,normal,-,-
+546,15,Growth,4,normal,-,-
+546,16,Growth,4,normal,-,-
+546,11,Leech Seed,8,grass,-,90
+546,14,Leech Seed,8,grass,-,90
+546,15,Leech Seed,8,grass,-,90
+546,16,Leech Seed,8,grass,-,90
+546,11,Stun Spore,10,grass,-,75
+546,14,Stun Spore,10,grass,-,75
+546,15,Stun Spore,10,grass,-,75
+546,16,Stun Spore,10,grass,-,75
+546,11,Mega Drain,13,grass,40,100
+546,14,Mega Drain,13,grass,40,100
+546,15,Mega Drain,13,grass,40,100
+546,16,Mega Drain,13,grass,40,100
+546,11,Cotton Spore,17,grass,-,100
+546,14,Cotton Spore,17,grass,-,100
+546,15,Cotton Spore,17,grass,-,100
+546,16,Cotton Spore,17,grass,-,100
+546,11,Razor Leaf,19,grass,55,95
+546,14,Razor Leaf,19,grass,55,95
+546,15,Razor Leaf,19,grass,55,95
+546,16,Razor Leaf,19,grass,55,95
+546,11,Poison Powder,22,poison,-,75
+546,14,Poison Powder,22,poison,-,75
+546,15,Poison Powder,22,poison,-,75
+546,16,Poison Powder,22,poison,-,75
+546,11,Giga Drain,26,grass,75,100
+546,14,Giga Drain,26,grass,75,100
+546,15,Giga Drain,26,grass,75,100
+546,16,Giga Drain,26,grass,75,100
+546,11,Charm,28,fairy,-,100
+546,14,Charm,28,fairy,-,100
+546,15,Charm,28,fairy,-,100
+546,16,Charm,28,fairy,-,100
+546,11,Helping Hand,31,normal,-,-
+546,14,Helping Hand,31,normal,-,-
+546,15,Helping Hand,31,normal,-,-
+546,16,Helping Hand,31,normal,-,-
+546,11,Energy Ball,35,grass,90,100
+546,14,Energy Ball,35,grass,90,100
+546,15,Energy Ball,35,grass,90,100
+546,16,Energy Ball,35,grass,90,100
+546,11,Cotton Guard,37,grass,-,-
+546,14,Cotton Guard,37,grass,-,-
+546,15,Cotton Guard,37,grass,-,-
+546,16,Cotton Guard,37,grass,-,-
+546,11,Sunny Day,40,fire,-,-
+546,14,Sunny Day,40,fire,-,-
+546,15,Sunny Day,40,fire,-,-
+546,16,Sunny Day,40,fire,-,-
+546,11,Endeavor,44,normal,-,100
+546,14,Endeavor,44,normal,-,100
+546,15,Endeavor,44,normal,-,100
+546,16,Endeavor,44,normal,-,100
+546,11,Solar Beam,46,grass,120,100
+546,14,Solar Beam,46,grass,120,100
+546,15,Solar Beam,46,grass,120,100
+546,16,Solar Beam,46,grass,120,100

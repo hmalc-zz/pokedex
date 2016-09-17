@@ -1,0 +1,142 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+252,5,Pound,1,normal,40,100
+252,5,Leer,1,normal,-,100
+252,6,Pound,1,normal,40,100
+252,6,Leer,1,normal,-,100
+252,7,Pound,1,normal,40,100
+252,7,Leer,1,normal,-,100
+252,8,Pound,1,normal,40,100
+252,8,Leer,1,normal,-,100
+252,9,Pound,1,normal,40,100
+252,9,Leer,1,normal,-,100
+252,10,Pound,1,normal,40,100
+252,10,Leer,1,normal,-,100
+252,11,Pound,1,normal,40,100
+252,11,Leer,1,normal,-,100
+252,12,Pound,1,normal,40,100
+252,12,Leer,1,normal,-,100
+252,13,Pound,1,normal,40,100
+252,13,Leer,1,normal,-,100
+252,14,Pound,1,normal,40,100
+252,14,Leer,1,normal,-,100
+252,15,Pound,1,normal,40,100
+252,15,Leer,1,normal,-,100
+252,16,Pound,1,normal,40,100
+252,16,Leer,1,normal,-,100
+252,16,Absorb,5,grass,20,100
+252,5,Absorb,6,grass,20,100
+252,6,Absorb,6,grass,20,100
+252,7,Absorb,6,grass,20,100
+252,8,Absorb,6,grass,20,100
+252,9,Absorb,6,grass,20,100
+252,10,Absorb,6,grass,20,100
+252,11,Absorb,6,grass,20,100
+252,12,Absorb,6,grass,20,100
+252,13,Absorb,6,grass,20,100
+252,14,Absorb,6,grass,20,100
+252,15,Absorb,6,grass,20,100
+252,16,Quick Attack,9,normal,40,100
+252,5,Quick Attack,11,normal,40,100
+252,6,Quick Attack,11,normal,40,100
+252,7,Quick Attack,11,normal,40,100
+252,8,Quick Attack,11,normal,40,100
+252,9,Quick Attack,11,normal,40,100
+252,10,Quick Attack,11,normal,40,100
+252,11,Quick Attack,11,normal,40,100
+252,12,Quick Attack,11,normal,40,100
+252,13,Quick Attack,11,normal,40,100
+252,14,Quick Attack,11,normal,40,100
+252,15,Quick Attack,11,normal,40,100
+252,16,Mega Drain,13,grass,40,100
+252,5,Pursuit,16,dark,40,100
+252,6,Pursuit,16,dark,40,100
+252,7,Pursuit,16,dark,40,100
+252,8,Pursuit,16,dark,40,100
+252,9,Pursuit,16,dark,40,100
+252,10,Pursuit,16,dark,40,100
+252,11,Pursuit,16,dark,40,100
+252,12,Pursuit,16,dark,40,100
+252,13,Pursuit,16,dark,40,100
+252,14,Pursuit,16,dark,40,100
+252,15,Pursuit,16,dark,40,100
+252,16,Pursuit,17,dark,40,100
+252,5,Screech,21,normal,-,85
+252,6,Screech,21,normal,-,85
+252,7,Screech,21,normal,-,85
+252,8,Screech,21,normal,-,85
+252,9,Screech,21,normal,-,85
+252,10,Screech,21,normal,-,85
+252,11,Screech,21,normal,-,85
+252,12,Screech,21,normal,-,85
+252,13,Screech,21,normal,-,85
+252,14,Screech,21,normal,-,85
+252,15,Screech,21,normal,-,85
+252,16,Giga Drain,21,grass,75,100
+252,16,Agility,25,psychic,-,-
+252,5,Mega Drain,26,grass,40,100
+252,6,Mega Drain,26,grass,40,100
+252,7,Mega Drain,26,grass,40,100
+252,8,Mega Drain,26,grass,40,100
+252,9,Mega Drain,26,grass,40,100
+252,10,Mega Drain,26,grass,40,100
+252,11,Mega Drain,26,grass,40,100
+252,12,Mega Drain,26,grass,40,100
+252,13,Mega Drain,26,grass,40,100
+252,14,Mega Drain,26,grass,40,100
+252,15,Mega Drain,26,grass,40,100
+252,16,Slam,29,normal,80,75
+252,5,Agility,31,psychic,-,-
+252,6,Agility,31,psychic,-,-
+252,7,Agility,31,psychic,-,-
+252,8,Agility,31,psychic,-,-
+252,9,Agility,31,psychic,-,-
+252,10,Agility,31,psychic,-,-
+252,11,Agility,31,psychic,-,-
+252,12,Agility,31,psychic,-,-
+252,13,Agility,31,psychic,-,-
+252,14,Agility,31,psychic,-,-
+252,15,Agility,31,psychic,-,-
+252,16,Detect,33,fighting,-,-
+252,5,Slam,36,normal,80,75
+252,6,Slam,36,normal,80,75
+252,7,Slam,36,normal,80,75
+252,8,Slam,36,normal,80,75
+252,9,Slam,36,normal,80,75
+252,10,Slam,36,normal,80,75
+252,11,Slam,36,normal,80,75
+252,12,Slam,36,normal,80,75
+252,13,Slam,36,normal,80,75
+252,14,Slam,36,normal,80,75
+252,15,Slam,36,normal,80,75
+252,16,Energy Ball,37,grass,90,100
+252,5,Detect,41,fighting,-,-
+252,6,Detect,41,fighting,-,-
+252,7,Detect,41,fighting,-,-
+252,8,Detect,41,fighting,-,-
+252,9,Detect,41,fighting,-,-
+252,10,Detect,41,fighting,-,-
+252,11,Detect,41,fighting,-,-
+252,12,Detect,41,fighting,-,-
+252,13,Detect,41,fighting,-,-
+252,14,Detect,41,fighting,-,-
+252,15,Detect,41,fighting,-,-
+252,16,Quick Guard,41,fighting,-,-
+252,16,Endeavor,45,normal,-,100
+252,5,Giga Drain,46,grass,75,100
+252,6,Giga Drain,46,grass,75,100
+252,7,Giga Drain,46,grass,75,100
+252,8,Giga Drain,46,grass,75,100
+252,9,Giga Drain,46,grass,75,100
+252,10,Giga Drain,46,grass,75,100
+252,11,Giga Drain,46,grass,75,100
+252,12,Giga Drain,46,grass,75,100
+252,13,Giga Drain,46,grass,75,100
+252,14,Giga Drain,46,grass,75,100
+252,15,Giga Drain,46,grass,75,100
+252,16,Screech,49,normal,-,85
+252,15,Energy Ball,50,grass,90,100
+252,8,Energy Ball,51,grass,90,100
+252,9,Energy Ball,51,grass,90,100
+252,10,Energy Ball,51,grass,90,100
+252,11,Energy Ball,51,grass,90,100
+252,14,Energy Ball,51,grass,90,100

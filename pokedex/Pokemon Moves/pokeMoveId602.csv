@@ -1,0 +1,17 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+602,11,Tackle,1,normal,50,100
+602,11,Thunder Wave,1,electric,-,100
+602,11,Spark,1,electric,65,100
+602,11,Charge Beam,1,electric,50,90
+602,14,Tackle,1,normal,50,100
+602,14,Thunder Wave,1,electric,-,100
+602,14,Spark,1,electric,65,100
+602,14,Charge Beam,1,electric,50,90
+602,15,Tackle,1,normal,50,100
+602,15,Thunder Wave,1,electric,-,100
+602,15,Spark,1,electric,65,100
+602,15,Charge Beam,1,electric,50,90
+602,16,Tackle,1,normal,50,100
+602,16,Thunder Wave,1,electric,-,100
+602,16,Spark,1,electric,65,100
+602,16,Charge Beam,1,electric,50,90

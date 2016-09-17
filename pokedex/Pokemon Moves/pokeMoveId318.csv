@@ -1,0 +1,143 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+318,5,Leer,1,normal,-,100
+318,5,Bite,1,dark,60,100
+318,6,Leer,1,normal,-,100
+318,6,Bite,1,dark,60,100
+318,7,Leer,1,normal,-,100
+318,7,Bite,1,dark,60,100
+318,8,Leer,1,normal,-,100
+318,8,Bite,1,dark,60,100
+318,9,Leer,1,normal,-,100
+318,9,Bite,1,dark,60,100
+318,10,Leer,1,normal,-,100
+318,10,Bite,1,dark,60,100
+318,11,Leer,1,normal,-,100
+318,11,Bite,1,dark,60,100
+318,12,Leer,1,normal,-,100
+318,12,Bite,1,dark,60,100
+318,13,Leer,1,normal,-,100
+318,13,Bite,1,dark,60,100
+318,14,Leer,1,normal,-,100
+318,14,Bite,1,dark,60,100
+318,15,Leer,1,normal,-,100
+318,15,Bite,1,dark,60,100
+318,16,Leer,1,normal,-,100
+318,16,Bite,1,dark,60,100
+318,16,Rage,4,normal,20,100
+318,8,Rage,6,normal,20,100
+318,9,Rage,6,normal,20,100
+318,10,Rage,6,normal,20,100
+318,11,Rage,6,normal,20,100
+318,14,Rage,6,normal,20,100
+318,15,Rage,6,normal,20,100
+318,5,Rage,7,normal,20,100
+318,6,Rage,7,normal,20,100
+318,7,Rage,7,normal,20,100
+318,12,Rage,7,normal,20,100
+318,13,Rage,7,normal,20,100
+318,8,Focus Energy,8,normal,-,-
+318,9,Focus Energy,8,normal,-,-
+318,10,Focus Energy,8,normal,-,-
+318,11,Focus Energy,8,normal,-,-
+318,14,Focus Energy,8,normal,-,-
+318,15,Focus Energy,8,normal,-,-
+318,16,Focus Energy,8,normal,-,-
+318,8,Scary Face,11,normal,-,100
+318,9,Scary Face,11,normal,-,100
+318,10,Scary Face,11,normal,-,100
+318,11,Scary Face,11,normal,-,100
+318,14,Scary Face,11,normal,-,100
+318,15,Scary Face,11,normal,-,100
+318,16,Aqua Jet,11,water,40,100
+318,5,Focus Energy,13,normal,-,-
+318,6,Focus Energy,13,normal,-,-
+318,7,Focus Energy,13,normal,-,-
+318,12,Focus Energy,13,normal,-,-
+318,13,Focus Energy,13,normal,-,-
+318,16,Assurance,15,dark,60,100
+318,5,Scary Face,16,normal,-,100
+318,6,Scary Face,16,normal,-,100
+318,7,Scary Face,16,normal,-,100
+318,8,Ice Fang,16,ice,65,95
+318,9,Ice Fang,16,ice,65,95
+318,10,Ice Fang,16,ice,65,95
+318,11,Ice Fang,16,ice,65,95
+318,12,Scary Face,16,normal,-,100
+318,13,Scary Face,16,normal,-,100
+318,14,Ice Fang,16,ice,65,95
+318,15,Ice Fang,16,ice,65,95
+318,8,Screech,18,normal,-,85
+318,9,Screech,18,normal,-,85
+318,10,Screech,18,normal,-,85
+318,11,Screech,18,normal,-,85
+318,14,Screech,18,normal,-,85
+318,15,Screech,18,normal,-,85
+318,16,Screech,18,normal,-,85
+318,8,Swagger,21,normal,-,90
+318,9,Swagger,21,normal,-,90
+318,10,Swagger,21,normal,-,90
+318,11,Swagger,21,normal,-,90
+318,14,Swagger,21,normal,-,90
+318,15,Swagger,21,normal,-,90
+318,5,Crunch,22,dark,80,100
+318,6,Crunch,22,dark,80,100
+318,7,Crunch,22,dark,80,100
+318,12,Crunch,22,dark,80,100
+318,13,Crunch,22,dark,80,100
+318,16,Swagger,22,normal,-,90
+318,16,Ice Fang,25,ice,65,95
+318,8,Assurance,26,dark,60,100
+318,9,Assurance,26,dark,60,100
+318,10,Assurance,26,dark,60,100
+318,11,Assurance,26,dark,60,100
+318,14,Assurance,26,dark,60,100
+318,15,Assurance,26,dark,60,100
+318,5,Screech,28,normal,-,85
+318,6,Screech,28,normal,-,85
+318,7,Screech,28,normal,-,85
+318,8,Crunch,28,dark,80,100
+318,9,Crunch,28,dark,80,100
+318,10,Crunch,28,dark,80,100
+318,11,Crunch,28,dark,80,100
+318,12,Screech,28,normal,-,85
+318,13,Screech,28,normal,-,85
+318,14,Crunch,28,dark,80,100
+318,15,Crunch,28,dark,80,100
+318,16,Scary Face,29,normal,-,100
+318,5,Take Down,31,normal,90,85
+318,6,Take Down,31,normal,90,85
+318,7,Take Down,31,normal,90,85
+318,8,Aqua Jet,31,water,40,100
+318,9,Aqua Jet,31,water,40,100
+318,10,Aqua Jet,31,water,40,100
+318,11,Aqua Jet,31,water,40,100
+318,12,Take Down,31,normal,90,85
+318,13,Take Down,31,normal,90,85
+318,14,Aqua Jet,31,water,40,100
+318,15,Aqua Jet,31,water,40,100
+318,16,Poison Fang,32,poison,50,100
+318,8,Agility,36,psychic,-,-
+318,9,Agility,36,psychic,-,-
+318,10,Agility,36,psychic,-,-
+318,11,Agility,36,psychic,-,-
+318,14,Agility,36,psychic,-,-
+318,15,Agility,36,psychic,-,-
+318,16,Crunch,36,dark,80,100
+318,5,Swagger,37,normal,-,90
+318,6,Swagger,37,normal,-,90
+318,7,Swagger,37,normal,-,90
+318,12,Swagger,37,normal,-,90
+318,13,Swagger,37,normal,-,90
+318,8,Take Down,38,normal,90,85
+318,9,Take Down,38,normal,90,85
+318,10,Take Down,38,normal,90,85
+318,11,Take Down,38,normal,90,85
+318,14,Take Down,38,normal,90,85
+318,15,Take Down,38,normal,90,85
+318,16,Agility,39,psychic,-,-
+318,5,Agility,43,psychic,-,-
+318,6,Agility,43,psychic,-,-
+318,7,Agility,43,psychic,-,-
+318,12,Agility,43,psychic,-,-
+318,13,Agility,43,psychic,-,-
+318,16,Take Down,43,normal,90,85

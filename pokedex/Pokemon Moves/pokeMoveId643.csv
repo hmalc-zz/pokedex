@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+643,11,Dragon Rage,1,dragon,-,100
+643,11,Fire Fang,1,fire,65,95
+643,14,Dragon Rage,1,dragon,-,100
+643,14,Fire Fang,1,fire,65,95
+643,15,Dragon Rage,1,dragon,-,100
+643,15,Fire Fang,1,fire,65,95
+643,16,Dragon Rage,1,dragon,-,100
+643,16,Fire Fang,1,fire,65,95
+643,11,Imprison,8,psychic,-,-
+643,14,Imprison,8,psychic,-,-
+643,15,Imprison,8,psychic,-,-
+643,16,Imprison,8,psychic,-,-
+643,11,Ancient Power,15,rock,60,100
+643,14,Ancient Power,15,rock,60,100
+643,15,Ancient Power,15,rock,60,100
+643,16,Ancient Power,15,rock,60,100
+643,11,Flamethrower,22,fire,90,100
+643,14,Flamethrower,22,fire,90,100
+643,15,Flamethrower,22,fire,90,100
+643,16,Flamethrower,22,fire,90,100
+643,11,Dragon Breath,29,dragon,60,100
+643,14,Dragon Breath,29,dragon,60,100
+643,15,Dragon Breath,29,dragon,60,100
+643,16,Dragon Breath,29,dragon,60,100
+643,11,Slash,36,normal,70,100
+643,14,Slash,36,normal,70,100
+643,15,Slash,36,normal,70,100
+643,16,Slash,36,normal,70,100
+643,11,Extrasensory,43,psychic,80,100
+643,14,Extrasensory,43,psychic,80,100
+643,15,Extrasensory,43,psychic,80,100
+643,16,Extrasensory,43,psychic,80,100
+643,11,Fusion Flare,50,fire,100,100
+643,14,Fusion Flare,50,fire,100,100
+643,15,Fusion Flare,50,fire,100,100
+643,16,Fusion Flare,50,fire,100,100
+643,11,Dragon Pulse,54,dragon,85,100
+643,14,Dragon Pulse,54,dragon,85,100
+643,15,Dragon Pulse,54,dragon,85,100
+643,16,Dragon Pulse,54,dragon,85,100
+643,11,Imprison,64,psychic,-,-
+643,14,Imprison,64,psychic,-,-
+643,15,Imprison,64,psychic,-,-
+643,16,Imprison,64,psychic,-,-
+643,11,Crunch,71,dark,80,100
+643,14,Crunch,71,dark,80,100
+643,15,Crunch,71,dark,80,100
+643,16,Crunch,71,dark,80,100
+643,11,Fire Blast,78,fire,110,85
+643,14,Fire Blast,78,fire,110,85
+643,15,Fire Blast,78,fire,110,85
+643,16,Fire Blast,78,fire,110,85
+643,11,Outrage,85,dragon,120,100
+643,14,Outrage,85,dragon,120,100
+643,15,Outrage,85,dragon,120,100
+643,16,Outrage,85,dragon,120,100
+643,11,Hyper Voice,92,normal,90,100
+643,14,Hyper Voice,92,normal,90,100
+643,15,Hyper Voice,92,normal,90,100
+643,16,Hyper Voice,92,normal,90,100
+643,11,Blue Flare,100,fire,130,85
+643,14,Blue Flare,100,fire,130,85
+643,15,Blue Flare,100,fire,130,85
+643,16,Blue Flare,100,fire,130,85

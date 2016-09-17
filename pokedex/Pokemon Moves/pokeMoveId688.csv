@@ -1,0 +1,33 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+688,15,Scratch,1,normal,40,100
+688,15,Sand Attack,1,ground,-,100
+688,15,Shell Smash,1,normal,-,-
+688,16,Scratch,1,normal,40,100
+688,16,Sand Attack,1,ground,-,100
+688,16,Shell Smash,1,normal,-,-
+688,15,Water Gun,4,water,40,100
+688,16,Water Gun,4,water,40,100
+688,15,Withdraw,7,water,-,-
+688,16,Withdraw,7,water,-,-
+688,15,Fury Swipes,10,normal,18,80
+688,16,Fury Swipes,10,normal,18,80
+688,15,Slash,13,normal,70,100
+688,16,Slash,13,normal,70,100
+688,15,Mud-Slap,18,ground,20,100
+688,16,Mud-Slap,18,ground,20,100
+688,15,Clamp,20,water,35,85
+688,16,Clamp,20,water,35,85
+688,15,Rock Polish,24,rock,-,-
+688,16,Rock Polish,24,rock,-,-
+688,15,Ancient Power,28,rock,60,100
+688,16,Ancient Power,28,rock,60,100
+688,15,Hone Claws,32,dark,-,-
+688,16,Hone Claws,32,dark,-,-
+688,15,Fury Cutter,37,bug,40,95
+688,16,Fury Cutter,37,bug,40,95
+688,15,Night Slash,41,dark,70,100
+688,16,Night Slash,41,dark,70,100
+688,15,Razor Shell,45,water,75,95
+688,16,Razor Shell,45,water,75,95
+688,15,Cross Chop,49,fighting,100,80
+688,16,Cross Chop,49,fighting,100,80

@@ -1,0 +1,155 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+241,3,Tackle,1,normal,50,100
+241,4,Tackle,1,normal,50,100
+241,5,Tackle,1,normal,50,100
+241,6,Tackle,1,normal,50,100
+241,7,Tackle,1,normal,50,100
+241,8,Tackle,1,normal,50,100
+241,9,Tackle,1,normal,50,100
+241,10,Tackle,1,normal,50,100
+241,11,Tackle,1,normal,50,100
+241,12,Tackle,1,normal,50,100
+241,13,Tackle,1,normal,50,100
+241,14,Tackle,1,normal,50,100
+241,15,Tackle,1,normal,50,100
+241,16,Tackle,1,normal,50,100
+241,8,Growl,3,normal,-,100
+241,9,Growl,3,normal,-,100
+241,10,Growl,3,normal,-,100
+241,11,Growl,3,normal,-,100
+241,14,Growl,3,normal,-,100
+241,15,Growl,3,normal,-,100
+241,16,Growl,3,normal,-,100
+241,3,Growl,4,normal,-,100
+241,4,Growl,4,normal,-,100
+241,5,Growl,4,normal,-,100
+241,6,Growl,4,normal,-,100
+241,7,Growl,4,normal,-,100
+241,12,Growl,4,normal,-,100
+241,13,Growl,4,normal,-,100
+241,8,Defense Curl,5,normal,-,-
+241,9,Defense Curl,5,normal,-,-
+241,10,Defense Curl,5,normal,-,-
+241,11,Defense Curl,5,normal,-,-
+241,14,Defense Curl,5,normal,-,-
+241,15,Defense Curl,5,normal,-,-
+241,16,Defense Curl,5,normal,-,-
+241,3,Defense Curl,8,normal,-,-
+241,4,Defense Curl,8,normal,-,-
+241,5,Defense Curl,8,normal,-,-
+241,6,Defense Curl,8,normal,-,-
+241,7,Defense Curl,8,normal,-,-
+241,8,Stomp,8,normal,65,100
+241,9,Stomp,8,normal,65,100
+241,10,Stomp,8,normal,65,100
+241,11,Stomp,8,normal,65,100
+241,12,Defense Curl,8,normal,-,-
+241,13,Defense Curl,8,normal,-,-
+241,14,Stomp,8,normal,65,100
+241,15,Stomp,8,normal,65,100
+241,16,Stomp,8,normal,65,100
+241,8,Milk Drink,11,normal,-,-
+241,9,Milk Drink,11,normal,-,-
+241,10,Milk Drink,11,normal,-,-
+241,11,Milk Drink,11,normal,-,-
+241,14,Milk Drink,11,normal,-,-
+241,15,Milk Drink,11,normal,-,-
+241,16,Milk Drink,11,normal,-,-
+241,3,Stomp,13,normal,65,100
+241,4,Stomp,13,normal,65,100
+241,5,Stomp,13,normal,65,100
+241,6,Stomp,13,normal,65,100
+241,7,Stomp,13,normal,65,100
+241,12,Stomp,13,normal,65,100
+241,13,Stomp,13,normal,65,100
+241,8,Bide,15,normal,-,-
+241,9,Bide,15,normal,-,-
+241,10,Bide,15,normal,-,-
+241,11,Bide,15,normal,-,-
+241,14,Bide,15,normal,-,-
+241,15,Bide,15,normal,-,-
+241,16,Bide,15,normal,-,-
+241,3,Milk Drink,19,normal,-,-
+241,4,Milk Drink,19,normal,-,-
+241,5,Milk Drink,19,normal,-,-
+241,6,Milk Drink,19,normal,-,-
+241,7,Milk Drink,19,normal,-,-
+241,8,Rollout,19,rock,30,90
+241,9,Rollout,19,rock,30,90
+241,10,Rollout,19,rock,30,90
+241,11,Rollout,19,rock,30,90
+241,12,Milk Drink,19,normal,-,-
+241,13,Milk Drink,19,normal,-,-
+241,14,Rollout,19,rock,30,90
+241,15,Rollout,19,rock,30,90
+241,16,Rollout,19,rock,30,90
+241,8,Body Slam,24,normal,85,100
+241,9,Body Slam,24,normal,85,100
+241,10,Body Slam,24,normal,85,100
+241,11,Body Slam,24,normal,85,100
+241,14,Body Slam,24,normal,85,100
+241,15,Body Slam,24,normal,85,100
+241,16,Body Slam,24,normal,85,100
+241,3,Bide,26,normal,-,-
+241,4,Bide,26,normal,-,-
+241,5,Bide,26,normal,-,-
+241,6,Bide,26,normal,-,-
+241,7,Bide,26,normal,-,-
+241,12,Bide,26,normal,-,-
+241,13,Bide,26,normal,-,-
+241,8,Zen Headbutt,29,psychic,80,90
+241,9,Zen Headbutt,29,psychic,80,90
+241,10,Zen Headbutt,29,psychic,80,90
+241,11,Zen Headbutt,29,psychic,80,90
+241,14,Zen Headbutt,29,psychic,80,90
+241,15,Zen Headbutt,29,psychic,80,90
+241,16,Zen Headbutt,29,psychic,80,90
+241,3,Rollout,34,rock,30,90
+241,4,Rollout,34,rock,30,90
+241,5,Rollout,34,rock,30,90
+241,6,Rollout,34,rock,30,90
+241,7,Rollout,34,rock,30,90
+241,12,Rollout,34,rock,30,90
+241,13,Rollout,34,rock,30,90
+241,8,Captivate,35,normal,-,100
+241,9,Captivate,35,normal,-,100
+241,10,Captivate,35,normal,-,100
+241,11,Captivate,35,normal,-,100
+241,14,Captivate,35,normal,-,100
+241,15,Captivate,35,normal,-,100
+241,16,Captivate,35,normal,-,100
+241,8,Gyro Ball,41,steel,-,100
+241,9,Gyro Ball,41,steel,-,100
+241,10,Gyro Ball,41,steel,-,100
+241,11,Gyro Ball,41,steel,-,100
+241,14,Gyro Ball,41,steel,-,100
+241,15,Gyro Ball,41,steel,-,100
+241,16,Gyro Ball,41,steel,-,100
+241,3,Body Slam,43,normal,85,100
+241,4,Body Slam,43,normal,85,100
+241,5,Body Slam,43,normal,85,100
+241,6,Body Slam,43,normal,85,100
+241,7,Body Slam,43,normal,85,100
+241,12,Body Slam,43,normal,85,100
+241,13,Body Slam,43,normal,85,100
+241,8,Heal Bell,48,normal,-,-
+241,9,Heal Bell,48,normal,-,-
+241,10,Heal Bell,48,normal,-,-
+241,11,Heal Bell,48,normal,-,-
+241,14,Heal Bell,48,normal,-,-
+241,15,Heal Bell,48,normal,-,-
+241,16,Heal Bell,48,normal,-,-
+241,15,Wake-Up Slap,50,fighting,70,100
+241,16,Wake-Up Slap,50,fighting,70,100
+241,3,Heal Bell,53,normal,-,-
+241,4,Heal Bell,53,normal,-,-
+241,5,Heal Bell,53,normal,-,-
+241,6,Heal Bell,53,normal,-,-
+241,7,Heal Bell,53,normal,-,-
+241,12,Heal Bell,53,normal,-,-
+241,13,Heal Bell,53,normal,-,-
+241,8,Wake-Up Slap,55,fighting,70,100
+241,9,Wake-Up Slap,55,fighting,70,100
+241,10,Wake-Up Slap,55,fighting,70,100
+241,11,Wake-Up Slap,55,fighting,70,100
+241,14,Wake-Up Slap,55,fighting,70,100

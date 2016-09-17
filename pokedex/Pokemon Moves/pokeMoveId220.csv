@@ -1,0 +1,155 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+220,3,Tackle,1,normal,50,100
+220,4,Tackle,1,normal,50,100
+220,5,Tackle,1,normal,50,100
+220,5,Odor Sleuth,1,normal,-,-
+220,6,Tackle,1,normal,50,100
+220,6,Odor Sleuth,1,normal,-,-
+220,7,Tackle,1,normal,50,100
+220,7,Odor Sleuth,1,normal,-,-
+220,8,Tackle,1,normal,50,100
+220,8,Odor Sleuth,1,normal,-,-
+220,9,Tackle,1,normal,50,100
+220,9,Odor Sleuth,1,normal,-,-
+220,10,Tackle,1,normal,50,100
+220,10,Odor Sleuth,1,normal,-,-
+220,11,Tackle,1,normal,50,100
+220,11,Odor Sleuth,1,normal,-,-
+220,12,Tackle,1,normal,50,100
+220,12,Odor Sleuth,1,normal,-,-
+220,13,Tackle,1,normal,50,100
+220,13,Odor Sleuth,1,normal,-,-
+220,14,Tackle,1,normal,50,100
+220,14,Odor Sleuth,1,normal,-,-
+220,15,Tackle,1,normal,50,100
+220,15,Odor Sleuth,1,normal,-,-
+220,16,Tackle,1,normal,50,100
+220,16,Odor Sleuth,1,normal,-,-
+220,8,Mud Sport,4,ground,-,-
+220,9,Mud Sport,4,ground,-,-
+220,10,Mud Sport,4,ground,-,-
+220,11,Mud Sport,4,ground,-,-
+220,14,Mud Sport,5,ground,-,-
+220,15,Mud Sport,5,ground,-,-
+220,16,Mud Sport,5,ground,-,-
+220,8,Powder Snow,8,ice,40,100
+220,9,Powder Snow,8,ice,40,100
+220,10,Powder Snow,8,ice,40,100
+220,11,Powder Snow,8,ice,40,100
+220,14,Powder Snow,8,ice,40,100
+220,15,Powder Snow,8,ice,40,100
+220,16,Powder Snow,8,ice,40,100
+220,3,Powder Snow,10,ice,40,100
+220,4,Powder Snow,10,ice,40,100
+220,5,Powder Snow,10,ice,40,100
+220,6,Powder Snow,10,ice,40,100
+220,7,Powder Snow,10,ice,40,100
+220,12,Powder Snow,10,ice,40,100
+220,13,Powder Snow,10,ice,40,100
+220,14,Mud-Slap,11,ground,20,100
+220,15,Mud-Slap,11,ground,20,100
+220,16,Mud-Slap,11,ground,20,100
+220,8,Mud-Slap,13,ground,20,100
+220,9,Mud-Slap,13,ground,20,100
+220,10,Mud-Slap,13,ground,20,100
+220,11,Mud-Slap,13,ground,20,100
+220,14,Endure,14,normal,-,-
+220,15,Endure,14,normal,-,-
+220,16,Endure,14,normal,-,-
+220,8,Endure,16,normal,-,-
+220,9,Endure,16,normal,-,-
+220,10,Endure,16,normal,-,-
+220,11,Endure,16,normal,-,-
+220,14,Mud Bomb,18,ground,65,85
+220,15,Mud Bomb,18,ground,65,85
+220,16,Mud Bomb,18,ground,65,85
+220,3,Endure,19,normal,-,-
+220,4,Endure,19,normal,-,-
+220,5,Endure,19,normal,-,-
+220,6,Endure,19,normal,-,-
+220,7,Endure,19,normal,-,-
+220,12,Endure,19,normal,-,-
+220,13,Endure,19,normal,-,-
+220,8,Mud Bomb,20,ground,65,85
+220,9,Mud Bomb,20,ground,65,85
+220,10,Mud Bomb,20,ground,65,85
+220,11,Mud Bomb,20,ground,65,85
+220,14,Icy Wind,21,ice,55,95
+220,15,Icy Wind,21,ice,55,95
+220,16,Icy Wind,21,ice,55,95
+220,14,Ice Shard,24,ice,40,100
+220,15,Ice Shard,24,ice,40,100
+220,16,Ice Shard,24,ice,40,100
+220,8,Icy Wind,25,ice,55,95
+220,9,Icy Wind,25,ice,55,95
+220,10,Icy Wind,25,ice,55,95
+220,11,Icy Wind,25,ice,55,95
+220,3,Take Down,28,normal,90,85
+220,4,Take Down,28,normal,90,85
+220,5,Take Down,28,normal,90,85
+220,6,Take Down,28,normal,90,85
+220,7,Take Down,28,normal,90,85
+220,8,Ice Shard,28,ice,40,100
+220,9,Ice Shard,28,ice,40,100
+220,10,Ice Shard,28,ice,40,100
+220,11,Ice Shard,28,ice,40,100
+220,12,Take Down,28,normal,90,85
+220,13,Take Down,28,normal,90,85
+220,14,Take Down,28,normal,90,85
+220,15,Take Down,28,normal,90,85
+220,16,Take Down,28,normal,90,85
+220,8,Take Down,32,normal,90,85
+220,9,Take Down,32,normal,90,85
+220,10,Take Down,32,normal,90,85
+220,11,Take Down,32,normal,90,85
+220,14,Mist,35,ice,-,-
+220,15,Mist,35,ice,-,-
+220,16,Mist,35,ice,-,-
+220,3,Mist,37,ice,-,-
+220,4,Mist,37,ice,-,-
+220,5,Mist,37,ice,-,-
+220,6,Mist,37,ice,-,-
+220,7,Mist,37,ice,-,-
+220,8,Earthquake,37,ground,100,100
+220,9,Earthquake,37,ground,100,100
+220,10,Earthquake,37,ground,100,100
+220,11,Earthquake,37,ground,100,100
+220,12,Mist,37,ice,-,-
+220,13,Mist,37,ice,-,-
+220,14,Earthquake,37,ground,100,100
+220,15,Earthquake,37,ground,100,100
+220,16,Earthquake,37,ground,100,100
+220,8,Mist,40,ice,-,-
+220,9,Mist,40,ice,-,-
+220,10,Mist,40,ice,-,-
+220,11,Mist,40,ice,-,-
+220,14,Flail,40,normal,-,100
+220,15,Flail,40,normal,-,100
+220,16,Flail,40,normal,-,100
+220,8,Blizzard,44,ice,110,70
+220,9,Blizzard,44,ice,110,70
+220,10,Blizzard,44,ice,110,70
+220,11,Blizzard,44,ice,110,70
+220,14,Blizzard,44,ice,110,70
+220,15,Blizzard,44,ice,110,70
+220,16,Blizzard,44,ice,110,70
+220,3,Blizzard,46,ice,110,70
+220,4,Blizzard,46,ice,110,70
+220,5,Blizzard,46,ice,110,70
+220,6,Blizzard,46,ice,110,70
+220,7,Blizzard,46,ice,110,70
+220,12,Blizzard,46,ice,110,70
+220,13,Blizzard,46,ice,110,70
+220,14,Amnesia,48,psychic,-,-
+220,15,Amnesia,48,psychic,-,-
+220,16,Amnesia,48,psychic,-,-
+220,8,Amnesia,49,psychic,-,-
+220,9,Amnesia,49,psychic,-,-
+220,10,Amnesia,49,psychic,-,-
+220,11,Amnesia,49,psychic,-,-
+220,4,Amnesia,55,psychic,-,-
+220,5,Amnesia,55,psychic,-,-
+220,6,Amnesia,55,psychic,-,-
+220,7,Amnesia,55,psychic,-,-
+220,12,Amnesia,55,psychic,-,-
+220,13,Amnesia,55,psychic,-,-

@@ -1,0 +1,31 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+667,15,Tackle,1,normal,50,100
+667,15,Leer,1,normal,-,100
+667,16,Tackle,1,normal,50,100
+667,16,Leer,1,normal,-,100
+667,15,Ember,5,fire,40,100
+667,16,Ember,5,fire,40,100
+667,15,Work Up,8,normal,-,-
+667,16,Work Up,8,normal,-,-
+667,15,Headbutt,11,normal,70,100
+667,16,Headbutt,11,normal,70,100
+667,15,Noble Roar,15,normal,-,100
+667,16,Noble Roar,15,normal,-,100
+667,15,Take Down,20,normal,90,85
+667,16,Take Down,20,normal,90,85
+667,15,Fire Fang,23,fire,65,95
+667,16,Fire Fang,23,fire,65,95
+667,15,Endeavor,28,normal,-,100
+667,16,Endeavor,28,normal,-,100
+667,15,Echoed Voice,33,normal,40,100
+667,16,Echoed Voice,33,normal,40,100
+667,15,Flamethrower,36,fire,90,100
+667,16,Flamethrower,36,fire,90,100
+667,15,Crunch,39,dark,80,100
+667,16,Crunch,39,dark,80,100
+667,15,Hyper Voice,43,normal,90,100
+667,16,Hyper Voice,43,normal,90,100
+667,15,Incinerate,46,fire,60,100
+667,16,Incinerate,46,fire,60,100
+667,15,Overheat,50,fire,130,90
+667,16,Overheat,50,fire,130,90

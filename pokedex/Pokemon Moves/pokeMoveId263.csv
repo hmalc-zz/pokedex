@@ -1,0 +1,159 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+263,5,Tackle,1,normal,50,100
+263,5,Growl,1,normal,-,100
+263,6,Tackle,1,normal,50,100
+263,6,Growl,1,normal,-,100
+263,7,Tackle,1,normal,50,100
+263,7,Growl,1,normal,-,100
+263,8,Tackle,1,normal,50,100
+263,8,Growl,1,normal,-,100
+263,9,Tackle,1,normal,50,100
+263,9,Growl,1,normal,-,100
+263,10,Tackle,1,normal,50,100
+263,10,Growl,1,normal,-,100
+263,11,Tackle,1,normal,50,100
+263,11,Growl,1,normal,-,100
+263,12,Tackle,1,normal,50,100
+263,12,Growl,1,normal,-,100
+263,13,Tackle,1,normal,50,100
+263,13,Growl,1,normal,-,100
+263,14,Tackle,1,normal,50,100
+263,14,Growl,1,normal,-,100
+263,15,Tackle,1,normal,50,100
+263,15,Growl,1,normal,-,100
+263,16,Tackle,1,normal,50,100
+263,16,Growl,1,normal,-,100
+263,5,Tail Whip,5,normal,-,100
+263,6,Tail Whip,5,normal,-,100
+263,7,Tail Whip,5,normal,-,100
+263,8,Tail Whip,5,normal,-,100
+263,9,Tail Whip,5,normal,-,100
+263,10,Tail Whip,5,normal,-,100
+263,11,Tail Whip,5,normal,-,100
+263,12,Tail Whip,5,normal,-,100
+263,13,Tail Whip,5,normal,-,100
+263,14,Tail Whip,5,normal,-,100
+263,15,Tail Whip,5,normal,-,100
+263,16,Tail Whip,5,normal,-,100
+263,16,Sand Attack,7,ground,-,100
+263,5,Headbutt,9,normal,70,100
+263,6,Headbutt,9,normal,70,100
+263,7,Headbutt,9,normal,70,100
+263,8,Headbutt,9,normal,70,100
+263,9,Headbutt,9,normal,70,100
+263,10,Headbutt,9,normal,70,100
+263,11,Headbutt,9,normal,70,100
+263,12,Headbutt,9,normal,70,100
+263,13,Headbutt,9,normal,70,100
+263,14,Headbutt,9,normal,70,100
+263,15,Headbutt,9,normal,70,100
+263,15,Baby-Doll Eyes,11,fairy,-,100
+263,16,Headbutt,11,normal,70,100
+263,16,Baby-Doll Eyes,12,fairy,-,100
+263,5,Sand Attack,13,ground,-,100
+263,6,Sand Attack,13,ground,-,100
+263,7,Sand Attack,13,ground,-,100
+263,8,Sand Attack,13,ground,-,100
+263,9,Sand Attack,13,ground,-,100
+263,10,Sand Attack,13,ground,-,100
+263,11,Sand Attack,13,ground,-,100
+263,12,Sand Attack,13,ground,-,100
+263,13,Sand Attack,13,ground,-,100
+263,14,Sand Attack,13,ground,-,100
+263,15,Sand Attack,13,ground,-,100
+263,16,Odor Sleuth,13,normal,-,-
+263,5,Odor Sleuth,17,normal,-,-
+263,6,Odor Sleuth,17,normal,-,-
+263,7,Odor Sleuth,17,normal,-,-
+263,8,Odor Sleuth,17,normal,-,-
+263,9,Odor Sleuth,17,normal,-,-
+263,10,Odor Sleuth,17,normal,-,-
+263,11,Odor Sleuth,17,normal,-,-
+263,12,Odor Sleuth,17,normal,-,-
+263,13,Odor Sleuth,17,normal,-,-
+263,14,Odor Sleuth,17,normal,-,-
+263,15,Odor Sleuth,17,normal,-,-
+263,16,Mud Sport,17,ground,-,-
+263,16,Pin Missile,19,bug,25,95
+263,5,Mud Sport,21,ground,-,-
+263,6,Mud Sport,21,ground,-,-
+263,7,Mud Sport,21,ground,-,-
+263,8,Mud Sport,21,ground,-,-
+263,9,Mud Sport,21,ground,-,-
+263,10,Mud Sport,21,ground,-,-
+263,11,Mud Sport,21,ground,-,-
+263,12,Mud Sport,21,ground,-,-
+263,13,Mud Sport,21,ground,-,-
+263,14,Mud Sport,21,ground,-,-
+263,15,Mud Sport,21,ground,-,-
+263,16,Covet,23,normal,60,100
+263,5,Pin Missile,25,bug,25,95
+263,6,Pin Missile,25,bug,25,95
+263,7,Pin Missile,25,bug,25,95
+263,8,Pin Missile,25,bug,25,95
+263,9,Pin Missile,25,bug,25,95
+263,10,Pin Missile,25,bug,25,95
+263,11,Pin Missile,25,bug,25,95
+263,12,Pin Missile,25,bug,25,95
+263,13,Pin Missile,25,bug,25,95
+263,14,Pin Missile,25,bug,25,95
+263,15,Pin Missile,25,bug,25,95
+263,16,Bestow,25,normal,-,-
+263,5,Covet,29,normal,60,100
+263,6,Covet,29,normal,60,100
+263,7,Covet,29,normal,60,100
+263,8,Covet,29,normal,60,100
+263,9,Covet,29,normal,60,100
+263,10,Covet,29,normal,60,100
+263,11,Covet,29,normal,60,100
+263,12,Covet,29,normal,60,100
+263,13,Covet,29,normal,60,100
+263,14,Covet,29,normal,60,100
+263,15,Covet,29,normal,60,100
+263,16,Flail,29,normal,-,100
+263,16,Take Down,31,normal,90,85
+263,5,Flail,33,normal,-,100
+263,6,Flail,33,normal,-,100
+263,7,Flail,33,normal,-,100
+263,8,Flail,33,normal,-,100
+263,9,Flail,33,normal,-,100
+263,10,Flail,33,normal,-,100
+263,11,Bestow,33,normal,-,-
+263,12,Flail,33,normal,-,100
+263,13,Flail,33,normal,-,100
+263,14,Bestow,33,normal,-,-
+263,15,Bestow,33,normal,-,-
+263,16,Rest,35,psychic,-,-
+263,5,Rest,37,psychic,-,-
+263,6,Rest,37,psychic,-,-
+263,7,Rest,37,psychic,-,-
+263,8,Rest,37,psychic,-,-
+263,9,Rest,37,psychic,-,-
+263,10,Rest,37,psychic,-,-
+263,11,Flail,37,normal,-,100
+263,12,Rest,37,psychic,-,-
+263,13,Rest,37,psychic,-,-
+263,14,Flail,37,normal,-,100
+263,15,Flail,37,normal,-,100
+263,16,Belly Drum,37,normal,-,-
+263,5,Belly Drum,41,normal,-,-
+263,6,Belly Drum,41,normal,-,-
+263,7,Belly Drum,41,normal,-,-
+263,8,Belly Drum,41,normal,-,-
+263,9,Belly Drum,41,normal,-,-
+263,10,Belly Drum,41,normal,-,-
+263,11,Rest,41,psychic,-,-
+263,12,Belly Drum,41,normal,-,-
+263,13,Belly Drum,41,normal,-,-
+263,14,Rest,41,psychic,-,-
+263,15,Rest,41,psychic,-,-
+263,16,Fling,41,dark,-,100
+263,8,Fling,45,dark,-,100
+263,9,Fling,45,dark,-,100
+263,10,Fling,45,dark,-,100
+263,11,Belly Drum,45,normal,-,-
+263,14,Belly Drum,45,normal,-,-
+263,15,Belly Drum,45,normal,-,-
+263,11,Fling,49,dark,-,100
+263,14,Fling,49,dark,-,100
+263,15,Fling,49,dark,-,100

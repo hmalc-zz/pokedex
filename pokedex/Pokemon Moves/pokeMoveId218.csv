@@ -1,0 +1,159 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+218,3,Smog,1,poison,30,70
+218,4,Smog,1,poison,30,70
+218,5,Smog,1,poison,30,70
+218,5,Yawn,1,normal,-,-
+218,6,Smog,1,poison,30,70
+218,6,Yawn,1,normal,-,-
+218,7,Smog,1,poison,30,70
+218,7,Yawn,1,normal,-,-
+218,8,Smog,1,poison,30,70
+218,8,Yawn,1,normal,-,-
+218,9,Smog,1,poison,30,70
+218,9,Yawn,1,normal,-,-
+218,10,Smog,1,poison,30,70
+218,10,Yawn,1,normal,-,-
+218,11,Smog,1,poison,30,70
+218,11,Yawn,1,normal,-,-
+218,12,Smog,1,poison,30,70
+218,12,Yawn,1,normal,-,-
+218,13,Smog,1,poison,30,70
+218,13,Yawn,1,normal,-,-
+218,14,Smog,1,poison,30,70
+218,14,Yawn,1,normal,-,-
+218,15,Smog,1,poison,30,70
+218,15,Yawn,1,normal,-,-
+218,16,Smog,1,poison,30,70
+218,16,Yawn,1,normal,-,-
+218,11,Ember,5,fire,40,100
+218,14,Ember,5,fire,40,100
+218,15,Ember,5,fire,40,100
+218,16,Ember,6,fire,40,100
+218,3,Ember,8,fire,40,100
+218,4,Ember,8,fire,40,100
+218,5,Ember,8,fire,40,100
+218,6,Ember,8,fire,40,100
+218,7,Ember,8,fire,40,100
+218,8,Ember,8,fire,40,100
+218,9,Ember,8,fire,40,100
+218,10,Ember,8,fire,40,100
+218,12,Ember,8,fire,40,100
+218,13,Ember,8,fire,40,100
+218,16,Rock Throw,8,rock,50,90
+218,11,Rock Throw,10,rock,50,90
+218,14,Rock Throw,10,rock,50,90
+218,15,Rock Throw,10,rock,50,90
+218,8,Rock Throw,11,rock,50,90
+218,9,Rock Throw,11,rock,50,90
+218,10,Rock Throw,11,rock,50,90
+218,16,Harden,13,normal,-,-
+218,11,Harden,14,normal,-,-
+218,14,Harden,14,normal,-,-
+218,15,Harden,14,normal,-,-
+218,3,Rock Throw,15,rock,50,90
+218,4,Rock Throw,15,rock,50,90
+218,5,Rock Throw,15,rock,50,90
+218,6,Rock Throw,15,rock,50,90
+218,7,Rock Throw,15,rock,50,90
+218,12,Rock Throw,15,rock,50,90
+218,13,Rock Throw,15,rock,50,90
+218,16,Incinerate,15,fire,60,100
+218,8,Harden,16,normal,-,-
+218,9,Harden,16,normal,-,-
+218,10,Harden,16,normal,-,-
+218,11,Recover,19,normal,-,-
+218,14,Recover,19,normal,-,-
+218,15,Recover,19,normal,-,-
+218,16,Clear Smog,20,poison,50,-
+218,3,Harden,22,normal,-,-
+218,4,Harden,22,normal,-,-
+218,5,Harden,22,normal,-,-
+218,6,Harden,22,normal,-,-
+218,7,Harden,22,normal,-,-
+218,12,Harden,22,normal,-,-
+218,13,Harden,22,normal,-,-
+218,16,Ancient Power,22,rock,60,100
+218,8,Recover,23,normal,-,-
+218,9,Recover,23,normal,-,-
+218,10,Recover,23,normal,-,-
+218,11,Flame Burst,23,fire,70,100
+218,14,Flame Burst,23,fire,70,100
+218,15,Flame Burst,23,fire,70,100
+218,8,Ancient Power,26,rock,60,100
+218,9,Ancient Power,26,rock,60,100
+218,10,Ancient Power,26,rock,60,100
+218,16,Flame Burst,27,fire,70,100
+218,11,Ancient Power,28,rock,60,100
+218,14,Ancient Power,28,rock,60,100
+218,15,Ancient Power,28,rock,60,100
+218,3,Amnesia,29,psychic,-,-
+218,4,Amnesia,29,psychic,-,-
+218,5,Amnesia,29,psychic,-,-
+218,6,Amnesia,29,psychic,-,-
+218,7,Amnesia,29,psychic,-,-
+218,12,Amnesia,29,psychic,-,-
+218,13,Amnesia,29,psychic,-,-
+218,16,Rock Slide,29,rock,75,90
+218,8,Amnesia,31,psychic,-,-
+218,9,Amnesia,31,psychic,-,-
+218,10,Amnesia,31,psychic,-,-
+218,11,Amnesia,32,psychic,-,-
+218,14,Amnesia,32,psychic,-,-
+218,15,Amnesia,32,psychic,-,-
+218,16,Lava Plume,34,fire,80,100
+218,3,Flamethrower,36,fire,90,100
+218,4,Flamethrower,36,fire,90,100
+218,5,Flamethrower,36,fire,90,100
+218,6,Flamethrower,36,fire,90,100
+218,7,Flamethrower,36,fire,90,100
+218,12,Flamethrower,36,fire,90,100
+218,13,Flamethrower,36,fire,90,100
+218,16,Amnesia,36,psychic,-,-
+218,11,Lava Plume,37,fire,80,100
+218,14,Lava Plume,37,fire,80,100
+218,15,Lava Plume,37,fire,80,100
+218,8,Lava Plume,38,fire,80,100
+218,9,Lava Plume,38,fire,80,100
+218,10,Lava Plume,38,fire,80,100
+218,8,Rock Slide,41,rock,75,90
+218,9,Rock Slide,41,rock,75,90
+218,10,Rock Slide,41,rock,75,90
+218,11,Rock Slide,41,rock,75,90
+218,14,Rock Slide,41,rock,75,90
+218,15,Rock Slide,41,rock,75,90
+218,16,Body Slam,41,normal,85,100
+218,3,Rock Slide,43,rock,75,90
+218,4,Rock Slide,43,rock,75,90
+218,5,Rock Slide,43,rock,75,90
+218,6,Rock Slide,43,rock,75,90
+218,7,Rock Slide,43,rock,75,90
+218,12,Rock Slide,43,rock,75,90
+218,13,Rock Slide,43,rock,75,90
+218,16,Recover,43,normal,-,-
+218,8,Body Slam,46,normal,85,100
+218,9,Body Slam,46,normal,85,100
+218,10,Body Slam,46,normal,85,100
+218,11,Body Slam,46,normal,85,100
+218,14,Body Slam,46,normal,85,100
+218,15,Body Slam,46,normal,85,100
+218,16,Flamethrower,48,fire,90,100
+218,3,Body Slam,50,normal,85,100
+218,4,Body Slam,50,normal,85,100
+218,5,Body Slam,50,normal,85,100
+218,6,Body Slam,50,normal,85,100
+218,7,Body Slam,50,normal,85,100
+218,11,Flamethrower,50,fire,90,100
+218,12,Body Slam,50,normal,85,100
+218,13,Body Slam,50,normal,85,100
+218,14,Flamethrower,50,fire,90,100
+218,15,Flamethrower,50,fire,90,100
+218,16,Earth Power,50,ground,90,100
+218,8,Flamethrower,53,fire,90,100
+218,9,Flamethrower,53,fire,90,100
+218,10,Flamethrower,53,fire,90,100
+218,11,Earth Power,55,ground,90,100
+218,14,Earth Power,55,ground,90,100
+218,15,Earth Power,55,ground,90,100
+218,8,Earth Power,56,ground,90,100
+218,9,Earth Power,56,ground,90,100
+218,10,Earth Power,56,ground,90,100

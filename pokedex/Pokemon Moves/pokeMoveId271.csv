@@ -1,0 +1,129 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+271,5,Astonish,1,ghost,30,100
+271,6,Astonish,1,ghost,30,100
+271,7,Astonish,1,ghost,30,100
+271,8,Astonish,1,ghost,30,100
+271,9,Astonish,1,ghost,30,100
+271,10,Astonish,1,ghost,30,100
+271,11,Astonish,1,ghost,30,100
+271,12,Astonish,1,ghost,30,100
+271,13,Astonish,1,ghost,30,100
+271,14,Astonish,1,ghost,30,100
+271,15,Astonish,1,ghost,30,100
+271,16,Astonish,1,ghost,30,100
+271,5,Growl,3,normal,-,100
+271,6,Growl,3,normal,-,100
+271,7,Growl,3,normal,-,100
+271,8,Growl,3,normal,-,100
+271,9,Growl,3,normal,-,100
+271,10,Growl,3,normal,-,100
+271,11,Growl,3,normal,-,100
+271,12,Growl,3,normal,-,100
+271,13,Growl,3,normal,-,100
+271,14,Growl,3,normal,-,100
+271,15,Growl,3,normal,-,100
+271,16,Growl,3,normal,-,100
+271,8,Absorb,5,grass,20,100
+271,9,Absorb,5,grass,20,100
+271,10,Absorb,5,grass,20,100
+271,11,Absorb,5,grass,20,100
+271,14,Absorb,5,grass,20,100
+271,15,Absorb,5,grass,20,100
+271,16,Absorb,6,grass,20,100
+271,5,Absorb,7,grass,20,100
+271,6,Absorb,7,grass,20,100
+271,7,Absorb,7,grass,20,100
+271,8,Nature Power,7,normal,-,-
+271,9,Nature Power,7,normal,-,-
+271,10,Nature Power,7,normal,-,-
+271,11,Nature Power,7,normal,-,-
+271,12,Absorb,7,grass,20,100
+271,13,Absorb,7,grass,20,100
+271,14,Nature Power,7,normal,-,-
+271,15,Nature Power,7,normal,-,-
+271,16,Bubble,9,water,40,100
+271,8,Fake Out,11,normal,40,100
+271,9,Fake Out,11,normal,40,100
+271,10,Fake Out,11,normal,40,100
+271,11,Fake Out,11,normal,40,100
+271,14,Fake Out,11,normal,40,100
+271,15,Fake Out,11,normal,40,100
+271,16,Fury Swipes,12,normal,18,80
+271,5,Nature Power,13,normal,-,-
+271,6,Nature Power,13,normal,-,-
+271,7,Nature Power,13,normal,-,-
+271,12,Nature Power,13,normal,-,-
+271,13,Nature Power,13,normal,-,-
+271,8,Fury Swipes,15,normal,18,80
+271,9,Fury Swipes,15,normal,18,80
+271,10,Fury Swipes,15,normal,18,80
+271,11,Fury Swipes,15,normal,18,80
+271,14,Fury Swipes,15,normal,18,80
+271,15,Fury Swipes,15,normal,18,80
+271,16,Fake Out,16,normal,40,100
+271,5,Fake Out,19,normal,40,100
+271,6,Fake Out,19,normal,40,100
+271,7,Fake Out,19,normal,40,100
+271,8,Water Sport,19,water,-,-
+271,9,Water Sport,19,water,-,-
+271,10,Water Sport,19,water,-,-
+271,11,Water Sport,19,water,-,-
+271,12,Fake Out,19,normal,40,100
+271,13,Fake Out,19,normal,40,100
+271,14,Water Sport,19,water,-,-
+271,15,Water Sport,19,water,-,-
+271,16,Water Sport,20,water,-,-
+271,16,Bubble Beam,24,water,65,100
+271,5,Fury Swipes,25,normal,18,80
+271,6,Fury Swipes,25,normal,18,80
+271,7,Fury Swipes,25,normal,18,80
+271,9,Bubble Beam,25,water,65,100
+271,10,Bubble Beam,25,water,65,100
+271,11,Bubble Beam,25,water,65,100
+271,12,Fury Swipes,25,normal,18,80
+271,13,Fury Swipes,25,normal,18,80
+271,14,Bubble Beam,25,water,65,100
+271,15,Bubble Beam,25,water,65,100
+271,8,Zen Headbutt,27,psychic,80,90
+271,16,Nature Power,28,normal,-,-
+271,5,Water Sport,31,water,-,-
+271,6,Water Sport,31,water,-,-
+271,7,Water Sport,31,water,-,-
+271,9,Zen Headbutt,31,psychic,80,90
+271,10,Zen Headbutt,31,psychic,80,90
+271,11,Zen Headbutt,31,psychic,80,90
+271,12,Water Sport,31,water,-,-
+271,13,Water Sport,31,water,-,-
+271,14,Zen Headbutt,31,psychic,80,90
+271,15,Zen Headbutt,31,psychic,80,90
+271,16,Uproar,32,normal,90,100
+271,8,Uproar,35,normal,90,100
+271,16,Knock Off,36,dark,65,100
+271,5,Thief,37,dark,60,100
+271,6,Thief,37,dark,60,100
+271,7,Thief,37,dark,60,100
+271,9,Uproar,37,normal,90,100
+271,10,Uproar,37,normal,90,100
+271,11,Uproar,37,normal,90,100
+271,12,Thief,37,dark,60,100
+271,13,Thief,37,dark,60,100
+271,14,Uproar,37,normal,90,100
+271,15,Uproar,37,normal,90,100
+271,16,Zen Headbutt,40,psychic,80,90
+271,5,Uproar,43,normal,90,100
+271,6,Uproar,43,normal,90,100
+271,7,Uproar,43,normal,90,100
+271,8,Hydro Pump,43,water,110,80
+271,12,Uproar,43,normal,90,100
+271,13,Uproar,43,normal,90,100
+271,16,Hydro Pump,44,water,110,80
+271,9,Hydro Pump,45,water,110,80
+271,10,Hydro Pump,45,water,110,80
+271,11,Hydro Pump,45,water,110,80
+271,14,Hydro Pump,45,water,110,80
+271,15,Hydro Pump,45,water,110,80
+271,5,Hydro Pump,49,water,110,80
+271,6,Hydro Pump,49,water,110,80
+271,7,Hydro Pump,49,water,110,80
+271,12,Hydro Pump,49,water,110,80
+271,13,Hydro Pump,49,water,110,80

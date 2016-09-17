@@ -1,0 +1,168 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+133,1,Sand Attack,1,ground,-,100
+133,1,Tackle,1,normal,50,100
+133,2,Tackle,1,normal,50,100
+133,2,Tail Whip,1,normal,-,100
+133,3,Tackle,1,normal,50,100
+133,3,Tail Whip,1,normal,-,100
+133,4,Tackle,1,normal,50,100
+133,4,Tail Whip,1,normal,-,100
+133,5,Tackle,1,normal,50,100
+133,5,Tail Whip,1,normal,-,100
+133,5,Helping Hand,1,normal,-,-
+133,6,Tackle,1,normal,50,100
+133,6,Tail Whip,1,normal,-,100
+133,6,Helping Hand,1,normal,-,-
+133,7,Tackle,1,normal,50,100
+133,7,Tail Whip,1,normal,-,100
+133,7,Helping Hand,1,normal,-,-
+133,8,Tackle,1,normal,50,100
+133,8,Tail Whip,1,normal,-,100
+133,8,Helping Hand,1,normal,-,-
+133,9,Tackle,1,normal,50,100
+133,9,Tail Whip,1,normal,-,100
+133,9,Helping Hand,1,normal,-,-
+133,10,Tackle,1,normal,50,100
+133,10,Tail Whip,1,normal,-,100
+133,10,Helping Hand,1,normal,-,-
+133,11,Tackle,1,normal,50,100
+133,11,Tail Whip,1,normal,-,100
+133,11,Helping Hand,1,normal,-,-
+133,12,Tackle,1,normal,50,100
+133,12,Tail Whip,1,normal,-,100
+133,12,Helping Hand,1,normal,-,-
+133,13,Tackle,1,normal,50,100
+133,13,Tail Whip,1,normal,-,100
+133,13,Helping Hand,1,normal,-,-
+133,14,Tackle,1,normal,50,100
+133,14,Tail Whip,1,normal,-,100
+133,14,Helping Hand,1,normal,-,-
+133,15,Tackle,1,normal,50,100
+133,15,Tail Whip,1,normal,-,100
+133,15,Growl,1,normal,-,100
+133,15,Helping Hand,1,normal,-,-
+133,16,Tackle,1,normal,50,100
+133,16,Tail Whip,1,normal,-,100
+133,16,Growl,1,normal,-,100
+133,16,Helping Hand,1,normal,-,-
+133,14,Sand Attack,5,ground,-,100
+133,15,Sand Attack,5,ground,-,100
+133,16,Sand Attack,5,ground,-,100
+133,2,Sand Attack,8,ground,-,100
+133,3,Sand Attack,8,ground,-,100
+133,4,Sand Attack,8,ground,-,100
+133,5,Sand Attack,8,ground,-,100
+133,6,Sand Attack,8,ground,-,100
+133,7,Sand Attack,8,ground,-,100
+133,8,Sand Attack,8,ground,-,100
+133,9,Sand Attack,8,ground,-,100
+133,10,Sand Attack,8,ground,-,100
+133,11,Sand Attack,8,ground,-,100
+133,12,Sand Attack,8,ground,-,100
+133,13,Sand Attack,8,ground,-,100
+133,14,Growl,9,normal,-,100
+133,15,Baby-Doll Eyes,9,fairy,-,100
+133,16,Baby-Doll Eyes,9,fairy,-,100
+133,15,Swift,10,normal,60,-
+133,16,Swift,10,normal,60,-
+133,14,Quick Attack,13,normal,40,100
+133,15,Quick Attack,13,normal,40,100
+133,16,Quick Attack,13,normal,40,100
+133,8,Growl,15,normal,-,100
+133,9,Growl,15,normal,-,100
+133,10,Growl,15,normal,-,100
+133,11,Growl,15,normal,-,100
+133,2,Growl,16,normal,-,100
+133,3,Growl,16,normal,-,100
+133,4,Growl,16,normal,-,100
+133,5,Growl,16,normal,-,100
+133,6,Growl,16,normal,-,100
+133,7,Growl,16,normal,-,100
+133,12,Growl,16,normal,-,100
+133,13,Growl,16,normal,-,100
+133,14,Bite,17,dark,60,100
+133,15,Bite,17,dark,60,100
+133,16,Bite,17,dark,60,100
+133,15,Refresh,20,normal,-,-
+133,16,Refresh,20,normal,-,-
+133,14,Covet,21,normal,60,100
+133,8,Quick Attack,22,normal,40,100
+133,9,Quick Attack,22,normal,40,100
+133,10,Quick Attack,22,normal,40,100
+133,11,Quick Attack,22,normal,40,100
+133,2,Quick Attack,23,normal,40,100
+133,3,Quick Attack,23,normal,40,100
+133,4,Quick Attack,23,normal,40,100
+133,5,Quick Attack,23,normal,40,100
+133,6,Quick Attack,23,normal,40,100
+133,7,Quick Attack,23,normal,40,100
+133,12,Quick Attack,23,normal,40,100
+133,13,Quick Attack,23,normal,40,100
+133,15,Covet,23,normal,60,100
+133,16,Covet,23,normal,60,100
+133,14,Take Down,25,normal,90,85
+133,15,Take Down,25,normal,90,85
+133,16,Take Down,25,normal,90,85
+133,1,Quick Attack,27,normal,40,100
+133,8,Bite,29,dark,60,100
+133,9,Bite,29,dark,60,100
+133,10,Bite,29,dark,60,100
+133,11,Bite,29,dark,60,100
+133,14,Charm,29,fairy,-,100
+133,15,Charm,29,fairy,-,100
+133,16,Charm,29,fairy,-,100
+133,2,Bite,30,dark,60,100
+133,3,Bite,30,dark,60,100
+133,4,Bite,30,dark,60,100
+133,5,Bite,30,dark,60,100
+133,6,Bite,30,dark,60,100
+133,7,Bite,30,dark,60,100
+133,12,Bite,30,dark,60,100
+133,13,Bite,30,dark,60,100
+133,1,Tail Whip,31,normal,-,100
+133,14,Baton Pass,33,normal,-,-
+133,15,Baton Pass,33,normal,-,-
+133,16,Baton Pass,33,normal,-,-
+133,2,Focus Energy,36,normal,-,-
+133,3,Focus Energy,36,normal,-,-
+133,4,Baton Pass,36,normal,-,-
+133,5,Baton Pass,36,normal,-,-
+133,6,Baton Pass,36,normal,-,-
+133,7,Baton Pass,36,normal,-,-
+133,8,Baton Pass,36,normal,-,-
+133,9,Baton Pass,36,normal,-,-
+133,10,Baton Pass,36,normal,-,-
+133,11,Baton Pass,36,normal,-,-
+133,12,Baton Pass,36,normal,-,-
+133,13,Baton Pass,36,normal,-,-
+133,1,Bite,37,dark,60,100
+133,14,Double-Edge,37,normal,120,100
+133,15,Double-Edge,37,normal,120,100
+133,16,Double-Edge,37,normal,120,100
+133,14,Last Resort,41,normal,140,100
+133,15,Last Resort,41,normal,140,100
+133,16,Last Resort,41,normal,140,100
+133,2,Take Down,42,normal,90,85
+133,3,Take Down,42,normal,90,85
+133,4,Take Down,42,normal,90,85
+133,5,Take Down,42,normal,90,85
+133,6,Take Down,42,normal,90,85
+133,7,Take Down,42,normal,90,85
+133,12,Take Down,42,normal,90,85
+133,13,Take Down,42,normal,90,85
+133,8,Take Down,43,normal,90,85
+133,9,Take Down,43,normal,90,85
+133,10,Take Down,43,normal,90,85
+133,11,Take Down,43,normal,90,85
+133,1,Take Down,45,normal,90,85
+133,14,Trump Card,45,normal,-,-
+133,15,Trump Card,45,normal,-,-
+133,16,Trump Card,45,normal,-,-
+133,8,Last Resort,50,normal,140,100
+133,9,Last Resort,50,normal,140,100
+133,10,Last Resort,50,normal,140,100
+133,11,Last Resort,50,normal,140,100
+133,8,Trump Card,57,normal,-,-
+133,9,Trump Card,57,normal,-,-
+133,10,Trump Card,57,normal,-,-
+133,11,Trump Card,57,normal,-,-

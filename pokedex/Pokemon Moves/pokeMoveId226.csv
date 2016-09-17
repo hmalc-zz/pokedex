@@ -1,0 +1,194 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+226,3,Tackle,1,normal,50,100
+226,3,Bubble,1,water,40,100
+226,4,Tackle,1,normal,50,100
+226,4,Bubble,1,water,40,100
+226,5,Tackle,1,normal,50,100
+226,5,Bubble,1,water,40,100
+226,6,Tackle,1,normal,50,100
+226,6,Bubble,1,water,40,100
+226,7,Tackle,1,normal,50,100
+226,7,Bubble,1,water,40,100
+226,8,Tackle,1,normal,50,100
+226,8,Supersonic,1,normal,-,55
+226,8,Psybeam,1,psychic,65,100
+226,8,Bubble Beam,1,water,65,100
+226,8,Bubble,1,water,40,100
+226,8,Signal Beam,1,bug,75,100
+226,8,Bullet Seed,1,grass,25,100
+226,9,Tackle,1,normal,50,100
+226,9,Supersonic,1,normal,-,55
+226,9,Psybeam,1,psychic,65,100
+226,9,Bubble Beam,1,water,65,100
+226,9,Bubble,1,water,40,100
+226,9,Signal Beam,1,bug,75,100
+226,9,Bullet Seed,1,grass,25,100
+226,10,Tackle,1,normal,50,100
+226,10,Supersonic,1,normal,-,55
+226,10,Psybeam,1,psychic,65,100
+226,10,Bubble Beam,1,water,65,100
+226,10,Bubble,1,water,40,100
+226,10,Signal Beam,1,bug,75,100
+226,10,Bullet Seed,1,grass,25,100
+226,11,Tackle,1,normal,50,100
+226,11,Supersonic,1,normal,-,55
+226,11,Psybeam,1,psychic,65,100
+226,11,Bubble Beam,1,water,65,100
+226,11,Bubble,1,water,40,100
+226,11,Signal Beam,1,bug,75,100
+226,11,Bullet Seed,1,grass,25,100
+226,12,Tackle,1,normal,50,100
+226,12,Bubble,1,water,40,100
+226,13,Tackle,1,normal,50,100
+226,13,Bubble,1,water,40,100
+226,14,Tackle,1,normal,50,100
+226,14,Supersonic,1,normal,-,55
+226,14,Psybeam,1,psychic,65,100
+226,14,Bubble Beam,1,water,65,100
+226,14,Bubble,1,water,40,100
+226,14,Signal Beam,1,bug,75,100
+226,14,Bullet Seed,1,grass,25,100
+226,15,Tackle,1,normal,50,100
+226,15,Supersonic,1,normal,-,55
+226,15,Psybeam,1,psychic,65,100
+226,15,Bubble Beam,1,water,65,100
+226,15,Bubble,1,water,40,100
+226,15,Signal Beam,1,bug,75,100
+226,15,Bullet Seed,1,grass,25,100
+226,16,Tackle,1,normal,50,100
+226,16,Supersonic,1,normal,-,55
+226,16,Psybeam,1,psychic,65,100
+226,16,Bubble Beam,1,water,65,100
+226,16,Bubble,1,water,40,100
+226,16,Signal Beam,1,bug,75,100
+226,16,Bullet Seed,1,grass,25,100
+226,14,Supersonic,3,normal,-,55
+226,15,Supersonic,3,normal,-,55
+226,16,Supersonic,3,normal,-,55
+226,8,Supersonic,4,normal,-,55
+226,9,Supersonic,4,normal,-,55
+226,10,Supersonic,4,normal,-,55
+226,11,Supersonic,4,normal,-,55
+226,14,Bubble Beam,7,water,65,100
+226,15,Bubble Beam,7,water,65,100
+226,16,Bubble Beam,7,water,65,100
+226,5,Supersonic,8,normal,-,55
+226,6,Supersonic,8,normal,-,55
+226,7,Supersonic,8,normal,-,55
+226,12,Supersonic,8,normal,-,55
+226,13,Supersonic,8,normal,-,55
+226,3,Supersonic,10,normal,-,55
+226,4,Supersonic,10,normal,-,55
+226,8,Bubble Beam,10,water,65,100
+226,9,Bubble Beam,10,water,65,100
+226,10,Bubble Beam,10,water,65,100
+226,11,Bubble Beam,10,water,65,100
+226,14,Confuse Ray,11,ghost,-,100
+226,15,Confuse Ray,11,ghost,-,100
+226,16,Confuse Ray,11,ghost,-,100
+226,8,Headbutt,13,normal,70,100
+226,9,Headbutt,13,normal,70,100
+226,10,Headbutt,13,normal,70,100
+226,11,Headbutt,13,normal,70,100
+226,14,Wing Attack,14,flying,60,100
+226,15,Wing Attack,14,flying,60,100
+226,16,Wing Attack,14,flying,60,100
+226,5,Bubble Beam,15,water,65,100
+226,6,Bubble Beam,15,water,65,100
+226,7,Bubble Beam,15,water,65,100
+226,12,Bubble Beam,15,water,65,100
+226,13,Bubble Beam,15,water,65,100
+226,14,Headbutt,16,normal,70,100
+226,15,Headbutt,16,normal,70,100
+226,16,Headbutt,16,normal,70,100
+226,3,Bubble Beam,18,water,65,100
+226,4,Bubble Beam,18,water,65,100
+226,8,Agility,19,psychic,-,-
+226,9,Agility,19,psychic,-,-
+226,10,Agility,19,psychic,-,-
+226,11,Agility,19,psychic,-,-
+226,14,Water Pulse,19,water,60,100
+226,15,Water Pulse,19,water,60,100
+226,16,Water Pulse,19,water,60,100
+226,5,Take Down,22,normal,90,85
+226,6,Take Down,22,normal,90,85
+226,7,Take Down,22,normal,90,85
+226,8,Wing Attack,22,flying,60,100
+226,9,Wing Attack,22,flying,60,100
+226,10,Wing Attack,22,flying,60,100
+226,11,Wing Attack,22,flying,60,100
+226,12,Take Down,22,normal,90,85
+226,13,Take Down,22,normal,90,85
+226,14,Wide Guard,23,rock,-,-
+226,15,Wide Guard,23,rock,-,-
+226,16,Wide Guard,23,rock,-,-
+226,3,Take Down,25,normal,90,85
+226,4,Take Down,25,normal,90,85
+226,14,Take Down,27,normal,90,85
+226,15,Take Down,27,normal,90,85
+226,16,Take Down,27,normal,90,85
+226,8,Water Pulse,28,water,60,100
+226,9,Water Pulse,28,water,60,100
+226,10,Water Pulse,28,water,60,100
+226,11,Water Pulse,28,water,60,100
+226,5,Agility,29,psychic,-,-
+226,6,Agility,29,psychic,-,-
+226,7,Agility,29,psychic,-,-
+226,12,Agility,29,psychic,-,-
+226,13,Agility,29,psychic,-,-
+226,8,Take Down,31,normal,90,85
+226,9,Take Down,31,normal,90,85
+226,10,Take Down,31,normal,90,85
+226,11,Take Down,31,normal,90,85
+226,3,Agility,32,psychic,-,-
+226,4,Agility,32,psychic,-,-
+226,14,Agility,32,psychic,-,-
+226,15,Agility,32,psychic,-,-
+226,16,Agility,32,psychic,-,-
+226,5,Wing Attack,36,flying,60,100
+226,6,Wing Attack,36,flying,60,100
+226,7,Wing Attack,36,flying,60,100
+226,12,Wing Attack,36,flying,60,100
+226,13,Wing Attack,36,flying,60,100
+226,14,Air Slash,36,flying,75,95
+226,15,Air Slash,36,flying,75,95
+226,16,Air Slash,36,flying,75,95
+226,8,Confuse Ray,37,ghost,-,100
+226,9,Confuse Ray,37,ghost,-,100
+226,10,Confuse Ray,37,ghost,-,100
+226,11,Confuse Ray,37,ghost,-,100
+226,14,Aqua Ring,39,water,-,-
+226,15,Aqua Ring,39,water,-,-
+226,16,Aqua Ring,39,water,-,-
+226,3,Wing Attack,40,flying,60,100
+226,4,Wing Attack,40,flying,60,100
+226,8,Bounce,40,flying,85,85
+226,9,Bounce,40,flying,85,85
+226,10,Bounce,40,flying,85,85
+226,11,Bounce,40,flying,85,85
+226,5,Water Pulse,43,water,60,100
+226,6,Water Pulse,43,water,60,100
+226,7,Water Pulse,43,water,60,100
+226,12,Water Pulse,43,water,60,100
+226,13,Water Pulse,43,water,60,100
+226,8,Aqua Ring,46,water,-,-
+226,9,Aqua Ring,46,water,-,-
+226,10,Aqua Ring,46,water,-,-
+226,11,Aqua Ring,46,water,-,-
+226,14,Bounce,46,flying,85,85
+226,15,Bounce,46,flying,85,85
+226,16,Bounce,46,flying,85,85
+226,3,Confuse Ray,49,ghost,-,100
+226,4,Confuse Ray,49,ghost,-,100
+226,8,Hydro Pump,49,water,110,80
+226,9,Hydro Pump,49,water,110,80
+226,10,Hydro Pump,49,water,110,80
+226,11,Hydro Pump,49,water,110,80
+226,14,Hydro Pump,49,water,110,80
+226,15,Hydro Pump,49,water,110,80
+226,16,Hydro Pump,49,water,110,80
+226,5,Confuse Ray,50,ghost,-,100
+226,6,Confuse Ray,50,ghost,-,100
+226,7,Confuse Ray,50,ghost,-,100
+226,12,Confuse Ray,50,ghost,-,100
+226,13,Confuse Ray,50,ghost,-,100

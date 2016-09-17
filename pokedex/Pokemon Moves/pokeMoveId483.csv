@@ -1,0 +1,87 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+483,8,Scary Face,1,normal,-,100
+483,8,Dragon Breath,1,dragon,60,100
+483,9,Scary Face,1,normal,-,100
+483,9,Dragon Breath,1,dragon,60,100
+483,10,Scary Face,1,normal,-,100
+483,10,Dragon Breath,1,dragon,60,100
+483,11,Scary Face,1,normal,-,100
+483,11,Dragon Breath,1,dragon,60,100
+483,14,Scary Face,1,normal,-,100
+483,14,Dragon Breath,1,dragon,60,100
+483,15,Scary Face,1,normal,-,100
+483,15,Dragon Breath,1,dragon,60,100
+483,16,Scary Face,1,normal,-,100
+483,16,Dragon Breath,1,dragon,60,100
+483,10,Metal Claw,6,steel,50,95
+483,11,Metal Claw,6,steel,50,95
+483,14,Metal Claw,6,steel,50,95
+483,15,Metal Claw,6,steel,50,95
+483,16,Metal Claw,6,steel,50,95
+483,8,Metal Claw,10,steel,50,95
+483,9,Metal Claw,10,steel,50,95
+483,10,Ancient Power,10,rock,60,100
+483,11,Ancient Power,10,rock,60,100
+483,14,Ancient Power,10,rock,60,100
+483,15,Ancient Power,10,rock,60,100
+483,16,Ancient Power,10,rock,60,100
+483,10,Slash,15,normal,70,100
+483,11,Slash,15,normal,70,100
+483,14,Slash,15,normal,70,100
+483,15,Slash,15,normal,70,100
+483,16,Slash,15,normal,70,100
+483,10,Power Gem,19,rock,80,100
+483,11,Power Gem,19,rock,80,100
+483,14,Power Gem,19,rock,80,100
+483,15,Power Gem,19,rock,80,100
+483,16,Power Gem,19,rock,80,100
+483,8,Ancient Power,20,rock,60,100
+483,9,Ancient Power,20,rock,60,100
+483,10,Metal Burst,24,steel,-,100
+483,11,Metal Burst,24,steel,-,100
+483,14,Metal Burst,24,steel,-,100
+483,15,Metal Burst,24,steel,-,100
+483,16,Metal Burst,24,steel,-,100
+483,10,Dragon Claw,28,dragon,80,100
+483,11,Dragon Claw,28,dragon,80,100
+483,14,Dragon Claw,28,dragon,80,100
+483,15,Dragon Claw,28,dragon,80,100
+483,16,Dragon Claw,28,dragon,80,100
+483,8,Dragon Claw,30,dragon,80,100
+483,9,Dragon Claw,30,dragon,80,100
+483,10,Earth Power,33,ground,90,100
+483,11,Earth Power,33,ground,90,100
+483,14,Earth Power,33,ground,90,100
+483,15,Earth Power,33,ground,90,100
+483,16,Earth Power,33,ground,90,100
+483,10,Aura Sphere,37,fighting,80,-
+483,11,Aura Sphere,37,fighting,80,-
+483,14,Aura Sphere,37,fighting,80,-
+483,15,Aura Sphere,37,fighting,80,-
+483,16,Aura Sphere,37,fighting,80,-
+483,8,Roar of Time,40,dragon,150,90
+483,9,Roar of Time,40,dragon,150,90
+483,10,Flash Cannon,42,steel,80,100
+483,11,Iron Tail,42,steel,100,75
+483,14,Iron Tail,42,steel,100,75
+483,15,Iron Tail,42,steel,100,75
+483,16,Iron Tail,42,steel,100,75
+483,10,Roar of Time,46,dragon,150,90
+483,11,Roar of Time,46,dragon,150,90
+483,14,Roar of Time,46,dragon,150,90
+483,15,Roar of Time,46,dragon,150,90
+483,16,Roar of Time,46,dragon,150,90
+483,8,Heal Block,50,psychic,-,100
+483,9,Heal Block,50,psychic,-,100
+483,11,Flash Cannon,50,steel,80,100
+483,14,Flash Cannon,50,steel,80,100
+483,15,Flash Cannon,50,steel,80,100
+483,16,Flash Cannon,50,steel,80,100
+483,8,Earth Power,60,ground,90,100
+483,9,Earth Power,60,ground,90,100
+483,8,Slash,70,normal,70,100
+483,9,Slash,70,normal,70,100
+483,8,Flash Cannon,80,steel,80,100
+483,9,Flash Cannon,80,steel,80,100
+483,8,Aura Sphere,90,fighting,80,-
+483,9,Aura Sphere,90,fighting,80,-

@@ -1,0 +1,77 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+598,11,Tackle,1,normal,50,100
+598,11,Harden,1,normal,-,-
+598,11,Curse,1,ghost,-,-
+598,11,Rollout,1,rock,30,90
+598,11,Rock Climb,1,normal,90,85
+598,14,Tackle,1,normal,50,100
+598,14,Harden,1,normal,-,-
+598,14,Curse,1,ghost,-,-
+598,14,Rollout,1,rock,30,90
+598,14,Rock Climb,1,normal,90,85
+598,15,Tackle,1,normal,50,100
+598,15,Harden,1,normal,-,-
+598,15,Curse,1,ghost,-,-
+598,15,Rollout,1,rock,30,90
+598,15,Rock Climb,1,normal,90,85
+598,16,Tackle,1,normal,50,100
+598,16,Harden,1,normal,-,-
+598,16,Curse,1,ghost,-,-
+598,16,Rollout,1,rock,30,90
+598,16,Rock Climb,1,normal,90,85
+598,11,Rollout,6,rock,30,90
+598,14,Rollout,6,rock,30,90
+598,15,Rollout,6,rock,30,90
+598,16,Rollout,6,rock,30,90
+598,11,Curse,9,ghost,-,-
+598,14,Curse,9,ghost,-,-
+598,15,Curse,9,ghost,-,-
+598,16,Curse,9,ghost,-,-
+598,11,Metal Claw,14,steel,50,95
+598,14,Metal Claw,14,steel,50,95
+598,15,Metal Claw,14,steel,50,95
+598,16,Metal Claw,14,steel,50,95
+598,11,Pin Missile,18,bug,25,95
+598,14,Pin Missile,18,bug,25,95
+598,15,Pin Missile,18,bug,25,95
+598,16,Pin Missile,18,bug,25,95
+598,11,Gyro Ball,21,steel,-,100
+598,14,Gyro Ball,21,steel,-,100
+598,15,Gyro Ball,21,steel,-,100
+598,16,Gyro Ball,21,steel,-,100
+598,11,Iron Defense,26,steel,-,-
+598,14,Iron Defense,26,steel,-,-
+598,15,Iron Defense,26,steel,-,-
+598,16,Iron Defense,26,steel,-,-
+598,11,Mirror Shot,30,steel,65,85
+598,14,Mirror Shot,30,steel,65,85
+598,15,Mirror Shot,30,steel,65,85
+598,16,Mirror Shot,30,steel,65,85
+598,11,Ingrain,35,grass,-,-
+598,14,Ingrain,35,grass,-,-
+598,15,Ingrain,35,grass,-,-
+598,16,Ingrain,35,grass,-,-
+598,11,Self-Destruct,38,normal,200,100
+598,14,Self-Destruct,38,normal,200,100
+598,15,Self-Destruct,38,normal,200,100
+598,16,Self-Destruct,38,normal,200,100
+598,11,Power Whip,40,grass,120,85
+598,14,Power Whip,40,grass,120,85
+598,15,Power Whip,40,grass,120,85
+598,16,Power Whip,40,grass,120,85
+598,11,Iron Head,46,steel,80,100
+598,14,Iron Head,46,steel,80,100
+598,15,Iron Head,46,steel,80,100
+598,16,Iron Head,46,steel,80,100
+598,11,Payback,53,dark,50,100
+598,14,Payback,53,dark,50,100
+598,15,Payback,53,dark,50,100
+598,16,Payback,53,dark,50,100
+598,11,Flash Cannon,61,steel,80,100
+598,14,Flash Cannon,61,steel,80,100
+598,15,Flash Cannon,61,steel,80,100
+598,16,Flash Cannon,61,steel,80,100
+598,11,Explosion,67,normal,250,100
+598,14,Explosion,67,normal,250,100
+598,15,Explosion,67,normal,250,100
+598,16,Explosion,67,normal,250,100

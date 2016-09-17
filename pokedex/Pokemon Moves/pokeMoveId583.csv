@@ -1,0 +1,73 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+583,11,Harden,1,normal,-,-
+583,11,Uproar,1,normal,90,100
+583,11,Astonish,1,ghost,30,100
+583,11,Icicle Spear,1,ice,25,100
+583,14,Harden,1,normal,-,-
+583,14,Uproar,1,normal,90,100
+583,14,Astonish,1,ghost,30,100
+583,14,Icicle Spear,1,ice,25,100
+583,15,Harden,1,normal,-,-
+583,15,Uproar,1,normal,90,100
+583,15,Astonish,1,ghost,30,100
+583,15,Icicle Spear,1,ice,25,100
+583,16,Harden,1,normal,-,-
+583,16,Uproar,1,normal,90,100
+583,16,Astonish,1,ghost,30,100
+583,16,Icicle Spear,1,ice,25,100
+583,11,Harden,4,normal,-,-
+583,14,Harden,4,normal,-,-
+583,15,Harden,4,normal,-,-
+583,16,Harden,4,normal,-,-
+583,11,Astonish,7,ghost,30,100
+583,14,Astonish,7,ghost,30,100
+583,15,Astonish,7,ghost,30,100
+583,16,Astonish,7,ghost,30,100
+583,11,Uproar,10,normal,90,100
+583,14,Uproar,10,normal,90,100
+583,15,Uproar,10,normal,90,100
+583,16,Uproar,10,normal,90,100
+583,11,Icy Wind,13,ice,55,95
+583,14,Icy Wind,13,ice,55,95
+583,15,Icy Wind,13,ice,55,95
+583,16,Icy Wind,13,ice,55,95
+583,11,Mist,16,ice,-,-
+583,14,Mist,16,ice,-,-
+583,15,Mist,16,ice,-,-
+583,16,Mist,16,ice,-,-
+583,11,Avalanche,19,ice,60,100
+583,14,Avalanche,19,ice,60,100
+583,15,Avalanche,19,ice,60,100
+583,16,Avalanche,19,ice,60,100
+583,11,Taunt,22,dark,-,100
+583,14,Taunt,22,dark,-,100
+583,15,Taunt,22,dark,-,100
+583,16,Taunt,22,dark,-,100
+583,11,Mirror Shot,26,steel,65,85
+583,14,Mirror Shot,26,steel,65,85
+583,15,Mirror Shot,26,steel,65,85
+583,16,Mirror Shot,26,steel,65,85
+583,11,Acid Armor,31,poison,-,-
+583,14,Acid Armor,31,poison,-,-
+583,15,Acid Armor,31,poison,-,-
+583,16,Acid Armor,31,poison,-,-
+583,11,Ice Beam,36,ice,90,100
+583,14,Ice Beam,36,ice,90,100
+583,15,Ice Beam,36,ice,90,100
+583,16,Ice Beam,36,ice,90,100
+583,11,Hail,42,ice,-,-
+583,14,Hail,42,ice,-,-
+583,15,Hail,42,ice,-,-
+583,16,Hail,42,ice,-,-
+583,11,Mirror Coat,47,psychic,-,100
+583,14,Mirror Coat,47,psychic,-,100
+583,15,Mirror Coat,47,psychic,-,100
+583,16,Mirror Coat,47,psychic,-,100
+583,11,Blizzard,53,ice,110,70
+583,14,Blizzard,53,ice,110,70
+583,15,Blizzard,53,ice,110,70
+583,16,Blizzard,53,ice,110,70
+583,11,Sheer Cold,58,ice,-,30
+583,14,Sheer Cold,58,ice,-,30
+583,15,Sheer Cold,58,ice,-,30
+583,16,Sheer Cold,58,ice,-,30

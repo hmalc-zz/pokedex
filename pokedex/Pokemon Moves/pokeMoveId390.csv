@@ -1,0 +1,89 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+390,8,Scratch,1,normal,40,100
+390,8,Leer,1,normal,-,100
+390,9,Scratch,1,normal,40,100
+390,9,Leer,1,normal,-,100
+390,10,Scratch,1,normal,40,100
+390,10,Leer,1,normal,-,100
+390,11,Scratch,1,normal,40,100
+390,11,Leer,1,normal,-,100
+390,14,Scratch,1,normal,40,100
+390,14,Leer,1,normal,-,100
+390,15,Scratch,1,normal,40,100
+390,15,Leer,1,normal,-,100
+390,16,Scratch,1,normal,40,100
+390,16,Leer,1,normal,-,100
+390,8,Ember,7,fire,40,100
+390,9,Ember,7,fire,40,100
+390,10,Ember,7,fire,40,100
+390,11,Ember,7,fire,40,100
+390,14,Ember,7,fire,40,100
+390,15,Ember,7,fire,40,100
+390,16,Ember,7,fire,40,100
+390,8,Taunt,9,dark,-,100
+390,9,Taunt,9,dark,-,100
+390,10,Taunt,9,dark,-,100
+390,11,Taunt,9,dark,-,100
+390,14,Taunt,9,dark,-,100
+390,15,Taunt,9,dark,-,100
+390,16,Taunt,9,dark,-,100
+390,8,Fury Swipes,15,normal,18,80
+390,9,Fury Swipes,15,normal,18,80
+390,10,Fury Swipes,15,normal,18,80
+390,11,Fury Swipes,15,normal,18,80
+390,14,Fury Swipes,15,normal,18,80
+390,15,Fury Swipes,15,normal,18,80
+390,16,Fury Swipes,15,normal,18,80
+390,8,Flame Wheel,17,fire,60,100
+390,9,Flame Wheel,17,fire,60,100
+390,10,Flame Wheel,17,fire,60,100
+390,11,Flame Wheel,17,fire,60,100
+390,14,Flame Wheel,17,fire,60,100
+390,15,Flame Wheel,17,fire,60,100
+390,16,Flame Wheel,17,fire,60,100
+390,8,Nasty Plot,23,dark,-,-
+390,9,Nasty Plot,23,dark,-,-
+390,10,Nasty Plot,23,dark,-,-
+390,11,Nasty Plot,23,dark,-,-
+390,14,Nasty Plot,23,dark,-,-
+390,15,Nasty Plot,23,dark,-,-
+390,16,Nasty Plot,23,dark,-,-
+390,8,Torment,25,dark,-,100
+390,9,Torment,25,dark,-,100
+390,10,Torment,25,dark,-,100
+390,11,Torment,25,dark,-,100
+390,14,Torment,25,dark,-,100
+390,15,Torment,25,dark,-,100
+390,16,Torment,25,dark,-,100
+390,8,Facade,31,normal,70,100
+390,9,Facade,31,normal,70,100
+390,10,Facade,31,normal,70,100
+390,11,Facade,31,normal,70,100
+390,14,Facade,31,normal,70,100
+390,15,Facade,31,normal,70,100
+390,16,Facade,31,normal,70,100
+390,8,Fire Spin,33,fire,35,85
+390,9,Fire Spin,33,fire,35,85
+390,10,Fire Spin,33,fire,35,85
+390,11,Fire Spin,33,fire,35,85
+390,14,Fire Spin,33,fire,35,85
+390,15,Fire Spin,33,fire,35,85
+390,16,Fire Spin,33,fire,35,85
+390,8,Slack Off,39,normal,-,-
+390,9,Slack Off,39,normal,-,-
+390,10,Slack Off,39,normal,-,-
+390,11,Acrobatics,39,flying,55,100
+390,14,Acrobatics,39,flying,55,100
+390,15,Acrobatics,39,flying,55,100
+390,16,Acrobatics,39,flying,55,100
+390,8,Flamethrower,41,fire,90,100
+390,9,Flamethrower,41,fire,90,100
+390,10,Flamethrower,41,fire,90,100
+390,11,Slack Off,41,normal,-,-
+390,14,Slack Off,41,normal,-,-
+390,15,Slack Off,41,normal,-,-
+390,16,Slack Off,41,normal,-,-
+390,11,Flamethrower,47,fire,90,100
+390,14,Flamethrower,47,fire,90,100
+390,15,Flamethrower,47,fire,90,100
+390,16,Flamethrower,47,fire,90,100

@@ -1,0 +1,120 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+395,8,Tackle,1,normal,50,100
+395,8,Growl,1,normal,-,100
+395,8,Bubble,1,water,40,100
+395,9,Tackle,1,normal,50,100
+395,9,Growl,1,normal,-,100
+395,9,Bubble,1,water,40,100
+395,10,Tackle,1,normal,50,100
+395,10,Growl,1,normal,-,100
+395,10,Bubble,1,water,40,100
+395,11,Tackle,1,normal,50,100
+395,11,Growl,1,normal,-,100
+395,11,Bubble,1,water,40,100
+395,14,Tackle,1,normal,50,100
+395,14,Growl,1,normal,-,100
+395,14,Bubble,1,water,40,100
+395,15,Tackle,1,normal,50,100
+395,15,Growl,1,normal,-,100
+395,15,Bubble,1,water,40,100
+395,16,Tackle,1,normal,50,100
+395,16,Growl,1,normal,-,100
+395,16,Bubble,1,water,40,100
+395,8,Growl,4,normal,-,100
+395,9,Growl,4,normal,-,100
+395,10,Growl,4,normal,-,100
+395,11,Growl,4,normal,-,100
+395,14,Growl,4,normal,-,100
+395,15,Growl,4,normal,-,100
+395,16,Growl,4,normal,-,100
+395,8,Bubble,8,water,40,100
+395,9,Bubble,8,water,40,100
+395,10,Bubble,8,water,40,100
+395,11,Bubble,8,water,40,100
+395,14,Bubble,8,water,40,100
+395,15,Bubble,8,water,40,100
+395,16,Bubble,8,water,40,100
+395,8,Swords Dance,11,normal,-,-
+395,9,Swords Dance,11,normal,-,-
+395,10,Swords Dance,11,normal,-,-
+395,11,Swords Dance,11,normal,-,-
+395,14,Swords Dance,11,normal,-,-
+395,15,Swords Dance,11,normal,-,-
+395,16,Swords Dance,11,normal,-,-
+395,8,Peck,15,flying,35,100
+395,9,Peck,15,flying,35,100
+395,10,Peck,15,flying,35,100
+395,11,Peck,15,flying,35,100
+395,14,Peck,15,flying,35,100
+395,15,Peck,15,flying,35,100
+395,16,Peck,15,flying,35,100
+395,8,Metal Claw,16,steel,50,95
+395,9,Metal Claw,16,steel,50,95
+395,10,Metal Claw,16,steel,50,95
+395,11,Metal Claw,16,steel,50,95
+395,14,Metal Claw,16,steel,50,95
+395,15,Metal Claw,16,steel,50,95
+395,16,Metal Claw,16,steel,50,95
+395,8,Swagger,19,normal,-,90
+395,9,Bubble Beam,19,water,65,100
+395,10,Bubble Beam,19,water,65,100
+395,11,Bubble Beam,19,water,65,100
+395,14,Bubble Beam,19,water,65,100
+395,15,Bubble Beam,19,water,65,100
+395,16,Bubble Beam,19,water,65,100
+395,8,Bubble Beam,24,water,65,100
+395,9,Swagger,24,normal,-,90
+395,10,Swagger,24,normal,-,90
+395,11,Swagger,24,normal,-,90
+395,14,Swagger,24,normal,-,90
+395,15,Swagger,24,normal,-,90
+395,16,Swagger,24,normal,-,90
+395,8,Fury Attack,28,normal,15,85
+395,9,Fury Attack,28,normal,15,85
+395,10,Fury Attack,28,normal,15,85
+395,11,Fury Attack,28,normal,15,85
+395,14,Fury Attack,28,normal,15,85
+395,15,Fury Attack,28,normal,15,85
+395,16,Fury Attack,28,normal,15,85
+395,8,Brine,33,water,65,100
+395,9,Brine,33,water,65,100
+395,10,Brine,33,water,65,100
+395,11,Brine,33,water,65,100
+395,14,Brine,33,water,65,100
+395,15,Brine,33,water,65,100
+395,16,Brine,33,water,65,100
+395,8,Aqua Jet,36,water,40,100
+395,9,Aqua Jet,36,water,40,100
+395,10,Aqua Jet,36,water,40,100
+395,11,Aqua Jet,36,water,40,100
+395,14,Aqua Jet,36,water,40,100
+395,15,Aqua Jet,36,water,40,100
+395,16,Aqua Jet,36,water,40,100
+395,8,Whirlpool,39,water,35,85
+395,9,Whirlpool,39,water,35,85
+395,10,Whirlpool,39,water,35,85
+395,11,Whirlpool,39,water,35,85
+395,14,Whirlpool,39,water,35,85
+395,15,Whirlpool,39,water,35,85
+395,16,Whirlpool,39,water,35,85
+395,8,Mist,46,ice,-,-
+395,9,Mist,46,ice,-,-
+395,10,Mist,46,ice,-,-
+395,11,Mist,46,ice,-,-
+395,14,Mist,46,ice,-,-
+395,15,Mist,46,ice,-,-
+395,16,Mist,46,ice,-,-
+395,8,Drill Peck,52,flying,80,100
+395,9,Drill Peck,52,flying,80,100
+395,10,Drill Peck,52,flying,80,100
+395,11,Drill Peck,52,flying,80,100
+395,14,Drill Peck,52,flying,80,100
+395,15,Drill Peck,52,flying,80,100
+395,16,Drill Peck,52,flying,80,100
+395,8,Hydro Pump,59,water,110,80
+395,9,Hydro Pump,59,water,110,80
+395,10,Hydro Pump,59,water,110,80
+395,11,Hydro Pump,59,water,110,80
+395,14,Hydro Pump,59,water,110,80
+395,15,Hydro Pump,59,water,110,80
+395,16,Hydro Pump,59,water,110,80

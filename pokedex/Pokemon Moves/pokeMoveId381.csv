@@ -1,0 +1,181 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+381,5,Psywave,1,psychic,-,100
+381,6,Psywave,1,psychic,-,100
+381,7,Psywave,1,psychic,-,100
+381,8,Psywave,1,psychic,-,100
+381,9,Psywave,1,psychic,-,100
+381,10,Psywave,1,psychic,-,100
+381,11,Psywave,1,psychic,-,100
+381,12,Psywave,1,psychic,-,100
+381,13,Psywave,1,psychic,-,100
+381,14,Psywave,1,psychic,-,100
+381,15,Psywave,1,psychic,-,100
+381,15,Memento,1,dark,-,100
+381,15,Dragon Dance,1,dragon,-,-
+381,15,Dragon Pulse,1,dragon,85,100
+381,15,Power Split,1,psychic,-,-
+381,15,Telekinesis,1,psychic,-,-
+381,15,Heal Pulse,1,psychic,-,-
+381,16,Psywave,1,psychic,-,100
+381,16,Safeguard,1,normal,-,-
+381,16,Memento,1,dark,-,100
+381,16,Helping Hand,1,normal,-,-
+381,16,Heal Block,1,psychic,-,100
+381,16,Protect,4,normal,-,-
+381,5,Memento,5,dark,-,100
+381,6,Memento,5,dark,-,100
+381,7,Memento,5,dark,-,100
+381,8,Heal Block,5,psychic,-,100
+381,9,Heal Block,5,psychic,-,100
+381,10,Heal Block,5,psychic,-,100
+381,11,Heal Block,5,psychic,-,100
+381,12,Memento,5,dark,-,100
+381,13,Memento,5,dark,-,100
+381,14,Heal Block,5,psychic,-,100
+381,15,Heal Block,5,psychic,-,100
+381,16,Dragon Dance,7,dragon,-,-
+381,5,Helping Hand,10,normal,-,-
+381,6,Helping Hand,10,normal,-,-
+381,7,Helping Hand,10,normal,-,-
+381,8,Helping Hand,10,normal,-,-
+381,9,Helping Hand,10,normal,-,-
+381,10,Helping Hand,10,normal,-,-
+381,11,Helping Hand,10,normal,-,-
+381,12,Helping Hand,10,normal,-,-
+381,13,Helping Hand,10,normal,-,-
+381,14,Helping Hand,10,normal,-,-
+381,15,Helping Hand,10,normal,-,-
+381,16,Stored Power,10,psychic,20,100
+381,16,Refresh,13,normal,-,-
+381,5,Safeguard,15,normal,-,-
+381,6,Safeguard,15,normal,-,-
+381,7,Safeguard,15,normal,-,-
+381,8,Safeguard,15,normal,-,-
+381,9,Safeguard,15,normal,-,-
+381,10,Safeguard,15,normal,-,-
+381,11,Safeguard,15,normal,-,-
+381,12,Safeguard,15,normal,-,-
+381,13,Safeguard,15,normal,-,-
+381,14,Safeguard,15,normal,-,-
+381,15,Safeguard,15,normal,-,-
+381,16,Heal Pulse,16,psychic,-,-
+381,5,Dragon Breath,20,dragon,60,100
+381,6,Dragon Breath,20,dragon,60,100
+381,7,Dragon Breath,20,dragon,60,100
+381,8,Dragon Breath,20,dragon,60,100
+381,9,Dragon Breath,20,dragon,60,100
+381,10,Dragon Breath,20,dragon,60,100
+381,11,Dragon Breath,20,dragon,60,100
+381,12,Dragon Breath,20,dragon,60,100
+381,13,Dragon Breath,20,dragon,60,100
+381,14,Dragon Breath,20,dragon,60,100
+381,15,Dragon Breath,20,dragon,60,100
+381,16,Dragon Breath,20,dragon,60,100
+381,16,Luster Purge,24,psychic,70,100
+381,5,Protect,25,normal,-,-
+381,6,Protect,25,normal,-,-
+381,7,Protect,25,normal,-,-
+381,8,Protect,25,normal,-,-
+381,9,Protect,25,normal,-,-
+381,10,Protect,25,normal,-,-
+381,11,Protect,25,normal,-,-
+381,12,Protect,25,normal,-,-
+381,13,Protect,25,normal,-,-
+381,14,Protect,25,normal,-,-
+381,15,Protect,25,normal,-,-
+381,16,Psycho Shift,28,psychic,-,100
+381,5,Refresh,30,normal,-,-
+381,6,Refresh,30,normal,-,-
+381,7,Refresh,30,normal,-,-
+381,8,Refresh,30,normal,-,-
+381,9,Refresh,30,normal,-,-
+381,10,Refresh,30,normal,-,-
+381,11,Refresh,30,normal,-,-
+381,12,Refresh,30,normal,-,-
+381,13,Refresh,30,normal,-,-
+381,14,Refresh,30,normal,-,-
+381,15,Refresh,30,normal,-,-
+381,16,Recover,32,normal,-,-
+381,5,Luster Purge,35,psychic,70,100
+381,6,Luster Purge,35,psychic,70,100
+381,7,Luster Purge,35,psychic,70,100
+381,8,Luster Purge,35,psychic,70,100
+381,9,Luster Purge,35,psychic,70,100
+381,10,Luster Purge,35,psychic,70,100
+381,11,Luster Purge,35,psychic,70,100
+381,12,Luster Purge,35,psychic,70,100
+381,13,Luster Purge,35,psychic,70,100
+381,14,Luster Purge,35,psychic,70,100
+381,15,Luster Purge,35,psychic,70,100
+381,16,Telekinesis,36,psychic,-,-
+381,5,Psychic,40,psychic,90,100
+381,6,Psychic,40,psychic,90,100
+381,7,Psychic,40,psychic,90,100
+381,8,Zen Headbutt,40,psychic,80,90
+381,9,Zen Headbutt,40,psychic,80,90
+381,10,Zen Headbutt,40,psychic,80,90
+381,11,Zen Headbutt,40,psychic,80,90
+381,12,Psychic,40,psychic,90,100
+381,13,Psychic,40,psychic,90,100
+381,14,Zen Headbutt,40,psychic,80,90
+381,15,Zen Headbutt,40,psychic,80,90
+381,16,Zen Headbutt,41,psychic,80,90
+381,5,Recover,45,normal,-,-
+381,6,Recover,45,normal,-,-
+381,7,Recover,45,normal,-,-
+381,8,Recover,45,normal,-,-
+381,9,Recover,45,normal,-,-
+381,10,Recover,45,normal,-,-
+381,11,Recover,45,normal,-,-
+381,12,Recover,45,normal,-,-
+381,13,Recover,45,normal,-,-
+381,14,Recover,45,normal,-,-
+381,15,Recover,45,normal,-,-
+381,16,Power Split,46,psychic,-,-
+381,5,Dragon Dance,50,dragon,-,-
+381,6,Dragon Dance,50,dragon,-,-
+381,7,Dragon Dance,50,dragon,-,-
+381,8,Psycho Shift,50,psychic,-,100
+381,9,Psycho Shift,50,psychic,-,100
+381,10,Psycho Shift,50,psychic,-,100
+381,11,Psycho Shift,50,psychic,-,100
+381,12,Dragon Dance,50,dragon,-,-
+381,13,Dragon Dance,50,dragon,-,-
+381,14,Psycho Shift,50,psychic,-,100
+381,15,Psycho Shift,50,psychic,-,100
+381,16,Psychic,51,psychic,90,100
+381,8,Dragon Dance,55,dragon,-,-
+381,9,Dragon Dance,55,dragon,-,-
+381,10,Dragon Dance,55,dragon,-,-
+381,11,Dragon Dance,55,dragon,-,-
+381,14,Dragon Dance,55,dragon,-,-
+381,15,Dragon Dance,55,dragon,-,-
+381,16,Dragon Pulse,56,dragon,85,100
+381,8,Memento,60,dark,-,100
+381,9,Memento,60,dark,-,100
+381,10,Memento,60,dark,-,100
+381,11,Psychic,60,psychic,90,100
+381,14,Psychic,60,psychic,90,100
+381,15,Psychic,60,psychic,90,100
+381,16,Memento,61,dark,-,100
+381,8,Psychic,65,psychic,90,100
+381,9,Psychic,65,psychic,90,100
+381,10,Psychic,65,psychic,90,100
+381,11,Heal Pulse,65,psychic,-,-
+381,14,Heal Pulse,65,psychic,-,-
+381,15,Heal Pulse,65,psychic,-,-
+381,8,Dragon Pulse,70,dragon,85,100
+381,9,Dragon Pulse,70,dragon,85,100
+381,10,Dragon Pulse,70,dragon,85,100
+381,11,Telekinesis,70,psychic,-,-
+381,14,Telekinesis,70,psychic,-,-
+381,15,Telekinesis,70,psychic,-,-
+381,11,Power Split,75,psychic,-,-
+381,14,Power Split,75,psychic,-,-
+381,15,Power Split,75,psychic,-,-
+381,11,Dragon Pulse,80,dragon,85,100
+381,14,Dragon Pulse,80,dragon,85,100
+381,15,Dragon Pulse,80,dragon,85,100
+381,11,Memento,85,dark,-,100
+381,14,Memento,85,dark,-,100
+381,15,Memento,85,dark,-,100

@@ -1,0 +1,197 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+58,1,Bite,1,dark,60,100
+58,1,Roar,1,normal,-,-
+58,2,Bite,1,dark,60,100
+58,2,Roar,1,normal,-,-
+58,3,Bite,1,dark,60,100
+58,3,Roar,1,normal,-,-
+58,4,Bite,1,dark,60,100
+58,4,Roar,1,normal,-,-
+58,5,Bite,1,dark,60,100
+58,5,Roar,1,normal,-,-
+58,6,Bite,1,dark,60,100
+58,6,Roar,1,normal,-,-
+58,7,Bite,1,dark,60,100
+58,7,Roar,1,normal,-,-
+58,8,Bite,1,dark,60,100
+58,8,Roar,1,normal,-,-
+58,9,Bite,1,dark,60,100
+58,9,Roar,1,normal,-,-
+58,10,Bite,1,dark,60,100
+58,10,Roar,1,normal,-,-
+58,11,Bite,1,dark,60,100
+58,11,Roar,1,normal,-,-
+58,12,Bite,1,dark,60,100
+58,12,Roar,1,normal,-,-
+58,13,Bite,1,dark,60,100
+58,13,Roar,1,normal,-,-
+58,14,Bite,1,dark,60,100
+58,14,Roar,1,normal,-,-
+58,15,Bite,1,dark,60,100
+58,15,Roar,1,normal,-,-
+58,16,Bite,1,dark,60,100
+58,16,Roar,1,normal,-,-
+58,8,Ember,6,fire,40,100
+58,9,Ember,6,fire,40,100
+58,10,Ember,6,fire,40,100
+58,11,Ember,6,fire,40,100
+58,14,Ember,6,fire,40,100
+58,15,Ember,6,fire,40,100
+58,16,Ember,6,fire,40,100
+58,5,Ember,7,fire,40,100
+58,6,Ember,7,fire,40,100
+58,7,Ember,7,fire,40,100
+58,12,Ember,7,fire,40,100
+58,13,Ember,7,fire,40,100
+58,14,Leer,8,normal,-,100
+58,15,Leer,8,normal,-,100
+58,16,Leer,8,normal,-,100
+58,3,Ember,9,fire,40,100
+58,4,Ember,9,fire,40,100
+58,8,Leer,9,normal,-,100
+58,9,Leer,9,normal,-,100
+58,10,Leer,9,normal,-,100
+58,11,Leer,9,normal,-,100
+58,14,Odor Sleuth,10,normal,-,-
+58,15,Odor Sleuth,10,normal,-,-
+58,16,Odor Sleuth,10,normal,-,-
+58,14,Helping Hand,12,normal,-,-
+58,15,Helping Hand,12,normal,-,-
+58,16,Helping Hand,12,normal,-,-
+58,5,Leer,13,normal,-,100
+58,6,Leer,13,normal,-,100
+58,7,Leer,13,normal,-,100
+58,12,Leer,13,normal,-,100
+58,13,Leer,13,normal,-,100
+58,8,Odor Sleuth,14,normal,-,-
+58,9,Odor Sleuth,14,normal,-,-
+58,10,Odor Sleuth,14,normal,-,-
+58,11,Odor Sleuth,14,normal,-,-
+58,8,Helping Hand,17,normal,-,-
+58,9,Helping Hand,17,normal,-,-
+58,10,Helping Hand,17,normal,-,-
+58,11,Helping Hand,17,normal,-,-
+58,14,Flame Wheel,17,fire,60,100
+58,15,Flame Wheel,17,fire,60,100
+58,16,Flame Wheel,17,fire,60,100
+58,1,Ember,18,fire,40,100
+58,2,Ember,18,fire,40,100
+58,3,Leer,18,normal,-,100
+58,4,Leer,18,normal,-,100
+58,5,Odor Sleuth,19,normal,-,-
+58,6,Odor Sleuth,19,normal,-,-
+58,7,Odor Sleuth,19,normal,-,-
+58,12,Odor Sleuth,19,normal,-,-
+58,13,Odor Sleuth,19,normal,-,-
+58,14,Reversal,19,fighting,-,100
+58,15,Reversal,19,fighting,-,100
+58,16,Reversal,19,fighting,-,100
+58,8,Flame Wheel,20,fire,60,100
+58,9,Flame Wheel,20,fire,60,100
+58,10,Flame Wheel,20,fire,60,100
+58,11,Flame Wheel,20,fire,60,100
+58,14,Fire Fang,21,fire,65,95
+58,15,Fire Fang,21,fire,65,95
+58,16,Fire Fang,21,fire,65,95
+58,1,Leer,23,normal,-,100
+58,2,Leer,23,normal,-,100
+58,14,Take Down,23,normal,90,85
+58,15,Take Down,23,normal,90,85
+58,16,Take Down,23,normal,90,85
+58,5,Take Down,25,normal,90,85
+58,6,Take Down,25,normal,90,85
+58,7,Take Down,25,normal,90,85
+58,8,Reversal,25,fighting,-,100
+58,9,Reversal,25,fighting,-,100
+58,10,Reversal,25,fighting,-,100
+58,11,Reversal,25,fighting,-,100
+58,12,Take Down,25,normal,90,85
+58,13,Take Down,25,normal,90,85
+58,3,Take Down,26,normal,90,85
+58,4,Take Down,26,normal,90,85
+58,8,Fire Fang,28,fire,65,95
+58,9,Fire Fang,28,fire,65,95
+58,10,Fire Fang,28,fire,65,95
+58,11,Fire Fang,28,fire,65,95
+58,14,Flame Burst,28,fire,70,100
+58,15,Flame Burst,28,fire,70,100
+58,16,Flame Burst,28,fire,70,100
+58,1,Take Down,30,normal,90,85
+58,2,Take Down,30,normal,90,85
+58,14,Agility,30,psychic,-,-
+58,15,Agility,30,psychic,-,-
+58,16,Agility,30,psychic,-,-
+58,5,Flame Wheel,31,fire,60,100
+58,6,Flame Wheel,31,fire,60,100
+58,7,Flame Wheel,31,fire,60,100
+58,8,Take Down,31,normal,90,85
+58,9,Take Down,31,normal,90,85
+58,10,Take Down,31,normal,90,85
+58,11,Flame Burst,31,fire,70,100
+58,12,Flame Wheel,31,fire,60,100
+58,13,Flame Wheel,31,fire,60,100
+58,14,Retaliate,32,normal,70,100
+58,15,Retaliate,32,normal,70,100
+58,16,Retaliate,32,normal,70,100
+58,3,Flame Wheel,34,fire,60,100
+58,4,Flame Wheel,34,fire,60,100
+58,8,Flamethrower,34,fire,90,100
+58,9,Flamethrower,34,fire,90,100
+58,10,Flamethrower,34,fire,90,100
+58,11,Take Down,34,normal,90,85
+58,14,Flamethrower,34,fire,90,100
+58,15,Flamethrower,34,fire,90,100
+58,16,Flamethrower,34,fire,90,100
+58,5,Helping Hand,37,normal,-,-
+58,6,Helping Hand,37,normal,-,-
+58,7,Helping Hand,37,normal,-,-
+58,12,Helping Hand,37,normal,-,-
+58,13,Helping Hand,37,normal,-,-
+58,1,Agility,39,psychic,-,-
+58,2,Agility,39,psychic,-,-
+58,8,Agility,39,psychic,-,-
+58,9,Agility,39,psychic,-,-
+58,10,Agility,39,psychic,-,-
+58,11,Flamethrower,39,fire,90,100
+58,14,Crunch,39,dark,80,100
+58,15,Crunch,39,dark,80,100
+58,16,Crunch,39,dark,80,100
+58,14,Heat Wave,41,fire,95,90
+58,15,Heat Wave,41,fire,95,90
+58,16,Heat Wave,41,fire,95,90
+58,3,Agility,42,psychic,-,-
+58,4,Agility,42,psychic,-,-
+58,8,Crunch,42,dark,80,100
+58,9,Crunch,42,dark,80,100
+58,10,Crunch,42,dark,80,100
+58,11,Agility,42,psychic,-,-
+58,5,Agility,43,psychic,-,-
+58,6,Agility,43,psychic,-,-
+58,7,Agility,43,psychic,-,-
+58,12,Agility,43,psychic,-,-
+58,13,Agility,43,psychic,-,-
+58,14,Outrage,43,dragon,120,100
+58,15,Outrage,43,dragon,120,100
+58,16,Outrage,43,dragon,120,100
+58,8,Heat Wave,45,fire,95,90
+58,9,Heat Wave,45,fire,95,90
+58,10,Heat Wave,45,fire,95,90
+58,11,Crunch,45,dark,80,100
+58,14,Flare Blitz,45,fire,120,100
+58,15,Flare Blitz,45,fire,120,100
+58,16,Flare Blitz,45,fire,120,100
+58,8,Flare Blitz,48,fire,120,100
+58,9,Flare Blitz,48,fire,120,100
+58,10,Flare Blitz,48,fire,120,100
+58,11,Retaliate,48,normal,70,100
+58,5,Flamethrower,49,fire,90,100
+58,6,Flamethrower,49,fire,90,100
+58,7,Flamethrower,49,fire,90,100
+58,12,Flamethrower,49,fire,90,100
+58,13,Flamethrower,49,fire,90,100
+58,1,Flamethrower,50,fire,90,100
+58,2,Flamethrower,50,fire,90,100
+58,3,Flamethrower,50,fire,90,100
+58,4,Flamethrower,50,fire,90,100
+58,11,Heat Wave,51,fire,95,90
+58,11,Flare Blitz,56,fire,120,100

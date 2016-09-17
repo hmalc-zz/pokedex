@@ -1,0 +1,175 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+222,3,Tackle,1,normal,50,100
+222,4,Tackle,1,normal,50,100
+222,5,Tackle,1,normal,50,100
+222,6,Tackle,1,normal,50,100
+222,7,Tackle,1,normal,50,100
+222,8,Tackle,1,normal,50,100
+222,9,Tackle,1,normal,50,100
+222,10,Tackle,1,normal,50,100
+222,11,Tackle,1,normal,50,100
+222,12,Tackle,1,normal,50,100
+222,13,Tackle,1,normal,50,100
+222,14,Tackle,1,normal,50,100
+222,15,Tackle,1,normal,50,100
+222,16,Tackle,1,normal,50,100
+222,16,Harden,1,normal,-,-
+222,8,Harden,4,normal,-,-
+222,9,Harden,4,normal,-,-
+222,10,Harden,4,normal,-,-
+222,11,Harden,4,normal,-,-
+222,14,Harden,4,normal,-,-
+222,15,Harden,4,normal,-,-
+222,16,Bubble,4,water,40,100
+222,5,Harden,6,normal,-,-
+222,6,Harden,6,normal,-,-
+222,7,Harden,6,normal,-,-
+222,12,Harden,6,normal,-,-
+222,13,Harden,6,normal,-,-
+222,3,Harden,7,normal,-,-
+222,4,Harden,7,normal,-,-
+222,8,Bubble,8,water,40,100
+222,9,Bubble,8,water,40,100
+222,10,Bubble,8,water,40,100
+222,11,Bubble,8,water,40,100
+222,14,Bubble,8,water,40,100
+222,15,Bubble,8,water,40,100
+222,16,Recover,8,normal,-,-
+222,14,Recover,10,normal,-,-
+222,15,Recover,10,normal,-,-
+222,16,Bubble Beam,10,water,65,100
+222,5,Bubble,12,water,40,100
+222,6,Bubble,12,water,40,100
+222,7,Bubble,12,water,40,100
+222,12,Bubble,12,water,40,100
+222,13,Bubble,12,water,40,100
+222,3,Bubble,13,water,40,100
+222,4,Bubble,13,water,40,100
+222,8,Recover,13,normal,-,-
+222,9,Recover,13,normal,-,-
+222,10,Recover,13,normal,-,-
+222,11,Recover,13,normal,-,-
+222,14,Refresh,13,normal,-,-
+222,15,Refresh,13,normal,-,-
+222,16,Refresh,13,normal,-,-
+222,8,Refresh,16,normal,-,-
+222,9,Refresh,16,normal,-,-
+222,10,Refresh,16,normal,-,-
+222,11,Refresh,16,normal,-,-
+222,5,Recover,17,normal,-,-
+222,5,Refresh,17,normal,-,-
+222,6,Recover,17,normal,-,-
+222,6,Refresh,17,normal,-,-
+222,7,Recover,17,normal,-,-
+222,7,Refresh,17,normal,-,-
+222,12,Recover,17,normal,-,-
+222,12,Refresh,17,normal,-,-
+222,13,Recover,17,normal,-,-
+222,13,Refresh,17,normal,-,-
+222,14,Bubble Beam,17,water,65,100
+222,15,Bubble Beam,17,water,65,100
+222,16,Ancient Power,17,rock,60,100
+222,3,Recover,19,normal,-,-
+222,4,Recover,19,normal,-,-
+222,8,Rock Blast,20,rock,25,90
+222,9,Rock Blast,20,rock,25,90
+222,10,Rock Blast,20,rock,25,90
+222,11,Rock Blast,20,rock,25,90
+222,14,Ancient Power,20,rock,60,100
+222,15,Ancient Power,20,rock,60,100
+222,16,Spike Cannon,20,normal,20,100
+222,5,Bubble Beam,23,water,65,100
+222,6,Bubble Beam,23,water,65,100
+222,7,Bubble Beam,23,water,65,100
+222,12,Bubble Beam,23,water,65,100
+222,13,Bubble Beam,23,water,65,100
+222,14,Lucky Chant,23,normal,-,-
+222,15,Lucky Chant,23,normal,-,-
+222,16,Lucky Chant,23,normal,-,-
+222,3,Bubble Beam,25,water,65,100
+222,4,Bubble Beam,25,water,65,100
+222,8,Bubble Beam,25,water,65,100
+222,9,Bubble Beam,25,water,65,100
+222,10,Bubble Beam,25,water,65,100
+222,11,Bubble Beam,25,water,65,100
+222,14,Spike Cannon,27,normal,20,100
+222,15,Spike Cannon,27,normal,20,100
+222,16,Brine,27,water,65,100
+222,5,Spike Cannon,28,normal,20,100
+222,6,Spike Cannon,28,normal,20,100
+222,7,Spike Cannon,28,normal,20,100
+222,8,Lucky Chant,28,normal,-,-
+222,9,Lucky Chant,28,normal,-,-
+222,10,Lucky Chant,28,normal,-,-
+222,11,Lucky Chant,28,normal,-,-
+222,12,Spike Cannon,28,normal,20,100
+222,13,Spike Cannon,28,normal,20,100
+222,14,Iron Defense,29,steel,-,-
+222,15,Iron Defense,29,steel,-,-
+222,16,Iron Defense,29,steel,-,-
+222,3,Spike Cannon,31,normal,20,100
+222,4,Spike Cannon,31,normal,20,100
+222,14,Rock Blast,31,rock,25,90
+222,15,Rock Blast,31,rock,25,90
+222,16,Rock Blast,31,rock,25,90
+222,8,Ancient Power,32,rock,60,100
+222,9,Ancient Power,32,rock,60,100
+222,10,Ancient Power,32,rock,60,100
+222,11,Ancient Power,32,rock,60,100
+222,5,Rock Blast,34,rock,25,90
+222,6,Rock Blast,34,rock,25,90
+222,7,Rock Blast,34,rock,25,90
+222,12,Rock Blast,34,rock,25,90
+222,13,Rock Blast,34,rock,25,90
+222,14,Endure,35,normal,-,-
+222,15,Endure,35,normal,-,-
+222,16,Endure,35,normal,-,-
+222,3,Mirror Coat,37,psychic,-,100
+222,4,Mirror Coat,37,psychic,-,100
+222,8,Aqua Ring,37,water,-,-
+222,9,Aqua Ring,37,water,-,-
+222,10,Aqua Ring,37,water,-,-
+222,11,Aqua Ring,37,water,-,-
+222,14,Aqua Ring,38,water,-,-
+222,15,Aqua Ring,38,water,-,-
+222,16,Aqua Ring,38,water,-,-
+222,5,Mirror Coat,39,psychic,-,100
+222,6,Mirror Coat,39,psychic,-,100
+222,7,Mirror Coat,39,psychic,-,100
+222,12,Mirror Coat,39,psychic,-,100
+222,13,Mirror Coat,39,psychic,-,100
+222,8,Spike Cannon,40,normal,20,100
+222,9,Spike Cannon,40,normal,20,100
+222,10,Spike Cannon,40,normal,20,100
+222,11,Spike Cannon,40,normal,20,100
+222,14,Power Gem,41,rock,80,100
+222,15,Power Gem,41,rock,80,100
+222,16,Power Gem,41,rock,80,100
+222,3,Ancient Power,43,rock,60,100
+222,4,Ancient Power,43,rock,60,100
+222,8,Power Gem,44,rock,80,100
+222,9,Power Gem,44,rock,80,100
+222,10,Power Gem,44,rock,80,100
+222,11,Power Gem,44,rock,80,100
+222,5,Ancient Power,45,rock,60,100
+222,6,Ancient Power,45,rock,60,100
+222,7,Ancient Power,45,rock,60,100
+222,12,Ancient Power,45,rock,60,100
+222,13,Ancient Power,45,rock,60,100
+222,14,Mirror Coat,45,psychic,-,100
+222,15,Mirror Coat,45,psychic,-,100
+222,16,Mirror Coat,45,psychic,-,100
+222,14,Earth Power,47,ground,90,100
+222,15,Earth Power,47,ground,90,100
+222,16,Earth Power,47,ground,90,100
+222,8,Mirror Coat,48,psychic,-,100
+222,9,Mirror Coat,48,psychic,-,100
+222,10,Mirror Coat,48,psychic,-,100
+222,11,Mirror Coat,48,psychic,-,100
+222,15,Flail,50,normal,-,100
+222,16,Flail,50,normal,-,100
+222,14,Flail,52,normal,-,100
+222,8,Earth Power,53,ground,90,100
+222,9,Earth Power,53,ground,90,100
+222,10,Earth Power,53,ground,90,100
+222,11,Earth Power,53,ground,90,100

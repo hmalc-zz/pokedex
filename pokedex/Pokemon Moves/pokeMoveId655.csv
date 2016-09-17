@@ -1,0 +1,47 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+655,15,Scratch,1,normal,40,100
+655,15,Tail Whip,1,normal,-,100
+655,15,Shadow Ball,1,ghost,80,100
+655,15,Future Sight,1,psychic,120,100
+655,15,Role Play,1,psychic,-,-
+655,15,Switcheroo,1,dark,-,100
+655,16,Scratch,1,normal,40,100
+655,16,Tail Whip,1,normal,-,100
+655,16,Shadow Ball,1,ghost,80,100
+655,16,Future Sight,1,psychic,120,100
+655,16,Role Play,1,psychic,-,-
+655,16,Switcheroo,1,dark,-,100
+655,15,Ember,5,fire,40,100
+655,16,Ember,5,fire,40,100
+655,15,Howl,11,normal,-,-
+655,16,Howl,11,normal,-,-
+655,15,Flame Charge,14,fire,50,100
+655,16,Flame Charge,14,fire,50,100
+655,15,Psybeam,18,psychic,65,100
+655,16,Psybeam,18,psychic,65,100
+655,15,Fire Spin,22,fire,35,85
+655,16,Fire Spin,22,fire,35,85
+655,15,Lucky Chant,27,normal,-,-
+655,16,Lucky Chant,27,normal,-,-
+655,15,Light Screen,30,psychic,-,-
+655,16,Light Screen,30,psychic,-,-
+655,15,Psyshock,34,psychic,80,100
+655,16,Psyshock,34,psychic,80,100
+655,15,Mystical Fire,36,fire,65,100
+655,16,Mystical Fire,36,fire,65,100
+655,15,Flamethrower,42,fire,90,100
+655,16,Flamethrower,42,fire,90,100
+655,15,Will-O-Wisp,47,fire,-,85
+655,16,Will-O-Wisp,47,fire,-,85
+655,15,Psychic,51,psychic,90,100
+655,16,Psychic,51,psychic,90,100
+655,15,Sunny Day,55,fire,-,-
+655,16,Sunny Day,55,fire,-,-
+655,15,Magic Room,58,psychic,-,-
+655,16,Magic Room,58,psychic,-,-
+655,15,Fire Blast,61,fire,110,85
+655,16,Fire Blast,61,fire,110,85
+655,15,Future Sight,69,psychic,120,100
+655,16,Future Sight,69,psychic,120,100
+655,15,Mystical Fire,75,fire,65,100
+655,16,Mystical Fire,75,fire,65,100

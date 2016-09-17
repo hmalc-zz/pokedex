@@ -1,0 +1,27 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+694,15,Pound,1,normal,40,100
+694,15,Tail Whip,1,normal,-,100
+694,16,Pound,1,normal,40,100
+694,16,Tail Whip,1,normal,-,100
+694,15,Thunder Shock,6,electric,40,100
+694,16,Thunder Shock,6,electric,40,100
+694,15,Charge,11,electric,-,-
+694,16,Charge,11,electric,-,-
+694,15,Mud-Slap,13,ground,20,100
+694,16,Mud-Slap,13,ground,20,100
+694,15,Quick Attack,17,normal,40,100
+694,16,Quick Attack,17,normal,40,100
+694,15,Razor Wind,22,normal,80,100
+694,16,Razor Wind,22,normal,80,100
+694,15,Parabolic Charge,25,electric,50,100
+694,16,Parabolic Charge,25,electric,50,100
+694,15,Thunder Wave,31,electric,-,100
+694,16,Thunder Wave,31,electric,-,100
+694,15,Bulldoze,35,ground,60,100
+694,16,Bulldoze,35,ground,60,100
+694,15,Volt Switch,40,electric,70,100
+694,16,Volt Switch,40,electric,70,100
+694,15,Electrify,45,electric,-,-
+694,16,Electrify,45,electric,-,-
+694,15,Thunderbolt,49,electric,90,100
+694,16,Thunderbolt,49,electric,90,100

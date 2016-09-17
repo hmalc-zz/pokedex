@@ -1,0 +1,191 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+352,5,Scratch,1,normal,40,100
+352,5,Tail Whip,1,normal,-,100
+352,5,Lick,1,ghost,30,100
+352,5,Thief,1,dark,60,100
+352,5,Astonish,1,ghost,30,100
+352,6,Scratch,1,normal,40,100
+352,6,Tail Whip,1,normal,-,100
+352,6,Lick,1,ghost,30,100
+352,6,Thief,1,dark,60,100
+352,6,Astonish,1,ghost,30,100
+352,7,Scratch,1,normal,40,100
+352,7,Tail Whip,1,normal,-,100
+352,7,Lick,1,ghost,30,100
+352,7,Thief,1,dark,60,100
+352,7,Astonish,1,ghost,30,100
+352,8,Scratch,1,normal,40,100
+352,8,Tail Whip,1,normal,-,100
+352,8,Lick,1,ghost,30,100
+352,8,Thief,1,dark,60,100
+352,8,Astonish,1,ghost,30,100
+352,9,Scratch,1,normal,40,100
+352,9,Tail Whip,1,normal,-,100
+352,9,Lick,1,ghost,30,100
+352,9,Thief,1,dark,60,100
+352,9,Astonish,1,ghost,30,100
+352,10,Scratch,1,normal,40,100
+352,10,Tail Whip,1,normal,-,100
+352,10,Lick,1,ghost,30,100
+352,10,Thief,1,dark,60,100
+352,10,Astonish,1,ghost,30,100
+352,11,Scratch,1,normal,40,100
+352,11,Tail Whip,1,normal,-,100
+352,11,Lick,1,ghost,30,100
+352,11,Thief,1,dark,60,100
+352,11,Astonish,1,ghost,30,100
+352,12,Scratch,1,normal,40,100
+352,12,Tail Whip,1,normal,-,100
+352,12,Lick,1,ghost,30,100
+352,12,Thief,1,dark,60,100
+352,12,Astonish,1,ghost,30,100
+352,13,Scratch,1,normal,40,100
+352,13,Tail Whip,1,normal,-,100
+352,13,Lick,1,ghost,30,100
+352,13,Thief,1,dark,60,100
+352,13,Astonish,1,ghost,30,100
+352,14,Scratch,1,normal,40,100
+352,14,Tail Whip,1,normal,-,100
+352,14,Lick,1,ghost,30,100
+352,14,Thief,1,dark,60,100
+352,14,Astonish,1,ghost,30,100
+352,15,Scratch,1,normal,40,100
+352,15,Tail Whip,1,normal,-,100
+352,15,Lick,1,ghost,30,100
+352,15,Thief,1,dark,60,100
+352,15,Ancient Power,1,rock,60,100
+352,15,Astonish,1,ghost,30,100
+352,15,Synchronoise,1,psychic,120,100
+352,16,Scratch,1,normal,40,100
+352,16,Tail Whip,1,normal,-,100
+352,16,Lick,1,ghost,30,100
+352,16,Thief,1,dark,60,100
+352,16,Astonish,1,ghost,30,100
+352,5,Bind,4,normal,15,85
+352,6,Bind,4,normal,15,85
+352,7,Bind,4,normal,15,85
+352,8,Bind,4,normal,15,85
+352,9,Bind,4,normal,15,85
+352,10,Bind,4,normal,15,85
+352,11,Bind,4,normal,15,85
+352,12,Bind,4,normal,15,85
+352,13,Bind,4,normal,15,85
+352,14,Bind,4,normal,15,85
+352,15,Bind,4,normal,15,85
+352,16,Bind,4,normal,15,85
+352,5,Feint Attack,7,dark,60,-
+352,6,Feint Attack,7,dark,60,-
+352,7,Feint Attack,7,dark,60,-
+352,8,Feint Attack,7,dark,60,-
+352,9,Feint Attack,7,dark,60,-
+352,10,Feint Attack,7,dark,60,-
+352,11,Feint Attack,7,dark,60,-
+352,12,Feint Attack,7,dark,60,-
+352,13,Feint Attack,7,dark,60,-
+352,14,Feint Attack,7,dark,60,-
+352,15,Feint Attack,7,dark,60,-
+352,16,Shadow Sneak,7,ghost,40,100
+352,8,Fury Swipes,10,normal,18,80
+352,9,Fury Swipes,10,normal,18,80
+352,10,Fury Swipes,10,normal,18,80
+352,11,Fury Swipes,10,normal,18,80
+352,14,Fury Swipes,10,normal,18,80
+352,15,Fury Swipes,10,normal,18,80
+352,16,Feint,10,normal,30,100
+352,5,Fury Swipes,12,normal,18,80
+352,6,Fury Swipes,12,normal,18,80
+352,7,Fury Swipes,12,normal,18,80
+352,12,Fury Swipes,12,normal,18,80
+352,13,Fury Swipes,12,normal,18,80
+352,16,Fury Swipes,13,normal,18,80
+352,9,Feint,14,normal,30,100
+352,10,Feint,14,normal,30,100
+352,11,Feint,14,normal,30,100
+352,14,Feint,14,normal,30,100
+352,15,Feint,14,normal,30,100
+352,8,Psybeam,15,psychic,65,100
+352,16,Feint Attack,16,dark,60,-
+352,5,Psybeam,17,psychic,65,100
+352,6,Psybeam,17,psychic,65,100
+352,7,Psybeam,17,psychic,65,100
+352,12,Psybeam,17,psychic,65,100
+352,13,Psybeam,17,psychic,65,100
+352,9,Psybeam,18,psychic,65,100
+352,10,Psybeam,18,psychic,65,100
+352,11,Psybeam,18,psychic,65,100
+352,14,Psybeam,18,psychic,65,100
+352,15,Psybeam,18,psychic,65,100
+352,16,Psybeam,18,psychic,65,100
+352,8,Shadow Sneak,20,ghost,40,100
+352,16,Ancient Power,21,rock,60,100
+352,9,Shadow Sneak,22,ghost,40,100
+352,10,Shadow Sneak,22,ghost,40,100
+352,11,Shadow Sneak,22,ghost,40,100
+352,14,Shadow Sneak,22,ghost,40,100
+352,15,Shadow Sneak,22,ghost,40,100
+352,5,Screech,24,normal,-,85
+352,6,Screech,24,normal,-,85
+352,7,Screech,24,normal,-,85
+352,12,Screech,24,normal,-,85
+352,13,Screech,24,normal,-,85
+352,8,Slash,25,normal,70,100
+352,16,Slash,25,normal,70,100
+352,9,Slash,27,normal,70,100
+352,10,Slash,27,normal,70,100
+352,11,Slash,27,normal,70,100
+352,14,Slash,27,normal,70,100
+352,15,Slash,27,normal,70,100
+352,16,Camouflage,30,normal,-,-
+352,5,Slash,31,normal,70,100
+352,6,Slash,31,normal,70,100
+352,7,Slash,31,normal,70,100
+352,12,Slash,31,normal,70,100
+352,13,Slash,31,normal,70,100
+352,8,Screech,32,normal,-,85
+352,9,Screech,32,normal,-,85
+352,10,Screech,32,normal,-,85
+352,11,Screech,32,normal,-,85
+352,14,Screech,32,normal,-,85
+352,15,Screech,32,normal,-,85
+352,16,Shadow Claw,33,ghost,70,100
+352,9,Substitute,37,normal,-,-
+352,10,Substitute,37,normal,-,-
+352,11,Substitute,37,normal,-,-
+352,14,Substitute,37,normal,-,-
+352,15,Substitute,37,normal,-,-
+352,16,Screech,38,normal,-,85
+352,8,Substitute,39,normal,-,-
+352,5,Substitute,40,normal,-,-
+352,6,Substitute,40,normal,-,-
+352,7,Substitute,40,normal,-,-
+352,12,Substitute,40,normal,-,-
+352,13,Substitute,40,normal,-,-
+352,16,Substitute,42,normal,-,-
+352,9,Sucker Punch,43,dark,80,100
+352,10,Sucker Punch,43,dark,80,100
+352,11,Sucker Punch,43,dark,80,100
+352,14,Sucker Punch,43,dark,80,100
+352,15,Sucker Punch,43,dark,80,100
+352,8,Sucker Punch,46,dark,80,100
+352,16,Sucker Punch,46,dark,80,100
+352,5,Ancient Power,49,rock,60,100
+352,6,Ancient Power,49,rock,60,100
+352,7,Ancient Power,49,rock,60,100
+352,9,Shadow Claw,49,ghost,70,100
+352,10,Shadow Claw,49,ghost,70,100
+352,11,Shadow Claw,49,ghost,70,100
+352,12,Ancient Power,49,rock,60,100
+352,13,Ancient Power,49,rock,60,100
+352,14,Shadow Claw,49,ghost,70,100
+352,15,Shadow Claw,49,ghost,70,100
+352,16,Synchronoise,50,psychic,120,100
+352,8,Shadow Claw,55,ghost,70,100
+352,9,Ancient Power,55,rock,60,100
+352,10,Ancient Power,55,rock,60,100
+352,11,Ancient Power,55,rock,60,100
+352,14,Ancient Power,55,rock,60,100
+352,15,Ancient Power,55,rock,60,100
+352,11,Synchronoise,58,psychic,120,100
+352,14,Synchronoise,58,psychic,120,100
+352,15,Synchronoise,58,psychic,120,100
+352,8,Ancient Power,64,rock,60,100

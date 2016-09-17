@@ -1,0 +1,122 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+416,8,Gust,1,flying,40,100
+416,8,Sweet Scent,1,normal,-,100
+416,9,Gust,1,flying,40,100
+416,9,Sweet Scent,1,normal,-,100
+416,10,Gust,1,flying,40,100
+416,10,Sweet Scent,1,normal,-,100
+416,11,Gust,1,flying,40,100
+416,11,Sweet Scent,1,normal,-,100
+416,14,Gust,1,flying,40,100
+416,14,Poison Sting,1,poison,15,100
+416,14,Confuse Ray,1,ghost,-,100
+416,14,Sweet Scent,1,normal,-,100
+416,15,Gust,1,flying,40,100
+416,15,Poison Sting,1,poison,15,100
+416,15,Confuse Ray,1,ghost,-,100
+416,15,Destiny Bond,1,ghost,-,-
+416,15,Sweet Scent,1,normal,-,100
+416,15,Fell Stinger,1,bug,30,100
+416,16,Gust,1,flying,40,100
+416,16,Poison Sting,1,poison,15,100
+416,16,Confuse Ray,1,ghost,-,100
+416,16,Destiny Bond,1,ghost,-,-
+416,16,Sweet Scent,1,normal,-,100
+416,16,Fell Stinger,1,bug,30,100
+416,8,Poison Sting,3,poison,15,100
+416,9,Poison Sting,3,poison,15,100
+416,10,Poison Sting,3,poison,15,100
+416,11,Poison Sting,3,poison,15,100
+416,14,Fury Cutter,5,bug,40,95
+416,15,Fury Cutter,5,bug,40,95
+416,16,Fury Cutter,5,bug,40,95
+416,8,Confuse Ray,7,ghost,-,100
+416,9,Confuse Ray,7,ghost,-,100
+416,10,Confuse Ray,7,ghost,-,100
+416,11,Confuse Ray,7,ghost,-,100
+416,8,Fury Cutter,9,bug,40,95
+416,9,Fury Cutter,9,bug,40,95
+416,10,Fury Cutter,9,bug,40,95
+416,11,Fury Cutter,9,bug,40,95
+416,14,Pursuit,9,dark,40,100
+416,15,Pursuit,9,dark,40,100
+416,16,Pursuit,9,dark,40,100
+416,8,Defend Order,13,bug,-,-
+416,9,Defend Order,13,bug,-,-
+416,10,Defend Order,13,bug,-,-
+416,11,Defend Order,13,bug,-,-
+416,14,Fury Swipes,13,normal,18,80
+416,15,Fury Swipes,13,normal,18,80
+416,16,Fury Swipes,13,normal,18,80
+416,8,Pursuit,15,dark,40,100
+416,9,Pursuit,15,dark,40,100
+416,10,Pursuit,15,dark,40,100
+416,11,Pursuit,15,dark,40,100
+416,14,Defend Order,17,bug,-,-
+416,15,Defend Order,17,bug,-,-
+416,16,Defend Order,17,bug,-,-
+416,8,Fury Swipes,19,normal,18,80
+416,9,Fury Swipes,19,normal,18,80
+416,10,Fury Swipes,19,normal,18,80
+416,11,Fury Swipes,19,normal,18,80
+416,8,Power Gem,21,rock,80,100
+416,9,Power Gem,21,rock,80,100
+416,10,Power Gem,21,rock,80,100
+416,11,Power Gem,21,rock,80,100
+416,14,Slash,21,normal,70,100
+416,15,Slash,21,normal,70,100
+416,16,Slash,21,normal,70,100
+416,8,Heal Order,25,bug,-,-
+416,9,Heal Order,25,bug,-,-
+416,10,Heal Order,25,bug,-,-
+416,11,Heal Order,25,bug,-,-
+416,14,Power Gem,25,rock,80,100
+416,15,Power Gem,25,rock,80,100
+416,16,Power Gem,25,rock,80,100
+416,8,Toxic,27,poison,-,90
+416,9,Toxic,27,poison,-,90
+416,10,Toxic,27,poison,-,90
+416,11,Toxic,27,poison,-,90
+416,14,Heal Order,29,bug,-,-
+416,15,Heal Order,29,bug,-,-
+416,16,Heal Order,29,bug,-,-
+416,8,Slash,31,normal,70,100
+416,9,Slash,31,normal,70,100
+416,10,Slash,31,normal,70,100
+416,11,Slash,31,normal,70,100
+416,8,Captivate,33,normal,-,100
+416,9,Captivate,33,normal,-,100
+416,10,Captivate,33,normal,-,100
+416,11,Captivate,33,normal,-,100
+416,14,Toxic,33,poison,-,90
+416,15,Toxic,33,poison,-,90
+416,16,Toxic,33,poison,-,90
+416,8,Attack Order,37,bug,90,100
+416,9,Attack Order,37,bug,90,100
+416,10,Attack Order,37,bug,90,100
+416,11,Attack Order,37,bug,90,100
+416,14,Air Slash,37,flying,75,95
+416,15,Air Slash,37,flying,75,95
+416,16,Air Slash,37,flying,75,95
+416,8,Swagger,39,normal,-,90
+416,9,Swagger,39,normal,-,90
+416,10,Swagger,39,normal,-,90
+416,11,Swagger,39,normal,-,90
+416,14,Captivate,41,normal,-,100
+416,15,Captivate,41,normal,-,100
+416,16,Captivate,41,normal,-,100
+416,8,Destiny Bond,43,ghost,-,-
+416,9,Destiny Bond,43,ghost,-,-
+416,10,Destiny Bond,43,ghost,-,-
+416,11,Destiny Bond,43,ghost,-,-
+416,14,Attack Order,45,bug,90,100
+416,15,Attack Order,45,bug,90,100
+416,16,Attack Order,45,bug,90,100
+416,14,Swagger,49,normal,-,90
+416,15,Swagger,49,normal,-,90
+416,16,Swagger,49,normal,-,90
+416,14,Destiny Bond,53,ghost,-,-
+416,15,Destiny Bond,53,ghost,-,-
+416,16,Destiny Bond,53,ghost,-,-
+416,15,Fell Stinger,57,bug,30,100
+416,16,Fell Stinger,57,bug,30,100

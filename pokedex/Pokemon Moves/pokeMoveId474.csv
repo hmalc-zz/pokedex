@@ -1,0 +1,124 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+474,8,Tackle,1,normal,50,100
+474,8,Conversion,1,normal,-,-
+474,8,Conversion 2,1,normal,-,-
+474,8,Nasty Plot,1,dark,-,-
+474,8,Trick Room,1,psychic,-,-
+474,9,Tackle,1,normal,50,100
+474,9,Conversion,1,normal,-,-
+474,9,Conversion 2,1,normal,-,-
+474,9,Nasty Plot,1,dark,-,-
+474,9,Trick Room,1,psychic,-,-
+474,10,Tackle,1,normal,50,100
+474,10,Conversion,1,normal,-,-
+474,10,Conversion 2,1,normal,-,-
+474,10,Nasty Plot,1,dark,-,-
+474,10,Trick Room,1,psychic,-,-
+474,11,Tackle,1,normal,50,100
+474,11,Conversion,1,normal,-,-
+474,11,Conversion 2,1,normal,-,-
+474,11,Nasty Plot,1,dark,-,-
+474,11,Trick Room,1,psychic,-,-
+474,14,Tackle,1,normal,50,100
+474,14,Conversion,1,normal,-,-
+474,14,Conversion 2,1,normal,-,-
+474,14,Nasty Plot,1,dark,-,-
+474,14,Trick Room,1,psychic,-,-
+474,15,Tackle,1,normal,50,100
+474,15,Conversion,1,normal,-,-
+474,15,Conversion 2,1,normal,-,-
+474,15,Zap Cannon,1,electric,120,50
+474,15,Magic Coat,1,psychic,-,-
+474,15,Nasty Plot,1,dark,-,-
+474,15,Trick Room,1,psychic,-,-
+474,16,Tackle,1,normal,50,100
+474,16,Conversion,1,normal,-,-
+474,16,Conversion 2,1,normal,-,-
+474,16,Zap Cannon,1,electric,120,50
+474,16,Magic Coat,1,psychic,-,-
+474,16,Nasty Plot,1,dark,-,-
+474,16,Trick Room,1,psychic,-,-
+474,8,Psybeam,7,psychic,65,100
+474,9,Psybeam,7,psychic,65,100
+474,10,Psybeam,7,psychic,65,100
+474,11,Psybeam,7,psychic,65,100
+474,14,Psybeam,7,psychic,65,100
+474,15,Psybeam,7,psychic,65,100
+474,16,Psybeam,7,psychic,65,100
+474,8,Agility,12,psychic,-,-
+474,9,Agility,12,psychic,-,-
+474,10,Agility,12,psychic,-,-
+474,11,Agility,12,psychic,-,-
+474,14,Agility,12,psychic,-,-
+474,15,Agility,12,psychic,-,-
+474,16,Agility,12,psychic,-,-
+474,8,Recover,18,normal,-,-
+474,9,Recover,18,normal,-,-
+474,10,Recover,18,normal,-,-
+474,11,Recover,18,normal,-,-
+474,14,Recover,18,normal,-,-
+474,15,Recover,18,normal,-,-
+474,16,Recover,18,normal,-,-
+474,8,Magnet Rise,23,electric,-,-
+474,9,Magnet Rise,23,electric,-,-
+474,10,Magnet Rise,23,electric,-,-
+474,11,Magnet Rise,23,electric,-,-
+474,14,Magnet Rise,23,electric,-,-
+474,15,Magnet Rise,23,electric,-,-
+474,16,Magnet Rise,23,electric,-,-
+474,8,Signal Beam,29,bug,75,100
+474,9,Signal Beam,29,bug,75,100
+474,10,Signal Beam,29,bug,75,100
+474,11,Signal Beam,29,bug,75,100
+474,14,Signal Beam,29,bug,75,100
+474,15,Signal Beam,29,bug,75,100
+474,16,Signal Beam,29,bug,75,100
+474,8,Embargo,34,dark,-,100
+474,9,Embargo,34,dark,-,100
+474,10,Embargo,34,dark,-,100
+474,11,Embargo,34,dark,-,100
+474,14,Embargo,34,dark,-,100
+474,15,Embargo,34,dark,-,100
+474,16,Embargo,34,dark,-,100
+474,8,Discharge,40,electric,80,100
+474,9,Discharge,40,electric,80,100
+474,10,Discharge,40,electric,80,100
+474,11,Discharge,40,electric,80,100
+474,14,Discharge,40,electric,80,100
+474,15,Discharge,40,electric,80,100
+474,16,Discharge,40,electric,80,100
+474,8,Lock-On,45,normal,-,-
+474,9,Lock-On,45,normal,-,-
+474,10,Lock-On,45,normal,-,-
+474,11,Lock-On,45,normal,-,-
+474,14,Lock-On,45,normal,-,-
+474,15,Lock-On,45,normal,-,-
+474,16,Lock-On,45,normal,-,-
+474,15,Tri Attack,50,normal,80,100
+474,16,Tri Attack,50,normal,80,100
+474,8,Tri Attack,51,normal,80,100
+474,9,Tri Attack,51,normal,80,100
+474,10,Tri Attack,51,normal,80,100
+474,11,Tri Attack,51,normal,80,100
+474,14,Tri Attack,51,normal,80,100
+474,8,Magic Coat,56,psychic,-,-
+474,9,Magic Coat,56,psychic,-,-
+474,10,Magic Coat,56,psychic,-,-
+474,11,Magic Coat,56,psychic,-,-
+474,14,Magic Coat,56,psychic,-,-
+474,15,Magic Coat,56,psychic,-,-
+474,16,Magic Coat,56,psychic,-,-
+474,8,Zap Cannon,62,electric,120,50
+474,9,Zap Cannon,62,electric,120,50
+474,10,Zap Cannon,62,electric,120,50
+474,11,Zap Cannon,62,electric,120,50
+474,14,Zap Cannon,62,electric,120,50
+474,15,Zap Cannon,62,electric,120,50
+474,16,Zap Cannon,62,electric,120,50
+474,8,Hyper Beam,67,normal,150,90
+474,9,Hyper Beam,67,normal,150,90
+474,10,Hyper Beam,67,normal,150,90
+474,11,Hyper Beam,67,normal,150,90
+474,14,Hyper Beam,67,normal,150,90
+474,15,Hyper Beam,67,normal,150,90
+474,16,Hyper Beam,67,normal,150,90

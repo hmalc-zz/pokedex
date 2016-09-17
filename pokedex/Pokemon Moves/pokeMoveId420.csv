@@ -1,0 +1,77 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+420,8,Tackle,1,normal,50,100
+420,9,Tackle,1,normal,50,100
+420,10,Tackle,1,normal,50,100
+420,11,Tackle,1,normal,50,100
+420,11,Morning Sun,1,normal,-,-
+420,14,Tackle,1,normal,50,100
+420,14,Morning Sun,1,normal,-,-
+420,15,Tackle,1,normal,50,100
+420,15,Morning Sun,1,normal,-,-
+420,16,Tackle,1,normal,50,100
+420,16,Morning Sun,1,normal,-,-
+420,8,Growth,7,normal,-,-
+420,9,Growth,7,normal,-,-
+420,10,Growth,7,normal,-,-
+420,11,Growth,7,normal,-,-
+420,14,Growth,7,normal,-,-
+420,15,Growth,7,normal,-,-
+420,16,Growth,7,normal,-,-
+420,8,Leech Seed,10,grass,-,90
+420,9,Leech Seed,10,grass,-,90
+420,10,Leech Seed,10,grass,-,90
+420,11,Leech Seed,10,grass,-,90
+420,14,Leech Seed,10,grass,-,90
+420,15,Leech Seed,10,grass,-,90
+420,16,Leech Seed,10,grass,-,90
+420,8,Helping Hand,13,normal,-,-
+420,9,Helping Hand,13,normal,-,-
+420,10,Helping Hand,13,normal,-,-
+420,11,Helping Hand,13,normal,-,-
+420,14,Helping Hand,13,normal,-,-
+420,15,Helping Hand,13,normal,-,-
+420,16,Helping Hand,13,normal,-,-
+420,8,Magical Leaf,19,grass,60,-
+420,9,Magical Leaf,19,grass,60,-
+420,10,Magical Leaf,19,grass,60,-
+420,11,Magical Leaf,19,grass,60,-
+420,14,Magical Leaf,19,grass,60,-
+420,15,Magical Leaf,19,grass,60,-
+420,16,Magical Leaf,19,grass,60,-
+420,8,Sunny Day,22,fire,-,-
+420,9,Sunny Day,22,fire,-,-
+420,10,Sunny Day,22,fire,-,-
+420,11,Sunny Day,22,fire,-,-
+420,14,Sunny Day,22,fire,-,-
+420,15,Sunny Day,22,fire,-,-
+420,16,Sunny Day,22,fire,-,-
+420,8,Worry Seed,28,grass,-,100
+420,9,Worry Seed,28,grass,-,100
+420,10,Worry Seed,28,grass,-,100
+420,11,Worry Seed,28,grass,-,100
+420,14,Worry Seed,28,grass,-,100
+420,15,Worry Seed,28,grass,-,100
+420,16,Worry Seed,28,grass,-,100
+420,8,Take Down,31,normal,90,85
+420,9,Take Down,31,normal,90,85
+420,10,Take Down,31,normal,90,85
+420,11,Take Down,31,normal,90,85
+420,14,Take Down,31,normal,90,85
+420,15,Take Down,31,normal,90,85
+420,16,Take Down,31,normal,90,85
+420,8,Solar Beam,37,grass,120,100
+420,9,Solar Beam,37,grass,120,100
+420,10,Solar Beam,37,grass,120,100
+420,11,Solar Beam,37,grass,120,100
+420,14,Solar Beam,37,grass,120,100
+420,15,Solar Beam,37,grass,120,100
+420,16,Solar Beam,37,grass,120,100
+420,8,Lucky Chant,40,normal,-,-
+420,9,Lucky Chant,40,normal,-,-
+420,10,Lucky Chant,40,normal,-,-
+420,11,Lucky Chant,40,normal,-,-
+420,14,Lucky Chant,40,normal,-,-
+420,15,Lucky Chant,40,normal,-,-
+420,16,Lucky Chant,40,normal,-,-
+420,15,Petal Blizzard,47,grass,90,100
+420,16,Petal Blizzard,47,grass,90,100

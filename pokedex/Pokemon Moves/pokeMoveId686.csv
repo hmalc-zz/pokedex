@@ -1,0 +1,37 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+686,15,Tackle,1,normal,50,100
+686,15,Peck,1,flying,35,100
+686,15,Constrict,1,normal,10,100
+686,16,Tackle,1,normal,50,100
+686,16,Peck,1,flying,35,100
+686,16,Constrict,1,normal,10,100
+686,15,Reflect,4,psychic,-,-
+686,16,Reflect,4,psychic,-,-
+686,15,Foul Play,8,dark,95,100
+686,16,Foul Play,8,dark,95,100
+686,15,Swagger,12,normal,-,90
+686,16,Swagger,12,normal,-,90
+686,15,Psywave,13,psychic,-,100
+686,16,Psywave,13,psychic,-,100
+686,15,Topsy-Turvy,15,dark,-,-
+686,16,Topsy-Turvy,15,dark,-,-
+686,15,Hypnosis,18,psychic,-,60
+686,16,Hypnosis,18,psychic,-,60
+686,15,Psybeam,21,psychic,65,100
+686,16,Psybeam,21,psychic,65,100
+686,15,Switcheroo,23,dark,-,100
+686,16,Switcheroo,23,dark,-,100
+686,15,Payback,27,dark,50,100
+686,16,Payback,27,dark,50,100
+686,15,Light Screen,31,psychic,-,-
+686,16,Light Screen,31,psychic,-,-
+686,15,Pluck,35,flying,60,100
+686,16,Pluck,35,flying,60,100
+686,15,Psycho Cut,39,psychic,70,100
+686,16,Psycho Cut,39,psychic,70,100
+686,15,Slash,43,normal,70,100
+686,16,Slash,43,normal,70,100
+686,15,Night Slash,46,dark,70,100
+686,16,Night Slash,46,dark,70,100
+686,15,Superpower,48,fighting,120,100
+686,16,Superpower,48,fighting,120,100

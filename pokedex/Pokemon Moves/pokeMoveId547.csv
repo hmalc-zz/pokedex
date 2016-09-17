@@ -1,0 +1,31 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+547,11,Mega Drain,1,grass,40,100
+547,11,Leech Seed,1,grass,-,90
+547,11,Growth,1,normal,-,-
+547,11,Cotton Spore,1,grass,-,100
+547,14,Mega Drain,1,grass,40,100
+547,14,Leech Seed,1,grass,-,90
+547,14,Growth,1,normal,-,-
+547,14,Cotton Spore,1,grass,-,100
+547,15,Mega Drain,1,grass,40,100
+547,15,Leech Seed,1,grass,-,90
+547,15,Growth,1,normal,-,-
+547,15,Cotton Spore,1,grass,-,100
+547,16,Mega Drain,1,grass,40,100
+547,16,Leech Seed,1,grass,-,90
+547,16,Growth,1,normal,-,-
+547,16,Cotton Spore,1,grass,-,100
+547,11,Gust,10,flying,40,100
+547,14,Gust,10,flying,40,100
+547,15,Gust,10,flying,40,100
+547,16,Gust,10,flying,40,100
+547,11,Tailwind,28,flying,-,-
+547,14,Tailwind,28,flying,-,-
+547,15,Tailwind,28,flying,-,-
+547,16,Tailwind,28,flying,-,-
+547,11,Hurricane,46,flying,110,70
+547,14,Hurricane,46,flying,110,70
+547,15,Hurricane,46,flying,110,70
+547,16,Hurricane,46,flying,110,70
+547,15,Moonblast,50,fairy,95,100
+547,16,Moonblast,50,fairy,95,100

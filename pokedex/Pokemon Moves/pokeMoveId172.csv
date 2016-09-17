@@ -1,0 +1,78 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+172,3,Thunder Shock,1,electric,40,100
+172,3,Charm,1,fairy,-,100
+172,4,Thunder Shock,1,electric,40,100
+172,4,Charm,1,fairy,-,100
+172,5,Thunder Shock,1,electric,40,100
+172,5,Charm,1,fairy,-,100
+172,6,Thunder Shock,1,electric,40,100
+172,6,Charm,1,fairy,-,100
+172,7,Thunder Shock,1,electric,40,100
+172,7,Charm,1,fairy,-,100
+172,8,Thunder Shock,1,electric,40,100
+172,8,Charm,1,fairy,-,100
+172,9,Thunder Shock,1,electric,40,100
+172,9,Charm,1,fairy,-,100
+172,10,Thunder Shock,1,electric,40,100
+172,10,Charm,1,fairy,-,100
+172,11,Thunder Shock,1,electric,40,100
+172,11,Charm,1,fairy,-,100
+172,12,Thunder Shock,1,electric,40,100
+172,12,Charm,1,fairy,-,100
+172,13,Thunder Shock,1,electric,40,100
+172,13,Charm,1,fairy,-,100
+172,14,Thunder Shock,1,electric,40,100
+172,14,Charm,1,fairy,-,100
+172,15,Thunder Shock,1,electric,40,100
+172,15,Charm,1,fairy,-,100
+172,16,Thunder Shock,1,electric,40,100
+172,16,Charm,1,fairy,-,100
+172,8,Tail Whip,5,normal,-,100
+172,9,Tail Whip,5,normal,-,100
+172,10,Tail Whip,5,normal,-,100
+172,11,Tail Whip,5,normal,-,100
+172,14,Tail Whip,5,normal,-,100
+172,15,Tail Whip,5,normal,-,100
+172,16,Tail Whip,5,normal,-,100
+172,3,Tail Whip,6,normal,-,100
+172,4,Tail Whip,6,normal,-,100
+172,5,Tail Whip,6,normal,-,100
+172,6,Tail Whip,6,normal,-,100
+172,7,Tail Whip,6,normal,-,100
+172,12,Tail Whip,6,normal,-,100
+172,13,Tail Whip,6,normal,-,100
+172,3,Thunder Wave,8,electric,-,100
+172,4,Thunder Wave,8,electric,-,100
+172,5,Thunder Wave,8,electric,-,100
+172,6,Thunder Wave,8,electric,-,100
+172,7,Thunder Wave,8,electric,-,100
+172,12,Thunder Wave,8,electric,-,100
+172,13,Thunder Wave,8,electric,-,100
+172,8,Thunder Wave,10,electric,-,100
+172,9,Thunder Wave,10,electric,-,100
+172,10,Thunder Wave,10,electric,-,100
+172,11,Thunder Wave,10,electric,-,100
+172,14,Thunder Wave,10,electric,-,100
+172,15,Sweet Kiss,10,fairy,-,75
+172,16,Sweet Kiss,10,fairy,-,75
+172,3,Sweet Kiss,11,fairy,-,75
+172,4,Sweet Kiss,11,fairy,-,75
+172,5,Sweet Kiss,11,fairy,-,75
+172,6,Sweet Kiss,11,fairy,-,75
+172,7,Sweet Kiss,11,fairy,-,75
+172,12,Sweet Kiss,11,fairy,-,75
+172,13,Sweet Kiss,11,fairy,-,75
+172,8,Sweet Kiss,13,fairy,-,75
+172,9,Sweet Kiss,13,fairy,-,75
+172,10,Sweet Kiss,13,fairy,-,75
+172,11,Sweet Kiss,13,fairy,-,75
+172,14,Sweet Kiss,13,fairy,-,75
+172,15,Thunder Wave,13,electric,-,100
+172,16,Nasty Plot,13,dark,-,-
+172,8,Nasty Plot,18,dark,-,-
+172,9,Nasty Plot,18,dark,-,-
+172,10,Nasty Plot,18,dark,-,-
+172,11,Nasty Plot,18,dark,-,-
+172,14,Nasty Plot,18,dark,-,-
+172,15,Nasty Plot,18,dark,-,-
+172,16,Thunder Wave,18,electric,-,100

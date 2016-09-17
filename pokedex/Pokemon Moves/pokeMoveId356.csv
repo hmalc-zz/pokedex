@@ -1,0 +1,218 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+356,5,Bind,1,normal,15,85
+356,5,Leer,1,normal,-,100
+356,5,Disable,1,normal,-,100
+356,5,Night Shade,1,ghost,-,100
+356,6,Bind,1,normal,15,85
+356,6,Leer,1,normal,-,100
+356,6,Disable,1,normal,-,100
+356,6,Night Shade,1,ghost,-,100
+356,7,Bind,1,normal,15,85
+356,7,Leer,1,normal,-,100
+356,7,Disable,1,normal,-,100
+356,7,Night Shade,1,ghost,-,100
+356,8,Fire Punch,1,fire,75,100
+356,8,Ice Punch,1,ice,75,100
+356,8,Thunder Punch,1,electric,75,100
+356,8,Bind,1,normal,15,85
+356,8,Leer,1,normal,-,100
+356,8,Disable,1,normal,-,100
+356,8,Night Shade,1,ghost,-,100
+356,8,Gravity,1,psychic,-,-
+356,9,Fire Punch,1,fire,75,100
+356,9,Ice Punch,1,ice,75,100
+356,9,Thunder Punch,1,electric,75,100
+356,9,Bind,1,normal,15,85
+356,9,Leer,1,normal,-,100
+356,9,Disable,1,normal,-,100
+356,9,Night Shade,1,ghost,-,100
+356,9,Gravity,1,psychic,-,-
+356,10,Fire Punch,1,fire,75,100
+356,10,Ice Punch,1,ice,75,100
+356,10,Thunder Punch,1,electric,75,100
+356,10,Bind,1,normal,15,85
+356,10,Leer,1,normal,-,100
+356,10,Disable,1,normal,-,100
+356,10,Night Shade,1,ghost,-,100
+356,10,Gravity,1,psychic,-,-
+356,11,Fire Punch,1,fire,75,100
+356,11,Ice Punch,1,ice,75,100
+356,11,Thunder Punch,1,electric,75,100
+356,11,Bind,1,normal,15,85
+356,11,Leer,1,normal,-,100
+356,11,Disable,1,normal,-,100
+356,11,Night Shade,1,ghost,-,100
+356,11,Gravity,1,psychic,-,-
+356,12,Bind,1,normal,15,85
+356,12,Leer,1,normal,-,100
+356,12,Disable,1,normal,-,100
+356,12,Night Shade,1,ghost,-,100
+356,13,Bind,1,normal,15,85
+356,13,Leer,1,normal,-,100
+356,13,Disable,1,normal,-,100
+356,13,Night Shade,1,ghost,-,100
+356,14,Fire Punch,1,fire,75,100
+356,14,Ice Punch,1,ice,75,100
+356,14,Thunder Punch,1,electric,75,100
+356,14,Bind,1,normal,15,85
+356,14,Leer,1,normal,-,100
+356,14,Disable,1,normal,-,100
+356,14,Night Shade,1,ghost,-,100
+356,14,Gravity,1,psychic,-,-
+356,15,Fire Punch,1,fire,75,100
+356,15,Ice Punch,1,ice,75,100
+356,15,Thunder Punch,1,electric,75,100
+356,15,Bind,1,normal,15,85
+356,15,Leer,1,normal,-,100
+356,15,Disable,1,normal,-,100
+356,15,Night Shade,1,ghost,-,100
+356,15,Gravity,1,psychic,-,-
+356,16,Fire Punch,1,fire,75,100
+356,16,Ice Punch,1,ice,75,100
+356,16,Thunder Punch,1,electric,75,100
+356,16,Bind,1,normal,15,85
+356,16,Leer,1,normal,-,100
+356,16,Disable,1,normal,-,100
+356,16,Night Shade,1,ghost,-,100
+356,16,Future Sight,1,psychic,120,100
+356,16,Astonish,1,ghost,30,100
+356,16,Gravity,1,psychic,-,-
+356,5,Disable,5,normal,-,100
+356,6,Disable,5,normal,-,100
+356,7,Disable,5,normal,-,100
+356,12,Disable,5,normal,-,100
+356,13,Disable,5,normal,-,100
+356,8,Disable,6,normal,-,100
+356,9,Disable,6,normal,-,100
+356,10,Disable,6,normal,-,100
+356,11,Disable,6,normal,-,100
+356,14,Disable,6,normal,-,100
+356,15,Disable,6,normal,-,100
+356,16,Disable,6,normal,-,100
+356,8,Foresight,9,normal,-,-
+356,9,Foresight,9,normal,-,-
+356,10,Foresight,9,normal,-,-
+356,11,Foresight,9,normal,-,-
+356,14,Foresight,9,normal,-,-
+356,15,Foresight,9,normal,-,-
+356,16,Astonish,9,ghost,30,100
+356,5,Foresight,12,normal,-,-
+356,6,Foresight,12,normal,-,-
+356,7,Foresight,12,normal,-,-
+356,12,Foresight,12,normal,-,-
+356,13,Foresight,12,normal,-,-
+356,8,Astonish,14,ghost,30,100
+356,9,Astonish,14,ghost,30,100
+356,10,Astonish,14,ghost,30,100
+356,11,Astonish,14,ghost,30,100
+356,14,Astonish,14,ghost,30,100
+356,15,Astonish,14,ghost,30,100
+356,16,Foresight,14,normal,-,-
+356,5,Astonish,16,ghost,30,100
+356,6,Astonish,16,ghost,30,100
+356,7,Astonish,16,ghost,30,100
+356,12,Astonish,16,ghost,30,100
+356,13,Astonish,16,ghost,30,100
+356,8,Confuse Ray,17,ghost,-,100
+356,9,Confuse Ray,17,ghost,-,100
+356,10,Confuse Ray,17,ghost,-,100
+356,11,Confuse Ray,17,ghost,-,100
+356,14,Confuse Ray,17,ghost,-,100
+356,15,Confuse Ray,17,ghost,-,100
+356,16,Shadow Sneak,17,ghost,40,100
+356,8,Shadow Sneak,22,ghost,40,100
+356,9,Shadow Sneak,22,ghost,40,100
+356,10,Shadow Sneak,22,ghost,40,100
+356,11,Shadow Sneak,22,ghost,40,100
+356,14,Shadow Sneak,22,ghost,40,100
+356,15,Shadow Sneak,22,ghost,40,100
+356,16,Pursuit,22,dark,40,100
+356,5,Confuse Ray,23,ghost,-,100
+356,6,Confuse Ray,23,ghost,-,100
+356,7,Confuse Ray,23,ghost,-,100
+356,12,Confuse Ray,23,ghost,-,100
+356,13,Confuse Ray,23,ghost,-,100
+356,8,Pursuit,25,dark,40,100
+356,9,Pursuit,25,dark,40,100
+356,10,Pursuit,25,dark,40,100
+356,11,Pursuit,25,dark,40,100
+356,14,Pursuit,25,dark,40,100
+356,15,Pursuit,25,dark,40,100
+356,16,Will-O-Wisp,25,fire,-,85
+356,5,Pursuit,27,dark,40,100
+356,6,Pursuit,27,dark,40,100
+356,7,Pursuit,27,dark,40,100
+356,12,Pursuit,27,dark,40,100
+356,13,Pursuit,27,dark,40,100
+356,8,Curse,30,ghost,-,-
+356,9,Curse,30,ghost,-,-
+356,10,Curse,30,ghost,-,-
+356,11,Curse,30,ghost,-,-
+356,14,Curse,30,ghost,-,-
+356,15,Curse,30,ghost,-,-
+356,16,Confuse Ray,30,ghost,-,100
+356,8,Will-O-Wisp,33,fire,-,85
+356,9,Will-O-Wisp,33,fire,-,85
+356,10,Will-O-Wisp,33,fire,-,85
+356,11,Will-O-Wisp,33,fire,-,85
+356,14,Will-O-Wisp,33,fire,-,85
+356,15,Will-O-Wisp,33,fire,-,85
+356,16,Curse,33,ghost,-,-
+356,5,Curse,34,ghost,-,-
+356,6,Curse,34,ghost,-,-
+356,7,Curse,34,ghost,-,-
+356,12,Curse,34,ghost,-,-
+356,13,Curse,34,ghost,-,-
+356,5,Shadow Punch,37,ghost,60,-
+356,6,Shadow Punch,37,ghost,60,-
+356,7,Shadow Punch,37,ghost,60,-
+356,8,Shadow Punch,37,ghost,60,-
+356,9,Shadow Punch,37,ghost,60,-
+356,10,Shadow Punch,37,ghost,60,-
+356,11,Shadow Punch,37,ghost,60,-
+356,12,Shadow Punch,37,ghost,60,-
+356,13,Shadow Punch,37,ghost,60,-
+356,14,Shadow Punch,37,ghost,60,-
+356,15,Shadow Punch,37,ghost,60,-
+356,16,Shadow Punch,37,ghost,60,-
+356,16,Hex,40,ghost,65,100
+356,5,Will-O-Wisp,41,fire,-,85
+356,6,Will-O-Wisp,41,fire,-,85
+356,7,Will-O-Wisp,41,fire,-,85
+356,12,Will-O-Wisp,41,fire,-,85
+356,13,Will-O-Wisp,41,fire,-,85
+356,11,Hex,42,ghost,65,100
+356,14,Hex,42,ghost,65,100
+356,15,Hex,42,ghost,65,100
+356,8,Mean Look,43,normal,-,-
+356,9,Mean Look,43,normal,-,-
+356,10,Mean Look,43,normal,-,-
+356,16,Shadow Ball,45,ghost,80,100
+356,11,Mean Look,49,normal,-,-
+356,14,Mean Look,49,normal,-,-
+356,15,Mean Look,49,normal,-,-
+356,5,Mean Look,51,normal,-,-
+356,6,Mean Look,51,normal,-,-
+356,7,Mean Look,51,normal,-,-
+356,8,Payback,51,dark,50,100
+356,9,Payback,51,dark,50,100
+356,10,Payback,51,dark,50,100
+356,12,Mean Look,51,normal,-,-
+356,13,Mean Look,51,normal,-,-
+356,16,Mean Look,52,normal,-,-
+356,16,Payback,57,dark,50,100
+356,5,Future Sight,58,psychic,120,100
+356,6,Future Sight,58,psychic,120,100
+356,7,Future Sight,58,psychic,120,100
+356,11,Payback,58,dark,50,100
+356,12,Future Sight,58,psychic,120,100
+356,13,Future Sight,58,psychic,120,100
+356,14,Payback,58,dark,50,100
+356,15,Payback,58,dark,50,100
+356,8,Future Sight,61,psychic,120,100
+356,9,Future Sight,61,psychic,120,100
+356,10,Future Sight,61,psychic,120,100
+356,11,Future Sight,61,psychic,120,100
+356,14,Future Sight,61,psychic,120,100
+356,15,Future Sight,61,psychic,120,100
+356,16,Future Sight,64,psychic,120,100

@@ -1,0 +1,85 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+273,5,Bide,1,normal,-,-
+273,6,Bide,1,normal,-,-
+273,7,Bide,1,normal,-,-
+273,8,Bide,1,normal,-,-
+273,9,Bide,1,normal,-,-
+273,10,Bide,1,normal,-,-
+273,11,Bide,1,normal,-,-
+273,12,Bide,1,normal,-,-
+273,13,Bide,1,normal,-,-
+273,14,Bide,1,normal,-,-
+273,15,Bide,1,normal,-,-
+273,16,Bide,1,normal,-,-
+273,5,Harden,3,normal,-,-
+273,6,Harden,3,normal,-,-
+273,7,Harden,3,normal,-,-
+273,8,Harden,3,normal,-,-
+273,9,Harden,3,normal,-,-
+273,10,Harden,3,normal,-,-
+273,11,Harden,3,normal,-,-
+273,12,Harden,3,normal,-,-
+273,13,Harden,3,normal,-,-
+273,14,Harden,3,normal,-,-
+273,15,Harden,3,normal,-,-
+273,16,Harden,3,normal,-,-
+273,5,Growth,7,normal,-,-
+273,6,Growth,7,normal,-,-
+273,7,Growth,7,normal,-,-
+273,8,Growth,7,normal,-,-
+273,9,Growth,7,normal,-,-
+273,10,Growth,7,normal,-,-
+273,11,Growth,7,normal,-,-
+273,12,Growth,7,normal,-,-
+273,13,Growth,7,normal,-,-
+273,14,Growth,7,normal,-,-
+273,15,Growth,7,normal,-,-
+273,16,Growth,9,normal,-,-
+273,5,Nature Power,13,normal,-,-
+273,6,Nature Power,13,normal,-,-
+273,7,Nature Power,13,normal,-,-
+273,8,Nature Power,13,normal,-,-
+273,9,Nature Power,13,normal,-,-
+273,10,Nature Power,13,normal,-,-
+273,11,Nature Power,13,normal,-,-
+273,12,Nature Power,13,normal,-,-
+273,13,Nature Power,13,normal,-,-
+273,14,Nature Power,13,normal,-,-
+273,15,Nature Power,13,normal,-,-
+273,16,Nature Power,15,normal,-,-
+273,5,Synthesis,21,grass,-,-
+273,6,Synthesis,21,grass,-,-
+273,7,Synthesis,21,grass,-,-
+273,8,Synthesis,21,grass,-,-
+273,9,Synthesis,21,grass,-,-
+273,10,Synthesis,21,grass,-,-
+273,11,Synthesis,21,grass,-,-
+273,12,Synthesis,21,grass,-,-
+273,13,Synthesis,21,grass,-,-
+273,14,Synthesis,21,grass,-,-
+273,15,Synthesis,21,grass,-,-
+273,16,Synthesis,21,grass,-,-
+273,16,Sunny Day,27,fire,-,-
+273,5,Sunny Day,31,fire,-,-
+273,6,Sunny Day,31,fire,-,-
+273,7,Sunny Day,31,fire,-,-
+273,8,Sunny Day,31,fire,-,-
+273,9,Sunny Day,31,fire,-,-
+273,10,Sunny Day,31,fire,-,-
+273,11,Sunny Day,31,fire,-,-
+273,12,Sunny Day,31,fire,-,-
+273,13,Sunny Day,31,fire,-,-
+273,14,Sunny Day,31,fire,-,-
+273,15,Sunny Day,31,fire,-,-
+273,16,Explosion,33,normal,250,100
+273,5,Explosion,43,normal,250,100
+273,6,Explosion,43,normal,250,100
+273,7,Explosion,43,normal,250,100
+273,8,Explosion,43,normal,250,100
+273,9,Explosion,43,normal,250,100
+273,10,Explosion,43,normal,250,100
+273,11,Explosion,43,normal,250,100
+273,12,Explosion,43,normal,250,100
+273,13,Explosion,43,normal,250,100
+273,14,Explosion,43,normal,250,100
+273,15,Explosion,43,normal,250,100

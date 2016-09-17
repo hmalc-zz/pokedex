@@ -1,0 +1,65 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+577,11,Psywave,1,psychic,-,100
+577,14,Psywave,1,psychic,-,100
+577,15,Psywave,1,psychic,-,100
+577,16,Psywave,1,psychic,-,100
+577,11,Reflect,3,psychic,-,-
+577,14,Reflect,3,psychic,-,-
+577,15,Reflect,3,psychic,-,-
+577,16,Reflect,3,psychic,-,-
+577,11,Rollout,7,rock,30,90
+577,14,Rollout,7,rock,30,90
+577,15,Rollout,7,rock,30,90
+577,16,Rollout,7,rock,30,90
+577,11,Snatch,10,dark,-,-
+577,14,Snatch,10,dark,-,-
+577,15,Snatch,10,dark,-,-
+577,16,Snatch,10,dark,-,-
+577,11,Hidden Power,14,normal,60,100
+577,14,Hidden Power,14,normal,60,100
+577,15,Hidden Power,14,normal,60,100
+577,16,Hidden Power,14,normal,60,100
+577,11,Light Screen,16,psychic,-,-
+577,14,Light Screen,16,psychic,-,-
+577,15,Light Screen,16,psychic,-,-
+577,16,Light Screen,16,psychic,-,-
+577,11,Charm,19,fairy,-,100
+577,14,Charm,19,fairy,-,100
+577,15,Charm,19,fairy,-,100
+577,16,Charm,19,fairy,-,100
+577,11,Recover,24,normal,-,-
+577,14,Recover,24,normal,-,-
+577,15,Recover,24,normal,-,-
+577,16,Recover,24,normal,-,-
+577,11,Psyshock,25,psychic,80,100
+577,14,Psyshock,25,psychic,80,100
+577,15,Psyshock,25,psychic,80,100
+577,16,Psyshock,25,psychic,80,100
+577,11,Endeavor,28,normal,-,100
+577,14,Endeavor,28,normal,-,100
+577,15,Endeavor,28,normal,-,100
+577,16,Endeavor,28,normal,-,100
+577,11,Future Sight,31,psychic,120,100
+577,14,Future Sight,31,psychic,120,100
+577,15,Future Sight,31,psychic,120,100
+577,16,Future Sight,31,psychic,120,100
+577,11,Pain Split,33,normal,-,-
+577,14,Pain Split,33,normal,-,-
+577,15,Pain Split,33,normal,-,-
+577,16,Pain Split,33,normal,-,-
+577,11,Psychic,37,psychic,90,100
+577,14,Psychic,37,psychic,90,100
+577,15,Psychic,37,psychic,90,100
+577,16,Psychic,37,psychic,90,100
+577,11,Skill Swap,40,psychic,-,-
+577,14,Skill Swap,40,psychic,-,-
+577,15,Skill Swap,40,psychic,-,-
+577,16,Skill Swap,40,psychic,-,-
+577,11,Heal Block,46,psychic,-,100
+577,14,Heal Block,46,psychic,-,100
+577,15,Heal Block,46,psychic,-,100
+577,16,Heal Block,46,psychic,-,100
+577,11,Wonder Room,48,psychic,-,-
+577,14,Wonder Room,48,psychic,-,-
+577,15,Wonder Room,48,psychic,-,-
+577,16,Wonder Room,48,psychic,-,-

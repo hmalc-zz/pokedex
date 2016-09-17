@@ -1,0 +1,214 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+168,3,Poison Sting,1,poison,15,100
+168,3,String Shot,1,bug,-,95
+168,3,Constrict,1,normal,10,100
+168,3,Scary Face,1,normal,-,100
+168,4,Poison Sting,1,poison,15,100
+168,4,String Shot,1,bug,-,95
+168,4,Constrict,1,normal,10,100
+168,4,Scary Face,1,normal,-,100
+168,5,Poison Sting,1,poison,15,100
+168,5,String Shot,1,bug,-,95
+168,5,Constrict,1,normal,10,100
+168,5,Scary Face,1,normal,-,100
+168,6,Poison Sting,1,poison,15,100
+168,6,String Shot,1,bug,-,95
+168,6,Constrict,1,normal,10,100
+168,6,Scary Face,1,normal,-,100
+168,7,Poison Sting,1,poison,15,100
+168,7,String Shot,1,bug,-,95
+168,7,Constrict,1,normal,10,100
+168,7,Scary Face,1,normal,-,100
+168,8,Poison Sting,1,poison,15,100
+168,8,String Shot,1,bug,-,95
+168,8,Constrict,1,normal,10,100
+168,8,Scary Face,1,normal,-,100
+168,8,Bug Bite,1,bug,60,100
+168,9,Poison Sting,1,poison,15,100
+168,9,String Shot,1,bug,-,95
+168,9,Constrict,1,normal,10,100
+168,9,Scary Face,1,normal,-,100
+168,9,Bug Bite,1,bug,60,100
+168,10,Poison Sting,1,poison,15,100
+168,10,String Shot,1,bug,-,95
+168,10,Constrict,1,normal,10,100
+168,10,Scary Face,1,normal,-,100
+168,10,Bug Bite,1,bug,60,100
+168,11,Poison Sting,1,poison,15,100
+168,11,String Shot,1,bug,-,95
+168,11,Constrict,1,normal,10,100
+168,11,Scary Face,1,normal,-,100
+168,11,Bug Bite,1,bug,60,100
+168,12,Poison Sting,1,poison,15,100
+168,12,String Shot,1,bug,-,95
+168,12,Constrict,1,normal,10,100
+168,12,Scary Face,1,normal,-,100
+168,13,Poison Sting,1,poison,15,100
+168,13,String Shot,1,bug,-,95
+168,13,Constrict,1,normal,10,100
+168,13,Scary Face,1,normal,-,100
+168,14,Poison Sting,1,poison,15,100
+168,14,String Shot,1,bug,-,95
+168,14,Constrict,1,normal,10,100
+168,14,Scary Face,1,normal,-,100
+168,14,Bug Bite,1,bug,60,100
+168,15,Poison Sting,1,poison,15,100
+168,15,String Shot,1,bug,-,95
+168,15,Constrict,1,normal,10,100
+168,15,Scary Face,1,normal,-,100
+168,15,Bug Bite,1,bug,60,100
+168,15,Fell Stinger,1,bug,30,100
+168,15,Venom Drench,1,poison,-,100
+168,16,Poison Sting,1,poison,15,100
+168,16,String Shot,1,bug,-,95
+168,16,Constrict,1,normal,10,100
+168,16,Scary Face,1,normal,-,100
+168,16,Bug Bite,1,bug,60,100
+168,16,Fell Stinger,1,bug,30,100
+168,16,Venom Drench,1,poison,-,100
+168,8,Scary Face,5,normal,-,100
+168,9,Scary Face,5,normal,-,100
+168,10,Scary Face,5,normal,-,100
+168,11,Scary Face,5,normal,-,100
+168,14,Scary Face,5,normal,-,100
+168,15,Scary Face,5,normal,-,100
+168,16,Scary Face,5,normal,-,100
+168,3,Scary Face,6,normal,-,100
+168,4,Scary Face,6,normal,-,100
+168,5,Scary Face,6,normal,-,100
+168,6,Scary Face,6,normal,-,100
+168,7,Scary Face,6,normal,-,100
+168,12,Scary Face,6,normal,-,100
+168,13,Scary Face,6,normal,-,100
+168,8,Constrict,8,normal,10,100
+168,9,Constrict,8,normal,10,100
+168,10,Constrict,8,normal,10,100
+168,11,Constrict,8,normal,10,100
+168,14,Constrict,8,normal,10,100
+168,15,Constrict,8,normal,10,100
+168,16,Constrict,8,normal,10,100
+168,3,Constrict,11,normal,10,100
+168,4,Constrict,11,normal,10,100
+168,5,Constrict,11,normal,10,100
+168,6,Constrict,11,normal,10,100
+168,7,Constrict,11,normal,10,100
+168,12,Constrict,11,normal,10,100
+168,13,Constrict,11,normal,10,100
+168,8,Leech Life,12,bug,20,100
+168,9,Leech Life,12,bug,20,100
+168,10,Leech Life,12,bug,20,100
+168,11,Leech Life,12,bug,20,100
+168,14,Leech Life,12,bug,20,100
+168,15,Leech Life,12,bug,20,100
+168,16,Leech Life,12,bug,20,100
+168,8,Night Shade,15,ghost,-,100
+168,9,Night Shade,15,ghost,-,100
+168,10,Night Shade,15,ghost,-,100
+168,11,Night Shade,15,ghost,-,100
+168,14,Night Shade,15,ghost,-,100
+168,15,Night Shade,15,ghost,-,100
+168,16,Night Shade,15,ghost,-,100
+168,3,Night Shade,17,ghost,-,100
+168,4,Night Shade,17,ghost,-,100
+168,5,Night Shade,17,ghost,-,100
+168,6,Night Shade,17,ghost,-,100
+168,7,Night Shade,17,ghost,-,100
+168,12,Night Shade,17,ghost,-,100
+168,13,Night Shade,17,ghost,-,100
+168,8,Shadow Sneak,19,ghost,40,100
+168,9,Shadow Sneak,19,ghost,40,100
+168,10,Shadow Sneak,19,ghost,40,100
+168,11,Shadow Sneak,19,ghost,40,100
+168,14,Shadow Sneak,19,ghost,40,100
+168,15,Shadow Sneak,19,ghost,40,100
+168,16,Shadow Sneak,19,ghost,40,100
+168,8,Fury Swipes,23,normal,18,80
+168,9,Fury Swipes,23,normal,18,80
+168,10,Fury Swipes,23,normal,18,80
+168,11,Fury Swipes,23,normal,18,80
+168,14,Fury Swipes,23,normal,18,80
+168,15,Fury Swipes,23,normal,18,80
+168,16,Fury Swipes,23,normal,18,80
+168,3,Leech Life,25,bug,20,100
+168,4,Leech Life,25,bug,20,100
+168,5,Leech Life,25,bug,20,100
+168,6,Leech Life,25,bug,20,100
+168,7,Leech Life,25,bug,20,100
+168,12,Leech Life,25,bug,20,100
+168,13,Leech Life,25,bug,20,100
+168,8,Sucker Punch,28,dark,80,100
+168,9,Sucker Punch,28,dark,80,100
+168,10,Sucker Punch,28,dark,80,100
+168,11,Sucker Punch,28,dark,80,100
+168,14,Sucker Punch,28,dark,80,100
+168,15,Sucker Punch,28,dark,80,100
+168,16,Sucker Punch,28,dark,80,100
+168,8,Spider Web,32,bug,-,-
+168,9,Spider Web,32,bug,-,-
+168,10,Spider Web,32,bug,-,-
+168,11,Spider Web,32,bug,-,-
+168,14,Spider Web,32,bug,-,-
+168,15,Spider Web,32,bug,-,-
+168,16,Spider Web,32,bug,-,-
+168,3,Fury Swipes,34,normal,18,80
+168,4,Fury Swipes,34,normal,18,80
+168,5,Fury Swipes,34,normal,18,80
+168,6,Fury Swipes,34,normal,18,80
+168,7,Fury Swipes,34,normal,18,80
+168,12,Fury Swipes,34,normal,18,80
+168,13,Fury Swipes,34,normal,18,80
+168,8,Agility,37,psychic,-,-
+168,9,Agility,37,psychic,-,-
+168,10,Agility,37,psychic,-,-
+168,11,Agility,37,psychic,-,-
+168,14,Agility,37,psychic,-,-
+168,15,Agility,37,psychic,-,-
+168,16,Agility,37,psychic,-,-
+168,8,Pin Missile,41,bug,25,95
+168,9,Pin Missile,41,bug,25,95
+168,10,Pin Missile,41,bug,25,95
+168,11,Pin Missile,41,bug,25,95
+168,14,Pin Missile,41,bug,25,95
+168,15,Pin Missile,41,bug,25,95
+168,16,Pin Missile,41,bug,25,95
+168,3,Spider Web,43,bug,-,-
+168,4,Spider Web,43,bug,-,-
+168,5,Spider Web,43,bug,-,-
+168,6,Spider Web,43,bug,-,-
+168,7,Spider Web,43,bug,-,-
+168,12,Spider Web,43,bug,-,-
+168,13,Spider Web,43,bug,-,-
+168,8,Psychic,46,psychic,90,100
+168,9,Psychic,46,psychic,90,100
+168,10,Psychic,46,psychic,90,100
+168,11,Psychic,46,psychic,90,100
+168,14,Psychic,46,psychic,90,100
+168,15,Psychic,46,psychic,90,100
+168,16,Psychic,46,psychic,90,100
+168,8,Poison Jab,50,poison,80,100
+168,9,Poison Jab,50,poison,80,100
+168,10,Poison Jab,50,poison,80,100
+168,11,Poison Jab,50,poison,80,100
+168,14,Poison Jab,50,poison,80,100
+168,15,Poison Jab,50,poison,80,100
+168,16,Poison Jab,50,poison,80,100
+168,3,Screech,53,normal,-,85
+168,4,Agility,53,psychic,-,-
+168,5,Agility,53,psychic,-,-
+168,6,Agility,53,psychic,-,-
+168,7,Agility,53,psychic,-,-
+168,12,Agility,53,psychic,-,-
+168,13,Agility,53,psychic,-,-
+168,11,Cross Poison,55,poison,70,100
+168,14,Cross Poison,55,poison,70,100
+168,15,Cross Poison,55,poison,70,100
+168,16,Cross Poison,55,poison,70,100
+168,15,Sticky Web,58,bug,-,-
+168,16,Sticky Web,58,bug,-,-
+168,3,Psychic,63,psychic,90,100
+168,4,Psychic,63,psychic,90,100
+168,5,Psychic,63,psychic,90,100
+168,6,Psychic,63,psychic,90,100
+168,7,Psychic,63,psychic,90,100
+168,12,Psychic,63,psychic,90,100
+168,13,Psychic,63,psychic,90,100

@@ -1,0 +1,165 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+234,3,Tackle,1,normal,50,100
+234,4,Tackle,1,normal,50,100
+234,5,Tackle,1,normal,50,100
+234,6,Tackle,1,normal,50,100
+234,7,Tackle,1,normal,50,100
+234,8,Tackle,1,normal,50,100
+234,9,Tackle,1,normal,50,100
+234,10,Tackle,1,normal,50,100
+234,11,Tackle,1,normal,50,100
+234,12,Tackle,1,normal,50,100
+234,13,Tackle,1,normal,50,100
+234,14,Tackle,1,normal,50,100
+234,15,Tackle,1,normal,50,100
+234,15,Me First,1,normal,-,-
+234,16,Tackle,1,normal,50,100
+234,16,Me First,1,normal,-,-
+234,8,Leer,3,normal,-,100
+234,9,Leer,3,normal,-,100
+234,10,Leer,3,normal,-,100
+234,11,Leer,3,normal,-,100
+234,14,Leer,3,normal,-,100
+234,15,Leer,3,normal,-,100
+234,16,Leer,3,normal,-,100
+234,5,Leer,7,normal,-,100
+234,6,Leer,7,normal,-,100
+234,7,Leer,7,normal,-,100
+234,8,Astonish,7,ghost,30,100
+234,9,Astonish,7,ghost,30,100
+234,10,Astonish,7,ghost,30,100
+234,11,Astonish,7,ghost,30,100
+234,12,Leer,7,normal,-,100
+234,13,Leer,7,normal,-,100
+234,14,Astonish,7,ghost,30,100
+234,15,Astonish,7,ghost,30,100
+234,16,Astonish,7,ghost,30,100
+234,3,Leer,8,normal,-,100
+234,4,Leer,8,normal,-,100
+234,8,Hypnosis,10,psychic,-,60
+234,9,Hypnosis,10,psychic,-,60
+234,10,Hypnosis,10,psychic,-,60
+234,11,Hypnosis,10,psychic,-,60
+234,14,Hypnosis,10,psychic,-,60
+234,15,Hypnosis,10,psychic,-,60
+234,16,Hypnosis,10,psychic,-,60
+234,7,Astonish,11,ghost,30,100
+234,5,Astonish,13,ghost,30,100
+234,6,Astonish,13,ghost,30,100
+234,8,Stomp,13,normal,65,100
+234,9,Stomp,13,normal,65,100
+234,10,Stomp,13,normal,65,100
+234,11,Stomp,13,normal,65,100
+234,12,Astonish,13,ghost,30,100
+234,13,Astonish,13,ghost,30,100
+234,14,Stomp,13,normal,65,100
+234,15,Stomp,13,normal,65,100
+234,16,Stomp,13,normal,65,100
+234,3,Hypnosis,15,psychic,-,60
+234,4,Hypnosis,15,psychic,-,60
+234,8,Sand Attack,16,ground,-,100
+234,9,Sand Attack,16,ground,-,100
+234,10,Sand Attack,16,ground,-,100
+234,11,Sand Attack,16,ground,-,100
+234,14,Sand Attack,16,ground,-,100
+234,15,Sand Attack,16,ground,-,100
+234,16,Sand Attack,16,ground,-,100
+234,7,Hypnosis,17,psychic,-,60
+234,5,Hypnosis,19,psychic,-,60
+234,6,Hypnosis,19,psychic,-,60
+234,12,Hypnosis,19,psychic,-,60
+234,13,Hypnosis,19,psychic,-,60
+234,7,Stomp,21,normal,65,100
+234,8,Take Down,21,normal,90,85
+234,9,Take Down,21,normal,90,85
+234,10,Take Down,21,normal,90,85
+234,11,Take Down,21,normal,90,85
+234,14,Take Down,21,normal,90,85
+234,15,Take Down,21,normal,90,85
+234,16,Take Down,21,normal,90,85
+234,3,Stomp,23,normal,65,100
+234,4,Stomp,23,normal,65,100
+234,8,Confuse Ray,23,ghost,-,100
+234,9,Confuse Ray,23,ghost,-,100
+234,10,Confuse Ray,23,ghost,-,100
+234,11,Confuse Ray,23,ghost,-,100
+234,14,Confuse Ray,23,ghost,-,100
+234,15,Confuse Ray,23,ghost,-,100
+234,16,Confuse Ray,23,ghost,-,100
+234,5,Stomp,25,normal,65,100
+234,6,Stomp,25,normal,65,100
+234,12,Stomp,25,normal,65,100
+234,13,Stomp,25,normal,65,100
+234,7,Sand Attack,27,ground,-,100
+234,8,Calm Mind,27,psychic,-,-
+234,9,Calm Mind,27,psychic,-,-
+234,10,Calm Mind,27,psychic,-,-
+234,11,Calm Mind,27,psychic,-,-
+234,14,Calm Mind,27,psychic,-,-
+234,15,Calm Mind,27,psychic,-,-
+234,16,Calm Mind,27,psychic,-,-
+234,3,Sand Attack,31,ground,-,100
+234,4,Sand Attack,31,ground,-,100
+234,5,Sand Attack,31,ground,-,100
+234,6,Sand Attack,31,ground,-,100
+234,7,Role Play,31,psychic,-,-
+234,12,Sand Attack,31,ground,-,100
+234,13,Sand Attack,31,ground,-,100
+234,8,Role Play,33,psychic,-,-
+234,9,Role Play,33,psychic,-,-
+234,10,Role Play,33,psychic,-,-
+234,11,Role Play,33,psychic,-,-
+234,14,Role Play,33,psychic,-,-
+234,15,Role Play,33,psychic,-,-
+234,16,Role Play,33,psychic,-,-
+234,5,Take Down,37,normal,90,85
+234,6,Take Down,37,normal,90,85
+234,7,Take Down,37,normal,90,85
+234,12,Take Down,37,normal,90,85
+234,13,Take Down,37,normal,90,85
+234,8,Zen Headbutt,38,psychic,80,90
+234,9,Zen Headbutt,38,psychic,80,90
+234,10,Zen Headbutt,38,psychic,80,90
+234,11,Zen Headbutt,38,psychic,80,90
+234,14,Zen Headbutt,38,psychic,80,90
+234,15,Zen Headbutt,38,psychic,80,90
+234,16,Zen Headbutt,38,psychic,80,90
+234,3,Take Down,40,normal,90,85
+234,4,Take Down,40,normal,90,85
+234,7,Confuse Ray,41,ghost,-,100
+234,5,Confuse Ray,43,ghost,-,100
+234,6,Confuse Ray,43,ghost,-,100
+234,8,Imprison,43,psychic,-,-
+234,9,Imprison,43,psychic,-,-
+234,10,Imprison,43,psychic,-,-
+234,11,Jump Kick,43,fighting,100,95
+234,12,Confuse Ray,43,ghost,-,100
+234,13,Confuse Ray,43,ghost,-,100
+234,14,Jump Kick,43,fighting,100,95
+234,15,Jump Kick,43,fighting,100,95
+234,16,Jump Kick,43,fighting,100,95
+234,7,Calm Mind,47,psychic,-,-
+234,3,Confuse Ray,49,ghost,-,100
+234,4,Confuse Ray,49,ghost,-,100
+234,5,Calm Mind,49,psychic,-,-
+234,6,Calm Mind,49,psychic,-,-
+234,8,Captivate,49,normal,-,100
+234,9,Captivate,49,normal,-,100
+234,10,Captivate,49,normal,-,100
+234,11,Imprison,49,psychic,-,-
+234,12,Calm Mind,49,psychic,-,-
+234,13,Calm Mind,49,psychic,-,-
+234,14,Imprison,49,psychic,-,-
+234,15,Imprison,49,psychic,-,-
+234,16,Imprison,49,psychic,-,-
+234,15,Captivate,50,normal,-,100
+234,16,Captivate,50,normal,-,100
+234,8,Me First,53,normal,-,-
+234,9,Me First,53,normal,-,-
+234,10,Me First,53,normal,-,-
+234,11,Captivate,53,normal,-,100
+234,14,Captivate,53,normal,-,100
+234,11,Me First,55,normal,-,-
+234,14,Me First,55,normal,-,-
+234,15,Me First,55,normal,-,-
+234,16,Me First,55,normal,-,-

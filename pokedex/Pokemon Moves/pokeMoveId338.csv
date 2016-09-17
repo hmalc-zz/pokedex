@@ -1,0 +1,154 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+338,5,Tackle,1,normal,50,100
+338,5,Harden,1,normal,-,-
+338,6,Tackle,1,normal,50,100
+338,6,Harden,1,normal,-,-
+338,7,Tackle,1,normal,50,100
+338,7,Harden,1,normal,-,-
+338,8,Tackle,1,normal,50,100
+338,8,Confusion,1,psychic,50,100
+338,8,Harden,1,normal,-,-
+338,9,Tackle,1,normal,50,100
+338,9,Confusion,1,psychic,50,100
+338,9,Harden,1,normal,-,-
+338,10,Tackle,1,normal,50,100
+338,10,Confusion,1,psychic,50,100
+338,10,Harden,1,normal,-,-
+338,11,Tackle,1,normal,50,100
+338,11,Confusion,1,psychic,50,100
+338,11,Harden,1,normal,-,-
+338,12,Tackle,1,normal,50,100
+338,12,Harden,1,normal,-,-
+338,13,Tackle,1,normal,50,100
+338,13,Harden,1,normal,-,-
+338,14,Tackle,1,normal,50,100
+338,14,Confusion,1,psychic,50,100
+338,14,Harden,1,normal,-,-
+338,15,Tackle,1,normal,50,100
+338,15,Rock Throw,1,rock,50,90
+338,15,Confusion,1,psychic,50,100
+338,15,Harden,1,normal,-,-
+338,15,Wonder Room,1,psychic,-,-
+338,16,Tackle,1,normal,50,100
+338,16,Rock Throw,1,rock,50,90
+338,16,Confusion,1,psychic,50,100
+338,16,Harden,1,normal,-,-
+338,14,Rock Throw,5,rock,50,90
+338,15,Rock Throw,5,rock,50,90
+338,16,Fire Spin,5,fire,35,85
+338,5,Confusion,7,psychic,50,100
+338,6,Confusion,7,psychic,50,100
+338,7,Confusion,7,psychic,50,100
+338,12,Confusion,7,psychic,50,100
+338,13,Confusion,7,psychic,50,100
+338,8,Rock Throw,9,rock,50,90
+338,9,Rock Throw,9,rock,50,90
+338,10,Rock Throw,9,rock,50,90
+338,11,Rock Throw,9,rock,50,90
+338,14,Fire Spin,9,fire,35,85
+338,15,Fire Spin,9,fire,35,85
+338,16,Rock Polish,9,rock,-,-
+338,8,Fire Spin,12,fire,35,85
+338,9,Fire Spin,12,fire,35,85
+338,10,Fire Spin,12,fire,35,85
+338,11,Fire Spin,12,fire,35,85
+338,5,Rock Throw,13,rock,50,90
+338,6,Rock Throw,13,rock,50,90
+338,7,Rock Throw,13,rock,50,90
+338,12,Rock Throw,13,rock,50,90
+338,13,Rock Throw,13,rock,50,90
+338,14,Rock Polish,13,rock,-,-
+338,15,Rock Polish,13,rock,-,-
+338,16,Psywave,13,psychic,-,100
+338,14,Psywave,17,psychic,-,100
+338,15,Psywave,17,psychic,-,100
+338,16,Embargo,17,dark,-,100
+338,5,Fire Spin,19,fire,35,85
+338,6,Fire Spin,19,fire,35,85
+338,7,Fire Spin,19,fire,35,85
+338,12,Fire Spin,19,fire,35,85
+338,13,Fire Spin,19,fire,35,85
+338,8,Rock Polish,20,rock,-,-
+338,9,Rock Polish,20,rock,-,-
+338,10,Rock Polish,20,rock,-,-
+338,11,Rock Polish,20,rock,-,-
+338,14,Embargo,21,dark,-,100
+338,15,Embargo,21,dark,-,100
+338,16,Rock Slide,21,rock,75,90
+338,8,Psywave,23,psychic,-,100
+338,9,Psywave,23,psychic,-,100
+338,10,Psywave,23,psychic,-,100
+338,11,Psywave,23,psychic,-,100
+338,5,Psywave,25,psychic,-,100
+338,6,Psywave,25,psychic,-,100
+338,7,Psywave,25,psychic,-,100
+338,12,Psywave,25,psychic,-,100
+338,13,Psywave,25,psychic,-,100
+338,14,Rock Slide,25,rock,75,90
+338,15,Rock Slide,25,rock,75,90
+338,16,Cosmic Power,25,psychic,-,-
+338,14,Cosmic Power,29,psychic,-,-
+338,15,Cosmic Power,29,psychic,-,-
+338,16,Psychic,29,psychic,90,100
+338,5,Cosmic Power,31,psychic,-,-
+338,6,Cosmic Power,31,psychic,-,-
+338,7,Cosmic Power,31,psychic,-,-
+338,8,Embargo,31,dark,-,100
+338,9,Embargo,31,dark,-,100
+338,10,Embargo,31,dark,-,100
+338,11,Embargo,31,dark,-,100
+338,12,Cosmic Power,31,psychic,-,-
+338,13,Cosmic Power,31,psychic,-,-
+338,14,Psychic,33,psychic,90,100
+338,15,Psychic,33,psychic,90,100
+338,16,Heal Block,33,psychic,-,100
+338,8,Cosmic Power,34,psychic,-,-
+338,9,Cosmic Power,34,psychic,-,-
+338,10,Cosmic Power,34,psychic,-,-
+338,11,Cosmic Power,34,psychic,-,-
+338,5,Rock Slide,37,rock,75,90
+338,6,Rock Slide,37,rock,75,90
+338,7,Rock Slide,37,rock,75,90
+338,12,Rock Slide,37,rock,75,90
+338,13,Rock Slide,37,rock,75,90
+338,14,Heal Block,37,psychic,-,100
+338,15,Heal Block,37,psychic,-,100
+338,16,Stone Edge,37,rock,100,80
+338,14,Stone Edge,41,rock,100,80
+338,15,Stone Edge,41,rock,100,80
+338,16,Solar Beam,41,grass,120,100
+338,8,Heal Block,42,psychic,-,100
+338,9,Heal Block,42,psychic,-,100
+338,10,Heal Block,42,psychic,-,100
+338,11,Heal Block,42,psychic,-,100
+338,5,Solar Beam,43,grass,120,100
+338,6,Solar Beam,43,grass,120,100
+338,7,Solar Beam,43,grass,120,100
+338,12,Solar Beam,43,grass,120,100
+338,13,Solar Beam,43,grass,120,100
+338,8,Rock Slide,45,rock,75,90
+338,9,Rock Slide,45,rock,75,90
+338,10,Rock Slide,45,rock,75,90
+338,11,Rock Slide,45,rock,75,90
+338,14,Solar Beam,45,grass,120,100
+338,15,Solar Beam,45,grass,120,100
+338,16,Explosion,45,normal,250,100
+338,5,Explosion,49,normal,250,100
+338,6,Explosion,49,normal,250,100
+338,7,Explosion,49,normal,250,100
+338,12,Explosion,49,normal,250,100
+338,13,Explosion,49,normal,250,100
+338,14,Explosion,49,normal,250,100
+338,15,Explosion,49,normal,250,100
+338,16,Wonder Room,49,psychic,-,-
+338,8,Solar Beam,53,grass,120,100
+338,9,Solar Beam,53,grass,120,100
+338,10,Solar Beam,53,grass,120,100
+338,11,Solar Beam,53,grass,120,100
+338,14,Wonder Room,53,psychic,-,-
+338,15,Wonder Room,53,psychic,-,-
+338,8,Explosion,56,normal,250,100
+338,9,Explosion,56,normal,250,100
+338,10,Explosion,56,normal,250,100
+338,11,Explosion,56,normal,250,100
+338,11,Wonder Room,64,psychic,-,-

@@ -1,0 +1,95 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+488,8,Confusion,1,psychic,50,100
+488,8,Double Team,1,normal,-,-
+488,9,Confusion,1,psychic,50,100
+488,9,Double Team,1,normal,-,-
+488,10,Confusion,1,psychic,50,100
+488,10,Double Team,1,normal,-,-
+488,11,Confusion,1,psychic,50,100
+488,11,Double Team,1,normal,-,-
+488,14,Confusion,1,psychic,50,100
+488,14,Double Team,1,normal,-,-
+488,15,Confusion,1,psychic,50,100
+488,15,Double Team,1,normal,-,-
+488,15,Moonlight,1,fairy,-,-
+488,15,Psycho Shift,1,psychic,-,100
+488,15,Psycho Cut,1,psychic,70,100
+488,15,Lunar Dance,1,psychic,-,-
+488,16,Confusion,1,psychic,50,100
+488,16,Double Team,1,normal,-,-
+488,16,Moonlight,1,fairy,-,-
+488,16,Psycho Shift,1,psychic,-,100
+488,16,Psycho Cut,1,psychic,70,100
+488,16,Lunar Dance,1,psychic,-,-
+488,8,Safeguard,11,normal,-,-
+488,9,Safeguard,11,normal,-,-
+488,10,Safeguard,11,normal,-,-
+488,11,Safeguard,11,normal,-,-
+488,14,Safeguard,11,normal,-,-
+488,15,Safeguard,11,normal,-,-
+488,16,Safeguard,11,normal,-,-
+488,8,Mist,20,ice,-,-
+488,9,Mist,20,ice,-,-
+488,10,Mist,20,ice,-,-
+488,11,Mist,20,ice,-,-
+488,14,Mist,20,ice,-,-
+488,15,Mist,20,ice,-,-
+488,16,Mist,20,ice,-,-
+488,8,Aurora Beam,29,ice,65,100
+488,9,Aurora Beam,29,ice,65,100
+488,10,Aurora Beam,29,ice,65,100
+488,11,Aurora Beam,29,ice,65,100
+488,14,Aurora Beam,29,ice,65,100
+488,15,Aurora Beam,29,ice,65,100
+488,16,Aurora Beam,29,ice,65,100
+488,8,Future Sight,38,psychic,120,100
+488,9,Future Sight,38,psychic,120,100
+488,10,Future Sight,38,psychic,120,100
+488,11,Future Sight,38,psychic,120,100
+488,14,Future Sight,38,psychic,120,100
+488,15,Future Sight,38,psychic,120,100
+488,16,Future Sight,38,psychic,120,100
+488,8,Slash,47,normal,70,100
+488,9,Slash,47,normal,70,100
+488,10,Slash,47,normal,70,100
+488,11,Slash,47,normal,70,100
+488,14,Slash,47,normal,70,100
+488,15,Slash,47,normal,70,100
+488,16,Slash,47,normal,70,100
+488,8,Moonlight,57,fairy,-,-
+488,9,Moonlight,57,fairy,-,-
+488,10,Moonlight,57,fairy,-,-
+488,11,Moonlight,57,fairy,-,-
+488,14,Moonlight,57,fairy,-,-
+488,15,Moonlight,57,fairy,-,-
+488,16,Moonlight,57,fairy,-,-
+488,8,Psycho Cut,66,psychic,70,100
+488,9,Psycho Cut,66,psychic,70,100
+488,10,Psycho Cut,66,psychic,70,100
+488,11,Psycho Cut,66,psychic,70,100
+488,14,Psycho Cut,66,psychic,70,100
+488,15,Psycho Cut,66,psychic,70,100
+488,16,Psycho Cut,66,psychic,70,100
+488,8,Psycho Shift,75,psychic,-,100
+488,9,Psycho Shift,75,psychic,-,100
+488,10,Psycho Shift,75,psychic,-,100
+488,11,Psycho Shift,75,psychic,-,100
+488,14,Psycho Shift,75,psychic,-,100
+488,15,Psycho Shift,75,psychic,-,100
+488,16,Psycho Shift,75,psychic,-,100
+488,8,Lunar Dance,84,psychic,-,-
+488,9,Lunar Dance,84,psychic,-,-
+488,10,Lunar Dance,84,psychic,-,-
+488,11,Lunar Dance,84,psychic,-,-
+488,14,Lunar Dance,84,psychic,-,-
+488,15,Lunar Dance,84,psychic,-,-
+488,16,Lunar Dance,84,psychic,-,-
+488,8,Psychic,93,psychic,90,100
+488,9,Psychic,93,psychic,90,100
+488,10,Psychic,93,psychic,90,100
+488,11,Psychic,93,psychic,90,100
+488,14,Psychic,93,psychic,90,100
+488,15,Psychic,93,psychic,90,100
+488,16,Psychic,93,psychic,90,100
+488,15,Moonblast,99,fairy,95,100
+488,16,Moonblast,99,fairy,95,100

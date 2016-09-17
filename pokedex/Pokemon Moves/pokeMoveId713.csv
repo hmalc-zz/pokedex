@@ -1,0 +1,41 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+713,15,Tackle,1,normal,50,100
+713,15,Bite,1,dark,60,100
+713,15,Harden,1,normal,-,-
+713,15,Skull Bash,1,normal,130,100
+713,15,Crunch,1,dark,80,100
+713,15,Iron Defense,1,steel,-,-
+713,16,Tackle,1,normal,50,100
+713,16,Bite,1,dark,60,100
+713,16,Harden,1,normal,-,-
+713,16,Skull Bash,1,normal,130,100
+713,16,Crunch,1,dark,80,100
+713,16,Iron Defense,1,steel,-,-
+713,15,Powder Snow,5,ice,40,100
+713,16,Powder Snow,5,ice,40,100
+713,15,Icy Wind,10,ice,55,95
+713,16,Icy Wind,10,ice,55,95
+713,15,Take Down,15,normal,90,85
+713,16,Take Down,15,normal,90,85
+713,15,Sharpen,20,normal,-,-
+713,16,Sharpen,20,normal,-,-
+713,15,Curse,22,ghost,-,-
+713,16,Curse,22,ghost,-,-
+713,15,Ice Fang,26,ice,65,95
+713,16,Ice Fang,26,ice,65,95
+713,15,Ice Ball,30,ice,30,90
+713,16,Ice Ball,30,ice,30,90
+713,15,Rapid Spin,35,normal,20,100
+713,16,Rapid Spin,35,normal,20,100
+713,15,Avalanche,42,ice,60,100
+713,16,Avalanche,42,ice,60,100
+713,15,Blizzard,46,ice,110,70
+713,16,Blizzard,46,ice,110,70
+713,15,Recover,51,normal,-,-
+713,16,Recover,51,normal,-,-
+713,15,Double-Edge,56,normal,120,100
+713,16,Double-Edge,56,normal,120,100
+713,15,Skull Bash,60,normal,130,100
+713,16,Skull Bash,60,normal,130,100
+713,15,Crunch,65,dark,80,100
+713,16,Crunch,65,dark,80,100

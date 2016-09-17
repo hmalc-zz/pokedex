@@ -1,0 +1,139 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+314,5,Tackle,1,normal,50,100
+314,6,Tackle,1,normal,50,100
+314,7,Tackle,1,normal,50,100
+314,8,Tackle,1,normal,50,100
+314,9,Tackle,1,normal,50,100
+314,10,Tackle,1,normal,50,100
+314,11,Tackle,1,normal,50,100
+314,12,Tackle,1,normal,50,100
+314,13,Tackle,1,normal,50,100
+314,14,Tackle,1,normal,50,100
+314,15,Tackle,1,normal,50,100
+314,15,Play Nice,1,normal,-,-
+314,16,Tackle,1,normal,50,100
+314,16,Play Nice,1,normal,-,-
+314,5,Sweet Scent,5,normal,-,100
+314,6,Sweet Scent,5,normal,-,100
+314,7,Sweet Scent,5,normal,-,100
+314,8,Sweet Scent,5,normal,-,100
+314,9,Sweet Scent,5,normal,-,100
+314,10,Sweet Scent,5,normal,-,100
+314,11,Sweet Scent,5,normal,-,100
+314,12,Sweet Scent,5,normal,-,100
+314,13,Sweet Scent,5,normal,-,100
+314,14,Sweet Scent,5,normal,-,100
+314,15,Sweet Scent,5,normal,-,100
+314,16,Sweet Scent,5,normal,-,100
+314,5,Charm,9,fairy,-,100
+314,6,Charm,9,fairy,-,100
+314,7,Charm,9,fairy,-,100
+314,8,Charm,9,fairy,-,100
+314,9,Charm,9,fairy,-,100
+314,10,Charm,9,fairy,-,100
+314,11,Charm,9,fairy,-,100
+314,12,Charm,9,fairy,-,100
+314,13,Charm,9,fairy,-,100
+314,14,Charm,9,fairy,-,100
+314,15,Charm,9,fairy,-,100
+314,16,Charm,9,fairy,-,100
+314,16,Quick Attack,12,normal,40,100
+314,5,Moonlight,13,fairy,-,-
+314,6,Moonlight,13,fairy,-,-
+314,7,Moonlight,13,fairy,-,-
+314,8,Moonlight,13,fairy,-,-
+314,9,Moonlight,13,fairy,-,-
+314,10,Moonlight,13,fairy,-,-
+314,11,Moonlight,13,fairy,-,-
+314,12,Moonlight,13,fairy,-,-
+314,13,Moonlight,13,fairy,-,-
+314,14,Moonlight,13,fairy,-,-
+314,15,Moonlight,13,fairy,-,-
+314,16,Struggle Bug,15,bug,50,100
+314,5,Quick Attack,17,normal,40,100
+314,6,Quick Attack,17,normal,40,100
+314,7,Quick Attack,17,normal,40,100
+314,8,Quick Attack,17,normal,40,100
+314,9,Quick Attack,17,normal,40,100
+314,10,Quick Attack,17,normal,40,100
+314,11,Quick Attack,17,normal,40,100
+314,12,Quick Attack,17,normal,40,100
+314,13,Quick Attack,17,normal,40,100
+314,14,Quick Attack,17,normal,40,100
+314,15,Quick Attack,17,normal,40,100
+314,16,Moonlight,19,fairy,-,-
+314,5,Wish,21,normal,-,-
+314,6,Wish,21,normal,-,-
+314,7,Wish,21,normal,-,-
+314,8,Wish,21,normal,-,-
+314,9,Wish,21,normal,-,-
+314,10,Wish,21,normal,-,-
+314,11,Wish,21,normal,-,-
+314,12,Wish,21,normal,-,-
+314,13,Wish,21,normal,-,-
+314,14,Wish,21,normal,-,-
+314,15,Wish,21,normal,-,-
+314,16,Wish,22,normal,-,-
+314,5,Encore,25,normal,-,100
+314,6,Encore,25,normal,-,100
+314,7,Encore,25,normal,-,100
+314,8,Encore,25,normal,-,100
+314,9,Encore,25,normal,-,100
+314,10,Encore,25,normal,-,100
+314,11,Encore,25,normal,-,100
+314,12,Encore,25,normal,-,100
+314,13,Encore,25,normal,-,100
+314,14,Encore,25,normal,-,100
+314,15,Encore,25,normal,-,100
+314,16,Encore,26,normal,-,100
+314,5,Flatter,29,dark,-,100
+314,6,Flatter,29,dark,-,100
+314,7,Flatter,29,dark,-,100
+314,8,Flatter,29,dark,-,100
+314,9,Flatter,29,dark,-,100
+314,10,Flatter,29,dark,-,100
+314,11,Flatter,29,dark,-,100
+314,12,Flatter,29,dark,-,100
+314,13,Flatter,29,dark,-,100
+314,14,Flatter,29,dark,-,100
+314,15,Flatter,29,dark,-,100
+314,16,Flatter,29,dark,-,100
+314,5,Helping Hand,33,normal,-,-
+314,6,Helping Hand,33,normal,-,-
+314,7,Helping Hand,33,normal,-,-
+314,8,Helping Hand,33,normal,-,-
+314,9,Helping Hand,33,normal,-,-
+314,10,Helping Hand,33,normal,-,-
+314,11,Helping Hand,33,normal,-,-
+314,12,Helping Hand,33,normal,-,-
+314,13,Helping Hand,33,normal,-,-
+314,14,Helping Hand,33,normal,-,-
+314,15,Helping Hand,33,normal,-,-
+314,16,Zen Headbutt,33,psychic,80,90
+314,16,Helping Hand,36,normal,-,-
+314,5,Covet,37,normal,60,100
+314,6,Covet,37,normal,60,100
+314,7,Covet,37,normal,60,100
+314,8,Zen Headbutt,37,psychic,80,90
+314,9,Zen Headbutt,37,psychic,80,90
+314,10,Zen Headbutt,37,psychic,80,90
+314,11,Zen Headbutt,37,psychic,80,90
+314,12,Covet,37,normal,60,100
+314,13,Covet,37,normal,60,100
+314,14,Zen Headbutt,37,psychic,80,90
+314,15,Zen Headbutt,37,psychic,80,90
+314,16,Bug Buzz,40,bug,90,100
+314,8,Bug Buzz,41,bug,90,100
+314,9,Bug Buzz,41,bug,90,100
+314,10,Bug Buzz,41,bug,90,100
+314,11,Bug Buzz,41,bug,90,100
+314,14,Bug Buzz,41,bug,90,100
+314,15,Bug Buzz,41,bug,90,100
+314,16,Play Rough,43,fairy,90,90
+314,8,Covet,45,normal,60,100
+314,9,Covet,45,normal,60,100
+314,10,Covet,45,normal,60,100
+314,11,Covet,45,normal,60,100
+314,14,Covet,45,normal,60,100
+314,15,Covet,45,normal,60,100
+314,16,Covet,47,normal,60,100

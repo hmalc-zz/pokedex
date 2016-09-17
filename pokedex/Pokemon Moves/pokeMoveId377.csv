@@ -1,0 +1,143 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+377,5,Explosion,1,normal,250,100
+377,6,Explosion,1,normal,250,100
+377,7,Explosion,1,normal,250,100
+377,8,Explosion,1,normal,250,100
+377,9,Stomp,1,normal,65,100
+377,9,Explosion,1,normal,250,100
+377,10,Stomp,1,normal,65,100
+377,10,Explosion,1,normal,250,100
+377,11,Stomp,1,normal,65,100
+377,11,Explosion,1,normal,250,100
+377,12,Explosion,1,normal,250,100
+377,13,Explosion,1,normal,250,100
+377,14,Stomp,1,normal,65,100
+377,14,Explosion,1,normal,250,100
+377,15,Stomp,1,normal,65,100
+377,15,Explosion,1,normal,250,100
+377,15,Zap Cannon,1,electric,120,50
+377,15,Lock-On,1,normal,-,-
+377,15,Hammer Arm,1,fighting,100,90
+377,16,Stomp,1,normal,65,100
+377,16,Rock Throw,1,rock,50,90
+377,16,Explosion,1,normal,250,100
+377,16,Charge Beam,1,electric,50,90
+377,16,Bulldoze,1,ground,60,100
+377,16,Rock Throw,7,rock,50,90
+377,5,Rock Throw,9,rock,50,90
+377,6,Rock Throw,9,rock,50,90
+377,7,Rock Throw,9,rock,50,90
+377,8,Rock Throw,9,rock,50,90
+377,9,Rock Throw,9,rock,50,90
+377,10,Rock Throw,9,rock,50,90
+377,11,Rock Throw,9,rock,50,90
+377,12,Rock Throw,9,rock,50,90
+377,13,Rock Throw,9,rock,50,90
+377,14,Rock Throw,9,rock,50,90
+377,15,Rock Throw,9,rock,50,90
+377,16,Charge Beam,13,electric,50,90
+377,5,Curse,17,ghost,-,-
+377,6,Curse,17,ghost,-,-
+377,7,Curse,17,ghost,-,-
+377,8,Curse,17,ghost,-,-
+377,9,Curse,17,ghost,-,-
+377,10,Curse,17,ghost,-,-
+377,11,Curse,17,ghost,-,-
+377,12,Curse,17,ghost,-,-
+377,13,Curse,17,ghost,-,-
+377,14,Curse,17,ghost,-,-
+377,15,Curse,17,ghost,-,-
+377,16,Bulldoze,19,ground,60,100
+377,5,Superpower,25,fighting,120,100
+377,6,Superpower,25,fighting,120,100
+377,7,Superpower,25,fighting,120,100
+377,8,Superpower,25,fighting,120,100
+377,9,Superpower,25,fighting,120,100
+377,10,Superpower,25,fighting,120,100
+377,11,Superpower,25,fighting,120,100
+377,12,Superpower,25,fighting,120,100
+377,13,Superpower,25,fighting,120,100
+377,14,Superpower,25,fighting,120,100
+377,15,Superpower,25,fighting,120,100
+377,16,Curse,25,ghost,-,-
+377,16,Ancient Power,31,rock,60,100
+377,5,Ancient Power,33,rock,60,100
+377,6,Ancient Power,33,rock,60,100
+377,7,Ancient Power,33,rock,60,100
+377,8,Ancient Power,33,rock,60,100
+377,9,Ancient Power,33,rock,60,100
+377,10,Ancient Power,33,rock,60,100
+377,11,Ancient Power,33,rock,60,100
+377,12,Ancient Power,33,rock,60,100
+377,13,Ancient Power,33,rock,60,100
+377,14,Ancient Power,33,rock,60,100
+377,15,Ancient Power,33,rock,60,100
+377,16,Iron Defense,37,steel,-,-
+377,5,Iron Defense,41,steel,-,-
+377,6,Iron Defense,41,steel,-,-
+377,7,Iron Defense,41,steel,-,-
+377,8,Iron Defense,41,steel,-,-
+377,9,Iron Defense,41,steel,-,-
+377,10,Iron Defense,41,steel,-,-
+377,11,Iron Defense,41,steel,-,-
+377,12,Iron Defense,41,steel,-,-
+377,13,Iron Defense,41,steel,-,-
+377,14,Iron Defense,41,steel,-,-
+377,15,Iron Defense,41,steel,-,-
+377,16,Stone Edge,43,rock,100,80
+377,5,Zap Cannon,49,electric,120,50
+377,6,Zap Cannon,49,electric,120,50
+377,7,Zap Cannon,49,electric,120,50
+377,8,Charge Beam,49,electric,50,90
+377,9,Charge Beam,49,electric,50,90
+377,10,Charge Beam,49,electric,50,90
+377,11,Charge Beam,49,electric,50,90
+377,12,Zap Cannon,49,electric,120,50
+377,13,Zap Cannon,49,electric,120,50
+377,14,Charge Beam,49,electric,50,90
+377,15,Charge Beam,49,electric,50,90
+377,16,Hammer Arm,49,fighting,100,90
+377,16,Zap Cannon,55,electric,120,50
+377,16,Lock-On,55,normal,-,-
+377,5,Lock-On,57,normal,-,-
+377,6,Lock-On,57,normal,-,-
+377,7,Lock-On,57,normal,-,-
+377,8,Lock-On,57,normal,-,-
+377,9,Lock-On,57,normal,-,-
+377,10,Lock-On,57,normal,-,-
+377,11,Lock-On,57,normal,-,-
+377,12,Lock-On,57,normal,-,-
+377,13,Lock-On,57,normal,-,-
+377,14,Lock-On,57,normal,-,-
+377,15,Lock-On,57,normal,-,-
+377,16,Superpower,61,fighting,120,100
+377,5,Hyper Beam,65,normal,150,90
+377,6,Hyper Beam,65,normal,150,90
+377,7,Hyper Beam,65,normal,150,90
+377,8,Zap Cannon,65,electric,120,50
+377,9,Zap Cannon,65,electric,120,50
+377,10,Zap Cannon,65,electric,120,50
+377,11,Zap Cannon,65,electric,120,50
+377,12,Hyper Beam,65,normal,150,90
+377,13,Hyper Beam,65,normal,150,90
+377,14,Zap Cannon,65,electric,120,50
+377,15,Zap Cannon,65,electric,120,50
+377,16,Hyper Beam,67,normal,150,90
+377,8,Stone Edge,73,rock,100,80
+377,9,Stone Edge,73,rock,100,80
+377,10,Stone Edge,73,rock,100,80
+377,11,Stone Edge,73,rock,100,80
+377,14,Stone Edge,73,rock,100,80
+377,15,Stone Edge,73,rock,100,80
+377,8,Hammer Arm,81,fighting,100,90
+377,9,Hammer Arm,81,fighting,100,90
+377,10,Hammer Arm,81,fighting,100,90
+377,11,Hammer Arm,81,fighting,100,90
+377,14,Hammer Arm,81,fighting,100,90
+377,15,Hammer Arm,81,fighting,100,90
+377,8,Hyper Beam,89,normal,150,90
+377,9,Hyper Beam,89,normal,150,90
+377,10,Hyper Beam,89,normal,150,90
+377,11,Hyper Beam,89,normal,150,90
+377,14,Hyper Beam,89,normal,150,90
+377,15,Hyper Beam,89,normal,150,90

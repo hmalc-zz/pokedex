@@ -1,0 +1,154 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+369,5,Tackle,1,normal,50,100
+369,5,Harden,1,normal,-,-
+369,6,Tackle,1,normal,50,100
+369,6,Harden,1,normal,-,-
+369,7,Tackle,1,normal,50,100
+369,7,Harden,1,normal,-,-
+369,8,Tackle,1,normal,50,100
+369,8,Harden,1,normal,-,-
+369,9,Tackle,1,normal,50,100
+369,9,Harden,1,normal,-,-
+369,10,Tackle,1,normal,50,100
+369,10,Harden,1,normal,-,-
+369,11,Tackle,1,normal,50,100
+369,11,Harden,1,normal,-,-
+369,12,Tackle,1,normal,50,100
+369,12,Harden,1,normal,-,-
+369,13,Tackle,1,normal,50,100
+369,13,Harden,1,normal,-,-
+369,14,Tackle,1,normal,50,100
+369,14,Harden,1,normal,-,-
+369,15,Tackle,1,normal,50,100
+369,15,Hydro Pump,1,water,110,80
+369,15,Harden,1,normal,-,-
+369,15,Ancient Power,1,rock,60,100
+369,15,Mud Sport,1,ground,-,-
+369,15,Head Smash,1,rock,150,80
+369,16,Tackle,1,normal,50,100
+369,16,Water Gun,1,water,40,100
+369,16,Harden,1,normal,-,-
+369,16,Mud Sport,1,ground,-,-
+369,16,Head Smash,1,rock,150,80
+369,16,Mud Sport,6,ground,-,-
+369,5,Water Gun,8,water,40,100
+369,6,Water Gun,8,water,40,100
+369,7,Water Gun,8,water,40,100
+369,8,Water Gun,8,water,40,100
+369,9,Water Gun,8,water,40,100
+369,10,Water Gun,8,water,40,100
+369,11,Water Gun,8,water,40,100
+369,12,Water Gun,8,water,40,100
+369,13,Water Gun,8,water,40,100
+369,14,Water Gun,8,water,40,100
+369,15,Water Gun,8,water,40,100
+369,16,Water Gun,10,water,40,100
+369,5,Rock Tomb,15,rock,60,95
+369,6,Rock Tomb,15,rock,60,95
+369,7,Rock Tomb,15,rock,60,95
+369,8,Rock Tomb,15,rock,60,95
+369,9,Rock Tomb,15,rock,60,95
+369,10,Rock Tomb,15,rock,60,95
+369,11,Rock Tomb,15,rock,60,95
+369,12,Rock Tomb,15,rock,60,95
+369,13,Rock Tomb,15,rock,60,95
+369,14,Rock Tomb,15,rock,60,95
+369,15,Rock Tomb,15,rock,60,95
+369,16,Rock Tomb,15,rock,60,95
+369,16,Ancient Power,21,rock,60,100
+369,5,Yawn,22,normal,-,-
+369,6,Yawn,22,normal,-,-
+369,7,Yawn,22,normal,-,-
+369,8,Yawn,22,normal,-,-
+369,9,Yawn,22,normal,-,-
+369,10,Yawn,22,normal,-,-
+369,11,Yawn,22,normal,-,-
+369,12,Yawn,22,normal,-,-
+369,13,Yawn,22,normal,-,-
+369,14,Yawn,22,normal,-,-
+369,15,Yawn,22,normal,-,-
+369,16,Dive,26,water,80,100
+369,5,Take Down,29,normal,90,85
+369,6,Take Down,29,normal,90,85
+369,7,Take Down,29,normal,90,85
+369,8,Take Down,29,normal,90,85
+369,9,Take Down,29,normal,90,85
+369,10,Take Down,29,normal,90,85
+369,11,Take Down,29,normal,90,85
+369,12,Take Down,29,normal,90,85
+369,13,Take Down,29,normal,90,85
+369,14,Take Down,29,normal,90,85
+369,15,Take Down,29,normal,90,85
+369,16,Take Down,31,normal,90,85
+369,16,Yawn,35,normal,-,-
+369,5,Mud Sport,36,ground,-,-
+369,6,Mud Sport,36,ground,-,-
+369,7,Mud Sport,36,ground,-,-
+369,8,Mud Sport,36,ground,-,-
+369,9,Mud Sport,36,ground,-,-
+369,10,Mud Sport,36,ground,-,-
+369,11,Mud Sport,36,ground,-,-
+369,12,Mud Sport,36,ground,-,-
+369,13,Mud Sport,36,ground,-,-
+369,14,Mud Sport,36,ground,-,-
+369,15,Mud Sport,36,ground,-,-
+369,16,Rest,41,psychic,-,-
+369,5,Ancient Power,43,rock,60,100
+369,6,Ancient Power,43,rock,60,100
+369,7,Ancient Power,43,rock,60,100
+369,8,Ancient Power,43,rock,60,100
+369,9,Ancient Power,43,rock,60,100
+369,10,Ancient Power,43,rock,60,100
+369,11,Ancient Power,43,rock,60,100
+369,12,Ancient Power,43,rock,60,100
+369,13,Ancient Power,43,rock,60,100
+369,14,Ancient Power,43,rock,60,100
+369,15,Ancient Power,43,rock,60,100
+369,16,Hydro Pump,46,water,110,80
+369,5,Rest,50,psychic,-,-
+369,6,Rest,50,psychic,-,-
+369,7,Rest,50,psychic,-,-
+369,8,Double-Edge,50,normal,120,100
+369,9,Double-Edge,50,normal,120,100
+369,10,Double-Edge,50,normal,120,100
+369,11,Double-Edge,50,normal,120,100
+369,12,Rest,50,psychic,-,-
+369,13,Rest,50,psychic,-,-
+369,14,Double-Edge,50,normal,120,100
+369,15,Double-Edge,50,normal,120,100
+369,16,Double-Edge,50,normal,120,100
+369,16,Head Smash,56,rock,150,80
+369,5,Double-Edge,57,normal,120,100
+369,6,Double-Edge,57,normal,120,100
+369,7,Double-Edge,57,normal,120,100
+369,8,Dive,57,water,80,100
+369,9,Dive,57,water,80,100
+369,10,Dive,57,water,80,100
+369,11,Dive,57,water,80,100
+369,12,Double-Edge,57,normal,120,100
+369,13,Double-Edge,57,normal,120,100
+369,14,Dive,57,water,80,100
+369,15,Dive,57,water,80,100
+369,5,Hydro Pump,64,water,110,80
+369,6,Hydro Pump,64,water,110,80
+369,7,Hydro Pump,64,water,110,80
+369,8,Rest,64,psychic,-,-
+369,9,Rest,64,psychic,-,-
+369,10,Rest,64,psychic,-,-
+369,11,Rest,64,psychic,-,-
+369,12,Hydro Pump,64,water,110,80
+369,13,Hydro Pump,64,water,110,80
+369,14,Rest,64,psychic,-,-
+369,15,Rest,64,psychic,-,-
+369,8,Hydro Pump,71,water,110,80
+369,9,Hydro Pump,71,water,110,80
+369,10,Hydro Pump,71,water,110,80
+369,11,Hydro Pump,71,water,110,80
+369,14,Hydro Pump,71,water,110,80
+369,15,Hydro Pump,71,water,110,80
+369,8,Head Smash,78,rock,150,80
+369,9,Head Smash,78,rock,150,80
+369,10,Head Smash,78,rock,150,80
+369,11,Head Smash,78,rock,150,80
+369,14,Head Smash,78,rock,150,80
+369,15,Head Smash,78,rock,150,80

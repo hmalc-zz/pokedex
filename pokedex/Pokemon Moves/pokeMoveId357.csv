@@ -1,0 +1,166 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+357,5,Gust,1,flying,40,100
+357,5,Leer,1,normal,-,100
+357,6,Gust,1,flying,40,100
+357,6,Leer,1,normal,-,100
+357,7,Gust,1,flying,40,100
+357,7,Leer,1,normal,-,100
+357,8,Gust,1,flying,40,100
+357,8,Leer,1,normal,-,100
+357,9,Gust,1,flying,40,100
+357,9,Leer,1,normal,-,100
+357,10,Gust,1,flying,40,100
+357,10,Leer,1,normal,-,100
+357,11,Gust,1,flying,40,100
+357,11,Leer,1,normal,-,100
+357,12,Gust,1,flying,40,100
+357,12,Leer,1,normal,-,100
+357,13,Gust,1,flying,40,100
+357,13,Leer,1,normal,-,100
+357,14,Gust,1,flying,40,100
+357,14,Leer,1,normal,-,100
+357,15,Gust,1,flying,40,100
+357,15,Leer,1,normal,-,100
+357,15,Natural Gift,1,normal,-,100
+357,15,Leaf Storm,1,grass,130,90
+357,15,Bestow,1,normal,-,-
+357,16,Gust,1,flying,40,100
+357,16,Leer,1,normal,-,100
+357,16,Growth,1,normal,-,-
+357,16,Razor Leaf,1,grass,55,95
+357,16,Leaf Storm,1,grass,130,90
+357,16,Sweet Scent,6,normal,-,100
+357,5,Growth,7,normal,-,-
+357,6,Growth,7,normal,-,-
+357,7,Growth,7,normal,-,-
+357,8,Growth,7,normal,-,-
+357,9,Growth,7,normal,-,-
+357,10,Growth,7,normal,-,-
+357,11,Growth,7,normal,-,-
+357,12,Growth,7,normal,-,-
+357,13,Growth,7,normal,-,-
+357,14,Growth,7,normal,-,-
+357,15,Growth,7,normal,-,-
+357,16,Stomp,10,normal,65,100
+357,5,Razor Leaf,11,grass,55,95
+357,6,Razor Leaf,11,grass,55,95
+357,7,Razor Leaf,11,grass,55,95
+357,8,Razor Leaf,11,grass,55,95
+357,9,Razor Leaf,11,grass,55,95
+357,10,Razor Leaf,11,grass,55,95
+357,11,Razor Leaf,11,grass,55,95
+357,12,Razor Leaf,11,grass,55,95
+357,13,Razor Leaf,11,grass,55,95
+357,14,Razor Leaf,11,grass,55,95
+357,15,Razor Leaf,11,grass,55,95
+357,16,Magical Leaf,16,grass,60,-
+357,5,Stomp,17,normal,65,100
+357,6,Stomp,17,normal,65,100
+357,7,Stomp,17,normal,65,100
+357,8,Stomp,17,normal,65,100
+357,9,Stomp,17,normal,65,100
+357,10,Stomp,17,normal,65,100
+357,11,Stomp,17,normal,65,100
+357,12,Stomp,17,normal,65,100
+357,13,Stomp,17,normal,65,100
+357,14,Stomp,17,normal,65,100
+357,15,Stomp,17,normal,65,100
+357,5,Sweet Scent,21,normal,-,100
+357,6,Sweet Scent,21,normal,-,100
+357,7,Sweet Scent,21,normal,-,100
+357,8,Sweet Scent,21,normal,-,100
+357,9,Sweet Scent,21,normal,-,100
+357,10,Sweet Scent,21,normal,-,100
+357,11,Sweet Scent,21,normal,-,100
+357,12,Sweet Scent,21,normal,-,100
+357,13,Sweet Scent,21,normal,-,100
+357,14,Sweet Scent,21,normal,-,100
+357,15,Sweet Scent,21,normal,-,100
+357,16,Whirlwind,21,normal,-,-
+357,16,Leaf Tornado,26,grass,65,90
+357,5,Whirlwind,27,normal,-,-
+357,6,Whirlwind,27,normal,-,-
+357,7,Whirlwind,27,normal,-,-
+357,8,Whirlwind,27,normal,-,-
+357,9,Whirlwind,27,normal,-,-
+357,10,Whirlwind,27,normal,-,-
+357,11,Whirlwind,27,normal,-,-
+357,12,Whirlwind,27,normal,-,-
+357,13,Whirlwind,27,normal,-,-
+357,14,Whirlwind,27,normal,-,-
+357,15,Whirlwind,27,normal,-,-
+357,16,Natural Gift,30,normal,-,100
+357,5,Magical Leaf,31,grass,60,-
+357,6,Magical Leaf,31,grass,60,-
+357,7,Magical Leaf,31,grass,60,-
+357,8,Magical Leaf,31,grass,60,-
+357,9,Magical Leaf,31,grass,60,-
+357,10,Magical Leaf,31,grass,60,-
+357,11,Magical Leaf,31,grass,60,-
+357,12,Magical Leaf,31,grass,60,-
+357,13,Magical Leaf,31,grass,60,-
+357,14,Magical Leaf,31,grass,60,-
+357,15,Magical Leaf,31,grass,60,-
+357,16,Air Slash,36,flying,75,95
+357,5,Body Slam,37,normal,85,100
+357,6,Body Slam,37,normal,85,100
+357,7,Body Slam,37,normal,85,100
+357,8,Body Slam,37,normal,85,100
+357,9,Body Slam,37,normal,85,100
+357,10,Body Slam,37,normal,85,100
+357,11,Body Slam,37,normal,85,100
+357,12,Body Slam,37,normal,85,100
+357,13,Body Slam,37,normal,85,100
+357,14,Body Slam,37,normal,85,100
+357,15,Body Slam,37,normal,85,100
+357,5,Solar Beam,41,grass,120,100
+357,6,Solar Beam,41,grass,120,100
+357,7,Solar Beam,41,grass,120,100
+357,8,Synthesis,41,grass,-,-
+357,9,Synthesis,41,grass,-,-
+357,10,Synthesis,41,grass,-,-
+357,11,Synthesis,41,grass,-,-
+357,12,Solar Beam,41,grass,120,100
+357,13,Solar Beam,41,grass,120,100
+357,14,Synthesis,41,grass,-,-
+357,15,Synthesis,41,grass,-,-
+357,16,Body Slam,41,normal,85,100
+357,16,Bestow,46,normal,-,-
+357,5,Synthesis,47,grass,-,-
+357,6,Synthesis,47,grass,-,-
+357,7,Synthesis,47,grass,-,-
+357,8,Air Slash,47,flying,75,95
+357,9,Air Slash,47,flying,75,95
+357,10,Air Slash,47,flying,75,95
+357,11,Leaf Tornado,47,grass,65,90
+357,12,Synthesis,47,grass,-,-
+357,13,Synthesis,47,grass,-,-
+357,14,Leaf Tornado,47,grass,65,90
+357,15,Leaf Tornado,47,grass,65,90
+357,15,Air Slash,50,flying,75,95
+357,16,Synthesis,50,grass,-,-
+357,8,Solar Beam,51,grass,120,100
+357,9,Solar Beam,51,grass,120,100
+357,10,Solar Beam,51,grass,120,100
+357,11,Air Slash,51,flying,75,95
+357,14,Air Slash,51,flying,75,95
+357,16,Solar Beam,56,grass,120,100
+357,8,Natural Gift,57,normal,-,100
+357,9,Natural Gift,57,normal,-,100
+357,10,Natural Gift,57,normal,-,100
+357,11,Bestow,57,normal,-,-
+357,14,Bestow,57,normal,-,-
+357,15,Bestow,57,normal,-,-
+357,8,Leaf Storm,61,grass,130,90
+357,9,Leaf Storm,61,grass,130,90
+357,10,Leaf Storm,61,grass,130,90
+357,11,Solar Beam,61,grass,120,100
+357,14,Solar Beam,61,grass,120,100
+357,15,Solar Beam,61,grass,120,100
+357,16,Leaf Storm,61,grass,130,90
+357,11,Natural Gift,67,normal,-,100
+357,14,Natural Gift,67,normal,-,100
+357,15,Natural Gift,67,normal,-,100
+357,11,Leaf Storm,71,grass,130,90
+357,14,Leaf Storm,71,grass,130,90
+357,15,Leaf Storm,71,grass,130,90

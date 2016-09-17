@@ -1,0 +1,39 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+673,15,Tackle,1,normal,50,100
+673,15,Growth,1,normal,-,-
+673,15,Aerial Ace,1,flying,60,-
+673,16,Tackle,1,normal,50,100
+673,16,Growth,1,normal,-,-
+673,16,Aerial Ace,1,flying,60,-
+673,15,Vine Whip,7,grass,45,100
+673,16,Vine Whip,7,grass,45,100
+673,15,Tail Whip,9,normal,-,100
+673,16,Tail Whip,9,normal,-,100
+673,15,Leech Seed,12,grass,-,90
+673,16,Leech Seed,12,grass,-,90
+673,15,Razor Leaf,13,grass,55,95
+673,16,Razor Leaf,13,grass,55,95
+673,15,Worry Seed,16,grass,-,100
+673,16,Worry Seed,16,grass,-,100
+673,15,Synthesis,20,grass,-,-
+673,16,Synthesis,20,grass,-,-
+673,15,Take Down,22,normal,90,85
+673,16,Take Down,22,normal,90,85
+673,15,Bulldoze,26,ground,60,100
+673,16,Bulldoze,26,ground,60,100
+673,15,Seed Bomb,30,grass,80,100
+673,16,Seed Bomb,30,grass,80,100
+673,15,Bulk Up,34,fighting,-,-
+673,16,Bulk Up,34,fighting,-,-
+673,15,Double-Edge,40,normal,120,100
+673,16,Double-Edge,40,normal,120,100
+673,15,Horn Leech,47,grass,75,100
+673,16,Horn Leech,47,grass,75,100
+673,15,Leaf Blade,55,grass,90,100
+673,16,Leaf Blade,55,grass,90,100
+673,15,Milk Drink,58,normal,-,-
+673,16,Milk Drink,58,normal,-,-
+673,15,Earthquake,60,ground,100,100
+673,16,Earthquake,60,ground,100,100
+673,15,Aerial Ace,65,flying,60,-
+673,16,Aerial Ace,65,flying,60,-

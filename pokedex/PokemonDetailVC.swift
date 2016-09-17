@@ -592,6 +592,10 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     func initCries(_ formRef: Int) {
         
+        if UserDefaults.standard.bool(forKey: "AreSoundsEnabled") == false {
+            return
+        }
+        
         var path = ""
         
         if formRef != 0 && hasMegaCry.contains(pokemon.pokedexId) {

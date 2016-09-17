@@ -1,0 +1,105 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+103,1,Hypnosis,1,psychic,-,60
+103,1,Barrage,1,normal,15,85
+103,2,Hypnosis,1,psychic,-,60
+103,2,Barrage,1,normal,15,85
+103,3,Confusion,1,psychic,50,100
+103,3,Hypnosis,1,psychic,-,60
+103,3,Barrage,1,normal,15,85
+103,4,Confusion,1,psychic,50,100
+103,4,Hypnosis,1,psychic,-,60
+103,4,Barrage,1,normal,15,85
+103,5,Confusion,1,psychic,50,100
+103,5,Hypnosis,1,psychic,-,60
+103,5,Barrage,1,normal,15,85
+103,6,Confusion,1,psychic,50,100
+103,6,Hypnosis,1,psychic,-,60
+103,6,Barrage,1,normal,15,85
+103,7,Confusion,1,psychic,50,100
+103,7,Hypnosis,1,psychic,-,60
+103,7,Barrage,1,normal,15,85
+103,8,Stomp,1,normal,65,100
+103,8,Confusion,1,psychic,50,100
+103,8,Hypnosis,1,psychic,-,60
+103,8,Barrage,1,normal,15,85
+103,8,Seed Bomb,1,grass,80,100
+103,9,Stomp,1,normal,65,100
+103,9,Confusion,1,psychic,50,100
+103,9,Hypnosis,1,psychic,-,60
+103,9,Barrage,1,normal,15,85
+103,9,Seed Bomb,1,grass,80,100
+103,10,Stomp,1,normal,65,100
+103,10,Confusion,1,psychic,50,100
+103,10,Hypnosis,1,psychic,-,60
+103,10,Barrage,1,normal,15,85
+103,10,Seed Bomb,1,grass,80,100
+103,11,Stomp,1,normal,65,100
+103,11,Confusion,1,psychic,50,100
+103,11,Hypnosis,1,psychic,-,60
+103,11,Barrage,1,normal,15,85
+103,11,Seed Bomb,1,grass,80,100
+103,12,Confusion,1,psychic,50,100
+103,12,Hypnosis,1,psychic,-,60
+103,12,Barrage,1,normal,15,85
+103,13,Confusion,1,psychic,50,100
+103,13,Hypnosis,1,psychic,-,60
+103,13,Barrage,1,normal,15,85
+103,14,Stomp,1,normal,65,100
+103,14,Confusion,1,psychic,50,100
+103,14,Hypnosis,1,psychic,-,60
+103,14,Barrage,1,normal,15,85
+103,14,Seed Bomb,1,grass,80,100
+103,15,Stomp,1,normal,65,100
+103,15,Confusion,1,psychic,50,100
+103,15,Hypnosis,1,psychic,-,60
+103,15,Barrage,1,normal,15,85
+103,15,Seed Bomb,1,grass,80,100
+103,16,Stomp,1,normal,65,100
+103,16,Confusion,1,psychic,50,100
+103,16,Hypnosis,1,psychic,-,60
+103,16,Barrage,1,normal,15,85
+103,16,Seed Bomb,1,grass,80,100
+103,8,Stomp,17,normal,65,100
+103,9,Stomp,17,normal,65,100
+103,10,Stomp,17,normal,65,100
+103,11,Psyshock,17,psychic,80,100
+103,14,Psyshock,17,psychic,80,100
+103,15,Psyshock,17,psychic,80,100
+103,16,Psyshock,17,psychic,80,100
+103,3,Stomp,19,normal,65,100
+103,4,Stomp,19,normal,65,100
+103,5,Stomp,19,normal,65,100
+103,6,Stomp,19,normal,65,100
+103,7,Stomp,19,normal,65,100
+103,12,Stomp,19,normal,65,100
+103,13,Stomp,19,normal,65,100
+103,8,Egg Bomb,27,normal,100,75
+103,9,Egg Bomb,27,normal,100,75
+103,10,Egg Bomb,27,normal,100,75
+103,11,Egg Bomb,27,normal,100,75
+103,14,Egg Bomb,27,normal,100,75
+103,15,Egg Bomb,27,normal,100,75
+103,16,Egg Bomb,27,normal,100,75
+103,1,Stomp,28,normal,65,100
+103,2,Stomp,28,normal,65,100
+103,3,Egg Bomb,31,normal,100,75
+103,4,Egg Bomb,31,normal,100,75
+103,5,Egg Bomb,31,normal,100,75
+103,6,Egg Bomb,31,normal,100,75
+103,7,Egg Bomb,31,normal,100,75
+103,12,Egg Bomb,31,normal,100,75
+103,13,Egg Bomb,31,normal,100,75
+103,8,Wood Hammer,37,grass,120,100
+103,9,Wood Hammer,37,grass,120,100
+103,10,Wood Hammer,37,grass,120,100
+103,11,Wood Hammer,37,grass,120,100
+103,14,Wood Hammer,37,grass,120,100
+103,15,Wood Hammer,37,grass,120,100
+103,16,Wood Hammer,37,grass,120,100
+103,8,Leaf Storm,47,grass,130,90
+103,9,Leaf Storm,47,grass,130,90
+103,10,Leaf Storm,47,grass,130,90
+103,11,Leaf Storm,47,grass,130,90
+103,14,Leaf Storm,47,grass,130,90
+103,15,Leaf Storm,47,grass,130,90
+103,16,Leaf Storm,47,grass,130,90

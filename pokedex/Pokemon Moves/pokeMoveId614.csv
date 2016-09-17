@@ -1,0 +1,86 @@
+pokemon_id,version_group_id,move_name,level,type,power,accuracy
+614,11,Growl,1,normal,-,100
+614,11,Bide,1,normal,-,-
+614,11,Powder Snow,1,ice,40,100
+614,11,Icy Wind,1,ice,55,95
+614,11,Superpower,1,fighting,120,100
+614,14,Growl,1,normal,-,100
+614,14,Bide,1,normal,-,-
+614,14,Powder Snow,1,ice,40,100
+614,14,Icy Wind,1,ice,55,95
+614,14,Superpower,1,fighting,120,100
+614,14,Aqua Jet,1,water,40,100
+614,15,Thrash,1,normal,120,100
+614,15,Growl,1,normal,-,100
+614,15,Bide,1,normal,-,-
+614,15,Powder Snow,1,ice,40,100
+614,15,Icy Wind,1,ice,55,95
+614,15,Superpower,1,fighting,120,100
+614,15,Sheer Cold,1,ice,-,30
+614,15,Aqua Jet,1,water,40,100
+614,16,Thrash,1,normal,120,100
+614,16,Growl,1,normal,-,100
+614,16,Bide,1,normal,-,-
+614,16,Powder Snow,1,ice,40,100
+614,16,Icy Wind,1,ice,55,95
+614,16,Superpower,1,fighting,120,100
+614,16,Sheer Cold,1,ice,-,30
+614,16,Aqua Jet,1,water,40,100
+614,11,Growl,5,normal,-,100
+614,14,Growl,5,normal,-,100
+614,11,Bide,9,normal,-,-
+614,14,Bide,9,normal,-,-
+614,15,Play Nice,9,normal,-,-
+614,16,Play Nice,9,normal,-,-
+614,11,Icy Wind,13,ice,55,95
+614,14,Icy Wind,13,ice,55,95
+614,15,Icy Wind,13,ice,55,95
+614,16,Icy Wind,13,ice,55,95
+614,11,Fury Swipes,17,normal,18,80
+614,14,Fury Swipes,17,normal,18,80
+614,15,Fury Swipes,17,normal,18,80
+614,16,Fury Swipes,17,normal,18,80
+614,11,Brine,21,water,65,100
+614,14,Brine,21,water,65,100
+614,15,Brine,21,water,65,100
+614,16,Brine,21,water,65,100
+614,11,Endure,25,normal,-,-
+614,14,Endure,25,normal,-,-
+614,15,Endure,25,normal,-,-
+614,16,Endure,25,normal,-,-
+614,11,Swagger,29,normal,-,90
+614,14,Swagger,29,normal,-,90
+614,15,Swagger,29,normal,-,90
+614,16,Swagger,29,normal,-,90
+614,11,Slash,33,normal,70,100
+614,14,Slash,33,normal,70,100
+614,15,Slash,33,normal,70,100
+614,16,Slash,33,normal,70,100
+614,11,Flail,36,normal,-,100
+614,14,Flail,36,normal,-,100
+614,15,Flail,36,normal,-,100
+614,16,Flail,36,normal,-,100
+614,11,Icicle Crash,37,ice,85,90
+614,14,Icicle Crash,37,ice,85,90
+614,15,Icicle Crash,37,ice,85,90
+614,16,Icicle Crash,37,ice,85,90
+614,11,Rest,41,psychic,-,-
+614,14,Rest,41,psychic,-,-
+614,15,Rest,41,psychic,-,-
+614,16,Rest,41,psychic,-,-
+614,11,Blizzard,45,ice,110,70
+614,14,Blizzard,45,ice,110,70
+614,15,Blizzard,45,ice,110,70
+614,16,Blizzard,45,ice,110,70
+614,11,Hail,53,ice,-,-
+614,14,Hail,53,ice,-,-
+614,15,Hail,53,ice,-,-
+614,16,Hail,53,ice,-,-
+614,11,Thrash,59,normal,120,100
+614,14,Thrash,59,normal,120,100
+614,15,Thrash,59,normal,120,100
+614,16,Thrash,59,normal,120,100
+614,11,Sheer Cold,66,ice,-,30
+614,14,Sheer Cold,66,ice,-,30
+614,15,Sheer Cold,66,ice,-,30
+614,16,Sheer Cold,66,ice,-,30
