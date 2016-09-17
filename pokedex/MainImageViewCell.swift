@@ -12,7 +12,7 @@ class MainImageViewCell: UICollectionViewCell {
     
     @IBOutlet weak var mainImg: UIImageView!
     
-    func configureImageCell(pokedexRef: Int,formReference: Int) {
+    func configureImageCell(_ pokedexRef: Int,formReference: Int) {
         
         if formReference != 0 {
             mainImg.image = UIImage(named: "\(pokedexRef)hiform\(formReference)")

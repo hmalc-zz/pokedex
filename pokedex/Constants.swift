@@ -17,7 +17,7 @@ typealias DownloadCompe = () -> ()
 // MARK: Type Colors
 
 
-func assignColorToType(type: String, alpha: CGFloat) -> UIColor {
+func assignColorToType(_ type: String, alpha: CGFloat) -> UIColor {
     
     var colorList: [String] = ["Normal","Fighting","Flying","Poison","Ground","Rock","Bug","Ghost","Steel","Fire","Water","Grass","Electric","Psychic","Ice","Dragon","Dark","Fairy"]
     
@@ -53,7 +53,7 @@ func assignColorToType(type: String, alpha: CGFloat) -> UIColor {
 
 }
 
-func assignColoursToGame (gameReferenceId: Int) -> UIColor {
+func assignColoursToGame (_ gameReferenceId: Int) -> UIColor {
     
     //var gameVersionArray: [String] = ["Red","Blue","Yellow","Gold","Silver","Crystal","Ruby","Sapphire","Emerald","FireRed","LeafGreen","Diamond","Pearl","Platinum","HeartGold","SoulSilver","Black","White","Colosseum","XD","Black 2","White 2","X","Y","Omega Ruby","Alpha Sapphire"]
 
@@ -116,7 +116,7 @@ public var games: [String] = [
 
 public var gameVersionGen: [Int] = [1,1,2,2,3,3,3,4,4,4,5,3,3,5,6,6]
 
-public func returnMinGameGen (pokemonGeneration: Int) -> Int {
+public func returnMinGameGen (_ pokemonGeneration: Int) -> Int {
     
     switch pokemonGeneration {
     case 1: return 0
@@ -135,66 +135,6 @@ public var statsList: [String] = ["ID Number","Name","Height","Weight","HP","Att
 
 public var statsListAbbrev: [String] = ["ID","Name","HT","WT","HP","ATT","DEF","SAT","SDF","SPD","BS"]
 
-
-extension UIImage {
-    public func imageRotatedByDegrees(degrees: CGFloat, flip: Bool) -> UIImage {
-        let _: (CGFloat) -> CGFloat = {
-            return $0 * (180.0 / CGFloat(M_PI))
-        }
-        let degreesToRadians: (CGFloat) -> CGFloat = {
-            return $0 / 180.0 * CGFloat(M_PI)
-        }
-        
-        // calculate the size of the rotated view's containing box for our drawing space
-        let rotatedViewBox = UIView(frame: CGRect(origin: CGPointZero, size: size))
-        let t = CGAffineTransformMakeRotation(degreesToRadians(degrees));
-        rotatedViewBox.transform = t
-        let rotatedSize = rotatedViewBox.frame.size
-        
-        // Create the bitmap context
-        UIGraphicsBeginImageContext(rotatedSize)
-        let bitmap = UIGraphicsGetCurrentContext()
-        
-        // Move the origin to the middle of the image so we will rotate and scale around the center.
-        CGContextTranslateCTM(bitmap, rotatedSize.width / 2.0, rotatedSize.height / 2.0);
-        
-        //   // Rotate the image context
-        CGContextRotateCTM(bitmap, degreesToRadians(degrees));
-        
-        // Now, draw the rotated/scaled image into the context
-        var yFlip: CGFloat
-        
-        if(flip){
-            yFlip = CGFloat(-1.0)
-        } else {
-            yFlip = CGFloat(1.0)
-        }
-        
-        CGContextScaleCTM(bitmap, yFlip, -1.0)
-        CGContextDrawImage(bitmap, CGRectMake(-size.width / 2, -size.height / 2, size.width, size.height), CGImage)
-        
-        let newImage = UIGraphicsGetImageFromCurrentImageContext()
-        UIGraphicsEndImageContext()
-        
-        return newImage
-    }
-}
-
-extension UIView {
-    
-    func rotate360Degrees(duration: CFTimeInterval = 0.3, completionDelegate: AnyObject? = nil) {
-        let rotateAnimation = CABasicAnimation(keyPath: "transform.rotation")
-        rotateAnimation.fromValue = 0.0
-        rotateAnimation.toValue = CGFloat(M_PI * 2.0)
-        rotateAnimation.duration = duration
-        
-        if let delegate: AnyObject = completionDelegate {
-            rotateAnimation.delegate = delegate
-        }
-        self.layer.addAnimation(rotateAnimation, forKey: nil)
-    }
-}
-
 public extension UIDevice {
     
     var modelName: String {
@@ -202,7 +142,7 @@ public extension UIDevice {
         uname(&systemInfo)
         let machineMirror = Mirror(reflecting: systemInfo.machine)
         let identifier = machineMirror.children.reduce("") { identifier, element in
-            guard let value = element.value as? Int8 where value != 0 else { return identifier }
+            guard let value = element.value as? Int8 , value != 0 else { return identifier }
             return identifier + String(UnicodeScalar(UInt8(value)))
         }
         

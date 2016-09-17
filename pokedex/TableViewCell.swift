@@ -24,18 +24,18 @@ class TableViewCell: UITableViewCell {
         // Initialization code
     }
 
-    override func setSelected(selected: Bool, animated: Bool) {
+    override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
 
         // Configure the view for the selected state
     }
     
-    func configureMoves(moveTitle: String,Level: Int,typeName: String, powerLevel: String, accuracyLevel: String) {
+    func configureMoves(_ moveTitle: String,Level: Int,typeName: String, powerLevel: String, accuracyLevel: String) {
         
         moveName.text = moveTitle
         LevelLbl.text = "\(Level)"
-        typeLabel.text = typeName.capitalizedString
-        typeLabel.layer.backgroundColor = assignColorToType(typeName.capitalizedString, alpha: 1).CGColor
+        typeLabel.text = typeName.capitalized
+        typeLabel.layer.backgroundColor = assignColorToType(typeName.capitalized, alpha: 1).cgColor
         powerLabel.text = powerLevel
         if accuracyLevel != "-" {
             accuracyLabel.text = "\(accuracyLevel)%"

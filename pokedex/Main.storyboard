@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11201" systemVersion="16A319" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
         <!--About Legal-->
@@ -15,27 +16,24 @@
                         <viewControllerLayoutGuide type="bottom" id="tQG-c7-1Nk"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="z59-vE-IYm">
-                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logoColoured" translatesAutoresizingMaskIntoConstraints="NO" id="YcN-tG-92s">
-                                <rect key="frame" x="0.0" y="25" width="600" height="60"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="oOZ-MN-LYl"/>
                                 </constraints>
                             </imageView>
                             <stackView opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="gdJ-a0-zSK">
-                                <rect key="frame" x="20" y="480" width="560" height="100"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Rhr-az-5TY">
-                                        <rect key="frame" x="0.0" y="0.0" width="560" height="40"/>
-                                        <color key="backgroundColor" red="0.74418979880000002" green="0.023568831379999999" blue="0.25836595890000003" alpha="1" colorSpace="calibratedRGB"/>
+                                        <color key="backgroundColor" red="0.74418979880000002" green="0.023568831379999999" blue="0.25836595890000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="40" id="Efy-cj-pbd"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="17"/>
                                         <state key="normal" title="Send Feedback">
-                                            <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </state>
                                         <userDefinedRuntimeAttributes>
                                             <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -43,18 +41,17 @@
                                             </userDefinedRuntimeAttribute>
                                         </userDefinedRuntimeAttributes>
                                         <connections>
-                                            <action selector="sendEmailButtonTapped:" destination="6d2-w5-Lhe" eventType="touchUpInside" id="vlH-Vs-vLB"/>
+                                            <action selector="sendEmailButtonTappedWithSender:" destination="6d2-w5-Lhe" eventType="touchUpInside" id="lFx-vB-yxk"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="X9T-kH-2h0">
-                                        <rect key="frame" x="0.0" y="60" width="560" height="40"/>
-                                        <color key="backgroundColor" red="0.74418979880000002" green="0.023568831379999999" blue="0.25836595890000003" alpha="1" colorSpace="calibratedRGB"/>
+                                        <color key="backgroundColor" red="0.74418979880000002" green="0.023568831379999999" blue="0.25836595890000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="40" id="S2A-PE-7V9"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="17"/>
                                         <state key="normal" title="Developer Site">
-                                            <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </state>
                                         <userDefinedRuntimeAttributes>
                                             <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -62,42 +59,37 @@
                                             </userDefinedRuntimeAttribute>
                                         </userDefinedRuntimeAttributes>
                                         <connections>
-                                            <action selector="developerSite:" destination="6d2-w5-Lhe" eventType="touchUpInside" id="bBq-Sg-IeV"/>
+                                            <action selector="developerSiteWithSender:" destination="6d2-w5-Lhe" eventType="touchUpInside" id="5xx-vY-dyt"/>
                                         </connections>
                                     </button>
                                 </subviews>
                             </stackView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="About" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fDX-CH-jDe">
-                                <rect key="frame" x="25" y="95" width="47" height="20.5"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="About" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fDX-CH-jDe">
                                 <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="20"/>
-                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0hy-wt-uYb">
-                                <rect key="frame" x="8" y="40.5" width="60" height="29"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="29" id="Awm-Sp-FgI"/>
                                     <constraint firstAttribute="width" constant="60" id="NpN-zm-ZwU"/>
                                 </constraints>
                                 <state key="normal" title="Button" image="downColour"/>
                                 <connections>
-                                    <action selector="dismissLegal:" destination="6d2-w5-Lhe" eventType="touchUpInside" id="OsA-Ro-6zp"/>
+                                    <action selector="dismissLegalWithSender:" destination="6d2-w5-Lhe" eventType="touchUpInside" id="LYP-be-GWt"/>
                                 </connections>
                             </button>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1sf-WK-swL">
-                                <rect key="frame" x="20" y="131.5" width="560" height="328.5"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1sf-WK-swL">
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <mutableString key="text">This app uses data and images derived from the Pokemon series of video games. Terminology from the game franchise is used as is necessary within the software itself. This constitutes the intellectual property of Nintendo Co., Ltd., Creatures, Inc and GAME FREAK, Inc as is protected by various copyrights and trademarks. I believe that the use of this intellectual property for a fan reference is covered by fair use and that the software is significantly impaired without aforementioned properties included.
 
 Dexly began as a concept from Mark Price's Udemy course "iOS9 and Swift 2": www.devslopes.com
 
 A majority of data used within Dexly is sourced from Veekun's Pokemon database: http://veekun.com
 
-The Dexly logo uses the font 'Pacifico' by Vernon Adams: http://www.fontsquirrel.com/fonts/pacifico
+The Dexly logo uses the font 'Pacifico' by Vernon Adams: http://www.fontsquirrel.com/fonts/pacifico.
 
-Expect addition of all new 7th Gen Pokemon with the release of Sun and Moon holiday 2016.
-
-Thank you for downloading dexly! I hope you enjoy it. Please send me any issues you have and ideas about how to make it better.
+Dexly was the first app I built and it literally launched my career as a developer. I love it very it much. Unfortunately I find myself extremely busy and at this time I'm limited to fixing bugs. If you're interested in working with me to take Dexly to the next level please reach out :)
 
 - Hayden
 
@@ -107,7 +99,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                 <dataDetectorType key="dataDetectorTypes" link="YES"/>
                             </textView>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="gdJ-a0-zSK" firstAttribute="top" secondItem="1sf-WK-swL" secondAttribute="bottom" constant="20" id="FPb-TC-Ny6"/>
                             <constraint firstItem="gdJ-a0-zSK" firstAttribute="leading" secondItem="z59-vE-IYm" secondAttribute="leadingMargin" id="I1X-cZ-LTR"/>
@@ -133,7 +125,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="XW7-uz-4Cc" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="129" y="-333"/>
+            <point key="canvasLocation" x="69" y="-211"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
@@ -144,40 +136,33 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cZJ-2l-Kp4">
-                                <rect key="frame" x="0.0" y="0.0" width="600" height="65"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="detailDisclosure" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mKm-Xg-SiJ">
-                                        <rect key="frame" x="20" y="32" width="22" height="22"/>
-                                        <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <connections>
-                                            <segue destination="6d2-w5-Lhe" kind="popoverPresentation" popoverAnchorView="mKm-Xg-SiJ" id="NC1-oW-KZn">
-                                                <popoverArrowDirection key="popoverArrowDirection" up="YES" down="YES" left="YES" right="YES"/>
-                                            </segue>
+                                            <segue destination="6d2-w5-Lhe" kind="show" id="gj2-2A-r1C"/>
                                         </connections>
                                     </button>
                                 </subviews>
-                                <color key="backgroundColor" red="0.93333333333333335" green="0.0039215686274509803" blue="0.31764705882352939" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.93333333333333335" green="0.0039215686274509803" blue="0.31764705882352939" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstItem="mKm-Xg-SiJ" firstAttribute="leading" secondItem="cZJ-2l-Kp4" secondAttribute="leading" constant="20" id="7Rk-ey-nuF"/>
                                     <constraint firstAttribute="height" constant="65" id="LNc-vf-JNO"/>
                                 </constraints>
                             </view>
                             <searchBar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="redraw" text="" placeholder="Filter by Name, Type or Gen No." backgroundImage="darkerpink" translatesAutoresizingMaskIntoConstraints="NO" id="vMT-dB-Xdp">
-                                <rect key="frame" x="0.0" y="64" width="600" height="44"/>
-                                <color key="backgroundColor" red="1" green="0.46147564460000001" blue="0.4856706663" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="tintColor" red="1" green="0.46147564460000001" blue="0.4856706663" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="1" green="0.46147564460000001" blue="0.4856706663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="tintColor" red="1" green="0.46147564460000001" blue="0.4856706663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <offsetWrapper key="searchTextPositionAdjustment" horizontal="0.0" vertical="0.0"/>
                                 <textInputTraits key="textInputTraits" autocorrectionType="no" spellCheckingType="no" keyboardAppearance="light" returnKeyType="go"/>
                             </searchBar>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="l2G-YG-bzH">
-                                <rect key="frame" x="0.0" y="108" width="600" height="44"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9Fx-AA-8v2">
-                                        <rect key="frame" x="535" y="-7" width="45" height="45"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="45" id="Jbz-ra-qw6"/>
                                             <constraint firstAttribute="width" constant="45" id="g48-Nq-DIU"/>
@@ -192,15 +177,13 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                         </connections>
                                     </button>
                                     <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="triangleUp" translatesAutoresizingMaskIntoConstraints="NO" id="Hhc-Sy-e3o">
-                                        <rect key="frame" x="548" y="10" width="18" height="18"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="18" id="lXy-1S-kTY"/>
                                             <constraint firstAttribute="width" constant="18" id="z2M-fg-rh2"/>
                                         </constraints>
                                     </imageView>
                                     <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5cm-hn-cxv">
-                                        <rect key="frame" x="7.5" y="4" width="120" height="30"/>
-                                        <color key="backgroundColor" red="0.8661930229306487" green="0.0039215686274509803" blue="0.31764705882352939" alpha="1" colorSpace="calibratedRGB"/>
+                                        <color key="backgroundColor" red="0.8661930229306487" green="0.0039215686274509803" blue="0.31764705882352939" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstAttribute="width" constant="120" id="fVU-FG-AIj"/>
                                             <constraint firstAttribute="height" constant="30" id="ybt-yX-Q4U"/>
@@ -215,16 +198,15 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                         </connections>
                                     </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sort" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="md8-ti-2HX">
-                                        <rect key="frame" x="8" y="10.5" width="120" height="17"/>
                                         <constraints>
                                             <constraint firstAttribute="width" constant="120" id="WCH-ID-rvs"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="14"/>
-                                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                 </subviews>
-                                <color key="backgroundColor" red="0.93356943130000003" green="0.0020183771850000001" blue="0.31842330099999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.93356943130000003" green="0.0020183771850000001" blue="0.31842330099999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstItem="md8-ti-2HX" firstAttribute="centerY" secondItem="5cm-hn-cxv" secondAttribute="centerY" id="8VU-CU-Bmm"/>
                                     <constraint firstItem="md8-ti-2HX" firstAttribute="centerY" secondItem="l2G-YG-bzH" secondAttribute="centerY" constant="-3" id="DLW-iD-g1y"/>
@@ -238,20 +220,16 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                 </constraints>
                             </view>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dexlyLogo" translatesAutoresizingMaskIntoConstraints="NO" id="ICN-g0-j6E">
-                                <rect key="frame" x="250" y="19" width="100" height="49"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="100" id="cxp-yx-rwt"/>
                                     <constraint firstAttribute="height" constant="49" id="sjY-nH-cPM"/>
                                 </constraints>
                             </imageView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="q4p-LP-v1L">
-                                <rect key="frame" x="0.0" y="152" width="600" height="0.0"/>
                                 <subviews>
-                                    <scrollView clipsSubviews="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" translatesAutoresizingMaskIntoConstraints="NO" id="POZ-Lu-CFw">
-                                        <rect key="frame" x="0.0" y="0.0" width="600" height="0.0"/>
-                                    </scrollView>
+                                    <scrollView clipsSubviews="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" translatesAutoresizingMaskIntoConstraints="NO" id="POZ-Lu-CFw"/>
                                 </subviews>
-                                <color key="backgroundColor" red="0.96862745098039216" green="0.96862745098039216" blue="0.96862745098039216" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.96862745098039216" green="0.96862745098039216" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" id="2wK-2o-D3i"/>
                                     <constraint firstAttribute="bottom" secondItem="POZ-Lu-CFw" secondAttribute="bottom" id="6H2-oI-Wcq"/>
@@ -269,8 +247,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                 </variation>
                             </view>
                             <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="tjR-SZ-ePd">
-                                <rect key="frame" x="20" y="172" width="560" height="384"/>
-                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                                 <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="aPx-jW-Ohg">
                                     <size key="itemSize" width="140" height="140"/>
                                     <size key="headerReferenceSize" width="0.0" height="0.0"/>
@@ -285,24 +262,20 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                             <rect key="frame" x="0.0" y="0.0" width="140" height="140"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" semanticContentAttribute="spatial" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="76" translatesAutoresizingMaskIntoConstraints="NO" id="Hgv-da-FyS">
-                                                    <rect key="frame" x="0.0" y="0.0" width="140" height="120"/>
-                                                </imageView>
+                                                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" semanticContentAttribute="spatial" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="76" translatesAutoresizingMaskIntoConstraints="NO" id="Hgv-da-FyS"/>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="s9Z-5B-2K1">
-                                                    <rect key="frame" x="0.0" y="120" width="140" height="20"/>
-                                                    <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                                    <color key="tintColor" red="1" green="0.45882352939999999" blue="0.48627450979999998" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                    <color key="tintColor" red="1" green="0.45882352939999999" blue="0.48627450979999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                     <constraints>
                                                         <constraint firstAttribute="height" constant="20" id="Yx2-rS-xe9"/>
                                                     </constraints>
                                                     <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="14"/>
-                                                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
-                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                         </view>
-                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstItem="Hgv-da-FyS" firstAttribute="top" secondItem="D10-zG-qJ4" secondAttribute="top" id="Cr6-wK-n5K"/>
                                             <constraint firstAttribute="trailing" secondItem="Hgv-da-FyS" secondAttribute="trailing" id="Lwz-pe-FLN"/>
@@ -320,7 +293,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                 </cells>
                             </collectionView>
                         </subviews>
-                        <color key="backgroundColor" red="0.96862745098039216" green="0.96862745098039216" blue="0.96862745098039216" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.96862745098039216" green="0.96862745098039216" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="tjR-SZ-ePd" firstAttribute="top" secondItem="q4p-LP-v1L" secondAttribute="bottom" constant="20" id="5YO-Wi-n5h"/>
                             <constraint firstAttribute="trailing" secondItem="l2G-YG-bzH" secondAttribute="trailing" id="B8s-Oy-tgk"/>
@@ -368,7 +341,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="139" y="369"/>
+            <point key="canvasLocation" x="-1194" y="100"/>
         </scene>
         <!--Pokemon DetailVC-->
         <scene sceneID="ip5-dK-FaS">
@@ -383,48 +356,40 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" translatesAutoresizingMaskIntoConstraints="NO" id="nYJ-WG-Gp4">
-                                <rect key="frame" x="0.0" y="0.0" width="600" height="1500"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dHo-S6-Gzl">
-                                        <rect key="frame" x="0.0" y="0.0" width="600" height="1687"/>
                                         <subviews>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rY0-N2-Jvy">
-                                                <rect key="frame" x="0.0" y="255" width="600" height="160"/>
                                                 <subviews>
                                                     <stackView opaque="NO" contentMode="scaleToFill" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="Noq-4b-YRn">
-                                                        <rect key="frame" x="20" y="10" width="560" height="30"/>
                                                         <subviews>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6ZC-hd-fvz">
-                                                                <rect key="frame" x="0.0" y="0.0" width="50" height="30"/>
                                                                 <constraints>
                                                                     <constraint firstAttribute="width" constant="50" id="udV-RN-7m2"/>
                                                                 </constraints>
                                                                 <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="17"/>
-                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="BIP-dO-qIx">
-                                                                <rect key="frame" x="55" y="0.0" width="365" height="30"/>
                                                                 <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="17"/>
-                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9f0-Lq-xiD">
-                                                                <rect key="frame" x="425" y="0.0" width="65" height="30"/>
                                                                 <constraints>
                                                                     <constraint firstAttribute="width" constant="65" id="oPB-qZ-avO"/>
                                                                 </constraints>
                                                                 <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="13"/>
-                                                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BhN-PV-csh">
-                                                                <rect key="frame" x="495" y="0.0" width="65" height="30"/>
                                                                 <constraints>
                                                                     <constraint firstAttribute="width" constant="65" id="zdQ-Px-Lwb"/>
                                                                 </constraints>
                                                                 <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="13"/>
-                                                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                         </subviews>
@@ -433,20 +398,18 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         </constraints>
                                                     </stackView>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="git-PZ-9sS">
-                                                        <rect key="frame" x="8" y="50" width="584" height="2"/>
-                                                        <color key="backgroundColor" red="1" green="0.1764705882" blue="0.33333333329999998" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="1" green="0.1764705882" blue="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="2" id="TmY-lW-xXh"/>
                                                             <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="2" id="YV4-kD-mwu"/>
                                                         </constraints>
                                                     </view>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="justified" lineBreakMode="tailTruncation" numberOfLines="5" baselineAdjustment="alignBaselines" minimumFontSize="8" translatesAutoresizingMaskIntoConstraints="NO" id="I2f-ug-Fba">
-                                                        <rect key="frame" x="20" y="96" width="560" height="56"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="125" id="o1B-Le-LrS"/>
                                                         </constraints>
                                                         <fontDescription key="fontDescription" name="GillSans-Light" family="Gill Sans" pointSize="15"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                         <variation key="default">
                                                             <mask key="constraints">
@@ -455,13 +418,12 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         </variation>
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Bn-8n-PhE">
-                                                        <rect key="frame" x="445" y="62" width="135" height="30.5"/>
                                                         <constraints>
                                                             <constraint firstAttribute="width" constant="110" id="Det-1m-bAR"/>
                                                             <constraint firstAttribute="width" constant="135" id="TpC-sQ-pgF"/>
                                                         </constraints>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="14"/>
-                                                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                        <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                         <variation key="default">
                                                             <mask key="constraints">
@@ -470,23 +432,21 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         </variation>
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Description" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="p5R-L1-eDi">
-                                                        <rect key="frame" x="20" y="62" width="417" height="30"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="30" id="r2o-vW-igj"/>
                                                         </constraints>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="17"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KPg-4O-Bdw">
-                                                        <rect key="frame" x="445" y="62" width="135" height="30.5"/>
                                                         <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="13"/>
                                                         <connections>
                                                             <action selector="changeDexEntry:" destination="HOP-Jb-BQg" eventType="touchUpInside" id="ms1-c2-4A1"/>
                                                         </connections>
                                                     </button>
                                                 </subviews>
-                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
                                                     <constraint firstItem="KPg-4O-Bdw" firstAttribute="leading" secondItem="9Bn-8n-PhE" secondAttribute="leading" id="4IA-Vq-PTi"/>
                                                     <constraint firstItem="p5R-L1-eDi" firstAttribute="leading" secondItem="Noq-4b-YRn" secondAttribute="leading" id="5wZ-DO-Fhe"/>
@@ -517,198 +477,171 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                 </constraints>
                                                 <variation key="default">
                                                     <mask key="constraints">
+                                                        <exclude reference="RWG-By-JUL"/>
                                                         <exclude reference="YAI-el-jq5"/>
                                                         <exclude reference="kCr-cQ-s9r"/>
-                                                        <exclude reference="RWG-By-JUL"/>
                                                     </mask>
                                                 </variation>
                                             </view>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8W1-YM-enm">
-                                                <rect key="frame" x="0.0" y="655" width="600" height="180"/>
                                                 <subviews>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="HP" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qyL-NT-7y0">
-                                                        <rect key="frame" x="20" y="40" width="30" height="15"/>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="ATK" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="r9J-WL-PuK">
-                                                        <rect key="frame" x="20" y="63" width="30" height="15"/>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="DEF" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4AV-gr-gEA">
-                                                        <rect key="frame" x="20" y="85.5" width="30" height="15"/>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="SAT" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ha5-EE-Cds">
-                                                        <rect key="frame" x="20" y="108" width="30" height="15"/>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="SDF" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="t2b-V7-6Wu">
-                                                        <rect key="frame" x="20" y="130.5" width="30" height="15"/>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="i1c-ne-qSI">
-                                                        <rect key="frame" x="96" y="45" width="484" height="5"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="5" id="Suu-tU-5gc"/>
                                                         </constraints>
                                                     </view>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="K3e-C1-tv8">
-                                                        <rect key="frame" x="96" y="90.5" width="484" height="5"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="5" id="JdY-Nq-ON9"/>
                                                         </constraints>
                                                     </view>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gK9-kO-It7">
-                                                        <rect key="frame" x="96" y="113" width="484" height="5"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="5" id="Mie-g7-TZi"/>
                                                         </constraints>
                                                     </view>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="VCd-C0-4pa">
-                                                        <rect key="frame" x="96" y="135.5" width="484" height="5"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="5" id="igX-Ye-KXe"/>
                                                         </constraints>
                                                     </view>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bII-2l-Ioj">
-                                                        <rect key="frame" x="96" y="158" width="484" height="5"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="5" id="a4T-ul-aXG"/>
                                                         </constraints>
                                                     </view>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="SPD" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BIO-If-VsP">
-                                                        <rect key="frame" x="20" y="153" width="30" height="15"/>
                                                         <constraints>
                                                             <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="30" id="9OB-4k-LaN"/>
                                                             <constraint firstAttribute="width" constant="30" id="dd7-tw-l0q"/>
                                                         </constraints>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="e4w-Zo-lUr">
-                                                        <rect key="frame" x="58" y="40" width="30" height="15"/>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="de9-Pw-HEo">
-                                                        <rect key="frame" x="96" y="68" width="484" height="5"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="5" id="d9h-RP-vlB"/>
                                                         </constraints>
                                                     </view>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eAc-AB-NQj">
-                                                        <rect key="frame" x="58" y="63.5" width="30" height="15"/>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ym2-Zy-EVj">
-                                                        <rect key="frame" x="58" y="87" width="30" height="15"/>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ejB-NP-IQb">
-                                                        <rect key="frame" x="58" y="109.5" width="30" height="15"/>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0DG-QZ-ptp">
-                                                        <rect key="frame" x="58" y="133" width="30" height="15"/>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jhw-8h-ecj">
-                                                        <rect key="frame" x="58" y="155.5" width="30" height="15"/>
                                                         <constraints>
                                                             <constraint firstAttribute="width" constant="30" id="Hnu-rA-rdj"/>
                                                         </constraints>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="1KN-xf-1vH">
-                                                        <rect key="frame" x="96" y="45" width="250" height="5"/>
-                                                        <color key="backgroundColor" red="1" green="0.1764705882" blue="0.33333333329999998" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="1" green="0.1764705882" blue="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="5" id="0ei-Cu-YSg"/>
                                                             <constraint firstAttribute="width" constant="250" placeholder="YES" id="5dM-Jw-NCY"/>
                                                         </constraints>
                                                     </view>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Swy-zd-bgp">
-                                                        <rect key="frame" x="96" y="68" width="250" height="5"/>
-                                                        <color key="backgroundColor" red="0.0" green="1" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="0.0" green="1" blue="0.50196081400000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="5" id="IE0-Zc-RGC"/>
                                                             <constraint firstAttribute="width" constant="250" placeholder="YES" id="hd1-Gc-nZz"/>
                                                         </constraints>
                                                     </view>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="uEe-Qb-nx9">
-                                                        <rect key="frame" x="96" y="90.5" width="250" height="5"/>
-                                                        <color key="backgroundColor" red="0.40000000600000002" green="0.80000001190000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="0.40000000600000002" green="0.80000001190000003" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="width" constant="250" placeholder="YES" id="D1b-l8-kyu"/>
                                                             <constraint firstAttribute="height" constant="5" id="ZEg-af-VJS"/>
                                                         </constraints>
                                                     </view>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="1YW-qc-yIT">
-                                                        <rect key="frame" x="96" y="113" width="250" height="5"/>
-                                                        <color key="backgroundColor" red="1" green="0.40000000600000002" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="1" green="0.40000000600000002" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="5" id="Mrk-2P-Bcj"/>
                                                             <constraint firstAttribute="width" constant="250" placeholder="YES" id="Ou5-1R-yzh"/>
                                                         </constraints>
                                                     </view>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cif-hy-wfE">
-                                                        <rect key="frame" x="96" y="135.5" width="250" height="5"/>
-                                                        <color key="backgroundColor" red="1" green="0.50196081400000003" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="1" green="0.50196081400000003" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="width" constant="250" placeholder="YES" id="Gtn-wE-mhs"/>
                                                             <constraint firstAttribute="height" constant="5" id="b0N-el-GUK"/>
                                                         </constraints>
                                                     </view>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="QNL-5O-LJ7">
-                                                        <rect key="frame" x="96" y="158" width="250" height="5"/>
-                                                        <color key="backgroundColor" red="1" green="0.0" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="1" green="0.0" blue="0.50196081400000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="5" id="RXr-Uk-q5y"/>
                                                             <constraint firstAttribute="width" constant="250" placeholder="YES" id="hPf-wQ-Dtj"/>
                                                         </constraints>
                                                     </view>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Base Stats" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="I7l-t1-7ow">
-                                                        <rect key="frame" x="20" y="10" width="69.5" height="20"/>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="17"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="600" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="btE-uC-ajf">
-                                                        <rect key="frame" x="552.5" y="10" width="27" height="20.5"/>
                                                         <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="17"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                 </subviews>
-                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
                                                     <constraint firstItem="I7l-t1-7ow" firstAttribute="leading" secondItem="8W1-YM-enm" secondAttribute="leading" constant="20" id="0pB-RR-bzg"/>
                                                     <constraint firstItem="Jhw-8h-ecj" firstAttribute="top" secondItem="0DG-QZ-ptp" secondAttribute="bottom" constant="8" id="2Vb-7K-XUl"/>
@@ -790,42 +723,31 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                 </constraints>
                                             </view>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="LTP-sj-s7d">
-                                                <rect key="frame" x="0.0" y="535" width="600" height="120"/>
                                                 <subviews>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Evolution" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qzi-jQ-Tbf">
-                                                        <rect key="frame" x="20" y="8" width="128" height="30"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="30" id="liE-ps-nG8"/>
                                                             <constraint firstAttribute="width" constant="128" id="oKY-yk-AA6"/>
                                                         </constraints>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="17"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="8Ki-H1-3RZ">
-                                                        <rect key="frame" x="20" y="43" width="560" height="72"/>
                                                         <subviews>
-                                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="DZW-TD-1en">
-                                                                <rect key="frame" x="0.0" y="0.0" width="108" height="72"/>
-                                                            </imageView>
+                                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="DZW-TD-1en"/>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" minimumFontSize="5" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="UaI-5T-bJE">
-                                                                <rect key="frame" x="113" y="0.0" width="108" height="72"/>
                                                                 <fontDescription key="fontDescription" name="GillSans-Light" family="Gill Sans" pointSize="10"/>
-                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
-                                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ckE-KJ-uvS">
-                                                                <rect key="frame" x="226" y="0.0" width="108" height="72"/>
-                                                            </imageView>
+                                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ckE-KJ-uvS"/>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" minimumFontSize="5" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ANg-k9-L1O">
-                                                                <rect key="frame" x="339" y="0.0" width="108" height="72"/>
                                                                 <fontDescription key="fontDescription" name="GillSans-Light" family="Gill Sans" pointSize="10"/>
-                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
-                                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="DpR-tQ-TGK">
-                                                                <rect key="frame" x="452" y="0.0" width="108" height="72"/>
-                                                            </imageView>
+                                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="DpR-tQ-TGK"/>
                                                         </subviews>
                                                         <constraints>
                                                             <constraint firstItem="ckE-KJ-uvS" firstAttribute="width" secondItem="DZW-TD-1en" secondAttribute="width" id="R1B-AP-fFU"/>
@@ -837,9 +759,8 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         </variation>
                                                     </stackView>
                                                     <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" alpha="0.10000000000000001" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" adjustsImageWhenHighlighted="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bWy-iD-Nna" userLabel="PrevEvo">
-                                                        <rect key="frame" x="20" y="43" width="108" height="72"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
-                                                        <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                        <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <state key="highlighted" image="red" backgroundImage="red"/>
                                                         <userDefinedRuntimeAttributes>
                                                             <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -851,9 +772,8 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" alpha="0.10000000000000001" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" adjustsImageWhenHighlighted="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qgQ-EA-MVa" userLabel="NextEvo">
-                                                        <rect key="frame" x="472" y="43" width="108" height="72"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
-                                                        <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                        <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <state key="highlighted" image="red" backgroundImage="red"/>
                                                         <userDefinedRuntimeAttributes>
                                                             <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -865,9 +785,8 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" alpha="0.10000000000000001" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" adjustsImageWhenHighlighted="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ay3-TX-Cdh" userLabel="CurrEvo">
-                                                        <rect key="frame" x="246" y="43" width="108" height="72"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
-                                                        <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                        <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <state key="highlighted" image="red" backgroundImage="red"/>
                                                         <userDefinedRuntimeAttributes>
                                                             <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -879,7 +798,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         </connections>
                                                     </button>
                                                 </subviews>
-                                                <color key="backgroundColor" red="0.98039215690000003" green="0.98039215690000003" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                                <color key="backgroundColor" red="0.98039215690000003" green="0.98039215690000003" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
                                                     <constraint firstItem="bWy-iD-Nna" firstAttribute="leading" secondItem="DZW-TD-1en" secondAttribute="leading" id="0E0-0U-842"/>
                                                     <constraint firstItem="ay3-TX-Cdh" firstAttribute="leading" secondItem="ckE-KJ-uvS" secondAttribute="leading" id="3Vv-WH-3Ul"/>
@@ -913,60 +832,51 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                 </variation>
                                             </view>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="QgR-FD-PxZ">
-                                                <rect key="frame" x="0.0" y="835" width="600" height="300"/>
                                                 <subviews>
                                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="hiL-41-iRb">
-                                                        <rect key="frame" x="20" y="48" width="560" height="244"/>
                                                         <subviews>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xs7-g8-S0d">
-                                                                <rect key="frame" x="0.0" y="0.0" width="560" height="36.5"/>
                                                                 <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" minimumFontSize="8" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="vIq-VD-fuh">
-                                                                <rect key="frame" x="0.0" y="41.5" width="560" height="36.5"/>
                                                                 <fontDescription key="fontDescription" name="GillSans-Light" family="Gill Sans" pointSize="13"/>
-                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nKq-bz-Fqc">
-                                                                <rect key="frame" x="0.0" y="83" width="560" height="36.5"/>
                                                                 <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" minimumFontSize="8" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Ztb-KL-EMz">
-                                                                <rect key="frame" x="0.0" y="124.5" width="560" height="36.5"/>
                                                                 <fontDescription key="fontDescription" name="GillSans-Light" family="Gill Sans" pointSize="13"/>
-                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="01L-RG-4Qt">
-                                                                <rect key="frame" x="0.0" y="166" width="560" height="36.5"/>
                                                                 <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" minimumFontSize="8" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ds1-sa-vUw">
-                                                                <rect key="frame" x="0.0" y="207.5" width="560" height="36.5"/>
                                                                 <fontDescription key="fontDescription" name="GillSans-Light" family="Gill Sans" pointSize="13"/>
-                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                         </subviews>
                                                     </stackView>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Ability" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2vu-4F-KgE">
-                                                        <rect key="frame" x="20" y="8" width="44.5" height="30"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="30" id="Vfc-bH-xVq"/>
                                                         </constraints>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="17"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                 </subviews>
-                                                <color key="backgroundColor" red="0.98039215690000003" green="0.98039215690000003" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                                <color key="backgroundColor" red="0.98039215690000003" green="0.98039215690000003" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
                                                     <constraint firstItem="hiL-41-iRb" firstAttribute="leading" secondItem="QgR-FD-PxZ" secondAttribute="leading" constant="20" id="8u0-O2-Ib7"/>
                                                     <constraint firstAttribute="height" constant="300" id="F4H-Fd-3CZ"/>
@@ -978,8 +888,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                 </constraints>
                                             </view>
                                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" scrollEnabled="NO" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="l6E-kV-acu">
-                                                <rect key="frame" x="0.0" y="1197" width="600" height="490"/>
-                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="490" id="X5V-qg-chm"/>
                                                 </constraints>
@@ -988,41 +897,37 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         <rect key="frame" x="0.0" y="28" width="600" height="44"/>
                                                         <autoresizingMask key="autoresizingMask"/>
                                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Xux-SW-sqd" id="gvH-4u-aE7">
-                                                            <rect key="frame" x="0.0" y="0.0" width="600" height="43.5"/>
+                                                            <frame key="frameInset" width="600" height="43"/>
                                                             <autoresizingMask key="autoresizingMask"/>
                                                             <subviews>
                                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="Zr2-Rn-r6a">
-                                                                    <rect key="frame" x="20" y="14" width="385" height="16.5"/>
                                                                     <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="14"/>
-                                                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                     <nil key="highlightedColor"/>
                                                                 </label>
                                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="100%" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YJX-Sc-tFR">
-                                                                    <rect key="frame" x="510" y="14" width="38" height="17"/>
                                                                     <constraints>
                                                                         <constraint firstAttribute="width" constant="38" id="pnx-eA-9cq"/>
                                                                     </constraints>
                                                                     <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="14"/>
-                                                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                     <nil key="highlightedColor"/>
                                                                 </label>
                                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="120" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ljN-HZ-8fe">
-                                                                    <rect key="frame" x="475" y="14" width="30" height="17"/>
                                                                     <constraints>
                                                                         <constraint firstAttribute="width" constant="30" id="gO6-pO-xT6"/>
                                                                     </constraints>
                                                                     <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="14"/>
-                                                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                     <nil key="highlightedColor"/>
                                                                 </label>
                                                                 <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Fighting" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="l1T-0B-6w0">
-                                                                    <rect key="frame" x="410" y="9" width="58" height="25"/>
                                                                     <constraints>
                                                                         <constraint firstAttribute="width" constant="58" id="2Yz-Kg-8eU"/>
                                                                         <constraint firstAttribute="height" constant="25" id="zh4-1L-6q0"/>
                                                                     </constraints>
                                                                     <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="13"/>
-                                                                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                     <nil key="highlightedColor"/>
                                                                     <userDefinedRuntimeAttributes>
                                                                         <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -1031,12 +936,11 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                                     </userDefinedRuntimeAttributes>
                                                                 </label>
                                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="100" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E8n-I6-Nrd">
-                                                                    <rect key="frame" x="555" y="13" width="25" height="17"/>
                                                                     <constraints>
                                                                         <constraint firstAttribute="width" constant="25" id="NVu-qs-N5Z"/>
                                                                     </constraints>
                                                                     <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="14"/>
-                                                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                     <nil key="highlightedColor"/>
                                                                 </label>
                                                             </subviews>
@@ -1066,8 +970,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                 </prototypes>
                                             </tableView>
                                             <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" pagingEnabled="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="YIq-ep-xTl">
-                                                <rect key="frame" x="0.0" y="55" width="600" height="200"/>
-                                                <color key="backgroundColor" red="0.98039215690000003" green="0.98039215690000003" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                                <color key="backgroundColor" red="0.98039215690000003" green="0.98039215690000003" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="200" id="8BZ-sp-aE5"/>
                                                 </constraints>
@@ -1086,12 +989,11 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                             <autoresizingMask key="autoresizingMask"/>
                                                             <subviews>
                                                                 <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="hRo-21-I8X">
-                                                                    <rect key="frame" x="0.0" y="0.0" width="600" height="180"/>
+                                                                    <frame key="frameInset" width="600" height="180"/>
                                                                 </imageView>
                                                             </subviews>
-                                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                                         </view>
-                                                        <color key="backgroundColor" red="0.98039215690000003" green="0.98039215690000003" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="0.98039215690000003" green="0.98039215690000003" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstItem="hRo-21-I8X" firstAttribute="top" secondItem="WN4-pX-G12" secondAttribute="top" id="O9R-xh-R8e"/>
                                                             <constraint firstAttribute="trailing" secondItem="hRo-21-I8X" secondAttribute="trailing" id="Oiu-wx-4Pm"/>
@@ -1106,26 +1008,21 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                 </cells>
                                             </collectionView>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rHH-gT-pwb">
-                                                <rect key="frame" x="0.0" y="415" width="600" height="120"/>
                                                 <subviews>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Forms" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="R36-zn-oEg">
-                                                        <rect key="frame" x="20" y="10" width="128" height="30"/>
                                                         <constraints>
                                                             <constraint firstAttribute="width" constant="128" id="9tc-iT-Lrh"/>
                                                             <constraint firstAttribute="height" constant="30" id="hZ3-hZ-vLl"/>
                                                         </constraints>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="17"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <stackView opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" distribution="fillProportionally" translatesAutoresizingMaskIntoConstraints="NO" id="tZ3-z9-Xh1">
-                                                        <rect key="frame" x="20" y="40" width="560" height="72"/>
                                                         <subviews>
                                                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="fJJ-mB-whP">
-                                                                <rect key="frame" x="0.0" y="0.0" width="93.5" height="72"/>
                                                                 <subviews>
                                                                     <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="wzg-0p-gpb">
-                                                                        <rect key="frame" x="31.5" y="0.0" width="30" height="67"/>
                                                                         <userDefinedRuntimeAttributes>
                                                                             <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
                                                                                 <integer key="value" value="10"/>
@@ -1133,7 +1030,6 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                                         </userDefinedRuntimeAttributes>
                                                                     </imageView>
                                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="6" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="KXe-FQ-JB7">
-                                                                        <rect key="frame" x="0.0" y="72" width="93.5" height="0.0"/>
                                                                         <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="12"/>
                                                                         <nil key="highlightedColor"/>
                                                                     </label>
@@ -1144,13 +1040,9 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                                 </constraints>
                                                             </stackView>
                                                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="4M7-9R-fRI">
-                                                                <rect key="frame" x="93.5" y="0.0" width="93" height="72"/>
                                                                 <subviews>
-                                                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="5i0-Pb-BPW">
-                                                                        <rect key="frame" x="31.5" y="0.0" width="30" height="67"/>
-                                                                    </imageView>
+                                                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="5i0-Pb-BPW"/>
                                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="6" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="c3C-xc-gez">
-                                                                        <rect key="frame" x="0.0" y="72" width="93" height="0.0"/>
                                                                         <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="12"/>
                                                                         <nil key="highlightedColor"/>
                                                                     </label>
@@ -1161,13 +1053,9 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                                 </constraints>
                                                             </stackView>
                                                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="UtI-pB-jPl">
-                                                                <rect key="frame" x="186.5" y="0.0" width="93.5" height="72"/>
                                                                 <subviews>
-                                                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="pko-ro-BTA">
-                                                                        <rect key="frame" x="32" y="0.0" width="30" height="67"/>
-                                                                    </imageView>
+                                                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="pko-ro-BTA"/>
                                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="6" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="z2e-yz-x9p">
-                                                                        <rect key="frame" x="0.0" y="72" width="93.5" height="0.0"/>
                                                                         <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="12"/>
                                                                         <nil key="highlightedColor"/>
                                                                     </label>
@@ -1178,13 +1066,9 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                                 </constraints>
                                                             </stackView>
                                                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="02T-xE-dOE">
-                                                                <rect key="frame" x="280" y="0.0" width="93.5" height="72"/>
                                                                 <subviews>
-                                                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Boq-OG-xQ9">
-                                                                        <rect key="frame" x="31.5" y="0.0" width="30" height="67"/>
-                                                                    </imageView>
+                                                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Boq-OG-xQ9"/>
                                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="6" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="UsO-Y6-2dk">
-                                                                        <rect key="frame" x="0.0" y="72" width="93.5" height="0.0"/>
                                                                         <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="12"/>
                                                                         <nil key="highlightedColor"/>
                                                                     </label>
@@ -1195,13 +1079,9 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                                 </constraints>
                                                             </stackView>
                                                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="2mG-OE-1ce">
-                                                                <rect key="frame" x="373.5" y="0.0" width="93" height="72"/>
                                                                 <subviews>
-                                                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="470-nG-9m8">
-                                                                        <rect key="frame" x="31.5" y="0.0" width="30" height="67"/>
-                                                                    </imageView>
+                                                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="470-nG-9m8"/>
                                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="6" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="cU5-Vb-Tub">
-                                                                        <rect key="frame" x="0.0" y="72" width="93" height="0.0"/>
                                                                         <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="12"/>
                                                                         <nil key="highlightedColor"/>
                                                                     </label>
@@ -1212,13 +1092,9 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                                 </constraints>
                                                             </stackView>
                                                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="Zf0-JB-ReO">
-                                                                <rect key="frame" x="466.5" y="0.0" width="93.5" height="72"/>
                                                                 <subviews>
-                                                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="O4r-dH-wPz">
-                                                                        <rect key="frame" x="32" y="0.0" width="30" height="67"/>
-                                                                    </imageView>
+                                                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="O4r-dH-wPz"/>
                                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="6" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="UbA-GH-6CI">
-                                                                        <rect key="frame" x="0.0" y="72" width="93.5" height="0.0"/>
                                                                         <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="12"/>
                                                                         <nil key="highlightedColor"/>
                                                                     </label>
@@ -1231,15 +1107,13 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         </subviews>
                                                     </stackView>
                                                     <view alpha="0.20000000000000001" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TbG-Bz-5F1">
-                                                        <rect key="frame" x="8" y="118" width="584" height="1"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="1" id="ePD-O9-PhA"/>
                                                         </constraints>
                                                     </view>
                                                     <button opaque="NO" alpha="0.10000000000000001" contentMode="scaleToFill" highlighted="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" adjustsImageWhenHighlighted="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Kss-LB-a1J" userLabel="form1Button">
-                                                        <rect key="frame" x="51.5" y="40" width="30" height="67"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <userDefinedRuntimeAttributes>
                                                             <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
                                                                 <integer key="value" value="10"/>
@@ -1250,8 +1124,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" alpha="0.10000000000000001" contentMode="scaleToFill" highlighted="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" adjustsImageWhenHighlighted="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vEC-Pb-NVQ" userLabel="form2Button">
-                                                        <rect key="frame" x="145" y="40" width="30" height="67"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <userDefinedRuntimeAttributes>
                                                             <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
                                                                 <integer key="value" value="10"/>
@@ -1262,8 +1135,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" alpha="0.10000000000000001" contentMode="scaleToFill" highlighted="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" adjustsImageWhenHighlighted="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DT5-Fv-a6E" userLabel="form3Button">
-                                                        <rect key="frame" x="238.5" y="40" width="30" height="67"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <userDefinedRuntimeAttributes>
                                                             <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
                                                                 <integer key="value" value="10"/>
@@ -1274,8 +1146,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" alpha="0.10000000000000001" contentMode="scaleToFill" highlighted="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" adjustsImageWhenHighlighted="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hut-7o-Llb" userLabel="form4Button">
-                                                        <rect key="frame" x="331.5" y="40" width="30" height="67"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <userDefinedRuntimeAttributes>
                                                             <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
                                                                 <integer key="value" value="10"/>
@@ -1286,8 +1157,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" alpha="0.10000000000000001" contentMode="scaleToFill" highlighted="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" adjustsImageWhenHighlighted="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kgR-Mt-x2z" userLabel="form5Button">
-                                                        <rect key="frame" x="425" y="40" width="30" height="67"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <userDefinedRuntimeAttributes>
                                                             <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
                                                                 <integer key="value" value="10"/>
@@ -1298,8 +1168,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" alpha="0.10000000000000001" contentMode="scaleToFill" highlighted="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" adjustsImageWhenHighlighted="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="I8O-op-Eyk" userLabel="form6Button">
-                                                        <rect key="frame" x="518.5" y="40" width="30" height="67"/>
-                                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                                        <color key="backgroundColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <userDefinedRuntimeAttributes>
                                                             <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
                                                                 <integer key="value" value="10"/>
@@ -1310,7 +1179,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         </connections>
                                                     </button>
                                                 </subviews>
-                                                <color key="backgroundColor" red="0.98039215690000003" green="0.98039215690000003" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                                <color key="backgroundColor" red="0.98039215690000003" green="0.98039215690000003" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
                                                     <constraint firstItem="DT5-Fv-a6E" firstAttribute="top" secondItem="pko-ro-BTA" secondAttribute="top" id="0Dj-iS-hZi"/>
                                                     <constraint firstItem="O4r-dH-wPz" firstAttribute="trailing" secondItem="I8O-op-Eyk" secondAttribute="trailing" id="4QX-NJ-969"/>
@@ -1349,27 +1218,23 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                 </constraints>
                                             </view>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hNV-G0-HMe">
-                                                <rect key="frame" x="0.0" y="1135" width="600" height="62"/>
                                                 <subviews>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="AAM-9e-cAC" userLabel="ColourBar2">
-                                                        <rect key="frame" x="8" y="50" width="584" height="2"/>
-                                                        <color key="backgroundColor" red="1" green="0.0" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="1" green="0.0" blue="0.50196081400000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="2" id="ZFw-lY-NiA"/>
                                                         </constraints>
                                                     </view>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Moves" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6cv-Oi-anw">
-                                                        <rect key="frame" x="20" y="10" width="44.5" height="30"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="30" id="FDN-it-dys"/>
                                                         </constraints>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="17"/>
-                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <button opaque="NO" alpha="0.10000000000000001" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3rs-aW-7d1">
-                                                        <rect key="frame" x="380" y="8" width="200" height="34"/>
-                                                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.59999999999999998" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.59999999999999998" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="width" constant="200" id="HeC-rQ-oKo"/>
                                                         </constraints>
@@ -1386,14 +1251,13 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                         </connections>
                                                     </button>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZX8-kc-jI7">
-                                                        <rect key="frame" x="380" y="8" width="200" height="34"/>
                                                         <string key="text">Gen 6: AlphaSapphire/OmegaRuby
 </string>
                                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="12"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                 </subviews>
-                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
                                                     <constraint firstItem="3rs-aW-7d1" firstAttribute="trailing" secondItem="ZX8-kc-jI7" secondAttribute="trailing" id="9LQ-xn-MQX"/>
                                                     <constraint firstAttribute="bottom" secondItem="AAM-9e-cAC" secondAttribute="bottom" constant="10" id="E6M-oX-otN"/>
@@ -1416,7 +1280,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                                 </variation>
                                             </view>
                                         </subviews>
-                                        <color key="backgroundColor" red="0.97950721159999998" green="0.97950721159999998" blue="0.97950721159999998" alpha="1" colorSpace="calibratedRGB"/>
+                                        <color key="backgroundColor" red="0.97950721159999998" green="0.97950721159999998" blue="0.97950721159999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstItem="YIq-ep-xTl" firstAttribute="top" secondItem="dHo-S6-Gzl" secondAttribute="top" constant="55" id="0AG-1S-1Al"/>
                                             <constraint firstAttribute="trailing" secondItem="l6E-kV-acu" secondAttribute="trailing" id="0me-U6-DUE"/>
@@ -1471,14 +1335,13 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                 </variation>
                             </scrollView>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Test" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="7" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Q3t-h8-GlD">
-                                <rect key="frame" x="500" y="63" width="90" height="24"/>
-                                <color key="backgroundColor" red="0.663851706906876" green="0.67550722796513196" blue="0.72981829748974358" alpha="0.75242456896551735" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.663851706906876" green="0.67550722796513196" blue="0.72981829748974358" alpha="0.75242456896551735" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="24" id="LXh-NH-3fK"/>
                                     <constraint firstAttribute="width" constant="90" id="bDq-aE-fJn"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="10"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                                 <size key="shadowOffset" width="0.0" height="0.0"/>
                                 <userDefinedRuntimeAttributes>
@@ -1488,14 +1351,13 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                 </userDefinedRuntimeAttributes>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Test" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="7" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Lgp-Dt-VJX">
-                                <rect key="frame" x="8" y="63" width="45" height="24"/>
-                                <color key="backgroundColor" red="0.66385170689999995" green="0.67550722799999996" blue="0.72981829750000005" alpha="0.75242456899999999" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.66385170689999995" green="0.67550722799999996" blue="0.72981829750000005" alpha="0.75242456899999999" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="24" id="CTy-HI-38h"/>
                                     <constraint firstAttribute="width" constant="45" id="sgf-gH-huD"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="GillSans-SemiBold" family="Gill Sans" pointSize="10"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                                 <size key="shadowOffset" width="0.0" height="0.0"/>
                                 <userDefinedRuntimeAttributes>
@@ -1505,27 +1367,25 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                 </userDefinedRuntimeAttributes>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VWu-ig-6IH">
-                                <rect key="frame" x="0.0" y="135" width="40" height="40"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="6h4-Bc-VkL"/>
                                     <constraint firstAttribute="width" constant="40" id="nUL-CK-BVY"/>
                                 </constraints>
                                 <state key="normal" image="left">
-                                    <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
                                     <action selector="prevPokemonTouch:" destination="HOP-Jb-BQg" eventType="touchUpInside" id="FyK-Cc-bsL"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zdh-wv-kiL">
-                                <rect key="frame" x="560" y="135" width="40" height="40"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="40" id="Jt7-vX-b04"/>
                                     <constraint firstAttribute="height" constant="200" id="q7E-Mf-wEY"/>
                                     <constraint firstAttribute="height" constant="40" id="ufD-RT-OjK"/>
                                 </constraints>
                                 <state key="normal" image="right">
-                                    <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <variation key="default">
                                     <mask key="constraints">
@@ -1537,10 +1397,8 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                 </connections>
                             </button>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xIr-Ni-lr6">
-                                <rect key="frame" x="0.0" y="0.0" width="600" height="55"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KyO-cN-XeD">
-                                        <rect key="frame" x="0.0" y="18" width="70" height="33"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="33" id="EWQ-CJ-AJR"/>
                                             <constraint firstAttribute="width" constant="70" id="ZgQ-vx-yfT"/>
@@ -1551,17 +1409,16 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                         </connections>
                                     </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Summary" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Lqe-xV-eya">
-                                        <rect key="frame" x="185" y="15" width="231" height="39"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="39" id="MsA-bq-aif"/>
                                             <constraint firstAttribute="width" constant="231" id="ySS-Y9-CRb"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="22"/>
-                                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                 </subviews>
-                                <color key="backgroundColor" red="1" green="0.1764705882" blue="0.33333333329999998" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="1" green="0.1764705882" blue="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="55" id="11M-PB-AKU"/>
                                     <constraint firstItem="KyO-cN-XeD" firstAttribute="centerY" secondItem="xIr-Ni-lr6" secondAttribute="centerY" constant="7" id="9OA-Gw-wBk"/>
@@ -1579,7 +1436,7 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                                 </variation>
                             </view>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="nYJ-WG-Gp4" firstAttribute="top" secondItem="WWl-0x-RTu" secondAttribute="top" id="3L9-3E-vB3"/>
                             <constraint firstItem="VWu-ig-6IH" firstAttribute="leading" secondItem="YIq-ep-xTl" secondAttribute="leading" id="5mF-hC-crT"/>
@@ -1605,11 +1462,11 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                         </constraints>
                         <variation key="default">
                             <mask key="constraints">
+                                <exclude reference="YWw-oJ-qyI"/>
+                                <exclude reference="ewi-Ur-p4C"/>
                                 <exclude reference="SyG-QJ-jtK"/>
                                 <exclude reference="XWw-13-cxD"/>
                                 <exclude reference="lYi-ER-HwT"/>
-                                <exclude reference="YWw-oJ-qyI"/>
-                                <exclude reference="ewi-Ur-p4C"/>
                             </mask>
                         </variation>
                     </view>
@@ -1682,17 +1539,17 @@ Thank you for downloading dexly! I hope you enjoy it. Please send me any issues 
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fpS-sM-DZS" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="857" y="358"/>
+            <point key="canvasLocation" x="70" y="812"/>
         </scene>
     </scenes>
     <resources>
         <image name="76" width="120" height="120"/>
         <image name="darkerpink" width="120" height="42"/>
-        <image name="dexlyLogo" width="586" height="354"/>
+        <image name="dexlyLogo" width="293" height="177"/>
         <image name="down" width="823" height="382"/>
-        <image name="downColour" width="823" height="382"/>
+        <image name="downColour" width="411" height="191"/>
         <image name="left" width="512" height="512"/>
-        <image name="logoColoured" width="586" height="354"/>
+        <image name="logoColoured" width="293" height="177"/>
         <image name="red" width="48" height="38"/>
         <image name="right" width="512" height="512"/>
         <image name="triangleUp" width="128" height="128"/>

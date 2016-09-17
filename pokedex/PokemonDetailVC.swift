@@ -120,22 +120,26 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     var soundPlayer: AVAudioPlayer!
     var pokemon: Pokemon!
     var selectedVersionLabel: Int = Int(arc4random_uniform(26) + 1)
-    var timer: NSTimer!
+    var timer: Timer!
     var pokemonImg: [Int] = []
     var gameGenRef: Int = 0
     var firstTimeLoad: Bool = true
     var isPhone: Bool = true
+    var isInitialLaunch = true
     
     // View functions
     
-    override func preferredStatusBarStyle() -> UIStatusBarStyle {
-        return .LightContent
+    override var preferredStatusBarStyle : UIStatusBarStyle {
+        return .lightContent
     }
     
     // Repopulates view with Pokemon infomation when collection view cell is swiped to a midpoint
     
     private var currentPokeID: Int = 0 {
         didSet {
+            if isInitialLaunch {
+                return
+            }
             if currentPokeID != oldValue {
                 pokemon = Pokemon(pokedexId: currentPokeID+1)
                 if pokemon.pokedexId == 1 {
@@ -164,19 +168,19 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             layout.invalidateLayout()
         }
         
-        if (UIDevice.currentDevice().model.rangeOfString("iPad") != nil) {
+        if (UIDevice.current.model.range(of: "iPad") != nil) {
             isPhone = false
         } else {
             isPhone = true
         }
     
-        self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: isPhone)
+        self.collectionView.scrollToItem(at: IndexPath(item: pokemon.pokedexId-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: isPhone)
 
-        UIView.animateWithDuration(0.5,
+        UIView.animate(withDuration: 0.5,
             delay: 0.0,
             usingSpringWithDamping: 0.6,
             initialSpringVelocity: 0.5,
-            options: .CurveEaseInOut,
+            options: UIViewAnimationOptions(),
             animations: {
                 self.setupGraphsForNewPokemon()
             },
@@ -185,22 +189,23 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     // Triggers a didSet when scrolling moves image halfway off screen
     
-    func scrollViewDidScroll(scrollView: UIScrollView) {
+    func scrollViewDidScroll(_ scrollView: UIScrollView) {
         let bounds = self.collectionView.bounds
-        let midpoint = CGPointMake(bounds.midX, bounds.midY)
-        if let indexPath = self.collectionView.indexPathForItemAtPoint(midpoint) {
-            currentPokeID = indexPath.item
+        let midpoint = CGPoint(x: bounds.midX, y: bounds.midY)
+        if let indexPath = self.collectionView.indexPathForItem(at: midpoint) {
+            currentPokeID = (indexPath).item
         }
     }
     
     // Animates graphs when view appears
     
-    override func viewDidAppear(animated: Bool) {
-        UIView.animateWithDuration(0.5,
+    override func viewDidAppear(_ animated: Bool) {
+        isInitialLaunch = false
+        UIView.animate(withDuration: 0.5,
             delay: 0.0,
             usingSpringWithDamping: 0.6,
             initialSpringVelocity: 0.5,
-            options: .CurveEaseInOut,
+            options: UIViewAnimationOptions(),
             animations: {
                 self.setupGraphsForNewPokemon()
             },
@@ -209,8 +214,10 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     // Function scroll to correct CollectionView Cell as per segue sender
     
-    override func viewWillAppear(animated: Bool) {
-        self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+    override func viewWillAppear(_ animated: Bool) {
+        newPokemonSetup()
+        initCries(0)
+        self.collectionView.scrollToItem(at: IndexPath(item: pokemon.pokedexId-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
          }
     
     // MARK: View Did Load
@@ -233,17 +240,14 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         
         // Trigger timer to update Pokedex entries every 5 seconds
         
-        timer = NSTimer.scheduledTimerWithTimeInterval(5.0, target: self, selector: #selector(PokemonDetailVC.update), userInfo: nil, repeats: true)
+        timer = Timer.scheduledTimer(timeInterval: 5.0, target: self, selector: #selector(PokemonDetailVC.update), userInfo: nil, repeats: true)
         
-        // Special handle for Pokedex No.1 since activating it won't trigger DidSet method
-        
-        if pokemon.pokedexId == 1 {
-            
-            initCries(0)
+        switch pokemon.pokedexId {
+        case 1:
             scrollBack.alpha = 0
-            newPokemonSetup()
-        } else {
-            currentPokeID = pokemon.pokedexId-1
+        case 721:
+            scrollForward.alpha = 0
+        default: break
         }
     }
     
@@ -265,11 +269,11 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         tableView.reloadData()
 
         
-        UIView.animateWithDuration(0.5,
+        UIView.animate(withDuration: 0.5,
             delay: 0.0,
             usingSpringWithDamping: 0.6,
             initialSpringVelocity: 0.5,
-            options: .CurveEaseInOut,
+            options: UIViewAnimationOptions(),
             animations: {
                 self.setupGraphsForNewPokemon()
             },
@@ -279,22 +283,22 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
 
     // MARK: Graph Setup
     
-    func setUpGraphs(barRef: UIView, PokeStat: String) {
+    func setUpGraphs(_ barRef: UIView, PokeStat: String) {
         let MAX_STAT: CGFloat = 255.0
         let str = PokeStat
-        if let n = NSNumberFormatter().numberFromString(str) {
+        if let n = NumberFormatter().number(from: str) {
             let f = CGFloat(n)
-            let barSize = CGRectMake(barRef.frame.origin.x, barRef.frame.origin.y, fullBar.frame.width * f/MAX_STAT, 5.0)
+            let barSize = CGRect(x: barRef.frame.origin.x, y: barRef.frame.origin.y, width: fullBar.frame.width * f/MAX_STAT, height: 5.0)
             barRef.frame = barSize
         }
     }
     
-    func setUpGraphColor(barRef: UIView, PokeStat: String) {
+    func setUpGraphColor(_ barRef: UIView, PokeStat: String) {
         
         let COLOUR_FACTOR: CGFloat = 400
         
         let str = PokeStat
-        if let n = NSNumberFormatter().numberFromString(str) {
+        if let n = NumberFormatter().number(from: str) {
             let f = CGFloat(n)
             
             let dynamicColour: UIColor = UIColor.init(hue: f/COLOUR_FACTOR, saturation: 1.0, brightness: 1.0, alpha: 1)
@@ -309,38 +313,38 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         
         // Labels
         
-        nameLbl.text = pokemon.name.capitalizedString
-        pokemonTitle.text = pokemon.name.capitalizedString
+        nameLbl.text = pokemon.name.capitalized
+        pokemonTitle.text = pokemon.name.capitalized
         descriptionLbl.text = pokemon.description
         
         gameRefPokedexEntry.text = pokemon.gameName
         moveVersionLabel.text = "\(pokemon.gameName)"
-        gameRefPokedexEntry.layer.backgroundColor = assignColoursToGame(pokemon.gameIdNo).CGColor
+        gameRefPokedexEntry.layer.backgroundColor = assignColoursToGame(pokemon.gameIdNo).cgColor
         gameRefPokedexEntry.layer.cornerRadius = 10.0
         
         if pokemon.type2 == "" {
             typeLbl1.text = ""
-            typeLbl1.layer.backgroundColor = UIColor.whiteColor().CGColor
+            typeLbl1.layer.backgroundColor = UIColor.white.cgColor
             typeLbl2.text = "\(pokemon.type1)"
             typeLbl2.layer.cornerRadius = 10.0
-            typeLbl2.layer.backgroundColor = assignColorToType("\(pokemon.type1)",alpha: 1.0).CGColor
+            typeLbl2.layer.backgroundColor = assignColorToType("\(pokemon.type1)",alpha: 1.0).cgColor
         } else {
             typeLbl1.text = "\(pokemon.type1)"
             typeLbl1.layer.cornerRadius = 10.0
             typeLbl2.text = "\(pokemon.type2)"
             typeLbl2.layer.cornerRadius = 10.0
             
-            typeLbl1.layer.backgroundColor = assignColorToType("\(pokemon.type1)",alpha: 1.0).CGColor
-            typeLbl2.layer.backgroundColor = assignColorToType("\(pokemon.type2)",alpha: 1.0).CGColor
+            typeLbl1.layer.backgroundColor = assignColorToType("\(pokemon.type1)",alpha: 1.0).cgColor
+            typeLbl2.layer.backgroundColor = assignColorToType("\(pokemon.type2)",alpha: 1.0).cgColor
         }
         
         attackLbl.text = pokemon.attack
         defenseLbl.text = pokemon.defense
         if "\(pokemon.height)" == "0" || "\(pokemon.weight)" == "0" {
             heightWeight.text = ""
-            heightWeight.hidden = true
+            heightWeight.isHidden = true
         } else {
-            heightWeight.hidden = false
+            heightWeight.isHidden = false
             heightWeight.text = "\(pokemon.height)ft | \(pokemon.weight)lbs"
         }
         pokemonGen.text = "Gen: \(pokemon.generationId)"
@@ -366,12 +370,12 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         } else if pokemon.nextEvolutionId == "" && pokemon.previousEvolutionId == ""{
             
             prevEvo.image = nil
-            currentEvo.hidden = false
+            currentEvo.isHidden = false
             nextEvo.image = nil
             
-            prevEvoButton.hidden = true
-            currentEvoButton.hidden = false
-            nextEvoButton.hidden = true
+            prevEvoButton.isHidden = true
+            currentEvoButton.isHidden = false
+            nextEvoButton.isHidden = true
             
             firstEvoLabel.text = nil
             secondEvoLabel.text = nil
@@ -380,16 +384,16 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             
         } else if pokemon.previousEvolutionId != "" && pokemon.nextEvolutionId != "" {
             
-            prevEvo.hidden = false
-            currentEvo.hidden = false
-            nextEvo.hidden = false
+            prevEvo.isHidden = false
+            currentEvo.isHidden = false
+            nextEvo.isHidden = false
             
-            prevEvoButton.hidden = false
-            currentEvoButton.hidden = false
-            nextEvoButton.hidden = false
+            prevEvoButton.isHidden = false
+            currentEvoButton.isHidden = false
+            nextEvoButton.isHidden = false
             
-            firstEvoLabel.hidden = false
-            secondEvoLabel.hidden = false
+            firstEvoLabel.isHidden = false
+            secondEvoLabel.isHidden = false
             
             prevEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
             currentEvo.image = UIImage(named: "\(pokemon.pokedexId)")
@@ -400,15 +404,15 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             
         } else if pokemon.previousEvolutionId != "" && pokemon.nextEvolutionId == ""{
             
-            prevEvo.hidden = false
-            currentEvo.hidden = false
+            prevEvo.isHidden = false
+            currentEvo.isHidden = false
             nextEvo.image = nil
             
-            prevEvoButton.hidden = false
-            currentEvoButton.hidden = false
-            nextEvoButton.hidden = true
+            prevEvoButton.isHidden = false
+            currentEvoButton.isHidden = false
+            nextEvoButton.isHidden = true
             
-            firstEvoLabel.hidden = false
+            firstEvoLabel.isHidden = false
             secondEvoLabel.text = nil
 
             prevEvo.image = UIImage(named: "\(pokemon.previousEvolutionId)")
@@ -419,15 +423,15 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         } else if pokemon.previousEvolutionId == "" && pokemon.nextEvolutionId != ""{
            
             prevEvo.image = nil
-            currentEvo.hidden = false
-            nextEvo.hidden = false
+            currentEvo.isHidden = false
+            nextEvo.isHidden = false
             
-            prevEvoButton.hidden = true
-            currentEvoButton.hidden = false
-            nextEvoButton.hidden = false
+            prevEvoButton.isHidden = true
+            currentEvoButton.isHidden = false
+            nextEvoButton.isHidden = false
             
             firstEvoLabel.text = nil
-            secondEvoLabel.hidden = false
+            secondEvoLabel.isHidden = false
             
             nextEvolutionExistsLabelMaker()
 
@@ -436,33 +440,33 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             
         }
         
-        firstAbilityTitle.hidden = true
-        firstAbility.hidden = true
-        secondAbilityTitle.hidden = true
-        secondAbility.hidden = true
-        hiddenAbilityTitle.hidden = true
-        hiddenAbility.hidden = true
+        firstAbilityTitle.isHidden = true
+        firstAbility.isHidden = true
+        secondAbilityTitle.isHidden = true
+        secondAbility.isHidden = true
+        hiddenAbilityTitle.isHidden = true
+        hiddenAbility.isHidden = true
         
         // Abilities
         
         if pokemon.firstAbilityDesc != "" {
-            firstAbilityTitle.hidden = false
-            firstAbility.hidden = false
-            firstAbilityTitle.text = "\(pokemon.firstAbility.capitalizedString)"
+            firstAbilityTitle.isHidden = false
+            firstAbility.isHidden = false
+            firstAbilityTitle.text = "\(pokemon.firstAbility.capitalized)"
             firstAbility.text = pokemon.firstAbilityDesc
         }
         
         if pokemon.secondAbilityDesc != "" {
-            secondAbilityTitle.hidden = false
-            secondAbility.hidden = false
-            secondAbilityTitle.text = "\(pokemon.secondAbility.capitalizedString)"
+            secondAbilityTitle.isHidden = false
+            secondAbility.isHidden = false
+            secondAbilityTitle.text = "\(pokemon.secondAbility.capitalized)"
             secondAbility.text = pokemon.secondAbilityDesc
         }
         
         if pokemon.hiddenAbilityDesc != "" {
-            hiddenAbilityTitle.hidden = false
-            hiddenAbility.hidden = false
-            hiddenAbilityTitle.text = "Hidden Ability: \(pokemon.hiddenAbility.capitalizedString)"
+            hiddenAbilityTitle.isHidden = false
+            hiddenAbility.isHidden = false
+            hiddenAbilityTitle.text = "Hidden Ability: \(pokemon.hiddenAbility.capitalized)"
             hiddenAbility.text = pokemon.hiddenAbilityDesc
         }
         
@@ -486,7 +490,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
                     firstEvoLabel.text = "Level up with condition"
                 }
             } else {
-                firstEvoLabel.text = "\(pokemon.evolvedFromTrigger) \(pokemon.evolvedFromTriggerItem.capitalizedString)"
+                firstEvoLabel.text = "\(pokemon.evolvedFromTrigger) \(pokemon.evolvedFromTriggerItem.capitalized)"
             }
         } else {
             firstEvoLabel.text = "Lv. \(pokemon.previousEvolutionLevel)"
@@ -500,7 +504,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
                     secondEvoLabel.text = "Level up with condition"
                     }
                 } else {
-                    secondEvoLabel.text = "\(pokemon.evolvesToTrigger) \(pokemon.evolvesToTriggerItem.capitalizedString)"
+                    secondEvoLabel.text = "\(pokemon.evolvesToTrigger) \(pokemon.evolvesToTriggerItem.capitalized)"
             }
         } else {
             secondEvoLabel.text = "Lv. \(pokemon.nextEvolutionLevel)"
@@ -515,14 +519,14 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             
             // Show correct buttons
             
-            prevEvoButton.hidden = false
-            currentEvoButton.hidden = false
-            nextEvoButton.hidden = false
+            prevEvoButton.isHidden = false
+            currentEvoButton.isHidden = false
+            nextEvoButton.isHidden = false
             
             // Show correct images
             
-            prevEvo.hidden = false
-            nextEvo.hidden = false
+            prevEvo.isHidden = false
+            nextEvo.isHidden = false
             
             // Assign images
             
@@ -534,7 +538,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             // Labels
             
             if pokemon.previousEvolutionLevel == "" || pokemon.previousEvolutionLevel == "0" {
-                secondEvoLabel.text = "\(pokemon.evolvedFromTrigger) \(pokemon.evolvedFromTriggerItem.capitalizedString)"
+                secondEvoLabel.text = "\(pokemon.evolvedFromTrigger) \(pokemon.evolvedFromTriggerItem.capitalized)"
             } else {
                 secondEvoLabel.text = "Lv. \(pokemon.previousEvolutionLevel)"
             }
@@ -545,20 +549,20 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
                     firstEvoLabel.text = "Lv. \(pokemon.originalTriggerItem)"
                 }
             } else {
-                firstEvoLabel.text = "\(pokemon.originalTrigger) \(pokemon.originalTriggerItem.capitalizedString)"
+                firstEvoLabel.text = "\(pokemon.originalTrigger) \(pokemon.originalTriggerItem.capitalized)"
             }
         } else if pokemon.thirdGenEvolution != "" {
             
             // Show correct buttons
             
-            prevEvoButton.hidden = false
-            currentEvoButton.hidden = false
-            nextEvoButton.hidden = false
+            prevEvoButton.isHidden = false
+            currentEvoButton.isHidden = false
+            nextEvoButton.isHidden = false
             
             // Show correct images
             
-            prevEvo.hidden = false
-            nextEvo.hidden = false
+            prevEvo.isHidden = false
+            nextEvo.isHidden = false
             
             // Assign images
             
@@ -569,7 +573,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             // Assign Labels
             
             if pokemon.nextEvolutionLevel == "" || pokemon.nextEvolutionLevel == "0" {
-                firstEvoLabel.text = "\(pokemon.evolvesToTrigger) \(pokemon.evolvesToTriggerItem.capitalizedString)"
+                firstEvoLabel.text = "\(pokemon.evolvesToTrigger) \(pokemon.evolvesToTriggerItem.capitalized)"
             } else {
                 firstEvoLabel.text = "Lv. \(pokemon.nextEvolutionLevel)"
             }
@@ -581,24 +585,25 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
                     secondEvoLabel.text = "Lv. \(pokemon.eventualTriggerItem)"
                 }
             } else {
-                secondEvoLabel.text = "\(pokemon.eventualTrigger) \(pokemon.eventualTriggerItem.capitalizedString)"
+                secondEvoLabel.text = "\(pokemon.eventualTrigger) \(pokemon.eventualTriggerItem.capitalized)"
             }
         }
     }
     
-    func initCries(formRef: Int) {
+    func initCries(_ formRef: Int) {
         
         var path = ""
         
         if formRef != 0 && hasMegaCry.contains(pokemon.pokedexId) {
-            path = NSBundle.mainBundle().pathForResource("\(pokemon.pokedexId)form\(formRef)", ofType: "mp3")!
+            path = Bundle.main.path(forResource: "\(pokemon.pokedexId)form\(formRef)", ofType: "mp3")!
         } else if formRef != 0 {
+            return
         } else {
-            path = NSBundle.mainBundle().pathForResource("\(pokemon.pokedexId)", ofType: "mp3")!
+            path = Bundle.main.path(forResource: "\(pokemon.pokedexId)", ofType: "mp3")!
         }
         
         do {
-            soundPlayer = try AVAudioPlayer(contentsOfURL: NSURL(string: path)!)
+            soundPlayer = try AVAudioPlayer(contentsOf: NSURL(string: path) as! URL)
             soundPlayer.prepareToPlay()
             soundPlayer.volume = 0.03
             soundPlayer.numberOfLoops = 0
@@ -631,7 +636,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
                 pokemon.parsePokedexEntryCSV(selectedVersionLabel)
             }
         }
-        gameRefPokedexEntry.layer.backgroundColor = assignColoursToGame(pokemon.gameIdNo).CGColor
+        gameRefPokedexEntry.layer.backgroundColor = assignColoursToGame(pokemon.gameIdNo).cgColor
         gameRefPokedexEntry.text = pokemon.gameName
         descriptionLbl.fadeTransition(0.25)
         descriptionLbl.text = pokemon.description
@@ -658,45 +663,45 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         if pokemon.numberForms != "" {
             
             formsTitle.text = "Forms"
-            lineSeparator.hidden = false
+            lineSeparator.isHidden = false
             hideFormsView.constant = 120
             
             for i in 1...Int(pokemon.numberForms)! {
                 if i == 1 {
-                    form1.hidden = false
-                    form1Label.hidden = false
+                    form1.isHidden = false
+                    form1Label.isHidden = false
                     form1.image = UIImage(named: "\(pokemon.pokedexId)form1")
-                    form1Label.text = pokemon.pokemonFormNames(1).capitalizedString
+                    form1Label.text = pokemon.pokemonFormNames(1).capitalized
                 } else if i == 2 {
-                    form2.hidden = false
-                    form2Label.hidden = false
+                    form2.isHidden = false
+                    form2Label.isHidden = false
                     form2.image = UIImage(named: "\(pokemon.pokedexId)form2")
-                    form2Label.text = pokemon.pokemonFormNames(2).capitalizedString
+                    form2Label.text = pokemon.pokemonFormNames(2).capitalized
                 } else if i == 3 {
-                    form3.hidden = false
-                    form3Label.hidden = false
+                    form3.isHidden = false
+                    form3Label.isHidden = false
                     form3.image = UIImage(named: "\(pokemon.pokedexId)form3")
-                    form3Label.text = pokemon.pokemonFormNames(3).capitalizedString
+                    form3Label.text = pokemon.pokemonFormNames(3).capitalized
                 } else if i == 4 {
-                    form4.hidden = false
-                    form4Label.hidden = false
+                    form4.isHidden = false
+                    form4Label.isHidden = false
                     form4.image = UIImage(named: "\(pokemon.pokedexId)form4")
-                    form4Label.text = pokemon.pokemonFormNames(4).capitalizedString
+                    form4Label.text = pokemon.pokemonFormNames(4).capitalized
                 } else if i == 5 {
-                    form5.hidden = false
-                    form5Label.hidden = false
+                    form5.isHidden = false
+                    form5Label.isHidden = false
                     form5.image = UIImage(named: "\(pokemon.pokedexId)form5")
-                    form5Label.text = pokemon.pokemonFormNames(5).capitalizedString
+                    form5Label.text = pokemon.pokemonFormNames(5).capitalized
                 } else if i == 6 {
-                    form6.hidden = false
-                    form6Label.hidden = false
+                    form6.isHidden = false
+                    form6Label.isHidden = false
                     form6.image = UIImage(named: "\(pokemon.pokedexId)form6")
-                    form6Label.text = pokemon.pokemonFormNames(6).capitalizedString
+                    form6Label.text = pokemon.pokemonFormNames(6).capitalized
                 }
             }
         } else {
             formsTitle.text = nil
-            lineSeparator.hidden = true
+            lineSeparator.isHidden = true
             hideFormsView.constant = 0
         }
         
@@ -721,19 +726,19 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     // MARK: Table View Delegate Functions
     
-    func numberOfSectionsInTableView(tableView: UITableView) -> Int {
+    func numberOfSections(in tableView: UITableView) -> Int {
         return 1
     }
     
-    func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         
-        if let cell = tableView.dequeueReusableCellWithIdentifier("TableViewCell", forIndexPath: indexPath) as? TableViewCell {
+        if let cell = tableView.dequeueReusableCell(withIdentifier: "TableViewCell", for: indexPath) as? TableViewCell {
             
-            let move = pokemon.moveList[indexPath.row]
-            let level = pokemon.levelList[indexPath.row]
-            let type = pokemon.typeList[indexPath.row]
-            let power = pokemon.powerList[indexPath.row]
-            let accuracy = pokemon.accuracyList[indexPath.row]
+            let move = pokemon.moveList[(indexPath as NSIndexPath).row]
+            let level = pokemon.levelList[(indexPath as NSIndexPath).row]
+            let type = pokemon.typeList[(indexPath as NSIndexPath).row]
+            let power = pokemon.powerList[(indexPath as NSIndexPath).row]
+            let accuracy = pokemon.accuracyList[(indexPath as NSIndexPath).row]
         
             cell.configureMoves(move,Level: level,typeName: type, powerLevel: power, accuracyLevel: accuracy)
         
@@ -743,15 +748,15 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         return UITableViewCell()
     }
     
-    func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return pokemon.moveList.count
     }
     
     // MARK: Collection View Delegate Functions
     
-    func collectionView(collectionView: UICollectionView, cellForItemAtIndexPath indexPath: NSIndexPath) -> UICollectionViewCell {
-        if let cell = collectionView.dequeueReusableCellWithReuseIdentifier("MainImageCell", forIndexPath: indexPath) as? MainImageViewCell {
-            let dexID = pokemonImg[indexPath.row]
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+        if let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "MainImageCell", for: indexPath) as? MainImageViewCell {
+            let dexID = pokemonImg[(indexPath as NSIndexPath).row]
             
             cell.configureImageCell(dexID,formReference: 0)
 
@@ -761,33 +766,33 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         return UICollectionViewCell()
     }
     
-    func collectionView(collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
         return pokemonImg.count
     }
     
-    func numberOfSectionsInCollectionView(collectionView: UICollectionView) -> Int {
+    func numberOfSections(in collectionView: UICollectionView) -> Int {
         return 1
     }
     
-    func collectionView(collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAtIndexPath indexPath: NSIndexPath) -> CGSize {
+    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
         
-        return CGSizeMake(collectionView.bounds.size.width, 200)
+        return CGSize(width: collectionView.bounds.size.width, height: 200)
         
     }
     
     // MARK: @IBAction functions
     
-    @IBAction func backToMain(sender: AnyObject) {
-        scrollForward.hidden = true
-        scrollBack.hidden = true
-        heightWeight.hidden = true
-        pokemonGen.hidden = true
+    @IBAction func backToMain(_ sender: AnyObject) {
+        scrollForward.isHidden = true
+        scrollBack.isHidden = true
+        heightWeight.isHidden = true
+        pokemonGen.isHidden = true
         timer.invalidate()
-        dismissViewControllerAnimated(true, completion: nil)
+        dismiss(animated: true, completion: nil)
     
     }
     
-    @IBAction func changeGameRef(sender: AnyObject) {
+    @IBAction func changeGameRef(_ sender: AnyObject) {
         
         var breaker = 0
         
@@ -826,11 +831,11 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     func newFormSetup() {
         handlePokemonForms()
         
-        UIView.animateWithDuration(0.5,
+        UIView.animate(withDuration: 0.5,
             delay: 0.0,
             usingSpringWithDamping: 0.6,
             initialSpringVelocity: 0.5,
-            options: .CurveEaseInOut,
+            options: UIViewAnimationOptions(),
             animations: {
                 self.setupGraphsForNewPokemon()
             },
@@ -838,89 +843,89 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         updateUI()
     }
     
-    func updateFormWhenPressed(formNumber: Int) {
+    func updateFormWhenPressed(_ formNumber: Int) {
         pokemon.parsePokeFormStatsCSV(formNumber)
         newFormSetup()
-        let cell = self.collectionView.cellForItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId-1, inSection: 0)) as! MainImageViewCell
+        let cell = self.collectionView.cellForItem(at: IndexPath(item: pokemon.pokedexId-1, section: 0)) as! MainImageViewCell
         cell.configureImageCell(pokemon.pokedexId,formReference: formNumber)
         initCries(formNumber)
 
     }
     
     func revertToOrignalFromMega() {
-        let cell = self.collectionView.cellForItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId-1, inSection: 0)) as! MainImageViewCell
+        let cell = self.collectionView.cellForItem(at: IndexPath(item: pokemon.pokedexId-1, section: 0)) as! MainImageViewCell
         cell.configureImageCell(pokemon.pokedexId,formReference: 0)
         newPokemonSetup()
         initCries(0)
         self.view.layoutIfNeeded()
     }
     
-    @IBAction func scrollToPrevEvo(sender: UIButton!) {
+    @IBAction func scrollToPrevEvo(_ sender: UIButton!) {
         
         if pokemon.firstGenEvolution != "" {
-            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.firstGenEvolution)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.firstGenEvolution)!-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
         } else if pokemon.thirdGenEvolution != "" {
             revertToOrignalFromMega()
         } else {
-            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.previousEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.previousEvolutionId)!-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
         }
     }
     
-    @IBAction func nextEvo(sender: UIButton!) {
+    @IBAction func nextEvo(_ sender: UIButton!) {
         
         if pokemon.thirdGenEvolution != "" {
-            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.thirdGenEvolution)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.thirdGenEvolution)!-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
         } else if pokemon.firstGenEvolution != "" {
                 revertToOrignalFromMega()
             } else {
-            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.nextEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.nextEvolutionId)!-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
         }
     }
     
-    @IBAction func scrollTo2ndGen(sender: AnyObject) {
+    @IBAction func scrollTo2ndGen(_ sender: AnyObject) {
         
         if pokemon.thirdGenEvolution != "" {
-            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.nextEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.nextEvolutionId)!-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
         } else if pokemon.firstGenEvolution != "" {
-            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: Int(pokemon.previousEvolutionId)!-1, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.previousEvolutionId)!-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
         } else {
             revertToOrignalFromMega()
         }
     }
     
-    @IBAction func nextPokemonTouch(sender: UIButton) {
+    @IBAction func nextPokemonTouch(_ sender: UIButton) {
         if pokemon.pokedexId != 721 {
-        self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+        self.collectionView.scrollToItem(at: IndexPath(item: pokemon.pokedexId, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
             sender.alpha = 1.0
         }
     }
     
-    @IBAction func prevPokemonTouch(sender: UIButton) {
+    @IBAction func prevPokemonTouch(_ sender: UIButton) {
         if pokemon.pokedexId != 1 {
-            self.collectionView.scrollToItemAtIndexPath(NSIndexPath(forItem: pokemon.pokedexId-2, inSection: 0), atScrollPosition: UICollectionViewScrollPosition.CenteredHorizontally, animated: false)
+            self.collectionView.scrollToItem(at: IndexPath(item: pokemon.pokedexId-2, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
         }
     }
     
-    @IBAction func form1Button(sender: UIButton) {
+    @IBAction func form1Button(_ sender: UIButton) {
         updateFormWhenPressed(1)
     }
-    @IBAction func form2Button(sender: UIButton) {
+    @IBAction func form2Button(_ sender: UIButton) {
         updateFormWhenPressed(2)
     }
-    @IBAction func form3Button(sender: UIButton) {
+    @IBAction func form3Button(_ sender: UIButton) {
         updateFormWhenPressed(3)
     }
-    @IBAction func form4Button(sender: UIButton) {
+    @IBAction func form4Button(_ sender: UIButton) {
         updateFormWhenPressed(4)
     }
-    @IBAction func form5Button(sender: UIButton) {
+    @IBAction func form5Button(_ sender: UIButton) {
         updateFormWhenPressed(5)
     }
-    @IBAction func form6Button(sender: UIButton) {
+    @IBAction func form6Button(_ sender: UIButton) {
         updateFormWhenPressed(6)
     }
     
-    @IBAction func changeDexEntry(sender: UIButton) {
+    @IBAction func changeDexEntry(_ sender: UIButton) {
         changeDexEntryUp()
         timer.invalidate()
     }

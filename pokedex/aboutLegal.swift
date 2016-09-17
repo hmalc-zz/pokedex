@@ -12,13 +12,12 @@ import MessageUI
 
 class aboutLegal: UIViewController, MFMailComposeViewControllerDelegate {
     
-    
     @IBOutlet weak var textView: UITextView!
     
-    var deviceID = UIDevice.currentDevice().modelName
-    var versionNumber = UIDevice.currentDevice().systemVersion
+    var deviceID = UIDevice.current.modelName
+    var versionNumber = UIDevice.current.systemVersion
     
-    override func viewDidAppear(animated: Bool){
+    override func viewDidAppear(_ animated: Bool){
         super.viewDidAppear(animated)
         textView.scrollRangeToVisible(NSRange(location:0, length:0))
     }
@@ -39,34 +38,29 @@ class aboutLegal: UIViewController, MFMailComposeViewControllerDelegate {
     }
     
     func showSendMailErrorAlert() {
-        _ = UIAlertController(title: "Did not send message", message: "Your device could not send e-mail.  Please check e-mail configuration and try again.", preferredStyle: .Alert)
+        _ = UIAlertController(title: "Did not send message", message: "Your device could not send e-mail.  Please check e-mail configuration and try again.", preferredStyle: .alert)
     }
     
     // MARK: MFMailComposeViewControllerDelegate Method
     
-    func mailComposeController(controller: MFMailComposeViewController, didFinishWithResult result: MFMailComposeResult, error: NSError?) {
-        controller.dismissViewControllerAnimated(true, completion: nil)
+    func mailComposeController(_ controller: MFMailComposeViewController, didFinishWith result: MFMailComposeResult, error: Error?) {
+        controller.dismiss(animated: true, completion: nil)
     }
     
     @IBAction func sendEmailButtonTapped(sender: AnyObject) {
         let mailComposeViewController = configuredMailComposeViewController()
         if MFMailComposeViewController.canSendMail() {
-            self.presentViewController(mailComposeViewController, animated: true, completion: nil)
+            self.present(mailComposeViewController, animated: true, completion: nil)
         } else {
             self.showSendMailErrorAlert()
         }
     }
     
     @IBAction func dismissLegal(sender: AnyObject) {
-        
-        dismissViewControllerAnimated(true, completion: nil)
-        
+        dismiss(animated: true, completion: nil)
     }
     
-    
     @IBAction func developerSite(sender: AnyObject) {
-        
-        UIApplication.sharedApplication().openURL(NSURL(string:"http://hmalc.com/")!)
-        
+        UIApplication.shared.openURL(URL(string:"http://hmalc.com/")!)
     }
 }

@@ -13,66 +13,66 @@ class Pokemon {
     
     // MARK: Variables
     
-    private var _name: String!
-    private var _pokedexId: Int!
+    fileprivate var _name: String!
+    fileprivate var _pokedexId: Int!
     
-    private var _description: String!
-    private var _gameName: String!
-    private var _gameIdNo: Int!
+    fileprivate var _description: String!
+    fileprivate var _gameName: String!
+    fileprivate var _gameIdNo: Int!
     
-    private var _type1: String!
-    private var _type2: String!
+    fileprivate var _type1: String!
+    fileprivate var _type2: String!
     
-    private var _hp: String!
-    private var _defense: String!
-    private var _attack: String!
-    private var _specialAttack: String!
-    private var _specialDefense: String!
-    private var _speed: String!
-    private var _baseStats: String!
+    fileprivate var _hp: String!
+    fileprivate var _defense: String!
+    fileprivate var _attack: String!
+    fileprivate var _specialAttack: String!
+    fileprivate var _specialDefense: String!
+    fileprivate var _speed: String!
+    fileprivate var _baseStats: String!
     
-    private var _height: String!
-    private var _weight: String!
+    fileprivate var _height: String!
+    fileprivate var _weight: String!
     
-    private var _generationId: String!
+    fileprivate var _generationId: String!
 
-    private var _nextEvolutionText: String!
-    private var _nextEvolutionId: String!
-    private var _nextEvolutionLevel: String!
+    fileprivate var _nextEvolutionText: String!
+    fileprivate var _nextEvolutionId: String!
+    fileprivate var _nextEvolutionLevel: String!
     
-    private var _previousEvolutionId: String!
-    private var _previousEvolutionLevel: String!
+    fileprivate var _previousEvolutionId: String!
+    fileprivate var _previousEvolutionLevel: String!
     
-    private var _firstGenEvolution: String!
-    private var _thirdGenEvolution: String!
+    fileprivate var _firstGenEvolution: String!
+    fileprivate var _thirdGenEvolution: String!
     
-    private var _evolvedFromTrigger: String!
-    private var _evolvedFromTriggerItem: String!
-    private var _evolvesToTrigger: String!
-    private var _evolvesToTriggerItem: String!
+    fileprivate var _evolvedFromTrigger: String!
+    fileprivate var _evolvedFromTriggerItem: String!
+    fileprivate var _evolvesToTrigger: String!
+    fileprivate var _evolvesToTriggerItem: String!
     
-    private var _eventualTrigger: String!
-    private var _eventualTriggerItem: String!
-    private var _originalTrigger: String!
-    private var _originalTriggerItem: String!
+    fileprivate var _eventualTrigger: String!
+    fileprivate var _eventualTriggerItem: String!
+    fileprivate var _originalTrigger: String!
+    fileprivate var _originalTriggerItem: String!
     
-    private var _numberForms: String!
-    private var _isMega: String!
+    fileprivate var _numberForms: String!
+    fileprivate var _isMega: String!
     
-    private var _firstAbility: String!
-    private var _firstAbilityDesc: String!
-    private var _secondAbility: String!
-    private var _secondAbilityDesc: String!
-    private var _hiddenAbility: String!
-    private var _hiddenAbilityDesc: String!
+    fileprivate var _firstAbility: String!
+    fileprivate var _firstAbilityDesc: String!
+    fileprivate var _secondAbility: String!
+    fileprivate var _secondAbilityDesc: String!
+    fileprivate var _hiddenAbility: String!
+    fileprivate var _hiddenAbilityDesc: String!
     
-    private var _pokemonUrl: String!
+    fileprivate var _pokemonUrl: String!
     
-    private var _moveList: [String]!
-    private var _levelList: [Int]!
-    private var _typeList: [String]!
-    private var _powerList: [String]!
-    private var _accuracyList: [String]!
+    fileprivate var _moveList: [String]!
+    fileprivate var _levelList: [Int]!
+    fileprivate var _typeList: [String]!
+    fileprivate var _powerList: [String]!
+    fileprivate var _accuracyList: [String]!
     
     //MARK: Getters
     
@@ -439,7 +439,7 @@ class Pokemon {
     
     func parsePokeStatsCSV() {
         
-        let path = NSBundle.mainBundle().pathForResource("pokemonId\(pokedexId)", ofType: "csv")!
+        let path = Bundle.main.path(forResource: "pokemonId\(pokedexId)", ofType: "csv")!
         
         do {
             let csv = try CSV(contentsOfURL: path)
@@ -614,9 +614,9 @@ class Pokemon {
     
     // Get names of forms
     
-    func pokemonFormNames(formIndex: Int) -> String {
+    func pokemonFormNames(_ formIndex: Int) -> String {
             
-        let path = NSBundle.mainBundle().pathForResource("newformpokeId\(pokedexId)", ofType: "csv")!
+        let path = Bundle.main.path(forResource: "newformpokeId\(pokedexId)", ofType: "csv")!
         
             do {
                 let csv = try CSV(contentsOfURL: path)
@@ -641,9 +641,9 @@ class Pokemon {
     // Get Stats of Forms
     
     
-    func parsePokeFormStatsCSV(formIndex: Int) {
+    func parsePokeFormStatsCSV(_ formIndex: Int) {
         
-        let path = NSBundle.mainBundle().pathForResource("newformpokeId\(pokedexId)", ofType: "csv")!
+        let path = Bundle.main.path(forResource: "newformpokeId\(pokedexId)", ofType: "csv")!
         
         do {
             let csv = try CSV(contentsOfURL: path)
@@ -743,7 +743,7 @@ class Pokemon {
     
     // MARK: Parse Moves
     
-    func parsePokeMovesCSV(selectedVersionLabel: Int) {
+    func parsePokeMovesCSV(_ selectedVersionLabel: Int) {
         
         var moveListBuild: [String] = []
         var levelListBuild: [Int] = []
@@ -751,7 +751,7 @@ class Pokemon {
         var powerListBuild: [String] = []
         var accuracyListBuild: [String] = []
         
-        let path = NSBundle.mainBundle().pathForResource("pokeMoveId\(pokedexId)", ofType: "csv")!
+        let path = Bundle.main.path(forResource: "pokeMoveId\(pokedexId)", ofType: "csv")!
         
         do {
             let csv = try CSV(contentsOfURL: path)
@@ -787,9 +787,9 @@ class Pokemon {
     
     
     
-    func parsePokedexEntryCSV(selectedVersionLabel: Int) {
+    func parsePokedexEntryCSV(_ selectedVersionLabel: Int) {
         
-        let path = NSBundle.mainBundle().pathForResource("pokemonDescId\(pokedexId)", ofType: "csv")!
+        let path = Bundle.main.path(forResource: "pokemonDescId\(pokedexId)", ofType: "csv")!
         
         var entryExists: Bool = false
         
