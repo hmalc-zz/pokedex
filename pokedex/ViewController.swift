@@ -7,26 +7,6 @@
 //
 
 import UIKit
-fileprivate func < <T : Comparable>(lhs: T?, rhs: T?) -> Bool {
-  switch (lhs, rhs) {
-  case let (l?, r?):
-    return l < r
-  case (nil, _?):
-    return true
-  default:
-    return false
-  }
-}
-
-fileprivate func > <T : Comparable>(lhs: T?, rhs: T?) -> Bool {
-  switch (lhs, rhs) {
-  case let (l?, r?):
-    return l > r
-  default:
-    return rhs < lhs
-  }
-}
-
 
 class ViewController: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout, UISearchBarDelegate {
     
@@ -219,31 +199,31 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
             pokemon.sort (by: {($0.name) < ($1.name)})
         }
         if statId == 2 {
-            pokemon.sort (by: { Float($0.height) < Float($1.height)})
+            pokemon.sort (by: { ($0.height) < ($1.height)})
         }
         if statId == 3 {
-            pokemon.sort (by: { Float($0.weight) < Float($1.weight)})
+            pokemon.sort (by: { ($0.weight) < ($1.weight)})
         }
         if statId == 4 {
-            pokemon.sort (by: { Float($0.hp) < Float($1.hp)})
+            pokemon.sort (by: { ($0.hp) < ($1.hp)})
         }
         if statId == 5 {
-            pokemon.sort (by: { Float($0.attack) < Float($1.attack)})
+            pokemon.sort (by: { ($0.attack) < ($1.attack)})
         }
         if statId == 6 {
-            pokemon.sort (by: { Float($0.defense) < Float($1.defense)})
+            pokemon.sort (by: { ($0.defense) < ($1.defense)})
         }
         if statId == 7 {
-            pokemon.sort (by: { Float($0.specialAttack) < Float($1.specialAttack)})
+            pokemon.sort (by: { ($0.specialAttack) < ($1.specialAttack)})
         }
         if statId == 8 {
-            pokemon.sort (by: { Float($0.specialDefense) < Float($1.specialDefense)})
+            pokemon.sort (by: { ($0.specialDefense) < ($1.specialDefense)})
         }
         if statId == 9 {
-            pokemon.sort (by: { Float($0.speed) < Float($1.speed)})
+            pokemon.sort (by: { ($0.speed) < ($1.speed)})
         }
         if statId == 10 {
-            pokemon.sort (by: { Float($0.baseStats) < Float($1.baseStats)})
+            pokemon.sort (by: { ($0.baseStats) < ($1.baseStats)})
         }
 
         collection.reloadData()
@@ -258,31 +238,31 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
             pokemon.sort (by: {($0.name) > ($1.name)})
         }
         if statId == 2 {
-            pokemon.sort (by: { Float($0.height) > Float($1.height)})
+            pokemon.sort (by: { ($0.height) > ($1.height)})
         }
         if statId == 3 {
-            pokemon.sort (by: { Float($0.weight) > Float($1.weight)})
+            pokemon.sort (by: { ($0.weight) > ($1.weight)})
         }
         if statId == 4 {
-            pokemon.sort (by: { Float($0.hp) > Float($1.hp)})
+            pokemon.sort (by: { ($0.hp) > ($1.hp)})
         }
         if statId == 5 {
-            pokemon.sort (by: { Float($0.attack) > Float($1.attack)})
+            pokemon.sort (by: { ($0.attack) > ($1.attack)})
         }
         if statId == 6 {
-            pokemon.sort (by: { Float($0.defense) > Float($1.defense)})
+            pokemon.sort (by: { ($0.defense) > ($1.defense)})
         }
         if statId == 7 {
-            pokemon.sort (by: { Float($0.specialAttack) > Float($1.specialAttack)})
+            pokemon.sort (by: { ($0.specialAttack) > ($1.specialAttack)})
         }
         if statId == 8 {
-            pokemon.sort (by: { Float($0.specialDefense) > Float($1.specialDefense)})
+            pokemon.sort (by: { ($0.specialDefense) > ($1.specialDefense)})
         }
         if statId == 9 {
-            pokemon.sort (by: { Float($0.speed) > Float($1.speed)})
+            pokemon.sort (by: { ($0.speed) > ($1.speed)})
         }
         if statId == 10 {
-            pokemon.sort (by: { Float($0.baseStats) > Float($1.baseStats)})
+            pokemon.sort (by: { ($0.baseStats) > ($1.baseStats)})
         }
         
         collection.reloadData()
@@ -297,31 +277,31 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
             filteredPokemon.sort (by: {($0.name) < ($1.name)})
         }
         if statId == 2 {
-            filteredPokemon.sort (by: { Float($0.height) < Float($1.height)})
+            filteredPokemon.sort (by: { ($0.height) < ($1.height)})
         }
         if statId == 3 {
-            filteredPokemon.sort (by: { Float($0.weight) < Float($1.weight)})
+            filteredPokemon.sort (by: { ($0.weight) < ($1.weight)})
         }
         if statId == 4 {
-            filteredPokemon.sort (by: { Float($0.hp) < Float($1.hp)})
+            filteredPokemon.sort (by: { ($0.hp) < ($1.hp)})
         }
         if statId == 5 {
-            filteredPokemon.sort (by: { Float($0.attack) < Float($1.attack)})
+            filteredPokemon.sort (by: { ($0.attack) < ($1.attack)})
         }
         if statId == 6 {
-            filteredPokemon.sort (by: { Float($0.defense) < Float($1.defense)})
+            filteredPokemon.sort (by: { ($0.defense) < ($1.defense)})
         }
         if statId == 7 {
-            filteredPokemon.sort (by: { Float($0.specialAttack) < Float($1.specialAttack)})
+            filteredPokemon.sort (by: { ($0.specialAttack) < ($1.specialAttack)})
         }
         if statId == 8 {
-            filteredPokemon.sort (by: { Float($0.specialDefense) < Float($1.specialDefense)})
+            filteredPokemon.sort (by: { ($0.specialDefense) < ($1.specialDefense)})
         }
         if statId == 9 {
-            filteredPokemon.sort (by: { Float($0.speed) < Float($1.speed)})
+            filteredPokemon.sort (by: { ($0.speed) < ($1.speed)})
         }
         if statId == 10 {
-            filteredPokemon.sort (by: { Float($0.baseStats) < Float($1.baseStats)})
+            filteredPokemon.sort (by: { ($0.baseStats) < ($1.baseStats)})
         }
         
         collection.reloadData()
@@ -336,31 +316,31 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
             filteredPokemon.sort (by: {($0.name) > ($1.name)})
         }
         if statId == 2 {
-            filteredPokemon.sort (by: { Float($0.height) > Float($1.height)})
+            filteredPokemon.sort (by: { ($0.height) > ($1.height)})
         }
         if statId == 3 {
-            filteredPokemon.sort (by: { Float($0.weight) > Float($1.weight)})
+            filteredPokemon.sort (by: { ($0.weight) > ($1.weight)})
         }
         if statId == 4 {
-            filteredPokemon.sort (by: { Float($0.hp) > Float($1.hp)})
+            filteredPokemon.sort (by: { ($0.hp) > ($1.hp)})
         }
         if statId == 5 {
-            filteredPokemon.sort (by: { Float($0.attack) > Float($1.attack)})
+            filteredPokemon.sort (by: { ($0.attack) > ($1.attack)})
         }
         if statId == 6 {
-            filteredPokemon.sort (by: { Float($0.defense) > Float($1.defense)})
+            filteredPokemon.sort (by: { ($0.defense) > ($1.defense)})
         }
         if statId == 7 {
-            filteredPokemon.sort (by: { Float($0.specialAttack) > Float($1.specialAttack)})
+            filteredPokemon.sort (by: { ($0.specialAttack) > ($1.specialAttack)})
         }
         if statId == 8 {
-            filteredPokemon.sort (by: { Float($0.specialDefense) > Float($1.specialDefense)})
+            filteredPokemon.sort (by: { ($0.specialDefense) > ($1.specialDefense)})
         }
         if statId == 9 {
-            filteredPokemon.sort (by: { Float($0.speed) > Float($1.speed)})
+            filteredPokemon.sort (by: { ($0.speed) > ($1.speed)})
         }
         if statId == 10 {
-            filteredPokemon.sort (by: { Float($0.baseStats) > Float($1.baseStats)})
+            filteredPokemon.sort (by: { ($0.baseStats) > ($1.baseStats)})
         }
         
         collection.reloadData()
@@ -421,15 +401,15 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         btn.frame = CGRect(x: 0,y: 0,width: dim,height: dim)
         btn.layer.cornerRadius = dim/2
         btn.layer.backgroundColor = UIColor(red: 0.9333, green: 0.0039, blue: 0.3176, alpha: 1.0).cgColor
-        btn.setTitle(label, for: UIControlState())
+        btn.setTitle(label, for: UIControl.State())
         btn.tag = tag
         btn.titleLabel!.font = UIFont(name: "Gill Sans", size: 12)
-        btn.addTarget(self, action: #selector(ViewController.buttonAction(_:)), for: UIControlEvents.touchUpInside)
+        btn.addTarget(self, action: #selector(ViewController.buttonAction(_:)), for: UIControl.Event.touchUpInside)
 
         return btn
     }
     
-    func buttonAction(_ sender:UIButton!) {
+    @objc func buttonAction(_ sender:UIButton!) {
         statId = sender.tag
         labelSetter(statId)
         appropriateSort()
@@ -442,7 +422,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
             sortBtnView.isHidden = false
             horizontalScrollView.contentSize = CGSize(width: 50 * CGFloat(statsListAbbrev.count) + 40, height: 60)
             
-            UIView.animate(withDuration: 0.5, delay: 0.0, usingSpringWithDamping: 0.6, initialSpringVelocity: 0.5,  options: UIViewAnimationOptions(), animations: {
+            UIView.animate(withDuration: 0.5, delay: 0.0, usingSpringWithDamping: 0.6, initialSpringVelocity: 0.5,  options: UIView.AnimationOptions(), animations: {
             self.scrollBtnContainerHeight.constant = 60
                 self.containerSpacing.constant = 0
                 self.view.layoutIfNeeded()
@@ -457,7 +437,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
                 sortBtn.frame = CGRect(x: -44, y: 8, width: 44, height: 44)
                 self.horizontalScrollView.addSubview(sortBtn)
         
-                UIView.animate(withDuration: 0.8, delay: 0.35, usingSpringWithDamping: 0.6, initialSpringVelocity: 0.5,  options: UIViewAnimationOptions(), animations: {
+                    UIView.animate(withDuration: 0.8, delay: 0.35, usingSpringWithDamping: 0.6, initialSpringVelocity: 0.5,  options: UIView.AnimationOptions(), animations: {
                 sortBtn.frame = CGRect(x: 20 + CGFloat(50*i), y: 8, width: 44, height: 44)
                     }, completion: {finished in
                 self.sortAnimationRun = true
@@ -466,7 +446,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
             }
         
         } else {
-            UIView.animate(withDuration: 0.5, delay: 0.0, usingSpringWithDamping: 0.6, initialSpringVelocity: 0.5,  options: UIViewAnimationOptions(), animations: {
+            UIView.animate(withDuration: 0.5, delay: 0.0, usingSpringWithDamping: 0.6, initialSpringVelocity: 0.5,  options: UIView.AnimationOptions(), animations: {
                 self.scrollBtnContainerHeight.constant = 0
                 self.containerSpacing.constant = 20
                 self.view.layoutIfNeeded()

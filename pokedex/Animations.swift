@@ -14,10 +14,10 @@ import UIKit
 extension UIView {
     func fadeTransition(_ duration:CFTimeInterval) {
         let animation:CATransition = CATransition()
-        animation.timingFunction = CAMediaTimingFunction(name: kCAMediaTimingFunctionEaseInEaseOut)
-        animation.type = kCATransitionFromLeft
+        animation.timingFunction = CAMediaTimingFunction(name: CAMediaTimingFunctionName.easeInEaseOut)
+        animation.type = .fade
         animation.duration = duration
-        self.layer.add(animation, forKey: kCATransitionFromLeft)
+        self.layer.add(animation, forKey: CATransitionSubtype.fromLeft.rawValue)
     }
 }
 

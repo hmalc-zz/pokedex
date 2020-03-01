@@ -174,13 +174,13 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             isPhone = true
         }
     
-        self.collectionView.scrollToItem(at: IndexPath(item: pokemon.pokedexId-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: isPhone)
+        self.collectionView.scrollToItem(at: IndexPath(item: pokemon.pokedexId-1, section: 0), at: UICollectionView.ScrollPosition.centeredHorizontally, animated: isPhone)
 
         UIView.animate(withDuration: 0.5,
             delay: 0.0,
             usingSpringWithDamping: 0.6,
             initialSpringVelocity: 0.5,
-            options: UIViewAnimationOptions(),
+            options: UIView.AnimationOptions(),
             animations: {
                 self.setupGraphsForNewPokemon()
             },
@@ -205,7 +205,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             delay: 0.0,
             usingSpringWithDamping: 0.6,
             initialSpringVelocity: 0.5,
-            options: UIViewAnimationOptions(),
+            options: UIView.AnimationOptions(),
             animations: {
                 self.setupGraphsForNewPokemon()
             },
@@ -217,7 +217,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     override func viewWillAppear(_ animated: Bool) {
         newPokemonSetup()
         initCries(0)
-        self.collectionView.scrollToItem(at: IndexPath(item: pokemon.pokedexId-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
+        self.collectionView.scrollToItem(at: IndexPath(item: pokemon.pokedexId-1, section: 0), at: UICollectionView.ScrollPosition.centeredHorizontally, animated: false)
          }
     
     // MARK: View Did Load
@@ -273,7 +273,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             delay: 0.0,
             usingSpringWithDamping: 0.6,
             initialSpringVelocity: 0.5,
-            options: UIViewAnimationOptions(),
+            options: UIView.AnimationOptions(),
             animations: {
                 self.setupGraphsForNewPokemon()
             },
@@ -618,7 +618,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
         }
     }
     
-    func update() {
+    @objc func update() {
         changeDexEntryUp()
     }
     
@@ -839,7 +839,7 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
             delay: 0.0,
             usingSpringWithDamping: 0.6,
             initialSpringVelocity: 0.5,
-            options: UIViewAnimationOptions(),
+            options: UIView.AnimationOptions(),
             animations: {
                 self.setupGraphsForNewPokemon()
             },
@@ -867,31 +867,31 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     @IBAction func scrollToPrevEvo(_ sender: UIButton!) {
         
         if pokemon.firstGenEvolution != "" {
-            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.firstGenEvolution)!-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
+            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.firstGenEvolution)!-1, section: 0), at: UICollectionView.ScrollPosition.centeredHorizontally, animated: false)
         } else if pokemon.thirdGenEvolution != "" {
             revertToOrignalFromMega()
         } else {
-            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.previousEvolutionId)!-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
+            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.previousEvolutionId)!-1, section: 0), at: UICollectionView.ScrollPosition.centeredHorizontally, animated: false)
         }
     }
     
     @IBAction func nextEvo(_ sender: UIButton!) {
         
         if pokemon.thirdGenEvolution != "" {
-            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.thirdGenEvolution)!-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
+            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.thirdGenEvolution)!-1, section: 0), at: UICollectionView.ScrollPosition.centeredHorizontally, animated: false)
         } else if pokemon.firstGenEvolution != "" {
                 revertToOrignalFromMega()
             } else {
-            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.nextEvolutionId)!-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
+            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.nextEvolutionId)!-1, section: 0), at: UICollectionView.ScrollPosition.centeredHorizontally, animated: false)
         }
     }
     
     @IBAction func scrollTo2ndGen(_ sender: AnyObject) {
         
         if pokemon.thirdGenEvolution != "" {
-            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.nextEvolutionId)!-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
+            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.nextEvolutionId)!-1, section: 0), at: UICollectionView.ScrollPosition.centeredHorizontally, animated: false)
         } else if pokemon.firstGenEvolution != "" {
-            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.previousEvolutionId)!-1, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
+            self.collectionView.scrollToItem(at: IndexPath(item: Int(pokemon.previousEvolutionId)!-1, section: 0), at: UICollectionView.ScrollPosition.centeredHorizontally, animated: false)
         } else {
             revertToOrignalFromMega()
         }
@@ -899,14 +899,14 @@ class PokemonDetailVC: UIViewController, UITableViewDelegate, UITableViewDataSou
     
     @IBAction func nextPokemonTouch(_ sender: UIButton) {
         if pokemon.pokedexId != 721 {
-        self.collectionView.scrollToItem(at: IndexPath(item: pokemon.pokedexId, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
+            self.collectionView.scrollToItem(at: IndexPath(item: pokemon.pokedexId, section: 0), at: UICollectionView.ScrollPosition.centeredHorizontally, animated: false)
             sender.alpha = 1.0
         }
     }
     
     @IBAction func prevPokemonTouch(_ sender: UIButton) {
         if pokemon.pokedexId != 1 {
-            self.collectionView.scrollToItem(at: IndexPath(item: pokemon.pokedexId-2, section: 0), at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
+            self.collectionView.scrollToItem(at: IndexPath(item: pokemon.pokedexId-2, section: 0), at: UICollectionView.ScrollPosition.centeredHorizontally, animated: false)
         }
     }
     
